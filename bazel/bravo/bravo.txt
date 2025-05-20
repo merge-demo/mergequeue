@@ -4541,6 +4541,7 @@ bed
 bienness
 biradiated
 bathroot
+banditism
 bater
 bool
 blotters
@@ -14119,7 +14120,6 @@ brachystegia
 bemeaning
 bequeathing
 benzaminic
-banditism
 budged
 brushups
 brachistocephaly
