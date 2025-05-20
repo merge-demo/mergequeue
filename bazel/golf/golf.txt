@@ -6048,6 +6048,7 @@ gairfowl
 grifts
 gnawers
 grane
+granivore
 gnathopodite
 gneissic
 gasifying
@@ -7998,7 +7999,6 @@ ghain
 genteelish
 gesning
 gentlewoman
-granivore
 gasconader
 galen
 grannam
