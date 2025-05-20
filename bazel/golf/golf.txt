@@ -7527,7 +7527,6 @@ gownsmen
 gangism
 grassweed
 gledge
-gemels
 gloomful
 gaumy
 generalizer
@@ -10516,6 +10515,7 @@ gunboats
 gnome
 gigantic
 graveman
+gemels
 gonocytes
 grecale
 genuineness
