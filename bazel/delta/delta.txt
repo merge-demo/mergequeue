@@ -6291,7 +6291,6 @@ diradiation
 dermatopathic
 davoch
 dodecanesian
-dermatophyte
 dehydrators
 decolouring
 dermatoplasm
@@ -10092,6 +10091,7 @@ defecant
 declaration
 dissightly
 dynamically
+dermatophyte
 devisals
 debarkations
 deflate
