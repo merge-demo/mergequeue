@@ -2789,7 +2789,6 @@ fezziwig
 folklore
 faunas
 framing
-fesse
 fedity
 fictionize
 fascis
@@ -8244,6 +8243,7 @@ foresweat
 fabraea
 finickiness
 forge
+fesse
 forgeable
 forgery
 forwaked
