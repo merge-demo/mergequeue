@@ -2807,6 +2807,7 @@ duodecahedral
 dint
 drypoints
 dari
+deflectable
 dogteeth
 decresc
 desalination
@@ -7841,7 +7842,6 @@ dutchify
 doumas
 delthyria
 delates
-deflectable
 dissertationist
 devotionally
 deckhands
