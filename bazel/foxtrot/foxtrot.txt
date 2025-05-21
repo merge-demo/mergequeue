@@ -3604,6 +3604,7 @@ frightful
 foulsome
 filamentary
 filament
+flannelleaves
 flavous
 flagrancy
 flaggelating
@@ -5070,7 +5071,6 @@ forepad
 flatbeds
 flanneling
 fungoidal
-flannelleaves
 forepaw
 ferries
 fungate
