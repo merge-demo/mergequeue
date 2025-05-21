@@ -3813,6 +3813,7 @@ bauhinias
 baul
 barrington
 boschboks
+boreas
 baulked
 brache
 bearbane
@@ -5960,7 +5961,6 @@ batswing
 blitzkrieg
 belast
 berber
-boreas
 belowground
 brandenburgs
 broadpiece
