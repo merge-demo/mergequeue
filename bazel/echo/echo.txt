@@ -10583,7 +10583,6 @@ eucharists
 epimeral
 entrymen
 eucharitidae
-epilachna
 expenses
 expiscator
 energiser
@@ -12223,6 +12222,7 @@ epitrichium
 elachistaceae
 excitant
 epigraph
+epilachna
 enhort
 executioneering
 enneahedrons
