@@ -38,7 +38,6 @@ area
 allseeds
 aurine
 aethogen
-avenery
 apopetalous
 aerometeorograph
 abaciscus
@@ -20846,6 +20845,7 @@ arx
 arzan
 apportions
 amputator
+avenery
 agrological
 amplifiable
 actium
