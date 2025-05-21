@@ -4274,6 +4274,7 @@ epicarides
 ejectment
 exothermic
 electrohorticulture
+electrochemical
 entangle
 exosmoses
 enflowered
@@ -8762,7 +8763,6 @@ erethitic
 epigaeous
 extradicting
 eriophyllous
-electrochemical
 emulsifies
 equitableness
 employee
