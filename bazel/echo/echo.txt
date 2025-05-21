@@ -5840,7 +5840,6 @@ engrainer
 ensepulcher
 engraining
 enwoven
-ephesine
 ekaha
 eulerian
 electrolyzation
@@ -9090,6 +9089,7 @@ euchring
 epiphyll
 entria
 evocable
+ephesine
 emlen
 engulfment
 endocannibalism
