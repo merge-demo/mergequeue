@@ -8651,7 +8651,6 @@ chanced
 categorical
 chanceful
 chancefulness
-chancey
 chanceled
 cardiacea
 chanceless
@@ -28139,6 +28138,7 @@ cento
 circumstance
 craniography
 cranioid
+chancey
 craniol
 craniology
 craniological
