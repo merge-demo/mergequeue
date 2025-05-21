@@ -10069,7 +10069,6 @@ chequebook
 croup
 chequer
 chequered
-chequering
 chequers
 creosoted
 chequerwork
@@ -20794,6 +20793,7 @@ carburan
 civilizedness
 cytode
 complicates
+chequering
 complicative
 complicator
 complicators
