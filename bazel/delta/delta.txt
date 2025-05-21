@@ -1824,7 +1824,6 @@ debeige
 douzepers
 downwarp
 declinograph
-dobbing
 debellator
 darapti
 drugmaker
@@ -5697,6 +5696,7 @@ deadlocked
 distractibility
 dragees
 discommodate
+dobbing
 destroyable
 depilating
 depilatory
