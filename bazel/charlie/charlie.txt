@@ -13604,7 +13604,6 @@ cilicism
 ciliella
 cistern
 ciliform
-climacium
 ciliiferous
 ciliiform
 cylinder
@@ -27579,6 +27578,7 @@ cerargyrite
 covetous
 choffer
 choucroute
+climacium
 covetously
 covibrate
 covibration
