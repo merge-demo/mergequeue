@@ -3218,7 +3218,6 @@ gothite
 gunrack
 geriatrician
 geriatrist
-gerip
 goxes
 gynecomaniac
 german
@@ -5974,6 +5973,7 @@ granuloadipose
 giftedness
 globs
 glutose
+gerip
 gainspeaking
 gluttonish
 grainsman
