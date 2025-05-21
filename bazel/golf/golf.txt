@@ -140,6 +140,7 @@ gs
 gritless
 gallicole
 guy
+greengrocery
 gratelike
 garrot
 geryon
@@ -6683,7 +6684,6 @@ glimed
 guid
 ginglyni
 gonid
-greengrocery
 gabeler
 gluttonies
 geer
