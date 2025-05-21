@@ -6672,7 +6672,6 @@ cebidae
 chlorophyllan
 contributors
 chessman
-chirruped
 cebil
 ceboids
 chondritis
@@ -9296,6 +9295,7 @@ cheths
 clypeolate
 chasmogamous
 chasmophyte
+chirruped
 constipating
 chass
 chasse
