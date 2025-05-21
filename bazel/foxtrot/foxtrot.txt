@@ -1306,7 +1306,6 @@ flatdom
 faradism
 fastening
 frocked
-flyspeck
 futteret
 fama
 forevouch
@@ -2570,6 +2569,7 @@ fatihah
 fuzzily
 faldworth
 foremeant
+flyspeck
 footsore
 ferrateen
 feudal
