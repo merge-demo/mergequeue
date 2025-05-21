@@ -1736,6 +1736,7 @@ eyeground
 epornitically
 endangium
 exsanguination
+ectosphenoid
 enginery
 engrammatic
 exasper
@@ -3519,7 +3520,6 @@ emboli
 ergastulum
 epipodialia
 embolimeal
-ectosphenoid
 ecumenism
 emuscation
 estriols
