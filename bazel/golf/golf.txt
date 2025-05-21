@@ -5073,7 +5073,6 @@ grenadine
 grice
 goldeneye
 greesagh
-glathsheim
 gte
 gabrielrache
 glathsheimr
@@ -6484,6 +6483,7 @@ galvanocautery
 golly
 glucolipine
 golo
+glathsheim
 gorinesses
 grazing
 gymnasia
