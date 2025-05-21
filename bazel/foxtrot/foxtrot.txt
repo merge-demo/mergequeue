@@ -8554,7 +8554,6 @@ flinchers
 famulus
 fred
 frenchwise
-francium
 femur
 fascisticize
 foretasted
@@ -10368,6 +10367,7 @@ fragrances
 fortune
 foreboard
 feldspathization
+francium
 fletcherite
 fowage
 formatting
