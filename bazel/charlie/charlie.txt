@@ -4282,7 +4282,6 @@ covenant
 characteristic
 coauthored
 carey
-careys
 cashel
 cursillo
 careless
@@ -15045,6 +15044,7 @@ cloud
 cytotropic
 cytotropism
 cytovirin
+careys
 cinquain
 cycler
 cytozzoa
