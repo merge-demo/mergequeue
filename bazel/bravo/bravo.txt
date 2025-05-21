@@ -3708,7 +3708,6 @@ battier
 brightest
 batting
 battings
-bailiery
 battledores
 baldly
 baryes
@@ -7362,6 +7361,7 @@ becumber
 baklawa
 brasilia
 beleft
+bailiery
 balusters
 blemish
 bewig
