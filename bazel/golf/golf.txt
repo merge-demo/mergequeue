@@ -3032,6 +3032,7 @@ germanize
 ganglion
 geophagia
 glowworms
+gucki
 geocline
 gipping
 geophagism
@@ -6691,7 +6692,6 @@ graphitic
 gigs
 gastronephritis
 gonidic
-gucki
 genes
 gambled
 gauges
