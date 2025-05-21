@@ -3467,7 +3467,6 @@ convoking
 caprizant
 caldron
 caproin
-capromys
 camptodrome
 capron
 causeuse
@@ -7828,6 +7827,7 @@ casuarinales
 chemiluminescent
 coinhering
 charkhas
+capromys
 ceroplasty
 ceroplastic
 ceroplastics
