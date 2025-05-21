@@ -8767,6 +8767,7 @@ bruisers
 bosc
 blightbird
 beagling
+behests
 barycentre
 birchen
 binal
@@ -12943,7 +12944,6 @@ bara
 bouquiniste
 brambled
 bladderweed
-behests
 berliners
 blameless
 breviloquence
