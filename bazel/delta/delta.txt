@@ -9111,7 +9111,6 @@ dorsals
 dictyodromous
 deafest
 dictyogen
-dictyograptus
 dictyoid
 diction
 disparage
@@ -14910,6 +14909,7 @@ drafters
 documentarist
 documentational
 dotations
+dictyograptus
 documentations
 deoxidator
 documentize
