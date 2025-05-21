@@ -1777,7 +1777,6 @@ frostweed
 fasciolariidae
 flourless
 foodservices
-feasibleness
 fuselage
 faviform
 feasibly
@@ -10057,6 +10056,7 @@ foreleader
 forearms
 friponerie
 forewarning
+feasibleness
 fantee
 ferriferous
 fireblende
