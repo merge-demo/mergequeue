@@ -3213,7 +3213,6 @@ basigynium
 basyl
 bitume
 basilarchia
-basilard
 basilary
 basilateral
 balak
@@ -10592,6 +10591,7 @@ buduma
 blattid
 bulwand
 brockish
+basilard
 bouk
 bajada
 bobache
