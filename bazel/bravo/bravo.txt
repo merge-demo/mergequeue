@@ -3275,7 +3275,6 @@ babbler
 bloodiest
 basions
 backstabbed
-bioplasm
 bronzes
 backpacking
 balche
@@ -3647,6 +3646,7 @@ betacism
 bakehouses
 brazenfacedly
 botchery
+bioplasm
 batoon
 biconjugate
 backsettler
