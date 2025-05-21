@@ -6090,7 +6090,6 @@ aglycon
 aeonian
 asphodels
 aufklarung
-aglycones
 acrindolin
 aglycons
 amphizoidae
@@ -9600,6 +9599,7 @@ aquariums
 anthocerotaceae
 alkalis
 ambier
+aglycones
 araneae
 agendaless
 affairs
