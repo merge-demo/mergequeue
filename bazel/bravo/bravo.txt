@@ -445,7 +445,6 @@ backscattered
 backscattering
 bandobust
 bioscopies
-betrap
 backscraper
 backset
 basename
@@ -9966,6 +9965,7 @@ biases
 bivalence
 blethering
 byelaw
+betrap
 bergerette
 bultong
 bryum
