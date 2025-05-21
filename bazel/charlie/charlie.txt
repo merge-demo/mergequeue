@@ -2830,6 +2830,7 @@ canoeload
 canoeman
 canoes
 cardiogenesis
+cryptoanalyst
 cukes
 canoewood
 coincident
@@ -29241,7 +29242,6 @@ countercharge
 cynogenealogist
 cryophilic
 cryptoanalysis
-cryptoanalyst
 cryptoanalytically
 cryptobranch
 cryptobranchia
