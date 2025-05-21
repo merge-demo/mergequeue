@@ -6935,6 +6935,7 @@ endangered
 effluents
 entomostraca
 electrum
+endamageable
 epispore
 ectocardia
 endometria
@@ -8997,7 +8998,6 @@ ericales
 exteroceptive
 erythematic
 ericas
-endamageable
 ericetal
 exothecium
 extrabuccal
