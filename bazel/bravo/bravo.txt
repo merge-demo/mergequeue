@@ -3503,7 +3503,6 @@ batcher
 bargemen
 bogging
 bateau
-blastomycetous
 bateleur
 barbered
 bovista
@@ -15223,6 +15222,7 @@ beveler
 bridelope
 bedclothes
 bridemaid
+blastomycetous
 bahur
 brides
 butomaceae
