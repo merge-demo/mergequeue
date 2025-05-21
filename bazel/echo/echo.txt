@@ -12305,7 +12305,6 @@ exemptions
 ephemerist
 excerp
 exemptive
-excoriate
 exendospermic
 exendospermous
 exenterate
@@ -12642,6 +12641,7 @@ epigenetically
 erasmian
 encirclement
 eyeletted
+excoriate
 eyestone
 exoculate
 expostulates
