@@ -2314,7 +2314,6 @@ acidurias
 arteriole
 aulacodus
 acierage
-atmospherical
 acierate
 androcles
 acierated
@@ -6821,6 +6820,7 @@ airlines
 airling
 airlock
 airmailing
+atmospherical
 annoyingness
 abietite
 airmark
