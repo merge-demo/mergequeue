@@ -2438,7 +2438,6 @@ electroscopes
 elutriate
 erythrocytolysin
 elean
-electroforming
 emerges
 ethanol
 electrogalvanization
@@ -8861,6 +8860,7 @@ entempest
 erasure
 entomostracous
 erat
+electroforming
 ethoxy
 ethnobotanist
 effleurage
