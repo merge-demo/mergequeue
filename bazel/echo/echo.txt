@@ -3325,7 +3325,6 @@ embays
 ethylenediamine
 emballonuridae
 eulachons
-essentialities
 equus
 esquirearchy
 emoted
@@ -13961,6 +13960,7 @@ extinguishable
 electropoion
 extraparochial
 equicurve
+essentialities
 extrapatriarchal
 endosteal
 embezzles
