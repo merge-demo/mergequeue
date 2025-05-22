@@ -3885,7 +3885,6 @@ dissceptred
 denegate
 decorationist
 deionizer
-deionizing
 dissipatedness
 deipnophobia
 disembarkations
@@ -9618,6 +9617,7 @@ dignify
 disgruntled
 dignifiedly
 decoying
+deionizing
 dignifiedness
 draying
 delatinization
