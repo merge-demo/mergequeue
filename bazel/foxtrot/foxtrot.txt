@@ -4736,7 +4736,6 @@ fixing
 flannelleaf
 fixt
 furca
-floweret
 fidded
 fummel
 furtherer
@@ -9830,6 +9829,7 @@ fatals
 farrows
 feldspathic
 fodge
+floweret
 fuds
 frettation
 fretten
