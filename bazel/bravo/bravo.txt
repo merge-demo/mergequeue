@@ -6338,7 +6338,6 @@ benzalacetone
 benzalacetophenone
 bonum
 benzalazine
-branchery
 benzalcohol
 bakupari
 benzaldehyde
@@ -12967,6 +12966,7 @@ banausic
 bipennated
 bombycillidae
 bandersnatch
+branchery
 biplicity
 backcountry
 browntop
