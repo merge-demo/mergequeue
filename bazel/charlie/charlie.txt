@@ -17199,7 +17199,6 @@ copiable
 coadjudicator
 coadjutant
 campement
-coadjute
 calculagraph
 covotary
 commonweal
@@ -22785,6 +22784,7 @@ contramarque
 consecrates
 citrals
 ccm
+coadjute
 coticular
 clovers
 cabers
