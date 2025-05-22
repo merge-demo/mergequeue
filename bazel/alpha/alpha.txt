@@ -3743,7 +3743,6 @@ airframes
 appaume
 adiaphoron
 anisopterous
-adiapneustia
 adiated
 adiathermal
 adiathermancy
@@ -3807,6 +3806,7 @@ adiposity
 acrook
 abdominoscope
 adiposogenital
+adiapneustia
 aslope
 adiposuria
 adipous
