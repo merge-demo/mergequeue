@@ -1771,6 +1771,7 @@ adularia
 arabis
 aromata
 acecaffine
+acleistocardia
 anemia
 apochromatic
 acedy
@@ -10112,7 +10113,6 @@ anthroposophical
 ambrain
 ambreate
 antehuman
-acleistocardia
 acidimetry
 apolog
 ambreic
