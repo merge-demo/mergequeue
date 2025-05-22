@@ -6969,7 +6969,6 @@ baradari
 brahmahood
 beshow
 birdeen
-befog
 batching
 beshrewing
 brubru
@@ -11600,6 +11599,7 @@ blusterers
 blustering
 basilicalike
 blusterously
+befog
 behindsight
 bounced
 bathers
