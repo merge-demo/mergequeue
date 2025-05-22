@@ -4408,6 +4408,7 @@ extispices
 enthymeme
 e
 espacement
+ejaculation
 encaptive
 entomion
 exhilarative
@@ -11492,7 +11493,6 @@ ethicophysical
 eonian
 enolized
 ekistics
-ejaculation
 eventuates
 epizooties
 evidential
