@@ -6685,6 +6685,7 @@ gauges
 googols
 gyrostats
 glomerate
+graphotypic
 geyseral
 gurdfish
 gruine
@@ -8958,7 +8959,6 @@ gantlines
 grievances
 galvanoplastics
 gillnet
-graphotypic
 grievous
 gearbox
 giher
