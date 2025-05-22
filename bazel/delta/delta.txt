@@ -7531,6 +7531,7 @@ declaimed
 dominators
 deuterocanonical
 deuterocasease
+displayer
 dakhma
 disrobers
 drivels
@@ -10765,7 +10766,6 @@ digitalize
 dippier
 dipping
 dippings
-displayer
 draff
 dipppier
 diprimary
