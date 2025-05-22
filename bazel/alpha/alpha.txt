@@ -3727,6 +3727,7 @@ adiagnostic
 adiamorphic
 adiantiform
 adeniform
+anterograde
 adiaphon
 autophagia
 antimechanist
@@ -14193,7 +14194,6 @@ ascriptitii
 allomorph
 agglutinant
 aeroscopic
-anterograde
 arent
 arbuscula
 anteroinferior
