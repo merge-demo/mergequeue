@@ -17431,6 +17431,7 @@ blackouts
 bunkermen
 bunkers
 beard
+burler
 balsawood
 bryozoan
 bewearying
@@ -17702,7 +17703,6 @@ blueings
 burlaps
 boomlets
 burleycue
-burler
 blisterous
 burlesquer
 boviculture
