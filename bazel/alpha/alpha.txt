@@ -6734,7 +6734,6 @@ arresting
 autositic
 airbusses
 aircheck
-aircraft
 aircraftman
 atenist
 aquas
@@ -9327,6 +9326,7 @@ aerogram
 alpenstocks
 alpestral
 alpestrine
+aircraft
 alphabetary
 alphabetarian
 acclimatizable
