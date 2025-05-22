@@ -10179,6 +10179,7 @@ chessdom
 chesser
 cabinda
 chesses
+convexedness
 chessylite
 chessist
 chirimen
@@ -24138,7 +24139,6 @@ claybrained
 coenzymes
 conveth
 convex
-convexedness
 chippage
 cryptoanalytic
 cecropia
