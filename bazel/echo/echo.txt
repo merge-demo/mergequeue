@@ -3685,7 +3685,6 @@ embryotome
 exhalatory
 exculpated
 exsculp
-exercitorial
 embryotomies
 echelette
 exhaustivity
@@ -3697,6 +3696,7 @@ euploidy
 embrittling
 embryulcia
 embryulculci
+exercitorial
 extravagantness
 enfranchise
 erodability
