@@ -7146,7 +7146,6 @@ explainability
 excerpting
 envelope
 exurbanites
-ellipsometry
 envelopments
 envelops
 euphorbiaceous
@@ -7735,6 +7734,7 @@ eustele
 enhappy
 embrued
 effumability
+ellipsometry
 epideictic
 endomesoderm
 endotheliomata
