@@ -1087,6 +1087,7 @@ amnia
 abuna
 askew
 abundance
+accurtation
 apparelled
 abundancy
 apyrase
@@ -15229,7 +15230,6 @@ allophylian
 arthrolite
 adapa
 anthropomorphization
-accurtation
 antifreeze
 antifreezing
 antifriction
