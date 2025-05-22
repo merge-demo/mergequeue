@@ -6520,6 +6520,7 @@ factionist
 fluxes
 floody
 flustrated
+footages
 fotui
 filches
 folacins
@@ -10352,7 +10353,6 @@ frontages
 fidding
 formicaries
 fibreware
-footages
 false
 fluctuated
 forswore
