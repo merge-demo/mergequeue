@@ -7606,7 +7606,6 @@ grader
 grouseward
 glovey
 gradient
-galey
 gobblers
 greybeard
 goatishly
@@ -10760,6 +10759,7 @@ guiders
 gonfalonierate
 ganoin
 gloam
+galey
 graminin
 gorhen
 gimbals
