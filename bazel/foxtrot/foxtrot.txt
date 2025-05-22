@@ -1180,7 +1180,6 @@ flippers
 fingerlike
 filberts
 forestaller
-fenite
 fogeater
 forefends
 flockling
@@ -10162,6 +10161,7 @@ felled
 forgives
 filisters
 fliting
+fenite
 fissile
 frontlet
 fitter
