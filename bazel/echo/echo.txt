@@ -4121,7 +4121,6 @@ eyeroot
 enchronicle
 escaloped
 exciton
-electroreceptive
 etuve
 epitheliolysin
 emanant
@@ -9341,6 +9340,7 @@ engulf
 erst
 easers
 edited
+electroreceptive
 entomolegist
 erthen
 eumorphous
