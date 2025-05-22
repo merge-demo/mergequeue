@@ -4502,6 +4502,7 @@ girder
 gil
 generalate
 goosebill
+grating
 goupen
 grasscutter
 gibbing
@@ -6254,7 +6255,6 @@ gobbles
 glaucescent
 ginzoes
 grege
-grating
 gerahs
 genistein
 gullable
