@@ -2689,7 +2689,6 @@ gallused
 gramophonist
 gonangia
 granddad
-gangrenescent
 gekkonidae
 glaister
 girling
@@ -7119,6 +7118,7 @@ genecor
 gorgeret
 gorgers
 glideness
+gangrenescent
 gorgia
 gorglin
 gladden
