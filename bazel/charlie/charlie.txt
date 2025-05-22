@@ -8754,6 +8754,7 @@ changelessness
 changelings
 changement
 changeover
+cuissard
 changeovers
 chiefs
 changer
@@ -20275,7 +20276,6 @@ crossword
 commoning
 commonly
 cambist
-cuissard
 camias
 crucifixion
 corrodingly
