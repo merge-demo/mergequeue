@@ -6741,6 +6741,7 @@ frescoists
 fighters
 fudgy
 feast
+forelegs
 fogon
 fogproof
 frugally
@@ -7576,7 +7577,6 @@ foggier
 fractionise
 forecourts
 freeholding
-forelegs
 fulmen
 furuncles
 faille
