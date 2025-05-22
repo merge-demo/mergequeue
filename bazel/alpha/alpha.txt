@@ -9797,7 +9797,6 @@ arterialise
 amant
 amante
 airbrush
-augurer
 alloplasmatic
 agst
 amanuensis
@@ -20504,6 +20503,7 @@ arterionecrosis
 antiasthmatic
 arterioplasty
 arteriorenal
+augurer
 accentless
 amnesty
 arteriosympathectomy
