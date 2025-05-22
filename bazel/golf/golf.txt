@@ -5104,6 +5104,7 @@ gazania
 glazers
 geldant
 grouch
+gibus
 grasslands
 gyrophoraceae
 graylags
@@ -9381,7 +9382,6 @@ graciosity
 gypsies
 gallingness
 gadrooned
-gibus
 grosgrains
 grossed
 graphomaniacal
