@@ -3839,6 +3839,7 @@ blvd
 bulgur
 balsas
 bicker
+basigenic
 bauxitic
 bavaroy
 bowdlerizations
@@ -8646,7 +8647,6 @@ bryales
 benzo
 billman
 blechnum
-basigenic
 baraza
 bual
 billon
