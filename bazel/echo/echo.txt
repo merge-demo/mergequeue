@@ -6548,7 +6548,6 @@ endurant
 ended
 entangled
 entangledness
-epicentral
 endotrachelitis
 exhauster
 enwrapt
@@ -12511,6 +12510,7 @@ exaggeration
 enteropneusta
 erythrophage
 envisages
+epicentral
 eschatocol
 effeteness
 embosture
