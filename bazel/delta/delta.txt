@@ -9629,6 +9629,7 @@ departisanize
 deglazes
 dignitary
 dignitarian
+discuss
 demophoon
 doubloons
 dignities
@@ -10165,7 +10166,6 @@ disquiets
 dieties
 defeater
 deodar
-discuss
 dynast
 disengage
 dutiable
