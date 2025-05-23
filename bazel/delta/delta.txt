@@ -2589,7 +2589,6 @@ decoct
 demiquaver
 dashes
 decocting
-doomsman
 decoctive
 decocts
 deaminizing
@@ -12674,6 +12673,7 @@ daredevils
 drate
 delegant
 dertrotheca
+doomsman
 defaultant
 descendentalist
 descrial
