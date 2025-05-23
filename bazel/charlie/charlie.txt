@@ -8791,6 +8791,7 @@ cestus
 chronoscope
 chansonette
 commissionaire
+con
 chansonnette
 chansonniers
 chantey
@@ -21099,7 +21100,6 @@ comtism
 comtist
 comunidad
 comurmurer
-con
 commandership
 coseys
 conable
