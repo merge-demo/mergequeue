@@ -12388,7 +12388,6 @@ amenty
 androscoggin
 actinides
 argante
-androsphinges
 androsphinx
 androsporangium
 androsterone
@@ -14595,6 +14594,7 @@ antiadministration
 audiogram
 animalities
 antiagglutinative
+androsphinges
 antiaggression
 antiaggressionist
 antienergistic
