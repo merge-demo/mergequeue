@@ -5409,7 +5409,6 @@ guaranteers
 glossoplasty
 glauconiidae
 glyptodon
-goi
 glyptodontoid
 gracelike
 griphosaurus
@@ -7843,6 +7842,7 @@ gusty
 gramophonic
 gruelling
 gametangium
+goi
 gounau
 gourdworm
 gentleheartedness
