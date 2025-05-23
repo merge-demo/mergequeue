@@ -923,7 +923,6 @@ feverfews
 fantastication
 forold
 flyaways
-furor
 faventine
 flamfew
 fingerlet
@@ -5452,6 +5451,7 @@ foisonless
 fabian
 feasten
 forefigure
+furor
 flurt
 fault
 freightment
