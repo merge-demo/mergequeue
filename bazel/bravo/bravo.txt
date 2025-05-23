@@ -3580,7 +3580,6 @@ befathered
 boozer
 bathoflore
 bibliomaniacal
-batholithic
 batholiths
 balaamite
 butchers
@@ -16663,6 +16662,7 @@ borosilicate
 bubblelike
 bucketful
 bucketmaking
+batholithic
 basketfuls
 blithehearted
 bishopship
