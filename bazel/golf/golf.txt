@@ -16,6 +16,7 @@ greedsome
 genetous
 granitize
 gastroadynamic
+glossaries
 gashouse
 geotropic
 gabbro
@@ -9725,7 +9726,6 @@ gandurah
 gambades
 greyhounds
 grocerwise
-glossaries
 gelants
 guying
 grummet
