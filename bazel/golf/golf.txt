@@ -1906,7 +1906,6 @@ galopades
 galloped
 glorifiers
 gauffered
-gaufferer
 grayfishes
 groundwave
 garvie
@@ -8893,6 +8892,7 @@ giros
 gemming
 grooty
 ghess
+gaufferer
 groove
 grubbed
 gingras
