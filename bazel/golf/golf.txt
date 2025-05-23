@@ -2392,6 +2392,7 @@ gemmologist
 goalkeeping
 grocers
 gulper
+graphotypic
 gynobase
 gadders
 geologian
@@ -6685,7 +6686,6 @@ gauges
 googols
 gyrostats
 glomerate
-graphotypic
 geyseral
 gurdfish
 gruine
