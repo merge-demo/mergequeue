@@ -697,7 +697,6 @@ dopester
 diatom
 deadmelt
 danceability
-dashiki
 danceable
 demoniacs
 deruralize
@@ -10621,6 +10620,7 @@ diatomean
 diplococcemia
 disleaf
 digammate
+dashiki
 denote
 disequilibrium
 discoblastula
