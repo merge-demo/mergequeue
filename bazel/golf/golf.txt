@@ -6151,7 +6151,6 @@ greenhead
 goliaths
 gambodic
 gastroduodenal
-gigartinaceous
 gryphosaurus
 gallotannate
 gobiesociform
@@ -6279,6 +6278,7 @@ gymnorhininae
 goblin
 gettable
 gullible
+gigartinaceous
 gunmen
 gargantua
 gauster
