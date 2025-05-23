@@ -5589,7 +5589,6 @@ dependabilities
 donatistic
 dibber
 dustfall
-disedification
 draftable
 depended
 dolichopellic
@@ -16659,6 +16658,7 @@ dirt
 denunciable
 dragoonage
 dragrope
+disedification
 decades
 dexterousness
 debiteuse
