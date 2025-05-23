@@ -5830,7 +5830,6 @@ depositation
 dartlike
 disgorgement
 dreiling
-depositive
 deposito
 depositor
 daytime
@@ -13223,6 +13222,7 @@ display
 displayable
 displayed
 dumaist
+depositive
 dongolas
 diazole
 dovetailed
