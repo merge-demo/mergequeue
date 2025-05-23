@@ -3987,6 +3987,7 @@ fireboxes
 fluoresces
 flemish
 fluoranthene
+foresummon
 foeniculum
 fictionmonger
 furcating
@@ -7554,7 +7555,6 @@ feverously
 foment
 feazes
 foredesignment
-foresummon
 forecastle
 forecastlehead
 five
