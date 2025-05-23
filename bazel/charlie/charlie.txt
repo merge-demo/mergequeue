@@ -1281,6 +1281,7 @@ calgary
 caliban
 cunea
 caliber
+compulsatory
 calibers
 clavicembali
 colunar
@@ -23542,7 +23543,6 @@ conjoins
 contignate
 cloky
 corycavidin
-compulsatory
 californite
 contignation
 contiguity
