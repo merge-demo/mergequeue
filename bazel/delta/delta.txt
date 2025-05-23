@@ -1270,7 +1270,6 @@ dumpings
 diastaltic
 decoloured
 daubreite
-dipleidoscope
 dobsons
 densified
 dryermen
@@ -14527,6 +14526,7 @@ dividant
 desk
 dedition
 dodgeries
+dipleidoscope
 decolonised
 dewfalls
 divided
