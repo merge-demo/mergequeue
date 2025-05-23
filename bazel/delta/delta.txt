@@ -1315,7 +1315,6 @@ daffy
 dipentine
 demissive
 dwarfing
-dunno
 draftsperson
 dompt
 dauntingly
@@ -3808,6 +3807,7 @@ deictical
 dissevered
 devilkin
 dreissiger
+dunno
 deific
 dhobey
 doorsills
