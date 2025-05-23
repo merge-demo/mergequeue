@@ -857,7 +857,6 @@ convictable
 cairngorum
 cairny
 cairns
-chairmaned
 cays
 caisse
 caissons
@@ -7526,6 +7525,7 @@ cephidae
 cephus
 ceps
 corynebacterial
+chairmaned
 cerago
 ceramal
 ceramals
