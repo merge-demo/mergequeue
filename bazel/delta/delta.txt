@@ -6468,6 +6468,7 @@ decadenza
 dominicker
 dobbers
 dactylioglyph
+disbark
 desamidase
 desands
 desc
@@ -10822,7 +10823,6 @@ deportee
 dipterocarpous
 dipterocarpus
 delay
-disbark
 divas
 ductings
 dependent
