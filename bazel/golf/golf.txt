@@ -3108,7 +3108,6 @@ glycans
 geraniaceae
 gazon
 gelatinobromide
-gasproof
 glycyrrhiza
 gingelies
 grangerism
@@ -6354,6 +6353,7 @@ gamest
 gamgia
 garston
 gohila
+gasproof
 generics
 glassworks
 gonotyl
