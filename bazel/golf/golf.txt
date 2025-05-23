@@ -918,7 +918,6 @@ gatewise
 gashed
 guelphism
 gammarine
-graspable
 gingeli
 gammerel
 graeculus
@@ -2973,6 +2972,7 @@ guiding
 geomantically
 galvayning
 grammatical
+graspable
 glitteringly
 gibbed
 geometricism
