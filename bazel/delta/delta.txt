@@ -4334,7 +4334,6 @@ demagnetising
 diacranteric
 decomposes
 dhoney
-distillage
 deplores
 demagnetized
 demagnetizing
@@ -7050,6 +7049,7 @@ desserts
 dykage
 dessertspoon
 dessertspoonfuls
+distillage
 duramen
 destinezite
 driveable
