@@ -9077,7 +9077,6 @@ graveyards
 glaucomys
 gaylussacia
 glumal
-gearcase
 grimsire
 glires
 gladiatorism
@@ -9137,6 +9136,7 @@ grammaticalness
 gazeful
 grusinian
 ginghams
+gearcase
 grooming
 gardant
 gisarme
