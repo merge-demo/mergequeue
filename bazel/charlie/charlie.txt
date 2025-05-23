@@ -2036,7 +2036,6 @@ chionanthus
 cornelian
 camooch
 camoodie
-carrot
 cyperus
 commandants
 camorras
@@ -28527,6 +28526,7 @@ credenda
 confluently
 cassada
 credentialed
+carrot
 croomia
 cueva
 cystines
