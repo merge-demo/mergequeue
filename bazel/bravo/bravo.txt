@@ -7232,7 +7232,6 @@ backtrackers
 bestian
 bandsmen
 bloomsbury
-bestiary
 backdating
 byelorussia
 bur
@@ -9434,6 +9433,7 @@ burh
 batteler
 bireme
 begeck
+bestiary
 bacteriostat
 babishly
 betassel
