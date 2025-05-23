@@ -3457,7 +3457,6 @@ fiascoes
 foretalk
 fiendly
 feudalization
-freestyle
 featurely
 fatidic
 fc
@@ -5718,6 +5717,7 @@ forfeitures
 flingy
 funded
 flings
+freestyle
 fishwife
 flinkite
 forsung
