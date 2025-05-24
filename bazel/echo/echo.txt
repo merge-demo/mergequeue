@@ -1498,6 +1498,7 @@ exonarthex
 edificator
 equippers
 estivate
+eclegme
 effusively
 excipula
 entasias
@@ -13400,7 +13401,6 @@ exemplify
 exposture
 epanaphoral
 emphemeralness
-eclegme
 exter
 expound
 expounder
