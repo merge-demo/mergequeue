@@ -719,7 +719,6 @@ filmcards
 ferlie
 fanweed
 fatuous
-felstones
 fanatico
 fleshlike
 forzandos
@@ -3084,6 +3083,7 @@ firemanship
 footwears
 frostflower
 fissioned
+felstones
 fibbery
 fibbers
 fustin
