@@ -2962,7 +2962,6 @@ fackins
 firefighters
 footstall
 fettucini
-feture
 fungiferous
 fruitlet
 froglike
@@ -3382,6 +3381,7 @@ featherlessness
 fioritura
 faction
 fulgide
+feture
 flabbergastation
 flexility
 fencings
