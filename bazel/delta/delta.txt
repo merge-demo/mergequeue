@@ -6036,7 +6036,6 @@ depursement
 dipyramidal
 deputable
 dodge
-debenzolize
 drawout
 deputational
 doctus
@@ -9531,6 +9530,7 @@ digestment
 dislevelment
 dittography
 declinature
+debenzolize
 desiliconize
 discussable
 digestor
