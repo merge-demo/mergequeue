@@ -6971,7 +6971,6 @@ bariolage
 brassed
 beshod
 beshouting
-beshouts
 basaltiform
 broadleaf
 baradari
@@ -17732,6 +17731,7 @@ begazed
 basker
 bestead
 backhands
+beshouts
 birling
 bookways
 bombshell
