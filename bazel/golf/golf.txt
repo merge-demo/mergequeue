@@ -3558,7 +3558,6 @@ gogos
 ghees
 garaged
 granilla
-gaucheness
 graduating
 gigantal
 gld
@@ -5221,6 +5220,7 @@ gamecraft
 garten
 gentilic
 gammer
+gaucheness
 gluiest
 genial
 grenade
