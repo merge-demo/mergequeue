@@ -2802,7 +2802,6 @@ foreparts
 fights
 festerment
 footway
-firmaments
 feis
 flanges
 fortescure
@@ -7893,6 +7892,7 @@ franklinia
 foreruns
 frightenable
 frottole
+firmaments
 flourishingly
 famines
 farcemeat
