@@ -9648,6 +9648,7 @@ checkroll
 compathy
 checkrope
 cumulant
+conoy
 checkrowed
 checkrower
 checkrowing
@@ -22677,7 +22678,6 @@ conocephalum
 conocuneus
 coderiving
 conodont
-conoy
 contractiveness
 chrysatropic
 conoidal
