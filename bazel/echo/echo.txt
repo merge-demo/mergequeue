@@ -9671,6 +9671,7 @@ encense
 entangleable
 equipper
 entia
+epacris
 espagnole
 elaeagnus
 enfrai
@@ -13965,7 +13966,6 @@ extraperineal
 emceed
 embosked
 enwreathed
-epacris
 endears
 exundance
 echinococcus
