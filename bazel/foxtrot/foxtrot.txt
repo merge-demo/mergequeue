@@ -6617,6 +6617,7 @@ flyboats
 falconiform
 foaling
 franseria
+friary
 foam
 foolship
 flunkeyism
@@ -9865,7 +9866,6 @@ fevertwitch
 friar
 fungo
 fremitus
-friary
 firings
 forjudges
 frogs
