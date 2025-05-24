@@ -13474,7 +13474,6 @@ croshabell
 cyclostomatous
 cyclostomes
 cyclostomi
-cyclostomidae
 cedent
 cyclothymiac
 coenobite
@@ -25661,6 +25660,7 @@ correctable
 corrected
 complainingness
 correctest
+cyclostomidae
 club
 correctible
 confirmatorily

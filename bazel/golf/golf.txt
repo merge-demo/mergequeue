@@ -3768,7 +3768,6 @@ girosol
 glarier
 gonapophysal
 gearwheels
-gideon
 gyropilot
 gesticulate
 grasps
@@ -6839,6 +6838,7 @@ galaxies
 gymsia
 gluteoinguinal
 gauntlets
+gideon
 glucoprotein
 galeas
 genitival
