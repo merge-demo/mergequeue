@@ -6902,6 +6902,7 @@ belleek
 beggarman
 bescreening
 beseige
+biliverdic
 bescribble
 badness
 botchers
@@ -8537,7 +8538,6 @@ bearhound
 bisections
 biliteral
 biliteralism
-biliverdic
 beany
 beladle
 baywood
