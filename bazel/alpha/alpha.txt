@@ -4935,7 +4935,6 @@ aerometric
 aeronat
 aeronaut
 aeronautic
-amazona
 aeronautical
 aeronomer
 amyliferous
@@ -18040,6 +18039,7 @@ alanins
 adular
 amphigenetic
 aporosa
+amazona
 aproterodont
 antirestoration
 aroused
