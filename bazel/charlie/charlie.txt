@@ -8744,7 +8744,6 @@ cohesionless
 changelessness
 changelings
 changement
-changeover
 cuissard
 changeovers
 chiefs
@@ -19977,6 +19976,7 @@ coenenchyme
 commandery
 cricketings
 commanding
+changeover
 corolitic
 commandingly
 commandingness
