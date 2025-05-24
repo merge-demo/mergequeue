@@ -4879,6 +4879,7 @@ epitaxic
 encrustation
 elepaio
 easing
+empoisons
 ecchymoses
 enculturation
 ergatandromorph
@@ -5247,7 +5248,6 @@ esphresis
 emission
 endopoditic
 expenseless
-empoisons
 exporter
 excrementitial
 euphonium
