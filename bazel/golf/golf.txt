@@ -5035,7 +5035,6 @@ goosefoots
 garrya
 gilled
 granza
-gospelist
 gastroptosia
 guilders
 gravery
@@ -7402,6 +7401,7 @@ gouramis
 greekism
 gourded
 gainfully
+gospelist
 gourdful
 granuliferous
 glossist
