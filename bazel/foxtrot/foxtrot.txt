@@ -3531,7 +3531,6 @@ figo
 favillae
 fumaroid
 figshell
-flatfooting
 fury
 ficins
 fordays
@@ -6291,6 +6290,7 @@ ferromagnet
 flummeries
 fld
 fedoras
+flatfooting
 fearing
 flota
 fluxer
