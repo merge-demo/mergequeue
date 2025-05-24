@@ -4264,7 +4264,6 @@ careful
 carefull
 carefuller
 carefullest
-carefully
 chemosensitivities
 covenant
 characteristic
@@ -14937,6 +14936,7 @@ coranoch
 caperdewsie
 cytomegalovirus
 cytomere
+carefully
 cytomicrosome
 citrated
 cordages
