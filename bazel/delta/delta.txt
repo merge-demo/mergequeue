@@ -8496,7 +8496,6 @@ displacer
 downgrades
 diamondback
 diamondbacked
-diamondizing
 dysteleology
 debaucher
 dunites
@@ -13839,6 +13838,7 @@ demurral
 dramatis
 dogvane
 decapod
+diamondizing
 digram
 discomposingly
 declared
