@@ -9337,6 +9337,7 @@ bewater
 barman
 backarrow
 birchwood
+baccaras
 bindweb
 barcaroles
 birdbander
@@ -14284,7 +14285,6 @@ beamsman
 braggish
 barcarolle
 borocitrate
-baccaras
 blaver
 bedirtying
 braggite
