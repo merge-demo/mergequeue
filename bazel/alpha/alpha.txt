@@ -7662,6 +7662,7 @@ abbrev
 apoquinamine
 alcoholemia
 alcoholically
+appetition
 anaudia
 alcoholicity
 antonymic
@@ -17659,7 +17660,6 @@ atlantad
 alerted
 appetite
 algaroth
-appetition
 autographist
 adsorbents
 amphipleura
