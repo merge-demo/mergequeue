@@ -7589,7 +7589,6 @@ besottedness
 botflies
 brainworker
 beweeper
-beggared
 beweeps
 bombilate
 bastardize
@@ -9220,6 +9219,7 @@ birchism
 buffin
 biped
 bipedal
+beggared
 bogo
 backhauling
 bourbonesque
