@@ -11975,7 +11975,6 @@ contend
 chordal
 cosharer
 congenitalness
-chemigrapher
 chordamesoderm
 chordamesodermal
 chordamesodermic
@@ -21324,6 +21323,7 @@ cardiomalacia
 conchae
 conchal
 conchate
+chemigrapher
 cunonia
 chummy
 conchfishes
