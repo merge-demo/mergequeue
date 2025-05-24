@@ -8730,7 +8730,6 @@ fordoing
 floppers
 foredecks
 flocculator
-fortresses
 fella
 footlog
 flymen
@@ -9124,6 +9123,7 @@ formity
 follows
 formalins
 furtum
+fortresses
 fribblish
 fielded
 fritz
