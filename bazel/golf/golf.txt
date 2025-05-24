@@ -5621,7 +5621,6 @@ geisenheimer
 gondola
 grandparentage
 gyrators
-glomerule
 grunth
 gossipries
 gloomily
@@ -7328,6 +7327,7 @@ gossipped
 glochidial
 gossips
 gestor
+glomerule
 gilthead
 glyptograph
 gallach
