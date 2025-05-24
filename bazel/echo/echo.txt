@@ -6403,7 +6403,6 @@ ephebe
 earthward
 emulsor
 euskarian
-edibleness
 egested
 eyemark
 ethmoids
@@ -10011,6 +10010,7 @@ englishize
 estuarial
 eloquently
 estuosity
+edibleness
 editorials
 endophagy
 erythromelalgia
