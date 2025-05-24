@@ -15308,6 +15308,7 @@ clairvoyancy
 clairvoyant
 chinaberry
 claystone
+curtained
 cynomoriaceous
 claith
 clubmen
@@ -31551,7 +31552,6 @@ curtain
 centrals
 cariamae
 cowlicks
-curtained
 cauliflower
 cortine
 curtainless
