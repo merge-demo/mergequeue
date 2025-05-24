@@ -3672,7 +3672,6 @@ adequacies
 adequate
 acclivity
 abasements
-awm
 adesmy
 annum
 adespoton
@@ -19301,6 +19300,7 @@ attainable
 areologist
 areometry
 areometric
+awm
 areometrical
 arbutus
 anthologizer
