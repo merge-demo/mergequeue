@@ -4687,7 +4687,6 @@ forages
 ford
 falconidae
 fivesome
-fivestones
 flaubertian
 flashproof
 famacide
@@ -9614,6 +9613,7 @@ frizzing
 fraternality
 fortifications
 ferren
+fivestones
 ferrotyper
 forhooy
 fothering
