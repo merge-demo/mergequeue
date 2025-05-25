@@ -4789,7 +4789,6 @@ carpiodes
 carpium
 carpocace
 contagia
-contraparallelogram
 cuestas
 conscient
 cartwrighting
@@ -16671,6 +16670,7 @@ cloner
 clanning
 caps
 collateralize
+contraparallelogram
 complicities
 clonic
 clonicity
