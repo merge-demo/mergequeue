@@ -12554,7 +12554,6 @@ anesthetized
 achromotrichia
 anesthetizes
 anestrous
-anestrus
 anethene
 anethol
 albites
@@ -14062,6 +14061,7 @@ alining
 antemeridian
 anukit
 antemetallic
+anestrus
 antemillennial
 antemingent
 antemundane
