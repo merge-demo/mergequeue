@@ -1865,7 +1865,6 @@ gatherers
 goldbug
 galumph
 gooma
-gastroenteroanastomosis
 gamenesses
 gatherings
 gastrohysteropexy
@@ -6198,6 +6197,7 @@ greengill
 goaty
 glissade
 gonfalons
+gastroenteroanastomosis
 gentilitian
 gowkedly
 galiot
