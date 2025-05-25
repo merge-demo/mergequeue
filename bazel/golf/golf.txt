@@ -1940,7 +1940,6 @@ gaumed
 geomorphologist
 gaunch
 gangers
-gruelly
 gaunty
 gypsite
 grinningly
@@ -8168,6 +8167,7 @@ gestative
 gooseneck
 glues
 graphemically
+gruelly
 gris
 gasconading
 genevois
