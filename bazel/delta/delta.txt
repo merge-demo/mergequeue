@@ -2426,6 +2426,7 @@ demoid
 decimolar
 drainpipe
 diplacusis
+downgoing
 disinterested
 dangering
 daker
@@ -7818,7 +7819,6 @@ dipsomaniacal
 dissettlement
 devotedly
 devotedness
-downgoing
 dialogistical
 defalcator
 devoting
