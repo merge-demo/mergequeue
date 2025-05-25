@@ -4708,6 +4708,7 @@ faust
 faeroe
 foliar
 ferrotungsten
+fulica
 flewit
 freety
 fayettism
@@ -9465,7 +9466,6 @@ factitiously
 fitfulness
 finesses
 fondak
-fulica
 faux
 furcae
 falconbill
