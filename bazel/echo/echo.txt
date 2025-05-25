@@ -4868,7 +4868,6 @@ elemental
 effeminateness
 explete
 enjamb
-enterohemorrhage
 encroachments
 epitaxic
 encrustation
@@ -9628,6 +9627,7 @@ exornation
 emplacing
 emulator
 epihippus
+enterohemorrhage
 esophagalgia
 esophagean
 esophagitis
