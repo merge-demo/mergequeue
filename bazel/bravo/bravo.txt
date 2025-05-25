@@ -5461,6 +5461,7 @@ blubbery
 boardmanship
 boatable
 behemoth
+beetling
 behemoths
 behenate
 behenic
@@ -17447,7 +17448,6 @@ bulliform
 bunnies
 bunodont
 brickleness
-beetling
 bacteroid
 bunoselenodont
 biatomic
