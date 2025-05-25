@@ -5780,6 +5780,7 @@ depolarizers
 droves
 debater
 disjoint
+descriptor
 decasualizing
 depolymerize
 deadpay
@@ -6560,7 +6561,6 @@ deity
 descriptivism
 decilitre
 doddies
-descriptor
 descrive
 descure
 dabchick
