@@ -8820,7 +8820,6 @@ expedients
 extime
 enterozoan
 exenteritis
-ectosteal
 evangelary
 el
 ectoskeleton
@@ -13504,6 +13503,7 @@ epigrapher
 elinor
 equipollence
 ensnares
+ectosteal
 examine
 elephantous
 erotology
