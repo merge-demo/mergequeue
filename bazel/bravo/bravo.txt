@@ -1001,7 +1001,6 @@ binders
 baiera
 boti
 bioavailability
-bayesian
 butadiene
 baiginet
 biparental
@@ -6733,6 +6732,7 @@ berkelium
 berkovets
 berkovtsi
 bedull
+bayesian
 berlin
 browsability
 broomstaff
