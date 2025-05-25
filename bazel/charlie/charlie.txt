@@ -7794,7 +7794,6 @@ contracter
 cerographical
 ceroline
 cerolite
-ceromancy
 ciliolate
 couldron
 chidden
@@ -15308,6 +15307,7 @@ clayton
 chinkers
 claiver
 crucigerous
+ceromancy
 claywares
 clayweed
 caam
