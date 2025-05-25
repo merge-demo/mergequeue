@@ -8215,7 +8215,6 @@ excalfaction
 episiotomies
 episkeletal
 eequinoctium
-episodial
 enroots
 ethnicity
 expirant
@@ -9025,6 +9024,7 @@ effected
 erysipelatous
 ectosome
 eatables
+episodial
 expletively
 erysipeloid
 endothoracic
