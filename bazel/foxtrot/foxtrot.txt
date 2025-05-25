@@ -5771,7 +5771,6 @@ frequentation
 fractuosity
 fustier
 fels
-fluotantalate
 figureheadless
 foredeserved
 farth
@@ -6563,6 +6562,7 @@ firebed
 forecover
 flutterboard
 faucal
+fluotantalate
 flutteriness
 flagrate
 formlessness
