@@ -11852,7 +11852,6 @@ chukkas
 chondromyxosarcoma
 chondromucoid
 chondropharyngeus
-chondrophyte
 chondroplast
 chondroplasty
 crystall
@@ -15294,6 +15293,7 @@ clairsentience
 clairsentient
 confrontationism
 conceder
+chondrophyte
 clairvoyances
 clairvoyancy
 clairvoyant
