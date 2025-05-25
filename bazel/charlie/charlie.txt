@@ -4172,7 +4172,6 @@ cumflutter
 countreeman
 cortaro
 cymric
-cardiology
 cardiologic
 clubbers
 cardiologist
@@ -15831,6 +15830,7 @@ cleam
 confectioneries
 clean
 cleanable
+cardiology
 cleaned
 chloramine
 cleaner
