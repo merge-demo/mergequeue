@@ -9328,7 +9328,6 @@ cooper
 categorize
 chataka
 chatchka
-chatchkas
 croziers
 chatchke
 chatchkes
@@ -18445,6 +18444,7 @@ coarct
 countergambit
 cognised
 creepy
+chatchkas
 chirimoya
 compactedness
 cognition
