@@ -7112,7 +7112,6 @@ centauries
 constructure
 centauromachy
 centauromachia
-centavo
 censured
 centenar
 constringent
@@ -31449,6 +31448,7 @@ calcites
 currach
 currachs
 curragh
+centavo
 currajong
 currans
 currant
