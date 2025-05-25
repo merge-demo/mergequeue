@@ -859,6 +859,7 @@ baggager
 benzidin
 beffroy
 baggala
+borderlight
 bijouterie
 bagganet
 baggara
@@ -13039,7 +13040,6 @@ borders
 borderland
 borderlander
 bagpipe
-borderlight
 borderline
 balneae
 bedrop
