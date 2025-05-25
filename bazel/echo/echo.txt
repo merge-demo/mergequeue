@@ -8707,7 +8707,6 @@ equipotential
 exconjugant
 endostyle
 epicoeliac
-electrostereotype
 epulotic
 eudalene
 equiprobably
@@ -11100,6 +11099,7 @@ exuberating
 europeans
 emporial
 elegit
+electrostereotype
 endomixis
 europium
 expressionistically
