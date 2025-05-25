@@ -4418,6 +4418,7 @@ fishbolts
 flechette
 funt
 fellers
+floorshifts
 flagged
 forbearances
 fishbowls
@@ -4873,7 +4874,6 @@ frostbiter
 footloose
 fibrinuria
 fumish
-floorshifts
 fracticipita
 faunus
 fishberries
