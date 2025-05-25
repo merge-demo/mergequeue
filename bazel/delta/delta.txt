@@ -3378,6 +3378,7 @@ defleaed
 damnum
 defleas
 deflect
+dichotomic
 driftfishes
 disinhuming
 darer
@@ -8968,7 +8969,6 @@ denaturalization
 deidesheimer
 dichotomy
 detruck
-dichotomic
 dwarfness
 debitrix
 discursively
