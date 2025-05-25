@@ -3884,7 +3884,6 @@ feminie
 formin
 firewoods
 furthermore
-flankwise
 fineless
 fract
 fiberglas
@@ -5842,6 +5841,7 @@ fathmur
 flamb
 flitters
 frequents
+flankwise
 froggiest
 frivolize
 ferfet
