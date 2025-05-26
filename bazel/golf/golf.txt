@@ -1154,7 +1154,6 @@ goonda
 grogs
 grift
 groatsworth
-glutinate
 glyptographer
 gamolepis
 gaslights
@@ -1778,6 +1777,7 @@ gutterblood
 gelatinotype
 grippelike
 ghyll
+glutinate
 graped
 gestalten
 granodioritic
