@@ -5694,7 +5694,6 @@ distractibility
 dragees
 discommodate
 dobbing
-destroyable
 depilating
 depilatory
 depilatories
@@ -9389,6 +9388,7 @@ differed
 differenced
 differences
 dryad
+destroyable
 deutoplasmic
 dunces
 differentiability
