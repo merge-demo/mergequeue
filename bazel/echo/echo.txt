@@ -1861,6 +1861,7 @@ eightpenny
 euler
 ecchymose
 epidiorite
+elasmobranch
 encystments
 errabund
 edestin
@@ -11683,7 +11684,6 @@ exactors
 enterophthisis
 electrophone
 equimomental
-elasmobranch
 extemporization
 ediya
 etiolin
