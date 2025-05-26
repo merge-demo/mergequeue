@@ -2746,7 +2746,6 @@ gyges
 griper
 guemul
 guzmania
-grangousier
 garblings
 grandisonous
 gazettal
@@ -3090,6 +3089,7 @@ georgics
 gnathobasic
 gnast
 galumphing
+grangousier
 galena
 greedygut
 gazzetta
