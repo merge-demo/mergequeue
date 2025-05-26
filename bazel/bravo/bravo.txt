@@ -3984,6 +3984,7 @@ beslur
 beacons
 beadeye
 beader
+bellmaker
 barnhardtite
 baalitical
 beerothite
@@ -6815,7 +6816,6 @@ bookery
 bersagliere
 berserker
 brittles
-bellmaker
 bin
 berserks
 barnumize
