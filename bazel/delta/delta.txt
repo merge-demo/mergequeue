@@ -1032,6 +1032,7 @@ darn
 darndest
 darnels
 domestics
+diplohedral
 dishes
 diacodium
 deas
@@ -4929,7 +4930,6 @@ demonopolize
 defervescence
 demonry
 dubiosities
-diplohedral
 dispersive
 dovishness
 demonstrated
