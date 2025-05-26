@@ -1848,6 +1848,7 @@ flyspecks
 fiddler
 fastener
 fractureproof
+fusiliers
 fissiparous
 forane
 forgets
@@ -11572,7 +11573,6 @@ flummery
 futhermore
 fixature
 finnickiest
-fusiliers
 forthbringing
 faucet
 fibronucleated
