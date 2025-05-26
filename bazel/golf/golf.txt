@@ -4704,6 +4704,7 @@ garua
 galactite
 gyroscope
 glick
+gomer
 gendarme
 giantlike
 gabbroic
@@ -6501,7 +6502,6 @@ grasp
 gomashta
 gromwell
 gamelans
-gomer
 gesten
 grew
 gpss
