@@ -4194,6 +4194,7 @@ flocculation
 friendliest
 fellowcraft
 floerkea
+feebler
 fibrils
 functionalized
 faintness
@@ -4392,7 +4393,6 @@ fiscalize
 fellows
 forewomen
 foresleeve
-feebler
 friendlies
 fuliginously
 fise
