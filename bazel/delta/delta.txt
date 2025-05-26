@@ -4664,7 +4664,6 @@ deflea
 demonastery
 donn
 diddle
-depose
 dermohemal
 dinic
 demisang
@@ -8250,6 +8249,7 @@ dissectors
 diorism
 diadochian
 diadochic
+depose
 diadochite
 dethroner
 diadochokinesia
