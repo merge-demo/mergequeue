@@ -13307,7 +13307,6 @@ cyclical
 cyclizing
 cyclically
 cyclicalness
-cyclicism
 cyclide
 cubeb
 cyclindroid
@@ -15621,6 +15620,7 @@ classable
 coplanarity
 classbook
 classed
+cyclicism
 classers
 classfellow
 classy
