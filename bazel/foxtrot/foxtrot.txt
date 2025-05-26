@@ -2149,7 +2149,6 @@ fellatrice
 fluoresage
 floruit
 frigate
-fattener
 fletch
 faujdar
 fuchsite
@@ -3406,6 +3405,7 @@ foundling
 flashers
 fieldish
 funereality
+fattener
 furriners
 fibromatous
 fascili
