@@ -7932,7 +7932,6 @@ glouts
 goodhap
 galleyman
 gipper
-gollywobbler
 geologized
 grandmammy
 grandmas
@@ -9870,6 +9869,7 @@ gladdens
 generaliter
 gerygone
 garble
+gollywobbler
 gustless
 guanin
 gallivants
