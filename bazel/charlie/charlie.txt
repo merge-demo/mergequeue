@@ -9781,7 +9781,6 @@ cheezit
 chef
 chefrinia
 chefs
-calypter
 collocate
 chego
 coruscated
@@ -21854,6 +21853,7 @@ claithes
 confabulator
 cassian
 cytopharynges
+calypter
 caravanist
 confabulatory
 caracul
