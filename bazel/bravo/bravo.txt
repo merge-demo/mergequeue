@@ -7501,7 +7501,6 @@ biomicroscope
 bowne
 besant
 burtree
-betutored
 bully
 berhymed
 bistre
@@ -11920,6 +11919,7 @@ boozify
 bankmen
 bilio
 bellowers
+betutored
 bewrought
 baggily
 bogach
