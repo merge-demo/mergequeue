@@ -2539,7 +2539,6 @@ granodiorite
 giltheads
 guillotined
 grassed
-gyrogonite
 guigne
 gargling
 gametogeny
@@ -5009,6 +5008,7 @@ groused
 glassen
 goalkeeper
 golconda
+gyrogonite
 gecarcinus
 gastrogenital
 gv
