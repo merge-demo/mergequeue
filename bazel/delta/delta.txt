@@ -2250,7 +2250,6 @@ decemcostate
 durax
 dyewoods
 decemfoliate
-delectable
 dogmas
 decempedal
 demotion
@@ -2724,6 +2723,7 @@ decor
 diplopic
 decurves
 decorable
+delectable
 doubtfulness
 duetto
 decorate
