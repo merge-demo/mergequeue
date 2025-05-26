@@ -1264,6 +1264,7 @@ glyphographer
 gumpus
 grallina
 gnatsnapper
+ganges
 granch
 giddying
 gardenia
@@ -10305,7 +10306,6 @@ granulations
 getsul
 gullygut
 gilling
-ganges
 gildsman
 goralog
 gleaner
