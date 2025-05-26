@@ -17438,7 +17438,6 @@ channeled
 condensible
 churchmaster
 coastward
-coastwards
 coatdress
 coated
 coatee
@@ -22395,6 +22394,7 @@ corrupable
 conicality
 chordally
 crookfingered
+coastwards
 calandrinae
 coniceine
 compressible
