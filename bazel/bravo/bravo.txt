@@ -2675,6 +2675,7 @@ benzoic
 barmcloth
 brither
 birdcage
+bratling
 becoward
 bascules
 bismuths
@@ -15806,7 +15807,6 @@ babiism
 bloomsburian
 boilermakers
 bodybuild
-bratling
 bromegrass
 bromeigon
 bromeikon
