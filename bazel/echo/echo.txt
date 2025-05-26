@@ -1032,7 +1032,6 @@ eldership
 epilabra
 edemata
 erysimum
-epics
 exactingly
 emphrensy
 eking
@@ -6017,6 +6016,7 @@ electropotential
 estampedero
 erosion
 ejects
+epics
 extrapituitary
 extensimeter
 embayment
