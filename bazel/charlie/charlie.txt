@@ -16559,7 +16559,6 @@ crewer
 clocksmith
 clockwatcher
 clockwise
-couter
 clockworked
 clavigerous
 carthamin
@@ -17351,6 +17350,7 @@ constrainers
 cinnamoned
 chronist
 coamings
+couter
 comprehensives
 conflux
 coan
