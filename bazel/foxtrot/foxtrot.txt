@@ -7038,7 +7038,6 @@ foreganger
 fadingly
 feinting
 fontinas
-fontlet
 forepromise
 fonts
 fusula
@@ -8321,6 +8320,7 @@ facade
 forisfamiliate
 forisfamiliation
 foujdar
+fontlet
 ferrotyping
 forjudging
 firmament
