@@ -10012,7 +10012,6 @@ bombings
 bivoluminous
 bivouaced
 bivouacked
-bubbled
 balaphon
 brawlys
 bodes
@@ -17917,6 +17916,7 @@ bushfighting
 bushfires
 backslider
 bushgrass
+bubbled
 bowered
 bushy
 barton
