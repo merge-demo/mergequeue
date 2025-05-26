@@ -4253,7 +4253,6 @@ beautified
 bathomania
 beautifier
 bishopbird
-banff
 beautiful
 blowball
 bellhanging
@@ -16159,6 +16158,7 @@ brougham
 bpt
 bemole
 bangash
+banff
 broughams
 breadbox
 brought
