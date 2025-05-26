@@ -8443,7 +8443,6 @@ bocage
 bleareye
 bittium
 bilaminar
-bilander
 blart
 burblier
 bemusement
@@ -10050,6 +10049,7 @@ brasser
 beautician
 blamability
 byzants
+bilander
 boomerang
 broadcasting
 bizarreness
