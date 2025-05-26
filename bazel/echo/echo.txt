@@ -2143,7 +2143,6 @@ equilibrio
 epipubes
 equiangle
 euryphage
-elastomers
 elastose
 epeisodia
 embryologists
@@ -10941,6 +10940,7 @@ exothermic
 esthete
 eventerate
 electromuscular
+elastomers
 eastlander
 eanlings
 euphonized
