@@ -1157,7 +1157,6 @@ farthings
 folk
 forlornness
 fubs
-footprints
 fitted
 figurist
 foreguts
@@ -1577,6 +1576,7 @@ fauterer
 fauteuil
 fussy
 foreteach
+footprints
 farrow
 frundel
 fauvette
