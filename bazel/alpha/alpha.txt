@@ -5386,7 +5386,6 @@ afresca
 anomiidae
 axed
 acinous
-africa
 apothecaries
 alkalizable
 aspout
@@ -16079,6 +16078,7 @@ antiscientific
 antiscii
 ande
 auto
+africa
 antiscolic
 antiscorbutical
 antiscriptural
