@@ -12472,7 +12472,6 @@ brawniness
 bondstone
 bondswoman
 bondswomen
-burntness
 bather
 bagpiped
 buphthalmos
@@ -15873,6 +15872,7 @@ bromoil
 broaching
 bruising
 brahma
+burntness
 bromomania
 bopper
 barbeyaceae
