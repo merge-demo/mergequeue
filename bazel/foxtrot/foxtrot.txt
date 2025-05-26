@@ -3623,6 +3623,7 @@ forspoken
 fussle
 fairbanks
 fourniture
+flank
 filers
 fructification
 felinity
@@ -4649,7 +4650,6 @@ fruitgrowing
 fitchew
 fitified
 fluoridizing
-flank
 flavory
 fitout
 fitchered
