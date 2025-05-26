@@ -6501,7 +6501,6 @@ gomari
 grasp
 gomashta
 gromwell
-gamelans
 gomer
 gesten
 grew
@@ -9591,6 +9590,7 @@ guttiferales
 gerbe
 gowds
 grasshopper
+gamelans
 gedanite
 gravimeters
 graphite
