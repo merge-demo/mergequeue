@@ -1710,7 +1710,6 @@ circumaxile
 calques
 cremule
 caltha
-calthrop
 caltrap
 caltraps
 cervicolingual
@@ -11994,6 +11993,7 @@ culet
 crinkling
 choregus
 choreguses
+calthrop
 contrivers
 choreic
 choreiform
