@@ -4492,7 +4492,6 @@ gills
 gerbille
 gigantomachia
 gmelinite
-girasol
 gingering
 gyrate
 gyrated
@@ -10298,6 +10297,7 @@ galliard
 geochemists
 gulpier
 galactosidase
+girasol
 gault
 granulations
 getsul
