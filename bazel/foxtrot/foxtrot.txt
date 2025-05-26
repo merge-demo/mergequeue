@@ -1808,7 +1808,6 @@ forlorn
 foundery
 frivolously
 fetid
-featherless
 fackings
 fosslfying
 fakofo
@@ -10232,6 +10231,7 @@ finale
 frogginess
 firetail
 froggish
+featherless
 forslack
 froghood
 finn
