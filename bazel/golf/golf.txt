@@ -2459,7 +2459,6 @@ gibbetwise
 genitalic
 guildite
 grandity
-genro
 glossier
 girdlelike
 gradienter
@@ -8327,6 +8326,7 @@ glutael
 gladsomeness
 ganoid
 granites
+genro
 guisards
 gerundival
 gingerbread
