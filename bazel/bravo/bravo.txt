@@ -6689,7 +6689,6 @@ beribanded
 birdy
 bargeboard
 barbarious
-beriber
 beriberis
 berycid
 busyhead
@@ -13053,6 +13052,7 @@ borders
 borderland
 borderlander
 bagpipe
+beriber
 borderline
 balneae
 bedrop
