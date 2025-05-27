@@ -3295,6 +3295,7 @@ fluorinate
 fittit
 fuzed
 facecloth
+freestanding
 fibrosity
 forthrightly
 faradizer
@@ -5389,7 +5390,6 @@ foreclosed
 faconde
 floccillation
 ferrocyanide
-freestanding
 faverel
 fluoridise
 frizzes
