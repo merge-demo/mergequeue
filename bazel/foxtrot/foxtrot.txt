@@ -3717,6 +3717,7 @@ fidos
 flourishes
 flaying
 furnacer
+financiered
 finicking
 follying
 fiddleys
@@ -6438,7 +6439,6 @@ freshish
 facsimileing
 fluorimetric
 foot
-financiered
 fluorobenzene
 fructifies
 fulcra
