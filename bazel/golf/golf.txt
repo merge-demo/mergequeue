@@ -2926,6 +2926,7 @@ geyseric
 gastrotheca
 glitterance
 geogeny
+geostrophic
 gerara
 gullability
 grogger
@@ -6381,7 +6382,6 @@ glassman
 genius
 greatcoats
 gobiesocid
-geostrophic
 gymnocladus
 grows
 golcondas
