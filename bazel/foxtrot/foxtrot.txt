@@ -1188,7 +1188,6 @@ fairsome
 festschriften
 figeaters
 flyblows
-francois
 footy
 fets
 fireflower
@@ -6379,6 +6378,7 @@ fullterm
 fluoran
 fennish
 fluorane
+francois
 florentium
 fishtailing
 fluorboric
