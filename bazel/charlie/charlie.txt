@@ -10450,6 +10450,7 @@ chieftain
 chieftaincy
 chieftainess
 chieftainry
+complexify
 chieftainries
 concludendi
 coition
@@ -20722,7 +20723,6 @@ chelidonate
 cheloid
 crocoites
 carvy
-complexify
 complexing
 complexion
 chromos
