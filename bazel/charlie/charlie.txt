@@ -11659,7 +11659,6 @@ culpability
 choledochoduodenostomy
 colpeurysis
 conformate
-choledocholithotomy
 choledocholithotripsy
 choledochorrhaphy
 counteractor
@@ -15414,6 +15413,7 @@ crosstoes
 clanjamphrey
 clank
 clanked
+choledocholithotomy
 clanking
 chlorimetry
 coldfinch
