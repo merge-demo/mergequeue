@@ -5124,7 +5124,6 @@ ductings
 dravya
 dipsomania
 dafla
-dentals
 dendrocoelan
 dendrocoele
 dendrocolaptidae
@@ -11322,6 +11321,7 @@ discarding
 detention
 discardment
 discards
+dentals
 discarnate
 duskier
 dimit
