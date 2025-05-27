@@ -2459,6 +2459,7 @@ acockbill
 alcoholizable
 antireduction
 acocotl
+amaga
 acoela
 acoelomate
 acoelomatous
@@ -16406,7 +16407,6 @@ antonomasia
 anaplastic
 antonomastic
 antonomastical
-amaga
 antonomastically
 antonovics
 armrests
