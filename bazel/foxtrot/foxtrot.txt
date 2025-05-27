@@ -969,7 +969,6 @@ fasola
 fourchite
 fanfishes
 flightless
-flashing
 farandoles
 fosterer
 flaughter
@@ -3667,6 +3666,7 @@ frisbees
 flook
 farmable
 fridstool
+flashing
 fielder
 floatsman
 froglets
