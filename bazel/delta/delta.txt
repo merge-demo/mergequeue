@@ -3747,6 +3747,7 @@ dehydrogenate
 dawtet
 distillable
 disentangled
+devisable
 dehydrogenated
 dehydrogenating
 dehydrogenisation
@@ -7740,7 +7741,6 @@ devisability
 deils
 dram
 dysarthrosis
-devisable
 devise
 dayton
 domiciliary
