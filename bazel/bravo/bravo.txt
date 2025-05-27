@@ -8149,7 +8149,6 @@ bug
 blasphemer
 beslubber
 beltmaker
-birse
 besieging
 bloodhound
 bidiagonal
@@ -12915,6 +12914,7 @@ blunging
 bootery
 booth
 batster
+birse
 bedlamise
 backtrail
 boothage
