@@ -1142,6 +1142,7 @@ grouses
 gastrogastrotomy
 genin
 genio
+gnawings
 gantsl
 galactometry
 gastrostomus
@@ -2463,7 +2464,6 @@ genro
 glossier
 girdlelike
 gradienter
-gnawings
 gotch
 glunches
 geyan
