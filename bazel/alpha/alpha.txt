@@ -10517,7 +10517,6 @@ anagrammatize
 amids
 actinism
 aphids
-amidship
 ascaris
 accoy
 amidulin
@@ -10896,6 +10895,7 @@ amnions
 allodialism
 amnios
 amniota
+amidship
 amniotes
 antipreparedness
 amniotic
