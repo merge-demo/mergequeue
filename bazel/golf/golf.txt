@@ -6991,7 +6991,6 @@ gaudish
 gooseberry
 gimbaled
 gramash
-gamete
 greenweed
 gossipmonger
 genteelism
@@ -10357,6 +10356,7 @@ gangbuster
 glycerogel
 geum
 gallivorous
+gamete
 glaur
 grouseberry
 gelate
