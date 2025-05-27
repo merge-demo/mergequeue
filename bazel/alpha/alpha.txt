@@ -13359,6 +13359,7 @@ ankylocheilia
 ankylodactylia
 antiinflammatory
 ankylodontia
+assumption
 ankyloglossia
 allergia
 abbr
@@ -16855,7 +16856,6 @@ apiaca
 apiaceae
 apiararies
 apiarian
-assumption
 apiarians
 apiarists
 aristo
