@@ -4574,7 +4574,6 @@ demihagbut
 dextrocular
 demihake
 demihaque
-drafty
 demihogshead
 demijambe
 discriminant
@@ -15366,6 +15365,7 @@ doating
 domage
 domainal
 digitorium
+drafty
 domains
 dativogerundial
 dispersoid
