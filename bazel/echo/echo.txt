@@ -4061,7 +4061,6 @@ equitant
 erotophobia
 exteriorize
 empathized
-empyromancy
 egotistical
 eugenical
 emil
@@ -5485,6 +5484,7 @@ edifier
 energize
 egging
 energizers
+empyromancy
 eosinophilia
 elasmosaurus
 esterifiable
