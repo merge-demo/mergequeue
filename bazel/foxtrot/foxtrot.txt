@@ -1240,7 +1240,6 @@ fund
 fluoroscopy
 fleech
 fears
-function
 fascistization
 fountainlike
 flangeless
@@ -3938,6 +3937,7 @@ footslogged
 fluidextract
 findable
 fruz
+function
 foreshop
 findhorn
 filarees
