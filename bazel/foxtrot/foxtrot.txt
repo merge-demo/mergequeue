@@ -5696,7 +5696,6 @@ fuzz
 firking
 fountains
 firebrands
-frontoparietal
 freeloader
 forewarns
 forhooie
@@ -8871,6 +8870,7 @@ flatteners
 fouled
 fling
 fatiloquent
+frontoparietal
 fidation
 forepast
 falsificator
