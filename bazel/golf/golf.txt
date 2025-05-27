@@ -8438,7 +8438,6 @@ glaze
 glands
 golfing
 graveclod
-gravedigger
 genl
 gibaro
 gibblegabbler
@@ -10049,6 +10048,7 @@ guerites
 gage
 geitjie
 graveolency
+gravedigger
 gelofer
 gyneconitis
 grabens
