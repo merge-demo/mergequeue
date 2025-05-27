@@ -2553,6 +2553,7 @@ candlemaker
 candlemaking
 candlemas
 crewel
+childproof
 cacqueteuse
 candlenut
 candlepins
@@ -10545,7 +10546,6 @@ childliest
 conceptualizing
 childlike
 childness
-childproof
 childre
 comicality
 chalicotherium
