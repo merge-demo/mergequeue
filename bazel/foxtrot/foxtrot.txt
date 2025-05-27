@@ -5008,7 +5008,6 @@ flong
 fleshiness
 foremarch
 flaminical
-fungate
 fomenters
 flatweed
 flowcharting
@@ -9270,6 +9269,7 @@ fourchet
 friesic
 fayalites
 freckling
+fungate
 fazendeiro
 folious
 frangipani
