@@ -7974,7 +7974,6 @@ cestode
 cestodes
 copatron
 compete
-coactivity
 coronize
 capitulary
 carouses
@@ -16830,6 +16829,7 @@ cursedest
 chalcophile
 cloudward
 cloudwards
+coactivity
 clouee
 culpon
 cyclosporous
