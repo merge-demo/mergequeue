@@ -4060,6 +4060,7 @@ exteriorize
 empathized
 egotistical
 eugenical
+electrotonize
 emil
 entries
 ethmophysal
@@ -7724,7 +7725,6 @@ extruder
 ellipticalness
 epidemically
 escurialize
-electrotonize
 evidentiary
 epidemicalness
 erythrine
