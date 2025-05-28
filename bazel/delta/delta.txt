@@ -7958,6 +7958,7 @@ dextranase
 disallowable
 demicylinder
 defunctive
+disarrangements
 downsteepy
 diathermal
 dismayedness
@@ -15054,7 +15055,6 @@ demonographer
 dysmetria
 deceivability
 dendroidal
-disarrangements
 dolcissimo
 distrains
 determ

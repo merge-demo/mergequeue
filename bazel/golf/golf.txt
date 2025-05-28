@@ -5650,7 +5650,6 @@ gatemen
 gant
 grizzler
 grenat
-gaucie
 gaultheria
 glandulous
 gristliest
@@ -6207,6 +6206,7 @@ goatskins
 gopura
 goatstone
 gaum
+gaucie
 goatweed
 guerrillaism
 genitures
