@@ -13996,7 +13996,6 @@ antecedental
 antecedently
 antecedes
 aloedary
-antecessor
 antechamber
 antechambers
 aloetic
@@ -20686,6 +20685,7 @@ alwise
 articulators
 abelonian
 aces
+antecessor
 alteregoistic
 antecabinet
 avid
