@@ -8700,7 +8700,6 @@ exconjugant
 endostyle
 epicoeliac
 epulotic
-eudalene
 equiprobably
 equiproportional
 equiproportionality
@@ -9980,6 +9979,7 @@ esophagoptosis
 estreat
 excogitable
 estrangelo
+eudalene
 estreated
 eucalyptuses
 evert
