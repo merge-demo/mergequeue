@@ -7879,7 +7879,6 @@ granary
 greases
 glecoma
 gorst
-guaiacum
 gutter
 gaberloonie
 gliriform
@@ -10840,6 +10839,7 @@ generality
 gyrofrequency
 genethlialogical
 gyrograph
+guaiacum
 guzul
 genotypical
 gasworker
