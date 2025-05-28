@@ -5243,7 +5243,6 @@ deputy
 denominations
 dicty
 dine
-denotable
 dekabrist
 depolarisation
 deafer
@@ -11623,6 +11622,7 @@ diplococcic
 disconnector
 demicannon
 disconnects
+denotable
 devillike
 disconsent
 dithering
