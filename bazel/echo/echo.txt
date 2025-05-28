@@ -3817,7 +3817,6 @@ europa
 emerying
 estatesmen
 emeril
-emerit
 exarticulate
 einkanter
 encyclopediast
@@ -6758,6 +6757,7 @@ endorsing
 euhemerise
 epitaxially
 enthronizing
+emerit
 evacuation
 ediface
 enthusiasms
