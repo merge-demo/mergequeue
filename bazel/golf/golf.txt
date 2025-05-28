@@ -5481,7 +5481,6 @@ gobbed
 goods
 gentlemen
 goldilocks
-galipidine
 glisten
 guttering
 glimmery
@@ -6568,6 +6567,7 @@ graphalloy
 good
 gurglets
 garigue
+galipidine
 ghats
 glossological
 gentleship
