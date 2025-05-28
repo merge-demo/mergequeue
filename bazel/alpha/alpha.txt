@@ -2185,7 +2185,6 @@ achroma
 actinal
 aperistalsis
 abattue
-achromatically
 adventuristic
 achromaticity
 achromatisation
@@ -15296,6 +15295,7 @@ amidon
 aglimmer
 antihylist
 antihypnotically
+achromatically
 anthropotomy
 antihypochondriac
 annal
