@@ -4948,6 +4948,7 @@ gyrenes
 gingelis
 germanization
 ganof
+gurgoyl
 glandiform
 gastrelcosis
 glanditerous
@@ -7350,7 +7351,6 @@ gazelles
 ghedda
 greenfish
 gunflints
-gurgoyl
 gelsemine
 gunnery
 gothish
