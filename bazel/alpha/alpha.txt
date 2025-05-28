@@ -17347,7 +17347,6 @@ argos
 antagonist
 aglycosuric
 apheliotropically
-apostle
 apostles
 apostleship
 apostleships
@@ -21851,6 +21850,7 @@ associable
 associableness
 associated
 aboudikro
+apostle
 androgonidium
 acrocephaly
 autovaccination
