@@ -8460,6 +8460,7 @@ fuzztail
 formularizing
 frontierman
 fumado
+frow
 felling
 feta
 figment
@@ -10532,7 +10533,6 @@ frousty
 frouzy
 flirtiest
 frouziest
-frow
 flite
 foldstool
 freshet
