@@ -3303,7 +3303,6 @@ epical
 energeticist
 emanativ
 erupt
-euphemizer
 enwreath
 emasculates
 endoesophagitis
@@ -10822,6 +10821,7 @@ elastance
 eleanor
 expurgatory
 ethide
+euphemizer
 emanation
 ethicalism
 exequatur
