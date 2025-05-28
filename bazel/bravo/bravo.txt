@@ -4756,7 +4756,6 @@ bedown
 bradding
 brunts
 bedpans
-barmskin
 bries
 beeball
 besplit
@@ -11240,6 +11239,7 @@ bisilicate
 blotty
 buckets
 battakhin
+barmskin
 bopyridae
 blottier
 beatably
