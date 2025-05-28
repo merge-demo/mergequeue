@@ -10252,7 +10252,6 @@ anacrusis
 allice
 amomales
 ameliorations
-ameliorator
 amelioratory
 alcoholisation
 amellus
@@ -17097,6 +17096,7 @@ apofenchene
 apogaeic
 aptera
 antipopulism
+ameliorator
 anatomic
 atropa
 agoranome

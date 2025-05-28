@@ -5408,7 +5408,6 @@ gascoign
 gargled
 guran
 girlhood
-gauche
 gus
 germanly
 greenness
@@ -6128,6 +6127,7 @@ gadfly
 geelbec
 goa
 gadsbud
+gauche
 garibaldi
 goadsman
 grihastha
