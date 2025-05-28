@@ -2779,7 +2779,6 @@ cluttering
 cannibalizing
 coelomes
 cannibally
-cannibals
 cableman
 cannie
 cannier
@@ -8500,6 +8499,7 @@ chamecephaly
 chamecephalic
 chamecephalous
 chamecephalus
+cannibals
 chameleon
 chameleonlike
 cantilena
