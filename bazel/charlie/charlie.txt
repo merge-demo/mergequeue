@@ -7737,7 +7737,6 @@ cerianthidae
 convolvulin
 curtaxe
 calculable
-cerias
 chervils
 cerillo
 ceriman
@@ -10152,6 +10151,7 @@ chessner
 chessom
 claves
 chesstree
+cerias
 cosmopolitanly
 chest
 curing
