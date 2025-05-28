@@ -6214,6 +6214,7 @@ flaxes
 fulgurate
 foretops
 feebling
+frequency
 fovent
 flagmaker
 furbished
@@ -7124,7 +7125,6 @@ footboy
 fossette
 fliskiest
 funders
-frequency
 footboys
 floodgate
 fairling
