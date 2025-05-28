@@ -3352,7 +3352,6 @@ fidejussor
 furfur
 fidelio
 featheredge
-furmities
 forchase
 fameworthy
 fruggan
@@ -10973,6 +10972,7 @@ focaloid
 foremilk
 firstborn
 fleshlier
+furmities
 fumatory
 flatuous
 floricin
