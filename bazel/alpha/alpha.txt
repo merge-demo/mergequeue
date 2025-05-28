@@ -1913,7 +1913,6 @@ admiralships
 apparelment
 acetylenic
 acetylenyl
-authoring
 acetylfluoride
 appendix
 affirmance
@@ -11047,6 +11046,7 @@ ampelidae
 archespore
 anoxia
 alaskan
+authoring
 ampelography
 apter
 ampelographist
