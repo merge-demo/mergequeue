@@ -2968,6 +2968,7 @@ guildsmen
 geomancy
 garnered
 grumbled
+glosser
 gushingness
 gauchest
 gaggle
@@ -9312,7 +9313,6 @@ glycerole
 ganging
 guessing
 giggles
-glosser
 gamesome
 gauffre
 gallipot
