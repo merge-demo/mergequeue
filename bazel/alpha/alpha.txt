@@ -5963,7 +5963,6 @@ archt
 aggroupment
 aghan
 aghas
-aghast
 aghlabite
 aghori
 allottee
@@ -7768,6 +7767,7 @@ antibias
 afar
 alditol
 aldm
+aghast
 academias
 aurae
 anthozooid
