@@ -501,6 +501,7 @@ geminations
 gluconokinase
 geomorphology
 guanyl
+gisement
 geographic
 gowiddie
 golem
@@ -4659,7 +4660,6 @@ giansar
 glinted
 granges
 gyarung
-gisement
 gibbsite
 gauping
 geisothermal
