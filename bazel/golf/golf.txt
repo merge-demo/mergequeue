@@ -3798,7 +3798,6 @@ gastroenterotomy
 grimsir
 goldang
 gids
-gazes
 gisants
 grandchild
 granulitize
@@ -5979,6 +5978,7 @@ garmenture
 gingles
 gillot
 gonifs
+gazes
 gastroenterocolostomy
 goldbricker
 gibetting
