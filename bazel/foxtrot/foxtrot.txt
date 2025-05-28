@@ -1497,6 +1497,7 @@ font
 flavorings
 fruiter
 favourable
+friedman
 fiqh
 foreshows
 fabulate
@@ -2776,7 +2777,6 @@ footway
 feis
 flanges
 fortescure
-friedman
 fascisms
 ferrimagnet
 festy
