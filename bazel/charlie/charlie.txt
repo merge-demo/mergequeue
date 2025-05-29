@@ -7555,6 +7555,7 @@ ceratostomataceae
 cytococcus
 cimicidae
 ceratostomella
+cheliceral
 ceratotheca
 ceratozamia
 cypridinidae
@@ -14821,7 +14822,6 @@ cigale
 cladosiphonic
 coordinate
 coenamor
-cheliceral
 coccinellid
 cocinero
 chiarooscuros
