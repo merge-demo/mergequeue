@@ -5346,7 +5346,6 @@ finland
 fleabags
 fissidactyl
 fluorites
-fricandoes
 feoffee
 fleadock
 fleahopper
@@ -8795,6 +8794,7 @@ frigorimeter
 fluidible
 flushgate
 forespoke
+fricandoes
 flagellulae
 frakfurt
 fleeringly
