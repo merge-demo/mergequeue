@@ -5432,6 +5432,7 @@ bronchium
 behaver
 bicollateral
 behaving
+brainteasers
 brakes
 bathylimnetic
 bars
@@ -14401,7 +14402,6 @@ brainstorming
 brainstorms
 balkanic
 brainteaser
-brainteasers
 brainward
 ballistae
 brow
