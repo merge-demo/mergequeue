@@ -2576,7 +2576,6 @@ electronically
 exclaimed
 ecad
 electrons
-electrooculogram
 encyclopaedian
 electrodiagnoses
 entrenched
@@ -8087,6 +8086,7 @@ essoign
 exceptive
 empowerment
 emblemology
+electrooculogram
 exosporium
 extraprovincial
 epiphragm
