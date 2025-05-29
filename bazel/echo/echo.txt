@@ -1178,7 +1178,6 @@ edplot
 edrioasteroidea
 epipany
 edriophthalmatous
-educability
 extramental
 educand
 emulsive
@@ -6863,6 +6862,7 @@ explainingly
 ermine
 exults
 epidermoidal
+educability
 entomologist
 entomologize
 entrap
