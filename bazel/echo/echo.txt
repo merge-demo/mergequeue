@@ -4804,7 +4804,6 @@ episiotomy
 exes
 echard
 embosks
-epotation
 encores
 enemas
 excitive
@@ -8608,6 +8607,7 @@ espavel
 equielliptical
 equigranular
 equilateral
+epotation
 equilaterally
 equilibrant
 enframe
