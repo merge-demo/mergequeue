@@ -9181,7 +9181,6 @@ container
 charta
 chartable
 charter
-chartered
 charterer
 charterers
 charterhouse
@@ -29612,6 +29611,7 @@ crockery
 calkage
 crofter
 cottagey
+chartered
 crocketed
 crockets
 clouded
