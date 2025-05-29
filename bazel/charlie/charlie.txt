@@ -6660,7 +6660,6 @@ cecilite
 cecity
 cystoureteritis
 cecitis
-cecomorphae
 cecomorphic
 classily
 cecopexy
@@ -19812,6 +19811,7 @@ comebacker
 cephalochordate
 chontalan
 cymotrichous
+cecomorphae
 chalehs
 catechols
 cricotomy
