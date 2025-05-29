@@ -9121,7 +9121,6 @@ ethinyl
 escalloniaceae
 erythrophleine
 emigrate
-excreation
 erythropia
 enveil
 escrowee
@@ -12003,6 +12002,7 @@ epitenon
 exclamations
 exclamative
 endolymphic
+excreation
 exclamatory
 exclaves
 excavational
