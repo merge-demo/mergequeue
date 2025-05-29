@@ -1281,7 +1281,6 @@ calaverite
 caliber
 compulsatory
 calibers
-clavicembali
 colunar
 calibrated
 calibrater
@@ -13710,6 +13709,7 @@ castorial
 cymometer
 colature
 cardiarctia
+clavicembali
 cymophane
 cymophanous
 cymophenol
