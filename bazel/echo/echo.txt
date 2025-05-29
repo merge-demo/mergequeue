@@ -3954,7 +3954,6 @@ empathetic
 egalite
 equiform
 extramodal
-empathies
 empatron
 etrurian
 essie
@@ -9275,6 +9274,7 @@ errhines
 encyclopedize
 extraclassroom
 erron
+empathies
 electrotellurograph
 externalist
 exogamous
