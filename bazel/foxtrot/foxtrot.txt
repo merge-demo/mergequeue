@@ -2981,7 +2981,6 @@ feveret
 forefending
 forefault
 forworden
-foresettled
 facility
 flicks
 faddists
@@ -9777,6 +9776,7 @@ fatigability
 fishworm
 farfel
 faerie
+foresettled
 flyspeck
 favorably
 fastiia
