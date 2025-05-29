@@ -917,6 +917,7 @@ carnotite
 caky
 clientelage
 consecration
+cols
 caking
 collagist
 chazzanut
@@ -4401,7 +4402,6 @@ carinas
 chrysene
 carinate
 carinated
-cols
 coprocessing
 chologenetic
 carination
