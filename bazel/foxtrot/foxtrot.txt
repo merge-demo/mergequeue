@@ -1545,6 +1545,7 @@ frankability
 flagellaria
 freely
 faurd
+foreseat
 feedbox
 flippant
 foodless
@@ -9096,7 +9097,6 @@ flaith
 foreintend
 floodable
 frenetics
-foreseat
 formity
 follows
 formalins
