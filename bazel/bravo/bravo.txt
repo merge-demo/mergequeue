@@ -3524,7 +3524,6 @@ batfowls
 bestore
 brookites
 blackroot
-batheable
 bathed
 bellower
 bathes
@@ -14251,6 +14250,7 @@ begoud
 branchiosaur
 binnite
 bobber
+batheable
 bouillon
 bigotry
 begrudger
