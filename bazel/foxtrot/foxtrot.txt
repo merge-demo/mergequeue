@@ -952,6 +952,7 @@ foundry
 ft
 fasola
 fourchite
+forms
 fanfishes
 flightless
 farandoles
@@ -8507,7 +8508,6 @@ falsie
 flatwise
 foramen
 forinsec
-forms
 fream
 fraxetin
 futuristically
