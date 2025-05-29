@@ -4887,7 +4887,6 @@ bordar
 bradystalsis
 bewpers
 beechen
-beechy
 beechnut
 breakstone
 bloomage
@@ -7636,6 +7635,7 @@ bewitchment
 bewizard
 blandished
 bimolecular
+beechy
 beeyard
 beworn
 bullocks
