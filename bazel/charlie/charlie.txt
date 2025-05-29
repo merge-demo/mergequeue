@@ -8766,7 +8766,6 @@ chantry
 chanukah
 chaology
 chaori
-crappers
 credibilities
 chaotic
 chaoticness
@@ -23727,6 +23726,7 @@ contraindications
 contrair
 cologarithm
 contralateral
+crappers
 class
 contralto
 conjunctural
