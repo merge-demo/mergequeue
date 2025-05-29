@@ -6498,6 +6498,7 @@ footages
 fotui
 filches
 flustrine
+forwalk
 figurally
 fluted
 featherbedded
@@ -8723,7 +8724,6 @@ forbiddable
 flogged
 followership
 fortuuned
-forwalk
 forester
 fossule
 fiddlers
