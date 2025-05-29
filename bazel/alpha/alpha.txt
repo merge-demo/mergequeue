@@ -18561,7 +18561,6 @@ antiroyal
 allurer
 aperch
 araminta
-arcane
 aromatization
 arcanite
 anvilled
@@ -19808,6 +19807,7 @@ armatures
 armband
 albation
 anarchal
+arcane
 armchair
 ast
 armchaired
