@@ -3391,6 +3391,7 @@ disperser
 dorey
 defleaed
 damnum
+ditremidae
 defleas
 deflect
 dichotomic
@@ -7517,7 +7518,6 @@ dumfounding
 deuteranomaly
 deuteranope
 deuterate
-ditremidae
 deuteration
 denucleate
 demarcator
