@@ -3348,6 +3348,7 @@ desisted
 destiny
 domesticable
 dynamometry
+defoliant
 datiscoside
 delaying
 discloister
@@ -15222,7 +15223,6 @@ dolcemente
 dolci
 dolciano
 dardaol
-defoliant
 dolcino
 demagoguism
 dididae
