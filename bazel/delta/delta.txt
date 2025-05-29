@@ -13596,6 +13596,7 @@ demicritic
 drawnet
 dorcopsis
 dissentive
+diavolo
 datakit
 doggereler
 drawlers
@@ -16347,7 +16348,6 @@ downsitting
 describable
 dragonism
 dainteth
-diavolo
 deplored
 dedolency
 decanate
