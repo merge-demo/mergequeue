@@ -717,6 +717,7 @@ fragrancy
 flapperhood
 flair
 foziness
+flagstaves
 frettier
 fetichmonger
 frapping
@@ -10743,7 +10744,6 @@ felup
 fomentation
 footrope
 fleeing
-flagstaves
 fletches
 frustum
 frutage
