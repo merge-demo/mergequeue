@@ -2757,7 +2757,6 @@ ergastic
 erythropoiesis
 elegised
 elegising
-elegist
 esterizing
 ecocide
 eyewitness
@@ -8775,6 +8774,7 @@ equilibrity
 embossable
 enround
 electrodepositable
+elegist
 equitability
 eradications
 erections
