@@ -5010,6 +5010,7 @@ gustful
 gularis
 garland
 ganged
+gret
 grumpishness
 glassful
 glassfuls
@@ -7885,7 +7886,6 @@ gentilization
 grandads
 goracco
 gerbil
-gret
 grandaunt
 georgians
 gadolinic
