@@ -1671,7 +1671,6 @@ gibson
 gastroenteritis
 glycerolysis
 gunrunning
-gaucher
 girting
 gester
 gluts
@@ -2469,6 +2468,7 @@ guildite
 grandity
 glossier
 girdlelike
+gaucher
 gradienter
 gotch
 glunches
