@@ -7763,6 +7763,7 @@ gisant
 geococcyx
 garlandry
 glucase
+gunline
 gish
 gravidas
 garneter
@@ -10572,7 +10573,6 @@ gimpy
 gis
 grandmaster
 goustie
-gunline
 gemmiest
 gatepost
 glyphs
