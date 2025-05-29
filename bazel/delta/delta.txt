@@ -8712,7 +8712,6 @@ dandle
 dialectology
 diazepam
 diastasimetry
-diastataxic
 desiredness
 dipnoan
 devilfishes
@@ -9524,6 +9523,7 @@ digestment
 dislevelment
 dittography
 declinature
+diastataxic
 debenzolize
 desiliconize
 discussable
