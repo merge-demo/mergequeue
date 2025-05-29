@@ -4458,7 +4458,6 @@ bailment
 beached
 bestuur
 becomed
-becomes
 becometh
 becomingness
 becoresh
@@ -13488,6 +13487,7 @@ bioxide
 bricken
 blennotorrhea
 bottomried
+becomes
 bookshelves
 bradypepsy
 bottstick
