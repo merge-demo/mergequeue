@@ -3897,7 +3897,6 @@ bazars
 bint
 brockage
 bazooka
-bazookas
 blunge
 buckishly
 bamboos
@@ -8932,6 +8931,7 @@ buccinoid
 blattered
 bocal
 billons
+bazookas
 bioecological
 bioecologically
 balatong
