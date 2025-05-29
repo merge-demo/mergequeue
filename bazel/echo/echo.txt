@@ -7245,7 +7245,6 @@ epicurize
 eof
 eohippus
 eohippuses
-erythrosin
 eoith
 eoiths
 entamebae
@@ -10106,6 +10105,7 @@ ethenoid
 ethenol
 ensorcelize
 ebb
+erythrosin
 explosives
 etheostominae
 elytroid
