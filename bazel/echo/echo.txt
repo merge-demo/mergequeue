@@ -4970,7 +4970,6 @@ endenize
 epithelia
 ergmeter
 executional
-engore
 escalop
 encapsule
 enfoncee
@@ -11907,6 +11906,7 @@ emissivity
 exceptless
 emends
 eightfoil
+engore
 ectoderms
 enragement
 earthenware
