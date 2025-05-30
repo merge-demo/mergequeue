@@ -3246,7 +3246,6 @@ flinthearted
 fictioner
 furbisher
 forestay
-famished
 forestish
 fictionized
 frankheartness
@@ -5425,6 +5424,7 @@ flavorers
 fleerish
 figurativeness
 formulator
+famished
 feridjee
 fieldward
 fanatic
