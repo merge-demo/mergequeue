@@ -2140,7 +2140,6 @@ campesinos
 campestral
 campfight
 campground
-canful
 consarcinate
 camphane
 camphanone
@@ -30173,6 +30172,7 @@ crucilly
 cruck
 cyclize
 crud
+canful
 crudded
 convivialize
 carree
