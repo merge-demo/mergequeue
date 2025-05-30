@@ -8843,7 +8843,6 @@ gyroceracone
 genappe
 guesthouses
 greyfly
-glandula
 gregau
 greisens
 groof
@@ -9588,6 +9587,7 @@ gorgon
 grasshopper
 gedanite
 gravimeters
+glandula
 graphite
 growliest
 gnathobdellida
