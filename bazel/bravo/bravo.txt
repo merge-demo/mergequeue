@@ -13641,6 +13641,7 @@ bescorching
 bladder
 blab
 bloodsucker
+baud
 bande
 broidery
 berth
@@ -15474,7 +15475,6 @@ backshish
 beardlike
 bargeload
 brioches
-baud
 blase
 bisso
 bitwise
