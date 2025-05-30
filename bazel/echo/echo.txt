@@ -1042,7 +1042,6 @@ ethyls
 edentate
 edentulate
 edeodynia
-edeology
 edeomania
 enhamper
 emberizinae
@@ -11659,6 +11658,7 @@ electrohydraulic
 eleusinian
 endopolyploid
 exactness
+edeology
 echinus
 exactors
 enterophthisis
