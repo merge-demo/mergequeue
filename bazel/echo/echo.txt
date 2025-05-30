@@ -7945,7 +7945,6 @@ echar
 epimeres
 electrostenolysis
 epimerism
-exhaustibility
 ecdysiast
 empidonax
 enterolithiasis
@@ -11363,6 +11362,7 @@ enticeful
 exclusively
 eupnoeic
 enervative
+exhaustibility
 emergers
 extenders
 exigency
