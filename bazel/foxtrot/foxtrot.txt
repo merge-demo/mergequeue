@@ -7320,6 +7320,7 @@ forswearer
 forbearing
 fulcrum
 feathered
+focimeter
 fiddleheaded
 forechamber
 foraminiferal
@@ -10401,7 +10402,6 @@ feared
 frangipanis
 fatalist
 friller
-focimeter
 forecatching
 flags
 fitche
