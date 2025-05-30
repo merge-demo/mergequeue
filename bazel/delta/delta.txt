@@ -8362,6 +8362,7 @@ disruptable
 dioestrum
 duchies
 dialed
+demons
 disvouch
 decalobate
 dyed
@@ -13428,7 +13429,6 @@ dought
 dumbheaded
 drawglove
 dimetient
-demons
 disregardant
 disregarded
 drumskin
