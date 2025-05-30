@@ -633,7 +633,6 @@ gigartina
 glide
 gradatory
 guenepe
-gimps
 gracioso
 guideline
 gramineal
@@ -5286,6 +5285,7 @@ gofferer
 gangmaster
 gasify
 glycyrrhizin
+gimps
 glycogenolytic
 gangsters
 gammaroid
