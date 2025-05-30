@@ -507,7 +507,6 @@ fiumara
 forcleave
 fakery
 flaxweed
-ferity
 foreconsider
 funbre
 friz
@@ -10615,6 +10614,7 @@ farceurs
 flative
 familiarities
 fractile
+ferity
 franc
 forswearing
 flumped
