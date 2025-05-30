@@ -1713,6 +1713,7 @@ calques
 cremule
 caltha
 calthrop
+chronographic
 caltrap
 caltraps
 cervicolingual
@@ -12630,7 +12631,6 @@ choreas
 crosslap
 cauterizing
 circumventable
-chronographic
 chronoisothermal
 chronologer
 circularize
