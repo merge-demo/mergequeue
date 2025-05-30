@@ -5240,7 +5240,6 @@ barkeeps
 begar
 bandos
 bodingly
-bacteriotrypsin
 basaltic
 bicentenary
 bimastoid
@@ -6504,6 +6503,7 @@ backdown
 bepepper
 ballat
 booting
+bacteriotrypsin
 bephilter
 booley
 boltropes
