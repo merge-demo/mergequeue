@@ -4850,6 +4850,7 @@ firepower
 flinthead
 fleay
 fainer
+foil
 fossores
 finlet
 fatagaga
@@ -6739,7 +6740,6 @@ fluorescent
 forspeaking
 fidepromission
 flamming
-foil
 fittest
 foiningly
 feasant
