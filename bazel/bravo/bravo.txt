@@ -4613,6 +4613,7 @@ bedrid
 bebannered
 bedecking
 bulletproofed
+broadens
 bankfull
 bedehouse
 byrewards
@@ -7039,7 +7040,6 @@ besnowing
 besognier
 besoil
 bookcraft
-broadens
 butterwoman
 bioplasms
 basing
