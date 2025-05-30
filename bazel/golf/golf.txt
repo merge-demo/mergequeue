@@ -970,7 +970,6 @@ gerodontology
 granddads
 gastrolobium
 gundi
-gnathobase
 gramercy
 gouge
 greasebush
@@ -4563,6 +4562,7 @@ gnaphalium
 gymnanthes
 gluttonism
 gyrosyn
+gnathobase
 grecianize
 giro
 ganch
