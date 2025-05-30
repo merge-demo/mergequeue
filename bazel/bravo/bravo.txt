@@ -1415,7 +1415,6 @@ balestra
 batoneer
 boscages
 bouffants
-bali
 bops
 bedazzled
 bedye
@@ -7326,6 +7325,7 @@ betear
 betel
 buttwood
 baseboards
+bali
 betelgeuse
 balant
 betell
