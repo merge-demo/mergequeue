@@ -5446,7 +5446,6 @@ brachioradial
 biweeklies
 brisling
 brooklynite
-behaviours
 bilch
 baviere
 balai
@@ -7416,6 +7415,7 @@ betony
 betonies
 bombesin
 bradshaw
+behaviours
 bottles
 bookbinders
 bromated
