@@ -7723,7 +7723,6 @@ cerianthidae
 convolvulin
 curtaxe
 calculable
-chervils
 cerillo
 ceriman
 cerimans
@@ -11731,6 +11730,7 @@ coven
 cholophein
 cotemporarily
 chatterer
+chervils
 cushier
 cholos
 choloscopy
