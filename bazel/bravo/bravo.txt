@@ -4173,6 +4173,7 @@ bullswool
 beastlings
 bulgy
 beastman
+barracoutas
 beastship
 beat
 benches
@@ -14051,7 +14052,6 @@ boc
 boding
 binzuru
 brachydomatic
-barracoutas
 brevetcies
 brachydome
 bavary
