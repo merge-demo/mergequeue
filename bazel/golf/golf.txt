@@ -6066,7 +6066,6 @@ goosebeak
 gullibly
 gigahertz
 gnessic
-gastraeadae
 gastromancy
 gomarist
 gypsies
@@ -7242,6 +7241,7 @@ geochronic
 glowbird
 generatrix
 gerated
+gastraeadae
 glandular
 gunl
 glazed
