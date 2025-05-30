@@ -2858,7 +2858,6 @@ canonised
 canoniser
 cephalothoraces
 coambassador
-canonises
 canonising
 canonist
 canonistical
@@ -22546,6 +22545,7 @@ conjures
 conjuring
 cricetine
 conk
+canonises
 conkanee
 conked
 conker
