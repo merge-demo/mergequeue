@@ -1474,7 +1474,6 @@ boyarisms
 blighter
 balkish
 bodaciously
-baryton
 bahadurs
 beggar
 boroglycerate
@@ -5528,6 +5527,7 @@ brandade
 beethovian
 beyondness
 borshts
+baryton
 bewares
 birding
 beisa
