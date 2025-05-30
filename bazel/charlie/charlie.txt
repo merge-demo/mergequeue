@@ -1877,7 +1877,6 @@ cambium
 cessionee
 cambiums
 crimble
-consumpt
 corbinas
 camblet
 confectory
@@ -8656,6 +8655,7 @@ chandlers
 contester
 chylothorax
 carrion
+consumpt
 calenturing
 cymaphen
 circumadjacent
