@@ -10366,7 +10366,6 @@ bumbler
 ballist
 brays
 blanched
-blancher
 blanches
 blancmange
 buntlines
@@ -12655,6 +12654,7 @@ bolivares
 bunion
 bestraddling
 booger
+blancher
 bonilass
 benefactresses
 boogers
