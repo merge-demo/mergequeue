@@ -4986,7 +4986,6 @@ gatch
 giraffes
 gelechia
 guru
-gyrencephalate
 guards
 gaedown
 glycogen
@@ -5326,6 +5325,7 @@ goofer
 gonopod
 gnomon
 generalisation
+gyrencephalate
 goiters
 glees
 gremmie
