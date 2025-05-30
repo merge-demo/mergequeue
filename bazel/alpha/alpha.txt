@@ -7783,7 +7783,6 @@ aldm
 aghast
 academias
 aurae
-anthozooid
 aphidicide
 aldazine
 aldoheptose
@@ -10281,6 +10280,7 @@ amelioratory
 alcoholisation
 amellus
 amelu
+anthozooid
 amelus
 aquila
 alumine
