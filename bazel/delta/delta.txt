@@ -5756,6 +5756,7 @@ deplorer
 deplumated
 disposes
 deplumes
+dentation
 dewanee
 doliolum
 deoxidiser
@@ -8538,7 +8539,6 @@ drighten
 dendrolene
 dantomania
 disaccharides
-dentation
 doree
 diapause
 diapauses
