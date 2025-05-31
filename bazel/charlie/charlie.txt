@@ -21787,7 +21787,6 @@ converse
 conducers
 conductance
 congregationalists
-conductimeter
 conductio
 corbleu
 colonizationist
@@ -23770,6 +23769,7 @@ contrapuntist
 contrapunto
 contraregularity
 centrisciform
+conductimeter
 contraremonstrance
 contrariant
 contraries
