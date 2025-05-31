@@ -7161,7 +7161,6 @@ centiloquy
 casziel
 canton
 caliculus
-centimes
 centimetre
 cashmerette
 centimetres
@@ -21842,6 +21841,7 @@ cymule
 conepatl
 conepatls
 calahan
+centimes
 capsicin
 circumnutatory
 cones
