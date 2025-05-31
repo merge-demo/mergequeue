@@ -6944,7 +6944,6 @@ dispute
 domineer
 despecialize
 defying
-devote
 despecificate
 despecification
 desperado
@@ -18152,6 +18151,7 @@ dumple
 donators
 dive
 dishearten
+devote
 dissceptring
 disavowable
 digress
