@@ -758,7 +758,6 @@ gerkin
 galvanopuncture
 gummaker
 goutwort
-gunmanship
 groupings
 gladsomer
 gawkily
@@ -6139,6 +6138,7 @@ goal
 griffithite
 galactophore
 gigantolite
+gunmanship
 goyin
 glandiferous
 gynecomastia
