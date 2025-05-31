@@ -3979,7 +3979,6 @@ friarling
 february
 fairydom
 felicitation
-federalization
 frontlessness
 formability
 flukewort
@@ -5310,6 +5309,7 @@ fusillade
 faintheart
 furciform
 fleabags
+federalization
 fissidactyl
 fireclay
 fluorites
