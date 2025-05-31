@@ -6645,7 +6645,6 @@ beret
 brangler
 berets
 balancers
-beretta
 berewick
 banquettes
 bergall
@@ -12166,6 +12165,7 @@ bolk
 bizarrely
 bolled
 bolly
+beretta
 bargir
 besit
 brevis
