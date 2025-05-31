@@ -4723,7 +4723,6 @@ faldfee
 forthink
 fablemongering
 forestry
-fellfare
 fertil
 furtherest
 foregone
@@ -7037,6 +7036,7 @@ flatterer
 forejudger
 felix
 formfeeds
+fellfare
 footful
 foolhardiness
 fabulousness
