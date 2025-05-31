@@ -5108,7 +5108,6 @@ famulli
 forewords
 furler
 fregit
-freeway
 farmhousey
 flashings
 fulgently
@@ -6899,6 +6898,7 @@ fulwa
 fideicommission
 formeret
 filibusterous
+freeway
 finely
 foll
 facia
