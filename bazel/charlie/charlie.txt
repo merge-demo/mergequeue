@@ -3517,6 +3517,7 @@ cheloniid
 capsuliform
 coverup
 capsuling
+clamer
 capsulitis
 capsulize
 capsulizing
@@ -15318,7 +15319,6 @@ clamcracker
 crabfish
 clame
 cheeseboard
-clamer
 clamflat
 ctn
 calamospermae
