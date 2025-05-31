@@ -962,7 +962,6 @@ castellar
 campanulaceae
 calamiferious
 catenoids
-calamiferous
 calaminary
 compensational
 calaminaris
@@ -16817,6 +16816,7 @@ cursedest
 chalcophile
 cloudward
 cloudwards
+calamiferous
 coactivity
 clouee
 culpon
