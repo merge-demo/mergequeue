@@ -1493,7 +1493,6 @@ equippers
 estivate
 eclegme
 effusively
-excipula
 entasias
 effuviate
 efl
@@ -3361,6 +3360,7 @@ emetine
 eodevonian
 enviableness
 eremopteris
+excipula
 ethanethiol
 electrotechnics
 embarge
