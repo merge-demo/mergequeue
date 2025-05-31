@@ -3891,7 +3891,6 @@ emmetropy
 emmetropic
 equationally
 endplates
-earlock
 enanthem
 emmett
 ectromelic
@@ -12391,6 +12390,7 @@ exhaustive
 evene
 eryon
 exhaustiveness
+earlock
 elegances
 electrotonicity
 essencing
