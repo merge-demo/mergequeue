@@ -2288,7 +2288,6 @@ foreface
 flagelliferous
 fenestrae
 foreword
-fluoresced
 fenestrated
 feminizing
 feddan
@@ -4929,6 +4928,7 @@ forwards
 fchar
 fluidised
 foining
+fluoresced
 forsooth
 fourteens
 flamen
