@@ -6078,6 +6078,7 @@ drumlike
 displume
 deputed
 demanding
+deselecting
 demolitionary
 deputes
 damiana
@@ -6620,7 +6621,6 @@ deprecations
 duststorm
 deselected
 dysmerogenesis
-deselecting
 deadborn
 duddie
 desiccants
