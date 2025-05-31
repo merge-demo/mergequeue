@@ -5843,7 +5843,6 @@ fastigia
 fdtype
 fowlers
 flocced
-flagellate
 frustulose
 footsoldier
 floccipend
@@ -6985,6 +6984,7 @@ fusees
 fichtelite
 floriferousness
 finagled
+flagellate
 fumade
 freespace
 fondus
