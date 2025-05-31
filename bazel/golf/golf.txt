@@ -965,7 +965,6 @@ gilgamesh
 graftonite
 grouting
 gagmen
-glottology
 ganched
 gonotokont
 goner
@@ -2221,6 +2220,7 @@ gossipmongering
 genesic
 galactase
 gastrotome
+glottology
 gefulltefish
 galax
 gonidiogenous
