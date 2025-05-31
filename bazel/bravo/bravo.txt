@@ -1363,7 +1363,6 @@ blithen
 baldcrown
 balded
 balder
-biskop
 baldfaced
 bebed
 bolloxing
@@ -12354,6 +12353,7 @@ band
 bandlimit
 buckshee
 brigades
+biskop
 baskets
 bomble
 boombox
