@@ -2243,6 +2243,7 @@ dungeonlike
 drummed
 diapyetic
 deceiving
+defuzes
 deflex
 domineerer
 dustbox
@@ -3579,7 +3580,6 @@ dehwar
 defuze
 dolman
 dakoities
-defuzes
 dissociative
 degage
 degames
