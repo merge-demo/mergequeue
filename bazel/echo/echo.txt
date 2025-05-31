@@ -3644,7 +3644,6 @@ euploids
 exscinded
 endocrinopathic
 entangling
-ecize
 embryogenesis
 eunomy
 extravert
@@ -4823,6 +4822,7 @@ encashing
 encountering
 eros
 equilibrate
+ecize
 exhalate
 equitable
 enforcedly

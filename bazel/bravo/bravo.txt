@@ -7819,7 +7819,6 @@ ballasts
 burrow
 biauricular
 backhouse
-burny
 began
 biauriculate
 blackshirted
@@ -14942,6 +14941,7 @@ breakfaster
 bullfeast
 blepharorrhaphy
 billowier
+burny
 brecht
 bungholes
 billitonite
