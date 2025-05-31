@@ -4307,7 +4307,6 @@ barkeepers
 blubbers
 bushbodies
 batiker
-boebera
 barly
 becall
 becalm
@@ -7615,6 +7614,7 @@ bewitched
 boughed
 bewitcher
 bewitches
+boebera
 bryological
 beswink
 boons
