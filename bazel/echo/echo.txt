@@ -751,6 +751,7 @@ ecotypes
 ecotipically
 epigeic
 ecotypically
+engulfs
 ecotonal
 enclaved
 ecaudate
@@ -3539,7 +3540,6 @@ embolize
 eupeptic
 epididymal
 entocone
-engulfs
 embolomalerism
 enervator
 exceeder
