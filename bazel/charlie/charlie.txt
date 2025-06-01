@@ -6426,6 +6426,7 @@ cauteries
 cauterisation
 couche
 cauterise
+collision
 cauterising
 cauterism
 carafe
@@ -13663,7 +13664,6 @@ cotsetle
 cimbric
 canalised
 clovene
-collision
 cyme
 cymelet
 cimelium
