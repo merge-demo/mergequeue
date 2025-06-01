@@ -2543,7 +2543,6 @@ chaldaical
 candlefishes
 collogued
 candleholder
-corrections
 candlelight
 candlelighter
 chaloth
@@ -19122,6 +19121,7 @@ commutual
 colligative
 carmela
 collimate
+corrections
 coeds
 chiefess
 cabalism
