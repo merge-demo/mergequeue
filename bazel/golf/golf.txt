@@ -2609,7 +2609,6 @@ glims
 gymnosophist
 genethlic
 glossopetra
-grossify
 goatee
 glossosteresis
 geniality
@@ -8908,6 +8907,7 @@ gridded
 glossopalatinus
 gatsby
 gyration
+grossify
 greund
 gurgulation
 gentianin
