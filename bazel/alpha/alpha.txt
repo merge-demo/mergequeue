@@ -13099,7 +13099,6 @@ animalier
 animalillio
 arracacia
 adenostemonous
-aphidicolous
 androgametangium
 animalise
 animando
@@ -15602,6 +15601,7 @@ antinormality
 antinormalness
 alembics
 anoxaemia
+aphidicolous
 antinovelist
 antinucleons
 amygdalitis
