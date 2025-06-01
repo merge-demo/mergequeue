@@ -5584,6 +5584,7 @@ girdlecake
 grossular
 giftlike
 gl
+grabman
 groundwall
 goldseed
 guayroto
@@ -6838,7 +6839,6 @@ gynandroid
 garrotes
 garfish
 gregarina
-grabman
 gelatinoid
 graticulate
 glis
