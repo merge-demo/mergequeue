@@ -2554,7 +2554,6 @@ granodiorite
 giltheads
 guillotined
 grassed
-gyrogonite
 guigne
 gargling
 gametogeny
@@ -5010,6 +5009,7 @@ groused
 glassen
 goalkeeper
 golconda
+gyrogonite
 gecarcinus
 gastrogenital
 gv
@@ -6618,7 +6618,6 @@ gladsome
 gonidangium
 graver
 gonepoiesis
-gash
 geostatic
 grandioso
 gustoish
@@ -10440,6 +10439,7 @@ gruffy
 grosbeaks
 groundsill
 goudy
+gash
 gesneraceous
 gomphodont
 geobiologic
