@@ -1507,6 +1507,7 @@ efts
 egad
 elderlies
 eerock
+encyclopediac
 entomophilous
 egalitarians
 evected
@@ -3382,7 +3383,6 @@ embarkment
 embarks
 equipage
 exteroceptor
-encyclopediac
 estriol
 embarrassment
 equilibrium
