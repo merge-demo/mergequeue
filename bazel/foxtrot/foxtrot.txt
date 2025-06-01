@@ -9278,6 +9278,7 @@ fertil
 flagons
 fordull
 front
+foregoers
 foremost
 fabrikoid
 fruticeta
@@ -9981,7 +9982,6 @@ fossilising
 frijole
 footprint
 frike
-foregoers
 forewarner
 footpaths
 foreshroud
