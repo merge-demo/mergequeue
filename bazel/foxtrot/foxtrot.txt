@@ -2228,7 +2228,6 @@ fracture
 filtrated
 filesave
 fainaiguer
-fusilades
 femora
 fen
 fatil
@@ -3374,6 +3373,7 @@ fanioned
 folily
 feeless
 familistic
+fusilades
 fopling
 fossilification
 fieldwort
