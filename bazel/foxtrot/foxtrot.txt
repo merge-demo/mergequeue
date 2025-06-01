@@ -3403,7 +3403,6 @@ fiascoes
 foretalk
 fiendly
 featurely
-fatidic
 fc
 fetishlike
 firmed
@@ -6264,6 +6263,7 @@ fluidounce
 factory
 fluigram
 filestatus
+fatidic
 forepoling
 frankincensed
 flybelts
