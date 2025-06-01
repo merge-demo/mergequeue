@@ -1410,7 +1410,6 @@ enzymes
 efflorescing
 effluences
 endoral
-effluvia
 epitasis
 epithalamia
 essenced
@@ -5780,6 +5779,7 @@ encrinal
 encloser
 enray
 ephoi
+effluvia
 environing
 elephant
 electroencephalograms
