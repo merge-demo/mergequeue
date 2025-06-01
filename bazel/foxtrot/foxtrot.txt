@@ -3037,7 +3037,6 @@ fibbery
 fibbers
 fustin
 fiber
-ferruginate
 fiberizes
 fritillary
 federalists
@@ -5876,6 +5875,7 @@ feculae
 foetalism
 frangent
 flockwise
+ferruginate
 fusibility
 fashiousness
 flocs
