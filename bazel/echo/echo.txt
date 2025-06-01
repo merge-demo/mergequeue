@@ -2685,7 +2685,6 @@ expectorating
 enmesh
 enduros
 electrotherapy
-emigre
 electrotheraputic
 emyds
 electrothermal
@@ -11252,6 +11251,7 @@ evangelistaries
 earflower
 endostraca
 enamor
+emigre
 enthronized
 evangelistic
 epidictical
