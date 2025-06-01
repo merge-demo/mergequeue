@@ -2582,7 +2582,6 @@ armenite
 aromatite
 actutate
 arriswise
-acquests
 acquiesce
 addiction
 acquiesced
@@ -10695,6 +10694,7 @@ aphronitre
 anorthography
 aminopurine
 aminoquin
+acquests
 aminosuccinamic
 applicants
 araru
