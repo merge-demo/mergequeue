@@ -2259,7 +2259,6 @@ gonangial
 genettes
 globelike
 garance
-gomavel
 geissoloma
 geissolomataceae
 geissolomataceous
@@ -5682,6 +5681,7 @@ glaciometer
 gorilline
 gesundheit
 goitered
+gomavel
 glossies
 glossiest
 gybed
