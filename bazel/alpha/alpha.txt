@@ -53,6 +53,7 @@ adstringe
 abacus
 annotation
 alcheringa
+anopisthographic
 abacuses
 abaddon
 abadejo
@@ -19929,7 +19930,6 @@ anenterous
 artistically
 acle
 armouchiquois
-anopisthographic
 ammine
 armour
 armourbearer
