@@ -2878,7 +2878,6 @@ flatlets
 forestair
 fibrillose
 faeries
-fluky
 ferlies
 funks
 fetterlock
@@ -6135,6 +6134,7 @@ fewneses
 foresaw
 farrieries
 fabella
+fluky
 flowcharted
 festivals
 fragmentized
