@@ -6925,7 +6925,6 @@ barchan
 bitumed
 brandywine
 besetment
-besets
 besetters
 blessed
 besew
@@ -8799,6 +8798,7 @@ bingo
 bingos
 binh
 bounden
+besets
 bini
 beraking
 bettering
