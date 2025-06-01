@@ -5249,6 +5249,7 @@ declaimers
 denunciations
 deputy
 denominations
+desired
 dicty
 dine
 dekabrist
@@ -6802,7 +6803,6 @@ demodex
 desiodothyroxine
 desirableness
 disseminated
-desired
 dojo
 dietzeite
 desiredly
