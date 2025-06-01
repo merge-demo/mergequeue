@@ -1571,7 +1571,6 @@ gauntlet
 gutteral
 geropiga
 gulanganes
-glimpse
 galleria
 gumshoe
 gunlock
@@ -6427,6 +6426,7 @@ girrock
 goldentop
 grapewise
 golder
+glimpse
 generates
 grower
 goldfinny
