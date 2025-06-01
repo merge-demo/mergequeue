@@ -4534,6 +4534,7 @@ gravicembalo
 gutturalized
 guadalcazarite
 graphometry
+glim
 gagger
 grinter
 guardrail
@@ -4587,7 +4588,6 @@ greenheart
 gyrating
 galvanise
 gorillaship
-glim
 gammarid
 grayer
 gentility
