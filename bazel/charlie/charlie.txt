@@ -10271,6 +10271,7 @@ chiasmus
 coeline
 curacao
 chiastoneural
+concernedness
 chiastoneury
 charkhana
 chalone
@@ -11379,7 +11380,6 @@ chlorogenic
 chloroguanide
 chloroid
 chloroma
-cooptative
 copelidine
 chaneled
 chloromata
@@ -19986,6 +19986,7 @@ commandless
 cruentate
 cyp
 coruler
+cooptative
 commandment
 chronophotographic
 cozzes
@@ -21247,7 +21248,6 @@ cabber
 chopped
 concernancy
 concerned
-concernedness
 cumbersome
 concerning
 concerningly
@@ -25639,6 +25639,7 @@ corpuscularian
 colombian
 confinedness
 completed
+characterizers
 corpuscularity
 corpuscule
 corpusculous
@@ -29352,7 +29353,6 @@ countian
 cryptopyic
 cambistry
 cryptopine
-characterizers
 cantator
 concrement
 cryptopyrrole

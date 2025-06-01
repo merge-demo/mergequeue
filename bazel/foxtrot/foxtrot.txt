@@ -4148,6 +4148,7 @@ firebox
 flocculation
 fellowcraft
 floerkea
+feebler
 fibrils
 functionalized
 faintness
@@ -4337,7 +4338,6 @@ fu
 fellows
 forewomen
 foresleeve
-feebler
 friendlies
 foreacquaint
 fuliginously
