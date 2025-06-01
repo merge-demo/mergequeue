@@ -3052,6 +3052,7 @@ fibred
 fibrefill
 fenestra
 fasciolidae
+foursquare
 fibreless
 fractionalization
 fibril
@@ -8961,7 +8962,6 @@ fourrier
 flagellates
 fourscorth
 foelike
-foursquare
 feature
 foursquareness
 functionalistic
