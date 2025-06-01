@@ -572,7 +572,6 @@ colloque
 confort
 caduac
 cruiseway
-caduca
 commilitant
 catalineta
 caducean
@@ -14705,6 +14704,7 @@ crime
 cryptogenous
 confederations
 cystolith
+caduca
 cystolithiasis
 cystoma
 cystomas
