@@ -4216,6 +4216,7 @@ aclastic
 adposition
 azonium
 appending
+armorer
 alchornea
 adrad
 alumen
@@ -20897,7 +20898,6 @@ arter
 arseno
 achterveld
 ascaridia
-armorer
 ascaridiasis
 aerie
 apocynaceae
