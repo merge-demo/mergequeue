@@ -3508,6 +3508,7 @@ fulgorid
 fusicladium
 foreallot
 figurer
+fute
 flyweight
 fernland
 figures
@@ -11664,7 +11665,6 @@ filoselle
 forcingly
 farasula
 fut
-fute
 funnellike
 futhorc
 fleshers
