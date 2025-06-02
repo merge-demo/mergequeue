@@ -9842,7 +9842,6 @@ bathyl
 bitheism
 bisegment
 beaten
-biti
 bullnecked
 brucins
 bromals
@@ -10724,6 +10723,7 @@ blennemesis
 bullets
 blennenteria
 box
+biti
 benzalhydrazine
 balian
 bandfish
