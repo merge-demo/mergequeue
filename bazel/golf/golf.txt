@@ -2833,7 +2833,6 @@ genua
 graafian
 gruel
 geatas
-gondolet
 genuflecting
 gaberdine
 guildship
@@ -5602,6 +5601,7 @@ gemology
 garnice
 gradable
 geophilidae
+gondolet
 gymnasium
 golfers
 glossocomium
