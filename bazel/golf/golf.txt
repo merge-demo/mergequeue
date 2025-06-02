@@ -6807,6 +6807,7 @@ gagwriter
 gasmaker
 gastrojejunal
 globosphaerite
+grossirete
 groves
 grocer
 grandpa
@@ -7768,7 +7769,6 @@ gestion
 gangplank
 graisse
 gerately
-grossirete
 gook
 glead
 gateado
