@@ -137,7 +137,6 @@ cablecast
 cardiolith
 catholici
 crudes
-ciborium
 cabled
 cablegram
 cablegrams
@@ -17988,6 +17987,7 @@ captiving
 colpocele
 coelectron
 centrist
+ciborium
 clubwood
 circumvolving
 coelentera
