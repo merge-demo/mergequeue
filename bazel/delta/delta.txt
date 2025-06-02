@@ -6684,7 +6684,6 @@ deserved
 disesteemer
 deservers
 droplight
-distinctor
 decadianome
 drawarm
 dipneedle
@@ -15843,6 +15842,7 @@ diestrus
 dorsi
 debosh
 dorsibranchiata
+distinctor
 diaphragming
 dentosurgical
 disprobabilize
