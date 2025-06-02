@@ -4915,6 +4915,7 @@ aeromechanics
 aeromedical
 aerometer
 amygdalus
+amenite
 amphictyonies
 autonomously
 athenians
@@ -18567,7 +18568,6 @@ arccos
 appomattoc
 astrocaryum
 arced
-amenite
 apostume
 assiduousness
 anhematosis
