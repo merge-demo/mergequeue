@@ -2125,7 +2125,6 @@ bidstand
 bantam
 bantamize
 bismar
-botanomancy
 burette
 banteng
 banter
@@ -13894,6 +13893,7 @@ baptizee
 biochemist
 bowsman
 bown
+botanomancy
 bows
 brontograph
 bowsaw

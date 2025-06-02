@@ -1958,7 +1958,6 @@ flannelette
 fireball
 fulminancy
 flushed
-fiendishly
 fravashi
 frden
 feeds
@@ -4133,6 +4132,7 @@ fenchyl
 feezed
 fireboy
 flying
+fiendishly
 fraticelli
 firebomb
 fakiness
