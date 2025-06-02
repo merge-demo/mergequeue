@@ -6556,6 +6556,7 @@ aigialosaur
 aigialosauridae
 aigialosaurus
 antasthenic
+apolarity
 aiglet
 alectoriae
 aphroditeum
@@ -17140,7 +17141,6 @@ authenticly
 androecia
 anhydrite
 apolar
-apolarity
 amphidiploid
 averin
 achiote
