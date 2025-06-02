@@ -4820,7 +4820,6 @@ carpos
 chibouk
 carposporangial
 catalase
-carpospore
 carlist
 carposporous
 carps
@@ -24673,6 +24672,7 @@ creneled
 corollaceous
 cola
 corage
+carpospore
 copperbottom
 copperer
 curare
