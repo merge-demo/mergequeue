@@ -16418,6 +16418,7 @@ antum
 ambulatio
 antwerp
 antwise
+awaked
 anubin
 anunder
 anural
@@ -24908,7 +24909,6 @@ awakable
 apetaloid
 awake
 awakeable
-awaked
 awakened
 alkermes
 algometer
