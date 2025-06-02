@@ -2859,7 +2859,6 @@ gynaeceum
 groggier
 geo
 gallerylike
-genarch
 gigmanhood
 gravediggers
 guddled
@@ -4740,6 +4739,7 @@ gaullist
 gotta
 gomeril
 galleta
+genarch
 glossematics
 glar
 givingness
