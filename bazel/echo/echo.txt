@@ -9702,7 +9702,6 @@ espressos
 esprit
 enterorrhexis
 esq
-esquiredom
 esquires
 existence
 evacue
@@ -11114,6 +11113,7 @@ endolumbar
 eusthenopteron
 electros
 espies
+esquiredom
 emulated
 eutaenia
 enchasing
