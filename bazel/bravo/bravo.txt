@@ -4209,7 +4209,6 @@ backchain
 bellmen
 barometric
 brusquer
-beatless
 beatnik
 beatrix
 becater
@@ -9251,6 +9250,7 @@ bring
 bipyridyl
 biangulated
 bubale
+beatless
 bacterioidal
 bedouinism
 bothersomeness
