@@ -1481,6 +1481,7 @@ depressure
 deaccessioning
 drawbolt
 dingbats
+definiendum
 deformers
 diazines
 disunions
@@ -9729,7 +9730,6 @@ dilacerated
 dilactic
 dilactone
 dilamination
-definiendum
 dilaniate
 dribbling
 doubled
