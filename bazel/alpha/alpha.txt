@@ -9737,7 +9737,6 @@ amah
 amahuaca
 assoil
 amanori
-assibilation
 amain
 andouillette
 amaist
@@ -11017,6 +11016,7 @@ amortising
 amortizable
 amortized
 algic
+assibilation
 amortizes
 albizias
 atop
