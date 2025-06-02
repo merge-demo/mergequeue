@@ -10892,7 +10892,6 @@ exsolve
 exemplarity
 exrupeal
 eocene
-encamped
 emmetropia
 eutectic
 emphaticalness
@@ -11552,6 +11551,7 @@ evocator
 evoe
 ensilaging
 erethizon
+encamped
 exsanguine
 endites
 evernia
