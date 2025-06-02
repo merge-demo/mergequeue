@@ -2407,7 +2407,6 @@ guianese
 groomed
 gauk
 gruesomer
-gilbertese
 gleemaiden
 ghostfish
 gyrencephalous
@@ -2685,6 +2684,7 @@ granularity
 gingers
 geek
 genip
+gilbertese
 genyplasty
 glashan
 globularness
