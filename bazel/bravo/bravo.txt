@@ -4114,7 +4114,6 @@ bicompact
 bodysurfs
 bowmaking
 beelbow
-bradylexia
 brushproof
 beardfishes
 beswarms
@@ -9762,6 +9761,7 @@ bistort
 bistorts
 bistred
 beknights
+bradylexia
 baronetage
 basiating
 bemixing
