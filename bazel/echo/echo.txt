@@ -5976,7 +5976,6 @@ escaped
 emetomorphine
 ectomere
 encumbrancer
-erastus
 eudromias
 equivaliant
 epizooty
@@ -12887,6 +12886,7 @@ expanders
 elvish
 eserines
 extorting
+erastus
 expandible
 editions
 envenoms
