@@ -8444,6 +8444,7 @@ groupers
 gayal
 galleon
 geomorphological
+geotectonically
 gravelish
 gillaroo
 geognostical
@@ -8815,7 +8816,6 @@ greyiaceae
 gastness
 gypsiologist
 glaury
-geotectonically
 gneisses
 guardfully
 guanos
