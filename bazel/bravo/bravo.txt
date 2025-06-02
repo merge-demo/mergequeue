@@ -4212,7 +4212,6 @@ beatnik
 beatrix
 becater
 bonged
-beats
 blasties
 beatuti
 brachet
@@ -4586,6 +4585,7 @@ bloodstone
 boden
 belial
 biddelian
+beats
 bedazement
 bedazzle
 blared
