@@ -1610,7 +1610,6 @@ flannel
 fawkener
 fawn
 funfair
-functionalities
 fawned
 flashtubes
 fretize
@@ -9754,6 +9753,7 @@ frequenters
 ferijee
 frequentest
 feldspar
+functionalities
 frapp
 fallacies
 falchion
