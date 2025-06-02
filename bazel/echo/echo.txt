@@ -7011,7 +7011,6 @@ eneas
 eustyle
 ebulliometry
 entrepreneur
-equips
 enrobers
 entrer
 entresols
@@ -7749,6 +7748,7 @@ englify
 enslaved
 ensure
 emendable
+equips
 edelweisses
 entelam
 epidiascope
