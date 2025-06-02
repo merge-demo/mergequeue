@@ -1910,6 +1910,7 @@ freight
 furling
 friable
 fangot
+forebearing
 floccule
 finagling
 fonly
@@ -2624,7 +2625,6 @@ fluocerite
 frumpling
 ferrumination
 fluviatic
-forebearing
 fraters
 feedings
 felspathic
