@@ -2906,6 +2906,7 @@ feudalist
 featuring
 feudalists
 fractionising
+freetrader
 fomentations
 fulham
 fairhead
@@ -5577,7 +5578,6 @@ flimflammed
 flight
 frusla
 faintishness
-freetrader
 fortitude
 flighter
 fraik
