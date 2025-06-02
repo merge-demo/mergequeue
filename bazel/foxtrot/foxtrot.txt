@@ -10407,7 +10407,6 @@ fusoid
 flags
 fitche
 footer
-ferfel
 fraggings
 filigree
 flow
@@ -11346,6 +11345,7 @@ foldure
 fellic
 footsores
 fluoroid
+ferfel
 fellowship
 fustinella
 forewind
