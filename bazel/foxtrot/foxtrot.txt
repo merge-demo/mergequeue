@@ -5551,7 +5551,6 @@ flannelmouthed
 flowery
 furbearer
 froebelist
-force
 fanaticized
 forefeel
 fossilation
@@ -7902,6 +7901,7 @@ foreshadowed
 flugelman
 featherman
 flammivomous
+force
 footles
 fetologist
 freshing
