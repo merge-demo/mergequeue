@@ -1924,7 +1924,6 @@ enjoin
 epiphylaxis
 eluants
 eyeleted
-enantiomer
 enabled
 echinulate
 estoppal
@@ -4053,6 +4052,7 @@ entries
 ethmophysal
 entoilment
 emplaster
+enantiomer
 elevating
 emplastic
 emplastration
