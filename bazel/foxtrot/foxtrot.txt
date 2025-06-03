@@ -931,6 +931,7 @@ ferrate
 faquir
 farad
 faradaic
+filleted
 fluorometer
 flamed
 feel
@@ -5854,7 +5855,6 @@ fangas
 flinted
 furcellate
 forehear
-filleted
 ferrichloride
 furnishings
 flocculent
