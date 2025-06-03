@@ -4119,7 +4119,6 @@ cornmaster
 condalia
 cardin
 cardinal
-cardinalates
 cardinalfish
 croslet
 cancans
@@ -8872,6 +8871,7 @@ canonries
 chapteral
 chapterhouse
 chapters
+cardinalates
 chapwoman
 chaqueta
 commanders
