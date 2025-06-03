@@ -1482,7 +1482,6 @@ dingbats
 definiendum
 deformers
 diazines
-disunions
 deacetylate
 donas
 duppies
@@ -7362,6 +7361,7 @@ disprejudice
 deterrent
 dodunk
 detersiveness
+disunions
 detestation
 decomponent
 detestations
