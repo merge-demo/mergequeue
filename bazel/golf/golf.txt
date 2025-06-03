@@ -9062,7 +9062,6 @@ geophagist
 guillemet
 grindable
 gibbose
-grinderman
 grissel
 gingerol
 gadite
@@ -10295,6 +10294,7 @@ girasol
 gault
 granulations
 getsul
+grinderman
 gullygut
 gilling
 gildsman
