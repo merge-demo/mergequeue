@@ -1944,6 +1944,7 @@ broadly
 bagnio
 balances
 bandstring
+bathymetric
 brandishes
 bosquets
 bitripartite
@@ -13793,7 +13794,6 @@ blindstorey
 bowditch
 bountied
 biotoxins
-bathymetric
 bromalbumin
 bowdlerisation
 bezantee
