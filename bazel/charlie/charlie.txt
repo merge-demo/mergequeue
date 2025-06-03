@@ -4525,7 +4525,6 @@ cosponsorship
 carnages
 casamarca
 carnalite
-carnality
 culverin
 carnalize
 counterexposition
@@ -5617,6 +5616,7 @@ contractible
 catalogical
 carking
 choiceless
+carnality
 catalogist
 catalogistic
 catalogize
