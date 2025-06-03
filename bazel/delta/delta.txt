@@ -2558,7 +2558,6 @@ declinational
 decasualization
 dipneumones
 dimmed
-declinations
 dynasty
 declinatory
 declines
@@ -3781,6 +3780,7 @@ developers
 disour
 dehorns
 decaudate
+declinations
 dioptometry
 doughlike
 dehorted
