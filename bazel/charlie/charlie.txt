@@ -1237,7 +1237,6 @@ camporees
 contender
 cauliferous
 calenda
-calendar
 counterfaller
 chlored
 cambrel
@@ -16571,6 +16570,7 @@ cloghead
 carboxyl
 cowsharn
 cosmos
+calendar
 coinheritance
 correlative
 clogmaking
