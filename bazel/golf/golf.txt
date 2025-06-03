@@ -7470,6 +7470,7 @@ glossopharyngeal
 glitch
 guessable
 glottalized
+gat
 governed
 gotten
 graecizing
@@ -9245,7 +9246,6 @@ gesithcund
 gravies
 gigabyte
 gigglesome
-gat
 groceryman
 goitre
 gardnap
