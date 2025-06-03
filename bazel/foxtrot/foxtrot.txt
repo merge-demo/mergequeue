@@ -5648,6 +5648,7 @@ freeloader
 forewarns
 flingy
 funded
+fiddlestring
 flings
 freestyle
 fishwife
@@ -8554,7 +8555,6 @@ fissionable
 fungating
 farmsteading
 forninst
-fiddlestring
 fricative
 flexor
 firedragon
