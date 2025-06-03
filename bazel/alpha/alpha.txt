@@ -18142,7 +18142,6 @@ aplanospore
 asthenosphere
 atip
 aquatone
-abampere
 acidemias
 aquavit
 aquavits
@@ -22082,6 +22081,7 @@ alcavala
 archpretender
 asthenia
 amours
+abampere
 audiograms
 asthenical
 arpeggiando
