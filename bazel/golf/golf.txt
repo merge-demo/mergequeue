@@ -3176,6 +3176,7 @@ getup
 golilla
 grievants
 greatheartedness
+gloater
 globosely
 gaelicization
 gepidae
@@ -7217,7 +7218,6 @@ generosity
 gribble
 gingernut
 gemination
-gloater
 gammas
 gromyl
 gormand
