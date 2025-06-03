@@ -5936,7 +5936,6 @@ banderillero
 belonidae
 bullions
 beprose
-belonoid
 bricktimber
 blisses
 backslap
@@ -5994,6 +5993,7 @@ broads
 belute
 bhungini
 begirdles
+belonoid
 belvedere
 bluewood
 belvedered
