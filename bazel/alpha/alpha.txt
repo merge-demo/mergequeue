@@ -1732,7 +1732,6 @@ accusants
 accusation
 aerical
 accusatively
-accusatives
 arbalests
 archtraitor
 atticized
@@ -11158,6 +11157,7 @@ amia
 amphibrachic
 amphicarpaea
 amphicarpia
+accusatives
 autallotriomorphic
 aptitudinal
 arecaidin

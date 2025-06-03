@@ -10007,6 +10007,7 @@ bombings
 bivoluminous
 bivouaced
 bivouacked
+bredestitch
 balaphon
 brawlys
 bodes
@@ -14968,7 +14969,6 @@ burnut
 bredbergite
 baumhauerite
 bredes
-bredestitch
 betainogen
 burtons
 besmoke
