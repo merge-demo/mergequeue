@@ -19388,7 +19388,6 @@ colopuncture
 coloquintid
 coloquintida
 craniotabes
-curatorship
 carousing
 cerotic
 checkstone
@@ -27758,6 +27757,7 @@ coxalgy
 crepusculum
 coxalgias
 cholents
+curatorship
 convolutedness
 calceiform
 coxankylometer
