@@ -1154,7 +1154,6 @@ genio
 gnawings
 gantsl
 galactometry
-gastrostomus
 gnetums
 guffin
 gaol
@@ -8001,6 +8000,7 @@ gravels
 glenoidal
 granitiform
 geomancer
+gastrostomus
 granitite
 ghain
 genteelish
