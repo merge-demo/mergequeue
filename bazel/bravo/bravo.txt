@@ -7949,7 +7949,6 @@ bibliothecarian
 bibliotheque
 bungalows
 batoka
-brendice
 butic
 begazes
 baseline
@@ -9336,6 +9335,7 @@ birdbander
 beggaries
 belgian
 bespeed
+brendice
 backsides
 besmother
 bescours
