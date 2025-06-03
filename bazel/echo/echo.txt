@@ -5795,6 +5795,7 @@ entification
 evade
 emulatory
 efficace
+electrovalency
 etheling
 exfoliation
 erlkings
@@ -9777,7 +9778,6 @@ empoisoner
 embitterment
 embracive
 essexite
-electrovalency
 explaining
 essoined
 embolemia
