@@ -11136,6 +11136,7 @@ bolography
 blunker
 blandness
 brawniest
+buckler
 benevolently
 bloodlusting
 brotan
@@ -16687,7 +16688,6 @@ bebilya
 buckleless
 baklavas
 bankbooks
-buckler
 bleached
 bodycheck
 bellybuttons
