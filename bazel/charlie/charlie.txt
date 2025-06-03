@@ -3516,7 +3516,6 @@ coverup
 capsuling
 clamer
 capsulitis
-capsulize
 capsulizing
 cabman
 capsulogenous
@@ -14187,6 +14186,7 @@ crystallophobia
 circuits
 clochan
 cardioneural
+capsulize
 circulant
 circular
 colistins
