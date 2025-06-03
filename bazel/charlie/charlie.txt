@@ -8300,7 +8300,6 @@ caird
 chalcidoid
 conocarp
 cadalene
-chalcioecus
 chalcocite
 compotatory
 christianomastix
@@ -10981,6 +10980,7 @@ cicatrixes
 chiromantis
 chirometer
 chiromys
+chalcioecus
 chironym
 caecum
 chironomid
