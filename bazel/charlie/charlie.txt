@@ -5538,6 +5538,7 @@ catacomb
 crowboot
 cpm
 catacombs
+cyanamide
 counterattacks
 catacorner
 catacorolla
@@ -12980,7 +12981,6 @@ crystallised
 cyan
 cyanacetic
 cyanamid
-cyanamide
 conspires
 coextension
 chipling
