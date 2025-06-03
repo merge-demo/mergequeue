@@ -11294,7 +11294,6 @@ chlorinator
 chlorines
 chlorinity
 chicote
-chloriodide
 counterion
 chlorite
 chloritic
@@ -26983,6 +26982,7 @@ chartae
 circumventer
 counterphobic
 counterpicture
+chloriodide
 combretum
 cuprum
 clericalism
