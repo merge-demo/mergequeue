@@ -6633,7 +6633,6 @@ cebid
 cebidae
 chlorophyllan
 contributors
-chessman
 cebil
 ceboids
 chondritis
@@ -22398,6 +22397,7 @@ compressible
 conichalcite
 contaminating
 conicle
+chessman
 conicopoly
 conidae
 champlainic
