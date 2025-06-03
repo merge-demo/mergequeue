@@ -6662,7 +6662,6 @@ gymnosperm
 grattage
 gewgawed
 growse
-gyrus
 grittle
 gardenize
 goosey
@@ -7533,6 +7532,7 @@ grassweed
 gledge
 gloomful
 gaumy
+gyrus
 generalizer
 gheraoes
 grille
