@@ -5530,7 +5530,6 @@ felon
 fratriage
 foliaceous
 fluctuant
-forespeaker
 fungic
 flybelt
 familiary
@@ -9085,6 +9084,7 @@ fedelini
 frisure
 fenlander
 frankist
+forespeaker
 featy
 falsification
 fossilise
