@@ -10911,7 +10911,6 @@ blooded
 blindfish
 blindfishes
 bluelegs
-barograms
 blindfolded
 bassus
 butterbush
@@ -11316,6 +11315,7 @@ blowouts
 blowproof
 blows
 bleachability
+barograms
 boneyard
 biologism
 blowse
