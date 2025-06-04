@@ -4751,6 +4751,7 @@ galleta
 genarch
 glossematics
 glar
+gypsy
 givingness
 gizmos
 globes
@@ -10545,7 +10546,6 @@ gastriloquism
 genisaro
 glyceraldehyde
 gard
-gypsy
 gunk
 girdering
 geeing
