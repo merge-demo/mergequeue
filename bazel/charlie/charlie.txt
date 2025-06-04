@@ -4159,7 +4159,6 @@ creels
 cardiographies
 cardiohepatic
 cardioid
-countertrend
 courche
 calandrinia
 cumflutter
@@ -22022,6 +22021,7 @@ ceraunite
 confiscatable
 cynebot
 confiscate
+countertrend
 crois
 chookies
 count
