@@ -531,7 +531,6 @@ damageably
 detonatable
 damaged
 detort
-destandardize
 damageous
 deaccessions
 dovyalis
@@ -1040,6 +1039,7 @@ darlingness
 darn
 darndest
 darnels
+destandardize
 diplohedral
 dishes
 diacodium
