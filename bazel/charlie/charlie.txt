@@ -2244,7 +2244,6 @@ countershear
 camshafts
 camstane
 caval
-comer
 camstone
 canaliculization
 camuning
@@ -19458,6 +19457,7 @@ colorisms
 cystous
 coloristically
 cadded
+comer
 crosscrosslet
 cheaping
 cincholoiponic
