@@ -7774,7 +7774,6 @@ epidiorthosis
 epiblemata
 epiproct
 eupatridae
-epidotic
 electrologists
 electrothermancy
 epifaunae
@@ -11202,6 +11201,7 @@ eternalism
 evanescence
 encephalomalacosis
 epiphytes
+epidotic
 engines
 exuberantly
 electroacoustically
