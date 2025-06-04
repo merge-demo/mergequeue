@@ -3675,7 +3675,6 @@ balearian
 bedboard
 baste
 bucketful
-bohor
 bally
 belfather
 batteaux
@@ -6178,6 +6177,7 @@ blanking
 blastide
 basin
 brookie
+bohor
 baske
 benefactress
 benign
