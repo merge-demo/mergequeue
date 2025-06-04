@@ -11601,7 +11601,6 @@ bisontine
 board
 boarded
 besmudged
-bibulosity
 blastoffs
 boardinghouse
 boardings
@@ -13959,6 +13958,7 @@ bowwow
 bethels
 bumbershoot
 blitzes
+bibulosity
 becluster
 boxing
 boxmaker
