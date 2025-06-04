@@ -5214,6 +5214,7 @@ attackable
 anapterygotous
 alingual
 anapophysial
+alligation
 affination
 affine
 anteporch
@@ -7322,7 +7323,6 @@ albas
 austin
 albatas
 alkaid
-alligation
 alcoved
 africander
 albe
