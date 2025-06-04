@@ -10743,6 +10743,7 @@ amphirhine
 atwitter
 affa
 antiphthisical
+asterisked
 amissible
 amissing
 amita
@@ -20107,7 +20108,6 @@ arquebuses
 antiracing
 antihectic
 arr
-asterisked
 arracach
 arrace
 autosite
