@@ -1900,7 +1900,6 @@ gamelote
 germaniums
 groundable
 gowd
-guan
 grails
 golland
 grelot
@@ -3326,6 +3325,7 @@ germifuge
 goldurned
 goog
 giftie
+guan
 gaults
 germin
 guttae
