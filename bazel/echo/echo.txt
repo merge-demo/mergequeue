@@ -5300,6 +5300,7 @@ epipodia
 endoskeletons
 endosmic
 evaders
+embaphium
 ethenyl
 emendicate
 endosmoses
@@ -10170,7 +10171,6 @@ eunuchoid
 empestic
 esteemer
 ethnographist
-embaphium
 erastianism
 etherifies
 etherifying
