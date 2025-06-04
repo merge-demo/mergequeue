@@ -80,7 +80,6 @@ fullfaces
 facundity
 facemark
 flunkeyhood
-feuter
 flocklike
 floozie
 forme
@@ -7987,6 +7986,7 @@ fowent
 fumeless
 forespeaking
 flavorer
+feuter
 farfugium
 fletton
 fissipedia
