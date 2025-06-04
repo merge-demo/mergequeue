@@ -2780,7 +2780,6 @@ garni
 guzzledom
 gyges
 guemul
-guzmania
 garblings
 grandisonous
 gazettal
@@ -4681,6 +4680,7 @@ gelatia
 giraffes
 generis
 gastraeas
+guzmania
 guanacos
 gallinula
 gynodioecism
