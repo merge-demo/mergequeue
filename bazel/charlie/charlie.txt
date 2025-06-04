@@ -25541,7 +25541,6 @@ coronis
 chese
 coronium
 cremocarp
-coronobasilar
 coronofrontal
 catenates
 conemaker
@@ -26612,6 +26611,7 @@ conventionalisation
 counsel
 counterpanes
 counselable
+coronobasilar
 counseled
 champagned
 counselee
