@@ -5841,6 +5841,7 @@ agents
 ageometrical
 advisor
 absence
+anophyte
 ager
 agers
 autogenous
@@ -7001,7 +7002,6 @@ akalimba
 akamai
 annoyed
 akamatsu
-anophyte
 akan
 akania
 amicable
