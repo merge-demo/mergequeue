@@ -1170,7 +1170,6 @@ frays
 footfeed
 federalese
 fascinator
-foliages
 ferous
 flowerless
 flouters
@@ -4559,6 +4558,7 @@ frees
 festing
 fesswise
 fringilliformes
+foliages
 flunkyism
 fissidens
 fossilify
