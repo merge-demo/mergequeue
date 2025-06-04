@@ -4157,7 +4157,6 @@ empresses
 emprint
 emprises
 epinastically
-entomotaxy
 emprison
 euphausiid
 emulgent
@@ -7825,6 +7824,7 @@ exarchate
 exophoria
 eddish
 epigoni
+entomotaxy
 epigonic
 expletive
 excardination
