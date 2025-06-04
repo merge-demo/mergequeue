@@ -4143,6 +4143,7 @@ glenwood
 guarapo
 globuloid
 gelinotte
+graphemic
 glycoproteid
 gastroarthritis
 galvanoplastic
@@ -8162,7 +8163,6 @@ geopositive
 gravid
 gladlier
 gigabit
-graphemic
 glycerolyses
 gelatinise
 geometricize
