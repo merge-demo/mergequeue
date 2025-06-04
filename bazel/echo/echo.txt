@@ -1121,7 +1121,6 @@ epeisodion
 elatrometer
 electrotypes
 epicaridea
-euomphalus
 edith
 epitrichial
 exsanguinated
@@ -2355,6 +2354,7 @@ expostulate
 electroplates
 ellipsis
 ecumenical
+euomphalus
 emulsifying
 egba
 episteme
