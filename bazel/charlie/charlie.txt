@@ -15440,7 +15440,6 @@ clappe
 clapper
 clapperclaw
 cloragen
-compensate
 clappered
 chitchatting
 clappers
@@ -28780,6 +28779,7 @@ cleaving
 crescented
 clocked
 chochos
+compensate
 crescentiform
 chinking
 chylifactive
