@@ -7622,7 +7622,6 @@ acrocephalous
 assument
 alcicornium
 acetary
-alcidae
 antisepticist
 alcidine
 audiometry
@@ -8804,6 +8803,7 @@ allis
 aristocrat
 alliterate
 acescence
+alcidae
 alliterates
 await
 actious
