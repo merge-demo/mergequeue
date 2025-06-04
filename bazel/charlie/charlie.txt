@@ -12031,7 +12031,6 @@ chlorins
 chorist
 cyanuret
 characetum
-chassis
 choristate
 chorister
 centralization
@@ -31906,6 +31905,7 @@ cutworm
 cutworms
 coldblooded
 cuvee
+chassis
 cuvettes
 cuvy
 cuzceno
