@@ -708,7 +708,6 @@ deadmelt
 danceability
 danceable
 demoniacs
-deruralize
 danced
 diddled
 debauchment
@@ -9431,6 +9430,7 @@ disinflating
 diffract
 defense
 diffractively
+deruralize
 diffractiveness
 dist
 diffranchise
