@@ -4117,7 +4117,6 @@ externum
 encl
 encaustes
 exporter
-elaborator
 elaeosia
 engraphy
 eyeroot
@@ -6751,6 +6750,7 @@ emerit
 evacuation
 ediface
 enthusiasms
+elaborator
 exhibits
 entrechat
 endoceratitic
