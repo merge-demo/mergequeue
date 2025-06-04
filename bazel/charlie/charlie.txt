@@ -7370,6 +7370,7 @@ cephalate
 cephalhematoma
 coracovertebral
 cephalic
+chequering
 cephalina
 cephaline
 cephalins
@@ -20765,7 +20766,6 @@ carburan
 civilizedness
 cytode
 complicates
-chequering
 complicative
 complicator
 complicators
