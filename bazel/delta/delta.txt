@@ -1050,7 +1050,6 @@ devoiced
 dipterad
 darners
 darning
-daroga
 dimeters
 decarch
 dorsodynia
@@ -7444,6 +7443,7 @@ diapensia
 daddynut
 diglottism
 detrimentally
+daroga
 deviate
 dancer
 drumfire
