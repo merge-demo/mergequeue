@@ -5385,7 +5385,6 @@ birne
 begrett
 begrim
 blithesome
-befingered
 bethumped
 begrimed
 bandusian
@@ -10895,6 +10894,7 @@ biggity
 bibbling
 blindball
 bindable
+befingered
 bangers
 boxball
 barracker
