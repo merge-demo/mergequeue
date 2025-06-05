@@ -1837,7 +1837,6 @@ grizel
 grassy
 gesso
 gabbier
-gatekeepers
 glos
 garlands
 grasses
@@ -7317,6 +7316,7 @@ gossipee
 griffon
 greensward
 glyoxime
+gatekeepers
 generalizers
 glomus
 gomarite
