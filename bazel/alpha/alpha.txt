@@ -11576,7 +11576,6 @@ achamoth
 agars
 afright
 anachronistic
-anachronize
 animalish
 acuerdos
 albuminuria
@@ -15827,6 +15826,7 @@ antipoetic
 apennines
 antipoetical
 adrenalectomies
+anachronize
 antipolar
 antipole
 atypically
