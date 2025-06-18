@@ -3759,7 +3759,6 @@ blastomeric
 batwing
 baysmelt
 beswitch
-betatrons
 batwomen
 brevipennate
 beetlestock
@@ -6055,6 +6054,7 @@ balarama
 bole
 bilabial
 bemocking
+betatrons
 bibliological
 brahmanical
 bort
