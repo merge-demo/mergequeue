@@ -6709,7 +6709,6 @@ ceilidhe
 connexivum
 ceiling
 ceilings
-ceilingwards
 copiability
 celtophobia
 ceilometer
@@ -9268,6 +9267,7 @@ chastiser
 clapperboard
 corf
 chastity
+ceilingwards
 chastities
 chockstone
 chasubled
