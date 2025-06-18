@@ -1750,6 +1750,7 @@ bibliokelpt
 balthasar
 baltheus
 belgas
+biotaxy
 blends
 baltimore
 bumblebeefishes
@@ -11877,7 +11878,6 @@ barmybrained
 birdsall
 bended
 bakshished
-biotaxy
 bodonid
 bromic
 barming
