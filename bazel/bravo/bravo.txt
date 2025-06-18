@@ -3557,7 +3557,6 @@ bigmouths
 boliviano
 bathythermograph
 bathkol
-bipartite
 bathmat
 bathmats
 broodsac
@@ -6012,6 +6011,7 @@ bevaring
 bemask
 brownistic
 bricktop
+bipartite
 bossier
 befooling
 brewis
