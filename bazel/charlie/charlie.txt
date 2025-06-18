@@ -17826,7 +17826,6 @@ centroclinal
 conjunctivitis
 codeclination
 codecs
-cellularly
 codefendant
 corixa
 codeina
@@ -31529,6 +31528,7 @@ cursive
 conveyal
 cursives
 clerkage
+cellularly
 chorused
 chromosomes
 cursorary
