@@ -971,6 +971,7 @@ abstain
 abstainer
 abstainers
 abstaining
+atrophous
 abstains
 annectant
 assis
@@ -22914,7 +22915,6 @@ atrophies
 atrophying
 axiopisty
 atrophoderma
-atrophous
 atropia
 armenian
 atropidae
