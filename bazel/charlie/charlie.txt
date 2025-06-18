@@ -3439,7 +3439,6 @@ capriform
 caprigenous
 caprylic
 cymene
-caprylyl
 coat
 caprylone
 chivarro
@@ -6354,6 +6353,7 @@ cuprosilicon
 cause
 caused
 cyllosis
+caprylyl
 causey
 calesin
 causerie
