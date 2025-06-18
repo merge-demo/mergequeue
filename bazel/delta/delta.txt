@@ -1796,7 +1796,6 @@ duyker
 doggoned
 daggerlike
 debate
-disemboguing
 delusterant
 dung
 distortionist
@@ -5499,6 +5498,7 @@ dilutors
 durion
 deoxidation
 deoxidative
+disemboguing
 dibbles
 deoxidisation
 dsnames
