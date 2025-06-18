@@ -9098,7 +9098,6 @@ dihexahedral
 dorsals
 dictyodromous
 deafest
-dictyogen
 dictyoid
 diction
 disparage
@@ -11307,6 +11306,7 @@ dentals
 discarnate
 duskier
 dimit
+dictyogen
 discusser
 dodginess
 desponsage
