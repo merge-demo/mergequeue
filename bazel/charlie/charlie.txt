@@ -3366,7 +3366,6 @@ candlestick
 catapetalous
 counterweighing
 capot
-capotasto
 capotastos
 choicest
 chronographically
@@ -19113,6 +19112,7 @@ cardiasthma
 chloridizing
 collimated
 collimates
+capotasto
 collimation
 collimator
 considered
