@@ -1835,6 +1835,7 @@ acerate
 acerated
 anastomotic
 aceratherium
+amtrac
 anteresurrection
 acerbate
 acerbated
@@ -10024,7 +10025,6 @@ ambigu
 ambiguity
 anorthitite
 ambilateralaterally
-amtrac
 antipatharia
 ambiopia
 ambisexuality
