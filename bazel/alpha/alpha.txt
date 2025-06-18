@@ -7684,7 +7684,6 @@ airmass
 anemogram
 alcoholmetric
 acroter
-abaissed
 alcoholometer
 apterygial
 alcoholometry
@@ -16245,6 +16244,7 @@ antithyroid
 algolagnic
 anilid
 antitintinnabularian
+abaissed
 atmidometry
 argentous
 antitypal
