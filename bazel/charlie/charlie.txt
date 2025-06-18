@@ -11457,7 +11457,6 @@ choanoflagellida
 cotta
 choanophorous
 cataplasm
-choanosome
 choate
 cautioned
 chobie
@@ -21917,6 +21916,7 @@ chungking
 convexities
 confessant
 confessary
+choanosome
 coelomopore
 cornfield
 clubrooms
