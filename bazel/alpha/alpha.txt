@@ -6918,7 +6918,6 @@ acetaldehydrase
 aissor
 ait
 ashot
-antiferromagnet
 aitch
 asphaltene
 amazement
@@ -21750,6 +21749,7 @@ asshead
 axonemes
 assi
 archiblastula
+antiferromagnet
 allotropous
 altimetrical
 assidual
