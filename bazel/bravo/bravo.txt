@@ -1263,7 +1263,6 @@ baldheaded
 balalaika
 birdberry
 batrachiate
-bedim
 balan
 bedstead
 behindhand
@@ -5335,6 +5334,7 @@ burrer
 bivariate
 beglide
 burkers
+bedim
 bor
 beglooms
 begloze
