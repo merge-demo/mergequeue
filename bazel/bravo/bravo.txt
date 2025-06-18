@@ -12532,7 +12532,6 @@ benchy
 bongoes
 bongoist
 bypast
-borrows
 bannimus
 beaus
 bedposts
@@ -16254,6 +16253,7 @@ browst
 barogram
 brickmaker
 bromoketone
+borrows
 brinjaul
 browzer
 biennial
