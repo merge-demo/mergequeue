@@ -15046,6 +15046,7 @@ baldricks
 boulevardiers
 bremsstrahlung
 brushmaker
+bescratch
 bodiment
 bastarda
 blousons
@@ -18326,7 +18327,6 @@ bombardon
 brewst
 botherheaded
 buttons
-bescratch
 breviaries
 biasness
 buttonwood
