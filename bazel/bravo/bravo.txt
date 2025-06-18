@@ -11832,7 +11832,6 @@ barfly
 bodybending
 bodybuilder
 betrinket
-birthing
 bard
 briareus
 browbeater
@@ -13793,6 +13792,7 @@ brisa
 blindstorey
 bowditch
 bountied
+birthing
 biotoxins
 bromalbumin
 bowdlerisation
