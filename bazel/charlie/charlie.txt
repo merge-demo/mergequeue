@@ -2538,6 +2538,7 @@ candlelighter
 chaloth
 confraternities
 choosable
+colliquate
 candlelighting
 candlelit
 cohusband
@@ -19133,7 +19134,6 @@ chaptrel
 collinsite
 collinsonia
 colliquable
-colliquate
 collyria
 collyridian
 collyrite
