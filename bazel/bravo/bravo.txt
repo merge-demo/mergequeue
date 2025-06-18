@@ -1044,7 +1044,6 @@ basanite
 bersil
 boroughmaster
 bailiwick
-bridler
 benzothiopyran
 brasswork
 bailiwicks
@@ -16460,6 +16459,7 @@ bulbomedullary
 bursattee
 brusquest
 boucherize
+bridler
 brussel
 bestrode
 brustle
