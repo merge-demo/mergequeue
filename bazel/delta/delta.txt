@@ -3325,7 +3325,6 @@ disregards
 duplications
 definitions
 definitise
-dekastere
 dormant
 dilatant
 depurge
@@ -14721,6 +14720,7 @@ dm
 deceivably
 divid
 dioecisms
+dekastere
 devilling
 dismarketing
 dendroceratine
