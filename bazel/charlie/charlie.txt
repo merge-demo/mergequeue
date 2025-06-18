@@ -7471,7 +7471,6 @@ coruscations
 cerambycidae
 ceramicite
 catdom
-ceramics
 cledge
 ceramium
 ceramographic
@@ -9423,6 +9422,7 @@ chavante
 chavantean
 chavel
 chavender
+ceramics
 compart
 chavicin
 chomp
