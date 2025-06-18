@@ -13549,7 +13549,6 @@ dungeoner
 disperse
 demeritorious
 disquisitive
-disrelishable
 diogenic
 dissentment
 diagraphic
@@ -17472,6 +17471,7 @@ drouth
 dopas
 delphacid
 desectionalize
+disrelishable
 drouthier
 defame
 definitude
