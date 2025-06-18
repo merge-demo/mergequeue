@@ -2963,6 +2963,7 @@ diaphanotype
 describers
 decemfid
 deductio
+discography
 deductions
 dwarfism
 distrainment
@@ -11475,7 +11476,6 @@ discoglossidae
 dieted
 demythologising
 diamyl
-discography
 digredience
 dekaliter
 dishier
