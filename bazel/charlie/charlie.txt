@@ -2229,7 +2229,6 @@ cabaan
 campus
 chromatic
 campusses
-campward
 chametz
 cerebrotomy
 claiming
@@ -5410,6 +5409,7 @@ castigator
 castigatory
 castigators
 camaldolite
+campward
 counteractingly
 contradictoriness
 castilla
