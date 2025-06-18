@@ -8091,6 +8091,7 @@ biometrics
 bridecup
 bellypinch
 breathing
+blarney
 biculturalism
 billeters
 bicursal
@@ -17691,7 +17692,6 @@ bifid
 burlet
 butterfly
 biotically
-blarney
 brachioganoid
 bumblekite
 banbury

@@ -4711,7 +4711,6 @@ demitasses
 demythologization
 demythologizations
 diplomatize
-demythologizer
 duodecimal
 discretionally
 dees
@@ -16283,6 +16282,7 @@ dramalogue
 downgraded
 dazzles
 darlingtonia
+demythologizer
 drang
 domboc
 dildoes
