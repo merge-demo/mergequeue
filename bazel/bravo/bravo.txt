@@ -1111,6 +1111,7 @@ barkstone
 betrayals
 bedimmed
 boatload
+bedrock
 brindled
 bluethroat
 brewmaster
@@ -4024,7 +4025,6 @@ butled
 beambird
 beamed
 beeve
-bedrock
 beamers
 beamfilling
 beeware
