@@ -10868,7 +10868,6 @@ ammonolitic
 assemblage
 archeological
 ammonolytic
-aitches
 anticult
 amphib
 afrits
@@ -11760,6 +11759,7 @@ altocumulus
 africanthropus
 analysation
 aparavidya
+aitches
 analysers
 abstentions
 aerides
