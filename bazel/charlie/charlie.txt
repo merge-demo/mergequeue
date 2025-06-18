@@ -15986,7 +15986,6 @@ clerical
 clericalists
 crumbum
 clericality
-clericals
 clericate
 chordaceous
 clericature
@@ -31681,6 +31680,7 @@ cushionflower
 cushioning
 celestial
 cushionless
+clericals
 ciruses
 cushionlike
 cushions
