@@ -4929,7 +4929,6 @@ anthraciferous
 aerobranchiate
 astrobiologist
 abluted
-agenizes
 aerometric
 aeronat
 aeronaut
@@ -22240,6 +22239,7 @@ autopsychology
 astrobiologies
 alrighty
 afterdrops
+agenizes
 androseme
 astrobotany
 astrochemistry
