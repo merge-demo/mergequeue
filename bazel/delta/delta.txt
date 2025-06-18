@@ -7597,6 +7597,7 @@ dribber
 deutschland
 deutzia
 deuzan
+dirigibility
 discernible
 drou
 doublewidth
@@ -11814,7 +11815,6 @@ despatch
 discriminativeness
 discriminator
 dashingly
-dirigibility
 diegueno
 disembrangle
 deferrals
