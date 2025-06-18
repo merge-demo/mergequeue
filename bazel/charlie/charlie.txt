@@ -12623,6 +12623,7 @@ chantecler
 cercle
 cafetiere
 chronologizing
+concrescence
 chronomantic
 chronomastix
 chronometer
@@ -21510,7 +21511,6 @@ calycle
 climacterical
 celestialize
 concresce
-concrescence
 cephalohumeral
 concrescive
 colocentesis
