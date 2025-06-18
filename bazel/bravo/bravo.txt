@@ -676,7 +676,6 @@ biannual
 begall
 bronchiolitis
 bathyesthesia
-baculine
 boiseries
 baculoid
 baculus
@@ -9785,6 +9784,7 @@ borg
 bewitching
 bookish
 barleymow
+baculine
 bistriate
 beddable
 breeze
