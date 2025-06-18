@@ -2694,7 +2694,6 @@ canis
 canistel
 crevice
 canjac
-cank
 circumnavigations
 chokestrap
 clingfish
@@ -8702,6 +8701,7 @@ celosias
 channelized
 cannaceae
 commiseration
+cank
 chitlins
 chibol
 channelled
