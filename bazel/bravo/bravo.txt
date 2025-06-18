@@ -2089,7 +2089,6 @@ bannocks
 boilinglike
 bivittate
 banovina
-banquet
 bundist
 blindish
 banqueting
@@ -5163,6 +5162,7 @@ brunizem
 befouling
 befoulment
 befraught
+banquet
 befreight
 borosilicic
 baddish
