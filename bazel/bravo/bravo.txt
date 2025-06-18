@@ -577,7 +577,6 @@ bacon
 balkar
 baubee
 balisaur
-baconian
 bishopric
 breaths
 bistro
@@ -11725,6 +11724,7 @@ brazenfaced
 bahnung
 bobet
 bumkins
+baconian
 befop
 bolsterwork
 bosselated
