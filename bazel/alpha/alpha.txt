@@ -2156,6 +2156,7 @@ adductive
 ararao
 achluophobia
 acholia
+affirmers
 acholoe
 abradant
 acholous
@@ -5254,7 +5255,6 @@ arenicolor
 appetized
 aerobacteriological
 axon
-affirmers
 affirmingly
 affixal
 affixation
