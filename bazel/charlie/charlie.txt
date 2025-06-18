@@ -9057,7 +9057,6 @@ colloq
 charities
 condition
 charityless
-caridoid
 cloaks
 comus
 chicadee
@@ -16152,6 +16151,7 @@ clift
 clifty
 crystallitis
 clarify
+caridoid
 climaciaceae
 crawtae
 copple
