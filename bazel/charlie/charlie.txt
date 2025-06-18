@@ -2570,7 +2570,6 @@ castellanship
 candlesticks
 cogniser
 candlewaster
-cambial
 crocoisite
 candlewasting
 coyan
@@ -4519,6 +4518,7 @@ carnalite
 culverin
 carnalize
 counterexposition
+cambial
 carnalized
 carolingian
 confederative
