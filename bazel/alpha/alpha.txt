@@ -7097,6 +7097,7 @@ actuator
 anointers
 akmuddar
 aknow
+asterin
 aggradation
 agglomerating
 awber
@@ -7665,7 +7666,6 @@ aberroscope
 autoprothesis
 alcoholimeter
 autoconverter
-asterin
 alcoholised
 alcoholysis
 aguinaldos
