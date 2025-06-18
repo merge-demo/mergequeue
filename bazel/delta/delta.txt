@@ -9204,7 +9204,6 @@ dye
 dogship
 defensing
 duelled
-desoxycinchonine
 decalog
 diptych
 dialyse
@@ -9786,6 +9785,7 @@ disapprovable
 descender
 decolourization
 dilatometer
+desoxycinchonine
 dilatometrically
 dilator
 dynamometers
