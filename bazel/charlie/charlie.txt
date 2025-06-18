@@ -6039,7 +6039,6 @@ catholicoi
 catholicon
 clinkers
 catholicos
-curarize
 coraciiform
 cleg
 cyanide
@@ -27959,6 +27958,7 @@ craft
 craftiest
 calycanthus
 conduces
+curarize
 conferencing
 craftiness
 craftless
