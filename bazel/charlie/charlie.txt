@@ -11273,7 +11273,6 @@ canaut
 chloridellidae
 coattail
 chlorides
-covers
 chloridic
 chloridized
 compaternity
@@ -25364,6 +25363,7 @@ committent
 causticization
 corneule
 comprising
+covers
 champs
 cornfields
 cheroots
