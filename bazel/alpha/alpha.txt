@@ -3408,7 +3408,6 @@ addibility
 antroversion
 aphoruridae
 addible
-addicent
 addicted
 antiknocks
 addictedness
@@ -9741,6 +9740,7 @@ ahluwalia
 astrict
 alethiological
 amoving
+addicent
 amah
 amahuaca
 assoil
