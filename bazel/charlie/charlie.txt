@@ -15756,6 +15756,7 @@ claviger
 carshops
 clavilux
 coy
+clericalize
 carlisle
 clavipectoral
 chips
@@ -18494,7 +18495,6 @@ cessations
 cursor
 coheiress
 cepheus
-clericalize
 crosslet
 circlet
 champac
