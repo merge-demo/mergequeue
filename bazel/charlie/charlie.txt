@@ -17373,7 +17373,6 @@ culpas
 cupola
 coassume
 crystallic
-coassuming
 chrysolite
 coast
 coastal
@@ -17807,6 +17806,7 @@ categorisation
 cardiography
 codas
 cardialgic
+coassuming
 coddy
 coddle
 coddler
