@@ -1456,6 +1456,7 @@ dazzle
 dawnstreak
 discriminative
 diffusor
+dorsibranch
 dasypaedal
 discolorated
 dazzler
@@ -7978,7 +7979,6 @@ dedicature
 disincorporation
 drowse
 diagnosticated
-dorsibranch
 drawpoint
 drunkometer
 dextroglucose
