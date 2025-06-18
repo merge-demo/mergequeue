@@ -10349,7 +10349,6 @@ demurrers
 diagrammers
 ditton
 diopter
-diopters
 decumary
 delf
 discounter
@@ -15670,6 +15669,7 @@ doorward
 doorweed
 doover
 doozers
+diopters
 dowieism
 didascaliae
 diobely
