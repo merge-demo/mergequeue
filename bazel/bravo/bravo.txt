@@ -2979,6 +2979,7 @@ becowarding
 bioassay
 blarneyer
 barstools
+burlers
 bart
 bartended
 barrera
@@ -4245,7 +4246,6 @@ beautihood
 berbamine
 blattariae
 barest
-burlers
 burman
 burgonet
 beaverism
