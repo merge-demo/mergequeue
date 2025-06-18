@@ -11958,7 +11958,6 @@ boggier
 bogginess
 boggle
 blastemas
-boggler
 bannerol
 bogglers
 boggling
@@ -17179,6 +17178,7 @@ brughs
 bestarve
 boozy
 balsamical
+boggler
 benedictional
 besprizorni
 bathylith
