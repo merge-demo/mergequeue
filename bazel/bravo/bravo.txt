@@ -7523,6 +7523,7 @@ barbets
 bluebirds
 blastocolla
 balsamweed
+bookstand
 barrelmaking
 boneache
 bourbonism
@@ -12791,7 +12792,6 @@ bookstall
 beseemed
 baudekin
 belladonna
-bookstand
 blemisher
 bookstores
 biforked
