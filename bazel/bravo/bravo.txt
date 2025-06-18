@@ -4056,7 +4056,6 @@ bantlings
 bean
 brickred
 begottenness
-bedeafen
 brooked
 beancod
 beaner
@@ -4767,6 +4766,7 @@ bedribble
 bureaucratic
 bhalu
 burglarizes
+bedeafen
 barque
 bibracteate
 billfold
