@@ -14062,6 +14062,7 @@ conservatist
 cippus
 confirmative
 cilioflagellata
+cyrenaic
 chitra
 chemosensitive
 cecca
@@ -30389,7 +30390,6 @@ cresotinic
 crustalogy
 crustalogical
 crustalogist
-cyrenaic
 crustated
 cripes
 contesters
