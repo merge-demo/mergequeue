@@ -10075,7 +10075,6 @@ cherubical
 caribisi
 chord
 composers
-cherubim
 cherubimic
 cherubimical
 cherublike
@@ -27644,6 +27643,7 @@ cowbrute
 cervicolumbar
 cowcatchers
 cancelling
+cherubim
 congener
 codhead
 cowed
