@@ -3872,7 +3872,6 @@ bawneen
 bawra
 barklyite
 bawsint
-brutalness
 bawsunt
 blamelessness
 bawties
@@ -10394,6 +10393,7 @@ blander
 bewailer
 bookdom
 bullism
+brutalness
 bowk
 backwoodser
 brawer
