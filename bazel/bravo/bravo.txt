@@ -13197,7 +13197,6 @@ begemmed
 boschveld
 boulevardize
 bewit
-bose
 baston
 boselaphus
 bannockburn
@@ -17094,6 +17093,7 @@ bulletless
 basecoat
 bulletlike
 burghmote
+bose
 braconniere
 breadseller
 bacteric
