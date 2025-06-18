@@ -1369,7 +1369,6 @@ airtightly
 awingly
 accentors
 accents
-auxillary
 accentual
 accentually
 appertise
@@ -6289,6 +6288,7 @@ agrestical
 agria
 awapuhi
 agric
+auxillary
 agricere
 alliteratively
 antisepsin
