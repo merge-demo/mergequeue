@@ -12629,7 +12629,6 @@ chronometer
 crom
 citolers
 chronometers
-chronometric
 chronometrically
 chronon
 choppily
@@ -27343,6 +27342,7 @@ course
 codirectorship
 cosmology
 coursey
+chronometric
 coursers
 courses
 coursing
