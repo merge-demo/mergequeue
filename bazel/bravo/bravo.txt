@@ -5956,6 +5956,7 @@ buffaloes
 beltane
 belauding
 bimetalic
+buttress
 belter
 buyouts
 ballistic
@@ -18332,7 +18333,6 @@ biasness
 buttonwood
 baragouin
 bunkums
-buttress
 buttressed
 bradypodidae
 breviped
