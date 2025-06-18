@@ -11685,7 +11685,6 @@ anagap
 amos
 aflush
 avoure
-appraisal
 anagyrine
 anagyris
 anaglyph
@@ -20444,6 +20443,7 @@ auctary
 adagy
 arterying
 angelin
+appraisal
 autoicous
 anthropomorphological
 adusk
