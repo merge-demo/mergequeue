@@ -6181,7 +6181,6 @@ crosstied
 circumjacencies
 ceraunoscope
 cupolas
-catwalk
 conqueringly
 chancier
 calycule
@@ -27488,6 +27487,7 @@ coal
 cobwebbed
 chimers
 covariant
+catwalk
 colorism
 cathisma
 chadri
