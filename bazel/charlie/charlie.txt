@@ -18707,7 +18707,6 @@ conversance
 coypus
 coirs
 colicker
-coislander
 clogs
 cleading
 coistril
@@ -29881,6 +29880,7 @@ coling
 cuttikin
 centrifuges
 crosscutting
+coislander
 crosse
 crossed
 crossers
