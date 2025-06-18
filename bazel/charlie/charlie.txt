@@ -2910,7 +2910,6 @@ cantabile
 clothesmonger
 chalcis
 cantabrian
-cantabrigian
 cantalever
 cantaliver
 cackled
@@ -27717,6 +27716,7 @@ cosmotheism
 cowperian
 crouchmas
 cyul
+cantabrigian
 cacographical
 conductibility
 cowpoke
