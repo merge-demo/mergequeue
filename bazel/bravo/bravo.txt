@@ -11234,7 +11234,6 @@ bf
 bezesteen
 borghalpenny
 bespeaker
-bisilicate
 blotty
 buckets
 battakhin
@@ -18369,6 +18368,7 @@ buz
 buzane
 blawort
 bortsch
+bisilicate
 bepaint
 bespatter
 buzz
