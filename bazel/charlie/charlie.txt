@@ -2784,7 +2784,6 @@ cannie
 cannier
 canning
 cannings
-chiccories
 cannister
 cannisters
 crystallographically
@@ -29084,6 +29083,7 @@ chloryl
 contrastable
 crinatory
 crinel
+chiccories
 cringeling
 cringes
 cringing
