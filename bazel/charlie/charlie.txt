@@ -11800,7 +11800,6 @@ chondroitic
 chondroitin
 cucurbitaceae
 chondromatous
-chondromyces
 cissoids
 chukkas
 chondromyxosarcoma
@@ -20588,6 +20587,7 @@ compenser
 compere
 compered
 cumulous
+chondromyces
 compering
 compert
 competed
