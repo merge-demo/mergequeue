@@ -1272,7 +1272,6 @@ balanceable
 bafflements
 bilocellate
 buckskinned
-baryonic
 bluejays
 boreades
 begrutch
@@ -14578,6 +14577,7 @@ behorn
 brangled
 beanies
 brank
+baryonic
 brankie
 blurry
 branks
