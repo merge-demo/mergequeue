@@ -4567,7 +4567,6 @@ bedarkening
 bedaub
 ballplayer
 benzoylglycine
-barks
 besuit
 bundeli
 borborus
@@ -15235,6 +15234,7 @@ brecken
 bisharin
 blueblaw
 bestrewed
+barks
 bridesmaid
 bridesmaids
 blunges
