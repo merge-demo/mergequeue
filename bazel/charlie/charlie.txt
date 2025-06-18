@@ -6500,7 +6500,6 @@ cavelet
 confiner
 cambodia
 cavelike
-cavemen
 cavernal
 cavernlike
 cavernoma
@@ -17642,6 +17641,7 @@ coccoidal
 coccolite
 counterresolution
 calabashes
+cavemen
 cardiodysneuria
 cavilingness
 columelliform
