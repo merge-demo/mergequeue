@@ -4936,6 +4936,7 @@ bairnliness
 badchan
 bouncing
 bitriseptate
+boundedness
 beehive
 busser
 bandy
@@ -5095,7 +5096,6 @@ baselines
 bowellike
 blazoning
 befittingness
-boundedness
 breek
 beflag
 barkevikite
