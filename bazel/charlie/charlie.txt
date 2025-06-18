@@ -3375,7 +3375,6 @@ carrots
 capote
 cranium
 cyclohexene
-capouches
 cappadocian
 crypted
 cappae
@@ -30943,6 +30942,7 @@ culvers
 culverwort
 cum
 cants
+capouches
 cumay
 currack
 cumal
