@@ -5855,6 +5855,7 @@ boxcar
 bullsnake
 banded
 berseem
+brogued
 bribeworthy
 baigneuse
 bellies
@@ -13560,7 +13561,6 @@ bite
 bitangential
 bougar
 bouge
-brogued
 brighella
 bioscopes
 bacchian
