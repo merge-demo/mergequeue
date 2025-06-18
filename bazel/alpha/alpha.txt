@@ -5395,7 +5395,6 @@ africanoid
 affrettando
 astartian
 antifelon
-amalgams
 atharvan
 arrange
 algometry
@@ -14762,6 +14761,7 @@ anticeremoniously
 anticeremoniousness
 antichamber
 avener
+amalgams
 antiscii
 abbreviations
 antichance
