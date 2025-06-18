@@ -872,7 +872,6 @@ actionized
 arithmic
 amianthoid
 absentation
-absentee
 absentees
 absenters
 aflatus
@@ -16789,6 +16788,7 @@ archplagiary
 ambrosiac
 aphanites
 apprend
+absentee
 aphra
 aphrite
 aphrodesiac
