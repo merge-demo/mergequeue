@@ -575,7 +575,6 @@ bishoped
 backwoodsy
 bacon
 balkar
-baubee
 balisaur
 baconian
 bishopric
@@ -4561,6 +4560,7 @@ bowelless
 betrunk
 buckteeth
 buglewort
+baubee
 bicellular
 backjaw
 bedarkening
