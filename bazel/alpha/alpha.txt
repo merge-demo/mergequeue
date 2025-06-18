@@ -2171,6 +2171,7 @@ archdevil
 achondroplasia
 abatjours
 agrostology
+amylase
 achordal
 alqueire
 amyelotrophy
@@ -10582,7 +10583,6 @@ amyl
 amylan
 attomy
 anorthographically
-amylase
 amylases
 amylate
 aglyphodontia
