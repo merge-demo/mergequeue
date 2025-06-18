@@ -16840,7 +16840,6 @@ drawgate
 dividers
 deuteride
 dishonorary
-disvaluing
 drawings
 deliquescent
 dissociable
@@ -17558,6 +17557,7 @@ desisting
 drumline
 disappeared
 drumlinoid
+disvaluing
 decelerated
 dactylate
 diatomous
