@@ -10340,7 +10340,6 @@ counterpole
 citoyens
 chickenbill
 chickenbreasted
-chickened
 crosspoints
 cacodoxy
 cheremiss
@@ -11194,6 +11193,7 @@ chlamyphorus
 chlamyses
 congratulation
 chleuh
+chickened
 chloasma
 cephalorachidian
 chloracne
