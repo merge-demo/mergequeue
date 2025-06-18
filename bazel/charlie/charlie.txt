@@ -4318,6 +4318,7 @@ cargoes
 chenopodiaceae
 carhop
 carhops
+caulinary
 contorted
 cary
 caryatid
@@ -6278,7 +6279,6 @@ cauliflory
 cauliform
 conche
 caulinar
-caulinary
 ceroplast
 caulis
 cannular
