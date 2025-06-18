@@ -5929,7 +5929,6 @@ amatol
 antiroll
 anatman
 aggrege
-allopathy
 amphigoric
 alimenter
 aggressed
@@ -24681,6 +24680,7 @@ acalephe
 averruncator
 anzac
 arteriasis
+allopathy
 avers
 aversant
 averseness
