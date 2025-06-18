@@ -4763,7 +4763,6 @@ bedread
 bedrench
 baldling
 blast
-bedribble
 bureaucratic
 bhalu
 burglarizes
@@ -6109,6 +6108,7 @@ barragon
 benchful
 benchman
 benchmark
+bedribble
 baryecoia
 burnout
 briggsian
