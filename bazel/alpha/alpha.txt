@@ -1567,6 +1567,7 @@ agglutinoid
 adventureful
 accordaturas
 accorder
+anthemata
 accordingly
 amritas
 amalg
@@ -14238,7 +14239,6 @@ archaeomagnetism
 anthelminthic
 anthem
 anthemas
-anthemata
 agavose
 amugis
 anthemia
