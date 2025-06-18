@@ -4747,7 +4747,6 @@ aftermath
 asterionella
 acarology
 anaretic
-antihum
 aorists
 aeriality
 aerials
@@ -23734,6 +23733,7 @@ auster
 acanthous
 autohemolysis
 atheistic
+antihum
 antimallein
 austereness
 afterguns
