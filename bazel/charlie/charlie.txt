@@ -2598,7 +2598,6 @@ censuses
 cyclotrons
 cane
 cd
-corneum
 cliffing
 canebrake
 cardioschisis
@@ -11018,6 +11017,7 @@ crutcher
 catananche
 clavises
 chirp
+corneum
 chirped
 chirpers
 cungeboi
