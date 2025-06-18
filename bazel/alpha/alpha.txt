@@ -6649,6 +6649,7 @@ aimak
 appertinent
 allotypic
 affectionless
+azulejo
 azotin
 autocamp
 autogiros
@@ -15275,7 +15276,6 @@ antihelix
 aitiotropic
 antilopine
 antihero
-azulejo
 anticonscriptive
 antihierarchy
 aidless
