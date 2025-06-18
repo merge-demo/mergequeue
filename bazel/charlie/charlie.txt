@@ -3542,7 +3542,6 @@ colation
 captation
 caption
 captioned
-convenably
 captioning
 captiousness
 captivance
@@ -26540,6 +26539,7 @@ counterbewitch
 comparsa
 cube
 casaun
+convenably
 cruelhearted
 couchings
 couchmaker

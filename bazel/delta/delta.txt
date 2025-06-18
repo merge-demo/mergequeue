@@ -7981,7 +7981,6 @@ diagnosticated
 dorsibranch
 drawpoint
 drunkometer
-dextroglucose
 distensive
 deserver
 demological
@@ -11649,6 +11648,7 @@ dinder
 discoplasm
 dostoevsky
 damsite
+dextroglucose
 denser
 discursative
 discommune
