@@ -12954,7 +12954,6 @@ breviloquence
 boleros
 berthold
 boardinghouses
-bootman
 boots
 bottoms
 blouson
@@ -16536,6 +16535,7 @@ brasier
 blubbered
 bt
 btry
+bootman
 bots
 buat
 brocho
