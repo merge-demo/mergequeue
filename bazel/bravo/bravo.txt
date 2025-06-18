@@ -13633,7 +13633,6 @@ bounders
 baxter
 burladero
 boundless
-bartizaned
 bounds
 beggaress
 buttressless
@@ -17027,6 +17026,7 @@ bulkheading
 bulky
 bulkier
 bulkily
+bartizaned
 bitterweed
 befavour
 beachlamar
