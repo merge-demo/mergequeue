@@ -17998,7 +17998,6 @@ concept
 coeligenous
 coelin
 cantharellus
-coelioscopy
 czechic
 chipboard
 coelococcus
@@ -30641,6 +30640,7 @@ collegial
 chymotrypsin
 cucupha
 chlorids
+coelioscopy
 cucurb
 compole
 cucurbita
