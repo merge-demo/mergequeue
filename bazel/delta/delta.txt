@@ -2903,7 +2903,6 @@ disyllabizing
 decussoria
 decwriter
 deltoid
-divia
 dashel
 dedanite
 dedd
@@ -13767,6 +13766,7 @@ desugaring
 degression
 damndests
 dangering
+divia
 downlooker
 disbarments
 dissolver
