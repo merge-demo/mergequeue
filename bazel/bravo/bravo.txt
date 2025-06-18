@@ -4401,6 +4401,7 @@ bushwhacker
 bathyseism
 beclaw
 besieged
+bromindigo
 balm
 brandering
 budapest
@@ -17204,7 +17205,6 @@ butat
 bullweed
 brulyie
 bullwhipped
-bromindigo
 bullwhipping
 busti
 bullwort
