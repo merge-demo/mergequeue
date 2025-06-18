@@ -11252,7 +11252,6 @@ brightening
 benday
 bertrand
 blotto
-blottto
 britt
 botteghe
 bloubiskop
@@ -12740,6 +12739,7 @@ breviate
 barrenwort
 barging
 ballant
+blottto
 booklear
 brandishing
 booklore
