@@ -5393,7 +5393,6 @@ corv
 casters
 ciliation
 castes
-chrysanthemin
 casteth
 crossbench
 castice
@@ -16648,6 +16647,7 @@ clonothrix
 carangus
 clonus
 cloof
+chrysanthemin
 chymaqueous
 chemicoluminescence
 cloot
