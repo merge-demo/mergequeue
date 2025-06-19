@@ -15826,7 +15826,6 @@ dorsales
 dorsalgia
 dorsalwards
 dorsel
-dorser
 doxantha
 diestrus
 dorsi
@@ -16456,6 +16455,7 @@ dwaible
 delirate
 diachyma
 drabbler
+dorser
 datum
 difflugia
 dunnesses
