@@ -8496,7 +8496,6 @@ algorithms
 alkamine
 arguer
 alkanes
-alkanet
 allicholly
 alkanethiol
 alkanets
@@ -25162,6 +25161,7 @@ axman
 atheological
 azteca
 axodendrite
+alkanet
 axogamy
 anticapitalists
 axoid
