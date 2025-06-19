@@ -15335,7 +15335,6 @@ bapistery
 blondine
 bevomited
 bother
-brigadier
 brachypterous
 brigandine
 bandhu
@@ -17418,6 +17417,7 @@ borzicactus
 brasset
 bunkering
 blackouts
+brigadier
 bunkermen
 bitume
 bunkers
