@@ -9489,7 +9489,6 @@ cheapness
 cladoselachea
 cheapos
 cheare
-cheat
 comprehensor
 cheatableness
 cheated
@@ -24253,6 +24252,7 @@ constantinople
 convulsion
 conjugates
 conjuncture
+cheat
 const
 criminated
 cerebritis
