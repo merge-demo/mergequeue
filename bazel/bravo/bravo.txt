@@ -263,7 +263,6 @@ bacillaceae
 brarow
 bacillariaceae
 baldric
-buried
 blotless
 balancedness
 brontosaur
@@ -13589,6 +13588,7 @@ bevatrons
 byssi
 boulderhead
 bandanna
+buried
 bilskirnir
 brairo
 bigener
