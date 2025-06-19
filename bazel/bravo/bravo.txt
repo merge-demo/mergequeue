@@ -6462,7 +6462,6 @@ bedlamer
 behoot
 blowup
 benzothiazine
-benzothiazoline
 benzothiodiazole
 bergamiol
 bumpering
@@ -9987,6 +9986,7 @@ binodous
 brahmic
 berbery
 barrenness
+benzothiazoline
 bivector
 biventer
 bayonetting
