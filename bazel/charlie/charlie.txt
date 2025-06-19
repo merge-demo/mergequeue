@@ -9030,7 +9030,6 @@ chariot
 carcerate
 continuo
 charioting
-chariotman
 collegiately
 cumarin
 chaplaincy
@@ -11483,6 +11482,7 @@ chytridium
 chylified
 coals
 crotaloid
+chariotman
 chocks
 chocoan
 chocolate
