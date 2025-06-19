@@ -3910,7 +3910,6 @@ deityship
 dinobryon
 deixis
 decreases
-diduce
 daphnite
 desilicated
 deja
@@ -15821,6 +15820,7 @@ demolishment
 daring
 dioscoreaceae
 disocclude
+diduce
 disalign
 dorsales
 dorsalgia

@@ -9597,7 +9597,6 @@ checkstring
 cuissen
 checksum
 construct
-checksumming
 castro
 chromogenous
 catechize
@@ -31356,6 +31355,7 @@ curiage
 curialism
 calcisponge
 curialist
+checksumming
 cabalas
 curialistic
 colocating
