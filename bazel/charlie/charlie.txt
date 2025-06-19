@@ -15293,6 +15293,7 @@ clame
 cheeseboard
 clamflat
 ctn
+conchostraca
 calamospermae
 chivalry
 capricornus
@@ -21333,7 +21334,6 @@ conchol
 conchometer
 conchospiral
 cowboys
-conchostraca
 corotated
 computed
 conchs
