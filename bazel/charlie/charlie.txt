@@ -15397,7 +15397,6 @@ clanship
 chiricahua
 coembedded
 camelhair
-curnie
 clanswoman
 cyanole
 characteristics
@@ -21986,6 +21985,7 @@ confined
 cadging
 confinedly
 confiners
+curnie
 confines
 confining
 confinity
