@@ -15413,7 +15413,6 @@ demoralisation
 domiciled
 dissipator
 dearn
-domiciles
 domiciliate
 domiciliated
 demineralizer
@@ -16615,6 +16614,7 @@ distr
 darkhearted
 dragonfishes
 didelph
+domiciles
 dragonflies
 dossers
 deprecated
