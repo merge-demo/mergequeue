@@ -7124,7 +7124,6 @@ babblish
 becalmed
 bawdiness
 bespell
-bespelled
 bespend
 bespew
 biparietal
@@ -12452,6 +12451,7 @@ bonfire
 biphenyl
 buller
 bondholders
+bespelled
 barrettes
 bechase
 b
