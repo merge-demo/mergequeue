@@ -3565,6 +3565,7 @@ capturable
 catechized
 capture
 captured
+craticular
 captures
 capturing
 curricular
@@ -28304,7 +28305,6 @@ craterlike
 covariance
 cheepily
 copywise
-craticular
 cratinean
 crating
 cratometer
