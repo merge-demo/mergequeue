@@ -198,6 +198,7 @@ bipartition
 balneum
 bandido
 bitt
+bacteriotherapeutic
 bouillone
 baccated
 bacchanalian
@@ -654,7 +655,6 @@ bacteriosolvent
 basat
 breakshugh
 bacteriostatically
-bacteriotherapeutic
 bacteriotherapy
 bechances
 beletter
