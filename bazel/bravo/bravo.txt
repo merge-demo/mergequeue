@@ -2185,7 +2185,6 @@ baraita
 boschboks
 bewilders
 bestove
-baramika
 baramin
 bertat
 backflash
@@ -9778,6 +9777,7 @@ biophysicochemical
 bathhouses
 bystreet
 bystreets
+baramika
 bistres
 boeotarch
 brights
