@@ -7762,7 +7762,6 @@ chemiluminescent
 coinhering
 charkhas
 capromys
-ceroplasty
 ceroplastic
 ceroplastics
 cyanocrystallin
@@ -21121,6 +21120,7 @@ cherishers
 concatenate
 catadromous
 concatenated
+ceroplasty
 ceride
 concatenates
 coequating
