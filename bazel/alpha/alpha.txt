@@ -20752,6 +20752,7 @@ artlike
 artocarpaceae
 artocarpeous
 artocarpous
+auris
 artolater
 aliner
 artolatry
@@ -23648,7 +23649,6 @@ auriphone
 auriphrygia
 auripigment
 aurir
-auris
 auriscalp
 auriscalpia
 auriscope
