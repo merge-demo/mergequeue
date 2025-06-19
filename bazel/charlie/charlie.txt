@@ -9537,7 +9537,6 @@ chaetites
 checkbooks
 calculated
 checker
-checkerbelly
 centrolepidaceous
 checkerbellies
 checkerberry
@@ -14266,6 +14265,7 @@ circumducted
 circulatories
 chumped
 coastguard
+checkerbelly
 circumesophageal
 conventically
 circumfer
