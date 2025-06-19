@@ -13536,6 +13536,7 @@ ciliiform
 cylinder
 cylinders
 cylindrella
+calvity
 cylindrelloid
 cryptographic
 cylindrenchyma
@@ -14139,7 +14140,6 @@ chirinola
 circination
 circiter
 counterapproach
-calvity
 cattie
 circled
 claudia
