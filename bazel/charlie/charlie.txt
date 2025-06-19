@@ -5434,6 +5434,7 @@ commercing
 candlesticked
 confront
 casaque
+correctioner
 castlewards
 castlewise
 castock
@@ -25652,7 +25653,6 @@ correctible
 confirmatorily
 cubicly
 correctionalist
-correctioner
 conformities
 corrective
 circumscript
