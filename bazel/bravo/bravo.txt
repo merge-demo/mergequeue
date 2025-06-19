@@ -1408,7 +1408,6 @@ balearica
 bisellium
 balebos
 baled
-baleen
 bobance
 battable
 balefires
@@ -14254,6 +14253,7 @@ boarding
 bandfiling
 braehead
 bulblet
+baleen
 bronchiogenic
 brochidodromous
 benefactory

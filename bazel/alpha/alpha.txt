@@ -14871,7 +14871,6 @@ afflictive
 anticlergy
 anticlerical
 anticlericalism
-acidize
 anticlericalist
 acidophilous
 azygobranchia
@@ -21822,6 +21821,7 @@ ascents
 assistless
 assith
 archons
+acidize
 adnumber
 assyth
 antiemperor
