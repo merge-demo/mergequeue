@@ -2174,7 +2174,6 @@ conference
 campi
 concurrency
 campy
-campier
 campiest
 campignian
 classroom
@@ -25329,6 +25328,7 @@ cheddaring
 cappelenite
 cornein
 cornel
+campier
 cornelia
 coner
 concessioner
