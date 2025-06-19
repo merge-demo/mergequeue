@@ -7587,7 +7587,6 @@ cercus
 cerdonian
 chanty
 cereal
-carrus
 changeability
 cervices
 caliology
@@ -14837,6 +14836,7 @@ chararas
 cytochrome
 cytocyst
 cytoclasis
+carrus
 caluptra
 cytoclastic
 crioboly
