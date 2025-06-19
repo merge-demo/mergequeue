@@ -11426,7 +11426,6 @@ disclimax
 dialogite
 drossing
 dastardy
-dockyard
 dissuader
 demivotary
 determinoid
@@ -12116,6 +12115,7 @@ dysepulotical
 disequalizer
 draftiness
 dormitory
+dockyard
 dyserethisia
 denominatively
 dysergasia
