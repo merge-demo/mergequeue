@@ -3226,7 +3226,6 @@ basilicock
 basilics
 basilidan
 basilidian
-basilidianism
 blash
 brome
 babydom
@@ -14315,6 +14314,7 @@ barefit
 benthos
 brahmachari
 blacklist
+basilidianism
 brahmana
 balloonful
 bookboard
