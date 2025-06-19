@@ -8558,7 +8558,6 @@ bedder
 bradycardia
 billabong
 billage
-brumes
 barricading
 billboards
 beshawled
@@ -8723,6 +8722,7 @@ bullethead
 betoss
 bottomry
 brule
+brumes
 barhopping
 bimetals
 breislakite
