@@ -2695,6 +2695,7 @@ canistel
 crevice
 canjac
 cank
+corporacies
 circumnavigations
 chokestrap
 clingfish
@@ -25563,7 +25564,6 @@ corp
 corpn
 corpora
 corporacy
-corporacies
 calcic
 corporalcy
 corporale

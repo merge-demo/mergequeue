@@ -2425,6 +2425,7 @@ degorder
 decimetre
 demoid
 decimolar
+deflation
 drainpipe
 diplacusis
 downgoing
@@ -8418,7 +8419,6 @@ dorsal
 disunite
 decked
 dialyze
-deflation
 draparnaldia
 daemonelix
 dialyzes
