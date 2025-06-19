@@ -10740,6 +10740,7 @@ chagul
 cincher
 chinch
 chinchayote
+core
 chinche
 choise
 cytoarchitecture
@@ -25051,7 +25052,6 @@ cuprotungstite
 cordwainer
 choleraic
 cloves
-core
 coreceiver
 corecipient
 corectome
