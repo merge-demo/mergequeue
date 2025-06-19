@@ -11894,7 +11894,6 @@ choristers
 calashes
 chorai
 choral
-choralcelo
 causeway
 chorale
 carmagnoles
@@ -16237,6 +16236,7 @@ cline
 clines
 caudexes
 clinger
+choralcelo
 crankness
 crossbeak
 clingfishes
