@@ -2706,7 +2706,6 @@ deconvolution
 dishwash
 devoured
 deconvolve
-desmon
 decopperize
 decor
 diplopic
@@ -11373,6 +11372,7 @@ disciflorae
 disunifying
 dissociably
 discoherent
+desmon
 decays
 dittany
 disciform
