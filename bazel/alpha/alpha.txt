@@ -3230,6 +3230,7 @@ abonne
 apsides
 acupunctured
 acupuncturing
+aristarch
 antivenomous
 acupuncturist
 acus
@@ -22816,7 +22817,6 @@ atour
 amitie
 apathia
 atoxyl
-aristarch
 atrabilaire
 atrabilar
 annat
