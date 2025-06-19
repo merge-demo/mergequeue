@@ -9905,7 +9905,6 @@ conquinamine
 clamp
 chemophysiology
 chemoprophyalctic
-cycle
 chemoprophylactic
 cruiser
 coaxer
@@ -16572,6 +16571,7 @@ cloy
 cloyedness
 cloyer
 chloralization
+cycle
 cloyingly
 centralized
 cloyless
