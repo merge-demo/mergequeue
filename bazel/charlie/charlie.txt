@@ -3703,6 +3703,7 @@ cognates
 carapacic
 carapax
 climacterial
+coursing
 coachable
 carbonadoes
 carapidae
@@ -27345,7 +27346,6 @@ cosmology
 coursey
 coursers
 courses
-coursing
 court
 courtage
 climacterics
