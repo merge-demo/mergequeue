@@ -313,7 +313,6 @@ dayanim
 directories
 daybeacon
 daybed
-devchar
 disembowelment
 dissuasiveness
 dollfaced
@@ -870,6 +869,7 @@ denominationalist
 daguerreotypes
 disincrustant
 digamous
+devchar
 decrescendo
 dandling
 deliberative
