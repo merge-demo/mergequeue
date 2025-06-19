@@ -9707,7 +9707,6 @@ cheeselep
 cheeselip
 cephalochorda
 cheesemaker
-cheesemaking
 cheesemongery
 cheesemongering
 cheeseparer
@@ -18772,6 +18771,7 @@ celarent
 campodean
 cataracted
 carbolineum
+cheesemaking
 colchicaceae
 coistrels
 craters
