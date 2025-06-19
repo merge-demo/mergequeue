@@ -6992,7 +6992,6 @@ bedeman
 bromism
 beaconed
 bradyacousia
-beslap
 beslave
 bushbashing
 bearherd
@@ -15392,6 +15391,7 @@ birefraction
 bereave
 bixa
 bono
+beslap
 beflout
 benetted
 bludgeoner
