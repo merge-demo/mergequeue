@@ -18609,7 +18609,6 @@ anthropologic
 archaic
 acing
 anisol
-apogaic
 acalepha
 available
 animability
@@ -23620,6 +23619,7 @@ apios
 amphisile
 auriculoparietal
 auriculotemporal
+apogaic
 auride
 auriferous
 appreciational
