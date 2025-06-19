@@ -4240,6 +4240,7 @@ bishopbird
 banff
 beautiful
 blowball
+biotas
 bellhanging
 beautihood
 berbamine
@@ -5132,7 +5133,6 @@ bhangs
 bombshells
 beflour
 beflowered
-biotas
 bogbean
 beguile
 bankers
