@@ -2579,7 +2579,6 @@ docetist
 desistence
 diplocephalous
 decoat
-decoct
 demiquaver
 dashes
 decocting
@@ -5871,6 +5870,7 @@ depraver
 dragonfly
 dewaxing
 deadtongue
+decoct
 dags
 dentaries
 dermatocoptic
