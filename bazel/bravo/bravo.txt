@@ -3774,7 +3774,6 @@ blksize
 bitterbush
 brujas
 binitarian
-bauble
 bantay
 bandwagons
 baublery
@@ -14102,6 +14101,7 @@ beltene
 brachiopode
 bistipular
 brachiorrheuma
+bauble
 blot
 babbage
 bittock
