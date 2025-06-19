@@ -9831,7 +9831,6 @@ daimones
 denumerable
 deicer
 digesters
-dumetose
 dillydally
 diabolically
 dejectile
@@ -17901,6 +17900,7 @@ disserted
 diddles
 duennas
 datable
+dumetose
 duennaship
 droyl
 duer
