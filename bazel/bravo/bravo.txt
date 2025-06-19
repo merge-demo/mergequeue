@@ -13886,7 +13886,6 @@ bowlder
 bluefishes
 bauno
 basibregmatic
-bitbrace
 boloball
 bowleg
 bowleggedness
@@ -13985,6 +13984,7 @@ backtracked
 bozo
 basher
 bonesetter
+bitbrace
 brittlest
 brontops
 bismuthic
