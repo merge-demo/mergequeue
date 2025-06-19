@@ -5603,7 +5603,6 @@ cladocerans
 catalo
 cataloes
 cataloged
-character
 cariousness
 centi
 crochet
@@ -18827,6 +18826,7 @@ coleopterist
 coleopterology
 catteries
 comediettas
+character
 coleopteron
 chromosomal
 coleoptilum
