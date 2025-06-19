@@ -1528,7 +1528,6 @@ distressedness
 doublure
 deadlier
 deaden
-droops
 docked
 deadening
 drippings
@@ -18197,6 +18196,7 @@ dharani
 dispensary
 dilatator
 duncish
+droops
 diplodus
 dechlog
 duncishness
