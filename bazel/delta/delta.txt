@@ -5501,7 +5501,6 @@ deoxidation
 deoxidative
 dibbles
 deoxidisation
-dsnames
 dissolubility
 deadest
 dorsiventrality
@@ -8708,6 +8707,7 @@ dialectology
 diazepam
 diastasimetry
 dipnoan
+dsnames
 devilfishes
 deraigned
 demobbed
