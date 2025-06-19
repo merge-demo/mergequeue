@@ -2948,7 +2948,6 @@ curlpaper
 custumals
 cryptoprocta
 cantering
-canthal
 curling
 cantharic
 cantharidae
@@ -11667,6 +11666,7 @@ choleras
 civilising
 cervelases
 choleriform
+canthal
 cholerigenous
 chelicerate
 cholerine
