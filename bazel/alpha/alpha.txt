@@ -14855,7 +14855,6 @@ anticytolysin
 almsgiving
 alphorn
 atturn
-anticize
 acceptilate
 anticker
 anticking
@@ -19731,6 +19730,7 @@ arizonian
 anhistous
 arizonians
 arizonite
+anticize
 achigan
 anuresis
 arjun
