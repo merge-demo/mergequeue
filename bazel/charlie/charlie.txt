@@ -6499,6 +6499,7 @@ cavekeeper
 cavelet
 confiner
 cambodia
+checkrein
 cavelike
 cavemen
 cavernal
@@ -9579,7 +9580,6 @@ commonize
 checkrack
 casehardens
 cricotracheotomy
-checkrein
 checkroll
 compathy
 checkrope
