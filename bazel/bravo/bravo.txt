@@ -577,6 +577,7 @@ bacon
 balkar
 baubee
 balisaur
+barotactic
 baconian
 bishopric
 breaths
@@ -3178,7 +3179,6 @@ basidia
 basidigital
 bouteselle
 bangwaketsi
-barotactic
 breadth
 ballerinas
 bauta
