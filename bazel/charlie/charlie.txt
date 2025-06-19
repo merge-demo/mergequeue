@@ -2999,7 +2999,6 @@ canthuthi
 canty
 coyest
 canticle
-carne
 campesino
 canticles
 conquerableness
@@ -31409,6 +31408,7 @@ curite
 curitis
 chaetophora
 cispadane
+carne
 curl
 circumambulation
 cheiceral

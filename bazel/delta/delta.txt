@@ -3723,6 +3723,7 @@ demonstrating
 diam
 delapse
 dehydrochlorinase
+dispensative
 dinumeration
 dowlas
 dehydrochlorinate
@@ -6445,7 +6446,6 @@ derust
 decameronic
 dervishism
 des
-dispensative
 desensitized
 drudgeries
 desaccharification
