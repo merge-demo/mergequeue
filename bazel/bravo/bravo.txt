@@ -2375,7 +2375,6 @@ belabors
 barcoo
 bemoisten
 besplash
-bardcraft
 barde
 beleve
 buckhorn
@@ -5120,6 +5119,7 @@ bombable
 bunkery
 belching
 borderers
+bardcraft
 baffle
 boussingaultite
 bunrakus
