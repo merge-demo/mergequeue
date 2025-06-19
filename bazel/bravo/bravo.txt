@@ -1504,7 +1504,6 @@ booked
 bedsick
 balladic
 balladised
-balladism
 braked
 bronchopleurisy
 blowiest
@@ -12075,6 +12074,7 @@ brunellia
 brocading
 boatmaster
 bradycauma
+balladism
 bulbilla
 boites
 baltetei
