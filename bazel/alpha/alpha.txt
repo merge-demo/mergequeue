@@ -357,7 +357,6 @@ aberrancy
 anthraceniferous
 aberrantly
 aberrants
-aberrating
 aberration
 aberrational
 aberrative
@@ -24837,6 +24836,7 @@ avoset
 avouch
 adaptationally
 avouchable
+aberrating
 anaptyxis
 asaprol
 animates
