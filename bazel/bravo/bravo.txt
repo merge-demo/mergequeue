@@ -11464,6 +11464,7 @@ bluetop
 berths
 blueweed
 bravos
+breakfront
 bundlers
 basophilia
 begemming
@@ -15674,7 +15675,6 @@ borrovian
 begroaned
 botanophile
 broadsides
-breakfront
 broadsiding
 broadspread
 broadsword
