@@ -13985,6 +13985,7 @@ dubby
 deturb
 derrid
 dystonia
+dicyclic
 dystonic
 dacha
 dystopian
@@ -16884,7 +16885,6 @@ defortify
 decanically
 deaired
 ddt
-dicyclic
 diiambus
 dataria
 drona
