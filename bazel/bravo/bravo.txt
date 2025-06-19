@@ -1923,6 +1923,7 @@ baaskaap
 bandora
 biotechs
 brevipen
+blades
 bandore
 baselard
 bandrol
@@ -7237,7 +7238,6 @@ bestowment
 burgee
 briary
 breaching
-blades
 beveled
 bestraddled
 baptize
