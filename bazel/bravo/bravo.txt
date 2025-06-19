@@ -3717,6 +3717,7 @@ brigantes
 bimestrial
 battlestead
 battlewagon
+blueprint
 bronchiectasis
 bovver
 beautifully
@@ -11438,7 +11439,6 @@ boatheader
 bairnliest
 bluepoint
 bluepoints
-blueprint
 blazingly
 bluesy
 bluesman
