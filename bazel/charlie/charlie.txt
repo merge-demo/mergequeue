@@ -4921,7 +4921,6 @@ carrottop
 carstone
 cart
 counterpoising
-chromatinic
 cartable
 cartaceous
 commutuality
@@ -25245,6 +25244,7 @@ chiasmal
 chirurgic
 contradistinctively
 cytomitome
+chromatinic
 coryza
 cork
 corkage
