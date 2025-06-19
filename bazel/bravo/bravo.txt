@@ -10199,7 +10199,6 @@ blackguardry
 baroreceptor
 beseechers
 blackgum
-beclamored
 baulking
 beachcombing
 boastings
@@ -12528,6 +12527,7 @@ barbellulae
 backdoor
 blazed
 bonfires
+beclamored
 benchy
 bongoes
 bongoist
