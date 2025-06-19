@@ -2506,7 +2506,6 @@ dubonnet
 deactivating
 declivitously
 declarations
-declarative
 deligation
 demieagle
 discomorula
@@ -15628,6 +15627,7 @@ defaulters
 domina
 dissentaneous
 decoders
+declarative
 diversionist
 dooputty
 doorhead

@@ -4303,7 +4303,6 @@ barly
 becall
 becalm
 becalming
-biaural
 beakiest
 bulkheaded
 braquemard
@@ -18125,6 +18124,7 @@ boll
 ballyrag
 bistouries
 birchism
+biaural
 butcheress
 butchery
 beachmaster
