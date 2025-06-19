@@ -4908,7 +4908,6 @@ amido
 aerolites
 avulsions
 admonitioner
-aerolithology
 apocamphoric
 aerolitic
 aerological
@@ -6228,6 +6227,7 @@ analemmatic
 agral
 adiposities
 agramed
+aerolithology
 agrammaphasia
 agrammatica
 accouple
