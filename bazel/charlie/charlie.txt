@@ -1480,6 +1480,7 @@ conclusions
 callat
 callback
 closish
+crew
 conversus
 cryptoxanthin
 coffeepot
@@ -28890,7 +28891,6 @@ cardiacean
 chrysocolla
 chiffrobe
 crevis
-crew
 ctge
 crewed
 crewet
