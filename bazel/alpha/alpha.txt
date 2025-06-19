@@ -12895,7 +12895,6 @@ ascitb
 angoras
 angostura
 angouleme
-armored
 arcidae
 appanages
 angraecum
@@ -19249,6 +19248,7 @@ arenites
 anthraquinonyl
 alberca
 aristas
+armored
 absentmindedly
 arenoid
 australis
