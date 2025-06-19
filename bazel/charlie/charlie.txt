@@ -12449,7 +12449,6 @@ chromididae
 chromidiosome
 circuses
 carolers
-chromidium
 compositae
 chromidrosis
 cymes
@@ -13081,6 +13080,7 @@ chemitype
 cyanosite
 cyanotic
 chatting
+chromidium
 cyanotype
 cyanuramide
 coefficiently
