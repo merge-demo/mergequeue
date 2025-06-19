@@ -5663,7 +5663,6 @@ busks
 boraciferous
 benjoin
 bylaw
-beldams
 bacchar
 bilify
 belderroot
@@ -7734,6 +7733,7 @@ buxerry
 bhikshu
 brakehand
 bullan
+beldams
 breakover
 brocard
 bhindi
