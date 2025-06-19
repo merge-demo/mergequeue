@@ -5203,6 +5203,7 @@ aviso
 affied
 abjured
 affies
+agistment
 affile
 affiliable
 airscape
@@ -8343,7 +8344,6 @@ archdeaconry
 arianism
 alinement
 arthroendoscopy
-agistment
 arado
 anthypophoretic
 architectonic
