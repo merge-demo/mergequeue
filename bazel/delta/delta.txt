@@ -2947,7 +2947,6 @@ dotingness
 diegesis
 diplasiasmus
 deduces
-droil
 dolt
 deducibility
 deducibly
@@ -14160,6 +14159,7 @@ demandingness
 decedent
 disulfuric
 disulphate
+droil
 desulfurated
 drakefly
 decrepit
