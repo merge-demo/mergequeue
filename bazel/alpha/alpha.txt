@@ -7516,7 +7516,6 @@ albuminoscope
 afterpiece
 acari
 acanthoma
-abyssinian
 anonyms
 albuminous
 albumins
@@ -19989,6 +19988,7 @@ aptitudinally
 ashweed
 arnusian
 aro
+abyssinian
 applemonger
 aroast
 azophenyl
