@@ -5776,6 +5776,7 @@ depolarizers
 droves
 deliberating
 debater
+deallocates
 duree
 disjoint
 descriptor
@@ -16209,7 +16210,6 @@ draconic
 dialector
 deerskins
 dizens
-deallocates
 defats
 doweress
 dunches
