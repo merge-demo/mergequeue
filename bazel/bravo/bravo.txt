@@ -6468,6 +6468,7 @@ bergamiol
 bumpering
 backcloth
 barangay
+bubbler
 biternate
 benzothiofuran
 benzothiophene
@@ -16560,7 +16561,6 @@ brachiocrural
 brinjarries
 bubblement
 beerier
-bubbler
 bubblers
 brachyurus
 bullshitting
