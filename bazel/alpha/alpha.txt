@@ -6546,7 +6546,6 @@ aiel
 anoraks
 asplanchnic
 aeromechanical
-aeolina
 ayenst
 antibaryon
 alectrionidae
@@ -6733,6 +6732,7 @@ arresting
 autositic
 airbusses
 aircraftman
+aeolina
 atenist
 aquas
 antibias
