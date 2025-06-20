@@ -6425,7 +6425,6 @@ bastioned
 benzohydrol
 benzoylated
 becuna
-benzoylation
 benzoinated
 borize
 booboisie
@@ -7886,6 +7885,7 @@ brains
 bismuthite
 brachiation
 baldachinos
+benzoylation
 bibliologist
 bedlike
 bibliomane
