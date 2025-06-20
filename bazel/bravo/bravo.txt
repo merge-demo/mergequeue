@@ -9568,7 +9568,6 @@ bogue
 bluejack
 battlements
 ballhawk
-biscayan
 biscayanism
 burnover
 barbal
@@ -17401,6 +17400,7 @@ bunk
 begrudged
 belinurus
 bipersonal
+biscayan
 bytownite
 byerite
 bushbaby
