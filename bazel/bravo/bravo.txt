@@ -1489,6 +1489,7 @@ backboards
 ball
 ballad
 barillas
+bullocker
 bartholinitis
 beflounce
 ballade
@@ -17165,7 +17166,6 @@ bullnoses
 bullnut
 bullock
 brachialgia
-bullocker
 brachydodrome
 beduins
 blastulae
