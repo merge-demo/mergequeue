@@ -10887,7 +10887,6 @@ alf
 allamoth
 antiphilosophy
 amerindic
-allegorical
 amniocentesis
 amniochorial
 auxanology
@@ -13706,6 +13705,7 @@ anomodont
 aythya
 anomodontia
 anomoeomery
+allegorical
 anticommercially
 anomophyllous
 anomouran
