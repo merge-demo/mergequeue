@@ -19312,6 +19312,7 @@ colony
 colonial
 colonialised
 crabbier
+corpuscularity
 cabezones
 coresidence
 chelem
@@ -25633,7 +25634,6 @@ corpuscularian
 colombian
 confinedness
 completed
-corpuscularity
 corpuscule
 corpusculous
 chairlift
