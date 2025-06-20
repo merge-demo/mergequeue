@@ -6073,7 +6073,6 @@ aeonian
 asphodels
 aufklarung
 acrindolin
-aglycons
 amphizoidae
 abrading
 alcyonarian
@@ -23381,6 +23380,7 @@ agnail
 accommodational
 auditor
 auditory
+aglycons
 androgonium
 apportioned
 auditorial
