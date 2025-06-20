@@ -718,7 +718,6 @@ dismarry
 dancing
 dispence
 distale
-dictagraph
 dodging
 dander
 dandy
@@ -6306,6 +6305,7 @@ diapositive
 dualities
 dermatoplastic
 deluminize
+dictagraph
 deozonizer
 decolonization
 debatter
