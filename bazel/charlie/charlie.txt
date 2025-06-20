@@ -2002,7 +2002,6 @@ camion
 camions
 camisa
 camisadoes
-classicising
 cloddy
 camisard
 capsicins
@@ -30592,6 +30591,7 @@ cubti
 cuca
 clambers
 chinese
+classicising
 conduction
 cuchia
 churchliness
