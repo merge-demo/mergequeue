@@ -2173,6 +2173,7 @@ benzpyrene
 baptizer
 blurping
 bobsledder
+barothermohygrogram
 baptizing
 bepuddle
 bedward
@@ -5994,7 +5995,6 @@ belvedered
 blueblossom
 bridaler
 benchwarmer
-barothermohygrogram
 bouldering
 bosslet
 begripe
