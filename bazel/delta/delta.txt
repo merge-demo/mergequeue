@@ -2634,6 +2634,7 @@ decolourizer
 dumpcarts
 dinglebird
 decreers
+disglorify
 decolours
 decommission
 decommissioned
@@ -10462,7 +10463,6 @@ diphenylhydantoin
 dogmatic
 diodon
 delace
-disglorify
 disinterring
 diphenyls
 dispowder
