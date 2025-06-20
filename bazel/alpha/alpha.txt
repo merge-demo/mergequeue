@@ -4502,7 +4502,6 @@ adversities
 axotomous
 advertence
 advertently
-adverting
 advertiser
 advertisers
 achlamydeae
@@ -14468,6 +14467,7 @@ anthropologists
 anthropometer
 anthropometry
 anuloma
+adverting
 anthropometric
 acrocarpi
 allan
