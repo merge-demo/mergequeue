@@ -2407,6 +2407,7 @@ barbion
 brotherhood
 bards
 bardship
+bestir
 backaching
 biocoenoses
 boobies
@@ -9638,7 +9639,6 @@ bishopstool
 bishopweed
 bobbinets
 blackly
-bestir
 benison
 barterers
 blatti
