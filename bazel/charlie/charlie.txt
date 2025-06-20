@@ -16909,6 +16909,7 @@ clubroom
 casebooks
 clubroots
 clubs
+cnidogenous
 clubstart
 clubster
 carpogonium
@@ -19552,7 +19553,6 @@ canoodled
 colposcopy
 crocodiles
 colstaff
-cnidogenous
 congresswoman
 colters
 chasid
