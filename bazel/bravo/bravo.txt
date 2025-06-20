@@ -3903,6 +3903,7 @@ borsholder
 bchs
 ballotage
 bd
+burhel
 boracium
 buttonholes
 beteela
@@ -17624,7 +17625,6 @@ burgomastership
 balladwise
 bhakta
 burgundy
-burhel
 burhmoot
 bombic
 bisie
