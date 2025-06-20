@@ -2702,7 +2702,6 @@ batch
 beadflush
 barnman
 braconids
-barnstormer
 barnstorming
 besmearing
 borages
@@ -6804,6 +6803,7 @@ boteler
 bumpier
 busulfan
 berrichonne
+barnstormer
 bosquet
 berrier
 berries
