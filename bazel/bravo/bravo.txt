@@ -2039,7 +2039,6 @@ banknotes
 brasserie
 bedeguar
 buffoonesque
-bicollaterality
 bankrolled
 bankrolling
 bankrupt
@@ -11082,6 +11081,7 @@ beveto
 bedrip
 bilirubinic
 billy
+bicollaterality
 bioral
 blockiest
 bevelling
