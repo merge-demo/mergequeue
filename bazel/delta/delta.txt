@@ -7998,6 +7998,7 @@ dookit
 dolichofacial
 daemonic
 delicatessens
+deluded
 dionaea
 dishonoured
 discording
@@ -18635,7 +18636,6 @@ denarii
 dipaschal
 dummyism
 disbursals
-deluded
 dutymonger
 deactivations
 deodorizer
