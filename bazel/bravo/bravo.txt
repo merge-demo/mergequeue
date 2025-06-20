@@ -4000,7 +4000,6 @@ butcheries
 brevier
 beaked
 beakerman
-butterroot
 bellite
 beakermen
 bountiful
@@ -5501,6 +5500,7 @@ bardic
 bootyless
 beelines
 bobbled
+butterroot
 beydom
 bechained
 beige
