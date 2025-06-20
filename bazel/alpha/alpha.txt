@@ -10093,6 +10093,7 @@ anisette
 autolaryngoscope
 amboceptoid
 ambocoelia
+apabhramsa
 adelpholite
 alumin
 aspirin
@@ -16508,7 +16509,6 @@ arcuation
 adenomata
 ap
 anack
-apabhramsa
 acutorsion
 apache
 attained
