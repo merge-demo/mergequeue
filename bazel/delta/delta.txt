@@ -3606,7 +3606,6 @@ degenerate
 desulphurizer
 diagrammatize
 dicta
-diodont
 docosane
 dignification
 dragonhead
@@ -12999,6 +12998,7 @@ disown
 downing
 dysoxidation
 defrayment
+diodont
 dollarfishes
 dissilition
 disoxygenation
