@@ -3933,7 +3933,6 @@ adjutor
 aqueity
 apologer
 adjutory
-adjutorious
 adjutrice
 adjutrix
 ambassage
@@ -7257,6 +7256,7 @@ alarmist
 anginas
 anthesterol
 alarodian
+adjutorious
 animas
 alarum
 alarumed
