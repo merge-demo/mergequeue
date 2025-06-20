@@ -7798,7 +7798,6 @@ commissurotomy
 certificative
 certificatory
 certified
-certifier
 certifiers
 cystein
 coelialgia
@@ -27365,6 +27364,7 @@ courters
 chilblain
 courtesan
 citriculturist
+certifier
 courtesanship
 courtesy
 counterinvective
