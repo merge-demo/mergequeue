@@ -2652,7 +2652,6 @@ bellying
 bable
 bribeable
 barling
-bortz
 bluestone
 bertholletia
 barghest
@@ -16324,6 +16323,7 @@ brujeria
 botryolite
 benchmarking
 balalaikas
+bortz
 brujos
 beglerbeglik
 broadways
