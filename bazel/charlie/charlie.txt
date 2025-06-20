@@ -14796,6 +14796,7 @@ coccinellid
 cocinero
 chiarooscuros
 cityness
+cransier
 cotyle
 citynesses
 chinantecs
@@ -31863,7 +31864,6 @@ cutpurse
 cyclothyme
 casuality
 cochliodont
-cransier
 cuttage
 caccabis
 crowfooted
