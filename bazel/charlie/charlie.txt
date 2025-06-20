@@ -5819,7 +5819,6 @@ chieftainship
 cylindrocephalic
 categoric
 coliidae
-chondrified
 cessionary
 categorically
 cholanthrene
@@ -6973,6 +6972,7 @@ cementoma
 cements
 cementwork
 cemetaries
+chondrified
 cemetery
 copesettic
 cemeterial
