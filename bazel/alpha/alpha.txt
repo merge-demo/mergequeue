@@ -5624,7 +5624,6 @@ amphidromia
 againward
 ardeid
 agal
-agalactic
 appoggiaturas
 agalaxia
 anisomelus
@@ -11369,6 +11368,7 @@ amplicative
 angerless
 autoelectrolytic
 annats
+agalactic
 amplify
 amplificate
 aftercause
