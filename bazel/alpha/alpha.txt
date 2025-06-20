@@ -3192,7 +3192,6 @@ aphis
 ashlar
 actuating
 alpist
-actuation
 acturience
 acuaesthesia
 alids
@@ -4056,6 +4055,7 @@ admixed
 arachnomorphae
 adempted
 applausive
+actuation
 azygobranchiata
 abomasal
 admixt
