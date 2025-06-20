@@ -2091,7 +2091,6 @@ bivittate
 banovina
 banquet
 bundist
-blindish
 banqueting
 beseem
 buddhistic
@@ -11439,6 +11438,7 @@ bairnliest
 bluepoint
 bluepoints
 blueprint
+blindish
 blazingly
 bluesy
 bluesman
