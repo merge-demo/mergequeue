@@ -6989,7 +6989,6 @@ besiege
 barrico
 besiegers
 bedeman
-bromism
 beaconed
 bradyacousia
 beslap
@@ -17548,6 +17547,7 @@ bedirtied
 bashkir
 bellonion
 buccellarius
+bromism
 bhima
 bobble
 bascule
