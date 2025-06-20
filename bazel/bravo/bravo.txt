@@ -6660,7 +6660,6 @@ bergamask
 bergamo
 blastoma
 bobcat
-bronchia
 beezers
 bergaptene
 bedstand
@@ -8516,6 +8515,7 @@ byliny
 bebouldered
 braillist
 bounties
+bronchia
 bronchotomist
 bilipurpurin
 behale
