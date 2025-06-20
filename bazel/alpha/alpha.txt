@@ -5765,6 +5765,7 @@ aeroduct
 aguey
 agathis
 agatelike
+afterpeak
 agathist
 agathodaemonic
 aeropause
@@ -6231,7 +6232,6 @@ agramed
 agrammaphasia
 agrammatica
 accouple
-afterpeak
 agrammatism
 authorized
 agrammatologia
