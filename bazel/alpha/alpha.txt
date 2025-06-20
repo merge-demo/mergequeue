@@ -1780,7 +1780,6 @@ acediamin
 acediamine
 acedias
 acanthological
-abbreviature
 autopathy
 agalloch
 aceldamas
@@ -7167,6 +7166,7 @@ alacrious
 ajhar
 alacrity
 alactaga
+abbreviature
 alada
 aladdin
 adonic
