@@ -6165,7 +6165,6 @@ cancan
 cattleyak
 cattleman
 conhydrin
-cattlemen
 cattleship
 catullian
 clamshells
@@ -21589,6 +21588,7 @@ concutient
 crepitacula
 cuneator
 condemn
+cattlemen
 convent
 condemnations
 condemnatory
