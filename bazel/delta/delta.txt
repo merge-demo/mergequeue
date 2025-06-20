@@ -2718,7 +2718,6 @@ duetto
 decorate
 decorating
 dont
-discounsel
 diplopterous
 deedful
 dassy
@@ -5827,6 +5826,7 @@ deposer
 deposers
 discouragement
 dissuade
+discounsel
 deposit
 diamondwork
 distome
