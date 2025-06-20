@@ -2648,7 +2648,6 @@ decompensating
 delinquents
 decompensations
 dasylirion
-doorkeeper
 decompiler
 decomposable
 deviceful
@@ -13865,6 +13864,7 @@ dedicational
 direxit
 dysteleologist
 dammers
+doorkeeper
 distelfink
 decemflorous
 decipherment
