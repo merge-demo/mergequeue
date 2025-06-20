@@ -4428,6 +4428,7 @@ beclogs
 bretonian
 bilabials
 beclothe
+blackest
 banting
 bonasus
 breathtakingly
@@ -12943,7 +12944,6 @@ bootlessness
 bluefish
 bootlicking
 burins
-blackest
 bara
 bouquiniste
 brambled
