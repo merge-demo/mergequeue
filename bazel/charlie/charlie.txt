@@ -8754,7 +8754,6 @@ callans
 citronelle
 choli
 chaouia
-chap
 chapah
 chapanec
 cartboot
@@ -9252,6 +9251,7 @@ carbonylic
 chastener
 cashaw
 chasteners
+chap
 coplanation
 chastenment
 chastens
