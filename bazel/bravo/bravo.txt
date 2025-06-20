@@ -5176,6 +5176,7 @@ befretting
 befume
 buoyage
 befriended
+boldfacedness
 bullyrags
 budgets
 bellbind
@@ -12109,7 +12110,6 @@ bagpudding
 barristress
 boldfaced
 boldfacedly
-boldfacedness
 boldfacing
 boldhearted
 beclip
