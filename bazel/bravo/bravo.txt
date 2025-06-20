@@ -5368,7 +5368,6 @@ besoothement
 begowk
 begowned
 buyable
-begray
 bromobenzene
 barodynamic
 barbarisation
@@ -7592,6 +7591,7 @@ breed
 bewhore
 bewidow
 bulldozers
+begray
 boke
 breaming
 brooching
