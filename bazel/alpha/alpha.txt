@@ -2624,6 +2624,7 @@ ashkenazim
 acquitter
 acquophonia
 acrab
+aware
 acracy
 acraein
 acrania
@@ -24935,7 +24936,6 @@ autostage
 awardment
 ablaqueate
 awards
-aware
 acheilary
 arrondissements
 awareness
