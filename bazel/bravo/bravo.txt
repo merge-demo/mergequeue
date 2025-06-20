@@ -10483,6 +10483,7 @@ bemaster
 blastemic
 bopyrid
 blaster
+bold
 blastid
 blasting
 borolanite
@@ -12097,7 +12098,6 @@ bolboxalis
 blushingly
 biosatellites
 berun
-bold
 byrnies
 barrat
 boldacious
