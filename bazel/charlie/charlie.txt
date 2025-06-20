@@ -2900,7 +2900,6 @@ cansos
 chartophylaxes
 congenialize
 cant
-connectionless
 crayfish
 cantabank
 canonic
@@ -21608,6 +21607,7 @@ crick
 condensation
 condensator
 corbeled
+connectionless
 crateris
 condense
 condensed
