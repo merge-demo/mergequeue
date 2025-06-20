@@ -1242,7 +1242,6 @@ discovert
 datiscosid
 drosograph
 datisi
-dative
 dorking
 datively
 dreamlore
@@ -12494,6 +12493,7 @@ disconform
 disillusionising
 disdeceive
 decimalize
+dative
 disillusionments
 disgorge
 discomycetes
