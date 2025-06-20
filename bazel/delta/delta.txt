@@ -662,6 +662,7 @@ dampers
 dudgeons
 donnard
 depermed
+delator
 dampne
 dampness
 dextrosuria
@@ -18470,7 +18471,6 @@ demonianism
 disruptiveness
 dendrochronologically
 divisionist
-delator
 dispersant
 diapers
 dyable
