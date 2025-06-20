@@ -6457,7 +6457,6 @@ ahir
 anticryptically
 ahistoric
 alternant
-autunian
 animalian
 amphicarpous
 ahmadi
@@ -15935,6 +15934,7 @@ americas
 acquital
 aliasing
 antiquated
+autunian
 anacreontic
 aceanthrenequinone
 abundantia
