@@ -3492,7 +3492,6 @@ bogging
 bitterhearted
 bateau
 bateleur
-barbered
 bovista
 bouchal
 bulldoggishly
@@ -14366,6 +14365,7 @@ birdcraft
 bockey
 bursiform
 bonebinder
+barbered
 braillewriter
 boloman
 bambino
