@@ -2570,6 +2570,7 @@ castellanship
 candlesticks
 cogniser
 candlewaster
+conoscenti
 cambial
 crocoisite
 candlewasting
@@ -22688,7 +22689,6 @@ circar
 conorhinus
 cyananthrol
 childbear
-conoscenti
 columnizes
 conoscopic
 conplane
