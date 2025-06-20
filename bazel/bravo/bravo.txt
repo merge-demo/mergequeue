@@ -3680,7 +3680,6 @@ bankrupted
 batterdock
 bearcat
 bucketmaker
-battered
 beltis
 batterie
 breck
@@ -4775,6 +4774,7 @@ barbarize
 burking
 barrener
 bracker
+battered
 brachylogy
 bedriveling
 bauleah
