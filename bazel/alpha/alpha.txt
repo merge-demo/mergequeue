@@ -9426,7 +9426,6 @@ avoir
 alsmekill
 alsophila
 adamitic
-alstonia
 amphiblastic
 alstonite
 alstroemeria
@@ -15192,6 +15191,7 @@ antifibrinolysin
 antifibrinolysis
 atomies
 antifire
+alstonia
 amylogens
 antiflash
 antiecclesiastically

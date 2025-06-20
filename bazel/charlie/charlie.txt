@@ -11301,6 +11301,7 @@ cynocephalus
 chesterbed
 ceresin
 chlormethane
+clearances
 chloroacetone
 childe
 conservation
@@ -15824,7 +15825,6 @@ colonized
 clearable
 clearage
 clearance
-clearances
 coteller
 counterfeitness
 curuminaca
