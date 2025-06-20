@@ -3046,6 +3046,7 @@ centauri
 confronts
 cantraip
 cantraips
+cestrian
 cantraps
 chares
 curlyheads
@@ -7941,7 +7942,6 @@ cestoids
 cestraction
 chairs
 colessees
-cestrian
 cestrum
 conned
 cesural
