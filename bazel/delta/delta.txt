@@ -1023,7 +1023,6 @@ daggly
 darkskin
 disseises
 darksomeness
-darksum
 domineers
 danalite
 daguerrean
@@ -3207,6 +3206,7 @@ diphthongising
 doughbelly
 defencive
 dents
+darksum
 defend
 defendable
 dikast
