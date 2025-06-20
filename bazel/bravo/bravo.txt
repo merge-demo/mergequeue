@@ -4710,7 +4710,6 @@ bandpass
 braved
 braze
 bedlamised
-bedlamite
 bastardization
 bedlamitish
 bedub
@@ -5048,6 +5047,7 @@ beltcourse
 bigotedly
 befalling
 benzomorpholine
+bedlamite
 befalls
 botanised
 battlers
