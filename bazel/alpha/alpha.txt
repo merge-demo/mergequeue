@@ -8489,7 +8489,6 @@ acuate
 alkalizing
 alkaloid
 alkaloids
-alkalosis
 alkalous
 alkalurops
 algorithms
@@ -10213,6 +10212,7 @@ amebean
 amebian
 architecure
 antonomasy
+alkalosis
 aiguilletted
 admortization
 araban
