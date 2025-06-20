@@ -1097,7 +1097,6 @@ anachronical
 abundantly
 abune
 abura
-ausubo
 aburban
 amphodelite
 aburton
@@ -4670,6 +4669,7 @@ askile
 aegrotat
 acroterion
 abush
+ausubo
 aetheling
 antedawn
 aeluroid
