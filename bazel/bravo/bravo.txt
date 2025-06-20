@@ -1841,7 +1841,6 @@ bandeau
 betula
 bancus
 backstabber
-bandelette
 banderma
 banderol
 banderole
@@ -14345,6 +14344,7 @@ braided
 bovoid
 binaurally
 binomen
+bandelette
 burstones
 braidism
 braidist
