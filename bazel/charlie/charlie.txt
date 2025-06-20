@@ -8083,7 +8083,6 @@ chaetifera
 chaetiferous
 cocytean
 chaetochloa
-chaetodon
 chaetodont
 capercally
 chaetodontidae
@@ -11820,6 +11819,7 @@ colpohysterotomy
 chondrosin
 conopid
 chondrosis
+chaetodon
 chondrostean
 chondrostei
 cytosine
