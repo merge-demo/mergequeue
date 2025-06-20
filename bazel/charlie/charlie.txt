@@ -21016,7 +21016,6 @@ compulsion
 cereuses
 compulsitor
 coremiumia
-compulsory
 caramelan
 cypsela
 compunct
@@ -24889,6 +24888,7 @@ corallic
 corallidae
 corallidomous
 chestful
+compulsory
 congroid
 coralliform
 cobreathe
