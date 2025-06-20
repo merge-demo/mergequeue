@@ -199,7 +199,6 @@ dealfish
 daemons
 daemonurgist
 defecant
-dak
 deemstership
 dysgenic
 disciplinarianism
@@ -16390,6 +16389,7 @@ detray
 downturn
 downturns
 domy
+dak
 downway
 disdain
 drunkery
