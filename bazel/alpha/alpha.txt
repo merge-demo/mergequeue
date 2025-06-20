@@ -896,6 +896,7 @@ angiohypertonia
 alachah
 anabong
 audiometric
+alloxuric
 ascidium
 aures
 absyrtus
@@ -9075,7 +9076,6 @@ alloxuraemia
 alloxuremia
 apnoeas
 aumaga
-alloxuric
 amidoacetal
 allround
 agynarious
