@@ -6567,7 +6567,6 @@ bosnisch
 bewelcome
 bavarois
 beaming
-backplanes
 bagel
 breezy
 bioecologies
@@ -8694,6 +8693,7 @@ bodysurf
 bournless
 bimanually
 breechloading
+backplanes
 basaltes
 barbadoes
 bourbonist
