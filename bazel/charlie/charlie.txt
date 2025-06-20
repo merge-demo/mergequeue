@@ -9727,7 +9727,6 @@ casse
 coagent
 cheewink
 cheezit
-chef
 chefs
 collocate
 chego
@@ -26608,6 +26607,7 @@ councils
 cozener
 counite
 conventionalisation
+chef
 counsel
 counterpanes
 counselable
