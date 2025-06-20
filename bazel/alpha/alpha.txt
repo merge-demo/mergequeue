@@ -4566,6 +4566,7 @@ advocate
 afficionado
 advocated
 advocates
+appet
 afterspeech
 advocating
 advocative
@@ -8762,7 +8763,6 @@ alliage
 alliance
 accoast
 anschluss
-appet
 alliancing
 alliant
 allicampane
