@@ -7213,7 +7213,6 @@ bestialised
 brannigan
 boulevardier
 bellbirds
-bestialist
 bruscha
 bestiality
 bestialized
@@ -17813,6 +17812,7 @@ blypes
 bursaries
 bursars
 bursch
+bestialist
 bianisidine
 becompass
 belord
