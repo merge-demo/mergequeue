@@ -19842,7 +19842,6 @@ adeptest
 acquereur
 armida
 armied
-armies
 acetocinnamene
 abthainry
 armiferous
@@ -20342,6 +20341,7 @@ artocarpad
 afterdamp
 arsenolite
 aphidious
+armies
 arsenophen
 ail
 asahel
