@@ -3556,7 +3556,6 @@ adendritic
 akenbold
 amphibion
 adenemphractic
-adenylic
 avichi
 adatom
 adenitis
@@ -21689,6 +21688,7 @@ assents
 asseour
 assert
 asserta
+adenylic
 assertable
 asserted
 assagaied
