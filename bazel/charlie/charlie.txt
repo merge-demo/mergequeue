@@ -12912,7 +12912,6 @@ clistocarpous
 climb
 churchwoman
 churchwomen
-churel
 churidars
 canvassy
 cyclized
@@ -21890,6 +21889,7 @@ conferences
 conferential
 conferral
 creodont
+churel
 conferred
 conferrence
 cornerbind
