@@ -9821,7 +9821,6 @@ chrematistics
 ceylon
 caudate
 cheliform
-chelinga
 curua
 chelingas
 chelingos
@@ -24361,6 +24360,7 @@ crimpier
 caviling
 cholinergic
 coolest
+chelinga
 cattleless
 coned
 crosspiece
