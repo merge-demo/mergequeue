@@ -1840,6 +1840,7 @@ cheerers
 cyrillaceae
 chundari
 cysticle
+conoids
 camaxtli
 camb
 clabularia
@@ -17057,7 +17058,6 @@ coexplosion
 cupmate
 cortisone
 cnidopod
-conoids
 confoundable
 cnidosis
 cardiacs
