@@ -7867,7 +7867,6 @@ cervicolabial
 cooeyed
 croh
 cervicomuscular
-cerviconasal
 cribrous
 crotchy
 cervicoscapular
@@ -14691,6 +14690,7 @@ captans
 catch
 concomitancy
 cystopyelitis
+cerviconasal
 coquelicot
 cystoplegia
 cystoproctostomy
