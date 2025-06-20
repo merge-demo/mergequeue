@@ -2493,7 +2493,6 @@ brachyoura
 barge
 bergere
 bargelike
-beet
 bravura
 bargellos
 beswinge
@@ -13050,6 +13049,7 @@ balangay
 bolster
 blousing
 borders
+beet
 borderland
 borderlander
 bagpipe
