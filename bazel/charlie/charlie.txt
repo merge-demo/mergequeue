@@ -16656,7 +16656,6 @@ chargeling
 clop
 carburate
 conteck
-clopped
 clops
 cantref
 cloque
@@ -31070,6 +31069,7 @@ cunarder
 capeadors
 cunctation
 cunctative
+clopped
 cunctator
 cunctatury
 corallus
