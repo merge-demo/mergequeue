@@ -1477,7 +1477,6 @@ deaccessioning
 drawbolt
 dingbats
 definiendum
-deformers
 diazines
 deacetylate
 duststorm
@@ -15483,6 +15482,7 @@ domitian
 dacus
 domn
 dermatoglyphic
+deformers
 ductule
 domnei
 deoxyribonucleic
