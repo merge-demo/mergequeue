@@ -6420,7 +6420,6 @@ boundure
 biozone
 belgium
 benzoglycolic
-benzoglyoxaline
 bastioned
 benzohydrol
 benzoylated
@@ -9479,6 +9478,7 @@ battlefront
 birodo
 bisulphide
 burnies
+benzoglyoxaline
 brittling
 babingtonite
 biron
