@@ -21303,7 +21303,6 @@ coterminously
 couponed
 cardiomalacia
 conchae
-conchal
 conchate
 chemigrapher
 cunonia
@@ -25607,6 +25606,7 @@ corporeous
 corporify
 chapterful
 corporification
+conchal
 corporosity
 corps
 chondriocont
