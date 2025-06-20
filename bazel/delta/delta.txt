@@ -1132,7 +1132,6 @@ diau
 dasyatis
 dire
 distractingly
-dasiphora
 darren
 dasypod
 dispaint
@@ -11499,6 +11498,7 @@ discolouring
 disconnectiveness
 discolourization
 discourt
+dasiphora
 discombobulate
 disuniform
 denominator
