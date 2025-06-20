@@ -5224,7 +5224,6 @@ affined
 affinely
 alogia
 acromiodeltoid
-affines
 anthomedusae
 affinitative
 alemanni
@@ -12464,6 +12463,7 @@ anemobiagraph
 anemochord
 anemochore
 anemochorous
+affines
 appropriated
 aimlessness
 antipacifist
