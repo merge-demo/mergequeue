@@ -2395,6 +2395,7 @@ deciles
 decylic
 dorsiparous
 deciliter
+directed
 druidry
 doodads
 dispelled
@@ -7955,7 +7956,6 @@ decemplicate
 dexterously
 dextrad
 dextral
-directed
 dextran
 doruck
 dextranase
