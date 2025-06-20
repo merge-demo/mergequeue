@@ -1019,7 +1019,6 @@ bail
 burs
 bringer
 barfs
-bailable
 boordly
 baile
 bezazz
@@ -12201,6 +12200,7 @@ broomcorn
 brimstone
 blamable
 bollock
+bailable
 bema
 brachiate
 beginner
