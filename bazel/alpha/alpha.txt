@@ -3758,6 +3758,7 @@ adiathermal
 adiathermancy
 antioxidase
 alcoranist
+alix
 alure
 arcticologist
 acaridea
@@ -8407,7 +8408,6 @@ aeolodicon
 apathistical
 alivincular
 amoebaean
-alix
 alizarate
 anchovy
 alizarins
