@@ -1197,6 +1197,7 @@ bakeress
 besigh
 bootloader
 bakeries
+battel
 budling
 bakerly
 bakerlike
@@ -8824,7 +8825,6 @@ bumpered
 bondman
 binnogue
 blink
-battel
 backstrap
 bepill
 binocularly
