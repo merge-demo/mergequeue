@@ -3389,7 +3389,6 @@ domal
 diamante
 diacetyl
 dyscrasia
-decarboxylase
 decolorisation
 decompensate
 disadorn
@@ -8883,6 +8882,7 @@ dibothriocephalus
 daughterless
 dibranch
 duftery
+decarboxylase
 defiguration
 draglines
 dibranchiata
