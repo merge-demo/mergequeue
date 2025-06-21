@@ -11793,6 +11793,7 @@ chondrogen
 cognation
 chondrogenesis
 chondroglossal
+citer
 chondrography
 cytomegalic
 conduplication
@@ -14752,7 +14753,6 @@ citatory
 canvassers
 cookery
 cite
-citer
 citers
 cites
 citess
