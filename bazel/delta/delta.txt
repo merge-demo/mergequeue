@@ -4721,6 +4721,7 @@ demitint
 demitoilet
 deteriorated
 duello
+dictyonema
 demitranslucence
 demits
 demitted
@@ -17209,7 +17210,6 @@ dition
 difformed
 disintricate
 drysne
-dictyonema
 director
 diaphoresis
 depletory
