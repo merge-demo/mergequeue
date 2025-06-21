@@ -2547,7 +2547,6 @@ beltways
 burghalpenny
 bloodberry
 bardel
-barylalia
 beleaped
 bactrian
 backtalk
@@ -12177,6 +12176,7 @@ boleweed
 biometeorology
 blandiloquence
 bolewort
+barylalia
 baklawas
 benzodiazine
 bridgeboard
