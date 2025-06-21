@@ -8714,6 +8714,7 @@ alsine
 acalephan
 aerocurve
 anapterygote
+aerogun
 aller
 allergenic
 abouchement
@@ -17315,7 +17316,6 @@ autothermy
 aposteme
 aposteriori
 arctogaea
-aerogun
 apostil
 arithmometer
 apostille
