@@ -9329,7 +9329,6 @@ aphthongia
 axstone
 alpenglow
 alpenstock
-aerogram
 alpenstocks
 alpestral
 alpestrine
@@ -17398,6 +17397,7 @@ atriensis
 apothegmatize
 antiattrition
 autocratically
+aerogram
 apotheosised
 apotheosising
 apotheosize
