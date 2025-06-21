@@ -17045,7 +17045,6 @@ aerophotography
 agranulocyte
 apodal
 apodedeipna
-acrotarsium
 apodeictic
 apodeictical
 aboideaux
@@ -22931,6 +22930,7 @@ angiocarditis
 apelike
 astringency
 arroba
+acrotarsium
 amphispore
 atroscine
 atrous
