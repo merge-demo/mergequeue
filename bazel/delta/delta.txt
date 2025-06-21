@@ -1215,7 +1215,6 @@ datebook
 dibstones
 drivehead
 disembarkation
-disemplane
 disobligation
 dateless
 datelessness
@@ -5866,6 +5865,7 @@ disanagrammatize
 depravedness
 doxologizing
 dreidel
+disemplane
 dimagnesic
 depraver
 dragonfly
