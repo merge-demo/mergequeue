@@ -97,7 +97,6 @@ annominate
 auditories
 abarticulation
 agyieus
-abase
 abased
 asap
 abasedly
@@ -2871,6 +2870,7 @@ ascophorous
 acropodium
 acropoleis
 acuminated
+abase
 acropolitan
 acropora
 asthenope
