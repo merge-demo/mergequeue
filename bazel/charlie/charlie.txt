@@ -128,6 +128,7 @@ chemisorptive
 costotransverse
 cabiria
 cabirian
+colicroot
 circumcised
 cabiric
 cataclysm
@@ -18866,7 +18867,6 @@ colicins
 coappellee
 corvisor
 cytogene
-colicroot
 colicwort
 cranial
 cervelliere
