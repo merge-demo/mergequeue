@@ -1641,6 +1641,7 @@ ballots
 ballottement
 backlotter
 baronage
+butle
 byelorussians
 ballottines
 bathwort
@@ -13749,7 +13750,6 @@ barrelful
 bouvardia
 buffers
 bouw
-butle
 bigheads
 bouzoukia
 bouzoukis
