@@ -2908,7 +2908,6 @@ curatively
 cacaos
 cantabile
 clothesmonger
-chalcis
 cantabrian
 cantabrigian
 cantalever
@@ -24486,6 +24485,7 @@ clr
 courtliness
 clavis
 copaivic
+chalcis
 copaliferous
 copalite
 copalm
