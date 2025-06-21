@@ -4194,7 +4194,6 @@ beatles
 backchain
 bellmen
 barometric
-brusquer
 beatnik
 beatrix
 becater
@@ -15310,6 +15309,7 @@ brieflessly
 bracozzo
 besieges
 briefness
+brusquer
 bleeds
 bedstaves
 barblet
