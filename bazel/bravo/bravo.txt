@@ -1328,6 +1328,7 @@ balatron
 benzaldiphenyl
 balatte
 bankcards
+biddelian
 bergfall
 bermudian
 bernoullian
@@ -4575,7 +4576,6 @@ bedaubing
 bloodstone
 boden
 belial
-biddelian
 beats
 bedazement
 bedazzle
