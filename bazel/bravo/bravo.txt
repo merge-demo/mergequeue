@@ -12273,6 +12273,7 @@ bombaster
 bowfront
 biquartz
 brogans
+barkantine
 biflected
 boltrope
 basswoods
@@ -17170,7 +17171,6 @@ brachydodrome
 beduins
 blastulae
 brisque
-barkantine
 bullpen
 bullpoll
 bemirror
