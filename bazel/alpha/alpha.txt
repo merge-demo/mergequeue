@@ -16237,7 +16237,6 @@ audibility
 advocatrix
 argali
 arish
-antithesism
 antithetic
 achropsia
 arcosoliulia
@@ -22580,6 +22579,7 @@ athermic
 atherogenesis
 alley
 atheroma
+antithesism
 aerobic
 aratinga
 atheromatosis
