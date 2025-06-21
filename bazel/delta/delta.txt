@@ -11168,7 +11168,6 @@ danite
 dismask
 dogmatist
 divinities
-defectibility
 devvel
 djins
 disavower
@@ -11597,6 +11596,7 @@ disconsent
 dithering
 discerpibility
 disconsideration
+defectibility
 disconsolately
 datasets
 dispeopling
