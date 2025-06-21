@@ -9303,7 +9303,6 @@ deforester
 diesters
 diestock
 diestrous
-drawbridge
 diestrums
 drupaceae
 disambiguations
@@ -16975,6 +16974,7 @@ downcurve
 dredgeful
 disintegrate
 discerp
+drawbridge
 dithery
 dredgers
 discreet
