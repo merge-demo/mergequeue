@@ -6065,7 +6065,6 @@ bollard
 bemartyr
 buttstrap
 blacktail
-bemuddlement
 bemuddles
 bemuddling
 bemurmur
@@ -16452,6 +16451,7 @@ birdfarms
 buckra
 borasque
 bruskly
+bemuddlement
 bruskness
 bozal
 breathableness
