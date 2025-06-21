@@ -4112,7 +4112,6 @@ condalia
 cardin
 cardinal
 cardinalfish
-croslet
 cancans
 cardinalfishes
 casuist
@@ -19826,6 +19825,7 @@ chaplin
 comedical
 coprosma
 comediette
+croslet
 coagulate
 chelydridae
 comedo
