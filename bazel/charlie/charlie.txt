@@ -2503,7 +2503,6 @@ candide
 churls
 candidiasis
 candidness
-candidnesses
 candids
 crawlie
 cantorial
@@ -31692,6 +31691,7 @@ cusk
 collodium
 cragsman
 cusparidine
+candidnesses
 cuspate
 cusped
 clomped
