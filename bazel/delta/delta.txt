@@ -4432,7 +4432,6 @@ duplexity
 dizening
 drawk
 demeanor
-doit
 disallowableness
 disembark
 demeanored
@@ -14501,6 +14500,7 @@ degauss
 diphyzooid
 devitaminize
 deliveries
+doit
 drouk
 douter
 decemviri
