@@ -1745,6 +1745,7 @@ downtimes
 drof
 deathward
 dikaryon
+discoursing
 ductility
 docent
 downlier
@@ -11709,7 +11710,6 @@ diastasis
 domdaniel
 discourses
 diovular
-discoursing
 decoagulate
 distritbute
 dehumidification
