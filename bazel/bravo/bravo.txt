@@ -8616,6 +8616,7 @@ byrlady
 batteau
 buhrmill
 baldacchino
+bricklay
 behind
 burgees
 bartram
@@ -17532,7 +17533,6 @@ burds
 brutalizing
 burweeds
 barraged
-bricklay
 bureaucratization
 breastpiece
 blepharoclonus
