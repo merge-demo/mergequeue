@@ -1600,7 +1600,6 @@ doe
 dinginess
 drawer
 doweled
-diadrome
 derision
 disenrol
 damagingly
@@ -12291,6 +12290,7 @@ disgracer
 dipicrate
 disenchanted
 delicacies
+diadrome
 debarks
 disgracious
 diplegias
