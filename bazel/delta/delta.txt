@@ -3360,7 +3360,6 @@ decolor
 disrestore
 dynagraph
 dithionate
-deflagrator
 deflating
 discommend
 drumslade
@@ -7628,6 +7627,7 @@ drapping
 devata
 devaul
 deoxygenating
+deflagrator
 degaussed
 deveined
 disbursements
