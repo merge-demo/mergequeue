@@ -1455,7 +1455,6 @@ curupay
 calisthenics
 calite
 calyx
-carbonometry
 coecal
 continents
 careening
@@ -20541,6 +20540,7 @@ crimes
 compeering
 corinthianesque
 chandelier
+carbonometry
 checkerspot
 compeers
 chromatophorous
