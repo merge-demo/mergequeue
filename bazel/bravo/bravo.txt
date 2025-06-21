@@ -2403,7 +2403,6 @@ betowel
 blinkering
 bromoiodide
 bardolph
-barbion
 brotherhood
 bards
 bardship
@@ -18179,6 +18178,7 @@ bores
 biodegradation
 bricky
 bitterwort
+barbion
 balneary
 butlery
 belief
