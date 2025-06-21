@@ -11090,7 +11090,6 @@ coalize
 chitimacha
 chitimachan
 checksums
-coappears
 chitinoid
 chitinous
 chitins
@@ -27325,6 +27324,7 @@ centralizers
 courap
 couratari
 courbaril
+coappears
 courbe
 chemistries
 courbette
