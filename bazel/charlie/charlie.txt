@@ -5849,6 +5849,7 @@ crawling
 chateau
 cateye
 catel
+commentable
 coelongated
 catelectrode
 capstones
@@ -20067,7 +20068,6 @@ commensuration
 commensurations
 corking
 comment
-commentable
 commentarialism
 corky
 commentated
