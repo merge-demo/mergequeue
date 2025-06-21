@@ -6336,6 +6336,7 @@ dermenchysis
 delacrimation
 dermestid
 dermatoneural
+dinge
 dextrogyration
 deject
 disseminating
@@ -8637,7 +8638,6 @@ duckhouse
 dyarchies
 disjunctor
 davis
-dinge
 debugging
 distilment
 diary
