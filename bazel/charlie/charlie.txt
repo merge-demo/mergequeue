@@ -4804,7 +4804,6 @@ covariables
 cynosarges
 carpopodite
 carpopoditic
-coordinating
 carved
 carpoptosia
 completion
@@ -14016,6 +14015,7 @@ cinquepace
 cinter
 ceratopsid
 cynthiidae
+coordinating
 coeditor
 cintre
 cinura
