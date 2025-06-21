@@ -8822,6 +8822,7 @@ chapiter
 chloranaemia
 chapitral
 chaplain
+consortium
 canulated
 chaplaincies
 chaplains
@@ -27725,7 +27726,6 @@ cosmolining
 clinochlore
 cytidines
 cowpoxes
-consortium
 chuprassi
 champagnizing
 cowry
