@@ -5470,7 +5470,6 @@ curvesome
 casuals
 casualty
 casuariiformes
-chloramide
 casuarina
 casuarius
 celeomorph
@@ -15129,6 +15128,7 @@ clackety
 clacking
 clacks
 clad
+chloramide
 confated
 cladanthous
 cladding
