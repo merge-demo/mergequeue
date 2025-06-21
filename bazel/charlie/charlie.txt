@@ -3626,6 +3626,7 @@ curtaxe
 caracol
 coauthoring
 caracoling
+currans
 curliest
 crustate
 caracolite
@@ -31453,7 +31454,6 @@ currachs
 curragh
 centavo
 currajong
-currans
 currant
 completions
 chresards
