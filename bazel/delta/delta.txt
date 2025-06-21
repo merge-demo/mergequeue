@@ -5794,7 +5794,6 @@ depoliticizes
 dredged
 dreck
 depones
-deponing
 distributee
 deltidium
 depopulates
@@ -6131,6 +6130,7 @@ demiworld
 derailment
 diplomatism
 decocts
+deponing
 divvied
 dynapolis
 defalcate
