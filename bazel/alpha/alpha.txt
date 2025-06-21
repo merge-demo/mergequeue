@@ -9747,7 +9747,6 @@ assoil
 amanori
 amain
 andouillette
-amaist
 ado
 amaister
 amakebe
@@ -22922,6 +22921,7 @@ achromats
 altigraph
 atropine
 atropisms
+amaist
 atropos
 atropous
 anemometrograph
