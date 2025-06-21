@@ -2582,6 +2582,7 @@ decoat
 decoct
 demiquaver
 dashes
+deoxidised
 decocting
 decoctive
 deaminizing
@@ -5886,7 +5887,6 @@ deprecative
 dissolvable
 deprecator
 deprecatory
-deoxidised
 desensitization
 degradingness
 dregless
