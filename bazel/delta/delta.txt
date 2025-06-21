@@ -11285,6 +11285,7 @@ discamp
 drawstring
 discanted
 dermochelys
+deertongue
 discomedusan
 dragon
 delegacies
@@ -17476,7 +17477,6 @@ drouthier
 defame
 definitude
 datums
-deertongue
 delegatee
 drove
 drovers
