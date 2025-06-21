@@ -4673,7 +4673,6 @@ douzaines
 dereliction
 demipectinate
 denarius
-diswench
 demiscible
 dicebox
 denticulate
@@ -15116,6 +15115,7 @@ dogie
 doglegging
 doglegs
 doglike
+diswench
 dekabrist
 dufrenite
 delicti
