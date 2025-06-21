@@ -10320,6 +10320,7 @@ arundineous
 allotheria
 ankylopoietic
 autompne
+azimuthal
 amentiform
 aplodiorite
 aerobe
@@ -25269,7 +25270,6 @@ azimino
 antiphonaries
 azymite
 azimuth
-azimuthal
 acceded
 aulete
 azimuths
