@@ -3469,7 +3469,6 @@ bullaces
 batatas
 batavi
 ballan
-buzzsaw
 bidar
 biscuiting
 batavian
@@ -10120,6 +10119,7 @@ blackband
 blackberrylike
 bunkload
 bacchant
+buzzsaw
 bilaminate
 bellied
 berbers
