@@ -4292,7 +4292,6 @@ blouselike
 bebrush
 bebuttoned
 below
-bowtie
 barkeepers
 bushwood
 blubbers
@@ -9149,6 +9148,7 @@ behalf
 bianchi
 beshag
 badgir
+bowtie
 ballgown
 biotechnologically
 bathysmal
