@@ -3794,7 +3794,6 @@ amphitruo
 amphithuron
 acetabuliform
 adipinic
-autotransplant
 adipocellulose
 adipocere
 adipoceriform
@@ -13589,6 +13588,7 @@ annunciation
 aerated
 amebic
 annunciations
+autotransplant
 ansated
 airliner
 anoas
