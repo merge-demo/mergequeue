@@ -2667,7 +2667,6 @@ decompress
 decompresses
 detectaphone
 demiplacate
-decompressive
 dogies
 duckies
 dcollet
@@ -7380,6 +7379,7 @@ detinues
 detn
 dowagerism
 dwine
+decompressive
 demilunes
 depersonalised
 deselect
