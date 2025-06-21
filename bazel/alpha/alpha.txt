@@ -8604,7 +8604,6 @@ ampullosity
 allantoinuria
 acetoxim
 allantoxaidin
-actinouranium
 allegorised
 anisogenous
 allasch
@@ -14758,6 +14757,7 @@ allocution
 anticeremonious
 acceptancy
 archgomeral
+actinouranium
 anticeremoniously
 anticeremoniousness
 antichamber
