@@ -1955,7 +1955,6 @@ bacteriophage
 bandwidth
 bagginess
 bandworm
-boogiewoogie
 baylet
 baneberry
 benzoflavine
@@ -11018,6 +11017,7 @@ bargello
 bp
 behinder
 bromoethylene
+boogiewoogie
 brassia
 breading
 bottleholder
