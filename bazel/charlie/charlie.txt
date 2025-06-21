@@ -4713,7 +4713,6 @@ costalgia
 chapmen
 carpetbaggism
 commuter
-commas
 choenix
 carpetbags
 counterearth
@@ -25322,6 +25321,7 @@ ce
 coldbloodedness
 corncutter
 corndodger
+commas
 cornea
 corneal
 corneas
