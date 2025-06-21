@@ -8251,6 +8251,7 @@ callower
 cli
 chakobu
 chakram
+corallium
 carpentry
 chaksi
 chal
@@ -24904,7 +24905,6 @@ cuichunchulli
 criniferous
 charac
 caoutchouc
-corallium
 carminatives
 caterans
 craniacromial
