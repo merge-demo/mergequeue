@@ -5840,7 +5840,6 @@ cleaves
 categorization
 coryzal
 corona
-categorized
 categorizer
 chandoo
 categorizes
@@ -26685,6 +26684,7 @@ counterannouncement
 counterapse
 counterarch
 compulsative
+categorized
 chaityas
 chende
 cloisters
