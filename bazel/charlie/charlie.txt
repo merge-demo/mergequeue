@@ -13874,7 +13874,6 @@ cinephotomicrography
 catalina
 convoy
 cineplasty
-cineplastics
 cineradiography
 chelingo
 credence
@@ -27362,6 +27361,7 @@ courtepy
 courter
 cozily
 courters
+cineplastics
 chilblain
 courtesan
 citriculturist
