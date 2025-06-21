@@ -6701,6 +6701,7 @@ antioxygen
 amplifies
 accepters
 armyworm
+apyretic
 abucco
 alt
 arpeggio
@@ -17406,7 +17407,6 @@ apothesine
 anteportico
 amercers
 apotome
-apyretic
 asmalte
 apotropaically
 azlons
