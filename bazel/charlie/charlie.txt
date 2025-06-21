@@ -2119,6 +2119,7 @@ costumery
 cixiid
 capriciousness
 campcraft
+curt
 campe
 cryal
 camped
@@ -31548,7 +31549,6 @@ conjobble
 cyriological
 cycliae
 curstful
-curt
 curtailed
 curtailedly
 curtailing
