@@ -1918,7 +1918,6 @@ caser
 cameloidea
 camelopardalis
 consubstantiation
-carcinus
 cinnamomum
 chiliarchy
 camelopards
@@ -26937,6 +26936,7 @@ countermine
 castellated
 cotonier
 countermined
+carcinus
 countermission
 coinfeftment
 chromophor
