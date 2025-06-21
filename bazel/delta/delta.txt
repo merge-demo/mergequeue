@@ -10372,7 +10372,6 @@ dioptrical
 diorama
 daroo
 dioramas
-diophantine
 driftpiece
 dowsing
 dozened
@@ -13635,6 +13634,7 @@ dissilient
 dolichurus
 dermatobia
 dissyllabic
+diophantine
 dasypaedic
 documentarian
 dissyllabification
