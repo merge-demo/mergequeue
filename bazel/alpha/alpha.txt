@@ -11656,7 +11656,6 @@ anaerobiont
 anaerobiosis
 anaerobiotic
 anaerobium
-avanti
 anaerophyte
 anaphylactic
 amatols
@@ -24561,6 +24560,7 @@ aftosa
 asynaptic
 abstractness
 availer
+avanti
 antimachine
 availing
 amapondo
