@@ -7256,7 +7256,6 @@ centriscoid
 cappadine
 centriscus
 centrism
-chalices
 clark
 cinemascope
 comite
@@ -18531,6 +18530,7 @@ cohibition
 cohibitor
 cohitre
 cohobating
+chalices
 chandlering
 collieries
 cohobator
