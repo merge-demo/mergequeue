@@ -13471,7 +13471,6 @@ counterturn
 cydippe
 cofeatures
 cydonian
-confederator
 cydonium
 cie
 cierge
@@ -23759,6 +23758,7 @@ contrapunto
 contraregularity
 centrisciform
 conductimeter
+confederator
 contraremonstrance
 contrariant
 contraries
