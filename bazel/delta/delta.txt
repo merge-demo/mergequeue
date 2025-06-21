@@ -5881,7 +5881,6 @@ doorbrand
 desolations
 diachoresis
 demeaning
-disconcert
 deprecative
 dissolvable
 deprecator
@@ -15238,6 +15237,7 @@ dotate
 dolentissimo
 drunkly
 disimitate
+disconcert
 dolerophanite
 disproperty
 declinal
