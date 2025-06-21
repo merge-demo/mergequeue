@@ -10193,7 +10193,6 @@ bitreadle
 blackguard
 bos
 betokening
-benzenyl
 bookrests
 blackguardry
 baroreceptor
@@ -10477,6 +10476,7 @@ blasphemous
 blasphemousness
 bismarckian
 buttonhole
+benzenyl
 blastemal
 blunderingly
 bemaster
