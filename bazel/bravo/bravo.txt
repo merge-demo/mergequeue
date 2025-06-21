@@ -763,6 +763,7 @@ badland
 badlands
 buba
 bat
+bottine
 brushcut
 bygoing
 banket
@@ -1313,7 +1314,6 @@ binational
 balanorrhagia
 balanta
 bescorn
-bottine
 balantidic
 bearlike
 balaos
