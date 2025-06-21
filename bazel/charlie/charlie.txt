@@ -6207,7 +6207,6 @@ caucuses
 concatenation
 caucusses
 caucussing
-chlorion
 cauda
 culls
 caudae
@@ -7883,6 +7882,7 @@ cesare
 cesareans
 cesarevitch
 caramelizing
+chlorion
 cesarian
 cesarians
 cruisers
