@@ -18943,7 +18943,6 @@ ageratum
 archival
 archivault
 archiver
-archjockey
 amoroso
 archknave
 ageless
@@ -21578,6 +21577,7 @@ argyroneta
 assayed
 amorist
 anticontagion
+archjockey
 assayers
 allometry
 assaying
