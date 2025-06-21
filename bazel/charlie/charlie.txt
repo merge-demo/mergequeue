@@ -4981,7 +4981,6 @@ cypseli
 cartographic
 cartographical
 cartographically
-carton
 cartoner
 cartonful
 covinously
@@ -19266,6 +19265,7 @@ colnaria
 colocate
 chiquest
 colocated
+carton
 colocephali
 coryph
 colocynth
