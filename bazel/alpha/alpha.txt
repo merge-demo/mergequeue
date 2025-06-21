@@ -2755,6 +2755,7 @@ aface
 almeh
 acrochordon
 aggregata
+awarder
 acrock
 amyelencephalia
 acrospore
@@ -19419,7 +19420,6 @@ argillaceous
 anmia
 affectively
 amphipodiform
-awarder
 argillic
 aspalathus
 argilliferous
