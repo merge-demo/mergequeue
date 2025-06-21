@@ -12532,7 +12532,6 @@ benchy
 bongoes
 bongoist
 bypast
-borrows
 bannimus
 beaus
 bedposts
@@ -12544,6 +12543,7 @@ bony
 burtonize
 boniata
 bloodshot
+borrows
 barnage
 balsamroot
 bourgeoning
