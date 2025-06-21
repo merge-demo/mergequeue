@@ -5122,6 +5122,7 @@ belching
 borderers
 baffle
 boussingaultite
+biffies
 bunrakus
 beflecked
 bookless
@@ -10570,7 +10571,6 @@ blatherskites
 baptisteries
 blatiform
 biotelemetric
-biffies
 blats
 butyrone
 beflatter
