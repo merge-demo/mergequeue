@@ -2729,7 +2729,6 @@ brigandishly
 bismutoplagionite
 barolo
 bm
-bicolored
 benab
 bonneting
 bukeyef
@@ -5071,6 +5070,7 @@ buirdly
 bandoline
 bilingual
 balefire
+bicolored
 biocatalyst
 basenet
 befezzed
