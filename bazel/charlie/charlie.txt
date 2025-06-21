@@ -17373,7 +17373,6 @@ culpas
 cupola
 coassume
 crystallic
-coassuming
 chrysolite
 coast
 coastal
@@ -30163,6 +30162,7 @@ cruciation
 crucible
 credulousness
 cuticularization
+coassuming
 chimango
 clachs
 chemicoengineering
