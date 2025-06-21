@@ -6440,7 +6440,6 @@ coffeecakes
 cloister
 cav
 ceratites
-curvinervate
 cavayard
 cavalcaded
 cavalcades
@@ -20956,6 +20955,7 @@ cultuses
 comprizing
 casshe
 cresol
+curvinervate
 comprobation
 comproduce
 cookless
