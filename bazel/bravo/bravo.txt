@@ -4729,7 +4729,6 @@ butcherliness
 badmash
 bedlams
 bienseance
-bursula
 basseted
 bedlar
 bazoo
@@ -16642,6 +16641,7 @@ bayamo
 buckaroo
 bombazet
 bokmakierie
+bursula
 buckberry
 boily
 bebaron
