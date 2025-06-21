@@ -1932,7 +1932,6 @@ acetylenyl
 acetylfluoride
 appendix
 affirmance
-acetylglycin
 acetylglycine
 apologetical
 acetylhydrazine
@@ -9826,6 +9825,7 @@ azimethylene
 amaranthine
 ataraxy
 aforeward
+acetylglycin
 angioglioma
 amaranthus
 amarantine
