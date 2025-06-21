@@ -9761,7 +9761,6 @@ cimex
 chromotype
 cheiranthus
 cheirogaleus
-cheirography
 cheirolin
 cymbal
 cheirology
@@ -14088,6 +14087,7 @@ contraregular
 cocainism
 cytoplasmically
 cypridinoid
+cheirography
 cyprina
 cyprinid
 cheiromancy
