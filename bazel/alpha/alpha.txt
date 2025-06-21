@@ -4062,7 +4062,6 @@ admixt
 admixtion
 admixtures
 admonish
-admonishes
 anaesthetizing
 aquincubitalism
 accompanable
@@ -6779,6 +6778,7 @@ airflows
 antimoralist
 aglipayan
 airfoil
+admonishes
 airfoils
 adiate
 airglow
