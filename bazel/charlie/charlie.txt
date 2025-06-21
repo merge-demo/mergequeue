@@ -97,6 +97,7 @@ cabeliau
 carcinosarcomas
 cabestro
 cabestros
+crutched
 chalinidae
 cabezon
 chromeplate
@@ -30410,7 +30411,6 @@ copied
 crut
 conservatories
 crutch
-crutched
 crutching
 crutter
 cowhands
