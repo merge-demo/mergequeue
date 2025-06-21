@@ -11167,7 +11167,6 @@ decciare
 danite
 dismask
 dogmatist
-divinities
 defectibility
 devvel
 djins
@@ -17821,6 +17820,7 @@ disaggregate
 diluents
 depolarising
 dhunchee
+divinities
 dislodge
 daydreamer
 dodecaphonically
