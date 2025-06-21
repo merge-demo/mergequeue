@@ -4307,7 +4307,6 @@ agazed
 aktiebolag
 antickt
 anorthic
-aterian
 adsmith
 atelectasis
 adsmithing
@@ -14088,6 +14087,7 @@ abranchial
 acanthurus
 acraturesis
 antennula
+aterian
 antennular
 antiegoistically
 antennule

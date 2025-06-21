@@ -4301,6 +4301,7 @@ batiker
 boebera
 barly
 becall
+boxing
 becalm
 becalming
 biaural
@@ -13961,7 +13962,6 @@ bumbershoot
 blitzes
 bibulosity
 becluster
-boxing
 boxmaker
 boxman
 bickiron
