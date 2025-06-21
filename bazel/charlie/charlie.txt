@@ -8991,6 +8991,7 @@ catholicizing
 chareter
 charette
 censers
+crucianella
 chemisms
 chargable
 combmaker
@@ -30153,7 +30154,6 @@ cruciality
 crucially
 courge
 crucian
-crucianella
 chokidar
 crucians
 cruciately
