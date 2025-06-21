@@ -1599,7 +1599,6 @@ daks
 doe
 dinginess
 drawer
-doweled
 diadrome
 derision
 disenrol
@@ -15739,6 +15738,7 @@ doucet
 disentrain
 doria
 demiturned
+doweled
 disgig
 dukhn
 dacryocystocele
