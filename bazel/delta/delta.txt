@@ -1566,6 +1566,7 @@ deadness
 deadnesses
 denunciating
 dairyman
+diotocardia
 deadpanned
 deadpans
 depayse
@@ -6781,7 +6782,6 @@ detestably
 diathermic
 desilvers
 devitrification
-diotocardia
 demultiplex
 daeva
 dendroceratina
