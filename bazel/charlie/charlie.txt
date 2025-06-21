@@ -13535,7 +13535,6 @@ ciliiferous
 ciliiform
 cylinder
 cylinders
-cylindrella
 cylindrelloid
 cryptographic
 cylindrenchyma
@@ -28296,6 +28295,7 @@ crateriform
 cratering
 comatik
 cerithioid
+cylindrella
 craterkin
 chromites
 craterless
