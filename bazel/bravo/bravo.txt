@@ -3548,6 +3548,7 @@ baygall
 barricade
 byronish
 brushy
+boomorah
 battleground
 berkeleyite
 bien
@@ -5148,7 +5149,6 @@ budworm
 before
 biotic
 borings
-boomorah
 broadside
 beggarer
 buccinatory
