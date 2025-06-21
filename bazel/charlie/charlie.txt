@@ -5914,6 +5914,7 @@ catfacing
 catfall
 catfalls
 catfight
+clysis
 creeled
 catfish
 catfoot
@@ -7419,7 +7420,6 @@ cleansing
 cephalomere
 cyclostylar
 cephalometric
-clysis
 cephalonasal
 cephalopathy
 cephalopharyngeal
