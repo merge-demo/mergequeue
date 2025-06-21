@@ -9989,7 +9989,6 @@ consumable
 cheniller
 chenopod
 colocasia
-catacombic
 criollo
 chiro
 chenopods
@@ -19353,6 +19352,7 @@ colonnaded
 cavatinas
 choreographical
 colonnette
+catacombic
 congregationer
 clubbing
 cadmean
