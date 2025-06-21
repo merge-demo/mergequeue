@@ -2129,7 +2129,6 @@ channeler
 campers
 chiloma
 coadjacence
-campesinos
 campestral
 campfight
 campground
@@ -5169,6 +5168,7 @@ casernes
 caserns
 cases
 caseum
+campesinos
 caseweed
 cordis
 caseworks
