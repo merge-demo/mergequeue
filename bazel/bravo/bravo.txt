@@ -1606,6 +1606,7 @@ banneret
 brairding
 bestar
 brahms
+befitting
 beauties
 balloen
 ballone
@@ -9405,7 +9406,6 @@ bungfu
 bargehouse
 birdstone
 borak
-befitting
 basichromatic
 bluegums
 belabours
