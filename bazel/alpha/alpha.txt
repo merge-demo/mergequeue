@@ -3542,7 +3542,6 @@ abreaction
 antimonite
 adelphian
 adelphic
-adelphous
 adempt
 ademption
 adipsous
@@ -15598,6 +15597,7 @@ adenosarcoma
 antinomical
 antinomies
 ailment
+adelphous
 acoustics
 antinormality
 antinormalness
