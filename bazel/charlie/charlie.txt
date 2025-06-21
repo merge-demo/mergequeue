@@ -4448,6 +4448,7 @@ campshedding
 conelrads
 caritative
 carity
+carillon
 caritive
 circumfusion
 colubridae
@@ -19671,7 +19672,6 @@ colzas
 com
 coma
 comprobate
-carillon
 comacine
 comade
 comagmatic
