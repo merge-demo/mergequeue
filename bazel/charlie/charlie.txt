@@ -17089,6 +17089,7 @@ coperose
 coachfellow
 coachy
 coaching
+clearness
 coachmaker
 coachmaster
 canceling
@@ -21225,7 +21226,6 @@ conceptualizes
 cotuit
 charadrioid
 comenic
-clearness
 concern
 cabber
 chopped
