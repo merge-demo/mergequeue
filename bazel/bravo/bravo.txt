@@ -934,6 +934,7 @@ bustier
 bagwork
 baker
 brumby
+balmier
 bahadur
 beverage
 basiophthalmite
@@ -7460,7 +7461,6 @@ betters
 barbeau
 bookstack
 budgeting
-balmier
 boilery
 briards
 briefest
