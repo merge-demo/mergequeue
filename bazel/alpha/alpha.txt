@@ -5940,6 +5940,7 @@ altered
 abortus
 amount
 anchylotic
+anglophilic
 acystia
 aggressivity
 aclys
@@ -12875,7 +12876,6 @@ anglophile
 awkward
 acinetaria
 antidoron
-anglophilic
 autotype
 adenine
 anglophilism
