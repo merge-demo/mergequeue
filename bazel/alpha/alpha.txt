@@ -4208,6 +4208,7 @@ automorph
 antiaircraft
 astichous
 astore
+admeasurement
 ados
 acromegalia
 anisaldoxime
@@ -11853,7 +11854,6 @@ anamorphous
 aspermatous
 ananaples
 anandrarious
-admeasurement
 anandrious
 ananepionic
 arbuscles
