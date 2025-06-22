@@ -10098,6 +10098,7 @@ coleochaete
 crestings
 clothesbrush
 chimney
+compulsitor
 chesoun
 chessboards
 counterfugue
@@ -21014,7 +21015,6 @@ calciphobe
 culex
 compulsion
 cereuses
-compulsitor
 coremiumia
 compulsory
 caramelan

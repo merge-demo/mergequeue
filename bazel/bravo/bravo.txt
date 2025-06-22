@@ -8133,7 +8133,6 @@ bug
 blasphemer
 beslubber
 beltmaker
-besieging
 bloodhound
 bidiagonal
 bidimensional
@@ -9549,6 +9548,7 @@ boarfish
 barbacoan
 bys
 bisagre
+besieging
 basidium
 belays
 bisayan
