@@ -1962,7 +1962,6 @@ analyse
 advehent
 armorial
 acetins
-adangle
 acetize
 assertions
 azocoralline
@@ -8509,6 +8508,7 @@ alkaptone
 ascent
 alkaptonuric
 alkarsin
+adangle
 ancipital
 alkarsine
 alkatively
