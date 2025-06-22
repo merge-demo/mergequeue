@@ -3176,7 +3176,6 @@ antiscians
 anamnia
 admonished
 acropathy
-actualistic
 alphabeted
 actuality
 alcayde
@@ -7861,6 +7860,7 @@ alefzero
 alehouse
 averrable
 amor
+actualistic
 aleikoum
 alboranite
 accidentality
