@@ -2489,7 +2489,6 @@ beechwoods
 burian
 bhut
 bedark
-brachyoura
 barge
 bergere
 bargelike
@@ -9825,6 +9824,7 @@ beamy
 biternately
 beworried
 brassica
+brachyoura
 biters
 billed
 bullyable
