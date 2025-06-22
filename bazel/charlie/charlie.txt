@@ -16677,7 +16677,6 @@ concussant
 clubbiest
 colleagueship
 cyanosis
-clem
 closehanded
 carse
 cardiodysesthesia
@@ -21279,6 +21278,7 @@ concertmeister
 concertment
 communally
 contempt
+clem
 concerts
 concessible
 conopodium
