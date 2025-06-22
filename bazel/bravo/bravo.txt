@@ -5934,6 +5934,7 @@ blisses
 backslap
 belostomatidae
 bisnagas
+brachiofacial
 bouillabaisse
 belostomidae
 belotte
@@ -8580,7 +8581,6 @@ bassaris
 berylline
 brauneberger
 brachysm
-brachiofacial
 billfishes
 blepharolithiasis
 bradypode
