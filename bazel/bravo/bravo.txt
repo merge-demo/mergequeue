@@ -5852,6 +5852,7 @@ bellicist
 bromometry
 buildress
 boxcar
+bearing
 bullsnake
 banded
 berseem
@@ -14653,7 +14654,6 @@ bloc
 bullwhack
 brassages
 brassard
-bearing
 brenthis
 briefing
 brassart
