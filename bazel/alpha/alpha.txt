@@ -92,6 +92,7 @@ accelerator
 antipriestcraft
 adda
 abaptiston
+astel
 acknow
 annominate
 auditories
@@ -2000,7 +2001,6 @@ acetophenetidin
 acetophenetidine
 anurias
 abrogations
-astel
 acerin
 acetophenone
 archshepherd
