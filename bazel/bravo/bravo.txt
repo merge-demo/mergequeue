@@ -1932,7 +1932,6 @@ bonniest
 bework
 basilicae
 boreus
-bandsawn
 bandsman
 bandstand
 beacon
@@ -10200,6 +10199,7 @@ baroreceptor
 beseechers
 blackgum
 beclamored
+bandsawn
 baulking
 beachcombing
 boastings
