@@ -5442,7 +5442,6 @@ detainees
 disestablished
 denunciant
 drumbledore
-docilely
 disinure
 denunciator
 discrownment
@@ -17156,6 +17155,7 @@ decuries
 decine
 dipygi
 devarshi
+docilely
 drilling
 drillman
 discourser
