@@ -13318,7 +13318,6 @@ anisosthenic
 anisostichous
 anisostomous
 animose
-anisotonic
 amphitheatral
 anisotrope
 anisotropically
@@ -22012,6 +22011,7 @@ asteriidae
 aquatically
 admirance
 achromatophilic
+anisotonic
 abaculus
 archchaplain
 ambrette
