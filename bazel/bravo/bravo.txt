@@ -3884,7 +3884,6 @@ brachyskelic
 bullaria
 boughten
 bazars
-bint
 brockage
 bazooka
 blunge
@@ -16199,6 +16198,7 @@ baritones
 botonnee
 bundy
 berrypicking
+bint
 bluejackets
 browned
 buscarl
