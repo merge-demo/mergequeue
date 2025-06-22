@@ -11400,6 +11400,7 @@ chlorophyllin
 counselful
 chlorophyllite
 chlorophylloid
+choroidal
 chlorophyllous
 cyanopathy
 compulsive
@@ -14841,7 +14842,6 @@ caluptra
 cytoclastic
 crioboly
 cytococci
-choroidal
 cytoderm
 cytodiagnosis
 cytoecology
