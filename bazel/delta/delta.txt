@@ -7257,7 +7257,6 @@ detenue
 desulfurize
 detenues
 dephlegmator
-deter
 deterged
 desertlike
 dilettantship
@@ -14296,6 +14295,7 @@ dibasic
 ditolyl
 ditremid
 disharmonies
+deter
 diffusiveness
 duds
 despectant
