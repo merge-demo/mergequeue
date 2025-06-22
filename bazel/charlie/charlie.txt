@@ -9890,6 +9890,7 @@ chemists
 countess
 chemitypy
 chancrous
+coptic
 chemizo
 colligated
 cornucopia
@@ -10681,7 +10682,6 @@ chimer
 chimeral
 chanteys
 chimeric
-coptic
 calci
 cavies
 caribou
