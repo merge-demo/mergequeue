@@ -6237,6 +6237,7 @@ baldoquin
 buckjumper
 benic
 benight
+busera
 buzzed
 bandalore
 benighter
@@ -14854,7 +14855,6 @@ bastard
 breakfronts
 butlerage
 breaking
-busera
 barkeep
 breakings
 bovicide
