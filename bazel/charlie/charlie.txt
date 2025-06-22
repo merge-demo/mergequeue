@@ -3562,6 +3562,7 @@ captives
 comatulae
 captor
 capturable
+coverside
 catechized
 capture
 captured
@@ -11928,7 +11929,6 @@ chording
 chorditis
 circumferentor
 cecidomyian
-coverside
 cationically
 chordomesoderm
 chordotomy
