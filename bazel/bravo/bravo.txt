@@ -9404,7 +9404,6 @@ birdsnest
 bungfu
 bargehouse
 birdstone
-borak
 befitting
 basichromatic
 bluegums
@@ -15023,6 +15022,7 @@ breezily
 bepuzzle
 bountifully
 breeziness
+borak
 bolling
 biseptate
 blastophore
