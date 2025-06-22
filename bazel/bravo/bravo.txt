@@ -2375,7 +2375,6 @@ belabors
 barcoo
 bemoisten
 besplash
-bardcraft
 barde
 beleve
 buckhorn
@@ -7745,6 +7744,7 @@ berake
 bhojpuri
 brim
 bhokra
+bardcraft
 bonaventure
 bunglingly
 bustee
