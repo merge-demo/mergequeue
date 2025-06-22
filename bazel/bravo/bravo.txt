@@ -12317,7 +12317,6 @@ bombast
 buglers
 bandurrias
 bezzi
-biophor
 beldame
 boterol
 bonds
@@ -17129,6 +17128,7 @@ bullier
 beltir
 backheel
 bim
+biophor
 bullies
 broll
 bezaleel
