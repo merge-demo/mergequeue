@@ -3094,7 +3094,6 @@ capa
 conferrable
 capability
 charks
-capable
 capableness
 clayoquot
 challengingly
@@ -6980,6 +6979,7 @@ concours
 ceratinous
 culm
 caruage
+capable
 cenaculum
 cloglike
 cenation
