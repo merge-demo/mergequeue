@@ -8205,7 +8205,6 @@ binds
 baryes
 baccar
 beswarming
-burls
 byeworkman
 besqueeze
 bifaces
@@ -18406,6 +18405,7 @@ berginize
 bagwash
 buttonweed
 bwanas
+burls
 buxomness
 banned
 bloodwort
