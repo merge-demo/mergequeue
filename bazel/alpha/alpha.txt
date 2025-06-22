@@ -19006,7 +19006,6 @@ archpall
 archpastor
 anana
 archphilosopher
-announcer
 archpilferer
 argylls
 aphicide
@@ -19758,6 +19757,7 @@ achroanthes
 arling
 abrogated
 abundances
+announcer
 ambystoma
 armadas
 agrologies
