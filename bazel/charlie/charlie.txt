@@ -15585,7 +15585,6 @@ classicise
 chromophoric
 classicism
 classicist
-classicists
 cheshire
 cordially
 confoundedly
@@ -21100,6 +21099,7 @@ conand
 connivence
 conarial
 conarium
+classicists
 champacol
 conationalistic
 comelily
