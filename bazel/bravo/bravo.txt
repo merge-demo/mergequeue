@@ -676,6 +676,7 @@ biannual
 begall
 bronchiolitis
 bathyesthesia
+bocage
 baculine
 boiseries
 baculoid
@@ -8432,7 +8433,6 @@ bacony
 bilamellate
 beaverette
 bilamellated
-bocage
 balolo
 bleareye
 bittium
