@@ -6866,7 +6866,6 @@ airscrews
 alway
 airsheds
 afterwisdom
-airships
 asarta
 airsickness
 antinationalists
@@ -9378,6 +9377,7 @@ amphicarpus
 alphyls
 alphin
 advectitious
+airships
 aquifoliaceae
 agpaite
 alphitomorphous

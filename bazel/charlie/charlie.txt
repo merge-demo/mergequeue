@@ -10321,6 +10321,7 @@ chichling
 chick
 chelidosaurus
 chickabiddy
+cleated
 chemosorb
 cachoeira
 clactonian
@@ -15863,7 +15864,6 @@ clearstoried
 cascara
 commis
 cleat
-cleated
 cleats
 cyclonologist
 cheilitis
