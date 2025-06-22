@@ -27538,7 +27538,6 @@ cuselite
 coverall
 coveralled
 coveralls
-coils
 coverchief
 cannulated
 cerberean
@@ -28865,6 +28864,7 @@ countless
 cretism
 cretize
 cretonne
+coils
 coch
 collogue
 calfdozer
