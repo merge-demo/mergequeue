@@ -1197,7 +1197,6 @@ acanth
 acantha
 acanthaceous
 aeacus
-adjustor
 acanthad
 anhaematosis
 acanthia
@@ -4834,6 +4833,7 @@ anthoecology
 amphistomous
 aerodynamics
 ambitionist
+adjustor
 allochirally
 aerodyne
 astonisher
