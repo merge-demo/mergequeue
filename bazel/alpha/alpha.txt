@@ -2266,6 +2266,7 @@ acidy
 acetamid
 acidiferous
 argil
+appearanced
 adderfish
 alaric
 arthrozoic
@@ -11665,7 +11666,6 @@ anaesthesiology
 anaesthesis
 abeltree
 almondlike
-appearanced
 anaesthetically
 anthropomantic
 anaesthetization
