@@ -2112,7 +2112,6 @@ agglutinations
 allopatry
 antadiform
 achilleine
-abnormalness
 achilles
 anthropological
 alfin
@@ -14648,6 +14647,7 @@ arcs
 acraze
 afrogaea
 accentuate
+abnormalness
 association
 antiatheistic
 apepsia

@@ -8033,7 +8033,6 @@ chablis
 coelarium
 crannog
 caliches
-clergies
 chabouk
 crankshaft
 chabuk
@@ -11424,6 +11423,7 @@ cyclamates
 cloudlessly
 counterpillar
 cheekier
+clergies
 chlorotically
 cantered
 chlorous
