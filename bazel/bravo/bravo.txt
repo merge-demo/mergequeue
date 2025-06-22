@@ -2492,6 +2492,7 @@ bedark
 brachyoura
 barge
 bergere
+bandying
 bargelike
 beet
 bravura
@@ -5446,7 +5447,6 @@ brooklynite
 bilch
 baviere
 balai
-bandying
 bandura
 basebred
 beheaded
