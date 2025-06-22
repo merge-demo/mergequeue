@@ -703,7 +703,6 @@ dopester
 diatom
 deadmelt
 danceability
-danceable
 demoniacs
 danced
 diddled
@@ -8382,6 +8381,7 @@ downshare
 demythologize
 descensional
 divinify
+danceable
 dialypetalous
 diplumbic
 dichotomization
