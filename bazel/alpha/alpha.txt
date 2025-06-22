@@ -8809,7 +8809,6 @@ alliterates
 await
 actious
 apodixis
-alliterationist
 avens
 anfractuousness
 ascoma
@@ -24625,6 +24624,7 @@ achromatic
 absurdness
 avengeful
 ambage
+alliterationist
 adventureship
 avenges
 avenging

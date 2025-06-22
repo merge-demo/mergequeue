@@ -3006,7 +3006,6 @@ conquerableness
 conceptualistically
 cantilating
 cantilene
-cantilever
 cantilevered
 cantilevers
 cantily
@@ -31828,6 +31827,7 @@ cutinisation
 cutinise
 coliiformes
 cretic
+cantilever
 cutinised
 cloggy
 cammas
