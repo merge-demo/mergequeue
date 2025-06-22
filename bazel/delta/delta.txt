@@ -12229,7 +12229,6 @@ dwarfish
 durra
 dovecots
 disfrocking
-declaratively
 dysfunctional
 dysfunctioning
 deltoidal
@@ -13454,6 +13453,7 @@ distriction
 dihexagonal
 dardanium
 disreputableness
+declaratively
 dittologies
 dading
 defamous
