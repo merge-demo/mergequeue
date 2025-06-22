@@ -3694,6 +3694,7 @@ chabutra
 caranna
 carap
 couloirs
+crucians
 cuadra
 carapaces
 carapacho
@@ -30155,7 +30156,6 @@ courge
 crucian
 crucianella
 chokidar
-crucians
 cruciately
 cruciating
 costopulmonary
