@@ -6282,7 +6282,6 @@ arthropathology
 attractable
 accorded
 agrement
-agrestial
 archduchess
 agrestic
 agrestical
@@ -15040,6 +15039,7 @@ antidiphtheritic
 acidify
 antidisciplinarian
 antidysenteric
+agrestial
 allothigenous
 antidisestablishmentarianism
 antidiuretic
