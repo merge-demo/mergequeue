@@ -2052,7 +2052,6 @@ devotion
 diarial
 dimedon
 demivierge
-debilities
 decaying
 diopsimeter
 diety
@@ -11532,6 +11531,7 @@ defter
 dunciad
 dovewood
 discommendation
+debilities
 dheneb
 dedanim
 deaner
