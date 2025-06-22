@@ -362,7 +362,6 @@ dotiness
 demonifuge
 defames
 daylights
-deutomalar
 duoviri
 decise
 desalters
@@ -11430,6 +11429,7 @@ dockyard
 dissuader
 demivotary
 determinoid
+deutomalar
 debug
 discloser
 disclosive
