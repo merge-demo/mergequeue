@@ -3705,7 +3705,6 @@ carapax
 climacterial
 coachable
 carbonadoes
-carapidae
 cineastes
 clawlike
 carapine
@@ -21914,6 +21913,7 @@ chinamania
 confessable
 creating
 chungking
+carapidae
 convexities
 confessant
 confessary
