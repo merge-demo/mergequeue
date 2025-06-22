@@ -11981,6 +11981,7 @@ avionics
 anas
 athumia
 anasa
+astrochemist
 araphostic
 aralkylated
 anasarcous
@@ -18814,7 +18815,6 @@ agriology
 archibenthic
 archiblastic
 archiblastoma
-astrochemist
 avertedly
 archicantor
 adminstration
