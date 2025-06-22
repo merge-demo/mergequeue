@@ -1231,7 +1231,6 @@ acanthodidae
 acanthodini
 alcoholise
 aspirations
-avowal
 antivitamin
 acanthomas
 acanthomeridae
@@ -15310,6 +15309,7 @@ alpha
 attorning
 antihuman
 anteriad
+avowal
 agreing
 ahimsa
 adinida
