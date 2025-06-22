@@ -2558,7 +2558,6 @@ concealed
 candlers
 casework
 candles
-collaborated
 candleshine
 chaucerism
 candleshrift
@@ -6380,6 +6379,7 @@ crude
 causticly
 counterexaggeration
 colicky
+collaborated
 chowed
 commonsensibly
 carduaceae
