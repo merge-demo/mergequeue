@@ -9261,7 +9261,6 @@ bracteiform
 byplay
 bottonhook
 bullfrogs
-batfowler
 brownie
 broncholithiasis
 bewearied
@@ -9703,6 +9702,7 @@ bismutosphaerite
 bisnaga
 bispinose
 bispinous
+batfowler
 bramah
 bathybian
 bisporous
