@@ -2507,7 +2507,6 @@ barghests
 boccia
 blueblack
 beslash
-bassetite
 barguest
 barguests
 buzylene
@@ -10106,6 +10105,7 @@ blair
 blackbine
 befrets
 blackback
+bassetite
 blackballed
 blanching
 blackballs
