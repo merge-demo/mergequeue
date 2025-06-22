@@ -11050,7 +11050,6 @@ combustor
 chirt
 chirurgeon
 crimean
-chirurgeonly
 cavern
 chirurgery
 chis
@@ -13572,6 +13571,7 @@ crozed
 castigative
 ciliotomy
 cilium
+chirurgeonly
 chloroformize
 cylix
 coxcombhood
