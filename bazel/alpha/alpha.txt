@@ -6918,7 +6918,6 @@ acetaldehydrase
 aissor
 ait
 ashot
-antiferromagnet
 aitch
 asphaltene
 amazement
@@ -14795,6 +14794,7 @@ acetylcyanide
 antichronical
 amphichrome
 appendence
+antiferromagnet
 antichronically
 amphibola
 angiohyalinosis
