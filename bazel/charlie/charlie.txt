@@ -24576,7 +24576,6 @@ copybooks
 cognomen
 chook
 copycat
-copycats
 citywide
 copycatting
 creedite
@@ -27349,6 +27348,7 @@ coursing
 court
 courtage
 climacterics
+copycats
 courtal
 courtbred
 chattelization
