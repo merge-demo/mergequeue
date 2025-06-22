@@ -11473,6 +11473,7 @@ biddery
 bluewoods
 berapt
 billposter
+bioresearch
 bluffable
 blicky
 bialveolar
@@ -11801,7 +11802,6 @@ bepommel
 bardolphian
 bock
 bullishly
-bioresearch
 brainfag
 bigamists
 breechblock
