@@ -1440,7 +1440,6 @@ bundahish
 bugler
 bloodthirstiest
 bathtubful
-balinghasay
 bromeosin
 bridling
 balister
@@ -3541,6 +3540,7 @@ bathymetrical
 bathing
 bastinadoes
 beckoning
+balinghasay
 bridgekeeper
 bathyplankton
 balon
