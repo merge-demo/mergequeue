@@ -823,7 +823,6 @@ abruptio
 arkansas
 abruption
 addedly
-abruptness
 apptd
 ambilogy
 algarot
@@ -25054,6 +25053,7 @@ aworry
 antelation
 anaesthetist
 aggregation
+abruptness
 avascular
 awrist
 angiokinetic
