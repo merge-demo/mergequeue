@@ -3582,7 +3582,6 @@ bathool
 boomkins
 bathophobia
 bathos
-bathrobes
 bunkmates
 brach
 balneophysiology
@@ -4428,6 +4427,7 @@ beclogs
 bretonian
 bilabials
 beclothe
+bathrobes
 banting
 bonasus
 breathtakingly
