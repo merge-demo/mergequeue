@@ -10638,7 +10638,6 @@ diplomatist
 diplomatists
 domer
 discogastrula
-diplomatology
 diauli
 decompressing
 diplomats
@@ -17461,6 +17460,7 @@ dominium
 drouket
 deskill
 dermatographic
+diplomatology
 damascener
 diagrammatician
 dentiroster
