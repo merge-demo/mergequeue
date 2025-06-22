@@ -2302,6 +2302,7 @@ canalboat
 charales
 canale
 canaled
+crinoids
 cobs
 cithrens
 carthaginian
@@ -29129,7 +29130,6 @@ cachexy
 casper
 chicagoan
 crinoidean
-crinoids
 cuadrillero
 corundums
 crinolette
