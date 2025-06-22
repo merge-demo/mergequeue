@@ -1617,7 +1617,6 @@ difficulty
 daylong
 dimetrodon
 deodate
-domify
 devertebrated
 daydrudge
 dealkylate
@@ -9413,6 +9412,7 @@ drudge
 dunlin
 depulse
 dottels
+domify
 demasted
 dentirostres
 dautie
