@@ -17821,7 +17821,6 @@ conceptualizations
 codebtors
 cognominally
 carrotiness
-codec
 centroclinal
 conjunctivitis
 codeclination
@@ -28926,6 +28925,7 @@ coarse
 centrolecithal
 conductility
 crybabies
+codec
 cancellate
 cacodaemon
 cellager
