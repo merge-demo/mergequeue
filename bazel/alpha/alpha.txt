@@ -2533,6 +2533,7 @@ acor
 acorea
 atomistic
 aecidia
+ataxiameter
 acorus
 acosmism
 acosmist
@@ -9294,7 +9295,6 @@ absist
 ablush
 afflate
 along
-ataxiameter
 alongships
 alongshore
 alemana
