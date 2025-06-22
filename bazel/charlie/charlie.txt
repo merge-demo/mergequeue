@@ -5317,7 +5317,6 @@ crampy
 courtling
 cassiterite
 ccws
-cassius
 cassock
 cleanser
 ctenophora
@@ -21289,6 +21288,7 @@ chausseemeile
 concessions
 concessit
 craniate
+cassius
 concessiveness
 computerite
 concessor
