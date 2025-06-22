@@ -7206,7 +7206,6 @@ centrarchoid
 clar
 compare
 centraxonial
-centre
 centreboard
 centred
 centref
@@ -29655,6 +29654,7 @@ croconic
 convincedness
 conoidal
 castellet
+centre
 crocosmia
 cerebella
 conductress
