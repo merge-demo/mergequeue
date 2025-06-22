@@ -2054,7 +2054,6 @@ act
 ache
 alkalinising
 acheat
-artemisin
 affiliation
 anammonid
 altitudinal
@@ -8534,6 +8533,7 @@ alkylarylsulfonate
 anallergic
 abrahamic
 alkylate
+artemisin
 atremate
 alkylbenzenesulfonates
 alkylic
