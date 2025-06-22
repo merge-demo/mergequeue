@@ -17266,7 +17266,6 @@ ambiguousness
 archcorsair
 anights
 aport
-aportlast
 aposaturnium
 aposia
 aposiopesis
@@ -19524,6 +19523,7 @@ attroupement
 attemperator
 auriculated
 argusianus
+aportlast
 arguslike
 alexipharmic
 aglisten
