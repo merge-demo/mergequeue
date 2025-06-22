@@ -7762,6 +7762,7 @@ bacchae
 bill
 biznagas
 bhutanese
+bulwand
 bant
 bimilllennia
 bagpipes
@@ -10582,7 +10583,6 @@ boltheader
 bachelorship
 buduma
 blattid
-bulwand
 burnewin
 brockish
 basilard

@@ -3789,6 +3789,7 @@ apparentation
 adynamia
 adion
 adios
+assigned
 adipate
 amphitruo
 amphithuron
@@ -21604,7 +21605,6 @@ assart
 antistriker
 assassinate
 azoeosin
-assigned
 amusingly
 antitragus
 antibromic
