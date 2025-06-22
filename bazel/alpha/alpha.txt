@@ -7736,7 +7736,6 @@ avianize
 ape
 alderman
 alectoromorphous
-aldermanate
 aldermancy
 aldermaness
 archisphere
@@ -16120,6 +16119,7 @@ aethalioid
 africanization
 allusion
 alloys
+aldermanate
 agarum
 antitryptic
 antisine
