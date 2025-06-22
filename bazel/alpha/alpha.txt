@@ -7634,7 +7634,6 @@ alcyonacean
 alcyone
 alcyoniaceae
 alcyonic
-astrohatch
 absorbencies
 anisil
 alcyonium
@@ -16566,6 +16565,7 @@ acolytes
 apatela
 apatetic
 agrimonies
+astrohatch
 allotrylic
 apathaton
 allelvia
