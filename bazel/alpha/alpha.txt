@@ -8918,7 +8918,6 @@ alloyage
 aeroporotomy
 alloiogenesis
 attitude
-alloiometric
 adjustments
 acrogenic
 alloisomerism
@@ -19275,6 +19274,7 @@ areometric
 awm
 areometrical
 arbutus
+alloiometric
 anthologizer
 areopagist
 areopagite
