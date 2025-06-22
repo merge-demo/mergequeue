@@ -3721,7 +3721,6 @@ depiedmontize
 dictic
 demonstrating
 diam
-delapse
 dehydrochlorinase
 dinumeration
 dowlas
@@ -14829,6 +14828,7 @@ demonologist
 docmac
 docoglossan
 detests
+delapse
 docoglossate
 diswarren
 decidua
