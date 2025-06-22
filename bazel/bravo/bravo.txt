@@ -6236,7 +6236,6 @@ beni
 baldoquin
 buckjumper
 benic
-benight
 buzzed
 bandalore
 benighter
@@ -15890,6 +15889,7 @@ bowel
 bearberries
 bromoauric
 brazilianite
+benight
 bromoil
 broaching
 bruising
