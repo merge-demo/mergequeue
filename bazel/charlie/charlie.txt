@@ -961,7 +961,6 @@ canccelli
 cilioflagellate
 calamars
 calambac
-coastmen
 calambour
 castellar
 campanulaceae
@@ -23255,6 +23254,7 @@ consuetudinal
 consul
 consulage
 coloclysis
+coastmen
 chirurgical
 concertizes
 cynaraceous
