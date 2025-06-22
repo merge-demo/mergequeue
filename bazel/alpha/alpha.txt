@@ -12596,7 +12596,6 @@ aesopic
 advene
 allochroite
 aneurysm
-aeriferous
 algosis
 aneurisms
 anfract
@@ -14764,6 +14763,7 @@ antichamber
 avener
 antiscii
 abbreviations
+aeriferous
 antichance
 animatograph
 amperes
