@@ -5881,6 +5881,7 @@ doorbrand
 desolations
 diachoresis
 demeaning
+disframe
 disconcert
 deprecative
 dissolvable
@@ -17394,7 +17395,6 @@ dipleurula
 droppers
 diurnalness
 dropping
-disframe
 declaims
 departmentalisation
 droppings
