@@ -11265,7 +11265,6 @@ disbursal
 definitively
 dogstail
 disburse
-deictic
 duckpins
 decolorimeter
 divinistre
@@ -14136,6 +14135,7 @@ disturbingly
 diffuser
 deployment
 defeating
+deictic
 diswarrening
 daisy
 ducker

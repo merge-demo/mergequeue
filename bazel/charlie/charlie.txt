@@ -609,6 +609,7 @@ combwright
 cloakless
 coorg
 cephalalgy
+crustate
 ctenodipterini
 caecilia
 caeciliidae
@@ -3627,7 +3628,6 @@ caracol
 coauthoring
 caracoling
 curliest
-crustate
 caracolite
 caracolled
 caracoller
