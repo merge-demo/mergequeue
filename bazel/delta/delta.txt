@@ -2820,6 +2820,7 @@ declarator
 decried
 desistive
 deerflys
+detuned
 disulphonate
 decries
 decrying
@@ -13285,7 +13286,6 @@ decrees
 dispossession
 distrustful
 damascus
-detuned
 dogfish
 demersed
 dimities
