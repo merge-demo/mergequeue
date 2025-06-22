@@ -6943,7 +6943,6 @@ beshadowed
 beauxite
 briolette
 biplosive
-breediness
 betail
 baselessness
 betta
@@ -13814,6 +13813,7 @@ butters
 biocides
 bywoner
 buttery
+breediness
 babesias
 bunya
 bleachery

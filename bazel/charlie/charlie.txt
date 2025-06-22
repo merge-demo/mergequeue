@@ -19167,7 +19167,6 @@ crojiks
 collocative
 collock
 cowfish
-compartmentalizes
 collocutor
 cogitations
 collodion
@@ -23934,6 +23933,7 @@ cacological
 conv
 convalesced
 convalescence
+compartmentalizes
 convalescently
 convalescents
 convalesces
