@@ -7685,7 +7685,6 @@ ceremonials
 counterlocking
 contrabass
 caquetio
-ceremonies
 ceremonious
 ceremoniousness
 canonici
@@ -8813,6 +8812,7 @@ custodia
 chaperonage
 chaperone
 chaperonless
+ceremonies
 catesbeiana
 cirsium
 chapes
