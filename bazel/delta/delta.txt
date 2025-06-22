@@ -2005,7 +2005,6 @@ decaffeinate
 depicted
 disformity
 decaffeinize
-decury
 disregardable
 dogleg
 dogwoods
@@ -17762,6 +17761,7 @@ ducdame
 defector
 duchan
 dextrorotatory
+decury
 diagraph
 dorsigrade
 dwining
