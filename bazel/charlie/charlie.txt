@@ -28850,7 +28850,6 @@ cretefaction
 callisection
 creticism
 coturnix
-cretics
 cretify
 cavalla
 communitary
@@ -31756,6 +31755,7 @@ copresent
 chimlas
 customing
 cotery
+cretics
 customization
 cardiauxe
 customizations

@@ -1321,7 +1321,6 @@ baroquely
 benzamino
 barbed
 balases
-balat
 belying
 basellaceous
 balatron
@@ -15430,6 +15429,7 @@ bodoni
 banding
 babyish
 brannerite
+balat
 bereaved
 batonnier
 bindheimite
