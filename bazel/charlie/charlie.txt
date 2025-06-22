@@ -3542,7 +3542,6 @@ colation
 captation
 caption
 captioned
-convenably
 captioning
 captiousness
 captivance
@@ -23527,6 +23526,7 @@ contg
 conticent
 codded
 conjoins
+convenably
 contignate
 cloky
 corycavidin

@@ -7737,7 +7737,6 @@ bullan
 breakover
 brocard
 bhindi
-bowstave
 bhishti
 bhistie
 bhisties
@@ -14401,6 +14400,7 @@ bisischiadic
 brainpan
 brainpans
 bisley
+bowstave
 blastulas
 blighting
 barnstorm
