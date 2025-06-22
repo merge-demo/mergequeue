@@ -8074,7 +8074,6 @@ booklift
 bartend
 bagroom
 belligerents
-bicornuate
 bicornute
 beshadow
 bicorporate
@@ -14447,6 +14446,7 @@ becivet
 braireau
 braises
 bendays
+bicornuate
 butea
 breezelike
 braystone

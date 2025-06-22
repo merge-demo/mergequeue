@@ -27960,7 +27960,6 @@ craftiest
 calycanthus
 conduces
 conferencing
-craftiness
 craftless
 craftly
 croucher
@@ -30387,6 +30386,7 @@ crustade
 charted
 cresotinic
 crustalogy
+craftiness
 crustalogical
 crustalogist
 cyrenaic
