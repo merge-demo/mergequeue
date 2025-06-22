@@ -6042,7 +6042,6 @@ agitato
 aminocaproic
 airproofed
 adoring
-anostosis
 axumite
 availment
 apogeny
@@ -9644,6 +9643,7 @@ adobe
 aition
 aluminose
 aluminosis
+anostosis
 aluminothermy
 acrotarsial
 aluminums
