@@ -1855,7 +1855,6 @@ amalgamater
 admonitorial
 acerolas
 agnosy
-acerous
 acertannin
 acerval
 acervate
@@ -8284,6 +8283,7 @@ aliferous
 aliform
 adumbrates
 aureus
+acerous
 aligerous
 akcheh
 anconagra
