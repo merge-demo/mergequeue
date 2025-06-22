@@ -1070,6 +1070,7 @@ aphelion
 abthainrie
 abubble
 abuilding
+allergen
 abuleia
 antitorpedo
 abulia
@@ -11868,7 +11869,6 @@ ananite
 anelace
 anankastic
 aqueomercurial
-allergen
 ananke
 anansi
 ananta
