@@ -13175,6 +13175,7 @@ cicatrice
 colocolo
 cicatrices
 cicatricle
+coderived
 copastorate
 cicatricula
 cicatricule
@@ -17852,7 +17853,6 @@ coder
 counterponderate
 crible
 comprehended
-coderived
 coders
 codes
 chromoprotein
