@@ -8677,6 +8677,7 @@ cohesionless
 changelessness
 changelings
 changement
+columnize
 cuissard
 changeovers
 chiefs
@@ -8910,7 +8911,6 @@ complimenters
 catlinite
 characterise
 characterised
-columnize
 cumulus
 characterising
 chanted

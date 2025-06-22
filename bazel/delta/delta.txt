@@ -3836,6 +3836,7 @@ denigrative
 donkey
 dialyzator
 dicier
+decremented
 disjecting
 duplexed
 dropped
@@ -9746,7 +9747,6 @@ deters
 desiderate
 dilatants
 dilatate
-decremented
 dilatative
 demimentoniere
 dodecahedron
