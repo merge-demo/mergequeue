@@ -13618,7 +13618,6 @@ bounceback
 blowsy
 bouncier
 batteried
-barra
 begladding
 binning
 beclouded
@@ -15871,6 +15870,7 @@ beswim
 buzzbomb
 berylate
 bendell
+barra
 brominize
 breezing
 brionies
