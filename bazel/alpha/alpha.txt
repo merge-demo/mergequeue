@@ -1232,7 +1232,6 @@ acanthodini
 alcoholise
 aspirations
 avowal
-antivitamin
 acanthomas
 acanthomeridae
 acanthopanax
@@ -16691,6 +16690,7 @@ attidae
 aphanophyre
 acara
 aphanozygous
+antivitamin
 adenolipomatosis
 adverbless
 allegiances
