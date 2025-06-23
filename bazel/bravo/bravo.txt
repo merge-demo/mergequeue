@@ -8467,7 +8467,6 @@ bilewhit
 bavardage
 bootjack
 bouteloua
-bals
 bilgeway
 bilgier
 bilharzial
@@ -11180,6 +11179,7 @@ bloodworthy
 belched
 blearily
 blooey
+bals
 bloomed
 baloghia
 bloomeries
