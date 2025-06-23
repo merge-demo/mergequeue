@@ -4686,7 +4686,6 @@ diploglossate
 demisemiquaver
 delineable
 drysalter
-demisemitone
 dislodging
 decem
 dualisms
@@ -17622,6 +17621,7 @@ druses
 dishevels
 delimitize
 drusy
+demisemitone
 dreamfulness
 druther
 diphenylacetylene
