@@ -10498,6 +10498,7 @@ adscript
 amidins
 arret
 amidism
+aristocratism
 acridid
 armenians
 adfrozen
@@ -19664,7 +19665,6 @@ affabrous
 appeasement
 adenosarcomas
 autodecrement
-aristocratism
 aristocrats
 adrectal
 aristodemocracies

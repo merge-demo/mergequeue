@@ -3709,7 +3709,6 @@ barnstorms
 battler
 basocyte
 battleships
-barrace
 blushiness
 buhr
 battlesome
@@ -9469,6 +9468,7 @@ bernoo
 biggins
 blepharophryplasty
 banya
+barrace
 bipunctal
 barhops
 barbarian
