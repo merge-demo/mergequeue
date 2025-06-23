@@ -22226,7 +22226,6 @@ cynthian
 congenerous
 congeners
 coeffluent
-congenial
 commiserative
 capes
 calaber
@@ -30637,6 +30636,7 @@ concinnous
 cucumariidae
 cucumber
 calcular
+congenial
 collegial
 chymotrypsin
 cucupha
