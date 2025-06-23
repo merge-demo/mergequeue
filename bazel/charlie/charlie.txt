@@ -7201,7 +7201,6 @@ centralness
 cacodaemonic
 caracas
 centranth
-centrarchid
 centrarchoid
 clar
 compare
@@ -31554,6 +31553,7 @@ curtailedly
 curtailing
 compulsiveness
 cursores
+centrarchid
 curtails
 curtain
 centrals
