@@ -16827,7 +16827,6 @@ apiaca
 apiaceae
 apiararies
 apiarian
-apiarians
 apiarists
 aristo
 adolescently
@@ -23529,6 +23528,7 @@ amperemeter
 aunthood
 antiprophet
 aunty
+apiarians
 antitraditionally
 auntie
 acroceratidae
