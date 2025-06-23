@@ -2733,7 +2733,6 @@ bicolored
 benab
 bonneting
 bukeyef
-barology
 barolong
 bombax
 boroughship
@@ -4621,6 +4620,7 @@ byrewards
 bullrushes
 bedehouses
 balustrade
+barology
 bedemen
 bens
 barry
