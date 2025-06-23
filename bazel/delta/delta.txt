@@ -1630,6 +1630,7 @@ daunter
 dicephalus
 darkhaired
 deerhair
+deprecated
 deallocations
 deprival
 decapsulation
@@ -16617,7 +16618,6 @@ dragonfishes
 didelph
 dragonflies
 dossers
-deprecated
 didelphian
 dragonhood
 downily
