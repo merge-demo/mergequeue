@@ -790,7 +790,6 @@ daneweed
 daneweeds
 danged
 detections
-disingenious
 dangerously
 deduced
 dangerousness
@@ -8850,6 +8849,7 @@ dib
 dyspraxia
 dibbing
 deliberates
+disingenious
 deterring
 drachmas
 dibbled
