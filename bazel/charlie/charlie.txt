@@ -8432,6 +8432,7 @@ colonopathy
 chamberlainry
 caccia
 chrysolophus
+cystoid
 candiot
 centroid
 chamberleted
@@ -14659,7 +14660,6 @@ cystofibroma
 cosmopolicy
 cystogenesis
 cystogram
-cystoid
 cystoidea
 cystoidean
 crime
