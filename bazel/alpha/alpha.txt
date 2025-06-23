@@ -7866,7 +7866,6 @@ alboranite
 accidentality
 astropecten
 agammaglobulinemia
-aleiptic
 actinology
 alphitomancy
 advent
@@ -21161,6 +21160,7 @@ ashing
 afforcing
 ashipboard
 ashir
+aleiptic
 antiromanticist
 archoplasma
 assentor
