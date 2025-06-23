@@ -1536,6 +1536,7 @@ dices
 deputising
 dyssodia
 deadfalls
+dupe
 deviler
 dim
 deadhearted
@@ -18424,7 +18425,6 @@ downhauls
 delichon
 dialysepalous
 disarrayed
-dupe
 dupedom
 dupery
 destroyer
