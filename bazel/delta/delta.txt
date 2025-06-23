@@ -1224,6 +1224,7 @@ disserve
 datelining
 datemark
 disenter
+diploneural
 dentalise
 drivelers
 durational
@@ -4767,7 +4768,6 @@ devi
 disremember
 demobilising
 democracy
-diploneural
 diethylaminoethanol
 denominated
 democracies
