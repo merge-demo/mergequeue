@@ -5700,7 +5700,6 @@ berreaved
 belgard
 beater
 beclap
-belgrade
 bombasine
 bora
 butterback
@@ -11178,6 +11177,7 @@ bugfish
 biquadratic
 bloodworthy
 belched
+belgrade
 blearily
 blooey
 bloomed
