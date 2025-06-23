@@ -13947,6 +13947,7 @@ cinnamonlike
 chaffy
 carpus
 cinnamons
+calibrate
 cinnolin
 cynocephalic
 cynocephalous
@@ -29265,7 +29266,6 @@ choices
 cryptobranchiate
 collides
 ciphered
-calibrate
 cryptobranchus
 candil
 concertedly
