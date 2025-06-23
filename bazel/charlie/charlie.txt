@@ -12058,7 +12058,6 @@ chorographically
 choroiditis
 coronene
 choroidocyclitis
-choroidoretinitis
 choroids
 chorology
 cylloses
@@ -23168,6 +23167,7 @@ commence
 cellaring
 corticipetally
 constrainedly
+choroidoretinitis
 counterpoise
 constrainedness
 carroll
