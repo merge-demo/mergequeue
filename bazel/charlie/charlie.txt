@@ -18380,7 +18380,6 @@ counterbuilding
 conformers
 cogmen
 claypan
-chenevixite
 conterminant
 cognac
 curdier
@@ -18827,6 +18826,7 @@ coleopterist
 coleopterology
 catteries
 comediettas
+chenevixite
 coleopteron
 chromosomal
 coleoptilum
