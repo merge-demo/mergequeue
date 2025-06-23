@@ -9260,6 +9260,7 @@ crombec
 chastest
 chasteweed
 censurers
+clanged
 ceduous
 chasty
 chastiment
@@ -15346,7 +15347,6 @@ clandestineness
 clanfellow
 caddo
 compatriot
-clanged
 crowdie
 critturs
 coexist
