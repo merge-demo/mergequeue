@@ -8538,6 +8538,7 @@ carbolxylol
 champertous
 cephalomotor
 champy
+cloaca
 conjoint
 coe
 coquillage
@@ -16451,7 +16452,6 @@ clivis
 clivus
 clk
 clo
-cloaca
 cloacae
 cryptanalyzed
 cloacaline
