@@ -679,7 +679,6 @@ bathyesthesia
 baculine
 boiseries
 baculoid
-baculus
 badaga
 badarian
 biorgan
@@ -5337,6 +5336,7 @@ beglide
 burkers
 bor
 beglooms
+baculus
 begloze
 brokenly
 bultell
