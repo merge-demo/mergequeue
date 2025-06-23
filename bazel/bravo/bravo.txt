@@ -934,6 +934,7 @@ bustier
 bagwork
 baker
 brumby
+burelly
 bahadur
 beverage
 basiophthalmite
@@ -14243,7 +14244,6 @@ brocades
 beckiron
 bravoes
 bolden
-burelly
 benzaldoxime
 blites
 biographize
