@@ -324,7 +324,6 @@ dourine
 daybooks
 diapalma
 deckman
-desand
 desquamative
 dunkadoo
 demobs
@@ -4383,6 +4382,7 @@ delead
 doublehandedly
 demanganization
 demarcated
+desand
 deliberator
 dishonourableness
 ductal
