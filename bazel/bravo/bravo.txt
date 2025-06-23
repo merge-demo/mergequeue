@@ -11627,7 +11627,6 @@ bacauan
 blacks
 bizant
 boarwood
-boas
 boaster
 boastfully
 boastfulness
@@ -15097,6 +15096,7 @@ brevity
 brevities
 bretwalda
 byeworker
+boas
 beqwete
 boar
 brewages
