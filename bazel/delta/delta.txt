@@ -4798,7 +4798,6 @@ democraw
 decodable
 demodectic
 deboist
-deaved
 diadochokinetic
 dromophobia
 dejected
@@ -5371,6 +5370,7 @@ dentical
 denticle
 dentiferous
 dentification
+deaved
 dentifrice
 diageotropism
 dentil
