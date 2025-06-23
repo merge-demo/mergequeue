@@ -3954,6 +3954,7 @@ barytes
 behavers
 beachheads
 brand
+bimillenial
 bnf
 bespy
 beaching
@@ -8594,7 +8595,6 @@ ballaton
 bringing
 bibliothecas
 bessy
-bimillenial
 billiard
 billiardist
 bioactivity
