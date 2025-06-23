@@ -12376,6 +12376,7 @@ baskets
 bomble
 blackbutt
 boombox
+buggy
 beget
 bluishness
 bedizening
@@ -16896,7 +16897,6 @@ buggered
 bowse
 bereaver
 buggers
-buggy
 bakshi
 buggier
 bushboy

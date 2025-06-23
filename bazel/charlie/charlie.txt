@@ -4585,6 +4585,7 @@ cacomixls
 carnivals
 carnivoracity
 carnivoral
+cask
 carnivore
 carnivorism
 cordialness
@@ -16251,7 +16252,6 @@ clingingly
 clinia
 clinically
 condensations
-cask
 clinicopathological
 clinkant
 clinkered
