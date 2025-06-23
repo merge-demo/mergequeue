@@ -7364,7 +7364,6 @@ alienate
 achromat
 albetad
 albi
-aquiparous
 albian
 albicans
 animadversiveness
@@ -18368,6 +18367,7 @@ ararobas
 arase
 aragonite
 arati
+aquiparous
 araua
 arauan
 araucanian
