@@ -5553,7 +5553,6 @@ coenosarcous
 coulometer
 catadioptrical
 catadioptrics
-catadrome
 catadupe
 catafalco
 catafalques
@@ -29830,6 +29829,7 @@ colloguing
 classman
 comprehensibleness
 crores
+catadrome
 consulary
 comfortability
 corydalis
