@@ -4435,6 +4435,7 @@ courthouses
 caripuna
 cariri
 caririan
+capax
 commoner
 choke
 carisa
@@ -17478,7 +17479,6 @@ cobbing
 cumulite
 causeries
 cobble
-capax
 cobbled
 cobblerfish
 cobblerism
