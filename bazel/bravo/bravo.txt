@@ -4540,7 +4540,6 @@ bathroot
 bater
 bool
 bedabble
-beagles
 barricadoed
 bunch
 behavioristic
@@ -11432,6 +11431,7 @@ beetleweed
 bemuffle
 butyraldehyde
 beclowns
+beagles
 barad
 babuma
 boatheader
