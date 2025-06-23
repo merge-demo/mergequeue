@@ -5434,7 +5434,6 @@ commercing
 candlesticked
 confront
 casaque
-castlewards
 castlewise
 castock
 clepes
@@ -9670,6 +9669,7 @@ cheering
 cheerlead
 crystallinity
 cheerleader
+castlewards
 caesareanize
 cheerleaders
 clarifies
