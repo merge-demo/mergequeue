@@ -16602,7 +16602,6 @@ cloisterlike
 carburization
 cantish
 capsules
-cloisterwise
 cloistral
 concoagulation
 cloit
@@ -24771,6 +24770,7 @@ circs
 copsy
 copsing
 copter
+cloisterwise
 copters
 clausilia
 concert
