@@ -5400,6 +5400,7 @@ begruntle
 biographical
 begrutten
 beguess
+bookmaker
 beguilement
 biunial
 beguilements
@@ -7358,7 +7359,6 @@ bailiery
 balusters
 bewig
 bassness
-bookmaker
 bethorning
 buffcoat
 blanketmaking
