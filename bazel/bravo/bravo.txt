@@ -9873,7 +9873,6 @@ babysat
 barnacles
 beneficiaries
 biaxially
-bitser
 bitsy
 birled
 bioscope
@@ -12511,6 +12510,7 @@ becarpeting
 bonesetting
 broadness
 broncholith
+bitser
 bacquet
 bilberries
 boneshaker
