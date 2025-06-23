@@ -11662,6 +11662,7 @@ boatloader
 beigy
 boatmanship
 boatmen
+bucketer
 boats
 boatsetter
 bisymmetric
@@ -13406,7 +13407,6 @@ bartisans
 bulgier
 birles
 botryllus
-bucketer
 brachyceral
 batonistic
 brachycome
