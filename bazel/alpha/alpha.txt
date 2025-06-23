@@ -11432,6 +11432,7 @@ amsel
 amt
 amtman
 amtracks
+asfetida
 alephs
 adnexitis
 actinopterygian
@@ -21117,7 +21118,6 @@ asexualization
 asexualize
 asexually
 arendalite
-asfetida
 asha
 avulse
 appetitional
