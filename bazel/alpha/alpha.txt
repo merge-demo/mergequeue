@@ -1485,7 +1485,6 @@ anthela
 acclimatizes
 amphipneustic
 agreeableness
-anticness
 acclinal
 arhythmical
 accolated
@@ -10473,6 +10472,7 @@ amphipodous
 antiphonical
 amical
 amarettos
+anticness
 answerableness
 anaxagorize
 anticlimactically
