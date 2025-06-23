@@ -377,7 +377,6 @@ daymark
 doupion
 daimiate
 daimiel
-davallia
 daimyo
 dawdlers
 dreadness
@@ -18176,6 +18175,7 @@ dissective
 dumsola
 decussorium
 disdiaclastic
+davallia
 distrust
 dunbird
 dermatoscopy
