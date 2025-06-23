@@ -1829,7 +1829,6 @@ bandaged
 bandaging
 bowlin
 bandaid
-bandala
 buggery
 bandanaed
 battlepiece
@@ -14357,6 +14356,7 @@ bougainvillia
 burry
 braies
 batteuse
+bandala
 bleeping
 bonier
 busticate
