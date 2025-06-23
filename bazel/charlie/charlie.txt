@@ -17480,6 +17480,7 @@ causeries
 cobble
 capax
 cobbled
+colorings
 cobblerfish
 cobblerism
 cobblers
@@ -19448,7 +19449,6 @@ connoisseurs
 crosscurrents
 colorin
 coloring
-colorings
 conges
 colorisms
 cystous
