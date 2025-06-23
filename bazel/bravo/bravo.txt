@@ -5456,7 +5456,6 @@ beachward
 bulletmaking
 blubbery
 boardmanship
-boatable
 behemoth
 beetling
 behemoths
@@ -9588,6 +9587,7 @@ blastomata
 biscutate
 bisdiapason
 binary
+boatable
 bicapsular
 bisected
 bandlimits
