@@ -1032,6 +1032,7 @@ bunglings
 bailiary
 bailiaries
 bargainwise
+befit
 bailieries
 botargos
 bailieship
@@ -9294,7 +9295,6 @@ beadles
 biprong
 baseball
 begloomed
-befit
 bleezy
 bobsled
 browsers

@@ -12420,7 +12420,6 @@ culebra
 chromatopsia
 chromatoptometer
 chromatoptometry
-chromatoscope
 couch
 cobalticyanic
 chromatoscopy
@@ -31230,6 +31229,7 @@ correctness
 chetah
 curable
 curableness
+chromatoscope
 cotyloidal
 coverlid
 curacaos
