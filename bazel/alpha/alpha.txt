@@ -4210,7 +4210,6 @@ astichous
 astore
 ados
 acromegalia
-anisaldoxime
 austenite
 anamneses
 autoelectrolysis
@@ -8255,6 +8254,7 @@ acetannin
 acquent
 anthropopithecus
 aliening
+anisaldoxime
 alienism
 alienisms
 alienist
