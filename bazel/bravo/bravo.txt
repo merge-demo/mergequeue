@@ -5444,7 +5444,6 @@ biweeklies
 brisling
 brooklynite
 bilch
-baviere
 balai
 bandying
 bandura
@@ -17886,6 +17885,7 @@ boltstrake
 biassed
 busheled
 bourse
+baviere
 bookman
 beauship
 bivium

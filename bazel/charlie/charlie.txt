@@ -6846,7 +6846,6 @@ cellfalcicula
 concaveness
 celliform
 cellist
-cellite
 currs
 continua
 cellmates
@@ -14363,6 +14362,7 @@ cacciatore
 clavierist
 circumpose
 condite
+cellite
 circumquaque
 circumradii
 circumradius
