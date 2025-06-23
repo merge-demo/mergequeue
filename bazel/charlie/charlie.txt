@@ -3339,6 +3339,7 @@ caponier
 caponiere
 caponiers
 canicide
+cusp
 cavilling
 cotyledon
 concavely
@@ -19604,7 +19605,6 @@ columbine
 covin
 climactic
 chamfrons
-cusp
 crocky
 copesetic
 columbotantalate
