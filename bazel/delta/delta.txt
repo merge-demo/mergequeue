@@ -11156,7 +11156,6 @@ defiling
 diplomacy
 dysautonomia
 disavail
-dayroom
 discomforted
 dissaves
 despect
@@ -17079,6 +17078,7 @@ decarbonization
 disthroning
 diceratidae
 divisory
+dayroom
 diaconus
 doubletree
 dismally
