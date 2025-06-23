@@ -3616,6 +3616,7 @@ caraboa
 cinques
 circle
 caraboid
+connived
 carabus
 caracara
 carack
@@ -22618,7 +22619,6 @@ connive
 concertanti
 chug
 clinker
-connived
 chromochalcography
 connives
 captance
