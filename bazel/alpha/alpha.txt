@@ -14852,7 +14852,6 @@ anticipators
 anticity
 amli
 anticytolysin
-almsgiving
 alphorn
 atturn
 anticize
@@ -19879,6 +19878,7 @@ autor
 analogized
 arminianize
 arminianizer
+almsgiving
 armipotence
 analeptical
 armipotent
