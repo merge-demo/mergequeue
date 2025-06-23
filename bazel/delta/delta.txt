@@ -4346,7 +4346,6 @@ devoutness
 durning
 delimit
 duckhood
-dequeue
 dronel
 diversicolored
 demagogic
@@ -5324,6 +5323,7 @@ dakoit
 dentalized
 delphinapterus
 dentallia
+dequeue
 dentaphone
 demivolte
 dreamers
