@@ -11584,6 +11584,7 @@ caschielawis
 conveniens
 cholate
 chamberer
+clubhands
 cholates
 crafting
 calciphile
@@ -16888,7 +16889,6 @@ clubfisted
 clubfoot
 clubfooted
 clubhand
-clubhands
 cerebralgia
 clubhaul
 correctant
