@@ -6891,7 +6891,6 @@ desoeuvre
 dewlight
 drailed
 destriers
-dsp
 desolate
 dobroes
 desolated
@@ -8371,6 +8370,7 @@ decalobate
 dyed
 dromed
 decigrams
+dsp
 doricize
 decaffeinates
 dialycarpous
