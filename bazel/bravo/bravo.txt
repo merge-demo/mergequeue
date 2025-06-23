@@ -372,6 +372,7 @@ backfriend
 bottegas
 backgame
 backgammon
+basitemporal
 barbarical
 barwares
 breaststroke
@@ -3289,7 +3290,6 @@ basisidia
 bedwell
 bothering
 basisphenoidal
-basitemporal
 blippers
 beguilers
 balao
