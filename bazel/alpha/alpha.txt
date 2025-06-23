@@ -4043,7 +4043,6 @@ aldrin
 admits
 admittable
 admittance
-admittatur
 admitted
 agitpunkt
 ampliation
@@ -16817,6 +16816,7 @@ aphthartodocetic
 aphthartodocetism
 acromonogrammatic
 aphthong
+admittatur
 aporose
 admittedly
 asphalted
