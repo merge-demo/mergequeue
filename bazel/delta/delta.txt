@@ -657,7 +657,6 @@ decapitalize
 damped
 desquamated
 dukely
-deafen
 dampers
 dudgeons
 donnard
@@ -6427,6 +6426,7 @@ druidic
 deewans
 disadvanced
 derride
+deafen
 derriere
 dactyli
 discriminatory
