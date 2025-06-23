@@ -7895,7 +7895,6 @@ antetype
 alembroth
 alemite
 alemmal
-acidoproteolytic
 alen
 alkaloidal
 alenge
@@ -18353,6 +18352,7 @@ araphorostic
 awaiter
 anticensoriously
 autoecious
+acidoproteolytic
 araponga
 anteroposterior
 anthurium
