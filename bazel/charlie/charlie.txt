@@ -5155,7 +5155,6 @@ casemaker
 caprylene
 cackle
 casemaking
-casemates
 casemented
 casements
 caseolysis
@@ -15163,6 +15162,7 @@ cerebromalacia
 censurer
 cladonia
 craniometrical
+casemates
 cladoniaceae
 cathismata
 cladonioid
