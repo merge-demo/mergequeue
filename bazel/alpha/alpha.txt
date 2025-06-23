@@ -2184,7 +2184,6 @@ antiracer
 ashmolean
 aethereal
 antecabinet
-aphotaxis
 alleviation
 achrodextrinase
 achroglobin
@@ -23408,6 +23407,7 @@ apomict
 augend
 adversity
 antiantidote
+aphotaxis
 aquiform
 agitable
 augends
