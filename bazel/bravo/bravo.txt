@@ -374,7 +374,6 @@ backgame
 backgammon
 barbarical
 barwares
-breaststroke
 background
 backhand
 backhandedness
@@ -15913,6 +15912,7 @@ burgh
 bromuret
 bromus
 birdlet
+breaststroke
 bronchadenitis
 bimetallistic
 banderoling
