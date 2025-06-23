@@ -1974,6 +1974,7 @@ discostate
 debuted
 debuting
 desirable
+deinosauria
 diced
 drover
 demyelinate
@@ -11046,7 +11047,6 @@ disambiguating
 defamingly
 dogmatising
 disanalogy
-deinosauria
 disanalogous
 disanchor
 deliberations
