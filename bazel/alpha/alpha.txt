@@ -6939,7 +6939,6 @@ airts
 asteraceae
 aitkenite
 aitutakian
-algerine
 aphorizer
 ayu
 ayubite
@@ -19905,6 +19904,7 @@ adonises
 ampoules
 alastors
 armorials
+algerine
 armoric
 armorican
 albescence
