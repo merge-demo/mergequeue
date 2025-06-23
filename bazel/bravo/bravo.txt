@@ -7427,6 +7427,7 @@ betrend
 braveries
 betrothing
 betrothment
+bituminized
 betroths
 bromine
 betrousered
@@ -9934,7 +9935,6 @@ bastardice
 burk
 bituminate
 bituminising
-bituminized
 burnbeat
 bucktail
 bedivere
