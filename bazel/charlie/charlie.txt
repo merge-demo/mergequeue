@@ -738,7 +738,6 @@ cager
 complexities
 characterical
 causations
-cleaning
 cagers
 corners
 chasselas
@@ -10676,6 +10675,7 @@ cervicorn
 chimbly
 constructional
 calcaemia
+cleaning
 chime
 chimer
 chimeral
