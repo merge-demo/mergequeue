@@ -4166,7 +4166,6 @@ dianthuses
 debye
 deguelin
 deliration
-delire
 documentary
 deadworks
 decimator
@@ -10746,6 +10745,7 @@ deficit
 diprotic
 dianoialogy
 daughter
+delire
 durions
 driftages
 deferrers
