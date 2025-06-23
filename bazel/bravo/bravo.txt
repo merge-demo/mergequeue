@@ -3277,7 +3277,6 @@ battle
 baratheas
 believe
 brisant
-basiradial
 bacterioscopic
 basirostral
 basiscopic
@@ -4468,6 +4467,7 @@ becry
 becrime
 buckthorn
 bunemost
+basiradial
 buckrams
 becrinolined
 bromios
