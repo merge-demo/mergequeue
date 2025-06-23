@@ -4174,7 +4174,6 @@ beat
 benches
 beatae
 beatee
-bleery
 beaters
 beatifical
 benchlet
@@ -9218,6 +9217,7 @@ backhauling
 bourbonesque
 bipedality
 bipeds
+bleery
 bipeltate
 bipennate
 brunches
