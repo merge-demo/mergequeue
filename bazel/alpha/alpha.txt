@@ -13292,7 +13292,6 @@ abassin
 anisophylly
 anisophyllous
 afterchurch
-atbash
 apace
 anisopod
 ataraxias
@@ -21061,6 +21060,7 @@ anococcygeal
 asdic
 antiinflammatories
 annexal
+atbash
 ase
 asea
 asearch
