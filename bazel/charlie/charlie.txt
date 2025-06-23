@@ -7289,6 +7289,7 @@ centrosphere
 crevassed
 cylinderer
 centrums
+cost
 cancrizans
 centum
 centums
@@ -17658,7 +17659,6 @@ coccothraustine
 coccothrinax
 calabozo
 cocculiferous
-cost
 cocculus
 convertend
 corrivals
