@@ -8396,7 +8396,6 @@ attribution
 atrienses
 ayllu
 aliunde
-asternia
 algenib
 acuerdo
 alives
@@ -14644,6 +14643,7 @@ addis
 anapaestical
 antiarthritic
 araneous
+asternia
 arcs
 acraze
 afrogaea
