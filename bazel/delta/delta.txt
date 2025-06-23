@@ -7763,7 +7763,6 @@ decoded
 dogmatization
 desulphurized
 deviser
-devising
 direption
 detailism
 diglyph
@@ -10474,6 +10473,7 @@ damask
 discolith
 devinct
 disinflame
+devising
 dow
 disobliging
 douzainier
