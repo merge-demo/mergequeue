@@ -4586,6 +4586,7 @@ carnivals
 carnivoracity
 carnivoral
 carnivore
+citess
 carnivorism
 cordialness
 carnivorously
@@ -14755,7 +14756,6 @@ cite
 citer
 citers
 cites
-citess
 citharas
 citharexylum
 citharist
