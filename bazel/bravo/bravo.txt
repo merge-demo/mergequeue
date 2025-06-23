@@ -12471,7 +12471,6 @@ bullyrock
 bondminder
 bookroom
 bawdrick
-bierbalk
 bondship
 bondslave
 bondsman
@@ -18307,6 +18306,7 @@ bivalve
 buttoner
 buttoners
 buttonholder
+bierbalk
 bedel
 bennis
 bilirubinemia
