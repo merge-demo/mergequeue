@@ -27529,7 +27529,6 @@ covent
 coventrate
 coventry
 coroplast
-creaturehood
 cover
 containable
 coverable
@@ -27967,6 +27966,7 @@ croucher
 charactonym
 craftsmanship
 craftsmaster
+creaturehood
 cistophori
 craftspeople
 concubinaries
