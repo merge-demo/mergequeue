@@ -611,7 +611,6 @@ coorg
 cephalalgy
 ctenodipterini
 caecilia
-caeciliidae
 chiropod
 citizenizing
 caecotomy
@@ -5398,6 +5397,7 @@ casteth
 crossbench
 castice
 castigable
+caeciliidae
 confederates
 constatation
 cyclopism
