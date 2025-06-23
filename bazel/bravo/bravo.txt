@@ -2339,7 +2339,6 @@ babakoto
 betrayers
 bourignianism
 braggart
-barboy
 barbola
 bubbletops
 bagging
@@ -12949,6 +12948,7 @@ bouquiniste
 brambled
 bladderweed
 berliners
+barboy
 blameless
 breviloquence
 boleros
