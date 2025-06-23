@@ -2621,7 +2621,6 @@ bescoundrel
 bantamweight
 birdhouses
 bilges
-barking
 botanise
 barkless
 battening
@@ -12981,6 +12980,7 @@ biplicity
 backcountry
 browntop
 booziness
+barking
 beaver
 bookstore
 blockheadishness
