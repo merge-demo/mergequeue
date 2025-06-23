@@ -5251,6 +5251,7 @@ begarlanded
 baldpates
 bewired
 begass
+blurb
 bitless
 backmost
 bribability
@@ -11542,7 +11543,6 @@ bestows
 bocedization
 blup
 barbs
-blurb
 blurbist
 bananist
 balladries
