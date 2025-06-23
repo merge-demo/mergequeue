@@ -16701,7 +16701,6 @@ aphasia
 atees
 arrestee
 aphasiacs
-aphasics
 ambience
 anabaptized
 averse
@@ -19982,6 +19981,7 @@ astrofell
 azyme
 advitant
 aitchbone
+aphasics
 arnicas
 arnold
 adzooks
