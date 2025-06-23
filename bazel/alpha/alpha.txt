@@ -4859,6 +4859,7 @@ aerofoil
 adjurors
 aerofoils
 algine
+andradite
 amberfish
 aerogel
 aggravation
@@ -15740,7 +15741,6 @@ armouring
 apperceive
 abdominocentesis
 agura
-andradite
 aegirine
 antipestilently
 ablauts
