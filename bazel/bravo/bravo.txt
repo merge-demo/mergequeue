@@ -3339,6 +3339,7 @@ bonuses
 blamed
 bushel
 bottlesful
+basiliscan
 byordinary
 basophilic
 basques
@@ -16912,7 +16913,6 @@ buginvillaea
 bootjacks
 bong
 basten
-basiliscan
 bugleweed
 bressomer
 bugling
