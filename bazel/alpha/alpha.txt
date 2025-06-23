@@ -3902,6 +3902,7 @@ adjuratory
 aneuria
 adjured
 adjurer
+azofication
 adjures
 aspersorium
 autotyphization
@@ -25301,7 +25302,6 @@ acetylrosaniline
 antithermin
 actuate
 avionic
-azofication
 azoformamide
 anodization
 azogallein
