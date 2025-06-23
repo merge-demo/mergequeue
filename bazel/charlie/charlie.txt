@@ -7850,7 +7850,6 @@ cervicapra
 cervicectomy
 capibara
 cyanided
-caenogenesis
 cichloid
 cerviciplex
 cervicispinal
@@ -15985,6 +15984,7 @@ culverfoot
 clerical
 clericalists
 crumbum
+caenogenesis
 clericality
 clericals
 clericate
