@@ -1065,7 +1065,6 @@ calceolaria
 calceolate
 cowhide
 calceus
-challengable
 costoclavicular
 calchas
 calche
@@ -31165,6 +31164,7 @@ carole
 celite
 calonectria
 cupolated
+challengable
 chewstick
 covetingly
 cuppen
