@@ -3545,7 +3545,6 @@ bridgekeeper
 bathyplankton
 balon
 baygall
-barricade
 byronish
 brushy
 battleground
@@ -6968,6 +6967,7 @@ brahmahood
 beshow
 birdeen
 batching
+barricade
 brubru
 brachinus
 bleacherman
