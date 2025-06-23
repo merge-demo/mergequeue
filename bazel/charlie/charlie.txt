@@ -24540,6 +24540,7 @@ calorizes
 copenetrate
 copenhagen
 copepod
+covariance
 copepoda
 chromolithograph
 cleistothecopsis
@@ -28301,7 +28302,6 @@ chromites
 craterless
 craterlet
 craterlike
-covariance
 cheepily
 copywise
 craticular
