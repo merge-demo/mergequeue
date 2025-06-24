@@ -9624,7 +9624,6 @@ abridges
 aluminas
 aluminate
 alumines
-archicontinent
 absfarad
 aggeration
 aluminide
@@ -19814,6 +19813,7 @@ armenic
 agapetidae
 axinomancy
 armenoid
+archicontinent
 amphirhina
 armer
 assaulted
