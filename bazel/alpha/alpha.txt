@@ -4386,6 +4386,7 @@ adultness
 aberdavine
 adumbrated
 abductores
+automatonlike
 adumbrating
 adumbrations
 asthenias
@@ -8676,7 +8677,6 @@ askeses
 australoid
 alleyite
 alleys
-automatonlike
 alleyway
 abled
 alleyways
