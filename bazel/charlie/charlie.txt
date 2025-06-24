@@ -3642,6 +3642,7 @@ caract
 caractacus
 caradoc
 carafes
+characterless
 censors
 coenoblastic
 cattleyas
@@ -8925,7 +8926,6 @@ characteristicness
 characterization
 characterize
 characterizing
-characterless
 characterlessness
 characterology
 coffle

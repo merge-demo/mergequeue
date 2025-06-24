@@ -1628,7 +1628,6 @@ ballot
 ballota
 ballotade
 boud
-boyarism
 blier
 burletta
 butyrous
@@ -8965,6 +8964,7 @@ bucare
 blennothorax
 bacteriotropin
 biogenetics
+boyarism
 bezetta
 backspace
 bushlet
