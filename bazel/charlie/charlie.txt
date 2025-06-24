@@ -9198,6 +9198,7 @@ churchlier
 conversationize
 chartulae
 chartulary
+castrato
 cartoned
 coalface
 chartularies
@@ -22399,7 +22400,6 @@ copy
 conidium
 conifer
 coniferae
-castrato
 coniferin
 coniferophyte
 cuppier
