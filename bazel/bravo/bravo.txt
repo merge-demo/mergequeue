@@ -6423,6 +6423,7 @@ benzoglycolic
 benzoglyoxaline
 bastioned
 benzohydrol
+boucher
 benzoylated
 becuna
 benzoylation
@@ -12636,7 +12637,6 @@ basinlike
 bellware
 bonxie
 barracoon
-boucher
 bistriazole
 bookworms
 battycake

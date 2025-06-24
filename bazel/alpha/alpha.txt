@@ -12749,6 +12749,7 @@ anthocerotales
 angioleucitis
 annelid
 angiolith
+auscultation
 angioma
 angiomalacia
 angiomas
@@ -23694,7 +23695,6 @@ auscultates
 athrong
 auscultating
 apism
-auscultation
 arilliform
 atlaslike
 amphicyrtic
