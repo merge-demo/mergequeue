@@ -2202,6 +2202,7 @@ campo
 creedbound
 campodeoid
 campody
+cathartes
 campong
 campongs
 convincing
@@ -5946,7 +5947,6 @@ catharping
 correlating
 counterreason
 cathars
-cathartes
 cathartic
 chloroplatinate
 conciliate
