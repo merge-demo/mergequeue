@@ -84,7 +84,6 @@ cubics
 cabby
 cabbie
 crenelate
-cabbies
 cabble
 cabbled
 cabbler
@@ -1752,6 +1751,7 @@ calumnious
 calumniously
 canephor
 calusa
+cabbies
 calutron
 condores
 comporting
