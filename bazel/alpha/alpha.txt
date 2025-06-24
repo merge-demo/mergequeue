@@ -2953,7 +2953,6 @@ akene
 attentat
 archenteron
 axtree
-aulostomi
 actiniomorpha
 antineutrality
 actinisms
@@ -11772,6 +11771,7 @@ aurei
 amphophilic
 analyt
 acylate
+aulostomi
 acrobat
 alamanni
 anathemata
