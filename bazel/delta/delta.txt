@@ -5552,6 +5552,7 @@ dermoskeletal
 department
 departmental
 disrobers
+decry
 desiccate
 dealation
 diphyllous
@@ -6108,7 +6109,6 @@ disintegrant
 diastasic
 dysmenorrhoea
 dream
-decry
 dactyliographic
 dequeues
 der
