@@ -2232,6 +2232,7 @@ dreint
 drch
 dartre
 danes
+diphthongic
 dishelm
 deceit
 dedan
@@ -10337,7 +10338,6 @@ dioon
 diophysite
 dealates
 darwinite
-diphthongic
 dunkling
 diosmin
 draconin
