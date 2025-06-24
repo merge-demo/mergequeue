@@ -6735,6 +6735,7 @@ celandines
 celastraceae
 copings
 cerograph
+collagenic
 colorfast
 cibarium
 celastrus
@@ -18938,7 +18939,6 @@ colladas
 crematoria
 collage
 collagenase
-collagenic
 collagenous
 cardholder
 castalio
