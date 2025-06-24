@@ -14835,7 +14835,6 @@ decidua
 docs
 doctor
 doctorally
-dumontite
 downspout
 doctored
 defensive
@@ -18279,6 +18278,7 @@ diseuse
 demonian
 dustcloths
 dunkled
+dumontite
 dig
 discipline
 diacoca
