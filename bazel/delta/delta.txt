@@ -1734,6 +1734,7 @@ deaths
 deathsman
 discrepating
 dumble
+duikerbuck
 derogation
 disaccord
 deathtime
@@ -18150,7 +18151,6 @@ dumper
 defensemen
 demethylchlortetracycline
 dalesman
-duikerbuck
 dumple
 donators
 dive
