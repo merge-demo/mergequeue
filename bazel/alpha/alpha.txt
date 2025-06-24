@@ -4533,7 +4533,6 @@ advisees
 advisement
 atli
 arranger
-adviser
 apparatchiki
 advisers
 androcentric
@@ -9944,6 +9943,7 @@ amazons
 amazulu
 aphthongal
 abayah
+adviser
 afferently
 abele
 ambarella
