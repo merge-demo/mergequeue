@@ -7389,7 +7389,6 @@ cufflink
 cephalocercal
 cushlamochree
 cephalochord
-cowmen
 cephalochordal
 cephalochordata
 cephaloclast
@@ -20667,6 +20666,7 @@ collapsible
 converser
 complementary
 carty
+cowmen
 complementariness
 complementarity
 complementative
