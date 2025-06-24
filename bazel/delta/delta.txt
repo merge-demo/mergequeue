@@ -2277,7 +2277,6 @@ decayer
 decene
 depurator
 decennal
-decennial
 dingdongs
 decennium
 diagraphical
@@ -15643,6 +15642,7 @@ doormaker
 doormats
 digitorium
 doormen
+decennial
 discomfiting
 doorpiece
 drivel
