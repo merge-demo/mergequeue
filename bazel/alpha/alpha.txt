@@ -9709,7 +9709,6 @@ alveololingual
 alveolosubnasal
 antagonising
 alveolus
-aux
 alvine
 avestan
 alvissmal
@@ -20322,6 +20321,7 @@ arsenism
 anticonceptionist
 arsenites
 anarchic
+aux
 afley
 androids
 arrogate
