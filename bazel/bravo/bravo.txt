@@ -2509,6 +2509,7 @@ blueblack
 beslash
 bassetite
 barguest
+bevilled
 barguests
 buzylene
 baria
@@ -7538,7 +7539,6 @@ bashaws
 bedote
 breezeless
 banes
-bevilled
 butterbill
 bromometrically
 baronga
