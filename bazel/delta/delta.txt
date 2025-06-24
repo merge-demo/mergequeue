@@ -9701,7 +9701,6 @@ dipteron
 dimidiating
 daidling
 diipenates
-diencephalons
 defiliation
 dillies
 dicerion
@@ -10453,6 +10452,7 @@ diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
 diospyros
+diencephalons
 diphenylene
 despend
 diphenylenimine
