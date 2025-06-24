@@ -5400,7 +5400,6 @@ dentists
 dentition
 detribalizing
 denaturalizing
-dolldom
 dilating
 dielytra
 disrate
@@ -10652,6 +10651,7 @@ diplont
 delisting
 diplonts
 diplophase
+dolldom
 difficultness
 dosology
 deviously
