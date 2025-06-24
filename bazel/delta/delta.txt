@@ -3554,6 +3554,7 @@ dawcock
 drumlin
 defunction
 dollface
+devaluates
 deul
 disfrock
 dislimb
@@ -7611,7 +7612,6 @@ deval
 devaloka
 drenched
 declinable
-devaluates
 droppingly
 durandarte
 devalues
