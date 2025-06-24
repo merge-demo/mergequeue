@@ -6512,7 +6512,6 @@ admedial
 ariste
 antiserums
 ayapana
-aias
 aldebaranium
 ayatollah
 aiblins
@@ -7179,6 +7178,7 @@ aerostation
 acquisitions
 affirmatives
 alain
+aias
 ablastin
 alaki
 autochemical
