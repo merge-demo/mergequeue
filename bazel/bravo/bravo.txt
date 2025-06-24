@@ -12481,7 +12481,6 @@ burgeoned
 bulbose
 bondsmen
 bonify
-bdls
 brawniness
 bondstone
 bondswoman
@@ -14525,6 +14524,7 @@ barbarians
 belozenged
 buda
 branchiopoda
+bdls
 branner
 baktun
 bonding
