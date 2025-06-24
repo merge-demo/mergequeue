@@ -12462,7 +12462,6 @@ chromite
 catechiser
 chromitite
 conacre
-courtroom
 chromium
 chromiums
 chromize
@@ -18343,6 +18342,7 @@ coggers
 cogging
 coggledy
 cogitate
+courtroom
 combed
 campal
 cogglety
