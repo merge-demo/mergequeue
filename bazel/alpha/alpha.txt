@@ -3161,6 +3161,7 @@ aid
 avadavat
 alagao
 actory
+antiroll
 alliterativeness
 actress
 ahems
@@ -5926,7 +5927,6 @@ aggregatively
 aggregator
 ackman
 amatol
-antiroll
 anatman
 aggrege
 allopathy
