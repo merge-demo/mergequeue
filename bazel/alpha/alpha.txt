@@ -17312,7 +17312,6 @@ apostematic
 animalcules
 anaesthetic
 autothermy
-aposteme
 aposteriori
 arctogaea
 aerogun
@@ -23014,6 +23013,7 @@ attars
 anarthropoda
 ahungry
 autorhythmic
+aposteme
 attatched
 autodiagnosis
 applegrower
