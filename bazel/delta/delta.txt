@@ -1743,7 +1743,6 @@ deathtrap
 devocalization
 downtimes
 drof
-deathward
 dikaryon
 ductility
 docent
@@ -10078,6 +10077,7 @@ diselectrify
 dynamism
 dogless
 dozier
+deathward
 dishonour
 deled
 damply
