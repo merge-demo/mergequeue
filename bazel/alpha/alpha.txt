@@ -3893,7 +3893,6 @@ adjument
 alarmed
 argentamide
 adjunctively
-adjunctly
 adjuration
 analogia
 amidine
@@ -15666,6 +15665,7 @@ antiparallel
 androidal
 algieba
 amphitokous
+adjunctly
 antiparallelogram
 arylamine
 ablet
