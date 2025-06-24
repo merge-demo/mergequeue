@@ -14883,7 +14883,6 @@ counterglow
 cytolist
 cytolytic
 chian
-cytologic
 cytologically
 cussedness
 coranoch
@@ -16460,6 +16459,7 @@ connellite
 cholonan
 cowage
 copart
+cytologic
 cheveron
 cutlets
 castellanus
