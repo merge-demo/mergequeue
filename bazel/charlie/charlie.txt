@@ -16508,6 +16508,7 @@ cuon
 clockmaker
 cryophorus
 clockmaking
+commissioning
 crewer
 clocksmith
 clockwatcher
@@ -20159,7 +20160,6 @@ commissioned
 carrizo
 counterrevolutionaries
 chandelles
-commissioning
 croaks
 commissive
 commissively
