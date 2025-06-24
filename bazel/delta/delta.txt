@@ -8773,6 +8773,7 @@ defocusses
 deescalations
 diatomist
 dot
+declamando
 debadge
 diaporesis
 demimonk
@@ -17699,7 +17700,6 @@ duarchy
 duarchies
 dhauri
 dubb
-declamando
 demidevil
 dilemmic
 dullhearted
