@@ -15533,7 +15533,6 @@ constrainable
 chirotonsor
 caryota
 clarre
-clarseach
 corrodes
 clarsech
 clarseth
@@ -27613,6 +27612,7 @@ cowardice
 chrobat
 cowardish
 cannibalistic
+clarseach
 chionophobia
 chuffiest
 coecum
