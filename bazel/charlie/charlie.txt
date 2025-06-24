@@ -5558,7 +5558,6 @@ catadupe
 catafalco
 catafalques
 civilisation
-catagenetic
 catakinetic
 catakinomeric
 corkscrewy
@@ -14694,6 +14693,7 @@ cystopyelitis
 coquelicot
 cystoplegia
 cystoproctostomy
+catagenetic
 cystopteris
 cystoptosis
 cystopus
