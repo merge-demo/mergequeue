@@ -4917,7 +4917,6 @@ cogitable
 carsick
 carsickness
 caviteno
-carrottop
 carstone
 cart
 counterpoising
@@ -9515,6 +9514,7 @@ categorising
 chebulic
 colorbearer
 canroy
+carrottop
 chechakos
 chechem
 chechia
