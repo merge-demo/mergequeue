@@ -8570,7 +8570,6 @@ cataclysmatic
 congealedness
 chimbley
 corslet
-chanca
 chance
 chanceably
 clow
@@ -30153,6 +30152,7 @@ cruciality
 crucially
 courge
 crucian
+chanca
 crucianella
 chokidar
 crucians
