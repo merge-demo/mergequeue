@@ -5571,7 +5571,6 @@ drawrod
 drainermen
 deoxygenized
 demicolumn
-depascent
 delphinoid
 deuteronomy
 disrepute
@@ -15210,6 +15209,7 @@ dimna
 defunctness
 dissemilative
 distributable
+depascent
 dolabrate
 dialectalize
 doli
