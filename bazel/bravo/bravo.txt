@@ -12583,7 +12583,6 @@ bubbly
 bonnet
 brachelytra
 bonnethead
-bedway
 bagie
 basinerved
 bonnetiere
@@ -15866,6 +15865,7 @@ brominate
 bene
 barbarism
 bromination
+bedway
 broadband
 beswim
 buzzbomb
