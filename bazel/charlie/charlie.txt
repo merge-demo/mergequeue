@@ -5533,7 +5533,6 @@ cpm
 catacombs
 cyanamide
 counterattacks
-catacorner
 catacorolla
 ceaselessly
 catacoustics
@@ -25475,6 +25474,7 @@ coroll
 cartooning
 corollary
 centrosymmetric
+catacorner
 contradictions
 corollarial
 corollarially
