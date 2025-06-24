@@ -9686,7 +9686,6 @@ discomfortably
 dihydrostreptomycin
 dihydrotachysterol
 dhaks
-dihydroxyacetone
 dihydroxysuccinic
 dosshouse
 dulse
@@ -18526,6 +18525,7 @@ disorganizers
 decriers
 dualism
 diumvirate
+dihydroxyacetone
 duressor
 deglutitive
 drivage
