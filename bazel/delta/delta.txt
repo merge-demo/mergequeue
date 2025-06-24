@@ -1588,7 +1588,6 @@ deafly
 deafmuteness
 disembrace
 digression
-deafness
 deairing
 discernableness
 deairs
@@ -10772,6 +10771,7 @@ decessor
 dipsie
 declared
 decarboxylize
+deafness
 drainspout
 drools
 dipsomaniac
