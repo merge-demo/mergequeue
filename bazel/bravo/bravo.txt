@@ -8067,7 +8067,6 @@ bluntness
 bicornate
 bowery
 brutal
-bicorned
 bochur
 bicornous
 booklift
@@ -11964,6 +11963,7 @@ bogglers
 boggling
 bessarabian
 brinded
+bicorned
 bogyism
 bogyman
 broncobusters
