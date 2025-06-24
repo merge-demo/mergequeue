@@ -10728,7 +10728,6 @@ blenk
 blennadenitis
 backsetting
 blennemesis
-bullets
 blennenteria
 box
 biti
@@ -13948,6 +13947,7 @@ bowsie
 bacteriuria
 boxful
 blackboys
+bullets
 bleed
 brussels
 bullring
