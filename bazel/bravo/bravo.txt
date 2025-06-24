@@ -7563,6 +7563,7 @@ blowpit
 bewailing
 beguilingly
 bandolier
+blastman
 beloam
 begirding
 bewary
@@ -13976,7 +13977,6 @@ boxtop
 brager
 benzotoluide
 beadhouses
-blastman
 bluecup
 bolometrically
 bensel
