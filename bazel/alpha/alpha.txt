@@ -5606,6 +5606,7 @@ aminoaciduria
 agag
 ashkenazic
 amygdale
+aumery
 andabatarian
 aeschylean
 again
@@ -23507,7 +23508,6 @@ anapnometer
 autotoxicity
 appennage
 augmented
-aumery
 anchylose
 analgen
 aumildar
