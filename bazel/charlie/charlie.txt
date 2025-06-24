@@ -14368,7 +14368,6 @@ circumradii
 circumradius
 circumradiuses
 charitable
-claver
 conferring
 cevadilla
 conamed
@@ -14847,6 +14846,7 @@ cytodiagnosis
 cytoecology
 cerebrotonia
 cippi
+claver
 coinferred
 collectanea
 commiseratively
