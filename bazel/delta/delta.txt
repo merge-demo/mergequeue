@@ -3430,6 +3430,7 @@ deceleron
 deflower
 damnosa
 dentagra
+divestitive
 deflowered
 deflowerer
 dumpcart
@@ -14127,7 +14128,6 @@ dubbers
 disturb
 disturbance
 dominican
-divestitive
 demipronation
 dendroid
 desmans
