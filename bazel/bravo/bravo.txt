@@ -7817,7 +7817,6 @@ biaxiality
 birdseyes
 beshrouds
 brooklyn
-bazaars
 bicephalous
 bogman
 biface
@@ -14555,6 +14554,7 @@ brandied
 blatterer
 branding
 brandiron
+bazaars
 buddle
 bimaculate
 billhooks
