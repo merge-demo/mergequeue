@@ -3541,6 +3541,7 @@ bathymetrical
 bathing
 bastinadoes
 beckoning
+byrlawman
 bridgekeeper
 bathyplankton
 balon
@@ -9454,7 +9455,6 @@ baccheion
 bandwidths
 brawl
 bespatterment
-byrlawman
 billiardly
 batule
 bioinstrumentation
