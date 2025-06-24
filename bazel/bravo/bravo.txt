@@ -11625,6 +11625,7 @@ burns
 bevels
 bacauan
 blacks
+basileus
 bizant
 boarwood
 boas
@@ -17754,7 +17755,6 @@ backfill
 biobibliography
 burnwood
 brainchildren
-basileus
 browsage
 bravadoes
 burped
