@@ -2653,7 +2653,6 @@ canfield
 counterstatement
 canfields
 cantillating
-canfuls
 cangan
 charterist
 clumsiness
@@ -30239,6 +30238,7 @@ controllers
 cruises
 cruising
 cruive
+canfuls
 cruller
 conglobately
 crumb

@@ -933,7 +933,6 @@ bagwyn
 bustier
 bagwork
 baker
-brumby
 bahadur
 beverage
 basiophthalmite
@@ -8133,6 +8132,7 @@ bug
 blasphemer
 beslubber
 beltmaker
+brumby
 besieging
 bloodhound
 bidiagonal
