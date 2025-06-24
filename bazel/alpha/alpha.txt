@@ -4169,7 +4169,6 @@ acinuni
 adopting
 adopted
 adoption
-antedate
 abiotrophic
 apprised
 astronomic
@@ -10243,6 +10242,7 @@ angiolymphitis
 alloying
 analcitite
 ameiuridae
+antedate
 absorbition
 ameiva
 amel
