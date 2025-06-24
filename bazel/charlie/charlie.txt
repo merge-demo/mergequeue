@@ -7662,7 +7662,6 @@ calathisci
 calcarated
 cerebrospinal
 chaetotaxy
-cerebrospinant
 cerebrosuria
 cerebrovascular
 collarets
@@ -18692,6 +18691,7 @@ cointerest
 cointerred
 cointerring
 cointersecting
+cerebrospinant
 cointreau
 coinvolve
 coyo
