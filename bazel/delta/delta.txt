@@ -2531,7 +2531,6 @@ daneworts
 diplococcus
 declaring
 dwined
-declasses
 dorn
 disjudication
 declassicize
@@ -5368,6 +5367,7 @@ daraf
 diaphoretic
 displaced
 dentical
+declasses
 denticle
 dentiferous
 dentification
