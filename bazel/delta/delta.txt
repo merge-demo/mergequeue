@@ -1479,6 +1479,7 @@ dingbats
 definiendum
 deformers
 diazines
+doombook
 deacetylate
 duststorm
 donas
@@ -8311,7 +8312,6 @@ dynamiting
 dagesh
 desonation
 digitation
-doombook
 dialyzer
 diagrams
 dentin
