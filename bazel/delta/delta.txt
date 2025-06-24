@@ -2637,6 +2637,7 @@ decreers
 decolours
 decommission
 decommissioned
+disallow
 dumbbeller
 discriminably
 decian
@@ -11028,7 +11029,6 @@ diasystem
 disaligned
 disalliege
 deoxidization
-disallow
 displaying
 disconformably
 dramatised
