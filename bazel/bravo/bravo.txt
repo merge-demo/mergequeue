@@ -4050,6 +4050,7 @@ bskt
 beamroom
 baragnosis
 blitzkrieged
+blacktail
 beams
 bargees
 bantlings
@@ -6064,7 +6065,6 @@ boathead
 bollard
 bemartyr
 buttstrap
-blacktail
 bemuddlement
 bemuddles
 bemuddling
