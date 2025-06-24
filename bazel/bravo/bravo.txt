@@ -4549,7 +4549,6 @@ bedad
 bedaggle
 berrybush
 beguard
-beday
 babul
 biddable
 bedamned
@@ -13341,6 +13340,7 @@ botels
 bebrave
 barometry
 both
+beday
 bradyphagia
 bothersome
 bothered
