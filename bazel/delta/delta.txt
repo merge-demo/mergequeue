@@ -1489,7 +1489,6 @@ doarium
 deked
 deaconate
 demigorge
-delphinoidea
 downer
 discourager
 deaconesses
@@ -7219,6 +7218,7 @@ demultiplexing
 detainee
 detaining
 disinfecter
+delphinoidea
 detar
 detassel
 detat
