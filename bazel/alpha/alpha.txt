@@ -13695,7 +13695,6 @@ augmenter
 antileak
 avant
 anomatheca
-anomia
 anomiacea
 acquiet
 atrabilarian
@@ -25002,6 +25001,7 @@ asymmetral
 argid
 apama
 amplex
+anomia
 awing
 antiprohibitionist
 awiwi
