@@ -2783,6 +2783,7 @@ cableman
 cannie
 cannier
 canning
+chaplain
 cannings
 chiccories
 cannister
@@ -8821,7 +8822,6 @@ chapin
 chapiter
 chloranaemia
 chapitral
-chaplain
 canulated
 chaplaincies
 chaplains
