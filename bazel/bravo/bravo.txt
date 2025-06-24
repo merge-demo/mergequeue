@@ -9261,6 +9261,7 @@ bracteiform
 byplay
 bottonhook
 bullfrogs
+bilinguality
 batfowler
 brownie
 broncholithiasis
@@ -9954,7 +9955,6 @@ brigantinebrigantines
 bituminous
 bisecting
 beryllate
-bilinguality
 bridleman
 burbles
 biases
