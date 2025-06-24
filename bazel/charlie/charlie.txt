@@ -6511,7 +6511,6 @@ caves
 cavetti
 calusar
 conchie
-cavetto
 cavy
 cavia
 cavicorn
@@ -23335,6 +23334,7 @@ chimane
 contactant
 carvel
 circumstantiations
+cavetto
 contactile
 coatracks
 circumspect
