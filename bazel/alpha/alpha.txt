@@ -8210,7 +8210,6 @@ anarchial
 alliterating
 aluminise
 aqueousness
-alicyclic
 actiniochrome
 allochroous
 aphelandra
@@ -24851,6 +24850,7 @@ avouching
 avouchment
 abetment
 avour
+alicyclic
 avoutry
 arthroplasty
 autobiographically
