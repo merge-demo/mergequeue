@@ -4903,6 +4903,7 @@ congregants
 carrotins
 carrotweed
 corporation
+cistus
 canonization
 clomben
 carrotwood
@@ -14734,7 +14735,6 @@ conventionality
 cists
 cistudo
 colonic
-cistus
 citable
 cairns
 citadel
