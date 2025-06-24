@@ -9343,7 +9343,6 @@ alphabetical
 alphabetically
 abbotships
 adenolymphoma
-affectation
 alphabeting
 adiposis
 alphabetised
@@ -12899,6 +12898,7 @@ armored
 arcidae
 appanages
 angraecum
+affectation
 angry
 angriness
 angstroms
