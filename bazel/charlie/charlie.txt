@@ -15194,7 +15194,6 @@ chonchina
 candiel
 contangos
 claibornian
-construal
 commanderies
 claye
 clayey
@@ -22984,6 +22983,7 @@ chambermaids
 companyless
 copist
 consoles
+construal
 consolette
 consolidated
 cerebrin
