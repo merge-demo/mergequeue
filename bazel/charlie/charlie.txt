@@ -2892,6 +2892,7 @@ canossa
 canotier
 canreply
 cubi
+composited
 cansful
 coddled
 canso
@@ -20848,7 +20849,6 @@ canst
 composer
 composita
 composite
-composited
 compositely
 composites
 compositing
