@@ -1673,7 +1673,6 @@ counterdiscipline
 calorifical
 calorification
 cardiograph
-calappa
 currishly
 curelessly
 calorifics
@@ -5986,6 +5985,7 @@ catheterization
 cense
 catheterized
 commonality
+calappa
 cerastium
 catheterizes
 cathetometer
