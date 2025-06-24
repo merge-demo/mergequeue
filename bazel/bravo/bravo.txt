@@ -766,7 +766,6 @@ bat
 brushcut
 bygoing
 banket
-badmouthed
 badmouths
 bullfrog
 badnesses
@@ -4638,6 +4637,7 @@ baguio
 bioplasmic
 betsileos
 bact
+badmouthed
 bedewed
 ballistically
 bedews
