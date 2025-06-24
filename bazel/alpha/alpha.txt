@@ -9278,7 +9278,6 @@ anthropic
 alderwoman
 aloyau
 aloid
-aloin
 aloins
 alois
 aloysia
@@ -19726,6 +19725,7 @@ arithmography
 azulejos
 arithmomancy
 arivaipa
+aloin
 amphoral
 arizonian
 anhistous
