@@ -3200,7 +3200,6 @@ dipsadine
 dryth
 drool
 demoniac
-defenceable
 dekle
 doftberry
 diphthongising
@@ -7229,6 +7228,7 @@ detected
 darns
 disenchantingly
 detecter
+defenceable
 detecters
 decentralist
 duffels
