@@ -9487,7 +9487,6 @@ cheapish
 cheaply
 cheapness
 cladoselachea
-cheapos
 cheare
 cheat
 comprehensor
@@ -19852,6 +19851,7 @@ cryobiology
 cometaria
 cabulla
 closh
+cheapos
 cometlike
 cometography
 coeloblastic
