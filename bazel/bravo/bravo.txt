@@ -11981,6 +11981,7 @@ boglet
 beckelite
 bolts
 bogmire
+brynhild
 borine
 baggit
 bedwarf
@@ -15470,7 +15471,6 @@ bodega
 bringeth
 brushiness
 botanophilist
-brynhild
 blist
 broomrape
 barbes
