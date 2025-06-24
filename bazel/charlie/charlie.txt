@@ -2524,6 +2524,7 @@ candyweed
 candle
 clitoromaniac
 coehorn
+cogweels
 candleball
 candleberries
 candlebomb
@@ -18472,7 +18473,6 @@ chaotical
 cogway
 cerite
 cogweel
-cogweels
 cogwood
 cohabitancy
 cohabitant
