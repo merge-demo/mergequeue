@@ -2542,6 +2542,7 @@ candlelighting
 candlelit
 cohusband
 carvels
+ceratodontidae
 candlemaker
 candlemaking
 candlemas
@@ -23668,7 +23669,6 @@ centrefold
 contrada
 contradance
 calpul
-ceratodontidae
 contradictable
 cuckooing
 cerusite
