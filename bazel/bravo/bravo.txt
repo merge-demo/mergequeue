@@ -48,7 +48,6 @@ bechirp
 bish
 bundocks
 babbly
-befrogged
 brushable
 babbit
 baton
@@ -8179,6 +8178,7 @@ baldpate
 byeman
 ballote
 bienly
+befrogged
 browpost
 boyism
 brahmi
