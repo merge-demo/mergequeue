@@ -4623,7 +4623,6 @@ bedehouses
 balustrade
 bedemen
 bens
-barry
 boeing
 basigamy
 buxus
@@ -11447,6 +11446,7 @@ beaverkill
 bluesmen
 bluestems
 beguiles
+barry
 bigeneric
 bananalander
 bivious
