@@ -5280,7 +5280,6 @@ afflatus
 absent
 afflicted
 accra
-afflicter
 afflicting
 afflictingly
 afflictionless
@@ -17859,6 +17858,7 @@ apprising
 antioxidizing
 allomerize
 apprizal
+afflicter
 apprize
 aborting
 apprizer
