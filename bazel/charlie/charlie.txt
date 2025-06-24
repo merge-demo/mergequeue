@@ -2183,7 +2183,6 @@ campylometer
 cynicist
 coffeecup
 campyloneuron
-cavesson
 cakey
 campylotropal
 campylotropous
@@ -9055,6 +9054,7 @@ charitative
 coquettish
 colloq
 charities
+cavesson
 condition
 charityless
 caridoid
