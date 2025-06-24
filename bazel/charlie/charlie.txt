@@ -5622,7 +5622,6 @@ cataloguing
 clankety
 cataloguist
 catalonian
-cataloon
 catalos
 catalufa
 catalufas
@@ -12516,6 +12515,7 @@ chervonetz
 chromonemal
 coincidences
 chromonematal
+cataloon
 cataphracti
 chromoparous
 chromophage
