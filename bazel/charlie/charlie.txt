@@ -122,7 +122,6 @@ clitelline
 cabinetworker
 cabinetworking
 cabinlike
-crafter
 cabio
 chemisorptive
 costotransverse
@@ -15943,6 +15942,7 @@ clementina
 clemently
 clementness
 caballine
+crafter
 clemming
 clench
 carbamino
