@@ -8637,7 +8637,6 @@ astronautically
 allegorically
 acidosis
 aqueduct
-allegorisation
 allegorise
 afear
 absentment
@@ -13887,6 +13886,7 @@ antae
 antaean
 antaeus
 alvelos
+allegorisation
 antefuture
 advantaging
 airman
