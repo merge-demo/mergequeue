@@ -16188,7 +16188,6 @@ climatology
 climatological
 conductitious
 crenulated
-climatologically
 climatometer
 climaxed
 ctf
@@ -28527,6 +28526,7 @@ credenda
 confluently
 cassada
 credentialed
+climatologically
 carrot
 countercampaign
 croomia
