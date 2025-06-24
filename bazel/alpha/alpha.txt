@@ -5182,7 +5182,6 @@ artifactual
 affenpinscher
 affere
 abnegative
-affiance
 affianced
 angakok
 affiancing
@@ -25042,6 +25041,7 @@ allocheiria
 anklung
 antihydrophobic
 algologies
+affiance
 awoke
 arcanal
 andranatomy
