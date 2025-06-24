@@ -2079,7 +2079,6 @@ bronchus
 bcf
 baldest
 blesses
-bannerols
 bannisters
 birthmarks
 bioflavinoid
@@ -7700,6 +7699,7 @@ backfilling
 bezzo
 bhabar
 belemnites
+bannerols
 blaine
 bacchanalization
 bedrenches
