@@ -8550,6 +8550,7 @@ bassanello
 baar
 barih
 bejeweling
+biventer
 barabra
 baptism
 bo
@@ -9988,7 +9989,6 @@ brahmic
 berbery
 barrenness
 bivector
-biventer
 bayonetting
 bulkin
 bizarrerie

@@ -1028,7 +1028,6 @@ calavance
 calbroben
 calcaire
 calcanea
-chimpanzee
 calcanean
 calcaneoastragaloid
 calcaneoplantar
@@ -13545,6 +13544,7 @@ cylindricity
 cylindricule
 cylindriform
 calpack
+chimpanzee
 cylindrocylindric
 curiatii
 counterfeiter
