@@ -192,7 +192,6 @@ baccalaureus
 baccara
 baroques
 bdrm
-bedin
 bristleless
 bipartition
 balneum
@@ -14716,6 +14715,7 @@ brauronian
 brava
 bravade
 bronchophthisis
+bedin
 blastostyle
 bennet
 betelnut
