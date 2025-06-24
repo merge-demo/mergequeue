@@ -13756,7 +13756,6 @@ clashed
 chambul
 cheers
 colan
-cinchonization
 crunodal
 cinchonize
 cinchonized
@@ -21565,6 +21564,7 @@ corsepresent
 concrescible
 coercer
 cofinal
+cinchonization
 concurring
 concurs
 christologist
