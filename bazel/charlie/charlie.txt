@@ -2784,6 +2784,7 @@ cannie
 cannier
 canning
 cannings
+countersubject
 chiccories
 cannister
 cannisters
@@ -10613,7 +10614,6 @@ countermove
 chouka
 chemolytic
 chillumchee
-countersubject
 copaibas
 conflating
 coruscating
