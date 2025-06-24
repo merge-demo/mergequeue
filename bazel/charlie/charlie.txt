@@ -11283,7 +11283,6 @@ credensiveness
 chlorimetric
 chlorinated
 chlorinating
-curly
 chlorination
 chlorinator
 chlorines
@@ -31318,6 +31317,7 @@ curdly
 curdoo
 conceivably
 cured
+curly
 cornix
 cureless
 corypha
