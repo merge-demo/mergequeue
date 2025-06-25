@@ -3264,7 +3264,6 @@ antinationally
 assassin
 acutograve
 analogist
-acutonodose
 aurene
 anthropomorphist
 avigator
@@ -4935,6 +4934,7 @@ aeronat
 aeronaut
 aeronautic
 aeronautical
+acutonodose
 aeronomer
 amyliferous
 aumil

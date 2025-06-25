@@ -1855,7 +1855,6 @@ bandfile
 bandfiled
 bandh
 burdon
-brownism
 brython
 birken
 bandhook
@@ -13108,6 +13107,7 @@ brahui
 boride
 benchmen
 bregmatic
+brownism
 boringness
 bilging
 borith
