@@ -5317,7 +5317,6 @@ crampy
 courtling
 cassiterite
 ccws
-cassius
 cassock
 cleanser
 ctenophora
@@ -11045,6 +11044,7 @@ coscoroba
 chirrup
 captions
 chirrupy
+cassius
 chirrupper
 combustor
 chirt
