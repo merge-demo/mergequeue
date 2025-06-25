@@ -3576,7 +3576,6 @@ butchers
 balconet
 barkentine
 bathometer
-bathometry
 blockmaking
 bathool
 boomkins
@@ -4989,6 +4988,7 @@ bombycilla
 breakfasters
 beerpull
 beers
+bathometry
 beest
 blowers
 babbools
