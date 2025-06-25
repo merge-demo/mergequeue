@@ -12554,6 +12554,7 @@ chromoscopy
 capacitances
 coobah
 chromosomally
+conservatory
 condensate
 cornercap
 collophore
@@ -22864,7 +22865,6 @@ choisya
 collapsable
 conservatoires
 conservator
-conservatory
 conservatorial
 conservatorium
 crystograph
