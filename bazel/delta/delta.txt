@@ -6741,6 +6741,7 @@ date
 designatum
 designedly
 designedness
+dolmen
 detachability
 delibate
 designment
@@ -15317,7 +15318,6 @@ dolmans
 diamylose
 diluviums
 dolmas
-dolmen
 desubstantiate
 dolomedes
 discovery
