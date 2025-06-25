@@ -8249,7 +8249,6 @@ diorism
 diadochian
 diadochic
 diadochite
-dethroner
 diadochokinesia
 diadoumenos
 diaene
@@ -12591,6 +12590,7 @@ dromedaries
 diamantoid
 denominators
 disintegrator
+dethroner
 deifications
 disintegrators
 dispiritedness
