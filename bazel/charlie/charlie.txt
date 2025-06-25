@@ -13476,7 +13476,6 @@ cydonium
 cie
 cierge
 cierzo
-cierzos
 certificator
 courb
 cyesis
@@ -17643,6 +17642,7 @@ coccolite
 counterresolution
 calabashes
 cardiodysneuria
+cierzos
 cavilingness
 columelliform
 catamite
