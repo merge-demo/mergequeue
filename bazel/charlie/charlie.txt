@@ -25369,6 +25369,7 @@ cornfields
 cheroots
 cornflag
 countersiege
+curassows
 cornflower
 cornflowers
 corngrower
@@ -25729,7 +25730,6 @@ corrigenda
 compossibility
 corrigible
 chainbearer
-curassows
 corrigibleness
 coenures
 citrines
