@@ -13470,7 +13470,6 @@ chlorinates
 counterturn
 cydippe
 cofeatures
-cydonian
 confederator
 cydonium
 cie
@@ -29239,6 +29238,7 @@ cryptanalyze
 cothamore
 capybara
 cryptanalyzing
+cydonian
 cryptarch
 cryptarchy
 caracols
