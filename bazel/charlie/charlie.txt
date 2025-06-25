@@ -7170,7 +7170,6 @@ centones
 centonism
 centonization
 centos
-centra
 centrad
 central
 centraler
@@ -8084,6 +8083,7 @@ chaetiferous
 cocytean
 chaetochloa
 chaetodon
+centra
 chaetodont
 capercally
 chaetodontidae
