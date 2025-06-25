@@ -4694,6 +4694,7 @@ ballpoint
 bobsleds
 bathymetrically
 brides
+boni
 bunce
 busywork
 bedims
@@ -12539,7 +12540,6 @@ bedposts
 burseeds
 biham
 bonhomies
-boni
 bony
 burtonize
 boniata
