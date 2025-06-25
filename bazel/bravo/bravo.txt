@@ -4238,7 +4238,6 @@ bathomania
 beautifier
 bishopbird
 banff
-beautiful
 blowball
 bellhanging
 beautihood
@@ -14601,6 +14600,7 @@ bewrayment
 bitterns
 brantails
 bedcord
+beautiful
 brantle
 bacteriologic
 bibliomanism
