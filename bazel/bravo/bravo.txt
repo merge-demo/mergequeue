@@ -3615,7 +3615,6 @@ bolting
 batistes
 beastly
 batlet
-batlike
 bifanged
 boards
 buyides
@@ -9076,6 +9075,7 @@ bailliage
 byssaceous
 bespice
 benightmare
+batlike
 biopsychological
 brekky
 breunnerite
