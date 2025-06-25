@@ -2802,6 +2802,7 @@ body
 barosinusitus
 barosmin
 backwashed
+barreled
 blithefully
 buffaloback
 bruta
@@ -2888,7 +2889,6 @@ barratries
 becrawls
 barratrously
 barrelage
-barreled
 barreleyes
 barrelet
 bookend
