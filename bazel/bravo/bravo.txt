@@ -9559,6 +9559,7 @@ bught
 biblist
 bodewash
 breeching
+balancewise
 bisantler
 bonapartean
 bothridium
@@ -10941,7 +10942,6 @@ bartonia
 brooms
 beadroll
 blinker
-balancewise
 bitterful
 barretors
 blustered
