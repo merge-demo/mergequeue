@@ -3144,6 +3144,7 @@ defeated
 directs
 downs
 diluviate
+descriptor
 disgout
 dissimulated
 defeatism
@@ -5778,7 +5779,6 @@ deliberating
 debater
 duree
 disjoint
-descriptor
 decasualizing
 depolymerize
 deadpay
