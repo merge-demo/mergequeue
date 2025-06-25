@@ -5243,6 +5243,7 @@ casquet
 casquetel
 cassabas
 cassabully
+chalcography
 cultist
 carthorse
 custodiam
@@ -8300,7 +8301,6 @@ chalcogen
 chalcogenide
 coenaculum
 comas
-chalcography
 caucho
 chalcographic
 chalcographical
