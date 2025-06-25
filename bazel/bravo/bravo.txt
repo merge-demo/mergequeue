@@ -2585,7 +2585,6 @@ bedevils
 barytocelestite
 barytone
 barytons
-busing
 bears
 brittlely
 barytophyllite
@@ -5694,6 +5693,7 @@ bicycle
 balandra
 butterpaste
 bridegroomship
+busing
 barkpeeling
 bluism
 berreaved
