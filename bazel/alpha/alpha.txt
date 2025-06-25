@@ -3576,7 +3576,6 @@ antepectoral
 adenocystomatous
 adenodermia
 adenodynia
-apotheces
 arcade
 aggelation
 attic
@@ -14099,6 +14098,7 @@ adrostal
 antenuptial
 aplasias
 anteoccupation
+apotheces
 anteocular
 accessability
 amy
