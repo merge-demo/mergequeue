@@ -4051,7 +4051,6 @@ centenary
 cardamons
 cardamum
 cardanol
-chymist
 cardboard
 crissum
 cardcases
@@ -31429,6 +31428,7 @@ crouton
 cycladic
 curlike
 curlily
+chymist
 cantharidal
 curlylocks
 cadew
