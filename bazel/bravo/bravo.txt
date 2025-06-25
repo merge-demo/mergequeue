@@ -675,7 +675,6 @@ bungey
 biannual
 begall
 bronchiolitis
-bathyesthesia
 baculine
 boiseries
 baculoid
@@ -3055,6 +3054,7 @@ breather
 blastplate
 beholdingness
 bating
+bathyesthesia
 badminton
 barware
 boneblack
