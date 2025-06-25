@@ -19258,7 +19258,6 @@ areographical
 adjunction
 areolae
 areolar
-aluminothermics
 areolas
 areocentric
 areolated
@@ -22942,6 +22941,7 @@ att
 attacca
 attacco
 absences
+aluminothermics
 amphibolite
 akuammine
 antiperistaltic
