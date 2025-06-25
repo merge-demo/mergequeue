@@ -2941,7 +2941,6 @@ actiniae
 absentia
 attrahent
 axisymmetric
-appalment
 appendages
 ashless
 antozonite
@@ -2999,6 +2998,7 @@ aporobranchiata
 antipodes
 assamar
 asbolin
+appalment
 actinographic
 autotomy
 actinoid
