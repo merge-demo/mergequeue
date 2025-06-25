@@ -4983,6 +4983,7 @@ disomus
 demotions
 deraign
 deferent
+distance
 dysmeromorph
 discreated
 demarking
@@ -13825,7 +13826,6 @@ discomposingly
 dindle
 distain
 distaining
-distance
 denumeration
 diatomic
 demast
