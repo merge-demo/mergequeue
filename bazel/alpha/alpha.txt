@@ -5603,7 +5603,6 @@ apicial
 atopies
 almeidina
 aminoaciduria
-agag
 ashkenazic
 amygdale
 andabatarian
@@ -16383,6 +16382,7 @@ antoniniani
 antoninianus
 appointed
 antonomasia
+agag
 anaplastic
 antonomastic
 antonomastical
