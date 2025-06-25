@@ -9451,7 +9451,6 @@ anemones
 angiosclerotic
 altazimuth
 alter
-alterable
 anerethisia
 alterably
 archaeocyte
@@ -13487,6 +13486,7 @@ annihilatory
 annihilators
 antimodernism
 attice
+alterable
 ampoule
 archartist
 anniversalily
