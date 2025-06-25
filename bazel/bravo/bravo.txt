@@ -6818,6 +6818,7 @@ brittles
 bin
 berserks
 barnumize
+bluestockingish
 berskin
 balize
 berhyme
@@ -13421,7 +13422,6 @@ botryomycosis
 botryopteriaceae
 boulter
 bottekin
-bluestockingish
 bombycina
 bepester
 borussian
