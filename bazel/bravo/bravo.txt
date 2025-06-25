@@ -2724,7 +2724,6 @@ bubastite
 backward
 boylas
 beltline
-bullbat
 brigandishly
 bismutoplagionite
 barolo
@@ -14454,6 +14453,7 @@ bigging
 bathyspheres
 bagh
 babying
+bullbat
 brakeless
 brakeload
 bemotto
