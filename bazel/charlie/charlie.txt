@@ -8591,7 +8591,6 @@ chancellors
 califates
 chancellorship
 chancellorships
-chancelor
 capillaire
 calathidium
 chancels
@@ -28978,6 +28977,7 @@ cricopharyngeal
 cricothyreotomy
 choosey
 cojuror
+chancelor
 cricothyroidean
 cuneated
 crossbowman
