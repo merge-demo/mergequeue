@@ -1385,7 +1385,6 @@ blots
 baldhead
 bilestone
 baldheads
-bandager
 braise
 bushings
 baldish
@@ -9437,6 +9436,7 @@ bulimulidae
 birgand
 brunoniaceae
 burnetize
+bandager
 bedirties
 bourride
 birkeniidae
