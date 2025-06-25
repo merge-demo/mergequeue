@@ -3562,7 +3562,6 @@ bathmat
 bathmats
 broodsac
 bereaven
-basion
 bathmism
 banker
 befathered
@@ -14844,6 +14843,7 @@ brokers
 breakable
 breakaxe
 burning
+basion
 blameable
 baja
 breakers
