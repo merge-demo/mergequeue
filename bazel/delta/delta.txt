@@ -3472,7 +3472,6 @@ defoil
 dorsabdominally
 dorsobranchiata
 defoliants
-defoliate
 defoliations
 disjunct
 dichroscope
@@ -12728,6 +12727,7 @@ daut
 depreciating
 disobeys
 diphenol
+defoliate
 dishonesty
 domicilement
 durns
