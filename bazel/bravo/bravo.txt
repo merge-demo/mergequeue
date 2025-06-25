@@ -1947,7 +1947,6 @@ bathymetric
 brandishes
 bosquets
 bitripartite
-bandwagon
 baahling
 beeway
 beworms
@@ -11466,6 +11465,7 @@ blueweed
 bravos
 bundlers
 basophilia
+bandwagon
 begemming
 bedoctor
 blintze
