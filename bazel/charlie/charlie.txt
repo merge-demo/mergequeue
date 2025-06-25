@@ -6412,7 +6412,6 @@ couche
 cauterise
 collision
 cauterising
-cauterism
 carafe
 cauterization
 correcter
@@ -30956,6 +30955,7 @@ corresp
 craniostosis
 cheimatophobia
 cumar
+cauterism
 cumara
 cumarins
 cuvage
