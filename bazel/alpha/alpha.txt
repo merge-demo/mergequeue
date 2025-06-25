@@ -2614,7 +2614,6 @@ acquisitor
 antibrachial
 acetiam
 amphigonous
-assuaging
 acquittal
 acquittance
 almacenista
@@ -20711,6 +20710,7 @@ artilleryman
 achillein
 artillerymen
 apprehensiveness
+assuaging
 aurochloride
 amphicrania
 artilleryship
