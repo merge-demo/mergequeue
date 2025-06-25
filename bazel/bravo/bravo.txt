@@ -4193,7 +4193,6 @@ bioscientific
 beatles
 backchain
 bellmen
-barometric
 brusquer
 beatnik
 beatrix
@@ -9554,6 +9553,7 @@ belays
 bisayan
 buccaro
 bisalt
+barometric
 bettered
 bught
 biblist
