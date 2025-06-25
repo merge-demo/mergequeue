@@ -7936,7 +7936,6 @@ bibliopolist
 befall
 bibliosoph
 bibliotaphe
-bibliothecae
 bibliothecarian
 bibliotheque
 bungalows
@@ -13529,6 +13528,7 @@ backhanded
 butterbough
 barnacled
 bibliophile
+bibliothecae
 bra
 burdening
 baling
