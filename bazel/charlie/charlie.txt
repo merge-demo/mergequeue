@@ -5213,6 +5213,7 @@ cartes
 casimire
 casimiroa
 curarine
+chandry
 casinet
 charet
 casings
@@ -20739,7 +20740,6 @@ chefdoms
 cerebropontile
 complexness
 complexometry
-chandry
 cacalia
 complexus
 cydippida
