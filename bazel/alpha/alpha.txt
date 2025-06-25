@@ -1714,7 +1714,6 @@ accuracies
 ada
 adventry
 accursed
-adamsite
 amniatic
 amerikani
 accursedness
@@ -14833,6 +14832,7 @@ anticipatable
 anodic
 anticipates
 azoxy
+adamsite
 arpens
 anticipatingly
 andvari
