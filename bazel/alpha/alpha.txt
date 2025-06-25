@@ -3876,6 +3876,7 @@ adjudicated
 adjudication
 adjudications
 agglutinin
+auxiliator
 adjudicative
 anaphora
 asiaticization
@@ -24514,7 +24515,6 @@ abiosis
 anelastic
 anaptyctical
 amusively
-auxiliator
 auxilytic
 alebush
 auxin
