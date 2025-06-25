@@ -5807,7 +5807,6 @@ agend
 ampyx
 ave
 agendas
-ankylosaur
 agendum
 agendums
 amovability
@@ -9972,6 +9971,7 @@ amber
 anciency
 analogues
 autoregressive
+ankylosaur
 ambergris
 ahchoo
 amberite
