@@ -1760,6 +1760,7 @@ bitripinnatifid
 broquery
 baronnes
 becollier
+boltonia
 buses
 biretta
 bedraggling
@@ -5302,7 +5303,6 @@ backstab
 buddy
 barretries
 begild
-boltonia
 breathlessness
 biscuitmaker
 biconical
