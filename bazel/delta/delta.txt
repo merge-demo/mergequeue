@@ -10451,7 +10451,6 @@ diphenhydramine
 diacidic
 diphenylamine
 diphenylaminechlorarsine
-diphenylchloroarsine
 diospyros
 diphenylene
 despend
@@ -17320,6 +17319,7 @@ digitoxigenin
 dandyish
 dromometer
 dromon
+diphenylchloroarsine
 defoul
 decrypts
 disrelated
