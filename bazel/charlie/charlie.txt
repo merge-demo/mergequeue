@@ -4264,7 +4264,6 @@ carelessness
 careme
 carene
 carer
-chyometer
 capsulotome
 caress
 cir
@@ -15747,6 +15746,7 @@ clavicornes
 clavicotomy
 clavicular
 clavicularium
+chyometer
 claviculate
 chrysohermidin
 chirotype

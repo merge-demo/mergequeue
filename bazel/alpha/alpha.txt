@@ -19365,7 +19365,6 @@ antidemocratical
 advertisee
 astrolog
 argentine
-argentinean
 argentineans
 aromaticity
 argentinian
@@ -24911,6 +24910,7 @@ apetaloid
 awake
 awakeable
 awakened
+argentinean
 alkermes
 algometer
 alopekai
