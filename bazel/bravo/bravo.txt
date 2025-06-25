@@ -787,7 +787,6 @@ begod
 browniness
 bldr
 blautok
-baetulus
 boothose
 batrachophobia
 benignness
@@ -17883,6 +17882,7 @@ bothroi
 bibliotics
 boodles
 boltstrake
+baetulus
 biassed
 busheled
 bourse
