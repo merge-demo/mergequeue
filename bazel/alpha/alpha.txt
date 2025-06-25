@@ -13526,7 +13526,6 @@ auxiliar
 annotators
 arrendator
 assonant
-allusory
 anacardiaceae
 atwain
 announce
@@ -17381,6 +17380,7 @@ apothecaryship
 archosyrinx
 alkalamide
 antiadiaphorist
+allusory
 afret
 apothecial
 archenemy
