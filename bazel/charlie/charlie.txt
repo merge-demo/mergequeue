@@ -257,6 +257,7 @@ cities
 cassiduloidea
 cachepot
 chillies
+cobblerless
 condensing
 caches
 cachespell
@@ -682,7 +683,6 @@ contributory
 caffeic
 caffeina
 caffeines
-cobblerless
 compensable
 caffeinic
 caffeins
