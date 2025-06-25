@@ -20479,6 +20479,7 @@ compartimenti
 chimley
 comparting
 compartition
+carvy
 chained
 compartment
 chemically
@@ -20719,7 +20720,6 @@ commulative
 cyanopsia
 chelidonate
 cheloid
-carvy
 complexing
 complexion
 chromos
