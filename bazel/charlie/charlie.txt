@@ -20812,7 +20812,6 @@ citriculture
 compoer
 compone
 componed
-componency
 caciocavallo
 compared
 componendo
@@ -30020,6 +30019,7 @@ crouchant
 crouchback
 crouched
 crouches
+componency
 crouchie
 cahnite
 cacothesis
