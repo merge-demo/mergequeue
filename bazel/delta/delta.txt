@@ -1921,7 +1921,6 @@ daedalian
 debruises
 doodles
 debs
-diatonical
 dissilience
 dyophysitism
 defenceless
@@ -9614,6 +9613,7 @@ demophoon
 doubloons
 dignities
 drunks
+diatonical
 dignotion
 dependants
 deuterons
