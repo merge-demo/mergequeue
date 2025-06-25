@@ -11387,7 +11387,6 @@ boro
 breams
 bandits
 bluebottle
-bingies
 bluebreast
 badinaged
 build
@@ -15457,6 +15456,7 @@ brindlish
 bryndza
 bleaters
 balloonfish
+bingies
 bearskins
 brinehouse
 brineless
