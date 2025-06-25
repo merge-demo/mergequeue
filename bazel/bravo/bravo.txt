@@ -1769,7 +1769,6 @@ bivvy
 balzarine
 bam
 bufonidae
-bluntish
 brittled
 bamalip
 bamban
@@ -11419,6 +11418,7 @@ bagplant
 bluey
 bathhouse
 bluejacket
+bluntish
 bluejacks
 blueline
 blennophthalmia
