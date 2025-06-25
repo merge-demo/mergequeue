@@ -5054,6 +5054,7 @@ battlers
 blazoned
 bastonet
 bowfin
+bivocalized
 bloodthirst
 befamilied
 biogeography
@@ -10004,7 +10005,6 @@ beblear
 bedfast
 bivocal
 bossism
-bivocalized
 bombings
 bivoluminous
 bivouaced
