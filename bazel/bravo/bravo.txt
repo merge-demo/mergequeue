@@ -11782,6 +11782,7 @@ bookshops
 boccarella
 bodings
 boccaro
+breccial
 bocce
 bugbears
 beefheaded
@@ -14948,7 +14949,6 @@ breathseller
 breba
 balsa
 boatfalls
-breccial
 boatly
 breccias
 brecciated
