@@ -14008,7 +14008,6 @@ antechambers
 aloetic
 anthracoxen
 accomodate
-antechinomys
 agitpropist
 autopilots
 autocatalytic
@@ -18153,6 +18152,7 @@ aquiclude
 adventurement
 ampelis
 aquicolous
+antechinomys
 athericerous
 aphanomyces
 aquifer
