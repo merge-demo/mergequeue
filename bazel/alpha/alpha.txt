@@ -9487,7 +9487,6 @@ alternate
 alternated
 aftertaste
 alternately
-apheretic
 achier
 assaugement
 aphengescope
@@ -13341,6 +13340,7 @@ anyways
 anywhen
 advertize
 ascill
+apheretic
 anywhence
 aggregational
 anywhither
