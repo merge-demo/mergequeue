@@ -3627,7 +3627,6 @@ caracol
 coauthoring
 caracoling
 curliest
-crustate
 caracolite
 caracolled
 caracoller
@@ -5326,6 +5325,7 @@ cultures
 cassocks
 chamberlain
 cuspidated
+crustate
 cassons
 cochleated
 chariotway
