@@ -3346,7 +3346,6 @@ bass
 blankeel
 brans
 bassa
-balaenicipites
 basiphobia
 buccheros
 branchiopulmonate
@@ -13577,6 +13576,7 @@ bivane
 boughy
 boughpots
 boughs
+balaenicipites
 bougie
 botry
 benefaction
