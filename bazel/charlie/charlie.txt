@@ -15819,7 +15819,6 @@ cleanskin
 cleanskins
 cleanup
 conveniently
-chelaship
 colonized
 clearable
 clearage
@@ -17113,6 +17112,7 @@ coevolving
 codetermination
 coachwise
 cully
+chelaship
 coachwright
 coact
 coacting

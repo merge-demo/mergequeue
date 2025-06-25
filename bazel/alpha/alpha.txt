@@ -3701,7 +3701,6 @@ adharma
 ashstone
 adhere
 atticists
-adhered
 apophantic
 adherency
 addiment
@@ -11659,6 +11658,7 @@ anaerobium
 avanti
 anaerophyte
 anaphylactic
+adhered
 amatols
 anaeroplastic
 anaesthesiology
