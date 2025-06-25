@@ -8815,7 +8815,6 @@ chaperone
 chaperonless
 catesbeiana
 cirsium
-chapes
 clinicians
 chapin
 chapiter
@@ -31479,6 +31478,7 @@ citing
 croupade
 curricles
 chalcedonous
+chapes
 chiropteran
 curricling
 currycomb
