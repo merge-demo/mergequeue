@@ -9554,6 +9554,7 @@ checkers
 cabbalah
 carpodacus
 cardanic
+cravings
 capos
 checkhook
 checky
@@ -28343,7 +28344,6 @@ cerography
 counterdraft
 christenhead
 cravingness
-cravings
 chlorophoenicite
 comportment
 cymbalers
