@@ -7984,6 +7984,7 @@ cetoniinae
 castigated
 cetorhinid
 chickadee
+clawk
 cyamoid
 criteriions
 cetorhinus
@@ -15766,7 +15767,6 @@ clawer
 cubbishly
 clawers
 clawing
-clawk
 colobium
 calcicole
 cyproheptadine
