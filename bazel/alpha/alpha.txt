@@ -5285,7 +5285,6 @@ afflicting
 afflictingly
 afflictionless
 abranchian
-archoplasm
 agranulocytosis
 attaining
 aluminosity
@@ -13709,6 +13708,7 @@ anomoeomery
 anticommercially
 anomophyllous
 anomouran
+archoplasm
 anomphalous
 ayegreen
 anomuran
