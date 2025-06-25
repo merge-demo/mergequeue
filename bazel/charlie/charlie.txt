@@ -1443,7 +1443,6 @@ cheapener
 calyptratae
 calyptriform
 calyptrimorphous
-coracoscapular
 ceriornis
 carnosin
 calisayas
@@ -16507,6 +16506,7 @@ clockless
 cuon
 clockmaker
 cryophorus
+coracoscapular
 clockmaking
 crewer
 clocksmith
