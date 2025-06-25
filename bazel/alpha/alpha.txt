@@ -3967,6 +3967,7 @@ advect
 admerveylle
 admi
 adminicle
+alliterator
 anhydrously
 amphiprotic
 adminicula
@@ -21518,7 +21519,6 @@ aspiration
 aspiree
 aspirer
 aspirers
-alliterator
 abboccato
 aureal
 adorns

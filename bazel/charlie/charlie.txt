@@ -4079,6 +4079,7 @@ cardialgia
 calla
 cardiameter
 carnationed
+curly
 chlorotic
 cunners
 colibri
@@ -11283,7 +11284,6 @@ credensiveness
 chlorimetric
 chlorinated
 chlorinating
-curly
 chlorination
 chlorinator
 chlorines
