@@ -9569,7 +9569,6 @@ bluejack
 battlements
 ballhawk
 biscayan
-biscayanism
 burnover
 barbal
 biscayner
@@ -16663,6 +16662,7 @@ bucker
 belait
 buckers
 befringed
+biscayanism
 borosilicate
 bubblelike
 bucketmaking
