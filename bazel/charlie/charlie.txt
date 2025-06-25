@@ -5166,7 +5166,6 @@ chronal
 cyphering
 caserne
 casernes
-caserns
 cases
 caseum
 caseweed
@@ -24959,6 +24958,7 @@ cellulolytic
 corbiculum
 corbie
 clupeodei
+caserns
 corbies
 consimilarity
 carpools
