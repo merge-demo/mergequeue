@@ -5309,7 +5309,6 @@ cuculus
 cassiopeian
 chlorohydroquinone
 cassiopeid
-cassiopeium
 cladrastis
 cramps
 cassis
@@ -19597,6 +19596,7 @@ columbiferous
 costula
 chronanagram
 columbiformes
+cassiopeium
 condemned
 colonizing
 creophagist
