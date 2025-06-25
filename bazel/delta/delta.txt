@@ -5562,7 +5562,6 @@ diaminogene
 dx
 dimmock
 departmentalism
-departmentalization
 departmentalized
 dorper
 departmentally
@@ -9654,6 +9653,7 @@ dihalogen
 deadline
 drayed
 differentiating
+departmentalization
 deepmost
 dihdroxycholecalciferol
 dihedron
