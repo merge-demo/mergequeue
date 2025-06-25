@@ -6800,6 +6800,7 @@ berry
 banshee
 bitte
 bedscrew
+bisks
 boteler
 bumpier
 busulfan
@@ -9667,7 +9668,6 @@ boolies
 bisischiatic
 bauera
 bisk
-bisks
 bysmalith
 bismark
 boulder
