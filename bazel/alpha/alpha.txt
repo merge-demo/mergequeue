@@ -10326,7 +10326,6 @@ aerobe
 asseveratively
 aments
 addressability
-amenuse
 anorthoclase
 agrostological
 adeling
@@ -21662,6 +21661,7 @@ assemble
 added
 assembled
 anniv
+amenuse
 assembler
 assembly
 assemblyman
