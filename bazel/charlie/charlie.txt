@@ -7860,7 +7860,6 @@ chippable
 cervicobasilar
 cervicobregmatic
 cobitis
-cervicobuccal
 cervicodynia
 cervicofacial
 cervicolabial
@@ -8142,6 +8141,7 @@ camelion
 cattle
 chaffman
 culicines
+cervicobuccal
 codiniac
 coracosteon
 continent
