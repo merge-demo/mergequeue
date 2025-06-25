@@ -4795,7 +4795,6 @@ bemeans
 brakesman
 befancy
 bits
-bedside
 bedsonia
 bedsonias
 bescribbling
@@ -14146,6 +14145,7 @@ brachytypous
 begoggled
 barbra
 belemnitidae
+bedside
 brachium
 brachyura
 buriable
