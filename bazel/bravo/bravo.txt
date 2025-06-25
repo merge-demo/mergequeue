@@ -3032,7 +3032,6 @@ bitten
 briery
 bellows
 biobibliographical
-bdellostomatidae
 baruria
 barvel
 baleful
@@ -9546,6 +9545,7 @@ bluebills
 bachelorize
 besputter
 boarfish
+bdellostomatidae
 barbacoan
 bys
 bisagre
