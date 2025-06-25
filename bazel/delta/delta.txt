@@ -2943,7 +2943,6 @@ dedogmatize
 discounted
 dedolation
 destinal
-dotingness
 diegesis
 diplasiasmus
 deduces
@@ -16819,6 +16818,7 @@ drawcut
 devex
 drawee
 disboscation
+dotingness
 durn
 dissimilarly
 disconnectedly
