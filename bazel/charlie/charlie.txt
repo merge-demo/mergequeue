@@ -4369,6 +4369,7 @@ cloches
 crisper
 counterslope
 crum
+crosscourt
 caricologist
 cowlstaff
 caricous
@@ -25039,7 +25040,6 @@ chere
 cordons
 cords
 craftmanship
-crosscourt
 corduroyed
 costiferous
 celotex
