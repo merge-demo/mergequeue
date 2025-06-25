@@ -4536,6 +4536,7 @@ beglamour
 bed
 bienness
 biradiated
+boulder
 bathroot
 bater
 bool
@@ -9670,7 +9671,6 @@ bisk
 bisks
 bysmalith
 bismark
-boulder
 baltimorean
 bladed
 besmiles
