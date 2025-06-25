@@ -4876,6 +4876,7 @@ aerogeologist
 arricciatos
 aerogramme
 aerograph
+anophoria
 americium
 almsfolk
 adjurations
@@ -13735,7 +13736,6 @@ anophele
 angeldom
 anopheles
 anophelinae
-anophoria
 anophthalmos
 anopia
 amusable
