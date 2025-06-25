@@ -1532,7 +1532,6 @@ ballastage
 beeherd
 bersiamite
 bulbiform
-bouton
 backsword
 ballaster
 ballastic
@@ -5244,6 +5243,7 @@ basaltic
 bicentenary
 bimastoid
 bullyragged
+bouton
 basophils
 beaky
 bunkmate
