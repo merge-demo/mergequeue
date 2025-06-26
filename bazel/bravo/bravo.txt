@@ -5290,7 +5290,6 @@ bubbies
 batrachoididae
 botulinal
 bontebuck
-bigeyes
 brawn
 beady
 betsy
@@ -11755,6 +11754,7 @@ britoness
 burier
 bobsleded
 beworry
+bigeyes
 bacteriopurpurin
 barrens
 bucephala
