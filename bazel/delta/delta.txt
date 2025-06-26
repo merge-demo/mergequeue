@@ -4495,7 +4495,6 @@ dampcourse
 demethylate
 definitize
 demetricize
-deceits
 deficiently
 diceplay
 duress
@@ -9380,6 +9379,7 @@ destroyable
 deutoplasmic
 dunces
 differentiability
+deceits
 differentiae
 differentials
 darkle
