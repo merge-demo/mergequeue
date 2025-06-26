@@ -9406,7 +9406,6 @@ bargehouse
 birdstone
 borak
 befitting
-basichromatic
 bluegums
 belabours
 browpiece
@@ -13263,6 +13262,7 @@ bowler
 boarish
 bosniac
 bucketfuls
+basichromatic
 bostanji
 bosthoon
 bostonian
