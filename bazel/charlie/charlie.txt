@@ -3034,6 +3034,7 @@ cantoning
 cantonize
 colectomy
 countergager
+collinearity
 cantoral
 cantoria
 cardsharps
@@ -10724,7 +10725,6 @@ complementarism
 chinafy
 cuapinole
 chinalike
-collinearity
 communicates
 chinaman
 chinamaniac
