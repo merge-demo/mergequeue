@@ -3917,7 +3917,6 @@ bombardier
 bocstaff
 brickbats
 bdelloura
-bassette
 bdellouridae
 behelp
 bdellovibrio
@@ -15294,6 +15293,7 @@ bridle
 bridled
 blackpot
 bridlers
+bassette
 boredom
 ballerine
 bridoons
