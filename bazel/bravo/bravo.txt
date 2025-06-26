@@ -2858,7 +2858,6 @@ barnmen
 banger
 brushland
 barraging
-battologist
 bailer
 braca
 battener
@@ -11621,6 +11620,7 @@ biunivocal
 barche
 boarspear
 balloter
+battologist
 burns
 bevels
 bacauan
