@@ -6657,7 +6657,6 @@ becrimes
 bergamasca
 bergamasche
 bergamask
-bergamo
 blastoma
 bobcat
 bronchia
@@ -13674,6 +13673,7 @@ beckoned
 befoolable
 bespawl
 bourgade
+bergamo
 bonailie
 bourgeoisie
 bullroarer
