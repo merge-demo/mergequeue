@@ -5453,6 +5453,7 @@ affrontment
 afterdays
 afterdate
 antifoam
+arabesks
 amadou
 afternote
 actresses
@@ -18202,7 +18203,6 @@ ara
 antediluvial
 assuagements
 ayen
-arabesks
 arabesquely
 alleluja
 aeroscope
