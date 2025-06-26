@@ -12875,7 +12875,6 @@ boondoggling
 banishers
 boonfellow
 behorror
-bifoil
 bacchiac
 bangster
 bkpt
@@ -14008,6 +14007,7 @@ berrichon
 batonist
 beevish
 blendor
+bifoil
 bracae
 blandly
 bracciale
