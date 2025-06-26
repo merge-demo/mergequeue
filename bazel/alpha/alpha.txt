@@ -19784,7 +19784,6 @@ armamentarium
 autoskeleton
 antigalactic
 attachable
-avigators
 armangite
 aminovaleric
 anguiform
@@ -23009,6 +23008,7 @@ adoxy
 algicidal
 attargul
 antisplenetic
+avigators
 alluviation
 attars
 anarthropoda
