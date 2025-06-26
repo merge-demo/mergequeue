@@ -17726,7 +17726,6 @@ applosion
 applosive
 antiguan
 applotment
-appmt
 asphyxiate
 artemia
 arthrosclerosis
@@ -18677,6 +18676,7 @@ agalite
 anticonventionally
 archcritic
 amblyopia
+appmt
 archcrown
 arointed
 arthrosterigma
