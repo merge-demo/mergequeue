@@ -1849,7 +1849,6 @@ avarice
 angiohydrotomy
 adrienne
 admirative
-acerbity
 acerbityacerose
 acerbitude
 acerbly
@@ -11651,6 +11650,7 @@ arrage
 assuror
 anaemotropy
 anaeretic
+acerbity
 astrometeorologist
 adages
 anaerobation
