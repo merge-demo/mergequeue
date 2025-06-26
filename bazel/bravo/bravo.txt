@@ -1666,7 +1666,6 @@ ballstock
 ballup
 ballweed
 brehon
-botony
 balmarcodes
 balmawhapple
 buncher
@@ -7195,6 +7194,7 @@ bestay
 burleys
 bestamp
 bestand
+botony
 bestatued
 burrito
 brogues
