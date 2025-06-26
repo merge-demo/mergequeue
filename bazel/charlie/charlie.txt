@@ -9358,7 +9358,6 @@ chaudfroid
 chauffage
 chauffer
 chauffeured
-chauffeuring
 crankplate
 chauffeurship
 chauffeuse
@@ -10069,6 +10068,7 @@ cherub
 chanoyu
 cherubfish
 cherubfishes
+chauffeuring
 cherubic
 chowder
 cabernet
