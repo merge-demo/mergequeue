@@ -1229,7 +1229,6 @@ beeswaxes
 blackshirt
 bakshishes
 benedick
-bakuba
 bediaper
 barathron
 blok
@@ -7377,6 +7376,7 @@ bego
 brazilin
 bombous
 bootikins
+bakuba
 bighting
 beautifications
 boluses
