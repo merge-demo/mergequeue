@@ -446,7 +446,6 @@ civilisable
 chancered
 cactuslike
 cassavas
-cacuminal
 cartages
 catheretic
 cancelable
@@ -26817,6 +26816,7 @@ counterexercise
 cyclometry
 counterextension
 circumduce
+cacuminal
 counterfact
 carniferous
 counterfactual
