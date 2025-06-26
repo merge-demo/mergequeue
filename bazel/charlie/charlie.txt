@@ -4177,7 +4177,6 @@ cardioncus
 camshaft
 cardionecrosis
 cannibal
-cardioneurosis
 cardiopath
 cardiopathic
 cardiophrenia
@@ -24306,6 +24305,7 @@ cooingly
 cottonpicking
 cooja
 cook
+cardioneurosis
 cookable
 carbureter
 chapeau
