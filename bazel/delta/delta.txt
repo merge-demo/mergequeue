@@ -9337,7 +9337,6 @@ decolorant
 dietitians
 dtset
 diplomat
-dietotherapy
 dietotoxic
 detersive
 depletable
@@ -13751,6 +13750,7 @@ dorhawks
 dissolutely
 dhurna
 derm
+dietotherapy
 dissolutional
 dissolutionism
 dissolvableness
