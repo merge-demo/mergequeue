@@ -2467,7 +2467,6 @@ cancrum
 cancrums
 cand
 coacervated
-candareen
 candelabra
 candelabras
 candelabrum
@@ -4140,6 +4139,7 @@ chevronelly
 cardiocirrhosis
 cardioclasis
 cacuminate
+candareen
 consubsistency
 cardiodilator
 conformable
