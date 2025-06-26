@@ -3928,7 +3928,6 @@ acicularity
 antimonopoly
 anesthetic
 adjutator
-adjute
 adjutor
 aqueity
 apologer
@@ -9336,6 +9335,7 @@ alpestrine
 aircraft
 alphabetarian
 acclimatizable
+adjute
 amphibiontic
 acerose
 alphabetic
