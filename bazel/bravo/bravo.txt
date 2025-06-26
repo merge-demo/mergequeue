@@ -2379,7 +2379,6 @@ bardcraft
 barde
 beleve
 buckhorn
-brabant
 branchling
 bobtails
 bardesanite
@@ -17664,6 +17663,7 @@ beplague
 burkundauze
 berlines
 badassed
+brabant
 bushwah
 bridegod
 bulies
