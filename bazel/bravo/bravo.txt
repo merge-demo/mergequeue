@@ -16407,6 +16407,7 @@ brushback
 butt
 bladesmith
 basilar
+bootlaces
 bestick
 betrace
 botas
@@ -17239,7 +17240,6 @@ bawlers
 bolographically
 bumblers
 bumbles
-bootlaces
 bumbling
 bumbo
 blueball
