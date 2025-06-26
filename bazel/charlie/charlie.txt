@@ -9854,7 +9854,6 @@ chemicoastrological
 chemicobiologic
 collocates
 chemicodynamic
-chemicoluminescent
 cyclostome
 chemicomineralogical
 carcinogenicity
@@ -19528,6 +19527,7 @@ closet
 colpindach
 canzonets
 colpitis
+chemicoluminescent
 carvers
 colpitises
 colpohyperplasia
