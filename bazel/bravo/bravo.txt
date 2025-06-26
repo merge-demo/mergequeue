@@ -13476,7 +13476,6 @@ borstall
 baronethood
 bottomers
 bottoming
-biotelemetry
 brattiness
 betweenness
 balderdash
@@ -17814,6 +17813,7 @@ bursaries
 bursars
 bursch
 bianisidine
+biotelemetry
 becompass
 belord
 brocade

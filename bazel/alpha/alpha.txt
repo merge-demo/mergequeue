@@ -8040,6 +8040,7 @@ airworthy
 acidotic
 arithmetically
 amphide
+afront
 alforja
 alfreda
 alfresco
@@ -15550,7 +15551,6 @@ antimorality
 antimusical
 antimusically
 animalculous
-afront
 antimusicalness
 antinarcotic
 antinarcotics
