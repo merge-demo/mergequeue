@@ -3307,6 +3307,7 @@ bathflower
 bandurria
 basketmaking
 bonnets
+barnacling
 batikuling
 basketware
 bluecoat
@@ -12620,7 +12621,6 @@ bakshaish
 beaproned
 bonspell
 buttresses
-barnacling
 bonspiel
 boruca
 bronchocele
