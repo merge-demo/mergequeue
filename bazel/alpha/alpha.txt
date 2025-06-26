@@ -9593,7 +9593,6 @@ anisomeles
 alture
 altus
 algivorous
-aluco
 alpaca
 amazia
 antirennet
@@ -12166,6 +12165,7 @@ anchieutectic
 affectuous
 allbone
 anchimonomineral
+aluco
 amblygon
 anchisaurus
 aegirite

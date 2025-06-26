@@ -3560,7 +3560,6 @@ dislimb
 diethylamine
 disenchanter
 defunctionalize
-defusion
 demidigested
 deformalize
 dingles
@@ -5658,6 +5657,7 @@ dess
 detache
 dephlogisticated
 disinclose
+defusion
 dephlogistication
 darst
 displuming
