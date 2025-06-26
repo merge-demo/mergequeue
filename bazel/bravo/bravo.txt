@@ -8339,7 +8339,6 @@ bye
 biggish
 bayadeer
 bepelt
-bedstock
 bigheaded
 balk
 brusque
@@ -14340,6 +14339,7 @@ brahminists
 brahmoism
 brahmsian
 batocrinidae
+bedstock
 bray
 braided
 bovoid
