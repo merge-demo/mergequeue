@@ -5117,7 +5117,6 @@ disterr
 destitute
 ductings
 dravya
-dipsomania
 dafla
 dendrocoelan
 dendrocoele
@@ -6505,6 +6504,7 @@ dipeptid
 dentellated
 disqualification
 delignated
+dipsomania
 disomatous
 descendent
 dolichosoma
