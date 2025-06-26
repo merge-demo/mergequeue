@@ -836,7 +836,6 @@ biochron
 bromodeoxyuridine
 billikin
 bacillar
-bezique
 bagasses
 badhan
 bruxisms
@@ -15741,6 +15740,7 @@ broeboe
 bicolor
 brogue
 basiparachromatin
+bezique
 broguer
 biotin
 brogueries
