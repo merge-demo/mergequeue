@@ -2691,6 +2691,7 @@ deconsecrated
 detailedness
 demitrain
 deconsideration
+dotage
 decontaminates
 decontaminating
 diatessaron
@@ -3945,7 +3946,6 @@ dogfoot
 deference
 dekes
 derivationally
-dotage
 douser
 duopoly
 disleal
