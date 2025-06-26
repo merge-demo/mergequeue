@@ -8641,7 +8641,6 @@ chandlerly
 chandlers
 contester
 chylothorax
-carrion
 consumpt
 calenturing
 cymaphen
@@ -23362,6 +23361,7 @@ contagiosity
 contagious
 contagiousness
 contagium
+carrion
 contain
 contained
 containerboard

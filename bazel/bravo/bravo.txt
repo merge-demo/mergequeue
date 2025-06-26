@@ -5237,7 +5237,6 @@ boarcite
 basification
 breadboards
 barkeeps
-begar
 bandos
 bodingly
 basaltic
@@ -6980,6 +6979,7 @@ beshrivel
 beshroud
 bensil
 bigmitt
+begar
 borlase
 bundook
 bellis
