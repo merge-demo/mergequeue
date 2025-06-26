@@ -315,6 +315,7 @@ biolith
 booter
 bakeware
 backslided
+biosynthesize
 backberend
 backbite
 beeman
@@ -9109,7 +9110,6 @@ biosensor
 bearishness
 binominated
 brunettes
-biosynthesize
 benzonitrol
 beclout
 birds
