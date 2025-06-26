@@ -4019,7 +4019,6 @@ byously
 burglarproofing
 buchu
 bom
-banditti
 butled
 beambird
 beamed
@@ -6595,6 +6594,7 @@ biohazard
 berberid
 bricked
 brutality
+banditti
 bundoc
 bedevilled
 bahima
