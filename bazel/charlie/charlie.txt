@@ -14592,6 +14592,7 @@ chaptalizing
 cnidophore
 cysted
 cysteinic
+connaturalize
 cysteins
 cyclolith
 cystelcosis
@@ -22563,7 +22564,6 @@ connaturality
 cultelli
 connectibility
 cryptanalysis
-connaturalize
 cosech
 connaturalness
 connature
