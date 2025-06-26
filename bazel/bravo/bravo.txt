@@ -3323,7 +3323,6 @@ burgoos
 bronchobuster
 basoid
 baraithas
-beltine
 blennoma
 bayberries
 breast
@@ -13529,6 +13528,7 @@ backhanded
 butterbough
 barnacled
 bibliophile
+beltine
 bra
 burdening
 baling
