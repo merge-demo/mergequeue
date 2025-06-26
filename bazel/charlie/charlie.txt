@@ -5144,7 +5144,6 @@ cholecyanin
 cyberneticists
 cherimolla
 casein
-caseinate
 cancriform
 canvaser
 chaprassi
@@ -17858,6 +17857,7 @@ codes
 chromoprotein
 certificating
 consumption
+caseinate
 cutigeral
 cononintelligent
 catchup
