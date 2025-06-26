@@ -13124,6 +13124,7 @@ dispericraniate
 disenvelop
 discoverability
 diaphototropism
+dihedral
 dethyroidism
 decompositions
 defamer
@@ -17352,7 +17353,6 @@ dorts
 droop
 deynt
 drooper
-dihedral
 dismays
 dichotomies
 druggier
