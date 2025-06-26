@@ -5885,6 +5885,7 @@ braggingly
 buttstock
 bellota
 bidactyle
+bypaths
 beefs
 beerocracy
 bellowsful
@@ -9207,7 +9208,6 @@ belitter
 berkeleyism
 bumbee
 bipaschal
-bypaths
 buffin
 biped
 bipedal
