@@ -9270,6 +9270,7 @@ blockader
 biplane
 bobolink
 biplanes
+breakfronts
 beclogging
 bonavist
 butler
@@ -14851,7 +14852,6 @@ breakfast
 buffetings
 breakfasted
 bastard
-breakfronts
 butlerage
 breaking
 busera
