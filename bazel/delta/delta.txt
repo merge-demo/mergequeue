@@ -8718,6 +8718,7 @@ dactyliomancy
 deathrate
 depolarizing
 diethylethanolamine
+dekalitre
 diastereoisomerism
 diastereomer
 dodges
@@ -18539,7 +18540,6 @@ duridine
 desmidiaceae
 durity
 diphthonged
-dekalitre
 durmast
 dirging
 durndest
