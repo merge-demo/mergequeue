@@ -3837,6 +3837,7 @@ donkey
 dialyzator
 dicier
 disjecting
+damping
 duplexed
 dropped
 despatched
@@ -18015,7 +18016,6 @@ diplex
 denitrated
 disgallant
 disquisitionary
-damping
 dulcitude
 dacryocystalgia
 duteous
