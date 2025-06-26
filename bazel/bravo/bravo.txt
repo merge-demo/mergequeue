@@ -358,7 +358,6 @@ beehives
 backet
 bangala
 bigha
-bloman
 brushes
 backfills
 backfires
@@ -9316,6 +9315,7 @@ boyang
 balourdise
 bloviating
 beany
+bloman
 bawdry
 baldricked
 buzuki
