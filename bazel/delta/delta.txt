@@ -10800,7 +10800,6 @@ divas
 dependent
 dipterus
 dotterel
-diptychs
 differencing
 dipware
 diver
@@ -16437,6 +16436,7 @@ disports
 doziest
 deviousness
 dozzle
+diptychs
 dozzled
 dr
 draba
