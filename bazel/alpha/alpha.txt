@@ -11249,7 +11249,6 @@ auguries
 ains
 aphaniptera
 ameen
-amphipod
 amphipoda
 apostolicism
 alienating
@@ -15856,6 +15855,7 @@ apollonicon
 anthoxanthin
 anglicizing
 adenoid
+amphipod
 antipoverty
 antipragmatical
 anglers
