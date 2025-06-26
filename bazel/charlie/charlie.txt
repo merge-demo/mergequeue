@@ -1914,6 +1914,7 @@ characteries
 camellike
 cornwallises
 camellin
+corrosible
 caser
 cameloidea
 camelopardalis
@@ -25513,7 +25514,6 @@ coronamen
 cleek
 coronate
 calp
-corrosible
 calibrators
 coronations
 chitchatty
