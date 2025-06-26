@@ -5184,7 +5184,6 @@ ameloblastic
 ascensor
 affeir
 artifactual
-affenpinscher
 affere
 abnegative
 affiance
@@ -7779,6 +7778,7 @@ afar
 alditol
 aldm
 aghast
+affenpinscher
 academias
 aurae
 aphidicide
