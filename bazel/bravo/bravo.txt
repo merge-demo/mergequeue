@@ -4615,7 +4615,6 @@ bedrid
 bebannered
 bedecking
 bulletproofed
-broadens
 bedehouse
 byrewards
 bullrushes
@@ -10599,6 +10598,7 @@ blattodea
 blattoid
 brinny
 boresomely
+broadens
 boundingly
 besayle
 bereft
