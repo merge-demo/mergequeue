@@ -6689,7 +6689,6 @@ cedriret
 cedrol
 corticiform
 cherte
-cedrus
 crioceris
 cardiosymphysis
 cedula
@@ -28711,6 +28710,7 @@ crenothrix
 crenula
 crenulate
 cassythaceae
+cedrus
 crenulation
 creodonta
 crenellating
