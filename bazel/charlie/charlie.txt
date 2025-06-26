@@ -16689,7 +16689,6 @@ closehanded
 carse
 cardiodysesthesia
 colophonium
-contratempo
 closeness
 colombier
 cedric
@@ -17365,6 +17364,7 @@ coarticulate
 coarticulation
 claylike
 companionways
+contratempo
 coassert
 coasserter
 coassessor
