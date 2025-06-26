@@ -1935,6 +1935,7 @@ boreus
 bandsawn
 bandsman
 bandstand
+bricktimber
 beacon
 boronia
 beseechment
@@ -5929,7 +5930,6 @@ banderillero
 belonidae
 bullions
 beprose
-bricktimber
 blisses
 backslap
 belostomatidae
