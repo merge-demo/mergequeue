@@ -1681,7 +1681,6 @@ accubitus
 accueil
 acculturate
 acculturated
-acculturates
 anorganic
 alkalimeter
 ambiguously
@@ -18425,6 +18424,7 @@ arbitraments
 arbitrariness
 arbitrate
 aquamanile
+acculturates
 accidentalist
 alroot
 arbitration
