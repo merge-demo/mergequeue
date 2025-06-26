@@ -2170,6 +2170,7 @@ camphorone
 camphorweed
 camphorwood
 calvinize
+cotan
 conference
 campi
 concurrency
@@ -18842,7 +18843,6 @@ colessor
 colessors
 conventionalization
 compliers
-cotan
 compiles
 colet
 cobego
