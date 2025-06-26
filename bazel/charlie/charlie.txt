@@ -2953,7 +2953,6 @@ curling
 cantharic
 cantharidae
 cake
-chytrid
 cantharidate
 cantharides
 coation
@@ -15318,6 +15317,7 @@ cupmaking
 clamorousness
 corallite
 clamorsome
+chytrid
 corgis
 clamour
 contune
