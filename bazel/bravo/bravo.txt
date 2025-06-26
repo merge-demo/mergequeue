@@ -11976,7 +11976,6 @@ bogymen
 bogland
 budgerigah
 bytalk
-bogled
 boglet
 beckelite
 bolts
@@ -17457,6 +17456,7 @@ bowermay
 betulites
 buntine
 brawlie
+bogled
 bastardizing
 bromohydrate
 bipinnatiparted
