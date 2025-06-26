@@ -5495,7 +5495,6 @@ behowled
 broken
 brouze
 bey
-bindi
 boxed
 bardic
 bootyless
@@ -12889,6 +12888,7 @@ blunders
 boophilus
 bedsheet
 basichromatin
+bindi
 banyoro
 bacciform
 boorishness
