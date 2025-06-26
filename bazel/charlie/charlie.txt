@@ -4589,7 +4589,6 @@ carnivalesque
 contrastimulation
 cacomixls
 carnivals
-carnivoracity
 carnivoral
 carnivore
 carnivorism
@@ -19410,6 +19409,7 @@ condemnably
 cere
 crossarms
 coloraturas
+carnivoracity
 colorature
 celesta
 colorblind
