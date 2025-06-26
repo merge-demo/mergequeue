@@ -146,7 +146,6 @@ bacin
 bourne
 banister
 basidiocarp
-biocoenosis
 beeheaded
 beachcomb
 butyrically
@@ -9358,6 +9357,7 @@ blirt
 bonniness
 beau
 bluebush
+biocoenosis
 butter
 bottommost
 birded
