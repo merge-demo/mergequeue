@@ -5854,6 +5854,7 @@ depositors
 dowel
 dressings
 divestible
+dislimns
 deposits
 dulcitol
 dichotomously
@@ -12731,7 +12732,6 @@ diphenol
 dishonesty
 domicilement
 durns
-dislimns
 dyslysin
 distrustfully
 disoxidate
