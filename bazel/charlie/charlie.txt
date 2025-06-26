@@ -7541,7 +7541,6 @@ contemplators
 chastened
 ceratostomataceae
 cytococcus
-cimicidae
 ceratostomella
 cheliceral
 ceratotheca
@@ -28085,6 +28084,7 @@ cynicism
 crandallite
 cuspidine
 coastwise
+cimicidae
 crane
 craned
 cerveliere
