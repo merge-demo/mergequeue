@@ -2994,6 +2994,7 @@ appear
 actinogram
 aerophore
 appearances
+antiattrition
 actinograph
 aporobranchiata
 antipodes
@@ -17396,7 +17397,6 @@ apothegmatically
 apothegmatist
 atriensis
 apothegmatize
-antiattrition
 autocratically
 apotheosised
 apotheosising
