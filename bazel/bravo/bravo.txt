@@ -3968,6 +3968,7 @@ becrawl
 beaconless
 bicycles
 beslur
+believer
 beacons
 buoyancy
 beadeye
@@ -5732,7 +5733,6 @@ blemishing
 belies
 braziery
 believability
-believer
 believers
 beamful
 bloomery
