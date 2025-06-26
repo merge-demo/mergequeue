@@ -12406,7 +12406,6 @@ conquerable
 chromatolytic
 chromatologies
 chromatopathy
-chromatopathia
 celebe
 chromatophil
 chromatophile
@@ -21649,6 +21648,7 @@ copepodous
 consternated
 condigness
 condignity
+chromatopathia
 condignly
 comethers
 condylar
