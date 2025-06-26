@@ -355,6 +355,7 @@ abdicate
 anglians
 aberrancy
 anthraceniferous
+alerts
 aberrantly
 aberrants
 aberrating
@@ -18663,7 +18664,6 @@ acroamata
 archbishoprics
 archbotcher
 aretes
-alerts
 aloeroot
 archbuilder
 altaite
