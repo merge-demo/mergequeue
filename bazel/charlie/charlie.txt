@@ -4193,7 +4193,6 @@ cardiorenal
 cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
-cardiorrhexis
 cardiospermum
 celts
 cardiosphygmogram
@@ -6943,6 +6942,7 @@ ceratophyllaceae
 caffein
 celtization
 conducibleness
+cardiorrhexis
 camis
 ceratomandibular
 clocklike
