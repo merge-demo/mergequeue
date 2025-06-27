@@ -9901,7 +9901,6 @@ alascan
 amatembu
 attaint
 alloquial
-announcements
 augurs
 amassment
 areaways
@@ -19974,6 +19973,7 @@ arnaut
 arnberry
 address
 antiscientifically
+announcements
 arne
 amafingo
 abseil
