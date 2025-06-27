@@ -3552,6 +3552,7 @@ developedness
 defunct
 descendence
 discredence
+derivably
 dawcock
 drumlin
 defunction
@@ -15980,7 +15981,6 @@ decolourisation
 desponding
 dune
 dea
-derivably
 dissocial
 dialogize
 dasein
