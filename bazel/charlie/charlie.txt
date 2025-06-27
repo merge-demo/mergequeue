@@ -3646,6 +3646,7 @@ carafes
 censors
 coenoblastic
 cattleyas
+confucianist
 clangor
 cocineras
 caragana
@@ -24314,7 +24315,6 @@ carbureter
 chapeau
 creation
 crull
-confucianist
 creatable
 classist
 corncutting
