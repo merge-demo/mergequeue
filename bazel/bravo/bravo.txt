@@ -2833,7 +2833,6 @@ bitterbump
 buttonmold
 barbery
 barrabora
-barracan
 barrack
 borh
 ballers
@@ -12857,6 +12856,7 @@ buccula
 balers
 bacterins
 brushoff
+barracan
 bodily
 birkies
 baresarks
