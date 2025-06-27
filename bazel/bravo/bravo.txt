@@ -1169,6 +1169,7 @@ byes
 bimotored
 bashing
 bajra
+bogeyed
 beltmen
 bajree
 baized
@@ -13271,7 +13272,6 @@ bosthoon
 bostonian
 banderillas
 burglar
-bogeyed
 branchstand
 bouche
 bangs
