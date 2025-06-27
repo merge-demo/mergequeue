@@ -14874,7 +14874,6 @@ anticlergy
 anticlerical
 anticlericalism
 acidize
-anticlericalist
 acidophilous
 azygobranchia
 ami
@@ -24480,6 +24479,7 @@ autovalve
 autovivisection
 apologal
 ag
+anticlericalist
 autoxidation
 autoxidator
 autoxidizability
