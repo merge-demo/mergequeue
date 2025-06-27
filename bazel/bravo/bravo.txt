@@ -8828,7 +8828,6 @@ binny
 bumpered
 bondman
 binnogue
-blink
 battel
 backstrap
 bepill
@@ -12846,6 +12845,7 @@ bootes
 baseboard
 burglary
 basiliscine
+blink
 barnabite
 bioprecipitation
 blizzardous
