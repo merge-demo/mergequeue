@@ -1591,7 +1591,6 @@ bifurcate
 ballywack
 basalt
 benzanilide
-boldface
 bursati
 baudronses
 ballo
@@ -9057,6 +9056,7 @@ busheler
 barbershop
 burnouts
 biontic
+boldface
 brev
 biophagism
 biophilous
