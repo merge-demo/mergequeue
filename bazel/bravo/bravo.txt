@@ -4613,7 +4613,6 @@ bothriums
 bilberry
 bedecked
 bedrid
-bebannered
 bedecking
 bulletproofed
 broadens
@@ -17202,6 +17201,7 @@ bandman
 basined
 beachcomber
 boucles
+bebannered
 bullterrier
 butat
 bullweed
