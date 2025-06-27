@@ -4689,7 +4689,6 @@ demised
 depas
 didynamia
 diploglossate
-demisemiquaver
 delineable
 drysalter
 demisemitone
@@ -18105,6 +18104,7 @@ duplon
 deictically
 dumbstricken
 dumbstruck
+demisemiquaver
 demagnetize
 dumbwaiter
 desorbs
