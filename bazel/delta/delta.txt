@@ -12419,7 +12419,6 @@ durability
 disherited
 divet
 defibrillator
-deamidize
 deplantation
 drybrush
 desecate
@@ -13366,6 +13365,7 @@ discord
 disputes
 disdiaclast
 disputing
+deamidize
 dayflower
 demonstrableness
 deadmen
