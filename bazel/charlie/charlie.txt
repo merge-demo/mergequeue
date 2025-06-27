@@ -15285,7 +15285,6 @@ clamantly
 clamaroo
 ceraunophone
 cywydd
-clamative
 clamatory
 cartooned
 clutterer
@@ -23190,6 +23189,7 @@ constraints
 confervaceous
 cardioscope
 constrict
+clamative
 claudio
 castors
 chocard
