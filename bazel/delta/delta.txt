@@ -5776,6 +5776,7 @@ depolarization
 dernly
 depolarize
 dextrorsal
+decouple
 downstroke
 diaphany
 downloads
@@ -13599,7 +13600,6 @@ datakit
 doggereler
 drawlers
 dosadh
-decouple
 distingue
 diseurs
 dieffenbachia
