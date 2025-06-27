@@ -6684,6 +6684,7 @@ birdy
 bargeboard
 barbarious
 beriberis
+bevesseled
 berycid
 busyhead
 berycidae
@@ -7516,7 +7517,6 @@ barleducs
 blemishment
 burses
 beverse
-bevesseled
 barbets
 bluebirds
 blastocolla
