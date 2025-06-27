@@ -2583,6 +2583,7 @@ barytocelestite
 barytone
 barytons
 busing
+bowable
 bears
 brittlely
 barytophyllite
@@ -13783,7 +13784,6 @@ brewage
 brontide
 brachydactyly
 bait
-bowable
 bowback
 bushment
 brazes
