@@ -3084,6 +3084,7 @@ adjudications
 antidicomarianite
 apocryphalist
 actinophrys
+archimorphic
 actinopteran
 allotment
 autorail
@@ -13328,7 +13329,6 @@ amphitheatral
 anisotrope
 anisotropically
 anencephalotrophia
-archimorphic
 anisotropies
 anystidae
 anhydrating
