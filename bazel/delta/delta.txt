@@ -3194,7 +3194,6 @@ dictums
 dasyures
 damselflies
 dudelsack
-dashpot
 defeit
 de
 dogdom
@@ -14318,6 +14317,7 @@ dittamy
 deviless
 differentiation
 dittanies
+dashpot
 drosses
 ditheisms
 ditty
