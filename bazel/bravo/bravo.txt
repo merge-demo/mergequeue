@@ -4416,6 +4416,7 @@ belchers
 bypassing
 becloaks
 blackfriars
+batule
 bandleader
 becloak
 bereavement
@@ -9458,7 +9459,6 @@ brawl
 bespatterment
 byrlawman
 billiardly
-batule
 bioinstrumentation
 bronchodilatation
 bathymeter
