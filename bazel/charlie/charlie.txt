@@ -13630,7 +13630,6 @@ cymbalist
 crapshooting
 cymbalists
 cymballed
-cob
 cymballing
 cymbalom
 cimbaloms
@@ -25612,6 +25611,7 @@ coagule
 corporeally
 cravenhearted
 corporeals
+cob
 corporeity
 crankier
 conicities
