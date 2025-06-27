@@ -8274,7 +8274,6 @@ dell
 davainea
 ductus
 distrito
-diaglyptic
 diagnosed
 diagnostical
 diagnostically
@@ -9193,6 +9192,7 @@ dyvours
 divorceuse
 dy
 dido
+diaglyptic
 didodecahedron
 didoes
 didonia
