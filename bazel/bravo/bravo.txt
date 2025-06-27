@@ -4407,7 +4407,6 @@ bloodstanch
 bkcy
 blubberer
 batis
-bendways
 begloom
 befleas
 belchers
@@ -5473,6 +5472,7 @@ behymn
 brutes
 behither
 berrigan
+bendways
 bechamel
 bonce
 briefers
