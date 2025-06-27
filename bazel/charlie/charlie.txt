@@ -10413,7 +10413,6 @@ chiefest
 cervalet
 conveyorizer
 chiefish
-chiefling
 chieftain
 chieftaincy
 chieftainess
@@ -28432,6 +28431,7 @@ creamless
 creamlike
 cutpurses
 cotarnine
+chiefling
 creams
 cindery
 creance
