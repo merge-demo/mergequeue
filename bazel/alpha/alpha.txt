@@ -4237,6 +4237,7 @@ azonium
 appending
 armorer
 alchornea
+akhlame
 adrad
 alumen
 abime
@@ -7065,7 +7066,6 @@ akhyana
 astrild
 anecdotalist
 akhissar
-akhlame
 agaricin
 akhoond
 abnerval
