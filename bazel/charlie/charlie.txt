@@ -9107,7 +9107,6 @@ charlocks
 cobberer
 charm
 charmed
-cowlick
 camogie
 charmedly
 coax
@@ -20193,6 +20192,7 @@ commixture
 commo
 commendatary
 caramelization
+cowlick
 commodata
 commodate
 clerics
