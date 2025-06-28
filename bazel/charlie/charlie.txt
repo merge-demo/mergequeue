@@ -19785,6 +19785,7 @@ caesiums
 chromatism
 copolymers
 combustible
+cornloft
 chambellan
 cressed
 combustibleness
@@ -25418,7 +25419,6 @@ consignable
 corning
 cornishman
 cornless
-cornloft
 cornmeal
 ceramicist
 cothurnal
