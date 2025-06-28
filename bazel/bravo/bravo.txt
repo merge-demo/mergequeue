@@ -8886,7 +8886,6 @@ biocenosis
 burgraviate
 burgess
 branchiopodan
-beslow
 biochemic
 bromvogel
 boeotian
@@ -13036,6 +13035,7 @@ blether
 bacilliculture
 bagattini
 borboridae
+beslow
 borborygmatic
 biggin
 borborygmus
