@@ -24101,7 +24101,6 @@ croatian
 cricothyroid
 catoptrics
 commiserator
-converso
 chomper
 conversusi
 chylocele
@@ -28962,6 +28961,7 @@ cricetus
 cricked
 crickey
 cricket
+converso
 cricketer
 cricketers
 chuckler
