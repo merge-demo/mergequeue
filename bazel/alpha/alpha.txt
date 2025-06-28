@@ -10138,7 +10138,6 @@ apolog
 ambreic
 ambrein
 archdiocese
-adytum
 ambrettolide
 arthralgia
 ambry
@@ -13814,6 +13813,7 @@ anoscope
 angstrom
 achariaceae
 anoscopy
+adytum
 anatomicosurgical
 anospinal
 arrythmical
