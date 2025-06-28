@@ -5963,6 +5963,7 @@ anemophilous
 aggro
 acropetal
 aggroup
+archaeol
 approximant
 applauder
 archt
@@ -6644,7 +6645,6 @@ ally
 abasio
 ailurophilic
 affirmation
-archaeol
 ailuropoda
 ailurus
 ailweed
