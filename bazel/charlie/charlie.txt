@@ -3158,6 +3158,7 @@ caper
 caperbush
 capercaillie
 chaulmoogric
+colored
 capercut
 combustibles
 citify
@@ -19421,7 +19422,6 @@ colorectitis
 colorectostomy
 chrisomloosing
 correspondingly
-colored
 chantable
 colorers
 cinerea
