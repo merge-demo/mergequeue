@@ -6107,7 +6107,6 @@ agnails
 agnat
 agnatha
 agnate
-agnathic
 agnathostomata
 advenient
 agnatical
@@ -21075,6 +21074,7 @@ asellate
 andabata
 apostates
 anthracitiferous
+agnathic
 arterioles
 arkansan
 accommodates
