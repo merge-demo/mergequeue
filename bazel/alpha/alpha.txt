@@ -10627,7 +10627,6 @@ advenae
 ampelidaceae
 amylom
 amylopectin
-acorns
 amyloplast
 appertaining
 amyloplastid
@@ -13846,6 +13845,7 @@ abdomina
 assimilatory
 apocyneous
 automation
+acorns
 absonant
 ansar
 ansarie
