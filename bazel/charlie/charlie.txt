@@ -8818,7 +8818,6 @@ combflower
 chapelries
 cinerins
 chapels
-chiasmi
 chapelward
 chaperno
 custodia
@@ -19524,6 +19523,7 @@ colpenchyma
 closet
 colpindach
 canzonets
+chiasmi
 colpitis
 carvers
 colpitises
