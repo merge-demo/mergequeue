@@ -4751,7 +4751,6 @@ disbend
 deutencephalic
 dendrolene
 disparpling
-demivolts
 deflexionize
 disputatively
 datatypes
@@ -8324,6 +8323,7 @@ dialyzer
 diagrams
 dentin
 db
+demivolts
 dispossess
 droob
 dissimile
