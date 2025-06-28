@@ -2389,6 +2389,7 @@ bardings
 becalms
 bardlike
 barkiest
+bazar
 bardling
 brinks
 bilaterality
@@ -10119,7 +10120,6 @@ bielorouss
 brogh
 blat
 beshriek
-bazar
 blackband
 blackberrylike
 bunkload
