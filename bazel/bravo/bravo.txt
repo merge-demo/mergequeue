@@ -1949,7 +1949,6 @@ beeway
 beworms
 bacteriophage
 bandwidth
-bagginess
 bandworm
 boogiewoogie
 baylet
@@ -7223,6 +7222,7 @@ boxinesses
 bestian
 bandsmen
 bloomsbury
+bagginess
 bestiary
 backdating
 byelorussia
