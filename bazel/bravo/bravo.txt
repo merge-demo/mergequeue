@@ -3543,7 +3543,6 @@ bathing
 bastinadoes
 beckoning
 bridgekeeper
-bathyplankton
 balon
 baygall
 barricade
@@ -12368,6 +12367,7 @@ bobfly
 bromochloromethane
 brimful
 broideries
+bathyplankton
 bombing
 beautifies
 buttoned
