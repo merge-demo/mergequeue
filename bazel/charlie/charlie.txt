@@ -7573,6 +7573,7 @@ cercarial
 chromididae
 coloni
 cercarian
+cilices
 corpuscular
 cercariform
 cerci
@@ -13540,7 +13541,6 @@ ciliates
 canoness
 contemptful
 catalogued
-cilices
 comedia
 caseating
 cilicism
