@@ -3769,7 +3769,6 @@ appaume
 adiaphoron
 anisopterous
 adiated
-anaboly
 adiathermal
 adiathermancy
 antioxidase
@@ -12474,6 +12473,7 @@ adipogenic
 anemobiagraph
 anemochord
 anemochore
+anaboly
 anemochorous
 appropriated
 aimlessness
