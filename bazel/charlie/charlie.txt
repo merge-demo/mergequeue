@@ -2366,7 +2366,6 @@ canards
 canari
 canary
 chlorazide
-clothy
 crowberry
 cogs
 companator
@@ -15066,6 +15065,7 @@ civilianize
 civilians
 complementalness
 civilisational
+clothy
 civilisations
 choanoid
 countercondemnation
