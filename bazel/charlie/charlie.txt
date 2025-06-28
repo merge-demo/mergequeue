@@ -5546,7 +5546,6 @@ clacked
 catacoustics
 cwms
 catacromyodian
-conicein
 ceratothecal
 cardiological
 catacumba
@@ -25278,6 +25277,7 @@ chytridiaceous
 cervelats
 ciliola
 crome
+conicein
 corklike
 chiromant
 corkline
