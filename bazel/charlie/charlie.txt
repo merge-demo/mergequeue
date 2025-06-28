@@ -16516,7 +16516,6 @@ clockmaker
 cryophorus
 clockmaking
 crewer
-clocksmith
 clockwatcher
 clockwise
 clockworked
@@ -24014,6 +24013,7 @@ conveniencies
 convenient
 convening
 casing
+clocksmith
 convented
 coelicolist
 cylinderlike
