@@ -10149,7 +10149,6 @@ chestfuls
 chesty
 chestier
 collaudation
-corallorhiza
 chestnut
 chestnuts
 chet
@@ -28925,6 +28924,7 @@ criant
 carbonigenous
 corke
 cuphea
+corallorhiza
 crib
 crybaby
 cooperant

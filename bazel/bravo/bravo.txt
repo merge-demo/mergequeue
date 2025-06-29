@@ -2820,6 +2820,7 @@ bitis
 ballgowns
 bulkiest
 baudery
+beclap
 barothermograph
 barothermohygrograph
 barotrauma
@@ -5692,7 +5693,6 @@ bluism
 berreaved
 belgard
 beater
-beclap
 belgrade
 buries
 bombasine
