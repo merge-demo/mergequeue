@@ -1530,6 +1530,7 @@ ballastage
 beeherd
 bersiamite
 bulbiform
+bdl
 bouton
 backsword
 ballaster
@@ -13835,7 +13836,6 @@ bedikah
 boilers
 bowelled
 beardedness
-bdl
 bashilange
 bulbuls
 bemuddy
