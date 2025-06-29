@@ -13120,7 +13120,6 @@ animalivore
 animalivorous
 animalize
 animalized
-allergist
 animallike
 apozemical
 accouterments
@@ -20834,6 +20833,7 @@ asarite
 assignat
 anatomizable
 ablastemic
+allergist
 amoebean
 ascare
 abuts
