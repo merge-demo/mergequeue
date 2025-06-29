@@ -5805,7 +5805,6 @@ depopulates
 depopulating
 doodler
 depopulation
-dunged
 denitrize
 depopulative
 dowve
@@ -6512,6 +6511,7 @@ delignated
 disomatous
 descendent
 dolichosoma
+dunged
 diadromous
 dispositionally
 dissevering
