@@ -13350,7 +13350,6 @@ adscripts
 amucks
 anker
 ankerhold
-ankerites
 ankylenteron
 acmaesthesia
 ankylocheilia
@@ -17175,6 +17174,7 @@ araneiform
 ajog
 anaerobian
 apolunes
+ankerites
 apolusis
 anatosaurus
 amoebiasis
