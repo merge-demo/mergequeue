@@ -11485,7 +11485,6 @@ choanephora
 cystopyelography
 choanocyte
 choanoflagellate
-choanoflagellida
 cotta
 choanophorous
 cataplasm
@@ -13293,6 +13292,7 @@ characterized
 cyclings
 cupelled
 cyclism
+choanoflagellida
 cyclitic
 commesso
 conscribe
