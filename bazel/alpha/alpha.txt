@@ -17736,7 +17736,6 @@ appals
 antistatic
 askesis
 appointees
-atopy
 appointer
 agapornis
 alalite
@@ -17865,6 +17864,7 @@ allomerize
 apprizal
 apprize
 aborting
+atopy
 apprizer
 apprizers
 apprizes
