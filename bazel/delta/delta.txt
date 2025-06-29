@@ -5538,7 +5538,6 @@ depainted
 dorbug
 depancreatization
 disilluminate
-descriptions
 dichotriaene
 drummy
 downheaded
@@ -10758,6 +10757,7 @@ deficit
 diprotic
 dianoialogy
 daughter
+descriptions
 durions
 driftages
 deferrers
