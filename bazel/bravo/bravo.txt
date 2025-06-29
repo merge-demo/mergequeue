@@ -9062,6 +9062,7 @@ biophysic
 biophysiography
 balibuntal
 biophysiology
+barky
 butterier
 brachycephalies
 berrettino
@@ -14894,7 +14895,6 @@ breakthrough
 bayoneted
 breakthroughs
 breakweather
-barky
 brain
 bankings
 brachets
