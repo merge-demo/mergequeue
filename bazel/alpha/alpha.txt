@@ -3569,7 +3569,6 @@ aflow
 agora
 adendritic
 akenbold
-amphibion
 adenemphractic
 adenylic
 avichi
@@ -7287,6 +7286,7 @@ aeolharmonica
 alauda
 aphakic
 autophotometry
+amphibion
 alaudine
 alaund
 adoptant
