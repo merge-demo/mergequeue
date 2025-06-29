@@ -5696,6 +5696,7 @@ belgard
 beater
 beclap
 belgrade
+buries
 bombasine
 bora
 butterback
@@ -9802,7 +9803,6 @@ babblingly
 bubblebow
 bisulfate
 bromatology
-buries
 bocca
 bitable
 bidialectal
