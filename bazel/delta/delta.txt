@@ -5599,7 +5599,6 @@ depended
 dolichopellic
 dependence
 desensitizes
-dependency
 dependingly
 drouthiness
 depends
@@ -17758,6 +17757,7 @@ disposer
 drunt
 dispossessed
 ducaton
+dependency
 ducats
 dewiness
 ducdame
