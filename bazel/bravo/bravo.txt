@@ -3825,7 +3825,6 @@ bulgur
 balsas
 bohireen
 bicker
-bauxitic
 bowdlerizations
 bavette
 baviaantje
@@ -6030,6 +6029,7 @@ bemoan
 bolter
 bookie
 bemoaned
+bauxitic
 baccarats
 bowenite
 bradyphasia
