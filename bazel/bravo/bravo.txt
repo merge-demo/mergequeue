@@ -862,6 +862,7 @@ baggagemaster
 bedamning
 baggager
 benzidin
+benzalcohol
 beffroy
 baggala
 borderlight
@@ -6329,7 +6330,6 @@ benzalacetone
 benzalacetophenone
 bonum
 benzalazine
-benzalcohol
 bakupari
 benzaldehyde
 beneficential
