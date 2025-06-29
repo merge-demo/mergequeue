@@ -4793,7 +4793,6 @@ befancy
 bits
 bedside
 bedsonia
-bedsonias
 bescribbling
 bedsore
 bakers
@@ -12965,6 +12964,7 @@ breviloquence
 boleros
 berthold
 boardinghouses
+bedsonias
 bootman
 boots
 bottoms
