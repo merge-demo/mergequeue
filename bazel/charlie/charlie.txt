@@ -15791,7 +15791,6 @@ clawer
 cubbishly
 clawers
 clawing
-clawk
 colobium
 calcicole
 cyproheptadine
@@ -29947,6 +29946,7 @@ crossovers
 chokebore
 cardiataxia
 crosspath
+clawk
 crosspoint
 crossroad
 cokneyfy
