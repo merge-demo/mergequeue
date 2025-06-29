@@ -11770,7 +11770,6 @@ analyses
 antimoniate
 analysis
 analyst
-awestricken
 aurei
 amphophilic
 acylate
@@ -13906,6 +13905,7 @@ antagonistic
 anticrepuscular
 antagonistical
 airedale
+awestricken
 antagonistically
 amblyrhynchus
 algist
