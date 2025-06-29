@@ -5250,6 +5250,7 @@ cushat
 clanger
 casquet
 casquetel
+colemouse
 cassabas
 cassabully
 cultist
@@ -24220,7 +24221,6 @@ carboxypeptidase
 convoked
 centigram
 convolutedly
-colemouse
 crinoidal
 convoluting
 convolution
