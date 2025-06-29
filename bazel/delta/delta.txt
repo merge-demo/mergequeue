@@ -4552,7 +4552,6 @@ deputies
 discircumspection
 demies
 dosimetric
-dialyses
 demifigure
 demigardebras
 decentres
@@ -8651,6 +8650,7 @@ davis
 dinge
 debugging
 distilment
+dialyses
 diary
 diaglyph
 disimprove
