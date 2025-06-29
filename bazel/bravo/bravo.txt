@@ -3698,7 +3698,6 @@ brookflower
 battier
 brightest
 batting
-blackthorn
 battings
 battledores
 bywork
@@ -6173,6 +6172,7 @@ brangle
 bushlands
 bravo
 benefices
+blackthorn
 bluebonnet
 bromvoel
 blacker
