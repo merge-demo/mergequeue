@@ -2185,7 +2185,6 @@ decartelizing
 dowries
 decasepalous
 diplograph
-decasyllabon
 dreich
 derivedly
 diatomaceae
@@ -10621,6 +10620,7 @@ dominus
 diploidize
 doorman
 diploma
+decasyllabon
 dolorogenic
 domitable
 dolven
