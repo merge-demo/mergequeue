@@ -3724,6 +3724,7 @@ clawlike
 carapine
 canvasback
 cucumaria
+coraji
 carara
 cheneaux
 carat
@@ -24896,7 +24897,6 @@ corah
 coraise
 cashless
 contourne
-coraji
 coralberries
 coproduct
 coralbush
