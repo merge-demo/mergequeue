@@ -19082,6 +19082,7 @@ archturncoat
 archvampire
 archvillainy
 assuages
+algorithm
 anisylidene
 aphoristic
 archvisitor
@@ -23666,7 +23667,6 @@ aurorally
 aurore
 aurorian
 aurorium
-algorithm
 antifoggant
 additionally
 acct
