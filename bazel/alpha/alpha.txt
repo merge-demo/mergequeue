@@ -10578,7 +10578,6 @@ amyl
 amylan
 attomy
 anorthographically
-amylase
 amylases
 amylate
 aglyphodontia
@@ -15931,6 +15930,7 @@ ablepharous
 antiquaries
 antiquartan
 americas
+amylase
 acquital
 aliasing
 antiquated
