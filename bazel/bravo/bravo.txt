@@ -5112,7 +5112,6 @@ bombable
 bunkery
 belching
 borderers
-baffle
 boussingaultite
 bunrakus
 beflecked
@@ -9274,6 +9273,7 @@ bullfrogs
 batfowler
 brownie
 broncholithiasis
+baffle
 bewearied
 beshrewing
 blockader
