@@ -29518,6 +29518,7 @@ crystallurgy
 ceruminiferous
 companion
 coroniform
+crushed
 chithe
 crystals
 cristatella
@@ -30361,7 +30362,6 @@ coresidual
 collectivistic
 crusets
 calmierer
-crushed
 cowpokes
 crusile
 chintzier
