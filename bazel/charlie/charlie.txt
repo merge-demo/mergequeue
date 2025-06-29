@@ -4143,7 +4143,6 @@ cardinality
 coruscative
 cardiomegalia
 clerihew
-coadjacent
 cardinalitian
 cubed
 chancellor
@@ -4163,6 +4162,7 @@ cardiodilator
 conformable
 chiropractor
 cardiodynia
+coadjacent
 calfret
 coalheugh
 chronologists
