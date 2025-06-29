@@ -4208,7 +4208,6 @@ celts
 cardiosphygmogram
 cardiosphygmograph
 cardiotherapies
-clinchpoop
 catmalison
 citternhead
 cardiotrophotherapy
@@ -26730,6 +26729,7 @@ counteravouch
 counteravouchment
 counterbalanced
 crackerjack
+clinchpoop
 counterbarrage
 checkmark
 cardiotomy
