@@ -1564,6 +1564,7 @@ ballgame
 berley
 ballhooter
 balli
+biosatellite
 burmanniaceous
 burlesques
 befiddle
@@ -15016,7 +15017,6 @@ brimfull
 buro
 barelegged
 breechcloths
-biosatellite
 benzdiazine
 begift
 barraters

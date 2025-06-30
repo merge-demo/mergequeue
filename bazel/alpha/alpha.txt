@@ -8838,7 +8838,6 @@ adolescency
 anthophore
 allobroges
 allobrogical
-allocatable
 absorption
 airmails
 allocate
@@ -17866,6 +17865,7 @@ asuri
 appressoria
 appressorial
 anticold
+allocatable
 anabathmos
 apiology
 appressorium
