@@ -5902,7 +5902,6 @@ beggardom
 bretons
 butterbur
 bellwether
-betaines
 bradmaker
 bellwort
 belock
@@ -12501,6 +12500,7 @@ bulbose
 bondsmen
 bonify
 bdls
+betaines
 brawniness
 bondstone
 bondswoman
