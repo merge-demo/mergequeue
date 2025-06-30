@@ -9573,7 +9573,6 @@ checkman
 congruencies
 checkmate
 chirosophist
-chiotilla
 checkmating
 cautioning
 circumferences
@@ -18176,6 +18175,7 @@ coequalness
 chopping
 coequals
 coequate
+chiotilla
 centerward
 chincha
 counterpunch
