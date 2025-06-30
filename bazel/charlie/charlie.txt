@@ -4817,7 +4817,6 @@ cressier
 carpophyte
 companions
 covariables
-cynosarges
 carpopodite
 carpopoditic
 coordinating
@@ -23330,6 +23329,7 @@ consummative
 checklists
 ceromez
 consumo
+cynosarges
 consumpted
 corrasive
 consumptional
