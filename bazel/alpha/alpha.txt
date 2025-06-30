@@ -3947,7 +3947,6 @@ adjutor
 aqueity
 apologer
 adjutory
-adjutorious
 adjutrice
 adjutrix
 ambassage
@@ -13457,6 +13456,7 @@ anneloid
 anticipation
 annerre
 annette
+adjutorious
 ahnfeltia
 annexa
 attitudist
