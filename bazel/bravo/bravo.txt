@@ -4626,7 +4626,6 @@ broadenings
 byrewards
 bullrushes
 bedehouses
-balustrade
 bedemen
 bens
 barry
@@ -14668,6 +14667,7 @@ betusked
 brasiletto
 brasilin
 bibliomancy
+balustrade
 balletically
 bogle
 broilingly
