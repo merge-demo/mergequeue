@@ -2522,7 +2522,6 @@ dibromoacetaldehyde
 declaratorily
 deaminate
 drain
-declarators
 dotted
 divulgater
 disregarder
@@ -8808,6 +8807,7 @@ dialoguer
 deuterodome
 diazins
 dulcifying
+declarators
 defeat
 defrocking
 dequeen
