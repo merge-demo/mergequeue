@@ -1003,7 +1003,6 @@ abstinential
 abstinently
 ansae
 abstort
-abstr
 anthos
 abstractable
 acceptavit
@@ -15105,6 +15104,7 @@ athena
 admonish
 antieducation
 antieducational
+abstr
 antieducationalist
 assist
 almemor
