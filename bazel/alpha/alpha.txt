@@ -14264,7 +14264,6 @@ archflatterer
 algebraists
 anthemion
 anthemis
-anther
 aecidiomycetes
 antheraea
 antheridia
@@ -15384,6 +15383,7 @@ axiomatize
 antilysin
 antilysis
 aphroditous
+anther
 abrasion
 antilithic
 antilitter
