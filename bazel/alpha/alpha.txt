@@ -1130,7 +1130,6 @@ asymptotic
 abutilon
 abbassi
 airpark
-aucan
 abutment
 articulant
 assertible
@@ -19724,6 +19723,7 @@ aoudads
 albarellos
 antechurch
 arithmetizations
+aucan
 arithmetizes
 acrosticheae
 araeostyle
