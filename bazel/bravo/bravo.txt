@@ -6652,7 +6652,6 @@ biunity
 banquettes
 bergall
 becrimes
-bergamasca
 bergamasche
 bergamask
 bergamo
@@ -13913,6 +13912,7 @@ beedi
 bowles
 balwarra
 bowlful
+bergamasca
 bowly
 breastworks
 bowlike
