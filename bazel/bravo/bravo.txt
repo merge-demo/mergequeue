@@ -8900,6 +8900,7 @@ biocycle
 biocycles
 biocidal
 biocide
+bookcases
 bioclimatic
 bowwoman
 bioclimatician
@@ -12719,7 +12720,6 @@ benchless
 baianism
 backhander
 brennschluss
-bookcases
 bushmaster
 bibulously
 blastophthoric
