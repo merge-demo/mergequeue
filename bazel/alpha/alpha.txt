@@ -5387,6 +5387,7 @@ afresca
 anomiidae
 axed
 acinous
+amorite
 apothecaries
 alkalizable
 aspout
@@ -11001,7 +11002,6 @@ atrichous
 autogeny
 arcsine
 acetphenetid
-amorite
 amoritic
 alma
 amoritish
