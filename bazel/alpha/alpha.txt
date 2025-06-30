@@ -6323,6 +6323,7 @@ ametrometer
 agriculturist
 agriculturists
 aftergood
+anticreep
 agrilus
 aureola
 abohms
@@ -22179,7 +22180,6 @@ astragali
 anathem
 astragalocalcaneal
 algums
-anticreep
 astragalocentral
 adz
 aponia
