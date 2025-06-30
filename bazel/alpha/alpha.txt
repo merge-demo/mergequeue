@@ -11332,7 +11332,6 @@ abaff
 anobiidae
 amphora
 amphorae
-anthracite
 apiator
 amphore
 aquifers
@@ -15293,6 +15292,7 @@ alcantarines
 antiharmonist
 antihelix
 aitiotropic
+anthracite
 antilopine
 antihero
 azulejo
