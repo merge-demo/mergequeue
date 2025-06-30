@@ -2831,7 +2831,6 @@ circumscribe
 carajura
 cursitor
 cannulating
-canoe
 chinafish
 colius
 canoeist
@@ -22108,6 +22107,7 @@ chowders
 conformationally
 couvert
 conformations
+canoe
 conformator
 conformed
 conformer
