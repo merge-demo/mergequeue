@@ -1750,7 +1750,6 @@ diphenan
 diphyllobothrium
 deathtrap
 devocalization
-downtimes
 drof
 deathward
 dikaryon
@@ -16458,6 +16457,7 @@ diachyma
 drabbler
 datum
 difflugia
+downtimes
 dunnesses
 dacoities
 drabbling
