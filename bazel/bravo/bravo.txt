@@ -4660,6 +4660,7 @@ brothier
 bedframes
 bouncers
 broomed
+bedrapes
 bowdlerizes
 baldwin
 burnettized
@@ -11613,7 +11614,6 @@ boardsmanship
 boatloads
 blonde
 boardly
-bedrapes
 buceros
 britzka
 boardwalks
