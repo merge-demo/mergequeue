@@ -4704,7 +4704,6 @@ alveolarly
 aeolidae
 ambrotype
 aeolist
-aeolotropy
 aeolus
 artichokes
 anchises
@@ -11916,6 +11915,7 @@ ampelite
 admixes
 azeotropy
 anaphroditic
+aeolotropy
 ajee
 anaplasia
 antimitotic
