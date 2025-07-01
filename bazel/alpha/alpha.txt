@@ -12974,7 +12974,6 @@ angulous
 auriculovertical
 angulus
 antepone
-anticomplementary
 angust
 antinihilism
 arroya
@@ -17184,6 +17183,7 @@ apolunes
 ankerites
 apolusis
 anatosaurus
+anticomplementary
 amoebiasis
 apomecometer
 aoli
