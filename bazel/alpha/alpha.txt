@@ -8499,7 +8499,6 @@ acuate
 alkalizing
 alkaloid
 alkaloids
-alkalosis
 alkalous
 alkalurops
 algorithms
@@ -18521,6 +18520,7 @@ arrises
 attitudes
 arborway
 arbota
+alkalosis
 arbour
 arboured
 aedoeology
