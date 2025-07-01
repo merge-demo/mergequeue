@@ -5034,6 +5034,7 @@ aerotonometric
 agrostographical
 antepagmenta
 aerotropism
+acalycine
 allantois
 aeruginous
 aerugo
@@ -21826,7 +21827,6 @@ averring
 assistanted
 assister
 assistful
-acalycine
 ascents
 assistless
 assith
