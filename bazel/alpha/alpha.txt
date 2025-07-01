@@ -295,7 +295,6 @@ articulate
 atonic
 apothece
 abducted
-ataxic
 abductions
 amatorio
 allegro
@@ -10349,6 +10348,7 @@ apivorous
 amercement
 attains
 anaphorically
+ataxic
 aristocratically
 alkalic
 amerces
