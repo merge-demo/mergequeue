@@ -4698,7 +4698,6 @@ alluvial
 alveolarly
 aeolidae
 ambrotype
-aeolist
 aeolus
 artichokes
 anchises
@@ -14770,6 +14769,7 @@ autoindex
 allocution
 anticynically
 anticeremonious
+aeolist
 acceptancy
 archgomeral
 anticeremoniously
