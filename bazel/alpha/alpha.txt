@@ -6339,7 +6339,6 @@ acajou
 agroan
 agrobacterium
 agrobiological
-aparithmesis
 agrobiologist
 analytically
 antisensuousness
@@ -8701,6 +8700,7 @@ almes
 alternationist
 allelomorphic
 allelotropy
+aparithmesis
 allelotropic
 attendantly
 aldehydase
