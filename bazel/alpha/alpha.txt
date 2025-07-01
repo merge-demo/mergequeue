@@ -7486,7 +7486,6 @@ amorino
 adiaphonon
 ae
 arditi
-approbation
 atlas
 arminianism
 albuminimeter
@@ -15821,6 +15820,7 @@ antiplague
 aglobulism
 antiplanet
 almochoden
+approbation
 antiplastic
 antipleion
 advocation
