@@ -5567,7 +5567,6 @@ amnesics
 afterward
 afterwise
 afterwit
-afterword
 afterwork
 agathodemon
 apinage
@@ -7938,6 +7937,7 @@ angie
 alethiologist
 acrophobia
 alethopteis
+afterword
 alethopteroid
 arbitrage
 archidium
