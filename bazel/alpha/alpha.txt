@@ -2489,7 +2489,6 @@ actorship
 attemperance
 acolyctine
 ascidiferous
-alabastrons
 amoebicidal
 acolyth
 aculei
@@ -6782,6 +6781,7 @@ androcyte
 airhead
 amorosa
 ascula
+alabastrons
 aquiculturist
 aeromarine
 airified
