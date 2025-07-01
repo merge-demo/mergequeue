@@ -18212,7 +18212,6 @@ aquotization
 autopsychic
 aquotize
 antitrochanter
-ar
 ara
 antediluvial
 assuagements
@@ -22374,6 +22373,7 @@ archaisms
 algarobas
 archetypally
 acrisia
+ar
 astrophysicist
 anteal
 autolysate
