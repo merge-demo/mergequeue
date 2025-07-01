@@ -21287,7 +21287,6 @@ androphore
 analectic
 amphoras
 azobacter
-asyndeton
 asyndetons
 artesonado
 asinego
@@ -22873,6 +22872,7 @@ atrypa
 asthenopic
 argyraspides
 asquat
+asyndeton
 atriplex
 atrypoid
 assimilation
