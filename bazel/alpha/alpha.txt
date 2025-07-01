@@ -10190,7 +10190,6 @@ ambulatorium
 ahepatokla
 avo
 amburbial
-airframe
 anxiolytic
 ambury
 ambuscaded
@@ -14869,6 +14868,7 @@ anticytolysin
 almsgiving
 alphorn
 atturn
+airframe
 anticize
 acceptilate
 anticker
