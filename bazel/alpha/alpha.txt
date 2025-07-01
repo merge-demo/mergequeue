@@ -17094,7 +17094,6 @@ audience
 apogamy
 antibody
 appendicle
-apogamies
 apogamous
 apogamously
 alebion
@@ -21709,6 +21708,7 @@ assertingly
 anathematically
 abuta
 assertion
+apogamies
 assertional
 appreciating
 assertively
