@@ -12030,7 +12030,6 @@ anemosis
 architeuthis
 anastate
 anastatus
-anastigmat
 anastigmatic
 alichel
 amazeful
@@ -15062,6 +15061,7 @@ antidiuretic
 anemopsis
 antidivine
 antinodal
+anastigmat
 assemblagist
 autopositive
 algraphic
