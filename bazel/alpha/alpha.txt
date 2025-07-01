@@ -10059,7 +10059,6 @@ asquirm
 ambivalence
 alloclase
 aiger
-ambiversion
 ambivert
 acidifiable
 arrect
@@ -21099,6 +21098,7 @@ anticar
 alphabetics
 asemic
 asepses
+ambiversion
 anagogical
 assiduate
 accipitrary
