@@ -17007,7 +17007,6 @@ axoneuron
 acouophonia
 apocalyptist
 ables
-apocarp
 apocarpy
 amaethon
 apocarps
@@ -20661,6 +20660,7 @@ austerus
 allude
 asterion
 articulacy
+apocarp
 aleuroscope
 acrobatholithic
 anthesteriac
