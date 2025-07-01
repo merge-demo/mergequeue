@@ -3266,7 +3266,6 @@ acutest
 arborise
 authorcraft
 aedine
-acutilingual
 axal
 antinosarian
 acutilobate
@@ -20626,6 +20625,7 @@ acequias
 arthrosis
 aeromagnetic
 arilli
+acutilingual
 adderwort
 albumen
 arthrospore
