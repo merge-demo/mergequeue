@@ -5627,7 +5627,6 @@ appoggiaturas
 agalaxia
 anisomelus
 agalena
-agalenidae
 ambalam
 asperating
 agallochs
@@ -25079,6 +25078,7 @@ axenically
 annual
 antisolar
 anywise
+agalenidae
 ausforms
 advanceable
 antiastronomical
