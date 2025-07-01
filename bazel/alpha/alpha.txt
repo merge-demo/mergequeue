@@ -1645,7 +1645,6 @@ accretes
 accretions
 awag
 according
-assapanic
 achate
 artificialize
 accriminate
@@ -5553,6 +5552,7 @@ achromatium
 afterthought
 afterthoughts
 afterthrift
+assapanic
 apastron
 afterturn
 armory
