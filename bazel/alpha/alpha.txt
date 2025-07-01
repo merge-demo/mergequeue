@@ -2991,7 +2991,6 @@ alalunga
 antireligious
 actinocrinite
 agnates
-actinodielectric
 actinodromous
 actinoelectrically
 antigenic
@@ -7248,6 +7247,7 @@ alarmingness
 alarmism
 algovite
 alarmist
+actinodielectric
 anginas
 anthesterol
 alarodian
