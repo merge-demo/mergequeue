@@ -11319,6 +11319,7 @@ anticodon
 alloquy
 anticreeper
 amphitrichate
+anamnesis
 amphitropous
 amphioxis
 anargyros
@@ -20679,7 +20680,6 @@ amimia
 articulates
 ashlering
 alike
-anamnesis
 articulationist
 articulations
 articulative
