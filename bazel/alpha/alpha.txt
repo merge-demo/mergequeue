@@ -2221,7 +2221,6 @@ aerosolizing
 achromatope
 achromatophile
 achromatophilia
-achromatopia
 achromatopsy
 apologizes
 achromatopsia
@@ -13093,6 +13092,7 @@ airometer
 anilins
 anilla
 alloxanate
+achromatopia
 amiss
 amental
 archemperor
