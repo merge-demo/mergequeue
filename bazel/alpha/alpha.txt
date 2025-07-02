@@ -1487,6 +1487,7 @@ agreeableness
 anticness
 acclinal
 arhythmical
+autopolyploidy
 accolated
 acclinate
 amidocyanogen
@@ -24296,7 +24297,6 @@ acclimatize
 autopolar
 autopolyploid
 academically
-autopolyploidy
 autopolo
 anomalous
 autopoloist
