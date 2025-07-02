@@ -1378,7 +1378,6 @@ accept
 approximating
 acceptability
 agonist
-amintor
 acceptance
 aggressions
 absorbent
@@ -13980,6 +13979,7 @@ arsenillo
 anteambulate
 anteambulation
 anteater
+amintor
 advancer
 astrologian
 achronychous
