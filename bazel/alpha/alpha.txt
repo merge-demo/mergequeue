@@ -15353,7 +15353,6 @@ actinobranchia
 antiking
 aposematic
 araneology
-anthropomorphize
 antikings
 arachnoidal
 albatros
@@ -22348,6 +22347,7 @@ astromancer
 astromantic
 astromeda
 apophyges
+anthropomorphize
 aliments
 astrometeorology
 astrometeorological
