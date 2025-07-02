@@ -8859,6 +8859,7 @@ allocator
 agynary
 acadia
 apocynum
+asyntrophy
 anglicist
 allocatur
 acanthocephalan
@@ -21319,7 +21320,6 @@ asininities
 asyntactic
 alkalization
 aviatory
-asyntrophy
 asiphonogama
 anomalure
 asystole
