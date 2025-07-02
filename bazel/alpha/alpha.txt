@@ -1664,7 +1664,6 @@ accruable
 atty
 anatomism
 accrual
-accruals
 actualities
 accrued
 accruement
@@ -22124,6 +22123,7 @@ astigmatometer
 atrocoeruleus
 astigmatometry
 aesthiology
+accruals
 arthrosporous
 aquench
 astigmatoscope
