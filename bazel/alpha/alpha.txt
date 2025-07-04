@@ -1686,6 +1686,7 @@ accueil
 acculturate
 acculturated
 acculturates
+astr
 anorganic
 alkalimeter
 ambiguously
@@ -21250,7 +21251,6 @@ acronycta
 archeostome
 asparaguses
 asilus
-astr
 albuminizing
 asymbolia
 alfridary
