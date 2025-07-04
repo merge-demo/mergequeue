@@ -12502,7 +12502,6 @@ azoturia
 anemonal
 anemone
 aerography
-anticreator
 avidities
 albuminiform
 anemony
@@ -13631,6 +13630,7 @@ anatomist
 addressee
 anodically
 anodyne
+anticreator
 anodynes
 anaphroditous
 anodized
