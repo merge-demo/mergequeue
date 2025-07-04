@@ -11485,7 +11485,6 @@ alodiality
 agglomerant
 ascospore
 amusers
-attractors
 abbatical
 authenticators
 antlia
@@ -23817,6 +23816,7 @@ allosaurus
 anisostichus
 amelioratory
 andoke
+attractors
 autarkist
 aute
 autechoscope
