@@ -6294,7 +6294,6 @@ agrestic
 agrestical
 agria
 awapuhi
-agric
 agricere
 alliteratively
 asunder
@@ -22357,6 +22356,7 @@ aforenamed
 ancestrial
 allegorization
 astrometry
+agric
 animalising
 astrometric
 astronaut
