@@ -14665,7 +14665,6 @@ accordantly
 antinormal
 anthryl
 alternative
-arabized
 apostrophe
 aortographies
 adelges
@@ -24648,6 +24647,7 @@ aventails
 axiom
 alypine
 absumption
+arabized
 actinidia
 archimage
 autostylic
