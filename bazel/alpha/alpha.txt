@@ -5002,7 +5002,6 @@ aeroplaner
 aeroplanes
 archboutefeu
 aeroplanist
-aeroscepsy
 amanitas
 aurum
 altumal
@@ -23097,6 +23096,7 @@ attenuators
 atter
 apathism
 attercop
+aeroscepsy
 attery
 appulsively
 absorbtion
