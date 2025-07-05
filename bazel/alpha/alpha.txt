@@ -14877,6 +14877,7 @@ anticity
 amli
 anticytolysin
 almsgiving
+aspersive
 alphorn
 atturn
 anticize
@@ -21435,7 +21436,6 @@ astrochronological
 aspersers
 aspersing
 arianistical
-aspersive
 abirritant
 adephaga
 allagophyllous
