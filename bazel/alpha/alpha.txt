@@ -3913,7 +3913,6 @@ adjunctively
 adjunctly
 adjuration
 analogia
-amidine
 aisling
 aneuria
 adjured
@@ -4554,6 +4553,7 @@ advisees
 advisement
 atli
 antepasts
+amidine
 arranger
 adviser
 apparatchiki
