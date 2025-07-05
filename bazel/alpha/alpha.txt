@@ -913,6 +913,7 @@ amphitron
 absolent
 absolute
 azophosphin
+aliases
 atonies
 appenzell
 aircrafts
@@ -6065,7 +6066,6 @@ acetify
 aglee
 antidotary
 albata
-aliases
 avianized
 aglycon
 altair
