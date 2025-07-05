@@ -11961,7 +11961,6 @@ anapterygotism
 amphoriskoi
 awe
 anaptychus
-anaptyctic
 anaptotic
 anarcestes
 anarchy
@@ -13752,6 +13751,7 @@ angeldom
 anopheles
 anophelinae
 anophoria
+anaptyctic
 anophthalmos
 anopia
 amusable
