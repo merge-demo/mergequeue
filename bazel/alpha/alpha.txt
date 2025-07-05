@@ -1237,7 +1237,6 @@ acanthophorous
 aboded
 acanthopodous
 aqueously
-acanthopomatous
 acanthopteran
 acanthopterygian
 adversed
@@ -4678,6 +4677,7 @@ aegithognathae
 anguillule
 aegophony
 aegrotant
+acanthopomatous
 alabastron
 archiving
 azazel
