@@ -11332,7 +11332,6 @@ anticodon
 alloquy
 anticreeper
 amphitrichate
-amphitropous
 amphioxis
 anargyros
 amphiumidae
@@ -15030,6 +15029,7 @@ anticritical
 anticritically
 astrose
 anasarcas
+amphitropous
 apetalousness
 attestant
 anticrochet
