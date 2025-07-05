@@ -1724,7 +1724,6 @@ accursedness
 astrals
 adorableness
 adjuring
-accurst
 authorisable
 actinotherapy
 acanthuses
@@ -18076,6 +18075,7 @@ apokreos
 autotransfusion
 apulian
 artocarpus
+accurst
 attesters
 apus
 akinesis
