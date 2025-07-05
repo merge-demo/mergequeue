@@ -12511,7 +12511,6 @@ azoturia
 anemonal
 anemone
 aerography
-anticreator
 avidities
 anemony
 anaspida
@@ -13635,6 +13634,7 @@ anatomist
 addressee
 anodically
 anodyne
+anticreator
 anodynes
 anaphroditous
 anodized
