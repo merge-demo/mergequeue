@@ -8522,6 +8522,7 @@ alkanets
 amebocyte
 autophyllogeny
 alkanol
+acanthosis
 alkaphrah
 alkapton
 alkaptone
@@ -11968,7 +11969,6 @@ anaptotic
 anarcestes
 anarchy
 auberges
-acanthosis
 antique
 anarchical
 anenergia
