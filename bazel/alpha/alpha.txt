@@ -16590,7 +16590,6 @@ abstractions
 apedom
 acalculia
 apeek
-apeirophobia
 apeling
 apelles
 acuminate
@@ -17301,6 +17300,7 @@ auguste
 actors
 assyrianize
 alimentally
+apeirophobia
 autocollimator
 antiforeign
 apostate
