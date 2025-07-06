@@ -3248,7 +3248,6 @@ acupuncture
 abonne
 apsides
 acupunctured
-acupuncturing
 antivenomous
 acupuncturist
 acus
@@ -20171,6 +20170,7 @@ agdistis
 acutilinguae
 arrand
 arrangeable
+acupuncturing
 arrangement
 away
 auscultated
