@@ -8519,6 +8519,7 @@ algorithms
 alkamine
 alkanes
 alkanet
+abattoir
 allicholly
 alkanethiol
 alkanets
@@ -12068,7 +12069,6 @@ anat
 anatase
 ardebs
 anatases
-abattoir
 anatexis
 ancestress
 apogamically
