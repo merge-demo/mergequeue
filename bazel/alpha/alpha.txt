@@ -7,6 +7,7 @@ aahs
 ampullae
 apocatastatic
 acromyodous
+acquitter
 anaitis
 anidrosis
 acrostolium
@@ -653,7 +654,6 @@ abomasus
 appetize
 abominably
 abominate
-avifaunal
 adulates
 amniotitis
 abbreviated
@@ -677,7 +677,6 @@ anthomyiid
 abord
 aboriginality
 anhydrosis
-aboriginary
 aborigines
 abort
 alderfly
@@ -1411,7 +1410,6 @@ acceptress
 accepts
 accersitor
 ammoniojarosite
-attractants
 apellous
 accessary
 accessaries
@@ -2225,6 +2223,7 @@ achromatocyte
 arctalian
 aerosolizing
 achromatope
+axlike
 achromatophile
 achromatophilia
 achromatopia
@@ -2398,6 +2397,7 @@ acinic
 aciniform
 anatomicophysiological
 aggrate
+arthrodonteae
 acinus
 aedes
 acipenserine
@@ -2635,7 +2635,6 @@ almacenista
 acquitted
 alangine
 ashkenazim
-acquitter
 acquophonia
 acrab
 acracy
@@ -2803,6 +2802,7 @@ aminobenzine
 acroleins
 acrolithan
 acheirous
+appraisive
 awork
 acroliths
 antiferromagnetic
@@ -3246,7 +3246,6 @@ acupuncture
 abonne
 apsides
 acupunctured
-acupuncturing
 antivenomous
 acupuncturist
 acus
@@ -5397,7 +5396,6 @@ apothecaries
 alkalizable
 aspout
 anthomania
-antirestoration
 astylosternus
 anterospinal
 africanize
@@ -5452,6 +5450,7 @@ aftercome
 australasian
 acrostichic
 autocamper
+ambon
 aftercooler
 apological
 almoning
@@ -5496,6 +5495,7 @@ afterhope
 afterhours
 antimonarchistic
 agues
+annihilatory
 antielectrons
 afterlight
 afterlives
@@ -5616,6 +5616,7 @@ aquapuncture
 amylaceous
 asphalts
 againbuy
+attestant
 apicad
 againsay
 against
@@ -5914,7 +5915,6 @@ amazonstone
 apostacies
 aneurism
 ardeidae
-antroscopy
 antelude
 alpestrian
 antivaccinationist
@@ -7297,6 +7297,7 @@ alba
 ayahuca
 albacora
 albacore
+atlases
 aftertastes
 albanenses
 azoxybenzoic
@@ -9425,7 +9426,6 @@ alpine
 appointive
 alpinesque
 alpinia
-anthraquinol
 annularity
 alquier
 aversions
@@ -10137,7 +10137,6 @@ ambolic
 ambomalleal
 antenatus
 acrologue
-ambon
 ambones
 alertest
 ambonnay
@@ -10483,6 +10482,7 @@ aponogetonaceous
 amianthus
 aisles
 amiantuses
+aboriginary
 amyatonic
 amic
 amicability
@@ -10690,6 +10690,7 @@ aminoacetophenetidine
 aminoanthraquinone
 apodictically
 aminoazo
+argh
 aryepiglottidean
 aminobenzaldehyde
 anthrachrysone
@@ -10843,6 +10844,7 @@ asphodelaceae
 amphibryous
 arm
 ammonia
+atrocious
 ammoniacs
 acrisius
 artly
@@ -11212,7 +11214,6 @@ astrosphere
 amphophile
 amphidetic
 amphidiarthrosis
-aryans
 amphidisc
 acridan
 auroral
@@ -11333,7 +11334,6 @@ anticodon
 alloquy
 anticreeper
 amphitrichate
-amphitropous
 amphioxis
 anargyros
 amphiumidae
@@ -11355,7 +11355,6 @@ amphoteric
 aircrewman
 antonina
 ampyxes
-amphigaean
 amigas
 ample
 asperite
@@ -11569,7 +11568,6 @@ anacamptic
 almighty
 archhead
 after
-anacamptics
 antiperistasis
 anacanthine
 anergy
@@ -12509,7 +12507,6 @@ azoturia
 anemonal
 anemone
 aerography
-anticreator
 avidities
 anemony
 anaspida
@@ -13332,7 +13329,6 @@ antilogies
 allegretto
 anisoptera
 aspca
-agamont
 antimethod
 anisopteran
 absolvitory
@@ -13501,7 +13497,6 @@ apophony
 autocremation
 annihilative
 anonymousness
-annihilatory
 annihilators
 antimodernism
 attice
@@ -13611,7 +13606,6 @@ ansated
 airliner
 asperated
 aglet
-acaulous
 anocathartic
 abilene
 apoferritin
@@ -13633,6 +13627,7 @@ anatomist
 addressee
 anodically
 anodyne
+anticreator
 anodynes
 anaphroditous
 anodized
@@ -13916,6 +13911,7 @@ auscultator
 antiprestidigitation
 airwaves
 anergic
+assedation
 amzel
 antagonism
 alef
@@ -15033,8 +15029,8 @@ anticritical
 anticritically
 astrose
 anasarcas
+amphitropous
 apetalousness
-attestant
 anticrochet
 applicatorily
 adp
@@ -15108,7 +15104,6 @@ abaci
 adjectivitis
 axofugal
 administrator
-atrocious
 advential
 apastra
 antherine
@@ -16034,7 +16029,6 @@ acinacious
 astelic
 antirepublicanism
 antireservationist
-actionize
 antirevisionist
 atmidalbumin
 anaphasic
@@ -16272,6 +16266,7 @@ antityphoid
 amaroid
 antitypical
 antitypous
+arriccio
 amphigouris
 anthochlor
 antitobacconist
@@ -16314,6 +16309,7 @@ arculite
 afros
 adfroze
 antitruster
+antirestoration
 antituberculosis
 antituberculotic
 antitumoral
@@ -16665,6 +16661,7 @@ aperu
 assisa
 aperulosid
 apes
+attitudiniser
 apesthetic
 arachnitis
 affiche
@@ -17311,6 +17308,7 @@ apostasy
 audiometer
 auguste
 actors
+assyrianize
 alimentally
 autocollimator
 antiforeign
@@ -17366,6 +17364,7 @@ aliment
 ampuls
 apostrophes
 atomising
+aquatintist
 atik
 aviculture
 aunties
@@ -17819,7 +17818,6 @@ adoptable
 appraising
 acrotretidae
 abacate
-appraisive
 almique
 appreciated
 appreciates
@@ -17991,7 +17989,6 @@ anchoritism
 agt
 agnomination
 arnatta
-anglimaniac
 abraum
 appurtenant
 annalistically
@@ -18023,6 +18020,7 @@ atrazines
 apriority
 aggressors
 apritif
+actionize
 appraisement
 aproctous
 aproneer
@@ -18148,7 +18146,6 @@ aquatics
 aquatile
 atamans
 arhats
-aquatintist
 athwart
 analogically
 advowee
@@ -19033,7 +19030,6 @@ aphicide
 archswindler
 adenin
 arrisways
-assyrianize
 absolutely
 acrodactylum
 archpirate
@@ -19117,6 +19113,7 @@ archoptosis
 antiperistatically
 asexualise
 antialien
+anacamptics
 arcite
 adherences
 aeolsklavier
@@ -19163,7 +19160,6 @@ abducting
 arctisca
 arctium
 arctogaean
-arctoidean
 arctos
 arctosis
 acetylasalicylic
@@ -19412,7 +19408,6 @@ antiparliamentarist
 antiegotism
 anaconda
 aestivator
-argh
 aphelilions
 acrasieae
 allottees
@@ -19427,7 +19422,6 @@ argyle
 aseptate
 archaecraniate
 allative
-anallantoidea
 archaeoceti
 attempting
 adighe
@@ -19815,6 +19809,7 @@ auxilium
 arsphenamine
 armatures
 armband
+anallantoidea
 albation
 anarchal
 arcane
@@ -19872,6 +19867,7 @@ armiger
 armigeri
 armigeros
 armigerous
+antroscopy
 aimful
 aposelene
 arithmomania
@@ -20173,6 +20169,7 @@ agdistis
 acutilinguae
 arrand
 arrangeable
+acupuncturing
 arrangement
 away
 auscultated
@@ -20576,7 +20573,6 @@ arthrodirous
 atlantes
 architricline
 anurous
-arthrodonteae
 alteza
 actinomere
 arthroempyema
@@ -21200,7 +21196,6 @@ auxins
 anticonformist
 ashrama
 ashtoreth
-aspartic
 ashvamedha
 ashwort
 aperispermic
@@ -21432,7 +21427,6 @@ aspermatic
 achter
 aspermatism
 adrip
-assedation
 aspers
 adenosarcoma
 asperse
@@ -21492,6 +21486,7 @@ asphodel
 aspy
 aspics
 aspidiaria
+aryans
 aspidinol
 aladdinize
 aspidiske
@@ -21619,7 +21614,6 @@ assassinative
 assassinist
 assate
 airstrips
-arriccio
 apophyeeal
 aminoacetophenone
 assaultable
@@ -22054,6 +22048,7 @@ asterolepis
 asterope
 amnestic
 accordature
+anthraquinol
 amphibichnite
 anaunter
 asterophyllite
@@ -22189,6 +22184,7 @@ arthrobranch
 astraeiform
 ateuchus
 astragali
+aspartic
 anathem
 astragalocalcaneal
 algums
@@ -22288,6 +22284,7 @@ astrogating
 agreeing
 admissively
 ataractic
+amphigaean
 astrogation
 astrogational
 antirattler
@@ -22527,6 +22524,7 @@ athanasianist
 aplustra
 aluminizing
 athanasies
+arctoidean
 asparaginous
 alliterative
 antinomist
@@ -22706,7 +22704,6 @@ antipopulationist
 atlantoodontoid
 autokrator
 atlantosaurus
-atlases
 apropos
 amplificator
 atloid
@@ -22895,6 +22892,7 @@ archdiocesan
 atrochous
 aly
 an
+avifaunal
 admirative
 awls
 antimaterialism
@@ -23156,7 +23154,6 @@ attitudinise
 apophasis
 attitudinised
 anba
-attitudiniser
 amphimictically
 animetta
 aginners
@@ -23345,6 +23342,7 @@ audients
 abnormal
 asphyxial
 arteriopathy
+acaulous
 angelique
 acclimatisable
 audiles
@@ -23629,7 +23627,6 @@ auriculoparietal
 auriculotemporal
 auriferous
 appreciational
-axlike
 aurify
 aurific
 aceology
@@ -23991,6 +23988,7 @@ axmaster
 algocyan
 anthracnosis
 antimellin
+attractants
 ansate
 autocopist
 acrophonies
@@ -24451,6 +24449,7 @@ aerothermodynamic
 anormality
 ambitiously
 arthrocarcinoma
+anglimaniac
 autotomizing
 autotomous
 astragals
@@ -25272,6 +25271,7 @@ acylamidobenzene
 afrikanderism
 azimino
 antiphonaries
+agamont
 azymite
 azimuth
 azimuthal
