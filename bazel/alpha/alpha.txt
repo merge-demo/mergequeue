@@ -5293,7 +5293,6 @@ ataxia
 afflatus
 absent
 afflicted
-accra
 afflicter
 afflicting
 afflictingly
@@ -5636,6 +5635,7 @@ agalactic
 appoggiaturas
 agalaxia
 anisomelus
+accra
 agalena
 agalenidae
 ambalam
