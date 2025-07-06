@@ -2401,6 +2401,7 @@ acinic
 aciniform
 anatomicophysiological
 aggrate
+arthrodonteae
 acinus
 aedes
 acipenserine
@@ -20570,7 +20571,6 @@ arthrodirous
 atlantes
 architricline
 anurous
-arthrodonteae
 alteza
 actinomere
 arthroempyema
