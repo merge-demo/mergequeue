@@ -16756,7 +16756,6 @@ angelim
 amphigonia
 adultoid
 aphydrotropic
-aphydrotropism
 aphilanthropy
 aphylly
 abidi
@@ -17663,6 +17662,7 @@ antienzymic
 applanation
 applaudable
 araneiformes
+aphydrotropism
 applaudably
 ancyroid
 allicin
