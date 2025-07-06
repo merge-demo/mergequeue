@@ -21198,7 +21198,6 @@ auxins
 anticonformist
 ashrama
 ashtoreth
-aspartic
 ashvamedha
 ashwort
 aperispermic
@@ -22190,6 +22189,7 @@ arthrobranch
 astraeiform
 ateuchus
 astragali
+aspartic
 anathem
 astragalocalcaneal
 algums
