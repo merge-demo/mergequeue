@@ -17346,7 +17346,6 @@ amassers
 appeacher
 apostoli
 apostolian
-apostolical
 apostolically
 ares
 aerophagy
@@ -19578,6 +19577,7 @@ archichlamydeous
 arided
 adhesions
 astringing
+apostolical
 ambages
 arider
 apterium
