@@ -4070,6 +4070,7 @@ allocates
 admitters
 admitting
 admixed
+affixed
 arachnomorphae
 applausive
 azygobranchiata
@@ -5273,7 +5274,6 @@ axon
 affirmingly
 affixal
 affixation
-affixed
 andantinos
 androsin
 affixers
