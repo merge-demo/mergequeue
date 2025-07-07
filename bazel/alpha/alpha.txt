@@ -16602,7 +16602,6 @@ abstractions
 apedom
 acalculia
 apeek
-apeirophobia
 apeling
 apelles
 acuminate
@@ -17316,6 +17315,7 @@ audiometer
 auguste
 actors
 alimentally
+apeirophobia
 autocollimator
 antiforeign
 apostate
