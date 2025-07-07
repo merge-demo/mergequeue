@@ -1351,7 +1351,6 @@ amnesias
 affiliated
 atom
 aiolis
-annihilator
 accelerate
 anilide
 acceleratedly
@@ -24546,6 +24545,7 @@ anachorism
 anticommunism
 aniba
 auxotonic
+annihilator
 auxotox
 auxotroph
 auxotrophy
