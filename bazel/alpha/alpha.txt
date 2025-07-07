@@ -4939,7 +4939,6 @@ amenite
 amphictyonies
 autonomously
 athenians
-aerometry
 anthraciferous
 aerobranchiate
 astrobiologist
@@ -11490,6 +11489,7 @@ artificership
 anagennesis
 amusements
 alodiality
+aerometry
 agglomerant
 ascospore
 amusers
