@@ -6750,6 +6750,7 @@ aquas
 antibias
 axometer
 arid
+altars
 aircraftmen
 aircraftsman
 affrontiveness
@@ -9475,7 +9476,6 @@ altar
 altarage
 allodies
 altarpieces
-altars
 armbone
 anemones
 angiosclerotic
