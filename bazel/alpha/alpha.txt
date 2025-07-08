@@ -5640,6 +5640,7 @@ ardeid
 agal
 agalactic
 appoggiaturas
+asale
 agalaxia
 anisomelus
 agalena
@@ -20827,7 +20828,6 @@ antick
 asa
 aneath
 asafetida
-asale
 asana
 aconitin
 affectate
