@@ -19995,7 +19995,6 @@ armure
 armures
 arn
 achromatinic
-agacella
 arnatto
 arugola
 ammonified
@@ -22812,6 +22811,7 @@ atones
 adnations
 argilloid
 anocarpous
+agacella
 assegaied
 atony
 atonicity
