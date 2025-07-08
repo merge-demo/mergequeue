@@ -6369,7 +6369,6 @@ agrogeology
 aleucaemic
 autoregulative
 agrogeological
-agrology
 aurung
 agrologic
 acoine
@@ -25247,6 +25246,7 @@ abstrict
 azeotropic
 azerbaijani
 azerbaijanian
+agrology
 azha
 antitax
 afrogaean
