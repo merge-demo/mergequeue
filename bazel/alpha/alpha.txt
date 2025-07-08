@@ -14234,7 +14234,6 @@ acephal
 anterosuperior
 autocystoplasty
 aupaka
-antesignanus
 antesternal
 antesternum
 antesuperior
@@ -20838,6 +20837,7 @@ asa
 aneath
 asafetida
 asale
+antesignanus
 asana
 aconitin
 affectate
