@@ -12444,7 +12444,6 @@ ajowan
 adequateness
 anecdote
 anecdotes
-anecdotic
 anecdotical
 anova
 anecdotically
@@ -22246,6 +22245,7 @@ astrobiologies
 alrighty
 afterdrops
 androseme
+anecdotic
 astrobotany
 astrochemistry
 aurignacian
