@@ -1469,7 +1469,6 @@ autecologically
 absinthian
 acclimatement
 acclimates
-acclimating
 archipallial
 acclimatisation
 affixable
@@ -12345,6 +12344,7 @@ andrea
 andreaeales
 andreas
 anhematopoiesis
+acclimating
 andrena
 anopluriform
 andrewartha
