@@ -12278,6 +12278,7 @@ attackman
 ancora
 ancraophobia
 ancress
+autunites
 ancresses
 anda
 astylospongia
@@ -24497,7 +24498,6 @@ autre
 autrefois
 autumn
 autumnity
-autunites
 acroconidium
 auxanogram
 auxanometer
