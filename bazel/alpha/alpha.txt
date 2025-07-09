@@ -5871,6 +5871,7 @@ aggiornamenti
 assemblies
 agglomerate
 anychia
+amblyoscope
 agglomerated
 agglomerates
 agglomeratic
@@ -10103,7 +10104,6 @@ absinthic
 amblyomma
 abrupt
 amblyopic
-amblyoscope
 arles
 alchymies
 allophylian
