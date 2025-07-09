@@ -7784,6 +7784,7 @@ accepted
 afar
 alditol
 aldm
+alphenic
 aghast
 affenpinscher
 academias
@@ -22762,7 +22763,6 @@ adjurers
 atocha
 atoke
 assemblages
-alphenic
 agamid
 anyhow
 assonate
