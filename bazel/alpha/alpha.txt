@@ -2754,7 +2754,6 @@ acrobacies
 artarin
 apanage
 acrobates
-attraction
 amontillado
 amidrazone
 acrobatical
@@ -4635,6 +4634,7 @@ aedeagi
 aedeagus
 aediculae
 aedicule
+attraction
 aedile
 adject
 aediles
