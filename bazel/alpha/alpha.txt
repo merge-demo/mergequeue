@@ -3334,7 +3334,6 @@ archery
 atresic
 atelets
 andean
-adamellite
 allosyndesis
 antihierarchic
 adamine
@@ -8327,6 +8326,7 @@ archived
 aligning
 aliyah
 autobus
+adamellite
 annex
 aliyoth
 aliipoe
