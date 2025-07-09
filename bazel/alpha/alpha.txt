@@ -5371,7 +5371,6 @@ almight
 aflat
 agons
 argans
-acumen
 anacreon
 aflower
 albuminised
@@ -22600,6 +22599,7 @@ abnegated
 angulation
 atherosperma
 abjuratory
+acumen
 atherurus
 accelerant
 atheticize
