@@ -4283,7 +4283,6 @@ anaptychi
 adrenin
 addu
 adrenitis
-archcount
 adrenochrome
 adrenocortical
 adrenocorticotrophic
@@ -7662,6 +7661,7 @@ alcogene
 ascogonium
 atheists
 antiphilosophical
+archcount
 alcohate
 assertorically
 alcohol
