@@ -4100,6 +4100,7 @@ anglification
 admonishments
 avgas
 anvil
+apply
 agrief
 antihypertensives
 antilyssic
@@ -17703,7 +17704,6 @@ apples
 applewoman
 adopts
 applewood
-apply
 adjacencies
 anthorine
 appliable
