@@ -20750,7 +20750,6 @@ aftercourse
 ashiver
 aeroplankton
 alkylation
-artistry
 ableness
 artistries
 aesculapius
@@ -22260,6 +22259,7 @@ abbr
 astrocytomas
 ailerons
 anal
+artistry
 anhaline
 asperger
 aplanat
