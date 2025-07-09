@@ -18245,6 +18245,7 @@ agoras
 alsoon
 arabians
 andarko
+assayers
 amity
 arabica
 accentuator
@@ -21590,7 +21591,6 @@ argyroneta
 assayed
 amorist
 anticontagion
-assayers
 aphorists
 allometry
 assaying
