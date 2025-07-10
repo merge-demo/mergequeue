@@ -5056,7 +5056,6 @@ albruna
 allantoidal
 aerotonometric
 agrostographical
-antepagmenta
 aerotropism
 allantois
 aeruginous
@@ -14814,6 +14813,7 @@ arabite
 aforetime
 anglicisms
 ascomycetes
+antepagmenta
 abnormalise
 antichrists
 acetylcyanide
