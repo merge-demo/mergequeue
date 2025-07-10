@@ -11042,7 +11042,6 @@ archegone
 assais
 amorphus
 amort
-amuguis
 amortising
 amortizable
 amortized
@@ -11863,6 +11862,7 @@ anamorphic
 antimonarchy
 apishly
 adenoses
+amuguis
 anamorphoscope
 arrears
 anamorphosis
