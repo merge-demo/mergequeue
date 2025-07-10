@@ -11262,7 +11262,6 @@ acknowledge
 amphiploidy
 ascicidia
 alephzero
-auguries
 ains
 aphaniptera
 ameen
@@ -21742,6 +21741,7 @@ altropathy
 asservilize
 asses
 appetibility
+auguries
 aenigma
 anionics
 antifertilizer
