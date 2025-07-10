@@ -8479,6 +8479,7 @@ alkalinity
 alkalinities
 abactor
 augmentations
+angiography
 archology
 abiegh
 alkalinized
@@ -12763,7 +12764,6 @@ angiodiascopy
 atrabile
 angiogeny
 anyway
-angiography
 angiographic
 angiohemophilia
 anhelous
