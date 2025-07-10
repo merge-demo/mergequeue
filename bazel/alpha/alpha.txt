@@ -11699,6 +11699,7 @@ almondlike
 appearanced
 anaesthetically
 anthropomantic
+aruspex
 anaesthetization
 avoke
 ayme
@@ -20800,7 +20801,6 @@ ampulate
 arusha
 aryan
 armoried
-aruspex
 aruspicy
 arteriography
 arval
