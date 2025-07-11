@@ -4967,7 +4967,6 @@ aeronomer
 amyliferous
 aumil
 aeronomy
-aeronomic
 aeronomical
 anisogametic
 aeronomics
@@ -22600,6 +22599,7 @@ anticrepuscule
 atherosclerotic
 abnegated
 angulation
+aeronomic
 atherosperma
 abjuratory
 acumen
