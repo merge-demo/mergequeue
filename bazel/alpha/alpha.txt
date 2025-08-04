@@ -905,6 +905,7 @@ anabong
 audiometric
 ascidium
 aures
+allowable
 absyrtus
 amylon
 absis
@@ -9079,7 +9080,6 @@ alps
 anticked
 astrictiveness
 antimilitaristic
-allowable
 antemarital
 allowableness
 allowancing
