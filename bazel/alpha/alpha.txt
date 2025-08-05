@@ -8285,7 +8285,6 @@ acquent
 anthropopithecus
 aliening
 alienism
-alienisms
 alienist
 abulic
 alienists
@@ -16066,6 +16065,7 @@ astringe
 antiscabious
 aquatint
 adminiculum
+alienisms
 antiscale
 arteritis
 autocoenobium
