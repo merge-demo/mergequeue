@@ -1366,7 +1366,6 @@ alinotum
 accelerative
 adiaphanousness
 azote
-aqueducts
 accelerators
 accelerometer
 accelerometers
@@ -17325,6 +17324,7 @@ autocollimator
 antiforeign
 apostate
 apostatically
+aqueducts
 apostatise
 appendicectasis
 abthain
