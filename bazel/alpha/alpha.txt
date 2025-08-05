@@ -3712,7 +3712,6 @@ abasements
 adesmy
 annum
 adespoton
-adessenarian
 adit
 adeste
 acroasis
@@ -18599,6 +18598,7 @@ archaeographical
 asterisking
 acerathere
 academial
+adessenarian
 astrophil
 archaeolater
 audits
