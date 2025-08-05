@@ -10211,6 +10211,7 @@ airframe
 anxiolytic
 ambury
 ambuscaded
+avigators
 ambuscader
 ankara
 ambuscades
@@ -19811,7 +19812,6 @@ armamentarium
 autoskeleton
 antigalactic
 attachable
-avigators
 armangite
 aminovaleric
 anguiform
