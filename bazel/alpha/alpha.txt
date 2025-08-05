@@ -16679,7 +16679,6 @@ avie
 aph
 antilogical
 aggers
-abjuration
 accoutrements
 asserters
 anthraconite
@@ -18258,6 +18257,7 @@ arability
 arabin
 arabinic
 arabinosic
+abjuration
 arabinoside
 alibility
 arabism
