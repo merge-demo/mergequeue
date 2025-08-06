@@ -11273,7 +11273,6 @@ abfarads
 antiballistic
 avidious
 amphiprostylar
-antiusurious
 amdahl
 amidoazobenzene
 aminoformic
@@ -20483,6 +20482,7 @@ admov
 asterospondylous
 arteriocapillary
 arteriogenesis
+antiusurious
 arteriograph
 ahorseback
 adenectopia
