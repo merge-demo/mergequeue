@@ -6867,7 +6867,6 @@ asst
 airproofs
 archmurderer
 aistopoda
-archdolt
 aggrieving
 arboraceous
 arachin
@@ -7702,6 +7701,7 @@ alcoholize
 alcoholmeter
 airmass
 anemogram
+archdolt
 alcoholmetric
 acroter
 abaissed
