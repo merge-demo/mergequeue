@@ -15138,6 +15138,7 @@ absents
 antiendowment
 aquilon
 antienthusiastic
+accur
 ayes
 actinoelectric
 afterfame
@@ -16728,7 +16729,6 @@ averse
 agog
 amylometer
 anterointerior
-accur
 ametaboly
 aphelian
 anthophagy
