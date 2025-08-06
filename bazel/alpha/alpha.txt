@@ -6988,7 +6988,6 @@ archworker
 atrioventricular
 arborist
 animal
-abiology
 appreciatorily
 annomination
 arcae
@@ -23698,6 +23697,7 @@ autoregenerator
 adzes
 andropetalar
 academic
+abiology
 androphobia
 auscultates
 athrong
