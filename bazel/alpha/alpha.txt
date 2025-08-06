@@ -2965,7 +2965,6 @@ actiniae
 absentia
 attrahent
 axisymmetric
-appalment
 appendages
 ashless
 antozonite
@@ -3809,6 +3808,7 @@ aprowl
 argufier
 alentours
 ariel
+appalment
 asconia
 anchorwise
 ametabole
