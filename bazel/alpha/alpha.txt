@@ -9561,7 +9561,6 @@ ajutment
 asterikos
 aspidate
 anargyroi
-ambassiate
 althorn
 alticamelus
 altify
@@ -14425,6 +14424,7 @@ antiphysical
 amelia
 abiotrophy
 arsenical
+ambassiate
 anthratriol
 anthraxylon
 anthrenus
