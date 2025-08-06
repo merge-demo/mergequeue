@@ -3780,7 +3780,6 @@ acephalina
 adamantoblastoma
 accomplis
 adiaphory
-afer
 adiaphorist
 alamo
 airframes
@@ -20871,6 +20870,7 @@ associative
 apis
 ambulating
 alveolar
+afer
 acetifies
 arthrogastra
 asbestoid
