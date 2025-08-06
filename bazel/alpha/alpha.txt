@@ -10489,7 +10489,6 @@ amic
 amicability
 antiadiaphorist
 amicabilities
-appredicate
 amicably
 amphipodous
 amical
@@ -14459,6 +14458,7 @@ addictiveness
 anthropogenous
 anthropogeographic
 anticivil
+appredicate
 affrontedly
 anthropogeographical
 amphibali
