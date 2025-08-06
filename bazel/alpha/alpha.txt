@@ -11436,7 +11436,6 @@ achitophel
 ajugas
 attendants
 anywheres
-assets
 artinite
 aneroids
 alterations
@@ -15304,6 +15303,7 @@ azulejo
 anticonscriptive
 antihierarchy
 aidless
+assets
 admeasured
 arroba
 archontic
