@@ -4285,7 +4285,6 @@ adrenergic
 anaptychi
 adrenin
 addu
-adrenitis
 archcount
 adrenochrome
 adrenocortical
@@ -14358,6 +14357,7 @@ attractancy
 anthophora
 ancyloceras
 awful
+adrenitis
 acolyte
 anthotaxy
 anthotaxis
