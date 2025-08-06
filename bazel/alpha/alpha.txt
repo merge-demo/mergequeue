@@ -7644,7 +7644,6 @@ assument
 alcicornium
 acetary
 antisepticist
-alcidine
 audiometry
 alcine
 atomist
@@ -23301,6 +23300,7 @@ accessibleness
 aucuba
 autogenesis
 aucubas
+alcidine
 abovementioned
 audace
 allophanamide
