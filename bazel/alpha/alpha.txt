@@ -1160,7 +1160,6 @@ academes
 academy
 apheliotropism
 aploperistomatous
-anaplasis
 academist
 academite
 academization
@@ -16526,6 +16525,7 @@ antianthrax
 antioxygenation
 aoudad
 arcuation
+anaplasis
 adenomata
 anack
 apabhramsa
