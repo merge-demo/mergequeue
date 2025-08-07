@@ -300,7 +300,6 @@ apothece
 abducted
 abductions
 amatorio
-allegro
 ampullar
 abductor
 abducts
@@ -5356,6 +5355,7 @@ affrontedness
 affronter
 anidiomatic
 affrontive
+allegro
 adenose
 affronts
 affuse
