@@ -8553,6 +8553,7 @@ alkene
 alkenyl
 amp
 alkes
+armchair
 awreck
 alkyd
 alkyds
@@ -19827,7 +19828,6 @@ armband
 albation
 anarchal
 arcane
-armchair
 ast
 acetabular
 atrail
