@@ -7855,7 +7855,6 @@ affecter
 archimandrite
 accorders
 alecost
-alectoria
 alectorides
 agroof
 aprosopia
@@ -18427,6 +18426,7 @@ aerodone
 albeston
 arbalestrier
 andromania
+alectoria
 arbalist
 arbalists
 abrenunciation
