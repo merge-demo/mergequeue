@@ -4365,7 +4365,6 @@ adstipulator
 adterminal
 aduana
 arrestor
-adularescence
 assertorial
 ankylomerism
 anilidoxime
@@ -16764,6 +16763,7 @@ autopsychorhythmia
 aphodi
 archipterygium
 angelim
+adularescence
 amphigonia
 adultoid
 aphydrotropic
