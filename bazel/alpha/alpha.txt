@@ -3742,7 +3742,6 @@ addiment
 adherend
 aquashow
 adherent
-adherents
 adherers
 abbozzo
 anticipatively
@@ -6097,6 +6096,7 @@ aglycons
 amphizoidae
 abrading
 alcyonarian
+adherents
 aglint
 arbitrated
 autocytolytic
