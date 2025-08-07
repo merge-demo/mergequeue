@@ -5860,7 +5860,6 @@ absence
 anophyte
 ager
 agers
-autogenous
 ages
 altisonant
 actinocrinidae
@@ -18624,6 +18623,7 @@ alkalescent
 angerly
 archaeostoma
 angelinformal
+autogenous
 archaeostomata
 airbags
 archaeotherium
