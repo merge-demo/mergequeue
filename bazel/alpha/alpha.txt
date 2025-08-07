@@ -5076,7 +5076,6 @@ aeronomies
 aesculin
 aesculus
 aplacophora
-aesir
 aesop
 aesopian
 aestethic
@@ -12562,6 +12561,7 @@ algae
 amorists
 anepithymia
 awnlike
+aesir
 annelidian
 antidoron
 appenditious
