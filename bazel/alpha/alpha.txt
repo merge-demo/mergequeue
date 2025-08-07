@@ -12800,7 +12800,6 @@ angiopressure
 acquaintance
 angiorrhagia
 angiorrhaphy
-angiorrhea
 angiosarcoma
 archaeocyathus
 ascher
@@ -15329,6 +15328,7 @@ anticoincidence
 agomphosis
 antihypophora
 acetopiperone
+angiorrhea
 antihistaminic
 aspection
 angiospermatous
