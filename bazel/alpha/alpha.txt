@@ -1478,7 +1478,6 @@ acclimates
 archipallial
 acclimatisation
 affixable
-acclimatise
 acclimatised
 acclimatiser
 acost
@@ -21499,6 +21498,7 @@ aspy
 aspics
 aspidiaria
 aspidinol
+acclimatise
 aladdinize
 aspidiske
 autotypies
