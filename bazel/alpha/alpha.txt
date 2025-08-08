@@ -6271,7 +6271,6 @@ aylet
 agraria
 amyelonic
 aerotactic
-abvolt
 antitrinitarian
 adjectively
 animative
@@ -11590,6 +11589,7 @@ abilities
 anachromasis
 acatharsy
 apodes
+abvolt
 andorra
 acicularly
 andreaeaceae
