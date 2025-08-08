@@ -15825,7 +15825,6 @@ accustomedness
 antipyrine
 antipyrotic
 antiplague
-aglobulism
 antiplanet
 almochoden
 antiplastic
@@ -20831,6 +20830,7 @@ arzun
 antick
 asa
 aneath
+aglobulism
 asafetida
 asale
 antesignanus
