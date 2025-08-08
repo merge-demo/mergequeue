@@ -1245,7 +1245,6 @@ acanthophorous
 aboded
 acanthopodous
 aqueously
-acanthopteran
 acanthopterygian
 adversed
 attached
@@ -17938,6 +17937,7 @@ auspicated
 apostolize
 appropriateness
 appropriating
+acanthopteran
 appropriativeness
 algometric
 appropriator
