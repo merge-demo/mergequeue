@@ -19080,7 +19080,6 @@ archpriestship
 archprimate
 artotyrite
 archpuritan
-acroataxia
 archregent
 archrobber
 archrogue
@@ -21276,6 +21275,7 @@ antimythical
 acknowledgement
 asymmetries
 asymmetron
+acroataxia
 afridi
 asymptomatic
 alizarin
