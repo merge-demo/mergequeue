@@ -5889,7 +5889,6 @@ anartismos
 agglutinate
 arenaceous
 arri
-agglutinative
 adamantine
 agglutinatively
 apiales
@@ -15989,6 +15988,7 @@ antiradical
 antiegotist
 actinopterous
 alastair
+agglutinative
 antiradicals
 antirailwayist
 alimentative
