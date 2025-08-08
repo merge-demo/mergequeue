@@ -335,7 +335,6 @@ abelia
 abelian
 alcoate
 auletris
-apodia
 abelmosk
 aftwards
 abends
@@ -8507,6 +8506,7 @@ affrayed
 antejentacular
 alkaliser
 adjoint
+apodia
 acerbic
 angustate
 animator
