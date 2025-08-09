@@ -3932,7 +3932,6 @@ amidine
 aisling
 aneuria
 adjured
-adjurer
 amygdalotome
 aristotelism
 adjures
@@ -21476,6 +21475,7 @@ ambiances
 asphyxia
 arretine
 apotypic
+adjurer
 asphyxias
 auxoaction
 asphyxiated
