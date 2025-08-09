@@ -7684,7 +7684,6 @@ alcoholicity
 antonymic
 aberroscope
 autoprothesis
-alcoholimeter
 autoconverter
 asterin
 alcoholised
@@ -9817,6 +9816,7 @@ aloeswood
 amande
 abaised
 amandine
+alcoholimeter
 amanist
 airwaybill
 amanitine
