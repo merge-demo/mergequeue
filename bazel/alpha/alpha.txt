@@ -12449,7 +12449,6 @@ adequateness
 anecdote
 anecdotes
 anecdotic
-anecdotical
 anova
 anecdotically
 aegagropile
@@ -16171,6 +16170,7 @@ achroodextrin
 agromania
 antisophism
 antisophist
+anecdotical
 antisophistication
 antisoporific
 antispasmodic
