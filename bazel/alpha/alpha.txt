@@ -4293,7 +4293,6 @@ adrenocorticotrophic
 ammonolysis
 afterstain
 albuminosis
-adrenocorticotropic
 anthracolithic
 adrenosterone
 albacores
@@ -11954,6 +11953,7 @@ anapodeictic
 annihilates
 anapsid
 australopithecus
+adrenocorticotropic
 anapterygota
 andes
 anapterygotism
