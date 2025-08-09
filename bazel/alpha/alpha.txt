@@ -2193,6 +2193,7 @@ abatjours
 agrostology
 alqueire
 amyelotrophy
+atavists
 achordata
 achordate
 achorion
@@ -17568,7 +17569,6 @@ arriccioci
 appellee
 appellor
 aminobenzene
-atavists
 antifederalist
 alcedo
 alunite
