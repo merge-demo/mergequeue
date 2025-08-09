@@ -2775,6 +2775,7 @@ acrocephalic
 aw
 acrochordinae
 aface
+aediculae
 almeh
 archaeologist
 argand
@@ -4639,7 +4640,6 @@ aecioteliospore
 abigeus
 aedeagi
 aedeagus
-aediculae
 aedicule
 attraction
 aedile
