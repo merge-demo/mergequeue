@@ -13242,7 +13242,6 @@ attorns
 armories
 azulite
 adjectival
-anischuria
 aniseed
 adynamic
 aniseeds
@@ -16274,6 +16273,7 @@ antitypal
 antityphoid
 amaroid
 antitypical
+anischuria
 antitypous
 amphigouris
 anthochlor
