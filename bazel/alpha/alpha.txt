@@ -904,7 +904,6 @@ alachah
 anabong
 audiometric
 ascidium
-aures
 absyrtus
 amylon
 absis
@@ -5402,6 +5401,7 @@ apocatastasis
 afoul
 afray
 athrocytosis
+aures
 antisymmetrical
 anticensoriousness
 aspirator
