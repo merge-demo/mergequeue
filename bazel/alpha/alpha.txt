@@ -1600,6 +1600,7 @@ abduction
 antefact
 anthrop
 amatorian
+articular
 accouche
 accouchement
 accoucheur
@@ -6104,7 +6105,6 @@ aglipayano
 ann
 aglypha
 analogal
-articular
 aglyphodont
 algodonite
 aback
