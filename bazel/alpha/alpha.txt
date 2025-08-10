@@ -6612,7 +6612,6 @@ aiguillette
 anthropoids
 aquiline
 antinuke
-agorae
 aik
 aikane
 automatictacessing
@@ -12423,6 +12422,7 @@ androsphinx
 androsporangium
 arteriology
 androsterone
+agorae
 androtomy
 ands
 angara
