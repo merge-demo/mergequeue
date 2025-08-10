@@ -3791,7 +3791,6 @@ adiated
 adiathermal
 adiathermancy
 antioxidase
-alcoranist
 alure
 arcticologist
 acaridea
@@ -8267,6 +8266,7 @@ agouties
 ancylodactyla
 ariettas
 adipocyte
+alcoranist
 alienage
 alienated
 alienation
