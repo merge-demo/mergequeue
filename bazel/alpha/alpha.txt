@@ -16412,7 +16412,6 @@ antonomasia
 anaplastic
 antonomastic
 antonomastical
-antonomastically
 antonovics
 antiracially
 armrests
@@ -19092,6 +19091,7 @@ arachnophagous
 archsee
 archsewer
 auryl
+antonomastically
 autographic
 archsynagogue
 ade
