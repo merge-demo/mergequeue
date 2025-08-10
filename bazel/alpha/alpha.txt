@@ -1485,7 +1485,6 @@ acost
 acclimatising
 allgood
 aegagrus
-algid
 alpinery
 acclimatizer
 anthela
@@ -3551,6 +3550,7 @@ arpent
 ajivas
 adelantado
 administrators
+algid
 adelante
 adelarthra
 aircoaches
