@@ -4633,6 +4633,7 @@ aecidiostage
 aglare
 alismad
 aecidium
+antigrammatical
 acoemetic
 aeciospore
 aecioteliospore
@@ -15274,7 +15275,6 @@ afflue
 antigonus
 antigovernmental
 antigovernmentally
-antigrammatical
 aminoacetanilide
 arcadings
 anisotropal
