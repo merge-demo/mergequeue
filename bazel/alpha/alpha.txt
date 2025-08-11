@@ -8412,7 +8412,6 @@ adpress
 alison
 anticomet
 aerodromics
-alisp
 autograph
 alisphenoidal
 antiferroelectric
@@ -17653,6 +17652,7 @@ acinaces
 appetiser
 atlantad
 alerted
+alisp
 appetite
 algaroth
 autographist
