@@ -1506,7 +1506,6 @@ afoot
 acclivous
 accoil
 accolade
-accolades
 anabo
 accoll
 antirational
@@ -23622,6 +23621,7 @@ auricularian
 appealingness
 auriculas
 aviate
+accolades
 alethic
 aussie
 actinally
