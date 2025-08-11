@@ -13535,7 +13535,6 @@ ablate
 adaptability
 albuminization
 annotator
-auxiliar
 annotators
 arrendator
 assonant
@@ -21994,6 +21993,7 @@ astatines
 anaerobism
 astatize
 alejandro
+auxiliar
 alphanumerical
 allelisms
 avenous
