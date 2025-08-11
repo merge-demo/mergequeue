@@ -4087,7 +4087,6 @@ admixed
 arachnomorphae
 applausive
 azygobranchiata
-abomasal
 admixt
 admixtion
 admixtures
@@ -14495,6 +14494,7 @@ acrocarpi
 allan
 anthropometrist
 anthropomophitism
+abomasal
 antiphrastic
 antipestilence
 asepticism
