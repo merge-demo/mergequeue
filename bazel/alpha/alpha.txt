@@ -6559,6 +6559,7 @@ aidman
 aidmen
 adjunctive
 aids
+allowed
 afterripening
 arbalestre
 antiheterolysin
@@ -9085,7 +9086,6 @@ allowableness
 allowancing
 alkalises
 ammonoid
-allowed
 assertiveness
 acquiescing
 assagais
