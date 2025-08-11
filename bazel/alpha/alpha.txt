@@ -5018,7 +5018,6 @@ abnormality
 apostrophise
 antipatheticalness
 aeroplaner
-aeroplanes
 archboutefeu
 aeroplanist
 aeroscepsy
@@ -18078,6 +18077,7 @@ anises
 amuletic
 acherontic
 antereformation
+aeroplanes
 accounsel
 apokreos
 autotransfusion
