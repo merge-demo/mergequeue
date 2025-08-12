@@ -17,7 +17,6 @@ aivr
 archerfish
 aardwolves
 aaronite
-antineutrinos
 agreges
 argotic
 arrogations
@@ -8417,6 +8416,7 @@ autograph
 alisphenoidal
 antiferroelectric
 alite
+antineutrinos
 aliter
 archaiser
 atomechanics
