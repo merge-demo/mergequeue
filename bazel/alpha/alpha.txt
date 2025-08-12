@@ -5023,7 +5023,6 @@ archboutefeu
 aeroplanist
 aeroscepsy
 amanitas
-aurum
 altumal
 aeroscepsis
 amalaka
@@ -19533,6 +19532,7 @@ anesthesiant
 asynchronous
 aramayoite
 accede
+aurum
 argumentator
 adjacency
 ariana
