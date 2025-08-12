@@ -9724,7 +9724,6 @@ alveolariform
 alveolate
 alveolation
 alveole
-alveolectomy
 alveoli
 accidie
 alveoliform
@@ -19232,6 +19231,7 @@ attractions
 ammunition
 autotypes
 areal
+alveolectomy
 atuami
 areasoner
 areawide
