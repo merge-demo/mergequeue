@@ -7804,6 +7804,7 @@ assured
 adipescent
 aldolization
 anconei
+anova
 aldolized
 aldolizing
 atmosphered
@@ -12450,7 +12451,6 @@ anecdote
 anecdotes
 anecdotic
 anecdotical
-anova
 anecdotically
 aegagropile
 appealed
