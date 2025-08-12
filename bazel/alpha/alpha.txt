@@ -5261,7 +5261,6 @@ alemanni
 aggerate
 affinities
 affinition
-affinitive
 affirmable
 asiaticism
 abreacted
@@ -19860,6 +19859,7 @@ agoroth
 aethon
 animalization
 archthief
+affinitive
 armhole
 armhoop
 aquavalent
