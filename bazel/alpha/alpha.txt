@@ -10001,7 +10001,6 @@ ambergris
 ahchoo
 amberite
 amicron
-artiller
 arrival
 amberjacks
 ahankara
@@ -19401,6 +19400,7 @@ argentino
 argention
 axonophorous
 argentometer
+artiller
 antillean
 argentometry
 aday
