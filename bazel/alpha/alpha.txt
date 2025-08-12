@@ -12211,7 +12211,6 @@ anchorite
 astate
 archinfamy
 anchoritess
-alignment
 anchorlike
 anchorman
 auriculae
@@ -23326,6 +23325,7 @@ aghanee
 asyla
 armoires
 audibles
+alignment
 alkoran
 alulet
 ametabolous
