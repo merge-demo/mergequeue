@@ -11662,7 +11662,6 @@ actinometry
 allegory
 aucanian
 ambuling
-anticarnivorous
 acoria
 argyrodite
 asperates
@@ -12854,6 +12853,7 @@ argenol
 archencephalic
 anglehook
 aphthitalite
+anticarnivorous
 anglepod
 anglepods
 amianthine
