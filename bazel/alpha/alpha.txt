@@ -5763,7 +5763,6 @@ anguillulidae
 antismog
 agrised
 ashmen
-agastric
 awacs
 apickaback
 ancestor
@@ -16304,6 +16303,7 @@ acetanilide
 ariki
 antitragal
 antitetanic
+agastric
 accusive
 antitragicus
 aricine
