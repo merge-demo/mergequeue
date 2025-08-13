@@ -1383,7 +1383,6 @@ accentually
 accension
 agapanthus
 accept
-approximating
 acceptability
 agonist
 amintor
@@ -11570,6 +11569,7 @@ archhead
 after
 anacamptics
 antiperistasis
+approximating
 anacanthine
 anergy
 antielectron
