@@ -2325,7 +2325,6 @@ acidoses
 antiradically
 afternoon
 acidosteophyte
-arecuna
 aul
 acids
 amenity
@@ -7520,6 +7519,7 @@ albuminising
 albuminize
 arrested
 albuminized
+arecuna
 anchovies
 albuminofibrin
 albuminoid
