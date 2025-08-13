@@ -2253,7 +2253,6 @@ atmograph
 announcement
 albanians
 achtehalber
-amounts
 agraffes
 auride
 antiager
@@ -17677,6 +17676,7 @@ appl
 applanate
 antienzymic
 applanation
+amounts
 applaudable
 araneiformes
 applaudably
