@@ -4882,7 +4882,6 @@ aerodontalgia
 arcanum
 antipedal
 archhost
-arenite
 areek
 aerodrome
 aerodromes
@@ -17196,6 +17195,7 @@ araneiform
 ajog
 anaerobian
 apolunes
+arenite
 ankerites
 apolusis
 anatosaurus
