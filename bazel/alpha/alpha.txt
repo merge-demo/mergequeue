@@ -8751,6 +8751,7 @@ actinopod
 allergin
 allergists
 allerion
+azimuth
 assurable
 annuities
 anconad
@@ -25273,7 +25274,6 @@ afrikanderism
 azimino
 antiphonaries
 azymite
-azimuth
 azimuthal
 acceded
 aulete
