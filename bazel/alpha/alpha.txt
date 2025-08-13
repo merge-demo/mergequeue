@@ -5116,7 +5116,6 @@ anend
 aetat
 aethalium
 astragalectomy
-aether
 advected
 aromacity
 ahrimanian
@@ -8466,6 +8465,7 @@ anesthesiometer
 areopagitic
 arcadia
 annoys
+aether
 alcoholometrical
 alkali
 alkalies
