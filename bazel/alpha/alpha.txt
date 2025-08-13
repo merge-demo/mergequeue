@@ -5571,7 +5571,6 @@ archtempter
 accusatrixes
 aftertask
 asherahs
-achromatium
 afterthought
 afterthoughts
 afterthrift
@@ -13629,6 +13628,7 @@ anodically
 anodyne
 anodynes
 anaphroditous
+achromatium
 anodized
 anodizes
 acoelomous
