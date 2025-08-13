@@ -6341,7 +6341,6 @@ ametrometer
 agriculturist
 agriculturists
 aftergood
-anticreep
 agrilus
 aureola
 abohms
@@ -11510,6 +11509,7 @@ amuze
 advertisable
 amuzzle
 anabaenas
+anticreep
 amphigastria
 anabantid
 arguses
