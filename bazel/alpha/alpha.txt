@@ -3907,7 +3907,6 @@ adjudicate
 antihierarchal
 autarkik
 adjudicated
-adjudication
 agglutinin
 adjudicative
 anaphora
@@ -22212,6 +22211,7 @@ astraphobia
 astrapophobia
 abdomen
 anis
+adjudication
 anastomoses
 agencies
 alecize
