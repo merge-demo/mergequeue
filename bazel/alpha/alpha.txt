@@ -9618,7 +9618,6 @@ anisomeles
 autoharp
 alture
 altus
-algivorous
 aluco
 alpaca
 amazia
@@ -9956,6 +9955,7 @@ androeccia
 amaze
 airlocks
 akroterial
+algivorous
 autotrophy
 anatomicopathological
 amazer
