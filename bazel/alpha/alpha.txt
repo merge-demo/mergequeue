@@ -1436,7 +1436,6 @@ awl
 accessioner
 accessive
 anoplocephalic
-aurichalcum
 awlessness
 alg
 atka
@@ -6915,6 +6914,7 @@ alanyls
 assailment
 amende
 aglyphous
+aurichalcum
 aptian
 aventine
 airview
