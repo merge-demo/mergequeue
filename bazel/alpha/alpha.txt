@@ -12030,7 +12030,6 @@ anastases
 admiral
 assentation
 anastasia
-autodestruction
 aletris
 abstractors
 anastasian
@@ -24725,6 +24724,7 @@ airest
 ankylosaurus
 aviated
 angule
+autodestruction
 admission
 antemural
 addling
