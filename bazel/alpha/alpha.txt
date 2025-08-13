@@ -6863,7 +6863,6 @@ airplot
 airport
 ady
 airposts
-asst
 airproofs
 archmurderer
 aistopoda
@@ -15667,6 +15666,7 @@ afterking
 alderling
 amygdalectomy
 alehoof
+asst
 atrazine
 achromatism
 armoury
