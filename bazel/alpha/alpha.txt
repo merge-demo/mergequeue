@@ -11639,7 +11639,6 @@ analgene
 alphabetize
 athens
 anacrogynae
-amba
 anacrogynous
 anacrotic
 altricial
@@ -13348,6 +13347,7 @@ anystidae
 anhydrating
 anisum
 antileveling
+amba
 appinite
 appraiser
 adjudicata
