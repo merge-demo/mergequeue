@@ -6103,7 +6103,6 @@ autocytolytic
 aglipayano
 ann
 aglypha
-analogal
 articular
 aglyphodont
 algodonite
@@ -17238,6 +17237,7 @@ aseismicity
 animalculine
 apophylactic
 apophyllite
+analogal
 appreciant
 archicarp
 amorous
