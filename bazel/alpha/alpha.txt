@@ -913,6 +913,7 @@ absit
 absoil
 absterging
 antient
+alatern
 amphitron
 absolent
 absolute
@@ -7292,7 +7293,6 @@ alaskite
 alastor
 alate
 alated
-alatern
 annoyers
 alation
 achage
