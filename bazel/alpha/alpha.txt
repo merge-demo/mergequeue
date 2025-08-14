@@ -783,7 +783,6 @@ ascites
 abreast
 archenteric
 abreed
-anchylosing
 asyle
 abri
 acetate
@@ -22409,6 +22408,7 @@ acetotoluide
 aswarm
 aswash
 adyton
+anchylosing
 asweat
 aristarchy
 asweve
