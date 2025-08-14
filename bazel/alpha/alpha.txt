@@ -1162,6 +1162,7 @@ apheliotropism
 aploperistomatous
 anaplasis
 academist
+autodetector
 academite
 academization
 allayed
@@ -14175,7 +14176,6 @@ anterevolutional
 ancor
 antergic
 aspic
-autodetector
 abstractively
 atlee
 anteri
