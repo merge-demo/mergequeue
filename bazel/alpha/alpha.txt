@@ -3177,6 +3177,7 @@ aweather
 apostrophized
 actives
 activin
+adversarial
 activism
 aetiologically
 activities
@@ -14751,7 +14752,6 @@ anticancer
 attaboy
 anaryan
 aetheogamous
-adversarial
 anticapitalist
 anticapitalistically
 anticardiac
