@@ -3364,6 +3364,7 @@ adapid
 adapt
 anisospore
 apolytikion
+admove
 apeman
 aliased
 adaptableness
@@ -24667,7 +24668,6 @@ annuli
 acinetarian
 anopheline
 averments
-admove
 aureolae
 aeneid
 antidiastase
