@@ -2244,7 +2244,6 @@ achromatosis
 achromobacter
 acyrological
 achromoderma
-amygdalolith
 achromous
 articulability
 allows
@@ -16737,6 +16736,7 @@ aciculums
 aphelilia
 abstricts
 aphemia
+amygdalolith
 ambidextrous
 aphemic
 aphengoscope
