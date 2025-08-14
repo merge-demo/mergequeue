@@ -443,7 +443,6 @@ amplitudes
 apathist
 acousmas
 abiogenetical
-abiogenetically
 apothems
 anonychia
 abioses
@@ -24226,6 +24225,7 @@ automatonta
 automatous
 automechanical
 actinically
+abiogenetically
 automechanism
 antinodes
 automen
