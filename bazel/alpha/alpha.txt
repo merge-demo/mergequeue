@@ -5851,7 +5851,6 @@ adolph
 agenting
 agentives
 adducing
-archprototype
 archsnob
 agents
 ageometrical
@@ -15970,6 +15969,7 @@ angelfish
 autoloading
 antirabies
 antirachitic
+archprototype
 aponeurositis
 anisomelia
 antirachitically
