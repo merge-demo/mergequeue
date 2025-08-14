@@ -13452,7 +13452,6 @@ anneals
 annect
 adenohypophysis
 annelidan
-annelidous
 aioli
 annelism
 annellata
@@ -15670,6 +15669,7 @@ alehoof
 atrazine
 achromatism
 armoury
+annelidous
 amphibiotica
 antiskepticism
 anarthria
