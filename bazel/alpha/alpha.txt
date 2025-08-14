@@ -3594,6 +3594,7 @@ adatom
 adenitis
 adenization
 anticeremonious
+antibaryon
 adenoacanthoma
 adenocarcinoma
 adenocarcinomas
@@ -6569,7 +6570,6 @@ asplanchnic
 aeromechanical
 aeolina
 ayenst
-antibaryon
 alectrionidae
 albi
 americanumancestors
