@@ -8890,7 +8890,6 @@ allanturic
 antevocalic
 arrayment
 armouries
-audiometries
 alderliefest
 arboroid
 allochiria
@@ -15507,6 +15506,7 @@ aspectual
 antimodel
 asparkle
 antimodern
+audiometries
 alimentatively
 autosymbiontic
 antimodernist
