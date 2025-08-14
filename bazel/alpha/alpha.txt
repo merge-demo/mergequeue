@@ -4892,7 +4892,6 @@ aeroelastic
 aeroelasticity
 aerofoil
 adjurors
-aerofoils
 adjourned
 algine
 amberfish
@@ -17109,6 +17108,7 @@ apogamy
 antibody
 appendicle
 apogamies
+aerofoils
 apogamously
 alebion
 aerialists
