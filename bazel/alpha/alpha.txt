@@ -5488,7 +5488,6 @@ afterdeal
 afterdeck
 adipomata
 afterform
-actuarial
 aevum
 aerolith
 afterfruits
@@ -5961,6 +5960,7 @@ abortus
 amount
 anchylotic
 acystia
+actuarial
 arthredema
 aggressivity
 aclys
