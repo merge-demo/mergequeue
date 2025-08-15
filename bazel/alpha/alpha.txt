@@ -14844,7 +14844,6 @@ anticyclogenesis
 anticyclolysis
 adelops
 aphotic
-anticyclone
 anticyclones
 anticyclonically
 abaculi
@@ -23851,6 +23850,7 @@ actively
 arthritics
 asiphonate
 authentic
+anticyclone
 authentically
 antipleuritic
 assignees
