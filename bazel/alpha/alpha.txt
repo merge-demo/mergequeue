@@ -13314,7 +13314,6 @@ anisophyllous
 afterchurch
 atbash
 apace
-anisopod
 ataraxias
 asseverated
 ancient
@@ -15624,6 +15623,7 @@ antinomies
 ailment
 acoustics
 antinormality
+anisopod
 antinormalness
 alembics
 anoxaemia
