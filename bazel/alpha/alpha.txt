@@ -8531,7 +8531,6 @@ abattoir
 allicholly
 alkanethiol
 alkanets
-amebocyte
 autophyllogeny
 alkanol
 acanthosis
@@ -8737,6 +8736,7 @@ alleniate
 allentato
 agaty
 alsine
+amebocyte
 acalephan
 aerocurve
 anapterygote
