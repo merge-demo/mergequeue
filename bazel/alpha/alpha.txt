@@ -2432,7 +2432,6 @@ autoriser
 atrochal
 arisings
 acknowing
-acknowledged
 afoam
 adoxography
 acknowledger
@@ -3818,6 +3817,7 @@ altin
 adight
 adin
 araneose
+acknowledged
 anguineous
 apparentation
 adynamia
