@@ -4894,6 +4894,7 @@ aerofoil
 adjurors
 aerofoils
 adjourned
+affeerer
 algine
 amberfish
 aerogel
@@ -5201,7 +5202,6 @@ affectivity
 affector
 aedility
 affectum
-affeerer
 auturgy
 ankerite
 ampulated
