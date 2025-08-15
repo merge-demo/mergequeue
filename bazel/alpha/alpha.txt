@@ -8872,7 +8872,6 @@ amyosthenia
 attal
 amender
 adeptly
-adamastor
 aditus
 administered
 allocator
@@ -9618,6 +9617,7 @@ anisomeles
 autoharp
 alture
 altus
+adamastor
 algivorous
 aluco
 alpaca
