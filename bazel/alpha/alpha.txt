@@ -6739,7 +6739,6 @@ airan
 airbills
 airboat
 airboats
-anomal
 airbrained
 airbrasive
 almagra
@@ -8950,6 +8949,7 @@ alloiogenesis
 attitude
 assizer
 alloiometric
+anomal
 adjustments
 acrogenic
 alloisomerism
