@@ -1380,7 +1380,6 @@ accents
 auxillary
 accentual
 accentually
-accension
 agapanthus
 accept
 approximating
@@ -12750,6 +12749,7 @@ anasazi
 areality
 appellors
 angioblastic
+accension
 advenience
 angiocardiographies
 anileness
