@@ -2566,6 +2566,7 @@ acouchi
 acoumeter
 antisubmarine
 alliaceae
+ambas
 antagonisms
 accoutering
 astringence
@@ -9978,7 +9979,6 @@ authenticities
 assayer
 ambary
 ambaris
-ambas
 ambassade
 appreciatively
 alkynes
