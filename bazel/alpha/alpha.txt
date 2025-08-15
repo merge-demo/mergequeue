@@ -12233,7 +12233,6 @@ ancilla
 anticks
 asimen
 ancylopod
-acneiform
 acrider
 anatropous
 alnico
@@ -13764,6 +13763,7 @@ attenuates
 anopla
 anoplonemertean
 apotheosise
+acneiform
 atazir
 apprehended
 anoplonemertini
