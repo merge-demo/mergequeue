@@ -1765,7 +1765,6 @@ archiereus
 accuse
 amidships
 accused
-accusers
 achatour
 accusing
 accusor
@@ -4364,6 +4363,7 @@ adenoids
 adstipulator
 adterminal
 aduana
+accusers
 arrestor
 adularescence
 assertorial
