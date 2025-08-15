@@ -7627,6 +7627,7 @@ antilepsis
 antennulary
 alderman
 accident
+ascicidia
 anisokonia
 allograph
 adiactinic
@@ -11259,7 +11260,6 @@ antistalling
 amphiplatyan
 acknowledge
 amphiploidy
-ascicidia
 alephzero
 ains
 aphaniptera
