@@ -8154,6 +8154,7 @@ artisanship
 algoid
 adroitness
 anglophiliac
+armors
 algolagnia
 adjuster
 augean
@@ -19948,7 +19949,6 @@ armorless
 antileukemic
 autohemorrhage
 aplopappus
-armors
 apophyge
 anenterous
 artistically
