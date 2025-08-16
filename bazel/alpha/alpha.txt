@@ -16083,7 +16083,6 @@ antiscientific
 ande
 auto
 africa
-antiscolic
 antiscorbutical
 antiscriptural
 acrosphacelus
@@ -23413,6 +23412,7 @@ adversity
 antiantidote
 aquiform
 agitable
+antiscolic
 augends
 anatomicophysiologic
 auger
