@@ -3831,7 +3831,6 @@ adipinic
 autotransplant
 adipocellulose
 adipocere
-adipoceriform
 adipoid
 angiology
 aube
@@ -10980,6 +10979,7 @@ amoebogeniae
 amoebula
 amoy
 apinoid
+adipoceriform
 absenteeism
 amok
 amoke
