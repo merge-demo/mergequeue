@@ -5854,7 +5854,6 @@ adducing
 archprototype
 archsnob
 agents
-ageometrical
 advisor
 absence
 anophyte
@@ -24808,6 +24807,7 @@ avital
 avitaminosis
 anoxic
 adaption
+ageometrical
 avocadoes
 augmentatively
 avocat
