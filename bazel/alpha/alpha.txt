@@ -7197,6 +7197,7 @@ aerostation
 acquisitions
 affirmatives
 alain
+ashtoreth
 ablastin
 alaki
 autochemical
@@ -21205,7 +21206,6 @@ auxins
 anticonformist
 ashrama
 alloxanate
-ashtoreth
 aspartic
 ashvamedha
 ashwort
