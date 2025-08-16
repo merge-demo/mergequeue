@@ -4245,6 +4245,7 @@ anamneses
 autoelectrolysis
 alright
 antioxidizer
+assemblyman
 assemblement
 autosuggest
 angild
@@ -21674,7 +21675,6 @@ assembled
 anniv
 assembler
 assembly
-assemblyman
 aerohydrotherapy
 assentaneous
 assentator
