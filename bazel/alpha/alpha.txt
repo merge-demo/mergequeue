@@ -20638,6 +20638,7 @@ albumen
 arthrospore
 arthrosteitis
 arthrostome
+ascophore
 arthrostomy
 arthrotyphoid
 amninia
@@ -21045,7 +21046,6 @@ assignee
 aortography
 ascones
 asconoid
-ascophore
 aerobiont
 aclydes
 ascorbic
