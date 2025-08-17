@@ -1960,7 +1960,6 @@ anamirtin
 acetylization
 ammonization
 acetylizer
-acetylizing
 acetylmethylcarbinol
 aporetic
 acetylperoxide
@@ -23005,6 +23004,7 @@ anisodont
 almirah
 attainture
 asyzygetic
+acetylizing
 amygdaliform
 attalea
 attalid
