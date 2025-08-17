@@ -7619,7 +7619,6 @@ asylum
 arrhythmical
 alchemy
 angiomata
-alchemic
 antiviral
 alchemies
 actinozoal
@@ -9016,6 +9015,7 @@ allopsychic
 allorhythmia
 autobolide
 ailments
+alchemic
 ataghan
 arsnicker
 allose
