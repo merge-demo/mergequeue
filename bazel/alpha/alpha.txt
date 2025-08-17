@@ -8958,7 +8958,6 @@ archaically
 averager
 anematizing
 aerobiologic
-allomorphism
 anisidin
 allomorphite
 allonym
@@ -21345,6 +21344,7 @@ askos
 askr
 aslant
 aglethead
+allomorphism
 antidraft
 adenylpyrophosphate
 atabeg
