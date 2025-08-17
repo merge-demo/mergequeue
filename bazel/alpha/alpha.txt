@@ -3763,7 +3763,6 @@ adhort
 awol
 adiabat
 adumbrate
-antecedal
 adiadochokinesis
 adiadokokinesia
 adiagnostic
@@ -8540,6 +8539,7 @@ alkapton
 alkaptone
 ascent
 alkaptonuric
+antecedal
 alkarsin
 ancipital
 alkarsine
