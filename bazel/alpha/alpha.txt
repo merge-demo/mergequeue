@@ -4856,7 +4856,6 @@ amoebous
 arkwright
 aerodermectasia
 aerodynamical
-aerodynamically
 appoggiatura
 amphibiology
 aloma
@@ -6313,6 +6312,7 @@ agrestial
 archduchess
 agrestic
 agrestical
+aerodynamically
 agria
 awapuhi
 agricere
