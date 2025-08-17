@@ -13365,7 +13365,6 @@ anywhither
 anywither
 anhalonium
 androgenic
-adscripts
 amucks
 anker
 ankerhold
@@ -17342,6 +17341,7 @@ armigeral
 apostematic
 animalcules
 anaesthetic
+adscripts
 autothermy
 aposteme
 aposteriori
