@@ -566,6 +566,7 @@ airscrew
 acusector
 actinulae
 apioidal
+acquisition
 advowry
 ashantee
 ashlers
@@ -14443,7 +14444,6 @@ always
 antiuating
 anthrophore
 anthropical
-acquisition
 anthropobiology
 automaton
 anthropocentric
