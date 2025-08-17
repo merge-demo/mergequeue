@@ -5746,7 +5746,6 @@ agarics
 acknew
 absurds
 apluda
-aleurodidae
 agaristidae
 agarita
 agaroid
@@ -12810,6 +12809,7 @@ angioscope
 arlington
 angiosymphysis
 adry
+aleurodidae
 attacks
 assistant
 angiosporous
