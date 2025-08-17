@@ -3105,6 +3105,7 @@ allotment
 autorail
 actinopteri
 accentuated
+amnesties
 ambling
 axonemal
 amsterdam
@@ -21396,7 +21397,6 @@ aspects
 aspen
 aspens
 asper
-amnesties
 amenage
 alluvia
 asperate
