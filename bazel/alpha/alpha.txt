@@ -2005,7 +2005,6 @@ antependia
 acetonylacetone
 acetamido
 amidoaldehyde
-acetonitrile
 amortised
 aberrancies
 ample
@@ -15044,6 +15043,7 @@ alienator
 antidemocratically
 antidemoniac
 antidepressant
+acetonitrile
 antidetonant
 anociassociation
 antidetonating
