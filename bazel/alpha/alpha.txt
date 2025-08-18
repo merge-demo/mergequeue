@@ -23734,7 +23734,6 @@ accursing
 austausch
 austemper
 aspermia
-austenitic
 austenitizing
 auster
 acanthous
@@ -24516,6 +24515,7 @@ armsize
 abhor
 aerophile
 auxiliaries
+austenitic
 androcracy
 auxiliate
 abiosis
