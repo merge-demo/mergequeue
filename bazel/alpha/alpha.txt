@@ -13299,7 +13299,6 @@ agglutinability
 anisomeric
 autosome
 apoturmeric
-anisometric
 antimerger
 amphistyly
 anorexic
@@ -16149,6 +16148,7 @@ antiskeptic
 aviatorial
 adeps
 antiskid
+anisometric
 aloofness
 andron
 abreact
