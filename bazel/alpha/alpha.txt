@@ -5550,7 +5550,6 @@ afters
 alumna
 allomerism
 aftershaft
-aftershafted
 acetylcholinic
 archdruid
 almagests
@@ -17548,6 +17547,7 @@ appeases
 advantages
 acratia
 adelomorphous
+aftershafted
 atalantis
 archenemies
 appeasingly
