@@ -2006,7 +2006,6 @@ acetonylacetone
 acetamido
 amidoaldehyde
 acetonitrile
-amortised
 aberrancies
 ample
 acrologically
@@ -14496,6 +14495,7 @@ allan
 anthropometrist
 anthropomophitism
 antiphrastic
+amortised
 antipestilence
 asepticism
 accompanist
