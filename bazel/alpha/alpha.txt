@@ -7069,6 +7069,7 @@ aketon
 altiloquent
 akha
 angus
+auxetical
 archaeornis
 akhara
 andante
@@ -23747,7 +23748,6 @@ asks
 apposite
 astraeid
 austral
-auxetical
 australene
 avianization
 achieved
