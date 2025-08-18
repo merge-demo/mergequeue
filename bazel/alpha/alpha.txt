@@ -940,6 +940,7 @@ absolve
 aestuary
 absolvent
 arteriotome
+amplication
 absolves
 absolving
 absolvitor
@@ -11381,7 +11382,6 @@ autocephaly
 absorptance
 ampliative
 aiguiere
-amplication
 amplicative
 angerless
 autoelectrolytic
