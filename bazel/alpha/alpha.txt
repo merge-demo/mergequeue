@@ -6495,6 +6495,7 @@ aholds
 ahom
 ahorse
 ahriman
+altern
 ahs
 ablare
 achromia
@@ -9505,7 +9506,6 @@ argiopoidea
 acupunctuate
 apses
 alterman
-altern
 alternacy
 asynchronously
 alternamente
