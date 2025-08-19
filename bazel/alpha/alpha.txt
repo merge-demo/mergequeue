@@ -6256,7 +6256,6 @@ agrammaphasia
 agrammatica
 accouple
 afterpeak
-agrammatism
 authorized
 agrammatologia
 annattos
@@ -23955,6 +23954,7 @@ achatinella
 autocarpic
 acenaphthenyl
 autocatalyses
+agrammatism
 almoner
 autocatalysis
 apsinthion
