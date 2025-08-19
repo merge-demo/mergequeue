@@ -2755,7 +2755,6 @@ amnion
 acrobacies
 artarin
 apanage
-acrobates
 amontillado
 amidrazone
 acrobatical
@@ -15591,6 +15590,7 @@ adiaphorite
 antineuritic
 antineutral
 ansa
+acrobates
 antineutralism
 argyles
 attritive
