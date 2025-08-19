@@ -3634,6 +3634,7 @@ airmonger
 adenomycosis
 adenomyofibroma
 alvite
+auriform
 aptote
 adenomyoma
 adenomyxosarcoma
@@ -25259,7 +25260,6 @@ azygoses
 azygote
 atabal
 actuaries
-auriform
 aminosis
 amnestying
 azimene
