@@ -10978,6 +10978,7 @@ amoebobacterieae
 amoebocyte
 amoebogeniae
 amoebula
+antimoniate
 amoy
 apinoid
 absenteeism
@@ -11790,7 +11791,6 @@ analysers
 abstentions
 aerides
 analyses
-antimoniate
 analysis
 analyst
 aurei
