@@ -22044,7 +22044,6 @@ asternal
 adenocancroid
 asternata
 asteroid
-asteroids
 asterolepidae
 andamanese
 arithromania
@@ -23157,6 +23156,7 @@ apophasis
 attitudinised
 anba
 attitudiniser
+asteroids
 amphimictically
 animetta
 aginners
