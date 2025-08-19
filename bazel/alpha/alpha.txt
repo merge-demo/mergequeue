@@ -8894,7 +8894,6 @@ audiometries
 alderliefest
 arboroid
 allochiria
-adaptionism
 alcoves
 allochlorophyll
 antigropelos
@@ -12155,6 +12154,7 @@ anaunters
 aggressive
 anax
 ablaut
+adaptionism
 aerocyst
 anaxagorean
 andira
