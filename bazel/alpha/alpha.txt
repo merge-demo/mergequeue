@@ -2115,6 +2115,7 @@ achievement
 antecedents
 agamogenetic
 ardor
+acroparesthesia
 achievements
 antapices
 aiguillesque
@@ -17228,7 +17229,6 @@ antivirus
 aponeurotomy
 aponic
 apoop
-acroparesthesia
 apopenptic
 apophatic
 akhrot
