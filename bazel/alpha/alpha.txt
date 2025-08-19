@@ -12583,7 +12583,6 @@ anglicization
 anerythroplasia
 antidorcas
 anes
-anesone
 anesthesia
 apexes
 armisonant
@@ -23771,6 +23770,7 @@ acoustic
 aldermanry
 austrians
 annite
+anesone
 austric
 austrine
 autarkical
