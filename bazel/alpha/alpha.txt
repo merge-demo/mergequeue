@@ -14247,6 +14247,7 @@ attractance
 anticlnoria
 acipenseres
 alopias
+angiocarp
 antlered
 anthecologist
 antheia
@@ -15527,7 +15528,6 @@ arrack
 antimonarchism
 albin
 ancoral
-angiocarp
 ascan
 anoxemic
 antimony
