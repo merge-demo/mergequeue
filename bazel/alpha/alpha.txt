@@ -4954,6 +4954,7 @@ aeromedical
 aerometer
 amygdalus
 amenite
+allobaric
 amphictyonies
 autonomously
 athenians
@@ -8852,7 +8853,6 @@ allo
 anoesia
 atmogenic
 allobar
-allobaric
 ammonolyses
 adolescency
 anthophore
