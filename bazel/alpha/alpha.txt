@@ -6342,6 +6342,7 @@ agriculturist
 agriculturists
 aftergood
 anticreep
+athletism
 agrilus
 aureola
 abohms
@@ -22642,7 +22643,6 @@ athleticism
 acreable
 antispadix
 averruncation
-athletism
 athlothetes
 ascared
 athogen
