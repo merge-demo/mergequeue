@@ -8704,7 +8704,6 @@ australoid
 alleyite
 alleys
 automatonlike
-alleyway
 alchitran
 abled
 alleyways
@@ -14092,6 +14091,7 @@ alining
 antemeridian
 anukit
 antemetallic
+alleyway
 anestrus
 antemillennial
 antemingent
