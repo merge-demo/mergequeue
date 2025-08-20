@@ -4254,7 +4254,6 @@ azonium
 appending
 armorer
 alchornea
-akhlame
 adrad
 alumen
 abime
@@ -9760,6 +9759,7 @@ amacratic
 amacrinal
 amadan
 apitong
+akhlame
 asterella
 anticous
 amadelphous
