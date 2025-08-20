@@ -5302,7 +5302,6 @@ affixment
 anophthalmia
 aquarian
 actinocarp
-afflated
 ataxia
 afflatus
 absent
@@ -13606,6 +13605,7 @@ airliner
 asperated
 aglet
 acaulous
+afflated
 anocathartic
 abilene
 apoferritin
