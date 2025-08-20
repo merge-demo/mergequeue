@@ -3222,7 +3222,6 @@ actuating
 alpist
 activation
 actuation
-acturience
 acuaesthesia
 alids
 achingly
@@ -12606,6 +12605,7 @@ anestrous
 anethene
 anethol
 albites
+acturience
 anethols
 avertible
 anetiological
