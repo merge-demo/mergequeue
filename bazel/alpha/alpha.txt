@@ -5257,7 +5257,6 @@ affines
 arthron
 anthomedusae
 affinitative
-alemanni
 aggerate
 affinities
 affinition
@@ -17892,6 +17891,7 @@ alkalin
 allomerize
 apprizal
 atopy
+alemanni
 apprizer
 aqueousness
 apprizers
