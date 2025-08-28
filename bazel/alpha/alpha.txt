@@ -1794,7 +1794,6 @@ acediamine
 acedias
 acanthological
 abbreviature
-autopathy
 agalloch
 aceldamas
 adulce
@@ -9506,6 +9505,7 @@ acupunctuate
 apses
 alterman
 altern
+autopathy
 alternacy
 asynchronously
 alternamente
