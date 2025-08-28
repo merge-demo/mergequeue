@@ -3735,7 +3735,6 @@ ashstone
 adhere
 atticists
 adhered
-apophantic
 adherency
 addiment
 adherend
@@ -5286,6 +5285,7 @@ affirmingly
 affixal
 affixation
 affixed
+apophantic
 andantinos
 androsin
 affixers
