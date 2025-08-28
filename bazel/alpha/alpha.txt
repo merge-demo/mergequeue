@@ -3357,7 +3357,6 @@ adamsites
 adance
 aircrews
 appeasableness
-adapid
 adapt
 anisospore
 apolytikion
@@ -14593,6 +14592,7 @@ antiabrin
 abacination
 acacine
 allotrope
+adapid
 antiacid
 anabaptist
 antiaditis
