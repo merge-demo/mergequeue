@@ -9234,7 +9234,6 @@ antiaircraft
 almsmen
 attestative
 almswoman
-antiethnic
 almuces
 almud
 amides
@@ -23552,6 +23551,7 @@ auntre
 acanthon
 antistrophal
 auntrous
+antiethnic
 auntsary
 austrophil
 attack
