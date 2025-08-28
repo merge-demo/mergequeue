@@ -2622,7 +2622,6 @@ accrescent
 agapeic
 allocated
 auxoflore
-approximated
 acquire
 antescript
 acquirement
@@ -24734,6 +24733,7 @@ aviatic
 aviating
 aniline
 appleberry
+approximated
 axonost
 auscult
 aviations
