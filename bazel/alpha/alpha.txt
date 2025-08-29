@@ -6232,7 +6232,6 @@ attirement
 agrace
 agrafes
 agraffe
-alimental
 analemmatic
 alliterational
 agral
@@ -8827,6 +8826,7 @@ actious
 apodixis
 alliterationist
 avens
+alimental
 anfractuousness
 ascoma
 apterygote
