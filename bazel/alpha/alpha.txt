@@ -9709,7 +9709,6 @@ anecdotist
 alveary
 alvearies
 alvearium
-alveated
 alveolariform
 alveolate
 alveolation
@@ -19036,6 +19035,7 @@ absolutely
 acrodactylum
 archpirate
 adactylism
+alveated
 archplagiarist
 asinine
 arulo
