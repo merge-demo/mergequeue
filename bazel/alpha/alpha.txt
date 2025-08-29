@@ -8726,6 +8726,7 @@ abouchement
 allergenicity
 arrhythmous
 atheology
+alang
 ankylotome
 actinopod
 allergin
@@ -16615,7 +16616,6 @@ arterioplania
 autocratic
 aperea
 ataxy
-alang
 aperient
 aperients
 albronze
