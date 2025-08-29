@@ -237,7 +237,6 @@ abbreviation
 ascebc
 abbreviators
 abc
-abcissa
 angiohypotonia
 abcoulomb
 aba
@@ -14137,6 +14136,7 @@ antepenult
 acromyodi
 allergic
 amphithere
+abcissa
 antepenultimate
 azoimide
 angiitis
