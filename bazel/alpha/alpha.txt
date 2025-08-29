@@ -1426,7 +1426,6 @@ associational
 accession
 axilemmata
 acrologism
-awl
 accessioner
 accessive
 anoplocephalic
@@ -5731,6 +5730,7 @@ autocoder
 aphodian
 agaricaceae
 adepts
+awl
 agaricaceous
 agaricine
 agaricoid
