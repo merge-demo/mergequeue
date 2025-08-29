@@ -6106,7 +6106,6 @@ astrolabes
 arseniuretted
 aglossal
 aglossia
-aglow
 aglucon
 agminated
 agnails
@@ -21701,6 +21700,7 @@ assertion
 assertional
 appreciating
 assertively
+aglow
 assertor
 abelmusk
 adiantiform
