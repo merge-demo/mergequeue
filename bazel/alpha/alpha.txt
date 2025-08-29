@@ -6115,7 +6115,6 @@ agminated
 agnails
 agnat
 agnatha
-agnate
 advenient
 agnatical
 akenes
@@ -8559,6 +8558,7 @@ airplane
 accelerograph
 alkylarylsulfonate
 anallergic
+agnate
 abrahamic
 alkylate
 atremate
