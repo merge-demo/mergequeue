@@ -6063,7 +6063,6 @@ agitprop
 agitprops
 aglaia
 aglance
-aglaos
 aglaozonia
 alkanal
 agleaf
@@ -24508,6 +24507,7 @@ auxiliary
 armsize
 abhor
 aerophile
+aglaos
 auxiliaries
 androcracy
 auxiliate
