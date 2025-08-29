@@ -3262,7 +3262,6 @@ amyloids
 acutances
 acute
 acutely
-acuter
 ascomycetal
 armlocks
 adjunct
@@ -17521,6 +17520,7 @@ acanthodea
 appealingly
 agruif
 ambidextrousness
+acuter
 archaicness
 appearer
 appearers
