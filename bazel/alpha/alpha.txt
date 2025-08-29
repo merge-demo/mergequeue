@@ -14048,7 +14048,6 @@ animadverting
 antefix
 anaesthyl
 antefurcae
-antehall
 antehypophysis
 aedoeagus
 amices
@@ -18118,6 +18117,7 @@ aquaplaning
 aquaregia
 aquarelle
 aquarial
+antehall
 armoring
 adepter
 adversariness
