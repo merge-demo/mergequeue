@@ -3830,6 +3830,7 @@ aziola
 antitropous
 angiorrhexis
 anteropygal
+anartismos
 adipolytic
 adipoma
 arrish
@@ -5876,7 +5877,6 @@ agglomeratic
 agglomeration
 agglomerative
 apical
-anartismos
 agglutinate
 arenaceous
 arri
