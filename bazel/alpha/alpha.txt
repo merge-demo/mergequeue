@@ -3755,7 +3755,6 @@ antecedal
 adiadochokinesis
 adiadokokinesia
 adiagnostic
-adiamorphic
 adeniform
 anterograde
 adiaphon
@@ -13102,6 +13101,7 @@ anilins
 anilla
 amiss
 amental
+adiamorphic
 archemperor
 apotelesmatical
 abiders
