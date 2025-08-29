@@ -5974,7 +5974,6 @@ aggro
 acropetal
 aggroup
 archaeol
-approximant
 applauder
 archt
 autochromy
@@ -11389,6 +11388,7 @@ abody
 amps
 assigner
 absinthe
+approximant
 admire
 ampul
 admonitory
