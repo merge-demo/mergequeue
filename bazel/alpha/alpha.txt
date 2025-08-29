@@ -4334,7 +4334,6 @@ adsmith
 atelectasis
 adsmithing
 adelocerous
-adsorb
 autotriploid
 adsorbability
 allocryptic
@@ -11144,6 +11143,7 @@ alkide
 addictive
 analgesis
 aromatizer
+adsorb
 amphiboles
 amphiboly
 affliction
