@@ -14119,7 +14119,6 @@ anteoccupation
 anteocular
 accessability
 amy
-apriline
 anteoperculum
 anteorbital
 albopannin
@@ -22623,6 +22622,7 @@ airings
 athyroidism
 athyrosis
 aflight
+apriline
 addlement
 afterwhile
 athletes
