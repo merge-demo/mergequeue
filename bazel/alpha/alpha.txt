@@ -8935,7 +8935,6 @@ agnathostomatous
 allographic
 assigners
 alloyage
-aeroporotomy
 alloiogenesis
 attitude
 assizer
@@ -24274,6 +24273,7 @@ acquist
 aluminographic
 apparent
 autophytograph
+aeroporotomy
 analgesist
 autophytography
 autophoby
