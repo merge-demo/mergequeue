@@ -6557,7 +6557,6 @@ aigialosaur
 aigialosauridae
 aigialosaurus
 antasthenic
-apolarity
 aiglet
 alectoriae
 aphroditeum
@@ -10540,6 +10539,7 @@ amidoplastid
 amidoxyl
 anagrammatize
 amids
+apolarity
 aphids
 ascaris
 accoy
