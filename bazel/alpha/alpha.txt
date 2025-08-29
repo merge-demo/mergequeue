@@ -930,7 +930,6 @@ absolutistically
 absolutize
 absolutory
 absolvatory
-absolve
 aestuary
 absolvent
 arteriotome
@@ -24581,6 +24580,7 @@ avalanches
 actless
 avalanching
 assortive
+absolve
 avalent
 avalon
 autoeroticism
