@@ -1614,7 +1614,6 @@ accounting
 accountment
 audioemission
 accounts
-accouplement
 accouter
 apotype
 accoutered
@@ -23778,6 +23777,7 @@ adaptational
 austrogaea
 ampules
 atheriogaea
+accouplement
 aphonic
 aphorising
 anthozoan
