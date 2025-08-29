@@ -1994,7 +1994,6 @@ acetomorphine
 acetonaemia
 acetonaemic
 acetonemic
-acetonic
 advances
 antependia
 acetamido
@@ -19503,6 +19502,7 @@ argues
 applicancy
 amiantus
 accelerated
+acetonic
 antepagments
 adventist
 adscendent
