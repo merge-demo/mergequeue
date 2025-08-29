@@ -5090,7 +5090,6 @@ admonisher
 accosting
 acquainting
 amenia
-alphamerical
 arrantly
 aestivating
 antony
@@ -10562,6 +10561,7 @@ algaesthesia
 amyelic
 amyelous
 aposematically
+alphamerical
 amygdal
 aludels
 amygdala
