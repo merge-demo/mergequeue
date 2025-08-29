@@ -4571,6 +4571,7 @@ accustom
 anaclasis
 antechapel
 altercate
+apersee
 adiaphora
 astragalonavicular
 adlumine
@@ -13132,7 +13133,6 @@ animalist
 animalistic
 androgynous
 animalivora
-apersee
 autographal
 animalivore
 animalivorous
