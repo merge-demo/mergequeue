@@ -6165,6 +6165,7 @@ acetnaphthalide
 atellan
 avirulent
 activable
+amphioxis
 audile
 amyluria
 alchemise
@@ -11333,7 +11334,6 @@ alloquy
 anticreeper
 amphitrichate
 amphitropous
-amphioxis
 anargyros
 amphiumidae
 alegar
