@@ -17589,7 +17589,6 @@ agonostomus
 anthropopathite
 appendicectomies
 abay
-appendicial
 appendicostomy
 airpost
 appendicular
@@ -24817,6 +24816,7 @@ avocations
 avocative
 antipragmatic
 avocet
+appendicial
 acheck
 avogadrite
 accupy
