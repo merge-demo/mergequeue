@@ -3356,7 +3356,6 @@ aircrews
 appeasableness
 adapt
 anisospore
-apolytikion
 apeman
 aliased
 adaptableness
@@ -12302,6 +12301,7 @@ anders
 autoirrigation
 adipocerite
 alkenna
+apolytikion
 anderun
 aggest
 andesites
