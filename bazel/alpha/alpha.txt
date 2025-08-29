@@ -11632,7 +11632,6 @@ amba
 anacrogynous
 anacrotic
 altricial
-aerenchyma
 anacruses
 anacrustic
 anaculture
@@ -16074,6 +16073,7 @@ amenta
 anthecological
 adherence
 avitaminotic
+aerenchyma
 antipool
 antiscientific
 ande
