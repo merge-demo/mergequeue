@@ -127,7 +127,6 @@ abasic
 anachueta
 alcarraza
 amyotrophic
-abastard
 amoebid
 abatage
 abate
@@ -22934,6 +22933,7 @@ att
 attacca
 attacco
 absences
+abastard
 amphibolite
 akuammine
 antiperistaltic
