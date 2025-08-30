@@ -1479,7 +1479,6 @@ acclimatised
 acclimatiser
 acost
 acclimatising
-allgood
 aegagrus
 algid
 alpinery
@@ -9663,6 +9662,7 @@ aponeurorrhaphy
 alviducous
 abominable
 archchief
+allgood
 aluminising
 aluminize
 aviary
