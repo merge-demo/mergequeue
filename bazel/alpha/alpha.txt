@@ -2830,6 +2830,7 @@ abominability
 antenniform
 areometer
 acromiohumeral
+ancone
 acromiosternal
 antichurchian
 acromiothoracic
@@ -12255,7 +12256,6 @@ anconal
 actinologue
 anticipate
 anconas
-ancone
 anconeus
 ancony
 acanthodii
