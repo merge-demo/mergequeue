@@ -3999,7 +3999,6 @@ administrant
 allegiantly
 administrates
 antihemolytic
-aboves
 administrational
 administrative
 affixion
@@ -15536,6 +15535,7 @@ anthropophagi
 aquaplanes
 antimonies
 antimonium
+aboves
 anemoses
 antimoniuret
 anatine
