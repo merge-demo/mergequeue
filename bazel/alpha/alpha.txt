@@ -7472,7 +7472,6 @@ albumenise
 autobiographic
 arsmetrik
 albumeniser
-albumenising
 albumenization
 albumenized
 autopathography
@@ -13649,6 +13648,7 @@ anoestrum
 asked
 amygdalothripsis
 aposporogony
+albumenising
 anoetic
 alluviviums
 anogenital
