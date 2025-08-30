@@ -3706,7 +3706,6 @@ adequate
 acclivity
 almuerzo
 abasements
-adesmy
 annum
 adespoton
 adessenarian
@@ -21308,6 +21307,7 @@ asyngamic
 asininity
 asininities
 asyntactic
+adesmy
 alkalization
 aviatory
 asiphonogama
