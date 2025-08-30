@@ -5123,7 +5123,6 @@ aloelike
 aetiologist
 axones
 administerial
-apprenticed
 arabana
 appreciation
 aetiologue
@@ -13644,6 +13643,7 @@ anodontia
 allocable
 abys
 anodos
+apprenticed
 ambivalent
 agomensin
 anoestrum
