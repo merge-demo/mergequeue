@@ -1515,7 +1515,6 @@ accommodableness
 accommodate
 avicularimorphae
 accommodated
-adscriptive
 accommodating
 accommodatingness
 accommodations
@@ -25321,6 +25320,7 @@ azon
 aegirinolite
 axer
 astrophobia
+adscriptive
 azonaphthalene
 azons
 architraves
