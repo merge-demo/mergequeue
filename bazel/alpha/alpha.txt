@@ -3165,6 +3165,7 @@ assailability
 allogenic
 aid
 avadavat
+athapascan
 alagao
 alliterativeness
 actress
@@ -5324,7 +5325,6 @@ agnosticism
 agglutinable
 affriended
 applying
-affrightedly
 acarpellous
 annoyful
 affrightful
@@ -9523,7 +9523,6 @@ axolysis
 afrikaans
 alternipetalous
 alternity
-antiluetin
 asininely
 anglos
 absolved
@@ -15564,6 +15563,7 @@ animalculous
 afront
 antimusicalness
 antinarcotic
+affrightedly
 antinarcotics
 autoformation
 areoles
@@ -15753,6 +15753,7 @@ aegirine
 antipestilently
 ablauts
 agonistical
+anvilled
 antipewism
 astonished
 aviolite
@@ -18553,7 +18554,6 @@ antitragi
 aperch
 araminta
 arcanite
-anvilled
 arcature
 anilinophilous
 arcatures
@@ -22319,6 +22319,7 @@ astrologist
 astriction
 astrologistic
 anagrammatise
+antiluetin
 astrologize
 advancers
 astromancer
@@ -22517,7 +22518,6 @@ alliterative
 antinomist
 athanor
 antipathida
-athapascan
 autohemic
 agreers
 athapaskan
@@ -23130,7 +23130,6 @@ apiculture
 attila
 alopathic
 attingency
-antrin
 attingent
 anisognathous
 attired
@@ -24477,6 +24476,7 @@ alkalinization
 arithmogram
 als
 abreacting
+antrin
 autourine
 autovalet
 autovivisection
