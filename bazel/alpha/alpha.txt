@@ -9315,7 +9315,6 @@ alemana
 alongshoreman
 accidental
 antisymmetric
-alonzo
 aloof
 aloofly
 aloose
@@ -9550,6 +9549,7 @@ asterikos
 aspidate
 anargyroi
 ambassiate
+alonzo
 althorn
 alticamelus
 altify
