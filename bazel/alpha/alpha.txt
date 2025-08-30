@@ -7926,7 +7926,6 @@ alen
 alkaloidal
 alenge
 alength
-alenu
 atonics
 alepine
 alepole
@@ -11491,6 +11490,7 @@ alodiality
 aerometry
 agglomerant
 ascospore
+alenu
 amusers
 abbatical
 authenticators
