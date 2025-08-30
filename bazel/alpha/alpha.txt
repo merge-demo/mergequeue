@@ -5459,7 +5459,6 @@ aftercost
 acentric
 aftercrop
 acanthodian
-aftercure
 affrontment
 afterdays
 afterdate
@@ -7248,6 +7247,7 @@ alarmedly
 audivise
 alarmingly
 angiotomy
+aftercure
 aurantiaceae
 assn
 alarmingness
