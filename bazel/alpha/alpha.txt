@@ -9797,7 +9797,6 @@ amalic
 amalrician
 argosine
 ambery
-anagram
 accommodationist
 amamau
 aloeswood
@@ -12814,6 +12813,7 @@ armata
 arbitrations
 antihysteric
 anatomisation
+anagram
 athenaea
 anathematizes
 asemia
