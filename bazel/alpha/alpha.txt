@@ -7629,7 +7629,6 @@ alcicornium
 acetary
 antisepticist
 alcidine
-audiometry
 alcine
 atomist
 altaite
@@ -14756,6 +14755,7 @@ anticatalytically
 apodous
 anticatarrhal
 afernan
+audiometry
 altiscope
 anticaustic
 affreighter
