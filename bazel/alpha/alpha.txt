@@ -4440,7 +4440,6 @@ advancement
 archimperial
 advancing
 advancive
-advantage
 anezeh
 advantaged
 answerer
@@ -19448,6 +19447,7 @@ aelurophobe
 adrenocorticosteroid
 argillite
 argillous
+advantage
 arkab
 appetible
 argin
