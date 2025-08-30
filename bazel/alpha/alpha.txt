@@ -5462,6 +5462,7 @@ affrontment
 afterdays
 afterdate
 antifoam
+alezan
 amadou
 abscisins
 afterdeal
@@ -6813,7 +6814,6 @@ abietite
 airmark
 attention
 atomizes
-alezan
 astomatous
 aphorises
 apanages
