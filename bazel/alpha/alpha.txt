@@ -2429,7 +2429,6 @@ aistopodes
 anteambulate
 archwife
 adespota
-acknowledgment
 acknowledgments
 adenocarcinomatous
 anatexes
@@ -6541,6 +6540,7 @@ antiheterolysin
 apocarpous
 aiel
 anoraks
+acknowledgment
 asplanchnic
 aeromechanical
 aeolina
