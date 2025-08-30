@@ -10645,6 +10645,7 @@ amyloses
 amylosynthesis
 amylosis
 armamentary
+acuminous
 amyls
 amylum
 abib
@@ -17117,7 +17118,6 @@ apographic
 apographical
 apohyal
 autosensitization
-acuminous
 apoidea
 astucity
 agricultural
