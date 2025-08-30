@@ -12888,7 +12888,6 @@ acinetaria
 anglophilic
 autotype
 adenine
-anglophilism
 anglophobia
 adumbration
 anglophobiac
@@ -16198,6 +16197,7 @@ adipomatous
 antispreading
 antisquatting
 airbound
+anglophilism
 antistadholder
 aosmic
 antistatism
