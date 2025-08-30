@@ -8501,7 +8501,6 @@ alkalizing
 alkaloid
 alkaloids
 alkalosis
-alkalous
 alkalurops
 algorithms
 alkamine
@@ -20449,6 +20448,7 @@ adagy
 arterying
 angelin
 autoicous
+alkalous
 anthropomorphological
 adusk
 agilmente
