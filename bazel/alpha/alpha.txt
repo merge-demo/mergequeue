@@ -16728,7 +16728,6 @@ amylometer
 anterointerior
 accur
 ametaboly
-aphelian
 anthophagy
 audacity
 aciculums
@@ -18873,6 +18872,7 @@ acritical
 archigastrula
 archigonic
 autotomising
+aphelian
 archiheretical
 aldohexose
 archikaryon
