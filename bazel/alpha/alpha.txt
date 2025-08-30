@@ -3749,7 +3749,6 @@ adiadochokinesis
 adiadokokinesia
 adiagnostic
 adeniform
-anterograde
 adiaphon
 autophagia
 antimechanist
@@ -12591,6 +12590,7 @@ anesthetized
 achromotrichia
 anesthetizes
 anestrous
+anterograde
 anethene
 anethol
 albites
