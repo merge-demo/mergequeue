@@ -16533,7 +16533,6 @@ acutorsion
 apache
 attained
 apadana
-apaesthetic
 astronautic
 apaesthetize
 articulatory
@@ -21744,6 +21743,7 @@ apotheose
 antiquarium
 asseveration
 asseverative
+apaesthetic
 asseveratory
 acrogenous
 assewer
