@@ -6394,6 +6394,7 @@ antiresonance
 amorado
 attempering
 alnascharism
+antefixa
 agrote
 agrotechny
 agrotype
@@ -16508,7 +16509,6 @@ aphonia
 aortectasis
 aortic
 augelite
-antefixa
 aortoiliac
 amurcous
 agathism
