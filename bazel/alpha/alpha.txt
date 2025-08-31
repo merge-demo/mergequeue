@@ -3936,7 +3936,6 @@ adjute
 adjutor
 aqueity
 apologer
-adjutory
 adjutrice
 adjutrix
 ambassage
@@ -9767,6 +9766,7 @@ amalgam
 apophonies
 amalgamate
 asbolane
+adjutory
 antimonarchical
 anamesite
 ampelopsin
