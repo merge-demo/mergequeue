@@ -10156,7 +10156,6 @@ ambsaces
 ambulacra
 ambulacriform
 acuation
-ambulacrum
 ambulance
 apnoeal
 amoeboidism
@@ -11652,6 +11651,7 @@ arrage
 assuror
 anaemotropy
 anaeretic
+ambulacrum
 acerbity
 astrometeorologist
 adages
