@@ -19346,6 +19346,7 @@ axisymmetry
 autochrome
 anacrisis
 acephalite
+avouchment
 argentate
 assortedness
 aseptify
@@ -24853,7 +24854,6 @@ aberrations
 aggrandizements
 avouchers
 avouching
-avouchment
 abetment
 avour
 avoutry
