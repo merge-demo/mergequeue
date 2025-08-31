@@ -7749,6 +7749,7 @@ aldermanship
 aldermen
 almehs
 aonian
+areologic
 asteroidea
 alderney
 ambrette
@@ -17399,7 +17400,6 @@ archenemy
 apothecium
 antitrope
 arbitrement
-areologic
 applot
 airship
 antiarchi
