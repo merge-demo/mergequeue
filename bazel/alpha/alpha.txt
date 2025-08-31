@@ -5540,7 +5540,6 @@ afterstretch
 amphitriaene
 autosuggestive
 acetylaminobenzene
-alectoropodes
 affricated
 autotherapeutic
 admiredly
@@ -13342,6 +13341,7 @@ anisotropies
 anystidae
 aloin
 anhydrating
+alectoropodes
 anisum
 antileveling
 appinite
