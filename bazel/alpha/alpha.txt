@@ -14036,7 +14036,6 @@ axostyle
 antecolic
 antecornu
 antecourt
-antecoxal
 adeleidae
 antecubital
 accompanists
@@ -24724,6 +24723,7 @@ adyta
 airest
 ankylosaurus
 angule
+antecoxal
 admission
 antemural
 addling
