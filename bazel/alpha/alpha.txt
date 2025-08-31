@@ -5030,7 +5030,6 @@ aerotropism
 allantois
 aeruginous
 aerugo
-aerugos
 aes
 amparo
 autosepticemia
@@ -5777,6 +5776,7 @@ ageable
 agallop
 agedness
 agee
+aerugos
 ageing
 ageings
 assumptive
