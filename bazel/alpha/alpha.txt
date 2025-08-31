@@ -20466,7 +20466,6 @@ admov
 aristological
 asterospondylous
 arteriocapillary
-arteriogenesis
 arteriograph
 ahorseback
 adenectopia
@@ -24925,6 +24924,7 @@ ameristic
 awaking
 automotor
 arseniosiderite
+arteriogenesis
 ankylose
 adroit
 awkwardish
