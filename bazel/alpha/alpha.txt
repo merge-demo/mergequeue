@@ -9781,7 +9781,6 @@ amalgamative
 amalgamatize
 acmite
 amalgamist
-achromatic
 amperage
 amalgamization
 amalgamize
@@ -20239,6 +20238,7 @@ applicator
 apetaly
 areroscope
 asepticizing
+achromatic
 arriere
 axin
 arrivage
