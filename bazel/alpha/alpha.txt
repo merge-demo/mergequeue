@@ -2071,7 +2071,6 @@ acherontical
 aches
 achesoun
 acheulean
-antecell
 accustoms
 acumens
 acheweed
@@ -22941,6 +22940,7 @@ abastard
 amphibolite
 akuammine
 antiperistaltic
+antecell
 attach
 agonothete
 attachableness
