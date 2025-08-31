@@ -1454,7 +1454,6 @@ acclaim
 acclaimable
 amblyope
 acclaimer
-almemar
 afterwrist
 amphoricity
 apex
@@ -14045,6 +14044,7 @@ antedorsal
 animadverting
 anaesthyl
 antefurcae
+almemar
 antehypophysis
 aedoeagus
 amices
