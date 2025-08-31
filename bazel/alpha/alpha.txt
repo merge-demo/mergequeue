@@ -11549,7 +11549,6 @@ anacamptics
 antiperistasis
 anacanthine
 anergy
-antielectron
 anacanthini
 avourneen
 anacanthous
@@ -20716,6 +20715,7 @@ artillerists
 artiness
 artiodactyla
 aerocolpos
+antielectron
 artiodactylous
 appendixed
 avicularian
