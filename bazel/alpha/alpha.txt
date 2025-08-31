@@ -13186,6 +13186,7 @@ almaine
 animist
 antigraft
 aecium
+antisilverite
 alloplasmic
 animistic
 anabatic
@@ -16116,7 +16117,6 @@ antishipping
 antisialagogue
 amphitryon
 antisideric
-antisilverite
 antisymmetry
 anthophobia
 aethalioid
