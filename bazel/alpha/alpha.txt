@@ -8486,7 +8486,6 @@ adaptable
 alacreatinine
 alkalize
 alkalizer
-alkalizes
 acuate
 alkalizing
 alkaloid
@@ -21568,6 +21567,7 @@ acheilous
 attenuate
 anteflected
 addict
+alkalizes
 acetometrically
 anisomerous
 assayable
