@@ -2583,6 +2583,7 @@ acquest
 armenite
 aromatite
 actutate
+applies
 arriswise
 acquiesce
 addiction
@@ -17728,7 +17729,6 @@ abacterial
 acettoluide
 autocab
 aversation
-applies
 antispasis
 applique
 appliques
