@@ -8093,7 +8093,6 @@ algebraist
 algedo
 alfilerillo
 algedonics
-algefacient
 antitropal
 algeria
 algerian
@@ -22761,6 +22760,7 @@ announces
 antidyscratic
 atomic
 alkalemia
+algefacient
 atomically
 atomician
 ambroids
