@@ -8801,6 +8801,7 @@ aluminography
 allis
 aristocrat
 alliterate
+announceable
 acescence
 alcidae
 alliterates
@@ -23872,7 +23873,6 @@ authoritarians
 awarn
 antisplasher
 authoritative
-announceable
 archvestryman
 authorizer
 alluvions
