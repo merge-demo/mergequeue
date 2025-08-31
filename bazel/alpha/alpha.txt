@@ -8272,7 +8272,6 @@ aliens
 audiovisuals
 axiologist
 accenting
-australite
 aculea
 archin
 artefac
@@ -10549,6 +10548,7 @@ amyelia
 algaesthesia
 amyelic
 amyelous
+australite
 aposematically
 alphamerical
 amygdal
