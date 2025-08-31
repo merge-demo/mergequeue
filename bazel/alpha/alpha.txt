@@ -14023,7 +14023,6 @@ altazimuth
 autopilots
 autocatalytic
 antechoirs
-abditive
 axostyle
 antecolic
 antecornu
@@ -21284,6 +21283,7 @@ analectic
 amphoras
 azobacter
 asyndeton
+abditive
 asyndetons
 artesonado
 asinego
