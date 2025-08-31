@@ -20730,6 +20730,7 @@ anaphoria
 agoniadin
 airths
 artist
+awardee
 artistic
 aftercourse
 ashiver
@@ -24926,7 +24927,6 @@ arseniosiderite
 ankylose
 adroit
 awarded
-awardee
 awkwardish
 antilogarithmic
 axmaker
