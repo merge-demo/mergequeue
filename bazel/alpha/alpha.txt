@@ -1773,7 +1773,6 @@ acleistocardia
 anemia
 apochromatic
 acedy
-acediamine
 acedias
 acanthological
 abbreviature
@@ -24218,6 +24217,7 @@ automatous
 automechanical
 actinically
 automechanism
+acediamine
 antinodes
 automen
 archgovernor
