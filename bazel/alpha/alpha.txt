@@ -5225,7 +5225,6 @@ acromiodeltoid
 affines
 arthron
 anthomedusae
-affinitative
 alemanni
 aggerate
 affinities
@@ -21068,6 +21067,7 @@ amenableness
 annatto
 airth
 amniorrhea
+affinitative
 aseismatic
 arabella
 agriochoeridae
