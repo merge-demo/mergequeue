@@ -1080,6 +1080,7 @@ abundance
 accurtation
 apparelled
 abundancy
+aluminosis
 apyrase
 abundant
 anachronical
@@ -9652,7 +9653,6 @@ archantiquary
 adobe
 aition
 aluminose
-aluminosis
 aluminothermy
 acrotarsial
 aluminums
