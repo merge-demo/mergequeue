@@ -292,7 +292,6 @@ apothece
 abducted
 abductions
 allegro
-ampullar
 abductor
 abducts
 axhammer
@@ -6436,6 +6435,7 @@ attenuating
 acquaintances
 aheight
 abashedly
+ampullar
 ahet
 anzanian
 antecardium
