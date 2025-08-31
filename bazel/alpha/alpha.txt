@@ -1555,6 +1555,7 @@ amritas
 amalg
 accordion
 accordionist
+ascan
 accordionists
 adamical
 appended
@@ -15515,7 +15516,6 @@ albin
 almondlike
 ancoral
 angiocarp
-ascan
 anoxemic
 antimony
 adventuresomeness
