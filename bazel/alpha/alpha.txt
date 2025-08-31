@@ -1746,6 +1746,7 @@ aspersion
 archiereus
 accuse
 amidships
+animalivore
 accused
 accusers
 achatour
@@ -13140,7 +13141,6 @@ animalistic
 androgynous
 animalivora
 autographal
-animalivore
 animalivorous
 animalize
 alapa
