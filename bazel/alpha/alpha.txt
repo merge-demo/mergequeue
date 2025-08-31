@@ -3881,7 +3881,6 @@ adjudicated
 adjudication
 agglutinin
 adjudicative
-anaphora
 adjudicatory
 aerostats
 akinetic
@@ -8851,6 +8850,7 @@ attal
 amender
 adeptly
 adamastor
+anaphora
 aditus
 administered
 allocator
