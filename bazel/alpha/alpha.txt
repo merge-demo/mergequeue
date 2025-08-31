@@ -23196,7 +23196,6 @@ attractor
 asterias
 adnumber
 apneumatic
-alcids
 antship
 averroist
 acardite
@@ -24188,6 +24187,7 @@ azyme
 automata
 archdean
 apidae
+alcids
 awash
 aminities
 automated
