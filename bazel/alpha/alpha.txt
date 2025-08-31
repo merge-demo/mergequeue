@@ -9742,7 +9742,6 @@ amadelphous
 amadous
 androkinin
 ahluwalia
-astrict
 alethiological
 airfares
 amoving
@@ -23855,6 +23854,7 @@ authigene
 authigenetic
 antiozonant
 authigenous
+astrict
 aurite
 authored
 anisocotyly
