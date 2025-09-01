@@ -1154,6 +1154,7 @@ apheliotropism
 aploperistomatous
 anaplasis
 academist
+arboral
 academite
 academization
 allayed
@@ -18447,7 +18448,6 @@ acrocyst
 anisosepalous
 anthropoidal
 anticorset
-arboral
 amphicondylous
 allotype
 averish
