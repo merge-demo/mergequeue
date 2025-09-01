@@ -10793,7 +10793,6 @@ aminogen
 anticonstitutionalist
 ammiaceous
 aspergillum
-amminolysis
 amminolytic
 anorexias
 aselline
@@ -24910,6 +24909,7 @@ apetaloid
 awake
 awakeable
 awakened
+amminolysis
 alkermes
 algometer
 alopekai
