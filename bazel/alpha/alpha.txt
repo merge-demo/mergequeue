@@ -4581,7 +4581,6 @@ antipill
 advocacy
 abrasive
 anahao
-alchemist
 advocate
 afficionado
 advocated
@@ -21696,6 +21695,7 @@ assertion
 assertional
 appreciating
 assertively
+alchemist
 aglow
 assertor
 abelmusk
