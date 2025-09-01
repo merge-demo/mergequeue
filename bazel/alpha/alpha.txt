@@ -4726,7 +4726,6 @@ attributes
 aepyornithidae
 aepyornithiformes
 aggrieves
-alsatian
 alycompaine
 arvicolous
 aeq
@@ -18883,6 +18882,7 @@ aidmanmen
 archinformer
 arteriostosis
 archings
+alsatian
 achronical
 anthropologist
 aesculapian
