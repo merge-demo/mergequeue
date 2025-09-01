@@ -7809,7 +7809,6 @@ anglicism
 aldrovanda
 achromaturia
 adequative
-aldus
 alchemically
 aortosclerosis
 amarantus
@@ -12950,6 +12949,7 @@ axine
 anguishing
 anisogamic
 angula
+aldus
 angular
 angularia
 assistors
