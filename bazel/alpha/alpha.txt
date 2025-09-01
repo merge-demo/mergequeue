@@ -17080,6 +17080,7 @@ atropa
 agoranome
 ailuropus
 acmes
+autostethoscope
 audience
 apogamy
 antibody
@@ -24456,7 +24457,6 @@ autotractor
 autotransformer
 archeologically
 autotransplantation
-autostethoscope
 aurotellurite
 aetheric
 autotriploidy
