@@ -6324,7 +6324,6 @@ astringently
 antiochene
 animate
 agriot
-agriotypidae
 allotypical
 agrypnia
 agrypnotic
@@ -13896,6 +13895,7 @@ antheroid
 antae
 antaean
 antaeus
+agriotypidae
 alvelos
 antefuture
 advantaging
