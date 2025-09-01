@@ -12587,7 +12587,6 @@ angelophany
 archrascal
 asarh
 anesthetization
-anesthetize
 anesthetized
 achromotrichia
 anesthetizes
@@ -14583,6 +14582,7 @@ antiabrin
 abacination
 acacine
 allotrope
+anesthetize
 adapid
 anabaptist
 antiaditis
