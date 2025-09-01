@@ -19591,7 +19591,6 @@ aplastic
 alternativity
 aril
 aryl
-arylating
 annotate
 arylation
 ariled
@@ -24255,6 +24254,7 @@ alliteral
 autonomy
 autonomist
 asphaltlike
+arylating
 airsickness
 amphotericin
 autoparasitism
