@@ -2468,7 +2468,6 @@ acoelomate
 autoloaders
 anagoges
 acoelomi
-anteceded
 abaisance
 apogean
 accuser
@@ -23651,6 +23650,7 @@ anesis
 auroch
 aurochses
 answer
+anteceded
 anthropogeography
 aurophore
 aurorally
