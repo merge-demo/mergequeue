@@ -769,6 +769,7 @@ allurements
 abreacts
 aepyornis
 ascites
+annats
 abreast
 archenteric
 abreed
@@ -11379,7 +11380,6 @@ amplication
 amplicative
 angerless
 autoelectrolytic
-annats
 amplify
 amplificate
 aftercause
