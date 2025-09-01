@@ -2911,7 +2911,6 @@ accidentiality
 anacromyodian
 advisive
 acrostical
-approvably
 acrostichoid
 acrostichum
 acrosticism
@@ -9822,6 +9821,7 @@ antihormone
 agst
 amanuensis
 amapa
+approvably
 ainsell
 amarant
 astoned
