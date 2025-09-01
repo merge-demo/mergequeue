@@ -18213,6 +18213,7 @@ affidavit
 agoras
 alsoon
 arabians
+armor
 andarko
 amity
 arabica
@@ -19891,7 +19892,6 @@ armload
 armlock
 armonicas
 autoconvection
-armor
 armoracia
 akuammin
 adonises
