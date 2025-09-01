@@ -11709,7 +11709,6 @@ aldim
 anaglyptography
 anaglyptographic
 armorbearer
-acheer
 acacatechin
 ablator
 acnodes
@@ -22104,6 +22103,7 @@ astigmatometer
 atrocoeruleus
 astigmatometry
 aesthiology
+acheer
 accruals
 arthrosporous
 astigmatoscope
