@@ -3566,7 +3566,6 @@ antimonite
 adelphian
 adelphic
 adelphous
-adempt
 adipsous
 azole
 ascesis
@@ -11360,6 +11359,7 @@ amplect
 answerably
 amplectant
 argyrocephalous
+adempt
 arcuses
 ampler
 amplest
