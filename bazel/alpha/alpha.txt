@@ -5210,6 +5210,7 @@ ampitheater
 attackable
 anapterygotous
 alingual
+anticlinal
 anapophysial
 alligation
 affine
@@ -14902,7 +14903,6 @@ abassi
 assure
 anticlimax
 abret
-anticlinal
 anticlines
 anticlinoria
 amphigouri
