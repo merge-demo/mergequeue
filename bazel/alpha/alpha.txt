@@ -224,7 +224,6 @@ aeroliths
 absorptiometric
 abbott
 adenomyxoma
-abbreviatable
 apostate
 abraded
 acantholysis
@@ -24512,6 +24511,7 @@ armsize
 abhor
 aerophile
 aglaos
+abbreviatable
 auxiliaries
 androcracy
 auxiliate
