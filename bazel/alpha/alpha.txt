@@ -5262,7 +5262,6 @@ affixers
 affixes
 affixial
 aspatia
-android
 authorism
 armageddon
 agnathostomata
@@ -8236,6 +8235,7 @@ agammaglobulinemic
 alidads
 anchored
 aposporous
+android
 anonad
 archie
 acquaintedness
