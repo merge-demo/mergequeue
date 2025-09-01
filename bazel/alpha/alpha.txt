@@ -5470,7 +5470,6 @@ actuarial
 aevum
 aerolith
 afterfruits
-arteriogram
 aftergas
 abstractedness
 ablings
@@ -18424,6 +18423,7 @@ arbitration
 arbitrative
 aclidian
 appetent
+arteriogram
 adzer
 arbitratrix
 acquirements
