@@ -6221,7 +6221,6 @@ agpaitic
 agr
 attirement
 agrace
-agrafes
 agraffe
 analemmatic
 alliterational
@@ -20325,6 +20324,7 @@ afterdamp
 arsenolite
 aphidious
 arsenophen
+agrafes
 ail
 asahel
 antesignani
