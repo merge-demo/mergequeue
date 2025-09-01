@@ -6298,7 +6298,6 @@ amphionic
 agricolist
 atsara
 ambulances
-agricolous
 anticonventionalism
 assertedly
 amoeba
@@ -21709,6 +21708,7 @@ annunciator
 athetesis
 asserts
 assertum
+agricolous
 acanaceous
 actus
 asak
