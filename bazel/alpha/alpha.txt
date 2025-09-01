@@ -14113,7 +14113,6 @@ aplasias
 anteoccupation
 anteocular
 accessability
-amy
 anteoperculum
 anteorbital
 albopannin
@@ -24398,6 +24397,7 @@ autosomes
 astoundable
 antimiscegenation
 aani
+amy
 autosoterism
 auteciously
 antifundamentalism
