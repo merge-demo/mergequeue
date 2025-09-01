@@ -2495,7 +2495,6 @@ autoserum
 austrasian
 absciss
 amidate
-acoma
 arthropleura
 archdissembler
 antluetic
@@ -17221,6 +17220,7 @@ apophylactic
 apophyllite
 appreciant
 archicarp
+acoma
 amorous
 apophysary
 apophyseal
