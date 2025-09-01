@@ -3084,7 +3084,6 @@ actinophrys
 archimorphic
 actinopteran
 ascidian
-allotment
 autorail
 actinopteri
 attemper
@@ -20849,6 +20848,7 @@ atm
 aldamine
 asbestuses
 arthritic
+allotment
 anhimae
 asbolan
 amnionate
