@@ -1775,7 +1775,6 @@ asphyxies
 adularia
 arabis
 aromata
-acleistocardia
 anemia
 apochromatic
 acedy
@@ -3043,6 +3042,7 @@ actinomyces
 actinomycestal
 areche
 accomplishing
+acleistocardia
 autochton
 actinomycete
 arbtrn
