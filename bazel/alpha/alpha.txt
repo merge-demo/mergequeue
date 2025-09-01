@@ -13157,7 +13157,6 @@ associatory
 approver
 allorrhythmic
 animatedly
-actionable
 apokatastatic
 angekok
 animating
@@ -16629,6 +16628,7 @@ assizement
 asthenosphere
 apertness
 abnormalism
+actionable
 apertometer
 apocarpies
 adventures
