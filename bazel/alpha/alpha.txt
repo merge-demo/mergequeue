@@ -4863,6 +4863,7 @@ aerodromes
 arbitrating
 acetyltannin
 aeroelastic
+aucupate
 aeroelasticity
 aerofoil
 adjurors
@@ -12566,7 +12567,6 @@ antidoron
 appenditious
 aligns
 aeropleustic
-aucupate
 acinetarian
 anankes
 anergia
