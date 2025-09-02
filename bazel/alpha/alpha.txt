@@ -9739,7 +9739,6 @@ allegatum
 amacratic
 amacrinal
 asterella
-anticous
 amadelphous
 amadous
 androkinin
@@ -10810,6 +10809,7 @@ abhiseka
 annotation
 ammochaetae
 ammocoetes
+anticous
 agglutinated
 addossed
 albumoses
