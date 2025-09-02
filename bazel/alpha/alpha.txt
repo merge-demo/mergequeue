@@ -5139,7 +5139,6 @@ afenil
 autochanger
 afetal
 apyrexia
-affable
 ambilaevous
 achen
 affaite
@@ -6745,6 +6744,7 @@ avowing
 animally
 argentarius
 afterband
+affable
 amyrin
 ammonify
 airdrome
