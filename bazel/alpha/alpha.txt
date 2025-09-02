@@ -6738,7 +6738,6 @@ agrimonia
 airdate
 avowing
 animally
-argentarius
 afterband
 affable
 amyrin
@@ -24538,6 +24537,7 @@ auxograph
 abamperes
 auxology
 ammonea
+argentarius
 auxospore
 anachorism
 anticommunism
