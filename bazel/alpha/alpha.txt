@@ -421,7 +421,6 @@ abilao
 altininck
 abilitable
 ability
-anomaly
 abilla
 anicular
 abilo
@@ -10046,6 +10045,7 @@ ambit
 ambital
 anisole
 aluminoferric
+anomaly
 avitaminoses
 ambitendency
 arteriococcygeal
