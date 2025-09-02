@@ -7864,6 +7864,7 @@ alveola
 alecup
 alefs
 astringes
+applicators
 alehouse
 averrable
 amor
@@ -17726,7 +17727,6 @@ applicative
 agency
 applicatively
 applicatory
-applicators
 appliedly
 afterdischarge
 alcibiadean
