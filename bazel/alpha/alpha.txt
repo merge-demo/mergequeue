@@ -9124,7 +9124,6 @@ achetidae
 allusions
 allusive
 awreak
-allusiveness
 alluvials
 autism
 allhallow
@@ -14706,6 +14705,7 @@ antiboxing
 ammonolyzed
 aureously
 antibridal
+allusiveness
 ageism
 affright
 amphogeny
