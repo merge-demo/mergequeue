@@ -7903,6 +7903,7 @@ antetype
 alemite
 alemmal
 acidoproteolytic
+abiogenesist
 alen
 alkaloidal
 alenge
@@ -14527,7 +14528,6 @@ anteclassical
 anthropopathism
 amethodical
 anthropophagy
-abiogenesist
 antipoetically
 allophonic
 atemporal
