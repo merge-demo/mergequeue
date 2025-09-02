@@ -14642,6 +14642,7 @@ anthropomorphism
 alchemical
 antiarins
 aswim
+actuate
 aggressively
 antiaristocracies
 attendees
@@ -25296,7 +25297,6 @@ acetylrosaniline
 acholuria
 antidiphtheric
 antithermin
-actuate
 avionic
 azofication
 azoformamide
