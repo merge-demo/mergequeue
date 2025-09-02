@@ -1325,6 +1325,7 @@ adtevac
 activators
 agamous
 arginase
+anangular
 atomized
 acylating
 attracted
@@ -11869,7 +11870,6 @@ arbuscles
 anangioid
 aggeration
 axoplasms
-anangular
 autoantitoxin
 arylated
 addable
