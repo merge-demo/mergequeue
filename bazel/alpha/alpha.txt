@@ -1306,7 +1306,6 @@ acategorical
 adolescing
 acrocomia
 adephagia
-acatery
 argentinize
 autodrainage
 acates
@@ -9457,6 +9456,7 @@ angiosclerotic
 autocinesis
 alter
 alterable
+acatery
 alterably
 archaeocyte
 abetter
