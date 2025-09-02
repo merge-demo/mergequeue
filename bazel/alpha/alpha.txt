@@ -11950,6 +11950,7 @@ anapsid
 australopithecus
 anapterygota
 andes
+anemone
 anapterygotism
 amphoriskoi
 awe
@@ -12505,7 +12506,6 @@ anemometrographically
 alfilaria
 azoturia
 anemonal
-anemone
 aerography
 anticreator
 avidities
