@@ -5558,7 +5558,6 @@ afterthoughts
 afterthrift
 apastron
 afterturn
-armory
 arosaguntacook
 armil
 aphototaxis
@@ -15556,6 +15555,7 @@ altrose
 antimoralistic
 antimorality
 antimusical
+armory
 antimusically
 animalculous
 afront
