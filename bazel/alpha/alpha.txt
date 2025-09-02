@@ -10698,7 +10698,6 @@ analities
 aminopeptidase
 anisodactyl
 aminopherase
-apothec
 aminopyrine
 aminoplastic
 agrobiologic
@@ -24363,6 +24362,7 @@ antialexin
 agoraphobia
 ankylomele
 arksutite
+apothec
 autoscope
 autoscopic
 atrabiliar
