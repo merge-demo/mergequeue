@@ -14122,7 +14122,6 @@ aplasias
 anteoccupation
 anteocular
 accessability
-anteoperculum
 anteorbital
 albopannin
 augustinian
@@ -18032,6 +18031,7 @@ adular
 amphigenetic
 aporosa
 arthrosynovitis
+anteoperculum
 amazona
 aproterodont
 aroused
