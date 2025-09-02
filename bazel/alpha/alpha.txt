@@ -11553,7 +11553,6 @@ approbate
 anacampsis
 abysm
 ascribes
-anacamptic
 almighty
 archhead
 after
@@ -24637,6 +24636,7 @@ avenida
 aveniform
 apoise
 astatic
+anacamptic
 anticreation
 ammonium
 aegithognathism
