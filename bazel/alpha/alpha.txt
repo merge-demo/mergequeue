@@ -5516,6 +5516,7 @@ afternose
 ausgespielt
 afterpains
 auburns
+antifreezing
 afterpast
 afflux
 afterplanting
@@ -15240,7 +15241,6 @@ adapa
 amalgamates
 anthropomorphization
 antifreeze
-antifreezing
 antifriction
 antifrost
 antifungal
