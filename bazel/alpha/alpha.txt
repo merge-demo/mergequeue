@@ -1809,6 +1809,7 @@ anastalsis
 acephali
 afterage
 anthropomorphous
+afterend
 acephalist
 adumbratively
 acephalocyst
@@ -9501,7 +9502,6 @@ alternater
 alternatingly
 animals
 acinarious
-afterend
 attemperate
 antivenins
 alternatively
