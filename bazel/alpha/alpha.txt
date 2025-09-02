@@ -701,6 +701,7 @@ acupuncturists
 antinomy
 aboulic
 amyloplastic
+apiales
 abounder
 abounding
 acrolithic
@@ -5866,7 +5867,6 @@ arri
 agglutinative
 adamantine
 agglutinatively
-apiales
 aarrghh
 agamobium
 agglutinize
