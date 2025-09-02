@@ -5480,6 +5480,7 @@ aftergrowth
 antipathy
 acton
 argot
+aluco
 acetonylidene
 afterguard
 anaerobious
@@ -9597,7 +9598,6 @@ autoharp
 alture
 altus
 algivorous
-aluco
 alpaca
 amazia
 antirennet
