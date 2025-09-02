@@ -11391,6 +11391,7 @@ amps
 assigner
 absinthe
 approximant
+adversive
 admire
 ampul
 admonitory
@@ -15885,7 +15886,6 @@ antiprinciple
 adfiliate
 agrotis
 arrhizous
-adversive
 antiproductive
 antiproductivity
 atacaman
