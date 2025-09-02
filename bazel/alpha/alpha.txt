@@ -2952,6 +2952,7 @@ actinautographic
 abscisse
 actine
 actinenchyma
+antijam
 acting
 actiniae
 absentia
@@ -24588,7 +24589,6 @@ affich
 avance
 amicicide
 avantage
-antijam
 acetolysis
 avaram
 applicably
