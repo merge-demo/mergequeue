@@ -3945,7 +3945,6 @@ adjute
 aqueity
 apologer
 adjutrice
-adjutrix
 ambassage
 adlet
 ameba
@@ -5355,6 +5354,7 @@ amnionic
 acrorhagus
 afluking
 afore
+adjutrix
 aforehand
 aforementioned
 anemoclastic
