@@ -3198,7 +3198,6 @@ actualistic
 alphabeted
 attributer
 actuality
-alcayde
 adnexa
 actualization
 actualness
@@ -10706,6 +10705,7 @@ aminoplastic
 agrobiologic
 angulometer
 arachne
+alcayde
 adulterants
 aphronitre
 anorthography
