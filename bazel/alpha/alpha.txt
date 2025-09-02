@@ -3945,7 +3945,6 @@ acicularity
 anesthetic
 adjutator
 adjute
-adjutor
 aqueity
 apologer
 adjutrice
@@ -19283,6 +19282,7 @@ areopagist
 areopagite
 areopagitica
 anoxemia
+adjutor
 alaite
 astacus
 amplexation
