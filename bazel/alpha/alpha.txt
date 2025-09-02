@@ -6372,7 +6372,6 @@ antieducationally
 arapaimas
 agrostemma
 agrosteral
-agrostographer
 agrostography
 algesthesis
 antivenom
@@ -7581,6 +7580,7 @@ alcazaba
 apophonic
 alcazar
 adamance
+agrostographer
 asymptotical
 alce
 assibilate
