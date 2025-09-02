@@ -842,7 +842,6 @@ anam
 amphicyrtous
 abscission
 absconce
-arris
 abscond
 anteport
 absconded
@@ -8950,6 +8949,7 @@ allonomous
 abortion
 apodan
 admiralships
+arris
 appreciate
 antenatal
 alloo
