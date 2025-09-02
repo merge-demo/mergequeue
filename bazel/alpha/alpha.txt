@@ -2829,7 +2829,6 @@ acromiohumeral
 ancone
 acromiosternal
 antichurchian
-acromiothoracic
 addaxes
 accrete
 actuals
@@ -7991,6 +7990,7 @@ alewives
 acrimoniousness
 askarel
 alexander
+acromiothoracic
 alexandra
 alexandria
 anemometry
