@@ -6228,7 +6228,6 @@ autogeneal
 agramed
 agrammaphasia
 agrammatica
-accouple
 afterpeak
 agrammatism
 authorized
@@ -23055,6 +23054,7 @@ attendance
 agnominal
 aaronitic
 aggressor
+accouple
 annunciable
 analytic
 airdropped
