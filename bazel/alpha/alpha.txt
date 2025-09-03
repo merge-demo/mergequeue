@@ -4917,7 +4917,6 @@ aeromechanic
 anthonomus
 alphameric
 aeromechanics
-aeromedical
 aerometer
 amygdalus
 amenite
@@ -17420,6 +17419,7 @@ apotheosized
 apothesine
 anteportico
 amercers
+aeromedical
 apotome
 aortorrhaphy
 apyretic
