@@ -2483,7 +2483,6 @@ acocotl
 aluminic
 acoela
 arrendation
-acoelomate
 autoloaders
 anagoges
 acoelomi
@@ -24902,6 +24901,7 @@ awaiting
 awaitlala
 awakable
 apetaloid
+acoelomate
 awake
 awakeable
 awakened
