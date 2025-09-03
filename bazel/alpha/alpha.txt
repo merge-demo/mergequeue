@@ -13811,7 +13811,6 @@ anorthographic
 anorthographical
 ala
 anorthophyre
-anorthopia
 adrenocorticotrophin
 autocratship
 anorthose
@@ -23130,6 +23129,7 @@ attester
 akemboll
 abyssinia
 attestor
+anorthopia
 attests
 amphinesian
 atrabilarious
