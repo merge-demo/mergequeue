@@ -840,7 +840,6 @@ aerosols
 acesodyne
 abscissas
 anam
-amphicyrtous
 abscission
 absconce
 abscond
@@ -3550,6 +3549,7 @@ adelarthra
 alectryon
 apetalae
 acceptation
+amphicyrtous
 adelarthrosomatous
 azoospermia
 angionosis
