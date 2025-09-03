@@ -1168,7 +1168,6 @@ actinian
 alkalifies
 airshed
 acaleph
-advancements
 acalephoid
 anaclastic
 antigod
@@ -5007,6 +5006,7 @@ aerosolized
 aerostatic
 aerostatical
 argas
+advancements
 aerosteam
 antapex
 aerotaxis
