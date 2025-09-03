@@ -9294,6 +9294,7 @@ alongshore
 alemana
 alongshoreman
 accidental
+autonetics
 antisymmetric
 aloof
 aloofly
@@ -18662,7 +18663,6 @@ archbeacon
 addlebrain
 archbeadle
 aridge
-autonetics
 autocephality
 archbishopry
 archbishopric
