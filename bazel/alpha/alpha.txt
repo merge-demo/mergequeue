@@ -24460,7 +24460,6 @@ axlesmith
 autotrophic
 advise
 autotropic
-autotruck
 asclepias
 ayless
 argalis
@@ -24993,6 +24992,7 @@ awhile
 atlatls
 awhir
 awhirl
+autotruck
 antedon
 awikiwiki
 asymmetral
