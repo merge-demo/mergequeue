@@ -4076,6 +4076,7 @@ affinal
 anglification
 admonishments
 avgas
+appressor
 anvil
 apply
 agrief
@@ -17863,7 +17864,6 @@ apprenticeships
 apprenticing
 appressed
 achilleas
-appressor
 anakrousis
 asuri
 appressoria
