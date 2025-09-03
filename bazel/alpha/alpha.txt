@@ -21916,7 +21916,6 @@ assume
 araneidal
 apophis
 anthography
-assumer
 assumers
 aircrewmen
 argentometrically
@@ -23866,6 +23865,7 @@ authorhood
 acaridae
 admonishing
 authorised
+assumer
 adenoidal
 acrobystitis
 abactinally
