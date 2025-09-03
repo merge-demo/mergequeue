@@ -2590,7 +2590,6 @@ alterableness
 adjacent
 acquest
 armenite
-aromatite
 actutate
 applies
 arriswise
@@ -13683,6 +13682,7 @@ anomaliped
 afferent
 anomalism
 anomalist
+aromatite
 anomalistic
 andor
 asiatic
