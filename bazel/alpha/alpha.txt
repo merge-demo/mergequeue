@@ -5294,7 +5294,6 @@ afford
 alkines
 affordable
 argoletier
-afforested
 afforesting
 anticogitative
 afformative
@@ -8480,6 +8479,7 @@ alkalize
 alkalizer
 acuate
 alkalizing
+afforested
 alkaloid
 alkaloids
 alkalosis
