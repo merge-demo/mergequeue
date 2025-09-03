@@ -2890,7 +2890,6 @@ availableness
 acropore
 antialbumose
 augustest
-acrosome
 areographically
 acrosomes
 anoints
@@ -5238,6 +5237,7 @@ aplysia
 achaetous
 arnica
 assisan
+acrosome
 axis
 atelic
 apartments
