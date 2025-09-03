@@ -12615,7 +12615,6 @@ aesopic
 advene
 allochroite
 aneurysm
-aeriferous
 algosis
 aneurisms
 arithmetician
@@ -17761,6 +17760,7 @@ augmentation
 artophophoria
 appointment
 alburnous
+aeriferous
 algomic
 adonia
 ablaze
