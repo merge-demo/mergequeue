@@ -7974,7 +7974,6 @@ aurigo
 aleuronic
 aleurons
 aleut
-aleutic
 alevin
 antheses
 agnatically
@@ -12489,6 +12488,7 @@ adipogenic
 anemobiagraph
 anemochord
 anemochore
+aleutic
 anaboly
 anemochorous
 appropriated
