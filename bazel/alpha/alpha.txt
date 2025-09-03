@@ -5715,7 +5715,6 @@ agaricaceae
 adepts
 awl
 agaricaceous
-agaricine
 agaricoid
 agarics
 absurds
@@ -14644,6 +14643,7 @@ aggressively
 antiaristocracies
 attendees
 arauna
+agaricine
 antarctically
 arteriectasis
 alpinisms
