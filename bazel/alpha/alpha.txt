@@ -3775,7 +3775,6 @@ appaume
 adiaphoron
 anisopterous
 adiated
-adiathermal
 adiathermancy
 antioxidase
 alcoranist
@@ -18593,6 +18592,7 @@ archaeolithic
 archaeologer
 arching
 adding
+adiathermal
 artemisic
 adoral
 archaeologic
