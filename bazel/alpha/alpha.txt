@@ -19964,6 +19964,7 @@ afterclap
 archididascalian
 armscye
 armseye
+abatjour
 aals
 amasta
 amyelinic
@@ -23242,7 +23243,6 @@ attune
 analgesia
 attunely
 alans
-abatjour
 attempted
 attunement
 attunes
