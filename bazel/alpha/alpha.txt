@@ -4434,7 +4434,6 @@ advancement
 archimperial
 advancive
 anezeh
-advantaged
 answerer
 agaricus
 allothogenous
@@ -14729,6 +14728,7 @@ accurateness
 antically
 anticalligraphic
 agnathia
+advantaged
 atomistically
 anticamera
 anticancer
