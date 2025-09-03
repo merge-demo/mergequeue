@@ -469,6 +469,7 @@ abysses
 abyssolith
 aporrhais
 abyssopelagic
+actinide
 abyssus
 abit
 abstriction
@@ -2962,7 +2963,6 @@ antozonite
 antiheroism
 actinias
 actinic
-actinide
 autolaryngoscopic
 akene
 attentat
