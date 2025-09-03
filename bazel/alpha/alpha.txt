@@ -2209,7 +2209,6 @@ achromaticity
 achromatisation
 acetophenine
 acrestaff
-achromatising
 archangel
 achromatization
 achromatize
@@ -12953,6 +12952,7 @@ anguiped
 anginiform
 afterhatch
 acutes
+achromatising
 anguishes
 adjuvants
 antipriming
