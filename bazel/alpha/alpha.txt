@@ -13669,7 +13669,6 @@ austere
 aerialist
 anointment
 anointments
-awiggle
 articulation
 astrometrical
 aunt
@@ -24348,6 +24347,7 @@ anisocoria
 autos
 aromatically
 acritude
+awiggle
 actinopterygious
 autoschediasm
 agisting
