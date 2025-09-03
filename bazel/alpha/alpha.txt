@@ -22320,7 +22320,6 @@ augites
 astrography
 aspidiotus
 acromegalic
-archaical
 ailurophobic
 assonia
 astrolabe
@@ -22881,6 +22880,7 @@ atrypa
 asthenopic
 argyraspides
 asquat
+archaical
 atriplex
 atrypoid
 assimilation
