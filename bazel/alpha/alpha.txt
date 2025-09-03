@@ -10852,7 +10852,6 @@ arctiidae
 ammonion
 ammonitess
 ammonitic
-abstrude
 ammonitiferous
 ammonitoidea
 affording
@@ -24511,6 +24510,7 @@ auxiliary
 armsize
 abhor
 aerophile
+abstrude
 aglaos
 abbreviatable
 auxiliaries
