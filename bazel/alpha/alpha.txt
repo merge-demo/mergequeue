@@ -13292,7 +13292,6 @@ adipopexic
 albireo
 aurifex
 agglutinability
-anisomeric
 autosome
 apoturmeric
 anisometric
@@ -15680,6 +15679,7 @@ androidal
 algieba
 amphitokous
 antiparallelogram
+anisomeric
 arylamine
 ablet
 annection
