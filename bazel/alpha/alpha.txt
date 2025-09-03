@@ -3894,7 +3894,6 @@ agglutinin
 adjudicative
 adjudicatory
 aerostats
-akinetic
 antistrophically
 adjudicators
 amores
@@ -17874,6 +17873,7 @@ anticold
 anabathmos
 appressorium
 appreteur
+akinetic
 atherogenic
 appreve
 apprisers
