@@ -15936,7 +15936,6 @@ andantes
 antiquarianize
 anachronism
 antiquarianly
-ablepharous
 antiquaries
 antiquartan
 americas
@@ -23733,6 +23732,7 @@ auxetical
 australene
 avianization
 achieved
+ablepharous
 aspish
 alcogel
 australian
