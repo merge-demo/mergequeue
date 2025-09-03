@@ -5957,6 +5957,7 @@ aggroup
 archaeol
 applauder
 archt
+actinomycetal
 autochromy
 aggroupment
 aghan
@@ -9204,7 +9205,6 @@ almost
 acetonuria
 aggregated
 autonomousness
-actinomycetal
 almsful
 antiaircraft
 almsmen
