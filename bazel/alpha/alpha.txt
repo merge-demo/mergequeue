@@ -7069,6 +7069,7 @@ akka
 akkad
 austerer
 appense
+ajonjoli
 alist
 agamis
 aphoriser
@@ -12446,7 +12447,6 @@ anecdotage
 antiprimer
 astart
 autonomical
-ajonjoli
 ajowan
 adequateness
 anecdote
