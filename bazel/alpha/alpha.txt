@@ -5515,6 +5515,7 @@ afterpast
 afflux
 afterplanting
 absinthium
+acknew
 afterreckoning
 audiotypist
 auxofluor
@@ -5719,7 +5720,6 @@ agaricaceous
 agaricine
 agaricoid
 agarics
-acknew
 absurds
 apluda
 aleurodidae
