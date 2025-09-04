@@ -5196,7 +5196,6 @@ acosmic
 aviso
 affied
 abjured
-affies
 affile
 affiliable
 airscape
@@ -19360,6 +19359,7 @@ axisymmetry
 autochrome
 anacrisis
 acephalite
+affies
 avouchment
 argentate
 assortedness
