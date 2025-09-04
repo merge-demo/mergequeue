@@ -2571,7 +2571,6 @@ acoup
 abrege
 acousticolateral
 acousticon
-acousticophobia
 acoustoelectric
 acpt
 acridinic
@@ -2841,6 +2840,7 @@ acronically
 acronych
 armamentaria
 abarthrosis
+acousticophobia
 acronychal
 acronichally
 adelocodonic
