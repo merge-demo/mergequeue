@@ -10440,7 +10440,6 @@ adstipulation
 alchymy
 amethystine
 amethodically
-ametoecious
 absurdum
 aculeolus
 ametrope
@@ -20937,6 +20936,7 @@ ascertain
 accomplishable
 ascertainably
 ascertaining
+ametoecious
 ascertains
 ascendant
 ascescency
