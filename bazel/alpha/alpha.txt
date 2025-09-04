@@ -13343,7 +13343,6 @@ antecedent
 anisostaminous
 anisostichous
 anisostomous
-animose
 amlacra
 anisotonic
 amphitheatral
@@ -14991,6 +14990,7 @@ anticor
 anticorn
 anticorona
 anticorrosiveness
+animose
 alsatia
 agamospermy
 algology
