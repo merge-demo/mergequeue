@@ -6698,6 +6698,7 @@ alt
 aftermarket
 arpeggio
 aeromaechanic
+allomerize
 andrewsite
 agglutination
 atrioporal
@@ -17875,7 +17876,6 @@ appreve
 apprisers
 apprising
 antioxidizing
-allomerize
 antimeric
 atopy
 apprizer
