@@ -839,7 +839,6 @@ allergy
 assertors
 aerosols
 acesodyne
-abscissas
 anam
 abscission
 absconce
@@ -3637,6 +3636,7 @@ adenopharyngeal
 adenophlegmon
 antestature
 adenophora
+abscissas
 avianizing
 archaize
 armeriaceae
