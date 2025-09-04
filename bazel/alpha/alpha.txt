@@ -4993,6 +4993,7 @@ aeroplanes
 archboutefeu
 aeroplanist
 aeroscepsy
+archaeology
 amanitas
 aurum
 altumal
@@ -10460,7 +10461,6 @@ araba
 amiability
 amiableness
 antiautolysin
-archaeology
 aswooned
 annonce
 aspalax
