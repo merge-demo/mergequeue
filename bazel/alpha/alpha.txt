@@ -4697,7 +4697,6 @@ anchoretic
 aenigmatite
 aeolia
 ated
-aeolic
 alluvial
 alveolarly
 aeolidae
@@ -8653,6 +8652,7 @@ anglophobist
 allegorizer
 antidinic
 allegorizing
+aeolic
 acidific
 astromancy
 allegresse
