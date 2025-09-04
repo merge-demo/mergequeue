@@ -10711,7 +10711,6 @@ alcayde
 adulterants
 aphronitre
 anorthography
-aminopurine
 aminoquin
 acquests
 aminosuccinamic
@@ -16399,6 +16398,7 @@ antonomasia
 anaplastic
 antonomastic
 antonomastical
+aminopurine
 antonomastically
 antonovics
 antiracially
