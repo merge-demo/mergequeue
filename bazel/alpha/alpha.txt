@@ -3911,7 +3911,6 @@ adjuration
 analogia
 amidine
 aisling
-aneuria
 admissory
 adjured
 adjurer
@@ -15744,6 +15743,7 @@ antipatriotic
 afterfermentation
 abkary
 antipatriotically
+aneuria
 antipatriotism
 agada
 apodeme
