@@ -8679,6 +8679,7 @@ anemology
 alleleu
 allelic
 allelism
+argyrite
 almes
 alternationist
 allelomorphic
@@ -25104,7 +25105,6 @@ axilla
 axillae
 antiamylase
 axillar
-argyrite
 axillaries
 absurdest
 axillars
