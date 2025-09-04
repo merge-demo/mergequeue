@@ -5860,7 +5860,6 @@ assemblies
 agglomerate
 anychia
 amblyoscope
-agglomerated
 agglomerates
 agglomeratic
 agglomeration
@@ -13823,6 +13822,7 @@ anorthophyre
 adrenocorticotrophin
 autocratship
 anorthose
+agglomerated
 afresh
 anoscope
 angstrom
