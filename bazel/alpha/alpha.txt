@@ -3573,7 +3573,6 @@ adelphic
 adelphous
 adipsous
 azole
-ascesis
 assedat
 arabicize
 austerlitz
@@ -19656,6 +19655,7 @@ alfarga
 aristarchian
 aristarchies
 aristate
+ascesis
 aristeas
 alertness
 armaria
