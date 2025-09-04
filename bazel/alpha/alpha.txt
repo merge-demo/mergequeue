@@ -4760,7 +4760,6 @@ agrologically
 aeric
 aeriest
 aerifaction
-aerification
 apalachee
 autarky
 acutifoliate
@@ -16761,6 +16760,7 @@ aphylly
 abidi
 awarding
 apparens
+aerification
 anticatalyzer
 aphyric
 annunciators
