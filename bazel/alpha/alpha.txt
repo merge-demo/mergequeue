@@ -4920,7 +4920,6 @@ aerolites
 avulsions
 admonitioner
 aerolithology
-apocamphoric
 aerolitic
 aerological
 antepartum
@@ -22969,6 +22968,7 @@ attachableness
 argyria
 audaciousness
 attacher
+apocamphoric
 attaches
 ascitan
 attacheship
