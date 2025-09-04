@@ -2895,7 +2895,6 @@ areographically
 acrosomes
 anoints
 autolimnetic
-anapnograph
 aneurysms
 autoanalysis
 ammoniureted
@@ -20589,6 +20588,7 @@ articulite
 aetiology
 arthropathic
 assamese
+anapnograph
 arthrophyma
 arthrophlogosis
 anencephaly
