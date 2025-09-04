@@ -6164,7 +6164,6 @@ agoniada
 antiparabema
 ascendency
 acetnaphthalide
-atellan
 avirulent
 activable
 amphioxis
@@ -7135,6 +7134,7 @@ acidic
 alabarch
 aidmanmen
 alabaster
+atellan
 aphizog
 alabastrian
 alabastrine
