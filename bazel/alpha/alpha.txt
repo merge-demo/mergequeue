@@ -1968,7 +1968,6 @@ acetoacetate
 alkyls
 acetoacetic
 absolutism
-amphithurons
 amphidisk
 acetometer
 acetometry
@@ -23856,6 +23855,7 @@ authigene
 authigenetic
 antiozonant
 authigenous
+amphithurons
 astrict
 aurite
 authored
