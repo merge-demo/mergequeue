@@ -12835,6 +12835,7 @@ anagram
 athenaea
 anathematizes
 asemia
+apotheosising
 almners
 awardable
 angiotonic
@@ -17417,7 +17418,6 @@ apothegmatize
 antiattrition
 autocratically
 apotheosised
-apotheosising
 apotheosize
 apotheosized
 apothesine
