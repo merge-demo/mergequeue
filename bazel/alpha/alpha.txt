@@ -12797,7 +12797,6 @@ angiorrhagia
 angiorrhaphy
 angiorrhea
 angiosarcoma
-archaeocyathus
 ascher
 armorwise
 ammocoetid
@@ -15699,6 +15698,7 @@ antipasch
 antipastic
 antipastos
 aureolin
+archaeocyathus
 acromania
 antipopular
 anaesthesiologist
