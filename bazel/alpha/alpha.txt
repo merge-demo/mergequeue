@@ -7619,7 +7619,6 @@ archership
 alchemizing
 alchimy
 amphicarpic
-assument
 alcicornium
 acetary
 antisepticist
@@ -9615,6 +9614,7 @@ alumic
 alumiferous
 acroamatics
 autoinoculation
+assument
 aeroballistics
 abominates
 arachnoid
