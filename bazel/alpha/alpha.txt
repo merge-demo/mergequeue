@@ -7136,7 +7136,6 @@ atellan
 aphizog
 alabastrian
 alabastrine
-alabastrites
 ascenders
 awane
 acidness
@@ -17554,6 +17553,7 @@ alburnums
 apheta
 appellation
 appellations
+alabastrites
 apesthetize
 appellatived
 appellativeness
