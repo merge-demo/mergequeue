@@ -8423,7 +8423,6 @@ aljamiado
 attirail
 atfalati
 aristocraticness
-admeasure
 aortostenosis
 alk
 alkahest
@@ -20353,6 +20352,7 @@ antesignani
 arsenopyrite
 aquaemanalia
 arsenostyracol
+admeasure
 austerities
 arcsines
 autoradiography
