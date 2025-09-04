@@ -1450,7 +1450,6 @@ atocha
 acclaimer
 afterwrist
 amphoricity
-apex
 acclamator
 acclimatable
 autecologically
@@ -2666,6 +2665,7 @@ antiarcha
 antitheft
 abrasiometer
 anticyclonic
+apex
 attent
 aegritude
 acridiidae
