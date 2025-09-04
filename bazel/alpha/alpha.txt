@@ -4462,7 +4462,6 @@ adventively
 apaesthesia
 assassination
 automobilism
-allegorism
 amounting
 acrography
 adventual
@@ -20988,6 +20987,7 @@ ashluslay
 aceconitic
 ascititious
 agaz
+allegorism
 asclepiad
 asporous
 asclepiadaceae
