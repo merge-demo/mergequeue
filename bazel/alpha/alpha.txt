@@ -772,7 +772,6 @@ archenteric
 abreed
 anchylosing
 asyle
-abri
 acetate
 abrico
 autostrada
@@ -11286,6 +11285,7 @@ apiary
 amphisbaenas
 accordable
 amphisbaenoid
+abri
 aik
 antimasks
 animisms
