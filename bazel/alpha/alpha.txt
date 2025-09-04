@@ -1216,7 +1216,6 @@ autogravure
 aortographic
 antimedically
 acanthodes
-acanthodidae
 acanthodini
 alcoholise
 aspirations
@@ -20342,6 +20341,7 @@ alem
 aistopod
 arsenization
 amphimacer
+acanthodidae
 arsenobenzol
 arsenobismite
 apostoli
