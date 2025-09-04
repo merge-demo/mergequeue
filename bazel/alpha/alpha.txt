@@ -7079,7 +7079,6 @@ aroint
 androides
 arythmic
 akkadian
-akkadist
 akmite
 aftershock
 aetheogam
@@ -10259,6 +10258,7 @@ absorbition
 ameiva
 amel
 adj
+akkadist
 anhydrization
 asyllabia
 arcticize
