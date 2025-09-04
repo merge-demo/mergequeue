@@ -5166,7 +5166,6 @@ affective
 advocacies
 affectivity
 affector
-affectum
 accoast
 affeerer
 auturgy
@@ -8330,6 +8329,7 @@ alimented
 alimentic
 alabandite
 automatical
+affectum
 alimony
 abrenunciate
 argolet
