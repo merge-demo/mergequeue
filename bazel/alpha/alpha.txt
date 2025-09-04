@@ -9695,6 +9695,7 @@ alveary
 alvearies
 alvearium
 alveolariform
+antitetanic
 alveolate
 alveolation
 alveole
@@ -16288,7 +16289,6 @@ arborvitae
 amylamine
 acetanilide
 antitragal
-antitetanic
 accusive
 antitragicus
 aricine
