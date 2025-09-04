@@ -2064,7 +2064,6 @@ amorua
 alphabets
 argon
 aeropulse
-autoscopy
 andantini
 acheron
 apostematous
@@ -22290,6 +22289,7 @@ avilion
 avion
 animableness
 antilia
+autoscopy
 abound
 accreting
 astrodome
