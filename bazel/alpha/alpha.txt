@@ -967,6 +967,7 @@ abstainer
 abstainers
 abstaining
 abstains
+antiserum
 annectant
 assis
 abstemious
@@ -24419,7 +24420,6 @@ autosuppression
 alhambra
 autotelegraph
 autotelism
-antiserum
 appendiculariidae
 antiutilitarianism
 autoanticomplement
