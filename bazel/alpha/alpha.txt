@@ -4747,7 +4747,6 @@ asterionella
 acarology
 anaretic
 antihum
-astrophel
 aorists
 aeriality
 aerials
@@ -17443,6 +17442,7 @@ abstracter
 astronomer
 apoxyomenos
 apozem
+astrophel
 angiostomize
 apozema
 apozymase
