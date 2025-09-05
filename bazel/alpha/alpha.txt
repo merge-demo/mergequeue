@@ -4402,7 +4402,6 @@ ap
 adumbrating
 adumbrations
 asthenias
-allemande
 agrypnode
 adumbrative
 adunation
@@ -20512,6 +20511,7 @@ arcticology
 arterioversion
 apperceptionistic
 archetype
+allemande
 anathema
 artesian
 areographic
