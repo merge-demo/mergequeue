@@ -5752,7 +5752,6 @@ apickaback
 ancestor
 agate
 agates
-affeerment
 autoturning
 appal
 amberjack
@@ -19805,6 +19804,7 @@ alteratively
 acutate
 armamentarium
 autoskeleton
+affeerment
 antigalactic
 attachable
 avigators
