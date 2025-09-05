@@ -16872,7 +16872,6 @@ achievements
 apicultural
 araucan
 apiculturist
-apiculus
 apiece
 annelida
 astrogonic
@@ -17851,6 +17850,7 @@ anaclisis
 aceship
 andamento
 acaudelescent
+apiculus
 amblers
 acquired
 apprehending
