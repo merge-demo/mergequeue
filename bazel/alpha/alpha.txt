@@ -12289,7 +12289,6 @@ andamenta
 allopatric
 andantino
 andaste
-antiposition
 annunciate
 almicore
 antithetics
@@ -20763,6 +20762,7 @@ animalcule
 aet
 astrantia
 artlike
+antiposition
 artocarpeous
 artocarpous
 artolater
