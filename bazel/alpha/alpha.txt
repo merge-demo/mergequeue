@@ -7798,7 +7798,6 @@ amarantus
 ale
 adoze
 arctia
-abreuvoir
 alea
 aleak
 aleatory
@@ -18707,6 +18706,7 @@ arthrosterigma
 archd
 archdeaconries
 ascigerous
+abreuvoir
 archdefender
 agenesia
 archdetective
