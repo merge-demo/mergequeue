@@ -13385,7 +13385,6 @@ auditress
 ankylopodia
 ankyloproctia
 alamiqui
-ankylos
 acridest
 ankyloses
 amperages
@@ -19298,6 +19297,7 @@ areometry
 awm
 areometrical
 arbutus
+ankylos
 anthologizer
 areopagist
 areopagite
