@@ -291,7 +291,6 @@ abducens
 abducentes
 abduces
 articulate
-atonic
 apothece
 abducted
 abductions
@@ -10833,6 +10832,7 @@ ammonic
 ammonical
 alienness
 ascendible
+atonic
 ammonification
 academicians
 autochthonousness
