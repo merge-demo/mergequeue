@@ -2323,6 +2323,7 @@ abbreviatory
 athetoid
 absorbed
 acieration
+apiary
 acies
 acyesis
 altometer
@@ -11273,7 +11274,6 @@ actuated
 administratorship
 apiose
 argiopidae
-apiary
 amphisbaenas
 accordable
 amphisbaenoid
