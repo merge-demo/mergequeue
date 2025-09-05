@@ -16983,7 +16983,6 @@ apneumonous
 agrammatical
 apneusis
 apodemata
-apneustic
 apnoea
 abominating
 adiaphoretic
@@ -18107,6 +18106,7 @@ aquake
 aqualung
 aqualunger
 adventism
+apneustic
 aquamanilia
 allyls
 aquamarines
