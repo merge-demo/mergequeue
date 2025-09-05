@@ -5606,7 +5606,6 @@ aminoaciduria
 asquare
 agag
 avarian
-ashkenazic
 amygdale
 andabatarian
 aeschylean
@@ -17970,6 +17969,7 @@ approximal
 athreptic
 approximants
 ambits
+ashkenazic
 antiheroic
 acridly
 allodiaries
