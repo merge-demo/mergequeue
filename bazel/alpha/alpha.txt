@@ -3744,7 +3744,6 @@ adhort
 awol
 adiabat
 azoxybenzoic
-adumbrate
 antecedal
 adiadochokinesis
 adiadokokinesia
@@ -16606,6 +16605,7 @@ amphigonic
 affiliate
 abrasax
 apepsinia
+adumbrate
 antonio
 arean
 apercus
