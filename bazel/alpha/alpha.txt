@@ -4578,7 +4578,6 @@ afficionado
 advocated
 advocates
 afterspeech
-advocating
 advocative
 aq
 archengineer
@@ -11221,6 +11220,7 @@ aspersed
 amphigean
 amphigene
 aimers
+advocating
 amphigenous
 aminating
 amphigenously
