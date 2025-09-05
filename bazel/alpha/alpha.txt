@@ -4415,7 +4415,6 @@ adunc
 aduncate
 amyraldist
 anacard
-aduncity
 aduncous
 aerobus
 adure
@@ -20592,6 +20591,7 @@ adamantoma
 arthrometry
 aswithe
 arthroncus
+aduncity
 arthroneuralgia
 articulite
 aetiology
