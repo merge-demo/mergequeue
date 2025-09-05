@@ -4998,6 +4998,7 @@ archboutefeu
 aeroplanist
 aeroscepsy
 archaeology
+anciennete
 amanitas
 aurum
 altumal
@@ -24774,7 +24775,6 @@ avifauna
 avifaunae
 avifaunas
 above
-anciennete
 araguane
 avifaunistic
 avigation
