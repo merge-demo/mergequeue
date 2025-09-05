@@ -16801,6 +16801,7 @@ ancienter
 approve
 anlet
 archplagiary
+auxiliary
 ambrosiac
 aphanites
 aphra
@@ -24507,7 +24508,6 @@ auxesis
 auxetic
 aghorapanthi
 anywhereness
-auxiliary
 armsize
 abhor
 aerophile
