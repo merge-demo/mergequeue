@@ -20598,7 +20598,6 @@ aetiology
 arthropathic
 assamese
 anapnograph
-arthrophyma
 arthrophlogosis
 anencephaly
 abdaria
@@ -24966,6 +24965,7 @@ aweel
 anaerobism
 aspirata
 acyl
+arthrophyma
 aerosolize
 achlorhydric
 aweing
