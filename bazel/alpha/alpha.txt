@@ -17216,6 +17216,7 @@ agonist
 adeptship
 apomorphin
 archimago
+automatization
 aspired
 androphagous
 althaeas
@@ -22411,7 +22412,6 @@ astrospectral
 acrasiaceae
 adversion
 astrotheology
-automatization
 anisostemonous
 astrut
 asturian
