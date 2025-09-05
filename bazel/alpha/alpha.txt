@@ -9322,7 +9322,6 @@ amputations
 alpenstock
 aerogram
 alpenstocks
-alpestral
 alpestrine
 aircraft
 atomiferous
@@ -20583,6 +20582,7 @@ azrael
 arthrogryposis
 arthrolith
 aedegi
+alpestral
 arthromere
 arthromeric
 afterplay
