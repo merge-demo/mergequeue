@@ -3003,6 +3003,7 @@ actinogram
 aerophore
 appearances
 actinograph
+attenuate
 aporobranchiata
 antipodes
 afterwar
@@ -21575,7 +21576,6 @@ accompanied
 alfur
 achenodia
 acheilous
-attenuate
 anteflected
 addict
 alkalizes
