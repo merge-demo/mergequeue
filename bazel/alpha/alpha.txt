@@ -13523,7 +13523,6 @@ annoyer
 adventurers
 annoyingly
 authigenic
-atomical
 armada
 acropodia
 alberich
@@ -18566,6 +18565,7 @@ aulos
 adlegation
 arcading
 aggravate
+atomical
 antipatriarchally
 allurer
 antitragi
