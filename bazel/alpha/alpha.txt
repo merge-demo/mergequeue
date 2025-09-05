@@ -9275,7 +9275,6 @@ aloins
 aloysia
 ashfall
 acapulco
-aniellidae
 ateba
 aloisiite
 aloysius
@@ -10524,6 +10523,7 @@ assimilator
 apollonia
 anandrous
 auguration
+aniellidae
 antihypnotic
 ameliorativ
 amidoplast
