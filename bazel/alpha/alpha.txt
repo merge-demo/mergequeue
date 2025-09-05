@@ -5421,6 +5421,7 @@ atmospheres
 afterblow
 afterbreach
 aerarium
+augurer
 afterbreast
 alpian
 anele
@@ -9792,7 +9793,6 @@ amante
 allured
 agonized
 airbrush
-augurer
 amma
 alloplasmatic
 antihormone
