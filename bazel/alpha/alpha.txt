@@ -9207,7 +9207,6 @@ almsful
 antiaircraft
 almsmen
 attestative
-almswoman
 almuces
 almud
 amides
@@ -21360,6 +21359,7 @@ aslumber
 aspergillales
 arolla
 asmack
+almswoman
 acrogenously
 agueproof
 alamoth
