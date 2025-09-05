@@ -1967,7 +1967,6 @@ azocoralline
 acetla
 acetoacetate
 alkyls
-acetoacetic
 absolutism
 amphidisk
 acetometer
@@ -6221,6 +6220,7 @@ anteprostatic
 analogion
 agouara
 agouty
+acetoacetic
 amarth
 autarkic
 anachronically
