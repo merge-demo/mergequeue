@@ -15604,7 +15604,6 @@ antineutrons
 anting
 absist
 anorexiant
-antinganting
 antings
 apprehensible
 alway
@@ -21703,6 +21702,7 @@ assert
 asserta
 assertable
 asserted
+antinganting
 assagaied
 awesomely
 asserter
