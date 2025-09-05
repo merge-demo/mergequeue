@@ -17991,7 +17991,6 @@ arteriotomy
 aggrandise
 alemonger
 anchoritism
-agt
 agnomination
 aiguelle
 arnatta
@@ -24181,6 +24180,7 @@ autologous
 alloy
 autoluminescence
 alalite
+agt
 alienicolae
 autoluminescent
 abbasid
