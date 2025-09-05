@@ -4286,6 +4286,7 @@ arracacha
 afterbrain
 adrian
 adriatic
+amex
 aeration
 aumbry
 adrift
@@ -11470,7 +11471,6 @@ aporrhea
 argolic
 acaulose
 arteriolar
-amex
 adenophore
 appetites
 algoristic
