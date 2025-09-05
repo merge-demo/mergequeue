@@ -3624,7 +3624,6 @@ adenomyoma
 adenomyxosarcoma
 adenoneural
 antiradiation
-alkalimetrically
 aerophysical
 adenoneure
 antihierarchies
@@ -10155,6 +10154,7 @@ ambulante
 ambulated
 atropinism
 ambulates
+alkalimetrically
 anisogamy
 ambulation
 aminded
