@@ -1529,7 +1529,6 @@ accompliceship
 assoin
 ahuatle
 airborn
-adjoin
 accomplicity
 autopathic
 accomplisher
@@ -18018,6 +18017,7 @@ association
 aprickle
 apricot
 ablesse
+adjoin
 achaemenidae
 aesculaceae
 antithetical
