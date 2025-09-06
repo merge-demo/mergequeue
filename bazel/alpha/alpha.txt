@@ -16715,7 +16715,6 @@ allegiances
 auburn
 antimonious
 annunciated
-apharsathacites
 aphasia
 atees
 arrestee
@@ -20168,6 +20167,7 @@ arraignment
 aurophobia
 allolalia
 arraigns
+apharsathacites
 arraying
 areaway
 anoura
