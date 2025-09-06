@@ -288,7 +288,6 @@ abdominothoracic
 acquiescent
 abdominous
 abducens
-abducentes
 abduces
 articulate
 apothece
@@ -5752,6 +5751,7 @@ adiabatically
 aviation
 acrocephalia
 analyticity
+abducentes
 abranchiata
 aeroduct
 aguey
