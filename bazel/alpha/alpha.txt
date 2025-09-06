@@ -4484,7 +4484,6 @@ alternation
 angiostegnosis
 adventurism
 aquotization
-acheirus
 atelopodia
 adventurous
 adventurousness
@@ -23892,6 +23891,7 @@ authoritative
 archvestryman
 authorizer
 alluvions
+acheirus
 agostadero
 authorizes
 authorless
