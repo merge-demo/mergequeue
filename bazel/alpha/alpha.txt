@@ -5176,7 +5176,6 @@ ankerite
 ampulated
 agrias
 ameloblastic
-ascensor
 affeir
 artifactual
 affere
@@ -15937,6 +15936,7 @@ anticonscience
 axeman
 articulationist
 avulses
+ascensor
 andantes
 antiquarianize
 anachronism
