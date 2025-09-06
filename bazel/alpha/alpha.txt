@@ -3812,6 +3812,7 @@ adion
 adios
 adipate
 amphitruo
+aequorin
 amphithuron
 acetabuliform
 adipinic
@@ -22477,7 +22478,6 @@ amphitoky
 ansarian
 atavistically
 ataxiagraph
-aequorin
 ataxiaphasia
 ataxies
 ataxinomic
