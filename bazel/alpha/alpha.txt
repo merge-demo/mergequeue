@@ -11044,7 +11044,6 @@ arecaceae
 araneid
 anoesis
 autoput
-amotion
 alacreatinin
 amotions
 aubade
@@ -18102,6 +18101,7 @@ apus
 akinesis
 antechoir
 aquacade
+amotion
 aquacultural
 aquaemanale
 aquafortis
