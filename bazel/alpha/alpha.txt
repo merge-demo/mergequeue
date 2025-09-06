@@ -10065,7 +10065,6 @@ attractant
 absinthic
 amblyomma
 abrupt
-amblyopic
 arles
 alchymies
 astral
@@ -12355,6 +12354,7 @@ anopluriform
 andrewartha
 albitophyre
 appropre
+amblyopic
 andria
 allumine
 atheroma
