@@ -11709,7 +11709,6 @@ annulism
 anisopleural
 anaglyphs
 anaglypta
-anaglyptical
 aldim
 armorbearer
 acacatechin
@@ -14428,6 +14427,7 @@ anthrapurpurin
 anthraquinone
 adoptianist
 antiphysical
+anaglyptical
 antimetabolite
 abiotrophy
 arsenical
