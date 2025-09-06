@@ -6047,7 +6047,6 @@ availment
 apogeny
 agitatorial
 aromaticness
-amyous
 albuminoidal
 agitators
 agitatrix
@@ -20374,6 +20373,7 @@ antesignani
 arsenopyrite
 aquaemanalia
 arsenostyracol
+amyous
 admeasure
 austerities
 arcsines
