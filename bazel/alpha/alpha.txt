@@ -13535,7 +13535,6 @@ alberich
 azeotropism
 amoebida
 amputated
-aphidophagous
 annotative
 amaurotic
 annotatively
@@ -17414,6 +17413,7 @@ apothecial
 archenemy
 apothecium
 antitrope
+aphidophagous
 arbitrement
 applot
 airship
