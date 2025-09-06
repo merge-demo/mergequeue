@@ -9349,7 +9349,6 @@ areole
 alphas
 alpheus
 alphyl
-appress
 attenuations
 alectoridine
 amphicarpus
@@ -16530,6 +16529,7 @@ adenomata
 anack
 apabhramsa
 axletree
+appress
 acutorsion
 apache
 attained
