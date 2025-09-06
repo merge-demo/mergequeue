@@ -17036,7 +17036,6 @@ alcid
 addy
 arthrotropic
 apocopes
-antes
 apocrenic
 apocrine
 agatha
@@ -24460,6 +24459,7 @@ aetheric
 autotriploidy
 axlesmith
 autotrophic
+antes
 advise
 autotropic
 asclepias
