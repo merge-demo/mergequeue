@@ -12784,6 +12784,7 @@ angiomyosarcoma
 astakiwi
 antihemolysin
 angioneurosis
+autoexcitation
 abernethy
 angionoma
 arcabucero
@@ -16044,7 +16045,6 @@ adenophyma
 antirevolution
 antirevolutionist
 antirheumatic
-autoexcitation
 anaptyxes
 antiricin
 autoradiographic
