@@ -19021,7 +19021,6 @@ adhering
 astronautical
 airmailed
 archocele
-archon
 archonship
 archonships
 acichlorid
@@ -19802,6 +19801,7 @@ adductors
 acetylide
 antimedievalist
 anhydridize
+archon
 archplotter
 armadillos
 astrocyte
