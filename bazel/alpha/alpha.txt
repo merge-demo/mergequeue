@@ -19371,7 +19371,6 @@ agio
 argent
 argentamid
 amadi
-astasias
 abysms
 argentines
 archduchies
@@ -22609,6 +22608,7 @@ atheriogaean
 atheris
 athermancy
 athermanous
+astasias
 athermic
 atherogenesis
 alley
