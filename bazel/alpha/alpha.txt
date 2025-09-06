@@ -13726,7 +13726,6 @@ andorran
 anomodont
 aythya
 anomodontia
-anomoeomery
 anticommercially
 anomophyllous
 anomouran
@@ -20849,6 +20848,7 @@ asaphia
 azotized
 aerosinusitis
 asaphidae
+anomoeomery
 antelopine
 autodial
 arundo
