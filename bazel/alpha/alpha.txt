@@ -6774,6 +6774,7 @@ airgraphics
 anisometropia
 androcyte
 airhead
+autoconverter
 amorosa
 ascula
 aquiculturist
@@ -7655,7 +7656,6 @@ antonymic
 aberroscope
 autoprothesis
 alcoholimeter
-autoconverter
 asterin
 alcoholised
 alcoholysis
