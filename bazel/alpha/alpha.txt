@@ -13678,7 +13678,6 @@ anointments
 articulation
 astrometrical
 aunt
-absolutization
 anethum
 aboriginal
 antivariolous
@@ -25280,6 +25279,7 @@ anisogamous
 amylophosphoric
 articulateness
 argyropelecus
+absolutization
 archaistic
 arvicola
 adenofibroma
