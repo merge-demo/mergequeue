@@ -1256,6 +1256,7 @@ accord
 addorsed
 anarthropod
 avian
+apodal
 asexualizing
 acaridean
 angelical
@@ -17055,7 +17056,6 @@ arefaction
 aeolicism
 aerophotography
 agranulocyte
-apodal
 apodedeipna
 acrotarsium
 apodeictic
