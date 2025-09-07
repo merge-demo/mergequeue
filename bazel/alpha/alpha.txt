@@ -1792,7 +1792,6 @@ allocthonous
 ahaaina
 affixing
 acerb
-acromioscapular
 acenaphthylene
 aced
 adiphenine
@@ -12001,6 +12000,7 @@ avionics
 anas
 athumia
 anasa
+acromioscapular
 albuginaceae
 araphostic
 aralkylated
