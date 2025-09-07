@@ -8033,7 +8033,6 @@ attriutively
 alrune
 airworthy
 acidotic
-arithmetically
 amphide
 alforja
 alfreda
@@ -9930,6 +9929,7 @@ accented
 antihelixes
 amazilia
 amazing
+arithmetically
 antizymotic
 almoravides
 allovers
