@@ -12062,7 +12062,6 @@ anastrophy
 advocator
 advisements
 activital
-anat
 anatase
 ardebs
 anatases
@@ -16809,6 +16808,7 @@ auxiliary
 ambrosiac
 aphanites
 aphra
+anat
 aphrite
 aphrodesiac
 abastral
