@@ -7798,7 +7798,6 @@ amarantus
 ale
 adoze
 arctia
-alea
 aleak
 aleatory
 aleatoric
@@ -12868,6 +12867,7 @@ allays
 anglewise
 averrer
 avenger
+alea
 asteraceous
 anglian
 apportionment
