@@ -5823,7 +5823,6 @@ agendums
 amovability
 agene
 anticonscription
-ageneses
 ancestorial
 anthropomorphise
 agenesis
@@ -22521,6 +22520,7 @@ ateles
 antimensium
 antidromy
 abiston
+ageneses
 adonean
 atelestite
 acetylcellulose
