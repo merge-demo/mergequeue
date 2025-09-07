@@ -4132,7 +4132,6 @@ archfriend
 aullay
 adolescence
 ascabart
-adolescent
 argentarii
 amahs
 apasote
@@ -20495,6 +20494,7 @@ ashman
 acrid
 arteriomalacia
 accomplishment
+adolescent
 autoagglutinin
 ascertainment
 actinobacilli
