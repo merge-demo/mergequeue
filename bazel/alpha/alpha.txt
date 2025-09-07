@@ -5966,7 +5966,6 @@ aghan
 aghas
 aghlabite
 aghori
-allottee
 autoantibody
 apardon
 anfeeld
@@ -19113,6 +19112,7 @@ archvampire
 archvillainy
 assuages
 algorithm
+allottee
 anisylidene
 aphoristic
 archvisitor
