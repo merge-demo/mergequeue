@@ -11890,6 +11890,7 @@ aqueomercurial
 allergen
 anansi
 ananta
+ardours
 antimasquerade
 anammonide
 anantherous
@@ -19217,7 +19218,6 @@ amianthoidal
 azocorinth
 agriotype
 ardour
-ardours
 ardri
 ardu
 adonian
