@@ -4005,7 +4005,6 @@ administrative
 affixion
 aspidoganoidei
 administratively
-administratrices
 administratrix
 admirable
 authenticness
@@ -7802,6 +7801,7 @@ alea
 aleak
 aleatory
 aleatoric
+administratrices
 arustle
 academics
 aquae
