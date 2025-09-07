@@ -2445,6 +2445,7 @@ appall
 amblycephalidae
 autocombustible
 aclinic
+assuefaction
 antigene
 acmaea
 acmaeidae
@@ -20904,7 +20905,6 @@ amidid
 aphasias
 ascariasis
 aerodynamicist
-assuefaction
 anticlassicalness
 ascarid
 amytal
