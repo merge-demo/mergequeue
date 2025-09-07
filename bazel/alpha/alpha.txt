@@ -289,7 +289,6 @@ acquiescent
 abdominous
 abducens
 abduces
-articulate
 apothece
 abducted
 abductions
@@ -22736,6 +22735,7 @@ antipopulationist
 atlantoodontoid
 autokrator
 atlantosaurus
+articulate
 atlases
 annulling
 apropos
