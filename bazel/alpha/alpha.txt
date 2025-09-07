@@ -1216,7 +1216,6 @@ autogravure
 aortographic
 antimedically
 acanthodes
-acanthodini
 alcoholise
 aspirations
 avowal
@@ -18708,6 +18707,7 @@ argonautic
 appmt
 archcrown
 arointed
+acanthodini
 arthrosterigma
 archd
 archdeaconries
