@@ -3294,7 +3294,6 @@ acutograve
 analogist
 acutonodose
 aurene
-anthropomorphist
 avigator
 acxoyatl
 accensor
@@ -12129,6 +12128,7 @@ accoucheuse
 adenology
 asepsis
 anatripsology
+anthropomorphist
 antimagistratical
 agaonidae
 anatron
