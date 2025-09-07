@@ -7646,7 +7646,6 @@ alcoholemia
 alcoholically
 appetition
 anaudia
-antonymic
 aberroscope
 autoprothesis
 alcoholimeter
@@ -12879,6 +12878,7 @@ apolysin
 anatabine
 apneumatosis
 allineate
+antonymic
 aditio
 anglicized
 anglify
