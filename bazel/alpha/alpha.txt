@@ -3759,7 +3759,6 @@ antecedal
 adiadochokinesis
 adiadokokinesia
 adiagnostic
-adeniform
 adiaphon
 autophagia
 antimechanist
@@ -12350,6 +12349,7 @@ andrena
 anopluriform
 andrewartha
 albitophyre
+adeniform
 appropre
 amblyopic
 andria
