@@ -7360,7 +7360,6 @@ annulus
 amusiveness
 affinage
 antrum
-adversus
 alarmists
 angili
 astrogate
@@ -11126,6 +11125,7 @@ amphiarthrodial
 actaeaceae
 amphiarthroses
 aphorisms
+adversus
 amritsar
 amphibial
 anfractuous
