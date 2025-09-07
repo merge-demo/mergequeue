@@ -5023,7 +5023,6 @@ aerostatical
 argas
 advancements
 aerosteam
-antapex
 aerotaxis
 agacant
 autoecous
@@ -23319,6 +23318,7 @@ anan
 auctions
 auctor
 auctorizate
+antapex
 accessibleness
 aucuba
 autogenesis
