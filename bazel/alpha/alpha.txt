@@ -5581,7 +5581,6 @@ aftward
 afunctional
 anticorrosion
 afwillite
-afzelia
 adjustable
 aswing
 aga
@@ -8998,6 +8997,7 @@ astrakanite
 angora
 allotypes
 annotates
+afzelia
 allotypy
 antipapist
 acidified
