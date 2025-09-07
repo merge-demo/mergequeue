@@ -18695,7 +18695,6 @@ archbotcher
 aretes
 alerts
 aloeroot
-archbuilder
 archchemic
 antiopelmous
 archchronicler
@@ -22941,6 +22940,7 @@ alehouses
 atrophies
 atrophying
 axiopisty
+archbuilder
 atrophoderma
 atrophous
 antacrid
