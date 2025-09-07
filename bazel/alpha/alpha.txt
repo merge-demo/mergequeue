@@ -5301,7 +5301,6 @@ agrionidae
 affloof
 affluence
 affluently
-affluxion
 albedograph
 afforce
 afford
@@ -8752,6 +8751,7 @@ abaze
 anschluss
 appet
 alliancing
+affluxion
 alliant
 allicampane
 antiketogen
