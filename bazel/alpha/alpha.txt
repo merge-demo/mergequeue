@@ -4707,6 +4707,7 @@ aenigmatite
 aeolia
 ated
 alluvial
+annotater
 alveolarly
 aeolidae
 ambrotype
@@ -16868,7 +16869,6 @@ allocute
 approximation
 antiinstitutionalist
 apicolysis
-annotater
 amentulum
 apposable
 apicular
