@@ -4951,6 +4951,7 @@ aerometric
 aeronat
 aeronaut
 aeronautic
+agama
 aeronautical
 aeronomer
 amyliferous
@@ -5665,7 +5666,6 @@ agalwoods
 arthrodial
 adiposes
 adulter
-agama
 awning
 agamemnon
 aeolistic
