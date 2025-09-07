@@ -1364,7 +1364,6 @@ accentors
 accents
 auxillary
 accentual
-accentually
 accension
 agapanthus
 accept
@@ -6656,6 +6655,7 @@ aims
 aimworthiness
 andropogon
 ain
+accentually
 anthocyanin
 ablow
 anathematic
