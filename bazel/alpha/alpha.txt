@@ -1696,7 +1696,6 @@ abloom
 accum
 alouettes
 accumbency
-accumbent
 accumulating
 anthracomartian
 agony
@@ -3067,6 +3066,7 @@ azotise
 abdominoanterior
 arvicole
 alligatoring
+accumbent
 alluvion
 averish
 aught
