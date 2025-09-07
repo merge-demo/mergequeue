@@ -2198,7 +2198,6 @@ anomalipod
 aperistalsis
 abattue
 adventuristic
-achromaticity
 achromatisation
 acetophenine
 acrestaff
@@ -10282,6 +10281,7 @@ anorganism
 atoll
 allocaffeine
 anticheater
+achromaticity
 amenably
 assess
 amenance
