@@ -6032,7 +6032,6 @@ accouters
 agitant
 agitate
 agitated
-agitation
 agitational
 aftosa
 agitations
@@ -21364,6 +21363,7 @@ askos
 aslant
 aglethead
 antidraft
+agitation
 adenylpyrophosphate
 atabeg
 asleep
