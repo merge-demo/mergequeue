@@ -1084,7 +1084,6 @@ ammoniojarosite
 apparelled
 abundancy
 aluminosis
-apyrase
 abundant
 anachronical
 abundantly
@@ -12905,6 +12904,7 @@ adenine
 anglophobia
 adumbration
 abattoirs
+apyrase
 anglophobiac
 adoptees
 aire
