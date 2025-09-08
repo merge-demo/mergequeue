@@ -10765,7 +10765,6 @@ amitular
 antiagglutinating
 aged
 amyxorrhea
-ashthroat
 architis
 amlet
 amlikar
@@ -12582,6 +12581,7 @@ anerythroplasia
 antidorcas
 anes
 anesone
+ashthroat
 anesthesia
 apexes
 anesthesimeter
