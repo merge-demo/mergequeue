@@ -3385,7 +3385,6 @@ adaptions
 adaptitude
 azurite
 adaptive
-amortizement
 attending
 ankou
 apostemation
@@ -23609,6 +23608,7 @@ abalation
 aureous
 acroa
 aphetically
+amortizement
 alcaiceria
 archicyte
 aurichloride
