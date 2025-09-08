@@ -2778,7 +2778,6 @@ amyelencephalia
 acrospore
 acroclinium
 acrodactyla
-anapophyses
 acrodont
 anarithmia
 argonauta
@@ -19813,6 +19812,7 @@ armado
 amphicyonidae
 acrodermatitis
 airplanes
+anapophyses
 alteratively
 acutate
 armamentarium
