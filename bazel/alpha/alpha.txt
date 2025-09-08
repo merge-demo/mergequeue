@@ -5735,7 +5735,6 @@ agarwal
 angiomatosis
 agasp
 agast
-anomaloscope
 anguillulidae
 antismog
 ashmen
@@ -21050,6 +21049,7 @@ afteryears
 alleyite
 asthorin
 anomural
+anomaloscope
 aylesbury
 automobility
 ascolichen
