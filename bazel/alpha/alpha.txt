@@ -7862,7 +7862,6 @@ agammaglobulinemia
 aleiptic
 actinology
 alphitomancy
-advent
 aleyrodes
 auricular
 adumbral
@@ -9682,6 +9681,7 @@ alvar
 anecdotist
 alveary
 alvearies
+advent
 alvearium
 alveolariform
 antitetanic
