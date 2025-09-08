@@ -5782,7 +5782,6 @@ agedness
 agee
 aerugos
 ageing
-ageings
 ardass
 assumptive
 archiannelida
@@ -12824,6 +12823,7 @@ angiotenosis
 angiotensinase
 agrogeologically
 armata
+ageings
 arbitrations
 arrangements
 antihysteric
