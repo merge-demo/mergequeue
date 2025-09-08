@@ -5399,6 +5399,7 @@ amalgams
 atharvan
 arrange
 algometry
+anatomicochirurgical
 assegai
 afrikanderdom
 afrit
@@ -12096,7 +12097,6 @@ aggradational
 antiatonement
 anatole
 abought
-anatomicochirurgical
 abortions
 ammonifier
 arterioverter
