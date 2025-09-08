@@ -1075,7 +1075,6 @@ ayudante
 acetylenediurein
 anjan
 albertustaler
-amnia
 abuna
 askew
 abundance
@@ -18704,6 +18703,7 @@ archbuilder
 archchemic
 antiopelmous
 archchronicler
+amnia
 archconfraternity
 agalite
 anticonventionally
