@@ -1716,7 +1716,6 @@ accuracies
 ada
 adventry
 accursed
-adamsite
 amniatic
 amerikani
 accursedness
@@ -12400,6 +12399,7 @@ angiostomy
 androgone
 andrographis
 acrotomous
+adamsite
 andromache
 andromaque
 arborizes
