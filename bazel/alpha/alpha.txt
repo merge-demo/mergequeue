@@ -4528,7 +4528,6 @@ axotomous
 advertence
 advertently
 adverting
-advertiser
 appertise
 advertisers
 achlamydeae
@@ -6199,6 +6198,7 @@ agonizingly
 absolver
 agonizingness
 agoranomus
+advertiser
 asarota
 alnager
 agoraphobiac
