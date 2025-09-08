@@ -9470,7 +9470,6 @@ arabia
 allochetite
 alternate
 alternated
-aftertaste
 alternately
 apheretic
 achier
@@ -24283,6 +24282,7 @@ aeroporotomy
 autophytography
 abacinate
 autophon
+aftertaste
 ablepsy
 autophone
 acrasins
