@@ -2930,7 +2930,6 @@ anteluminary
 auxobody
 acroteria
 acroterial
-achroodextrinase
 ablactation
 acrotism
 acrotrophic
@@ -24157,6 +24156,7 @@ adornos
 ancylocladus
 assonantic
 anthozoa
+achroodextrinase
 awakens
 autokinesy
 autokinesis
