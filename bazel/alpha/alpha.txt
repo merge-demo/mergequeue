@@ -2861,7 +2861,6 @@ abiogeneses
 adati
 acronymic
 akvavits
-acronomy
 autostylic
 agonium
 apium
@@ -10790,6 +10789,7 @@ ammocoetes
 anticous
 agglutinated
 addossed
+acronomy
 albumoses
 alloantibody
 antirent
