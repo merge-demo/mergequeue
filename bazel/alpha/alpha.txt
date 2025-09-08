@@ -4887,7 +4887,6 @@ alluvia
 acculturized
 aleuromancy
 aerographical
-aerographies
 aerohydrodynamic
 approachment
 ambodexter
@@ -21448,6 +21447,7 @@ aerophysicist
 aspermatic
 achter
 adrip
+aerographies
 assedation
 aspers
 adenosarcoma
