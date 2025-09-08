@@ -3892,7 +3892,6 @@ aleyrodidae
 adjudging
 adjudgment
 apocarps
-adjudicate
 antihierarchal
 autarkik
 adjudicated
@@ -25244,6 +25243,7 @@ aphasiology
 azygobranchiate
 azurous
 allemontite
+adjudicate
 azygoses
 azygote
 armfuls
