@@ -8922,7 +8922,6 @@ allomorphite
 allonym
 alongst
 allonymous
-allonymously
 allonyms
 allonomous
 abortion
@@ -10870,6 +10869,7 @@ archeological
 ammonolytic
 aitches
 anticult
+allonymously
 amphib
 afrits
 ammonolyzing
