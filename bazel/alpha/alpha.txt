@@ -4276,7 +4276,6 @@ adrenochrome
 adrenocortical
 adrenocorticotrophic
 ammonolysis
-afterstain
 albuminosis
 adrenocorticotropic
 anthracolithic
@@ -12109,6 +12108,7 @@ adulterates
 anatomization
 anatomize
 anopsy
+afterstain
 anatomized
 anatomizer
 advisiveness
