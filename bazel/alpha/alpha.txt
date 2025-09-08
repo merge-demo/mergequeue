@@ -10825,6 +10825,7 @@ ammonia
 ammoniacs
 acrisius
 artly
+antitrypsin
 ankaramite
 ammoniated
 ammoniating
@@ -17316,7 +17317,6 @@ acetonize
 antiagglutinant
 accusative
 allowing
-antitrypsin
 azido
 apostacize
 apostasy
