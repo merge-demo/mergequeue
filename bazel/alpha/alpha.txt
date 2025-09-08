@@ -4014,7 +4014,6 @@ administratively
 administratrices
 administratrix
 admirable
-authenticness
 anlases
 admirably
 admirals
@@ -19536,6 +19535,7 @@ adventist
 adscendent
 agrological
 anoles
+authenticness
 amphidromic
 angularize
 andouille
