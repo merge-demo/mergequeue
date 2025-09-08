@@ -7943,7 +7943,6 @@ aleukaemic
 argasid
 aleukemic
 auscultations
-aleurobius
 alternates
 aleurodes
 aleurometer
@@ -20519,6 +20518,7 @@ amman
 arterious
 androscoggin
 antilytic
+aleurobius
 arcticology
 arterioversion
 apperceptionistic
