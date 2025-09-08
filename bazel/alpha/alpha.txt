@@ -10768,7 +10768,6 @@ ammelide
 apodemal
 apothecary
 ammer
-avidness
 adderbolt
 adductor
 ammeter
@@ -12881,6 +12880,7 @@ abscise
 arverni
 apolysin
 anatabine
+avidness
 apneumatosis
 allineate
 aditio
