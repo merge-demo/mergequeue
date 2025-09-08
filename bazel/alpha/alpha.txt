@@ -5969,7 +5969,6 @@ anemophilous
 aggro
 acropetal
 aggroup
-archaeol
 applauder
 archt
 actinomycetal
@@ -10008,6 +10007,7 @@ ambiency
 ambiens
 anomy
 aulostomid
+archaeol
 ambients
 ambigenal
 abounded
