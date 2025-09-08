@@ -4015,7 +4015,6 @@ admirals
 admiralty
 admiralties
 actionless
-actinobacillotic
 atalan
 admiration
 apatheia
@@ -5195,6 +5194,7 @@ almond
 affidavy
 acosmic
 aviso
+actinobacillotic
 affied
 abjured
 affile
