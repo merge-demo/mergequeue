@@ -19430,7 +19430,6 @@ alexins
 athwartwise
 authorship
 audible
-augurial
 argentry
 abbest
 argentum
@@ -24657,6 +24656,7 @@ alypine
 aspirants
 absumption
 arabized
+augurial
 actinidia
 anastrophia
 archimage
