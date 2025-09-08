@@ -6818,7 +6818,6 @@ acetone
 airplaner
 abroma
 airplanist
-analogism
 algarad
 appendiculated
 acieral
@@ -19512,6 +19511,7 @@ argonautid
 argonne
 argonon
 argons
+analogism
 argosy
 archaizes
 antimediaeval
