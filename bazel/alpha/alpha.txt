@@ -15184,6 +15184,7 @@ antiextreme
 antifaction
 allocochick
 antipathogene
+arbute
 autoinhibited
 antifascism
 antifascist
@@ -18554,7 +18555,6 @@ arbuscular
 arbust
 arbusta
 analytics
-arbute
 arbutean
 alphean
 arca
