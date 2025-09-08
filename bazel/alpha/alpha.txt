@@ -699,7 +699,6 @@ antinomy
 aboulic
 amyloplastic
 apiales
-abounder
 abounding
 acrolithic
 abounds
@@ -20677,6 +20676,7 @@ allelomorph
 associate
 alder
 anglophobe
+abounder
 anionically
 anteroclusion
 atrichosis
