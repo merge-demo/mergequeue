@@ -5390,7 +5390,6 @@ aeonial
 afresca
 axed
 acinous
-apothecaries
 alkalizable
 aspout
 anthomania
@@ -6548,6 +6547,7 @@ albi
 americanumancestors
 aigialosauridae
 aigialosaurus
+apothecaries
 archpriest
 antasthenic
 aiglet
