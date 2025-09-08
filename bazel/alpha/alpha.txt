@@ -3285,7 +3285,6 @@ acutilingual
 axal
 acutilobate
 acutiplantar
-atterminal
 archibenthos
 amnioallantoic
 autoluminescence
@@ -5765,6 +5764,7 @@ agathist
 agathodaemonic
 aeropause
 ambulative
+atterminal
 agatiferous
 ahoy
 auxetics
