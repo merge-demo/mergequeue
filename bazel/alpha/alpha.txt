@@ -12550,7 +12550,6 @@ antidorcas
 anes
 anesone
 ashthroat
-anesthesia
 apexes
 anesthesimeter
 axiomatizations
@@ -13614,6 +13613,7 @@ acoelomous
 ampollosity
 antituberculous
 anticum
+anesthesia
 anodizing
 anodonta
 automa
