@@ -17396,7 +17396,6 @@ apothecaryship
 archosyrinx
 alkalamide
 afret
-apothecial
 archenemy
 apothecium
 antitrope
@@ -19878,6 +19877,7 @@ axiniform
 armiger
 armigeri
 aweto
+apothecial
 armigeros
 armigerous
 autotomized
