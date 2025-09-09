@@ -21558,7 +21558,6 @@ anthesterion
 anisogeny
 aglucone
 automolite
-asplenioid
 alkyl
 allegement
 angary
@@ -23720,6 +23719,7 @@ authenticated
 aerohydroplane
 auspicious
 amorphozoa
+asplenioid
 ararauna
 auspiciousness
 arpenteur
