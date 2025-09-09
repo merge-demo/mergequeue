@@ -24486,7 +24486,6 @@ autoxidation
 autoxidator
 autoxidizability
 autoxidizable
-anhistic
 autoxidize
 accloy
 administrated
@@ -25115,6 +25114,7 @@ absurdest
 axing
 anagenesis
 acrosarc
+anhistic
 areography
 axinite
 axiolite
