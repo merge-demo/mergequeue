@@ -477,7 +477,6 @@ anglians
 agriotes
 abyss
 abyssolith
-aporrhais
 abyssopelagic
 actinide
 abyssus
@@ -2027,6 +2026,7 @@ acetotoluid
 accessible
 alima
 abanic
+aporrhais
 acetotoluidine
 acetous
 acetoxyl
