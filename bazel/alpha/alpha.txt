@@ -1499,6 +1499,7 @@ acclivitous
 acroceraunian
 afoot
 acclivous
+asterella
 accoil
 accolade
 accolades
@@ -9704,7 +9705,6 @@ anchorer
 allegatum
 amacratic
 amacrinal
-asterella
 amadelphous
 aggrading
 amadous
