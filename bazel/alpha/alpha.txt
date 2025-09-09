@@ -3594,7 +3594,6 @@ aflow
 agora
 adendritic
 akenbold
-adenemphractic
 adenylic
 avichi
 adatom
@@ -24665,6 +24664,7 @@ averagely
 averageness
 averaging
 anthroropolith
+adenemphractic
 accordant
 alai
 averment
