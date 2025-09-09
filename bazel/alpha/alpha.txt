@@ -6727,6 +6727,7 @@ airbrushing
 airburst
 arresting
 autositic
+angularity
 airbusses
 atenist
 aquas
@@ -12954,7 +12955,6 @@ aldus
 angular
 angularia
 assistors
-angularity
 angularities
 analgesist
 atomistical
