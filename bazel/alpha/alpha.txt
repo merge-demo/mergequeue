@@ -10665,7 +10665,6 @@ appetency
 alinota
 amynodon
 aminoglutaric
-aminoguanidine
 adhesively
 aminoid
 aminoketone
@@ -19617,6 +19616,7 @@ alchemilla
 ariels
 acoupa
 aries
+aminoguanidine
 antireformist
 arietinous
 antistrophize
