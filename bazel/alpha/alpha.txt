@@ -893,6 +893,7 @@ alachah
 akroterion
 anabong
 audiometric
+apogeotropic
 aures
 absyrtus
 amylon
@@ -18911,7 +18912,6 @@ actinomycetales
 archimperialist
 apospory
 adroiter
-apogeotropic
 archines
 apio
 archinformer
