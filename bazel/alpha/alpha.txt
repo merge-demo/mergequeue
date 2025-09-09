@@ -4696,7 +4696,6 @@ archiving
 azazel
 askile
 aegrotat
-acroterion
 arghoul
 abush
 aetheling
@@ -15328,6 +15327,7 @@ antihypnotically
 achromatically
 arietation
 anthropotomy
+acroterion
 antihypochondriac
 annal
 anticoincidence
