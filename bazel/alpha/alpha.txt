@@ -6416,7 +6416,6 @@ aphroditic
 adams
 acidaemia
 agunah
-aguroth
 arrosion
 apostrophic
 arthromeningitis
@@ -10353,6 +10352,7 @@ antidancing
 audio
 americanizing
 americanly
+aguroth
 alacriously
 almuds
 americanoid
