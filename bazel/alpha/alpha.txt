@@ -5133,7 +5133,6 @@ aeviternal
 anatomicomedical
 af
 avernal
-afterpart
 automate
 amourist
 afara
@@ -24110,6 +24109,7 @@ autogram
 anthesteria
 autographer
 autographically
+afterpart
 argolid
 ammoreslinol
 autographometer
