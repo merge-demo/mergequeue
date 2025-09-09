@@ -229,6 +229,7 @@ aeroliths
 absorptiometric
 abbott
 adenomyxoma
+actable
 aselline
 apostate
 abraded
@@ -2944,7 +2945,6 @@ aesthetician
 acrux
 acta
 acediamin
-actable
 affrighted
 ankus
 actaea
