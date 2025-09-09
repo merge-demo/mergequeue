@@ -11466,7 +11466,6 @@ ascospore
 alenu
 amusers
 abbatical
-authenticators
 antlia
 amarelles
 astrologous
@@ -20375,6 +20374,7 @@ austerities
 arcsines
 autoradiography
 autooxidation
+authenticators
 apothgm
 alefzero
 alabaman
