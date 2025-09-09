@@ -3610,7 +3610,6 @@ adenochrome
 apts
 abnumerable
 allopathies
-adenocystoma
 antepectoral
 adenocystomatous
 apollos
@@ -19208,6 +19207,7 @@ amianthoidal
 azocorinth
 agriotype
 ardour
+adenocystoma
 ardours
 ardri
 ardu
