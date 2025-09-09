@@ -6167,7 +6167,6 @@ alchemise
 adjutantship
 aegerian
 aerolitics
-arteriorrhagia
 agonic
 aargh
 agonise
@@ -12467,6 +12466,7 @@ attenuated
 amanuenses
 anemometrographically
 alfilaria
+arteriorrhagia
 azoturia
 anemonal
 aerography
