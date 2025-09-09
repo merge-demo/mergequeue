@@ -908,7 +908,6 @@ amphitron
 absolent
 absolute
 aliases
-atonies
 appenzell
 aircrafts
 alibiing
@@ -19885,6 +19884,7 @@ astraphobia
 armillae
 armillary
 armillaria
+atonies
 annist
 achaemenidian
 adenopharyngitis
