@@ -3411,7 +3411,6 @@ adazzle
 afforded
 adcons
 autopticity
-anchorer
 admires
 adcraft
 add
@@ -9717,6 +9716,7 @@ amabel
 atbash
 amabile
 amable
+anchorer
 allegatum
 amacratic
 amacrinal
