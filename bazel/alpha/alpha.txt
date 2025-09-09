@@ -6417,7 +6417,6 @@ adams
 acidaemia
 agunah
 arrosion
-apostrophic
 arthromeningitis
 agust
 asterism
@@ -6883,6 +6882,7 @@ airtimes
 alanyls
 assailment
 amende
+apostrophic
 aglyphous
 aptian
 aventine
