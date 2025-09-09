@@ -7592,7 +7592,6 @@ abstracters
 alchemists
 antrums
 achoke
-alchemized
 archership
 alchemizing
 alchimy
@@ -8220,6 +8219,7 @@ alienation
 authoresses
 allactite
 airplays
+alchemized
 aliene
 auctors
 antisiccative
