@@ -1931,7 +1931,6 @@ antietam
 albitical
 andesic
 apparelment
-acetylenic
 acetylfluoride
 aerobian
 appendix
@@ -17874,6 +17873,7 @@ apprehensively
 aleutite
 apprense
 apprentice
+acetylenic
 archocystosyrinx
 apprenticehood
 agisms
