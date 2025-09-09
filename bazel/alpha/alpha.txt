@@ -5329,7 +5329,6 @@ affydavy
 affrightment
 affronted
 affrontedness
-affronter
 anidiomatic
 affrontive
 adenose
@@ -10855,6 +10854,7 @@ amnesiac
 aulas
 amnestied
 alf
+affronter
 allamoth
 antiphilosophy
 amerindic
