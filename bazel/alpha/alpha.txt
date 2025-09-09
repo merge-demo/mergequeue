@@ -11653,7 +11653,6 @@ anaesthetically
 anthropomantic
 aruspex
 anaesthetization
-avoke
 ayme
 artal
 anaesthetize
@@ -17748,6 +17747,7 @@ autotomised
 azoxybenzene
 applotment
 asphyxiate
+avoke
 antipole
 arthrosclerosis
 astrier
