@@ -2573,7 +2573,6 @@ allylene
 alumins
 aljamiah
 arctomys
-acoumetry
 acouometer
 antihelminthic
 adjacently
@@ -3215,6 +3214,7 @@ adnexa
 actualization
 actualness
 allochromatic
+acoumetry
 alstonine
 assident
 antennary
