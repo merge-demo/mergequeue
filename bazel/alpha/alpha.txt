@@ -8380,7 +8380,6 @@ aljamia
 aljamiado
 attirail
 atfalati
-aristocraticness
 aortostenosis
 alk
 alkahest
@@ -19061,6 +19060,7 @@ arabine
 abderian
 antivenine
 alit
+aristocraticness
 absorbant
 alkylamino
 alphanumeric
