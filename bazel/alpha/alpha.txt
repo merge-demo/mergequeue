@@ -3464,7 +3464,6 @@ addita
 abiliment
 allotheism
 avidins
-additiment
 amarillos
 additionary
 additionist
@@ -10140,6 +10139,7 @@ avulsion
 ambulator
 ambulatory
 ambulatoria
+additiment
 alternating
 anurans
 affluent
