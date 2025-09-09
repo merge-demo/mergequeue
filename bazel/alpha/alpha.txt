@@ -1470,6 +1470,7 @@ alewhap
 acclimates
 acclimatisation
 affixable
+archaisms
 acclimatise
 acclimatised
 acclimatiser
@@ -22399,7 +22400,6 @@ astronomize
 aragallus
 astrobiological
 antipapacy
-archaisms
 algarobas
 archetypally
 acrisia
