@@ -1622,7 +1622,6 @@ accouterment
 acemetic
 attouchement
 accoutre
-attire
 alumroot
 aminobenzamide
 accoutrement
@@ -10210,6 +10209,7 @@ amedeo
 arytenoid
 ameed
 ameer
+attire
 anemophile
 ameerates
 ameiosis
