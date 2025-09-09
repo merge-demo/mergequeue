@@ -10765,7 +10765,6 @@ ammo
 amphibological
 anaglypton
 abhiseka
-annotation
 ammochaetae
 ammocoetes
 anticous
@@ -20779,6 +20778,7 @@ artophagous
 artotype
 artou
 arts
+annotation
 asqueal
 artsman
 alkylates
