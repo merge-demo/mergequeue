@@ -644,6 +644,7 @@ aboma
 abomasum
 abomasus
 appetize
+alkylize
 abominably
 abominate
 avifaunal
@@ -8503,7 +8504,6 @@ alkylic
 antiphonetic
 alkylidene
 afterburners
-alkylize
 autocoids
 actinotrocha
 aborts
