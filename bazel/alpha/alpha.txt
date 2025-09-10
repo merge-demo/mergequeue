@@ -6473,6 +6473,7 @@ ahuaca
 acridane
 ahull
 ascomata
+anacrustic
 acerbities
 amicableness
 arboretum
@@ -11608,7 +11609,6 @@ anacrogynous
 anacrotic
 altricial
 anacruses
-anacrustic
 anaculture
 anacusic
 anadems
