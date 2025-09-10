@@ -6241,6 +6241,7 @@ agramed
 agrammaphasia
 agrammatica
 afterpeak
+audiologies
 agrammatism
 authorized
 agrammatologia
@@ -23365,7 +23366,6 @@ autohypnosis
 audiology
 acca
 audiological
-audiologies
 aliquid
 anconitis
 artistdom
