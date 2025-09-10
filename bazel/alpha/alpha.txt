@@ -4871,6 +4871,7 @@ auslaut
 airphobia
 aerodonetics
 appeasement
+amnesiac
 aerodontalgia
 arcanum
 antipedal
@@ -10858,7 +10859,6 @@ ammos
 ammotherapy
 ammu
 amnesia
-amnesiac
 aulas
 amnestied
 alf
