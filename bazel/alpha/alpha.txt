@@ -19663,7 +19663,6 @@ alines
 aleyrodid
 albolite
 ariser
-arises
 attercrop
 apl
 aristae
@@ -24339,6 +24338,7 @@ autophagi
 accurately
 authorly
 amaroidal
+arises
 autorotation
 ariocarpus
 atopen
