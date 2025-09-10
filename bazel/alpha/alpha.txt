@@ -1480,7 +1480,6 @@ archaisms
 acclimatise
 acclimatised
 acclimatiser
-acost
 acclimatising
 aegagrus
 algid
@@ -7618,6 +7617,7 @@ altaite
 apportionate
 alcyonacean
 alcyoniaceae
+acost
 alcyonic
 astutely
 athrocyte
