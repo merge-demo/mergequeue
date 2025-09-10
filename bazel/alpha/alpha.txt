@@ -6102,7 +6102,6 @@ aspartokinase
 actinoneuritis
 astrolabes
 arseniuretted
-aglossal
 aglossia
 aglucon
 agminated
@@ -14281,6 +14280,7 @@ arabesk
 antherozoid
 antherozooidal
 anthers
+aglossal
 aquosity
 arrestment
 aftergrass
