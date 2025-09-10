@@ -3129,7 +3129,6 @@ aequipalpia
 arthropody
 actinostome
 aramus
-agtbasic
 abrachias
 apiculation
 anatoly
@@ -10129,6 +10128,7 @@ antennata
 acotyledonous
 ambulancer
 ambulated
+agtbasic
 atropinism
 ambulates
 alkalimetrically
