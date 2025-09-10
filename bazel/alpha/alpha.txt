@@ -19680,7 +19680,6 @@ aristeas
 alertness
 armaria
 aristeia
-aristida
 aristides
 acetanilide
 aristocracy
@@ -24706,6 +24705,7 @@ aves
 anecdysis
 acephalia
 arised
+aristida
 artisans
 aveugle
 avg
