@@ -3908,7 +3908,6 @@ aleyrodidae
 adjudging
 adjudgment
 apocarps
-antihierarchal
 autarkik
 adjudicated
 adjudication
@@ -5124,6 +5123,7 @@ aloelike
 axones
 administerial
 arrivisme
+antihierarchal
 arabana
 appreciation
 aetiologue
