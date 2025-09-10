@@ -6591,7 +6591,6 @@ anarcestean
 afterburner
 aikinite
 aikona
-agenes
 arbitrarily
 asphyctic
 attune
@@ -15346,6 +15345,7 @@ aposematic
 araneology
 antikings
 arachnoidal
+agenes
 albatros
 anatherum
 akalimba
