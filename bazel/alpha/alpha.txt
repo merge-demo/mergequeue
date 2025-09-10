@@ -5737,7 +5737,6 @@ atoning
 autocoder
 aphodian
 agaricaceae
-adepts
 awl
 agaricaceous
 agaricoid
@@ -16759,6 +16758,7 @@ angelim
 amphigonia
 adultoid
 aphydrotropic
+adepts
 aphydrotropism
 aphilanthropy
 aphylly
