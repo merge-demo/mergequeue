@@ -3380,7 +3380,6 @@ adamsites
 adance
 appeasableness
 adapt
-anisospore
 apeman
 aliased
 airmarker
@@ -11180,6 +11179,7 @@ amphictyonian
 antistrophic
 achaenodon
 amphictyons
+anisospore
 amphid
 astrosphere
 amphophile
