@@ -6467,7 +6467,6 @@ ahorse
 ahs
 ablare
 achromia
-ahtena
 ahu
 admonitions
 aminoethionic
@@ -20939,6 +20938,7 @@ ascellus
 ascend
 ascendable
 amortisseur
+ahtena
 antirust
 autotroph
 ascendancy
