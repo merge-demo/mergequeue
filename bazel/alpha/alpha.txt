@@ -12060,7 +12060,6 @@ actuaryship
 anatidae
 amidstream
 anatifer
-aerobacter
 adumbrellar
 aggradational
 antiatonement
@@ -19374,6 +19373,7 @@ atomistics
 amuser
 argentan
 axisymmetry
+aerobacter
 autochrome
 anacrisis
 acephalite
