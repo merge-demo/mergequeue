@@ -573,6 +573,7 @@ adpromissor
 aerobioscope
 abn
 agrania
+alphameric
 abnegates
 anthropomancy
 abnegator
@@ -4931,7 +4932,6 @@ aerological
 antepartum
 aeromancer
 anthonomus
-alphameric
 aerometer
 amygdalus
 amenite
