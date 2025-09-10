@@ -5548,6 +5548,7 @@ alexandria
 aftersound
 anterevolutional
 afterspring
+anatron
 anhele
 afterstretch
 amphitriaene
@@ -12100,7 +12101,6 @@ antiworld
 anatripsology
 antimagistratical
 agaonidae
-anatron
 aneretic
 algebrization
 anatropal
