@@ -2437,7 +2437,6 @@ arbitry
 arisings
 acknowing
 acknowledged
-afoam
 adoxography
 acknowledger
 anaerobia
@@ -25186,6 +25185,7 @@ amirate
 autoblast
 axonometric
 asprete
+afoam
 ascupart
 abusiveness
 axonophora
