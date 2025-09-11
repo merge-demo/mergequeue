@@ -16942,7 +16942,6 @@ aplites
 amulet
 aplitic
 aplobasalt
-aplodontia
 aplodontiidae
 aplomb
 amygdaliferous
@@ -20729,6 +20728,7 @@ artilleries
 avodire
 achillein
 apprehensiveness
+aplodontia
 aurochloride
 amphicrania
 artilleryship
