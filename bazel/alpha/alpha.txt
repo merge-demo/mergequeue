@@ -5168,7 +5168,6 @@ affectations
 affected
 adorners
 acidophil
-affecters
 affectibility
 affecting
 affectingly
@@ -5983,6 +5982,7 @@ aghan
 aghas
 aghlabite
 aghori
+affecters
 allottee
 autoantibody
 apardon
