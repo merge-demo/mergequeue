@@ -5141,7 +5141,6 @@ antidoting
 aphoria
 anamorphism
 aetomorphae
-aetosaurus
 almohade
 amphierotism
 aeviternal
@@ -13293,6 +13292,7 @@ artery
 aproning
 anisomyarian
 anisomyodous
+aetosaurus
 anisopetalous
 aeipathy
 anematized
