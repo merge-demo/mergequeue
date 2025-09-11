@@ -796,7 +796,6 @@ abrogable
 airdock
 abrogate
 allergies
-anaglyphy
 antagonisation
 abrogating
 avocado
@@ -10839,6 +10838,7 @@ ammonoidea
 anteriorness
 ammonoidean
 aerocartography
+anaglyphy
 ammonoids
 ammonolitic
 assemblage
