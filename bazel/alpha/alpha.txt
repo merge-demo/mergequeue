@@ -12079,7 +12079,6 @@ adulterates
 anatomization
 anatomize
 anopsy
-anatomized
 anatomizer
 advisiveness
 attacco
@@ -18410,6 +18409,7 @@ arawa
 arawak
 ankh
 arawakian
+anatomized
 anteriority
 antlion
 amboceptor
