@@ -5171,7 +5171,6 @@ affectations
 affected
 adorners
 acidophil
-affectedly
 affecters
 affectibility
 affecting
@@ -12227,6 +12226,7 @@ arrame
 ancylus
 armorica
 ancyrean
+affectedly
 ancistrocladaceous
 ancistroid
 ancodont
