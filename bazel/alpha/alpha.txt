@@ -2620,7 +2620,6 @@ auxoflore
 abutters
 acquire
 antescript
-acquirement
 acquisite
 arricciati
 acquisited
@@ -17104,6 +17103,7 @@ autolaryngoscopy
 afterfuture
 apogonid
 afterdrain
+acquirement
 apographic
 apographical
 antibreakage
