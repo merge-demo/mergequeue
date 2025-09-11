@@ -8950,7 +8950,6 @@ allophones
 antimosquito
 allophonically
 alloplast
-alloplastic
 allopolyploidy
 appetisse
 allopsychic
@@ -22147,6 +22146,7 @@ arabize
 aeroneurosis
 angelicize
 adolescents
+alloplastic
 attenuant
 absorbedly
 astigmatometer
