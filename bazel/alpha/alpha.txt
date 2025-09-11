@@ -3611,6 +3611,7 @@ adenitis
 adenization
 anticeremonious
 adenoacanthoma
+antenumber
 adenocarcinoma
 adenocarcinomas
 adenochondroma
@@ -14103,7 +14104,6 @@ atabal
 antennule
 antenodal
 antenor
-antenumber
 antimonarchic
 adrostal
 antenuptial
