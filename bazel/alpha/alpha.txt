@@ -11411,7 +11411,6 @@ assets
 aneroids
 arthogram
 apiphobia
-amsath
 antholysis
 antisquama
 autolysis
@@ -22203,6 +22202,7 @@ aerier
 alnath
 anvasser
 adeption
+amsath
 anaesthesia
 arteries
 ariette
