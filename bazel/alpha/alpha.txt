@@ -5851,7 +5851,6 @@ ageometrical
 advisor
 absence
 anophyte
-ager
 agers
 autogenous
 ages
@@ -19166,6 +19165,7 @@ arctogaean
 arctoidean
 arctos
 arctosis
+ager
 acetylasalicylic
 allituric
 arctostaphylos
