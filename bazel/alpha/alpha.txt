@@ -12748,6 +12748,7 @@ annelid
 angioma
 angiomalacia
 angiomas
+acquits
 anoestrous
 angiomyosarcoma
 astakiwi
@@ -19018,7 +19019,6 @@ archonship
 archonships
 archontia
 archoplasmic
-acquits
 archorrhagia
 aerohydropathy
 aerobes
