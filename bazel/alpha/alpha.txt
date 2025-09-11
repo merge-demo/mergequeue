@@ -8378,7 +8378,6 @@ antilipoid
 assistances
 adjusted
 aljamia
-aljamiado
 attirail
 atfalati
 aortostenosis
@@ -21109,6 +21108,7 @@ affinitative
 aseismatic
 arabella
 agriochoeridae
+aljamiado
 aseismic
 alkannin
 arboriculturist
