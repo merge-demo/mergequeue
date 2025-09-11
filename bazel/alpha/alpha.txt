@@ -1851,7 +1851,6 @@ acerae
 arcual
 acerate
 acerated
-anastomotic
 aceratherium
 anteresurrection
 acerbate
@@ -5402,6 +5401,7 @@ acinous
 alkalizable
 aspout
 anthomania
+anastomotic
 antirestoration
 antiliquor
 anableps
