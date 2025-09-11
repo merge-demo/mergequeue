@@ -1994,7 +1994,6 @@ accroachment
 affidavits
 aleurites
 acetomorphin
-acetomorphine
 acetonaemia
 acetonaemic
 acetonemic
@@ -16634,6 +16633,7 @@ alternipinnate
 assizement
 araby
 apertness
+acetomorphine
 abnormalism
 actionable
 apertometer
