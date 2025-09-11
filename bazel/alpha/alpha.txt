@@ -3291,6 +3291,7 @@ armlocks
 acutest
 arborise
 authorcraft
+anticipator
 aedine
 arpanet
 additament
@@ -9992,7 +9993,6 @@ ambigenal
 abounded
 arboreal
 appel
-anticipator
 arousing
 alectoromorphae
 ambigu
