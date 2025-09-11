@@ -3909,6 +3909,7 @@ adjudgment
 apocarps
 autarkik
 adjudicated
+apostrophied
 adjudication
 agglutinin
 adjudicative
@@ -17366,7 +17367,6 @@ atik
 aviculture
 aunties
 avoirdupois
-apostrophied
 apologia
 aways
 amplification
