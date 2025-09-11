@@ -11118,7 +11118,6 @@ artifices
 amphibium
 aquatinting
 amphiblastula
-amphiblestritis
 avolation
 amphibole
 alkide
@@ -19722,6 +19721,7 @@ acicula
 aristotype
 aristotle
 arytenoepiglottic
+amphiblestritis
 alfuro
 ambatch
 antinihilistic
