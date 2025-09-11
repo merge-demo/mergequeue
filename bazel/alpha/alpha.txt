@@ -5827,7 +5827,6 @@ ampyx
 agendas
 ankylosaur
 agendum
-agendums
 amovability
 agene
 anticonscription
@@ -12356,6 +12355,7 @@ aspergilliform
 attribute
 automelon
 androgamone
+agendums
 addulce
 androgenous
 amberina
