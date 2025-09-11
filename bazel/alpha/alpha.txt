@@ -17003,7 +17003,6 @@ apocentricity
 acroscleroderma
 apocha
 automorphic
-apocholic
 apochromatism
 archimorula
 albus
@@ -20122,6 +20121,7 @@ aleph
 arpen
 arpents
 atoneness
+apocholic
 ascidia
 antihectic
 arr
