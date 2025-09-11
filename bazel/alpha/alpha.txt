@@ -6492,7 +6492,6 @@ ai
 anomura
 acrogynae
 antidomestic
-amphiphloic
 ayacahuite
 arbutase
 athbash
@@ -9395,6 +9394,7 @@ adamitic
 alstonia
 amphiblastic
 alstonite
+amphiphloic
 alsweill
 anticathode
 alimentatively
