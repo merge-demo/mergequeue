@@ -10114,7 +10114,6 @@ ambrosiate
 affords
 ambrosin
 ambrosine
-aesture
 ambsace
 ambsaces
 ambulacriform
@@ -19955,6 +19954,7 @@ armour
 armourbearer
 aristogenics
 avalanched
+aesture
 adossed
 armoured
 armourer
