@@ -8374,7 +8374,6 @@ anchovy
 afterloss
 anthrathiophene
 antilipoid
-assistances
 adjusted
 aljamia
 attirail
@@ -20437,6 +20436,7 @@ artemision
 artemisium
 autoptical
 antiskidding
+assistances
 aerialness
 antimodernness
 augments
