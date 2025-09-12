@@ -1688,7 +1688,6 @@ accubitum
 attiwendaronk
 aphonias
 arriccios
-accubitus
 accueil
 acculturate
 acculturated
@@ -17907,6 +17906,7 @@ amphirhine
 amblypod
 aliesterase
 alcoholist
+accubitus
 approacher
 approaching
 anemometer
