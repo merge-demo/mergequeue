@@ -4878,6 +4878,7 @@ amnesiac
 aerodontalgia
 arcanum
 antipedal
+adoors
 archhost
 arenite
 areek
@@ -7697,7 +7698,6 @@ adnascence
 angustia
 ald
 aldane
-adoors
 alands
 aldea
 antichresis
