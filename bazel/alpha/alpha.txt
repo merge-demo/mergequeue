@@ -11653,6 +11653,7 @@ anaerobiotic
 anaerobium
 avanti
 anaphylactic
+angulating
 anaesthesiology
 anaesthesis
 abeltree
@@ -24315,7 +24316,6 @@ adsessor
 autopsychoanalysis
 autopsychosis
 autopsied
-angulating
 applecart
 autopsies
 ambrose
