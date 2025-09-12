@@ -10900,7 +10900,6 @@ amoebaeum
 athogen
 amoebalike
 amoebas
-astipulate
 asmolder
 aggregatory
 amperometric
@@ -20678,6 +20677,7 @@ anthesteriac
 articulare
 allelomorph
 associate
+astipulate
 alder
 anglophobe
 abounder
