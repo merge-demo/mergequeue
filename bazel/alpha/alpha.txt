@@ -5488,6 +5488,7 @@ agronomies
 afterdeal
 afterdeck
 adipomata
+aerial
 afterform
 actuarial
 aerolith
@@ -5841,7 +5842,6 @@ agenesis
 agenetic
 agenize
 agenized
-aerial
 agenizing
 agennesis
 agential
