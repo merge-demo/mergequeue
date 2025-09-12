@@ -5342,7 +5342,6 @@ affrightment
 affronted
 affrontedness
 anidiomatic
-affrontive
 adenose
 affronts
 affuse
@@ -18962,6 +18961,7 @@ actinine
 atwixt
 alphabetary
 abstention
+affrontive
 archaeostomatous
 ageratum
 archival
