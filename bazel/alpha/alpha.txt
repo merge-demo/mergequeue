@@ -1383,7 +1383,6 @@ acceptability
 antistimulant
 amintor
 acceptance
-aggressions
 absorbent
 aspermous
 acceptancies
@@ -1876,6 +1875,7 @@ acerous
 acertannin
 antitabetic
 acerval
+aggressions
 acervate
 acervation
 acervulus
