@@ -2277,6 +2277,7 @@ acidy
 acetamid
 acidiferous
 argil
+aneurin
 arbtrn
 adderfish
 alaric
@@ -17132,7 +17133,6 @@ apollonian
 author
 apollonic
 apolloship
-aneurin
 anagrammatised
 antalkaline
 apology
