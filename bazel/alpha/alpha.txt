@@ -470,7 +470,6 @@ abysmal
 anglians
 agriotes
 abyss
-abyssolith
 abyssopelagic
 actinide
 abyssus
@@ -23530,6 +23529,7 @@ anapnometer
 appennage
 augmented
 aumery
+abyssolith
 anchylose
 aumildar
 aaronical
