@@ -11122,7 +11122,6 @@ azimuthally
 artifices
 amphibium
 aquatinting
-amphiblastula
 avolation
 amphibole
 alkide
@@ -20260,6 +20259,7 @@ atracheate
 alimonied
 arrivism
 arrivist
+amphiblastula
 archisymbolical
 accumber
 accidentary
