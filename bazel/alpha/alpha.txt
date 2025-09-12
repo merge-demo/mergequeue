@@ -12053,6 +12053,7 @@ administer
 alchemize
 antambulacral
 accepter
+artou
 anathematize
 aegeriid
 appels
@@ -20783,7 +20784,6 @@ amianthiform
 abraid
 artophagous
 artotype
-artou
 arts
 annotation
 asqueal
