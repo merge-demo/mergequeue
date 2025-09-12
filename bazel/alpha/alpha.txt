@@ -20943,7 +20943,6 @@ affects
 ascarids
 adjectivism
 alpinist
-ascaron
 ascelli
 ascellus
 ascend
@@ -24505,6 +24504,7 @@ ayubite
 auxeses
 altercative
 aoristic
+ascaron
 auxesis
 auxetic
 aghorapanthi
