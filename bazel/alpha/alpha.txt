@@ -12162,7 +12162,6 @@ ancestry
 autocue
 astronautical
 allodge
-ancha
 asgard
 anchat
 andaman
@@ -19080,6 +19079,7 @@ antimediaevalism
 arachnophagous
 archsee
 archsewer
+ancha
 auryl
 autographic
 ade
