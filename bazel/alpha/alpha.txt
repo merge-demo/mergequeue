@@ -5004,7 +5004,6 @@ awaft
 accentuable
 agister
 avigate
-archibenthal
 abv
 adobos
 aerophysics
@@ -7450,6 +7449,7 @@ album
 alces
 algedonic
 admittee
+archibenthal
 abhorrences
 albumenisation
 albumenise
