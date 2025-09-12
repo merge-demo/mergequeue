@@ -4982,7 +4982,6 @@ arthritides
 aerope
 aeroperitoneum
 alburnum
-aeroperitonia
 avondbloem
 anomalogonatae
 aminophenol
@@ -13688,6 +13687,7 @@ annoyancer
 augmenter
 antileak
 alibis
+aeroperitonia
 avant
 anomatheca
 anomia
