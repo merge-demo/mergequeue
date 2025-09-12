@@ -3524,6 +3524,7 @@ azores
 addressable
 antics
 addresser
+avestan
 addressers
 anilities
 assignment
@@ -9685,7 +9686,6 @@ antagonising
 alveolus
 aux
 alvine
-avestan
 alvissmal
 antirabic
 actinical
