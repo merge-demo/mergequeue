@@ -13751,7 +13751,6 @@ anoplonemertini
 aphelenchus
 acerola
 anoplotherioid
-anoplotherium
 autocrator
 amid
 arteriopalmus
@@ -17339,6 +17338,7 @@ appeacher
 apostolically
 agmas
 ares
+anoplotherium
 aerophagy
 amidin
 arias
