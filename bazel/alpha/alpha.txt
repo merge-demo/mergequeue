@@ -4171,7 +4171,6 @@ alkylamine
 adonizing
 ancestrian
 adoperate
-adoptability
 adoptabilities
 ammonals
 anticrotalic
@@ -24505,6 +24504,7 @@ altercative
 aoristic
 auxesis
 auxetic
+adoptability
 aghorapanthi
 anywhereness
 armsize
