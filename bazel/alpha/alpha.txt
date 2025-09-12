@@ -7231,7 +7231,6 @@ alarm
 assumably
 abbess
 alarmclock
-abstract
 alexanders
 abamps
 alarmedly
@@ -7494,6 +7493,7 @@ anchovies
 albuminofibrin
 albuminoid
 arthrodiae
+abstract
 autotelic
 aurifying
 albuminometer
