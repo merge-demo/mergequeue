@@ -5480,7 +5480,6 @@ afterdeck
 adipomata
 afterform
 actuarial
-aevum
 aerolith
 aftergas
 abstractedness
@@ -21375,6 +21374,7 @@ actiniohematin
 askos
 aslant
 aglethead
+aevum
 antidraft
 agitation
 atabeg
