@@ -3219,6 +3219,7 @@ adnexa
 actualization
 actualness
 allochromatic
+adderbolt
 acoumetry
 alstonine
 assident
@@ -10748,7 +10749,6 @@ ammelide
 apodemal
 apothecary
 ammer
-adderbolt
 adductor
 ammeter
 ammeters
