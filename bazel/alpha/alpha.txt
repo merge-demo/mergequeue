@@ -902,7 +902,6 @@ absterging
 antient
 amphitron
 absolent
-absolute
 aliases
 appenzell
 aircrafts
@@ -5553,6 +5552,7 @@ audiotypist
 auxofluor
 andiroba
 ajourise
+absolute
 afters
 amphibrach
 alumna
