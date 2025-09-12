@@ -1417,6 +1417,7 @@ attractants
 apellous
 accessary
 accessaries
+anesthesiometer
 accessarily
 amoebae
 accessariness
@@ -8392,7 +8393,6 @@ allopath
 advertency
 aortoptosis
 alkahestica
-anesthesiometer
 areopagitic
 arcadia
 annoys
