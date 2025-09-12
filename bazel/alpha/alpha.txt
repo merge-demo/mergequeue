@@ -844,7 +844,6 @@ anam
 abscission
 absconce
 abscond
-anteport
 absconded
 apperceptive
 absconder
@@ -18378,6 +18377,7 @@ anthurium
 arar
 araracanga
 anaclinal
+anteport
 aspredinidae
 automen
 apostrophizes
