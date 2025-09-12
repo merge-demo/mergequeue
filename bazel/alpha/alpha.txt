@@ -9103,7 +9103,6 @@ antacid
 alluvious
 assortative
 ametropic
-allwhere
 accipitres
 applejack
 allwork
@@ -13239,6 +13238,7 @@ anisochromatic
 anisocytosis
 aval
 apograph
+allwhere
 appetit
 anisocotyledonous
 anisodactyla
