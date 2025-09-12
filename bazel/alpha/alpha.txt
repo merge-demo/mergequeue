@@ -2685,7 +2685,6 @@ allochiral
 amphisilidae
 acridines
 ankylophobia
-acridinium
 acridity
 aerobee
 acridities
@@ -21495,6 +21494,7 @@ antityrosinase
 asphalter
 aceituna
 aspheterism
+acridinium
 akund
 ambiances
 adds
