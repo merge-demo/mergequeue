@@ -3236,7 +3236,6 @@ activation
 actuation
 acturience
 acuaesthesia
-alids
 achingly
 acubens
 attachments
@@ -8839,6 +8838,7 @@ armouries
 audiometries
 alderliefest
 adermin
+alids
 arboroid
 allochiria
 adaptionism
