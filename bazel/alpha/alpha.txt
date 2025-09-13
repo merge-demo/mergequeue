@@ -8394,7 +8394,6 @@ atfalati
 aortostenosis
 alk
 alkahest
-alkahestic
 agalaxy
 allopath
 advertency
@@ -8550,6 +8549,7 @@ ammoniemia
 awns
 advisatory
 allantoid
+alkahestic
 admonishment
 acidifies
 allantoidean
