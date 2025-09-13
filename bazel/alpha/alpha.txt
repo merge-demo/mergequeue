@@ -661,6 +661,7 @@ abondance
 aimara
 apostrophation
 abonnement
+artesian
 aborad
 aboral
 abord
@@ -20519,7 +20520,6 @@ apperceptionistic
 archetype
 allemande
 anathema
-artesian
 areographic
 artful
 aforesaid
