@@ -4632,7 +4632,6 @@ agitates
 ayegreen
 aecidial
 aecidioform
-abjunctive
 aciculas
 archical
 adducts
@@ -6534,6 +6533,7 @@ aider
 antiaggressive
 auksinu
 awk
+abjunctive
 aidful
 aiding
 adenanthera
