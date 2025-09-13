@@ -22790,7 +22790,6 @@ alterability
 arya
 atmometric
 allheal
-atmosphere
 atmosphereful
 apachite
 agamic
@@ -24842,6 +24841,7 @@ ascidioida
 avolitional
 avouch
 avouchable
+atmosphere
 anaptyxis
 animates
 artisanal
