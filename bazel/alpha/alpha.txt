@@ -1905,6 +1905,7 @@ abstinence
 amphioxididae
 arrector
 ashkoko
+autocolony
 acetanilid
 abutments
 annard
@@ -23998,7 +23999,6 @@ autoclaving
 aspheric
 autocollimate
 autocollimators
-autocolony
 autocombustion
 autoconduction
 anantherate
