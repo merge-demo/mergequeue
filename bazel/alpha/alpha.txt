@@ -5996,7 +5996,6 @@ allottee
 autoantibody
 apardon
 anfeeld
-ans
 alcyonoid
 algodon
 agible
@@ -22351,6 +22350,7 @@ arcturia
 ananas
 agenda
 asteriskless
+ans
 apophorometer
 armourers
 astrogony
