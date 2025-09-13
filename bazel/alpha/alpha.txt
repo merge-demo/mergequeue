@@ -6075,6 +6075,7 @@ availment
 apogeny
 agitatorial
 aromaticness
+astrosphere
 albuminoidal
 agitators
 agitatrix
@@ -11181,7 +11182,6 @@ achaenodon
 amphictyons
 anisospore
 amphid
-astrosphere
 amphophile
 amphidetic
 amphidiarthrosis
