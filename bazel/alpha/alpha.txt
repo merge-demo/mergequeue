@@ -18131,7 +18131,6 @@ aquaregia
 aquarelle
 aquarial
 antehall
-armoring
 adepter
 ambracan
 anemometers
@@ -21910,6 +21909,7 @@ adaptional
 aphakial
 associatively
 associativeness
+armoring
 associativity
 adicity
 autochthones
