@@ -1216,7 +1216,6 @@ antemortem
 admissibly
 afforest
 autogravure
-aortographic
 antimedically
 acanthodes
 acanthodini
@@ -17622,6 +17621,7 @@ apostlehood
 appestats
 appetence
 automobilist
+aortographic
 appetibleness
 abbate
 acinaces
