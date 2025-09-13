@@ -1631,7 +1631,6 @@ accoutrement
 angioclast
 albanian
 accoutres
-accoutring
 accredit
 argenteum
 accreditate
@@ -11437,6 +11436,7 @@ archexorcist
 acone
 armaments
 aloemodin
+accoutring
 avengeress
 acrinyl
 aporrhea
