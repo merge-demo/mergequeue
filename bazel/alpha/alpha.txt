@@ -3545,6 +3545,7 @@ adduced
 aragonese
 adducer
 adduces
+auricles
 adducible
 ampelideous
 adducted
@@ -10725,7 +10726,6 @@ abandonments
 anteinitial
 amities
 amitotic
-auricles
 azotizes
 anormality
 acrolith
