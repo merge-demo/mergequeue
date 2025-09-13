@@ -9462,6 +9462,7 @@ alternated
 alternately
 apheretic
 achier
+alignments
 assaugement
 aphengescope
 acadian
@@ -17111,7 +17112,6 @@ apojove
 antihistorical
 apokatastasis
 aphlebia
-alignments
 ahint
 alodian
 anastasimos
