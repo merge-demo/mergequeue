@@ -8360,7 +8360,6 @@ anticomet
 aerodromics
 alisp
 alisphenoidal
-antiferroelectric
 alite
 aliter
 archaiser
@@ -14193,6 +14192,7 @@ alismaceae
 anterointernal
 anterolateral
 anteromedial
+antiferroelectric
 automorphically
 agiotages
 anterooms
