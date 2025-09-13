@@ -17405,7 +17405,6 @@ anteportico
 amercers
 aeromedical
 apotome
-aortorrhaphy
 apyretic
 apotropaically
 asciferous
@@ -17739,6 +17738,7 @@ applosion
 applosive
 antiguan
 autotomised
+aortorrhaphy
 azoxybenzene
 asphyxiate
 avoke
