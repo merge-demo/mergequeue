@@ -2678,6 +2678,7 @@ antitheft
 angiograph
 abrasiometer
 anticyclonic
+anax
 apex
 attent
 aegritude
@@ -12128,7 +12129,6 @@ amphibali
 aegyptilla
 anaunters
 aggressive
-anax
 ablaut
 aerocyst
 andira
