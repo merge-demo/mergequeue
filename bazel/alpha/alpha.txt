@@ -6614,6 +6614,7 @@ ailed
 aileron
 adradius
 aboon
+arakanese
 anatolian
 aporetical
 amidoketone
@@ -18329,7 +18330,6 @@ atossa
 araise
 aronia
 arachnopia
-arakanese
 arakawaite
 archway
 antiunionist
