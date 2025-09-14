@@ -10825,7 +10825,6 @@ autochthonousness
 arusa
 aryan
 ammonifies
-ammonifying
 arapaho
 arctiidae
 ammonion
@@ -25271,6 +25270,7 @@ azymite
 azimuth
 acarids
 azimuthal
+ammonifying
 acceded
 aulete
 azimuths
