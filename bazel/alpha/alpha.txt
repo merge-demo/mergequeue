@@ -10396,6 +10396,7 @@ abamp
 anteed
 acroama
 adjutants
+asterisms
 amess
 assailants
 ametabolia
@@ -23578,7 +23579,6 @@ aura
 aural
 auramin
 auramine
-asterisms
 aurang
 aborters
 alleviates
