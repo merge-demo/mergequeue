@@ -2764,7 +2764,6 @@ acrobates
 amontillado
 amidrazone
 acrobatical
-acrobatically
 acrobatism
 accrease
 actinotherapeutic
@@ -9811,6 +9810,7 @@ aguilawood
 amaranth
 amaranthaceae
 argonon
+acrobatically
 appale
 anthologist
 azimethylene
