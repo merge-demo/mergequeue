@@ -8840,7 +8840,6 @@ audiometries
 alderliefest
 adermin
 alids
-arboroid
 allochiria
 adaptionism
 alcoves
@@ -12527,6 +12526,7 @@ antifame
 arteriosclerotic
 agaric
 anepia
+arboroid
 anepigraphic
 abogados
 apodoses
