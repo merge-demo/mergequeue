@@ -19599,6 +19599,7 @@ ambages
 arider
 apterium
 alloclase
+apophorometer
 affluency
 aridian
 aridity
@@ -22349,7 +22350,6 @@ ananas
 agenda
 asteriskless
 ans
-apophorometer
 armourers
 astrogony
 ammoresinol
