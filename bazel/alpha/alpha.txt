@@ -2766,7 +2766,6 @@ amebian
 amnion
 acrobacies
 artarin
-apanage
 acrobates
 amontillado
 amidrazone
@@ -10158,6 +10157,7 @@ ambulatory
 ambulatoria
 additiment
 affluent
+apanage
 agraphias
 ambulatories
 ambulatorium
