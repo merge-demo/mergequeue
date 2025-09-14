@@ -5756,7 +5756,6 @@ agaricoid
 agarics
 apluda
 aleurodidae
-agarita
 agaroid
 alloeosis
 agaroses
@@ -10050,6 +10049,7 @@ antiformant
 amblycephalus
 amblydactyla
 asymptomatically
+agarita
 amblygonal
 allergology
 amblygonite
