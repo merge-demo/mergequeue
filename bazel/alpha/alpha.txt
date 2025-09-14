@@ -928,7 +928,6 @@ absolutize
 absolutory
 absolvatory
 aestuary
-absolvent
 arteriotome
 absolves
 absolving
@@ -4135,6 +4134,7 @@ appendectomies
 adnascent
 adnate
 adnation
+absolvent
 alecithic
 adjudicates
 avell
