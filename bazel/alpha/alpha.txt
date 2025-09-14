@@ -6550,7 +6550,6 @@ aline
 adjunctive
 afterripening
 arbalestre
-antiheterolysin
 apocarpous
 anoraks
 acknowledgment
@@ -25381,6 +25380,7 @@ anatomy
 antelegal
 azoxine
 azoxytoluidine
+antiheterolysin
 azoxonium
 aztec
 androlepsy
