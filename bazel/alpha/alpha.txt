@@ -3174,7 +3174,6 @@ amphogenic
 apanthropy
 ableptical
 activated
-activates
 achtel
 advolution
 active
@@ -20719,6 +20718,7 @@ artifacts
 artifactually
 ascents
 artifex
+activates
 aerobiology
 artificial
 adverted
