@@ -3931,7 +3931,6 @@ apostrophied
 adjudication
 agglutinin
 adjudicative
-adjudicatory
 aerostats
 antistrophically
 adjudicators
@@ -8612,6 +8611,7 @@ aeolomelodicon
 applauded
 assimilativeness
 ampelosicyos
+adjudicatory
 avizandum
 asterias
 accentuates
