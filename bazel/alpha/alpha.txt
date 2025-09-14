@@ -8645,6 +8645,7 @@ alleyway
 alchitran
 abled
 alleyways
+attractancy
 anarchs
 adjoins
 argyrythrose
@@ -14343,7 +14344,6 @@ appealing
 anthophyllitic
 astigmatoscopies
 apometabolism
-attractancy
 anthophora
 anglicizing
 ancyloceras
