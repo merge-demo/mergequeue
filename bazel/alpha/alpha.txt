@@ -5736,7 +5736,6 @@ antistrophon
 aigrettes
 anabaenas
 arnut
-assisted
 agapai
 agape
 arthrometer
@@ -10544,6 +10543,7 @@ amygdalaceous
 animated
 amygdalase
 amygdalate
+assisted
 ambulatoriums
 alcuinian
 amygdalic
