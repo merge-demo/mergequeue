@@ -12861,7 +12861,6 @@ arverni
 apolysin
 anatabine
 avidness
-apneumatosis
 aditio
 anglicized
 anglify
@@ -14437,6 +14436,7 @@ anthrophore
 anthropical
 acquisition
 anthropobiology
+apneumatosis
 automaton
 anthropocentric
 amission
