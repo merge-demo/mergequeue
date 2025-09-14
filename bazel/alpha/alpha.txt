@@ -14926,7 +14926,6 @@ arara
 anticonfederative
 anticonformity
 antiaristocracy
-arthropterous
 annulled
 amidohexose
 antilogy
@@ -20976,6 +20975,7 @@ ascertaining
 ametoecious
 ascertains
 ascendant
+arthropterous
 ascescency
 ascescent
 asceses
