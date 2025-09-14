@@ -1176,7 +1176,6 @@ acalephoid
 anaclastic
 arow
 acalyculate
-asterixis
 apheliotropic
 acalyptratae
 antihemagglutinin
@@ -3193,6 +3192,7 @@ activize
 activized
 assailability
 allogenic
+asterixis
 aid
 aleger
 athapascan
