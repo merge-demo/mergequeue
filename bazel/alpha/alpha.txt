@@ -4838,6 +4838,7 @@ aerobiosis
 addleheaded
 aerobious
 awedly
+authenticatable
 archlute
 aeroboat
 aerobranchia
@@ -9133,7 +9134,6 @@ anaspid
 andesytes
 alhena
 alman
-authenticatable
 almanacs
 almander
 aeginetic
