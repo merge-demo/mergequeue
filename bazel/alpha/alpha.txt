@@ -676,7 +676,6 @@ aborigines
 abort
 alderfly
 aborted
-aborter
 abortient
 anacardic
 assuring
@@ -1729,6 +1728,7 @@ accursed
 amniatic
 amerikani
 accursedness
+aborter
 astrals
 adjuring
 accurst
