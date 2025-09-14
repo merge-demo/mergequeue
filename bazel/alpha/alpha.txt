@@ -1888,7 +1888,6 @@ acervulus
 anadyomene
 anacoluthia
 athlothete
-acesodynous
 acestes
 acceleration
 adstrict
@@ -20396,6 +20395,7 @@ arsis
 arsle
 applewife
 arson
+acesodynous
 angiosteosis
 acquiescingly
 arsonate
