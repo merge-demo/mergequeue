@@ -2510,7 +2510,6 @@ amoebicidal
 acolyth
 aculei
 acolythate
-amphiaster
 ardella
 autoserum
 austrasian
@@ -21314,6 +21313,7 @@ asymptomatic
 alizarin
 asymptote
 accompletive
+amphiaster
 asymptotes
 achromophilous
 asymtote
