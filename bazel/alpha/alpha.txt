@@ -11866,7 +11866,6 @@ aplanospore
 anankastic
 aqueomercurial
 allergen
-anansi
 ananta
 antimasquerade
 anammonide
@@ -22489,6 +22488,7 @@ antivirotic
 affrap
 accessioned
 atavi
+anansi
 atavic
 atmoclastic
 annihilation
