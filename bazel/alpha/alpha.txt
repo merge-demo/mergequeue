@@ -17921,6 +17921,7 @@ absorbents
 apprompt
 aloud
 appropinquate
+adactyl
 appropinquation
 amalgamation
 ahind
@@ -24207,7 +24208,6 @@ argumentative
 automaticity
 antidogmatically
 automatin
-adactyl
 antepatriarchal
 antronasal
 acutenaculum
