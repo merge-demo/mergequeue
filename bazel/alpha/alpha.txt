@@ -1973,6 +1973,7 @@ acetylmethylcarbinol
 aporetic
 acetylperoxide
 acetylphenylhydrazine
+aslope
 affinite
 acetylphenol
 agogic
@@ -3875,7 +3876,6 @@ adiposity
 acrook
 abdominoscope
 adiposogenital
-aslope
 adiposuria
 adipsy
 awonder
