@@ -7595,6 +7595,7 @@ antileft
 auxographic
 alcestis
 atrocity
+arabite
 agau
 asylum
 arrhythmical
@@ -14786,7 +14787,6 @@ antichreses
 antichrist
 antichristianism
 abates
-arabite
 aforetime
 anglicisms
 ascomycetes
