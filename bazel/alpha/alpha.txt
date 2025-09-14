@@ -3106,6 +3106,7 @@ adjudications
 antidicomarianite
 apocryphalist
 actinophrys
+aspics
 archimorphic
 actinopteran
 ascidian
@@ -21526,7 +21527,6 @@ arthemis
 arrowroot
 asphodel
 aspy
-aspics
 aspidiaria
 aspidinol
 aladdinize
