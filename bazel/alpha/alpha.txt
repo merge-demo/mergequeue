@@ -4908,7 +4908,6 @@ acetyltannin
 aeroelastic
 aucupate
 aeroelasticity
-aerofoil
 adjurors
 aerofoils
 adjourned
@@ -10176,6 +10175,7 @@ atamans
 agathokakological
 ambuscado
 autoincremented
+aerofoil
 ambuscadoed
 ambushers
 ambushlike
