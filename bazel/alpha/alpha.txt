@@ -4970,7 +4970,6 @@ astrobiologist
 autophone
 abluted
 agenizes
-aerometric
 aeronat
 aeronaut
 aeronautic
@@ -14338,6 +14337,7 @@ aguelike
 auspicate
 anthony
 acrostically
+aerometric
 anaphrodisia
 anthophilian
 appealing
