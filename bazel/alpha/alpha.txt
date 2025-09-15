@@ -15701,7 +15701,6 @@ arenas
 antipathetically
 atophan
 anteflexed
-antipathic
 aquacades
 autocephalous
 antipathize
@@ -17758,6 +17757,7 @@ appointers
 analysand
 appointing
 augmentation
+antipathic
 artophophoria
 autocracy
 appointment
