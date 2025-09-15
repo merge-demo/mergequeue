@@ -295,7 +295,6 @@ abdominothoracic
 acquiescent
 astoundment
 abdominous
-abducens
 abduces
 articulate
 apothece
@@ -9887,6 +9886,7 @@ alveolodental
 airers
 ascolichenes
 adminiculate
+abducens
 anticlastic
 auricled
 amativeness
