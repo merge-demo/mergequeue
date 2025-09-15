@@ -12649,6 +12649,7 @@ arreptitious
 angelic
 activity
 angelically
+auxograph
 anviled
 alambique
 amb
@@ -24540,7 +24541,6 @@ aneurismally
 auxochrome
 antistimulation
 auxochromous
-auxograph
 abamperes
 auxology
 ammonea
