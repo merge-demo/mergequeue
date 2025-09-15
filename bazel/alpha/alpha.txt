@@ -7608,7 +7608,6 @@ archership
 alchemizing
 alchimy
 amphicarpic
-acetary
 antisepticist
 alcidine
 alcine
@@ -19665,6 +19664,7 @@ arise
 athyrium
 aas
 attitudinal
+acetary
 alines
 aleyrodid
 albolite
