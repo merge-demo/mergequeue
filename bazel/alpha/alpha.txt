@@ -2960,7 +2960,6 @@ actin
 aru
 actinautography
 actinautographic
-abscisse
 actine
 actinenchyma
 artiness
@@ -25210,6 +25209,7 @@ antienzymatic
 acoupe
 aalii
 atrocha
+abscisse
 amoralize
 axwise
 aurivorous
