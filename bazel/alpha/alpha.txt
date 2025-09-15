@@ -5341,7 +5341,6 @@ agnosticism
 agglutinable
 affriended
 applying
-acarpellous
 annoyful
 affrightful
 affydavy
@@ -15755,6 +15754,7 @@ astonished
 aviolite
 amidic
 antiphylloxeric
+acarpellous
 arist
 avows
 anisopodal
