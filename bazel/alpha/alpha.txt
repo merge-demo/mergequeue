@@ -5261,6 +5261,7 @@ abreacted
 affirmably
 aplysia
 achaetous
+anchor
 arnica
 assisan
 acrosome
@@ -12178,7 +12179,6 @@ aetiogenic
 anchisaurus
 aegirite
 anchistea
-anchor
 anchorable
 anchorages
 anchorate
