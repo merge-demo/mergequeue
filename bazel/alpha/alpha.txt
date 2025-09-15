@@ -5343,6 +5343,7 @@ applying
 annoyful
 affrightful
 affydavy
+acid
 affrightment
 affronted
 affrontedness
@@ -16632,7 +16633,6 @@ autoelevation
 apertural
 affrighter
 antichorus
-acid
 adiaphorous
 antihumanism
 alioth
