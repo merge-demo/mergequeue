@@ -2532,6 +2532,7 @@ artisan
 avoucher
 abeyant
 aconelline
+assentatory
 autoactive
 aconine
 afdecho
@@ -21722,7 +21723,6 @@ assemblyman
 aerohydrotherapy
 assentaneous
 assentator
-assentatory
 apoikia
 aventure
 assented
