@@ -5933,7 +5933,6 @@ alpestrian
 aggregateness
 antiagglutinin
 anatomicophysiologic
-audient
 aggregative
 aggregatively
 aggregator
@@ -18875,6 +18874,7 @@ affair
 archididascalos
 arouse
 archidome
+audient
 anaemia
 antipolitics
 archidoxis
