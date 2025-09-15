@@ -5046,6 +5046,7 @@ aerosolized
 aerostatic
 aerostatical
 argas
+appertain
 advancements
 aerosteam
 aerotaxis
@@ -17604,7 +17605,6 @@ appersonation
 appersonification
 awearied
 appert
-appertain
 athematic
 accosts
 appertained
