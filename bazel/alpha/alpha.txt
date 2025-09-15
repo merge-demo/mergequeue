@@ -2317,7 +2317,6 @@ anacardium
 acidometry
 antinationalization
 asmear
-acidophilic
 anacamptically
 acidoses
 antiradically
@@ -10656,6 +10655,7 @@ aminoacetophenetidine
 aminoanthraquinone
 apodictically
 aminoazo
+acidophilic
 autodiffusion
 aminobenzaldehyde
 anthrachrysone
