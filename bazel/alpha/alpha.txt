@@ -1138,7 +1138,6 @@ acacia
 albuminous
 acacian
 acacias
-acaciin
 apparitions
 adjuratory
 appere
@@ -24237,6 +24236,7 @@ automobile
 automobiled
 arriage
 automobiles
+acaciin
 amylogen
 angelolater
 automobilists
