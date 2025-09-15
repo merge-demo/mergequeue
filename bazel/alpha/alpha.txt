@@ -8884,7 +8884,6 @@ astroalchemist
 agnathostomatous
 allantoid
 allographic
-assigners
 alloyage
 alloiogenesis
 attitude
@@ -13402,6 +13401,7 @@ anomala
 anlace
 albinistic
 anlagen
+assigners
 anlages
 audit
 accompanying
