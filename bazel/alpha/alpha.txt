@@ -17002,7 +17002,6 @@ archimorula
 albus
 ascitic
 auriscalp
-arcsin
 archpublican
 apocynthion
 apocynthions
@@ -23555,6 +23554,7 @@ amply
 adventuring
 andaqui
 antignostic
+arcsin
 altimetry
 amperemeter
 aunthood
