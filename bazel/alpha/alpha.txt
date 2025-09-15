@@ -38,7 +38,6 @@ area
 allseeds
 aurine
 aethogen
-apopetalous
 aerometeorograph
 abaciscus
 aquanaut
@@ -4867,6 +4866,7 @@ aerodermectasia
 aerodynamical
 aerodynamically
 appoggiatura
+apopetalous
 amphibiology
 aloma
 anucleated
