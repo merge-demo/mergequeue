@@ -5980,7 +5980,6 @@ aggroup
 applauder
 archt
 actinomycetal
-autochromy
 aggroupment
 aghan
 aghas
@@ -11845,6 +11844,7 @@ acetarious
 azocochineal
 anamorphous
 aspermatous
+autochromy
 ananaples
 anandrarious
 admeasurement
