@@ -6752,7 +6752,6 @@ altars
 aircraftmen
 aircraftsman
 adsorptiveness
-affrontiveness
 aircraftsmen
 aircraftswoman
 aircraftwoman
@@ -10897,6 +10896,7 @@ abel
 amoebaea
 avowable
 alipata
+affrontiveness
 aquilian
 anapest
 aillt
