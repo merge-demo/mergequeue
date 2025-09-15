@@ -8359,6 +8359,7 @@ anticomet
 aerodromics
 alisp
 alisphenoidal
+asynapsis
 alite
 aliter
 archaiser
@@ -12783,7 +12784,6 @@ agnosis
 aeneolithic
 angioplasty
 androgyn
-asynapsis
 anither
 asseize
 angiopressure
