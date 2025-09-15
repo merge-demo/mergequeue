@@ -5877,7 +5877,6 @@ agglomerate
 anychia
 amblyoscope
 agglomerates
-agglomeratic
 agglomeration
 agglomerative
 abscissions
@@ -13007,6 +13006,7 @@ abbreviating
 aluniferous
 achloropsia
 arrowy
+agglomeratic
 anhedral
 anhedron
 anhelation
