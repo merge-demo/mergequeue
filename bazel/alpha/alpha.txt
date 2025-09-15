@@ -8443,7 +8443,6 @@ alkalosis
 alkalurops
 algorithms
 alkamine
-alkanes
 alkanet
 abattoir
 alkalifies
@@ -18738,6 +18737,7 @@ attachers
 archdukes
 andesic
 axioms
+alkanes
 arche
 annulose
 archean
