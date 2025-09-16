@@ -4568,6 +4568,7 @@ atactic
 argols
 acuity
 advisees
+autobiology
 advisement
 atli
 abreacting
@@ -23948,7 +23949,6 @@ autobiography
 anthropoidea
 antitypy
 apologiser
-autobiology
 archipelagos
 autoboating
 autobuses
