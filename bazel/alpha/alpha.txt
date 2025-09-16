@@ -240,6 +240,7 @@ abbreviation
 abc
 angiohypotonia
 abcoulomb
+abietineous
 aba
 apodictic
 aggraded
@@ -7102,7 +7103,6 @@ abarthrosis
 atopite
 akre
 akrochordite
-abietineous
 allophore
 akroter
 akroteria
