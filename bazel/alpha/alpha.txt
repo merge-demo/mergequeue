@@ -10149,7 +10149,6 @@ ambulatoria
 additiment
 affluent
 apanage
-agraphias
 ambulatories
 ambulatorium
 ahepatokla
@@ -17514,6 +17513,7 @@ aroints
 advantages
 acratia
 adelomorphous
+agraphias
 appeasingly
 anthologists
 appellability
