@@ -9981,7 +9981,6 @@ avellan
 asyllabical
 arbutes
 ambiency
-ambiens
 anomy
 aulostomid
 archaeol
@@ -21118,6 +21117,7 @@ amenableness
 annatto
 airth
 amniorrhea
+ambiens
 affinitative
 aseismatic
 arabella
