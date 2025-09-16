@@ -10623,7 +10623,6 @@ appertaining
 amyloplastid
 antichronism
 adenase
-amylopsin
 anteromedian
 arborolater
 amylose
@@ -11554,6 +11553,7 @@ albinoism
 anacephalize
 amanitin
 aiery
+amylopsin
 anacharis
 arriver
 abilities
