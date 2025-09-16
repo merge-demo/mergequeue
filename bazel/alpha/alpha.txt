@@ -9409,7 +9409,6 @@ altamira
 altar
 altarage
 allodies
-altarpieces
 armbone
 anemones
 angiosclerotic
@@ -19341,6 +19340,7 @@ aretinian
 anticoagulating
 ablastous
 arew
+altarpieces
 alcornoque
 arf
 annoyous
