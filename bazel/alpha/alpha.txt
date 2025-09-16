@@ -3372,6 +3372,7 @@ adapt
 apeman
 aliased
 airmarker
+adjustability
 adaptableness
 adjugate
 almocrebe
@@ -21396,7 +21397,6 @@ alamoth
 ambulantes
 apartheid
 antifeudalism
-adjustability
 asoka
 anthracitism
 asomatous
