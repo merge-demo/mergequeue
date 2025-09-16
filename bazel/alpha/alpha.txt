@@ -7243,6 +7243,7 @@ alarodian
 animas
 alarum
 alarumed
+atmiatry
 antitypically
 alaruming
 alarums
@@ -22771,7 +22772,6 @@ atma
 atman
 acotyledon
 amazon
-atmiatry
 aggregately
 ahousaht
 atmo
