@@ -2878,6 +2878,7 @@ acrophonic
 astrol
 aubrite
 acropodium
+antiendowment
 acropoleis
 acuminated
 acropolitan
@@ -15113,7 +15114,6 @@ antiempirically
 apothecia
 aggrandiser
 absents
-antiendowment
 antiapoplectic
 aquilon
 antienthusiastic
