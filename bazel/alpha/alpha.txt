@@ -1248,7 +1248,6 @@ asaphic
 acarari
 ardelia
 acarian
-acariasis
 acarid
 accord
 addorsed
@@ -14909,6 +14908,7 @@ averroism
 anticoagulant
 anticoagulation
 anticoagulative
+acariasis
 ampliate
 acosmistic
 anticoagulator
