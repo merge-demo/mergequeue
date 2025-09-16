@@ -5611,7 +5611,6 @@ anticorrosion
 afwillite
 afzelia
 adjustable
-aswing
 aga
 auspiciously
 antilopinae
@@ -14387,6 +14386,7 @@ antiprelatism
 anthracometric
 abecedarium
 anthracosaurus
+aswing
 anthracosis
 abox
 anthracothere
