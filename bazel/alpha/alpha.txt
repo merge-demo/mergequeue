@@ -740,7 +740,6 @@ abrase
 accersitor
 aswail
 admetus
-ack
 abrash
 abrasing
 aeromechanics
@@ -5466,6 +5465,7 @@ aftercome
 australasian
 acrostichic
 aftercooler
+ack
 apological
 almoning
 alahee
