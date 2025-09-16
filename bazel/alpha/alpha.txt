@@ -10680,6 +10680,7 @@ analities
 aminopeptidase
 anisodactyl
 aminopherase
+autoelevation
 aminopyrine
 aminoplastic
 agrobiologic
@@ -16629,7 +16630,6 @@ actionable
 apertometer
 apocarpies
 adventures
-autoelevation
 apertural
 affrighter
 antichorus
