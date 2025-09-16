@@ -15736,7 +15736,6 @@ astute
 accostable
 antiperistalsis
 antiperistatic
-antiperistatical
 antiperspirant
 agileness
 antiperspirants
@@ -21721,6 +21720,7 @@ anniv
 assembler
 assemblyman
 aerohydrotherapy
+antiperistatical
 assentaneous
 assentator
 apoikia
