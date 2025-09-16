@@ -4241,7 +4241,6 @@ astichous
 astore
 ados
 acromegalia
-anisaldoxime
 alexias
 arsenotherapy
 anamneses
@@ -5064,6 +5063,7 @@ agrostographical
 aerotropism
 allantois
 aeruginous
+anisaldoxime
 aerugo
 aes
 autosepticemia
