@@ -14865,7 +14865,6 @@ anticytolysin
 almsgiving
 alphorn
 autohemolysin
-anticize
 acceptilate
 anticker
 anticking
@@ -18967,6 +18966,7 @@ alidade
 architecturalist
 architecture
 architectures
+anticize
 architypographer
 angiolith
 actinine
