@@ -1624,7 +1624,6 @@ accoutres
 accredit
 argenteum
 accreditate
-archpresbyter
 accreditations
 absentmindedness
 autogenuous
@@ -19269,6 +19268,7 @@ afterhand
 armoire
 adynamy
 areng
+archpresbyter
 arenga
 another
 anlas
