@@ -2631,7 +2631,6 @@ assuaging
 awaits
 adunation
 acquittal
-acquittance
 almacenista
 acquitted
 alangine
@@ -23113,6 +23112,7 @@ attendress
 aceturic
 aciurgy
 attends
+acquittance
 accidentarily
 ambagiousness
 almshouses
