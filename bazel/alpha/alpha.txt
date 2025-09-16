@@ -4201,7 +4201,6 @@ acinuni
 amphistome
 adopting
 adopted
-adoption
 abiotrophic
 apprised
 astronomic
@@ -8438,6 +8437,7 @@ alkalizing
 afforested
 alkaloid
 alkaloids
+adoption
 alkalosis
 alkalurops
 algorithms
