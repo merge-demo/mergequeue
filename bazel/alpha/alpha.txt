@@ -12050,7 +12050,6 @@ anat
 anatase
 ardebs
 anatases
-anatexis
 ancestress
 apogamically
 aspartate
@@ -16305,6 +16304,7 @@ antiuratic
 antiurease
 acetazolamide
 autotrepanation
+anatexis
 adulteries
 anemometrograph
 antecaecal
