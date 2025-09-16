@@ -75,7 +75,6 @@ aristo
 abalienate
 abalienated
 abalienating
-abalone
 abalones
 abama
 abecedary
@@ -10531,6 +10530,7 @@ alien
 automatism
 algaesthesia
 amyelic
+abalone
 amyelous
 australite
 aposematically
