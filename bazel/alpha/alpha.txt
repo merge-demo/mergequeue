@@ -16760,7 +16760,6 @@ antifrictional
 alopecist
 abscoulomb
 algarsyf
-aphonous
 aphorise
 aphorismer
 aphorismical
@@ -21625,6 +21624,7 @@ assayable
 afterpotential
 argyroneta
 assayed
+aphonous
 amorist
 assayers
 aphorists
