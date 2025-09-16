@@ -7668,7 +7668,6 @@ ambigenous
 abelicea
 aeneous
 adaw
-antiromance
 alcoholize
 alcoholmeter
 airmass
@@ -13103,6 +13102,7 @@ anima
 animable
 atrichia
 archaeopteris
+antiromance
 animacule
 animadversional
 almuten
