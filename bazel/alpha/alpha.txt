@@ -14056,7 +14056,6 @@ anaesthyl
 antefurcae
 almemar
 antehypophysis
-aedoeagus
 amices
 antidynamic
 amentia
@@ -18827,6 +18826,7 @@ archflamen
 archfoe
 archfool
 ancestresses
+aedoeagus
 annexer
 angloid
 acervose
