@@ -7548,7 +7548,6 @@ alcalizate
 alcanna
 aggrandized
 acardiac
-assumpt
 ascophyllum
 anastomos
 astragal
@@ -15548,6 +15547,7 @@ ailurophile
 aquage
 apsychia
 altrose
+assumpt
 antimoralistic
 accrescence
 antimorality
