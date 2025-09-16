@@ -10042,6 +10042,7 @@ appulsive
 axmen
 antiformant
 amblycephalus
+atmology
 amblydactyla
 asymptomatically
 agarita
@@ -22789,7 +22790,6 @@ armsful
 atmolysis
 atmolyzation
 atmolyze
-atmology
 atmologic
 anisotropous
 alterability
