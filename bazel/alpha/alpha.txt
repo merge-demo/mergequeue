@@ -8598,7 +8598,6 @@ allegorizer
 antidinic
 allegorizing
 aeolic
-acidific
 astromancy
 allegresse
 allegrettos
@@ -10224,6 +10223,7 @@ amelification
 ameliorableness
 amylocellulose
 anhydrated
+acidific
 ars
 ameliorates
 adenotyphoid
