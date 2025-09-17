@@ -1279,7 +1279,6 @@ antifoggant
 acarpelous
 augitic
 antisceptic
-acarus
 aeromedicine
 acatalectic
 apomicts
@@ -20405,6 +20404,7 @@ arsino
 arsis
 arsle
 applewife
+acarus
 arson
 acesodynous
 angiosteosis
