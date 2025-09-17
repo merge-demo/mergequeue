@@ -1663,7 +1663,6 @@ accruer
 adiabatic
 accrues
 accruing
-anaphase
 aerocar
 antiprophet
 aneurismal
@@ -9750,6 +9749,7 @@ amalgamatize
 amicabilities
 amperage
 amalgamization
+anaphase
 amalgamize
 amalic
 argosine
