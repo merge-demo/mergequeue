@@ -2879,7 +2879,6 @@ avengingly
 acrophonic
 astrol
 aubrite
-acropodium
 antiendowment
 acropoleis
 acuminated
@@ -11266,6 +11265,7 @@ actuated
 administratorship
 apiose
 argiopidae
+acropodium
 amphisbaenas
 accordable
 amphisbaenoid
