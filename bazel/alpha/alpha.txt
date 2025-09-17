@@ -3665,7 +3665,6 @@ anachoret
 alimenting
 attempre
 agib
-adenotome
 adenotomic
 adenous
 apomorphin
@@ -20000,6 +19999,7 @@ ammonified
 alexipharmacon
 arnaut
 arnberry
+adenotome
 aulu
 address
 antiscientifically
