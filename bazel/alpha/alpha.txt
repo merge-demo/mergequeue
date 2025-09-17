@@ -15223,6 +15223,7 @@ antifreeze
 antifriction
 antifrost
 antifungal
+apoenzyme
 ataentsic
 albertinian
 androcratic
@@ -17056,7 +17057,6 @@ adverb
 apodyterium
 apods
 azotizing
-apoenzyme
 apofenchene
 apogaeic
 aptera
