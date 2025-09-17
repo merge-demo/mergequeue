@@ -5357,7 +5357,6 @@ antiloemic
 autogiro
 aecia
 avail
-afikomen
 afire
 aflagellar
 acapnias
@@ -21660,6 +21659,7 @@ assassinate
 azoeosin
 assigned
 achromats
+afikomen
 amusingly
 antitragus
 antibromic
