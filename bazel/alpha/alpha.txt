@@ -3957,7 +3957,6 @@ amphibiously
 amgarn
 androgyny
 adjutant
-acicularity
 anesthetic
 adjutator
 adjute
@@ -21166,6 +21165,7 @@ aseptolin
 alighted
 adipous
 asexualisation
+acicularity
 approachableness
 azinphosmethyl
 angelology
