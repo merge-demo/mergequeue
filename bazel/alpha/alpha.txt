@@ -3849,7 +3849,6 @@ adiposeness
 adiposity
 acrook
 abdominoscope
-adiposogenital
 adiposuria
 adipsy
 awonder
@@ -9985,6 +9984,7 @@ avellan
 asyllabical
 arbutes
 ambiency
+adiposogenital
 anomy
 aulostomid
 archaeol
