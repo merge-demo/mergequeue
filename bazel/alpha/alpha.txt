@@ -11766,7 +11766,6 @@ aerides
 analyses
 antimoniate
 analyst
-aurei
 amphophilic
 acrobat
 alamanni
@@ -16393,6 +16392,7 @@ antoninianus
 acidophil
 appointed
 antonomasia
+aurei
 anaplastic
 antonomastic
 antonomastical
