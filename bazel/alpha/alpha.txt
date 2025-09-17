@@ -14052,7 +14052,6 @@ academize
 antedorsal
 animadverting
 anaesthyl
-antefurcae
 almemar
 antehypophysis
 amices
@@ -21085,6 +21084,7 @@ archenemies
 accomplement
 archwise
 assignee
+antefurcae
 aortography
 ascones
 asconoid
