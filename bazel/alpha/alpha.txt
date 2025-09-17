@@ -15253,7 +15253,6 @@ antigrammatical
 aminoacetanilide
 arcadings
 anisotropal
-antigraph
 acetimetry
 antigravitate
 annale
@@ -23268,6 +23267,7 @@ attributed
 archicerebra
 aurorium
 attributions
+antigraph
 attributively
 attributor
 ammonias
