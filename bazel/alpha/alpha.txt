@@ -2015,7 +2015,6 @@ amphodiplopia
 anticipatory
 arterial
 acetosoluble
-aurocyanide
 acetostearin
 acetothienone
 acetotoluid
@@ -18303,6 +18302,7 @@ anatomiless
 aripple
 archangelship
 arachnean
+aurocyanide
 armhoop
 arachnid
 aestivation
