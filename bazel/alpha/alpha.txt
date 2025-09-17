@@ -18790,6 +18790,7 @@ archeopteryx
 anastomose
 archer
 archerfishes
+afflict
 arylation
 allheals
 assurgent
@@ -24831,7 +24832,6 @@ ascribing
 addnl
 avoidment
 avoids
-afflict
 antrustionship
 avolate
 ametabolian
