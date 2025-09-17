@@ -11013,7 +11013,6 @@ assais
 amorphus
 amort
 amortizable
-amortized
 algic
 assibilation
 abnormalcy
@@ -19751,6 +19750,7 @@ arivaipa
 amphoral
 arizonian
 anhistous
+amortized
 arizonite
 achigan
 arjun
