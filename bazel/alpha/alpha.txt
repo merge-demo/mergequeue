@@ -6235,7 +6235,6 @@ adiposities
 acetabula
 autogeneal
 agramed
-agrammaphasia
 agrammatica
 afterpeak
 agrammatism
@@ -10702,6 +10701,7 @@ amiral
 animosities
 anabolitic
 antaphrodisiac
+agrammaphasia
 aqueoigneous
 alevins
 amire
