@@ -3445,7 +3445,6 @@ antroversion
 aphoruridae
 addible
 addicent
-addicted
 antiknocks
 addictedness
 addicting
@@ -21940,6 +21939,7 @@ articulating
 associe
 anathemata
 apodictical
+addicted
 aportoise
 anoxias
 anisomyodi
