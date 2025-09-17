@@ -16248,6 +16248,7 @@ amaroid
 antitypical
 antitypous
 amphigouris
+autoregenerator
 anthochlor
 antitobacconist
 auscultative
@@ -23713,7 +23714,6 @@ anisuria
 aurums
 alopecurus
 auscultascope
-autoregenerator
 adzes
 andropetalar
 academic
