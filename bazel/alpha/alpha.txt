@@ -2605,6 +2605,7 @@ acquire
 antescript
 acquisite
 arricciati
+appraiser
 acquisited
 acquisitional
 amidase
@@ -13321,7 +13322,6 @@ alectoropodes
 anisum
 antileveling
 appinite
-appraiser
 aneuploid
 atonality
 anitos
