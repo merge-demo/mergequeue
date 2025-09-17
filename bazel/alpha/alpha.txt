@@ -5245,6 +5245,7 @@ alemanni
 aggerate
 affinities
 affinition
+apostrophe
 affinitive
 affirmable
 asiaticism
@@ -14646,7 +14647,6 @@ alpinisms
 ariidae
 antinormal
 anthryl
-apostrophe
 aortographies
 adelges
 antiaristocratically
