@@ -14745,6 +14745,7 @@ altiscope
 anticaustic
 affreighter
 anticensorial
+atomically
 amusee
 ammonitish
 achor
@@ -22833,7 +22834,6 @@ axometry
 asrama
 alkalemia
 algefacient
-atomically
 atomician
 actinometer
 ambroids
