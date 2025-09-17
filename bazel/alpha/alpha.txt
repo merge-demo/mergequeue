@@ -2429,7 +2429,6 @@ acknowing
 acknowledged
 adoxography
 acknowledger
-anaerobia
 aconic
 acknowledgers
 aistopodes
@@ -11987,6 +11986,7 @@ awakenable
 anaschistic
 anaseismic
 anasitch
+anaerobia
 anaspadias
 albite
 auntship
