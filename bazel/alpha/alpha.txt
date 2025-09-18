@@ -4898,7 +4898,6 @@ adjurations
 aristogenic
 alluvia
 acculturized
-aleuromancy
 aerographical
 aerohydrodynamic
 approachment
@@ -23187,6 +23186,7 @@ abyssinia
 attestor
 anorthopia
 attests
+aleuromancy
 alkermes
 androphonomania
 amphinesian
