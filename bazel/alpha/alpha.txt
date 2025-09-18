@@ -1060,6 +1060,7 @@ acustom
 amphiboliferous
 abulias
 axhammered
+averager
 accolent
 apt
 abumbrellar
@@ -8876,7 +8877,6 @@ alloisomerism
 allomerizing
 archaically
 agallochum
-averager
 apospory
 anematizing
 aerobiologic
