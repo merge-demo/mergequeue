@@ -923,6 +923,7 @@ aestuary
 arteriotome
 absolves
 absolving
+abstort
 agrestis
 atomistics
 absolvitor
@@ -991,7 +992,6 @@ abstertion
 anthropopathic
 abstinential
 abstinently
-abstort
 anthos
 abstractable
 acceptavit
