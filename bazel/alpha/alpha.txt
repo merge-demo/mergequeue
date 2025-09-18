@@ -8732,6 +8732,7 @@ allied
 allies
 alligated
 acceders
+autoagglutinating
 arctoid
 alligatorfish
 alligatorfishes
@@ -23935,7 +23936,6 @@ amphibiousness
 acrology
 antiscepticism
 anepiploic
-autoagglutinating
 autoanalytic
 auriculariae
 anseriformes
