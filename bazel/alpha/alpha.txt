@@ -8624,6 +8624,7 @@ askeses
 australoid
 alleys
 alephzero
+afrasian
 automatonlike
 alleyway
 alchitran
@@ -25066,7 +25067,6 @@ anural
 anesthetizing
 antipapistic
 ax
-afrasian
 abasia
 ascochyta
 albespine
