@@ -291,6 +291,7 @@ abdominous
 abduces
 articulate
 apothece
+ampullulae
 abducted
 abductions
 allegro
@@ -17949,7 +17950,6 @@ approvability
 approvals
 aegagropila
 am
-ampullulae
 approvance
 absolutes
 approved
