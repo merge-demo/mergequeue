@@ -5539,6 +5539,7 @@ afters
 amphibrach
 alumna
 allomerism
+apholate
 aftershaft
 aftershafted
 acetylcholinic
@@ -14037,7 +14038,6 @@ antidynamic
 amentia
 antejudiciary
 antelocation
-apholate
 aulostomidae
 apriorist
 archdeaconship
