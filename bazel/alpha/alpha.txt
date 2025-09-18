@@ -18721,7 +18721,6 @@ archdefender
 agenesia
 archdetective
 amputee
-appendent
 apurpose
 appenage
 ammonobasic
@@ -22135,6 +22134,7 @@ achroacyte
 ambitionless
 ailantery
 abjudge
+appendent
 argute
 alcavala
 asthenia
