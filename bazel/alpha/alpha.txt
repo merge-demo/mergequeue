@@ -7556,7 +7556,6 @@ anastomos
 astragal
 alcazaba
 apophonic
-alcazar
 adamance
 agrostographer
 asymptotical
@@ -16759,6 +16758,7 @@ apparens
 aerification
 anticatalyzer
 aphyric
+alcazar
 annunciators
 acinetina
 aphlogistic
