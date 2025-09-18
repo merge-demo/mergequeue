@@ -13308,7 +13308,6 @@ anystidae
 aloin
 alectoropodes
 anisum
-antileveling
 appinite
 aneuploid
 atonality
@@ -15228,6 +15227,7 @@ antigenes
 antigigmanic
 annexment
 autonitridation
+antileveling
 antigonon
 antigonorrheic
 afflue
