@@ -17391,7 +17391,6 @@ atriensis
 antiattrition
 autocratically
 apotheosised
-apotheosize
 apotheosized
 apothesine
 anteportico
@@ -24586,6 +24585,7 @@ ambergrease
 actinophryan
 avalanche
 azosulphine
+apotheosize
 amantadine
 associateship
 avalanches
