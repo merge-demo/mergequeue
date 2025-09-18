@@ -3715,7 +3715,6 @@ abasements
 annum
 adespoton
 adessenarian
-adit
 adeste
 afterpressure
 antesternum
@@ -5920,6 +5919,7 @@ atelorachidia
 anhaematopoiesis
 aerogeology
 amphithecial
+adit
 amazonstone
 apostacies
 aneurism
