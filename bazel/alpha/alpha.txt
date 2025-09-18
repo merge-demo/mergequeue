@@ -2120,6 +2120,7 @@ affusions
 agave
 aponeurosis
 aptness
+anematize
 acrostolion
 atticize
 acroteral
@@ -7242,7 +7243,6 @@ antitypically
 alaruming
 alarums
 astrand
-anematize
 antepaschel
 ansi
 aerotropic
