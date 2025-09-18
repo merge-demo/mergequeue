@@ -10367,7 +10367,6 @@ amesite
 abamp
 anteed
 acroama
-adjutants
 asterisms
 amess
 assailants
@@ -22886,6 +22885,7 @@ atour
 amitie
 atoxyl
 atrabilar
+adjutants
 annat
 anticentralist
 aniseroot
