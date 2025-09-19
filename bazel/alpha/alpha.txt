@@ -784,7 +784,6 @@ abristle
 alabandine
 abroach
 abrocome
-abrogable
 airdock
 abrogate
 allergies
@@ -12414,6 +12413,7 @@ acoemeti
 ayens
 aurantium
 anear
+abrogable
 autodermic
 asphyxy
 approval
