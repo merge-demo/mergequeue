@@ -1192,7 +1192,6 @@ amour
 angulus
 atrosanguineous
 acanthocephalous
-acanthocereus
 acanthocladous
 acanthodean
 abbots
@@ -3359,6 +3358,7 @@ adamine
 arborescence
 adamite
 anselmian
+acanthocereus
 acetonation
 adamitism
 anacidity
