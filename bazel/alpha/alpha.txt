@@ -11667,6 +11667,7 @@ anaesthetization
 ayme
 artal
 anaesthetize
+apodidae
 anaesthetized
 anaesthetizer
 arthralgic
@@ -17054,7 +17055,6 @@ admonitor
 arithmetize
 apodictive
 aluminite
-apodidae
 apodyteria
 adverb
 apodyterium
