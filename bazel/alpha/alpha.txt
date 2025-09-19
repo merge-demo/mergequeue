@@ -5282,7 +5282,6 @@ anophthalmia
 actinocarp
 afflated
 anilao
-ataxia
 absent
 accra
 afflicter
@@ -17739,6 +17738,7 @@ albuminaturia
 alluringly
 applosion
 applosive
+ataxia
 antiguan
 autotomised
 aortorrhaphy
