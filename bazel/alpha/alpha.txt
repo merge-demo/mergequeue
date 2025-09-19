@@ -8358,6 +8358,7 @@ archaiser
 atomechanics
 ality
 apocentricity
+alphabeting
 attribution
 ayllu
 asternia
@@ -9302,7 +9303,6 @@ abbotships
 adenolymphoma
 affectation
 angry
-alphabeting
 adiposis
 alphabetised
 alphabetiser
