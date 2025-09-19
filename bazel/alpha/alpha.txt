@@ -10158,6 +10158,7 @@ aerofoil
 ambuscadoed
 ambushers
 ambushlike
+allocinnamic
 amphitheaters
 anablepidae
 arcocentrous
@@ -18669,7 +18670,6 @@ archangelica
 antisupernatural
 archangelical
 acceptable
-allocinnamic
 aglaonema
 adenyls
 aquascutum
