@@ -3244,7 +3244,6 @@ atolls
 aready
 abram
 aphidius
-autecisms
 animalculist
 aerogenes
 acupunctuation
@@ -22531,6 +22530,7 @@ ataxiaphasia
 ataxies
 ataxinomic
 assidaean
+autecisms
 aspiratae
 ataxophemia
 ambitions
