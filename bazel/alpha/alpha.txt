@@ -9845,7 +9845,6 @@ attractile
 abrotin
 antheridium
 alfiona
-amasthenic
 alascan
 amatembu
 attaint
@@ -13581,6 +13580,7 @@ annunciating
 annunciation
 apophonia
 aerated
+amasthenic
 atiptoe
 amebic
 annunciations
