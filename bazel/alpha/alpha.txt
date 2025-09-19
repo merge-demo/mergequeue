@@ -13971,7 +13971,6 @@ anteact
 acajou
 arsenillo
 anteater
-advancer
 astrologian
 achronychous
 antebaptismal
@@ -22659,6 +22658,7 @@ atheroscleroses
 archbuffoon
 ateuchi
 atherosclerosis
+advancer
 anticrepuscule
 atherosclerotic
 acerbic
