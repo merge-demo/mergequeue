@@ -14125,7 +14125,6 @@ acromyodi
 allergic
 amphithere
 abcissa
-antepenultimate
 antepirrhema
 avine
 anteporticoes
@@ -24491,6 +24490,7 @@ autoxidizability
 autoxidizable
 autoxidize
 accloy
+antepenultimate
 administrated
 antihelices
 amused
