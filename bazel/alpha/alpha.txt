@@ -6055,6 +6055,7 @@ astrosphere
 albuminoidal
 agitators
 ablock
+anthropomorphisation
 agitatrix
 agitprops
 aglaia
@@ -14495,7 +14496,6 @@ avowed
 ardent
 amphrysian
 anthropomorphidae
-anthropomorphisation
 armature
 anthropomorphised
 arimaspian
