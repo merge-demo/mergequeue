@@ -2958,7 +2958,6 @@ artiness
 antijam
 acting
 actiniae
-axisymmetric
 amphiprotic
 appalment
 automatize
@@ -8891,6 +8890,7 @@ alloiometric
 adjustments
 acrogenic
 alloisomerism
+axisymmetric
 allomerizing
 archaically
 agallochum
