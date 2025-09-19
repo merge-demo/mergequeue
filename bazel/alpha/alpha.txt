@@ -1649,6 +1649,7 @@ actualities
 accrued
 accruement
 accruer
+anatta
 adiabatic
 accrues
 accruing
@@ -12128,7 +12129,6 @@ ambitiousness
 andesinite
 arrowheads
 agremens
-anatta
 arachnidium
 antilife
 actional
