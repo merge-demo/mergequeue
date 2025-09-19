@@ -12193,7 +12193,6 @@ anchoret
 aminish
 anchorets
 amblyopsis
-angiometer
 altruism
 almach
 anchorite
@@ -23984,6 +23983,7 @@ ambiences
 afterbay
 anthomyiid
 achatinella
+angiometer
 acenaphthenyl
 autocatalyses
 autocatalysis
