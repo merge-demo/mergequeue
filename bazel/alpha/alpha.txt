@@ -6903,7 +6903,6 @@ airway
 aflutter
 astilbe
 anticommercialist
-airwayman
 aquavit
 armless
 airwards
@@ -20136,6 +20135,7 @@ arr
 arracach
 autosite
 archaized
+airwayman
 anticoagulate
 amphithalami
 audibertia
