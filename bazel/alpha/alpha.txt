@@ -2554,7 +2554,6 @@ acoumeter
 antisubmarine
 antagonisms
 accoutering
-astringence
 allylene
 alumins
 aljamiah
@@ -18969,6 +18968,7 @@ architecture
 architectures
 anticize
 architypographer
+astringence
 angiolith
 actinine
 ambagiousness
