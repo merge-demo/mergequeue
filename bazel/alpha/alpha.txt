@@ -7837,6 +7837,7 @@ anthotropism
 alveola
 alecup
 alefs
+ambary
 astringes
 applicators
 alehouse
@@ -9917,7 +9918,6 @@ abluents
 activator
 authenticities
 assayer
-ambary
 ambaris
 ambas
 ambassade
