@@ -57,7 +57,6 @@ acrocephalous
 abacus
 alcheringa
 abaddon
-abadejo
 abadengo
 aerially
 argusfish
@@ -23933,6 +23932,7 @@ autoabstract
 amphibiousness
 acrology
 antiscepticism
+abadejo
 anepiploic
 autoanalytic
 auriculariae
