@@ -17180,6 +17180,7 @@ acropetal
 agonist
 aphodus
 adeptship
+assistantship
 archimago
 automatization
 aspired
@@ -23782,7 +23783,6 @@ alcogel
 australian
 australioid
 anticonservatively
-assistantship
 allicit
 amatorious
 anticivism
