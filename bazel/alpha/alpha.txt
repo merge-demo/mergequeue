@@ -14461,7 +14461,6 @@ adnoun
 anthropographic
 anthropoid
 ascenseur
-anthropoidean
 anthropol
 anthropolatry
 antigraphy
@@ -14539,6 +14538,7 @@ allophonic
 auric
 anthropophagize
 amandine
+anthropoidean
 anthropophilous
 afterdated
 anthropophobia
