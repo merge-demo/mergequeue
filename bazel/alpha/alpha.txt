@@ -2048,7 +2048,6 @@ afrikander
 acharnement
 achatina
 achatinidae
-act
 ache
 alkalinising
 artemisin
@@ -21989,6 +21988,7 @@ argentometrically
 assumes
 apothesis
 antiperiodic
+act
 assuming
 assumingly
 assummon
