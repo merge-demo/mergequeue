@@ -5499,7 +5499,6 @@ afterguard
 anaerobious
 afterheat
 acalycal
-afterhend
 anatifae
 afterhope
 angiitis
@@ -13804,6 +13803,7 @@ anorthose
 agglomerated
 afresh
 albumeniizer
+afterhend
 anoscope
 angstrom
 achariaceae
