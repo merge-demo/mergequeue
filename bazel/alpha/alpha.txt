@@ -14137,7 +14137,6 @@ antepirrhema
 avine
 anteporticoes
 anteporticos
-anteprohibition
 acetarsone
 antequalm
 abmho
@@ -16963,6 +16962,7 @@ apneusis
 apnoea
 adiaphoretic
 artificialness
+anteprohibition
 aplacophorous
 ayahausca
 apoatropine
