@@ -8070,6 +8070,7 @@ algebraist
 algedo
 alfilerillo
 antitropal
+arrowheads
 algerian
 algerienne
 alizarins
@@ -12116,7 +12117,6 @@ anatropal
 antiquers
 ambitiousness
 andesinite
-arrowheads
 agremens
 arachnidium
 antilife
