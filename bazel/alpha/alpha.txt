@@ -5286,7 +5286,6 @@ anophthalmia
 actinocarp
 afflated
 anilao
-absent
 accra
 afflicter
 aphidiinae
@@ -22662,6 +22661,7 @@ advancer
 anticrepuscule
 atherosclerotic
 acerbic
+absent
 abnegated
 angulation
 aeronomic
