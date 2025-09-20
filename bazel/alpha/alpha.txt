@@ -2806,6 +2806,7 @@ antiscience
 acromelalgia
 airworthier
 armorproof
+atonics
 acromia
 archostenosis
 autocamping
@@ -7880,7 +7881,6 @@ alen
 alkaloidal
 alenge
 alength
-atonics
 amentias
 ashcans
 activistic
