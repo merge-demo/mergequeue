@@ -5706,7 +5706,6 @@ antisacerdotal
 antistrophon
 aigrettes
 anabaenas
-arnut
 agapai
 arthrometer
 astragalar
@@ -15903,6 +15902,7 @@ acidimeter
 armill
 accidia
 amici
+arnut
 angloman
 appointor
 autorotate
