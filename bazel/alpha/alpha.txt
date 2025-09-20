@@ -20759,7 +20759,6 @@ artist
 awardee
 artistic
 aftercourse
-ashiver
 aeroplankton
 alkylation
 artistry
@@ -20852,6 +20851,7 @@ avalvular
 arcate
 antiparasitically
 acetose
+ashiver
 atherosperma
 asaphia
 azotized
