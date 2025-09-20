@@ -930,7 +930,6 @@ afterhold
 absorbefacient
 azoflavine
 absorbing
-altitudinous
 absorpt
 absorptiometer
 allegeable
@@ -6542,6 +6541,7 @@ archpriest
 antasthenic
 amber
 aiglet
+altitudinous
 alectoriae
 anchoresses
 aphroditeum
