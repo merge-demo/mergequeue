@@ -11353,7 +11353,6 @@ aiguiere
 amplication
 amplicative
 autoelectrolytic
-amplify
 amplificate
 aftercause
 amplificative
@@ -21934,6 +21933,7 @@ adaptional
 aphakial
 associatively
 associativeness
+amplify
 armoring
 associativity
 adicity
