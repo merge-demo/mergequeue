@@ -8375,6 +8375,7 @@ agistment
 allopath
 advertency
 assoin
+apologised
 aortoptosis
 alkahestica
 arcadia
@@ -17137,7 +17138,6 @@ apology
 apologiae
 asarone
 apologies
-apologised
 adenogenesis
 affreightment
 amphigenesis
