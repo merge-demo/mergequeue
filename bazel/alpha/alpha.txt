@@ -1449,6 +1449,7 @@ acclimates
 acclimatisation
 affixable
 archaisms
+amortize
 acclimatise
 acclimatised
 acclimatiser
@@ -11946,7 +11947,6 @@ aluminium
 anarchies
 analyzation
 affrights
-amortize
 adela
 aftergrind
 antitradition
