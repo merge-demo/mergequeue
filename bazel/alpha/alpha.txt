@@ -3636,7 +3636,6 @@ aptote
 adenomyoma
 adenomyxosarcoma
 adenoneural
-antiradiation
 aerophysical
 adenoneure
 antihierarchies
@@ -16614,6 +16613,7 @@ ambulanced
 average
 aperiodicity
 aperitif
+antiradiation
 acaroid
 apert
 arsonation
