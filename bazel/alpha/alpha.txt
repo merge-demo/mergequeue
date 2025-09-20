@@ -8598,7 +8598,6 @@ allegorizer
 antidinic
 allegorizing
 aeolic
-astromancy
 allegresse
 allegrettos
 apasttra
@@ -11951,6 +11950,7 @@ affrights
 adela
 aftergrind
 antitradition
+astromancy
 anarchist
 anarchists
 anarcho
