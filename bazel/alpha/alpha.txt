@@ -8070,7 +8070,6 @@ algates
 aquatical
 arylate
 algebraical
-algebraically
 anjan
 antagonised
 algebraist
@@ -18654,6 +18653,7 @@ archaises
 anchoress
 archaising
 archaism
+algebraically
 ati
 asporulate
 alodium
