@@ -4038,7 +4038,6 @@ amyotaxia
 allylic
 aloyau
 afric
-admired
 application
 analysed
 acetophenin
@@ -8875,6 +8874,7 @@ achromatizable
 astroalchemist
 agnathostomatous
 allantoid
+admired
 allographic
 alloyage
 alloiogenesis
