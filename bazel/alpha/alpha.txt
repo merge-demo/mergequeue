@@ -779,7 +779,6 @@ abris
 abristle
 alabandine
 abroach
-abrocome
 airdock
 abrogate
 allergies
@@ -5184,6 +5183,7 @@ affective
 advocacies
 affectivity
 affector
+abrocome
 accoast
 affeerer
 auturgy
