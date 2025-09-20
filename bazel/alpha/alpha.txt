@@ -880,6 +880,7 @@ akroterion
 anabong
 audiometric
 apogeotropic
+archband
 aures
 absyrtus
 amylon
@@ -18677,7 +18678,6 @@ adenoviruses
 adelaide
 archarchitect
 accusably
-archband
 addlebrain
 archbeadle
 accidentalist
