@@ -17606,7 +17606,6 @@ apolaustic
 antiagglutination
 antediluvial
 agouta
-appestat
 apostlehood
 appestats
 appetence
@@ -19464,6 +19463,7 @@ argin
 argyranthous
 ammoniate
 acroceridae
+appestat
 angrier
 argive
 anoperineal
