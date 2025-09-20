@@ -2259,7 +2259,6 @@ aluminous
 adjectitious
 attempers
 acidaspis
-acidemia
 acider
 azimech
 acidy
@@ -23600,6 +23599,7 @@ auntliest
 auntlike
 auntre
 acanthon
+acidemia
 antistrophal
 auntrous
 antiethnic
