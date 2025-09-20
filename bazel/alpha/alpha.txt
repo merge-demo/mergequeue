@@ -13613,7 +13613,6 @@ ampollosity
 antituberculous
 anticum
 anesthesia
-anodonta
 automa
 abolition
 annuler
@@ -18852,6 +18851,7 @@ archhumbug
 agriology
 archibenthic
 archiblastic
+anodonta
 archiblastoma
 astrochemist
 avertedly
