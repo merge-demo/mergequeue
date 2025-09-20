@@ -720,7 +720,6 @@ abrahamidae
 abrahamite
 alazor
 aedicula
-aposporic
 alpiniaceae
 abramis
 abranchious
@@ -23751,6 +23750,7 @@ aerohydroplane
 auspicious
 amorphozoa
 asplenioid
+aposporic
 ararauna
 auspiciousness
 arpenteur
