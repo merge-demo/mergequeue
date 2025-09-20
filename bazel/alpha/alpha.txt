@@ -11212,7 +11212,6 @@ ascorbate
 aliunde
 acropolises
 algebar
-amphigory
 amphigories
 appenders
 allthing
@@ -18329,6 +18328,7 @@ arains
 antrotome
 anosognosia
 araire
+amphigory
 appendage
 atossa
 araise
