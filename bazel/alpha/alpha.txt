@@ -14103,7 +14103,6 @@ anteoccupation
 anteocular
 accessability
 anteorbital
-albopannin
 augustinian
 antibodies
 antepalatal
@@ -22810,6 +22809,7 @@ atmolyze
 atmologic
 anisotropous
 alterability
+albopannin
 arya
 atmometric
 allheal
