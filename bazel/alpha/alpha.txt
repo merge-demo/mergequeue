@@ -3296,7 +3296,6 @@ amblychromatic
 anomurous
 agawam
 adactylous
-automatograph
 ametabola
 adad
 agalawood
@@ -6347,6 +6346,7 @@ aurung
 ancylostoma
 acoine
 afro
+automatograph
 adsorbate
 agromyzid
 agron
