@@ -3596,7 +3596,6 @@ adenization
 anticeremonious
 asthenies
 adenoacanthoma
-adenocarcinoma
 adenocarcinomas
 adenochondroma
 antipellagric
@@ -17073,6 +17072,7 @@ anatomic
 atropa
 agoranome
 anticlea
+adenocarcinoma
 acmes
 autostethoscope
 apogamy
