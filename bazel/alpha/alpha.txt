@@ -7378,6 +7378,7 @@ anura
 atmid
 albinisms
 albinos
+arthrodiae
 antara
 aplacentalia
 albinotic
@@ -7474,7 +7475,6 @@ arrested
 anchovies
 albuminofibrin
 albuminoid
-arthrodiae
 abstract
 autotelic
 aurifying
