@@ -2609,7 +2609,6 @@ asiden
 acquisite
 arricciati
 appraiser
-acquisited
 acquisitional
 amidase
 acquisitive
@@ -5419,6 +5418,7 @@ arrange
 avitaminoses
 algometry
 assegai
+acquisited
 afrikanderdom
 afrit
 armary
