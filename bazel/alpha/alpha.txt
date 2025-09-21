@@ -3594,7 +3594,6 @@ arabicize
 austerlitz
 agora
 adendritic
-akenbold
 adenylic
 avichi
 adatom
@@ -23272,6 +23271,7 @@ attractor
 adnumber
 antship
 averroist
+akenbold
 anglophobic
 augurs
 adventitia
