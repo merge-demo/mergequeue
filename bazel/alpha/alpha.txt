@@ -2025,6 +2025,7 @@ agglutinating
 acropathology
 amplexus
 aveny
+awakeable
 amidoxy
 achagua
 amoret
@@ -24907,7 +24908,6 @@ awaitlala
 awakable
 acoelomate
 awake
-awakeable
 awakened
 amminolysis
 algometer
