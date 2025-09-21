@@ -3273,7 +3273,6 @@ adornos
 acute
 acutely
 ascomycetal
-armlocks
 acutest
 arborise
 authorcraft
@@ -6721,6 +6720,7 @@ antemetic
 ardour
 agribusiness
 anaphorical
+armlocks
 airable
 avenue
 angerless
