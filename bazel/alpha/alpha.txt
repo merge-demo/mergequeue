@@ -2759,6 +2759,7 @@ arloup
 acrobryous
 acyrology
 alarms
+airglow
 apotropaion
 autopista
 acrocephalic
@@ -6781,7 +6782,6 @@ antimoralist
 aglipayan
 airfoil
 airfoils
-airglow
 airglows
 airgraphics
 anisometropia
