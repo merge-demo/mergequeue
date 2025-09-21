@@ -5459,6 +5459,7 @@ aftercome
 australasian
 acrostichic
 aftercooler
+autocollimate
 ack
 apological
 almoning
@@ -24017,7 +24018,6 @@ autoclave
 allemands
 autoclaving
 aspheric
-autocollimate
 autocollimators
 autocombustion
 autoconduction
