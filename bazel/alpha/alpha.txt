@@ -4431,7 +4431,6 @@ anybodies
 aduncate
 amyraldist
 anacard
-aduncous
 aerobus
 adure
 andia
@@ -9949,6 +9948,7 @@ autoregressive
 ambergris
 agrafe
 amberite
+aduncous
 artiller
 arrival
 amberjacks
