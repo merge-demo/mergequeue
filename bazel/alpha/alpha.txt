@@ -5253,7 +5253,6 @@ apostrophe
 affinitive
 affirmable
 asiaticism
-abreacted
 affirmably
 aplysia
 achaetous
@@ -13042,6 +13041,7 @@ ambonite
 autologist
 amninions
 ani
+abreacted
 antipoles
 authenticity
 affronty
