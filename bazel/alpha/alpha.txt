@@ -10048,6 +10048,7 @@ ambo
 acanthin
 architective
 ablatives
+assignability
 anisette
 autolaryngoscope
 ambocoelia
@@ -21839,7 +21840,6 @@ assiette
 assify
 assign
 absorbedness
-assignability
 astrodynamics
 atoningly
 assignably
