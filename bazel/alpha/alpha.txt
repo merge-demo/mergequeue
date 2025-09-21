@@ -3306,6 +3306,7 @@ autophotograph
 apx
 amblychromatic
 anomurous
+apnea
 agawam
 adactylous
 ametabola
@@ -19542,7 +19543,6 @@ anklets
 afars
 arguing
 admiration
-apnea
 argulus
 argument
 arabidopsis
