@@ -5152,7 +5152,6 @@ aeviternal
 anatomicomedical
 af
 avernal
-automate
 amourist
 accend
 afd
@@ -12482,6 +12481,7 @@ anemony
 anaspida
 anguillidae
 anemopathy
+automate
 astroscope
 antisudorific
 anemoscope
