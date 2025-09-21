@@ -5546,7 +5546,6 @@ absolute
 afters
 amphibrach
 alumna
-allomerism
 apholate
 aftershaft
 aftershafted
@@ -11787,6 +11786,7 @@ ailurophobe
 acetyliodide
 antiaristocratic
 alypin
+allomerism
 analyzes
 analkalinity
 anallagmatic
