@@ -3271,6 +3271,7 @@ algebraize
 acutance
 amyloids
 acutances
+adornos
 acute
 acutely
 ascomycetal
@@ -24172,7 +24173,6 @@ acy
 afterlifetime
 autojigger
 autojuggernaut
-adornos
 ancylocladus
 assonantic
 anthozoa
