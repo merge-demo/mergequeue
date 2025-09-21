@@ -7603,6 +7603,7 @@ athrocyte
 argentinitrate
 astrohatch
 absorbencies
+allocatable
 alcyonium
 abreaction
 alcippe
@@ -8776,7 +8777,6 @@ adolescency
 anthophore
 allobrogical
 abidance
-allocatable
 absorption
 airmails
 atturn
