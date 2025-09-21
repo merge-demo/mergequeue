@@ -9045,7 +9045,6 @@ alloxuremia
 apnoeas
 anadicrotic
 alphyl
-alloxuric
 amidoacetal
 anaeroplastic
 allround
@@ -24624,6 +24623,7 @@ ascebc
 actinophore
 amyraldism
 avellane
+alloxuric
 alcyonacea
 aveloz
 autoheterodyne
