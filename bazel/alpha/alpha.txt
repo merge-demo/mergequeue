@@ -1597,7 +1597,6 @@ accounts
 anybody
 accouter
 apotype
-accoutered
 agrostologist
 aneling
 accouterment
@@ -4402,6 +4401,7 @@ artistess
 adulteresses
 adultery
 autohypnotic
+accoutered
 antifebrile
 accollee
 adulterine
