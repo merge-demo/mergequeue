@@ -7446,6 +7446,7 @@ agma
 albuginea
 archivist
 albugines
+apometabolous
 amban
 albuginitis
 album
@@ -9565,7 +9566,6 @@ anthogenesis
 alumel
 amarna
 agrom
-apometabolous
 alumic
 abesse
 alumiferous
