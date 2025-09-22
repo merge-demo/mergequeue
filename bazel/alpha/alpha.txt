@@ -7620,7 +7620,6 @@ absorbencies
 allocatable
 alcyonium
 abreaction
-alcippe
 amplidyne
 airplaned
 antefurca
@@ -8301,6 +8300,7 @@ abrenunciate
 argolet
 alymphia
 apocrypha
+alcippe
 amini
 archdapifer
 ayield
