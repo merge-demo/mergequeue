@@ -4626,7 +4626,6 @@ asynchrony
 aglare
 alismad
 acoemetic
-aeciospore
 aecioteliospore
 attractivity
 aedeagi
@@ -9833,6 +9832,7 @@ armillas
 amaritude
 amarthritis
 autosomatognosis
+aeciospore
 azotorrhoea
 autosexing
 autotherapy
