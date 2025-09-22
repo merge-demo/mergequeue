@@ -10140,7 +10140,6 @@ aminded
 avulsion
 ambulator
 ambulatory
-ambulatoria
 additiment
 aluminas
 affluent
@@ -21509,6 +21508,7 @@ aspersoriums
 asperugo
 arrhal
 asperula
+ambulatoria
 asperulous
 anticovenanting
 autonomy
