@@ -10673,7 +10673,6 @@ aminopeptidase
 anisodactyl
 aminopherase
 aminopyrine
-aminoplastic
 agrobiologic
 angulometer
 arachne
@@ -14781,6 +14780,7 @@ antichance
 animatograph
 amperes
 antichlorine
+aminoplastic
 avowers
 antichloristic
 antichlorotic
