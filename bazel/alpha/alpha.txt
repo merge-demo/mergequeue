@@ -11815,7 +11815,6 @@ amidomyelin
 abdominocardiac
 analogised
 alchem
-anteroventral
 analogize
 appropriation
 analogon
@@ -21152,6 +21151,7 @@ associator
 asellate
 andabata
 apostates
+anteroventral
 anthracitiferous
 agnathic
 autospore
