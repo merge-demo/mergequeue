@@ -6267,6 +6267,7 @@ annattos
 ahab
 americaward
 agranuloplastic
+abelite
 agrapha
 agraphia
 anuran
@@ -14711,7 +14712,6 @@ adumbral
 abjudication
 acclimation
 anisotropy
-abelite
 antiblue
 antiboxing
 ammonolyzed
