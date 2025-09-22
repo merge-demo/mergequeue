@@ -8444,7 +8444,6 @@ alkanethiol
 alkanets
 amebocyte
 autophyllogeny
-alkanol
 acanthosis
 alkapton
 alkaptone
@@ -20005,6 +20004,7 @@ alexipharmacon
 arnaut
 arnberry
 adenotome
+alkanol
 archikaryon
 aulu
 address
