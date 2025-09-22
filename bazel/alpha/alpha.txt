@@ -4031,7 +4031,6 @@ affixion
 aspidoganoidei
 administratively
 administratrices
-administratrix
 antiarin
 admirable
 anlases
@@ -19379,6 +19378,7 @@ abysms
 argentines
 atheistical
 anchoretical
+administratrix
 amuser
 argentan
 axisymmetry
