@@ -8137,7 +8137,6 @@ alictisal
 applicant
 anastasis
 algophagous
-anoopsias
 algophilia
 algophilist
 algophobia
@@ -9961,6 +9960,7 @@ afraidness
 aye
 antares
 antisepticise
+anoopsias
 adirondack
 albinuria
 amberoid
