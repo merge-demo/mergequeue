@@ -2386,7 +2386,6 @@ autolyze
 abridgedly
 autocondensation
 acinetic
-antihemisphere
 atveen
 abided
 acinetiform
@@ -2399,6 +2398,7 @@ aggrate
 acinus
 aedes
 acipenserine
+antihemisphere
 acipenseroid
 artistdom
 acipenseroidei
