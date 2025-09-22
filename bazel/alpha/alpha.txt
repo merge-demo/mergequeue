@@ -6943,7 +6943,6 @@ airts
 aitkenite
 aitutakian
 algerine
-aphorizer
 ayu
 activize
 aminoplast
@@ -23481,6 +23480,7 @@ augmenters
 augmentive
 augrim
 aggravator
+aphorizer
 ambidexterous
 ansel
 acecaffin
