@@ -6197,7 +6197,6 @@ aerolitics
 agonic
 aargh
 agonise
-agonised
 agonistarch
 ackee
 aesthetics
@@ -13556,6 +13555,7 @@ adjourning
 annulation
 aquarist
 amidated
+agonised
 annulet
 angelfish
 aide
