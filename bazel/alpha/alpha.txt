@@ -10629,7 +10629,6 @@ arborolater
 amylose
 achree
 africans
-amyloses
 amylosis
 angiotribe
 acuminous
@@ -21349,6 +21348,7 @@ asynchronism
 asynchronisms
 asyndetic
 androphore
+amyloses
 analectic
 amphoras
 azobacter
