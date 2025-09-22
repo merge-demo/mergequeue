@@ -11610,7 +11610,6 @@ anacoluthons
 alow
 archurger
 anacreontically
-alphabetize
 athens
 anacrogynae
 amba
@@ -19493,6 +19492,7 @@ arterioscleroses
 antiracemate
 afforestational
 antimodernization
+alphabetize
 accessoriness
 assaults
 adenotomy
