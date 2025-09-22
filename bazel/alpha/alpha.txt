@@ -5155,6 +5155,7 @@ aeviternal
 anatomicomedical
 af
 avernal
+anelastic
 automate
 amourist
 accend
@@ -24532,7 +24533,6 @@ abigailship
 androcracy
 auxiliate
 abiosis
-anelastic
 amusively
 auxiliator
 auxilytic
