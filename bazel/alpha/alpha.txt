@@ -6088,7 +6088,6 @@ aeonian
 asphodels
 aufklarung
 acrindolin
-aglycons
 amphizoidae
 alcyonarian
 aglint
@@ -11292,6 +11291,7 @@ amphitene
 amplexifoliate
 amphitheatre
 arrivance
+aglycons
 anilin
 aniliid
 amphithecia
