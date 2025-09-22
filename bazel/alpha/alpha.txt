@@ -5305,6 +5305,7 @@ ambulante
 archoplasm
 agranulocytosis
 acceder
+applanate
 attaining
 adenophthalmia
 aluminosity
@@ -17662,7 +17663,6 @@ agrostis
 agathology
 aggroup
 appl
-applanate
 advena
 antienzymic
 applanation
