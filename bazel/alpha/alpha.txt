@@ -10354,7 +10354,6 @@ almuds
 anise
 advertisements
 arco
-aphetic
 adenochondrosarcoma
 americans
 americanum
@@ -15654,6 +15653,7 @@ alderling
 atoneable
 amygdalectomy
 andamentos
+aphetic
 alehoof
 adsignify
 atrazine
