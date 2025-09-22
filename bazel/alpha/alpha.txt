@@ -10513,6 +10513,7 @@ amids
 apolarity
 aphids
 ascaris
+anotia
 amidulin
 abnegating
 absinthiating
@@ -13822,7 +13823,6 @@ arrythmical
 anostraca
 anotherguess
 anotherkins
-anotia
 antilapsarian
 agapemonian
 assecurator
