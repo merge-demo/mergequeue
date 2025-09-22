@@ -4935,6 +4935,7 @@ astrogator
 aerolites
 avulsions
 admonitioner
+antepalatal
 aerolithology
 aerolitic
 aerological
@@ -14113,7 +14114,6 @@ accessability
 anteorbital
 augustinian
 antibodies
-antepalatal
 amphivorous
 auriga
 adjusts
