@@ -16160,7 +16160,6 @@ acuity
 antisophist
 antisophistication
 antispasmodic
-axonometry
 atroceruleus
 adradially
 antispastic
@@ -19270,6 +19269,7 @@ areng
 archpresbyter
 arenga
 another
+axonometry
 anlas
 arenicolite
 anagrammed
