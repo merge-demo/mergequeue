@@ -4000,7 +4000,6 @@ advect
 aphaeresis
 admerveylle
 admi
-adminicle
 anhydrously
 anticontagious
 adminicula
@@ -18038,6 +18037,7 @@ aright
 apronful
 apronstring
 alanins
+adminicle
 adular
 amphigenetic
 aim
