@@ -8582,7 +8582,6 @@ anta
 allegiance
 allegiancy
 allegiant
-allegorically
 acidosis
 admonitor
 apoharmine
@@ -17850,6 +17849,7 @@ appreciativeness
 appreciatory
 angiophorous
 aegopodium
+allegorically
 aerify
 appreciators
 aerologies
