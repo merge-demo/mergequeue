@@ -5392,7 +5392,6 @@ acrorhagus
 afluking
 afore
 adjutrix
-aforehand
 aforementioned
 anemoclastic
 allod
@@ -12467,6 +12466,7 @@ anemobiagraph
 anemochord
 anemochore
 aleutic
+aforehand
 anaboly
 appropriated
 aimlessness
