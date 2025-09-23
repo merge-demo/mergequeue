@@ -2833,7 +2833,6 @@ areometer
 arianrhod
 acromiohumeral
 ancone
-acromiosternal
 antichurchian
 accrete
 actuals
@@ -9867,6 +9866,7 @@ attaint
 alloquial
 amassment
 argean
+acromiosternal
 acetonization
 acceptive
 amateur
