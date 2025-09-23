@@ -8006,7 +8006,6 @@ almanner
 apodeixis
 asteraceae
 alectrionidae
-alexipyretic
 alexis
 admirations
 alexius
@@ -24069,6 +24068,7 @@ autodialled
 arborary
 antilacrosse
 autodialling
+alexipyretic
 autoagglutination
 autodials
 astonishments
