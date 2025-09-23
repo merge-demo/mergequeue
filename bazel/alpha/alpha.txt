@@ -4441,6 +4441,7 @@ anacard
 aerobus
 adure
 andia
+allergia
 acetylacetone
 australic
 antipuritan
@@ -13356,7 +13357,6 @@ antiinflammatory
 ankylodontia
 assumption
 ankyloglossia
-allergia
 auditress
 ankylopodia
 alamiqui
