@@ -3593,7 +3593,6 @@ assedat
 arabicize
 agora
 adendritic
-akenbold
 adenylic
 avichi
 adatom
@@ -23280,6 +23279,7 @@ abactinally
 adnumber
 antship
 averroist
+akenbold
 anglophobic
 augurs
 adventitia
