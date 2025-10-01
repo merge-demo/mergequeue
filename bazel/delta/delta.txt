@@ -3779,7 +3779,6 @@ developers
 disour
 dehorns
 decaudate
-declinations
 dioptometry
 doughlike
 dehorted
@@ -12185,6 +12184,7 @@ dichloromethane
 daystreak
 dilker
 disproven
+declinations
 dehusk
 depthometer
 diacetine
