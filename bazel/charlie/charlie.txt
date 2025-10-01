@@ -11192,7 +11192,6 @@ chiwere
 clumper
 chizz
 chizzel
-chkfile
 chladnite
 chondrite
 churlishly
@@ -19175,6 +19174,7 @@ crystallographer
 cauked
 cartomancy
 collocating
+chkfile
 carambola
 calfskins
 carrow
