@@ -26641,6 +26641,7 @@ champagned
 counselee
 counseling
 counsellable
+curer
 counsellor
 chilopodan
 counsellors
@@ -31329,7 +31330,6 @@ cornix
 cureless
 corypha
 curelessness
-curer
 coadjument
 curers
 clubber
