@@ -3262,6 +3262,7 @@ antivenomous
 acupuncturist
 acus
 atrabile
+anisotropism
 atresy
 acetanion
 army
@@ -13287,7 +13288,6 @@ antimerger
 abcess
 anorexic
 aquilawood
-anisotropism
 artery
 aproning
 anisomyarian
