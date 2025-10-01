@@ -4833,7 +4833,6 @@ carposporangial
 catalase
 carlist
 carposporous
-carps
 carpsucker
 cavalierish
 convecting
@@ -10240,6 +10239,7 @@ capsicum
 chiapanec
 chiapanecan
 chlorochrous
+carps
 chamomilla
 chorisepalous
 chiarooscuro
