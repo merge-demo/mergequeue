@@ -6408,7 +6408,6 @@ ensiling
 ensilist
 exceptions
 ensilver
-existentially
 ensisternum
 equilibrating
 esquiring
@@ -13019,6 +13018,7 @@ embryonal
 ezba
 entastic
 extravagant
+existentially
 esophagectomy
 entocornea
 ergotic
