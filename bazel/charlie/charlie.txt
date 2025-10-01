@@ -4337,6 +4337,7 @@ chenopodiaceae
 carhop
 carhops
 contorted
+continuing
 cary
 caryatid
 caryatidal
@@ -23609,7 +23610,6 @@ comprovincial
 continuer
 cytostome
 continuers
-continuing
 corseleted
 columns
 continuingly
