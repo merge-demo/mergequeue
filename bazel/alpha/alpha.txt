@@ -8892,7 +8892,6 @@ adjustments
 acrogenic
 alloisomerism
 axisymmetric
-allomerizing
 archaically
 agallochum
 apospory
@@ -20065,6 +20064,7 @@ appetize
 anaphoras
 apophyses
 ambrosial
+allomerizing
 albainn
 agatiform
 autobiographical
