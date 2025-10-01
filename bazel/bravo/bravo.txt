@@ -5507,6 +5507,7 @@ bey
 bindi
 boxed
 bardic
+byliny
 bootyless
 beelines
 bobbled
@@ -8525,7 +8526,6 @@ bilinguar
 balks
 berycine
 bijoux
-byliny
 bebouldered
 braillist
 bronchotomist
