@@ -144,7 +144,6 @@ cabled
 cablegram
 cablegrams
 cruors
-cistaceae
 clinopyroxene
 cablelaid
 cableless
@@ -9608,6 +9607,7 @@ checksum
 construct
 checksumming
 castro
+cistaceae
 chromogenous
 catechize
 cubiculum
