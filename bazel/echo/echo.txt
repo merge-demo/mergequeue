@@ -1825,7 +1825,6 @@ eyeglasses
 enginous
 enigmatical
 eared
-extendable
 eighties
 exhalable
 eightieth
@@ -7301,6 +7300,7 @@ eoghanacht
 etchers
 encushion
 entertainer
+extendable
 epagomenae
 ericolin
 equerryship
