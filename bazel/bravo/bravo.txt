@@ -12980,6 +12980,7 @@ boots
 bottoms
 blouson
 bittersweet
+brontograph
 boottop
 biforous
 burgherdom
@@ -13929,7 +13930,6 @@ baptizee
 bowsman
 botanomancy
 bows
-brontograph
 bowsaw
 benzopyran
 bankroll
