@@ -21089,6 +21089,7 @@ ascones
 asconoid
 air
 ascophore
+alfas
 aerobiont
 aclydes
 arkoses
@@ -22543,7 +22544,6 @@ autecisms
 aspiratae
 ataxophemia
 ambitions
-alfas
 apolitical
 anomalously
 ayre
