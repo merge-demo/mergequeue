@@ -894,7 +894,6 @@ decks
 dap
 dapedius
 disburdens
-dinornithine
 danio
 dokimastic
 dudman
@@ -986,6 +985,7 @@ dit
 darings
 dithematic
 darius
+dinornithine
 doubleprecision
 dark
 dinkeys
