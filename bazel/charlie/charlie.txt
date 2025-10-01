@@ -10263,7 +10263,6 @@ clockings
 chiasmic
 cleruchic
 chiasms
-coset
 chiasmus
 coeline
 curacao
@@ -29780,6 +29779,7 @@ crooking
 circule
 crooknecked
 concessionaires
+coset
 causticize
 cosmetologists
 criminatory
