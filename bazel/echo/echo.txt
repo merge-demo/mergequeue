@@ -2945,7 +2945,6 @@ eligibility
 epistasy
 eligibles
 entrecotes
-excoct
 equipede
 elbowchair
 enjoining
@@ -6313,6 +6312,7 @@ ens
 emmenagogue
 emendator
 elenchtic
+excoct
 ensanguine
 eloquent
 evisite
