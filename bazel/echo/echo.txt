@@ -5303,7 +5303,6 @@ enjewel
 everglades
 exsertion
 endospore
-exophagous
 evidentness
 encharm
 embroiderers
@@ -11149,6 +11148,7 @@ episome
 executing
 evacuants
 earthdrake
+exophagous
 entity
 eadi
 evacuated
