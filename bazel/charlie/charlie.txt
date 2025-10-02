@@ -14444,7 +14444,6 @@ circumstantiate
 circumstantiating
 circumstantiation
 circumstellar
-circumtabular
 configurated
 cullied
 cleopatra
@@ -30660,6 +30659,7 @@ coequation
 collenchymatic
 cuda
 chimalakwe
+circumtabular
 chanelled
 caterwauls
 cudbear
