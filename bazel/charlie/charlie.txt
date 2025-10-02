@@ -17965,7 +17965,6 @@ cercolabidae
 codpieces
 childbirth
 codpitchings
-carwitchet
 cods
 cephalanthus
 codswallop
@@ -20823,6 +20822,7 @@ complot
 canted
 complots
 complotter
+carwitchet
 complotting
 complutensian
 cartelized
