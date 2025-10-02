@@ -3924,7 +3924,6 @@ entitative
 emolument
 elevator
 emotivity
-enragedness
 epileptology
 exorability
 epitases
@@ -12192,6 +12191,7 @@ excelse
 eunuchry
 execratively
 excreter
+enragedness
 economised
 emoluments
 execrator
