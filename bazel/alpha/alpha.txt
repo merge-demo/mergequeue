@@ -1314,7 +1314,6 @@ anangular
 amyelia
 atomized
 athanor
-agamospore
 acylating
 attracted
 acaulescence
@@ -23476,6 +23475,7 @@ archdruid
 argol
 atumble
 annotine
+agamospore
 augmentedly
 architraves
 augmenters
