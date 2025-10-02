@@ -7403,6 +7403,7 @@ electoral
 echinochloa
 epenetic
 everglade
+explosion
 ensculpture
 englishness
 entasia
@@ -11512,7 +11513,6 @@ extractable
 evincing
 entoblast
 esophagus
-explosion
 evincive
 excavationist
 echnida
