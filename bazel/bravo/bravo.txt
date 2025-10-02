@@ -3752,7 +3752,6 @@ britska
 bribers
 batts
 blowpipe
-barytocalcite
 befouler
 boing
 brahmanic
@@ -13748,6 +13747,7 @@ bloomer
 bircher
 biophyte
 banqueted
+barytocalcite
 braccio
 billetwood
 backus
