@@ -4087,7 +4087,6 @@ employe
 estado
 etamin
 epigene
-encrownment
 ejacula
 enrooting
 eslabon
@@ -13369,6 +13368,7 @@ extraenteric
 exposes
 encrustant
 envassalage
+encrownment
 enrichers
 esthesiometry
 exsanguinity
