@@ -7415,7 +7415,6 @@ elohistic
 edgings
 epentheses
 exotic
-epenthesize
 experiencing
 encolumn
 etruria
@@ -9639,6 +9638,7 @@ encense
 entangleable
 equipper
 entia
+epenthesize
 epacris
 espagnole
 elaeagnus
