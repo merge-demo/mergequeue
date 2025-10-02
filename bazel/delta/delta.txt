@@ -8328,7 +8328,6 @@ dispossess
 droob
 dissimile
 defocus
-diagraphs
 diagredium
 dermatopathia
 diaguitas
@@ -16475,6 +16474,7 @@ dracin
 damaskin
 dollhouse
 darken
+diagraphs
 depicters
 degradations
 doubtance
