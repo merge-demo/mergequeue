@@ -4861,6 +4861,7 @@ encroachments
 epitaxic
 encrustation
 elepaio
+excitoglandular
 empoisons
 exoperidium
 ecchymoses
@@ -9511,7 +9512,6 @@ eruptives
 episodic
 escrow
 escrowing
-excitoglandular
 esculents
 esculin
 expansively
