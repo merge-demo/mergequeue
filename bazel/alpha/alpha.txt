@@ -9910,7 +9910,6 @@ apathize
 autotrophy
 amplitudes
 anatomicopathological
-align
 altoun
 amazer
 accented
@@ -24020,6 +24019,7 @@ addlins
 accerse
 antapocha
 antiproton
+align
 acetobacter
 autoclave
 allemands
