@@ -603,7 +603,6 @@ exobiological
 echt
 ecchymosed
 excommenge
-enclear
 exostoses
 eciliate
 emporia
@@ -2325,6 +2324,7 @@ effulge
 enchants
 epistroma
 electrocardiogram
+enclear
 ever
 electrocardiographic
 euphuistic
