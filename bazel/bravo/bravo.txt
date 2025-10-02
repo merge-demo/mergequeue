@@ -12443,6 +12443,7 @@ backcast
 bonbons
 belvederes
 barker
+bareboats
 bushiness
 banisterine
 bond
@@ -16588,7 +16589,6 @@ bubbler
 bubblers
 bullshitting
 brawny
-bareboats
 bubbletop
 banderoled
 brisky
