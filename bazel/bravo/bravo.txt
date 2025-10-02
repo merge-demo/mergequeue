@@ -873,7 +873,6 @@ benzalcohol
 beffroy
 baggala
 borderlight
-bijouterie
 bagganet
 baggara
 bawcock
@@ -14035,6 +14034,7 @@ bracer
 backbenchers
 bracery
 belialist
+bijouterie
 belaboured
 barriguda
 braceros
