@@ -2630,7 +2630,6 @@ bescoundrel
 bantamweight
 birdhouses
 bilges
-barking
 botanise
 barkless
 battening
@@ -10297,6 +10296,7 @@ byroniana
 benzoquinoline
 blacktops
 blastoporphyritic
+barking
 beholden
 bepimples
 bogard
