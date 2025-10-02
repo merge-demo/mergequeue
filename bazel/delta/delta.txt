@@ -6151,7 +6151,6 @@ dualin
 dropout
 dimission
 durgen
-deader
 deckedout
 derated
 diphtheroid
@@ -13824,6 +13823,7 @@ deflexible
 deerskin
 dialogistically
 demurral
+deader
 driftpin
 dramatis
 dogvane
