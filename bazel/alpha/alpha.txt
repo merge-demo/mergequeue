@@ -6085,6 +6085,7 @@ antifeudalism
 agitators
 apteral
 ablock
+agamospore
 anthropomorphisation
 agitatrix
 agitprops
@@ -23476,7 +23477,6 @@ archdruid
 argol
 atumble
 annotine
-agamospore
 augmentedly
 architraves
 augmenters
