@@ -4100,7 +4100,6 @@ beanstalk
 begrain
 boehmenist
 bestiaries
-behalves
 bearbaiter
 bedmaking
 blearedness
@@ -14771,6 +14770,7 @@ brawlsome
 brawnedness
 bilamellated
 biaxillary
+behalves
 brawnily
 bloodsuckers
 budbreak
