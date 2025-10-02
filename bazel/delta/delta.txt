@@ -2109,7 +2109,6 @@ duddies
 despoilment
 decameron
 digraph
-dihydrol
 decamethonium
 decametric
 decan
@@ -16202,6 +16201,7 @@ demophon
 doblas
 dowdily
 droseras
+dihydrol
 dominic
 drupetum
 draconic
