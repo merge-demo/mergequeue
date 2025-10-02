@@ -5993,7 +5993,6 @@ enjoinment
 epimorpha
 ejections
 electrodynamism
-electropotential
 exhortative
 estampedero
 erosion
@@ -13580,6 +13579,7 @@ enteroceptor
 extance
 erik
 extemporally
+electropotential
 elkanah
 eisegesis
 edriophthalmian
