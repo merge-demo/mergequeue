@@ -3066,7 +3066,6 @@ arsonate
 abdominoanterior
 arvicole
 alligatoring
-alluvion
 averish
 aught
 apickpack
@@ -19116,6 +19115,7 @@ arceuthobium
 anciens
 arcifera
 arcifinious
+alluvion
 arciform
 archoptosis
 asexualise
