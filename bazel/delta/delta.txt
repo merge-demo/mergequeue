@@ -5418,6 +5418,7 @@ decorative
 dentistical
 dentistry
 dentists
+discloak
 dentition
 detribalizing
 denaturalizing
@@ -14206,7 +14207,6 @@ dynamoscope
 deathful
 disuse
 disbranching
-discloak
 disuses
 disutility
 disinsection
