@@ -9269,7 +9269,6 @@ discolour
 decorament
 dollface
 divined
-dyeline
 dislegitimate
 drawcard
 digitaliform
@@ -11182,6 +11181,7 @@ dogmatist
 divinities
 defectibility
 devvel
+dyeline
 djins
 disavower
 derringers
