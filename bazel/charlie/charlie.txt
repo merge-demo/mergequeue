@@ -5443,6 +5443,7 @@ castle
 cumacean
 castled
 castlelike
+coroplastic
 clitocybe
 castles
 cortaderia
@@ -25582,7 +25583,6 @@ coperception
 coroplasta
 coroplastae
 cauf
-coroplastic
 camelias
 corotate
 corotates
