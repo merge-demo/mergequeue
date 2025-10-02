@@ -4880,7 +4880,6 @@ ensured
 entablements
 excisions
 ef
-esteemable
 encumbrance
 extrabureau
 english
@@ -13204,6 +13203,7 @@ emphatically
 embale
 expires
 earthworms
+esteemable
 endosalpingitis
 expressivity
 eastertide
