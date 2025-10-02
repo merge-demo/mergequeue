@@ -4720,7 +4720,6 @@ evenest
 eyepieces
 euphrosyne
 enarthrosis
-elementary
 effulgent
 emeerates
 enclasps
@@ -12795,6 +12794,7 @@ exostosis
 exostra
 ebullition
 engraves
+elementary
 exostrae
 exoteric
 exoterica
