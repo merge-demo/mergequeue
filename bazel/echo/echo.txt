@@ -5458,7 +5458,6 @@ eigenstate
 entitledness
 energical
 energid
-entablatured
 epitendineum
 ensuing
 endoplasmic
@@ -11581,6 +11580,7 @@ elegize
 enchiridion
 evolvable
 explicating
+entablatured
 electroretinogram
 engregge
 eternalising
