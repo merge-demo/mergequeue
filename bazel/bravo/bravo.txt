@@ -7051,6 +7051,7 @@ basing
 branchiostomidae
 ballpoints
 bowlegged
+boardly
 bowingly
 balnea
 brothel
@@ -11612,7 +11613,6 @@ boardings
 boardsmanship
 boatloads
 blonde
-boardly
 bedrapes
 buceros
 britzka
