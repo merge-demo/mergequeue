@@ -2306,6 +2306,7 @@ eyras
 electroacoustic
 electroacoustical
 elfkin
+exradius
 electroacoustics
 enthetic
 exundation
@@ -13480,7 +13481,6 @@ ethnomusicology
 enterparlance
 epidural
 episiorrhagia
-exradius
 extraconstitutional
 exsanguinating
 exposing
