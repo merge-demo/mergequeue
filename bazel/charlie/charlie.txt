@@ -5752,7 +5752,6 @@ colocates
 catched
 catcher
 coccidioides
-commensurately
 concretions
 coriin
 catches
@@ -15859,6 +15858,7 @@ clearage
 clearance
 clearances
 coteller
+commensurately
 counterfeitness
 clearcole
 clearedness
