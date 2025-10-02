@@ -5550,7 +5550,6 @@ crowboot
 cpm
 catacombs
 cyanamide
-counterattacks
 catacorner
 catacorolla
 ceaselessly
@@ -30344,6 +30343,7 @@ cruppering
 crura
 complexionably
 crural
+counterattacks
 crurogenital
 cruroinguinal
 coadventuress
