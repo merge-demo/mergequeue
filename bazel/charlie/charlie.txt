@@ -4186,6 +4186,7 @@ cortaro
 cymric
 cardiologic
 cariogenic
+calculating
 cardiologist
 cardiologists
 cardiomegaly
@@ -5129,7 +5130,6 @@ cascaras
 crosslighted
 coolly
 cascrom
-calculating
 colonoscope
 caesarship
 case
