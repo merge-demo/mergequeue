@@ -9282,7 +9282,6 @@ dossils
 dimnesses
 dictynid
 diencephala
-diencephalon
 docibleness
 dier
 dyer
@@ -10886,6 +10885,7 @@ doggedly
 dhooley
 dirian
 dirichletian
+diencephalon
 desulfuriser
 dominicans
 dipppiest
