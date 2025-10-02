@@ -3851,6 +3851,7 @@ duplexed
 dropped
 despatched
 discommender
+denis
 deimos
 daffs
 dallan
@@ -15444,7 +15445,6 @@ doming
 domini
 decalomania
 demurer
-denis
 downtowns
 dishwares
 demideify
