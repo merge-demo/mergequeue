@@ -7218,6 +7218,7 @@ diemaking
 dotting
 detaches
 dicast
+dynamis
 demijohns
 demulsifying
 detailing
@@ -13683,7 +13684,6 @@ dissymmetric
 degender
 dampy
 devises
-dynamis
 disturbances
 dissymmetrically
 danseurs
