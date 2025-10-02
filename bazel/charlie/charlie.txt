@@ -3427,6 +3427,7 @@ continuua
 capretto
 capri
 capric
+checkhook
 capriccetto
 capricci
 capriccio
@@ -9565,7 +9566,6 @@ cabbalah
 carpodacus
 cardanic
 capos
-checkhook
 checky
 cityful
 circularising
