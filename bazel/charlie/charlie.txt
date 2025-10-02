@@ -7940,7 +7940,6 @@ clapotis
 cessionaire
 castaway
 cessor
-cesspipe
 cesspit
 cesspits
 carey
@@ -8673,6 +8672,7 @@ chuckram
 ceratiidae
 cowpeas
 composit
+cesspipe
 chimneying
 corcopali
 changedale
