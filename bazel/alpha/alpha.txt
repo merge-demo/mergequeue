@@ -6717,7 +6717,6 @@ aftermarket
 arpeggio
 aeromaechanic
 allomerize
-andrewsite
 agglutination
 atrioporal
 abnormities
@@ -12189,6 +12188,7 @@ arteriectasia
 affectuous
 allbone
 afacing
+andrewsite
 anchimonomineral
 aetiogenic
 anchisaurus
