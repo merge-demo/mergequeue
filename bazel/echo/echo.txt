@@ -12212,7 +12212,6 @@ executioneering
 enneahedrons
 engarb
 episynthetic
-elric
 executor
 excur
 ensigns
@@ -12330,6 +12329,7 @@ eviscerations
 evectant
 exertionless
 estuate
+elric
 exertions
 ergate
 enurny
