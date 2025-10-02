@@ -10383,7 +10383,6 @@ chickpeas
 cerer
 chickstone
 consultory
-critchfield
 canariote
 chickwit
 chicle
@@ -31321,6 +31320,7 @@ curdy
 curdiness
 curdled
 cottabus
+critchfield
 curdles
 curdly
 curdoo
