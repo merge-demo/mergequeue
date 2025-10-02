@@ -4951,7 +4951,6 @@ bandy
 beek
 balkers
 bergamot
-betanaphthol
 bioclimatologies
 beekeepers
 beekeeping
@@ -7455,6 +7454,7 @@ befreeze
 better
 besmirched
 batrachia
+betanaphthol
 buboes
 bashalick
 betterment
