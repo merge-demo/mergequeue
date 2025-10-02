@@ -1750,6 +1750,7 @@ epanorthoses
 electric
 eer
 eyepiece
+enrapturer
 everard
 extg
 embattle
@@ -5937,7 +5938,6 @@ enframing
 enigma
 egotism
 enigmas
-enrapturer
 enjambements
 enigmata
 eluvial
