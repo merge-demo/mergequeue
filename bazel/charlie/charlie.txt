@@ -4412,6 +4412,7 @@ carillonneur
 cityish
 carillonning
 carillons
+coupled
 carinae
 carinal
 cavum
@@ -29253,7 +29254,6 @@ cryptical
 chinaroot
 cryptically
 crypticness
-coupled
 covenantally
 crypto
 cryptoagnostic
