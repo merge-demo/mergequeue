@@ -9794,7 +9794,6 @@ boeotarch
 brights
 borg
 bewitching
-bookish
 barleymow
 bistriate
 beddable
@@ -17158,6 +17157,7 @@ braes
 buckramed
 beeish
 butyrate
+bookish
 bullishness
 bullition
 bar
