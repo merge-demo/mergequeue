@@ -6953,6 +6953,7 @@ camis
 ceratomandibular
 clocklike
 celtuce
+calor
 closefisted
 cembalo
 cembalon
@@ -28283,7 +28284,6 @@ cratchins
 crate
 crateman
 clitic
-calor
 cratemen
 crossbreed
 crater
