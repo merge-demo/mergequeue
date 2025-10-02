@@ -3775,6 +3775,7 @@ emparl
 ethnohistorical
 extolled
 economic
+engrain
 expletory
 emended
 ecu
@@ -8761,7 +8762,6 @@ emphractic
 enstrengthen
 equivokes
 equivoluminal
-engrain
 explainers
 equipoised
 enfume
