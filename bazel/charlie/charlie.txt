@@ -3138,6 +3138,7 @@ cyclophrenia
 cyclopes
 capacitor
 chalker
+catercornerways
 clone
 capanna
 capanne
@@ -5913,7 +5914,6 @@ catercorner
 camsteary
 caller
 catercornered
-catercornerways
 craner
 catered
 codpiece
