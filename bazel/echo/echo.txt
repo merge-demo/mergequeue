@@ -1276,6 +1276,7 @@ eleonorite
 epinephrin
 eq
 eeriness
+ecostate
 epithalamion
 encircler
 endogenesis
@@ -9770,7 +9771,6 @@ enthusiast
 expressure
 essentialization
 essentially
-ecostate
 easterner
 expeditation
 easinesses
