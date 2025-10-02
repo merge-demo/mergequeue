@@ -3918,7 +3918,6 @@ charmfulness
 chromatics
 carbonization
 carbonize
-carbonized
 charlatanism
 carbonizers
 concn
@@ -9876,6 +9875,7 @@ cyclostome
 chemicomineralogical
 carcinogenicity
 chemicophysical
+carbonized
 crucifige
 ciliary
 curtaining
