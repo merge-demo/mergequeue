@@ -1633,7 +1633,6 @@ calmnesses
 coemployee
 calochortaceae
 contraceptives
-calodaemon
 cephaleuros
 calodemon
 coracles
@@ -9380,6 +9379,7 @@ carcoon
 cerris
 custos
 chauk
+calodaemon
 catagmatic
 chaukidari
 castrate
