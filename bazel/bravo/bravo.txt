@@ -9774,7 +9774,6 @@ bistered
 bisters
 baidak
 bruce
-bedevil
 bossies
 burdocks
 bistipulate
@@ -13273,6 +13272,7 @@ bosselation
 bolti
 barysphere
 buffbar
+bedevil
 broadest
 bogomil
 bosset
