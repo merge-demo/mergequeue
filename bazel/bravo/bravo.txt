@@ -3462,6 +3462,7 @@ buphaga
 bander
 barkpeeler
 boobook
+bugling
 batable
 bracket
 berzeliite
@@ -16928,7 +16929,6 @@ basten
 basiliscan
 bugleweed
 bressomer
-bugling
 buglosses
 bugong
 burrah
