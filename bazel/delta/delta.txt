@@ -14366,7 +14366,6 @@ deuterogenic
 diurnally
 drug
 diurnals
-devaunt
 downstair
 diurnule
 dimensuration
@@ -17329,6 +17328,7 @@ dubitation
 dronage
 discovenant
 dronepipe
+devaunt
 deduct
 devolvement
 dilatability
