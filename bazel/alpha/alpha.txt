@@ -8380,7 +8380,6 @@ aljamia
 attirail
 atfalati
 aortostenosis
-alk
 alkahest
 agalaxy
 agistment
@@ -19321,6 +19320,7 @@ aretaics
 arete
 automatist
 arethusas
+alk
 aretinian
 anticoagulating
 ablastous
