@@ -4499,6 +4499,7 @@ becrowd
 becrowded
 burstwort
 billeting
+brickset
 bacchanalias
 bidi
 bumptiously
@@ -8606,7 +8607,6 @@ bimillenial
 billiard
 billiardist
 bioactivity
-brickset
 bronchial
 bailout
 belatedly
