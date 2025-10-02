@@ -597,7 +597,6 @@ caducous
 caryocaraceae
 caduke
 cadwal
-chiromegaly
 callaesthetic
 calimanco
 cadwallader
@@ -14880,6 +14879,7 @@ coinferred
 collectanea
 commiseratively
 cytogenetic
+chiromegaly
 cytogeny
 cornsack
 cytogenic
