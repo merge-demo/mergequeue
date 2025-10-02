@@ -1024,7 +1024,6 @@ barmecidal
 balcony
 burnweed
 bail
-burs
 buxeous
 bringer
 barfs
@@ -6472,6 +6471,7 @@ backcloth
 barangay
 biternate
 benzothiofuran
+burs
 benzothiophene
 benzotrichloride
 bolection
