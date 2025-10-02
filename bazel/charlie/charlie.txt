@@ -16273,7 +16273,6 @@ contravenes
 clingy
 clinginess
 cuit
-chob
 craniopagus
 clinging
 clingingly
@@ -22961,6 +22960,7 @@ consignee
 consignify
 cantorous
 countersalient
+chob
 consignificant
 consignification
 consignificative
