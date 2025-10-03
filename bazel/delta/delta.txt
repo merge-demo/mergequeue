@@ -5497,7 +5497,6 @@ deorganize
 deregister
 disenablement
 deorsum
-deorsumversion
 deossification
 deuterostomatous
 dissipates
@@ -8615,6 +8614,7 @@ dinosaurian
 destroying
 dicotyledons
 doormaking
+deorsumversion
 driftland
 dewan
 dissatisfied
