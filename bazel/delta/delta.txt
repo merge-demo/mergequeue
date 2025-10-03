@@ -6917,7 +6917,6 @@ desolation
 dovetailer
 declaimant
 darkness
-desolator
 dryhouse
 didymium
 dependents
@@ -15756,6 +15755,7 @@ dizygotic
 deproceduring
 dormers
 dormette
+desolator
 dormeuse
 dormice
 dormilona
