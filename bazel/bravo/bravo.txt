@@ -8092,6 +8092,7 @@ bicursal
 bailments
 bicuspid
 bruxism
+brast
 bulk
 burrobrush
 bid
@@ -14693,7 +14694,6 @@ brassish
 brasslike
 baignoire
 bagio
-brast
 brat
 brutter
 blender
