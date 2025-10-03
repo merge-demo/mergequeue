@@ -11492,6 +11492,7 @@ emenders
 endocrinous
 exsecant
 exoergic
+epanaphora
 echinopanax
 exhibited
 expended
@@ -13235,7 +13236,6 @@ exanthalose
 enlightenedness
 explanted
 explanting
-epanaphora
 explat
 empurples
 exertive
