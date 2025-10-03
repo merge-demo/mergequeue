@@ -2532,7 +2532,6 @@ cardiophobe
 candymaking
 candiru
 candite
-candytuft
 curryfavel
 candyweed
 candle
@@ -8299,6 +8298,7 @@ causewayed
 chalazoidite
 cercarias
 chalazoin
+candytuft
 charvet
 chalcanth
 chalcedony
