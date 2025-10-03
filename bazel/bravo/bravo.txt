@@ -3927,6 +3927,7 @@ bocstaff
 brickbats
 bdelloura
 bassette
+bristols
 behelp
 bdellovibrio
 brushbird
@@ -15585,7 +15586,6 @@ bristol
 backening
 bewigging
 bonairly
-bristols
 britain
 brotany
 buzzardlike
