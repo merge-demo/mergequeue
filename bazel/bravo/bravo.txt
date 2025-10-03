@@ -4090,7 +4090,6 @@ beansetter
 beanshooter
 beanstalk
 begrain
-boehmenist
 bestiaries
 bearbaiter
 bedmaking
@@ -13082,6 +13081,7 @@ borecoles
 buddhic
 bored
 borsches
+boehmenist
 boreen
 burdash
 boreiad
