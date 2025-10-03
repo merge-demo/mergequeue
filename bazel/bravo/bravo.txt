@@ -1895,7 +1895,6 @@ balant
 brooded
 branle
 bandle
-bedrel
 blastoff
 bushcraft
 breadwinners
@@ -15294,6 +15293,7 @@ benediction
 bridger
 befrumple
 blanquette
+bedrel
 bicarinate
 browsed
 bolomen
