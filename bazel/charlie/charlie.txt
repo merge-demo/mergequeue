@@ -4694,6 +4694,7 @@ companero
 chwana
 contrary
 comptoir
+centerline
 carotinemia
 cronying
 carotinoid
@@ -7115,7 +7116,6 @@ colonus
 centerfolds
 cretoria
 centering
-centerline
 comminatory
 centermost
 centerpiece
