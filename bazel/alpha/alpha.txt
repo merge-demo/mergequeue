@@ -3914,7 +3914,6 @@ adjournal
 adjoust
 aleyrodidae
 adjudging
-adjudgment
 apocarps
 autarkik
 adjudicated
@@ -21591,6 +21590,7 @@ aloed
 anthesterion
 aglucone
 arthrosia
+adjudgment
 automolite
 alkyl
 allegement
