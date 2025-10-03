@@ -13077,6 +13077,7 @@ deicidal
 decanol
 drakestone
 dispatch
+deprecators
 divine
 deccennia
 dispatched
@@ -15561,7 +15562,6 @@ dereligionize
 dittander
 donnerd
 donnick
-deprecators
 donnock
 diazoles
 donought
