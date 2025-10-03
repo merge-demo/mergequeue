@@ -7014,6 +7014,7 @@ bankfull
 besmooth
 besmooths
 betrust
+bespatter
 bleeders
 barricades
 basilian
@@ -18370,7 +18371,6 @@ buzane
 blawort
 bortsch
 bepaint
-bespatter
 buzz
 buzzard
 beylical
