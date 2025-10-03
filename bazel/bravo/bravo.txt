@@ -6613,7 +6613,6 @@ berdash
 byreman
 booming
 birotation
-baryglossia
 blotter
 bluff
 broquineer
@@ -13441,6 +13440,7 @@ bensell
 brightsome
 belowstairs
 blunts
+baryglossia
 basifixed
 buncombes
 bibliotheca
