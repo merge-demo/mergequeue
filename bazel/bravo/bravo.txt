@@ -7270,7 +7270,6 @@ borith
 beswarm
 beswelter
 bisque
-burkes
 bethuel
 balti
 beguard
@@ -11219,6 +11218,7 @@ buckeye
 blote
 beaker
 boder
+burkes
 batterfang
 brazenness
 bracts
