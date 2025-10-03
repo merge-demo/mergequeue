@@ -9406,7 +9406,6 @@ borak
 befitting
 basichromatic
 bluegums
-brekkle
 belabours
 braider
 biophotometer
@@ -14115,6 +14114,7 @@ babbage
 bittock
 bugged
 butsudan
+brekkle
 bumbaze
 brighteyes
 birdlore
