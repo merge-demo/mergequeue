@@ -1039,7 +1039,6 @@ bargainwise
 bailieries
 botargos
 bailieship
-biogeographic
 bailiffs
 busway
 bustiest
@@ -7277,6 +7276,7 @@ beguard
 beta
 broombush
 bedraggle
+biogeographic
 betacaine
 betacismus
 betag
