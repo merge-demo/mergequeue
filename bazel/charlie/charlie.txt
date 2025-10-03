@@ -6761,7 +6761,6 @@ celastraceae
 copings
 cerograph
 colorfast
-cibarium
 celastrus
 cuculla
 celation
@@ -24179,6 +24178,7 @@ cantinier
 conviction
 convictional
 civilizatory
+cibarium
 convictions
 convictism
 cresolin
