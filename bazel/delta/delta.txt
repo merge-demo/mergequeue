@@ -3437,7 +3437,6 @@ doddy
 deflore
 dubash
 disgarland
-deceleron
 damnosa
 dentagra
 deflowered
@@ -17127,6 +17126,7 @@ debouching
 divestiture
 drawknot
 defectiveness
+deceleron
 decarchies
 ducture
 drifty
