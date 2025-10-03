@@ -15299,7 +15299,6 @@ claiver
 crucigerous
 ceromancy
 claywares
-clayweed
 caam
 colours
 chlorphenol
@@ -29717,6 +29716,7 @@ cromlech
 cromme
 chillums
 cryptoanalytics
+clayweed
 cultirostral
 crystalitic
 crasis
