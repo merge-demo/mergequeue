@@ -2550,6 +2550,7 @@ bactrian
 backtalk
 barile
 barilla
+beleaf
 blackie
 basiglandular
 baryon
@@ -5187,7 +5188,6 @@ blasphemously
 balanoblennorrhea
 bounces
 befriending
-beleaf
 barns
 beadhouse
 bracteal
