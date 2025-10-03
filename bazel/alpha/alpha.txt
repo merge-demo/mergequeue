@@ -1553,7 +1553,6 @@ adventureful
 accordaturas
 accordingly
 amritas
-accordion
 accordionist
 ascan
 adamical
@@ -3147,6 +3146,7 @@ amphipyrenin
 actionary
 antinaturalist
 aurin
+accordion
 actioner
 alcaid
 actiones
