@@ -12490,7 +12490,6 @@ bdls
 betaines
 brawniness
 bondstone
-bondswoman
 burntness
 bather
 bagpiped
@@ -12835,6 +12834,7 @@ beamwork
 betalk
 boomkin
 bibliophobia
+bondswoman
 barquest
 bootes
 baseboard
