@@ -5420,7 +5420,6 @@ behammer
 bacula
 beshine
 breads
-behap
 boarstaff
 bigarreau
 behaved
@@ -12428,6 +12427,7 @@ bakeout
 bonbon
 betsimisaraka
 bobstay
+behap
 bicapitate
 backcast
 bonbons
