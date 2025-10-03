@@ -5000,7 +5000,6 @@ duncedom
 dragontail
 dephosphorize
 draggled
-demountability
 diamb
 demountable
 devastators
@@ -15787,6 +15786,7 @@ doomage
 deflorations
 dorsa
 dentiparous
+demountability
 dramatizer
 diallela
 dorsabdominal
