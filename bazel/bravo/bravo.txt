@@ -1851,7 +1851,6 @@ broadlings
 befogging
 barkinji
 bandfile
-bandfiled
 bandh
 burdon
 brownism
@@ -10494,6 +10493,7 @@ bakestone
 biologistic
 bepastured
 blastogenic
+bandfiled
 baizes
 bridgewards
 backcourt
