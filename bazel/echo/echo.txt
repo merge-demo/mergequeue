@@ -1054,7 +1054,6 @@ eyeless
 endoskeleton
 eqpt
 edgar
-experimentalist
 exheredate
 expatiatory
 edgeboned
@@ -11218,6 +11217,7 @@ exorbitancy
 expilation
 exostracism
 endover
+experimentalist
 epibolies
 evangeliaries
 endocycle
