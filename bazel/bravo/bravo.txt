@@ -16428,6 +16428,7 @@ babblement
 brushback
 butt
 bladesmith
+buttonholder
 basilar
 bestick
 betrace
@@ -18309,7 +18310,6 @@ borealis
 bivalve
 buttoner
 buttoners
-buttonholder
 bedel
 bennis
 bilirubinemia
