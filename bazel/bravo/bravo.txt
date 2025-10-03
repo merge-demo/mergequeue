@@ -11391,7 +11391,6 @@ boro
 breams
 bandits
 bluebottle
-bingies
 badinaged
 build
 bibbed
@@ -14863,6 +14862,7 @@ blackwork
 betrample
 bechalking
 berms
+bingies
 breadwinner
 beanpoles
 bloodthirstier
