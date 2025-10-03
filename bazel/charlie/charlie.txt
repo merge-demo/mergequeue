@@ -17530,7 +17530,6 @@ catechins
 colp
 cobia
 cobiron
-craniometer
 citropsis
 curculionid
 coble
@@ -25537,6 +25536,7 @@ coronado
 coronados
 coronae
 crepidomata
+craniometer
 cavitates
 coronagraph
 cataphonics
