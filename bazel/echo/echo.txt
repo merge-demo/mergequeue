@@ -211,7 +211,6 @@ earthshaker
 earthman
 erythritic
 earthslide
-exhumers
 ehuawa
 eyesores
 earthwall
@@ -274,6 +273,7 @@ encashed
 electroplated
 expiries
 easterling
+exhumers
 enqueue
 epeirogenic
 enantioblastic
