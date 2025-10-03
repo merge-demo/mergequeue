@@ -3596,7 +3596,6 @@ chiropterygious
 capucine
 capulet
 capulin
-caput
 caputium
 caque
 counterstrike
@@ -28116,6 +28115,7 @@ cranic
 circaeaceae
 craniectomy
 cled
+caput
 craniniums
 craniocele
 cachetic
