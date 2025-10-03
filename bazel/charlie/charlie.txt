@@ -2970,6 +2970,7 @@ chytrid
 cantharidate
 cantharides
 coation
+clip
 cantharidian
 cycloacetylene
 cantharidize
@@ -16346,7 +16347,6 @@ clints
 conjugial
 clio
 cresses
-clip
 canterer
 clipboard
 clipboards
