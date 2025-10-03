@@ -10474,7 +10474,6 @@ dow
 disobliging
 douzainier
 duenna
-denotate
 dashikis
 demibath
 diphonia
@@ -18378,6 +18377,7 @@ duodenojejunostomies
 dillue
 douches
 duodenoscopy
+denotate
 digmeat
 duodenostomy
 deceptiously
