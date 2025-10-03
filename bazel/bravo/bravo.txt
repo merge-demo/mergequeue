@@ -4982,6 +4982,7 @@ beermonger
 blackland
 bumpoff
 beefers
+bouchon
 bombycilla
 breakfasters
 beerpull
@@ -13527,7 +13528,6 @@ blundered
 bielid
 bouchette
 bichromate
-bouchon
 boisterousness
 boudeuse
 becursing
