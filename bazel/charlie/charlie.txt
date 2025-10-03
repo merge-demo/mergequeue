@@ -11571,7 +11571,6 @@ coredeemed
 cratonic
 clipsheet
 congelifraction
-chokered
 chokerman
 chalones
 chokers
@@ -25924,6 +25923,7 @@ carillonneurs
 corsican
 clinical
 chyak
+chokered
 circumscribes
 corsite
 corsos
