@@ -3377,7 +3377,6 @@ enc
 eavedropper
 embark
 epichorial
-eigenvalue
 embarkations
 epitomize
 embarkment
@@ -5627,6 +5626,7 @@ embarrasses
 epicritic
 enforth
 estrangle
+eigenvalue
 enfoulder
 epithi
 ensnarers
