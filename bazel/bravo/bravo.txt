@@ -3925,6 +3925,7 @@ bocstaff
 brickbats
 bdelloura
 bassette
+bunch
 bristols
 behelp
 bdellovibrio
@@ -4543,7 +4544,6 @@ bool
 bedabble
 beagles
 barricadoed
-bunch
 behavioristic
 butterjags
 bedad
