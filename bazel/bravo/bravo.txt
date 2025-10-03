@@ -4229,7 +4229,6 @@ beauti
 beauty
 brachyphalangia
 bracing
-bentlet
 brumstone
 beautydom
 butylic
@@ -15744,6 +15743,7 @@ blockier
 brocolis
 bedman
 basicities
+bentlet
 brionine
 bodstick
 batholiths
