@@ -23628,7 +23628,6 @@ continuum
 contise
 compendiate
 cognoscenti
-contoid
 contoise
 contorniates
 castrater
@@ -27023,6 +27022,7 @@ coriandrum
 counterplotter
 curatage
 conjure
+contoid
 chimneypot
 counterpoints
 cataleptiform
