@@ -1175,7 +1175,6 @@ bogeyed
 beltmen
 bajree
 baized
-bercelet
 bajury
 blackbelly
 bonnaz
@@ -14760,6 +14759,7 @@ baetzner
 begorrah
 beliquored
 buncal
+bercelet
 brawlingly
 brawlsome
 brawnedness
