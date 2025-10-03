@@ -10141,7 +10141,6 @@ antennata
 acotyledonous
 ambulancer
 ambulated
-agtbasic
 atropinism
 alkalimetrically
 anisogamy
@@ -24328,6 +24327,7 @@ autopotent
 autoproteolysis
 argillomagnesian
 autopsical
+agtbasic
 adsessor
 autopsychoanalysis
 autopsychosis
