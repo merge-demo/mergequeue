@@ -11813,6 +11813,7 @@ demirep
 diplococcoid
 dollarleaf
 delabialize
+demot
 duny
 dosserets
 deinodon
@@ -15688,7 +15689,6 @@ detractiveness
 disaffect
 dopper
 dopperbird
-demot
 disespouse
 deflorescence
 dopping
