@@ -6883,7 +6883,6 @@ constative
 counterbalance
 cellose
 cognizance
-cells
 cellucotton
 coadunative
 counterreconnaissance
@@ -19768,6 +19767,7 @@ combinational
 corrigent
 cloots
 combinations
+cells
 combinative
 counterrotating
 combinator
