@@ -11963,7 +11963,6 @@ bogyism
 bogyman
 broncobusters
 bandagers
-bookbind
 birmingham
 bbls
 brothelry
@@ -12621,6 +12620,7 @@ beaproned
 bonspell
 buttresses
 bonspiel
+bookbind
 boruca
 bronchocele
 bonteboks
