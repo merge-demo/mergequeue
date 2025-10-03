@@ -2395,7 +2395,6 @@ betowel
 blinkering
 bromoiodide
 bardolph
-barbion
 besmirch
 brotherhood
 bards
@@ -7606,6 +7605,7 @@ bewitched
 boughed
 bewitcher
 bewitches
+barbion
 bryological
 beswink
 boons
