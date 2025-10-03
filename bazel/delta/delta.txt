@@ -5438,6 +5438,7 @@ daffodil
 denudant
 dendra
 decontrol
+delim
 deschampsia
 denudating
 disordained
@@ -7500,7 +7501,6 @@ darkheartedness
 dovish
 dignosce
 discoverably
-delim
 demobbing
 detur
 deturpate
