@@ -10863,6 +10863,7 @@ envineyard
 enchase
 eisteddfodau
 euphotic
+entailable
 enantiomorphous
 eructation
 ereption
@@ -12077,7 +12078,6 @@ excrescent
 eccentric
 eris
 enfoldment
-entailable
 excuseless
 endemisms
 excresence
