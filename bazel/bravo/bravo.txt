@@ -7532,7 +7532,6 @@ bestower
 bogwood
 betaine
 businessman
-bevil
 bevillain
 befell
 bigeye
@@ -16344,6 +16343,7 @@ baddeleyite
 bacchius
 brujeria
 botryolite
+bevil
 backarrow
 benchmarking
 balalaikas
