@@ -4163,7 +4163,6 @@ bengalic
 bumpkinish
 buoyantness
 brinsell
-brickwall
 beastlily
 beclown
 barrow
@@ -12377,6 +12376,7 @@ biskop
 baskets
 bomble
 blackbutt
+brickwall
 boombox
 beget
 bluishness
