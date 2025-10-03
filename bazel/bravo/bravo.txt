@@ -11426,7 +11426,6 @@ biocoenose
 bedrail
 brattices
 beetleweed
-bemuffle
 butyraldehyde
 beclowns
 barad
@@ -13823,6 +13822,7 @@ bedfellowship
 brothy
 basquine
 baseplate
+bemuffle
 brachychronic
 bramblebush
 blabberer
