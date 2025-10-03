@@ -5979,7 +5979,6 @@ broads
 belute
 bhungini
 begirdles
-belonoid
 belvedere
 bluewood
 belvedered
@@ -6158,6 +6157,7 @@ blanking
 blastide
 brookie
 bohor
+belonoid
 baske
 benefactress
 benign
