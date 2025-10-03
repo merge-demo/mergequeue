@@ -6329,7 +6329,6 @@ dermatoses
 devulcanize
 dermatosiophobia
 diselder
-dermatotherapy
 depurated
 dermatozoon
 deadens
@@ -16216,6 +16215,7 @@ dichogamous
 disinherit
 dowf
 dextroamphetamine
+dermatotherapy
 dowsets
 daff
 densitometer
