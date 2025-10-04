@@ -10448,7 +10448,6 @@ cryptometer
 chiffonnier
 chiffonnieres
 conchinin
-carbarn
 chiffons
 continuable
 chifforobe
@@ -20915,6 +20914,7 @@ compregnate
 coart
 cosmognosis
 colonnades
+carbarn
 cheesiness
 comprehender
 coolamon
