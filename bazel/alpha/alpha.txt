@@ -11890,6 +11890,7 @@ aqueomercurial
 allergen
 ananta
 antimasquerade
+anticriticalness
 anammonide
 anantherous
 ananthous
@@ -21226,7 +21227,6 @@ analemmata
 archoplasma
 assentor
 ashkey
-anticriticalness
 archantagonist
 ashling
 appraised
