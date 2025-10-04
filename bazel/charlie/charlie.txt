@@ -2570,7 +2570,6 @@ candlerent
 concealed
 candlers
 casework
-candles
 collaborated
 candleshine
 chaucerism
@@ -24497,6 +24496,7 @@ cootie
 copps
 coelogyne
 cooties
+candles
 chlorosis
 cop
 copa
