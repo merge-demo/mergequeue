@@ -2641,7 +2641,6 @@ enchondromata
 electroresection
 expansion
 esoterica
-electrosensitive
 electrosherardizing
 edacious
 estadel
@@ -5098,6 +5097,7 @@ epitomical
 emuls
 embracingness
 encysted
+electrosensitive
 emanatistic
 epilogic
 eobiont
