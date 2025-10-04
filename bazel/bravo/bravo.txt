@@ -14665,7 +14665,6 @@ bullwhack
 brassages
 brassard
 bearing
-brenthis
 briefing
 brassart
 brassarts
@@ -17883,6 +17882,7 @@ beholders
 bolides
 bepaints
 bothroi
+brenthis
 bibliotics
 boodles
 biassed
