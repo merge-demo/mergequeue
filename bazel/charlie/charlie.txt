@@ -1089,7 +1089,6 @@ calciform
 centesimos
 calcifugal
 calcifugous
-calcigenous
 chamaesiphonaceous
 calcimined
 calciminer
@@ -24420,6 +24419,7 @@ calyculus
 carbonic
 cooncans
 coonhound
+calcigenous
 coonhounds
 coony
 chloracetate
