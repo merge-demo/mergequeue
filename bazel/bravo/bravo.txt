@@ -590,7 +590,6 @@ bonjour
 barniest
 bricoles
 bibbery
-berstel
 billmen
 benzobis
 beclothed
@@ -12737,6 +12736,7 @@ booklear
 brandishing
 booklore
 bhavan
+berstel
 birdliming
 busters
 beheld
