@@ -7661,7 +7661,6 @@ appetition
 anaudia
 antonymic
 autoprothesis
-alcoholimeter
 autoconverter
 asterin
 alcoholysis
@@ -11329,6 +11328,7 @@ amphitrichate
 amphitropous
 anargyros
 amphiumidae
+alcoholimeter
 alegar
 aposthume
 abomasi
