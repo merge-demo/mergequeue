@@ -2764,7 +2764,6 @@ actinotherapeutic
 alveolites
 arloup
 acrobryous
-acyrology
 alarms
 airglow
 apotropaion
@@ -17543,6 +17542,7 @@ atavists
 antifederalist
 ashlars
 alcedo
+acyrology
 alunite
 alkalifying
 alkalin
