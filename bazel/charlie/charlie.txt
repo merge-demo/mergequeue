@@ -5692,7 +5692,6 @@ capering
 cataplastic
 casten
 catapleiite
-catapuce
 catapulted
 catapultic
 catapultier
@@ -6976,6 +6975,7 @@ cementer
 cementification
 cyborgs
 cementin
+catapuce
 carane
 cementite
 cementitious
