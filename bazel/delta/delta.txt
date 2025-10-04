@@ -8031,7 +8031,6 @@ dextroversion
 dezaley
 dezymotize
 dezincify
-deaccessioned
 dotations
 detonability
 drosky
@@ -11580,6 +11579,7 @@ derivers
 discompliance
 dowry
 discomposed
+deaccessioned
 distill
 discomposedness
 desmachymatous
