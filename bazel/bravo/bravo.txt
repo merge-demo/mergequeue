@@ -7852,7 +7852,6 @@ bibliofilm
 blepharosymphysis
 botaniser
 biocatalytic
-bibliographies
 bibliographize
 burglarising
 billyo
@@ -17463,6 +17462,7 @@ boomage
 bareboned
 bruskest
 bunter
+bibliographies
 bigeminy
 bridles
 blacklight
