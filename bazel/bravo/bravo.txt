@@ -533,6 +533,7 @@ backveld
 beech
 biosterin
 bayok
+blasthole
 barometrical
 backvelder
 blastodermic
@@ -1722,7 +1723,6 @@ bulbels
 belittled
 baladine
 balsamation
-blasthole
 balsaminaceae
 balsamine
 basongo
