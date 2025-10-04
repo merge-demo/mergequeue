@@ -939,7 +939,6 @@ baker
 brumby
 bahadur
 beverage
-basiophthalmite
 bahay
 bahaist
 blocs
@@ -3663,6 +3662,7 @@ booklover
 balearian
 burnies
 bedboard
+basiophthalmite
 baste
 bucketful
 bally
