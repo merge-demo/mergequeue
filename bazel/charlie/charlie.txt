@@ -3309,7 +3309,6 @@ capitulates
 capitulator
 capituliform
 cystolithic
-cerium
 crotchwood
 celebratory
 coilers
@@ -27663,6 +27662,7 @@ cowhage
 cowhand
 cowherb
 cowherds
+cerium
 cytoarchitecturally
 clavicornate
 capeworks
