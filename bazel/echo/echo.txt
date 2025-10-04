@@ -5139,7 +5139,6 @@ esthacyte
 expression
 endodontology
 enneagynous
-evonymus
 exundancy
 enoch
 electroosmotic
@@ -8891,6 +8890,7 @@ extenuating
 embowel
 elfdom
 exp
+evonymus
 estrangement
 ergative
 extracorporeally
