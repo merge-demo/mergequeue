@@ -183,6 +183,7 @@ ensand
 ergogram
 exploration
 elaps
+electromotion
 electrolier
 equipoising
 examiner
@@ -5048,7 +5049,6 @@ epitonic
 excipula
 exauthorize
 euthenasia
-electromotion
 extensionally
 echoes
 eldorado
