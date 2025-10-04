@@ -1324,7 +1324,6 @@ acauline
 andreaea
 acc
 accable
-accel
 accelerable
 acanthopteri
 animalizing
@@ -5962,6 +5961,7 @@ angulosplenial
 alimenter
 aggressed
 ancilia
+accel
 autotomous
 arrogancy
 aggressin

@@ -4952,6 +4952,7 @@ bonework
 beeped
 burgware
 bumblings
+basophil
 blesse
 belgae
 barmier
@@ -13110,7 +13111,6 @@ bority
 brachycephalous
 bkbndr
 billholder
-basophil
 bleedings
 bornane
 bornean
