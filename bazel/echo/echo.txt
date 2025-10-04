@@ -2787,6 +2787,7 @@ essang
 encoronate
 eluded
 evasive
+exclamations
 enjeopard
 elementish
 extricates
@@ -11994,7 +11995,6 @@ enamouring
 exclaiming
 exclaims
 epitenon
-exclamations
 exclamative
 endolymphic
 excreation
