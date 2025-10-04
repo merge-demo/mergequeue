@@ -7614,7 +7614,6 @@ epicoele
 elkesaite
 extolment
 espinos
-epicoeloma
 euchymous
 epicoelous
 epicondyle
@@ -10066,6 +10065,7 @@ ethanediol
 erianthus
 ethanedithiol
 enthalpy
+epicoeloma
 erythrophyllin
 encumbered
 ethylhydrocupreine
