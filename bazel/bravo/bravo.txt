@@ -6799,7 +6799,6 @@ barytosulphate
 badian
 bookery
 bersagliere
-berserker
 brittles
 bin
 berserks
@@ -17422,6 +17421,7 @@ blindest
 bestriding
 bassoon
 bunker
+berserker
 bluebird
 bunkerage
 bedtimes
