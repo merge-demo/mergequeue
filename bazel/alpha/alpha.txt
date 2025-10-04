@@ -5813,7 +5813,6 @@ agatizing
 agatoid
 alarbus
 agaze
-ageable
 agallop
 agedness
 agee
@@ -20559,6 +20558,7 @@ actinosome
 assimulate
 agend
 arrased
+ageable
 arthritical
 afterswarm
 affrontingness
