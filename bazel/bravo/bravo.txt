@@ -14666,6 +14666,7 @@ bloc
 bullwhack
 brassages
 brassard
+brachydodrome
 bearing
 briefing
 brassart
@@ -17167,7 +17168,6 @@ bullnut
 bullock
 brachialgia
 bullocker
-brachydodrome
 beduins
 blastulae
 brisque
