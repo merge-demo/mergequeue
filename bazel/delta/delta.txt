@@ -6423,7 +6423,6 @@ derogates
 diglyceride
 dixie
 derogating
-deceivableness
 derogative
 derogator
 derogatory
@@ -15501,6 +15500,7 @@ diapery
 donator
 detergence
 discodactyl
+deceivableness
 dispell
 desist
 deflagrated
