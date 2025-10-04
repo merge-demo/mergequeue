@@ -801,7 +801,6 @@ eggment
 electrophotography
 ectasis
 endothia
-ectatic
 enoil
 exequies
 expulsed
@@ -11168,6 +11167,7 @@ expatriation
 embroiderer
 exiguousness
 ensiform
+ectatic
 evacuator
 evaded
 earthlier
