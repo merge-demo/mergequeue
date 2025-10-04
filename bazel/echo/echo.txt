@@ -466,7 +466,6 @@ evector
 ecclesia
 enumerable
 eucommia
-ecclesiarch
 ecclesiarchy
 extoll
 ecclesiast
@@ -1259,6 +1258,7 @@ eelfare
 encrinite
 elastomeric
 enrobe
+ecclesiarch
 electrocystoscope
 equalness
 eclated
