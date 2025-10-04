@@ -1262,7 +1262,6 @@ deplane
 desmids
 dossil
 dermoptera
-datolitic
 deti
 distressfully
 dandyism
@@ -1623,6 +1622,7 @@ difficulty
 daylong
 dimetrodon
 deodate
+datolitic
 domify
 devertebrated
 daydrudge
