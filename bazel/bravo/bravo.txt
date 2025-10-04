@@ -2937,7 +2937,6 @@ boundaries
 boobishness
 blobby
 barricaded
-beltian
 benedicts
 barricadoes
 brainsick
@@ -6183,6 +6182,7 @@ beneighbored
 beneme
 blanker
 baited
+beltian
 barrigudo
 barbless
 buchmanism
