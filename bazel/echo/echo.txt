@@ -9196,7 +9196,6 @@ enfork
 enchodus
 elates
 embryophyte
-editorialist
 electrographite
 empiricism
 enclasp
@@ -13107,6 +13106,7 @@ eschevin
 encarpuspi
 entosarc
 extensionality
+editorialist
 ergology
 eudiaphoresis
 ergonovine
