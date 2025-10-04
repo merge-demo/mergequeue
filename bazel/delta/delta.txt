@@ -5240,7 +5240,6 @@ devoid
 diazoamino
 denitrifier
 destructors
-denitrifying
 denizenation
 diquats
 dyscrased
@@ -8677,6 +8676,7 @@ dermatographia
 downstream
 diametrically
 diaschisis
+denitrifying
 discourtesy
 diffused
 dilative
