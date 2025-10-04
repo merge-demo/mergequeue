@@ -4899,6 +4899,7 @@ acetyltannin
 aeroelastic
 aucupate
 aeroelasticity
+arraigning
 adjurors
 aerofoils
 adjourned
@@ -20141,7 +20142,6 @@ anodon
 arraigned
 aerosats
 allenarly
-arraigning
 allocutive
 alpines
 allolalic
