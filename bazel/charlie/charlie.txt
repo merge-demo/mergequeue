@@ -7978,7 +7978,6 @@ cetes
 ceti
 cetic
 cocytus
-ceticide
 chitinization
 cetyl
 cetylic
@@ -16046,6 +16045,7 @@ clerkliness
 chlorocarbon
 clerkship
 clerkships
+ceticide
 comrado
 conglutin
 clernly
