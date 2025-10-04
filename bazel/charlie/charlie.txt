@@ -24236,7 +24236,6 @@ convoluting
 convolution
 convolutional
 convolutions
-convolutive
 convolve
 cringingly
 constructing
@@ -25847,6 +25846,7 @@ carolinian
 compellative
 corruptedness
 cardiographs
+convolutive
 curted
 correctorship
 corruptful
