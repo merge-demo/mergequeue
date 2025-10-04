@@ -6997,7 +6997,6 @@ cemeterial
 concours
 ceratinous
 culm
-caruage
 cenaculum
 cloglike
 cenation
@@ -12109,6 +12108,7 @@ chanceries
 crisp
 countermachination
 crusca
+caruage
 chockler
 casal
 chorusmaster
