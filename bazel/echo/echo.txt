@@ -816,7 +816,6 @@ earthquave
 ectypal
 ectype
 entities
-everliving
 enwrite
 epizoa
 erythrinidae
@@ -1778,6 +1777,7 @@ euglenales
 enterocentesis
 echinital
 evitation
+everliving
 euphonous
 effractor
 escalloping
