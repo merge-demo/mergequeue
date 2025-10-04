@@ -6225,7 +6225,6 @@ egrid
 enounced
 eardrops
 endamaged
-enterococci
 eidology
 enplane
 electromotor
@@ -14190,6 +14189,7 @@ experrection
 eranthis
 enqueues
 eupanorthus
+enterococci
 exurbs
 ectosome
 endlong
