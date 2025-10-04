@@ -3345,7 +3345,6 @@ definitions
 definitise
 dormant
 dilatant
-depurge
 deliriate
 diastem
 demitting
@@ -18358,6 +18357,7 @@ doubleton
 duodenate
 declension
 duodenation
+depurge
 degelation
 dyestuff
 diallelon
