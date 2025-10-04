@@ -3344,7 +3344,6 @@ definitiones
 disregards
 duplications
 definitions
-definitise
 dormant
 dilatant
 deliriate
@@ -12636,6 +12635,7 @@ daud
 disintrench
 dysyntribite
 deodorise
+definitise
 dephase
 dae
 disinvagination
