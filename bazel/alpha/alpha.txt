@@ -11140,7 +11140,6 @@ antisun
 amphibiety
 azimuthally
 artifices
-amphibium
 aquatinting
 avolation
 amphibole
@@ -11847,6 +11846,7 @@ analogousness
 analogue
 analphabet
 analphabete
+amphibium
 angelus
 acyanopsia
 awink
