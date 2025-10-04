@@ -13655,7 +13655,6 @@ cyme
 cymelet
 cimelium
 cymenes
-cimeter
 coproite
 crankest
 chiffer
@@ -23491,6 +23490,7 @@ contendress
 cornstalk
 civil
 contends
+cimeter
 contenement
 contrapuntal
 chimble
