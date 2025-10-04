@@ -11510,7 +11510,6 @@ ectopterygoid
 elegancies
 epicurean
 elastometer
-esthesis
 emcee
 enforced
 encheiria
@@ -11938,6 +11937,7 @@ encuirassed
 exocataphoria
 edgeless
 ese
+esthesis
 endemic
 ecoid
 endotheliolysin
