@@ -4092,7 +4092,6 @@ emplecton
 exuberancy
 employability
 electrovalence
-enteromere
 employe
 estado
 etamin
@@ -8533,6 +8532,7 @@ estheriidae
 esoterically
 eupnea
 exsufflicate
+enteromere
 equatable
 eudaemons
 equate
