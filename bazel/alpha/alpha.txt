@@ -4887,6 +4887,7 @@ antipedal
 adoors
 archhost
 anticonservative
+atmidometry
 arenite
 areek
 aerodrome
@@ -16256,7 +16257,6 @@ achropsia
 antithyroid
 anilid
 antitintinnabularian
-atmidometry
 antitypal
 antityphoid
 amaroid
