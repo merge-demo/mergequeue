@@ -3757,7 +3757,6 @@ coroparelcysis
 chetty
 caravans
 caravansary
-caravansaries
 caravanserai
 chromoxylography
 caravanserial
@@ -8059,6 +8058,7 @@ chac
 chacate
 complainable
 chimin
+caravansaries
 camphoraceous
 chaccon
 chachalakas
