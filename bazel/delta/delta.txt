@@ -434,7 +434,6 @@ discoursers
 dairous
 dairt
 dais
-deducer
 disinthrall
 donjons
 drenchers
@@ -11981,6 +11980,7 @@ disembocation
 domicils
 diesels
 disembodiment
+deducer
 disembodiments
 disembogued
 diarian
