@@ -5927,7 +5927,6 @@ enameloma
 encoffin
 elains
 effate
-enhuile
 enhunger
 emissary
 eruc
@@ -6571,6 +6570,7 @@ enorthotrope
 electricity
 emigrates
 erysimum
+enhuile
 enwind
 exolemma
 emove
