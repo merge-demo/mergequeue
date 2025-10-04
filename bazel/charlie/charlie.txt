@@ -9271,6 +9271,7 @@ chasty
 chastiment
 chastise
 chastiser
+consulships
 clapperboard
 cheering
 corf
@@ -23298,7 +23299,6 @@ curiouser
 charley
 consulates
 consulship
-consulships
 coloquintida
 clavieristic
 consulta
