@@ -3361,6 +3361,7 @@ dismast
 denims
 dullery
 definitor
+desulphurized
 dorsosternal
 dogmouth
 dentils
@@ -7780,7 +7781,6 @@ deoxygenate
 disastimeter
 decoded
 dogmatization
-desulphurized
 deviser
 devising
 direption
