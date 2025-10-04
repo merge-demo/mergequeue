@@ -1386,7 +1386,6 @@ caliga
 caligate
 caligation
 caliginosity
-caliginous
 caliginously
 cyanin
 cunctipotent
@@ -4086,6 +4085,7 @@ cardiac
 cardiacal
 cestui
 cleronomy
+caliginous
 cardiacle
 cardiagra
 celiolymph
