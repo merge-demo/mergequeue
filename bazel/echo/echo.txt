@@ -5793,7 +5793,6 @@ evade
 emulatory
 efficace
 electrovalency
-etheling
 exfoliation
 erlkings
 epicele
@@ -10886,6 +10885,7 @@ euphemise
 elected
 euphemising
 enrollments
+etheling
 enshroud
 euphemistically
 euphemize
