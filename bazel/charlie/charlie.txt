@@ -9834,7 +9834,6 @@ crajuru
 chelinga
 curua
 chelingas
-chelingos
 cheliped
 chelys
 cydon
@@ -17101,6 +17100,7 @@ checkup
 coacher
 counterdistinction
 conventually
+chelingos
 coaches
 caprylin
 cornroot
