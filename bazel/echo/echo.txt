@@ -1914,6 +1914,7 @@ emptional
 electropneumatically
 eisteddfod
 eluting
+exemplary
 endearance
 euhemerized
 excite
@@ -10824,7 +10825,6 @@ euonymy
 euonymous
 exochorda
 exsibilate
-enregistry
 echinid
 enthralling
 extracultural
@@ -11707,6 +11707,7 @@ enclasped
 epicrises
 examen
 elementals
+enregistry
 exurban
 elasticizing
 exobiology
@@ -13697,7 +13698,6 @@ excursionize
 epitaxy
 expiatist
 ermanaric
-exemplary
 enfasten
 epiplasm
 equiaxe

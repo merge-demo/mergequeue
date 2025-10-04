@@ -2585,7 +2585,6 @@ archbishop
 aspiratory
 altaid
 adffrozen
-alterableness
 adjacent
 acquest
 armenite
@@ -5398,7 +5397,6 @@ annexionist
 amnionic
 acrorhagus
 afluking
-afore
 adjutrix
 aforementioned
 anemoclastic
@@ -6052,6 +6050,7 @@ aretalogy
 agists
 agit
 adjustors
+afore
 agitability
 archilowe
 accouters
@@ -10740,6 +10739,7 @@ apartmental
 adherends
 aplanatically
 arthroses
+alterableness
 amitate
 antighostism
 abandonments
