@@ -3349,7 +3349,6 @@ equus
 esquirearchy
 enregistration
 egal
-explorator
 excursioner
 envelopes
 encyclopaedial
@@ -7771,6 +7770,7 @@ etymologies
 etherizer
 enticing
 epidiorthosis
+explorator
 epiblemata
 epiproct
 eupatridae
