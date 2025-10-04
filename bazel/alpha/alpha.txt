@@ -5286,6 +5286,7 @@ alterations
 appetized
 axon
 affixal
+astipulate
 astrid
 americanoid
 affixation
@@ -20679,7 +20680,6 @@ anthesteriac
 articulare
 allelomorph
 associate
-astipulate
 alder
 anglophobe
 abounder
