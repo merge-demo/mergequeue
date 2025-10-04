@@ -11188,7 +11188,6 @@ enumerations
 evaluated
 ecumenicist
 etherin
-evaluative
 ethereal
 elongate
 embourgeoisement
@@ -13401,6 +13400,7 @@ expounder
 eulogised
 ems
 enthrong
+evaluative
 express
 extralinguistic
 eudaemonical
