@@ -1020,7 +1020,6 @@ buxeous
 bringer
 barfs
 bailable
-boordly
 baile
 bezazz
 basqued
@@ -4381,6 +4380,7 @@ backswing
 brise
 bonairness
 brolly
+boordly
 bagne
 bounties
 breakwater
