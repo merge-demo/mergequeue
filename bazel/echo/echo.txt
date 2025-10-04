@@ -1487,7 +1487,6 @@ elasmobranchii
 explanatorily
 exonarthex
 epics
-edificator
 endosiphonate
 equippers
 estivate
@@ -11363,6 +11362,7 @@ exotropic
 electrodesiccation
 evenforth
 eryopid
+edificator
 eruciform
 emanatively
 eathly
