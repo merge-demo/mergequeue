@@ -1721,7 +1721,6 @@ baladine
 balsamation
 balsaminaceae
 balsamine
-basongo
 become
 balsamitic
 balsamiticness
@@ -2217,6 +2216,7 @@ barbequing
 bourage
 baalshem
 buddler
+basongo
 bassoons
 barbarise
 barbarised
