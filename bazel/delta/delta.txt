@@ -1480,6 +1480,7 @@ depressure
 deaccessioning
 drawbolt
 dingbats
+draughts
 definiendum
 deformers
 diazines
@@ -5807,7 +5808,6 @@ depolymerize
 deadpay
 depolish
 davened
-draughts
 depolished
 deaconed
 depolishes
