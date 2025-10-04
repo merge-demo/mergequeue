@@ -2880,7 +2880,6 @@ bilocation
 bottleful
 broadcasts
 broadthroat
-berakes
 biverbal
 beclatter
 bestride
@@ -13284,6 +13283,7 @@ blastoidea
 botany
 bilboquet
 brominated
+berakes
 birdmen
 blennies
 botanic
