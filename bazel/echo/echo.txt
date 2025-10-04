@@ -745,7 +745,6 @@ exuvium
 ecotype
 ecotypes
 ecotipically
-epigeic
 ecotypically
 engulfs
 ecotonal
@@ -8264,6 +8263,7 @@ eulogize
 enatant
 epistolised
 eure
+epigeic
 escapado
 epitoke
 erratums
