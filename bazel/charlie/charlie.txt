@@ -5490,6 +5490,7 @@ casuals
 casualty
 casuariiformes
 chloramide
+civetlike
 casuarina
 cantraips
 casuarius
@@ -13376,7 +13377,6 @@ cycloolefinic
 chintziest
 cyclop
 cyclopaedia
-civetlike
 cayleyan
 carriageless
 cyclopaedist
