@@ -1709,6 +1709,7 @@ bryan
 buskers
 brokerage
 botan
+borealis
 brachypyramid
 broon
 byline
@@ -18307,7 +18308,6 @@ button
 buttonball
 basaltoid
 buttonbush
-borealis
 bivalve
 buttoner
 buttoners
