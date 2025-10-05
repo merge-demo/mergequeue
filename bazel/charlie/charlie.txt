@@ -4839,7 +4839,6 @@ connotive
 chem
 crosspost
 cressida
-cultigen
 conjuror
 contrariantly
 coffea
@@ -18876,6 +18875,7 @@ contemporaries
 codeins
 colichemarde
 colicines
+cultigen
 celiac
 colicins
 coappellee
