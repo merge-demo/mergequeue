@@ -6378,6 +6378,7 @@ eyemark
 ethmoids
 elaboration
 enrobed
+equilateral
 encrinitical
 epist
 enunciator
@@ -8604,7 +8605,6 @@ encefalon
 espavel
 equielliptical
 equigranular
-equilateral
 eriogonum
 epotation
 equilibrant
