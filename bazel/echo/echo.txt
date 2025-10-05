@@ -6886,7 +6886,6 @@ entomosporium
 ethically
 ellipsoidal
 endangered
-entomostraca
 electrum
 endamageable
 epispore
@@ -11434,6 +11433,7 @@ ennedra
 emblic
 edibility
 evese
+entomostraca
 entheate
 embryotic
 expdt
