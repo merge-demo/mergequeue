@@ -4715,6 +4715,7 @@ carpet
 carpetbag
 carpetbagger
 carpetbaggery
+chantage
 conchometry
 catty
 compatibles
@@ -8356,7 +8357,6 @@ chalkiness
 chalking
 chalklike
 chalkline
-chantage
 columnated
 chalkone
 chalkos
