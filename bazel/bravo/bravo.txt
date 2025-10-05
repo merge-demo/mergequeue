@@ -187,7 +187,6 @@ baccalaureates
 baccalaureus
 baccara
 baroques
-bdrm
 bristleless
 bipartition
 balneum
@@ -4310,6 +4309,7 @@ biaural
 beakiest
 bulkheaded
 braquemard
+bdrm
 bulimia
 becap
 beadlery
