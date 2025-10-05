@@ -8812,7 +8812,6 @@ catesbeiana
 cirsium
 chapes
 clinicians
-chapin
 chapiter
 chloranaemia
 chapitral
@@ -20506,6 +20505,7 @@ centenionalis
 corundum
 composition
 compartments
+chapin
 celticist
 compass
 compassability
