@@ -3597,6 +3597,7 @@ dystome
 degasify
 discontinued
 duco
+deadlatch
 disembodies
 doubletree
 decussately
@@ -5576,7 +5577,6 @@ dealation
 diphyllous
 departmentalised
 diversities
-deadlatch
 diaminogene
 dx
 dimmock
