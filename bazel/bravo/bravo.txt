@@ -5794,7 +5794,6 @@ bearably
 ballhausplatz
 beblubbered
 behint
-bywalker
 bigthatch
 bountihead
 bellevue
@@ -7579,6 +7578,7 @@ bewhisker
 biplicate
 bleater
 burele
+bywalker
 brakeages
 bibliophage
 bewhiten
