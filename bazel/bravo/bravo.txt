@@ -12464,7 +12464,6 @@ bookroom
 bawdrick
 bierbalk
 bondship
-bondslave
 bondsman
 blueys
 braeman
@@ -12863,6 +12862,7 @@ blipped
 boondoggling
 banishers
 boonfellow
+bondslave
 behorror
 bifoil
 birthplace
