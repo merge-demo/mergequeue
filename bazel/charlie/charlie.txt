@@ -10987,7 +10987,6 @@ chironym
 caecum
 chironomid
 chastised
-caissoned
 chaparajos
 coinhabit
 chironomus
@@ -15799,6 +15798,7 @@ cleaned
 chloramine
 cleanest
 chinching
+caissoned
 cleanhanded
 capistrate
 cleanhearted
