@@ -7610,7 +7610,6 @@ calystegia
 cerebellifugal
 cowan
 charpie
-cerebellocortex
 cerebellorubral
 cerebellum
 creator
@@ -18868,6 +18867,7 @@ corylet
 chatterbag
 colubriform
 coli
+cerebellocortex
 crommel
 coly
 chronopher
