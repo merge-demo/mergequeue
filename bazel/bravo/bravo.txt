@@ -8067,7 +8067,6 @@ billows
 bicrenate
 bicrofarad
 bicrural
-bicultural
 broodiness
 biometrics
 bridecup
@@ -17861,6 +17860,7 @@ busbar
 busbars
 barotse
 biscanism
+bicultural
 bused
 burling
 brisks
