@@ -1184,7 +1184,6 @@ demoiselles
 datafile
 dunts
 dillydallying
-datagrams
 dahabiah
 doormat
 demibrassart
@@ -12832,6 +12831,7 @@ doudle
 disconfirm
 dismayable
 dismayfully
+datagrams
 diathermancy
 doubty
 diploes
