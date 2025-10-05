@@ -5459,7 +5459,6 @@ castrates
 covertical
 classic
 counterflory
-corollated
 capillitia
 cylindrenchema
 calin
@@ -17500,6 +17499,7 @@ cobbles
 cobblestone
 clepsydras
 cobblestoned
+corollated
 chokeweed
 cobbling
 cobbra
