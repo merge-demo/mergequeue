@@ -8122,6 +8122,7 @@ beltmaker
 besieging
 bloodhound
 bidiagonal
+balsamodendron
 bidimensional
 binucleate
 barble
@@ -11897,7 +11898,6 @@ becrown
 boethian
 boffins
 brackmard
-balsamodendron
 boffs
 boozify
 bankmen
