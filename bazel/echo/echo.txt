@@ -8001,6 +8001,7 @@ endocannibalism
 embrasured
 epiotic
 exopterygota
+exocline
 epipactis
 elasticized
 enneateric
@@ -12583,7 +12584,6 @@ escheat
 earthpeas
 embrawn
 epsomite
-exocline
 etymologist
 euphon
 ethion
