@@ -2585,7 +2585,6 @@ archbishop
 aspiratory
 altaid
 adffrozen
-alterableness
 adjacent
 acquest
 armenite
@@ -10740,6 +10739,7 @@ apartmental
 adherends
 aplanatically
 arthroses
+alterableness
 amitate
 antighostism
 abandonments
@@ -10958,7 +10958,6 @@ amoebogeniae
 amoebula
 amoy
 apinoid
-absenteeism
 amok
 amoke
 azure
@@ -18104,6 +18103,7 @@ avarices
 azygobranchiata
 aquagreen
 anatomise
+absenteeism
 aqualung
 aqualunger
 apogee
