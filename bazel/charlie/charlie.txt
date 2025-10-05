@@ -4815,7 +4815,6 @@ carpophalangeal
 carpophyl
 cressier
 carpophyte
-companions
 covariables
 carpopodite
 carpopoditic
@@ -30224,6 +30223,7 @@ cains
 cursed
 crudity
 crudities
+companions
 countryfied
 crudle
 cruds
