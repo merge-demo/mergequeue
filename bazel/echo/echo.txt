@@ -7160,7 +7160,6 @@ extraequilibrium
 enwallow
 excandescence
 enwheel
-ensampler
 eposes
 empassion
 eglandulous
@@ -11937,6 +11936,7 @@ edgeless
 ese
 esthesis
 endemic
+ensampler
 ecoid
 endotheliolysin
 epicedial
