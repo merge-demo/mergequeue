@@ -5502,6 +5502,7 @@ enfeeblements
 ectozoa
 earwort
 exorcising
+experimenting
 evertors
 exoterics
 espiritual
@@ -13144,7 +13145,6 @@ ecesises
 earthborn
 extollation
 embolomycotic
-experimenting
 experimentist
 extracathedral
 emulsify
