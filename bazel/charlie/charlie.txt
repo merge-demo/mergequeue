@@ -15497,7 +15497,6 @@ canvases
 contemporise
 clarinets
 cryptorrhesis
-clarinettist
 clarinettists
 clarini
 chlorates
@@ -28801,6 +28800,7 @@ crescentoid
 crescents
 crescentwise
 crescively
+clarinettist
 confederatio
 cantino
 cresegol
