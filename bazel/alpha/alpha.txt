@@ -5071,7 +5071,6 @@ agrostographical
 aerotropism
 allantois
 aeruginous
-anisaldoxime
 aerugo
 aes
 autosepticemia
@@ -14990,6 +14989,7 @@ anticreationism
 affettuoso
 agriculturer
 arcform
+anisaldoxime
 archmime
 attermine
 anthesis
