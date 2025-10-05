@@ -7743,7 +7743,6 @@ edelweisses
 entelam
 empasma
 epidiascope
-escallops
 engraff
 ecce
 epichilia
@@ -10566,6 +10565,7 @@ epiclidal
 esprits
 elpidite
 euphroes
+escallops
 elixation
 earthiness
 expectance
