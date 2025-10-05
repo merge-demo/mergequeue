@@ -8892,7 +8892,6 @@ exp
 evonymus
 estrangement
 ergative
-extracorporeally
 elmier
 ergatocrat
 epiblast
@@ -13629,6 +13628,7 @@ eggcup
 expansometer
 engrosses
 empeo
+extracorporeally
 erma
 ecyphellate
 elongating
