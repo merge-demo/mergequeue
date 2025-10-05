@@ -9585,7 +9585,6 @@ checkrowing
 consummatively
 checkrows
 computational
-checks
 chapatty
 checkstring
 cuissen
@@ -20566,6 +20565,7 @@ copycatted
 compellingly
 curblike
 cosines
+checks
 compendency
 compendia
 correlativity
