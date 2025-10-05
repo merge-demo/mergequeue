@@ -7546,7 +7546,6 @@ besmoothing
 bonitoes
 bevomiting
 briefer
-bevomits
 bread
 bevvy
 baronages
@@ -17680,6 +17679,7 @@ bockeret
 bucksaws
 brodyaga
 balancement
+bevomits
 bastardised
 birgus
 batell
