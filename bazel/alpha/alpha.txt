@@ -5005,7 +5005,6 @@ accentuable
 agister
 avigate
 abv
-adobos
 aerophysics
 areolation
 apologising
@@ -7908,6 +7907,7 @@ amentias
 ashcans
 activistic
 allomerized
+adobos
 adorningly
 aristippus
 aleppo
