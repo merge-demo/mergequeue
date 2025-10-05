@@ -4701,7 +4701,6 @@ englishism
 enciphering
 enrapture
 eulogism
-elegantly
 engerminate
 executonis
 epigean
@@ -11516,6 +11515,7 @@ erotylid
 exhaling
 eserin
 extractable
+elegantly
 evincing
 entoblast
 esophagus
