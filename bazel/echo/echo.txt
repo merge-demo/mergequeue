@@ -1343,7 +1343,6 @@ effendis
 empty
 efferently
 efferents
-enallage
 effervescency
 epode
 endoskeletal
@@ -2974,6 +2973,7 @@ eliminated
 ectopia
 elymus
 ergotamine
+enallage
 elinguate
 enfield
 eleatic
