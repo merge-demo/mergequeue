@@ -19710,7 +19710,6 @@ consolidant
 comanic
 comarum
 comate
-comates
 cowerer
 coquilla
 camarilla
@@ -23410,6 +23409,7 @@ calami
 cecidologist
 cyrtostyle
 containership
+comates
 containerships
 centenarianism
 containing
