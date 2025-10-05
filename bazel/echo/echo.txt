@@ -3537,7 +3537,6 @@ eponyms
 eyeball
 extreme
 epigonus
-epicyclic
 entrefer
 egyptianism
 embolize
@@ -9061,6 +9060,7 @@ ethicalness
 ephyrae
 evocatively
 etnean
+epicyclic
 europeans
 enbranglement
 exordial
