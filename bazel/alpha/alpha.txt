@@ -13094,6 +13094,7 @@ abiders
 anim
 anima
 animable
+agistor
 anthrapurpurin
 archaeopteris
 antiromance
@@ -21257,7 +21258,6 @@ asiarch
 asiatically
 ambassadorial
 anisocarpous
-agistor
 angiospasm
 arghan
 assignors
