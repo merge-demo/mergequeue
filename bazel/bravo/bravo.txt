@@ -13272,7 +13272,6 @@ boulders
 beng
 bowge
 briquettes
-bosun
 blastoidea
 botany
 bilboquet
@@ -17390,6 +17389,7 @@ bamboozler
 boychik
 baetylic
 bungtown
+bosun
 blithered
 bungwall
 bacillemia
