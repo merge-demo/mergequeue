@@ -5513,7 +5513,6 @@ damnable
 dolley
 dilutors
 durion
-deoxidation
 deoxidative
 dibbles
 deoxidisation
@@ -14003,6 +14002,7 @@ dolabra
 dishboard
 disannul
 disciplinant
+deoxidation
 distorter
 druggister
 distorters
