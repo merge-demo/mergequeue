@@ -10270,7 +10270,6 @@ blacktops
 blastoporphyritic
 barking
 beholden
-bepimples
 bogard
 blacktree
 brewers
@@ -12741,6 +12740,7 @@ bookmakers
 bidarka
 begarie
 baguet
+bepimples
 bookmarks
 bastardisation
 bookmobiles
