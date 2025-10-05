@@ -10852,6 +10852,7 @@ directorships
 desugared
 dapples
 deposable
+devex
 deificatory
 direful
 direfully
@@ -15927,7 +15928,6 @@ doubleword
 dotal
 dotardism
 darned
-devex
 duddle
 drawlingly
 dotarie
