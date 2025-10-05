@@ -4554,6 +4554,7 @@ advertizes
 atypicality
 advice
 advices
+atomatic
 advisableness
 amidon
 adiaphorism
@@ -22840,7 +22841,6 @@ assemblages
 alphenic
 anyhow
 assonate
-atomatic
 aquo
 announces
 almendro
