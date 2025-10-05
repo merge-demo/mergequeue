@@ -7181,7 +7181,6 @@ emforth
 eryopsid
 ethnomanic
 exuviability
-endophytically
 emulate
 ethal
 electrons
@@ -8580,6 +8579,7 @@ equidimensional
 equidist
 exrx
 essancias
+endophytically
 eyebolts
 eumerogenesis
 endocarp
