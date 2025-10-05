@@ -3512,7 +3512,6 @@ centinody
 countershaft
 chappow
 caff
-cognizers
 capsuliferous
 cheloniid
 capsuliform
@@ -18124,6 +18123,7 @@ choirs
 coenobiar
 catostomoid
 cissoid
+cognizers
 coenobioid
 conicoid
 contentless

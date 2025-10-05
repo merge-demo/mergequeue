@@ -2078,6 +2078,7 @@ banovina
 banquet
 bundist
 blindish
+bardiest
 banqueting
 beseem
 buddhistic
@@ -14761,7 +14762,6 @@ babel
 brightener
 bedimplies
 braxy
-bardiest
 braxies
 brunt
 brazenfacedness
