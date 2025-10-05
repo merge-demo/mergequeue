@@ -1798,7 +1798,6 @@ beaconed
 beglads
 bardiness
 blancmanger
-banak
 bemuse
 banal
 bananaland
@@ -10163,6 +10162,7 @@ blackfigured
 biochemical
 breechcloth
 bas
+banak
 bloodfins
 birdnester
 bignoniaceae

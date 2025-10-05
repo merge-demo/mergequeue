@@ -11258,7 +11258,6 @@ coemperor
 chlorhydric
 chloriamb
 chloriambus
-chloric
 chlorid
 chicanos
 chloridate
@@ -20060,6 +20059,7 @@ commender
 craftsman
 commending
 commendment
+chloric
 commensal
 chemurgies
 cadmus
