@@ -2965,7 +2965,6 @@ deduces
 droil
 dolt
 deducibility
-deducibly
 drawstop
 deducted
 devolatilized
@@ -15830,6 +15829,7 @@ dorsimeson
 digestif
 devolatilization
 disyllabize
+deducibly
 dorsipinal
 diablerie
 dorsocaudad
