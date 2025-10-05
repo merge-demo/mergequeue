@@ -1252,6 +1252,7 @@ enmanche
 eelfare
 encrinite
 elastomeric
+emperors
 enrobe
 ecclesiarch
 eversive
@@ -3978,7 +3979,6 @@ each
 exultancy
 esothyropexy
 estus
-emperors
 effloresce
 etherealized
 epilamellar
