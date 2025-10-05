@@ -23126,7 +23126,6 @@ constabularies
 comminute
 coccolithophoridae
 constantan
-constantine
 constantinian
 cephidae
 constantinopolitan
@@ -28678,6 +28677,7 @@ classific
 canonicalize
 crenel
 chroococcus
+constantine
 coloniser
 candlewicking
 contaminates
