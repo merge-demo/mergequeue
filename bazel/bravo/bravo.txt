@@ -1799,7 +1799,6 @@ beglads
 bardiness
 blancmanger
 bemuse
-banal
 bananaland
 bluegum
 benzyls
@@ -15476,6 +15475,7 @@ bakery
 bratstva
 bibliopegistic
 breakbone
+banal
 bringers
 bodega
 bringeth
