@@ -6351,6 +6351,7 @@ causality
 causalities
 causally
 causans
+cyphellate
 causate
 causation
 causationism
@@ -14044,7 +14045,6 @@ counterparadox
 curneys
 congees
 cyphella
-cyphellate
 cypher
 cipherdom
 causeur
