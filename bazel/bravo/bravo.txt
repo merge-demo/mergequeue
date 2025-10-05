@@ -4484,7 +4484,6 @@ bromios
 becrippled
 beira
 bedplate
-becrippling
 bronchiectatic
 bisulphite
 bluenose
@@ -14508,6 +14507,7 @@ beadle
 branchiae
 bradyglossia
 belittler
+becrippling
 breeks
 bravados
 branchicolous
