@@ -2506,7 +2506,6 @@ beflowers
 baggy
 bariatrician
 banderilla
-bariatrics
 baric
 barycenter
 bemused
@@ -16721,6 +16720,7 @@ bucksaw
 bids
 bistorta
 bedfoot
+bariatrics
 bucktooth
 bronchovesicular
 bucktoothed
