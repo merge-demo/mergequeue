@@ -11091,7 +11091,6 @@ buoyance
 bodikin
 backbreaking
 bakongo
-blipping
 berengena
 bidpai
 blomstrandine
@@ -12690,6 +12689,7 @@ blunderheaded
 boondoggled
 bloatedness
 bowedness
+blipping
 boohooing
 besilver
 biaswise
