@@ -3097,6 +3097,7 @@ empennage
 equiangularity
 elaphomyces
 epicalyces
+even
 encomiums
 endogenies
 echinorhinidae
@@ -11336,7 +11337,6 @@ eveless
 estrildine
 eth
 eveline
-even
 entortill
 epitrochlear
 equiparate
