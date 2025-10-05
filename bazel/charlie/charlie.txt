@@ -11903,7 +11903,6 @@ chorales
 comradery
 concio
 cassapanca
-chorally
 chorals
 chomage
 chorasmian
@@ -12278,6 +12277,7 @@ chrysops
 casement
 chrysopsis
 crispy
+chorally
 camphorphorone
 chrysosperm
 chrysosplenium
