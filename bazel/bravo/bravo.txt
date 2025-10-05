@@ -7784,7 +7784,6 @@ biannually
 bhagavata
 biarchy
 biarcuate
-biarcuated
 biarticulate
 barrulee
 breccia
@@ -16813,6 +16812,7 @@ buffable
 buffalo
 buffalofish
 buffaloing
+biarcuated
 biflagellate
 buffball
 branchiostege
