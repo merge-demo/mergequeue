@@ -17424,7 +17424,6 @@ direction
 disjoinable
 decream
 dropsies
-dermopteran
 dropwise
 despairer
 dropwort
@@ -18672,6 +18671,7 @@ dwarfishness
 documentarily
 derogatoriness
 dwarfisms
+dermopteran
 darwinically
 detersively
 dwarfs
