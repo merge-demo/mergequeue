@@ -1736,7 +1736,6 @@ deathlikeness
 dundees
 deathliness
 deathrates
-deaths
 deathsman
 discrepating
 dumble
@@ -3107,6 +3106,7 @@ defalcating
 defalcation
 defalk
 dipteral
+deaths
 defamation
 dingling
 detachableness
