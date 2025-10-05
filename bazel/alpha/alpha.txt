@@ -18094,6 +18094,7 @@ apus
 akinesis
 ambulia
 antechoir
+articulationes
 aquacade
 amotion
 aquaemanale
@@ -18242,7 +18243,6 @@ achromous
 agush
 archont
 arachnomorphae
-articulationes
 arabiyeh
 apparel
 acquisitum
