@@ -1392,7 +1392,6 @@ arabesquerie
 anglican
 anticompetitive
 amadavat
-aristos
 acceptors
 antifreezes
 acervuline
@@ -5504,6 +5503,7 @@ aerial
 afterform
 actuarial
 aerolith
+aristos
 aftergas
 abstractedness
 ablings
