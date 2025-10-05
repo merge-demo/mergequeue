@@ -4492,7 +4492,6 @@ dolos
 diapyesis
 demesman
 depravities
-demesnes
 declarers
 disentitle
 doctrinalism
@@ -12526,6 +12525,7 @@ dana
 den
 disillusive
 demodulations
+demesnes
 dipsosaurus
 dualization
 disimpark
