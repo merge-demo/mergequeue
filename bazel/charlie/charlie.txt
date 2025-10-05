@@ -11857,7 +11857,6 @@ chazzen
 cycloidal
 coaster
 copaljocote
-chooser
 choosers
 choosier
 cryotherapy
@@ -20718,6 +20717,7 @@ criance
 celative
 completory
 completories
+chooser
 complex
 complexation
 complexedness
