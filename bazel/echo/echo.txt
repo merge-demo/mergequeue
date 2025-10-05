@@ -2972,6 +2972,7 @@ equiprobabilism
 eliminated
 ectopia
 elymus
+ergotamine
 elinguate
 enfield
 eleatic
@@ -7122,7 +7123,6 @@ enfranchisable
 enemy
 entices
 epiplexis
-ergotamine
 extrabranchial
 employees
 electrophysiologically
