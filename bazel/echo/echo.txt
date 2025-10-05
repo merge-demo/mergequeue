@@ -3099,6 +3099,7 @@ elaphomyces
 epicalyces
 even
 encomiums
+ecdysones
 endogenies
 echinorhinidae
 etheriidae
@@ -5123,7 +5124,6 @@ existentialistic
 enterocoel
 emergencies
 entogenous
-ecdysones
 enteroptotic
 extrudability
 eisell
