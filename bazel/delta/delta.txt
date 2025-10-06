@@ -5838,6 +5838,7 @@ deposers
 discouragement
 dissuade
 deposit
+divine
 diamondwork
 distome
 depositation
@@ -13074,7 +13075,6 @@ decanol
 drakestone
 dispatch
 deprecators
-divine
 deccennia
 dispatched
 devaster
