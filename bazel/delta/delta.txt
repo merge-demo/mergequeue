@@ -3574,7 +3574,6 @@ defunction
 deul
 disfrock
 dislimb
-distributivity
 diethylamine
 disenchanter
 defunctionalize
@@ -14390,6 +14389,7 @@ dipolsphene
 doley
 divans
 debatably
+distributivity
 dysentery
 durian
 dehydrocorydaline
