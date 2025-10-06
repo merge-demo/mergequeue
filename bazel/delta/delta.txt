@@ -2490,7 +2490,6 @@ deckhand
 dovekies
 duckwing
 deckle
-disslander
 dulls
 diatropism
 duds
@@ -10590,6 +10589,7 @@ denote
 dislikes
 disequilibrium
 diatomaceous
+disslander
 discoblastula
 deafens
 diplocoria
