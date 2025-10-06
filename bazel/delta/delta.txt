@@ -1542,7 +1542,6 @@ deadlier
 deaden
 droops
 docked
-deadening
 drippings
 dices
 deputising
@@ -4337,6 +4336,7 @@ dibbed
 demasculinise
 dorsointestinal
 divisors
+deadening
 dermophytic
 dem
 demagnetisation
