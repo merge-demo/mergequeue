@@ -14151,6 +14151,7 @@ diazotizable
 disulfide
 decession
 disanimate
+diol
 desacralize
 diapason
 disulfiram
@@ -17238,7 +17239,6 @@ drivepipe
 driver
 despising
 drivers
-diol
 drivership
 dmarche
 drives
