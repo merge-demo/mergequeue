@@ -2952,7 +2952,6 @@ ekronite
 entomology
 elidible
 etagere
-eligibility
 epistasy
 eligibles
 entrecotes
@@ -11434,6 +11433,7 @@ elitists
 ennedra
 emblic
 edibility
+eligibility
 evese
 entomostraca
 entheate
