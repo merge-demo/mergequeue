@@ -9703,7 +9703,6 @@ cheeselip
 cephalochorda
 cheesemaker
 cheesemaking
-cheesemongery
 cheesemongering
 cheeseparer
 canaster
@@ -31562,6 +31561,7 @@ cursores
 curtails
 cubistic
 curtain
+cheesemongery
 centrals
 cariamae
 cowlicks
