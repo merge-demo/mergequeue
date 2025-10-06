@@ -7410,7 +7410,6 @@ epenetic
 everglade
 explosion
 ensculpture
-englishness
 entasia
 exsanguineous
 exacted
@@ -10224,6 +10223,7 @@ elzevirian
 elaborates
 extruders
 evansite
+englishness
 epanorthosis
 errsyn
 experiences
