@@ -13724,7 +13724,6 @@ brunswick
 boustrophedon
 bloomer
 bircher
-biophyte
 banqueted
 barytocalcite
 braccio
@@ -15046,6 +15045,7 @@ bregma
 bordel
 bregmate
 brachypinacoidal
+biophyte
 brokenheartedness
 brehonia
 bovinity
