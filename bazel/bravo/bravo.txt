@@ -1523,6 +1523,7 @@ brutalization
 bichromated
 bezel
 basted
+batterdock
 ballads
 balete
 baralipton
@@ -3691,7 +3692,6 @@ battement
 balladising
 batteners
 bankrupted
-batterdock
 bucketmaker
 battered
 bedesmen
