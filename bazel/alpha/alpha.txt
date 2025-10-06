@@ -9592,7 +9592,6 @@ arachnoid
 anaglyptography
 atonalist
 abridges
-amalgamations
 aluminate
 alumines
 archicontinent
@@ -15571,6 +15570,7 @@ assumpt
 antimoralistic
 accrescence
 antimorality
+amalgamations
 armory
 antimusically
 animalculous
