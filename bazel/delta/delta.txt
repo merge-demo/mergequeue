@@ -11179,7 +11179,6 @@ decciare
 danite
 dismask
 dogmatist
-divinities
 defectibility
 devvel
 dyeline
@@ -15470,6 +15469,7 @@ duffing
 dopehead
 demonstratory
 dope
+divinities
 dompteuse
 doms
 derve
