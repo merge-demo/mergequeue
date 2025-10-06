@@ -11679,7 +11679,6 @@ cyanamids
 cholesteatoma
 concorrezanes
 cholesteatomatous
-cholestene
 cholesteremia
 cleidohyoid
 charoset
@@ -28418,6 +28417,7 @@ creak
 catalecticant
 caesarize
 creaky
+cholestene
 creakiness
 creaking
 creambush
