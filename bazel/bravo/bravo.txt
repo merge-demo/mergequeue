@@ -1937,6 +1937,7 @@ balances
 bandstring
 bathymetric
 brandishes
+bigeye
 bosquets
 baahling
 beeway
@@ -7536,7 +7537,6 @@ betaine
 businessman
 bevillain
 befell
-bigeye
 bashaws
 bedote
 breezeless
