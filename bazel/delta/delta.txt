@@ -8011,7 +8011,6 @@ dimethylaniline
 dimensive
 dookit
 dolichofacial
-daemonic
 delicatessens
 dionaea
 dishonoured
@@ -13588,6 +13587,7 @@ dissensualize
 dissentation
 dissented
 dissenter
+daemonic
 dissentience
 duende
 dehydrofrozen
