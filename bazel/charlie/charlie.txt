@@ -6783,7 +6783,6 @@ celery
 cimborio
 cypres
 celerities
-celestas
 celeste
 celiosalpingotomy
 centrical
@@ -10641,6 +10640,7 @@ chylomicron
 chylopericardium
 chylophylly
 chylophyllous
+celestas
 crunchily
 chylophyllously
 cabalistically
