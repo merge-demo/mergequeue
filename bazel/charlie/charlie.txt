@@ -1304,7 +1304,6 @@ cloison
 catchwater
 calibrating
 calibre
-calibred
 calibres
 chromatophilia
 causative
@@ -5790,6 +5789,7 @@ criminalistician
 cylindrophis
 chumming
 chevesne
+calibred
 colasciones
 catechising
 crooktoothed
