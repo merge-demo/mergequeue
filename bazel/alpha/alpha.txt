@@ -1546,7 +1546,6 @@ agglutinoid
 adventureful
 accordaturas
 accordingly
-amritas
 accordionist
 ascan
 angelim
@@ -2021,6 +2020,7 @@ acropathology
 amplexus
 aveny
 awakeable
+amritas
 amidoxy
 achagua
 amoret
