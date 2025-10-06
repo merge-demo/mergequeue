@@ -4963,7 +4963,6 @@ beennut
 bimedial
 bonework
 beeped
-burgware
 bumblings
 blesse
 belgae
@@ -11470,6 +11469,7 @@ bluetongue
 bedmates
 bluetop
 berths
+burgware
 bravos
 bundlers
 basophilia
