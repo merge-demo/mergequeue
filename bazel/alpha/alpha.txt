@@ -2129,7 +2129,6 @@ arend
 apiculate
 achymia
 aganice
-achymous
 arracks
 azobenzol
 achinese
@@ -13151,6 +13150,7 @@ ayrshire
 atmidometer
 animastic
 animastical
+achymous
 associatory
 approver
 allorrhythmic
