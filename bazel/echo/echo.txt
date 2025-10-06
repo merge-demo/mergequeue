@@ -4578,7 +4578,6 @@ enfettered
 encheason
 enchequer
 ethnopsychic
-enchesoun
 euphemism
 endosarcode
 ethnolinguistics
@@ -7198,6 +7197,7 @@ enwove
 entender
 epistasis
 euphonym
+enchesoun
 ensample
 enzootically
 evenlight
