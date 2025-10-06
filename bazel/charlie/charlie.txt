@@ -3125,7 +3125,6 @@ chalker
 catercornerways
 clone
 capanna
-capanne
 cystolithectomy
 caparison
 caparisoned
@@ -19627,6 +19626,7 @@ ciliata
 chromaticism
 columellar
 coextensiveness
+capanne
 coregence
 counteraffirmation
 columellia
