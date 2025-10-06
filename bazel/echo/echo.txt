@@ -832,7 +832,6 @@ etamines
 enslaver
 ectocarpus
 eriophorum
-ectocoelic
 eosinophil
 ectocommensal
 ectocondylar
@@ -4919,6 +4918,7 @@ epipodite
 emusify
 euhemerize
 entropy
+ectocoelic
 eyelight
 endocardium
 emporetic
