@@ -1390,7 +1390,6 @@ emissions
 encycl
 expungeable
 ectogenic
-endomysial
 engrailment
 earl
 electrodialyses
@@ -13922,6 +13921,7 @@ encapsulates
 evincingly
 extranational
 erective
+endomysial
 endorhinitis
 extraneous
 extraneousness
