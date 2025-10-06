@@ -1579,7 +1579,6 @@ dairyman
 deadpanned
 deadpans
 depayse
-deadweight
 daikering
 disinfector
 deadwork
@@ -7787,6 +7786,7 @@ deoxygenate
 disastimeter
 decoded
 dogmatization
+deadweight
 deviser
 devising
 direption
