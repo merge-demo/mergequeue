@@ -13065,7 +13065,6 @@ bordroom
 botchier
 borinqueno
 balling
-bordun
 barf
 blizzard
 borecoles
@@ -18256,6 +18255,7 @@ bepat
 bete
 bivouacs
 buttermaker
+bordun
 backflip
 butterman
 bootblacks
