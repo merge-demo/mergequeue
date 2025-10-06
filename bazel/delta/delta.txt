@@ -8139,6 +8139,7 @@ decidable
 drivable
 dinosaurs
 diabetometer
+dandyprat
 defiled
 demetallize
 demineralize
@@ -8300,7 +8301,6 @@ diagonal
 diagonalizable
 diagonalization
 diagnosing
-dandyprat
 duel
 diagonals
 deducting
