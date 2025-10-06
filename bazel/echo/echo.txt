@@ -831,7 +831,6 @@ equations
 etamines
 enslaver
 ectocarpus
-enquire
 eriophorum
 ectocoelic
 eosinophil
@@ -11017,6 +11016,7 @@ extund
 endomorph
 encreel
 exceptiveness
+enquire
 encyclopaedic
 eternalist
 euryprosopic
