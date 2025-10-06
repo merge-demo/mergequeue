@@ -2949,7 +2949,6 @@ blindeyes
 boundaries
 boobishness
 blobby
-barricaded
 benedicts
 barricadoes
 brainsick
@@ -4516,6 +4515,7 @@ bae
 bandolero
 blankest
 brigadiership
+barricaded
 burnsides
 becudgelling
 batata
