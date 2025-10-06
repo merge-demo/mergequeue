@@ -10244,7 +10244,6 @@ chiasmata
 cystoscopy
 chiasmatic
 combretaceae
-chiasmatype
 counterformula
 clockings
 chiasmic
@@ -11379,6 +11378,7 @@ coopted
 capman
 chloromycetin
 curbed
+chiasmatype
 chloronitrate
 cruche
 colonizer
