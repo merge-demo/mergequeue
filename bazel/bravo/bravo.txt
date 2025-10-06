@@ -4813,7 +4813,6 @@ baboons
 badmouth
 branchia
 breekless
-bignonias
 bedspring
 bulgaria
 benedicite
@@ -9438,6 +9437,7 @@ birkeniidae
 birky
 birkremite
 blastematic
+bignonias
 boldine
 batonga
 botonee
