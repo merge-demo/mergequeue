@@ -9805,7 +9805,6 @@ dogfishes
 domino
 dclass
 dilettanti
-delimiters
 decriminalizing
 dilettantism
 dilettantist
@@ -12800,6 +12799,7 @@ doored
 disloyalties
 dislove
 dandlingly
+delimiters
 desirously
 decompressive
 dunk
