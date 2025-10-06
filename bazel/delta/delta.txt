@@ -6360,7 +6360,6 @@ daltonism
 dermis
 dermises
 drawbores
-dermoblast
 dendrologist
 diaplasis
 dejectory
@@ -17840,6 +17839,7 @@ duculinae
 dictyosome
 decurve
 duddery
+dermoblast
 definable
 dictatorship
 disenthrallment
