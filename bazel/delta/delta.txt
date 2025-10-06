@@ -3576,6 +3576,7 @@ defunction
 deul
 disfrock
 dislimb
+distributivity
 diethylamine
 disenchanter
 defunctionalize
@@ -4030,7 +4031,6 @@ distune
 dedignation
 delectating
 damnously
-distributivity
 distritbutes
 delectus
 degradingly
