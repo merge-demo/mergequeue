@@ -2515,7 +2515,6 @@ countermands
 coasters
 candies
 candying
-consuetudinary
 candymaker
 cardiophobe
 candymaking
@@ -2676,6 +2675,7 @@ canikins
 cephalocereus
 canille
 canine
+consuetudinary
 canines
 caning
 caniniform
