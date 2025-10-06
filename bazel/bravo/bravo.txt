@@ -7370,7 +7370,6 @@ bunker
 bibliolatrist
 becumber
 brasilia
-beleft
 bailiery
 balusters
 bewig
@@ -13526,6 +13525,7 @@ blundered
 bielid
 bouchette
 bichromate
+beleft
 boisterousness
 boudeuse
 becursing
