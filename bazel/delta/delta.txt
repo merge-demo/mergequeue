@@ -3915,6 +3915,7 @@ dissect
 disp
 dyscrasite
 deerdog
+demihogshead
 dewy
 damone
 deityship
@@ -4580,7 +4581,6 @@ demihagbut
 dextrocular
 demihake
 demihaque
-demihogshead
 demijambe
 discriminant
 dottled
