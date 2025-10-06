@@ -5805,7 +5805,6 @@ catechization
 catechizer
 calamondin
 cojoin
-catechizes
 cheveys
 callicarpa
 coeldership
@@ -21151,6 +21150,7 @@ concatenates
 coequating
 concatenator
 concatervate
+catechizes
 concause
 concavity
 corrupter
