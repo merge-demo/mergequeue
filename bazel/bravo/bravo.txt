@@ -1559,7 +1559,6 @@ ballets
 brevetcy
 blowtube
 ballgame
-berley
 ballhooter
 balli
 burmanniaceous
@@ -6247,6 +6246,7 @@ benjaminite
 bound
 bridgeway
 boletus
+berley
 bypass
 beakful
 benne
