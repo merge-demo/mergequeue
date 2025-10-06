@@ -5849,6 +5849,7 @@ boxcar
 bullsnake
 banded
 berseem
+bittock
 bribeworthy
 baigneuse
 bellies
@@ -14102,7 +14103,6 @@ brachiopode
 bistipular
 blot
 babbage
-bittock
 blasters
 bugged
 butsudan
