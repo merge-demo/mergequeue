@@ -1118,7 +1118,6 @@ bedimmed
 boatload
 brindled
 bluethroat
-brewmaster
 boyg
 bargestone
 breakwind
@@ -14970,6 +14969,7 @@ bondwomen
 breathless
 breathseller
 breba
+brewmaster
 boatfalls
 breccial
 boatly
