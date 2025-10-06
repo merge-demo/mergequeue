@@ -5059,7 +5059,6 @@ carves
 carvestrene
 carving
 curses
-carvings
 carvoeira
 carvoepra
 carwash
@@ -10599,6 +10598,7 @@ chilly
 compartmentalize
 cherie
 calculi
+carvings
 chilidium
 chilliest
 camelopardid
