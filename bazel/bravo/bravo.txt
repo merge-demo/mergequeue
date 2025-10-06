@@ -13272,7 +13272,6 @@ bostonian
 banderillas
 burglar
 branchstand
-bouche
 barman
 bangs
 bromide
@@ -18183,6 +18182,7 @@ bechern
 balneary
 butlery
 belief
+bouche
 butleries
 butlerlike
 butlers
