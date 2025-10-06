@@ -8726,6 +8726,7 @@ diastereoisomerism
 diastereomer
 dodges
 druid
+deoxyribose
 dismayed
 dolesomely
 dehumanized
@@ -11573,7 +11574,6 @@ disavowing
 deepmouthed
 dimethyls
 degenerations
-deoxyribose
 derivers
 discompliance
 dowry
