@@ -3777,7 +3777,6 @@ batz
 beldamship
 bestubble
 benchland
-batzen
 blundering
 boatsmanship
 bitterbush
@@ -5251,6 +5250,7 @@ bunkmate
 begarlanded
 baldpates
 bewired
+batzen
 begass
 bitless
 backmost
