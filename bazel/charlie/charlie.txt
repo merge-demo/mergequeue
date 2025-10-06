@@ -22598,7 +22598,6 @@ connectedly
 connecter
 confabbed
 chiaroscurist
-connectible
 connectibly
 chamferer
 connecticut
@@ -28713,6 +28712,7 @@ calcining
 clung
 crenothrix
 crenula
+connectible
 crenulate
 cassythaceae
 crenulation
