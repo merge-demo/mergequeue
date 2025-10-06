@@ -4784,6 +4784,7 @@ billfold
 barbarize
 burking
 barrener
+biotelemetry
 bracker
 brachylogy
 bedriveling
@@ -13477,7 +13478,6 @@ borstall
 baronethood
 bottomers
 bottoming
-biotelemetry
 brattiness
 betweenness
 balderdash
