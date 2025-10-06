@@ -1494,7 +1494,6 @@ ballade
 bespottedness
 beglad
 bemadamed
-ballades
 boser
 bacteremia
 borstal
@@ -12969,6 +12968,7 @@ burgherdom
 betulaceae
 bushelage
 basilisks
+ballades
 bikhaconitine
 boozes
 boozier
