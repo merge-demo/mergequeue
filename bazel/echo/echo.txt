@@ -3223,7 +3223,6 @@ eludes
 educive
 exaltedly
 eludible
-eluding
 enswathes
 enfollow
 eluents
@@ -6004,6 +6003,7 @@ estampedero
 erosion
 ejects
 earns
+eluding
 extrapituitary
 emptily
 extensimeter
