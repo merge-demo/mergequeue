@@ -3289,7 +3289,6 @@ deterging
 dragoons
 drostden
 defibrillatory
-defibrinate
 dropax
 dissatisfactory
 defier
@@ -15546,6 +15545,7 @@ disuniformity
 doloriferous
 donkeyman
 draffman
+defibrinate
 decahedra
 draegerman
 dessert
