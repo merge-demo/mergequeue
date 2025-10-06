@@ -12010,6 +12010,7 @@ bunkhouse
 biogens
 bohora
 benny
+brontogram
 bebop
 bombarded
 biers
@@ -12548,7 +12549,6 @@ barnage
 balsamroot
 bourgeoning
 brails
-brontogram
 bridehead
 boniface
 battle
