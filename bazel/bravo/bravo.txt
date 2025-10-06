@@ -10419,7 +10419,6 @@ buonamano
 botong
 breaker
 blanketlike
-bemantle
 brimborion
 blankets
 bhoot
@@ -13053,6 +13052,7 @@ besteading
 blackberry
 bucking
 bordering
+bemantle
 balangay
 bolster
 blousing
