@@ -6493,6 +6493,7 @@ cavatina
 concent
 chawl
 cavatine
+checkpoint
 cavdia
 collogues
 celebrating
@@ -9566,7 +9567,6 @@ chirosophist
 checkmating
 cautioning
 circumferences
-checkpoint
 checkpointed
 checkpointing
 combmaking
