@@ -4325,7 +4325,6 @@ exceeders
 exothermous
 enterodynia
 enamour
-encyclopaedia
 enamouredness
 expostulator
 eulogistical
@@ -7964,6 +7963,7 @@ enclisis
 epimeron
 ectozoic
 epimers
+encyclopaedia
 epimysia
 esthesias
 expunger
