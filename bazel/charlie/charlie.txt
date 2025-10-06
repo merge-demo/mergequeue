@@ -3322,6 +3322,7 @@ cirripede
 cowgram
 connivant
 celli
+colleri
 capo
 chaufers
 coughweed
@@ -19072,7 +19073,6 @@ collembolous
 checkweighman
 collenchyme
 collencyte
-colleri
 collery
 cofferlike
 candyh
