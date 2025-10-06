@@ -4798,7 +4798,6 @@ calicular
 cottonee
 carpometacarpal
 carpometacarpi
-carpometacarpus
 carpompi
 counterorganization
 carpool
@@ -15995,6 +15994,7 @@ clericality
 clericals
 clericate
 chordaceous
+carpometacarpus
 clericature
 cointension
 colloquialize
