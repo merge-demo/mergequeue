@@ -5592,6 +5592,7 @@ bewreak
 bekiss
 bekissed
 bekisses
+boletes
 bouleuterion
 befoolment
 borons
@@ -12174,7 +12175,6 @@ beeps
 beclasped
 blarneyed
 boletaceae
-boletes
 byrled
 brabbler
 boleweed
