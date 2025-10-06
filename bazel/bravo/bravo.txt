@@ -2662,6 +2662,7 @@ bluestone
 bertholletia
 barghest
 breechloader
+brugh
 basiliscus
 backlins
 berrugate
@@ -16303,7 +16304,6 @@ bleachman
 bruckleness
 belfries
 bespete
-brugh
 brugnatellite
 benzoxy
 bluehearted
