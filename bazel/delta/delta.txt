@@ -1648,7 +1648,6 @@ dissects
 deambulate
 democratizes
 dozening
-divergency
 dentimeter
 deamidation
 deaminase
@@ -8286,6 +8285,7 @@ diagnostically
 disenthroned
 diagnosticate
 denitrating
+divergency
 dinotherium
 dehortatory
 demegoric
