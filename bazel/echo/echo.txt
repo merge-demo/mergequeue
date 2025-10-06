@@ -857,7 +857,6 @@ emraud
 englobement
 eddic
 entourages
-ejective
 epistolizer
 eigenfunction
 erythrocytolysin
@@ -1713,6 +1712,7 @@ enterosyphilis
 embolon
 employ
 epistilbite
+ejective
 evang
 eyeground
 epornitically
