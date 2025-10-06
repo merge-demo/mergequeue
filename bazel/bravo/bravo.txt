@@ -2313,7 +2313,6 @@ bartholomite
 blameably
 baobab
 biasways
-barbican
 breloque
 bathyscape
 barbicel
@@ -8621,6 +8620,7 @@ billyhood
 bagmen
 breislakite
 billiken
+barbican
 backscatters
 byrlady
 batteau
