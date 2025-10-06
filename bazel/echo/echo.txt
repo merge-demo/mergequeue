@@ -9078,6 +9078,7 @@ extrality
 extravascular
 ellipsometer
 erythrocytoschisis
+editorialist
 erythrocytosis
 erythrodermia
 embryogony
@@ -13104,7 +13105,6 @@ eschevin
 encarpuspi
 entosarc
 extensionality
-editorialist
 ergology
 eudiaphoresis
 ergonovine
