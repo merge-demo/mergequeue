@@ -3693,7 +3693,6 @@ embryotome
 exhalatory
 eeten
 exculpated
-exsculp
 ephemerons
 echelette
 exhaustivity
@@ -9465,6 +9464,7 @@ embanks
 estudy
 entocoel
 eliquation
+exsculp
 electronic
 escortage
 ekaboron
