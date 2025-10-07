@@ -7618,7 +7618,6 @@ bibliopegic
 bribri
 brisbane
 bewilderment
-bewinged
 bewitched
 boughed
 bewitcher
@@ -17728,6 +17727,7 @@ billian
 blastophaga
 bemuzzled
 bott
+bewinged
 burnfire
 buckeens
 burnish
