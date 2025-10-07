@@ -626,6 +626,7 @@ ephemerides
 eclating
 excitancy
 etymonic
+ellipses
 embarked
 eozoonal
 earful
@@ -6561,7 +6562,6 @@ echiuroidea
 embattled
 eccles
 epimedium
-ellipses
 enorthotrope
 electricity
 emigrates
