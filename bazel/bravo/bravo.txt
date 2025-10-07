@@ -2654,7 +2654,6 @@ broadener
 barleycorn
 bournonite
 bilge
-basidiophore
 bimensal
 bellying
 bable
@@ -3275,6 +3274,7 @@ begartered
 bethank
 bisulfide
 bookkeeps
+basidiophore
 bourn
 brattle
 bastardising
