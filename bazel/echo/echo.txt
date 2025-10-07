@@ -4349,7 +4349,6 @@ electrolyzer
 encephalosclerosis
 embraceor
 evisite
-enantioses
 endoplastule
 euornithes
 enapt
@@ -12853,6 +12852,7 @@ exoterically
 erythremomelalgia
 episcopal
 exoticness
+enantioses
 exotics
 ecologic
 exotoxic
