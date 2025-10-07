@@ -3047,6 +3047,7 @@ cantrip
 cantus
 cantuta
 cantwise
+castigated
 canula
 canulae
 canulas
@@ -7994,7 +7995,6 @@ cetonia
 cetonian
 curwhibble
 cetoniinae
-castigated
 cetorhinid
 chickadee
 cyamoid
