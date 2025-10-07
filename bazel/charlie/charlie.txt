@@ -14727,7 +14727,6 @@ cists
 cistudo
 colonic
 cistus
-citable
 cairns
 citadel
 cital
@@ -29795,6 +29794,7 @@ crooned
 cankeredness
 crooner
 cullible
+citable
 countermeet
 caliperer
 compoing
