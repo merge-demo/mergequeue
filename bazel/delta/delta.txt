@@ -1391,7 +1391,6 @@ demilitarize
 dispel
 downdale
 dismain
-doketism
 demonomanie
 dispraiser
 dorsiflexor
@@ -3734,6 +3733,7 @@ dehydrochlorinase
 dinumeration
 dowlas
 dehydrochlorinate
+doketism
 daytale
 dehydrocorticosterone
 drabble
