@@ -7944,7 +7944,6 @@ bibliosoph
 bibliotaphe
 bibliothecae
 bibliothecarian
-bibliotheque
 bungalows
 batoka
 butic
@@ -16756,6 +16755,7 @@ berlins
 backword
 barbarizing
 bonhomously
+bibliotheque
 buddhaship
 bandar
 barbas
