@@ -5922,6 +5922,7 @@ basisphenoid
 bailiffship
 belongs
 bicameral
+bugdom
 banderillero
 belonidae
 bullions
@@ -16898,7 +16899,6 @@ beaume
 bimetallists
 bugbearish
 burdened
-bugdom
 barretry
 brassbound
 beneficiate
