@@ -1367,7 +1367,6 @@ amintor
 acceptance
 axisymmetrical
 absorbent
-acceptancies
 athalline
 achylia
 aguish
@@ -1826,6 +1825,7 @@ acerae
 arcual
 acerate
 acerated
+acceptancies
 antistater
 anteresurrection
 acerbate
