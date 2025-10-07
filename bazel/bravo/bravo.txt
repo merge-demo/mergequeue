@@ -543,7 +543,6 @@ bernard
 blit
 backwardness
 bootboy
-bipartible
 blastema
 befriendment
 biggishness
@@ -7270,6 +7269,7 @@ bestrown
 bathochromatic
 ballplayers
 bimanual
+bipartible
 brankiest
 bestsellerdom
 bacchii
