@@ -8256,7 +8256,6 @@ chakavski
 chakdar
 cymbling
 callower
-cli
 chakobu
 chakram
 carpentry
@@ -15885,6 +15884,7 @@ cleaveful
 cleavelandite
 contentness
 cleaver
+cli
 cleavers
 coremaker
 clamb
