@@ -1758,7 +1758,6 @@ asphyxies
 adularia
 aglipayano
 arabis
-aromata
 anemia
 apochromatic
 acedy
@@ -20166,6 +20165,7 @@ auscultated
 arrangers
 aiders
 avoided
+aromata
 arranges
 alyssum
 alc
