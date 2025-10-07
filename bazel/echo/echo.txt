@@ -8248,7 +8248,6 @@ epistlers
 epistolarian
 elderhood
 ethylin
-epergnes
 escribe
 epopoeia
 eulogize
@@ -8876,6 +8875,7 @@ extenuating
 embowel
 elfdom
 exp
+epergnes
 evonymus
 estrangement
 ergative
