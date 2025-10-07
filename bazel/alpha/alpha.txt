@@ -1593,6 +1593,7 @@ accounts
 anybody
 accouter
 apotype
+astrologistic
 agrostologist
 aneling
 accouterment
@@ -22409,7 +22410,6 @@ acetabular
 astrologically
 antidetonant
 astrologist
-astrologistic
 aldern
 anagrammatise
 antiluetin
