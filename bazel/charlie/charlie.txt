@@ -4353,6 +4353,7 @@ calpacked
 candier
 carica
 caricaceae
+chenica
 caricaceous
 cotemporaneous
 carcinology
@@ -11767,7 +11768,6 @@ connaturally
 cacophony
 chondrites
 chondritic
-chenica
 chondroalbuminoid
 chondroangioma
 credential
