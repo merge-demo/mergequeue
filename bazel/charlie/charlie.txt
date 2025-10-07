@@ -873,7 +873,6 @@ crams
 cayubaba
 cs
 cayuca
-chinless
 commendador
 cosmothetic
 cayuga
@@ -12050,6 +12049,7 @@ continuately
 chorographical
 criticizable
 cyanacetic
+chinless
 chorographically
 choroiditis
 coronene
