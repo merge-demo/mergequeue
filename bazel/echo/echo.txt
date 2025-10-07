@@ -4746,6 +4746,7 @@ executions
 existent
 exodos
 endosmosic
+ebulliometry
 excircle
 epistler
 entomophytous
@@ -7007,7 +7008,6 @@ eburnation
 enwood
 eneas
 eustyle
-ebulliometry
 entrepreneur
 enrobers
 entrer
