@@ -10713,7 +10713,6 @@ animosities
 anabolitic
 antaphrodisiac
 agrammaphasia
-aqueoigneous
 alevins
 anthophorous
 anticus
@@ -11392,6 +11391,7 @@ anhydremia
 apodosis
 ampullary
 ampullate
+aqueoigneous
 amphioxus
 ampulliform
 affrightfully
