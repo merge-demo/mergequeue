@@ -4712,7 +4712,6 @@ elocutive
 entryway
 euripides
 electrowin
-electroshock
 erythrodegenerative
 eyelets
 exalbuminose
@@ -12151,6 +12150,7 @@ esclavage
 energise
 elasticin
 exuviating
+electroshock
 exploits
 etageres
 egally
