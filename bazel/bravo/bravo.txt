@@ -2625,6 +2625,7 @@ bantamweight
 birdhouses
 bilges
 botanise
+begirdle
 barkless
 battening
 bandusia
@@ -5125,7 +5126,6 @@ bureaucrat
 beflap
 beflea
 brainier
-begirdle
 bombable
 belching
 borderers
