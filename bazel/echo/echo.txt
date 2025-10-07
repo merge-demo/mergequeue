@@ -5879,7 +5879,6 @@ expend
 enhaemospore
 epiplastron
 emphases
-enhalo
 explees
 ecarinate
 execrators
@@ -6667,6 +6666,7 @@ existents
 enarthrodial
 enterorrhagia
 enterorrhaphy
+enhalo
 eutychianism
 enkindler
 electromotiv
