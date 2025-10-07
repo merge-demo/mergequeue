@@ -11941,6 +11941,7 @@ endemic
 electrooptical
 ensampler
 ecoid
+extracostal
 endotheliolysin
 epicedial
 esmeraldan
@@ -13837,7 +13838,6 @@ electrotypic
 elaeothesia
 extraversively
 extracosmical
-extracostal
 ethnozoological
 equipotentiality
 eelpot
