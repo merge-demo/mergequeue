@@ -1576,6 +1576,7 @@ amatorian
 accouche
 accouchement
 accoucheur
+anemometry
 accoucheuses
 arclength
 accountable
@@ -7990,7 +7991,6 @@ acromegalies
 acrimoniousness
 alexander
 acromiothoracic
-anemometry
 alexandrian
 automonstration
 alexandrina
