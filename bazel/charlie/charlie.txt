@@ -16329,7 +16329,6 @@ cresses
 canterer
 clipboard
 clipboards
-clypeal
 clypeastridea
 clypeastrina
 clypeastroid
@@ -18440,6 +18439,7 @@ cognised
 creepy
 chatchkas
 chirimoya
+clypeal
 compactedness
 cognition
 cucullated
