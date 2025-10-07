@@ -2879,7 +2879,6 @@ antiendowment
 acropoleis
 acuminated
 acropolitan
-acropora
 asthenope
 archpontiff
 acarologist
@@ -24433,6 +24432,7 @@ antipharmic
 appendiculariidae
 antiutilitarianism
 autoanticomplement
+acropora
 autotetraploid
 assistanted
 autotetraploidy
