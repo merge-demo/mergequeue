@@ -2014,7 +2014,6 @@ equisonant
 endodontist
 eradiculose
 elabrate
-elaboratively
 endocrinotherapy
 epigaea
 erythrosine
@@ -9595,6 +9594,7 @@ evoked
 esophagopathy
 esophagoplasty
 embodiment
+elaboratively
 esophagoscopy
 esophagotome
 endodermal
