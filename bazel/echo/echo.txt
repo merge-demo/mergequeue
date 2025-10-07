@@ -3682,6 +3682,7 @@ educations
 electrogenesis
 elements
 embryos
+encuirassed
 esthesioblast
 embryotega
 etherialise
@@ -11932,7 +11933,6 @@ exchanges
 eristical
 electrotherapist
 exalter
-encuirassed
 exocataphoria
 edgeless
 ese
