@@ -1837,6 +1837,7 @@ douzepers
 downwarp
 declinograph
 dewberry
+doorstead
 doughnut
 debellator
 darapti
@@ -5067,7 +5068,6 @@ devotes
 doand
 dextrocardia
 darci
-doorstead
 deemphasis
 denationalise
 denationalize
