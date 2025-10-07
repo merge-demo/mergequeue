@@ -3641,7 +3641,6 @@ coosify
 chivied
 caracolling
 caracora
-caracore
 caract
 caractacus
 caradoc
@@ -10260,6 +10259,7 @@ cubanize
 cyclistic
 chiastoneurous
 couteaux
+caracore
 cringed
 chiaus
 conoidical
