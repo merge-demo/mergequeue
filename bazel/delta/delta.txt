@@ -8730,7 +8730,6 @@ deathrate
 depolarizing
 diethylethanolamine
 diastereoisomerism
-diastereomer
 dodges
 druid
 deoxyribose
@@ -9581,6 +9580,7 @@ decimosexto
 downthrow
 decimated
 draggly
+diastereomer
 digitoplantar
 diprismatic
 deevilick
