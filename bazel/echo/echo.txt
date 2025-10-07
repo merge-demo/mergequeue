@@ -2395,6 +2395,7 @@ ectogenetic
 energist
 electrodeposition
 ebriosity
+epitrochlea
 electrodes
 etherization
 elotherium
@@ -11543,7 +11544,6 @@ emesidae
 elenchus
 encodement
 embrittled
-epitrochlea
 errantness
 ennoy
 evocator
