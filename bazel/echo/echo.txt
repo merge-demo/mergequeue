@@ -7919,7 +7919,6 @@ epilogical
 entomophaga
 eurystomatous
 emitter
-experiment
 eatery
 extrastapedial
 endosmosis
@@ -13349,6 +13348,7 @@ exported
 ethicist
 extortionately
 enlength
+experiment
 embog
 entireties
 enfonce
