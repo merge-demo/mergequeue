@@ -1839,7 +1839,6 @@ exhalable
 eightieth
 eightling
 edematose
-eightpenny
 euler
 epidiorite
 encystments
@@ -10485,6 +10484,7 @@ ettirone
 escalan
 ettle
 ecclesiolatry
+eightpenny
 enologies
 exorbitant
 errorist
