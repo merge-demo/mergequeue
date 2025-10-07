@@ -1122,7 +1122,6 @@ calciphobous
 calciprivic
 calypterae
 cardiant
-carpale
 caveatee
 calcispongiae
 chromatosphere
@@ -11813,6 +11812,7 @@ chukkas
 chondromyxosarcoma
 chondromucoid
 chondropharyngeus
+carpale
 chondroplast
 chondroplasty
 crystall
