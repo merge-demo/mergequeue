@@ -6239,7 +6239,6 @@ ethnogeographical
 entered
 endplate
 excipule
-enticeable
 exor
 elongations
 eelcatcher
@@ -9591,6 +9590,7 @@ esophagogastroscopy
 entrike
 esophagometer
 emotionalized
+enticeable
 eupomatiaceae
 evoked
 esophagopathy
