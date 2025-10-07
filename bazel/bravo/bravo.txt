@@ -5851,6 +5851,7 @@ bellicism
 beyonds
 bellicist
 bromometry
+belligerents
 buildress
 boxcar
 bullsnake
@@ -8077,7 +8078,6 @@ bicornous
 booklift
 bartend
 bagroom
-belligerents
 bicornuate
 bicornute
 beshadow
