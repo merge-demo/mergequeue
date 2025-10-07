@@ -1119,7 +1119,6 @@ enarm
 endopterygotic
 epacts
 elhi
-emprosthotonos
 eikons
 esthetics
 environage
@@ -10109,6 +10108,7 @@ extrusible
 endorses
 ethereally
 entwined
+emprosthotonos
 etherealness
 escherichia
 enculturated
