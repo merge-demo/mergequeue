@@ -4891,7 +4891,6 @@ encumbrance
 extrabureau
 english
 evolves
-experientialist
 ephyrula
 eyednesses
 enterocoelic
@@ -9118,6 +9117,7 @@ entwist
 etruscan
 erythropsin
 eltrot
+experientialist
 exploding
 erythrosiderite
 exosporous
