@@ -1710,7 +1710,6 @@ bravehearted
 biasing
 blackbrush
 buccate
-borzois
 baloney
 bryan
 buskers
@@ -10626,6 +10625,7 @@ blaze
 blazers
 blazes
 blazy
+borzois
 bridgeheads
 brahmanhood
 bicepses
