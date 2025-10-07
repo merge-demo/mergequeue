@@ -5757,7 +5757,6 @@ belike
 bogeying
 bribes
 beparody
-belime
 bedsheets
 barrator
 bechance
@@ -13522,6 +13521,7 @@ briquette
 bouch
 blacksmith
 boucharde
+belime
 baccae
 blundered
 bielid
