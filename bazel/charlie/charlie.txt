@@ -14371,7 +14371,6 @@ circumrotate
 circumrotated
 cuneonavicular
 circumrotatory
-circumsail
 calochortus
 cask
 connectivity
@@ -17356,6 +17355,7 @@ cadis
 coarsely
 cranched
 coarsened
+circumsail
 coarseness
 canonizations
 chickory
