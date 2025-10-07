@@ -5805,7 +5805,6 @@ emagram
 exibilate
 epiblastema
 engrailed
-encyrtid
 elsewards
 epizoicide
 engrainer
@@ -8745,6 +8744,7 @@ extermination
 eulogising
 endangering
 equivocates
+encyrtid
 emphractic
 enstrengthen
 equivokes
