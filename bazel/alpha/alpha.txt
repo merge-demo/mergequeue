@@ -3719,7 +3719,6 @@ adequate
 acclivity
 almuerzo
 appenage
-annum
 adespoton
 adessenarian
 adeste
@@ -19471,6 +19470,7 @@ arcubalister
 antimedication
 arith
 argling
+annum
 allspices
 absolvers
 arterioscleroses
