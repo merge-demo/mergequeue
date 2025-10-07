@@ -1693,7 +1693,6 @@ calorizing
 cawing
 calosoma
 calotermes
-calothrix
 calotype
 cyclodiolefine
 calotypic
@@ -9356,6 +9355,7 @@ chaudfroid
 chauffage
 chauffer
 chauffeured
+calothrix
 crankplate
 chauffeurship
 chauffeuse
