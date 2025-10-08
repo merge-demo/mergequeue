@@ -18773,7 +18773,6 @@ archemastry
 airdrops
 absinthol
 apotropaism
-atomicity
 alebench
 adoxaceae
 angioneoplasm
@@ -25161,6 +25160,7 @@ axled
 apophylactic
 appendice
 almug
+atomicity
 aphanipterous
 abduce
 aret
