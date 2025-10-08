@@ -3664,6 +3664,7 @@ besetting
 benzophenol
 bardolater
 bangia
+bottomchrome
 bunsen
 books
 benzocaine
@@ -7798,7 +7799,6 @@ biajaiba
 bialate
 bidonville
 berain
-bottomchrome
 bezante
 biacuru
 biallyl
