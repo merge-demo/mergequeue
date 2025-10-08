@@ -6346,6 +6346,7 @@ dermestid
 dermatoneural
 dextrogyration
 deject
+debit
 disseminating
 defensorship
 dermestidae
@@ -12841,7 +12842,6 @@ dismals
 disman
 dismantles
 darksome
-debit
 dishevelment
 dyarchic
 dirhem
