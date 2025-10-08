@@ -12371,7 +12371,6 @@ chromaphore
 chromas
 coffeeweed
 cenote
-claimless
 chromate
 conjunction
 chromates
@@ -15609,6 +15608,7 @@ classificator
 culicidae
 classificatory
 classified
+claimless
 clopping
 cotwinned
 censive
