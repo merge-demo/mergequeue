@@ -1055,7 +1055,6 @@ brasswork
 bailiwicks
 bolete
 babyhouse
-behowling
 becost
 barrulet
 blousier
@@ -2831,6 +2830,7 @@ barothermograph
 barothermohygrograph
 barotrauma
 bulgurs
+behowling
 bravest
 barotraumas
 barotropic
