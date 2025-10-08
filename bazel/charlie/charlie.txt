@@ -3774,7 +3774,6 @@ cyclammonium
 carbaryls
 captress
 ciconia
-carbasus
 chloroethylene
 carbazic
 carbazylic
@@ -13646,6 +13645,7 @@ cymiferous
 cymlin
 cymlings
 cymlins
+carbasus
 clinty
 cnemidophorus
 crematories
