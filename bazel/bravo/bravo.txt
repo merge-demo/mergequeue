@@ -1942,6 +1942,7 @@ bandstring
 bathymetric
 brandishes
 bigeye
+believes
 bosquets
 baahling
 beeway
@@ -7195,7 +7196,6 @@ brambliest
 bifoliate
 brightly
 bessel
-believes
 bessemer
 bessemerize
 bessemerized
