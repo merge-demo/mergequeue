@@ -595,7 +595,6 @@ bacteremic
 bacteriaceae
 blooddrops
 bacteriaemia
-bacterially
 bacterioblast
 brobdingnagian
 brooched
@@ -13323,6 +13322,7 @@ brachioradialis
 botanizes
 bulbless
 balsamed
+bacterially
 bemat
 bradburya
 botaurus
