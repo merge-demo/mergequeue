@@ -4958,6 +4958,7 @@ bouncing
 bitriseptate
 beehive
 busser
+boatel
 bandy
 beek
 balkers
@@ -15635,7 +15636,6 @@ burgundies
 batterable
 buffone
 barrenest
-boatel
 bg
 bulkheads
 burred
