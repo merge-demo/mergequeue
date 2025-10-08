@@ -1582,7 +1582,6 @@ ballista
 boilermaker
 basketlike
 beatinest
-beyerite
 ballistician
 brachioganoidei
 ballflower
@@ -9904,6 +9903,7 @@ besee
 bitterbloom
 bitterbur
 bittered
+beyerite
 bitterender
 ballooning
 bapt
