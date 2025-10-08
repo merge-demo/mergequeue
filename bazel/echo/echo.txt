@@ -812,7 +812,6 @@ euglenidae
 earthquave
 ectypal
 ectype
-entities
 enwrite
 epizoa
 erythrinidae
@@ -10100,6 +10099,7 @@ elenchically
 eumolpus
 eutopia
 euphausiacea
+entities
 ethereality
 epiboly
 etherealization
