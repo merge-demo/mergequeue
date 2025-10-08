@@ -7113,6 +7113,7 @@ edicts
 engaud
 enfranchisable
 enemy
+exported
 entices
 epiplexis
 extrabranchial
@@ -13344,7 +13345,6 @@ exceedingly
 enrough
 epicotyleal
 encyclopaedias
-exported
 ethicist
 extortionately
 enlength
