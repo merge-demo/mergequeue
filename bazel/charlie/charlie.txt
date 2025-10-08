@@ -2201,7 +2201,6 @@ calcaneus
 cample
 campimetry
 cordyline
-clinkstone
 cornamute
 campo
 creedbound
@@ -11557,6 +11556,7 @@ choker
 coredeemed
 cratonic
 clipsheet
+clinkstone
 congelifraction
 chokerman
 chalones
