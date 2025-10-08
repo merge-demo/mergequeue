@@ -9413,7 +9413,6 @@ alsmekill
 alsophila
 adamitic
 alstonia
-amphiblastic
 alstonite
 amphiphloic
 anticathode
@@ -9676,6 +9675,7 @@ antedated
 alur
 astrophotography
 abature
+amphiblastic
 alurgite
 autocephalic
 altiplanicie
