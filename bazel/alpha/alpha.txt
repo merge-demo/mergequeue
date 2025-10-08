@@ -3863,7 +3863,6 @@ adipopexia
 adipopexis
 apolline
 aleft
-adiposeness
 adiposity
 acrook
 abdominoscope
@@ -13413,6 +13412,7 @@ annaly
 annaline
 antigrammaticalness
 apathetic
+adiposeness
 annalists
 authotype
 annalize
