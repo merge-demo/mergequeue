@@ -8492,7 +8492,6 @@ confiscator
 choribi
 cuttable
 chamoisite
-campilan
 chamoline
 chamorro
 copalcocote
@@ -27587,6 +27586,7 @@ covibrate
 covibration
 covid
 cocain
+campilan
 cloiochoanitic
 caterwauled
 covillager
