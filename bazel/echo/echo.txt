@@ -5625,7 +5625,6 @@ eigenvalue
 enfoulder
 epithi
 ensnarers
-enclitics
 exhibitorial
 exquisitism
 enframed
@@ -7281,6 +7280,7 @@ efferous
 explodent
 exoascaceae
 ejicient
+enclitics
 exlex
 elechi
 engird
