@@ -7771,6 +7771,7 @@ charkhas
 capromys
 ceroplasty
 ceroplastic
+coccygalgia
 ceroplastics
 cyanocrystallin
 cerosin
@@ -17605,7 +17606,6 @@ coccidiosis
 coccidium
 coccidology
 coccids
-coccygalgia
 coccygeal
 coccygean
 cornify
