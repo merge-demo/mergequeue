@@ -1489,7 +1489,6 @@ accolade
 accolades
 anabo
 amp
-accoll
 antirational
 arrastre
 accolle
@@ -13367,6 +13366,7 @@ ankylopodia
 alamiqui
 acridest
 ankyloses
+accoll
 amperages
 averted
 automatontons
