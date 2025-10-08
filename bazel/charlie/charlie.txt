@@ -6451,7 +6451,6 @@ cannoneers
 cloister
 cav
 corah
-ceratites
 curvinervate
 cavayard
 cavalcaded
@@ -13550,6 +13549,7 @@ chisel
 chrysocolla
 comitiva
 cylindroid
+ceratites
 caudillos
 cylindromatous
 crosswords
