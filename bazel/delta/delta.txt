@@ -1136,6 +1136,7 @@ depaint
 duracine
 diau
 dasyatis
+daylit
 dagobas
 dire
 distractingly
@@ -4359,7 +4360,6 @@ diseducate
 demagoguery
 demagogues
 demal
-daylit
 diode
 dysacousia
 demanded
