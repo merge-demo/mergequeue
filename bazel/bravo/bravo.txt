@@ -7751,7 +7751,6 @@ bathyscaphe
 bravoite
 buxerry
 bhikshu
-brakehand
 bullan
 breakover
 brocard
@@ -14854,6 +14853,7 @@ breadroot
 brevicaudate
 breadstitch
 burnet
+brakehand
 blackwork
 betrample
 bechalking
