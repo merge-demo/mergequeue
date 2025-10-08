@@ -6450,7 +6450,6 @@ bibliothecaire
 benzopyrazolone
 barquentine
 benzopyrene
-bivouac
 benzopyrylium
 backcourt
 breastweed
@@ -6869,6 +6868,7 @@ baroi
 bes
 bushpig
 boaedon
+bivouac
 busboy
 battalia
 bitulithic
