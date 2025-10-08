@@ -2911,6 +2911,7 @@ cantaloupes
 catboat
 cantando
 cantankerous
+capsizable
 cantankerously
 counteractive
 chonicrite
@@ -3477,7 +3478,6 @@ coumarous
 chylosis
 copesman
 competencies
-capsizable
 capsizal
 cheimaphobia
 crunt
