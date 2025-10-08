@@ -7576,7 +7576,6 @@ bevomiting
 briefer
 bread
 bevvy
-baronages
 bewailers
 bunnell
 belimousined
@@ -16869,6 +16868,7 @@ bungle
 baret
 betorn
 birostrated
+baronages
 balneographer
 bootheel
 buffoonishness
