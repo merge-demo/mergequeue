@@ -1454,7 +1454,6 @@ emunct
 exenteritis
 epipleural
 envelop
-etaerio
 enfarce
 efforts
 effraction
@@ -5250,6 +5249,7 @@ endoradiosonde
 exfiguration
 embryotrophy
 espinillo
+etaerio
 exactor
 embrake
 evened
