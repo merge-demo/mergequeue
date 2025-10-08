@@ -4794,7 +4794,6 @@ bed
 bedribble
 bhalu
 burglarizes
-barque
 bibracteate
 billfold
 barbarize
@@ -9583,6 +9582,7 @@ breeching
 bisantler
 bonapartean
 bothridium
+barque
 burucha
 boeotia
 bogue
