@@ -4433,7 +4433,6 @@ bitstone
 bkcy
 blubberer
 batis
-begloom
 befleas
 belchers
 bypassing
@@ -12435,6 +12434,7 @@ betsimisaraka
 behap
 bicapitate
 backcast
+begloom
 bonbons
 barker
 bareboats
