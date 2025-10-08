@@ -6636,6 +6636,7 @@ blotter
 bluff
 broquineer
 betons
+blastular
 bere
 butterbox
 brotula
@@ -16210,7 +16211,6 @@ badgeless
 blossoms
 brander
 becrimed
-blastular
 beagle
 bowsery
 browless
