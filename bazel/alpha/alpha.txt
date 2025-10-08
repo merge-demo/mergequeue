@@ -3617,7 +3617,6 @@ adenocarcinomas
 adenochondroma
 antipellagric
 adenochrome
-apts
 abnumerable
 allopathies
 antepectoral
@@ -7437,6 +7436,7 @@ adventitiously
 aestivator
 albitic
 augustly
+apts
 angledog
 albitite
 acutiator
