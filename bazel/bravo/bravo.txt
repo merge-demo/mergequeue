@@ -2342,7 +2342,6 @@ betrayers
 bourignianism
 braggart
 barboy
-barbola
 bubbletops
 bagging
 boxboards
@@ -5365,6 +5364,7 @@ breviers
 beglue
 blastomas
 beerage
+barbola
 begnaw
 biharmonic
 borderlines
