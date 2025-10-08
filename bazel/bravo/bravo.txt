@@ -377,7 +377,6 @@ balkily
 brewery
 brachypodous
 bovarist
-backhaul
 backhauls
 bossy
 backhoe
@@ -6168,6 +6167,7 @@ barquette
 badaxe
 bolshevizing
 bitolyl
+backhaul
 baikalite
 boof
 budgereegah
