@@ -4940,7 +4940,6 @@ cakemaker
 circumambages
 cartelist
 costars
-classical
 cartelistic
 cupeling
 cassava
@@ -16539,6 +16538,7 @@ clogged
 cruisken
 channelization
 cucumbers
+classical
 cloggier
 chiliasm
 clogginess
