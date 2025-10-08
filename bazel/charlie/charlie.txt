@@ -28898,6 +28898,7 @@ cardiacean
 chiffrobe
 crevis
 crew
+curability
 ctge
 crewed
 crewet
@@ -31233,7 +31234,6 @@ cupuliferous
 craniopathy
 clawhammer
 cura
-curability
 correctness
 chetah
 curable
