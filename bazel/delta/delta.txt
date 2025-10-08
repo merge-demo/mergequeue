@@ -1045,7 +1045,6 @@ deas
 disobliging
 dutra
 darner
-devoiced
 dipterad
 darners
 darning
@@ -5512,6 +5511,7 @@ deoxidisation
 dsnames
 dissolubility
 deadest
+devoiced
 dorsiventrality
 deoxidize
 doryphoros
