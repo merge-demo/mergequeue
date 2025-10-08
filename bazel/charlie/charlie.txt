@@ -27140,6 +27140,7 @@ coverage
 counterstand
 counterstep
 corabeca
+crocheting
 coprostasis
 chittered
 counterstimulate
@@ -29618,7 +29619,6 @@ croche
 crocheted
 crocheter
 crocheteur
-crocheting
 codebook
 commutableness
 croci
