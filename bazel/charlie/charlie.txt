@@ -2092,7 +2092,6 @@ campanistic
 cuecas
 campanologer
 crucis
-campanology
 croaker
 coalmonger
 conjunctly
@@ -10632,6 +10631,7 @@ contract
 conservatoire
 corybantic
 cosmopolis
+campanology
 colleterium
 chilomastix
 chylomicron
