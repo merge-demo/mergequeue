@@ -7047,7 +7047,6 @@ bacteritic
 besmudge
 beamless
 bronzite
-besmudges
 baalist
 bespouses
 boxhaul
@@ -10980,6 +10979,7 @@ blips
 boehmenite
 bliss
 bescribbling
+besmudges
 branchiostegous
 bucketshop
 birdcatcher
