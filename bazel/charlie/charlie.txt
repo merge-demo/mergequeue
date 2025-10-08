@@ -8314,7 +8314,6 @@ coadunation
 chalcomenite
 chalcone
 chalcopyrite
-chalcosiderite
 chalcosine
 crocodilite
 coween
@@ -28670,6 +28669,7 @@ crenallation
 cuchulainn
 crenate
 crenated
+chalcosiderite
 crenately
 calography
 cortins
