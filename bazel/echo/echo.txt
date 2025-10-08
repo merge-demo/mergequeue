@@ -1248,7 +1248,6 @@ endopleuritic
 enmanche
 eelfare
 encrinite
-elastomeric
 emperors
 enrobe
 ecclesiarch
@@ -5093,6 +5092,7 @@ exited
 endoclinal
 eternals
 endocoelar
+elastomeric
 electrophysiology
 eupanorthidae
 ectozoan
