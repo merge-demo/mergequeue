@@ -19580,7 +19580,6 @@ auxocyte
 anhydraemic
 aischrolatreia
 antitheses
-antithesize
 arybballi
 archichlamydeous
 adhesions
@@ -21882,6 +21881,7 @@ aplacophoran
 asbestous
 assistance
 agleam
+antithesize
 averring
 admonitive
 assister
