@@ -1573,6 +1573,7 @@ deadness
 deadnesses
 denunciating
 dairyman
+detersiveness
 deadpanned
 deadpans
 depayse
@@ -7382,7 +7383,6 @@ deprecatorily
 disprejudice
 deterrent
 dodunk
-detersiveness
 disunions
 detestation
 decomponent
