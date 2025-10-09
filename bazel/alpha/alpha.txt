@@ -8059,7 +8059,6 @@ authentical
 assailable
 aeciotelium
 artarine
-alfileria
 astert
 anthropocosmic
 acrosporous
@@ -8837,6 +8836,7 @@ amender
 adeptly
 adamastor
 anaphora
+alfileria
 aditus
 administered
 allocator
