@@ -7721,7 +7721,6 @@ adnascence
 angustia
 ald
 aldane
-alands
 aldea
 antichresis
 adzooks
@@ -24852,6 +24851,7 @@ avouch
 avouchable
 atmosphere
 anaptyxis
+alands
 animates
 artisanal
 aberrations
