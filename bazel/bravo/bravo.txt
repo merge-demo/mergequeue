@@ -13967,7 +13967,6 @@ becluster
 boxing
 boxmaker
 boxman
-bickiron
 boxroom
 bromatium
 barwise
@@ -17220,6 +17219,7 @@ bolograph
 bumbailiffship
 basidigitalia
 batardeau
+bickiron
 bulten
 bandores
 borsch
