@@ -768,6 +768,7 @@ brushcut
 bygoing
 banket
 badmouthed
+burled
 badmouths
 bullfrog
 boltheads
@@ -5554,7 +5555,6 @@ begnawn
 blotted
 beisance
 bouvier
-burled
 beja
 broadloom
 bejant
