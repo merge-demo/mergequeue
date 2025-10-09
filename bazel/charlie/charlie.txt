@@ -2870,7 +2870,6 @@ counsinhood
 canopy
 canopid
 canalised
-canopied
 canopies
 clarigate
 corticated
@@ -13135,6 +13134,7 @@ ciboules
 cyc
 cicad
 cycadaceae
+canopied
 crimpiest
 convulsional
 cicadas
