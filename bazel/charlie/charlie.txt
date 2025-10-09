@@ -12051,7 +12051,6 @@ chinless
 chorographically
 choroiditis
 coronene
-choroidocyclitis
 choroidoretinitis
 choroids
 chorology
@@ -14516,6 +14515,7 @@ ciruela
 cosets
 cirurgian
 cyrus
+choroidocyclitis
 craspedote
 captainess
 chloremic

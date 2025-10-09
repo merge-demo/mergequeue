@@ -2780,7 +2780,6 @@ argonauta
 accise
 abalienation
 acrodontism
-autopoint
 acrodrome
 acrodromous
 amyxorrhoea
@@ -5201,6 +5200,7 @@ aerophore
 affectingly
 archinformer
 antitangent
+autopoint
 aloeswood
 aratinga
 affection
