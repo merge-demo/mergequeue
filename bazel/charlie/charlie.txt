@@ -28165,7 +28165,6 @@ cranioschisis
 conforbably
 cranioscopy
 chimerism
-cranioscopist
 craniotome
 cameos
 craniotomy
@@ -29166,6 +29165,7 @@ companionably
 chirruping
 conferree
 cheque
+cranioscopist
 cotillons
 cryoconite
 cryogeny
