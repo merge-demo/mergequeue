@@ -7400,7 +7400,6 @@ equipollency
 eyres
 epencephala
 embittering
-embezzle
 emprise
 ethidene
 enantiomorphously
@@ -12546,6 +12545,7 @@ electrofusion
 extant
 existlessness
 epistemological
+embezzle
 exit
 exsects
 exite
