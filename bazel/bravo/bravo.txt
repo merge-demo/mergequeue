@@ -12802,7 +12802,6 @@ baskerville
 bookward
 bookwards
 byronite
-blankard
 bookworm
 bookwright
 booleans
@@ -16965,6 +16964,7 @@ brittler
 brassworks
 babylonic
 bulb
+blankard
 blandishers
 behears
 bonser
