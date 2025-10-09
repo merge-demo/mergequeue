@@ -2430,7 +2430,6 @@ equirotal
 electroencephalogram
 empeople
 entophytal
-espinel
 euphausid
 epitaxial
 earthnut
@@ -7723,6 +7722,7 @@ equidensity
 ephebic
 excriminate
 enforcer
+espinel
 execrably
 epipleurae
 etiological
