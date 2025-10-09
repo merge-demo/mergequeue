@@ -3719,7 +3719,6 @@ circuituously
 caratacus
 cynoidea
 caratch
-confocally
 chevaline
 carates
 candor
@@ -6667,6 +6666,7 @@ cochairman
 cedarwood
 ceded
 ceders
+confocally
 copepods
 cottiers
 cedilla
