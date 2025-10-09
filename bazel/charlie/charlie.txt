@@ -4184,7 +4184,6 @@ cardioneurosis
 cardiopath
 cardiopathic
 cardiophrenia
-capette
 chloanthite
 calthrop
 cardiopulmonary
@@ -9435,6 +9434,7 @@ citoyen
 clickless
 chazan
 chazanim
+capette
 chazans
 chazanut
 chazy
