@@ -3725,7 +3725,6 @@ bringall
 brucella
 barnstorms
 battler
-basocyte
 battleships
 barrace
 blushiness
@@ -9402,6 +9401,7 @@ butterflying
 brimse
 basidial
 boastless
+basocyte
 buriti
 baronetship
 bullyrook
