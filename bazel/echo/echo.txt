@@ -2462,7 +2462,6 @@ elean
 emerges
 ethanol
 electrogalvanization
-electrogenetic
 equivalence
 electrogenic
 electrogild
@@ -9942,6 +9941,7 @@ estral
 evermore
 exoccipital
 eructate
+electrogenetic
 episodal
 epididymitis
 esophagoptosis
