@@ -2463,6 +2463,7 @@ dunghill
 destrudo
 decipium
 diphase
+desaminase
 diplodocus
 dipyre
 decision
@@ -15915,7 +15916,6 @@ distileries
 dossmen
 dissemblies
 decamerous
-desaminase
 downcried
 dewaxes
 daydream
