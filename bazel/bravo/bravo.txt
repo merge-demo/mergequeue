@@ -2382,6 +2382,7 @@ bardcraft
 beleve
 buckhorn
 brabant
+brigandishly
 branchling
 bobtails
 bardess
@@ -2740,7 +2741,6 @@ backward
 boylas
 beltline
 bullbat
-brigandishly
 bismutoplagionite
 barolo
 bm
