@@ -12039,7 +12039,6 @@ disendow
 dagoes
 demideity
 desmodus
-disendows
 disenfranchisement
 devanagari
 demonkind
@@ -16563,6 +16562,7 @@ draggier
 diacritics
 drearier
 destinies
+disendows
 delomorphous
 dodecarchy
 dishallow
