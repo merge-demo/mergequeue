@@ -8852,7 +8852,6 @@ chaqueta
 commanders
 char
 conveyability
-crouchingly
 chara
 charabanc
 compensativeness
@@ -17071,6 +17070,7 @@ coacher
 counterdistinction
 conventually
 chelingos
+crouchingly
 coaches
 caprylin
 cornroot
