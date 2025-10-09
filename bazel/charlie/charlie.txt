@@ -15344,7 +15344,6 @@ crowdie
 critturs
 coexist
 clangful
-clanging
 clangingly
 corticoefferent
 clangorous
@@ -29228,6 +29227,7 @@ cogboat
 characid
 crippleness
 crippler
+clanging
 cripples
 creaser
 capillarity
