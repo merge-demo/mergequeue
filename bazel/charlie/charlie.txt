@@ -2580,6 +2580,7 @@ chlorotrifluoromethane
 catalan
 candroys
 ceraunograph
+carbona
 canduc
 crepier
 camphires
@@ -3838,7 +3839,6 @@ carbomethene
 carbomethoxy
 carbomethoxyl
 carbon
-carbona
 carbonaceous
 cuter
 cleavability
