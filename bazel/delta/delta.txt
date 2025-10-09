@@ -9507,7 +9507,6 @@ digestibility
 demark
 digestible
 dite
-digestibleness
 digestibly
 delesseriaceae
 decline
@@ -15942,6 +15941,7 @@ doters
 donable
 dotes
 dispreads
+digestibleness
 disbudded
 decadist
 doth
