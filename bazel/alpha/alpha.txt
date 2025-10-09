@@ -7056,7 +7056,6 @@ asporogenous
 arthropathy
 ameiotic
 allocation
-avgases
 akenobeite
 atavus
 akepiro
@@ -16239,6 +16238,7 @@ apophthegm
 antithalian
 antitheism
 antitheist
+avgases
 agrees
 affixer
 arthrocace
