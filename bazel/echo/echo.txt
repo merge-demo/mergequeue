@@ -832,7 +832,6 @@ ectocarpus
 eriophorum
 eosinophil
 ectocommensal
-ectocondylar
 endophytic
 efficient
 electrolyser
@@ -2850,6 +2849,7 @@ explicantia
 emasculator
 eventognath
 eleutherian
+ectocondylar
 eleutherios
 estuarian
 elytriferous
