@@ -12824,6 +12824,7 @@ doudle
 disconfirm
 dismayable
 dismayfully
+declension
 datagrams
 diathermancy
 doubty
@@ -18346,7 +18347,6 @@ dryerman
 duodena
 doubleton
 duodenate
-declension
 duodenation
 depurge
 degelation
