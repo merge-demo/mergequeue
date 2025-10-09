@@ -12435,6 +12435,7 @@ bicapitate
 backcast
 begloom
 bonbons
+batell
 barker
 bareboats
 bushiness
@@ -17684,7 +17685,6 @@ balancement
 bevomits
 bastardised
 birgus
-batell
 bordage
 blackfin
 blueings
