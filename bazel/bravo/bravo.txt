@@ -910,6 +910,7 @@ bookland
 bdellotomy
 bowstaff
 bagpipers
+boomkins
 bandyball
 bardiglio
 bismarine
@@ -3594,7 +3595,6 @@ bathometer
 bathometry
 blockmaking
 bathool
-boomkins
 bathophobia
 bathos
 bathrobes
