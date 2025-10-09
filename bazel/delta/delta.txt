@@ -8817,7 +8817,6 @@ defrocking
 dictaphone
 dequeen
 dragsmen
-diazoalkane
 depeter
 dragonkind
 diestruses
@@ -10518,6 +10517,7 @@ dozent
 dalar
 daglock
 diphthongize
+diazoalkane
 diphthongizing
 daubentoniidae
 didos
