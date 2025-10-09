@@ -1557,6 +1557,7 @@ eggs
 emplastra
 excerptive
 encyclopedial
+enigmas
 eupeptically
 ensconces
 erosible
@@ -5950,7 +5951,6 @@ expectorates
 enframing
 enigma
 egotism
-enigmas
 enjambements
 enigmata
 eluvial
