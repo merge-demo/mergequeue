@@ -7212,7 +7212,6 @@ endodontium
 ejidos
 enderon
 erythropoietic
-electrotropic
 ephemeromorphic
 eupnoeas
 exudate
@@ -9155,6 +9154,7 @@ epiloguize
 ectoenzyme
 ectocinerea
 encolor
+electrotropic
 ernes
 erode
 eosinophilic
