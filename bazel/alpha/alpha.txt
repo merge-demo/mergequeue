@@ -571,7 +571,6 @@ alphameric
 abnegates
 anthropomancy
 abrotanum
-abnegator
 aesthophysiology
 acriflavine
 arytenoidal
@@ -7616,6 +7615,7 @@ accident
 aktivist
 anabaptism
 anisokonia
+abnegator
 allograph
 adiactinic
 abstracters
