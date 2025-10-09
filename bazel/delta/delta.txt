@@ -3537,7 +3537,6 @@ deprivate
 defrayable
 disembarrassment
 dismissable
-digitalizing
 doom
 defrayers
 defraying
@@ -7552,6 +7551,7 @@ deuteration
 denucleate
 demarcator
 desulfurized
+digitalizing
 disenchain
 dittos
 dearnesses
