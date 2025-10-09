@@ -3108,7 +3108,6 @@ epicalyces
 even
 encomiums
 ecdysones
-endogenies
 echinorhinidae
 etheriidae
 entombed
@@ -11037,6 +11036,7 @@ earings
 euangiotic
 epipial
 eyne
+endogenies
 elderwomen
 episcopacies
 eliminator
