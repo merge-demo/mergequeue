@@ -9436,6 +9436,7 @@ chaws
 chawstick
 catering
 citoyen
+clickless
 chazan
 chazanim
 chazans
@@ -16093,7 +16094,6 @@ clubbishness
 commercialising
 commodious
 choux
-clickless
 clicks
 clidastes
 cinclidae
