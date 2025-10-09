@@ -2900,6 +2900,7 @@ cacaos
 cantabile
 clothesmonger
 chalcis
+coccoidal
 cantabrian
 cantabrigian
 cantalever
@@ -17637,7 +17638,6 @@ coccochromatic
 coccogone
 coccogoneae
 concyclically
-coccoidal
 coccolite
 counterresolution
 calabashes
