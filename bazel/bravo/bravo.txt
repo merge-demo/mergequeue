@@ -10286,7 +10286,6 @@ biochemy
 beastdom
 botargo
 boyang
-biflorous
 beehead
 beforehandedness
 brutalising
@@ -12570,6 +12569,7 @@ bakemeat
 burse
 bonitary
 bistroic
+biflorous
 bonitarian
 bonity
 bullhide
