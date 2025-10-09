@@ -7956,7 +7956,6 @@ dowitch
 didapper
 doublets
 delawarean
-dicarboxylic
 dex
 democritean
 dresden
@@ -11492,6 +11491,7 @@ digredience
 dekaliter
 dishier
 diplodia
+dicarboxylic
 deployments
 disaccharid
 discoideae
