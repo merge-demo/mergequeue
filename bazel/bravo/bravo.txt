@@ -2679,7 +2679,6 @@ barmcloth
 brither
 birdcage
 becoward
-bascules
 balmlike
 barnabas
 bales
@@ -9030,6 +9029,7 @@ biologist
 bedstands
 bioluminescence
 bewhite
+bascules
 brender
 bacterioagglutinin
 biomathematics
