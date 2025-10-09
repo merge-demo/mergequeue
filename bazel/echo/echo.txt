@@ -703,7 +703,6 @@ enspell
 equidistant
 eidently
 enode
-eutelegenic
 eyefuls
 equalable
 embryographer
@@ -3435,6 +3434,7 @@ evacuate
 eventide
 embellisher
 embellishers
+eutelegenic
 enchained
 encolden
 emmer
