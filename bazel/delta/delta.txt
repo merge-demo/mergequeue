@@ -3337,7 +3337,6 @@ distrait
 definiteness
 dahlin
 deergrass
-degeneracy
 definitiones
 disregards
 definitions
@@ -10380,6 +10379,7 @@ dowsing
 dozened
 derelictly
 defervescing
+degeneracy
 dioramic
 diordinal
 duplet
