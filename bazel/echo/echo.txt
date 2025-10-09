@@ -4134,6 +4134,7 @@ eclegm
 extracranial
 energids
 expungement
+erythrodermia
 eczematous
 externum
 encl
@@ -9067,7 +9068,6 @@ ellipsometer
 erythrocytoschisis
 editorialist
 erythrocytosis
-erythrodermia
 embryogony
 ectasia
 epistropheus
