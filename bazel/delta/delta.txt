@@ -1390,7 +1390,6 @@ demilitarize
 dispel
 downdale
 dismain
-demonomanie
 dispraiser
 dorsiflexor
 digitals
@@ -16750,6 +16749,7 @@ downline
 drapetomania
 draping
 diswood
+demonomanie
 drastic
 dirtfarmer
 drastically

@@ -5892,6 +5892,7 @@ balopticon
 bellmaking
 banquo
 bachel
+bacteriophagia
 buckbrush
 baronship
 bellmanship
@@ -9118,7 +9119,6 @@ biorhythm
 butyrins
 biorhythmicity
 bevellers
-bacteriophagia
 bios
 bargander
 biosciences
