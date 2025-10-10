@@ -10755,7 +10755,6 @@ extrasystolic
 ethylenation
 elderbush
 euphonic
-enid
 ephemerae
 enclaret
 endorsee
@@ -13724,6 +13723,7 @@ extersive
 exerting
 epitrochoidal
 ectosphere
+enid
 extincted
 extincting
 enterostomies
