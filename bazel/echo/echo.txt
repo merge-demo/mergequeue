@@ -2898,7 +2898,6 @@ eurydice
 elf
 elfenfolk
 endogeny
-entablature
 elfinwood
 exfoliating
 extremity
@@ -6451,6 +6450,7 @@ eobionts
 edental
 evenmete
 euctical
+entablature
 ectropionize
 eskars
 eyeflap
