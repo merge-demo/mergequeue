@@ -16918,6 +16918,7 @@ cheyney
 charca
 clumber
 clump
+cryostase
 contemper
 caline
 cycadean
@@ -29209,7 +29210,6 @@ criosphinx
 chromatospheric
 criosphinxes
 catrigged
-cryostase
 cryostat
 cryosurgeon
 cryosurgery
