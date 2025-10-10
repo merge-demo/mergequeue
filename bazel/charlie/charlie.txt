@@ -10686,7 +10686,6 @@ chanteys
 chimeric
 coptic
 calci
-cavies
 caribou
 cytoplasmic
 chimes
@@ -25450,6 +25449,7 @@ cohert
 cornrick
 cornrow
 cornstalks
+cavies
 cunner
 cebian
 cornstarch
