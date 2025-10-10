@@ -4495,7 +4495,6 @@ elsewhat
 enforcing
 exterminator
 encephalomas
-escudo
 encephalomeningocele
 evenglome
 endoerythrocytic
@@ -12651,6 +12650,7 @@ exogenae
 esophagostomy
 encratism
 exogenously
+escudo
 examplar
 exogyra
 enterogram
