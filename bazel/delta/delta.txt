@@ -1669,7 +1669,6 @@ docksides
 dearborn
 dumortierite
 dearest
-derides
 dyne
 deposition
 deadeners
@@ -4081,6 +4080,7 @@ domicil
 dismissible
 delicatessen
 dynam
+derides
 dustoor
 dominance
 delice
