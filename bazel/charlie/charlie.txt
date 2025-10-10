@@ -9193,6 +9193,7 @@ chase
 chaseable
 chased
 corbeilles
+crestfallenly
 chases
 chashitsu
 chasm
@@ -15796,7 +15797,6 @@ cleansable
 cellists
 cleanse
 centrarchidae
-crestfallenly
 crocoite
 cleansers
 codescendant
