@@ -940,7 +940,6 @@ absorbing
 absorpt
 absorptiometer
 allegeable
-alive
 analcites
 absorptional
 aggregate
@@ -2146,6 +2145,7 @@ achiotes
 alinasal
 achirite
 achkan
+alive
 alcovinometer
 acidhead
 aimfully
