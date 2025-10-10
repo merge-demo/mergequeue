@@ -9605,6 +9605,7 @@ drachm
 departisanize
 deglazes
 dignitary
+diacodion
 dignitarian
 demophoon
 doubloons
@@ -11835,7 +11836,6 @@ deferrals
 dislodges
 discriminoid
 decemberly
-diacodion
 disgregate
 dyscrinism
 discrown
