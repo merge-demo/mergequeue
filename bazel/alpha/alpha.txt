@@ -7947,7 +7947,6 @@ alerting
 antiroyal
 alertly
 ales
-anion
 alesan
 arenicolous
 alestake
@@ -8606,6 +8605,7 @@ allegiance
 allegiancy
 allegiant
 acidosis
+anion
 admonitor
 apoharmine
 aqueduct
