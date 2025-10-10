@@ -5606,7 +5606,6 @@ draftable
 depended
 dolichopellic
 dependence
-desensitizes
 dependingly
 drouthiness
 depends
@@ -15209,6 +15208,7 @@ disproperty
 decants
 denticete
 dolichocephalize
+desensitizes
 disingenuously
 derepress
 dermohemal
