@@ -7546,7 +7546,6 @@ etesians
 espiglerie
 exocarp
 experienceable
-epicede
 exion
 encephalitogenic
 eroticomaniac
@@ -13736,6 +13735,7 @@ extinctor
 ententophil
 etaballi
 ectoenzym
+epicede
 enzyme
 extinguished
 extinguisher
