@@ -3557,7 +3557,6 @@ daybeam
 demoniast
 deoxygenizing
 developedness
-defunct
 descendence
 discredence
 derivably
@@ -9327,6 +9326,7 @@ deobstruent
 dietic
 decolorant
 dietitians
+defunct
 dtset
 diplomat
 dietotherapy
