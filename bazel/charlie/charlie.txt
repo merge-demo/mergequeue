@@ -26633,7 +26633,6 @@ counselable
 coronobasilar
 counseled
 champagned
-counselee
 counsellable
 curer
 counsellor
@@ -29391,6 +29390,7 @@ cryptos
 cryptoscope
 cryptoscopy
 cryptosplenetic
+counselee
 cryptostome
 cryptous
 cryptovalence
