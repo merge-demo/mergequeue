@@ -6659,6 +6659,7 @@ cecum
 cecums
 cecutiency
 cedar
+cgs
 cedary
 conveyable
 convolvement
@@ -9050,7 +9051,6 @@ celestiality
 cookings
 charlatanic
 charlatanistic
-cgs
 charlatans
 charleys
 compaa
