@@ -1954,7 +1954,6 @@ dermohumeral
 disyllabism
 deburr
 divulgatory
-debus
 decanally
 defying
 debused
@@ -2401,6 +2400,7 @@ decylic
 dorsiparous
 deciliter
 druidry
+debus
 doodads
 dispelled
 donny
