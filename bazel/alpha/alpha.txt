@@ -1120,6 +1120,7 @@ anguliferous
 acacatechol
 acacia
 albuminous
+avg
 acacian
 acacias
 apparitions
@@ -24716,7 +24717,6 @@ aristida
 artisans
 amalfian
 aveugle
-avg
 assenting
 avians
 abreactions
