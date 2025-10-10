@@ -1454,6 +1454,7 @@ emunct
 exenteritis
 epipleural
 envelop
+encalendar
 enfarce
 euhemerism
 efforts
@@ -10863,7 +10864,6 @@ esodic
 enologist
 excised
 exanthematic
-encalendar
 emblazonment
 examinationism
 euphemisation
