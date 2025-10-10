@@ -5683,6 +5683,7 @@ brasiers
 bocher
 busks
 boraciferous
+buffet
 benjoin
 bylaw
 besped
@@ -13779,7 +13780,6 @@ bestrowed
 bovinities
 begazes
 buffered
-buffet
 blesseder
 bedlam
 bogs
