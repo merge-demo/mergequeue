@@ -168,7 +168,6 @@ expressive
 elses
 escallop
 enticed
-echinostome
 echidna
 earthmaker
 engelmanni
@@ -7745,6 +7744,7 @@ emergents
 englify
 ensure
 emendable
+echinostome
 equips
 edelweisses
 entelam
