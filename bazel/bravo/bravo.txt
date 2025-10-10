@@ -2617,7 +2617,6 @@ batman
 balistarii
 belostoma
 bumpkinly
-broncs
 barkier
 buttonhook
 bravery
@@ -4129,6 +4128,7 @@ balminess
 beslimer
 beards
 birthroot
+broncs
 bombazette
 bedrenched
 bras
