@@ -3518,7 +3518,6 @@ addr
 allotheistic
 actinography
 azores
-addressable
 antics
 avestan
 addressers
@@ -4744,6 +4743,7 @@ aisleless
 artolatry
 attributes
 afterburner
+addressable
 aepyornithidae
 aepyornithiformes
 aggrieves
