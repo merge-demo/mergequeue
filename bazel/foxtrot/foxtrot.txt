@@ -3906,6 +3906,7 @@ fevertrap
 footslogged
 fluidextract
 findable
+frenchwise
 fruz
 function
 foreshop
@@ -8539,7 +8540,6 @@ formulisation
 friaries
 famulus
 fred
-frenchwise
 fascisticize
 foretasted
 fluorographic
