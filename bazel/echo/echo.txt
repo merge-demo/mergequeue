@@ -2157,6 +2157,7 @@ ensorceling
 explicandum
 electropult
 elation
+epidiascope
 enrib
 effloresces
 extrapolar
@@ -7750,7 +7751,6 @@ edelweisses
 entelam
 ethinamate
 empasma
-epidiascope
 engraff
 ecce
 epichilia
