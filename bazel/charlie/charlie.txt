@@ -2697,7 +2697,6 @@ cankerbird
 carriable
 conder
 cankereat
-cankered
 codders
 cephalosporium
 cording
@@ -3143,6 +3142,7 @@ cornette
 capeline
 chondrocele
 crocked
+cankered
 capelins
 capella
 coatimondie
