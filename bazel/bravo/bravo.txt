@@ -9244,7 +9244,6 @@ bogo
 backhauling
 bourbonesque
 bipedality
-bipeds
 bipeltate
 bipennate
 brunches
@@ -10969,6 +10968,7 @@ bael
 bellhop
 batement
 benchmar
+bipeds
 blinkingly
 blinter
 batel
