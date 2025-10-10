@@ -10832,7 +10832,6 @@ beplumed
 broses
 blepharoplastic
 blepharoptosis
-blepharosynechia
 blepharosphincterectomy
 bunchberry
 bulldoggy
@@ -17920,6 +17919,7 @@ badly
 bushidos
 bractless
 broadaxes
+blepharosynechia
 bahmanid
 belton
 brahmanda
