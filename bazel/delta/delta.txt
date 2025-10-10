@@ -327,7 +327,6 @@ desand
 desquamative
 desmidiaceae
 dunkadoo
-demobs
 dipsacaceae
 daydawn
 drugged
@@ -9826,6 +9825,7 @@ dermatocyst
 dillesk
 daimones
 denumerable
+demobs
 deicer
 digesters
 dumetose
