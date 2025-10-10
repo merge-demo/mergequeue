@@ -6201,7 +6201,6 @@ caucasian
 caucasians
 carcan
 caucasic
-colombo
 chinantecan
 cauch
 cauchillo
@@ -28631,6 +28630,7 @@ chemicomechanical
 crossbowmen
 coccogonium
 condisciple
+colombo
 chally
 catechus
 cremation
