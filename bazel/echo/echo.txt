@@ -8743,7 +8743,6 @@ equivelocity
 encrotchet
 exteriorized
 expatiator
-equivocal
 exuperable
 extermination
 eulogising
@@ -11516,6 +11515,7 @@ enforced
 encheiria
 elixate
 erotylid
+equivocal
 exhaling
 eserin
 extractable
