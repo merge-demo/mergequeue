@@ -4096,7 +4096,6 @@ branchier
 bradyacousia
 beano
 bagge
-beans
 blokes
 beansetter
 beanshooter
@@ -4205,6 +4204,7 @@ beatifies
 batholite
 bouchees
 beatitude
+beans
 bandel
 bestially
 bioscientific
