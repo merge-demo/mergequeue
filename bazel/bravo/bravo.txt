@@ -2902,7 +2902,6 @@ bestride
 badinage
 barrater
 barratries
-blabbermouth
 becrawls
 barratrously
 barrelage
@@ -4304,6 +4303,7 @@ battledore
 bacterious
 bayish
 bebreech
+blabbermouth
 backcourtman
 bebrother
 blouselike
