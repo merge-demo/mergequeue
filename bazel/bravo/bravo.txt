@@ -9075,7 +9075,6 @@ burnouts
 boldface
 brev
 biophagism
-biophilous
 biophysic
 biophysiography
 balibuntal
@@ -13958,6 +13957,7 @@ boxhauled
 brierberry
 boxhauling
 boxhauls
+biophilous
 bowwow
 bethels
 bumbershoot
