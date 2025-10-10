@@ -3709,7 +3709,6 @@ anchorhold
 autere
 alcoothionic
 agillawood
-adversative
 annihilating
 awfully
 asystematic
@@ -17606,6 +17605,7 @@ alkalizate
 afforced
 appersonation
 appersonification
+adversative
 awearied
 appert
 athematic
