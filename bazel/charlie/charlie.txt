@@ -5883,7 +5883,6 @@ capuli
 contiguous
 cubistically
 caterbrawl
-catercap
 catercorner
 camsteary
 caller
@@ -28713,6 +28712,7 @@ contin
 creephole
 cyrilla
 calcining
+catercap
 clung
 crenothrix
 crenula
