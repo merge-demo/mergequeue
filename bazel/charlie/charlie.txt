@@ -4555,7 +4555,6 @@ convulsed
 carnelian
 carneole
 coroner
-chartula
 coacervating
 citoler
 carnets
@@ -14657,6 +14656,7 @@ campodeiform
 cystophora
 calumet
 cystophore
+chartula
 cistophorus
 coadjustment
 cystophotography
