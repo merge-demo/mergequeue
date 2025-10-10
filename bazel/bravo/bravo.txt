@@ -5138,7 +5138,6 @@ beflap
 beflea
 brainier
 bombable
-belching
 borderers
 boussingaultite
 bunrakus
@@ -16952,6 +16951,7 @@ bedewoman
 buildups
 bordure
 bespeakable
+belching
 bedwarmer
 backland
 briolettes
