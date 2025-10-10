@@ -2553,6 +2553,7 @@ eatable
 ezra
 electrometallurgist
 emptiable
+elance
 electrometer
 exstrophy
 earthgrubber
@@ -10468,7 +10469,6 @@ enteroviral
 epochist
 exalate
 encroachingly
-elance
 etiquette
 entocranial
 erectilities
