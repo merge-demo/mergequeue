@@ -2452,7 +2452,6 @@ barer
 bares
 bounceably
 bezonian
-baresark
 backpackers
 bononian
 beseemingness
@@ -10868,6 +10867,7 @@ blew
 bodilessness
 blewits
 blick
+baresark
 batekes
 bongrace
 betone
