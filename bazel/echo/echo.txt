@@ -1314,6 +1314,7 @@ equilibristat
 enclog
 effectuated
 encastage
+eliminant
 effectuating
 effervesced
 exuberate
@@ -2939,7 +2940,6 @@ enricher
 exploiters
 epagomenal
 endoplast
-eliminant
 ennoblers
 ethid
 elicitors
