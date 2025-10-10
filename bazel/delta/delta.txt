@@ -3798,7 +3798,6 @@ dor
 dwale
 disgracia
 drillable
-dateable
 dynamites
 distrain
 deice
@@ -5046,6 +5045,7 @@ denarinarii
 deluder
 dropshots
 denaro
+dateable
 dawdy
 dejectedness
 depr
