@@ -8112,7 +8112,6 @@ cagayan
 ceroxylon
 capitulum
 chaferies
-chafers
 caranx
 chafes
 chafewax
@@ -26866,6 +26865,7 @@ cassoon
 countergirded
 contest
 counterguard
+chafers
 counterguerilla
 courtless
 coraciiformes
