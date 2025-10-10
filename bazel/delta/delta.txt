@@ -3560,7 +3560,6 @@ developedness
 defunct
 descendence
 discredence
-derivably
 dawcock
 drumlin
 defunction
@@ -18331,6 +18330,7 @@ doxy
 duotriacontane
 dreng
 dryas
+derivably
 didachist
 duodecimfid
 dalarnian
