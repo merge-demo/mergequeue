@@ -2982,7 +2982,6 @@ distrainment
 deductive
 deductory
 deducts
-deduplication
 despoliations
 deecodder
 demobilise
@@ -15664,6 +15663,7 @@ dopey
 decrements
 doper
 doorposts
+deduplication
 dopy
 demoniacal
 dopier
