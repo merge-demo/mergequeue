@@ -2915,7 +2915,6 @@ decwriter
 deltoid
 divia
 dashel
-dedanite
 dedecorous
 divide
 desmodont
@@ -8308,6 +8307,7 @@ diagonalwise
 denudate
 demonization
 diagonial
+dedanite
 diagonic
 drum
 diagram
