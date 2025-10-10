@@ -24065,7 +24065,6 @@ comps
 convergency
 columbary
 convergent
-chemoceptor
 converges
 converging
 conversable
@@ -30639,6 +30638,7 @@ contravened
 chilidog
 crustosis
 cuculle
+chemoceptor
 cuculliform
 cuculoid
 counterreform
