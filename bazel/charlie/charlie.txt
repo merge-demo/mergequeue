@@ -18148,7 +18148,6 @@ cacopharyngia
 coenotype
 coenotypic
 coenotrope
-coenthrone
 colatorium
 coenunuri
 coleochaetaceae
@@ -26461,6 +26460,7 @@ crowbars
 calli
 cotqueans
 courbache
+coenthrone
 cotransduction
 cotransfuse
 cotranslator
