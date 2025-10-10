@@ -2324,7 +2324,6 @@ bathonian
 barbierite
 busyish
 blatancies
-bromite
 briber
 barbita
 barbital
@@ -13761,6 +13760,7 @@ buffers
 bouw
 butle
 bigheads
+bromite
 bouzoukia
 bouzoukis
 bloat
