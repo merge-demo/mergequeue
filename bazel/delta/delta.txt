@@ -5829,7 +5829,6 @@ datableness
 diaxial
 distalwards
 dourines
-desmotropism
 dacker
 deepnesses
 decoupled
@@ -17185,6 +17184,7 @@ dryops
 dryopteroid
 disagio
 dysmerism
+desmotropism
 dripolator
 deaves
 dribbing
