@@ -5773,6 +5773,7 @@ awl
 agaricaceous
 agaricoid
 agarics
+anhysteretic
 apluda
 aleurodidae
 acephalia
@@ -13038,7 +13039,6 @@ abidances
 ancillas
 anakinetic
 aradid
-anhysteretic
 agrologist
 anils
 aerogels
