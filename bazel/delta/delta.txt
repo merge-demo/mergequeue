@@ -9274,7 +9274,6 @@ dimnesses
 dictynid
 docibleness
 dier
-dyer
 dementis
 dochmii
 dieresis
@@ -16905,6 +16904,7 @@ dreamhole
 dreamy
 dipladenia
 discriminations
+dyer
 decilitre
 doubletone
 distortable
