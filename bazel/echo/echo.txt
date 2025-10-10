@@ -862,7 +862,6 @@ eigenfunction
 erythrocytolysin
 electrocution
 encomiastical
-endophyte
 entailed
 ectomorph
 ectoparasite
@@ -9433,6 +9432,7 @@ epistemonical
 effeminised
 eggshell
 escheats
+endophyte
 enamber
 eschel
 eschele
