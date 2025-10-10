@@ -3061,6 +3061,7 @@ enjoy
 expurgational
 ellenyard
 escribed
+encoder
 embryographic
 equilater
 emetia
@@ -9920,7 +9921,6 @@ enskies
 extravertive
 effemination
 expiatoriness
-encoder
 economizer
 epipterygoid
 exprimable
