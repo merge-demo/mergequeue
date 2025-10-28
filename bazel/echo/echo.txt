@@ -926,6 +926,7 @@ eyelashes
 ectromelus
 efreet
 equipping
+exposes
 endowments
 endorsements
 electrophoretic
@@ -13358,7 +13359,6 @@ ethnogeographically
 egyptize
 emporiria
 extraenteric
-exposes
 encrustant
 envassalage
 encrownment
