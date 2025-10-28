@@ -2509,7 +2509,6 @@ barghests
 boccia
 blueblack
 beslash
-bassetite
 bottonhook
 barguest
 barguests
@@ -12763,6 +12762,7 @@ bookmobiles
 baroni
 burlesk
 bookpress
+bassetite
 bookracks
 blacklegging
 baronry
