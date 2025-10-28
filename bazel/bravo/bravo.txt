@@ -832,7 +832,6 @@ buoyages
 battologizing
 brecciation
 baga
-benzenoid
 biochron
 bromodeoxyuridine
 billikin
@@ -15875,6 +15874,7 @@ basan
 bopyridian
 bromgelatin
 bromhydrate
+benzenoid
 besprinkling
 bromid
 bourignianist
