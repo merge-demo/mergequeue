@@ -12156,7 +12156,6 @@ crupper
 conjecturalist
 chresard
 copeognatha
-chresmology
 chrestomathics
 chrestomathies
 celluliferous
@@ -16599,6 +16598,7 @@ clanning
 caps
 collateralize
 contraparallelogram
+chresmology
 complicities
 clonic
 clonicity
