@@ -5756,7 +5756,6 @@ beamful
 bloomery
 blankite
 budge
-bencite
 believingly
 brerd
 burials
@@ -10271,6 +10270,7 @@ broomwort
 blackpatch
 belongings
 beavering
+bencite
 brominism
 blennorrhoea
 bilobiate
