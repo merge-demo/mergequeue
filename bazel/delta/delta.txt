@@ -3373,7 +3373,6 @@ decolor
 disrestore
 dynagraph
 dithionate
-deflagrator
 deflating
 discommend
 drumslade
@@ -3489,6 +3488,7 @@ disjunct
 debilitant
 dichroscope
 decelerating
+deflagrator
 dehydrochlorination
 dorosacral
 decompressed
