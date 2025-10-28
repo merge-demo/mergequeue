@@ -13715,6 +13715,7 @@ disaltern
 distils
 dissident
 decentered
+dicyclic
 duecento
 disulphuric
 dialkyl
@@ -16878,7 +16879,6 @@ defortify
 decanically
 deaired
 ddt
-dicyclic
 diiambus
 dataria
 drona
