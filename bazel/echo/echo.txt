@@ -1633,6 +1633,7 @@ explanatively
 elchee
 exotoxin
 ehretiaceae
+encodes
 env
 entrez
 enterobacterium
@@ -9877,7 +9878,6 @@ endothermous
 excludingly
 enstatite
 equivalency
-encodes
 epidemical
 enodally
 encave
