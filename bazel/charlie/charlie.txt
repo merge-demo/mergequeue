@@ -2853,7 +2853,6 @@ canoniser
 cephalothoraces
 coambassador
 canonising
-canonist
 canonistical
 canonized
 catapult
@@ -11419,6 +11418,7 @@ creature
 chloroquine
 coronas
 camagon
+canonist
 cyclamates
 cloudlessly
 counterpillar
