@@ -5676,7 +5676,6 @@ flinkite
 flint
 fluffer
 ferratin
-focimetry
 footpound
 folioliferous
 fresnels
@@ -10247,6 +10246,7 @@ franconian
 finespun
 formolit
 frankeniaceae
+focimetry
 fruticant
 fleshly
 fadedness
