@@ -16674,7 +16674,6 @@ drainfield
 disvelop
 drainman
 disgross
-downsman
 daiva
 drogoman
 degums
@@ -18453,6 +18452,7 @@ disulphuret
 degreased
 disodic
 debordment
+downsman
 dints
 demerge
 distrusts
