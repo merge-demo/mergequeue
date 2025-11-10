@@ -5775,6 +5775,7 @@ deconsider
 depoh
 decd
 depolarise
+dehumidify
 depolarization
 dernly
 depolarize
@@ -12993,7 +12994,6 @@ dysorexia
 dusack
 disorganise
 disorganised
-dehumidify
 deuteranopia
 designers
 despisal
