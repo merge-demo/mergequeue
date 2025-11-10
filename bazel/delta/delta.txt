@@ -9303,7 +9303,6 @@ disambiguations
 daikering
 diurne
 daguerreotyper
-dewar
 dietaries
 deosculate
 disploding
@@ -16449,6 +16448,7 @@ dunnesses
 dacoities
 drabbling
 doubler
+dewar
 drabler
 dextropinene
 dublin
