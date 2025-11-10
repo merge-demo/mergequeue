@@ -6212,7 +6212,6 @@ ellipsoid
 erasure
 exodist
 enophthalmus
-executable
 enorm
 explorement
 exhalations
@@ -7740,6 +7739,7 @@ edelweisses
 entelam
 ethinamate
 empasma
+executable
 epidiascope
 engraff
 ecce
