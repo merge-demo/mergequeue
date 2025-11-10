@@ -3933,6 +3933,7 @@ buttonholes
 butternose
 bdellium
 bdelliums
+brownist
 bdelloid
 bdellometer
 boarts
@@ -16236,7 +16237,6 @@ bourock
 brownish
 brownishness
 brindles
-brownist
 burlesqued
 bundh
 balun
