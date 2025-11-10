@@ -3870,7 +3870,6 @@ adipopexia
 adipopexis
 apolline
 aleft
-adiposity
 acrook
 abdominoscope
 adiposuria
@@ -16744,6 +16743,7 @@ antikamnia
 aphanitic
 aphetize
 armours
+adiposity
 aphidivorous
 aphidolysin
 autopsychorhythmia
