@@ -1201,7 +1201,6 @@ brownstones
 buttinskies
 bakersfield
 bakes
-belzebub
 bakeshop
 brevicomis
 bakie
@@ -11466,6 +11465,7 @@ boatheader
 bairnliest
 bluepoint
 bluepoints
+belzebub
 blueprint
 blancmange
 blazingly
