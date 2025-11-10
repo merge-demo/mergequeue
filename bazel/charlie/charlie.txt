@@ -13090,7 +13090,6 @@ countrypeople
 cyathiform
 connivent
 cyathophyllum
-cyathos
 cyathus
 confest
 cibarial
@@ -19386,6 +19385,7 @@ colophonic
 colophons
 coloppe
 chrimsel
+cyathos
 coloproctitis
 coloptosis
 colopuncture
