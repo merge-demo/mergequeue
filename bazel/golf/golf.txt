@@ -6711,7 +6711,6 @@ gigs
 gastronephritis
 gonidic
 genes
-gambled
 gauges
 googols
 gyrostats
@@ -7292,6 +7291,7 @@ grossness
 griddlecake
 goyetian
 greyling
+gambled
 ganglion
 gyrostatic
 genet
