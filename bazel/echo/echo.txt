@@ -4385,7 +4385,6 @@ eperva
 encadre
 ender
 emphasised
-encage
 electrobioscopy
 endoparasite
 environmentally
@@ -11102,6 +11101,7 @@ eusthenopteron
 electros
 espies
 esquiredom
+encage
 entune
 emulated
 emblemish
