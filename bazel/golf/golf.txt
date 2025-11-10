@@ -4456,6 +4456,7 @@ gypped
 giardia
 gyp
 gundog
+gutturality
 graves
 generaliter
 greffier
@@ -9237,7 +9238,6 @@ grithbreach
 griths
 gritted
 grittie
-gutturality
 grivna
 galeres
 grizzel
