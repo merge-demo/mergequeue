@@ -2186,6 +2186,7 @@ bewilders
 bestove
 baramin
 bertat
+bromocyanid
 backflash
 briscola
 bararite
@@ -10362,7 +10363,6 @@ bordman
 boil
 boozers
 blame
-bromocyanid
 blamefully
 bicyclical
 betise
