@@ -7184,6 +7184,7 @@ briskish
 bandhor
 biaxial
 bonduc
+barret
 backless
 besprinkles
 bachelorism
@@ -10577,7 +10578,6 @@ blate
 blately
 blateness
 bhisti
-barret
 ballogan
 brasseys
 bugshas
