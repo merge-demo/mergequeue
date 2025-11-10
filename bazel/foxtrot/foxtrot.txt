@@ -75,7 +75,6 @@ felonious
 furthers
 flysch
 fordeal
-frets
 fullfaces
 facundity
 facemark
@@ -4958,6 +4957,7 @@ fourflushers
 flameouts
 fictileness
 forbiddingness
+frets
 farmhold
 flamers
 fictionist
