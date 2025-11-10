@@ -3014,7 +3014,6 @@ cantling
 canto
 confederatism
 cortege
-carlism
 colander
 cantonal
 cantonalism
@@ -8324,6 +8323,7 @@ chaliced
 chalicosis
 chalicothere
 chalicotheriid
+carlism
 crummable
 chalicotheriidae
 cephalohumeralis
