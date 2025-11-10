@@ -13183,6 +13183,7 @@ abow
 aftereffects
 adornments
 almaine
+alleviant
 animist
 antigraft
 aecium
@@ -17275,7 +17276,6 @@ aportlast
 aposaturnium
 aposia
 aposiopesis
-alleviant
 aposiopetic
 americanize
 arbalest
