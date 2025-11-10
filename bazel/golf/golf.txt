@@ -3207,7 +3207,6 @@ gluttons
 girtonian
 gap
 ghosty
-gifting
 gilgul
 goldenwing
 galoot
@@ -4691,6 +4690,7 @@ geisothermal
 glycerate
 gigged
 galchic
+gifting
 gelatia
 giraffes
 generis
