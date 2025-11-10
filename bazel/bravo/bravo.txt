@@ -3663,7 +3663,6 @@ barrelsful
 besetting
 benzophenol
 bardolater
-bangia
 bottomchrome
 bunsen
 books
@@ -15121,6 +15120,7 @@ bugeyed
 brevit
 brevity
 brevities
+bangia
 bretwalda
 byeworker
 buccinae
