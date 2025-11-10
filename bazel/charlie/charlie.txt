@@ -3414,7 +3414,6 @@ checkhook
 capriccetto
 capricci
 capriccio
-cunctatious
 curliewurlie
 capriccioso
 carers
@@ -16615,6 +16614,7 @@ clonic
 clonicity
 cytophaga
 clonicotonic
+cunctatious
 coexecutrix
 clonisms
 chaudron
