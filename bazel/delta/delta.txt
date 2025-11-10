@@ -2244,7 +2244,6 @@ drummed
 diapyetic
 deceiving
 defuzes
-deflex
 domineerer
 distractibility
 dustbox
@@ -8597,6 +8596,7 @@ druggists
 diaphone
 diaphones
 dexterously
+deflex
 diaphony
 diaphysial
 diaphonic
