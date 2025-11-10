@@ -1950,6 +1950,7 @@ baylet
 baneberry
 benzoflavine
 bullragging
+bitwise
 bentiness
 bolshy
 belk
@@ -15525,7 +15526,6 @@ bargeload
 brioches
 backspier
 bisso
-bitwise
 bimas
 beadlet
 bryony
