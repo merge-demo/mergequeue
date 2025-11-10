@@ -4837,6 +4837,7 @@ deparliament
 demolisher
 demolishing
 daily
+discide
 discharge
 demolition
 demolitionist
@@ -11485,7 +11486,6 @@ draconis
 distorted
 desertless
 diverted
-discide
 discobolos
 dewiest
 disbelieving
