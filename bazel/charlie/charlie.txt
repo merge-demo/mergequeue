@@ -17236,7 +17236,6 @@ coalescency
 candlesnuffer
 coalescent
 combustibility
-coalesces
 coalescing
 choya
 coalfield
@@ -28907,6 +28906,7 @@ cardiacean
 chiffrobe
 crevis
 crew
+coalesces
 curability
 ctge
 crewed
