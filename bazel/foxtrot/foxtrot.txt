@@ -2359,7 +2359,6 @@ friarly
 funerary
 favel
 femineity
-fere
 frightener
 fanhouse
 feres
@@ -11049,6 +11048,7 @@ friendliness
 fermented
 fumuli
 fungated
+fere
 fascias
 funambulator
 feels
