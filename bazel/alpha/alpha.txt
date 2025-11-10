@@ -27,7 +27,6 @@ agreges
 arrogations
 ab
 accumulativeness
-anaphoric
 assurate
 artemon
 avernus
@@ -2274,6 +2273,7 @@ adjectitious
 attempers
 acidaspis
 acider
+anaphoric
 azimech
 acidy
 acetamid
