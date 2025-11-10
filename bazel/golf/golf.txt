@@ -2937,6 +2937,7 @@ ganymede
 gusts
 geodynamic
 germanophile
+gaddang
 guilt
 gurkha
 gollop
@@ -10793,7 +10794,6 @@ geochronologic
 gareth
 gynomonoecious
 gilbert
-gaddang
 glyptography
 gewgawy
 gavot
