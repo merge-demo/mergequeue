@@ -3078,7 +3078,6 @@ gali
 gubat
 gibbol
 glossarist
-gliff
 garo
 geophilid
 galvanoscopic
@@ -8102,6 +8101,7 @@ gemsboks
 galuth
 gallies
 granulization
+gliff
 ghastful
 gleek
 gallicization
