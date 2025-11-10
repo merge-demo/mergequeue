@@ -10118,7 +10118,6 @@ barytic
 bewhiskered
 blabbering
 blabbermouths
-blabbers
 blabbing
 blabmouth
 beamish
@@ -18225,6 +18224,7 @@ blackwort
 beshod
 bourran
 bottlelike
+blabbers
 butterfish
 besquirt
 butterpaste
