@@ -675,7 +675,6 @@ boiseries
 baculoid
 baculus
 badaga
-badarian
 biorgan
 buncombe
 bumbarge
@@ -16124,6 +16123,7 @@ beardtongue
 broomballer
 blasphemers
 biologic
+badarian
 broomiest
 bulletins
 buccocervical
