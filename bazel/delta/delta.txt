@@ -3057,7 +3057,6 @@ deerstalkers
 detailist
 deerstalking
 deerweed
-deerweeds
 dollyway
 deescalate
 deeses
@@ -6796,6 +6795,7 @@ delate
 deceased
 desilt
 disregular
+deerweeds
 dihedral
 depraving
 dodecatyl
