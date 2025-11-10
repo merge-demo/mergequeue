@@ -18580,7 +18580,6 @@ arcatures
 acraeinae
 arcboutant
 abundances
-apraxia
 arccos
 appomattoc
 astrocaryum
@@ -18775,6 +18774,7 @@ alebench
 adoxaceae
 angioneoplasm
 archenia
+apraxia
 archeocyte
 acneform
 archeolithic
