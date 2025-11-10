@@ -2824,7 +2824,6 @@ bulkiest
 baudery
 beclap
 barothermograph
-barothermohygrograph
 barotrauma
 bulgurs
 behowling
@@ -10249,6 +10248,7 @@ boyd
 breakpoints
 blacklister
 beparse
+barothermohygrograph
 blacklists
 brainer
 beclamour
