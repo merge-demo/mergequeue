@@ -243,7 +243,6 @@ actinochemical
 adenomata
 abbreviates
 achariaceous
-abbreviation
 abc
 angiohypotonia
 abcoulomb
@@ -20353,6 +20352,7 @@ antipsoric
 apologizing
 afterdamp
 arsenolite
+abbreviation
 aphidious
 arsenophen
 agrafes
