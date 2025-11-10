@@ -2971,6 +2971,7 @@ describers
 decemfid
 deductio
 deductions
+disdub
 dwarfism
 distrainment
 deductive
@@ -4040,7 +4041,6 @@ demur
 deleteriousness
 dirge
 deletions
-disdub
 departmentize
 dehumanizing
 dealership
