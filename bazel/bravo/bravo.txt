@@ -1379,6 +1379,7 @@ baldhead
 bilestone
 baldheads
 bandager
+bilcock
 braise
 bushings
 biglot
@@ -8462,7 +8463,6 @@ bilbo
 bandsawed
 bleachyard
 blessed
-bilcock
 bellehood
 bildar
 bullshot
