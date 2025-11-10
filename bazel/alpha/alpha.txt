@@ -13380,7 +13380,6 @@ ankylotic
 anklejack
 ankles
 aetolian
-armament
 aminase
 assimilatory
 ameban
@@ -24098,6 +24097,7 @@ antigenicity
 autofrettage
 autogamic
 autogamous
+armament
 afreets
 autolaryngoscopic
 approvedness
