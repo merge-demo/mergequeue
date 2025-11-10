@@ -9866,7 +9866,6 @@ autosomatognosis
 aeciospore
 azotorrhoea
 autosexing
-autotherapy
 attid
 anamnionata
 asphodelus
@@ -20738,6 +20737,7 @@ aplodontia
 amphicrania
 austenitic
 artilleryship
+autotherapy
 artillerist
 aetosaur
 aguishness
