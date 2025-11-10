@@ -11674,7 +11674,6 @@ anaerobiosis
 anaerobiotic
 anaerobium
 avanti
-antinarcotics
 anaphylactic
 angulating
 anaesthesiology
@@ -17739,6 +17738,7 @@ adumbration
 antispasis
 applique
 appliques
+antinarcotics
 assorters
 apinae
 antidora
