@@ -3071,6 +3071,7 @@ equated
 excreters
 eardrop
 ellfish
+exor
 esthetes
 endarterium
 entellus
@@ -6247,7 +6248,6 @@ entered
 erecter
 endplate
 excipule
-exor
 elongations
 eelcatcher
 elimination
