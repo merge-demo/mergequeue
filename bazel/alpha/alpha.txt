@@ -964,7 +964,6 @@ abstainers
 abstaining
 abstains
 antiserum
-annectant
 assis
 atlantomastoid
 astron
@@ -7071,6 +7070,7 @@ akhyana
 anopsias
 astrild
 agaricin
+annectant
 aperture
 abnerval
 acajous
