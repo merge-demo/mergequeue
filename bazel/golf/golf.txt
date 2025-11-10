@@ -5468,7 +5468,6 @@ grande
 ganoids
 gimmer
 germantown
-gobbed
 goods
 gentlemen
 goldilocks
@@ -9570,6 +9569,7 @@ growan
 grager
 gogmagog
 gravelike
+gobbed
 gossiphood
 gujrati
 gerbe
