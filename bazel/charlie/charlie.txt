@@ -4058,7 +4058,6 @@ cardanol
 chymist
 cardboard
 crissum
-cardcases
 cardel
 ceroid
 cardia
@@ -15826,6 +15825,7 @@ counterfeitness
 clearcole
 clearedness
 clearheadedly
+cardcases
 crawly
 cataclysmist
 cometwise
