@@ -5795,7 +5795,6 @@ apickaback
 ancestor
 agate
 agates
-alkoxy
 autoturning
 antenave
 appal
@@ -20581,6 +20580,7 @@ abear
 atomizer
 arthrodymic
 aristotelian
+alkoxy
 assimilations
 administerings
 amniote
