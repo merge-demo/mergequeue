@@ -3971,7 +3971,6 @@ apologer
 adjutrice
 ambassage
 ameba
-adlumia
 affirm
 adlumidin
 apoplexious
@@ -10370,6 +10369,7 @@ americanly
 aguroth
 alacriously
 almuds
+adlumia
 anise
 advertisements
 arco
