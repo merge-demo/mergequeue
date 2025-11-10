@@ -7659,6 +7659,7 @@ biogenies
 beeper
 burgling
 bewraps
+basilisks
 belesprit
 bewrapt
 bewreck
@@ -12981,7 +12982,6 @@ burgherdom
 brack
 betulaceae
 bushelage
-basilisks
 ballades
 bikhaconitine
 boozes
