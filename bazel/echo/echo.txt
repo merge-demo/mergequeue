@@ -1393,7 +1393,6 @@ emissions
 encycl
 expungeable
 extraterrestrial
-ectogenic
 engrailment
 earl
 electrodialyses
@@ -13416,6 +13415,7 @@ expressional
 erupted
 eikones
 ebionitic
+ectogenic
 excitingly
 expressionists
 eventuality
