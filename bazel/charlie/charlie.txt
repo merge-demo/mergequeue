@@ -6189,7 +6189,6 @@ catwalk
 conqueringly
 chancier
 calycule
-catwise
 convictive
 crusta
 casehardened
@@ -26370,6 +26369,7 @@ cot
 cotabulate
 carya
 cotarius
+catwise
 calander
 centipedal
 commutative
