@@ -7251,7 +7251,6 @@ byelorussia
 bur
 bestiarian
 bestiarist
-bestirs
 bestock
 bestow
 bestowment
@@ -13146,6 +13145,7 @@ bovids
 borning
 bornite
 baksheesh
+bestirs
 bornites
 bornitic
 berob
