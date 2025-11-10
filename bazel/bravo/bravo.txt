@@ -8285,7 +8285,6 @@ bedsteads
 bovarysm
 bigamies
 bigamist
-bigamize
 boyars
 betafite
 balaenid
@@ -16058,6 +16057,7 @@ bilateralities
 byous
 bleareyed
 bashful
+bigamize
 bronze
 bhotia
 brethren
