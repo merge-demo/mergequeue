@@ -8156,6 +8156,7 @@ fillercap
 fairishness
 fibulas
 fasthold
+fribbling
 fideicommissor
 foundlings
 fingerboards
@@ -8297,7 +8298,6 @@ forenames
 forepole
 foregame
 fraternising
-fribbling
 fountaining
 foursome
 forhaile
