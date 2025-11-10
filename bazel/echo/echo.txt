@@ -4146,7 +4146,6 @@ extracranial
 energids
 expungement
 erythrodermia
-eczematous
 externum
 encl
 encaustes
@@ -4458,6 +4457,7 @@ euryzygous
 electrotechnologist
 exaggerator
 extemporaneousness
+eczematous
 encash
 enlightenments
 enquires
