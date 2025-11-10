@@ -1843,6 +1843,7 @@ gesso
 gabbier
 gatekeepers
 glos
+groupage
 giantisms
 garlands
 grasses
@@ -1977,7 +1978,6 @@ geology
 geranic
 goring
 grubroot
-groupage
 gripes
 grudged
 ghastlier
