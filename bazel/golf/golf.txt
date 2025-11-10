@@ -1851,7 +1851,6 @@ gatekeepers
 glos
 gentile
 groupage
-giantisms
 garlands
 grasses
 glutenous
@@ -8852,6 +8851,7 @@ gyte
 girouettism
 gynaecomastia
 great
+giantisms
 garboard
 grieved
 gyroceracone
