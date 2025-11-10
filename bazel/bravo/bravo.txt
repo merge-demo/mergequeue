@@ -4957,7 +4957,6 @@ busser
 boatel
 bandy
 beek
-balkers
 bergamot
 bioclimatologies
 beekeepers
@@ -16042,6 +16041,7 @@ backsplicing
 bromeliaceae
 bielby
 bilboa
+balkers
 batchers
 bodo
 bacteriolytic
