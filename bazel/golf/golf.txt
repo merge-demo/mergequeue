@@ -2589,7 +2589,6 @@ guitars
 generated
 gazetteerage
 gomerel
-gametophyll
 guetare
 generative
 glabbella
@@ -4757,6 +4756,7 @@ gosther
 giveable
 gederite
 gelidly
+gametophyll
 glene
 gaullist
 gotta
