@@ -1890,7 +1890,6 @@ flamboyantize
 faradizing
 frs
 fraidycat
-fishable
 fontanelle
 fustilarian
 foism
@@ -5863,6 +5862,7 @@ film
 feyer
 fluctuation
 festine
+fishable
 fecund
 fistfight
 fates
