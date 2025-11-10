@@ -3515,7 +3515,6 @@ fastigiate
 futtock
 fulgorid
 fusicladium
-foreallot
 figurer
 fute
 flyweight
@@ -11129,6 +11128,7 @@ furuncular
 flaggery
 formylated
 forumize
+foreallot
 fanega
 freeings
 faiences
