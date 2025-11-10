@@ -3424,6 +3424,7 @@ embogue
 electrophobia
 ennuyant
 ecalcavate
+errand
 exemplar
 ecliptic
 embatholithic
@@ -6446,7 +6447,6 @@ espave
 espousal
 eventlessness
 expandibility
-errand
 ensnared
 ensnarer
 echinostoma
