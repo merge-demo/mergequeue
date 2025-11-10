@@ -933,7 +933,6 @@ branny
 bungaloid
 brownout
 bagwigged
-belcher
 bogey
 bagwyn
 bustier
@@ -8892,6 +8891,7 @@ bioaccumulation
 bioactivities
 bioassaying
 bioastronautics
+belcher
 belch
 biobibliographer
 barleysick
