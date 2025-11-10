@@ -3230,6 +3230,7 @@ genuses
 goldminer
 graywacke
 gruellers
+glucemia
 geometrising
 geosynclines
 goetical
@@ -5837,7 +5838,6 @@ gorevan
 gibelite
 grieflessness
 gastrostomies
-glucemia
 glucinums
 gangflower
 giggle
