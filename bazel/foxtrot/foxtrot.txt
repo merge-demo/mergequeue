@@ -1425,6 +1425,7 @@ fallibly
 firewood
 futchell
 funambulism
+forbar
 fattest
 floorer
 follow
@@ -3765,7 +3766,6 @@ fascinatingly
 fluxing
 francize
 fascistically
-forbar
 fiducial
 forehold
 fibrocystic
