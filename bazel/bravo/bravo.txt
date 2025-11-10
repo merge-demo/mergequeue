@@ -4076,7 +4076,6 @@ bean
 boldness
 begottenness
 bedeafen
-brooked
 beancod
 beaner
 beanery
@@ -5108,6 +5107,7 @@ befire
 befist
 boomerangs
 braised
+brooked
 berberia
 bespotted
 beneficiary
