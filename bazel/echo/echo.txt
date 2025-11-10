@@ -978,7 +978,6 @@ exhumes
 entera
 expanse
 excavatory
-encages
 emasculating
 ensaffron
 ensealing
@@ -4359,6 +4358,7 @@ euornithes
 enapt
 ethnog
 elemi
+encages
 elatinaceae
 enarched
 eurypygidae
