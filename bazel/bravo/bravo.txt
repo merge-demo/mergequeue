@@ -2732,6 +2732,7 @@ batholitic
 baroko
 bubastite
 backward
+barters
 beltline
 bullbat
 bismutoplagionite
@@ -3014,7 +3015,6 @@ baggywrinkle
 boogyman
 barter
 blechnoid
-barters
 brilliancy
 blood
 bullace
