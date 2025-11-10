@@ -2317,7 +2317,6 @@ acidosteophyte
 arecuna
 aul
 acids
-amenity
 acidulant
 acidulate
 acidulated
@@ -25259,6 +25258,7 @@ azygote
 armfuls
 antimonopolization
 actuaries
+amenity
 auriform
 adulatress
 althorns
