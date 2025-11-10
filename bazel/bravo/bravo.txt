@@ -778,7 +778,6 @@ beeline
 biometrical
 bethorn
 blackout
-becker
 basilidan
 building
 baedekerian
@@ -12013,6 +12012,7 @@ bohemianism
 bohemium
 bidders
 belladonna
+becker
 braula
 bidigitate
 bromeliad
