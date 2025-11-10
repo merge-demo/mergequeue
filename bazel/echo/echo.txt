@@ -4277,7 +4277,6 @@ enlay
 enamellers
 epicenes
 escarpments
-echoed
 ectogenous
 engs
 ethnobiological
@@ -4314,6 +4313,7 @@ expulsive
 enactor
 exinanition
 epigrammatize
+echoed
 eloquence
 exclaustration
 enamelist
