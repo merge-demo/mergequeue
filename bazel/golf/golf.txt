@@ -4490,7 +4490,6 @@ glib
 gypsophila
 gypsophily
 glycolipide
-graddan
 gutters
 gardevisure
 glyptology
@@ -6166,6 +6165,7 @@ goaltender
 goanna
 grandmontine
 gushiness
+graddan
 gamboler
 genecologist
 gasmetophytic
