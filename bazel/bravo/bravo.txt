@@ -3154,6 +3154,7 @@ biphase
 branchway
 baseplug
 basepoint
+behavers
 baser
 brazen
 blanda
@@ -3976,7 +3977,6 @@ brittlewood
 bawtie
 bestsellers
 barytes
-behavers
 brand
 bnf
 bespy
