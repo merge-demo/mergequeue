@@ -5571,7 +5571,6 @@ greenroom
 garnet
 glucaemia
 gumming
-ganglioneuroma
 gripless
 geochemist
 geophysical
@@ -10176,6 +10175,7 @@ genethliac
 garages
 grovelings
 guido
+ganglioneuroma
 gearwheels
 glade
 glaucium
