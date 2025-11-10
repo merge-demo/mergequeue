@@ -3159,6 +3159,7 @@ brocket
 bashyle
 balanopsidales
 baka
+bilabial
 baptisin
 berylloid
 bataleur
@@ -6056,7 +6057,6 @@ blanquillos
 butcherless
 balarama
 bole
-bilabial
 bemocking
 bibliological
 brahmanical
