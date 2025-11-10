@@ -5479,7 +5479,6 @@ colic
 conductances
 cellar
 casuistries
-cathodoluminescence
 casus
 cat
 catabaptist
@@ -26484,6 +26483,7 @@ commiserable
 cystocarp
 careenage
 cotrine
+cathodoluminescence
 cacoplastic
 corkiest
 curet
