@@ -3938,7 +3938,6 @@ dogfoot
 deference
 dekes
 derivationally
-dotage
 drisheen
 douser
 duopoly
@@ -9702,6 +9701,7 @@ dicerion
 definitive
 devisee
 dika
+dotage
 dampened
 disheart
 dieter
