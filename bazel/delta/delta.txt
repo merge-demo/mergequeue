@@ -3355,7 +3355,6 @@ denims
 dullery
 definitor
 desulphurized
-dorsosternal
 dogmouth
 dentils
 doles
@@ -17773,6 +17772,7 @@ duikerbok
 delft
 downlooked
 donga
+dorsosternal
 desoxycorticosterone
 depa
 daktylon
