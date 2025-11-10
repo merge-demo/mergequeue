@@ -3598,7 +3598,6 @@ debunker
 degass
 degassed
 disappears
-dodecant
 degaussing
 destituting
 diatonous
@@ -6711,6 +6710,7 @@ dioptres
 diminutely
 defoliation
 discharging
+dodecant
 desesperance
 desexualized
 deludes
