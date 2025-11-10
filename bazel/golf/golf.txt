@@ -3129,6 +3129,7 @@ gnathal
 gnathobasic
 gnast
 galumphing
+garial
 grangousier
 galena
 gestures
@@ -9148,7 +9149,6 @@ granulates
 glared
 goosed
 garon
-garial
 griphite
 gehenna
 golee
