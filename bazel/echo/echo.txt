@@ -4778,7 +4778,6 @@ epiopticon
 excusatory
 endocarpic
 encode
-encoded
 ensnarements
 encoding
 effectivity
@@ -13104,6 +13103,7 @@ ergology
 eudiaphoresis
 ergonovine
 engarrison
+encoded
 enbaissing
 electrothermotic
 electrochemically
