@@ -10661,6 +10661,7 @@ decompressing
 diplomats
 dysporomorph
 drawfile
+diphtheritic
 diplonema
 deuteric
 detritus
@@ -16717,7 +16718,6 @@ dramatization
 dramatized
 degasses
 dramaturgically
-diphtheritic
 devisceration
 drammage
 dramme
