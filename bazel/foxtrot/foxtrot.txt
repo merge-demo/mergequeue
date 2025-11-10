@@ -1545,6 +1545,7 @@ fussy
 foreteach
 farrow
 frundel
+festival
 fauvette
 flowcontrol
 fishbowl
@@ -2775,7 +2776,6 @@ festinating
 festination
 fodgel
 forgettery
-festival
 furriest
 festooneries
 flunkyite
