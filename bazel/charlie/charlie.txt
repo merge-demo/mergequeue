@@ -15909,6 +15909,7 @@ cleidocostal
 cleidoic
 chiromance
 cherts
+cuspate
 cleidomancy
 cleidorrhexis
 chiripa
@@ -31695,7 +31696,6 @@ cusk
 collodium
 cragsman
 cusparidine
-cuspate
 cusped
 clomped
 cuspid
