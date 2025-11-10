@@ -4905,7 +4905,6 @@ aeroelastic
 aucupate
 aeroelasticity
 arraigning
-adjurors
 aerofoils
 adjourned
 algine
@@ -24333,6 +24332,7 @@ autoptically
 aeromancy
 attractionally
 alpinists
+adjurors
 aquaducts
 autoracemization
 acetophenetide
