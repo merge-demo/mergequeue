@@ -6543,7 +6543,6 @@ feedboard
 flutterment
 fluviolacustrine
 fleetly
-fluvioterrestrial
 funereal
 foretack
 flamless
@@ -10873,6 +10872,7 @@ flavor
 frowardly
 fon
 frontalis
+fluvioterrestrial
 fustianist
 filigreing
 filagreing
