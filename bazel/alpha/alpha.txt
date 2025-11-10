@@ -734,6 +734,7 @@ aedicula
 alpiniaceae
 abramis
 abranchious
+apeling
 abrase
 accersitor
 aswail
@@ -16597,7 +16598,6 @@ abstractions
 archeunuch
 acalculia
 apeek
-apeling
 adipocyte
 apelles
 acuminate
