@@ -4117,7 +4117,6 @@ bicompact
 bodysurfs
 bowmaking
 beelbow
-brushproof
 beardfishes
 beswarms
 botulinum
@@ -16470,6 +16469,7 @@ brushlet
 bendayed
 burrhel
 biscacha
+brushproof
 birdfarms
 buckra
 bricker
