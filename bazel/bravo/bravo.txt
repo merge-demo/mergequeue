@@ -2391,7 +2391,6 @@ becalms
 bardlike
 barkiest
 bazar
-bardling
 brinks
 bilaterality
 bardocucullus
@@ -4084,6 +4083,7 @@ beaner
 beanery
 bolewort
 beanfield
+bardling
 bachelry
 brontosaurs
 bronchomucormycosis
