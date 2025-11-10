@@ -7639,7 +7639,6 @@ elapse
 eoliths
 enterohelcosis
 embusqu
-epiparodos
 epicortical
 enterostomy
 esere
@@ -9504,6 +9503,7 @@ esculin
 expansively
 essences
 evenhead
+epiparodos
 eugenesis
 epimorphism
 extrasolar
