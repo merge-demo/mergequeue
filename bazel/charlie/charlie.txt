@@ -8689,7 +8689,6 @@ cutters
 chantership
 chanteur
 chanteuse
-chanteuses
 chanticleer
 chanticleers
 chantier
@@ -16764,6 +16763,7 @@ cloudlike
 cloudology
 comptrollership
 clouds
+chanteuses
 cloudship
 cursedest
 chalcophile
