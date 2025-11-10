@@ -5824,7 +5824,6 @@ ekaha
 eulerian
 electrolyzation
 embergeese
-eccl
 engramme
 epicarpal
 engrammes
@@ -13900,6 +13899,7 @@ etheria
 esthesio
 extrameridional
 extrametrical
+eccl
 extramission
 erythrism
 expiscated
