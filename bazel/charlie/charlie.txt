@@ -2694,6 +2694,7 @@ clingfish
 canker
 cankerberry
 cankerbird
+chaperone
 carriable
 conder
 cankereat
@@ -8790,7 +8791,6 @@ chapelward
 chaperno
 custodia
 chaperonage
-chaperone
 chaperonless
 catesbeiana
 cirsium

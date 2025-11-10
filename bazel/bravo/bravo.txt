@@ -1133,7 +1133,6 @@ baisemain
 besmears
 benedictine
 bushwa
-betaken
 baiters
 banqueter
 bridges
@@ -2728,6 +2727,7 @@ betrothals
 bloodstanch
 balandrana
 brasen
+betaken
 beladies
 barognosis
 betters
