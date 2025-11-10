@@ -3939,6 +3939,7 @@ geds
 genospecies
 gynecocratical
 guano
+glottalized
 guardage
 grex
 gluttonousness
@@ -7474,7 +7475,6 @@ gloomfully
 glossopharyngeal
 glitch
 guessable
-glottalized
 gat
 governed
 gotten
