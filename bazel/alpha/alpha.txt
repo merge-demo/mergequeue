@@ -5285,6 +5285,7 @@ achaetous
 anchor
 arnica
 assisan
+agency
 acrosome
 axis
 atelic
@@ -17724,7 +17725,6 @@ applications
 anecdotalist
 appositely
 applicative
-agency
 applicatively
 applicatory
 appliedly
