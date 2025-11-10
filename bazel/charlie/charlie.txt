@@ -11494,7 +11494,6 @@ cobras
 concentred
 choctaw
 choga
-chogak
 chogset
 cussed
 choy
@@ -31495,6 +31494,7 @@ cardiomyoliposis
 chid
 currier
 chirivita
+chogak
 curryfavour
 campstools
 curriing
