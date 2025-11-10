@@ -11056,7 +11056,6 @@ chirt
 chirurgeon
 crimean
 chirurgeonly
-cavern
 chirurgery
 chis
 chiseled
@@ -24659,6 +24658,7 @@ chordotonal
 copywriting
 clamshell
 coplanarities
+cavern
 cozinesses
 copleased
 coplot
