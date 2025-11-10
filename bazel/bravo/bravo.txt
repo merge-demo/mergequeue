@@ -6939,7 +6939,6 @@ barchan
 bitumed
 brandywine
 besetters
-blessed
 besew
 borghi
 boccaccio
@@ -8467,6 +8466,7 @@ baignet
 bilbo
 bandsawed
 bleachyard
+blessed
 bilcock
 bellehood
 bildar
