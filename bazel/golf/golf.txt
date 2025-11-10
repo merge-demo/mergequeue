@@ -5509,7 +5509,6 @@ gastropoda
 gustier
 genear
 globalizing
-gasteria
 granulite
 groggeries
 gyrovagi
@@ -8253,6 +8252,7 @@ gladii
 graphophone
 grossulariaceae
 graphophonic
+gasteria
 graphoscope
 glycoprotein
 grinderies
