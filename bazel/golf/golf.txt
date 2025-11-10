@@ -1657,7 +1657,6 @@ granulometric
 goldarned
 gardeen
 gryphon
-gutling
 grungiest
 gastrocoel
 gamuts
@@ -4190,6 +4189,7 @@ geniculum
 gossy
 gymnotus
 gest
+gutling
 geomagnetic
 gimped
 gimpier
