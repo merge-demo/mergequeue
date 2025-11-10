@@ -2315,6 +2315,7 @@ daphne
 defensory
 dishwash
 dismounted
+diagraphs
 dekaparsec
 dermatropic
 dactylioglyphic
@@ -16467,7 +16468,6 @@ dracin
 damaskin
 dollhouse
 darken
-diagraphs
 degradations
 detinuit
 doubtance
