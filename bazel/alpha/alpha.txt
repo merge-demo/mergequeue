@@ -9194,7 +9194,6 @@ apostematic
 attestative
 almuces
 almud
-almude
 advocaat
 ambient
 auctions
@@ -19558,6 +19557,7 @@ ary
 aria
 antasphyctic
 autoslip
+almude
 acyls
 aryanism
 askari
