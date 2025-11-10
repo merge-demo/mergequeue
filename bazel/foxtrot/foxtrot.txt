@@ -6234,7 +6234,6 @@ factotums
 fouettee
 felloes
 freewheelers
-fucus
 farmtown
 fluidic
 flapdragon
@@ -9197,6 +9196,7 @@ fries
 fragileness
 foreknown
 faceplate
+fucus
 fragment
 fledged
 fuller
