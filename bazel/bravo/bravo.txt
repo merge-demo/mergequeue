@@ -3933,6 +3933,7 @@ bombardier
 bocstaff
 brickbats
 bdelloura
+bisected
 bassette
 bunch
 bristols
@@ -9608,7 +9609,6 @@ biscutate
 bisdiapason
 binary
 bicapsular
-bisected
 bandlimits
 bisectors
 bisectrices
