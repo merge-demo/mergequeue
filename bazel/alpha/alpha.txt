@@ -3697,7 +3697,6 @@ adeona
 attenuative
 adonized
 adephagous
-asepalous
 argoan
 amies
 archidiaceae
@@ -9680,6 +9679,7 @@ abature
 amphiblastic
 alurgite
 autocephalic
+asepalous
 altiplanicie
 aphthonite
 antennule
