@@ -2283,7 +2283,6 @@ germanophilist
 garance
 geissoloma
 geissolomataceae
-geissolomataceous
 geissospermine
 genecologic
 grundyite
@@ -7242,6 +7241,7 @@ gormand
 gibbus
 gemmingia
 gormandised
+geissolomataceous
 graduators
 gormandism
 gormandize
