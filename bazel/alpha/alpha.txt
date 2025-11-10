@@ -1301,7 +1301,6 @@ attemptless
 aromatic
 aggregant
 acaudate
-aberdonian
 aluminaphone
 antarchism
 adtevac
@@ -16915,6 +16914,7 @@ anteverts
 approbator
 ambrite
 animotheism
+aberdonian
 apishamore
 aceturic
 axels
