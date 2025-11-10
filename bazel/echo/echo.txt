@@ -4827,7 +4827,6 @@ excitive
 engrail
 equivocality
 encountered
-encounterer
 epigenesist
 endothecium
 entranceway
@@ -7489,6 +7488,7 @@ eugenia
 epidiascopic
 effluency
 ephor
+encounterer
 ekphory
 euda
 ephraimite
