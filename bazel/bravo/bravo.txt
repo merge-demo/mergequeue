@@ -6674,7 +6674,6 @@ banquettes
 bergall
 bergamasche
 bergamask
-bergamo
 blastoma
 bobcat
 bronchia
@@ -10829,6 +10828,7 @@ bavin
 baulkier
 birthrate
 blocks
+bergamo
 branchiate
 blepharochromidrosis
 balow
