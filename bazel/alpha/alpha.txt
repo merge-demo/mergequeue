@@ -10040,7 +10040,6 @@ ambit
 apriority
 ambital
 anisole
-aluminoferric
 anomaly
 arteriococcygeal
 acondylous
@@ -24230,6 +24229,7 @@ albany
 automatizing
 astrachan
 aeciotelia
+aluminoferric
 automatous
 automechanical
 almoner
