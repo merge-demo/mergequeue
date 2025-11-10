@@ -4288,7 +4288,6 @@ fibster
 fenland
 fungology
 firmarii
-flamens
 furmeties
 flunkeys
 forrader
@@ -9444,6 +9443,7 @@ familial
 fauld
 foeticide
 fico
+flamens
 fratry
 fountainheads
 flippery
