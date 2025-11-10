@@ -4222,7 +4222,6 @@ chiron
 coloboma
 carabideous
 cardsharp
-cardsharping
 chlorites
 cavaliered
 chinatown
@@ -21554,6 +21553,7 @@ concretive
 cholangiographic
 concretively
 concretized
+cardsharping
 contraprovectant
 comblike
 concretor
