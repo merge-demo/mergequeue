@@ -4622,7 +4622,6 @@ bellowing
 buntal
 branchial
 brachelytrous
-bedcovers
 blader
 boanerges
 bouts
@@ -17783,6 +17782,7 @@ base
 braiders
 burrhead
 burrheaded
+bedcovers
 burrheadedness
 baroneted
 blinkered
