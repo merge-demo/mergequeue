@@ -3713,7 +3713,6 @@ exhaustivity
 egoistry
 embrittle
 enfranchised
-euploidy
 enravishingly
 embrittling
 embryulcia
@@ -8835,6 +8834,7 @@ enterocystoma
 egregiousness
 endocellular
 eremitism
+euploidy
 ecuelling
 epitheloid
 encurl
