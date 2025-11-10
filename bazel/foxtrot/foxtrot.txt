@@ -5713,7 +5713,6 @@ ferulas
 frontis
 farced
 ferule
-fingerstone
 fleuronnee
 fungous
 fuzzball
@@ -6595,6 +6594,7 @@ freemanship
 foresummer
 frothily
 floodway
+fingerstone
 fascioliasis
 fenagles
 flagrante
