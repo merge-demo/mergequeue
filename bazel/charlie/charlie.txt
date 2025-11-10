@@ -8882,7 +8882,6 @@ complimenters
 catlinite
 characterise
 characterised
-columnize
 cumulus
 characterising
 chanted
@@ -12635,6 +12634,7 @@ chronoscopic
 chronoscopically
 cheesier
 catechisation
+columnize
 cyperaceous
 chronothermal
 chronotropic
