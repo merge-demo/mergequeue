@@ -16713,6 +16713,7 @@ atees
 arrestee
 aphasiacs
 aphasics
+affrayer
 ambience
 anabaptized
 averse
@@ -16921,7 +16922,6 @@ axels
 agamis
 alfa
 akuammine
-affrayer
 affectable
 anhima
 approachment
