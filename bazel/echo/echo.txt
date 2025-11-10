@@ -3406,7 +3406,6 @@ elohist
 em
 embarricado
 embarring
-encomy
 elementoid
 ethnarchy
 enosises
@@ -11127,6 +11126,7 @@ evocation
 entanglingly
 enjambments
 eavesdrip
+encomy
 evacuant
 eighteenmos
 episome
