@@ -1464,6 +1464,7 @@ dazzle
 dawnstreak
 discriminative
 diffusor
+deoperculate
 dasypaedal
 discolorated
 dazzler
@@ -14953,7 +14954,6 @@ dodoma
 demonised
 drugman
 dendrocalamus
-deoperculate
 dodonaeaceae
 dodos
 duali
