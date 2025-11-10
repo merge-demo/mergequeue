@@ -9466,6 +9466,7 @@ deuteranomalous
 dereling
 dowerless
 dredge
+dismountable
 dejunkerize
 diffusions
 diffusive
@@ -12929,7 +12930,6 @@ discepting
 dissatisfies
 dismortgaging
 divisionism
-dismountable
 drawls
 dryope
 disnaturalization
