@@ -5965,7 +5965,6 @@ glutinative
 gigantomachy
 granuloadipose
 giftedness
-globs
 glutose
 gainspeaking
 gluttonish
@@ -7801,6 +7800,7 @@ groaners
 glutter
 gorman
 guillotines
+globs
 gristmilling
 graphospasm
 gerents
