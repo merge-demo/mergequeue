@@ -16485,7 +16485,6 @@ clocker
 clockhouse
 clockless
 cuon
-cryophorus
 clockmaking
 crewer
 clockwatcher
@@ -23871,6 +23870,7 @@ contributorial
 contributories
 contributorship
 civiler
+cryophorus
 cystospasm
 contrivable
 combers
