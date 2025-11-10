@@ -1044,7 +1044,6 @@ fulfill
 farmeress
 farmerish
 fireling
-flerrying
 farmerly
 forrel
 fletcherize
@@ -5653,6 +5652,7 @@ flancards
 friended
 fuzz
 firking
+flerrying
 fountains
 firebrands
 freeloader
