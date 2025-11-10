@@ -6659,7 +6659,6 @@ conveyable
 convolvement
 cedars
 cochairman
-cedarwood
 ceded
 ceders
 confocally
@@ -8690,6 +8689,7 @@ chronoscope
 chansonette
 commissionaire
 chansonnette
+cedarwood
 chansonniers
 chantey
 counterlighted
