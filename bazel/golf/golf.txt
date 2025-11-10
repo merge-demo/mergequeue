@@ -1842,6 +1842,7 @@ gesso
 gabbier
 gatekeepers
 glos
+giantisms
 garlands
 grasses
 glutenous
@@ -8081,7 +8082,6 @@ gastrolavage
 gudebrother
 gallygaskins
 gazabos
-giantisms
 garderobe
 gaspergous
 gynaeolater
