@@ -3138,7 +3138,6 @@ cristatella
 cape
 chequerboard
 capeadores
-capel
 capelan
 capelans
 capelin
@@ -19935,6 +19934,7 @@ coming
 conched
 comings
 comism
+capel
 childishly
 comital
 cabots
