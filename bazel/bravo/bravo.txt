@@ -5702,7 +5702,6 @@ bibliotaph
 beleper
 bobs
 bicycle
-balandra
 bridegroomship
 barkpeeling
 bluism
@@ -6455,6 +6454,7 @@ benzopyrylium
 backcourt
 breastweed
 bluestem
+balandra
 benzoquinoxaline
 balau
 benzosulfimide
