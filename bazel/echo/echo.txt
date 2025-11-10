@@ -4706,7 +4706,6 @@ electroencephalographs
 enmuffle
 entrammel
 ensuance
-extroverted
 englishism
 enciphering
 enrapture
@@ -9464,6 +9463,7 @@ electives
 eliquation
 exsculp
 electronic
+extroverted
 escortage
 ekaboron
 emergences
