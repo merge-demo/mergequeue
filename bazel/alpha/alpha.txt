@@ -6583,6 +6583,7 @@ aigialosauridae
 aigialosaurus
 apothecaries
 archpriest
+antetype
 antasthenic
 amber
 aiglet
@@ -7911,7 +7912,6 @@ abolishes
 arylamino
 alnus
 alembicated
-antetype
 alemite
 alemmal
 aeolia
