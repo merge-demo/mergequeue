@@ -5238,6 +5238,7 @@ casquetel
 colemouse
 cassabas
 cassabully
+customs
 cultist
 carthorse
 custodiam
@@ -31775,7 +31776,6 @@ chargeman
 chevisance
 co
 citronade
-customs
 customshouse
 custron
 custumal
