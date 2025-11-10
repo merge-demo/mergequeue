@@ -7126,7 +7126,6 @@ confluences
 centigrams
 centile
 cendre
-centiles
 caudatum
 catamited
 centiliter
@@ -16159,6 +16158,7 @@ chymosinogen
 crownbeard
 climacus
 climant
+centiles
 climata
 celebesian
 climatal
