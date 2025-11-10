@@ -7417,7 +7417,6 @@ fileable
 fillemot
 faience
 firefall
-fartlek
 floperoo
 firstship
 forcibility
@@ -10705,6 +10704,7 @@ fitfully
 flary
 fleckered
 faradays
+fartlek
 fortran
 flunkeyistic
 flashtubes
