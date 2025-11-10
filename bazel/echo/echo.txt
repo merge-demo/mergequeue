@@ -1519,7 +1519,6 @@ egality
 examens
 exaggeratedly
 everywhere
-escars
 etch
 extracalendar
 ettarre
@@ -2840,6 +2839,7 @@ eliza
 eosins
 europhium
 eagre
+escars
 elephantoid
 elephantoidal
 enantiopathy
