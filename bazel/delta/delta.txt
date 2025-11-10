@@ -2593,7 +2593,6 @@ decoct
 demiquaver
 dashes
 decocting
-dablet
 decoctive
 deaminizing
 demishirt
@@ -8259,6 +8258,7 @@ deossify
 dados
 disspreading
 diadochy
+dablet
 divers
 damasked
 dissectors
