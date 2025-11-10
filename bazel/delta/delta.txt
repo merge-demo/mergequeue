@@ -1138,7 +1138,6 @@ depaint
 duracine
 dasyatis
 daylit
-dagobas
 dire
 distractingly
 dasiphora
@@ -3533,6 +3532,7 @@ defrayers
 defraying
 desaturate
 desiccated
+dagobas
 desmomyaria
 dufoil
 drapery
