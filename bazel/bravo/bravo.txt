@@ -1766,7 +1766,6 @@ bamalip
 bamban
 bambochade
 bosuns
-bamboozlement
 bamboozles
 bamboozling
 bilanders
@@ -2941,6 +2940,7 @@ barrelled
 billfish
 barrelmaker
 blissfully
+bamboozlement
 boules
 brassavola
 bracketed
