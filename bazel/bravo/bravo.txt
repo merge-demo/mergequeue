@@ -2279,7 +2279,6 @@ bellyfull
 bewearies
 baister
 birdcatching
-butterine
 barbecuer
 barbellula
 bowwood
@@ -4610,6 +4609,7 @@ baptise
 bedbugs
 bedtick
 bedchair
+butterine
 bedchairs
 bellowing
 buntal
