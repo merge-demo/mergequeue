@@ -3439,7 +3439,6 @@ geodes
 gesseron
 gessoes
 gerrhosauridae
-gathic
 gila
 gestalt
 gestaltist
@@ -8557,6 +8556,7 @@ gastrolatrous
 gemel
 gonidioid
 gravure
+gathic
 gossameriness
 gradus
 gametically
