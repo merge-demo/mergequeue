@@ -1392,7 +1392,6 @@ dispel
 downdale
 dismain
 demonomanie
-dispraiser
 dorsiflexor
 digitals
 delis
@@ -5155,6 +5154,7 @@ dopamine
 dionym
 disulphoxide
 detachedly
+dispraiser
 dendromecon
 dendron
 druffen
