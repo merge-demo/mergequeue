@@ -713,6 +713,7 @@ anodendron
 aver
 alternize
 anglicized
+aptote
 animine
 antivaccination
 abrade
@@ -3647,7 +3648,6 @@ airmonger
 adenomycosis
 adenomyofibroma
 alvite
-aptote
 adenomyoma
 adenomyxosarcoma
 adenoneural
