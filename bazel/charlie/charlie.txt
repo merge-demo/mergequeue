@@ -115,7 +115,6 @@ cabildo
 cabildos
 cabin
 cabined
-calinago
 cabinet
 cladophyllum
 cabineting
@@ -10465,6 +10464,7 @@ chiliomb
 chil
 complementation
 chilacayote
+calinago
 cleistogamous
 capiases
 chylaceous
