@@ -2209,6 +2209,7 @@ emphasising
 elderman
 eggwhisk
 electrics
+endpoint
 electrographic
 exedrae
 esthesia
@@ -12160,7 +12161,6 @@ exostome
 embergoose
 excuser
 elytron
-endpoint
 exposure
 ellipse
 econometrical
