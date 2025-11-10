@@ -1122,6 +1122,7 @@ foes
 forbade
 familiarizing
 fervidness
+fusileer
 frizzling
 farthing
 fluffing
@@ -10585,7 +10586,6 @@ fructificative
 fussock
 formagen
 fattish
-fusileer
 froggier
 fluorimetry
 fragmental
