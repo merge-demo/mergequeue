@@ -3257,7 +3257,6 @@ freehearted
 fluorinate
 fittit
 fuzed
-facecloth
 foreknowledge
 freestanding
 fibrosity
@@ -11454,6 +11453,7 @@ furcule
 flaffer
 furfurylidene
 furrowy
+facecloth
 furrowing
 furrowless
 forletting
