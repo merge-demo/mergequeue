@@ -7242,7 +7242,6 @@ ballasted
 backtrackers
 boxinesses
 bestian
-bandsmen
 bloomsbury
 bagginess
 bestiary
@@ -11495,6 +11494,7 @@ berths
 burgware
 bravos
 bundlers
+bandsmen
 basophilia
 begemming
 bedoctor
