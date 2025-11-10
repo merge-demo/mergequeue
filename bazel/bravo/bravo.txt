@@ -3594,6 +3594,7 @@ bathometer
 bathometry
 blockmaking
 bathool
+balneary
 boomkins
 bathophobia
 bathos
@@ -18179,7 +18180,6 @@ biodegradation
 bricky
 bitterwort
 bechern
-balneary
 butlery
 belief
 bouche
