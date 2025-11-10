@@ -11105,6 +11105,7 @@ assientist
 ascots
 analects
 achromatized
+arca
 amperian
 amphistomum
 attenuation
@@ -18547,7 +18548,6 @@ arbusta
 analytics
 arbutean
 alphean
-arca
 anthropomorphite
 abrogates
 abbotship
