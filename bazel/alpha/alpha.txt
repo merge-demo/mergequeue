@@ -10794,7 +10794,6 @@ ammo
 amphibological
 abhiseka
 ammocoetes
-anticous
 agglutinated
 acronomy
 alloantibody
@@ -19053,6 +19052,7 @@ archpirate
 aviculidae
 adactylism
 alveated
+anticous
 archplagiarist
 asinine
 airbrick
