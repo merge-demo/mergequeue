@@ -9109,6 +9109,7 @@ dictyogen
 diction
 disparage
 defang
+diss
 dermatophobia
 defigure
 dictionarian
@@ -13525,7 +13526,6 @@ disruptor
 dada
 decagon
 dismissers
-diss
 dissait
 diblastula
 dissatisfaction
