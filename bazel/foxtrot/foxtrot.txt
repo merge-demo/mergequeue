@@ -2559,7 +2559,6 @@ ferrihydrocyanic
 fervency
 freshmanship
 feedsman
-frailties
 fiduciaries
 fanti
 fimbriatum
@@ -11681,6 +11680,7 @@ floodometer
 frowsty
 flibustier
 furcates
+frailties
 festoons
 flocculate
 feminines

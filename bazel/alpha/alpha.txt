@@ -13513,7 +13513,6 @@ adaptability
 albuminization
 annotator
 alasas
-auxiliar
 annotators
 arrendator
 assonant
@@ -13716,6 +13715,7 @@ anomphalous
 abhorrer
 anonaceous
 animalised
+auxiliar
 assertrix
 acanthaceae
 albuquerque
