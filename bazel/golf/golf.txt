@@ -2163,7 +2163,6 @@ georgian
 gharris
 gerontine
 gdinfo
-guatuso
 gnomide
 golfings
 gds
@@ -3979,6 +3978,7 @@ gloomier
 gorgedly
 gastrology
 gnomological
+guatuso
 gearksutite
 gonepoietic
 galravage
