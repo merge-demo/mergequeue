@@ -4783,7 +4783,6 @@ bedpost
 bypasses
 bedrabbling
 bauds
-bogway
 bedrails
 binnacle
 bedral
@@ -12245,6 +12244,7 @@ byplays
 boutre
 bolshevikian
 barrandite
+bogway
 bemoult
 balms
 billet
