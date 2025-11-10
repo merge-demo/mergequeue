@@ -3019,7 +3019,6 @@ euglandina
 elytrostenosis
 elytrotomy
 emeer
-elix
 eggfish
 epistolatory
 elixir
@@ -6380,6 +6379,7 @@ expenseful
 earthward
 emulsor
 euskarian
+elix
 egested
 eyemark
 ethmoids
