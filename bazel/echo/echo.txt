@@ -1158,6 +1158,7 @@ entrochite
 edplot
 edrioasteroidea
 epipany
+electrotyped
 edriophthalmatous
 extramental
 educand
@@ -2709,7 +2710,6 @@ enchodontid
 exogastritis
 electrotype
 entosphenoid
-electrotyped
 electrotypy
 enolase
 earwigged
