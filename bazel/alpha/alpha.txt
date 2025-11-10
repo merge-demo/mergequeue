@@ -12120,7 +12120,6 @@ anatomicopathologic
 arteriofibrosis
 anatomiser
 adulterates
-anatomization
 anatomize
 anopsy
 anatomizer
@@ -22821,6 +22820,7 @@ arya
 atmometric
 allheal
 atmosphereful
+anatomization
 apachite
 agamic
 apanaging
