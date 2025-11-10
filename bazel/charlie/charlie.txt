@@ -2081,7 +2081,6 @@ cecils
 comdg
 crunchier
 campanile
-campaniles
 colloquiquiums
 cyclist
 campaniliform
@@ -2573,6 +2572,7 @@ candlewicks
 candlewright
 candling
 cynically
+campaniles
 candollea
 candolleaceae
 candolleaceous
