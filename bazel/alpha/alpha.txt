@@ -6239,6 +6239,7 @@ advertiser
 archengineer
 asarota
 alnager
+arboretum
 agoraphobiac
 antiferment
 aquerne
@@ -6508,7 +6509,6 @@ anacrustic
 airward
 acerbities
 amicableness
-arboretum
 ahunt
 azocyclic
 ahuula
