@@ -9750,6 +9750,7 @@ gtt
 guidon
 gagaku
 gymnastic
+gasworks
 gluttonizing
 gradino
 gelatinous
@@ -9988,7 +9989,6 @@ grungy
 gaincall
 galago
 gaslike
-gasworks
 gateau
 gudame
 gibberose
