@@ -4752,6 +4752,7 @@ aequi
 ausgespielt
 aranein
 albuminimetry
+auriscalpium
 allogamy
 attemperation
 aequor
@@ -18277,7 +18278,6 @@ acridine
 absinthism
 apostatising
 austenitize
-auriscalpium
 aracana
 aracanga
 antefebrile
