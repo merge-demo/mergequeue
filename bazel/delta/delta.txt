@@ -2098,6 +2098,7 @@ doline
 diapasm
 daunts
 doab
+disinheritances
 duddies
 despoilment
 decameron
@@ -12581,7 +12582,6 @@ disinheritance
 dinaphthyl
 deirdre
 ditrematous
-disinheritances
 dhole
 deluxe
 disinheriting
