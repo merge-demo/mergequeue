@@ -7518,7 +7518,6 @@ anchovies
 albuminofibrin
 albuminoid
 abstract
-autotelic
 aurifying
 albuminometer
 albuminone
@@ -8368,6 +8367,7 @@ alismal
 abnegators
 anthrylene
 alismales
+autotelic
 amenorrheal
 aliso
 adpress
