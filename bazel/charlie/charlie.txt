@@ -13644,7 +13644,6 @@ cnemidophorus
 crematories
 carnosities
 cimmeria
-cimmerian
 cimmerianism
 cirrhosis
 cymodoceaceae
@@ -21168,6 +21167,7 @@ concealer
 concealing
 conceals
 coleopteran
+cimmerian
 concededly
 couplets
 crash
