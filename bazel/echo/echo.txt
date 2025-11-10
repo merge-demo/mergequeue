@@ -1178,6 +1178,7 @@ enscroll
 ensweep
 educational
 extratracheal
+estipulate
 estimation
 eroded
 elenge
@@ -4983,7 +4984,6 @@ endemicity
 electrofused
 endemism
 eco
-estipulate
 eightscore
 endenization
 ecarte
