@@ -569,6 +569,7 @@ balkar
 baubee
 balisaur
 baconian
+benzalacetone
 bishopric
 breaths
 bistro
@@ -6337,7 +6338,6 @@ brigalow
 battens
 balourdise
 baltic
-benzalacetone
 benzalacetophenone
 bonum
 benzalazine
