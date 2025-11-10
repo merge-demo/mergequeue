@@ -2813,7 +2813,6 @@ duodecahedron
 decrescent
 deknight
 decretalist
-dogey
 despumating
 debility
 desalinization
@@ -18441,6 +18440,7 @@ dedicatedly
 duplexers
 duplication
 dogsbody
+dogey
 duplicators
 duncehood
 daidle
