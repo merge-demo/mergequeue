@@ -8485,7 +8485,6 @@ dorsiventrally
 ds
 duopsony
 degreed
-dialuric
 desmocytoma
 diamagnet
 diamagnetic
@@ -16604,6 +16603,7 @@ donjon
 dikdiks
 dactylopius
 denotations
+dialuric
 decorations
 dispromise
 dragonesque
