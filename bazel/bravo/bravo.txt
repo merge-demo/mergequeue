@@ -13902,7 +13902,6 @@ bowles
 balwarra
 bowlful
 bergamasca
-bowly
 breastworks
 bowlike
 bowline
@@ -17077,6 +17076,7 @@ barrel
 bulldoggedness
 bearder
 bulldogging
+bowly
 beadswoman
 bitterwood
 bellrags
