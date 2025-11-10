@@ -2552,7 +2552,6 @@ aircoach
 atrophy
 aftertrial
 acouchi
-acoumeter
 antisubmarine
 antagonisms
 accoutering
@@ -13733,6 +13732,7 @@ anophelinae
 anophoria
 anaptyctic
 anophthalmos
+acoumeter
 allobroges
 amusable
 abortuses
