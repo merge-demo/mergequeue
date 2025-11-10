@@ -2031,7 +2031,6 @@ chionanthus
 cornelian
 camooch
 camoodie
-cyperus
 commandants
 camorrism
 corrections
@@ -3542,6 +3541,7 @@ captioned
 convenably
 captioning
 captiousness
+cyperus
 captivance
 cucurbitine
 chaired
