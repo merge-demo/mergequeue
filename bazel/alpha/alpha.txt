@@ -13517,6 +13517,7 @@ annotator
 alasas
 auxiliar
 annotators
+amortises
 arrendator
 assonant
 anacardiaceae
@@ -20989,7 +20990,6 @@ ascetta
 alpasotes
 anthropopsychism
 ascian
-amortises
 adipomata
 apographal
 anachronistical
