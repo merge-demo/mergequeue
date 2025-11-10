@@ -4741,7 +4741,6 @@ gonimolobe
 germanophobia
 gryphite
 ganocephalan
-grumium
 goad
 gaels
 gentilitian
@@ -9601,6 +9600,7 @@ gallize
 ginep
 goniodorididae
 gobinist
+grumium
 glaucodote
 geests
 goiter
