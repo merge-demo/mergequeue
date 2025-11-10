@@ -7633,7 +7633,6 @@ eccentricities
 elapse
 eoliths
 enterohelcosis
-embusqu
 epiparodos
 epicortical
 enterostomy
@@ -14122,6 +14121,7 @@ eutrophy
 epithamia
 electrooptic
 endosternite
+embusqu
 exegetical
 endosiphonal
 extensory
