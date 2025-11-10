@@ -7789,6 +7789,7 @@ gangplank
 graisse
 gerately
 gufa
+greenkeeper
 gook
 glead
 grouchier
@@ -8210,7 +8211,6 @@ graphitize
 gastrotubotomy
 glacioaqueous
 goldbug
-greenkeeper
 graphitizing
 gallingly
 gutturalising
