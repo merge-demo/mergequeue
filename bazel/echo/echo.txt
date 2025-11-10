@@ -722,7 +722,6 @@ enlighteners
 engrossingness
 enormity
 economized
-enterocoele
 enharmonical
 elucidated
 esthesises
@@ -11701,6 +11700,7 @@ exaltation
 erenow
 extract
 explanator
+enterocoele
 endocarditis
 elevated
 enforcive
