@@ -12785,6 +12785,7 @@ enhydris
 eurycerotidae
 epomophorus
 exines
+extensional
 evenly
 exostosis
 exarchist
@@ -13656,7 +13657,6 @@ ecrus
 entapophysis
 epithem
 elfic
-extensional
 encomiendas
 eject
 enphytotic
