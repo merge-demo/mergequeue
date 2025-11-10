@@ -5069,7 +5069,6 @@ fuligo
 fumettes
 frsikets
 flagboat
-forthfigured
 flareback
 furnishness
 fishweir
@@ -9978,6 +9977,7 @@ favor
 frigidly
 feeble
 foundation
+forthfigured
 finery
 facias
 formularizer
