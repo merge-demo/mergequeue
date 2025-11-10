@@ -7971,7 +7971,6 @@ blockwood
 bushido
 buibui
 biblus
-banate
 boanbura
 balistraria
 borborygmi
@@ -14583,6 +14582,7 @@ bitty
 bambos
 bondager
 brandied
+banate
 bacis
 blatterer
 branding
