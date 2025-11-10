@@ -1158,7 +1158,6 @@ fatally
 fearbabe
 feebleminded
 feller
-fairsome
 figeaters
 flyblows
 footy
@@ -2199,6 +2198,7 @@ fastidiosity
 felwort
 fathearted
 faciobrachial
+fairsome
 forestery
 feme
 femorotibial

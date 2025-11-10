@@ -6243,7 +6243,6 @@ gconv
 gulpin
 gynandrarchic
 galoch
-grunting
 gospelly
 gainable
 gobble
@@ -7975,6 +7974,7 @@ gata
 gunstock
 gossiper
 grandpapa
+grunting
 geophysicists
 grotesquerie
 guglia
