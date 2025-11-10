@@ -2258,7 +2258,6 @@ gonimic
 gey
 greeney
 geopolitik
-gymnospermal
 gradation
 glasswort
 glarry
@@ -4983,6 +4982,7 @@ gateage
 graunt
 grouselike
 gauging
+gymnospermal
 gallantize
 gyrenes
 gingelis
