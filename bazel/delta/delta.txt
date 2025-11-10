@@ -2409,7 +2409,6 @@ disaffects
 decima
 decimalism
 dueling
-decimalist
 decimalization
 displeases
 decimalizes
@@ -16969,6 +16968,7 @@ drearing
 drearisome
 drearly
 drearness
+decimalist
 drecks
 dermatherm
 demihorse
