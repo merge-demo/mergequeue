@@ -3974,6 +3974,7 @@ boltspreet
 bondon
 brittlewood
 bawtie
+bantlings
 bestsellers
 barytes
 brand
@@ -4071,7 +4072,6 @@ beamroom
 baragnosis
 blitzkrieged
 beams
-bantlings
 bean
 boldness
 begottenness
