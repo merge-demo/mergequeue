@@ -5498,6 +5498,7 @@ garring
 gloams
 granadillo
 grudgeons
+greencoat
 glob
 gestured
 gnetum
@@ -8711,7 +8712,6 @@ goldenly
 girn
 greenbug
 grinner
-greencoat
 gastrolater
 gormandising
 greenery
