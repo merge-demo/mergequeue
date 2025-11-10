@@ -4421,6 +4421,7 @@ besieged
 balm
 brandering
 budapest
+balantidiosis
 barrators
 bitstone
 bkcy
@@ -7061,7 +7062,6 @@ bicephalic
 balsamous
 beryciform
 blepharedema
-balantidiosis
 brideknot
 boating
 bussings
