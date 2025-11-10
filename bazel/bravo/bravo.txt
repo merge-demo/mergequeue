@@ -7455,7 +7455,6 @@ boatings
 belgians
 betread
 barnier
-burglarproofed
 bathybius
 botrydium
 braveries
@@ -13849,6 +13848,7 @@ bemuddy
 bulbophyllum
 brephic
 bowelling
+burglarproofed
 beforetimes
 bower
 bowerbird
