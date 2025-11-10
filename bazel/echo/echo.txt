@@ -898,6 +898,7 @@ engineery
 eumolpique
 ectosarc
 essoining
+exercises
 extensivity
 eschewing
 enures
@@ -11352,7 +11353,6 @@ emergers
 extenders
 exigency
 ethnohistory
-exercises
 exotropic
 electrodesiccation
 evenforth
