@@ -2678,6 +2678,7 @@ electrotactic
 eyra
 emmanuel
 electrotechnic
+earhead
 epicalyx
 electrotechnician
 exports
@@ -9631,7 +9632,6 @@ emplacements
 emissaries
 epicycles
 espy
-earhead
 espial
 electrocoagulation
 escrows
