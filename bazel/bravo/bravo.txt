@@ -3585,7 +3585,6 @@ batholithic
 balaamite
 butchers
 balconet
-bathometer
 bathometry
 blockmaking
 bathool
@@ -11521,6 +11520,7 @@ banyoro
 bigamous
 begged
 branchiostegan
+bathometer
 bluffs
 behaves
 broadshare
