@@ -845,7 +845,6 @@ fantailed
 fingermark
 fermi
 fashioner
-folkmooter
 faddishness
 finestill
 fractures
@@ -4638,6 +4637,7 @@ fatherless
 fourthly
 fatale
 flange
+folkmooter
 fivebar
 forages
 falconidae
