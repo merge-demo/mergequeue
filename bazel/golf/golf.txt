@@ -6651,7 +6651,6 @@ girns
 glossopyrosis
 generational
 gong
-grenelle
 gekkota
 gild
 gundelow
@@ -7709,6 +7708,7 @@ gittern
 granth
 grassroots
 gloea
+grenelle
 gauloiserie
 guld
 grenadier
