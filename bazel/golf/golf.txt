@@ -1254,7 +1254,6 @@ guyline
 gougers
 goosebone
 ganomalite
-goatbush
 garbler
 gradings
 greasers
@@ -4616,6 +4615,7 @@ greenheart
 gyrating
 galvanise
 gorillaship
+goatbush
 gammarid
 grayer
 gentility
