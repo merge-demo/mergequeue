@@ -662,6 +662,7 @@ bullroarer
 babua
 basos
 briars
+barren
 brioche
 bicorne
 bombo
@@ -2945,7 +2946,6 @@ boules
 brassavola
 bracketed
 barrelwise
-barren
 barretor
 berberins
 bloodybones
