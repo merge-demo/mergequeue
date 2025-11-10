@@ -2459,7 +2459,6 @@ fairnesses
 firelocks
 fascinatedly
 firn
-foraminifer
 fumbulator
 firstcomer
 fireproofing
@@ -9755,6 +9754,7 @@ fridges
 frequenters
 ferijee
 frequentest
+foraminifer
 feldspar
 functionalities
 frapp
