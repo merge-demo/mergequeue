@@ -3628,7 +3628,6 @@ deprecatorily
 dragonhead
 degenerately
 degenerateness
-degenerating
 degenerescence
 diammonium
 degeneroos
@@ -6490,6 +6489,7 @@ dozened
 desacralization
 drizzled
 dictatorially
+degenerating
 drugshop
 danseusse
 desagrement
