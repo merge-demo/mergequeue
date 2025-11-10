@@ -1718,6 +1718,7 @@ byline
 boutonniere
 belorussian
 baronial
+bespecked
 baloskion
 bulbels
 belittled
@@ -7121,7 +7122,6 @@ bushing
 bespeaking
 bullalaria
 bespeaks
-bespecked
 backrun
 bedwards
 bumaree
