@@ -2439,7 +2439,6 @@ acknowledgments
 anatexes
 abnormalities
 ambassadorships
-archfriend
 amblycephalidae
 autocombustible
 aclinic
@@ -19053,6 +19052,7 @@ annals
 asta
 archpirate
 aviculidae
+archfriend
 adactylism
 alveated
 archplagiarist
