@@ -4810,7 +4810,6 @@ flagman
 fasciolaria
 fancifulness
 flinching
-fashionmonging
 floatiest
 fullwords
 faena
@@ -9170,6 +9169,7 @@ fadednyess
 figulines
 fossilization
 filmize
+fashionmonging
 fusses
 fracturing
 filicide
