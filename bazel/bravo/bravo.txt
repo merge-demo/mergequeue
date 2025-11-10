@@ -4757,7 +4757,6 @@ bazoo
 bibliotic
 blackseed
 bord
-beinked
 burbled
 bedmate
 bogey
@@ -10125,6 +10124,7 @@ blackbine
 befrets
 blackback
 blackballed
+beinked
 blanching
 blackballs
 bridehood
