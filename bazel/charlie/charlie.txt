@@ -13281,7 +13281,6 @@ crossrow
 cyclohexanol
 crass
 cyclohexanone
-cyclohexatriene
 cyclohexyl
 cycloheximide
 chetverik
@@ -26145,6 +26144,7 @@ centrum
 cervical
 cosmocrat
 chroncmeter
+cyclohexatriene
 creamier
 cosmogenetic
 cosmogeny
