@@ -8355,6 +8355,7 @@ anthypophoretic
 architectonic
 alipin
 abbie
+authenticated
 apophylaxis
 antecloset
 afforestment
@@ -23754,7 +23755,6 @@ acetifier
 avowance
 alto
 auspice
-authenticated
 asouth
 aerohydroplane
 auspicious
