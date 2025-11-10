@@ -8789,6 +8789,7 @@ chapels
 chapelward
 chaperno
 custodia
+chicos
 chaperonage
 chaperone
 chaperonless
@@ -31877,7 +31878,6 @@ cutthroat
 chylopoietic
 cuttyhunk
 capillarily
-chicos
 creamfruit
 chloragen
 carrageenan
