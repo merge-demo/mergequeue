@@ -2327,7 +2327,6 @@ enthetic
 exundation
 electroanalytic
 electroanesthesia
-eavesdrop
 electroballistics
 emetatrophia
 encrypted
@@ -5067,6 +5066,7 @@ enunciation
 escrod
 empowering
 elevatingly
+eavesdrop
 eclecticism
 exemptible
 emotiovascular
