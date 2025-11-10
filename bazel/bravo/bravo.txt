@@ -3964,6 +3964,7 @@ bisulphate
 backstays
 bratty
 boltspreet
+banyan
 bondon
 brittlewood
 bawtie
@@ -14485,7 +14486,6 @@ brakeroot
 breechless
 braky
 boatyards
-banyan
 bakunda
 betray
 brakie
