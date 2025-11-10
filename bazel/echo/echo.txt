@@ -3536,7 +3536,6 @@ elod
 escorted
 enured
 epigonichthyidae
-embolectomy
 enicuridae
 emboli
 ergastulum
@@ -3851,6 +3850,7 @@ emersed
 estivator
 eggcupful
 emersonianism
+embolectomy
 emesa
 emeses
 epalpate
