@@ -3826,7 +3826,6 @@ grimsir
 giver
 goldang
 gids
-gisants
 gingeleys
 grandchild
 granulitize
@@ -5513,6 +5512,7 @@ gustier
 genear
 globalizing
 granulite
+gisants
 groggeries
 gyrovagi
 gently
