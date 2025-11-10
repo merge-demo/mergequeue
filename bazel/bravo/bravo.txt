@@ -4041,7 +4041,6 @@ beala
 burglarproofing
 buchu
 bom
-banditti
 butled
 beamed
 beeve
@@ -16901,6 +16900,7 @@ burdened
 barretry
 brassbound
 beneficiate
+banditti
 bugeyes
 baddy
 bonducs
