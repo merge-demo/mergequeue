@@ -117,7 +117,6 @@ goatfish
 gadroon
 giher
 ginete
-gravipause
 gastly
 gastrostomy
 gazogene
@@ -3417,6 +3416,7 @@ goldenrod
 gers
 gliffs
 gershonite
+gravipause
 grandiosely
 greenlandish
 gertie
