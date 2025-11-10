@@ -5088,7 +5088,6 @@ flanders
 felter
 forvay
 flarer
-fellatee
 funorin
 flashboard
 fiendliest
@@ -8722,6 +8721,7 @@ foredecks
 flocculator
 fella
 footlog
+fellatee
 flymen
 faultsman
 finchery
