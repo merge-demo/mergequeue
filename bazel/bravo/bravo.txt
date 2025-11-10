@@ -603,7 +603,6 @@ bactericide
 beethoven
 bidget
 bacterin
-beggiatoa
 bacteriochlorophyll
 bacteriocin
 bostangi
@@ -5041,6 +5040,7 @@ bubal
 brompicrin
 baching
 buoying
+beggiatoa
 bhunder
 beetlike
 babism
