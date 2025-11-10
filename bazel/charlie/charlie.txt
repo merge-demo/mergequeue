@@ -2459,7 +2459,6 @@ capelline
 cancrine
 cicatrix
 carpers
-cirrostome
 coffeeberry
 cancrinite
 cancrisocial
@@ -4078,6 +4077,7 @@ caryl
 coevals
 centaurian
 cardialgia
+cirrostome
 calla
 cardiameter
 carnationed
