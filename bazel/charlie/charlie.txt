@@ -16717,7 +16717,6 @@ clothesyard
 codesign
 clamberer
 cirrus
-clothesline
 clotheslines
 clothesman
 crypts
@@ -30958,6 +30957,7 @@ cumal
 cytozoic
 cumaphyte
 cotyttia
+clothesline
 coagulations
 cachou
 corresp
