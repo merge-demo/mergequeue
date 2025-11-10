@@ -5438,7 +5438,6 @@ castlewise
 castock
 clepes
 castoffs
-castores
 coldly
 castoreum
 caftaned
@@ -8092,6 +8091,7 @@ chiack
 chaetophoraceous
 cuvierian
 chaetopod
+castores
 cirrated
 chaetopodan
 chaetopterus
