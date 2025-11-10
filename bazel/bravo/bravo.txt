@@ -1026,6 +1026,7 @@ barfs
 bailable
 baile
 bezazz
+betanaphthol
 basqued
 blizzards
 bad
@@ -7459,7 +7460,6 @@ befreeze
 better
 besmirched
 batrachia
-betanaphthol
 buboes
 bashalick
 betterment
