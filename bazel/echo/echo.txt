@@ -10869,7 +10869,6 @@ euphemisation
 euphemise
 elected
 euphemising
-enrollments
 etheling
 enshroud
 euphemistically
@@ -11038,6 +11037,7 @@ epipial
 eyne
 endogenies
 elderwomen
+enrollments
 episcopacies
 eliminator
 eurythmics
