@@ -3139,6 +3139,7 @@ chequerboard
 capeadores
 capelan
 capelans
+chromid
 capelin
 cornette
 capeline
@@ -15483,7 +15484,6 @@ clarino
 clarinos
 commonsensibly
 cenosite
-chromid
 clarion
 clarionet
 clarioning
