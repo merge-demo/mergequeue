@@ -4110,6 +4110,7 @@ ballistics
 baroclinicity
 blamableness
 bicompact
+brachiopode
 bodysurfs
 bowmaking
 beelbow
@@ -14113,7 +14114,6 @@ bogusness
 brachiopoda
 baldy
 beltene
-brachiopode
 bistipular
 blot
 babbage
