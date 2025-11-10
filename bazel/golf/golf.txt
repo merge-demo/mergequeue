@@ -1380,7 +1380,6 @@ glugglug
 garotters
 garnetlike
 gaulin
-groutite
 gastrostegal
 gravitometer
 gibbing
@@ -4836,6 +4835,7 @@ garlicwort
 glades
 graupels
 grush
+groutite
 geoffroyin
 generalidad
 gritter
