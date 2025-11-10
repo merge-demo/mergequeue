@@ -9046,7 +9046,6 @@ allottery
 aeromotor
 aigrette
 alps
-anticked
 astrictiveness
 antimilitaristic
 allowable
@@ -25210,6 +25209,7 @@ aardvarks
 assentatorily
 atomists
 atlas
+anticked
 antienzymatic
 acoupe
 aalii
