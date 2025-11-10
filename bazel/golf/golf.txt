@@ -5575,7 +5575,6 @@ gumming
 gripless
 geochemist
 geophysical
-glendale
 gefilte
 gownlet
 granospherite
@@ -5711,6 +5710,7 @@ guardeen
 guttule
 ghillies
 glamberry
+glendale
 glossocele
 graian
 gaduin
