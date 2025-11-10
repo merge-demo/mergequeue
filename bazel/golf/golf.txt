@@ -781,7 +781,6 @@ ggr
 galliformes
 ginneries
 gripman
-goose
 ghrush
 gandergoose
 gamari
@@ -1408,6 +1407,7 @@ gallotannin
 gasified
 gearshift
 gcd
+goose
 gangplow
 gliriformia
 grundyite
