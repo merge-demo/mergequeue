@@ -1792,6 +1792,7 @@ entericoid
 epigraphical
 engravers
 embankments
+electrification
 encompasser
 enable
 estimates
@@ -5850,7 +5851,6 @@ entree
 engysseismology
 ethiops
 episyntheton
-electrification
 estamp
 endophytous
 erasures
