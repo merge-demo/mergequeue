@@ -7625,7 +7625,6 @@ cirrhosed
 cerebromeningitis
 celiopyosis
 carduaceous
-cerebrometer
 cerebron
 cerebronic
 cerebroparietal
@@ -10478,6 +10477,7 @@ chelophore
 child
 childbearing
 circumspatial
+cerebrometer
 childcrowing
 cunni
 childed
