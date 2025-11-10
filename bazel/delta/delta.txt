@@ -1603,7 +1603,6 @@ drupelet
 daks
 doe
 dinginess
-drawer
 doweled
 diadrome
 derision
@@ -6435,6 +6434,7 @@ derogatory
 dooja
 dermovaccine
 dischurch
+drawer
 deplorate
 disincorporating
 deferentially
