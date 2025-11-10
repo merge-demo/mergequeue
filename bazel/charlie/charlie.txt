@@ -2170,7 +2170,6 @@ camphorates
 camphory
 camphoryl
 corgi
-ceratothecae
 camphoroyl
 clerkliest
 camporee
@@ -24234,6 +24233,7 @@ convolution
 convolutional
 convolutions
 convolve
+ceratothecae
 cringingly
 constructing
 communique
