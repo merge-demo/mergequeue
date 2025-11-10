@@ -4634,7 +4634,6 @@ guttersnipish
 griggles
 graphometer
 gowkit
-gametogony
 gaonic
 greathead
 gasconade
@@ -10648,6 +10647,7 @@ gorb
 generalizeable
 gurgitation
 gasolines
+gametogony
 gladius
 gyric
 goatsbane
