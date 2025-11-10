@@ -964,7 +964,6 @@ baldaquin
 bobbing
 bahut
 bakuninist
-bitterless
 bahutu
 besiren
 baya
@@ -14882,6 +14881,7 @@ bilith
 brokers
 breakable
 breakaxe
+bitterless
 burning
 blameable
 baja
