@@ -1176,7 +1176,6 @@ acanthia
 anthropogenetic
 apocryphally
 acanthion
-angulus
 atrosanguineous
 acanthocephalous
 acanthocladous
@@ -17031,6 +17030,7 @@ apocopated
 alumian
 artily
 alcid
+angulus
 addy
 arthrotropic
 apocopes
