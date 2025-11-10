@@ -3470,7 +3470,6 @@ batad
 barbascoes
 barrages
 bagworms
-blackings
 blotlessness
 biennium
 boyla
@@ -5061,6 +5060,7 @@ becarve
 beeweed
 beewise
 bask
+blackings
 blackey
 bisphenoid
 bostal
