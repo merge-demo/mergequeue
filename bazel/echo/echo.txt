@@ -3023,7 +3023,6 @@ euglandina
 elytrostenosis
 elytrotomy
 emeer
-elix
 eggfish
 epistolatory
 elixir
@@ -6820,6 +6819,7 @@ episternalia
 evocativeness
 eumenes
 ectosarcs
+elix
 enl
 ethnogenic
 emmenology
