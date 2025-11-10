@@ -3672,6 +3672,7 @@ booklover
 balearian
 burnies
 bedboard
+brigantinebrigantines
 basiophthalmite
 baste
 bucketful
@@ -9970,7 +9971,6 @@ bravas
 boree
 brian
 bx
-brigantinebrigantines
 bituminous
 bisecting
 beryllate
