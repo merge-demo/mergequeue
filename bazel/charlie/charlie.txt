@@ -6876,7 +6876,6 @@ cryptesthesia
 conscientiousness
 curares
 cytologist
-cellulitis
 cellulofibrous
 celluloid
 confabbing
@@ -26385,6 +26384,7 @@ calander
 centipedal
 commutative
 cotch
+cellulitis
 chrysanilin
 coteaux
 coted
