@@ -713,6 +713,7 @@ grapholite
 grossify
 gooranut
 galvanised
+germanistic
 gawn
 gladdest
 grissen
@@ -3273,7 +3274,6 @@ glancer
 gospelmonger
 glycosin
 gelotoscopy
-germanistic
 glent
 grabbable
 glosseme
