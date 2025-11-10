@@ -1117,7 +1117,6 @@ bluethroat
 boyg
 bargestone
 breakwind
-battercake
 belonesite
 bairns
 bootful
@@ -5507,6 +5506,7 @@ backiebird
 behoved
 basting
 behoves
+battercake
 behoving
 battements
 basseted
