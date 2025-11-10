@@ -2772,6 +2772,7 @@ ferrimagnet
 festy
 festilogies
 feddans
+farmy
 festinance
 festoonery
 foretellable
@@ -3925,7 +3926,6 @@ false
 filea
 fined
 faulty
-farmy
 formature
 fischerite
 forebrain
