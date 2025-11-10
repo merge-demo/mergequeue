@@ -9203,6 +9203,7 @@ boubou
 biotypology
 biotites
 bolometric
+basil
 bromcamphor
 bruja
 biotome
@@ -16354,7 +16355,6 @@ brulee
 breathily
 beknottedness
 belligerence
-basil
 buzzardly
 brulzies
 biloculate
