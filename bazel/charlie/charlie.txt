@@ -2784,7 +2784,6 @@ chiccories
 cannister
 cannisters
 crystallographically
-cannoli
 convally
 cannonaded
 cohorts
@@ -28344,6 +28343,7 @@ cravens
 clod
 cloop
 craver
+cannoli
 campholytic
 carboxy
 cerography
