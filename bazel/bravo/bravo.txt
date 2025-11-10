@@ -5993,7 +5993,6 @@ belts
 backstitches
 bloodspilling
 beadlike
-bargoose
 bionomy
 broads
 belute
@@ -6966,6 +6965,7 @@ breediness
 betail
 baselessness
 betta
+bargoose
 bahai
 badder
 bismuths
