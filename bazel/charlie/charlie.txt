@@ -7266,7 +7266,6 @@ concurrent
 countians
 centrosymmetrical
 centrosoyus
-centrosomic
 centrosphere
 crevassed
 cylinderer
@@ -18381,6 +18380,7 @@ creamcups
 cogitant
 cogitates
 cogitation
+centrosomic
 cogitativity
 comparer
 curvle
