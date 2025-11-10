@@ -11115,6 +11115,7 @@ borborygmic
 benzimidazole
 biomorphic
 billeter
+bedwarfs
 broil
 baobabs
 blockmaker
@@ -11763,7 +11764,6 @@ buzzword
 bobol
 biconvex
 bedamns
-bedwarfs
 brynza
 bajocian
 breton
