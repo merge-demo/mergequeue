@@ -4234,6 +4234,7 @@ emulant
 earwiggy
 emulations
 echograph
+exporters
 expiree
 escarping
 escambio
@@ -9028,7 +9029,6 @@ equiglacial
 episcenium
 empyreans
 eperotesis
-exporters
 epibranchial
 ectocyst
 erythrocytoblast
