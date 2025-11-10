@@ -571,7 +571,6 @@ forebays
 fussbudgets
 fallen
 ferny
-fally
 falling
 faradized
 famine
@@ -4609,6 +4608,7 @@ fruitgrowing
 fitchew
 fitified
 fluoridizing
+fally
 flavory
 fitout
 fitchered
