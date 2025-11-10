@@ -4887,6 +4887,7 @@ appeasement
 amnesiac
 aerodontalgia
 arcanum
+algorithms
 antipedal
 adoors
 archhost
@@ -8460,7 +8461,6 @@ alkaloids
 adoption
 alkalosis
 alkalurops
-algorithms
 alkamine
 alkanet
 alkalifies
