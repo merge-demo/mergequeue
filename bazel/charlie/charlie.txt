@@ -19346,7 +19346,6 @@ communication
 clinid
 consumingness
 colonisationist
-colonise
 colonised
 colonising
 colonist
@@ -27371,6 +27370,7 @@ courtal
 courtbred
 chattelization
 courtcraft
+colonise
 cetacean
 cloacal
 congee
