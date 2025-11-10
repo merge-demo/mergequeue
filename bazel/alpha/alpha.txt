@@ -6778,6 +6778,7 @@ aircraftsman
 adsorptiveness
 aircraftsmen
 aircraftswoman
+amytal
 aircraftwoman
 aggrandizer
 aortae
@@ -20928,7 +20929,6 @@ assuefaction
 anticlassicalness
 alimentally
 ascarid
-amytal
 ascaridae
 ascarides
 authoresses
