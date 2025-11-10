@@ -4541,7 +4541,6 @@ grids
 girella
 gracefully
 girellidae
-gainsayer
 grotesqueries
 greenhorns
 gluelike
@@ -6657,6 +6656,7 @@ genuflected
 goniatites
 garterless
 goldarnedest
+gainsayer
 guttler
 grint
 gibbet
