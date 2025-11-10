@@ -3319,7 +3319,6 @@ colleri
 capo
 chaufers
 coughweed
-capoc
 capocchia
 capoche
 crouche
@@ -5492,6 +5491,7 @@ cat
 catabaptist
 contos
 catabases
+capoc
 catabasion
 catabasis
 cameralistic
