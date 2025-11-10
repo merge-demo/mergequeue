@@ -5154,6 +5154,7 @@ gyrophoraceae
 graylags
 glazes
 gemmy
+glycan
 gumpheon
 glb
 gastratrophia
@@ -7156,7 +7157,6 @@ gnawable
 gloryful
 generalship
 gospoda
-glycan
 gillotage
 granuloma
 gonomery
