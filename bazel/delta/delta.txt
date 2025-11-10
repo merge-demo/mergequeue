@@ -3561,7 +3561,6 @@ drumlin
 defunction
 deul
 disfrock
-dislimb
 diethylamine
 disenchanter
 defunctionalize
@@ -12501,6 +12500,7 @@ dexterity
 defy
 deboise
 demesne
+dislimb
 demurring
 disyllabized
 dumky
