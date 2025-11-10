@@ -7341,7 +7341,6 @@ avenues
 albedo
 antidisestablishmentarian
 alum
-albedometer
 albee
 amphiboline
 alberene
@@ -9794,6 +9793,7 @@ airwaybill
 amanitine
 aerifying
 amanitins
+albedometer
 acolyctine
 adry
 agglomerator
