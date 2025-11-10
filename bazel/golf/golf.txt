@@ -1316,6 +1316,7 @@ ginglymoid
 gateward
 gibbered
 groomers
+gas
 galilee
 gorging
 geullah
@@ -1974,7 +1975,6 @@ glamor
 gallamine
 gnomonical
 gimbal
-gas
 geology
 geranic
 goring
