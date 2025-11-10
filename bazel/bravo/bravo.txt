@@ -5691,7 +5691,6 @@ beleapt
 belection
 brining
 belecture
-beledgered
 burbush
 brutedom
 belemnitic
@@ -8970,6 +8969,7 @@ backwardation
 beliked
 beautifiers
 backwort
+beledgered
 blepharochalasis
 biogenesist
 bloodflower
