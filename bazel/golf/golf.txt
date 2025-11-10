@@ -1578,7 +1578,6 @@ gismos
 gondoliere
 globicephala
 gymnura
-gauntlet
 gutteral
 geropiga
 gulanganes
@@ -3628,6 +3627,7 @@ ghibli
 gobline
 ghiblis
 guided
+gauntlet
 geebung
 goths
 glottides
