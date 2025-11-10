@@ -5564,7 +5564,6 @@ gershon
 gephyrophobia
 glycerizine
 grandames
-gossypols
 gconvert
 guars
 glare
@@ -10044,6 +10043,7 @@ gasking
 garnering
 gongman
 galette
+gossypols
 guerison
 guerites
 gage
