@@ -1741,6 +1741,7 @@ feoffors
 forfare
 foreshore
 floriferous
+freedman
 foveal
 feeded
 forecastlemen
@@ -9584,7 +9585,6 @@ freebootery
 forestiera
 freebooting
 freed
-freedman
 feltwork
 facete
 forensic
