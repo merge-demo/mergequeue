@@ -4074,7 +4074,6 @@ beanery
 bolewort
 beanfield
 bardling
-bachelry
 brontosaurs
 bronchomucormycosis
 beriberic
@@ -5210,6 +5209,7 @@ berkeley
 barragan
 blastodisk
 bypasser
+bachelry
 beleed
 bidarkees
 behoove
