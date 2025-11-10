@@ -1533,7 +1533,6 @@ bulbiform
 bdl
 bouton
 backsword
-ballaster
 ballastic
 ballata
 brisked
@@ -5819,6 +5818,7 @@ ballhausplatz
 beblubbered
 behint
 bigthatch
+ballaster
 bountihead
 bellevue
 bonhommie
