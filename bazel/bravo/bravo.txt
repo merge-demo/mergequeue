@@ -3769,6 +3769,7 @@ battute
 burratine
 bacterian
 blastomeric
+blephillia
 batwing
 baysmelt
 beswitch
@@ -6017,7 +6018,6 @@ bossier
 befooling
 brewis
 bribeability
-blephillia
 bruises
 bitterbark
 beme
