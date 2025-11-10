@@ -2733,7 +2733,6 @@ batholitic
 baroko
 bubastite
 backward
-boylas
 beltline
 bullbat
 bismutoplagionite
@@ -4175,6 +4174,7 @@ bracteal
 beastlily
 beclown
 barrow
+boylas
 bradypus
 beastling
 bullswool
