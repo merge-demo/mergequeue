@@ -788,7 +788,6 @@ begod
 browniness
 bldr
 blautok
-baetulus
 boothose
 batrachophobia
 benignness
@@ -10245,6 +10244,7 @@ bryaceous
 besague
 britany
 blackjacks
+baetulus
 bureaux
 bootstraps
 bondhold
