@@ -2657,6 +2657,7 @@ acrawl
 amygdalic
 acre
 amount
+afoam
 aquamarine
 ammochaeta
 acreage
@@ -25194,7 +25195,6 @@ amirate
 autoblast
 axonometric
 asprete
-afoam
 ascupart
 abusiveness
 axonophora
