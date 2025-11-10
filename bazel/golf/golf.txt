@@ -2942,7 +2942,6 @@ gunks
 guardingly
 ganymede
 gusts
-geodynamic
 germanophile
 gaddang
 guilt
@@ -6900,6 +6899,7 @@ groupthink
 gynecomorphous
 glyoxyl
 goodlier
+geodynamic
 germany
 greekdom
 gharry
