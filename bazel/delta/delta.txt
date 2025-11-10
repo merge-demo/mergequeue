@@ -4723,7 +4723,6 @@ decking
 derealization
 declaration
 demiurgos
-dipmeter
 dewaxed
 drifting
 disheveling
@@ -5389,6 +5388,7 @@ dentiled
 dimin
 delivery
 disappropriation
+dipmeter
 drub
 duplications
 demonio
