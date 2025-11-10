@@ -11659,7 +11659,6 @@ cleidohyoid
 charoset
 chowdered
 clethra
-columbanian
 cholesterinic
 cholesterol
 clepsydrae
@@ -29625,6 +29624,7 @@ crocheter
 crocheteur
 codebook
 commutableness
+columbanian
 croci
 crociate
 crocidura
