@@ -2264,7 +2264,6 @@ forgetters
 fenchene
 favn
 froughy
-flurry
 feluccas
 ficoid
 facaded
@@ -2866,6 +2865,7 @@ fisty
 finable
 foresails
 figworm
+flurry
 fungid
 familistery
 fortuned
