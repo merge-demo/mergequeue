@@ -154,7 +154,6 @@ atoms
 abatised
 alliable
 amine
-antiatoms
 alcades
 abaton
 asperggilli
@@ -12799,6 +12798,7 @@ ammocoetid
 angioscope
 angiosymphysis
 anopia
+antiatoms
 ailantine
 aficionados
 assistant
