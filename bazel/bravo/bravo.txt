@@ -14792,7 +14792,6 @@ brazers
 brows
 brazier
 bern
-bombycid
 barres
 ballooner
 bradypepsia
@@ -16284,6 +16283,7 @@ bromoketone
 brinjaul
 bottlehead
 browzer
+bombycid
 biennial
 brr
 bullhead
