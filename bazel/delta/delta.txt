@@ -2891,7 +2891,6 @@ detainers
 deerlike
 decurion
 dispensatories
-deprived
 demented
 diorthosis
 deathling
@@ -8624,6 +8623,7 @@ daphnioid
 diapirs
 diaplases
 disk
+deprived
 dinosaurian
 destroying
 dicotyledons
