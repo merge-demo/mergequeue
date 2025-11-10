@@ -2267,6 +2267,7 @@ aciculae
 amended
 agronomics
 aciculum
+awning
 appassionato
 albarello
 aluminous
@@ -5695,7 +5696,6 @@ agalwoods
 arthrodial
 adiposes
 adulter
-awning
 agamemnon
 antiquely
 aeolistic
