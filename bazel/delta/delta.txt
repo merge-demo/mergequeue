@@ -12045,6 +12045,7 @@ depluming
 difforme
 disencharm
 drip
+doctrix
 disenclose
 daint
 diammine
@@ -14381,7 +14382,6 @@ diurnals
 downstair
 diurnule
 dimensuration
-doctrix
 diuron
 demeaned
 dielytra
