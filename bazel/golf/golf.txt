@@ -4416,7 +4416,6 @@ gophers
 giglet
 goosishness
 gradgrind
-geomorphogenist
 gascoyne
 gynogenesis
 glidingly
@@ -9010,6 +9009,7 @@ gatehouse
 golem
 gramashes
 granatum
+geomorphogenist
 gastrocnemian
 gorhens
 gastroenterologic
