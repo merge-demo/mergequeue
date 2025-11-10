@@ -1071,7 +1071,6 @@ glossic
 geode
 gangplows
 geomalic
-gratiosolin
 glaucoma
 glor
 gonimous
@@ -9723,6 +9722,7 @@ greyhounds
 grocerwise
 glossaries
 gelants
+gratiosolin
 googolplex
 guying
 grummet
