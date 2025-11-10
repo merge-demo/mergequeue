@@ -1761,7 +1761,6 @@ divines
 decadently
 dustheaps
 doorpost
-daggered
 deaving
 debacle
 decolorization
@@ -13121,6 +13120,7 @@ disglory
 diactine
 dispensingly
 dispensive
+daggered
 dispeople
 daresay
 deprivative
