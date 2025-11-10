@@ -1624,7 +1624,6 @@ fretize
 fleaseed
 fellmongery
 fawners
-fawnlike
 frowned
 facet
 faxed
@@ -7408,6 +7407,7 @@ flurriment
 figgum
 fille
 falconers
+fawnlike
 firefang
 footmen
 ferrocerium
