@@ -5322,7 +5322,6 @@ begild
 boltonia
 breathlessness
 biscuitmaker
-biconical
 bezzants
 bipinnate
 bugbite
@@ -14430,6 +14429,7 @@ blowline
 bypath
 brainstems
 brainstone
+biconical
 brainstormer
 boxfuls
 blowsed
