@@ -2724,7 +2724,6 @@ gripeful
 gorlois
 geniture
 grenades
-gumshoes
 geodesists
 gristmiller
 gliadins
@@ -7005,6 +7004,7 @@ goofily
 goops
 gladioli
 gentil
+gumshoes
 glazier
 gigartinaceae
 glamorizes
