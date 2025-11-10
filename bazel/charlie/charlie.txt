@@ -6435,7 +6435,6 @@ canard
 carbarns
 cautious
 cautiously
-coffeecakes
 cannoneers
 cloister
 cav
@@ -23549,6 +23548,7 @@ context
 contexts
 contextualize
 cosmetical
+coffeecakes
 crocketing
 cultirostres
 cornmonger
