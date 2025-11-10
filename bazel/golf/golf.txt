@@ -3741,7 +3741,6 @@ glossology
 gentian
 gouges
 giantship
-geira
 glycolate
 garrafa
 gastroesophagostomy
@@ -7630,6 +7629,7 @@ geobotanically
 gnathometer
 guachamaca
 germane
+geira
 geodynamics
 gyppery
 greenlet
