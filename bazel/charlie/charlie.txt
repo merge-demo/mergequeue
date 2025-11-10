@@ -1057,7 +1057,6 @@ cribo
 choristry
 calcariform
 chugalugs
-conventicles
 calcate
 cadish
 calceate
@@ -7421,6 +7420,7 @@ campbellite
 cephalotaceae
 chalaziferous
 cephalotaxus
+conventicles
 cephalothoraxes
 cephalotomy
 corozo
