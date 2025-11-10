@@ -5888,7 +5888,6 @@ craner
 catered
 codpiece
 caterer
-coadore
 caterers
 cytolymph
 cateringly
@@ -14649,6 +14648,7 @@ cystomas
 corpusculum
 cystometer
 cystomyoma
+coadore
 cystomyxoma
 chillum
 cystonectae
