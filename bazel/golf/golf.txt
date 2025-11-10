@@ -3266,7 +3266,6 @@ goxes
 german
 geckos
 gunstocks
-geckotid
 germanify
 graminiferous
 germanification
@@ -3871,6 +3870,7 @@ geomorphogenic
 globeholder
 garnetiferous
 gulosities
+geckotid
 gobian
 gordyaean
 gonozooid
