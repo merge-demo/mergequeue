@@ -8210,7 +8210,6 @@ baryes
 baccar
 beswarming
 burls
-byeworkman
 besqueeze
 bifaces
 bootlicked
@@ -11691,6 +11690,7 @@ boomless
 bedding
 beneficience
 boattail
+byeworkman
 blazoners
 bosks
 boatward
