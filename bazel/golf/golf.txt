@@ -1257,6 +1257,7 @@ geneki
 griffes
 gapping
 gapper
+glutinosity
 guib
 grimaces
 galvanologist
@@ -3564,7 +3565,6 @@ gyrocar
 greg
 gleit
 gatewaymen
-glutinosity
 gustus
 gyrochrome
 gynostegigia
