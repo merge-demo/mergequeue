@@ -971,7 +971,6 @@ fluorids
 frape
 fastigiums
 forkers
-farcicality
 formalizer
 fillagreed
 foundership
@@ -1827,6 +1826,7 @@ flabellum
 fating
 flexographic
 frostnipped
+farcicality
 funambulate
 feazed
 foreign
