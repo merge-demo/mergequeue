@@ -9917,7 +9917,6 @@ chemosorption
 chemosphere
 collateral
 cancers
-cryptopine
 chemosurgery
 chemotactic
 cresylene
@@ -22568,6 +22567,7 @@ conjuring
 cricetine
 conk
 canonises
+cryptopine
 conkanee
 conked
 conker
