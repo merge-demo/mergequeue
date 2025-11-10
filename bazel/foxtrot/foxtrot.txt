@@ -1118,6 +1118,7 @@ fervidness
 fusileer
 frizzling
 farthing
+foresay
 fluffing
 feverishness
 fractional
@@ -9628,7 +9629,6 @@ freemasonical
 flatfootedness
 freen
 featherfoil
-foresay
 flowerer
 forwardly
 flotations
