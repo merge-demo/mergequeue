@@ -2618,7 +2618,6 @@ geomorphist
 gypsyweed
 gramma
 gonocalyx
-goodness
 gynecia
 galores
 grayware
@@ -3861,6 +3860,7 @@ gramaryes
 grossen
 guelph
 gyroplane
+goodness
 geomorphogenic
 globeholder
 garnetiferous
