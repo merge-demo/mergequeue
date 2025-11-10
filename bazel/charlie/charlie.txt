@@ -17128,6 +17128,7 @@ chauliodes
 cyclohexane
 chemotherapeutic
 cohesive
+ctenophoric
 copiable
 coadjudicator
 coadjutant
@@ -30476,7 +30477,6 @@ crosnes
 ctenolium
 ctenophore
 codesigning
-ctenophoric
 ctenoplana
 ctenostomata
 ctetology
