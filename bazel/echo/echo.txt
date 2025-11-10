@@ -2940,6 +2940,7 @@ enricher
 exploiters
 epagomenal
 endoplast
+encamped
 eliminant
 ennoblers
 ethid
@@ -11551,7 +11552,6 @@ evoe
 ensilaging
 exoculating
 erethizon
-encamped
 endites
 evernia
 expressman
