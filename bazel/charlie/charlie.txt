@@ -11914,6 +11914,7 @@ chorded
 chordee
 choriso
 cst
+cyathos
 contradictive
 chording
 chorditis
@@ -19382,7 +19383,6 @@ colophonic
 colophons
 coloppe
 chrimsel
-cyathos
 coloproctitis
 coloptosis
 colopuncture
