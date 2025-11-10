@@ -3575,6 +3575,7 @@ galany
 guttiform
 gananciales
 gantries
+glack
 galleriidae
 glovers
 galactoid
@@ -8468,7 +8469,6 @@ ganglioblast
 gyrophoric
 gulden
 gyromitra
-glack
 grecian
 grues
 gressorious
