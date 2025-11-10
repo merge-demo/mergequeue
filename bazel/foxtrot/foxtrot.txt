@@ -6295,7 +6295,6 @@ follicle
 ferryhouse
 fob
 falerian
-fand
 flumes
 fluminous
 freak
@@ -9472,6 +9471,7 @@ frequenting
 fraudfully
 fasciculated
 fyces
+fand
 floors
 fraudulent
 fraudulentness
