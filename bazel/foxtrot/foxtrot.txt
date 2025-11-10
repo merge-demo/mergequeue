@@ -3538,7 +3538,6 @@ fissipalmation
 feud
 fitchets
 floundering
-firearm
 figuriste
 flicked
 fyke
@@ -11298,6 +11297,7 @@ furcate
 fenagled
 frontingly
 fusspot
+firearm
 fulmicotton
 fatwa
 feyness
