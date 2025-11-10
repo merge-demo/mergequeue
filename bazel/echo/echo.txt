@@ -4714,6 +4714,7 @@ everybody
 epilog
 ecstrophy
 esthematology
+epanaphora
 electroencephalographs
 enmuffle
 entrammel
@@ -11486,7 +11487,6 @@ emenders
 endocrinous
 exsecant
 exoergic
-epanaphora
 echinopanax
 exhibited
 expended
