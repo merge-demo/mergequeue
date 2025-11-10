@@ -4442,7 +4442,6 @@ grainsickness
 gosplan
 gammelost
 graminology
-gossipy
 gommelin
 grandsire
 generics
@@ -8558,6 +8557,7 @@ guianan
 gypping
 gastrolatrous
 gemel
+gossipy
 gonidioid
 gravure
 gathic
