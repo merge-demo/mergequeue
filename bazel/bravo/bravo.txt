@@ -4506,7 +4506,6 @@ bedead
 becross
 bureaucratism
 becrowd
-becrowded
 burstwort
 billeting
 brickset
@@ -13154,6 +13153,7 @@ branchiopulmonata
 blebby
 boronatrocalcite
 borophenylic
+becrowded
 bororoan
 beadman
 bube
