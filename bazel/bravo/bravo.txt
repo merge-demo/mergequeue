@@ -605,7 +605,6 @@ bacterin
 beggiatoa
 bacteriochlorophyll
 bacteriocin
-bathylite
 bostangi
 bastiment
 bacteriodiagnosis
@@ -3450,6 +3449,7 @@ basto
 baguios
 bucklandite
 bibliolatrous
+bathylite
 bovine
 basts
 banuyo
