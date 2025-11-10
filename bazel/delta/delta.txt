@@ -11213,7 +11213,6 @@ disbanded
 disoppilate
 decanted
 deglaciation
-disbands
 depopulate
 disbarring
 disbars
@@ -15496,6 +15495,7 @@ dentiloguy
 drag
 daymen
 diapery
+disbands
 donator
 detergence
 discodactyl
