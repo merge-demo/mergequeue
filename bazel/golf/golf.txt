@@ -6747,6 +6747,7 @@ garvanzo
 ganocephala
 gonionia
 gnosticize
+genericness
 gamelang
 ganam
 gamgee
@@ -9180,7 +9181,6 @@ globalist
 gripping
 gelandesprung
 glycocin
-genericness
 guayule
 goshawful
 grievously
