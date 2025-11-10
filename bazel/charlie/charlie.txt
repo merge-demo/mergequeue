@@ -6101,6 +6101,7 @@ categorizing
 catonian
 cheesemongerly
 catonically
+cli
 catoptric
 canaan
 clippable
@@ -15870,7 +15871,6 @@ cleaveful
 cleavelandite
 contentness
 cleaver
-cli
 cleavers
 coremaker
 clamb
