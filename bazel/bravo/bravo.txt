@@ -5041,6 +5041,7 @@ beetled
 boite
 banqueteer
 braunschweiger
+byliners
 beglic
 bloodletting
 branchiform
@@ -15511,7 +15512,6 @@ beefin
 beaterman
 balut
 balaghaut
-byliners
 bestreak
 bromidic
 beclothing
