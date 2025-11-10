@@ -1014,6 +1014,7 @@ fimbrillae
 fontanges
 fulmina
 fucuses
+foreplan
 formate
 foreorder
 fenester
@@ -7838,7 +7839,6 @@ foreplay
 foetiparous
 feudally
 funnellike
-foreplan
 fratricides
 flits
 foursomes
