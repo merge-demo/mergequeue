@@ -3371,7 +3371,6 @@ bootable
 brythonic
 baculum
 benzilic
-bassan
 bassanite
 biotechnics
 bassetta
@@ -10830,6 +10829,7 @@ blepharoncosis
 beplumed
 broses
 blepharoplastic
+bassan
 blepharoptosis
 blepharosynechia
 blepharosphincterectomy
