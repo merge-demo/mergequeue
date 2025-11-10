@@ -15219,7 +15219,6 @@ drawlier
 deathfulness
 dolefuls
 dotate
-dolentissimo
 drunkly
 disimitate
 dolerophanite
@@ -17876,6 +17875,7 @@ deathday
 duelers
 duelist
 duelistic
+dolentissimo
 disinfest
 durgan
 dinks
