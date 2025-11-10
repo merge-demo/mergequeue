@@ -13594,6 +13594,7 @@ dissensualize
 dissentation
 dissented
 dissenter
+damlike
 daemonic
 dissentience
 duende
@@ -17419,7 +17420,6 @@ dropsies
 dropwise
 despairer
 dropwort
-damlike
 dogeships
 dinarchy
 diener
