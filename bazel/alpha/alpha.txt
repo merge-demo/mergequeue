@@ -2772,7 +2772,6 @@ acrochordon
 aggregata
 acrock
 amyelencephalia
-acrospore
 acroclinium
 acrodactyla
 acrodont
@@ -11511,6 +11510,7 @@ audiometers
 ajaja
 anabaptists
 adenocele
+acrospore
 anabases
 archaeopteryx
 ageists
