@@ -7644,6 +7644,7 @@ borne
 butanones
 bugseed
 beworries
+biophor
 beworship
 bedare
 bonaught
@@ -12339,7 +12340,6 @@ buglers
 bandurrias
 bicker
 bezzi
-biophor
 beldame
 baillie
 boterol
