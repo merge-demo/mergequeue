@@ -5207,6 +5207,7 @@ beadhouse
 bondfolk
 berkeley
 barragan
+bicentricity
 blastodisk
 bypasser
 bachelry
@@ -7982,7 +7983,6 @@ baphia
 bicched
 bribegiving
 bicentric
-bicentricity
 beebees
 bardier
 beauteousness
