@@ -6790,7 +6790,6 @@ eggheads
 entitling
 ecclesioclastic
 entoblastic
-entobronchium
 entocalcaneal
 entocarotid
 eelgrass
@@ -12314,6 +12313,7 @@ equimolecular
 epimerite
 erichtoid
 eavesing
+entobronchium
 enjambment
 eradicating
 emusive
