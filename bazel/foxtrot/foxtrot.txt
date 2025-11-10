@@ -4402,7 +4402,6 @@ fistify
 fenian
 fertiliser
 foretop
-fudged
 formulaic
 frumpily
 factually
@@ -5892,6 +5891,7 @@ fisherfolk
 faultfinding
 fdname
 flockings
+fudged
 fulsamic
 folgerite
 fencepost
