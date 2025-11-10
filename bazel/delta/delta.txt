@@ -7069,7 +7069,6 @@ decadence
 deface
 despondence
 despondencies
-dar
 despondentness
 desponder
 despondingly
@@ -11526,6 +11525,7 @@ dionysiacal
 discoloration
 discolorations
 discolored
+dar
 doest
 defalcations
 deads
