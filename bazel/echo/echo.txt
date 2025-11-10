@@ -3108,7 +3108,6 @@ exudations
 eyewash
 empennage
 equiangularity
-elaphomyces
 epicalyces
 even
 encomiums
@@ -9409,6 +9408,7 @@ escaper
 embodied
 enfranchiser
 extent
+elaphomyces
 elsewhere
 escapist
 endoss
