@@ -5389,7 +5389,6 @@ bacteriogenic
 bonace
 blueweed
 besoothement
-begowk
 begowned
 buyable
 begray
@@ -17880,6 +17879,7 @@ blotchier
 bushbucks
 batrachium
 bearbush
+begowk
 bacilluria
 bairnishness
 beholders
