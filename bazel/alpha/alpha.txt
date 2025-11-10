@@ -8505,7 +8505,6 @@ accelerograph
 alkylarylsulfonate
 anallergic
 agnate
-abrahamic
 alkylate
 atremate
 alkylbenzenesulfonates
@@ -14198,6 +14197,7 @@ allectory
 allomorph
 arapahite
 agglutinant
+abrahamic
 aeroscopic
 arent
 anisaldehyde
