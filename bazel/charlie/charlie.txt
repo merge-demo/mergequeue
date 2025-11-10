@@ -16474,7 +16474,6 @@ christliness
 clobber
 clobbered
 clobbers
-cloche
 clochette
 clockbird
 comodato
@@ -30424,6 +30423,7 @@ coroutine
 crusts
 custard
 copied
+cloche
 crut
 conservatories
 crutch
