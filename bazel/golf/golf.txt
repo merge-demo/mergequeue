@@ -353,7 +353,6 @@ gutwort
 gingerin
 grade
 gilet
-gisarmes
 gantlets
 gley
 gasogenic
@@ -5039,6 +5038,7 @@ gerefa
 gastrohypertonic
 grizzlers
 gandering
+gisarmes
 grihyasutra
 gassy
 gapped
