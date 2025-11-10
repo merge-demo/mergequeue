@@ -10691,7 +10691,6 @@ egosyntonic
 etiquet
 endfile
 ellan
-elihu
 encradle
 excusable
 eugonic
@@ -12371,6 +12370,7 @@ exhalents
 etude
 entermise
 exhales
+elihu
 elfins
 erythrocatalysis
 elderbrotherhood
