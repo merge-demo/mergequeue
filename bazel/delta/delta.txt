@@ -10547,7 +10547,6 @@ digonoporous
 dollin
 depthless
 dreadlessly
-danging
 discorder
 derangeable
 delaminate
@@ -11460,6 +11459,7 @@ dockyard
 dissuader
 demivotary
 determinoid
+danging
 debug
 discloser
 disclosive
