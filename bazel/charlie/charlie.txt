@@ -5507,7 +5507,6 @@ catachresis
 catachrestic
 cercariae
 condemner
-caprioling
 catachthonic
 consummation
 cataclastic
@@ -14917,6 +14916,7 @@ cytoreticulum
 cytosines
 cytospectrophotometry
 cytospora
+caprioling
 cytost
 cradlelike
 conceit
