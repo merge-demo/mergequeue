@@ -3635,6 +3635,7 @@ frisbees
 flook
 farmable
 fridstool
+frictionlessly
 flashing
 fielder
 floatsman
@@ -10415,7 +10416,6 @@ filesmith
 feudalistic
 fringeflower
 fossified
-frictionlessly
 fountainously
 firsts
 fusileers
