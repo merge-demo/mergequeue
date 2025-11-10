@@ -9240,7 +9240,6 @@ chastest
 chasteweed
 censurers
 ceduous
-chasty
 chastiment
 chastise
 chastiser
@@ -19466,6 +19465,7 @@ chimaeridae
 cephalopagus
 carbohydrazide
 cup
+chasty
 colormaker
 cornicing
 colorman
