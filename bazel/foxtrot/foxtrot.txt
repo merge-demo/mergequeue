@@ -1928,6 +1928,7 @@ freight
 furling
 friable
 fangot
+froze
 forebearing
 floccule
 finagling
@@ -11189,7 +11190,6 @@ fullgrownness
 frontiersman
 fusobacteria
 foetalization
-froze
 fungoes
 flotorial
 fidgetily
