@@ -1032,7 +1032,6 @@ grindstones
 gloriette
 galvanoscopy
 geodist
-gullibility
 gleemen
 golp
 glanced
@@ -7564,6 +7563,7 @@ gunfought
 galipots
 grab
 guanamine
+gullibility
 gorkhali
 guarantied
 gangliar
