@@ -13202,7 +13202,6 @@ clearskins
 cichlid
 cichlidae
 colocynthin
-cichorium
 cicisbeism
 cicisbeo
 cycl
@@ -19818,6 +19817,7 @@ ceraunics
 curfewing
 come
 comebacker
+cichorium
 cephalochordate
 circumstantial
 chontalan
