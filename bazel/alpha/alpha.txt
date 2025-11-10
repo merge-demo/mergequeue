@@ -749,7 +749,6 @@ accordatura
 asperation
 attuning
 apogalacteum
-agricolist
 anthelminthic
 abrasively
 abrazite
@@ -18999,6 +18998,7 @@ axonopus
 actiniform
 azelate
 archmocker
+agricolist
 anastomosed
 auctionary
 autochthonic
