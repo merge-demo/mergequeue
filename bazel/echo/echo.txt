@@ -1585,7 +1585,6 @@ eglomise
 exolete
 errite
 entires
-enumerator
 eucaines
 eff
 estopped
@@ -4625,6 +4624,7 @@ epithalamiums
 enajim
 ermelin
 eminence
+enumerator
 engaged
 enhydrite
 extratensive
