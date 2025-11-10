@@ -6774,7 +6774,6 @@ genal
 genros
 gondola
 goniums
-gasterosteoid
 glanis
 garbleable
 gradate
@@ -7958,6 +7957,7 @@ gabblement
 gipper
 geologized
 grudgment
+gasterosteoid
 grandmas
 guanosine
 granada
