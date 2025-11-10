@@ -2619,7 +2619,6 @@ barkier
 buttonhook
 bravery
 beduchess
-bescoundrel
 bantamweight
 birdhouses
 bilges
@@ -15400,6 +15399,7 @@ bannerlike
 brighten
 brainwork
 brightish
+bescoundrel
 brightsmith
 banged
 bandannaed
