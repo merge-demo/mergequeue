@@ -11324,6 +11324,7 @@ evapotranspiration
 ecaudata
 esiphonal
 ergatoid
+evenglow
 erenach
 eneid
 erudite
@@ -13171,7 +13172,6 @@ enfeature
 episcotister
 expiable
 excubitorium
-evenglow
 entailment
 embroil
 enties
