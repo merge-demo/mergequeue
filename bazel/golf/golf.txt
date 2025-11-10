@@ -777,6 +777,7 @@ ggr
 galliformes
 ginneries
 gripman
+goose
 ghrush
 gandergoose
 gamari
@@ -1538,7 +1539,6 @@ gearless
 gurt
 granddaughters
 guara
-goose
 gazump
 grimgribber
 goatpox
