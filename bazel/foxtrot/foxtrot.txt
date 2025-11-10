@@ -1082,6 +1082,7 @@ franchisement
 frizer
 flichters
 foreswear
+feriae
 farreachingly
 fernleaf
 federates
@@ -3553,7 +3554,6 @@ filarian
 fattily
 filaricidal
 filariids
-feriae
 forechoice
 flagellative
 foody
