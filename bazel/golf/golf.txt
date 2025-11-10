@@ -1273,6 +1273,7 @@ grimaces
 galvanologist
 garran
 gaia
+glenwood
 granage
 ged
 gavall
@@ -4145,7 +4146,6 @@ gratewise
 gypsum
 gasconaded
 gouda
-glenwood
 guarapo
 globuloid
 gelinotte
