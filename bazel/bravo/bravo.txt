@@ -3014,6 +3014,7 @@ boogyman
 barter
 blechnoid
 barters
+brilliancy
 brujo
 blood
 bullace
@@ -9036,7 +9037,6 @@ biome
 byp
 biomechanical
 begrims
-brilliancy
 biomedicine
 bondieuserie
 bashing
