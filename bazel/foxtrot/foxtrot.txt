@@ -10408,6 +10408,7 @@ fraggings
 filigree
 flow
 fictility
+flyspecked
 firstling
 forcaria
 filesmith
@@ -11126,7 +11127,6 @@ farle
 footmarks
 furuncular
 flaggery
-flyspecked
 formylated
 forumize
 fanega
