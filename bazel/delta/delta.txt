@@ -3130,7 +3130,6 @@ destructibleness
 defamy
 delegating
 desmoneme
-dihydrite
 distoclusion
 defaming
 disability
@@ -15033,6 +15032,7 @@ distrains
 distinctify
 determ
 doggerel
+dihydrite
 doggerelism
 doggerelist
 diversly

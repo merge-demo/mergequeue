@@ -9806,6 +9806,7 @@ cheliform
 crajuru
 chelinga
 curua
+cryptogamy
 chelingas
 cheliped
 chelys
@@ -29323,7 +29324,6 @@ cryptogam
 chilitis
 carbazin
 cryptogame
-cryptogamy
 cryptogamic
 cryptogamical
 cryptogamist
