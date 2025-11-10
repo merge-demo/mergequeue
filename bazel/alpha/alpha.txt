@@ -4254,7 +4254,6 @@ aclastic
 adposition
 acmispon
 azonium
-appending
 armorer
 alchornea
 akhlame
@@ -19613,6 +19612,7 @@ ark
 arillate
 affricative
 abwatts
+appending
 arillus
 ampere
 aecioteliospore
