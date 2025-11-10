@@ -831,7 +831,6 @@ epitheton
 entrecote
 exulate
 ectiris
-equations
 etamines
 enslaver
 ectocarpus
@@ -4916,6 +4915,7 @@ eveck
 extradictable
 endamoebas
 endamoebidae
+equations
 endangitis
 expertised
 endarteteria
