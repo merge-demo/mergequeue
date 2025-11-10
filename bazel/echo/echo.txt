@@ -6595,7 +6595,6 @@ electrician
 enquicken
 equiponderant
 excluding
-enterococcal
 echinorhynchus
 esperantidist
 embryous
@@ -12738,6 +12737,7 @@ emulatively
 ethers
 emmenagogic
 equivoque
+enterococcal
 eriophyid
 enfetters
 emarginula
