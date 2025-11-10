@@ -2590,7 +2590,6 @@ crepier
 camphires
 censuses
 cyclotrons
-cd
 corneum
 cliffing
 canebrake
@@ -5629,6 +5628,7 @@ catalos
 catalufa
 catalufas
 catamarcan
+cd
 choufleur
 coedited
 catamarenan
