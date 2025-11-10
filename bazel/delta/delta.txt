@@ -6741,7 +6741,6 @@ drunkard
 disorderliness
 darnex
 diatribes
-desiderium
 desiderta
 diptycas
 desidiose
@@ -10306,6 +10305,7 @@ defaulting
 diodontidae
 dioecy
 dislodged
+desiderium
 dioecia
 demurred
 dioecian
