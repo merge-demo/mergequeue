@@ -4359,7 +4359,6 @@ endoplastule
 euornithes
 enapt
 ethnog
-elemi
 elatinaceae
 enarched
 eurypygidae
@@ -10784,6 +10783,7 @@ emblema
 eumerism
 encrinus
 electrogilding
+elemi
 exflagellate
 endosporic
 eumycete
