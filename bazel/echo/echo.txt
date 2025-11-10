@@ -4210,6 +4210,7 @@ emptiness
 emptio
 externship
 emptor
+ethernet
 eccyclema
 eggeater
 evagination
@@ -10169,7 +10170,6 @@ extraditing
 easeful
 encoders
 executives
-ethernet
 extrahazardous
 emancipation
 escrowed
