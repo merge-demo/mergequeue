@@ -2994,7 +2994,6 @@ barsac
 backhatch
 becowarding
 bioassay
-blarneyer
 barstools
 bart
 brahma
@@ -9542,6 +9541,7 @@ basilyst
 birthless
 bombycinous
 blastemata
+blarneyer
 bacteria
 branchiostegite
 birthmark
