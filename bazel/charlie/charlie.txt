@@ -16104,6 +16104,7 @@ clydesider
 client
 clientage
 cliental
+classer
 cycloramas
 condylotomy
 choriocarcinomata
@@ -21195,7 +21196,6 @@ celiomyomectomy
 clinophobia
 concelebrates
 concelebration
-classer
 concenter
 concentering
 compasses
