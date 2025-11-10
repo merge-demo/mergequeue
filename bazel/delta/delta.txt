@@ -6402,6 +6402,7 @@ deco
 dermotropic
 dastardliness
 derms
+diacatholicon
 defined
 dioc
 ducula
@@ -8178,7 +8179,6 @@ disambiguate
 disventure
 delineate
 domesticized
-diacatholicon
 diacaustic
 diamminonitrate
 delacerate
