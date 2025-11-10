@@ -15432,6 +15432,7 @@ centrosome
 clapt
 chicane
 cautio
+cabins
 claptraps
 clapwort
 culbuter
@@ -18909,7 +18910,6 @@ chaines
 colinear
 chelodina
 chadars
-cabins
 colinearity
 colinephritis
 churchified
