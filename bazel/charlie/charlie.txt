@@ -9553,7 +9553,6 @@ checkman
 congruencies
 checkmate
 chirosophist
-checkmating
 cautioning
 circumferences
 checkpointed
@@ -14666,6 +14665,7 @@ coadjustment
 cystophotography
 coxier
 captans
+checkmating
 catch
 concomitancy
 cystopyelitis
