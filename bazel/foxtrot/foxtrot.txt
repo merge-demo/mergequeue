@@ -3913,7 +3913,6 @@ fumigators
 fusinist
 fullage
 frostproof
-flatting
 fustianize
 foggage
 fang
@@ -4483,6 +4482,7 @@ fluctuant
 ferrotitanium
 faddy
 frowst
+flatting
 forlane
 fertilizers
 fishwood
