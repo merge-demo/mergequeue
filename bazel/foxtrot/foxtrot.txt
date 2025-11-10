@@ -4296,6 +4296,7 @@ fungology
 firmarii
 flamens
 furmeties
+flunkeys
 forrader
 filthier
 farhand
@@ -8826,7 +8827,6 @@ fossilogy
 funmaker
 fload
 fashionability
-flunkeys
 felichthys
 firmest
 fettstein
