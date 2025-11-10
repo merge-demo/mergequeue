@@ -4971,6 +4971,7 @@ goldic
 gymnogen
 gawker
 galling
+glew
 goodwilled
 grafters
 goldhead
@@ -8710,7 +8711,6 @@ grinner
 greencoat
 gastrolater
 gormandising
-glew
 greenery
 globin
 geraniaceous
