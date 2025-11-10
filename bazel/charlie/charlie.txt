@@ -474,6 +474,7 @@ cadastres
 cadaver
 capronic
 cadaverin
+cormus
 cadaverous
 cadaverously
 cadavers
@@ -24308,7 +24309,6 @@ cooches
 chondrophore
 cooed
 corrades
-cormus
 counterexample
 couthily
 cnidaria
