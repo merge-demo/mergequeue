@@ -2791,7 +2791,6 @@ briggs
 baroque
 baconer
 bowsprits
-butchered
 bureaus
 barites
 bolding
@@ -12015,6 +12014,7 @@ bohemian
 bohemianism
 bohemium
 bidders
+butchered
 belladonna
 becker
 braula
