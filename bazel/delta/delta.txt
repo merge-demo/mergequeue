@@ -7586,7 +7586,6 @@ drawout
 derner
 dunziekte
 desilverization
-decursive
 deuterosy
 drubber
 dutifulness
@@ -17207,6 +17206,7 @@ drysne
 dictyonema
 director
 diaphoresis
+decursive
 depletory
 drive
 deermeat
