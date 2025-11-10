@@ -9979,7 +9979,6 @@ californiana
 chenille
 cascado
 consumable
-cheniller
 chenopod
 colocasia
 catacombic
@@ -17781,6 +17780,7 @@ cocopan
 cocoroot
 choup
 cocotte
+cheniller
 cocottes
 cocobolo
 condemnate
