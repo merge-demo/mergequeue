@@ -2366,6 +2366,7 @@ floatstone
 flytings
 fegs
 frolicky
+favoritism
 ferforth
 frapped
 forz
@@ -6183,7 +6184,6 @@ fog
 flrie
 frothier
 fluavile
-favoritism
 flubbed
 filmically
 filets
