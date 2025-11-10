@@ -628,7 +628,6 @@ gallisin
 gunslingers
 gillie
 geophysicist
-gallivanters
 gigartina
 glide
 gradatory
@@ -6290,6 +6289,7 @@ gruneritization
 grubstaker
 goblins
 goldenpert
+gallivanters
 gebang
 gobo
 gobony
