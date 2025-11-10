@@ -176,7 +176,6 @@ exacts
 ejidal
 enchantingness
 eugenetic
-ensand
 ergogram
 exploration
 elaps
@@ -8441,6 +8440,7 @@ eponym
 earthmove
 etiolate
 eponymus
+ensand
 email
 epicier
 elkhorn
