@@ -4216,7 +4216,6 @@ cardona
 cardoncillo
 colorum
 cardoon
-conure
 cardoons
 cardophagus
 clearwing
@@ -15643,6 +15642,7 @@ captainly
 clattering
 chicaner
 capryl
+conure
 colorfully
 ceratodus
 criminologists
