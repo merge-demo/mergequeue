@@ -1334,7 +1334,6 @@ demissive
 diploid
 draftsperson
 dompt
-dauntingly
 damagement
 dart
 dauntingness
@@ -10878,6 +10877,7 @@ dynameter
 darkest
 distant
 dipleurobranchiate
+dauntingly
 dimerized
 displays
 dirged
