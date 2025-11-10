@@ -4077,6 +4077,7 @@ dismissible
 delicatessen
 dynam
 dustoor
+dwellers
 dominance
 delice
 dualistic
@@ -16618,7 +16619,6 @@ dragonhood
 downily
 deveins
 dissent
-dwellers
 decorates
 dragonish
 dragonize
