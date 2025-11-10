@@ -3448,7 +3448,6 @@ gudgeons
 gowl
 gelatinated
 gastrologer
-geodynamics
 genoa
 gallanting
 glasgow
@@ -7627,6 +7626,7 @@ geobotanically
 gnathometer
 guachamaca
 germane
+geodynamics
 gyppery
 greenlet
 gleary
