@@ -1215,7 +1215,6 @@ fears
 fascistization
 foxproof
 fountainlike
-flangeless
 fastigiately
 fleckled
 fleckiness
@@ -11079,6 +11078,7 @@ flense
 footbridge
 footrace
 falconet
+flangeless
 fracturs
 forbidder
 foreknowableness
