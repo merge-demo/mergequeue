@@ -5734,7 +5734,6 @@ gobos
 glossolalia
 gabbroid
 glossolysis
-glossologist
 goldweed
 grecizes
 geometrical
@@ -10601,6 +10600,7 @@ gillion
 glandaceous
 gowned
 goldenmouth
+glossologist
 greenockite
 gallow
 glumose
