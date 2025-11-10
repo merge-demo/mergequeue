@@ -11475,7 +11475,6 @@ bigeneric
 bananalander
 bivious
 barytones
-bluestockings
 bolthead
 bluetit
 bluffly
@@ -12281,6 +12280,7 @@ briefless
 byssiferous
 bolt
 boltage
+bluestockings
 biasses
 boltcutter
 bookmark
