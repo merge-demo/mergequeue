@@ -4188,7 +4188,6 @@ ges
 geod
 gleesome
 ganef
-grotesquery
 gulflike
 geniculum
 gossy
@@ -10278,6 +10277,7 @@ guarantorship
 gonimoblast
 guitar
 gaumish
+grotesquery
 grecque
 gourmet
 guitarist
