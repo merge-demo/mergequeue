@@ -1895,7 +1895,6 @@ gatherers
 galumph
 gooma
 gamenesses
-gatherings
 grecale
 grubstake
 gating
@@ -3873,6 +3872,7 @@ grossen
 guelph
 gyroplane
 goodness
+gatherings
 geomorphogenic
 globeholder
 garnetiferous
