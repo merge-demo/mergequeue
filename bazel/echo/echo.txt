@@ -2512,7 +2512,6 @@ eparcuale
 epitomisation
 eulytite
 equitriangular
-exoskeleton
 excerebrate
 eviration
 entoiled
@@ -12527,6 +12526,7 @@ euphemy
 emissaria
 enhalos
 enneacontahedron
+exoskeleton
 exist
 existed
 elucidating
