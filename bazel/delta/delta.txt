@@ -6164,7 +6164,6 @@ durgen
 deckedout
 derated
 diphtheroid
-derater
 dijudicant
 duperies
 deservedness
@@ -15357,6 +15356,7 @@ decrystallization
 darbyite
 decongestion
 domesdays
+derater
 diarthrodial
 domesticality
 decreased
