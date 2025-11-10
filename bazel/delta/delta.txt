@@ -340,6 +340,7 @@ dupatta
 dimeran
 dummyweed
 deltaite
+denumberment
 damier
 depasturage
 desalted
@@ -16011,7 +16012,6 @@ downsize
 decrepitude
 direct
 double
-denumberment
 demos
 dotter
 detrimentality
