@@ -2048,6 +2048,7 @@ capitalizer
 chicomecoatl
 cypresses
 cruelize
+colonial
 camoudie
 coburgess
 camouflage
@@ -19315,7 +19316,6 @@ colones
 colonette
 colongitude
 colony
-colonial
 crabbier
 cabezones
 coresidence
