@@ -8470,7 +8470,6 @@ eurindic
 explants
 erases
 elongates
-epulosis
 epuration
 exculpable
 effectual
@@ -11613,6 +11612,7 @@ empaneled
 enhances
 enforcibility
 embordering
+epulosis
 economics
 exacerbatingly
 etoiles
