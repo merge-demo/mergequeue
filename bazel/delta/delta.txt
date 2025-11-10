@@ -4542,6 +4542,7 @@ dosimetric
 demifigure
 decentres
 disinflated
+downdraught
 detroiter
 demigauntlet
 doting
@@ -8942,7 +8943,6 @@ defiatory
 diceras
 dmod
 deriving
-downdraught
 dioptidae
 disconnect
 dissolvability
