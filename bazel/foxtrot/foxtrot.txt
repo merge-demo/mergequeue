@@ -6023,6 +6023,7 @@ folletto
 flabbiness
 fresco
 fermorite
+finger
 fontange
 forgab
 frontooccipital
@@ -10095,7 +10096,6 @@ finalizations
 fennec
 functions
 fondant
-finger
 fritz
 furnisher
 foozling
