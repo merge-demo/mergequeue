@@ -3160,6 +3160,7 @@ graplin
 glycans
 geraniaceae
 gazon
+griffado
 gabler
 glycyrrhiza
 gingelies
@@ -5965,7 +5966,6 @@ glutose
 gainspeaking
 gluttonish
 grainsman
-griffado
 granulous
 geometry
 gutterman
