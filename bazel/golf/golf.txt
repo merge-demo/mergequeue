@@ -141,7 +141,6 @@ gynostegia
 gs
 gallicole
 guy
-greengrocery
 gratelike
 garrot
 geryon
@@ -10831,6 +10830,7 @@ goatland
 growing
 grammatic
 galga
+greengrocery
 greenbackism
 grayhead
 generality
