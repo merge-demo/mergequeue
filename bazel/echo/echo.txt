@@ -5551,7 +5551,6 @@ enfants
 evulsion
 enfiled
 expediences
-enfire
 evangel
 extratympanic
 empathetically
@@ -11646,6 +11645,7 @@ electroirrigation
 electivity
 eburnian
 exaction
+enfire
 exactitude
 electrohydraulic
 eleusinian
