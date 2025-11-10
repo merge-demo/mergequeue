@@ -2627,7 +2627,6 @@ etymologisable
 eras
 exempla
 electrophrenic
-electrophoric
 electroplater
 electropower
 electropsychrometer
@@ -7096,6 +7095,7 @@ emulsible
 estuous
 edicule
 equiprobability
+electrophoric
 enchainments
 epiplankton
 evadible
