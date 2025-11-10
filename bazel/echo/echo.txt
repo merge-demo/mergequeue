@@ -5250,6 +5250,7 @@ elutor
 endopterygota
 exudatory
 endoradiosonde
+extract
 exfiguration
 embryotrophy
 espinillo
@@ -11697,7 +11698,6 @@ enfolding
 eventualities
 exaltation
 erenow
-extract
 explanator
 enterocoele
 endocarditis
