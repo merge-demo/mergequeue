@@ -5228,7 +5228,6 @@ guardianships
 girouette
 gleys
 gynecopathic
-graciles
 grindery
 grissons
 gloamings
@@ -6508,6 +6507,7 @@ goldsmithry
 grays
 groveler
 gynecomaniacal
+graciles
 ganglioneural
 grannom
 glaucic
