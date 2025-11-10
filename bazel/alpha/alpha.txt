@@ -4639,7 +4639,6 @@ aedeagi
 assyriologist
 aedeagus
 aviculture
-aediculae
 aedicule
 attraction
 autem
@@ -15555,6 +15554,7 @@ antimoniuretted
 antimonopolistic
 allantoidian
 ardure
+aediculae
 antimoral
 antimoralism
 avale
