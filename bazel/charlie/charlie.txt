@@ -8106,7 +8106,6 @@ chafed
 chafery
 chiles
 cagayan
-ceroxylon
 capitulum
 chaferies
 chafers
@@ -18590,6 +18589,7 @@ coiffeur
 coiffeurs
 coiffeuses
 coiffured
+ceroxylon
 coiffures
 coiffuring
 coifing
