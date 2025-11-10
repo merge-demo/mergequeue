@@ -5624,7 +5624,6 @@ enforest
 epacme
 enform
 ergometric
-epulation
 enfort
 embarrasses
 epicritic
@@ -14193,6 +14192,7 @@ eupanorthus
 enterococci
 exurbs
 ectosome
+epulation
 endlong
 equidistance
 exurge

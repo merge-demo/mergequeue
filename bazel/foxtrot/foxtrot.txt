@@ -1697,7 +1697,6 @@ forehandsel
 floridian
 fearsomeness
 foreshape
-fixgig
 feased
 folic
 fumigant
@@ -7994,6 +7993,7 @@ frumpled
 forgetness
 flatteur
 fowent
+fixgig
 fumeless
 forespeaking
 flavorer
