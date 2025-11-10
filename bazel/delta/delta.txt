@@ -15903,6 +15903,7 @@ drench
 dossennus
 dressings
 decapodiform
+diamagnetometer
 dosser
 dosseret
 dulcian
@@ -18206,7 +18207,6 @@ delights
 ditetragonal
 dentatocostate
 densher
-diamagnetometer
 disfellowship
 detonatability
 deadlocks
