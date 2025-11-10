@@ -7556,7 +7556,6 @@ dearnesses
 daemonology
 disrupting
 dentiloquy
-decapper
 deuterium
 deinocephalia
 declaimed
@@ -14864,6 +14863,7 @@ dactylose
 disgregating
 disnatural
 dimmers
+decapper
 drafters
 documentarist
 documentational
