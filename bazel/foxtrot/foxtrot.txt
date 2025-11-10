@@ -2218,6 +2218,7 @@ freshmanhood
 fennecs
 focometry
 fikie
+fiscus
 firebombs
 fuliguline
 flatcars
@@ -7999,7 +8000,6 @@ forespencer
 fiz
 feist
 finicality
-fiscus
 fatbirds
 fontina
 fellmongered
