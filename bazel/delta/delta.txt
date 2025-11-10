@@ -16837,7 +16837,6 @@ drawgate
 dividers
 deuteride
 dishonorary
-disvaluing
 drawings
 duplicando
 deliquescent
@@ -17550,6 +17549,7 @@ drumbles
 depudorate
 drumfishes
 drumhead
+disvaluing
 decolour
 disassimilation
 dynamiter
