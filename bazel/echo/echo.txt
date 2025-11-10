@@ -248,7 +248,6 @@ eyeshots
 embrighten
 easiest
 eleutheromorph
-elbow
 evensong
 ejido
 eulamellibranchia
@@ -1820,6 +1819,7 @@ egotheism
 epithalamy
 ergatogyny
 ectepicondylar
+elbow
 exopodite
 eigenvalues
 eudemony
