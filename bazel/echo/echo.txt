@@ -1083,6 +1083,7 @@ epistolic
 echinology
 elective
 edification
+evaluators
 exfigure
 earock
 evaluates
@@ -7558,7 +7559,6 @@ epicheiremata
 executer
 ependyma
 endomysium
-evaluators
 endovenous
 electrocapillarity
 equivalently
