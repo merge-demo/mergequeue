@@ -12761,6 +12761,7 @@ chugging
 centilitre
 chuje
 chalta
+clockmaker
 cajava
 complices
 chukchi
@@ -16488,7 +16489,6 @@ clocker
 clockhouse
 clockless
 cuon
-clockmaker
 cryophorus
 clockmaking
 crewer
