@@ -7858,7 +7858,6 @@ cervicobregmatic
 cobitis
 cervicobuccal
 cervicodynia
-cervicofacial
 cervicolabial
 cooeyed
 croh
@@ -19218,6 +19217,7 @@ casuariidae
 colloquiums
 counterquip
 cuittled
+cervicofacial
 colloquizing
 commisce
 colloququia
