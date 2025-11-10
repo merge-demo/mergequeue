@@ -15323,6 +15323,7 @@ dolphinlike
 decadescent
 dolphins
 discountenance
+diagnostics
 design
 distilleries
 dismit
@@ -16662,7 +16663,6 @@ dawdle
 dogging
 drainers
 drainfield
-diagnostics
 disvelop
 drainman
 disgross
