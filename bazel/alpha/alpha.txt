@@ -663,7 +663,6 @@ abord
 aboriginality
 anhydrosis
 aborigines
-abort
 alderfly
 aborted
 abortient
@@ -14536,6 +14535,7 @@ adultress
 anthroponomics
 anthroponomist
 anthropopathy
+abort
 antipathies
 alveolitis
 areas
