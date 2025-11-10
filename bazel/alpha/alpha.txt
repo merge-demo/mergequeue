@@ -3386,7 +3386,6 @@ apeman
 aliased
 airmarker
 adjustability
-adaptableness
 adjugate
 almocrebe
 asterite
@@ -17167,6 +17166,7 @@ ajog
 anaerobian
 apolunes
 apartment
+adaptableness
 ankerites
 apolusis
 anatosaurus
