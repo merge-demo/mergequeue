@@ -5427,7 +5427,6 @@ castled
 castlelike
 clitocybe
 castles
-cortaderia
 cordies
 castlet
 commercing
@@ -8136,6 +8135,7 @@ carryalls
 chaffinch
 caressable
 climatical
+cortaderia
 camelion
 chaffman
 culicines
