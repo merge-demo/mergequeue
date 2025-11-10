@@ -5957,7 +5957,6 @@ foisons
 fortifiable
 fantaisie
 fisk
-fluorhydric
 filleter
 fanwright
 ferguson
@@ -6569,6 +6568,7 @@ futurism
 firebrand
 forebitten
 filiated
+fluorhydric
 finfishes
 fortuitist
 flyboats
