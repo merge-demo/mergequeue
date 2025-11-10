@@ -2247,7 +2247,6 @@ endoplasma
 elector
 exhume
 elks
-ethnarchs
 encyclopedian
 encell
 epauletted
@@ -3143,6 +3142,7 @@ eloiner
 eloiners
 essentiate
 eburated
+ethnarchs
 eskimoes
 euryphage
 eloining
