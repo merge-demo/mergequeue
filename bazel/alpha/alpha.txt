@@ -5213,7 +5213,6 @@ affectivity
 affector
 accoast
 affeerer
-auturgy
 aum
 ankerite
 ampulated
@@ -20822,6 +20821,7 @@ axilla
 arteriography
 arval
 arvejon
+auturgy
 anhanga
 annectent
 academicals
