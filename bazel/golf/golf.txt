@@ -2582,6 +2582,7 @@ gametogeny
 generant
 generate
 guitars
+gypsiferous
 generated
 gazetteerage
 gomerel
@@ -9556,7 +9557,6 @@ guidage
 groveller
 gauteite
 gruels
-gypsiferous
 girgasite
 ganglioform
 gesticularious
