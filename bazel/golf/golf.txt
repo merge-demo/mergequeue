@@ -3831,7 +3831,6 @@ gradientia
 geochronometry
 goldbeating
 griddlecakes
-galilean
 gifola
 galleriies
 giftbook
@@ -7462,6 +7461,7 @@ gordon
 gerful
 geostrategic
 gaet
+galilean
 gelatinizable
 griffade
 gavelmen
