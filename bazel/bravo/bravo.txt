@@ -8632,7 +8632,6 @@ bivalved
 brules
 billies
 billyhood
-bagmen
 breislakite
 bucketfuls
 billiken
@@ -10451,6 +10450,7 @@ brisement
 blankish
 blankly
 boneless
+bagmen
 baidya
 bullfinch
 blankness
