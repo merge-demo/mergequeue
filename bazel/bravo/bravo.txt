@@ -5618,7 +5618,6 @@ behoovingly
 basinasal
 bela
 beluchi
-balance
 burgonets
 bruscus
 belash
@@ -12608,6 +12607,7 @@ backlist
 bonnyish
 beverages
 boogeyman
+balance
 bonnnes
 bonnocks
 bonnwis
