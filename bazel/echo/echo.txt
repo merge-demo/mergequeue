@@ -1344,6 +1344,7 @@ efferents
 effervescency
 epode
 endoskeletal
+essentialness
 exomis
 evasional
 ebcdic
@@ -3035,7 +3036,6 @@ eschalot
 exogamy
 epidermis
 experimentalists
-essentialness
 elaidin
 eurythmy
 embryotroph
