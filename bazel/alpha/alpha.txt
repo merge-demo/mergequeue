@@ -13182,7 +13182,6 @@ aftereffects
 adornments
 almaine
 animist
-anorchus
 antigraft
 aecium
 antisilverite
@@ -21243,6 +21242,7 @@ anticonformist
 ashrama
 alloxanate
 ashtoreth
+anorchus
 aspartic
 anchat
 ashvamedha
