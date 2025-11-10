@@ -6454,7 +6454,6 @@ guileless
 grandisonianism
 glossopodium
 garrupa
-gambits
 gannister
 gastraead
 guarded
@@ -8278,6 +8277,7 @@ germanish
 graptolitha
 gheraoed
 gibers
+gambits
 graspingly
 gutturalise
 gleets
