@@ -3384,7 +3384,6 @@ cappiest
 capping
 cervelas
 cyclopite
-chemotropism
 coenact
 comfits
 cappings
@@ -11279,6 +11278,7 @@ chlorides
 covers
 chloridic
 chloridized
+chemotropism
 compaternity
 carlin
 chlorimeter
