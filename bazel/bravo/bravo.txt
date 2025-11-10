@@ -2813,7 +2813,6 @@ bedarken
 bruta
 biquadrate
 baroswitch
-barotaxy
 bld
 bitis
 ballgowns
@@ -11143,6 +11142,7 @@ bloodbath
 bougies
 bygane
 bums
+barotaxy
 bacchanalia
 bolivian
 bloodcurdling
