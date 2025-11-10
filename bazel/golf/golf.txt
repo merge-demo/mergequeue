@@ -431,7 +431,6 @@ gair
 glucuronide
 glucic
 gamosepalous
-galleylike
 gardenable
 glassblowers
 goblinesque
@@ -4882,6 +4881,7 @@ goldurns
 goatly
 gastroenteric
 gladship
+galleylike
 gastrosplenic
 gamer
 glazing
