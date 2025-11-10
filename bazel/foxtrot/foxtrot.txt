@@ -4141,7 +4141,6 @@ foramina
 freightyard
 fulk
 felonry
-firstly
 flexed
 fatling
 fenchyl
@@ -10106,6 +10105,7 @@ fordam
 faki
 filmset
 frithy
+firstly
 fenetre
 fluviometer
 fiberizing
