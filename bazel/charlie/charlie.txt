@@ -19768,6 +19768,7 @@ combinatory
 combinatorial
 combinatorially
 combinators
+copaiva
 combined
 ctene
 concertinas
@@ -24512,7 +24513,6 @@ copaene
 copaiba
 copaifera
 cupfuls
-copaiva
 clr
 courtliness
 circovarian
