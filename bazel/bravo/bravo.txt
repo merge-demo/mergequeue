@@ -4979,7 +4979,6 @@ bactritoid
 bonaveria
 boltless
 bolases
-blackstrap
 beerbachite
 budgers
 beraked
@@ -15208,6 +15207,7 @@ brick
 battened
 brickbat
 buttonholed
+blackstrap
 borish
 branchiosauria
 brickbatting
