@@ -478,7 +478,6 @@ backspang
 betrend
 bibliothecal
 boatbill
-backspier
 besom
 beseeched
 betatron
@@ -15527,6 +15526,7 @@ backshish
 beardlike
 bargeload
 brioches
+backspier
 bisso
 bitwise
 bimas
