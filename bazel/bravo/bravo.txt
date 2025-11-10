@@ -1802,6 +1802,7 @@ beglads
 bardiness
 blancmanger
 bemuse
+botanizer
 bananaland
 bluegum
 benzyls
@@ -3402,7 +3403,6 @@ bittor
 boehmenism
 berascaled
 bryophytic
-botanizer
 basswood
 burghership
 brelaw
