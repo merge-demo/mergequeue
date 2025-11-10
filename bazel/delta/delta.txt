@@ -11929,7 +11929,6 @@ deathblow
 dehypnotized
 dragoonade
 daguerreotypic
-disdar
 disdein
 dardani
 doubleheader
@@ -12730,6 +12729,7 @@ disliken
 duma
 drawshave
 dislikeness
+disdar
 dikage
 disliker
 dioicously
