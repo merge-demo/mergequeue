@@ -4552,7 +4552,6 @@ guaranies
 grids
 girella
 gracefully
-girellidae
 grotesqueries
 gurts
 greenhorns
@@ -8170,6 +8169,7 @@ grapestalk
 groomling
 galeodidae
 granogabbro
+girellidae
 grapevines
 gentlemanlike
 galwegian
