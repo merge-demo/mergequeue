@@ -1640,7 +1640,6 @@ glycolipid
 gaskin
 grists
 grants
-gastrodialysis
 gamobium
 glossophytia
 gastroxynsis
@@ -4632,6 +4631,7 @@ guttersnipish
 griggles
 graphometer
 gowkit
+gastrodialysis
 gaonic
 greathead
 gasconade
