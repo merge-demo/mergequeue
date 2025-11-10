@@ -2675,7 +2675,6 @@ blackcock
 barmcloth
 brither
 birdcage
-becoward
 bascules
 balmlike
 barnabas
@@ -4905,6 +4904,7 @@ bubukle
 burglarproof
 beebee
 biophysical
+becoward
 bradystalsis
 bewpers
 beechen
