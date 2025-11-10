@@ -2831,7 +2831,6 @@ areometer
 arianrhod
 acromiohumeral
 ancone
-antichurchian
 accrete
 actuals
 adinida
@@ -21332,6 +21331,7 @@ artwork
 adaptometer
 asynchronism
 asynchronisms
+antichurchian
 asyndetic
 androphore
 amyloses
