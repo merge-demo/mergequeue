@@ -3940,7 +3940,6 @@ carbureted
 carburetest
 carburetion
 chichipate
-conformational
 carburetor
 consulted
 cornily
@@ -11347,6 +11346,7 @@ conged
 cubica
 chloroforming
 chromicizing
+conformational
 chloroformization
 chloroforms
 chlorogenic
