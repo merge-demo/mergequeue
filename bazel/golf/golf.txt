@@ -3386,6 +3386,7 @@ gnatling
 gorkun
 galbe
 glaciable
+glandule
 gyroscopic
 gainor
 gymnoceratous
@@ -4812,7 +4813,6 @@ gursh
 glans
 goodwilies
 granate
-glandule
 guardo
 glacieret
 gouaches
