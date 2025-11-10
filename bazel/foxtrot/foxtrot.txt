@@ -2876,7 +2876,6 @@ familistery
 fortuned
 fameflower
 fettered
-flummadiddle
 foozle
 flouter
 flatlets
@@ -4198,6 +4197,7 @@ flickertail
 fishet
 fibrocaseous
 fanions
+flummadiddle
 federals
 ferfathmur
 felonries
