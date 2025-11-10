@@ -8463,7 +8463,6 @@ chamfron
 carpal
 chamian
 chamisal
-capeskin
 chamise
 chamises
 chamiso
@@ -26541,6 +26540,7 @@ cottrel
 cottus
 cotunnite
 concreteness
+capeskin
 culicids
 cymbaled
 chemosis
