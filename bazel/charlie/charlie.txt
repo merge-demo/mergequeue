@@ -6733,7 +6733,6 @@ celandines
 consultant
 celastraceae
 copings
-cerograph
 colorfast
 celastrus
 cuculla
@@ -26982,6 +26981,7 @@ counterobjection
 counterobligation
 counteroffensive
 chevet
+cerograph
 counteroffer
 counteropening
 counteropponent
