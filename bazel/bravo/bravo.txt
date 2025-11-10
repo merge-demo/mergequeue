@@ -587,6 +587,7 @@ bonjour
 barniest
 bricoles
 bibbery
+bidimensional
 billmen
 benzobis
 beclothed
@@ -8138,7 +8139,6 @@ besieging
 bloodhound
 bidiagonal
 balsamodendron
-bidimensional
 binucleate
 barble
 befouls
