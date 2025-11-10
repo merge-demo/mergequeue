@@ -8599,7 +8599,6 @@ grapline
 guideposts
 goldfielder
 gaslight
-gascons
 gasteralgia
 greened
 gladiators
@@ -9654,6 +9653,7 @@ guipures
 gamogony
 gibuses
 gastroscopy
+gascons
 gowaned
 gorgonaceous
 gospeler
