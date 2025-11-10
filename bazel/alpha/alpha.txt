@@ -2627,7 +2627,6 @@ awaits
 adunation
 acquittal
 almacenista
-acquitted
 alangine
 anomaliflorous
 ashkenazim
@@ -9165,6 +9164,7 @@ ammonites
 apotheosising
 absentation
 ageist
+acquitted
 almner
 almohad
 aorta
