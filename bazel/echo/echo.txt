@@ -7149,7 +7149,6 @@ examples
 edriophthalmous
 envisioning
 epistolising
-esca
 enshadow
 exoner
 episterna
@@ -9478,6 +9477,7 @@ emperor
 enghosted
 excurved
 eupneas
+esca
 earthquaking
 eulogia
 electrolithotrity
