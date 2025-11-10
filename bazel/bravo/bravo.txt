@@ -1210,7 +1210,6 @@ bakli
 baymen
 biscot
 bearhide
-biodynamic
 balloting
 bakra
 bruchus
@@ -7677,6 +7676,7 @@ belesprit
 bewrapt
 bewreck
 befreckle
+biodynamic
 bewry
 bankroller
 bullwhip
