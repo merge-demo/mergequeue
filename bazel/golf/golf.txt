@@ -5476,7 +5476,6 @@ gamekeepers
 gangboard
 galumphed
 gablet
-glistened
 grande
 ganoids
 gimmer
@@ -6158,6 +6157,7 @@ guillotinement
 glandiferous
 gynecomastia
 givens
+glistened
 greenhead
 goliaths
 gambodic
