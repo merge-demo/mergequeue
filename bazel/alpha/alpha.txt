@@ -9530,6 +9530,7 @@ advehent
 academia
 arenig
 altimeters
+aspidomancy
 anthema
 alchemistry
 ammocetes
@@ -21552,7 +21553,6 @@ abjectness
 antidominican
 aspidobranchiate
 aspidochirota
-aspidomancy
 admissively
 aspidospermine
 aleucemic
