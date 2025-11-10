@@ -5504,6 +5504,7 @@ fcy
 flagfall
 fletcherism
 frontignac
+fieri
 fervours
 finnan
 fletchers
@@ -7764,7 +7765,6 @@ forejudging
 funfairs
 feudalized
 fettucine
-fieri
 foremother
 frithbot
 flyblew
