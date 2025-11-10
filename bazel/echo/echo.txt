@@ -1566,7 +1566,6 @@ extraversion
 encampment
 epinasty
 envigor
-exsuscitate
 exogeny
 exaggeratedness
 egises
@@ -2849,6 +2848,7 @@ eleusinia
 explicantia
 emasculator
 eventognath
+exsuscitate
 eleutherian
 eleutherios
 estuarian

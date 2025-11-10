@@ -3061,6 +3061,7 @@ glowworms
 gucki
 geocline
 grits
+garlic
 gipping
 geophagism
 grubhood
@@ -7209,7 +7210,6 @@ germanocentric
 getah
 gangion
 garlicmonger
-garlic
 governorate
 gourmands
 glassmaker
