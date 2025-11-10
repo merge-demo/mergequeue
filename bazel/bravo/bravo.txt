@@ -1751,6 +1751,7 @@ broquery
 baronnes
 becollier
 buses
+biome
 biretta
 bedraggling
 balustrading
@@ -9021,7 +9022,6 @@ brender
 bacterioagglutinin
 biomathematics
 bets
-biome
 byp
 biomechanical
 begrims

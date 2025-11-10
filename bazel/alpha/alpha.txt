@@ -6992,6 +6992,7 @@ aivers
 aiwan
 annamitic
 adobo
+aspirata
 aywhere
 aizoon
 antitryptic
@@ -24969,7 +24970,6 @@ aweek
 acanthology
 aweel
 anaerobism
-aspirata
 acyl
 arthrophyma
 aphidiinae
