@@ -838,6 +838,7 @@ benzenoid
 biochron
 bromodeoxyuridine
 billikin
+bet
 bacillar
 bezique
 bagasses
@@ -13746,7 +13747,6 @@ balneatory
 boutefeu
 bouteria
 buns
-bet
 boutylka
 boutique
 beachfront
