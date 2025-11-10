@@ -5040,7 +5040,6 @@ flaperon
 frabous
 flippantly
 flirter
-flappable
 frankalmoin
 flappet
 fermions
@@ -7156,6 +7155,7 @@ fishified
 fishers
 fixative
 fourche
+flappable
 furnariidae
 fraileros
 fiendism
