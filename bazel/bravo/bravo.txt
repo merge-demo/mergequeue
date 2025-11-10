@@ -3030,7 +3030,6 @@ branglement
 bopping
 burgesses
 bartizans
-becarpets
 beigel
 belee
 beckons
@@ -13383,6 +13382,7 @@ buffoonery
 boondoggler
 buckety
 boundlessness
+becarpets
 blasted
 backshift
 bothrenchyma
