@@ -5386,6 +5386,7 @@ forecounsel
 feridji
 fruittime
 fieldman
+formable
 flecking
 firehouses
 fusarole
@@ -7299,7 +7300,6 @@ fourgon
 fluttery
 flushermen
 fumitory
-formable
 favelloid
 fleeched
 foaminess
