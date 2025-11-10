@@ -4769,6 +4769,7 @@ bradding
 brunts
 bedpans
 bries
+beslabber
 beeball
 besplit
 bedpost
@@ -9512,7 +9513,6 @@ bemonster
 barristership
 birretta
 barney
-beslabber
 binomialism
 blunderers
 backachy
