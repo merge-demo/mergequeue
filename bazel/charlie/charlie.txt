@@ -1657,7 +1657,6 @@ comedones
 circularities
 calool
 calophyllum
-calopogon
 comminutor
 chettik
 colport
@@ -26618,6 +26617,7 @@ coumaphos
 coumara
 coumaran
 coumaric
+calopogon
 celluloided
 coumarilic
 coumarins
