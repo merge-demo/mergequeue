@@ -8450,7 +8450,6 @@ adaptable
 alacreatinine
 alkalize
 alkalizer
-alkalizing
 afforested
 alkaloid
 alkaloids
@@ -22828,6 +22827,7 @@ apanaging
 aedilitian
 atmospherically
 atmospherics
+alkalizing
 abscessroot
 atmospherology
 atmosteal
