@@ -6549,6 +6549,7 @@ goumier
 gastropod
 ghettos
 grassant
+grouplet
 grappas
 glottalization
 ground
@@ -7259,7 +7260,6 @@ glassblowing
 galactolipin
 glossotomies
 greencloth
-grouplet
 ginsengs
 grumness
 gladstonian
