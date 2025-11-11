@@ -6785,7 +6785,6 @@ berossos
 beround
 bendability
 berreaves
-bolos
 berret
 berrettas
 bloodred
@@ -8613,6 +8612,7 @@ behind
 burgees
 bartram
 billionism
+bolos
 billionth
 braggartism
 brethel
