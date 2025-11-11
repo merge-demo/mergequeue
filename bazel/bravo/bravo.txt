@@ -5478,7 +5478,6 @@ bechamel
 bonce
 briefers
 bahmani
-bidi
 bootid
 broadmouth
 baronets
@@ -18086,6 +18085,7 @@ boatsman
 barrancos
 benzhydrol
 butacaine
+bidi
 butadiyne
 beshout
 berthierite
