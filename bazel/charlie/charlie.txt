@@ -11730,6 +11730,7 @@ chondritic
 chondroalbuminoid
 chondroangioma
 credential
+coexchangeable
 countercouchant
 chondroarthritis
 contestant
@@ -24037,7 +24038,6 @@ cerebri
 converge
 cuspal
 concealment
-coexchangeable
 caprimulgi
 cirrolite
 codfisheries
