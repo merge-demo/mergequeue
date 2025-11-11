@@ -11886,7 +11886,6 @@ autoantitoxin
 arylated
 addable
 ananym
-ananism
 ananite
 anelace
 aplanospore
@@ -21783,6 +21782,7 @@ alchemist
 aglow
 assertor
 abelmusk
+ananism
 adiantiform
 asseveratingly
 alfoncino

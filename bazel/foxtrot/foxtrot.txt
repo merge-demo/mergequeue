@@ -1070,7 +1070,6 @@ foraging
 fogas
 faro
 floriken
-floter
 foredestining
 furriery
 farolito
@@ -4523,6 +4522,7 @@ fountainhead
 fructify
 famille
 fortread
+floter
 finickiest
 fictive
 fissirostrate
