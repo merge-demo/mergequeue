@@ -2190,7 +2190,6 @@ elcaja
 eld
 epimeritic
 effiguration
-exactly
 enamoredness
 ethynes
 eyedropperful
@@ -6535,6 +6534,7 @@ erythrocytometer
 entamoebic
 endostosis
 ephyra
+exactly
 extratension
 entail
 entomophthora
