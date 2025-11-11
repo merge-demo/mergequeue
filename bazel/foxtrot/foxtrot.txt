@@ -407,7 +407,6 @@ farcy
 ficoes
 frislet
 faq
-facie
 fibber
 foraramina
 firetrap
@@ -2829,6 +2828,7 @@ florigen
 fretted
 faunae
 faveolate
+facie
 ficus
 functioning
 fluidly
