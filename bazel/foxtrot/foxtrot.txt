@@ -5607,7 +5607,6 @@ funicular
 faddiest
 florescent
 flightier
-foppy
 foster
 facund
 foetor
@@ -6349,6 +6348,7 @@ flashingly
 flummoxes
 fubsier
 farmhouses
+foppy
 flatlings
 flowchart
 flagpole
