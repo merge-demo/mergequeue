@@ -2679,7 +2679,6 @@ caniniform
 choledochoenterostomy
 confidantes
 caninities
-caninus
 conflagrated
 coleorhizae
 canion
@@ -10811,6 +10810,7 @@ chinone
 chinones
 chinook
 chinookan
+caninus
 cutgrasses
 clavicylinder
 counterwave
