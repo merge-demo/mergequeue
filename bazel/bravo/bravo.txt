@@ -4613,7 +4613,6 @@ bedchairs
 buffers
 bellowing
 buntal
-branchial
 brachelytrous
 blader
 boanerges
@@ -9147,6 +9146,7 @@ bletting
 banc
 beefburger
 bhaktas
+branchial
 bubbybush
 buckone
 barotropy
