@@ -3734,6 +3734,7 @@ exhaustivity
 egoistry
 embrittle
 enfranchised
+echinochrome
 escobilla
 enravishingly
 embrittling
@@ -6626,7 +6627,6 @@ egyptianism
 expulsatory
 enterocoela
 eructed
-echinochrome
 execrate
 epaleaceous
 easterliness
