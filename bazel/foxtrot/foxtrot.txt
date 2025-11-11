@@ -2149,7 +2149,6 @@ fidepromissor
 filtered
 fuligulinae
 flaws
-felloe
 finfoots
 fumette
 fameful
@@ -6750,6 +6749,7 @@ foresworn
 felonweed
 foiter
 fraxin
+felloe
 frayed
 fried
 formative
