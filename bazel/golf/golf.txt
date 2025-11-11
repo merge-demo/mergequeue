@@ -7374,6 +7374,7 @@ gilthead
 glyptograph
 gallach
 gynostemia
+groupable
 goter
 gastromalacia
 gamelike
@@ -9487,7 +9488,6 @@ gland
 germanophobist
 gnosiological
 gammoner
-groupable
 gynophoric
 grandrelle
 gaydiang
