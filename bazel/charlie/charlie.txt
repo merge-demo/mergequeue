@@ -4370,6 +4370,7 @@ constructs
 canichana
 culvertage
 confidentiality
+cobwebbed
 carillonneur
 cityish
 carillonning
@@ -27502,7 +27503,6 @@ cathartical
 chasteners
 cheongsam
 coal
-cobwebbed
 chimers
 covariant
 colorism
