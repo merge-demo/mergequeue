@@ -3539,7 +3539,6 @@ ganglions
 gymnorhina
 geomagnetist
 grugru
-gokuraku
 gunslinging
 grinded
 gearings
@@ -5642,6 +5641,7 @@ gapy
 glaringly
 groma
 glooms
+gokuraku
 goodbye
 gratefuller
 glasses
