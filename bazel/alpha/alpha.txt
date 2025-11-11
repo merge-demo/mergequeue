@@ -3734,6 +3734,7 @@ almuerzo
 appenage
 annum
 adespoton
+analemmatic
 adessenarian
 adeste
 afterpressure
@@ -6271,7 +6272,6 @@ agpaitic
 agr
 attirement
 agrace
-analemmatic
 amortising
 alliterational
 agral
