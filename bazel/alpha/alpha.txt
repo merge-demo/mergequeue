@@ -920,7 +920,6 @@ absolutory
 acanthopteri
 absolvatory
 aestuary
-arteriotome
 absolves
 absolving
 abstort
@@ -22645,6 +22644,7 @@ anisopia
 atheneum
 atheneums
 ait
+arteriotome
 aerates
 athenor
 abdominohysterotomy
