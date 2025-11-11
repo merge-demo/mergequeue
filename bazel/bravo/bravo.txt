@@ -4637,7 +4637,6 @@ bedehouses
 bedemen
 bens
 barry
-basigamy
 buxus
 bedevilling
 barbershops
@@ -14828,6 +14827,7 @@ backwaters
 beefishness
 backscratching
 breadearning
+basigamy
 basipetally
 breaded
 breaden
