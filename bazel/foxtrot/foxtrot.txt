@@ -942,6 +942,7 @@ foundry
 ft
 fasola
 fourchite
+fortunateness
 forms
 fanfishes
 flightless
@@ -7139,7 +7140,6 @@ foothalt
 filths
 festivalgoer
 flagfish
-fortunateness
 fend
 fishified
 fishers
