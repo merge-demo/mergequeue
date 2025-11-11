@@ -6301,7 +6301,6 @@ blurping
 benthic
 barbar
 bagfuls
-benthonic
 bevors
 benthoscope
 bemoat
@@ -18400,6 +18399,7 @@ bothlike
 bubber
 bespring
 benzoins
+benthonic
 bvt
 berginize
 bowfins
