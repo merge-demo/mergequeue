@@ -6094,7 +6094,6 @@ erasion
 elastomeric
 encomienda
 electionary
-eltime
 eugenic
 eulachon
 elasmosaur
@@ -13399,6 +13398,7 @@ edacities
 excitatory
 evilmouthed
 emaciates
+eltime
 espadrilles
 energizer
 embruted
