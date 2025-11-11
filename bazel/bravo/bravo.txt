@@ -1397,7 +1397,6 @@ bajonado
 backjoint
 bathofloric
 balearica
-bisellium
 balebos
 baled
 baleen
@@ -16527,6 +16526,7 @@ bishops
 budzat
 bandeaux
 broadpiece
+bisellium
 bisonant
 brutely
 blindstitch
