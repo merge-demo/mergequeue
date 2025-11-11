@@ -7640,6 +7640,7 @@ flashlike
 fumy
 foregift
 forgiveless
+feyness
 foregleam
 forst
 forego
@@ -11301,7 +11302,6 @@ fusspot
 firearm
 fulmicotton
 fatwa
-feyness
 firedog
 formatted
 feverfew
