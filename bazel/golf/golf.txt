@@ -512,7 +512,6 @@ geomorphology
 gisement
 gratuity
 geographic
-gowiddie
 gruffing
 geologers
 graff
@@ -6115,6 +6114,7 @@ gallbladder
 geitonogamous
 gnomologist
 gyroma
+gowiddie
 greit
 greatly
 guetar
