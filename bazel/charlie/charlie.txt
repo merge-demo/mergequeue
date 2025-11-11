@@ -24023,6 +24023,7 @@ coelicolist
 cylinderlike
 conventicle
 conventicular
+craniotome
 convention
 conventional
 cutlassfish
@@ -28175,7 +28176,6 @@ cranioschisis
 conforbably
 cranioscopy
 chimerism
-craniotome
 cameos
 craniotomy
 craniotopography
