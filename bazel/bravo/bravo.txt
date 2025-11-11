@@ -2003,7 +2003,6 @@ bhaiachara
 banisher
 banishing
 banishment
-beshivers
 banyuls
 baniva
 brittonic
@@ -3263,6 +3262,7 @@ basinets
 basinful
 bewhig
 begartered
+beshivers
 bethank
 bookkeeps
 basidiophore
