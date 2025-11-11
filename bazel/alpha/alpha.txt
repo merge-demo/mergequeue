@@ -5244,7 +5244,6 @@ addio
 alpenhorn
 affiliating
 apery
-abohm
 anagenetical
 ampitheater
 attackable
@@ -22382,6 +22381,7 @@ ans
 armourers
 astrogony
 aspartyl
+abohm
 autoaspiration
 astrograph
 astrographer
