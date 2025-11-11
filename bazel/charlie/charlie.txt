@@ -7517,7 +7517,6 @@ chastened
 ceratostomataceae
 cytococcus
 cimicidae
-ceratostomella
 cheliceral
 ceratotheca
 cypridinidae
@@ -9078,6 +9077,7 @@ covarecan
 charnockites
 charnu
 conglomeratic
+ceratostomella
 compartmentalized
 culturalist
 charontas
