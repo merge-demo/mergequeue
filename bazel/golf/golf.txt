@@ -5424,7 +5424,6 @@ guniter
 glyphic
 gambist
 gascoign
-gargled
 guran
 girlhood
 gus
@@ -9988,6 +9987,7 @@ glazer
 gubernatrix
 goodsome
 graveness
+gargled
 gelatinify
 grungy
 galago
