@@ -10654,6 +10654,7 @@ forcibly
 fitzroy
 feltlike
 forblack
+flocculency
 fruitester
 fargood
 fivepence
@@ -11211,7 +11212,6 @@ farads
 firer
 failles
 fieldsman
-flocculency
 fungosities
 funic
 faradise
