@@ -1443,7 +1443,6 @@ fattishness
 fother
 frimitts
 faithless
-foreweep
 freewheel
 fatuism
 filasse
@@ -10996,6 +10995,7 @@ fausen
 frostiest
 flintiest
 foreproffer
+foreweep
 fatlike
 furfurol
 fumblers
