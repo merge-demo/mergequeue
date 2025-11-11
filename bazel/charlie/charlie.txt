@@ -9783,7 +9783,6 @@ ceylon
 caudate
 cheliform
 crajuru
-chelinga
 curua
 chelingas
 cheliped
@@ -25841,6 +25840,7 @@ corrugent
 cryptonym
 corrup
 carolinian
+chelinga
 compellative
 corruptedness
 cardiographs
