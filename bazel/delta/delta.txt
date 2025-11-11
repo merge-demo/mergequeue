@@ -3589,7 +3589,6 @@ degames
 deganglionate
 dystome
 degasify
-discontinued
 duco
 deadlatch
 doubletree
@@ -11364,6 +11363,7 @@ dahabeeyah
 deftly
 dupioni
 discerped
+discontinued
 dowset
 deambulatories
 davens
