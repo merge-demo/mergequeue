@@ -8421,7 +8421,6 @@ biogenous
 blackwood
 bilayer
 burp
-bedarkened
 bookmen
 bilalo
 bacony
@@ -9763,6 +9762,7 @@ basifugal
 buffered
 bistipulate
 bistort
+bedarkened
 bistorts
 bistred
 beknights
