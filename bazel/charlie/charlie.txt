@@ -17882,7 +17882,6 @@ chiliad
 codirector
 conycatcher
 codirects
-codiscoverer
 codist
 codivine
 codline
@@ -29032,6 +29031,7 @@ crimeproof
 chickasaws
 charlatanship
 charlemagne
+codiscoverer
 criminalism
 criminalistic
 countersecurity
