@@ -676,7 +676,6 @@ enhance
 envier
 excide
 eclogic
-ensorcels
 extraocular
 eclogite
 eclosion
@@ -2213,6 +2212,7 @@ eths
 electrovalently
 emphasising
 elderman
+ensorcels
 eggwhisk
 electrics
 electrographic
