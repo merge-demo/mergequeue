@@ -1014,7 +1014,6 @@ givers
 gangava
 gynobase
 ghassanid
-goadlike
 gilse
 gurnetty
 granitizing
@@ -10343,6 +10342,7 @@ greenlets
 gigabytes
 gangbuster
 geum
+goadlike
 gallivorous
 glaur
 grouseberry

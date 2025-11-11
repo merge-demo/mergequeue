@@ -12890,6 +12890,7 @@ bondslave
 behorror
 bifoil
 birthplace
+bg
 bacchiac
 bangster
 bkpt
@@ -15643,7 +15644,6 @@ burgundies
 batterable
 buffone
 barrenest
-bg
 bulkheads
 burred
 belemnid
