@@ -2831,6 +2831,7 @@ barotropic
 barouchette
 bioecologic
 barouni
+begrain
 baroxyton
 benignantly
 beebread
@@ -4094,7 +4095,6 @@ blokes
 beansetter
 beanshooter
 beanstalk
-begrain
 bestiaries
 bearbaiter
 bedmaking
