@@ -1250,6 +1250,7 @@ generalizations
 groups
 goodship
 galligaskin
+groff
 gonorrhea
 gravures
 grogged
@@ -8665,7 +8666,6 @@ galerum
 gawkishly
 geotactic
 goosing
-groff
 gree
 glean
 gynaecoid
