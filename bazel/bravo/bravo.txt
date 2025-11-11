@@ -5958,7 +5958,6 @@ belter
 bufagin
 buyouts
 ballistic
-bemadam
 bestrowing
 beltie
 boogerman
@@ -10443,6 +10442,7 @@ boltmaking
 beesting
 baritone
 boviform
+bemadam
 bribetaking
 biune
 beachboy
