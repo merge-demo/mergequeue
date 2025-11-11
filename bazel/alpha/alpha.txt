@@ -13763,7 +13763,6 @@ atazir
 anoplonemertini
 aphelenchus
 anoplotherioid
-autocrator
 amid
 arteriopalmus
 anoplura
@@ -14254,6 +14253,7 @@ albs
 ammonite
 attractance
 anticlnoria
+autocrator
 acipenseres
 alopias
 anthecologist
