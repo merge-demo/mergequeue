@@ -4113,6 +4113,7 @@ gesnerad
 geotaxes
 gettysburg
 gargoyle
+glosts
 genetor
 grimoire
 geoglossum
@@ -7069,7 +7070,6 @@ gastrosoph
 gelidity
 ganglioneure
 goosegog
-glosts
 guignardia
 goyle
 gynandrarchy
