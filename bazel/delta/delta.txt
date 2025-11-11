@@ -4569,7 +4569,6 @@ diwans
 demilitarisation
 demilitarised
 demilitarising
-drawtubes
 demilitarization
 dehydrogenase
 dibranchiate
@@ -13961,6 +13960,7 @@ dystocial
 doolee
 diagenesis
 discrepance
+drawtubes
 dacryadenalgia
 dorsispinal
 doggones
