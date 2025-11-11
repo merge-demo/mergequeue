@@ -1124,7 +1124,6 @@ endopterygotic
 epacts
 elhi
 eikons
-esthetics
 environage
 edition
 endere
@@ -14192,6 +14191,7 @@ enqueues
 eupanorthus
 enterococci
 ectosome
+esthetics
 epulation
 endlong
 equidistance
