@@ -1331,7 +1331,6 @@ departure
 daundering
 daitya
 didappers
-daunt
 daunted
 dhobies
 daunters
@@ -11434,6 +11433,7 @@ disciplining
 depopulator
 diphosphothiamine
 discipular
+daunt
 discission
 desktop
 discontentedly
