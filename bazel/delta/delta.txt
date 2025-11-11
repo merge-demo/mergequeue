@@ -5841,7 +5841,6 @@ dainties
 datableness
 diaxial
 distalwards
-desmotropism
 dacker
 deepnesses
 decoupled
@@ -7511,6 +7510,7 @@ defrosts
 dich
 dermoplasty
 djellab
+desmotropism
 debating
 denude
 doctoral
