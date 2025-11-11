@@ -11386,6 +11386,7 @@ furnariides
 flect
 facies
 furnish
+fluorindine
 furnishable
 fluoroformol
 frontirostria
@@ -11599,7 +11600,6 @@ faradic
 friend
 fargite
 fussing
-fluorindine
 fontinal
 fideicommissary
 forced
