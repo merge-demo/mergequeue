@@ -750,7 +750,6 @@ beblotch
 bearcoot
 bumboatmen
 badiner
-badinerie
 birt
 badious
 betrays
@@ -6346,6 +6345,7 @@ benzamide
 benzoxate
 badgerbrush
 benzamine
+badinerie
 biblic
 billbroking
 barrer
