@@ -3258,7 +3258,6 @@ astropectinidae
 acupuncturator
 acupuncture
 abonne
-apsides
 acupunctured
 armagnacs
 acupuncturing
@@ -4447,6 +4446,7 @@ australic
 antipuritan
 adust
 adustion
+apsides
 adustive
 amang
 aldoxime
