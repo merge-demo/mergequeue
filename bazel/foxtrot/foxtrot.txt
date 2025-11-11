@@ -4462,7 +4462,6 @@ fate
 fishpole
 fishpoles
 flueless
-flensing
 flameproof
 fishponds
 fibrilled
@@ -6548,6 +6547,7 @@ formlessness
 fluttering
 forswears
 feedboard
+flensing
 flutterment
 fluviolacustrine
 fleetly
