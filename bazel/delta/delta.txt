@@ -9273,6 +9273,7 @@ discolour
 decorament
 dollface
 divined
+disinsectization
 dislegitimate
 drawcard
 digitaliform
@@ -12594,7 +12595,6 @@ deluxe
 disinheriting
 demyship
 disinhume
-disinsectization
 djagatay
 dorsoventral
 disinsure
