@@ -478,7 +478,6 @@ broomier
 backspang
 betrend
 bibliothecal
-boatbill
 besom
 beseeched
 betatron
@@ -9469,6 +9468,7 @@ bandwidths
 brawl
 bespatterment
 byrlawman
+boatbill
 bioinstrumentation
 bronchodilatation
 bathymeter
