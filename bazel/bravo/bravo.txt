@@ -2795,6 +2795,7 @@ bolding
 bell
 betulaceous
 baroqueness
+banded
 blonder
 brazee
 barmie
@@ -5846,7 +5847,6 @@ belligerents
 buildress
 boxcar
 bullsnake
-banded
 berseem
 bittock
 bribeworthy
