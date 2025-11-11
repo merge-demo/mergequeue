@@ -7130,7 +7130,6 @@ enlaced
 ectosphenotic
 edicts
 engaud
-enfranchisable
 enemy
 exported
 entices
@@ -10385,6 +10384,7 @@ exhance
 earwigging
 epiphanize
 electropositive
+enfranchisable
 exodromic
 exchanged
 ethoxide
