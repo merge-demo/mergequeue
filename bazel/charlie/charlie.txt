@@ -1689,7 +1689,6 @@ curelessly
 calorifics
 caricography
 calorifier
-calorimeters
 calorimetry
 calorimetrical
 calorimetrically
@@ -29827,6 +29826,7 @@ crops
 cropshin
 cropsick
 cropweed
+calorimeters
 casekeeper
 criminalese
 croqueted
