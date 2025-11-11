@@ -9971,7 +9971,6 @@ etape
 escruage
 etapes
 exorhason
-endangers
 esmeraldite
 enterprises
 externality
@@ -12633,6 +12632,7 @@ exoenzyme
 enterobacterial
 exogamies
 ephete
+endangers
 enuretic
 empyemas
 emissarium
