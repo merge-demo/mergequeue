@@ -1812,7 +1812,6 @@ forbesite
 folkmots
 flak
 flaithship
-flyway
 frustules
 fanfarade
 flyspecks
@@ -4973,6 +4972,7 @@ flatweed
 flowcharting
 fintadores
 frenulum
+flyway
 fluorogen
 feebleheartedly
 flammule
