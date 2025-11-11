@@ -1719,7 +1719,6 @@ fascio
 floats
 filicin
 fomites
-faciend
 fortravail
 frippet
 fibrocyte
@@ -10527,6 +10526,7 @@ firemen
 frowl
 fierily
 frowners
+faciend
 freq
 frownful
 forstand
