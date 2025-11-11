@@ -5185,7 +5185,6 @@ adorners
 affectibility
 affecting
 aerophore
-affectingly
 archinformer
 antitangent
 autopoint
@@ -7559,6 +7558,7 @@ anthropocentricity
 alcaldes
 alcaldeship
 aristoi
+affectingly
 alcaldia
 autoclastic
 alcalizate
