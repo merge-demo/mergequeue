@@ -8598,6 +8598,7 @@ allegiance
 allegiancy
 allegiant
 admonitor
+apodeipna
 apoharmine
 aqueduct
 abandoners
@@ -24645,7 +24646,6 @@ archineuron
 avenage
 acreable
 avenant
-apodeipna
 avenary
 avenge
 actinomycin
