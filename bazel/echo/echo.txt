@@ -2338,7 +2338,6 @@ exradius
 electroacoustics
 enthetic
 exundation
-electroanalytic
 electroanesthesia
 electroballistics
 emetatrophia
@@ -8426,6 +8425,7 @@ ethopoetic
 extensure
 exsuction
 eurytropic
+electroanalytic
 electroencephalography
 eponym
 earthmove
