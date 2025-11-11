@@ -7409,7 +7409,6 @@ flagellariaceae
 floreate
 fasciculation
 fey
-flurriment
 figgum
 fille
 falconers
@@ -9353,6 +9352,7 @@ foreschool
 flocci
 folcgemot
 funambulating
+flurriment
 florilegium
 frying
 formularisation
