@@ -4635,6 +4635,7 @@ broadenings
 byrewards
 bullrushes
 bedehouses
+burbush
 bedemen
 bens
 barry
@@ -5677,7 +5678,6 @@ beleapt
 belection
 brining
 belecture
-burbush
 brutedom
 belemnitic
 bairnlier
