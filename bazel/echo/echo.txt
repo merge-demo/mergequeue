@@ -9769,6 +9769,7 @@ equalisation
 ejectamenta
 extenuator
 envermeil
+emplanement
 extracellular
 essoinment
 essorant
@@ -13831,7 +13832,6 @@ euvrou
 euplectella
 extracloacal
 expos
-emplanement
 euthenics
 excudit
 elaeothesia
