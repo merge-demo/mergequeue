@@ -4259,7 +4259,6 @@ foreignize
 feverish
 fungose
 flatterers
-frenzying
 fission
 fleckier
 forenoted
@@ -7656,6 +7655,7 @@ freeze
 foxskin
 fiesta
 fled
+frenzying
 forehandedness
 fellingbird
 forwardest
