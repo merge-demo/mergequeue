@@ -1169,7 +1169,6 @@ bajra
 bebless
 bogeyed
 beltmen
-bajree
 baized
 bajury
 blackbelly
@@ -11761,6 +11760,7 @@ bedamns
 brynza
 bajocian
 breton
+bajree
 bedecks
 bobsledded
 berascal

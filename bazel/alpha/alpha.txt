@@ -3975,6 +3975,7 @@ adjutrice
 ambassage
 ameba
 affirm
+anecdotical
 adlumidin
 apoplexious
 apricots
@@ -12455,7 +12456,6 @@ ajowan
 anecdote
 anecdotes
 anecdotic
-anecdotical
 anova
 aluminiform
 aegagropile
