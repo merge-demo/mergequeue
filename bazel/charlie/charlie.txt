@@ -1309,7 +1309,6 @@ cloison
 catchwater
 calibrating
 calibre
-calibres
 chromatophilia
 causative
 cyanohydrin
@@ -26936,6 +26935,7 @@ contemner
 cushioniness
 certhiidae
 creedalist
+calibres
 countermanding
 countermaneuver
 countermanifestoes
