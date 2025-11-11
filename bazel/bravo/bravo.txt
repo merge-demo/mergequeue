@@ -4771,7 +4771,6 @@ bauds
 bedrails
 binnacle
 bedral
-bedraped
 bedraping
 bedread
 bedrench
@@ -5466,6 +5465,7 @@ behymn
 brutes
 behither
 berrigan
+bedraped
 bendways
 bechamel
 bonce
