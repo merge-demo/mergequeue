@@ -6115,7 +6115,6 @@ gastroid
 geissorhiza
 garish
 genep
-gallbladder
 geitonogamous
 gnomologist
 gyroma
@@ -10593,6 +10592,7 @@ gunning
 gonzalo
 gigmanity
 gigging
+gallbladder
 grandame
 glossmeter
 gadidae
