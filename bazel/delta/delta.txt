@@ -796,7 +796,6 @@ dovecote
 diuretical
 danegelds
 dungeon
-dehair
 deckhead
 daneweed
 daneweeds
@@ -17209,6 +17208,7 @@ diaphoresis
 decursive
 depletory
 drive
+dehair
 deermeat
 disgustingness
 decumbence
