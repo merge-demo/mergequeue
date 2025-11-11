@@ -8573,7 +8573,6 @@ flocculus
 feower
 freehold
 fainters
-famishment
 floodmark
 farmplace
 frequence
@@ -10533,6 +10532,7 @@ frownful
 forstand
 frowsily
 footslogging
+famishment
 frictionless
 francisca
 faiths
