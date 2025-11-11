@@ -2740,7 +2740,6 @@ fraternization
 fightings
 forelimbs
 fyce
-fezziwig
 folklore
 faunas
 framing
@@ -10348,6 +10347,7 @@ foreordainments
 frontages
 floorshow
 filicoid
+fezziwig
 fidding
 formicaries
 fibreware
