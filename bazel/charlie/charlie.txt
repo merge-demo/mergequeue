@@ -4339,7 +4339,6 @@ caricaceae
 chenica
 caricaceous
 cotemporaneous
-carcinology
 cattleya
 caricatura
 caricatural
@@ -17977,6 +17976,7 @@ cantharellus
 coelioscopy
 cooperativeness
 czechic
+carcinology
 chipboard
 coelococcus
 charioteers
