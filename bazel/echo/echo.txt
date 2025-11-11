@@ -5457,7 +5457,6 @@ emblematology
 endwise
 eneclann
 elaboratory
-equipaga
 equilaterally
 epigynies
 exaggerations
@@ -5726,6 +5725,7 @@ electrorefining
 ergotaminine
 engild
 engilding
+equipaga
 empirism
 euphuistical
 exceptionality
