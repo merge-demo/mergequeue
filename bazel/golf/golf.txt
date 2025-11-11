@@ -8457,6 +8457,7 @@ glossator
 grinnie
 galactonic
 gratulation
+grandeurs
 garoting
 gandhara
 gravitations
@@ -10661,7 +10662,6 @@ glottologist
 guric
 grog
 granitization
-grandeurs
 gelatinobromide
 gurl
 geocentricism
