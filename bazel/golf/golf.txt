@@ -4565,7 +4565,6 @@ gluelike
 gyrencephala
 gravicembalo
 gutturalized
-guadalcazarite
 gilim
 graphometry
 glim
@@ -5871,6 +5870,7 @@ glucosaemia
 glucinium
 genteelest
 gadder
+guadalcazarite
 goldfinch
 glycosidase
 gawney
