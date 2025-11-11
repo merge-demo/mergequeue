@@ -2363,6 +2363,7 @@ filmable
 flanneled
 fencelike
 floaters
+flunked
 friarly
 funerary
 favel
@@ -7203,7 +7204,6 @@ fungiform
 forepeak
 fordwine
 filature
-flunked
 fridays
 fleetings
 flanderkin
