@@ -8028,6 +8028,7 @@ delicatessens
 dionaea
 dishonoured
 discording
+degummer
 deemsters
 demanganize
 deliberate
@@ -9913,7 +9914,6 @@ desilicification
 dace
 dimensionally
 dimensioning
-degummer
 dimensum
 disangularize
 diphenyl
