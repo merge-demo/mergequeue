@@ -1584,7 +1584,6 @@ duplicia
 dipus
 direfulness
 deadness
-deadnesses
 dairyman
 deadpanned
 deadpans
@@ -11472,6 +11471,7 @@ discloud
 didache
 dingus
 disclusion
+deadnesses
 dispauper
 dollar
 deoccidentalize
