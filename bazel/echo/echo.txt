@@ -11172,7 +11172,6 @@ enviroment
 exonuclease
 endospermic
 exanthema
-enumerations
 evaluated
 ecumenicist
 etherin
@@ -12838,6 +12837,7 @@ ecphorization
 echoic
 emendated
 eisteddfods
+enumerations
 evangelistship
 efecks
 exoticist
