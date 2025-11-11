@@ -5501,6 +5501,7 @@ deorganize
 deregister
 disenablement
 deorsum
+dimensum
 deossification
 deuterostomatous
 dissipates
@@ -9914,7 +9915,6 @@ dace
 dimensionally
 dimensioning
 degummer
-dimensum
 disangularize
 diphenyl
 dimer
