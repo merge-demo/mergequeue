@@ -8251,7 +8251,6 @@ grippingness
 giardiasis
 gre
 garamond
-graphometric
 gaseosity
 gara
 galenite
@@ -10719,6 +10718,7 @@ glyoxim
 grumping
 gubernatorial
 gunnung
+graphometric
 gox
 gussets
 gloms
