@@ -5308,7 +5308,6 @@ anilao
 accra
 afflicter
 afflicting
-afflictingly
 afflictionless
 abranchian
 ambulante
@@ -12075,6 +12074,7 @@ archaeologian
 aspis
 angiosclerosis
 acidity
+afflictingly
 avenalin
 anastomosing
 anastrophy
