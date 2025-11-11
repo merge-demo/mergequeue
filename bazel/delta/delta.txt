@@ -4353,7 +4353,6 @@ diacritical
 dods
 demagogical
 dura
-dichogamic
 descriers
 demagogue
 diseducate
@@ -8153,6 +8152,7 @@ dentex
 developpes
 distributions
 decidable
+dichogamic
 drivable
 dinosaurs
 diabetometer
