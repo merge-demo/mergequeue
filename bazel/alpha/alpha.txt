@@ -4708,6 +4708,7 @@ arghoul
 abush
 aetheling
 antedawn
+allographic
 acrotisms
 alphard
 aeluropodous
@@ -8900,7 +8901,6 @@ astroalchemist
 agnathostomatous
 allantoid
 admired
-allographic
 alloyage
 alloiogenesis
 attitude
