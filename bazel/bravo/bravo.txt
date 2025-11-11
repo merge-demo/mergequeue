@@ -13659,7 +13659,6 @@ bacbakiri
 bellbine
 bolsons
 brachycephal
-barre
 buckras
 bhumidar
 bouquetiere
@@ -14149,6 +14148,7 @@ brachistochronous
 brachystomatous
 brachystomous
 bbl
+barre
 backwrap
 bassnesses
 battering
