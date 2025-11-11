@@ -740,7 +740,6 @@ galvanizing
 gemmiferousness
 gunner
 giantlikeness
-greenskeeper
 gollywog
 gonoplasm
 galvanoglyph
@@ -9547,6 +9546,7 @@ gelatined
 glume
 gastornithidae
 groved
+greenskeeper
 gur
 groveled
 gridiron
