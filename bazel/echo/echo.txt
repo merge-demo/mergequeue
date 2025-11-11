@@ -9683,6 +9683,7 @@ enterorrhexis
 esq
 esquires
 existence
+exurbs
 evacue
 euselachii
 esquisse
@@ -14190,7 +14191,6 @@ eranthis
 enqueues
 eupanorthus
 enterococci
-exurbs
 ectosome
 epulation
 endlong
