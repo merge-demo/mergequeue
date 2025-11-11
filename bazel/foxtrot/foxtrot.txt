@@ -2180,7 +2180,6 @@ folkmoot
 falsities
 felonwort
 falutin
-fraela
 flatterdock
 fraudproof
 fligger
@@ -2745,6 +2744,7 @@ friezed
 fraternization
 forelimbs
 fyce
+fraela
 folklore
 faunas
 framing
