@@ -7550,7 +7550,6 @@ epauliere
 ectoprocta
 electroforming
 etesians
-espiglerie
 exocarp
 experienceable
 epicede
@@ -12984,6 +12983,7 @@ emotion
 ensnarls
 entice
 expectorant
+espiglerie
 expectorated
 echinococcus
 enneahedria
