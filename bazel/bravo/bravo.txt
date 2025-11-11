@@ -9277,7 +9277,6 @@ balewort
 bracteiform
 byplay
 bullfrogs
-batfowler
 brownie
 broncholithiasis
 baffle
@@ -12001,6 +12000,7 @@ bogong
 biod
 bacchical
 bogtrotting
+batfowler
 bombastry
 bimillenary
 brother
