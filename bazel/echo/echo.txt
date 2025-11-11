@@ -1457,7 +1457,6 @@ eelpout
 effort
 ethmovomer
 environic
-emmenic
 emeline
 ergonomic
 ethiopian
@@ -7443,6 +7442,7 @@ extraperiodic
 extracurricular
 exercise
 elohimic
+emmenic
 enfile
 ecchondrotome
 effusions
