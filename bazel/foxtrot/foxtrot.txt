@@ -7007,7 +7007,6 @@ fons
 folkloristic
 ferrum
 forgiveness
-finickiness
 fontal
 freakout
 fulmining
@@ -9393,6 +9392,7 @@ fondu
 frenum
 ficaria
 forequoted
+finickiness
 fractionised
 flamboyer
 franticly
