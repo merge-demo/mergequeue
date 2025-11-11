@@ -12433,7 +12433,6 @@ chromiums
 chromize
 crocard
 congoese
-chromizes
 chromizing
 caswellite
 chromoblast
@@ -18830,6 +18829,7 @@ compiles
 colet
 cobego
 coleur
+chromizes
 clammily
 corylet
 chatterbag
