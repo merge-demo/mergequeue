@@ -7626,6 +7626,7 @@ engines
 elne
 exactest
 extrafascicular
+extratelluric
 epicondylic
 erected
 epoptist
@@ -12005,7 +12006,6 @@ enthusiasts
 ectromelian
 exclusive
 enaunter
-extratelluric
 escutellate
 exclusiveness
 effectuality
