@@ -843,7 +843,6 @@ endophytic
 efficient
 electrolyser
 excrementous
-edgeless
 enchair
 exocarps
 elong
@@ -9147,6 +9146,7 @@ extradite
 eirenic
 essenic
 erodes
+edgeless
 exterminatory
 extradition
 enslavement
