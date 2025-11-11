@@ -2824,6 +2824,7 @@ archostenosis
 autocamping
 acromicria
 antimeres
+athonite
 acromiocoracoid
 amateurishly
 alite
@@ -22725,7 +22726,6 @@ abhorson
 allomerous
 acclimatizing
 aggies
-athonite
 abridgers
 atonia
 athort
