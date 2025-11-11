@@ -271,6 +271,7 @@ electroplated
 expiries
 easterling
 exhumers
+epigoneion
 enqueue
 epeirogenic
 enantioblastic
@@ -11039,7 +11040,6 @@ elargement
 equanimous
 eyeletter
 estoc
-epigoneion
 encomimia
 exuberating
 emporial
