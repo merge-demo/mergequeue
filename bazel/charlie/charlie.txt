@@ -5974,7 +5974,6 @@ commonality
 colluded
 cerastium
 catheterizes
-cathetometer
 cartopper
 cathetusti
 cathexes
@@ -29313,6 +29312,7 @@ cryptodira
 cryptodiran
 cryohydrate
 calcify
+cathetometer
 calvinize
 cryptodire
 cryptodirous
