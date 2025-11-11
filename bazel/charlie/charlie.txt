@@ -12470,7 +12470,6 @@ clayen
 choleinic
 clarioned
 chromolith
-cluff
 colent
 chromolithic
 concanavalin
@@ -30602,6 +30601,7 @@ cubometatarsal
 cubonavicular
 cubti
 cuca
+cluff
 clambers
 chinese
 conduction
