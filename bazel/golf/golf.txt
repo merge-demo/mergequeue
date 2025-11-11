@@ -5588,6 +5588,7 @@ ginks
 gipsyry
 gravestone
 governance
+goller
 giantesque
 grithbreach
 grime
@@ -6499,7 +6500,6 @@ gapo
 genetic
 glaikitness
 gariba
-goller
 galvanocautery
 golly
 glucolipine
