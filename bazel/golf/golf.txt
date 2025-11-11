@@ -3422,6 +3422,7 @@ glossolaryngeal
 globularia
 gourmets
 gerrymander
+gorgons
 goldwater
 gerrymanders
 guilts
@@ -10682,7 +10683,6 @@ grayed
 gurk
 gellants
 gurney
-gorgons
 groundbird
 gurnet
 goodmanship
