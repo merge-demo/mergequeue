@@ -3815,7 +3815,6 @@ gola
 girosol
 glarier
 gonapophysal
-gyropilot
 gesticulate
 grasps
 gentlemanhood
@@ -4104,6 +4103,7 @@ gargoyle
 genetor
 grimoire
 geoglossum
+gyropilot
 gimmeringly
 galaxiidae
 geggee
