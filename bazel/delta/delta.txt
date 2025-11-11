@@ -6021,6 +6021,7 @@ deed
 durezza
 depsides
 disciplinability
+dilettantist
 discommoded
 dept
 diaschistic
@@ -9809,7 +9810,6 @@ dclass
 dilettanti
 decriminalizing
 dilettantism
-dilettantist
 diligence
 diligences
 diligent
