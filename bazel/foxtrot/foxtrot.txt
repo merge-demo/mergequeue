@@ -2738,7 +2738,6 @@ fraternization
 fightings
 forelimbs
 fyce
-freshwater
 fezziwig
 folklore
 faunas
@@ -6682,6 +6681,7 @@ fluerics
 formicariae
 foofaraws
 furrier
+freshwater
 flaughtbred
 frequent
 finableness
