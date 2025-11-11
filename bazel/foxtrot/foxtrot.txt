@@ -1542,6 +1542,7 @@ fauteuil
 fussy
 foreteach
 farrow
+forepayment
 frundel
 festival
 fauvette
@@ -11236,7 +11237,6 @@ forevision
 factable
 forementioned
 fatherkin
-forepayment
 funkiness
 fezzes
 forerunnings
