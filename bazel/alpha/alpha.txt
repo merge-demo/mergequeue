@@ -6587,6 +6587,7 @@ apothecaries
 archpriest
 antasthenic
 amber
+antiparliament
 aiglet
 altitudinous
 alectoriae
@@ -15695,7 +15696,6 @@ annection
 admen
 antimetathesis
 antheridiophore
-antiparliament
 antiparliamental
 axons
 antiparliamentarians
