@@ -2467,7 +2467,6 @@ cancrum
 cancrums
 cand
 candareen
-candelabra
 candelabras
 candelabrum
 corelatively
@@ -12462,6 +12461,7 @@ cranemanship
 chromoisomer
 chromoisomeric
 chamaenerion
+candelabra
 cerebralize
 chromoleucite
 chromolipoid
