@@ -3001,7 +3001,6 @@ beared
 bidirectionally
 boist
 bartenders
-benzene
 bartending
 bulbiferous
 bartends
@@ -6427,6 +6426,7 @@ bastioned
 benzohydrol
 benzoylated
 becuna
+benzene
 benzoylation
 benzoinated
 borize
