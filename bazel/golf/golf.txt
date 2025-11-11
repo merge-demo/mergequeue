@@ -388,7 +388,6 @@ guisian
 gps
 galant
 galanthus
-grum
 guilery
 ganymedes
 gains
@@ -3461,6 +3460,7 @@ gestalt
 gestaltist
 gallicisms
 gynecology
+grum
 gove
 gaveler
 geometers
