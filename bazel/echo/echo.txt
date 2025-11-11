@@ -6270,7 +6270,6 @@ entered
 erecter
 endplate
 excipule
-elongations
 eelcatcher
 elimination
 evasively
@@ -6713,6 +6712,7 @@ ecosystems
 enterozoon
 enterprise
 exploitations
+elongations
 enterprize
 expertising
 entosclerite
