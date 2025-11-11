@@ -10457,7 +10457,6 @@ diacidic
 diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
-diospyros
 diphenylene
 despend
 diphenylenimine
@@ -15325,6 +15324,7 @@ diffuse
 diasporas
 dolphin
 dirling
+diospyros
 dolphinfish
 dolphinlike
 decadescent
