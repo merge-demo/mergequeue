@@ -6388,7 +6388,6 @@ dolus
 discontinuing
 dislimn
 divorcing
-dugong
 duras
 dejeune
 dermophobe
@@ -15626,6 +15625,7 @@ doorknob
 doorless
 destinate
 doormaid
+dugong
 dietist
 doormaker
 doormats
