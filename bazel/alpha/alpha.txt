@@ -4886,7 +4886,6 @@ antipedal
 adoors
 archhost
 anticonservative
-atmidometry
 arenite
 areek
 aerodrome
@@ -4898,6 +4897,7 @@ aucupate
 aeroelasticity
 arraigning
 aerofoils
+atmidometry
 adjourned
 amberfish
 antilogous
