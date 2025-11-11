@@ -5777,7 +5777,6 @@ graphites
 glycogenolysis
 goorals
 guyandot
-guesstimates
 goldbird
 gestio
 goosecap
@@ -9750,6 +9749,7 @@ geckoes
 gird
 gonimium
 grumphie
+guesstimates
 grise
 gonangiums
 grumpy
