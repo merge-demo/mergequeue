@@ -3459,7 +3459,6 @@ fifteens
 frauds
 fifties
 fiftieth
-forseen
 florilegia
 figeater
 floriate
@@ -10612,6 +10611,7 @@ forerunner
 farceurs
 flative
 familiarities
+forseen
 fractile
 ferity
 franc
