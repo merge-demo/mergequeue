@@ -2429,7 +2429,6 @@ guiac
 gummose
 gratification
 guardship
-gemmological
 gemmologist
 goalkeeping
 grocers
@@ -4996,6 +4995,7 @@ gallantize
 gyrenes
 gingelis
 germanization
+gemmological
 genom
 ganof
 gurgoyl
