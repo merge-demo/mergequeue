@@ -3637,6 +3637,7 @@ farmable
 fridstool
 frictionlessly
 flashing
+faintishness
 fielder
 floatsman
 froglets
@@ -5587,7 +5588,6 @@ fourgons
 flimflammed
 flight
 frusla
-faintishness
 fortitude
 flighter
 fraik
