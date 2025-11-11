@@ -9915,7 +9915,6 @@ electrothermics
 emphasis
 epicentrum
 estragole
-estragons
 equicellular
 electroosmotically
 estrayed
@@ -11676,6 +11675,7 @@ exoascus
 extralinguistically
 expends
 erythrogenic
+estragons
 ecphasis
 entoplastic
 exaggeratively
