@@ -932,6 +932,7 @@ exarillate
 eyelashes
 ectromelus
 efreet
+ensisternal
 equipping
 endowments
 endorsements
@@ -2104,7 +2105,6 @@ emu
 endamoebae
 eldfather
 eggberry
-ensisternal
 endowed
 estrange
 ethmoturbinal
