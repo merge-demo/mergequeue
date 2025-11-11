@@ -6684,7 +6684,6 @@ epibatus
 eyas
 extraduction
 enthalpies
-existents
 enarthrodial
 enterorrhagia
 enterorrhaphy
@@ -10257,6 +10256,7 @@ experimentize
 electronography
 erump
 ethmyphitis
+existents
 exomorphic
 extension
 ethmofrontal
