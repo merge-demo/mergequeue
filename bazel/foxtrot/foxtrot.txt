@@ -607,6 +607,7 @@ foreknows
 forpet
 fossilisation
 forints
+fluxes
 feasted
 fade
 featherdom
@@ -6493,7 +6494,6 @@ filiciform
 fondnesses
 fario
 factionist
-fluxes
 floody
 flustrated
 footages
