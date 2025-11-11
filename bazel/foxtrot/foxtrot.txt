@@ -8109,7 +8109,6 @@ favouredness
 foretaster
 forefin
 foretasting
-felly
 fretsaw
 falisci
 forewrought
@@ -11259,6 +11258,7 @@ flagellants
 frumaryl
 filibusterer
 fenks
+felly
 finbacks
 forrit
 funster
