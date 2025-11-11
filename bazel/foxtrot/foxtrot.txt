@@ -649,6 +649,7 @@ flugelmen
 faltere
 flavored
 frequenter
+frithsoken
 falx
 further
 fallbacks
@@ -5307,7 +5308,6 @@ ferry
 faitery
 flb
 fantasque
-frithsoken
 flutey
 foregather
 fifteen
