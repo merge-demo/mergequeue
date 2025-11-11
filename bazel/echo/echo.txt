@@ -9464,6 +9464,7 @@ escot
 endbrain
 emperor
 enghosted
+evolutoid
 excurved
 eupneas
 esca
@@ -11566,7 +11567,6 @@ extorted
 earringed
 ectromelic
 encephalosepsis
-evolutoid
 elegize
 enchiridion
 explicating
