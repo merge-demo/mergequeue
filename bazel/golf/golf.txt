@@ -4358,6 +4358,7 @@ gutlike
 gastrocoloptosis
 ginglymodi
 gozill
+granulite
 gemstone
 gravestead
 glossata
@@ -5520,7 +5521,6 @@ gastropoda
 gustier
 genear
 globalizing
-granulite
 gisants
 groggeries
 gyrovagi
