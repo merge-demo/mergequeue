@@ -4571,7 +4571,6 @@ girellidae
 grotesqueries
 gurts
 greenhorns
-gluelike
 gyrencephala
 gravicembalo
 gutturalized
@@ -7218,6 +7217,7 @@ grater
 gonial
 gratin
 globosite
+gluelike
 gymnocarpous
 gizzen
 galahad
