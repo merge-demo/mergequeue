@@ -7937,7 +7937,6 @@ alerters
 autotropically
 amygdules
 alerting
-alertly
 ales
 anion
 alesan
@@ -13701,6 +13700,7 @@ augmenter
 antileak
 alibis
 aeroperitonia
+alertly
 avant
 anomatheca
 anomia
