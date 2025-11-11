@@ -3298,7 +3298,6 @@ germanizer
 germule
 germanness
 ganging
-germinant
 gunrunner
 genapped
 gingeley
@@ -5212,6 +5211,7 @@ gale
 gleamless
 gleed
 gramophone
+germinant
 glyptologist
 goldarnedest
 glandulousness
