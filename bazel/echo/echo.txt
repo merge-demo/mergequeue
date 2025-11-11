@@ -3931,7 +3931,6 @@ engreen
 exogamic
 electrogalvanize
 emmetropy
-emmetropic
 equationally
 endplates
 enanthem
@@ -10486,6 +10485,7 @@ exorbitant
 eclectics
 epulary
 exemplifying
+emmetropic
 etwee
 electricans
 esoanhydride
