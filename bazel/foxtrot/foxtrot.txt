@@ -2384,6 +2384,7 @@ frogling
 feudist
 freeloving
 fenchol
+futures
 footganger
 fetial
 fortunetellers
@@ -8790,7 +8791,6 @@ favorably
 falcinellus
 frailes
 fetchers
-futures
 flotillas
 fossage
 fanlight
