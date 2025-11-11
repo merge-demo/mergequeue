@@ -4376,7 +4376,6 @@ carillonneur
 cityish
 carillonning
 carillons
-coupled
 carinae
 carinal
 cavum
@@ -26090,6 +26089,7 @@ cithara
 capling
 cosigning
 cosily
+coupled
 chasuble
 cosymmedian
 compurgator
