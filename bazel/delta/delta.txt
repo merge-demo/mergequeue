@@ -7385,7 +7385,6 @@ diphenylenimide
 detorsion
 deashed
 disagreed
-deutonephron
 disvulnerability
 determiner
 diameters
@@ -10810,6 +10809,7 @@ dietotherapeutics
 dipsomaniacs
 diestrual
 dipsopathy
+deutonephron
 daintiest
 dipstick
 diazotize
