@@ -4493,6 +4493,7 @@ forsay
 ferrovanadium
 flour
 fisnoga
+flouncing
 flogging
 felinae
 flattop
@@ -6104,7 +6105,6 @@ flounce
 felsobanyite
 floccilation
 flounced
-flouncing
 flounder
 frowardness
 faraway
