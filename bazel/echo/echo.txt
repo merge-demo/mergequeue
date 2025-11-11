@@ -8413,6 +8413,7 @@ equip
 enjoyment
 eglogue
 endothecate
+ethicosocial
 epizootology
 enwrought
 epocha
@@ -10194,7 +10195,6 @@ epanodos
 exantlate
 ensporia
 externalisation
-ethicosocial
 exoticity
 eavesdropped
 equisized
