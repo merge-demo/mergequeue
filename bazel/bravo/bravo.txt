@@ -1906,6 +1906,7 @@ birny
 bandolerismo
 buckayros
 bandoleros
+barouche
 bandor
 baaskaap
 bandora
@@ -2821,7 +2822,6 @@ behowling
 bravest
 barotraumas
 barotropic
-barouche
 barouchette
 bioecologic
 barouni
