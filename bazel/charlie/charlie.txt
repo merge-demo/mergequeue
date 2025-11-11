@@ -4044,7 +4044,6 @@ cardamom
 cicatrise
 cardamon
 centenary
-cardamons
 cardamum
 cardanol
 chymist
@@ -16116,6 +16115,7 @@ coccogonales
 crystallochemistry
 cliffhanging
 copemates
+cardamons
 costuming
 clifflike
 capacities
