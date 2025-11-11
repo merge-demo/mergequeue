@@ -28896,7 +28896,6 @@ combo
 coventries
 coadunated
 cyanophose
-comparator
 cardiacean
 chiffrobe
 crevis
@@ -29197,6 +29196,7 @@ crownband
 cryoscopy
 colloblast
 candock
+comparator
 cityless
 chanfron
 colicolitis
