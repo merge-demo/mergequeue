@@ -2743,6 +2743,7 @@ gorgers
 gunfire
 greenflies
 germanism
+gauger
 guestchamber
 gorraf
 gipped
@@ -6447,7 +6448,6 @@ generalizable
 goodyear
 goldeney
 gradationately
-gauger
 gillaroo
 goldener
 gidgee
