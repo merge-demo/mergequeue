@@ -6118,7 +6118,6 @@ guetar
 gustoes
 gnathostome
 gjetosts
-gyre
 gallivants
 gammarus
 gnosis
@@ -6142,6 +6141,7 @@ gnapweed
 gallification
 grammar
 generalizing
+gyre
 garters
 gadfly
 geelbec
