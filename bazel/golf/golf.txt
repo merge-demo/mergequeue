@@ -6245,6 +6245,7 @@ gob
 goban
 gadslid
 gobber
+gazettes
 goateed
 guitarlike
 gregariousness
@@ -9061,7 +9062,6 @@ glassworking
 glasser
 grimalkin
 genitive
-gazettes
 gentianwort
 ghast
 grimme
