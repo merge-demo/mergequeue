@@ -408,7 +408,6 @@ ficoes
 frislet
 faq
 fibber
-foraramina
 firetrap
 frustraneous
 fribbled
@@ -4351,6 +4350,7 @@ fellows
 forewomen
 foresleeve
 feebler
+foraramina
 friendlies
 foreacquaint
 fencer
