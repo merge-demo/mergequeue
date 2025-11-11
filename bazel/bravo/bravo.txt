@@ -425,7 +425,6 @@ backpedal
 backpedaling
 backpiece
 backplane
-brachiostrophosis
 bushwas
 backrush
 backscatter
@@ -6985,6 +6984,7 @@ bebrine
 beshrivel
 beshroud
 bensil
+brachiostrophosis
 bigmitt
 borlase
 bundook
