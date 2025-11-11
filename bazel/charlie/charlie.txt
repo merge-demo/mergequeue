@@ -9482,6 +9482,7 @@ checkback
 checkbite
 checkbits
 checkbook
+counterbuff
 chachalaca
 cableways
 cirrigerous
@@ -26746,7 +26747,6 @@ counterbranch
 curbstones
 counterbrand
 confutable
-counterbuff
 countercathexis
 counterchanged
 countercharm
