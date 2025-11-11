@@ -4754,7 +4754,6 @@ flagellatae
 footlike
 fulmination
 follies
-flagellated
 flagellations
 fieldstrip
 fingal
@@ -11084,6 +11083,7 @@ foreknowableness
 functionation
 fane
 factfinder
+flagellated
 flockless
 functionnaire
 functors
