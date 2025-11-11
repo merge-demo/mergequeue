@@ -5631,6 +5631,7 @@ fianchetto
 fie
 fillers
 fud
+forethinking
 fulguration
 fluidising
 fireable
@@ -8119,7 +8120,6 @@ fillister
 fathogram
 fumigator
 foretellers
-forethinking
 forethrift
 fusel
 fondon
