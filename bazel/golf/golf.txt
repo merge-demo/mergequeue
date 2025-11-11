@@ -2234,7 +2234,6 @@ gnomonology
 generosities
 galactohemia
 glossopathy
-grounding
 grounders
 globetrotting
 grieced
@@ -7645,6 +7644,7 @@ gnathometer
 guachamaca
 germane
 geira
+grounding
 geodynamics
 gyppery
 greenlet
