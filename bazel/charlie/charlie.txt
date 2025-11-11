@@ -15185,7 +15185,6 @@ consumables
 cacothelin
 claimers
 claymore
-cytogenetically
 claims
 covenable
 claypans
@@ -28243,6 +28242,7 @@ crapette
 conjoiner
 concordial
 cricothyreoid
+cytogenetically
 crapy
 crapped
 crapper
