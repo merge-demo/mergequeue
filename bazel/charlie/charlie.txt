@@ -19560,7 +19560,6 @@ chlorazide
 capabilities
 columbaria
 columbaries
-columbarium
 clours
 columbate
 columbeion
@@ -21712,6 +21711,7 @@ casson
 cassises
 crosa
 camphoric
+columbarium
 cecidomyiid
 cedens
 cephalon
