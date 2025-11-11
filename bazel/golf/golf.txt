@@ -2486,6 +2486,7 @@ geodynamic
 glandules
 goading
 grassing
+grewia
 grots
 guttersnipes
 gibbetwise
@@ -8544,7 +8545,6 @@ garrotter
 glutton
 gravida
 gynecomasty
-grewia
 garcons
 ganoidal
 gitana
