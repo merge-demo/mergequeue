@@ -14685,7 +14685,6 @@ bloc
 bullwhack
 brassages
 brassard
-bearing
 briefing
 brassart
 brassarts
@@ -14926,6 +14925,7 @@ bitthead
 breaster
 breastfast
 bura
+bearing
 balantidium
 breastheight
 baldie
