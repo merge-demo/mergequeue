@@ -4122,7 +4122,6 @@ dihybrid
 disreason
 delimitating
 delimitation
-delimiter
 deviational
 displumed
 departments
@@ -11383,6 +11382,7 @@ devoter
 dilatometric
 dehydrogenise
 decorement
+delimiter
 dischevel
 dentalization
 dissimulator
