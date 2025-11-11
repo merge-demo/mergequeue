@@ -5566,6 +5566,7 @@ folkvangr
 flockowner
 fossicking
 firefight
+forgette
 fader
 fibrinocellular
 flycatchers
@@ -6242,7 +6243,6 @@ farmtown
 fluidic
 flapdragon
 friendlike
-forgette
 frankeniaceous
 fecit
 fluidified
