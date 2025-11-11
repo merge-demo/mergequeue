@@ -14262,7 +14262,6 @@ alegars
 amphipodan
 anthelia
 aramaean
-anthelices
 amphibolies
 autochthonous
 anhedonia
@@ -24231,6 +24230,7 @@ albany
 automatizing
 astrachan
 aeciotelia
+anthelices
 aluminoferric
 automatous
 automechanical
