@@ -2176,7 +2176,6 @@ abatjours
 agrostology
 alure
 alqueire
-alencon
 amyelotrophy
 achordata
 achorion
@@ -13976,6 +13975,7 @@ aryepiglottic
 ablatively
 antarctogaea
 amphitropal
+alencon
 anticlassical
 aphoruridae
 antatrophic
