@@ -724,7 +724,6 @@ fired
 flagroot
 famous
 florigens
-francic
 featherlet
 famp
 famuli
@@ -2381,6 +2380,7 @@ forz
 falconiformes
 frogling
 feudist
+francic
 freeloving
 fenchol
 futures
