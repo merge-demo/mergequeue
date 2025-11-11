@@ -759,6 +759,7 @@ grovers
 gansa
 gravitater
 gestapos
+gerim
 gunbearer
 gerkin
 galvanopuncture
@@ -3566,7 +3567,6 @@ gharnao
 glossa
 gambolled
 goniaster
-gerim
 gnomelike
 gregarinaria
 gavial
