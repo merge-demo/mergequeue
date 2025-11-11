@@ -2549,6 +2549,7 @@ backtalk
 barile
 barilla
 beleaf
+barters
 blackie
 baryon
 brio
@@ -2727,7 +2728,6 @@ batholitic
 baroko
 bubastite
 backward
-barters
 beltline
 bullbat
 bismutoplagionite
