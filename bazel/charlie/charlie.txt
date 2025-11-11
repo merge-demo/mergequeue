@@ -5069,6 +5069,7 @@ chlamydomonadaceae
 casave
 casavi
 cascabel
+cesspipe
 coestate
 cytocide
 chemoprophylaxis
@@ -8610,7 +8611,6 @@ chuckram
 ceratiidae
 cowpeas
 composit
-cesspipe
 chimneying
 corcopali
 changedale
