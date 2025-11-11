@@ -7594,7 +7594,6 @@ chivaried
 chiasmodontidae
 charer
 cerebrations
-cerebri
 cerebricity
 cerebriformly
 censerless
@@ -24045,6 +24044,7 @@ conventions
 coralwort
 convents
 conventual
+cerebri
 converge
 cuspal
 concealment
