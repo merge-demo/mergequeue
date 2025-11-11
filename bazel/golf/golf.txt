@@ -7819,7 +7819,6 @@ grovelled
 gtc
 geoglossaceae
 gun
-gorce
 guhayna
 gond
 grasserie
@@ -9799,6 +9798,7 @@ graybearded
 guacacoa
 grimacer
 gall
+gorce
 grantor
 gue
 glycogenous
