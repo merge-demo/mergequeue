@@ -2791,6 +2791,7 @@ greatcoat
 gyro
 gyne
 garni
+gershon
 guzzledom
 gyges
 guemul
@@ -5558,7 +5559,6 @@ georgical
 gadus
 goffle
 globular
-gershon
 gephyrophobia
 glycerizine
 grandames
