@@ -18920,7 +18920,6 @@ crematoria
 collage
 convicted
 collagenase
-collagenic
 collagenous
 cardholder
 collapsability
@@ -26288,6 +26287,7 @@ costicervical
 caciqueship
 crusader
 costious
+collagenic
 costipulator
 costispinal
 cylindromata
