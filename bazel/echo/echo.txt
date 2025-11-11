@@ -2155,7 +2155,6 @@ etherealise
 exoneration
 electrosurgical
 endleaf
-electroblasting
 enfoil
 exterminatress
 enanthematous
@@ -5744,6 +5743,7 @@ exodromy
 engirdling
 emplectite
 engirds
+electroblasting
 eyeglance
 extraverted
 extemporised
