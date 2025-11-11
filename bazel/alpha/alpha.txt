@@ -7517,7 +7517,6 @@ albuminoid
 abstract
 aurifying
 albuminometer
-albuminone
 acrostolium
 alepot
 alloplasm
@@ -14403,6 +14402,7 @@ anthracomancy
 anthracomarti
 ambulancing
 analepsis
+albuminone
 antagonizable
 antiprelatism
 abecedarium
