@@ -4369,7 +4369,6 @@ gunky
 guz
 glottochronology
 ginglymostomoid
-gutturine
 gondi
 gardened
 gerund
@@ -5130,6 +5129,7 @@ gnatflower
 gaumed
 gallweed
 glomera
+gutturine
 gentlehearted
 goldylocks
 gyps
