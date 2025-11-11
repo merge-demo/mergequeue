@@ -828,6 +828,7 @@ ectypography
 eliminating
 epitheton
 entrecote
+epop
 exulate
 ectiris
 etamines
@@ -1983,7 +1984,6 @@ ecstatically
 ekasilicon
 elachistaceous
 euthamia
-epop
 earthen
 exteriorate
 elastics
