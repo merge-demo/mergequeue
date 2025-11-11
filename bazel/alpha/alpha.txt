@@ -1964,6 +1964,7 @@ assertions
 acetla
 acetoacetate
 alkyls
+alphabetiform
 absolutism
 amphidisk
 acetometer
@@ -7437,7 +7438,6 @@ apts
 angledog
 albitite
 acutiator
-alphabetiform
 anguilla
 angulare
 arenicola
