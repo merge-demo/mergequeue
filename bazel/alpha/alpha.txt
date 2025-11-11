@@ -6421,6 +6421,7 @@ aguacateca
 antidynastically
 aguamiel
 aguavina
+aporobranchian
 actinologous
 archsacrificer
 agudist
@@ -13300,7 +13301,6 @@ aetosaurus
 aeipathy
 anematized
 abassin
-anisophylly
 anisophyllous
 afterchurch
 apace
@@ -16398,6 +16398,7 @@ adramelech
 account
 affluence
 antoinette
+autoloader
 autotypy
 antonym
 antonymy
@@ -17264,7 +17265,6 @@ adherant
 androsace
 antifederal
 arsmetik
-aporobranchian
 aporocactus
 aporrhegma
 aporrhiegma
@@ -23473,6 +23473,7 @@ augers
 auget
 autocomplexes
 augh
+anisophylly
 aughts
 algebraists
 astringer
@@ -24204,7 +24205,6 @@ autoinfection
 alnein
 autolyzate
 autolyzes
-autoloader
 autology
 autological
 antiatheist
