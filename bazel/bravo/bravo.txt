@@ -436,6 +436,7 @@ borecole
 backscraper
 backset
 basename
+bernie
 brushless
 brinjaree
 betowered
@@ -11115,7 +11116,6 @@ blockmaker
 bimmeler
 blockpate
 bashawship
-bernie
 balmiest
 beddings
 bedawn
