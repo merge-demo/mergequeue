@@ -916,7 +916,6 @@ excommunicators
 endosporous
 eriodictyon
 ectotoxin
-ectotrophi
 exampled
 exegesist
 epilogistic
@@ -6972,6 +6971,7 @@ entrains
 emissaryship
 entrancedly
 entrancement
+ectotrophi
 enscene
 empusa
 expressed
