@@ -4513,6 +4513,7 @@ emulators
 encephalographic
 ekphorize
 episematic
+earlock
 enamelling
 euchysiderite
 esthesiophysiology
@@ -12381,7 +12382,6 @@ euphemia
 eelbob
 exhaustive
 eryon
-earlock
 essencing
 electrolyze
 eucleidae
