@@ -2993,7 +2993,6 @@ equipede
 elbowchair
 enjoining
 encephalopsychesis
-electrothermometer
 exister
 extraovate
 eliminable
@@ -8207,6 +8206,7 @@ empirics
 exigeant
 epiphany
 enkraal
+electrothermometer
 extinctive
 exsection
 empiecement
