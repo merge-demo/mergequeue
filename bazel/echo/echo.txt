@@ -1097,7 +1097,6 @@ epimerize
 elliptic
 edificed
 enlightens
-edified
 essayish
 edifying
 ectoblastic
@@ -1323,6 +1322,7 @@ elengeness
 ennuied
 effects
 enlarge
+edified
 equilibristat
 enclog
 effectuated
