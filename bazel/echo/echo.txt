@@ -4920,7 +4920,6 @@ essenis
 electrodialyzer
 englishly
 eggers
-equibalance
 ensured
 entablements
 excisions
@@ -11825,6 +11824,7 @@ eplot
 externization
 enviably
 electromagnetically
+equibalance
 epirrhematic
 enduring
 epidendric
