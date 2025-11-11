@@ -6580,6 +6580,7 @@ feltness
 frounce
 fungify
 foamflower
+flammulation
 firework
 forthcomer
 frocks
@@ -8856,7 +8857,6 @@ flambage
 froghopper
 faulter
 foujdarry
-flammulation
 fibrousness
 foul
 fogger
