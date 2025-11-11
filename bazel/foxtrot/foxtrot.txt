@@ -1430,7 +1430,6 @@ fattest
 finickin
 floorer
 follow
-fattier
 fanwork
 fall
 fiddled
@@ -2585,6 +2584,7 @@ flongs
 ferrocyanate
 ferroelectric
 fingerbreadth
+fattier
 fouty
 franchiser
 fibrocytic
