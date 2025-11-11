@@ -5161,6 +5161,7 @@ graylags
 glazes
 gemmy
 glycan
+glyceride
 gumpheon
 glb
 gastratrophia
@@ -9919,7 +9920,6 @@ girderless
 glebes
 greylags
 geoparallelotropic
-glyceride
 gateway
 grisailles
 granddaddies
