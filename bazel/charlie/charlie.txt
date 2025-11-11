@@ -6501,7 +6501,6 @@ caves
 cavetti
 calusar
 conchie
-cavetto
 cavy
 cavia
 cavicorn
@@ -28670,6 +28669,7 @@ crenae
 clival
 couveuse
 catlin
+cavetto
 crenallation
 cuchulainn
 crenate
