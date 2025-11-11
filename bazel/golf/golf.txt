@@ -8961,7 +8961,6 @@ galvo
 greyhens
 greenbul
 glenlivet
-glycuronid
 gachupin
 guaiacums
 gastrocolpotomy
@@ -9337,6 +9336,7 @@ gradines
 geronomite
 glossas
 goldurn
+glycuronid
 governability
 griffs
 gruf
