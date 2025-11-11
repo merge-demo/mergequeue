@@ -7544,7 +7544,6 @@ guidances
 gymnospermae
 gemini
 gillotype
-gurries
 gedeckt
 gelatiniferous
 grounded
@@ -8256,6 +8255,7 @@ giardiasis
 gre
 garamond
 gaseosity
+gurries
 gara
 galenite
 glissaded
