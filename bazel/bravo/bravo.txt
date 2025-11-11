@@ -2500,7 +2500,6 @@ bardash
 bractea
 borscht
 beruffled
-barghests
 boccia
 blueblack
 beslash
@@ -15388,6 +15387,7 @@ beliquoring
 bekick
 burgensic
 brevete
+barghests
 bowsed
 basicytoparaplastin
 blackfish
