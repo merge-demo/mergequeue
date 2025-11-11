@@ -8086,7 +8086,6 @@ bailments
 bicuspid
 bruxism
 brast
-bulk
 burrobrush
 bid
 bidactylous
@@ -16472,6 +16471,7 @@ burrhel
 biscacha
 brushproof
 birdfarms
+bulk
 buckra
 bricker
 bishoplet
