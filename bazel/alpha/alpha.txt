@@ -9818,7 +9818,6 @@ amarantaceae
 aestuous
 attornment
 amarantaceous
-ammunition
 abumbral
 aloes
 amaranth
@@ -17730,6 +17729,7 @@ applications
 anecdotalist
 appositely
 applicative
+ammunition
 applicatively
 applicatory
 appliedly
