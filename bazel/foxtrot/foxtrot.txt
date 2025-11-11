@@ -1873,6 +1873,7 @@ falsehoods
 fecundate
 fianchetti
 flapcake
+fanback
 frisson
 fallacious
 flexional
@@ -3197,7 +3198,6 @@ firma
 feministic
 fauns
 ficaries
-fanback
 flouse
 fices
 fuchsinophilous
