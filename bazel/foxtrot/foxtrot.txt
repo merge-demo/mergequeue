@@ -1899,6 +1899,7 @@ flamboyantize
 faradizing
 frs
 fraidycat
+flybrush
 fishable
 fingerflower
 fontanelle
@@ -11148,7 +11149,6 @@ frumple
 francas
 fingerhold
 fishback
-flybrush
 funeralize
 footnoted
 ferulae
