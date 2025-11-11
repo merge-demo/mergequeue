@@ -4835,7 +4835,6 @@ garlicwort
 glades
 graupels
 grush
-groutite
 geoffroyin
 generalidad
 gritter
@@ -7050,6 +7049,7 @@ glassworkers
 gladrags
 gyrinus
 gazy
+groutite
 gunite
 garava
 gunther
