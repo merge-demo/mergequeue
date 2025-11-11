@@ -4874,6 +4874,7 @@ eucatropine
 escapable
 exorciser
 epidermatoid
+encoder
 episcopable
 embryogenetic
 enshrining
@@ -9906,7 +9907,6 @@ extravertive
 effemination
 epidermatic
 expiatoriness
-encoder
 economizer
 epipterygoid
 exprimable
