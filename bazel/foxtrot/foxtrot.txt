@@ -6507,6 +6507,7 @@ fip
 failsoft
 frotted
 forspread
+furcular
 fluther
 foldskirt
 fortifying
@@ -7803,7 +7804,6 @@ fleshen
 fritterers
 foreordinate
 forespent
-furcular
 finns
 filterman
 furiousity
