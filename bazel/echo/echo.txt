@@ -5535,7 +5535,6 @@ elatedly
 experimentalism
 episporangium
 enfatico
-enfeeble
 enfeeblements
 earwort
 exorcising
@@ -13606,6 +13605,7 @@ effossion
 elinvar
 epiphytically
 eremurus
+enfeeble
 emamelware
 epitaph
 extending
