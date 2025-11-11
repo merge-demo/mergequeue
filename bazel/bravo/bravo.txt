@@ -3336,7 +3336,6 @@ banus
 bayberries
 breast
 blowfish
-balsam
 bellote
 buoyant
 bren
@@ -12584,6 +12583,7 @@ bonitary
 bistroic
 bonitarian
 bonity
+balsam
 boroughlet
 bragi
 bemocks
