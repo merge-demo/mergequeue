@@ -1821,6 +1821,7 @@ bullose
 bialystoker
 bandaged
 bandaging
+berylloid
 bowlin
 bushranging
 bandaid
@@ -3159,7 +3160,6 @@ balanopsidales
 baka
 bilabial
 baptisin
-berylloid
 bataleur
 bashmuric
 biperforate
