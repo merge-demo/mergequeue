@@ -5474,6 +5474,7 @@ flesh
 forbids
 formes
 filchers
+feculae
 floey
 fenderless
 fricassee
@@ -5895,7 +5896,6 @@ fudged
 fulsamic
 folgerite
 fencepost
-feculae
 foetalism
 frangent
 flockwise
