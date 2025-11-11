@@ -2795,7 +2795,6 @@ gyges
 guemul
 garblings
 grandisonous
-gaelicization
 gathers
 gazettal
 grigris
@@ -3860,6 +3859,7 @@ graining
 guls
 groszy
 gels
+gaelicization
 glumpy
 gloweringly
 gigahertzes
