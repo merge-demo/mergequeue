@@ -5842,6 +5842,7 @@ firmans
 farine
 fertilisable
 fowling
+factorially
 floristic
 floatsmen
 fluff
@@ -11344,7 +11345,6 @@ foreglimpsed
 forswat
 foldure
 fellic
-factorially
 footsores
 fluoroid
 ferfel
