@@ -4734,7 +4734,6 @@ flacianist
 fife
 foresey
 forerank
-feudalities
 faldfee
 forthink
 fablemongering
@@ -8192,6 +8191,7 @@ forewritten
 fundamentals
 fatigated
 fictioneer
+feudalities
 flaggelated
 friezing
 forfaulture
