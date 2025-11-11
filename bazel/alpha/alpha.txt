@@ -19798,7 +19798,6 @@ albation
 anarchal
 arcane
 armchair
-aery
 ast
 atrail
 arrah
@@ -20586,6 +20585,7 @@ administerings
 amniote
 androgonium
 arthrodirous
+aery
 atlantes
 architricline
 anurous
