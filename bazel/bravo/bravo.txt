@@ -4583,7 +4583,6 @@ borborus
 bedaubing
 beltlines
 bloodstone
-boden
 belial
 biddelian
 beats
@@ -4604,6 +4603,7 @@ bibliopolery
 beckon
 baptise
 bedbugs
+boden
 bedtick
 bedchair
 butterine
