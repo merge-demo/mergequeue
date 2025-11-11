@@ -8994,7 +8994,6 @@ conceivability
 cryptal
 compartment
 charism
-charisma
 counterpointe
 charismata
 chokecherry
@@ -22462,6 +22461,7 @@ cahuita
 coniosis
 coniospermous
 conyrin
+charisma
 coniroster
 conirostral
 conirostres
