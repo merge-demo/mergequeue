@@ -6564,6 +6564,7 @@ grouplet
 grappas
 glottalization
 ground
+gumdigger
 grabblers
 gesture
 gambeson
@@ -10000,7 +10001,6 @@ gentlemanship
 gorgonised
 geomys
 gamba
-gumdigger
 garlandwise
 gorgonacean
 geochrony
