@@ -3066,6 +3066,7 @@ golliwog
 glycopexis
 geonavigation
 gabbart
+gizmos
 grudgeless
 gaolbird
 gaga
@@ -4769,7 +4770,6 @@ glossematics
 glar
 gypsy
 givingness
-gizmos
 globes
 garrnishable
 gizz
