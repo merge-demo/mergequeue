@@ -3211,7 +3211,6 @@ bedights
 backwoodsman
 bathtub
 blatters
-basifugal
 barkpeel
 biltong
 basigynium
@@ -9759,6 +9758,7 @@ baidak
 bruce
 bossies
 burdocks
+basifugal
 buffered
 bistipulate
 bistort
