@@ -2345,6 +2345,7 @@ electroballistics
 emetatrophia
 encrypted
 electrobath
+emplacements
 ethnologically
 escoted
 epicenity
@@ -9629,7 +9630,6 @@ especialness
 esperantido
 extrapatriarchal
 enclosing
-emplacements
 emissaries
 epicycles
 espy
