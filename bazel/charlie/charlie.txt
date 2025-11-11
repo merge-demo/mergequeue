@@ -7743,7 +7743,6 @@ charkhas
 capromys
 ceroplasty
 ceroplastic
-coccygalgia
 ceroplastics
 cyanocrystallin
 cerosin
@@ -17113,6 +17112,7 @@ chauliodes
 crystals
 cyclohexane
 chemotherapeutic
+coccygalgia
 cohesive
 ctenophoric
 copiable
