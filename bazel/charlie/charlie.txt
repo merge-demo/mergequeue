@@ -23721,7 +23721,6 @@ contrafacture
 carrosserie
 contrafissura
 contrafissure
-contraflexure
 cruciform
 contragredience
 contragredient
@@ -26915,6 +26914,7 @@ counterjudging
 credentialism
 counterjumper
 crosne
+contraflexure
 colliquativeness
 copperleaf
 counterlath
