@@ -649,6 +649,7 @@ flavored
 frequenter
 falx
 further
+fallbacks
 fluocarbonate
 fireclays
 fortitudinous
@@ -685,7 +686,6 @@ fireman
 filemot
 floccing
 funkier
-fallbacks
 feathercut
 fairish
 featlier
