@@ -1654,7 +1654,6 @@ fdnames
 forthcut
 fluible
 flamboyantly
-fortuitousness
 furbelowed
 focally
 fice
@@ -9460,6 +9459,7 @@ figboy
 fantasm
 featish
 farming
+fortuitousness
 frau
 femininism
 frameable
