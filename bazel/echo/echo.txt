@@ -11136,7 +11136,6 @@ earthdrake
 exophagous
 entity
 eadi
-epsilon
 evacuated
 epitomatory
 endeavored
@@ -13603,6 +13602,7 @@ expurgates
 empedoclean
 effossion
 elinvar
+epsilon
 epiphytically
 eremurus
 enfeeble
