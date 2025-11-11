@@ -5010,6 +5010,7 @@ faith
 fissive
 filmcard
 flaneur
+frescoes
 functioned
 foremartyr
 fiddlewood
@@ -10923,7 +10924,6 @@ fidgeters
 filtration
 forlay
 flavorful
-frescoes
 flighthead
 forge
 flavone
