@@ -4444,6 +4444,7 @@ apsides
 adustive
 amang
 aldoxime
+aftmost
 adv
 archbanc
 archimago
@@ -12462,7 +12463,6 @@ anova
 aluminiform
 aegagropile
 appealed
-aftmost
 anechoic
 amazed
 adar
