@@ -1557,7 +1557,6 @@ festival
 fauvette
 flowcontrol
 fishbowl
-farkleberries
 fauvism
 funk
 fause
@@ -4167,6 +4166,7 @@ figments
 figuredly
 firebox
 flocculation
+farkleberries
 fellowcraft
 floerkea
 fibrils
