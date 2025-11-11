@@ -7041,7 +7041,6 @@ fontinas
 forepromise
 fonts
 fusula
-farci
 fists
 floriparous
 francis
@@ -11622,6 +11621,7 @@ fixable
 forint
 frolicsomely
 fortissimi
+farci
 fibrous
 fylgja
 fosite
