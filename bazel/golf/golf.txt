@@ -6332,6 +6332,7 @@ gemots
 gametal
 giglio
 genarchaship
+graptoloidea
 goatsucker
 graplines
 gamic
@@ -6777,7 +6778,6 @@ gamelang
 ganam
 gamgee
 gratias
-graptoloidea
 gobbe
 gud
 glossospasm
