@@ -3403,7 +3403,6 @@ estimator
 equivocally
 epinephelus
 ebullate
-exotism
 exurbanite
 exacters
 emphase
@@ -12766,6 +12765,7 @@ exorcizer
 epiceratodus
 exordium
 engold
+exotism
 earlike
 elsewise
 exortion
