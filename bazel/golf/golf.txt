@@ -2494,7 +2494,6 @@ gibbetwise
 genitalic
 grandity
 glossier
-girdlelike
 gaucher
 golds
 gradienter
@@ -4182,6 +4181,7 @@ glotum
 gatchwork
 greying
 ges
+girdlelike
 geod
 gleesome
 ganef
