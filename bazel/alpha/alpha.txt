@@ -594,7 +594,6 @@ archbishoprics
 autoeducation
 arisen
 algonquians
-abodement
 antarctic
 aphasic
 alexic
@@ -11939,6 +11938,7 @@ apectomy
 anaphyte
 alkoxide
 acron
+abodement
 ampelite
 admixes
 azeotropy
