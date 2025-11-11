@@ -5393,7 +5393,6 @@ eosphorite
 existant
 embost
 embroidered
-endymion
 edges
 ethylidene
 evicted
@@ -7165,6 +7164,7 @@ epistemonic
 extraequilibrium
 enwallow
 excandescence
+endymion
 eposes
 empassion
 eglandulous
