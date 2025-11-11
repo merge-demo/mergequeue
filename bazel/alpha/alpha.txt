@@ -11389,6 +11389,7 @@ abody
 amps
 assigner
 approximant
+anchorate
 adversive
 admire
 ampul
@@ -12213,7 +12214,6 @@ aetiogenic
 anchisaurus
 aegirite
 anchorages
-anchorate
 anchorlike
 archradical
 actinodermatitis
