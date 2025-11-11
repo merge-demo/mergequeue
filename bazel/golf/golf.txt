@@ -1231,7 +1231,6 @@ gadded
 grocerymen
 gleetier
 gripiest
-glabellum
 gatewards
 grannybush
 goodeniaceae
@@ -4293,6 +4292,7 @@ gabfests
 granulate
 glyptotherium
 goboes
+glabellum
 gynecophorous
 gynecratic
 gelidness
