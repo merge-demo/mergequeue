@@ -909,6 +909,7 @@ gez
 gelatinizability
 genome
 guahivo
+genteeler
 gaverick
 geld
 guna
@@ -1157,7 +1158,6 @@ grocer
 gled
 gantleted
 gripier
-genteeler
 grouses
 gastrogastrotomy
 genin
