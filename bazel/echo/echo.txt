@@ -5961,7 +5961,6 @@ eczema
 enhypostatize
 encrinoidea
 ecclesiophobia
-enameloma
 encoffin
 elains
 effate
@@ -6871,6 +6870,7 @@ etherification
 exceptionless
 exterior
 embarque
+enameloma
 eleusinion
 entomologies
 entomologised
