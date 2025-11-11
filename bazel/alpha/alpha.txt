@@ -9943,7 +9943,6 @@ allower
 amazulu
 aphthongal
 abayah
-afferently
 antaranga
 abele
 abluents
@@ -23084,6 +23083,7 @@ attainor
 acridium
 attainted
 asepticized
+afferently
 adjoiningness
 acetol
 adenoma
