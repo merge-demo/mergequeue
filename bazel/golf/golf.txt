@@ -540,7 +540,6 @@ germproof
 geeldikkop
 galipoidin
 guzzles
-gastrotympanites
 galleins
 gomphocarpus
 getters
@@ -2759,6 +2758,7 @@ goodyera
 genteelize
 gelating
 gentiana
+gastrotympanites
 gentianella
 gregatim
 gadhelic
