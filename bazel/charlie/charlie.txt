@@ -10424,6 +10424,7 @@ chlorinity
 cozenage
 commissionership
 comitadji
+cop
 clear
 crackskull
 cored
@@ -24485,7 +24486,6 @@ copps
 coelogyne
 candles
 chlorosis
-cop
 copa
 copable
 carrs
