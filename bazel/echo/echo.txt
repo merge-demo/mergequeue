@@ -1024,7 +1024,6 @@ edemata
 energised
 electrohorticulture
 expansionists
-epitrochoid
 epigonation
 ethnogeography
 egilops
@@ -5184,6 +5183,7 @@ euphorbiaceae
 extrapolate
 electromedical
 endoenzyme
+epitrochoid
 entresol
 elytrorrhaphy
 epicarp
