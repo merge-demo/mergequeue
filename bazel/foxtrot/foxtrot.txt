@@ -2100,6 +2100,7 @@ facture
 finetop
 favorless
 frument
+fayence
 fermentate
 feminist
 falcate
@@ -11231,7 +11232,6 @@ filter
 functional
 fylfot
 forevision
-fayence
 factable
 forementioned
 fatherkin
