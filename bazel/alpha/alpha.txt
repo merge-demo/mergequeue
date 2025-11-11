@@ -3099,7 +3099,6 @@ attemper
 accentuated
 ambling
 antechambers
-axonemal
 amsterdam
 athyroidism
 atmosteon
@@ -8662,6 +8661,7 @@ anemology
 alleleu
 allelic
 allelism
+axonemal
 argyrite
 almes
 alternationist
