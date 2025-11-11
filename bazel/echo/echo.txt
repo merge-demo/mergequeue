@@ -468,7 +468,6 @@ eucommia
 ecclesiarchy
 extoll
 ecclesiast
-encephalomata
 expostulated
 empasm
 envelopers
@@ -14065,6 +14064,7 @@ echelonment
 exclude
 enquarter
 extracurriculum
+encephalomata
 enfect
 errantry
 entoplastral
