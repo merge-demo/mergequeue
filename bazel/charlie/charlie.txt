@@ -3439,7 +3439,6 @@ chinwood
 caprin
 candlebeam
 cimelia
-catalecta
 caprioles
 capriote
 capriped
@@ -26210,6 +26209,7 @@ cosmozoans
 cosmozoic
 chrysididae
 cascrome
+catalecta
 cosmozoism
 cantharidism
 calabazilla
