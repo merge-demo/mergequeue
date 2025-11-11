@@ -2097,7 +2097,6 @@ felicitator
 fudger
 frightened
 foredefine
-furlers
 fainty
 fesapo
 filletlike
@@ -5905,6 +5904,7 @@ fulsamic
 folgerite
 fencepost
 foetalism
+furlers
 frangent
 flockwise
 ferruginate
