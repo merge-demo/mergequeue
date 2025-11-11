@@ -1196,7 +1196,6 @@ bootloader
 bakeries
 budling
 bakerly
-bakerlike
 brownstones
 buttinskies
 bakersfield
@@ -9204,6 +9203,7 @@ benzophenanthrazine
 balsaminaceous
 balladical
 biparentally
+bakerlike
 businesswoman
 blackboard
 bushelmen
