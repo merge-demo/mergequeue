@@ -4980,6 +4980,7 @@ cust
 costrel
 chiclero
 canalman
+cryptovolcanic
 conceptuality
 crystallizing
 chevrony
@@ -8743,7 +8744,6 @@ chapelgoing
 cockpits
 chapelize
 chirpier
-cryptovolcanic
 coccolithophorid
 chapellany
 chapelled
