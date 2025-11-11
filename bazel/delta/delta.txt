@@ -3222,7 +3222,6 @@ demoniac
 defenceable
 dekle
 doftberry
-doughbelly
 defencive
 dents
 defend
@@ -6091,6 +6090,7 @@ deselecting
 demolitionary
 deputes
 damiana
+doughbelly
 diopsis
 deputing
 diaconicon
