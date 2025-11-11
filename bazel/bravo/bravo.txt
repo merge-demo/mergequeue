@@ -643,7 +643,6 @@ bacterioscopy
 bacteriosolvent
 basat
 breakshugh
-bacteriostatically
 begalls
 bacteriotherapeutic
 bechances
@@ -17597,6 +17596,7 @@ blepharodiastasis
 burgers
 becurtained
 bivalency
+bacteriostatically
 baseballs
 burggrave
 burghbote
