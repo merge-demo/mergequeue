@@ -2683,7 +2683,6 @@ acridiidae
 allochiral
 amreetas
 amphisilidae
-acridines
 ankylophobia
 acridity
 aerobee
@@ -15649,6 +15648,7 @@ antiophthalmic
 anet
 attrahent
 astronomically
+acridines
 approvableness
 afrite
 alcedininae
