@@ -2155,7 +2155,6 @@ camphoid
 choryos
 camphol
 campholic
-campholide
 compilatory
 coleorhiza
 camphols
@@ -8696,6 +8695,7 @@ chantry
 chanukah
 chaology
 chaori
+campholide
 credibilities
 chaotic
 coccoid
