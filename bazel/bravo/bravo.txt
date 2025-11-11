@@ -10050,7 +10050,6 @@ booklets
 bummock
 blenders
 bairntime
-byzantine
 byzantinize
 barmecide
 bottlemaking
@@ -10827,6 +10826,7 @@ bassan
 blepharoptosis
 blepharosynechia
 blepharosphincterectomy
+byzantine
 bunchberry
 bulldoggy
 boanergism
