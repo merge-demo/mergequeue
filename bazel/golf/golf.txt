@@ -3282,7 +3282,6 @@ germanify
 graminiferous
 germanification
 gadso
-geotechnics
 gorgonian
 grimmia
 gregaritic
@@ -5356,6 +5355,7 @@ glees
 gormands
 ganoses
 gipsyism
+geotechnics
 glycosidically
 gitter
 gelandejump
