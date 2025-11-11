@@ -2848,7 +2848,6 @@ enshrine
 eleotrid
 enseat
 electroluminescent
-embosk
 explicans
 evenhanded
 enaluron
@@ -3579,6 +3578,7 @@ extreme
 epigonus
 entrefer
 embolize
+embosk
 eupeptic
 epididymal
 entocone
