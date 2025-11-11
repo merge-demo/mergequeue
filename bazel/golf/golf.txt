@@ -2911,7 +2911,6 @@ gledes
 gonocyte
 gallinulelike
 gombos
-gallinipper
 gingerous
 gee
 gelose
@@ -6625,6 +6624,7 @@ glegnesses
 gonaduct
 guiling
 gonalgia
+gallinipper
 gradatively
 galanga
 gruntingly
