@@ -6619,7 +6619,6 @@ friggle
 fractocumulus
 fireweeds
 fairgrass
-flaggers
 fruitery
 funds
 fancymonger
@@ -9834,6 +9833,7 @@ fouler
 fortescue
 fordicidia
 featherback
+flaggers
 fissileness
 frib
 fruitage
