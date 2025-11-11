@@ -1128,7 +1128,6 @@ gruntled
 gashes
 globalization
 glossing
-ganofs
 ganoidian
 graptolitoidea
 gaillardia
@@ -2310,6 +2309,7 @@ grallatorial
 gelable
 gymnodiniaceae
 galidictis
+ganofs
 gelant
 glyceric
 ganta
