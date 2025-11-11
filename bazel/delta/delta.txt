@@ -7934,7 +7934,6 @@ dewdropper
 drank
 dogteeth
 drillet
-deweylite
 dooryard
 dewflower
 distantly
@@ -16180,6 +16179,7 @@ dertra
 degas
 droplet
 desalinized
+deweylite
 dowdy
 distent
 downsliding
