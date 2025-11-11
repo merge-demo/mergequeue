@@ -1237,6 +1237,7 @@ firmitude
 frigidity
 fenders
 flexural
+flinched
 fatuities
 feodatory
 freieslebenite
@@ -5645,7 +5646,6 @@ fishnets
 finedraw
 fermium
 financially
-flinched
 fragility
 frumenties
 fibrine
