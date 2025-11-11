@@ -4966,7 +4966,6 @@ beelzebul
 beennut
 bimedial
 bonework
-beeped
 bumblings
 blesse
 belgae
@@ -13693,6 +13692,7 @@ beckoned
 befoolable
 bespawl
 bourgade
+beeped
 bonailie
 bourgeoisie
 blessingly
