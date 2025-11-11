@@ -2479,7 +2479,6 @@ fishhood
 futility
 fuddlement
 footscraper
-forgetter
 forcipial
 fermillet
 frenchless
@@ -5633,6 +5632,7 @@ fellowshiped
 fascism
 frumpiest
 fianchetto
+forgetter
 fie
 fillers
 fud
