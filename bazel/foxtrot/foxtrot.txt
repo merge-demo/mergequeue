@@ -5631,7 +5631,6 @@ fud
 fulguration
 fluidising
 fireable
-fortifies
 flimsiness
 fairleads
 flinch
@@ -9105,6 +9104,7 @@ fortresses
 fribblish
 filters
 fantasias
+fortifies
 fielded
 fleeceflower
 floridly
