@@ -896,7 +896,6 @@ aures
 absyrtus
 amylon
 absis
-absit
 absoil
 acorn
 absterging
@@ -21883,6 +21882,7 @@ averrhoa
 assishly
 aculeated
 adapted
+absit
 aplacophoran
 asbestous
 assistance
