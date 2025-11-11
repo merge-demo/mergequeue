@@ -2515,6 +2515,7 @@ fingers
 forehorse
 flerry
 fainthearted
+faction
 farted
 facinorousness
 fluxgraph
@@ -8215,7 +8216,6 @@ festering
 fluidize
 floroscope
 fluidally
-faction
 forficula
 fathomableness
 fetors
