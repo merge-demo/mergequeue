@@ -3694,6 +3694,7 @@ gadgeteer
 grifters
 goes
 ghostland
+gabbling
 gaugership
 grumpier
 ghostly
@@ -8596,7 +8597,6 @@ gregge
 guidwilly
 gotos
 goldanged
-gabbling
 gimbaling
 guider
 grauwacke
