@@ -3872,7 +3872,6 @@ bawdrics
 bawdries
 boreal
 bawl
-bevelment
 bawled
 bawler
 bawly
@@ -13679,6 +13678,7 @@ boys
 benzdioxdiazine
 bondholder
 billboard
+bevelment
 bourasque
 ballarag
 blames
