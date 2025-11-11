@@ -1912,7 +1912,6 @@ bandoleros
 barouche
 bandor
 baaskaap
-bandora
 bifidate
 biotechs
 brevipen
@@ -7270,6 +7269,7 @@ bestud
 boninite
 bipont
 barrancas
+bandora
 blowsier
 bleariness
 bestuds
