@@ -3112,7 +3112,6 @@ describable
 dialecticize
 dinornithic
 defalcating
-defalcation
 dipteral
 deaths
 defamation
@@ -6482,6 +6481,7 @@ drudgeries
 downwards
 disinfection
 desaccharification
+defalcation
 decarburisation
 dozened
 desacralization
