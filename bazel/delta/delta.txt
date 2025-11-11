@@ -777,6 +777,7 @@ dandled
 dopaoxidase
 dandler
 dandlers
+defs
 dispurpose
 drawn
 devolatilize
@@ -10633,7 +10634,6 @@ domestic
 dolorimeter
 documented
 decoctible
-defs
 diploidic
 dunderbolt
 dominus
