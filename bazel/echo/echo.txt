@@ -3182,6 +3182,7 @@ elongation
 edict
 extortionists
 epiplastral
+exhaustiveness
 eom
 emmarble
 elaborate
@@ -12377,7 +12378,6 @@ euphemia
 eelbob
 exhaustive
 eryon
-exhaustiveness
 earlock
 essencing
 electrolyze
