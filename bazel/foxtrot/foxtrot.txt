@@ -3300,7 +3300,6 @@ fiddlestick
 frambesia
 farsight
 fivescore
-flounces
 ferrelled
 fortier
 fulgency
@@ -4556,6 +4555,7 @@ fort
 fouldre
 familiarness
 fainaigued
+flounces
 fisting
 faithfulness
 flattest
