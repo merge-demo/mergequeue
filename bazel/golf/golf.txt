@@ -644,7 +644,6 @@ gardencraft
 gallomaniac
 gallon
 gonapophysis
-glycosyl
 gush
 gonangial
 gabionage
@@ -3131,6 +3130,7 @@ germanite
 geosynclinal
 gurgles
 georgics
+glycosyl
 gnathal
 gnathobasic
 gnast
