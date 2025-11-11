@@ -16231,7 +16231,6 @@ clinia
 condensations
 clinicopathological
 clinkant
-clinkered
 clinkerer
 clinkery
 clinkering
@@ -18850,6 +18849,7 @@ cerebellocortex
 crommel
 coly
 chronopher
+clinkered
 contemporaries
 codeins
 colichemarde
