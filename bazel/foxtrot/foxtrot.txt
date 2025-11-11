@@ -4956,6 +4956,7 @@ frets
 farmhold
 flamers
 fictionist
+foxing
 flamethrowers
 flamy
 fan
@@ -9094,7 +9095,6 @@ falsification
 fossilise
 flourisher
 firmance
-foxing
 furbishable
 foxly
 flaith
