@@ -6331,7 +6331,6 @@ benthoses
 bacteriolysin
 backwashes
 blockhouses
-blimp
 blastie
 backgrounds
 bentonite
@@ -15117,6 +15116,7 @@ brevilingual
 bestirring
 besmearer
 breviloquent
+blimp
 bushhammer
 breviradiate
 blithely
