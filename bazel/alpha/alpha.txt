@@ -5163,7 +5163,6 @@ anatomicomedical
 af
 avernal
 anelastic
-automate
 amourist
 accend
 avouching
@@ -18598,6 +18597,7 @@ arolium
 antiarrhythmic
 acutish
 archaeocyathidae
+automate
 agropyron
 automats
 alethiology
