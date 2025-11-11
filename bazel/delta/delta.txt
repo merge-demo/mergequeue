@@ -3760,7 +3760,6 @@ delegated
 disprove
 dehkan
 durmasts
-decimate
 defaceable
 dehonestation
 disoccupied
@@ -9289,6 +9288,7 @@ dier
 dyer
 dementis
 dochmii
+decimate
 dieresis
 dihydrazone
 disemic
