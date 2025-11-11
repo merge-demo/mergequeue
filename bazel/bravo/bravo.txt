@@ -9782,6 +9782,7 @@ borg
 bewitching
 barleymow
 bistriate
+bombardment
 beddable
 breeze
 brachypleural
@@ -15485,7 +15486,6 @@ balloonfish
 bearskins
 brinehouse
 brineless
-bombardment
 backsaws
 bakery
 bratstva
