@@ -6892,7 +6892,6 @@ byously
 branchings
 blibe
 bruchid
-bacteririum
 benignity
 blackmailed
 bacteriotoxic
@@ -7365,6 +7364,7 @@ bootstrap
 bethink
 boatswain
 bunglers
+bacteririum
 balaenoptera
 bocklogged
 bisinuation
