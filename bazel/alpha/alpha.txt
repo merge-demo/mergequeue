@@ -4753,7 +4753,6 @@ aequi
 ausgespielt
 aranein
 albuminimetry
-auriscalpium
 allogamy
 attemperation
 aequor
@@ -9832,6 +9831,7 @@ argonon
 acrobatically
 appale
 anthologist
+auriscalpium
 azimethylene
 aforeward
 arbs
