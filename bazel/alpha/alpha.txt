@@ -10811,7 +10811,6 @@ anywise
 anthropomorphisation
 affricates
 anack
-ammodytoid
 ammonate
 auxiliation
 abortogenic
@@ -20605,6 +20604,7 @@ arthrometry
 atsara
 alvine
 apospories
+ammodytoid
 aswithe
 aduncity
 arthroneuralgia
