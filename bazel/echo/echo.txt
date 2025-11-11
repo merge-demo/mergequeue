@@ -6425,7 +6425,6 @@ endopod
 engineering
 electrocutes
 enlargers
-ensiles
 expediment
 ensiling
 ensilist
@@ -8727,6 +8726,7 @@ explodable
 equities
 equivalenced
 equivalent
+ensiles
 equivaluer
 exposited
 evulgation
