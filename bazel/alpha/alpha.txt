@@ -3704,7 +3704,6 @@ apomorphin
 autocarpic
 adeona
 attenuative
-adonized
 adephagous
 argoan
 amies
@@ -17389,6 +17388,7 @@ afret
 archenemy
 apothecium
 antozonite
+adonized
 antitrope
 aphidophagous
 archdioceses
