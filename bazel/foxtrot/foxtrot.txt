@@ -1982,7 +1982,6 @@ frigiferous
 flchette
 flannelette
 fireball
-fulminancy
 flushed
 fravashi
 frden
@@ -3140,6 +3139,7 @@ fountaineer
 finnick
 fibroenchondroma
 faring
+fulminancy
 fibroferrite
 fundic
 firewarden
