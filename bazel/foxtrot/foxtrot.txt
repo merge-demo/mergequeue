@@ -6451,6 +6451,7 @@ folkcraft
 frenchize
 fordy
 fellatrix
+forsar
 flurn
 flurried
 futhorks
@@ -8611,7 +8612,6 @@ fulup
 fringilloid
 forsakenness
 fermentarian
-forsar
 forsythia
 fontinalis
 findon
