@@ -11045,6 +11045,7 @@ bottleholder
 blk
 birri
 bhoosa
+bakwiri
 bafflingness
 bromin
 buckshot
@@ -16685,7 +16686,6 @@ blithehearted
 bishopship
 basilisk
 bilaan
-bakwiri
 babelish
 buckhounds
 bucklum
