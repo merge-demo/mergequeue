@@ -7884,7 +7884,6 @@ copperplate
 cyclorrhaphous
 clinician
 cession
-chain
 clapotis
 cessionaire
 castaway
@@ -10684,6 +10683,7 @@ cholinesterase
 chiminage
 chimla
 chimleys
+chain
 cynicalness
 cutlass
 calciclase
