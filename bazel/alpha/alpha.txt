@@ -10520,7 +10520,6 @@ annelides
 agua
 assimilator
 apollonia
-anandrous
 auguration
 aniellidae
 aristides
@@ -15619,6 +15618,7 @@ attacked
 allegorister
 arcus
 awfulness
+anandrous
 archangels
 antinome
 arblast
