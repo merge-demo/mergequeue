@@ -1794,7 +1794,6 @@ bepurple
 banago
 buzzy
 brimming
-bacteriaceous
 beaconed
 beglads
 bardiness
@@ -17847,6 +17846,7 @@ brouille
 botein
 burthen
 bluewing
+bacteriaceous
 burthens
 burthensome
 burtonization
