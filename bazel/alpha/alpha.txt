@@ -20241,7 +20241,6 @@ abstracting
 altschin
 anthologise
 aphides
-akasha
 animalcula
 arrivals
 atracheate
@@ -21603,6 +21602,7 @@ annexes
 applicability
 aspredo
 antirickets
+akasha
 asprout
 antihierarchist
 antu
