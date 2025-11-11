@@ -1557,7 +1557,6 @@ dyssodia
 deadfalls
 deviler
 dim
-deadhearted
 denominant
 deadheartedly
 deadheartedness
@@ -12637,6 +12636,7 @@ dankness
 daud
 dysyntribite
 driftfish
+deadhearted
 deodorise
 definitise
 dephase
