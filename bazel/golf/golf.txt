@@ -2185,7 +2185,6 @@ galvanocauterization
 galea
 goniostat
 goldfinches
-glyptotherium
 glistening
 gebbie
 guardians
@@ -4285,6 +4284,7 @@ grousing
 gumlike
 gabfests
 granulate
+glyptotherium
 goboes
 gynecophorous
 gynecratic
