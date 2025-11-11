@@ -3123,7 +3123,6 @@ facsimile
 fairylike
 fibrocement
 federalness
-fluentness
 fieulamort
 formulas
 frottages
@@ -9760,6 +9759,7 @@ fascet
 fatigability
 fishworm
 farfel
+fluentness
 faerie
 foresettled
 flyspeck
