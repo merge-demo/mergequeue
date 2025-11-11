@@ -3406,6 +3406,7 @@ dampnesses
 daphnaceae
 diamante
 diacetyl
+disassociable
 dyscrasia
 decarboxylase
 decolorisation
@@ -11166,7 +11167,6 @@ disassent
 disassimilate
 darin
 disassimilative
-disassociable
 disinherits
 disassociate
 disassociates
