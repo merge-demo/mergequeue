@@ -3535,7 +3535,6 @@ apargia
 amyloidoses
 addressing
 albertype
-amalgamator
 anareta
 avaradrano
 addrest
@@ -21538,6 +21537,7 @@ auricyanic
 assuaged
 asialia
 aristarchies
+amalgamator
 actinula
 arthemis
 archdean
