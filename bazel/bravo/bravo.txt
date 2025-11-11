@@ -4519,7 +4519,6 @@ blankest
 brigadiership
 barricaded
 burnsides
-becudgelling
 batata
 balushai
 becudgels
@@ -5456,6 +5455,7 @@ bulletmaking
 blubbery
 boardmanship
 boatable
+becudgelling
 beetling
 behemoths
 behenate
