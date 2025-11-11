@@ -4352,6 +4352,7 @@ foresleeve
 feebler
 friendlies
 foreacquaint
+fencer
 fuliginously
 fise
 forb
@@ -8132,7 +8133,6 @@ formlessly
 forthwith
 fretless
 ferberite
-fencer
 fructuosity
 fossilology
 foretrace
