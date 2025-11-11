@@ -118,7 +118,6 @@ cronish
 cabildo
 cabildos
 cabin
-cabined
 cabinet
 cladophyllum
 cabineting
@@ -8169,6 +8168,7 @@ countertrades
 calliophone
 cyprus
 chairborne
+cabined
 copartners
 choriomas
 cardiovisceral
