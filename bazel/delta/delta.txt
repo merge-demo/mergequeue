@@ -8385,7 +8385,6 @@ dockmaster
 dialectician
 dual
 decapodous
-dialectologer
 droopingness
 diplois
 dejerate
@@ -13506,6 +13505,7 @@ disroost
 demiurgism
 disrooted
 dissertated
+dialectologer
 demicircle
 disrooting
 debenture
