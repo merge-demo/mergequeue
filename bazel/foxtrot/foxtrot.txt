@@ -5105,6 +5105,7 @@ flashgun
 fifteenth
 factitive
 fict
+furnishment
 flashiest
 flashiness
 famulli
@@ -11396,7 +11397,6 @@ furnishes
 fiddles
 functionlessness
 frosk
-furnishment
 feater
 forksmith
 forestership
