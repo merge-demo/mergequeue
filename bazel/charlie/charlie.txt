@@ -1679,6 +1679,7 @@ circ
 cestoi
 counterdiscipline
 calorifical
+chairs
 calorification
 cardiograph
 calappa
@@ -7901,7 +7902,6 @@ carouses
 cestoidean
 cestoids
 cestraction
-chairs
 colessees
 cestrian
 cestrum
