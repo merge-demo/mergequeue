@@ -8819,7 +8819,6 @@ chapter
 canonries
 chapteral
 chapterhouse
-chapters
 cardinalates
 chapwoman
 chaqueta
@@ -26051,6 +26050,7 @@ consignor
 cosentient
 crannoge
 cosettler
+chapters
 cosh
 coshed
 cosher
