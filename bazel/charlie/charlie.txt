@@ -9882,6 +9882,7 @@ candent
 chemoreception
 chemoreceptive
 chemoreceptivity
+coteller
 chapelgoer
 chemoreceptor
 cryptographers
@@ -15796,7 +15797,6 @@ clearable
 clearage
 clearance
 clearances
-coteller
 commensurately
 counterfeitness
 clearcole
