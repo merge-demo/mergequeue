@@ -2550,7 +2550,6 @@ barile
 barilla
 beleaf
 blackie
-basiglandular
 baryon
 brio
 baryphonia
@@ -10312,6 +10311,7 @@ blading
 blade
 beleaguerer
 besmircher
+basiglandular
 bosporian
 bladewise
 bladygrass
