@@ -2669,7 +2669,6 @@ blackcock
 barmcloth
 brither
 birdcage
-becoward
 bascules
 balmlike
 barnabas
@@ -6941,6 +6940,7 @@ breediness
 betail
 baselessness
 betta
+becoward
 bargoose
 badder
 bismuths
