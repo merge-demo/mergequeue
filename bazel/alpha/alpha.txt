@@ -7767,6 +7767,7 @@ amability
 alcatras
 aldime
 aldimin
+assertional
 accepted
 anabantidae
 aldm
@@ -21774,7 +21775,6 @@ abuta
 assertion
 androids
 actinologue
-assertional
 awninged
 appreciating
 assertively
