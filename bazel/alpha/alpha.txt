@@ -1207,6 +1207,7 @@ acanthomas
 acanthomeridae
 acanthopanax
 agriot
+aculeata
 anlia
 acanthophorous
 aboded
@@ -17110,7 +17111,6 @@ anaphrodisiac
 achiever
 avocets
 anisochromia
-aculeata
 apogeotropism
 apogon
 afterfuture
