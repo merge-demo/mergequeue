@@ -655,7 +655,6 @@ bungles
 bkpr
 boigid
 bacterized
-bundle
 barefacedly
 brisk
 bullroarer
@@ -13959,6 +13958,7 @@ brussels
 bullring
 boxhauled
 brierberry
+bundle
 boxhauling
 boxhauls
 bowwow
