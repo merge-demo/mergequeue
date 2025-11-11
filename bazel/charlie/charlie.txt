@@ -5631,7 +5631,6 @@ correlativism
 chlorococcum
 cataphora
 cataphoresis
-cataphoretically
 cataphoria
 cataphract
 counterargue
@@ -23749,6 +23748,7 @@ cacophonist
 coyote
 crimped
 contraplete
+cataphoretically
 canulate
 cherogril
 carbonometry
