@@ -601,7 +601,6 @@ floorless
 fourfold
 fellon
 foreknows
-forpet
 fuchsone
 fossilisation
 forints
@@ -9056,6 +9055,7 @@ folding
 fiant
 friesish
 funnellike
+forpet
 fenter
 forbruise
 foxfires
