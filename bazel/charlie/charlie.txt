@@ -14742,6 +14742,7 @@ coordinate
 curtsy
 coenamor
 coccinellid
+coalyards
 cocinero
 curatel
 chiarooscuros
@@ -26662,7 +26663,6 @@ countdom
 chargeableness
 countdown
 counted
-coalyards
 colourfully
 countenanced
 cyrenian
