@@ -977,7 +977,6 @@ eddied
 eponymic
 edits
 enterococcus
-endosporium
 eastwards
 esoterics
 exhumes
@@ -11074,6 +11073,7 @@ ekacaesium
 epistemolog
 epiglottal
 extravasation
+endosporium
 eurytus
 engagedness
 enlisted
