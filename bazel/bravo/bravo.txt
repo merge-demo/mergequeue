@@ -3715,7 +3715,6 @@ battler
 battleships
 barrace
 blushiness
-buhr
 battlesome
 brigantes
 bimestrial
@@ -17926,6 +17925,7 @@ beminstrel
 bushless
 bareness
 bisti
+buhr
 bottega
 bushmaker
 bearbine
