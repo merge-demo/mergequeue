@@ -1127,7 +1127,6 @@ bountree
 bairnwort
 baisemain
 besmears
-benedictine
 bushwa
 brunets
 baiters
@@ -1397,6 +1396,7 @@ balebos
 baled
 baleen
 bobance
+benedictine
 battable
 balefires
 bewreak
