@@ -15994,6 +15994,7 @@ compromises
 covado
 cleromancy
 canniness
+curtain
 clerstory
 clansmen
 cyamelid
@@ -31556,7 +31557,6 @@ curtailing
 cursores
 curtails
 cubistic
-curtain
 cheesemongery
 centrals
 cariamae
