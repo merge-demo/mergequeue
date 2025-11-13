@@ -2090,7 +2090,6 @@ fructidor
 fusibleness
 freeform
 fideistic
-fogle
 frixion
 fiscalism
 federalist
@@ -5029,6 +5028,7 @@ flammation
 forepad
 flipping
 flatbeds
+fogle
 flanneling
 fungoidal
 flukiness
