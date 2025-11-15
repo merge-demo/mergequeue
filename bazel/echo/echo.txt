@@ -629,7 +629,6 @@ ecstatics
 eclating
 excitancy
 etymonic
-ellipses
 embarked
 eozoonal
 earful
@@ -6078,6 +6077,7 @@ exposer
 evenhandedly
 enfever
 edinburgh
+ellipses
 escheated
 enlaurel
 emancipatist
