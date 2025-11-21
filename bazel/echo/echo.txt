@@ -5039,7 +5039,6 @@ elapsing
 emplace
 elaeomargaric
 enrolled
-endite
 eclairs
 econometer
 entreasure
@@ -12420,6 +12419,7 @@ entorganism
 exigently
 exhilaratingly
 encasserole
+endite
 easting
 epifaunas
 exhortations
