@@ -2622,7 +2622,6 @@ antibrachial
 acetiam
 amphigonous
 assuaging
-awaits
 adunation
 acquittal
 almacenista
@@ -15866,6 +15865,7 @@ antipooling
 aflush
 abreption
 areito
+awaits
 antipopes
 asplenium
 attributed
