@@ -11332,7 +11332,6 @@ aposthume
 abomasi
 amphodarch
 ampholytic
-abaff
 anobiidae
 amphora
 amphorae
@@ -21097,6 +21096,7 @@ antefurcae
 aortography
 ascones
 asconoid
+abaff
 air
 ascophore
 alfas
