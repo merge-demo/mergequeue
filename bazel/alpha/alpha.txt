@@ -4246,6 +4246,7 @@ acmispon
 azonium
 armorer
 alchornea
+annoyful
 akhlame
 adrad
 alumen
@@ -5351,7 +5352,6 @@ agglutinable
 affriended
 applying
 aggrandizable
-annoyful
 affrightful
 affydavy
 acid
