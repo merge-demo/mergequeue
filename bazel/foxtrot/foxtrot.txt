@@ -4320,7 +4320,6 @@ fease
 florescence
 forequarters
 fluyt
-footle
 factive
 fet
 firmness
@@ -8950,6 +8949,7 @@ fluminose
 floit
 flywort
 fiacre
+footle
 feldspath
 feverwort
 favositoid
