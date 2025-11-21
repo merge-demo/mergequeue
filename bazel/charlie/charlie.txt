@@ -4177,7 +4177,6 @@ cannibal
 cardioneurosis
 cardiopath
 cardiopathic
-cardiophrenia
 chloanthite
 calthrop
 cardiopulmonary
@@ -24386,6 +24385,7 @@ coolness
 coolnesses
 cytochemical
 cools
+cardiophrenia
 coolung
 coolweed
 coolwort
