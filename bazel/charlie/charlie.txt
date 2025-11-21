@@ -2626,7 +2626,6 @@ camelopardel
 canes
 caprellidae
 canescence
-canescent
 chaetetes
 conversationalist
 composes
@@ -21279,6 +21278,7 @@ caccias
 concertized
 chlorastrolite
 concertizer
+canescent
 cotemporane
 concertizing
 concertmaster
