@@ -10809,7 +10809,6 @@ dipterocarpus
 delay
 divas
 dependent
-doublehandedly
 dipterus
 dotterel
 diptychs
@@ -14811,6 +14810,7 @@ dockyards
 docking
 dockization
 dockland
+doublehandedly
 docklands
 dominica
 dialogue
