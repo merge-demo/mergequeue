@@ -2677,6 +2677,7 @@ eyra
 emmanuel
 electrotechnic
 earhead
+emborder
 electrotechnician
 exports
 eogaean
@@ -3877,7 +3878,6 @@ environmental
 extracted
 endometry
 exotheca
-emborder
 emigrating
 enflagellate
 enfeebled
