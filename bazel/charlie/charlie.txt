@@ -5644,7 +5644,6 @@ cataphrenic
 choraleon
 cataphrygian
 cataphrygianism
-cyclarthrosis
 cataplane
 cataplasia
 conepate
@@ -9994,6 +9993,7 @@ chernites
 chernomorish
 cooried
 chernozem
+cyclarthrosis
 cuprammonia
 cherokee
 corodiastole
