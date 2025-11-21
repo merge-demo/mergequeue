@@ -6168,6 +6168,7 @@ groveling
 goal
 griffithite
 galactophore
+goniatite
 gigantolite
 gunmanship
 goyin
@@ -7134,7 +7135,6 @@ gagtooth
 gorble
 gorblin
 gorcocks
-goniatite
 gypsylike
 grasscut
 guayaba
