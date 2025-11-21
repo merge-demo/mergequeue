@@ -11156,7 +11156,6 @@ clamours
 castrations
 chlamydosaurus
 chlamydoselachidae
-chlamydozoa
 chlamydozoan
 chlamyphore
 carroting
@@ -16383,6 +16382,7 @@ cantonese
 clitoridauxe
 cannonballing
 carnosity
+chlamydozoa
 complotment
 cosmetician
 coined
