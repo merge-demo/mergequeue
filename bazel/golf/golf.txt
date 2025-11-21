@@ -2037,7 +2037,6 @@ gnomologic
 greiges
 guazuti
 gavelock
-geo
 grunion
 givenness
 gyroscopics
@@ -3555,6 +3554,7 @@ grugru
 gunslinging
 grinded
 gearings
+geo
 glunched
 ghettoizes
 gymkhana
