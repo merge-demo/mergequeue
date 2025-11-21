@@ -5541,7 +5541,6 @@ catadrome
 chlorophaeite
 catadupe
 catafalco
-catafalques
 civilisation
 catagenetic
 catakinetic
@@ -12706,6 +12705,7 @@ ceratomania
 crinite
 catakinesis
 concede
+catafalques
 cobaltous
 cataloguize
 chuff
