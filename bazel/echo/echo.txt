@@ -7814,7 +7814,6 @@ epiglottitis
 exsiccator
 elegiambic
 epicarps
-esophagodynia
 empyocele
 exoerythrocytic
 epigone
@@ -11276,6 +11275,7 @@ elbowboard
 evaporating
 eviscerating
 endoarteritis
+esophagodynia
 excursing
 endue
 eliquated
