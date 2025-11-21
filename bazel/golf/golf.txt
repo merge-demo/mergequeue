@@ -1680,7 +1680,6 @@ gorkiesque
 gif
 gastrodermal
 gastrodermis
-gpd
 gulfweed
 guayabo
 gastroduodenitis
@@ -4458,6 +4457,7 @@ grandsire
 generics
 giocoso
 gip
+gpd
 gleba
 gladiatorship
 galloman
