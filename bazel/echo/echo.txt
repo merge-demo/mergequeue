@@ -5219,7 +5219,6 @@ ectobatic
 eskers
 electromagnetic
 eluviums
-ergotize
 exitus
 endolysin
 eparchy
@@ -12625,6 +12624,7 @@ equipped
 encincturing
 emeralds
 essancia
+ergotize
 elateroid
 egurgitating
 excussio
