@@ -2490,6 +2490,7 @@ bedark
 brachyoura
 barge
 bergere
+bult
 bargelike
 beet
 bargellos
@@ -5357,7 +5358,6 @@ begnaw
 biharmonic
 borderlines
 balmy
-bult
 ballroom
 begone
 boxlike
