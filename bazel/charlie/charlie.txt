@@ -8586,7 +8586,6 @@ calenturing
 cablish
 cymaphen
 catanadromous
-circumadjacent
 chandui
 countercross
 chandul
@@ -22953,6 +22952,7 @@ consisently
 cetorhinidae
 consist
 contractured
+circumadjacent
 consistences
 consistency
 catalytic
