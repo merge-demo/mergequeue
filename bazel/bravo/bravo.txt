@@ -3684,7 +3684,6 @@ belfather
 batteaux
 bonnering
 bakatan
-batteling
 battement
 balladising
 batteners
@@ -13101,6 +13100,7 @@ beryls
 bobbling
 bassarisk
 basifixed
+batteling
 backfurrow
 baalath
 bodyguard
