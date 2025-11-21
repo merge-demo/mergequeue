@@ -4394,6 +4394,7 @@ funt
 floorshifts
 flagged
 forbearances
+frenums
 fishbowls
 flexive
 forky
@@ -7437,7 +7438,6 @@ filosa
 furnacite
 francophone
 freckliest
-frenums
 ferredoxin
 foreguidance
 firecrest
