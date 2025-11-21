@@ -142,7 +142,6 @@ flashforwards
 flagellist
 feedhead
 fibre
-floccipend
 fossiled
 facsimiled
 fracturable
@@ -2950,6 +2949,7 @@ farinha
 furazane
 frustums
 fencing
+floccipend
 farfetch
 fluellite
 flyoff
