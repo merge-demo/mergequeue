@@ -17706,7 +17706,6 @@ campuses
 cashier
 cocoanut
 chasing
-cocoas
 cocoawood
 churchgoing
 cocobola
@@ -23136,6 +23135,7 @@ constellation
 caponatas
 cigarettes
 cyclo
+cocoas
 constellations
 constellatory
 consternate
