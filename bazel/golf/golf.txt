@@ -4839,7 +4839,6 @@ greeted
 geometroidea
 giggish
 glaciology
-glairiness
 glaciomarine
 guideway
 gypaetus
@@ -9081,6 +9080,7 @@ glads
 gappy
 galactidrosis
 giraffa
+glairiness
 garishness
 gherkin
 gentlehood
