@@ -529,6 +529,7 @@ backveld
 beech
 bayok
 blasthole
+bafflingness
 barometrical
 backvelder
 blastodermic
@@ -11037,7 +11038,6 @@ blk
 birri
 bhoosa
 bakwiri
-bafflingness
 bromin
 buckshot
 blo
