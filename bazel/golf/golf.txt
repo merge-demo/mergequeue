@@ -3752,7 +3752,6 @@ greenfinch
 grumpishness
 greycoat
 giants
-grouty
 gratifyingly
 glossology
 gentian
@@ -6366,6 +6365,7 @@ goldspink
 glimmered
 glucosone
 granolithic
+grouty
 geotectology
 gunarchy
 gossaniferous
