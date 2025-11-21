@@ -1205,6 +1205,7 @@ gappier
 genesiacal
 griot
 gradations
+globular
 guestive
 guttate
 garfishes
@@ -5569,7 +5570,6 @@ globous
 georgical
 gadus
 goffle
-globular
 gephyrophobia
 glycerizine
 grandames
