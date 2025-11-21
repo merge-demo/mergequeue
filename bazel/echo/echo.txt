@@ -6442,7 +6442,6 @@ endangerments
 electromyography
 espave
 espousal
-eventlessness
 expandibility
 ensnared
 ensnarer
@@ -9589,6 +9588,7 @@ euphuistically
 esoterist
 evildoers
 expertism
+eventlessness
 exceptionary
 ensearch
 esoterize
