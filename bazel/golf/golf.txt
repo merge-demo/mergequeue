@@ -6046,6 +6046,7 @@ gymnocarpic
 giesel
 gunate
 geyerite
+grungy
 grislier
 glovemen
 glycemia
@@ -9992,7 +9993,6 @@ goodsome
 graveness
 gargled
 gelatinify
-grungy
 galago
 gaslike
 gateau
