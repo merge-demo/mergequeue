@@ -6217,7 +6217,6 @@ factioneer
 fluegelhorn
 foalfoot
 forefence
-fellowed
 fairgrounds
 forlana
 fatlings
@@ -10081,6 +10080,7 @@ fiercly
 footnotes
 fetalism
 flammability
+fellowed
 friskin
 friskiness
 frisking
