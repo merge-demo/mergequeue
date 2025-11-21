@@ -4304,7 +4304,6 @@ blouselike
 bebrush
 bebuttoned
 below
-bowtie
 barkeepers
 bushwood
 bibliotherapeutic
@@ -5255,6 +5254,7 @@ bullyragged
 basophils
 beaky
 bunkmate
+bowtie
 begarlanded
 baldpates
 bewired
