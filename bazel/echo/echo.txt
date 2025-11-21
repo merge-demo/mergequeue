@@ -1082,6 +1082,7 @@ edification
 evaluators
 exfigure
 earock
+equipoised
 evaluates
 envined
 edificatory
@@ -8736,7 +8737,6 @@ emphractic
 enstrengthen
 equivoluminal
 explainers
-equipoised
 enfume
 elementarist
 equoidean
