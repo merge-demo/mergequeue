@@ -1519,7 +1519,6 @@ grote
 genapping
 geratology
 gasman
-gladen
 gillnet
 gasbags
 gasmen
@@ -3619,6 +3618,7 @@ guttatim
 gogos
 ghees
 garaged
+gladen
 guanylic
 granilla
 glottalize
