@@ -2695,6 +2695,7 @@ enduros
 electrotherapy
 electrotheraputic
 emyds
+elaeopten
 electrothermal
 ephippial
 emulsoidal
@@ -5593,7 +5594,6 @@ evaporate
 ectognatha
 equalization
 epidendrum
-elaeopten
 elutions
 enfold
 ethyl

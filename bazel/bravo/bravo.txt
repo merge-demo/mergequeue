@@ -4751,7 +4751,6 @@ bedlams
 bienseance
 bursula
 bedlar
-bibliopegic
 bazoo
 bibliotic
 blackseed
@@ -17859,6 +17858,7 @@ bine
 busbar
 busbars
 barotse
+bibliopegic
 biscanism
 bicultural
 bused
