@@ -5268,7 +5268,6 @@ dissymmetry
 densate
 diogenean
 deerstealer
-deallocation
 dalapon
 densely
 daviely
@@ -17378,6 +17377,7 @@ doigt
 derivability
 delime
 dillydallies
+deallocation
 deviants
 diduced
 dropmeal
