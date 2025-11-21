@@ -4584,6 +4584,7 @@ glim
 gagger
 galloper
 grinter
+gladiole
 guardrail
 garotter
 guttiferales
@@ -6820,7 +6821,6 @@ glossopharyngeus
 gratuitous
 gregarinida
 gonococcocci
-gladiole
 gonopore
 gonocoele
 gerontologist
