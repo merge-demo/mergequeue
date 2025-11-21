@@ -10490,7 +10490,6 @@ demibath
 diphonia
 dismiss
 drowsy
-descriptively
 duumvirs
 deglutitive
 distortion
@@ -16736,6 +16735,7 @@ drypoint
 disadvised
 dewily
 drammocks
+descriptively
 dicey
 desalt
 disauthorize
