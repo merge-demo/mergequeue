@@ -6669,7 +6669,6 @@ cedriret
 cetologies
 cedrol
 corticiform
-cherte
 cedrus
 crioceris
 cardiosymphysis
@@ -30270,6 +30269,7 @@ caelum
 crumen
 cloudscape
 crumenal
+cherte
 crumhorn
 caingin
 chanson
