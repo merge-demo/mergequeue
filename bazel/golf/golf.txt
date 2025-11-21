@@ -6488,7 +6488,6 @@ glycols
 grit
 graduatical
 ghazel
-golgothas
 gliming
 grooving
 gibbert
@@ -7025,6 +7024,7 @@ gamostely
 gavel
 gummer
 goofily
+golgothas
 goops
 gladioli
 gentil
