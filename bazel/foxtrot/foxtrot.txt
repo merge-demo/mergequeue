@@ -5048,7 +5048,6 @@ forecourse
 fatteners
 flaperon
 flippantly
-flirter
 flappable
 frankalmoin
 flappet
@@ -10749,6 +10748,7 @@ fomentation
 footrope
 fleeing
 flagstaves
+flirter
 fletches
 forgotten
 frustum
