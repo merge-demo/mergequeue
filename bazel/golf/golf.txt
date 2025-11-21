@@ -815,6 +815,7 @@ genets
 glucosane
 ghurry
 gastrocolic
+guetar
 grazeable
 goldenrods
 gyppo
@@ -6123,7 +6124,6 @@ gowiddie
 greit
 greatly
 gnathostomous
-guetar
 gustoes
 gnathostome
 gjetosts
