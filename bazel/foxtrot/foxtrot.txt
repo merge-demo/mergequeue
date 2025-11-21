@@ -4961,7 +4961,6 @@ farmhold
 flamers
 fictionist
 foxing
-flamethrowers
 flamy
 fan
 facepiece
@@ -11208,6 +11207,7 @@ frittata
 farads
 firer
 failles
+flamethrowers
 fieldsman
 fungosities
 funic
