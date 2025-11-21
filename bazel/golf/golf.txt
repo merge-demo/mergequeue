@@ -4810,7 +4810,6 @@ glassware
 gravidly
 gainfulness
 glaciered
-gunless
 gages
 gonged
 gifted
@@ -10227,6 +10226,7 @@ glaucous
 gowpin
 gweduck
 gobbet
+gunless
 guillotinist
 glutaraldehyde
 ginzo
