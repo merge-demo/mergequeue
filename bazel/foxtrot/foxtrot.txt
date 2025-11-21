@@ -2879,6 +2879,7 @@ familistery
 fortuned
 fameflower
 fettered
+frowstiness
 foozle
 flouter
 flatlets
@@ -3614,7 +3615,6 @@ frosting
 fili
 foreact
 forzato
-frowstiness
 filially
 filiating
 fragmentised
