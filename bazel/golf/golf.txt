@@ -2231,6 +2231,7 @@ ganefs
 gnomonology
 generosities
 galactohemia
+gleit
 glossopathy
 grounders
 globetrotting
@@ -3585,7 +3586,6 @@ granulitization
 galvanic
 gyrocar
 greg
-gleit
 gatewaymen
 gustus
 gyrochrome
