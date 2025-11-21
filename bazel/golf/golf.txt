@@ -3051,6 +3051,7 @@ glyptotheca
 gametogenous
 garnetz
 gossipper
+giant
 gnash
 glaciologists
 grands
@@ -3731,7 +3732,6 @@ guayacan
 graduations
 gurdy
 ghuz
-giant
 glabellae
 griffons
 gasterothecal
