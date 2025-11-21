@@ -5296,7 +5296,6 @@ genialize
 guardsmen
 gossoons
 glyoxilin
-gnathostomous
 glacialism
 giving
 granitical
@@ -6127,6 +6126,7 @@ gyroma
 gowiddie
 greit
 greatly
+gnathostomous
 guetar
 gustoes
 gnathostome
