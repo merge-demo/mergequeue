@@ -1140,7 +1140,6 @@ flog
 falseheartedness
 fennels
 flexures
-fendered
 flippers
 filberts
 fogeater
@@ -3952,6 +3951,7 @@ fluoresces
 flemish
 fluoranthene
 foresummon
+fendered
 fullest
 foeniculum
 flitted
