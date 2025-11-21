@@ -474,6 +474,7 @@ empasm
 envelopers
 exody
 extended
+etesians
 endoconidium
 extorsion
 ecclesiastics
@@ -7528,7 +7529,6 @@ exstemporaneous
 epauliere
 ectoprocta
 electroforming
-etesians
 exocarp
 experienceable
 epicede
