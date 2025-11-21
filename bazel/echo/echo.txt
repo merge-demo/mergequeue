@@ -8098,7 +8098,6 @@ electrophotomicrography
 epicoelia
 encephalothlipsis
 electrovection
-exothermicity
 embellish
 episarkine
 ethnology
@@ -11948,6 +11947,7 @@ excystment
 encinal
 emirs
 ensilages
+exothermicity
 endurance
 enlist
 epithecate
