@@ -3610,6 +3610,7 @@ floorway
 files
 fiddle
 filesniff
+freijo
 fazing
 foreroom
 floatboard
@@ -8282,7 +8283,6 @@ flump
 forehoof
 frontlets
 forgiving
-freijo
 flintify
 forgoer
 fidges

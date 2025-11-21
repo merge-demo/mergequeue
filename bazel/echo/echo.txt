@@ -9505,6 +9505,7 @@ extremities
 educationese
 earthworm
 enteradenology
+emboldened
 englutting
 eserine
 erwin
@@ -12163,7 +12164,6 @@ endpoint
 exposure
 ellipse
 econometrical
-emboldened
 ethmoturbinate
 excussed
 estranges
