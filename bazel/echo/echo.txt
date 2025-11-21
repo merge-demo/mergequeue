@@ -1297,6 +1297,7 @@ ericophyte
 efface
 equalized
 effacers
+ellipsis
 exhilarated
 exumbrellar
 effect
@@ -2367,7 +2368,6 @@ entendres
 electroplating
 expostulate
 electroplates
-ellipsis
 ecumenical
 emulsifying
 egba
