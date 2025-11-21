@@ -7688,6 +7688,7 @@ esprise
 extruder
 ellipticalness
 epidemically
+exalt
 escurialize
 evidentiary
 erythrine
@@ -11684,7 +11685,6 @@ erythrolysin
 earscrew
 emphatic
 escolar
-exalt
 enfolding
 eventualities
 exaltation
