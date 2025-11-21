@@ -1900,6 +1900,7 @@ bandoleer
 burlesquely
 backhoes
 bandoleers
+barotropic
 bivalent
 birny
 bandolerismo
@@ -2827,7 +2828,6 @@ bulgurs
 behowling
 bravest
 barotraumas
-barotropic
 barouchette
 bioecologic
 barouni
