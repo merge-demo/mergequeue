@@ -4297,7 +4297,6 @@ congregationalize
 carga
 cargadores
 chintziness
-casco
 cargason
 campulitropal
 casebook
@@ -30837,6 +30836,7 @@ cartop
 chordates
 culmed
 cosuretyship
+casco
 causus
 committable
 culmiferous
