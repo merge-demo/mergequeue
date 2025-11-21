@@ -2589,7 +2589,6 @@ crepier
 camphires
 censuses
 cyclotrons
-corneum
 cliffing
 canebrake
 cardioschisis
@@ -25992,6 +25991,7 @@ cantiga
 corvus
 commissars
 cosaque
+corneum
 coppled
 coscet
 coscinomancy
