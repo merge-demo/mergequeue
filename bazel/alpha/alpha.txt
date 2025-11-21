@@ -1572,7 +1572,6 @@ alexandrite
 anthrop
 amatorian
 accouche
-accouchement
 accoucheur
 accoucheuses
 arclength
@@ -10665,6 +10664,7 @@ aminoacetophenetidine
 aminoanthraquinone
 apodictically
 aminoazo
+accouchement
 abusers
 acidophilic
 autodiffusion
