@@ -784,7 +784,6 @@ acurative
 afternote
 argles
 abridging
-abridgments
 anourous
 abris
 abristle
@@ -4319,6 +4318,7 @@ adroitly
 acetmethylanilide
 adrowse
 arecaine
+abridgments
 atabrine
 amortizing
 anterevolutionary
