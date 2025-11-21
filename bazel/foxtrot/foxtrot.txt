@@ -586,7 +586,6 @@ forjudger
 falloff
 flamier
 fdubs
-fibulare
 frequentative
 frappe
 feeblish
@@ -7092,6 +7091,7 @@ fungicide
 foolproof
 foolproofness
 ferret
+fibulare
 frocking
 filipinization
 flagger
