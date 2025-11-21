@@ -5843,7 +5843,6 @@ flustrum
 fulcrums
 flidge
 fitz
-firmans
 farine
 fertilisable
 fowling
@@ -8379,6 +8378,7 @@ frass
 framers
 federalized
 fiddlerfishes
+firmans
 fibrillate
 forlanas
 floppy
