@@ -2262,7 +2262,6 @@ electret
 electrets
 esophagogastrostomy
 exploitive
-exode
 electrically
 extensometer
 enciente
@@ -10053,6 +10052,7 @@ equidense
 ethanolysis
 excretion
 ensepulcher
+exode
 ethnologists
 endoparasitism
 epipolize
