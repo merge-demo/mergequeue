@@ -4737,7 +4737,6 @@ bedub
 bovid
 bibliogenesis
 bedewing
-bedlamize
 bloomeria
 blennorrhinia
 bedlamized
@@ -9228,6 +9227,7 @@ bipedality
 bipeds
 bipeltate
 bipennate
+bedlamize
 brunches
 bevor
 baldrics
