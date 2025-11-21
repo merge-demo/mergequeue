@@ -4097,6 +4097,7 @@ blokes
 beansetter
 beanshooter
 beanstalk
+barbers
 bestiaries
 bearbaiter
 bedmaking
@@ -6622,7 +6623,6 @@ beetlers
 bacharach
 bukh
 bodyplate
-barbers
 beant
 bereaves
 boninesses
