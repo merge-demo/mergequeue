@@ -5732,7 +5732,6 @@ furnage
 fungistatic
 frequentation
 fractuosity
-fustier
 fels
 figureheadless
 fisher
@@ -10587,6 +10586,7 @@ formagen
 fattish
 froggier
 fluorimetry
+fustier
 fragmental
 forks
 furfurals
