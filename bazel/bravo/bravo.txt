@@ -2790,6 +2790,7 @@ baconer
 bowsprits
 bureaus
 barites
+bandurrias
 bolding
 bell
 betulaceous
@@ -12327,7 +12328,6 @@ bombline
 bowdrill
 bombast
 buglers
-bandurrias
 bicker
 bezzi
 beldame
