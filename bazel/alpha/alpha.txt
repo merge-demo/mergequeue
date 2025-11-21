@@ -1162,7 +1162,6 @@ allocrotonic
 allethrin
 ammoniacal
 azimuths
-alchemising
 advancing
 acana
 antilopine
@@ -11364,6 +11363,7 @@ amplexicaul
 amplexicauline
 amphictyonic
 anomiacea
+alchemising
 artels
 anagrammatization
 alupag
