@@ -5053,6 +5053,7 @@ colat
 casanova
 casaques
 casas
+cojudge
 coevolve
 colisepsis
 cerianthus
@@ -18702,7 +18703,6 @@ congreet
 canvasses
 cree
 coiture
-cojudge
 cabot
 cannonade
 conglobation
