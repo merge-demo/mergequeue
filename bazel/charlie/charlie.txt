@@ -9840,7 +9840,6 @@ carvone
 chemiotaxis
 chemiotropic
 chemiotropism
-chemise
 crinet
 chemisette
 chemism
@@ -10065,6 +10064,7 @@ coleochaete
 crestings
 clothesbrush
 chimney
+chemise
 chesoun
 chessboards
 counterfugue
