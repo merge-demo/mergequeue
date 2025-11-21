@@ -8192,6 +8192,7 @@ chairmanship
 congrid
 chairmanships
 checkoff
+conficient
 chairmender
 chairpersons
 chairway
@@ -16991,7 +16992,6 @@ clutchman
 clues
 carders
 cluther
-conficient
 clackdish
 cattier
 conglutinating
