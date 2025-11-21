@@ -1681,6 +1681,7 @@ abloom
 accum
 archsee
 alouettes
+apperceive
 accumbency
 astarte
 accumbent
@@ -15763,7 +15764,6 @@ atremble
 angiolipoma
 arginines
 antievolutionary
-apperceive
 abdominocentesis
 antagonistic
 atonement
