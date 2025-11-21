@@ -5740,7 +5740,6 @@ foredeserved
 farth
 fecket
 fringepod
-farding
 flyspecking
 folate
 fill
@@ -5861,6 +5860,7 @@ furanes
 filanders
 feminology
 funebre
+farding
 fastigia
 fdtype
 fowlers
