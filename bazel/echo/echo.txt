@@ -1084,6 +1084,7 @@ evaluators
 exfigure
 earock
 evaluates
+envined
 edificatory
 epimerize
 elliptic
@@ -12525,7 +12526,6 @@ enzymology
 exculpative
 extoolitic
 enactable
-envined
 esonarthex
 enameler
 electrofusion

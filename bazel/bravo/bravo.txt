@@ -3674,7 +3674,6 @@ bumboatman
 booklover
 balearian
 burnies
-bedboard
 brigantinebrigantines
 basiophthalmite
 baste
@@ -7881,6 +7880,7 @@ bullation
 beauclerc
 bibliologies
 brains
+bedboard
 bismuthite
 brachiation
 baldachinos
