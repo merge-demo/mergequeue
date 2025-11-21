@@ -1818,7 +1818,6 @@ bandaging
 berylloid
 bowlin
 bushranging
-bandaid
 bandala
 buggery
 bandanaed
@@ -14417,6 +14416,7 @@ bemocked
 bisischiadic
 brainpan
 brainpans
+bandaid
 bisley
 blastulas
 blighting
