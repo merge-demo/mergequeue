@@ -183,7 +183,6 @@ baccalaureates
 baccalaureus
 baccara
 baroques
-bristleless
 bipartition
 balneum
 bandido
@@ -9674,6 +9673,7 @@ bladed
 besmiles
 bismerpund
 buoyages
+bristleless
 bipartisanism
 bourette
 bismite
