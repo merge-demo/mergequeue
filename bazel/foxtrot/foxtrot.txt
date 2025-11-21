@@ -4863,7 +4863,6 @@ falsifiers
 foothook
 flues
 fasting
-fermerer
 frabbit
 forearm
 froglet
@@ -5118,6 +5117,7 @@ fict
 furnishment
 flashiest
 flashiness
+fermerer
 famulli
 fragrancies
 forewords
