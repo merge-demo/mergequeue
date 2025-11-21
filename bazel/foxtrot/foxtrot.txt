@@ -4707,7 +4707,6 @@ fizgigs
 figaro
 fairyish
 forsake
-foundries
 fjord
 fancify
 fizziest
@@ -9210,6 +9209,7 @@ fascinatress
 freeborn
 fragmentariness
 fragmentist
+foundries
 faucals
 fidalgo
 forsakes
