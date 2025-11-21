@@ -4086,6 +4086,7 @@ griph
 gastroduodenotomy
 grasshop
 grasped
+glucolipid
 gimel
 gobernadora
 gegenschein
@@ -5866,7 +5867,6 @@ geolatry
 grandesque
 gravimetric
 goliards
-glucolipid
 gallinaceous
 graphometrist
 ganglionary
