@@ -4167,7 +4167,6 @@ gelinotte
 graphemic
 glycoproteid
 gastroarthritis
-galvanoplastic
 goodly
 guaranin
 gemmule
@@ -5843,6 +5842,7 @@ geroderma
 graffito
 glycolaldehyde
 gedact
+galvanoplastic
 grundel
 gadger
 gladify
