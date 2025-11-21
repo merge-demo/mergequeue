@@ -1906,7 +1906,6 @@ gatteridge
 gammaridae
 gaucho
 gerbillus
-goodyship
 gamelote
 germaniums
 groundable
@@ -7351,6 +7350,7 @@ gratify
 gossiped
 glaive
 gossipee
+goodyship
 griffon
 glyoxime
 generalizers
