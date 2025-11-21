@@ -6800,7 +6800,6 @@ demoralizer
 detestably
 diathermic
 desilvers
-devitrification
 demultiplex
 demoniacal
 daeva
@@ -18652,6 +18651,7 @@ darkling
 disubstitution
 discountenanced
 disseisor
+devitrification
 decolorize
 duvetynes
 dux
