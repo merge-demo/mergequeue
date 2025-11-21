@@ -7432,7 +7432,6 @@ caback
 cerambycid
 coruscations
 cerambycidae
-cyclonist
 ceramicite
 catdom
 ceramics
@@ -18889,6 +18888,7 @@ climbs
 coliuria
 colla
 csnet
+cyclonist
 countermoving
 cornulite
 collabent
