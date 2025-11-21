@@ -1071,6 +1071,7 @@ fringillidae
 foraging
 fogas
 faro
+fluoridization
 floriken
 floter
 foredestining
@@ -6411,7 +6412,6 @@ flyboat
 flisky
 fetches
 fitchet
-fluoridization
 flaking
 forescene
 fairm
