@@ -2172,7 +2172,6 @@ gaycat
 gastrotomy
 grainer
 gaze
-gallerygoer
 genteelly
 glout
 geraldine
@@ -9345,6 +9344,7 @@ gyrostat
 gimmick
 gonocoel
 groop
+gallerygoer
 glamorize
 goggliest
 gwen
