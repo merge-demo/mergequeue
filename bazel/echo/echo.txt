@@ -1160,6 +1160,7 @@ edplot
 edrioasteroidea
 epipany
 electrotyped
+expectancies
 edriophthalmatous
 extramental
 educand
@@ -12946,7 +12947,6 @@ epitonion
 empurple
 enchafe
 enhardy
-expectancies
 examines
 erythrol
 expectantly
