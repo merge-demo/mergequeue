@@ -10166,7 +10166,6 @@ flaxen
 farmwife
 forbit
 forepredicament
-femme
 feued
 frizing
 frizzante
@@ -10766,6 +10765,7 @@ foredated
 fouth
 fruticose
 folles
+femme
 forweep
 farreation
 fruticous
