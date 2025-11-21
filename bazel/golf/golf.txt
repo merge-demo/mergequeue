@@ -5918,7 +5918,6 @@ gambirs
 glamourizer
 gluepot
 gimballed
-glitzy
 garrison
 gemitorial
 globuliform
@@ -7488,6 +7487,7 @@ glycolytic
 gortonian
 glaucophanize
 gangs
+glitzy
 glabellous
 gryllus
 gubernaculum
