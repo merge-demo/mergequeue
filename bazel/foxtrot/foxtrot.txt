@@ -2951,6 +2951,7 @@ flyboy
 fingian
 farinha
 furazane
+flumerin
 frustums
 fencing
 floccipend
@@ -7154,7 +7155,6 @@ footfolk
 ficklewise
 fruticulture
 flabel
-flumerin
 fictionised
 fused
 foremind
