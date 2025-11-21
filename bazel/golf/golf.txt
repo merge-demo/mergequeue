@@ -1391,7 +1391,6 @@ gaulin
 gorb
 gastrostegal
 gravitometer
-gibbing
 garnetter
 glyconeogenetic
 guttular
@@ -2877,6 +2876,7 @@ generatrices
 gileadite
 galvvanoscopy
 gummosity
+gibbing
 genuflex
 glyptal
 gemsbucks
