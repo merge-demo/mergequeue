@@ -2450,6 +2450,7 @@ asparagus
 amphisbaenidae
 acme
 acquiring
+articulata
 americana
 adipic
 acnemia
@@ -20702,7 +20703,6 @@ articularly
 axonemes
 articulars
 accessively
-articulata
 articulated
 articulately
 abut
