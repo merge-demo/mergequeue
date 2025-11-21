@@ -917,7 +917,6 @@ geld
 guna
 gelatinate
 gambia
-galerite
 garnishable
 grittiness
 gosport
@@ -9939,6 +9938,7 @@ greening
 gathered
 geoglyphic
 gedd
+galerite
 geogenetic
 ghatwal
 glozer
