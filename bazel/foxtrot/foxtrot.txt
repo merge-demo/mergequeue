@@ -2026,6 +2026,7 @@ fardels
 feetfirst
 fireworky
 fractionizing
+furlongs
 freshens
 farmers
 fieldwards
@@ -11348,7 +11349,6 @@ fluoroid
 ferfel
 fustinella
 forewind
-furlongs
 fraxinus
 firepans
 feuds
