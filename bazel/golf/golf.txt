@@ -4232,7 +4232,6 @@ gobbing
 gastornis
 gynaeconitis
 geysers
-germling
 gaillard
 gynandria
 gladiators
@@ -8725,6 +8724,7 @@ governess
 goustrous
 galeus
 gobbin
+germling
 gaypoo
 gloomingly
 gladless
