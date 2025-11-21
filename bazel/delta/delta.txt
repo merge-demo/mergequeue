@@ -5449,7 +5449,6 @@ denaturiser
 denumerably
 denumerantive
 disestablished
-denunciant
 drumbledore
 disinure
 denunciator
@@ -15505,6 +15504,7 @@ drag
 daymen
 diapery
 disbands
+denunciant
 donator
 detergence
 discodactyl
