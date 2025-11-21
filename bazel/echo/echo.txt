@@ -813,7 +813,6 @@ emmers
 epispadias
 edaphically
 euglenidae
-executor
 earthquave
 ectypal
 ectype
@@ -8585,6 +8584,7 @@ exect
 eutaxic
 equidiurnal
 eelpouts
+executor
 eleutheromania
 equidivision
 epigrammatising
