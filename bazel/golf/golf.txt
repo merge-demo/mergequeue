@@ -3135,7 +3135,6 @@ gelosin
 grassplot
 georgemas
 germanite
-geosynclinal
 gurgles
 georgics
 glycosyl
@@ -5038,6 +5037,7 @@ genesiology
 garavance
 glowed
 gelt
+geosynclinal
 glaum
 gilliflirt
 gamekeepers
