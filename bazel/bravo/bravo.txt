@@ -1811,6 +1811,7 @@ beslime
 bullose
 bialystoker
 bandaged
+boultell
 bandaging
 berylloid
 bowlin
@@ -15611,7 +15612,6 @@ blandishingly
 britishhood
 busser
 britishism
-boultell
 bodenbenderite
 britons
 barley
