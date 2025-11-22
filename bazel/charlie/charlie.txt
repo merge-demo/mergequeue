@@ -11268,7 +11268,6 @@ chloroamide
 chloroamine
 chloroaurate
 chloroaurite
-cirratulus
 chlorobenzene
 centripetency
 chlorocalcite
@@ -23510,6 +23509,7 @@ chace
 contestingly
 contestless
 contests
+cirratulus
 chinquapin
 clodding
 constatations
