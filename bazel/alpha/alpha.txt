@@ -14232,7 +14232,6 @@ askewgee
 antipart
 anterointernal
 anterolateral
-anteromedial
 antiferroelectric
 automorphically
 agiotages
@@ -22096,6 +22095,7 @@ adduce
 asterisk
 antesunrise
 artilleryman
+anteromedial
 amphigamous
 amphipeptone
 aguaji
