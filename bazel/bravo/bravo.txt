@@ -10625,7 +10625,6 @@ branchiosaurus
 bluebutton
 bleachable
 bartramia
-badon
 beworrying
 becloud
 bleacherite
@@ -11847,6 +11846,7 @@ bodykins
 bodilize
 bahuvrihi
 barbedness
+badon
 bellowed
 beento
 braggest
