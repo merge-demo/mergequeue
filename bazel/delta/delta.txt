@@ -6561,7 +6561,6 @@ deraign
 describability
 dobra
 dulciloquy
-diacritic
 degradedness
 dichlorhydrin
 described
@@ -18504,6 +18503,7 @@ durances
 downcast
 divorced
 duraspinalis
+diacritic
 duration
 durations
 durbachite
