@@ -8270,6 +8270,7 @@ draped
 disputableness
 diagonal
 diagonalizable
+depthing
 diagonalization
 diagnosing
 duel
@@ -11935,7 +11936,6 @@ dolerites
 diselenid
 dicetyl
 diplostemonous
-depthing
 doorba
 defeise
 discompose
