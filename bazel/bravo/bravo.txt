@@ -1078,6 +1078,7 @@ bundts
 barbasco
 bayonets
 benefactors
+bifacial
 blksize
 blepharelcosis
 bayong
@@ -8192,7 +8193,6 @@ burls
 besqueeze
 bifaces
 bootlicked
-bifacial
 bifara
 bootleger
 bedress
