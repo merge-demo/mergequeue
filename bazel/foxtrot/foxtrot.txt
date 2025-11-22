@@ -8871,7 +8871,6 @@ fotmal
 folkvang
 forum
 furbelow
-fairkeeper
 flambage
 froghopper
 faulter
@@ -9291,6 +9290,7 @@ figurants
 forcelet
 franchisees
 foulings
+fairkeeper
 fertil
 flagons
 fordull
