@@ -4239,6 +4239,7 @@ astore
 ados
 acromegalia
 alexias
+anthropomorphisation
 arsenotherapy
 alright
 archaic
@@ -10815,7 +10816,6 @@ assized
 aits
 apprised
 anywise
-anthropomorphisation
 affricates
 anack
 ammonate
