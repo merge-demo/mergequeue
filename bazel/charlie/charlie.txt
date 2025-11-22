@@ -3927,6 +3927,7 @@ ceratopsidae
 cicindela
 caraguata
 coadventurer
+corpuscular
 carburetant
 carbureted
 carburetest
@@ -7520,7 +7521,6 @@ chromididae
 coloni
 cercarian
 cilices
-corpuscular
 cercariform
 cerci
 cercidiphyllaceae
