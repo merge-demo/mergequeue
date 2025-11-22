@@ -13558,7 +13558,6 @@ cymballing
 cymbalom
 cimbaloms
 cymbalon
-cubicles
 cymbel
 cymbid
 clochard
@@ -26725,6 +26724,7 @@ cartelization
 counterbattery
 counterbend
 calamitously
+cubicles
 counterblast
 counterborder
 counterbored
