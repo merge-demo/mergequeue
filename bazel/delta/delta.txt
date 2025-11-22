@@ -1203,7 +1203,6 @@ dunts
 dillydallying
 dahabiah
 doormat
-demibrassart
 devilhood
 datana
 discounting
@@ -12363,6 +12362,7 @@ dielectrics
 discharged
 decolorimeter
 differentiates
+demibrassart
 drias
 disharmonising
 deflexion
