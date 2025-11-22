@@ -4955,6 +4955,7 @@ antepartum
 aeromancer
 anthonomus
 aerometer
+aspen
 amygdalus
 amenite
 amphictyonies
@@ -21429,7 +21430,6 @@ aspect
 aspectable
 aspectant
 aspects
-aspen
 acyclically
 aspens
 asper
