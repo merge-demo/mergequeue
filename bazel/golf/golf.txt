@@ -1842,7 +1842,6 @@ gatekeeper
 grizel
 grassy
 glummer
-gesso
 gabbier
 gatekeepers
 glos
@@ -8949,6 +8948,7 @@ getae
 gallicola
 grizzlyman
 greenth
+gesso
 glycogelatin
 germless
 gastrodidymus
