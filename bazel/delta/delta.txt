@@ -8577,6 +8577,7 @@ deflex
 diaphony
 diaphysial
 diaphonic
+divertedly
 denegation
 diaphonies
 diaphoreses
@@ -14441,7 +14442,6 @@ defunctionalization
 disdeify
 depicturing
 daltonian
-divertedly
 diverters
 disillusionized
 defaulter
