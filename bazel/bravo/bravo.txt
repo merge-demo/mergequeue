@@ -5589,6 +5589,7 @@ biotype
 beknow
 blimpishly
 bel
+bemedalled
 behoovingly
 basinasal
 boulanger
@@ -7901,7 +7902,6 @@ bibliophil
 benward
 barff
 bulbomembranous
-bemedalled
 byzantium
 bilipyrrhin
 bibliopolar
