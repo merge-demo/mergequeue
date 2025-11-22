@@ -3069,7 +3069,6 @@ boilerworks
 bullary
 breather
 blastplate
-beholdingness
 bating
 badminton
 barware
@@ -4625,6 +4624,7 @@ bilberry
 bedecked
 bedrid
 bedecking
+beholdingness
 bulletproofed
 broadens
 bedehouse
