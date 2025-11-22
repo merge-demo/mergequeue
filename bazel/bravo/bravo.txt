@@ -2489,6 +2489,7 @@ beechwoods
 burian
 bhut
 bedark
+barocco
 brachyoura
 barge
 bergere
@@ -2593,7 +2594,6 @@ brittlely
 barytophyllite
 blawed
 bridgelike
-barocco
 barkary
 bluestocking
 barkbound
