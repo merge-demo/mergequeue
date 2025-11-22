@@ -1242,7 +1242,6 @@ gatewards
 grannybush
 goodeniaceae
 galavants
-gramy
 gooseliver
 gruffly
 gambler
@@ -9857,6 +9856,7 @@ garrick
 glaniostomi
 guanayes
 groow
+gramy
 galaxy
 guaneide
 gharri
