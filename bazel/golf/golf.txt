@@ -1409,6 +1409,7 @@ gaits
 ganyie
 gallotannin
 gasified
+gausterer
 gearshift
 gcd
 gangplow
@@ -6440,7 +6441,6 @@ goburra
 glucidic
 graduates
 gregorian
-gausterer
 grandeeship
 geneses
 gallivanted
