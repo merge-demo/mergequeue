@@ -6587,7 +6587,6 @@ foam
 flunkeyism
 feltness
 frounce
-fungify
 foamflower
 flammulation
 firework
@@ -7831,6 +7830,7 @@ fulvidness
 foveolets
 furcellate
 fractionisation
+fungify
 favorite
 fligged
 focusing
