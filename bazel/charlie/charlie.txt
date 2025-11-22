@@ -5520,6 +5520,7 @@ coumbite
 cataclysmatist
 cataclysmic
 cataclysmically
+clapperboard
 crowboot
 cpm
 catacombs
@@ -9213,7 +9214,6 @@ chastiment
 chastise
 chastiser
 consulships
-clapperboard
 cheering
 corf
 chastity
