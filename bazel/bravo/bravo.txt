@@ -4953,7 +4953,6 @@ badchan
 bouncing
 bitriseptate
 beehive
-busser
 boatel
 bandy
 beek
@@ -15607,6 +15606,7 @@ britisher
 blijver
 blandishingly
 britishhood
+busser
 britishism
 boultell
 bodenbenderite
