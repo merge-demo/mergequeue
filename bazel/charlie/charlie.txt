@@ -9645,7 +9645,6 @@ castoroides
 coinfer
 cafuso
 cheesebox
-cheeseburger
 cheeseburgers
 cheesecake
 crees
@@ -24463,6 +24462,7 @@ coosuc
 coot
 cootch
 corticin
+cheeseburger
 cootfoot
 crotyl
 cooty
