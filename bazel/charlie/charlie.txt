@@ -11602,7 +11602,6 @@ choleine
 circinal
 colorization
 cholelith
-cholelithiasis
 conchotome
 cholelithic
 cholelithotomy
@@ -14442,6 +14441,7 @@ cirrocumulus
 cirropodous
 cirrose
 chetrums
+cholelithiasis
 capsulociliary
 caseine
 cirrosely
