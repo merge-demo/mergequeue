@@ -8777,7 +8777,6 @@ giantesses
 greensickness
 greenstone
 gimballing
-griffin
 gange
 golems
 greenswarded
@@ -9782,6 +9781,7 @@ ganza
 grunt
 grunter
 gravemaking
+griffin
 galactopyra
 greatheartedly
 gonadectomizing
