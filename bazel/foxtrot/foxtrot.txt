@@ -5397,7 +5397,6 @@ flyswat
 feridji
 fruittime
 forthbringer
-fieldman
 formable
 flecking
 firehouses
@@ -8576,6 +8575,7 @@ forest
 feigner
 fossilize
 fornicatrix
+fieldman
 frameshift
 fullfil
 fissionable
