@@ -2557,6 +2557,7 @@ grue
 generations
 gastrula
 gobangs
+ganch
 generalities
 grig
 grubbies
@@ -4622,7 +4623,6 @@ gluttonism
 gnathobase
 grecianize
 giro
-ganch
 glossae
 gastronomist
 gillhooter
