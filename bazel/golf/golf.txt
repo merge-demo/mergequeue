@@ -2809,7 +2809,6 @@ gormless
 glottalite
 gloiopeltis
 gentiobiose
-gentle
 guardianess
 gait
 gentlemanlikeness
@@ -6262,6 +6261,7 @@ gregariousness
 guttural
 ghostiest
 gconv
+gentle
 gulpin
 gynandrarchic
 galoch
