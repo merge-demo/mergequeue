@@ -3544,6 +3544,7 @@ estriols
 enfoeffment
 exothermic
 exanthematous
+ergographic
 entozoon
 emboweled
 epithecial
@@ -8518,7 +8519,6 @@ echinated
 embezzling
 eastlin
 etherify
-ergographic
 enviable
 entoglossal
 ethicism
