@@ -13516,6 +13516,7 @@ boneyards
 botulisms
 brief
 brodequin
+bijouterie
 briquette
 bouch
 blacksmith
@@ -14018,7 +14019,6 @@ bracer
 backbenchers
 briquet
 bracery
-bijouterie
 blankeel
 belaboured
 belemnoidea

@@ -1858,7 +1858,6 @@ cysticle
 camaxtli
 clabularia
 camball
-chobdar
 cambarus
 cambered
 croc
@@ -4917,6 +4916,7 @@ carte
 carted
 curtalax
 cartel
+chobdar
 chondriosomes
 cesarean
 circumambages
