@@ -11665,7 +11665,6 @@ clerkdoms
 cardiopneumatic
 cholla
 cryogen
-criniger
 chollas
 choller
 chameleonize
@@ -12535,6 +12534,7 @@ cynegetics
 chromotypography
 chromotypographic
 chromotropy
+criniger
 chromotropic
 commonplaceness
 cradleboard
