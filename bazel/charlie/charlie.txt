@@ -2532,7 +2532,6 @@ candlelight
 candlelighter
 chaloth
 confraternities
-choosable
 candlelighting
 cohusband
 carvels
@@ -3607,6 +3606,7 @@ carabinier
 carabiniere
 carabinieri
 cotrespasser
+choosable
 caraboa
 caaba
 cinques
