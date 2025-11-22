@@ -590,7 +590,6 @@ bedrabble
 bacteremic
 bacteriaceae
 bacteriaemia
-bacterioblast
 brobdingnagian
 brooched
 baggyrinkle
@@ -17252,6 +17251,7 @@ bolographically
 bumblers
 bumbles
 bootlaces
+bacterioblast
 bumbling
 bumbo
 begum
