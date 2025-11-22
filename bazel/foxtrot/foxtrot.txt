@@ -4197,6 +4197,7 @@ flickertail
 fishet
 fibrocaseous
 foliating
+foliar
 fanions
 flummadiddle
 federals
@@ -4667,7 +4668,6 @@ faust
 fulani
 faeroe
 fells
-foliar
 ferrotungsten
 fulica
 flewit
