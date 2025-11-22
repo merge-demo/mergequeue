@@ -3518,7 +3518,6 @@ batete
 brabbling
 balotade
 blue
-batfishes
 biri
 batfowl
 batfowled
@@ -4805,6 +4804,7 @@ bedsonia
 bedsore
 bakers
 bemirrorment
+batfishes
 belvederes
 believableness
 baboons
