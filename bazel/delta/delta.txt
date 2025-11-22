@@ -83,7 +83,6 @@ deescalating
 dumb
 deploying
 disqualifiable
-dotty
 depolarizer
 diachylon
 dactylology
@@ -10493,6 +10492,7 @@ diphtheria
 diphtherian
 dogberrydom
 deda
+dotty
 diphtheric
 denticeti
 diphtheritically
