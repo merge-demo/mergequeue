@@ -4784,7 +4784,6 @@ craning
 carpopedal
 cladoniaceous
 couteau
-carpophalangeal
 carpophyte
 covariables
 carpopodite
@@ -12046,6 +12045,7 @@ cymbalo
 cerfoil
 clansman
 casula
+carpophalangeal
 chose
 chophouses
 coursed
