@@ -5655,7 +5655,6 @@ bocher
 busks
 boraciferous
 benjoin
-bylaw
 besped
 beldams
 bacchar
@@ -14376,6 +14375,7 @@ bewared
 brayette
 brailles
 birdcraft
+bylaw
 bursiform
 bonebinder
 braillewriter
