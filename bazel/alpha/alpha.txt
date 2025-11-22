@@ -2242,6 +2242,7 @@ amounts
 anvil
 agraffes
 auride
+armigeri
 antiager
 avatara
 axel
@@ -19847,7 +19848,6 @@ agnoetae
 attributives
 abhenries
 armiger
-armigeri
 aweto
 apothecial
 armigeros
