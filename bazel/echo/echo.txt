@@ -4554,7 +4554,6 @@ emplaned
 embarkation
 encephalotome
 edomite
-extractive
 ethics
 epionynychia
 euphony
@@ -6855,6 +6854,7 @@ epitome
 exterior
 embarque
 enameloma
+extractive
 eleusinion
 entomologies
 entomologised
