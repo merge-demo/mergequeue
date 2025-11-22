@@ -4664,6 +4664,7 @@ filmgoer
 faust
 fulani
 faeroe
+fells
 foliar
 ferrotungsten
 fulica
@@ -7355,7 +7356,6 @@ feudalism
 forby
 famelessly
 foreparent
-fells
 forebodingly
 footplate
 flakiness
