@@ -360,6 +360,7 @@ backfriend
 bottegas
 backgame
 backgammon
+board
 barbarical
 barwares
 breaststroke
@@ -11593,7 +11594,6 @@ boa
 brushite
 budgeted
 bisontine
-board
 boarded
 besmudged
 blastoffs
