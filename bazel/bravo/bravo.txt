@@ -4740,7 +4740,6 @@ butcherliness
 badmash
 bedlams
 bienseance
-bursula
 bedlar
 bazoo
 bibliotic
@@ -5760,6 +5759,7 @@ bufo
 bellbird
 bellboy
 bulbochaete
+bursula
 bood
 biarticular
 bylining
