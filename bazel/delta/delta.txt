@@ -7750,6 +7750,7 @@ dissociation
 diastataxy
 deformative
 devirginate
+diapered
 deils
 disembarrass
 dram
@@ -17250,7 +17251,6 @@ digresser
 dirigo
 dentinasal
 droger
-diapered
 disthrone
 depreciative
 dictyogenous
