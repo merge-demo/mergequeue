@@ -3513,7 +3513,6 @@ clamer
 capsulitis
 capsulizing
 cabman
-capsulogenous
 cataphyllum
 capsulolenticular
 capsulopupillary
@@ -5014,6 +5013,7 @@ carucage
 counterprove
 carucarius
 charivariing
+classlessness
 clipsheets
 carucate
 carum
@@ -11102,6 +11102,7 @@ collembolic
 chytridiose
 chytridiosis
 chytroi
+capsulogenous
 chits
 chittack
 chitted
@@ -11534,6 +11535,7 @@ cooptions
 cordovans
 crossosoma
 catagenesis
+crottle
 chola
 costoxiphoid
 cholaemia
@@ -14664,7 +14666,6 @@ cystostomies
 chamberlet
 catilinarian
 cystotome
-cystotomy
 cystotomies
 castellan
 cystotrachelotomy
@@ -14892,7 +14893,6 @@ corypphaei
 ceased
 cytopyge
 cantaro
-chimalapa
 curemaster
 cytoreticulum
 carpophyl
@@ -17887,7 +17887,6 @@ codline
 calcigerous
 controlled
 codling
-classlessness
 coguardian
 codman
 contingentiam
@@ -17924,6 +17923,7 @@ coeff
 coefficients
 coelacanth
 coelacanthidae
+classicised
 coelacanthous
 coelar
 coelastraceous
@@ -19920,7 +19920,6 @@ commanded
 confervaceae
 commandedness
 coelacanthine
-classicised
 commandeer
 centenarians
 corbeling
@@ -21941,6 +21940,7 @@ cosmogenic
 confident
 confidente
 compressibilities
+crowed
 crossosomataceae
 confidential
 chakras
@@ -22662,6 +22662,7 @@ caseworms
 conocarpus
 conocephalum
 conocuneus
+coenurus
 coderiving
 conodont
 contractiveness
@@ -22817,7 +22818,6 @@ consentient
 cronstedtite
 consenting
 consentingly
-chaldee
 cytoblastematous
 consentive
 cardinalitian
@@ -23970,6 +23970,7 @@ complicitous
 consequences
 clonally
 crenology
+coadjutement
 calisthenic
 cytogenesis
 consubstantial
@@ -27329,6 +27330,7 @@ curacy
 connexionalism
 couranto
 ceint
+chimalapa
 courantoes
 calumniator
 courants
@@ -28787,6 +28789,7 @@ chuckfull
 cines
 crescentlike
 crescentoid
+cystotomy
 crescents
 crescively
 clarinettist
@@ -29344,7 +29347,6 @@ chrysogen
 cryptomonadales
 conchite
 clones
-coadjutement
 coshering
 cryptomonadina
 cryptonema
@@ -30023,7 +30025,6 @@ crotophaga
 crottal
 concentrically
 complaintive
-crottle
 crouch
 crouchant
 chilognathan
@@ -30098,7 +30099,6 @@ crowding
 crowdle
 chromatrope
 cingulated
-crowed
 crower
 crowers
 conductors
@@ -30443,7 +30443,6 @@ cholecystectomies
 csmp
 crimpled
 csp
-csw
 ct
 catharized
 crow
@@ -31123,9 +31122,11 @@ cuniforms
 cunila
 characterizable
 crystalliferous
+chaldee
 chumpy
 counternotice
 cunnilinctus
+csw
 cunnilinguism
 cavalries
 cunninger
@@ -31732,7 +31733,6 @@ custerite
 custodee
 custodian
 custodians
-coenurus
 custodianship
 circuited
 custodier
