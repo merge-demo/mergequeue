@@ -2826,6 +2826,7 @@ dithymol
 duplicative
 defi
 deferred
+dossers
 declarator
 decried
 desistive
@@ -16608,7 +16609,6 @@ darkhearted
 dragonfishes
 didelph
 dragonflies
-dossers
 deprecated
 didelphian
 dragonhood
