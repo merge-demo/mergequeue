@@ -1573,6 +1573,7 @@ facially
 farcetta
 fegary
 fooster
+fylgja
 favored
 feasibilities
 favorer
@@ -11619,7 +11620,6 @@ frolicsomely
 fortissimi
 farci
 fibrous
-fylgja
 fosite
 funestal
 finestiller
