@@ -6074,6 +6074,7 @@ agitations
 allorrhyhmia
 actor
 anorchism
+anisochromatic
 anapaestic
 antirobin
 aviatrix
@@ -13267,7 +13268,6 @@ assailant
 autocoid
 anisocercal
 acetifying
-anisochromatic
 anisocytosis
 aval
 apograph
