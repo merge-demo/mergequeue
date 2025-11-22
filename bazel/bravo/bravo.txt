@@ -4097,7 +4097,6 @@ bobbed
 beansetter
 beanshooter
 beanstalk
-barbers
 bestiaries
 bearbaiter
 bedmaking
@@ -4124,6 +4123,7 @@ bonita
 balminess
 beslimer
 beards
+barbers
 birthroot
 bombazette
 bedrenched
