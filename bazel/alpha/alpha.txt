@@ -2707,7 +2707,6 @@ autotoxicosis
 acrylics
 arietta
 acipenserid
-auriculoid
 arcabucero
 artifacts
 autolithography
@@ -7811,6 +7810,7 @@ adequative
 alchemically
 aflow
 aortosclerosis
+auriculoid
 amarantus
 ale
 adoze
