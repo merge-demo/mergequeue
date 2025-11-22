@@ -3476,7 +3476,6 @@ biennium
 boyla
 batamote
 biosis
-bitterworm
 batarde
 bullaces
 batatas
@@ -11384,6 +11383,7 @@ bandits
 bluebottle
 badinaged
 bouncily
+bitterworm
 babi
 build
 beside
