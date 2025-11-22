@@ -5433,7 +5433,6 @@ castoffs
 coldly
 castoreum
 caftaned
-cookshack
 castorite
 castra
 castrates
@@ -17947,6 +17946,7 @@ clubwood
 circumvolving
 coelentera
 cubicle
+cookshack
 colics
 cattlehide
 coelenterate
