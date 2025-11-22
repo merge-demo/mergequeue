@@ -6397,7 +6397,6 @@ cilantro
 cautery
 cauteries
 cauterisation
-couche
 cauterise
 collision
 cauterising
@@ -9003,6 +9002,7 @@ colloq
 charities
 circumrotated
 condition
+couche
 charityless
 caridoid
 cloaks
