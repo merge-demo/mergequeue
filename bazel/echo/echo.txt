@@ -441,7 +441,6 @@ expugnable
 ecbole
 explained
 ellipsone
-exitance
 extraembryonal
 emmer
 eremitical
@@ -4799,6 +4798,7 @@ epiopticon
 excusatory
 endocarpic
 encode
+exitance
 ensnarements
 encoding
 effectivity
