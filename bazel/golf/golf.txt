@@ -5113,7 +5113,6 @@ goldeneye
 greesagh
 gte
 glathsheimr
-gremials
 ginnel
 gourmander
 glycocholic
@@ -6799,6 +6798,7 @@ goniunia
 groceteria
 goitrogen
 gonoblast
+gremials
 girders
 girded
 gentlemanism
