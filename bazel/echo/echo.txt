@@ -7650,7 +7650,6 @@ euphemious
 extrabold
 electrophoridae
 epicoracoid
-exocrine
 ellachick
 exhumations
 eccentricities
@@ -13110,6 +13109,7 @@ extensionality
 ergology
 euphonizing
 engarrison
+exocrine
 encoded
 electrothermotic
 electrochemically
