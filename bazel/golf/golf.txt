@@ -2742,6 +2742,7 @@ gliadins
 guillotine
 gader
 gunboats
+gearings
 gaedelian
 grooms
 genoise
@@ -6331,7 +6332,6 @@ gobstopper
 goosenecked
 gemots
 gametal
-gearings
 giglio
 genarchaship
 graptoloidea
