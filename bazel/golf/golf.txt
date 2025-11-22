@@ -7581,7 +7581,6 @@ gledge
 gloomful
 gaumy
 gyrus
-generalizer
 gheraoes
 grille
 glycosaemia
@@ -9507,6 +9506,7 @@ gyroscope
 groupwise
 garvey
 glenn
+generalizer
 gloving
 ganoidean
 grouser
