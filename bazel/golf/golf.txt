@@ -6154,6 +6154,7 @@ gallification
 grammar
 generalizing
 gyre
+grommet
 garters
 gadfly
 geelbec
@@ -7157,7 +7158,6 @@ glistering
 geometrise
 guans
 gaffs
-grommet
 glycid
 gauming
 gross
