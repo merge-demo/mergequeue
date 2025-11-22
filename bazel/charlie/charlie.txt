@@ -2706,6 +2706,7 @@ cording
 cubitopalmar
 catostomus
 cankerfret
+compiles
 calcemia
 cankery
 cannoneering
@@ -18815,7 +18816,6 @@ colessor
 colessors
 conventionalization
 compliers
-compiles
 colet
 cobego
 coleur
