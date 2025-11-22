@@ -4960,7 +4960,6 @@ beelzebul
 beennut
 bimedial
 bonework
-bumblings
 blesse
 belgae
 barmier
@@ -14143,6 +14142,7 @@ brachistochrone
 brachistochronous
 brachystomatous
 brachystomous
+bumblings
 bbl
 barre
 backwrap
