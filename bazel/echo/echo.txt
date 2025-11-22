@@ -7206,7 +7206,6 @@ equalizer
 enwove
 entender
 epistasis
-euphonym
 enchesoun
 ensample
 enzootically
@@ -9576,6 +9575,7 @@ expressing
 emigrated
 emptory
 expediente
+euphonym
 excurse
 esculent
 egocentristic
