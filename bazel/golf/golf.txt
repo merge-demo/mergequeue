@@ -337,6 +337,7 @@ gravigrada
 galactolipide
 graveship
 galactometer
+gorling
 gaussian
 grilses
 gleen
@@ -8277,7 +8278,6 @@ graphoscope
 glycoprotein
 grinderies
 gamestress
-gorling
 graphotype
 grapier
 gusseting
