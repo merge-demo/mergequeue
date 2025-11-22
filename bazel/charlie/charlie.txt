@@ -3803,6 +3803,7 @@ calamodendron
 cribbling
 carbohydrase
 cannibalism
+cardioncus
 carbohydrate
 cardiotrophia
 cysticarpic
@@ -4174,7 +4175,6 @@ cardiometer
 cardiometric
 cardiomyomalacia
 cardiomyopathy
-cardioncus
 camshaft
 cardionecrosis
 cannibal
