@@ -5608,7 +5608,6 @@ grithbreach
 grime
 girdlecake
 grossular
-giftlike
 grabman
 groundwall
 goldseed
@@ -9565,6 +9564,7 @@ ganglioform
 gesticularious
 gymnostomata
 galactopoiesis
+giftlike
 geophones
 granted
 gazed
