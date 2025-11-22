@@ -3939,7 +3939,6 @@ garrisons
 gipsy
 gynaecocratic
 geneal
-gastrochaena
 gigawatt
 gutser
 glochchidia
@@ -9873,6 +9872,7 @@ gemmae
 goodliest
 gravy
 growth
+gastrochaena
 gladdens
 gerygone
 garble
