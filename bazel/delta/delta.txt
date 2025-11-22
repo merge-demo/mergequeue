@@ -9757,7 +9757,6 @@ descender
 decolourization
 dilatometer
 dilatometrically
-dilator
 dynamometers
 dcbname
 dilatoriness
@@ -15550,6 +15549,7 @@ dessert
 directness
 duggler
 donkeywork
+dilator
 diascord
 demodulator
 drummers
