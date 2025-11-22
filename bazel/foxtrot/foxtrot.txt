@@ -2950,6 +2950,7 @@ flyoff
 filialness
 facier
 fooleries
+flukiness
 freezed
 foxberries
 fac
@@ -5025,7 +5026,6 @@ flipping
 flatbeds
 flanneling
 fungoidal
-flukiness
 forepaw
 ferries
 fizz
