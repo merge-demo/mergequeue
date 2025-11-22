@@ -4511,7 +4511,6 @@ felinae
 flattop
 forblow
 feebleheartedness
-flap
 foreshank
 festschrift
 flicking
@@ -11456,6 +11455,7 @@ flaffer
 furfurylidene
 furrowy
 facecloth
+flap
 furrowing
 forletting
 furrowlike
