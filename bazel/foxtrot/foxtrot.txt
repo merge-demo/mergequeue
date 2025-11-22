@@ -1001,6 +1001,7 @@ fulmina
 fucuses
 foreplan
 formate
+fixature
 foreorder
 fenester
 flustrating
@@ -11560,7 +11561,6 @@ flytier
 fulgurator
 fulmar
 futhermore
-fixature
 finnickiest
 fusiliers
 forthbringing
