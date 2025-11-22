@@ -40,6 +40,7 @@ flintworker
 furies
 farmscape
 flick
+fervently
 finically
 fabricators
 fabricature
@@ -9253,7 +9254,6 @@ fascinery
 faradomuscular
 frontispieced
 fraktur
-fervently
 fasciolet
 foresentence
 forgeries
