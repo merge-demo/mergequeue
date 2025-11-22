@@ -9,6 +9,7 @@ gunrooms
 gabber
 gabbers
 gobi
+guepard
 grasswork
 gratuities
 gabelles
@@ -328,7 +329,6 @@ garlic
 gastrea
 gynophore
 goujons
-guepard
 galactocele
 gymnopaedic
 guised
