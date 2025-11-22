@@ -5090,7 +5090,6 @@ decolorizer
 delightsome
 dendriform
 dialer
-dendritic
 dendritical
 deal
 derbyshire
@@ -13610,6 +13609,7 @@ dieffenbachia
 dissertate
 discerping
 dreariest
+dendritic
 doodia
 dissertational
 dentinal
