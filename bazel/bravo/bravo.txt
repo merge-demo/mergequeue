@@ -5868,7 +5868,6 @@ briners
 braggingly
 buttstock
 batholith
-bellota
 bidactyle
 bypaths
 beefs
@@ -15938,6 +15937,7 @@ burgh
 bromuret
 bromus
 birdlet
+bellota
 bronchadenitis
 bimetallistic
 banderoling

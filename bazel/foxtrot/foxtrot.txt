@@ -2919,7 +2919,6 @@ floorcloth
 febricide
 fibrose
 fimbricate
-feudalist
 featuring
 feudalists
 fractionising
@@ -10563,6 +10562,7 @@ fliping
 foughty
 foreloper
 favose
+feudalist
 funambulation
 fruchtschiefer
 fructescent
