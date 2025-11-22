@@ -6725,6 +6725,7 @@ brakesmen
 bushtit
 burrowers
 breadboxes
+boredoms
 buhlwork
 bernacle
 bernardina
@@ -9002,7 +9003,6 @@ besmuts
 biometries
 bion
 byon
-boredoms
 brasqued
 bionditional
 bionics
