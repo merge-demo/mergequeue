@@ -10951,6 +10951,7 @@ epipelagic
 ends
 ecbolic
 eupnoea
+electromotive
 extenuatory
 excreting
 ectrodactyly
@@ -14020,7 +14021,6 @@ exordize
 enigmatography
 endothecia
 epitrophic
-electromotive
 exr
 enthrallingly
 enteroclisis
