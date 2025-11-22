@@ -17925,6 +17925,7 @@ coeff
 coefficients
 coelacanth
 coelacanthidae
+classicised
 coelacanthous
 coelar
 coelastraceous
@@ -19921,7 +19922,6 @@ commanded
 confervaceae
 commandedness
 coelacanthine
-classicised
 commandeer
 centenarians
 corbeling
