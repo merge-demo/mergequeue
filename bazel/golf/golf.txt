@@ -3300,7 +3300,6 @@ gorgonian
 grimmia
 gregaritic
 glancer
-gospelmonger
 glycosin
 gelotoscopy
 glent
@@ -6516,6 +6515,7 @@ grazing
 gymnasia
 groundage
 groundably
+gospelmonger
 gallivat
 goniatitoid
 glycogenosis
