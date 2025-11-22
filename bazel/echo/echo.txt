@@ -4703,7 +4703,6 @@ endemics
 electromagnets
 encyclopedic
 ebauche
-encyclopedical
 etherialisation
 erpetology
 exacerbating
@@ -5914,6 +5913,7 @@ euthyroid
 episcopalian
 excessman
 expend
+encyclopedical
 enhaemospore
 epiplastron
 emphases
