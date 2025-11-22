@@ -5161,7 +5161,6 @@ costumery
 caserns
 cases
 caseum
-caseweed
 cordis
 caseworks
 caseworm
@@ -21442,6 +21441,7 @@ concoct
 caravan
 crackable
 concocted
+caseweed
 concocter
 counteraddress
 concoctions
