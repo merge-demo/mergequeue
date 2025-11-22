@@ -6423,7 +6423,6 @@ freshish
 farmed
 facsimileing
 fluorimetric
-foot
 fluorobenzene
 fructifies
 foreship
@@ -8372,6 +8371,7 @@ fruitcakes
 felicitating
 filed
 frass
+foot
 framers
 federalized
 fiddlerfishes
