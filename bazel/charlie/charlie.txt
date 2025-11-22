@@ -13200,6 +13200,7 @@ cyclesmith
 castoridae
 crookbilled
 cannonproof
+caryota
 cyclic
 cyclical
 cyclizing
@@ -15491,7 +15492,6 @@ cowtail
 competitioner
 constrainable
 chirotonsor
-caryota
 clarre
 clarseach
 corrodes
