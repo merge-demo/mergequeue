@@ -3213,7 +3213,6 @@ electioneers
 epaule
 elseways
 extuberance
-endosteomas
 ecliptical
 elsholtzia
 elaiosome
@@ -13576,6 +13575,7 @@ epoxides
 elementally
 excern
 enteroceptor
+endosteomas
 extance
 extemporally
 electropotential
