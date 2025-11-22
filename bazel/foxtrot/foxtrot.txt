@@ -793,7 +793,6 @@ flipe
 flea
 figuration
 floosy
-formalistic
 fustanelle
 fantasticalness
 forcible
@@ -2615,6 +2614,7 @@ filmed
 feral
 fratchy
 farish
+formalistic
 fountainless
 frivol
 filigreed
