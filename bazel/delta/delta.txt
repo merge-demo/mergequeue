@@ -3540,7 +3540,6 @@ deforse
 diplomatic
 dinitrotoluene
 disapproving
-deprivate
 defrayable
 disembarrassment
 dismissable
@@ -4798,6 +4797,7 @@ dishware
 deaconing
 demihag
 dodecatylic
+deprivate
 deair
 disseizor
 deanimalize
