@@ -4790,7 +4790,6 @@ carpopedal
 cladoniaceous
 couteau
 carpophalangeal
-carpophyl
 carpophyte
 covariables
 carpopodite
@@ -14892,6 +14891,7 @@ cantaro
 chimalapa
 curemaster
 cytoreticulum
+carpophyl
 cytosines
 cytospectrophotometry
 cytospora
