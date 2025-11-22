@@ -4116,6 +4116,7 @@ energetistic
 epinicial
 excitant
 exogenous
+enfoulder
 eellike
 eire
 emplectic
@@ -5660,7 +5661,6 @@ epicritic
 enforth
 estrangle
 eigenvalue
-enfoulder
 epithi
 ensnarers
 exhibitorial
