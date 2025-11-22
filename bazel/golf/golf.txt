@@ -211,7 +211,6 @@ gliadines
 gallish
 gaudsman
 goldcup
-gametophore
 glagolitsa
 greys
 gooks
@@ -6738,6 +6737,7 @@ gaveller
 goniodoridae
 gnotobiote
 granitized
+gametophore
 gagging
 grannie
 gripped
