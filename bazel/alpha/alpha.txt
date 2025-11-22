@@ -8968,7 +8968,6 @@ amphilogy
 andy
 arboreally
 allophones
-antimosquito
 allophonically
 alloplast
 appetisse
@@ -16653,6 +16652,7 @@ antichorus
 adiaphorous
 antihumanism
 alioth
+antimosquito
 ammochryse
 anocithesia
 aberrance
