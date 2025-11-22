@@ -3939,7 +3939,6 @@ behelp
 bdellovibrio
 brushbird
 butanes
-bds
 bea
 beautification
 bariums
@@ -10838,6 +10837,7 @@ brancardier
 bonism
 blew
 bodilessness
+bds
 blewits
 blick
 batekes
