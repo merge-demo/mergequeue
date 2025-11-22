@@ -1058,7 +1058,6 @@ fastigiately
 faro
 fluoridization
 floriken
-floter
 foredestining
 furriery
 farolito
@@ -4532,6 +4531,7 @@ fountainhead
 fructify
 famille
 fortread
+floter
 finickiest
 fictive
 fissirostrate
