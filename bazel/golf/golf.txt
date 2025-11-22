@@ -1479,7 +1479,6 @@ gynocardia
 gradualness
 gasboat
 giddiness
-gawp
 gaselier
 golet
 gastrophilus
@@ -4540,6 +4539,7 @@ gills
 graminiform
 gerbille
 gigantomachia
+gawp
 gmelinite
 gingering
 gyrate
