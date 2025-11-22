@@ -8981,6 +8981,7 @@ cerebbella
 chalchihuitl
 conceivability
 cryptal
+countersignature
 compartment
 charism
 counterpointe
@@ -27978,7 +27979,6 @@ craftwork
 craftworker
 crag
 craggan
-countersignature
 craggy
 chromoscopic
 cataphylla
