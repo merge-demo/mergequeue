@@ -2980,6 +2980,7 @@ anchusins
 audience
 alcyon
 adrenolytic
+aegis
 actinoblast
 actinobranch
 aurification
@@ -12027,7 +12028,6 @@ anaerobia
 anaspadias
 albite
 auntship
-aegis
 analogions
 antimachination
 amphitheatrically
