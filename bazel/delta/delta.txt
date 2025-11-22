@@ -4755,6 +4755,7 @@ dawdles
 douar
 dogbody
 depraves
+dsnames
 democratic
 dividedness
 democratisation
@@ -5503,7 +5504,6 @@ deoxidative
 dibbles
 declamation
 deoxidisation
-dsnames
 dissolubility
 deadest
 devoiced
