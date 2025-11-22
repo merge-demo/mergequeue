@@ -4180,7 +4180,6 @@ barracoutas
 beastship
 beat
 benches
-beatae
 beatee
 bleery
 beaters
@@ -14001,6 +14000,7 @@ burmese
 bronstrops
 brabejum
 batonist
+beatae
 beevish
 blendor
 bracae
