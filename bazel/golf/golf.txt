@@ -5247,7 +5247,6 @@ glottiscope
 gibbals
 gourding
 genethlialogy
-gyrfalcons
 goldin
 guardianships
 girouette
@@ -5469,6 +5468,7 @@ gentlest
 garancin
 gilenyie
 granddad
+gyrfalcons
 gonadic
 gandhiism
 gliffy
