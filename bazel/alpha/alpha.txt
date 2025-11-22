@@ -2956,7 +2956,6 @@ acting
 actiniae
 amphiprotic
 appalment
-automatize
 appendages
 ashless
 antiheroism
@@ -8509,6 +8508,7 @@ aphthae
 anabolin
 acheilia
 aerograms
+automatize
 alkin
 antioxygenating
 avarish
