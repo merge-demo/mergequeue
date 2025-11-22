@@ -547,7 +547,6 @@ dovyalis
 deliber
 dao
 damagers
-dumber
 damalic
 dextrorotation
 demobilized
@@ -5135,6 +5134,7 @@ detect
 dendrology
 dola
 daubes
+dumber
 dendrologous
 derivatives
 devorative
