@@ -1035,7 +1035,6 @@ foussa
 fulfill
 farmeress
 fireling
-flerrying
 farmerly
 forrel
 ferash
@@ -5674,6 +5673,7 @@ flancards
 friended
 fuzz
 firking
+flerrying
 fountains
 firebrands
 freeloader
