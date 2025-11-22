@@ -273,7 +273,6 @@ gnomon
 glauconiferous
 groser
 gigavolt
-geomagnetism
 gummata
 galiongee
 gainliness
@@ -8052,6 +8051,7 @@ granitiform
 geomancer
 gastrostomus
 granitite
+geomagnetism
 ghain
 genteelish
 gesning
