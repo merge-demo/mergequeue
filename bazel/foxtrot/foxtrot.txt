@@ -188,6 +188,7 @@ flatfoots
 featherless
 furnarius
 flier
+freckled
 factorable
 flimsies
 forcut
@@ -673,6 +674,7 @@ fresser
 fiancing
 flitwite
 fidgety
+forementioned
 focalised
 fizzier
 fireman
@@ -1014,6 +1016,7 @@ farinas
 foglietto
 fascicles
 filmgoing
+fluxweed
 flexuose
 flatlong
 fumosity
@@ -1248,7 +1251,6 @@ frocked
 futteret
 fama
 favella
-forevouch
 femalize
 fatuate
 fearful
@@ -2165,7 +2167,6 @@ ferrous
 fingerberry
 felony
 foreignership
-fractioned
 friskest
 frontiers
 folkmoot
@@ -3680,7 +3681,6 @@ friskers
 fertilised
 foreglow
 finedrawing
-fluxweed
 fungible
 federalize
 freeboots
@@ -4168,7 +4168,6 @@ figments
 figuredly
 forthrights
 firebox
-flocculation
 farkleberries
 fellowcraft
 floerkea
@@ -4919,6 +4918,7 @@ frequentable
 flambeau
 foamier
 fixate
+flocculation
 fossilist
 finisher
 floreat
@@ -5261,7 +5261,6 @@ fissiped
 figgery
 flavoured
 flavourful
-fieldy
 flavourless
 funned
 flavourous
@@ -5611,6 +5610,7 @@ fourgons
 flight
 frusla
 fortitude
+fractioned
 flighter
 fraik
 fleysome
@@ -7365,7 +7365,6 @@ forby
 famelessly
 foreparent
 forebodingly
-footplate
 flakiness
 fortunous
 feedlots
@@ -7467,6 +7466,7 @@ fossarian
 filer
 factures
 furciferous
+fascisticize
 fordableness
 fathership
 featless
@@ -8335,6 +8335,7 @@ forisfamiliation
 fontlet
 ferrotyping
 firmament
+fieldy
 fatherlike
 flapperish
 fittiest
@@ -9929,7 +9930,6 @@ frig
 fossilated
 fantoms
 fumatorium
-freckled
 fa
 frigage
 frigates
@@ -10413,6 +10413,7 @@ forewarm
 fluorinated
 frontlash
 flatmen
+footplate
 fallowing
 fronter
 frontoauricular
@@ -10771,7 +10772,6 @@ fervent
 fatalism
 feretrum
 fashious
-fascisticize
 finials
 fulgentness
 fanaticize
@@ -10842,6 +10842,7 @@ flamefish
 furoin
 fishpool
 forficate
+forevouch
 flaminian
 fortified
 fumblingly
@@ -11236,7 +11237,6 @@ functional
 fylfot
 fornent
 factable
-forementioned
 fatherkin
 funkiness
 fezzes

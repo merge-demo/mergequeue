@@ -195,6 +195,7 @@ governessdom
 gastronomic
 gaggery
 greenage
+gnomon
 gambone
 gloxinias
 goaler
@@ -415,7 +416,6 @@ gotham
 gelder
 gneu
 gymnogynous
-gymmal
 gabion
 glomeration
 greatened
@@ -1392,6 +1392,7 @@ ganodonta
 glossanthrax
 garnison
 greetingless
+goles
 garniture
 gaulsh
 glycosemia
@@ -2755,6 +2756,7 @@ greenflies
 germanism
 gauger
 guestchamber
+guywire
 gorraf
 gipped
 gallused
@@ -3442,7 +3444,6 @@ gertie
 geggery
 glamourize
 greyware
-gesturist
 geothermic
 girdingly
 guimpes
@@ -4399,7 +4400,6 @@ gowdnook
 grindings
 groundhog
 gink
-goles
 gorgoneia
 grandsonship
 gloss
@@ -4643,6 +4643,7 @@ gyrating
 galvanise
 gorillaship
 goatbush
+gesturist
 gammarid
 gentility
 gunlocks
@@ -5359,7 +5360,6 @@ globuliferous
 gombeenism
 goofer
 gonopod
-gnomon
 generalisation
 gyrencephalate
 goiters
@@ -5465,7 +5465,6 @@ goethite
 gentlest
 garancin
 gilenyie
-granddad
 gyrfalcons
 gonadic
 gandhiism
@@ -6588,6 +6587,7 @@ guazzo
 groyne
 goulan
 ghostwrite
+generalizers
 gingivolabial
 gynandrian
 gelsemin
@@ -7359,7 +7359,6 @@ gossipee
 goodyship
 griffon
 glyoxime
-generalizers
 glomus
 gomarite
 gossypine
@@ -7789,6 +7788,7 @@ greasiest
 graying
 guapena
 grayling
+griffonage
 galivanted
 guessers
 girnal
@@ -8595,6 +8595,7 @@ gametically
 genealogical
 guerdonless
 gestic
+granddad
 gibbeting
 geothermometer
 gaufrettes
@@ -9007,7 +9008,6 @@ glagah
 gargarism
 grantedly
 glovemaking
-griffonage
 gynandry
 girned
 glacis
@@ -10710,7 +10710,6 @@ gismondine
 gastrolytic
 gutnic
 gracioso
-guywire
 gerbera
 germinated
 gushily
@@ -10761,6 +10760,7 @@ glycerins
 giber
 generation
 gutbucket
+gymmal
 gonfalonierate
 ganoin
 gloam

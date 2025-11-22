@@ -5014,6 +5014,7 @@ carucage
 counterprove
 carucarius
 charivariing
+classlessness
 clipsheets
 carucate
 carum
@@ -5615,7 +5616,6 @@ conquinamine
 catalogize
 coleplant
 constabulary
-cataloguing
 clankety
 cataloguist
 catalonian
@@ -5909,6 +5909,7 @@ catfight
 creeled
 catfish
 catfoot
+compoer
 catfooted
 chhatri
 catgut
@@ -6868,6 +6869,7 @@ correllated
 cellulosities
 caphtor
 classicized
+conjugateness
 cypreses
 celom
 cytherean
@@ -11534,6 +11536,7 @@ cooptions
 cordovans
 crossosoma
 catagenesis
+crottle
 chola
 costoxiphoid
 cholaemia
@@ -12669,7 +12672,6 @@ chuckingly
 chuckle
 chucklehead
 calmly
-conjugateness
 chuckleheaded
 cumaceous
 causelessness
@@ -12862,6 +12864,7 @@ chemotaxonomist
 cutling
 cathodic
 chummily
+cataloguing
 chilliwack
 curried
 churchwardenism
@@ -14173,7 +14176,6 @@ circumaviator
 cowlike
 circumaxial
 cobles
-circumaxillary
 cymose
 circumbasal
 circumbendibus
@@ -14664,7 +14666,6 @@ cystostomies
 chamberlet
 catilinarian
 cystotome
-cystotomy
 cystotomies
 castellan
 cystotrachelotomy
@@ -14892,7 +14893,6 @@ corypphaei
 ceased
 cytopyge
 cantaro
-chimalapa
 curemaster
 cytoreticulum
 carpophyl
@@ -15319,6 +15319,7 @@ clangful
 clanging
 clangingly
 corticoefferent
+circumaxillary
 clangorous
 corridored
 cookish
@@ -17887,7 +17888,6 @@ codline
 calcigerous
 controlled
 codling
-classlessness
 coguardian
 codman
 contingentiam
@@ -17924,6 +17924,7 @@ coeff
 coefficients
 coelacanth
 coelacanthidae
+classicised
 coelacanthous
 coelar
 coelastraceous
@@ -19920,7 +19921,6 @@ commanded
 confervaceae
 commandedness
 coelacanthine
-classicised
 commandeer
 centenarians
 corbeling
@@ -20803,7 +20803,6 @@ counterstream
 compoed
 cabiri
 citriculture
-compoer
 compone
 componed
 componency
@@ -21941,6 +21940,7 @@ cosmogenic
 confident
 confidente
 compressibilities
+crowed
 crossosomataceae
 confidential
 chakras
@@ -22662,6 +22662,7 @@ caseworms
 conocarpus
 conocephalum
 conocuneus
+coenurus
 coderiving
 conodont
 contractiveness
@@ -22817,7 +22818,6 @@ consentient
 cronstedtite
 consenting
 consentingly
-chaldee
 cytoblastematous
 consentive
 cardinalitian
@@ -23970,6 +23970,7 @@ complicitous
 consequences
 clonally
 crenology
+coadjutement
 calisthenic
 cytogenesis
 consubstantial
@@ -24159,7 +24160,6 @@ crystallisable
 convictment
 convicts
 crosshatch
-cephalophus
 convinced
 convincement
 castanets
@@ -27329,6 +27329,7 @@ curacy
 connexionalism
 couranto
 ceint
+chimalapa
 courantoes
 calumniator
 courants
@@ -28787,6 +28788,7 @@ chuckfull
 cines
 crescentlike
 crescentoid
+cystotomy
 crescents
 crescively
 clarinettist
@@ -29344,7 +29346,6 @@ chrysogen
 cryptomonadales
 conchite
 clones
-coadjutement
 coshering
 cryptomonadina
 cryptonema
@@ -30023,7 +30024,6 @@ crotophaga
 crottal
 concentrically
 complaintive
-crottle
 crouch
 crouchant
 chilognathan
@@ -30098,7 +30098,6 @@ crowding
 crowdle
 chromatrope
 cingulated
-crowed
 crower
 crowers
 conductors
@@ -30443,7 +30442,6 @@ cholecystectomies
 csmp
 crimpled
 csp
-csw
 ct
 catharized
 crow
@@ -31117,15 +31115,18 @@ cacodylate
 cunicular
 cuniculi
 camelid
+cephalophus
 cuniculus
 crosspatches
 cuniforms
 cunila
 characterizable
 crystalliferous
+chaldee
 chumpy
 counternotice
 cunnilinctus
+csw
 cunnilinguism
 cavalries
 cunninger
@@ -31732,7 +31733,6 @@ custerite
 custodee
 custodian
 custodians
-coenurus
 custodianship
 circuited
 custodier
