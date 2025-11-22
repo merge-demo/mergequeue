@@ -1281,7 +1281,6 @@ een
 extraditable
 ecorche
 eblis
-eucairite
 eleonorite
 eoghanacht
 epinephrin
@@ -4704,7 +4703,6 @@ endemics
 electromagnets
 encyclopedic
 ebauche
-encyclopedical
 etherialisation
 erpetology
 exacerbating
@@ -5915,6 +5913,7 @@ euthyroid
 episcopalian
 excessman
 expend
+encyclopedical
 enhaemospore
 epiplastron
 emphases
@@ -7557,6 +7556,7 @@ eroticomaniac
 epicedia
 encephalopathic
 earnie
+enforcively
 electronics
 eastward
 epicedian
@@ -8335,7 +8335,6 @@ expressibly
 endured
 enchannel
 exercised
-emulating
 eagling
 epitheme
 evangelise
@@ -9243,6 +9242,7 @@ eyestrain
 erotogenesis
 effranchise
 errable
+emulating
 existences
 ejido
 engraftation
@@ -10637,6 +10637,7 @@ epappose
 epinephelidae
 evilproof
 enmoss
+eucairite
 excavate
 endozoa
 eques
@@ -11324,7 +11325,6 @@ ecdysons
 epupillate
 enwrap
 evaporitic
-enforcively
 evapotranspiration
 ecaudata
 esiphonal

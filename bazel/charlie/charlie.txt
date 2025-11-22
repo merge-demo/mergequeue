@@ -3513,7 +3513,6 @@ clamer
 capsulitis
 capsulizing
 cabman
-capsulogenous
 cataphyllum
 capsulolenticular
 capsulopupillary
@@ -11102,6 +11101,7 @@ collembolic
 chytridiose
 chytridiosis
 chytroi
+capsulogenous
 chits
 chittack
 chitted
@@ -11534,6 +11534,7 @@ cooptions
 cordovans
 crossosoma
 catagenesis
+crottle
 chola
 costoxiphoid
 cholaemia
@@ -14664,7 +14665,6 @@ cystostomies
 chamberlet
 catilinarian
 cystotome
-cystotomy
 cystotomies
 castellan
 cystotrachelotomy
@@ -21941,6 +21941,7 @@ cosmogenic
 confident
 confidente
 compressibilities
+crowed
 crossosomataceae
 confidential
 chakras
@@ -22662,6 +22663,7 @@ caseworms
 conocarpus
 conocephalum
 conocuneus
+coenurus
 coderiving
 conodont
 contractiveness
@@ -22817,7 +22819,6 @@ consentient
 cronstedtite
 consenting
 consentingly
-chaldee
 cytoblastematous
 consentive
 cardinalitian
@@ -28787,6 +28788,7 @@ chuckfull
 cines
 crescentlike
 crescentoid
+cystotomy
 crescents
 crescively
 clarinettist
@@ -30023,7 +30025,6 @@ crotophaga
 crottal
 concentrically
 complaintive
-crottle
 crouch
 crouchant
 chilognathan
@@ -30098,7 +30099,6 @@ crowding
 crowdle
 chromatrope
 cingulated
-crowed
 crower
 crowers
 conductors
@@ -30443,7 +30443,6 @@ cholecystectomies
 csmp
 crimpled
 csp
-csw
 ct
 catharized
 crow
@@ -31123,9 +31122,11 @@ cuniforms
 cunila
 characterizable
 crystalliferous
+chaldee
 chumpy
 counternotice
 cunnilinctus
+csw
 cunnilinguism
 cavalries
 cunninger
@@ -31732,7 +31733,6 @@ custerite
 custodee
 custodian
 custodians
-coenurus
 custodianship
 circuited
 custodier
