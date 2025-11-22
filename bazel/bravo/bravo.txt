@@ -534,6 +534,7 @@ barometrical
 backvelder
 blastodermic
 baufrey
+belch
 burnooses
 butyl
 bernard
@@ -8853,7 +8854,6 @@ bioactivities
 bioassaying
 bioastronautics
 belcher
-belch
 biobibliographer
 barleysick
 bioblastic
