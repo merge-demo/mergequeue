@@ -2167,7 +2167,6 @@ campholic
 compilatory
 coleorhiza
 camphols
-camphor
 contemnor
 camphorated
 camphorates
@@ -14368,6 +14367,7 @@ circumvented
 circumventing
 circumvention
 circumventions
+camphor
 circumventor
 conveyorized
 ceriomyces
