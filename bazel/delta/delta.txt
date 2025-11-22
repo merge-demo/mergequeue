@@ -5687,6 +5687,7 @@ depilitant
 deplace
 dermatine
 damayanti
+devests
 dipl
 disrobe
 dentelliere
@@ -16646,7 +16647,6 @@ drayhorse
 dipteraceous
 dialectologic
 drails
-devests
 driech
 derangements
 drainage
