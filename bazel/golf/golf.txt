@@ -3769,7 +3769,6 @@ glycolate
 garrafa
 gapping
 gastroesophagostomy
-glue
 gunong
 grincome
 giantsize
@@ -6239,6 +6238,7 @@ goatsbeard
 guestimate
 gavotting
 galloway
+glue
 glucosidase
 gonne
 greaves
