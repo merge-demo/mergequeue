@@ -5190,7 +5190,6 @@ befriending
 barns
 beadhouse
 bondfolk
-berkeley
 barragan
 bicentricity
 blastodisk
@@ -15525,6 +15524,7 @@ brinksmanship
 batted
 backshish
 beardlike
+berkeley
 bargeload
 brioches
 backspier
