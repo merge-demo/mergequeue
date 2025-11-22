@@ -3054,6 +3054,7 @@ canvas
 chaffinches
 chiasmodon
 croppa
+cantos
 cycadeous
 canvasado
 canvasbacks
@@ -16258,7 +16259,6 @@ clinology
 clinometer
 clinometry
 clinometric
-cantos
 condylura
 canisters
 clinometrical
