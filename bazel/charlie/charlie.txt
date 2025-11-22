@@ -8791,6 +8791,7 @@ chappal
 chappy
 chappies
 cantle
+collop
 chappin
 chartlet
 competes
@@ -19159,7 +19160,6 @@ chemesthesis
 cordless
 cattan
 concrescences
-collop
 collophane
 collophanite
 colloquial
