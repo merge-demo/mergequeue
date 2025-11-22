@@ -2752,6 +2752,7 @@ greenflies
 germanism
 gauger
 guestchamber
+guywire
 gorraf
 gipped
 gallused
@@ -10710,7 +10711,6 @@ gismondine
 gastrolytic
 gutnic
 gracioso
-guywire
 gerbera
 germinated
 gushily
