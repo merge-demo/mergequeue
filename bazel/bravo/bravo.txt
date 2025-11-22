@@ -991,7 +991,6 @@ bewitch
 bourdon
 bipalium
 blinger
-bignoniaceous
 baycuru
 baidarka
 baidarkas
@@ -7333,6 +7332,7 @@ biangular
 boatels
 babirussa
 bootstrap
+bignoniaceous
 bethink
 boatswain
 bootstrapping
