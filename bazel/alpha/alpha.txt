@@ -3860,7 +3860,6 @@ adipopexis
 apolline
 aleft
 acrook
-abdominoscope
 adiposuria
 andante
 adipsy
@@ -20204,6 +20203,7 @@ ascanius
 atrophies
 acanth
 assaulting
+abdominoscope
 arrhenal
 arrhenatherum
 afterburner
