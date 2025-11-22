@@ -7084,7 +7084,6 @@ connotational
 centesm
 centetid
 centiar
-coryphaenid
 centiares
 copita
 curvidentate
@@ -29754,6 +29753,7 @@ crookedbacked
 cinuran
 commencement
 consignment
+coryphaenid
 conbinas
 centrodorsally
 crookedest
