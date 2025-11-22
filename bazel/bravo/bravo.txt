@@ -1828,7 +1828,6 @@ bancus
 backstabber
 bandelette
 banderma
-banderol
 banderole
 bindings
 brigading
@@ -5403,6 +5402,7 @@ bakshish
 begummed
 biolite
 barbacoa
+banderol
 behallow
 bowldering
 bedin
