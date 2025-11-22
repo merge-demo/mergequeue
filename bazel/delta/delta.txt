@@ -6335,7 +6335,6 @@ delint
 diagonial
 daltonism
 dermis
-dermises
 drawbores
 dendrologist
 diaplasis
@@ -8778,6 +8777,7 @@ doge
 dulses
 diazepams
 diazeutic
+dermises
 dittogram
 diazeuxis
 decagonal
