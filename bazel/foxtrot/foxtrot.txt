@@ -1416,6 +1416,7 @@ fatbacks
 foretimes
 fishway
 fountainlet
+focometry
 fallibly
 firewood
 futchell
@@ -2224,7 +2225,6 @@ foals
 feminineness
 feudee
 freshmanhood
-focometry
 fikie
 fiscus
 firebombs
