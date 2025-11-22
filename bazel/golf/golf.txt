@@ -5589,7 +5589,6 @@ geochemist
 geophysical
 gefilte
 gownlet
-granospherite
 glottogonist
 gervais
 gurges
@@ -10545,6 +10544,7 @@ gunjah
 gaucheries
 genisaro
 glyceraldehyde
+granospherite
 gard
 gunk
 girdering
