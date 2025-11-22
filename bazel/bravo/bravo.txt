@@ -5001,7 +5001,6 @@ babbools
 bibation
 bindweb
 ballonette
-byte
 bilinguist
 boodling
 buda
@@ -17958,6 +17957,7 @@ basemen
 boloroot
 bushlike
 beclamors
+byte
 bookbinding
 byssinosis
 bedot

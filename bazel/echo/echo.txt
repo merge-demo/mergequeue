@@ -9803,6 +9803,7 @@ enamelware
 elenchtical
 exact
 evolvulus
+estrich
 etagre
 expurgator
 eikon
@@ -9934,7 +9935,6 @@ ertebolle
 eschars
 ennew
 ecclesiae
-estrich
 estrif
 estrin
 elk
