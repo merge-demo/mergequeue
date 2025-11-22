@@ -2235,7 +2235,6 @@ dosages
 dispensate
 drongo
 drivescrew
-dreint
 drch
 dartre
 danes
@@ -14573,6 +14572,7 @@ desalinize
 divergenge
 dondine
 divisorial
+dreint
 diesinking
 deuteromyosinose
 dispensing
