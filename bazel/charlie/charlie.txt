@@ -1125,7 +1125,6 @@ calcioscheelite
 calciovolborthite
 calciphylactic
 calciphylaxis
-cabecera
 calciphilia
 centumvirate
 calciphilous
@@ -13938,6 +13937,7 @@ cynorrhoda
 cynorrhodon
 cynosure
 cynosures
+cabecera
 cynosurus
 cynotherapy
 cynoxylon
