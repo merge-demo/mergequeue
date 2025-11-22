@@ -5610,7 +5610,6 @@ flightier
 foster
 facund
 foetor
-firebolt
 fernery
 forepassed
 fireboot
@@ -10977,6 +10976,7 @@ focaloid
 foremilk
 firstborn
 finland
+firebolt
 fleshlier
 furmities
 fumatory
