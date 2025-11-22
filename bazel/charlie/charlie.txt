@@ -9878,6 +9878,7 @@ chemosmoses
 chemosmotic
 consumptible
 calpacks
+caleches
 clays
 calic
 cameograph
@@ -10784,7 +10785,6 @@ conditionals
 chinnier
 chinniest
 chino
-caleches
 clorargyrite
 cohelpership
 ceaseless
