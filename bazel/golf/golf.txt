@@ -9088,6 +9088,7 @@ goadster
 gyres
 gease
 graveyards
+guestwise
 glaucomys
 glumal
 glires
@@ -10486,7 +10487,6 @@ generalising
 granulator
 gogglier
 gule
-guestwise
 gilravage
 gumshoeing
 gumweed
