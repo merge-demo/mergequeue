@@ -2054,6 +2054,7 @@ cruelize
 colonial
 camoudie
 coburgess
+clatsop
 camouflage
 camouflageable
 camouflager
@@ -2757,7 +2758,6 @@ castrametation
 cannelons
 clitorises
 cannelure
-clatsop
 compete
 cannequin
 colts
