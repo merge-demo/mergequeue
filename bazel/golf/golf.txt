@@ -122,6 +122,7 @@ gazogene
 gypsyhood
 girdled
 guerdoned
+gyros
 gangrening
 gadroonage
 gadrooning
@@ -2129,7 +2130,6 @@ gazebo
 gazeboes
 guestship
 genderless
-gyros
 gen
 glumiferous
 galla
