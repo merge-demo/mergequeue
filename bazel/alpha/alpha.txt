@@ -5461,7 +5461,6 @@ aerobiological
 afrormosia
 aft
 afteract
-afterstorm
 appetitive
 afterlife
 alepine
@@ -23336,6 +23335,7 @@ aquatinta
 aryballoid
 aggry
 aubain
+afterstorm
 aubergiste
 aurelian
 aubrieta
