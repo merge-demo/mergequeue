@@ -8988,6 +8988,7 @@ bedstands
 bioluminescence
 bewhite
 brender
+bremsstrahlung
 bacterioagglutinin
 biomathematics
 bets
@@ -15074,7 +15075,6 @@ butterflies
 blindism
 baldricks
 bankruptship
-bremsstrahlung
 brushmaker
 bodiment
 bastarda
