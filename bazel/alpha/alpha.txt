@@ -5002,7 +5002,6 @@ abnormalist
 affiliations
 awaft
 accentuable
-agister
 avigate
 abv
 aerophysics
@@ -24288,6 +24287,7 @@ astrophysical
 autophagous
 autophyte
 autophytic
+agister
 albespyne
 acquist
 aluminographic
