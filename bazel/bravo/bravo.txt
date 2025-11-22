@@ -6763,6 +6763,7 @@ barracudina
 bufonid
 bushiest
 berry
+buchnerite
 binturong
 banshee
 bitte
@@ -16654,7 +16655,6 @@ buchloe
 bunkoing
 burros
 bloomy
-buchnerite
 balconette
 buchonite
 buck
