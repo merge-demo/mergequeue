@@ -3308,7 +3308,6 @@ amblychromatic
 anomurous
 agawam
 adactylous
-ametabola
 adad
 algesic
 agalawood
@@ -24487,6 +24486,7 @@ arthropody
 arithmogram
 als
 antrin
+ametabola
 autourine
 autovalet
 autovivisection
