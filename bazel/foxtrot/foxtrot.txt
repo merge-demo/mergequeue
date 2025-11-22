@@ -4592,7 +4592,6 @@ fossilify
 fisheye
 fieldstone
 fistuca
-foxchop
 freezing
 freest
 filmist
@@ -10184,6 +10183,7 @@ fleishig
 formalism
 feebly
 farce
+foxchop
 fetologies
 furdel
 ferryage
