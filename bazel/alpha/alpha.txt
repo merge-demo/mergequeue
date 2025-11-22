@@ -963,6 +963,7 @@ anchorites
 abstain
 abstainer
 ameland
+angoras
 abstainers
 abstaining
 abstains
@@ -12912,7 +12913,6 @@ angolese
 arbitral
 assertoric
 ascitb
-angoras
 angouleme
 armored
 arcidae
