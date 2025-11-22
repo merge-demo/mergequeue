@@ -7494,7 +7494,6 @@ estall
 eophytic
 endited
 eastmost
-electrosynthesis
 ethylate
 epibatholithic
 electrodepositor
@@ -11580,6 +11579,7 @@ enchiridion
 explicating
 entablatured
 electroretinogram
+electrosynthesis
 engregge
 eternalising
 expatiate
