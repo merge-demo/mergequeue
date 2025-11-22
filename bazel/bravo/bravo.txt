@@ -4976,6 +4976,7 @@ baculere
 bucconidae
 benweed
 beylik
+bemoaning
 beerhouse
 beerhouses
 breech
@@ -5842,7 +5843,6 @@ bellyful
 bestrews
 boor
 beadier
-bemoaning
 barbermonger
 blacklisted
 boozily
