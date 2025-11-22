@@ -1001,7 +1001,6 @@ gamester
 grimace
 geanticline
 gubernia
-gesneraceae
 grece
 gandertmeeth
 gandharva
@@ -10568,6 +10567,7 @@ guanays
 gunmaking
 gaun
 gerbo
+gesneraceae
 gallivanter
 grasset
 gunmetal
