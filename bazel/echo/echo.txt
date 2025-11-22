@@ -1165,6 +1165,7 @@ edplot
 edrioasteroidea
 epipany
 electrotyped
+epaulette
 expectancies
 edriophthalmatous
 extramental
@@ -12681,7 +12682,6 @@ excrementary
 entame
 echoisms
 epicotyledonary
-epaulette
 exonerate
 exonerating
 ephemerous
