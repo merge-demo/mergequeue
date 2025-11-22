@@ -1175,7 +1175,6 @@ guffin
 gaol
 gulls
 grinners
-goonda
 galliney
 grogs
 graftdom
@@ -9763,6 +9762,7 @@ gymnastic
 gasworks
 gluttonizing
 gradino
+goonda
 gastriloquial
 gelatinous
 gregarine
