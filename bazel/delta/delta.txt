@@ -12236,7 +12236,6 @@ detector
 dampers
 deviators
 dysfunctions
-disfurnish
 deport
 disfurnished
 dangerless
@@ -18511,6 +18510,7 @@ dissimulating
 dustwoman
 diocesans
 decolonisation
+disfurnish
 disownable
 distortional
 demisavage
