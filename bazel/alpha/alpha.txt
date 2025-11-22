@@ -925,7 +925,6 @@ aestuary
 absolves
 absolving
 abstort
-agrestis
 astriction
 atomistics
 absolvitor
@@ -1692,6 +1691,7 @@ accumbent
 accumulating
 anthracomartian
 agony
+agrestis
 artiest
 accumulation
 accumulativ
