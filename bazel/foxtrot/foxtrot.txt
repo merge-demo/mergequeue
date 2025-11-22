@@ -1245,7 +1245,6 @@ frocked
 futteret
 fama
 favella
-forevouch
 femalize
 fatuate
 fearful
@@ -10844,6 +10843,7 @@ flamefish
 furoin
 fishpool
 forficate
+forevouch
 flaminian
 fortified
 fumblingly
