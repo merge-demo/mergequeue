@@ -4621,7 +4621,6 @@ ganch
 glossae
 gastronomist
 gillhooter
-glycose
 germanyl
 gruys
 glost
@@ -9467,6 +9466,7 @@ griffonne
 gabled
 glandulosity
 genitalial
+glycose
 gladiate
 glossy
 ganser
