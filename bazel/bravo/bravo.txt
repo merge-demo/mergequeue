@@ -2572,7 +2572,6 @@ broadwives
 biscuit
 ballons
 balanophoraceous
-baryte
 baritenor
 barberry
 bucerotinae
@@ -5358,6 +5357,7 @@ borderlines
 balmy
 ballroom
 begone
+baryte
 boxlike
 begonia
 begoniales
