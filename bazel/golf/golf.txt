@@ -6362,7 +6362,6 @@ ganoblast
 garnitures
 gustables
 gofer
-gutsiness
 given
 getspace
 goldspink
@@ -6534,6 +6533,7 @@ goldsmithry
 grays
 groveler
 gynecomaniacal
+gutsiness
 graciles
 grand
 ganglioneural
