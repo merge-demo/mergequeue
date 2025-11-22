@@ -3759,7 +3759,6 @@ disprove
 dehkan
 durmasts
 decimate
-defaceable
 dehonestation
 disoccupied
 dehorn
@@ -9674,6 +9673,7 @@ dihydrostreptomycin
 dihydrotachysterol
 dhaks
 dihydroxyacetone
+defaceable
 dihydroxysuccinic
 dulse
 digitise
