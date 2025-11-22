@@ -3227,7 +3227,6 @@ doftberry
 defencive
 dents
 defend
-defendable
 dikast
 dolmenic
 demimondaine
@@ -11236,6 +11235,7 @@ divagating
 disbosom
 disbowel
 developpe
+defendable
 disboweling
 dolomitization
 disbowelled
