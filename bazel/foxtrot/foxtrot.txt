@@ -1876,7 +1876,6 @@ fec
 fight
 fantoddish
 feelingly
-falsehoods
 fecundate
 fianchetti
 flapcake
@@ -4124,6 +4123,7 @@ fusiladed
 fiorite
 flamberg
 foreseen
+falsehoods
 fornenst
 faff
 fontanel
