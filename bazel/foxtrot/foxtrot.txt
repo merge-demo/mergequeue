@@ -5071,7 +5071,6 @@ faky
 flapping
 folders
 fessely
-flumps
 flamelet
 fun
 fuligo
@@ -6191,6 +6190,7 @@ funguslike
 falange
 fog
 flrie
+flumps
 frothier
 fluavile
 flubbed
