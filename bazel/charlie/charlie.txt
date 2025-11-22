@@ -23831,6 +23831,7 @@ civilisedness
 cutins
 contribution
 chenier
+criterium
 cephalob
 conopophaga
 contributional
@@ -31296,7 +31297,6 @@ curbstone
 curbstoner
 curcas
 curch
-criterium
 curculio
 curculionidae
 calvatia
