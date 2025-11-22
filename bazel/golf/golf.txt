@@ -6694,7 +6694,6 @@ gastropancreatic
 gymnoglossa
 genuflected
 goniatites
-garterless
 gainsayer
 guttler
 grint
@@ -7821,6 +7820,7 @@ graisse
 gerately
 gufa
 greenkeeper
+garterless
 glassblowers
 gook
 glead
