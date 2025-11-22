@@ -3381,7 +3381,6 @@ germs
 glaucescence
 griseous
 garment
-gimbri
 gigartinaceae
 gypseous
 gaertnerian
@@ -5973,6 +5972,7 @@ gimmicked
 gurneys
 glutaminic
 galliambus
+gimbri
 gome
 glutelins
 greaten
