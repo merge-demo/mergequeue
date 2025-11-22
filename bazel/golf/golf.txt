@@ -3117,7 +3117,6 @@ grassie
 gumdrops
 gomuti
 gymnocidium
-gastful
 guffaws
 gullage
 gurglet
@@ -4832,6 +4831,7 @@ gynerium
 glacieret
 gouaches
 garookuh
+gastful
 glacierist
 graphemes
 glaciers
