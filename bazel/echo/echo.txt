@@ -6929,6 +6929,7 @@ extravaganzas
 estreats
 exiled
 eudora
+encradle
 enzone
 esau
 entoprocta
@@ -10695,7 +10696,6 @@ ecossaise
 egosyntonic
 etiquet
 endfile
-encradle
 excusable
 eugonic
 eggheaded
