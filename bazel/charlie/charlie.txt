@@ -1563,7 +1563,6 @@ communising
 chemostat
 callisto
 callithrix
-callithump
 collegiant
 corruptibilities
 callithumpian
@@ -14765,6 +14764,7 @@ citizenize
 citizenized
 citizenly
 citizenry
+callithump
 corruptibleness
 cascan
 citizens
