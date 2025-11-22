@@ -817,7 +817,6 @@ bafflers
 baffling
 bafflingly
 bulbus
-bonnyclabber
 bartletts
 bushelbasket
 bonelike
@@ -14582,6 +14581,7 @@ brandling
 bayardly
 bority
 binomy
+bonnyclabber
 boopic
 brandon
 branchful
