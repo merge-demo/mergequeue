@@ -6507,7 +6507,6 @@ blowiness
 bepart
 beacher
 bepimpling
-bepray
 bepraiser
 benzocaine
 bituminizing
@@ -6893,6 +6892,7 @@ beseen
 burglariously
 bajan
 burgundian
+bepray
 bazaar
 bedrugging
 bitumed
