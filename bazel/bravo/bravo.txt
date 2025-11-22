@@ -2029,7 +2029,6 @@ buffoonesque
 bicollaterality
 bankrolled
 bankrolling
-bankrupt
 bosporan
 burl
 bankruptism
@@ -8342,6 +8341,7 @@ brulot
 baryphony
 beveto
 bankside
+bankrupt
 bauhinia
 biserially
 batatilla
