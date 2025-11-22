@@ -2991,6 +2991,7 @@ etymologizing
 eradiation
 eliminate
 enfelon
+etiologies
 embind
 explait
 emony
@@ -6805,7 +6806,6 @@ ecclesioclastic
 entoblastic
 entobronchium
 eelgrass
-etiologies
 ellinge
 entocyemate
 everett
