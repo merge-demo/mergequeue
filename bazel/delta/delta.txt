@@ -9688,7 +9688,6 @@ doorcase
 dipneusti
 dispense
 daphnias
-devilward
 ditting
 dungbred
 diageotropy
@@ -15565,6 +15564,7 @@ donovan
 dons
 deltahedron
 donsie
+devilward
 deflocculent
 donsky
 donum
