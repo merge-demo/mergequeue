@@ -5021,6 +5021,7 @@ foremartyr
 fiddlewood
 filet
 fluctuable
+faceable
 frowsier
 feathers
 faineantise
@@ -10290,7 +10291,6 @@ fingerings
 frazed
 fluormeter
 ferrates
-faceable
 farnesses
 factor
 frenziedness
