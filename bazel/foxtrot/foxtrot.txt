@@ -9432,7 +9432,6 @@ finesses
 faux
 furcae
 falconbill
-felspar
 familial
 fauld
 foeticide
@@ -11162,6 +11161,7 @@ fungia
 fremdness
 flyblowing
 fungian
+felspar
 fungibility
 fadeout
 fideists
