@@ -5588,7 +5588,6 @@ ballistite
 beknotted
 burrio
 brassicaceous
-bacchuslike
 beknottedly
 bathythermogram
 basophile
@@ -17175,6 +17174,7 @@ bulletproof
 bullnose
 beewinged
 bullnoses
+bacchuslike
 bullnut
 bullock
 brachialgia
