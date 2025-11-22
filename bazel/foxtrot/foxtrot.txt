@@ -9836,7 +9836,6 @@ fribbler
 friskle
 foreappointment
 fricace
-fructed
 fricandeaux
 foozlers
 footcloths
@@ -11066,6 +11065,7 @@ filled
 fixups
 functionated
 fogbow
+fructed
 frowner
 frameae
 flaminica
