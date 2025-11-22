@@ -3812,7 +3812,6 @@ greenbark
 grippal
 gaudily
 gouaree
-galactophlebitis
 gaul
 gygis
 gibstaff
@@ -5447,6 +5446,7 @@ glyptodon
 glyptodontoid
 glebae
 ghostwrites
+galactophlebitis
 gracelike
 griphosaurus
 gephyrean
