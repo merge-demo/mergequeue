@@ -4299,7 +4299,6 @@ bembecidae
 bathyscaph
 battledore
 bacterious
-bayish
 bebreech
 bigeminy
 backcourtman
@@ -10797,6 +10796,7 @@ bradford
 bitstalk
 blepharocarcinoma
 balinger
+bayish
 blesmol
 bestripe
 batyphone

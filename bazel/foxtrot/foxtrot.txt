@@ -2954,7 +2954,6 @@ floccipend
 farfetch
 fluellite
 flyoff
-feuilletons
 filialness
 facier
 fooleries
@@ -4125,6 +4124,7 @@ fatalness
 fissipedal
 ferth
 fiendful
+feuilletons
 frameworks
 floridan
 fiorin
