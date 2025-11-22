@@ -1992,7 +1992,6 @@ baniya
 baning
 bandcutter
 bhaiachara
-banisher
 banishing
 banishment
 banyuls
@@ -9873,6 +9872,7 @@ bitter
 besee
 bitterbloom
 bittered
+banisher
 beyerite
 bitterender
 ballooning
