@@ -2769,7 +2769,6 @@ bookies
 bookit
 been
 baroneting
-brewages
 baronetize
 ballistocardiographic
 benzeneazobenzene
@@ -8001,6 +8000,7 @@ bicycler
 bluebooks
 bisiliac
 bickerer
+brewages
 bailsman
 bakehouses
 breathalyse
