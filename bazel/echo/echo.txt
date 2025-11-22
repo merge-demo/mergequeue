@@ -2558,7 +2558,6 @@ endocritic
 eminency
 eatable
 ezra
-electrometallurgist
 emptiable
 electrometer
 exstrophy
@@ -3578,6 +3577,7 @@ epidesmine
 emboscata
 exclusionary
 ectoglia
+electrometallurgist
 embosoming
 euchlaena
 encraal
