@@ -3244,7 +3244,6 @@ epidemic
 erects
 enclitical
 encephalotomy
-elusive
 eyesore
 entrench
 episcleral
@@ -5224,6 +5223,7 @@ eskers
 electromagnetic
 eluviums
 exitus
+elusive
 endolysin
 eparchy
 esterification
