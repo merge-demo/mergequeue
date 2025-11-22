@@ -11669,7 +11669,6 @@ claries
 corruptness
 cholo
 chaver
-cholochrome
 cholocyanine
 cinematographic
 crossroading
@@ -14616,6 +14615,7 @@ cystonectae
 cystoneuralgia
 csi
 customarily
+cholochrome
 campodeiform
 cystophora
 calumet
