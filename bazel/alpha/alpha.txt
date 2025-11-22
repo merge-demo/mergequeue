@@ -2919,7 +2919,6 @@ acrostical
 acrostichoid
 acrostichum
 adoptianism
-afterrider
 acrosticism
 axiomatized
 areawide
@@ -11630,6 +11629,7 @@ americawards
 aright
 anacolutha
 anacoluthic
+afterrider
 anacoluthon
 amanita
 autodialled
