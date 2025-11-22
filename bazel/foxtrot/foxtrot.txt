@@ -4015,6 +4015,7 @@ fishery
 forleft
 fingersmith
 failingly
+ferison
 flushy
 furrow
 fabricated
@@ -9037,7 +9038,6 @@ fix
 fractionalize
 foreparents
 fleetwing
-ferison
 frap
 feruling
 frasco
