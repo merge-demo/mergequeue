@@ -5881,7 +5881,6 @@ cytolymph
 cateringly
 copras
 caterpillar
-caterpillared
 caterpillarlike
 chelerythrin
 caterpillars
@@ -25990,6 +25989,7 @@ cosaque
 corneum
 coppled
 coscet
+caterpillared
 coscinomancy
 chn
 cose
