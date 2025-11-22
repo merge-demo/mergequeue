@@ -5044,6 +5044,7 @@ flappet
 fermions
 figlike
 fishline
+fosses
 foveated
 fezes
 freir
@@ -9863,7 +9864,6 @@ feridgi
 forefelt
 feterita
 fluviomarine
-fosses
 fosh
 fricatrice
 felinophobe
