@@ -3665,7 +3665,6 @@ bangia
 bottomchrome
 bunsen
 books
-benzocaine
 batsmen
 batt
 buisson
@@ -6508,6 +6507,7 @@ beacher
 bepimpling
 bepray
 bepraiser
+benzocaine
 bituminizing
 bombyx
 bepretty
