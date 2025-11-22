@@ -3028,7 +3028,6 @@ aland
 actinomeric
 apotheosise
 amtrac
-aruncus
 amphinucleus
 algin
 actinometrical
@@ -12289,6 +12288,7 @@ anconeus
 ancony
 amblyopsis
 anconoid
+aruncus
 argufiers
 ancora
 ancraophobia
