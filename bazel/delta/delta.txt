@@ -2803,7 +2803,6 @@ duodecahedral
 dint
 drypoints
 dari
-deflectable
 decresc
 desalination
 delphinus
@@ -9285,6 +9284,7 @@ dedd
 dieses
 deforester
 diesters
+deflectable
 dearworth
 dromaeognathae
 diestock
