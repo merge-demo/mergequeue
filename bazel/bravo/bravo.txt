@@ -5992,7 +5992,6 @@ brewis
 bribeability
 bruises
 bitterbark
-beme
 bemean
 biphenyls
 bementite
@@ -6255,6 +6254,7 @@ backspread
 benightedness
 benorth
 benefact
+beme
 bensall
 behaviorist
 barbigerous

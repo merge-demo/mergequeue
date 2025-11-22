@@ -11558,7 +11558,6 @@ couchee
 cholecystectasia
 cholecystectomy
 cingulum
-cholecystectomized
 clammier
 chimachima
 countermeasure
@@ -22452,6 +22451,7 @@ conyza
 chickies
 conj
 conjective
+cholecystectomized
 conjecturably
 condylopoda
 corebel
