@@ -14665,7 +14665,6 @@ cystostomies
 chamberlet
 catilinarian
 cystotome
-cystotomy
 cystotomies
 castellan
 cystotrachelotomy
@@ -28788,6 +28787,7 @@ chuckfull
 cines
 crescentlike
 crescentoid
+cystotomy
 crescents
 crescively
 clarinettist
