@@ -7868,6 +7868,7 @@ extincts
 executioner
 epihyal
 exogonium
+exanthema
 entogastric
 egis
 excitor
@@ -11171,7 +11172,6 @@ electragist
 enviroment
 exonuclease
 endospermic
-exanthema
 evaluated
 ecumenicist
 ethereal
