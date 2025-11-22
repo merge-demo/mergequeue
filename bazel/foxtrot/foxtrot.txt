@@ -2166,7 +2166,6 @@ ferrous
 fingerberry
 felony
 foreignership
-fractioned
 friskest
 frontiers
 folkmoot
@@ -5613,6 +5612,7 @@ fourgons
 flight
 frusla
 fortitude
+fractioned
 flighter
 fraik
 fleysome
