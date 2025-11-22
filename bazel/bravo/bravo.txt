@@ -3110,6 +3110,7 @@ baseburner
 basecourt
 betokener
 boosting
+boneset
 baselevel
 biradiate
 bismarck
@@ -12248,7 +12249,6 @@ biopoesis
 bolshevize
 bilboas
 bolshevized
-boneset
 borocaine
 bemud
 bancal
