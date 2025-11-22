@@ -19250,6 +19250,7 @@ airbuses
 arefact
 areg
 areic
+armchair
 arena
 arenaria
 annam
@@ -19793,7 +19794,6 @@ armatures
 albation
 anarchal
 arcane
-armchair
 ast
 atrail
 arrah
