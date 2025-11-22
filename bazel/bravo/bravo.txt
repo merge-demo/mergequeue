@@ -3761,7 +3761,6 @@ bobflies
 battute
 burratine
 bacterian
-blastomeric
 blephillia
 batwing
 baysmelt
@@ -7199,6 +7198,7 @@ bagginess
 bestiary
 backdating
 byelorussia
+blastomeric
 bur
 bestiarian
 bestiarist
