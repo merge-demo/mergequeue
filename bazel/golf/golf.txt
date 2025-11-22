@@ -515,7 +515,6 @@ graff
 galivants
 geneticism
 gleamiest
-gasterosteid
 glissandos
 gustily
 guruship
@@ -1801,6 +1800,7 @@ gonadial
 genealogizer
 gastroscopist
 gavelled
+gasterosteid
 glossolaly
 gutterblood
 gelatinotype
