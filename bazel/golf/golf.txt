@@ -4988,6 +4988,7 @@ growled
 guilty
 guariba
 glandered
+global
 genially
 gangliest
 gateage
@@ -6646,7 +6647,6 @@ gambusias
 gunnysack
 gondolas
 guidons
-global
 glasseye
 gondoletta
 guffs
