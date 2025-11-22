@@ -11534,6 +11534,7 @@ cooptions
 cordovans
 crossosoma
 catagenesis
+crottle
 chola
 costoxiphoid
 cholaemia
@@ -30023,7 +30024,6 @@ crotophaga
 crottal
 concentrically
 complaintive
-crottle
 crouch
 crouchant
 chilognathan
