@@ -10399,7 +10399,6 @@ chiffoniers
 cooncan
 cementing
 cryptometer
-chiffonnier
 chiffonnieres
 conchinin
 chiffons
@@ -15656,6 +15655,7 @@ circumambulatory
 chastely
 candidature
 clausula
+chiffonnier
 chiasmodontid
 cirrigrade
 clausule
