@@ -4565,7 +4565,6 @@ demilitarizes
 demiliterate
 deflectional
 despotical
-dalmatian
 demilustre
 diaskeuasis
 demiman
@@ -13829,6 +13828,7 @@ distancy
 dissimilar
 diabolarchy
 distancing
+dalmatian
 disjoining
 deceptitious
 daytide
