@@ -8532,6 +8532,7 @@ cardiacea
 chanceless
 cestoda
 chancelloress
+cid
 copybook
 chancellors
 califates
@@ -13396,7 +13397,6 @@ cicuta
 confessionalist
 classifications
 cicutoxin
-cid
 calyptrogen
 cidaris
 cheatrie
