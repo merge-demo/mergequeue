@@ -900,7 +900,6 @@ absoil
 acorn
 absterging
 antient
-amphitron
 absolent
 aliases
 appenzell
@@ -22356,6 +22355,7 @@ astrodiagnosis
 astrodynamic
 androphyll
 afterbodies
+amphitron
 achromatolysis
 africanist
 anthropolitic
