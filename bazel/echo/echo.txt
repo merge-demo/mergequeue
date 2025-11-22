@@ -7145,7 +7145,6 @@ enshadow
 exoner
 episterna
 effectuation
-envoyship
 envolume
 embarment
 enwall
@@ -11034,6 +11033,7 @@ enlevement
 elargement
 equanimous
 eyeletter
+envoyship
 estoc
 encomimia
 exuberating
