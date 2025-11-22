@@ -1281,7 +1281,6 @@ een
 extraditable
 ecorche
 eblis
-eucairite
 eleonorite
 eoghanacht
 epinephrin
@@ -10636,6 +10635,7 @@ epappose
 epinephelidae
 evilproof
 enmoss
+eucairite
 excavate
 endozoa
 eques
