@@ -5604,7 +5604,6 @@ federal
 frontonasal
 flageolet
 fascicled
-formerness
 fourgons
 flight
 frusla
@@ -9207,6 +9206,7 @@ faceplate
 fucus
 fledged
 fumously
+formerness
 firebugs
 fertilising
 fascinatress
