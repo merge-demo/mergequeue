@@ -3127,7 +3127,6 @@ caparisons
 capataz
 capcase
 celotomy
-connexion
 craterid
 cristatella
 cape
@@ -14135,6 +14134,7 @@ clink
 caulerpa
 canioned
 colanders
+connexion
 circularization
 chartology
 conversably
