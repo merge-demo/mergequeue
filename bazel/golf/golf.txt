@@ -1590,7 +1590,6 @@ gauntlet
 gutteral
 gulanganes
 galleria
-gumshoe
 gunlock
 gasterotheca
 gandermooner
@@ -4727,6 +4726,7 @@ guanacos
 gallinula
 gynodioecism
 gymnasiast
+gumshoe
 glucosuria
 grudgingly
 garnisheeing
