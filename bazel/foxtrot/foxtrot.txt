@@ -1014,6 +1014,7 @@ farinas
 foglietto
 fascicles
 filmgoing
+fluxweed
 flexuose
 flatlong
 fumosity
@@ -1248,7 +1249,6 @@ frocked
 futteret
 fama
 favella
-forevouch
 femalize
 fatuate
 fearful
@@ -3680,7 +3680,6 @@ friskers
 fertilised
 foreglow
 finedrawing
-fluxweed
 fungible
 federalize
 freeboots
@@ -10842,6 +10841,7 @@ flamefish
 furoin
 fishpool
 forficate
+forevouch
 flaminian
 fortified
 fumblingly

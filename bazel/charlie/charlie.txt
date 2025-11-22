@@ -5909,6 +5909,7 @@ catfight
 creeled
 catfish
 catfoot
+compoer
 catfooted
 chhatri
 catgut
@@ -14173,7 +14174,6 @@ circumaviator
 cowlike
 circumaxial
 cobles
-circumaxillary
 cymose
 circumbasal
 circumbendibus
@@ -15319,6 +15319,7 @@ clangful
 clanging
 clangingly
 corticoefferent
+circumaxillary
 clangorous
 corridored
 cookish
@@ -20803,7 +20804,6 @@ counterstream
 compoed
 cabiri
 citriculture
-compoer
 compone
 componed
 componency
@@ -24159,7 +24159,6 @@ crystallisable
 convictment
 convicts
 crosshatch
-cephalophus
 convinced
 convincement
 castanets
@@ -31117,6 +31116,7 @@ cacodylate
 cunicular
 cuniculi
 camelid
+cephalophus
 cuniculus
 crosspatches
 cuniforms
