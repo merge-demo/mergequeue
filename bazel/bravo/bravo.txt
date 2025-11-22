@@ -5696,7 +5696,6 @@ belibel
 brimmered
 belie
 balausta
-belied
 bridalty
 blatancy
 branle
@@ -17948,6 +17947,7 @@ belga
 bushwack
 bonewood
 bathybic
+belied
 bostrychid
 baryta
 bushwahs
