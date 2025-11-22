@@ -3122,7 +3122,6 @@ deterrers
 demiseason
 disadvantaging
 defamations
-defamatory
 dowering
 dipygus
 diseaseful
@@ -9709,6 +9708,7 @@ dikaryophytic
 disfiguration
 dikdik
 deliquesces
+defamatory
 doorcase
 dipneusti
 dispense
