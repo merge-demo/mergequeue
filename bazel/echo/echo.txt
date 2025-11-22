@@ -1671,7 +1671,6 @@ eyeish
 eisteddfodic
 eyeballed
 eyeballing
-extincteur
 entrusting
 eyebalm
 estraying
@@ -9814,6 +9813,7 @@ evolving
 estampede
 estang
 ethnographist
+extincteur
 econometrician
 eatables
 entrance
