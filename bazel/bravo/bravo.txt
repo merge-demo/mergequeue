@@ -5527,7 +5527,6 @@ begnawn
 blotted
 beisance
 bouvier
-beja
 broadloom
 bejant
 blintz
@@ -9768,6 +9767,7 @@ brights
 borg
 bewitching
 barleymow
+beja
 bistriate
 bombardment
 beddable
