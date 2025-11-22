@@ -1051,6 +1051,7 @@ babyhouse
 becost
 blousier
 buzzards
+burghal
 bailors
 birdlimed
 borosalicylate
@@ -13235,7 +13236,6 @@ bossage
 bossdom
 boastful
 bructeri
-burghal
 baromacrometer
 brislings
 bankshall
