@@ -2574,6 +2574,7 @@ cordwoods
 codlins
 conners
 candlewicks
+complementative
 candlewright
 candling
 cynically
@@ -20661,7 +20662,6 @@ complementary
 carty
 complementariness
 complementarity
-complementative
 complemented
 carotin
 complementer
