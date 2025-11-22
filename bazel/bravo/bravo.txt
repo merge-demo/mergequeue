@@ -2562,7 +2562,6 @@ baryon
 brio
 baryphonia
 bootie
-baryphonic
 bronzesmith
 banzai
 baris
@@ -18005,6 +18004,7 @@ biking
 bankruptcies
 benevolence
 bacteriophobia
+baryphonic
 businesslikeness
 brutification
 barbotte
