@@ -12478,6 +12478,7 @@ brawniness
 bondstone
 burntness
 bather
+bothrodendron
 bagpiped
 buphthalmos
 bone
@@ -13376,7 +13377,6 @@ bothriocephalus
 brosimum
 becut
 bothrium
-bothrodendron
 bromothymol
 blackcap
 bisulc
