@@ -6254,6 +6254,7 @@ gormandizing
 gregorianizer
 gob
 goban
+greediness
 gadslid
 gobber
 gazettes
@@ -6404,7 +6405,6 @@ gastroduodenoscopy
 gemmules
 gematria
 gymnodiniidae
-greediness
 gongorist
 geostationary
 grieshoch
