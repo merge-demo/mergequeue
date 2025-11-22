@@ -11874,7 +11874,6 @@ anamnestic
 arracacha
 anserinae
 anamniata
-anamorphic
 antimonarchy
 apishly
 amuguis
@@ -17461,6 +17460,7 @@ armaturing
 appallment
 aerodyne
 availability
+anamorphic
 armers
 amplifying
 autobasidia
