@@ -10150,7 +10150,6 @@ blackener
 billette
 blackens
 bakalei
-blacketeer
 blackfeet
 brakeage
 barrelhouses
@@ -11639,6 +11638,7 @@ boathook
 boathouse
 backbends
 boffos
+blacketeer
 baccare
 boation
 bittacle
