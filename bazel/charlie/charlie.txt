@@ -24159,7 +24159,6 @@ crystallisable
 convictment
 convicts
 crosshatch
-cephalophus
 convinced
 convincement
 castanets
@@ -31117,6 +31116,7 @@ cacodylate
 cunicular
 cuniculi
 camelid
+cephalophus
 cuniculus
 crosspatches
 cuniforms
