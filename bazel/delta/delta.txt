@@ -3530,7 +3530,6 @@ deforse
 diplomatic
 dinitrotoluene
 disapproving
-deprivate
 defrayable
 disembarrassment
 dismissable
@@ -11357,6 +11356,7 @@ discontinued
 dowset
 deambulatories
 davens
+deprivate
 discerpible
 discerpibleness
 downfield
