@@ -2761,7 +2761,6 @@ grover
 gekkonidae
 glaister
 girling
-goodyera
 genteelize
 gelating
 gentiana
@@ -5502,6 +5501,7 @@ ganoids
 gimmer
 goods
 gentlemen
+goodyera
 goldilocks
 glisten
 guttering
