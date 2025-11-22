@@ -4555,7 +4555,6 @@ disselboom
 drossiest
 demilitarizes
 demiliterate
-deflectional
 despotical
 demilustre
 diaskeuasis
@@ -17378,6 +17377,7 @@ droppers
 diurnalness
 dropping
 disframe
+deflectional
 declaims
 departmentalisation
 droppings
