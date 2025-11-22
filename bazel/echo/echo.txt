@@ -5207,7 +5207,6 @@ endogenae
 efference
 euchres
 echeloning
-enchanter
 expedition
 endogenous
 enlistment
@@ -6275,6 +6274,7 @@ ecstatica
 enrapt
 eurygaean
 enrapted
+enchanter
 enrapts
 ethynyl
 experimentative
