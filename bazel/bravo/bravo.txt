@@ -4181,6 +4181,7 @@ beat
 benches
 beatee
 bleery
+botling
 beaters
 beatifical
 benchlet
@@ -13396,7 +13397,6 @@ bothway
 burgle
 bunched
 bediapers
-botling
 botocudo
 berried
 brumaire
