@@ -997,6 +997,7 @@ fondlings
 forritsome
 fontanges
 filmsets
+foreshop
 fulmina
 fucuses
 foreplan
@@ -3917,7 +3918,6 @@ fluidextract
 findable
 fruz
 function
-foreshop
 findhorn
 filarees
 fine
