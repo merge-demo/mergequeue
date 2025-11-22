@@ -2288,7 +2288,6 @@ genecologic
 glimpses
 granulocytopoiesis
 geitonogamy
-gekko
 gonostyle
 geomoroi
 grange
@@ -8776,6 +8775,7 @@ giveth
 greenwoods
 gospodar
 geophilus
+gekko
 ghostess
 gulfs
 goalless
