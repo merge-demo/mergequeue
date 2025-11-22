@@ -423,7 +423,6 @@ elfish
 exposits
 ebulliometer
 exacerbation
-ergometer
 ebullioscopic
 ethenic
 epaxially
@@ -12422,6 +12421,7 @@ epistyle
 erythrocytometry
 experient
 eyer
+ergometer
 effude
 epapillate
 elengely
