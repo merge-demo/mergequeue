@@ -5052,7 +5052,6 @@ fatteners
 flaperon
 flippantly
 flappable
-frankalmoin
 flappet
 fermions
 figlike
@@ -5276,6 +5275,7 @@ ferricyanate
 flavours
 fimbriate
 feelinglessly
+frankalmoin
 fibrilation
 flawedness
 flats
