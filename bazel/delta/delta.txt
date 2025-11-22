@@ -18274,7 +18274,6 @@ diseuse
 demonian
 dustcloths
 dunkled
-dig
 discipline
 discalceate
 diacoca
@@ -18560,6 +18559,7 @@ durry
 deny
 dappled
 durrin
+dig
 durrs
 durukuli
 disanimated
