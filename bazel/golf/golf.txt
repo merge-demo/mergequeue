@@ -1338,7 +1338,6 @@ genies
 gieing
 gazaboes
 garroter
-glut
 gary
 groundling
 gristbite
@@ -1979,6 +1978,7 @@ geology
 geranic
 goring
 grubroot
+glut
 gripes
 grudged
 ghastlier
