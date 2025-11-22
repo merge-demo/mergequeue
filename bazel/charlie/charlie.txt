@@ -26305,7 +26305,6 @@ clutter
 censorious
 consultative
 chacoli
-costopleural
 costopneumopexy
 collusiveness
 cicerone
@@ -30699,6 +30698,7 @@ calymene
 cudgelers
 counterwind
 complexometric
+costopleural
 cudgeling
 cudgelling
 cudgels
