@@ -3555,7 +3555,6 @@ extreme
 epigonus
 entrefer
 embolize
-embosk
 eupeptic
 epididymal
 entocone
@@ -10950,6 +10949,7 @@ echiurid
 erythematous
 embrittlement
 echinus
+embosk
 eperva
 euproctis
 endophasia
