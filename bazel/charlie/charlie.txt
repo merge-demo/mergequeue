@@ -21240,7 +21240,6 @@ concertante
 countersank
 chapped
 concertation
-counter
 concertato
 concertatos
 concerted
@@ -28162,6 +28161,7 @@ cameos
 craniotomy
 craniotopography
 craniums
+counter
 crankcases
 cristy
 celebres
