@@ -6070,6 +6070,7 @@ antirobin
 aviatrix
 appay
 askile
+aminopeptidase
 aminocaproic
 airproofed
 apothegmatic
@@ -10679,7 +10680,6 @@ agrement
 aminoketone
 aminomalonic
 analities
-aminopeptidase
 anisodactyl
 aminopherase
 aminopyrine
