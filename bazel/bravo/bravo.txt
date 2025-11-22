@@ -2626,7 +2626,6 @@ begirdle
 barkless
 battening
 bandusia
-barkometer
 bescorch
 batrachite
 beeth
@@ -15366,6 +15365,7 @@ birthstone
 briza
 brigaded
 beblooded
+barkometer
 boxbush
 bapistery
 blondine
