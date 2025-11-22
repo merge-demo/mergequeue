@@ -23772,7 +23772,6 @@ auspice
 authenticated
 asouth
 aerohydroplane
-auspicious
 amorphozoa
 asplenioid
 aposporic
@@ -23797,6 +23796,7 @@ afterguns
 asks
 apposite
 astraeid
+auspicious
 auxetical
 avianization
 achieved
