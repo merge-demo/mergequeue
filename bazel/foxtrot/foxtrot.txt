@@ -4563,6 +4563,7 @@ fisticuff
 fort
 fouldre
 familiarness
+fratricide
 fainaigued
 fisting
 faithfulness
@@ -9445,7 +9446,6 @@ furnaceman
 fulcrate
 flounderingly
 fratricelli
-fratricide
 furculum
 fastwalk
 fidele
