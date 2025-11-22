@@ -1392,6 +1392,7 @@ ganodonta
 glossanthrax
 garnison
 greetingless
+goles
 garniture
 gaulsh
 glycosemia
@@ -4399,7 +4400,6 @@ gowdnook
 grindings
 groundhog
 gink
-goles
 gorgoneia
 grandsonship
 gloss
@@ -6588,6 +6588,7 @@ guazzo
 groyne
 goulan
 ghostwrite
+generalizers
 gingivolabial
 gynandrian
 gelsemin
@@ -7359,7 +7360,6 @@ gossipee
 goodyship
 griffon
 glyoxime
-generalizers
 glomus
 gomarite
 gossypine
