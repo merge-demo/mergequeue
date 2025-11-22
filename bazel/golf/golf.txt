@@ -59,7 +59,6 @@ griller
 gluemaking
 gablewindowed
 gogga
-gabon
 gonidiophore
 galeenies
 garoo
@@ -2372,6 +2371,7 @@ geotectonic
 gravitates
 goggler
 ger
+gabon
 guardants
 glump
 gerrhosaurid
