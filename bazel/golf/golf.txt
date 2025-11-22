@@ -5485,7 +5485,6 @@ guipure
 groundskeep
 glisk
 gapperi
-gastruran
 grangerising
 gemmier
 gluttery
@@ -10258,6 +10257,7 @@ galvanometry
 galvanoplastically
 grownup
 gauzelike
+gastruran
 guanases
 globulitic
 goers
