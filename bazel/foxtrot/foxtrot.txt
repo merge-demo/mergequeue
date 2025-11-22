@@ -591,7 +591,6 @@ fardh
 forerunners
 fivefold
 floorless
-fourfold
 fellon
 foreknows
 forpet
@@ -11286,6 +11285,7 @@ fiscalize
 flurrying
 footwear
 farcing
+fourfold
 folletti
 falun
 fully
