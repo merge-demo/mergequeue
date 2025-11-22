@@ -4569,7 +4569,6 @@ enrol
 ee
 epidiorthosis
 escuela
-epitomise
 enodation
 excoction
 euphemized
@@ -5909,6 +5908,7 @@ explees
 ecarinate
 execrators
 exaggerativeness
+epitomise
 edeitis
 enfief
 enhancing
