@@ -2026,6 +2026,7 @@ endocrinotherapy
 epigaea
 erythrosine
 epitrophy
+encurl
 exophasia
 elytrigerous
 emersion
@@ -8829,7 +8830,6 @@ eremitism
 euploidy
 ecuelling
 epitheloid
-encurl
 enkernel
 ecospecifically
 earshots
