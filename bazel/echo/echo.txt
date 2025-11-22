@@ -2094,7 +2094,6 @@ emu
 endamoebae
 eldfather
 eggberry
-estrange
 ethmoturbinal
 extrovertedness
 extirpateo
@@ -11561,6 +11560,7 @@ evoe
 ensilaging
 exoculating
 erethizon
+estrange
 endites
 evernia
 expressman
