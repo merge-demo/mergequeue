@@ -1461,7 +1461,6 @@ fatuus
 frankly
 fairtime
 fantasie
-flower
 filago
 fireside
 faubourgs
@@ -7735,6 +7734,7 @@ forelook
 fauvist
 facer
 fanfaronade
+flower
 flanes
 firearms
 foremast
