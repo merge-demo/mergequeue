@@ -11382,7 +11382,6 @@ abody
 amps
 assigner
 approximant
-anchorate
 adversive
 admire
 ampul
@@ -14043,6 +14042,7 @@ antechinomys
 agitpropist
 altazimuth
 autopilots
+anchorate
 autocatalytic
 antechoirs
 axostyle
