@@ -745,7 +745,6 @@ endermatic
 effascinate
 exuvium
 ecotype
-ecotypes
 ecotipically
 ecotypically
 ecotonal
@@ -6411,6 +6410,7 @@ enlargers
 expediment
 ensiling
 ensilist
+ecotypes
 exceptions
 ensilver
 ensisternum
