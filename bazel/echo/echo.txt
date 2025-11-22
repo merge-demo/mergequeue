@@ -5655,7 +5655,6 @@ encouraging
 eirene
 epilogation
 enforest
-epacme
 enform
 ergometric
 enfort
@@ -6483,6 +6482,7 @@ endometriosis
 embolismus
 eurypteroidea
 ensoul
+epacme
 ensouled
 ecru
 evolutes
