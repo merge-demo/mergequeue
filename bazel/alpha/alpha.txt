@@ -9013,6 +9013,7 @@ angora
 allotypes
 annotates
 acidified
+antikamnia
 anthroropolith
 angelon
 allineate
@@ -16752,7 +16753,6 @@ accidentals
 amianthiform
 anteaters
 antiorthodox
-antikamnia
 aphanitic
 aphetize
 armours

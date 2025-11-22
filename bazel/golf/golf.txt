@@ -1405,7 +1405,6 @@ gausterer
 gearshift
 gcd
 gangplow
-grundyite
 galvanopsychic
 gipsying
 guilloche
@@ -8733,6 +8732,7 @@ gormandising
 greenery
 globin
 geraniaceous
+grundyite
 gismo
 groundenell
 grubby
