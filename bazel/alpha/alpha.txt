@@ -7152,7 +7152,6 @@ aweigh
 alabamide
 alabamine
 alkalinizes
-acidic
 alabarch
 aidmanmen
 alabaster
@@ -7688,6 +7687,7 @@ alcoholmetric
 acroter
 abaissed
 alcoholometer
+acidic
 apterygial
 averroistic
 actualise
