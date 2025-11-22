@@ -4124,7 +4124,6 @@ bombazette
 bedrenched
 bras
 brachycera
-bordered
 bearfoots
 bearhug
 babirousa
@@ -16494,6 +16493,7 @@ brusquest
 boucherize
 brussel
 bolshevistic
+bordered
 bestrode
 brustle
 bridal
