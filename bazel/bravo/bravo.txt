@@ -1399,7 +1399,6 @@ battable
 balefires
 bewreak
 barmbrack
-balefully
 branned
 baleys
 baleise
@@ -15014,6 +15013,7 @@ barramundis
 bemusedly
 brimfull
 buro
+balefully
 barelegged
 breechcloths
 beetroot
