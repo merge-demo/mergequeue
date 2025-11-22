@@ -4168,7 +4168,6 @@ figments
 figuredly
 forthrights
 firebox
-flocculation
 farkleberries
 fellowcraft
 floerkea
@@ -4919,6 +4918,7 @@ frequentable
 flambeau
 foamier
 fixate
+flocculation
 fossilist
 finisher
 floreat
