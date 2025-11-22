@@ -7852,7 +7852,6 @@ dwelling
 dil
 devour
 dorsad
-devourer
 devourers
 discourseless
 doers
@@ -8612,6 +8611,7 @@ dulcifies
 durative
 demihake
 digressionary
+devourer
 daphnioid
 diapirs
 diaplases
