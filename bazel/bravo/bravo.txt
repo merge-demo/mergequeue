@@ -615,7 +615,6 @@ birdcages
 baraka
 barracked
 brin
-bletherskate
 bisellia
 bemingle
 bacteriolyze
@@ -10471,6 +10470,7 @@ bopyrid
 blaster
 blastid
 blart
+bletherskate
 blasting
 borolanite
 blastings
