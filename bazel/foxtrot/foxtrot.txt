@@ -1441,7 +1441,6 @@ fall
 fiddled
 funis
 fattishness
-fother
 frimitts
 faithless
 freewheel
@@ -1911,6 +1910,7 @@ feta
 fleeceless
 fremescent
 flitched
+fother
 fainly
 filicologist
 flowerlessness
