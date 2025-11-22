@@ -1922,7 +1922,6 @@ bandsawn
 bandsman
 bandstand
 beacon
-boronia
 beseechment
 broadly
 bisection
@@ -11175,6 +11174,7 @@ blindages
 beknot
 bitewings
 breveted
+boronia
 bumelia
 brutalised
 bloodwite
