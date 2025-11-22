@@ -4740,6 +4740,7 @@ betitle
 benitoite
 butcherliness
 badmash
+bangs
 bedlams
 bienseance
 bedlar
@@ -13269,7 +13270,6 @@ burglar
 branchstand
 barman
 bumbarge
-bangs
 bromide
 bullydom
 blitzkriegs
