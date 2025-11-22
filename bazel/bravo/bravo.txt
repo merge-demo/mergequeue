@@ -12748,6 +12748,7 @@ baronry
 begut
 bookseller
 bepreach
+burdalone
 bucorvinae
 becloaked
 bioelectric
@@ -17512,7 +17513,6 @@ blight
 beauseant
 biognosis
 burbot
-burdalone
 bleak
 beata
 bromopicrin
