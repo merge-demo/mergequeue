@@ -3289,7 +3289,6 @@ atomizes
 acutograve
 analogist
 acutonodose
-acanthoma
 aurene
 aminity
 anthropomorphist
@@ -10444,6 +10443,7 @@ auxosubstance
 aegle
 antireactive
 achimenes
+acanthoma
 aponogetonaceous
 amianthus
 arcform
