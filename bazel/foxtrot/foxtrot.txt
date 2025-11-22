@@ -2963,7 +2963,6 @@ freezed
 foxberries
 fac
 flaked
-fulmarus
 furloughs
 fungological
 froths
@@ -5044,6 +5043,7 @@ fizz
 forekeel
 faithbreaker
 faconne
+fulmarus
 flapdock
 fluvialist
 flowered
