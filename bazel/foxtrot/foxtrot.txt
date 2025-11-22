@@ -2419,7 +2419,6 @@ fifie
 ferlying
 foiler
 ferling
-foredooms
 furls
 fortnightly
 fermail
@@ -7513,6 +7512,7 @@ flentes
 fleshbrush
 frivoler
 foreboom
+foredooms
 filterers
 foreburton
 fameless
