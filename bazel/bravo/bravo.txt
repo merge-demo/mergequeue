@@ -17958,6 +17958,7 @@ boloroot
 bushlike
 beclamors
 bookbinding
+byssinosis
 bedot
 bemoult
 bronzelike
@@ -18159,7 +18160,6 @@ byzant
 butyryls
 boldfacedly
 butyrin
-byssinosis
 besonnet
 begets
 bosses
