@@ -1281,7 +1281,6 @@ burgomaster
 bari
 boldoine
 brahmism
-brushet
 boteroll
 beknown
 betorcinol
@@ -8503,6 +8502,7 @@ bilinguar
 balks
 berycine
 bijoux
+brushet
 bebouldered
 braillist
 bronchotomist
