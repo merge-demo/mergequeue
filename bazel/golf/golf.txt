@@ -3954,7 +3954,6 @@ galagos
 gigge
 gallopers
 graphomaniac
-glossopode
 grice
 ganner
 graphis
@@ -7006,6 +7005,7 @@ gyrovague
 griefless
 guldengroschen
 geir
+glossopode
 gallerian
 gunpowdery
 gapes
