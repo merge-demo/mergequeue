@@ -1702,6 +1702,7 @@ ayne
 aerobacteriologist
 acier
 alcyoniform
+allelotropic
 accuracies
 ada
 accursed
@@ -8678,7 +8679,6 @@ almes
 alternationist
 allelomorphic
 allelotropy
-allelotropic
 attendantly
 aldehydase
 allelotropism
