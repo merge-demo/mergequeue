@@ -6926,6 +6926,7 @@ cementin
 catapuce
 carane
 cementite
+cannery
 cementitious
 carinaria
 claudicate
@@ -27230,7 +27231,6 @@ countervote
 correlation
 counterwager
 cervicaprine
-cannery
 chlorhydrate
 catbird
 coetus
