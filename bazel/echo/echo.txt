@@ -741,7 +741,6 @@ ecospecific
 emblematised
 extoled
 effaces
-endermatic
 effascinate
 exuvium
 ecotype
@@ -10741,6 +10740,7 @@ euphonic
 enid
 ephemerae
 enclaret
+endermatic
 endorsee
 extort
 ephemeran
