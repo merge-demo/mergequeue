@@ -3511,7 +3511,6 @@ clamer
 capsulitis
 capsulizing
 cabman
-capsulogenous
 cataphyllum
 capsulolenticular
 capsulopupillary
@@ -11098,6 +11097,7 @@ collembolic
 chytridiose
 chytridiosis
 chytroi
+capsulogenous
 chits
 chittack
 chitted
