@@ -7560,7 +7560,6 @@ bewailers
 bunnell
 belimousined
 blowpit
-bewailing
 beguilingly
 bandolier
 beloam
@@ -14824,6 +14823,7 @@ budges
 backstretch
 buckles
 brazilian
+bewailing
 bunked
 billycock
 baulks
