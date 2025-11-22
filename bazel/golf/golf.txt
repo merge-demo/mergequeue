@@ -4964,7 +4964,6 @@ gynaecol
 gamines
 gladioluses
 girondist
-groundwards
 glamors
 geldable
 granddada
@@ -8912,6 +8911,7 @@ gobang
 grete
 grainage
 ganglier
+groundwards
 giros
 geoducks
 gemming
