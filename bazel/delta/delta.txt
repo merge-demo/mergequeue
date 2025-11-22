@@ -2980,6 +2980,7 @@ diaphanotype
 describers
 decemfid
 deductio
+daemon
 deductions
 dwarfism
 distrainment
@@ -5198,7 +5199,6 @@ doctrinalist
 dartoic
 debone
 dyings
-daemon
 doghole
 decephalization
 deathly
