@@ -17724,6 +17724,7 @@ blastophaga
 bemuzzled
 bott
 bewinged
+beknit
 burnfire
 buckeens
 burnish
@@ -18140,7 +18141,6 @@ blockading
 boisseaux
 bacillite
 balsamize
-beknit
 biffins
 boundly
 boweling
