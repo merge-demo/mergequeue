@@ -3408,7 +3408,6 @@ disassociable
 dyscrasia
 decarboxylase
 decolorisation
-decompensate
 disadorn
 donet
 deflector
@@ -17970,6 +17969,7 @@ deplorers
 depauperation
 danish
 domanial
+decompensate
 deplumate
 dukedoms
 decongestive
