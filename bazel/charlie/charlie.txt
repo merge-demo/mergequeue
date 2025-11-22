@@ -5309,6 +5309,7 @@ cassis
 crampy
 courtling
 cassiterite
+coestablishment
 ccws
 cassius
 cassock
@@ -18178,7 +18179,6 @@ coptis
 coessentiality
 centerless
 coessentially
-coestablishment
 cervulus
 coetaneous
 coeternal
