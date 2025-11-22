@@ -5297,6 +5297,7 @@ glyceria
 grangerite
 genialize
 guardsmen
+gemitores
 gossoons
 glyoxilin
 glacialism
@@ -10506,7 +10507,6 @@ gnome
 graveman
 gonocytes
 genuineness
-gemitores
 grecized
 goggles
 giftling
