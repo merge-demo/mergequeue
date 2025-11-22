@@ -5503,6 +5503,7 @@ fervours
 finnan
 fletchers
 furrower
+furnit
 fisc
 faked
 filionymic
@@ -11468,7 +11469,6 @@ foible
 foreglimpse
 fin
 ferri
-furnit
 foliolose
 freelancing
 fevergum
