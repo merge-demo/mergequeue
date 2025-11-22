@@ -2671,7 +2671,6 @@ electrosurgery
 enventual
 epididymovasostomy
 egotist
-epitimesis
 esophagism
 electrotactic
 eyra
@@ -13511,6 +13510,7 @@ electrocauterization
 entrochus
 elbert
 earcap
+epitimesis
 error
 embowels
 eccles
