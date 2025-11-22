@@ -10951,6 +10951,7 @@ cicatrixes
 chiromantis
 chirometer
 chiromys
+cryostase
 chalcioecus
 chironym
 caecum
@@ -29203,7 +29204,6 @@ criosphinx
 chromatospheric
 criosphinxes
 catrigged
-cryostase
 cryostat
 cryosurgeon
 cryosurgery
