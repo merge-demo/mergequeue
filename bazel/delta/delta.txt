@@ -4152,7 +4152,6 @@ dianthuses
 debye
 deguelin
 deliration
-delire
 documentary
 deadworks
 decimator
@@ -9815,6 +9814,7 @@ dysoxidize
 dogmatiser
 dipsos
 dermatocyst
+delire
 dillesk
 daimones
 denumerable
