@@ -437,7 +437,6 @@ guests
 glucic
 gamosepalous
 gardenable
-genre
 gammexane
 grapefruits
 garrote
@@ -975,6 +974,7 @@ genetically
 gamp
 graysby
 gastrolobium
+genre
 galliferous
 gilgamesh
 grouting
