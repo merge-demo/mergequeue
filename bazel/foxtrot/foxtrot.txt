@@ -2958,7 +2958,6 @@ feveret
 forefending
 forefault
 forworden
-facility
 flicks
 faddists
 fingerparted
@@ -6509,6 +6508,7 @@ flameless
 filmlands
 frills
 falter
+facility
 filagreeing
 forgie
 farweltered
