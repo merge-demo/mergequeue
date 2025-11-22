@@ -5608,6 +5608,7 @@ giftlike
 grabman
 groundwall
 goldseed
+grisping
 guayroto
 glochid
 geranial
@@ -10125,7 +10126,6 @@ gipsyhead
 guffer
 glaziers
 guggle
-grisping
 glottologic
 gaby
 guglet
