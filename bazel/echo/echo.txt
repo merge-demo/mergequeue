@@ -8269,7 +8269,6 @@ escapado
 epitoke
 erratums
 endolaryngeal
-epitactic
 endplay
 epitheliomatous
 epitaphian
@@ -10792,6 +10791,7 @@ emoting
 euskera
 esterases
 eluviation
+epitactic
 encumber
 engrafts
 embracer
