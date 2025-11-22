@@ -14029,7 +14029,6 @@ aetiotropic
 antiparastatitis
 antecedental
 antecedently
-antecedes
 aloedary
 antechamber
 aloetic
@@ -21587,6 +21586,7 @@ anthoclinium
 archprotopope
 aprilesque
 anice
+antecedes
 aspiringly
 anabata
 anakoluthia
