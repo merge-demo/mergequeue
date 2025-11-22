@@ -5119,7 +5119,6 @@ bureaucrat
 beflap
 beflea
 brainier
-bombable
 belching
 borderers
 boussingaultite
@@ -14787,6 +14786,7 @@ bern
 barres
 ballooner
 bradypepsia
+bombable
 burgheress
 baru
 brava
