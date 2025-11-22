@@ -3615,7 +3615,6 @@ anticeremonious
 asthenies
 alces
 anomaloscope
-adenoacanthoma
 adenocarcinomas
 adenochondroma
 antipellagric
@@ -5490,6 +5489,7 @@ aftercareer
 aminoquinoline
 amethystine
 aftercast
+adenoacanthoma
 aftercataract
 aloe
 afterclause
