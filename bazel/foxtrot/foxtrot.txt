@@ -1043,7 +1043,6 @@ farinosel
 foussa
 fulfill
 farmeress
-farmerish
 fireling
 flerrying
 farmerly
@@ -6236,6 +6235,7 @@ flatlet
 fiji
 forerunnership
 factotums
+farmerish
 fouettee
 felloes
 freewheelers
