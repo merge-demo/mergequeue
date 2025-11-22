@@ -2233,6 +2233,7 @@ eulogy
 endocytic
 elecives
 electant
+elect
 epitheliulia
 electary
 engrailing
@@ -4749,7 +4750,6 @@ exponentially
 encysting
 eugenol
 emptiest
-elect
 encysts
 evenest
 eyepieces
