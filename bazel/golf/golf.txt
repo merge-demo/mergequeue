@@ -8645,7 +8645,6 @@ gonocalycine
 gliders
 growthless
 glycohaemia
-granter
 gladys
 gerip
 grapy
@@ -9781,6 +9780,7 @@ galactopyra
 greatheartedly
 gonadectomizing
 gruntles
+granter
 galley
 galvanotropic
 gruntling
