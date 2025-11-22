@@ -8657,6 +8657,7 @@ fields
 fortaxed
 foederati
 fanlike
+freelance
 funariaceous
 flexuous
 fistuliform
@@ -9268,7 +9269,6 @@ frapler
 forename
 footmenfootpad
 fungologist
-freelance
 fumarine
 foldwards
 fogrum
