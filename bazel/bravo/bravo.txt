@@ -460,6 +460,7 @@ brontosauri
 backspaced
 backspacefile
 backspacer
+bundist
 blockades
 bacillogenic
 burree
@@ -2077,7 +2078,6 @@ boilinglike
 bivittate
 banovina
 banquet
-bundist
 blindish
 bardiest
 banqueting
