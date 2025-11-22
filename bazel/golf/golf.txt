@@ -3697,7 +3697,6 @@ gallinae
 gnathite
 goalmouth
 gyrencephalic
-giottesque
 ghostier
 galah
 geodetically
@@ -7066,6 +7065,7 @@ goyle
 gynandrarchy
 gunnage
 guelphic
+giottesque
 glaces
 gestalter
 gourounut
