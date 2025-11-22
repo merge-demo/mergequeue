@@ -5499,6 +5499,7 @@ forbarred
 fratching
 foraged
 fleshy
+ferocious
 fillet
 ferally
 fleshing
@@ -7346,7 +7347,6 @@ france
 farset
 foraneen
 ferrateen
-ferocious
 fluoridising
 formaldehydesulphoxylic
 fairyfloss
