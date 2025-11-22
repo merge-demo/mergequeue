@@ -6398,7 +6398,6 @@ behedge
 benzophenothiazine
 benzophloroglucinol
 betting
-baculi
 benedight
 bewake
 benzophthalazine
@@ -14174,6 +14173,7 @@ bobbiner
 baronesses
 brinier
 bracky
+baculi
 bracking
 brockle
 brackish
