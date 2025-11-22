@@ -183,7 +183,6 @@ baccalaureus
 baccara
 baroques
 bipartition
-balneum
 bandido
 byes
 bitt
@@ -12179,6 +12178,7 @@ barbitos
 biclinium
 blaff
 beaumontia
+balneum
 beeps
 blaine
 beclasped
