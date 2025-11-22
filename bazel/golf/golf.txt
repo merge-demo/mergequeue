@@ -2242,7 +2242,6 @@ genette
 gekkonid
 gristle
 gossipmongering
-galactase
 gastrotome
 grifts
 glottology
@@ -5397,6 +5396,7 @@ geoplana
 glossily
 giusto
 girdle
+galactase
 gynandromorphic
 goodtemperedness
 glimmer
