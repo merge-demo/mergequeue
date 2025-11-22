@@ -2911,7 +2911,6 @@ eurydice
 elf
 elfenfolk
 endogeny
-entablature
 elfinwood
 exfoliating
 extremity
@@ -14063,6 +14062,7 @@ echelonment
 exclude
 enquarter
 extracurriculum
+entablature
 encephalomata
 enfect
 errantry
