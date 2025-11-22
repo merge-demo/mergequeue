@@ -3021,7 +3021,6 @@ elisor
 elissa
 expeditor
 eyereach
-edestan
 ebenezer
 elitist
 elytrocele
@@ -9565,6 +9564,7 @@ endocrinology
 euglenineae
 ecotypes
 escapeless
+edestan
 ecphoria
 expressing
 emigrated
