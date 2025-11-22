@@ -5418,7 +5418,6 @@ ecclesial
 east
 engirdles
 ebonige
-esthesiometer
 enfester
 ed
 emigrants
@@ -8831,6 +8830,7 @@ ecuelling
 epitheloid
 enkernel
 ecospecifically
+esthesiometer
 earshots
 eremuri
 ethnoflora
