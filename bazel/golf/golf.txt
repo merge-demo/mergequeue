@@ -4103,6 +4103,7 @@ gogglebox
 genus
 gelechiid
 goosemouth
+geophilidae
 gaulic
 gamekeeper
 gaufer
@@ -5616,7 +5617,6 @@ geranial
 gemology
 garnice
 gradable
-geophilidae
 gondolet
 gymnasium
 golfers
