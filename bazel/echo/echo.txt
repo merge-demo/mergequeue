@@ -7747,7 +7747,6 @@ ensure
 emendable
 equips
 edelweisses
-entelam
 ethinamate
 empasma
 eggshells
@@ -8897,6 +8896,7 @@ eragrostis
 electrophori
 eyers
 ergostat
+entelam
 experimentally
 eleutheromaniac
 ergoted
