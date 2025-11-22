@@ -2262,7 +2262,6 @@ broadbrim
 bactericholia
 bide
 bathochromy
-bellman
 brownly
 barbastelle
 barbate
@@ -3929,6 +3928,7 @@ bdelliums
 brownist
 bdelloid
 bdellometer
+bellman
 boarts
 booksellerish
 bombardier
