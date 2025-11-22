@@ -1792,7 +1792,6 @@ buzzy
 brimming
 beaconed
 beglads
-bardiness
 blancmanger
 bemuse
 botanizer
@@ -2348,6 +2347,7 @@ biolysis
 belligerency
 bachelorlike
 barbula
+bardiness
 barbulate
 barbulyie
 barbwire
