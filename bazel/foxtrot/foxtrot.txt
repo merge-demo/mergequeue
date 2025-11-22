@@ -5669,7 +5669,6 @@ firking
 fountains
 firebrands
 freeloader
-forewarns
 flingy
 funded
 fiddlestring
@@ -10464,6 +10463,7 @@ fibroin
 fosslify
 foofaraw
 fantast
+forewarns
 fluffs
 fidged
 frostfish
