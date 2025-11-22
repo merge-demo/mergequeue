@@ -3930,7 +3930,6 @@ brownist
 bdelloid
 bdellometer
 boarts
-booksellerish
 bombardier
 bocstaff
 brickbats
@@ -10414,6 +10413,7 @@ bullfinch
 blankness
 banks
 blanks
+booksellerish
 byrewoman
 boltmaking
 beesting

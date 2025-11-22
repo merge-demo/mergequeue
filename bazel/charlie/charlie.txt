@@ -21168,6 +21168,7 @@ concenter
 concentering
 compasses
 concento
+chainette
 concolor
 chemicobiological
 concentrated
@@ -30930,7 +30931,6 @@ culture
 clientship
 culturine
 carbro
-chainette
 culturing
 cystoids
 coigns
