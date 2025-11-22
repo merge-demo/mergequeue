@@ -4954,7 +4954,6 @@ beekeeping
 bedight
 bosher
 bassos
-beelzebul
 beennut
 bimedial
 bonework
@@ -18270,6 +18269,7 @@ bde
 berryman
 basque
 brickmason
+beelzebul
 badan
 burweed
 bencher

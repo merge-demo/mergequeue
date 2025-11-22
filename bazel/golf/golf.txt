@@ -4168,7 +4168,6 @@ gaitt
 gibleh
 gratewise
 gilding
-gypsum
 gouda
 guarapo
 globuloid
@@ -10416,6 +10415,7 @@ gadgetries
 gnateater
 gillbird
 giller
+gypsum
 geepound
 graphiology
 gum
