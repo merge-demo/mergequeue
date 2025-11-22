@@ -1764,6 +1764,7 @@ fluoridates
 fn
 featheriness
 frogface
+foreslack
 forsterite
 farfet
 farsalah
@@ -10258,7 +10259,6 @@ forensics
 fostership
 fistulatome
 flutier
-foreslack
 fasher
 frolicker
 frolicking
