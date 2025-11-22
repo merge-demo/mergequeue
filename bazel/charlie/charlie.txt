@@ -15788,7 +15788,6 @@ chelaship
 corruptibly
 colonized
 clearable
-clearage
 clearance
 clearances
 commensurately
@@ -22784,6 +22783,7 @@ consecrater
 chieftess
 contramarque
 consecrates
+clearage
 citrals
 coticular
 clovers
