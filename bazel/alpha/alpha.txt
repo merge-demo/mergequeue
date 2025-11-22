@@ -8653,7 +8653,6 @@ automatonlike
 alleyway
 alchitran
 abled
-alleyways
 attractancy
 anarchs
 andrite
@@ -23279,6 +23278,7 @@ armadillididae
 aliped
 alangiaceae
 achroite
+alleyways
 attracter
 attractingly
 accommodately
