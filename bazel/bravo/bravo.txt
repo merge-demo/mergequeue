@@ -13181,6 +13181,7 @@ britannica
 borwort
 bumper
 borzoi
+bastardised
 boschneger
 boneen
 brigue
@@ -17676,7 +17677,6 @@ bockeret
 brodyaga
 balancement
 bevomits
-bastardised
 birgus
 bordage
 blackfin
