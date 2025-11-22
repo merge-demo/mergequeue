@@ -527,6 +527,7 @@ backtracks
 babies
 betrayment
 backveld
+butine
 beech
 bayok
 blasthole
@@ -13679,7 +13680,6 @@ beeped
 bonailie
 bourgeoisie
 blessingly
-butine
 breadlessness
 bourgeons
 bourignian
