@@ -14051,7 +14051,6 @@ brachycrany
 bowpot
 bricktimber
 brachydactylia
-beniseed
 bakehouse
 bathhouses
 bicuspidate
@@ -14760,6 +14759,7 @@ brawlsome
 brawnedness
 bilamellated
 biaxillary
+beniseed
 behalves
 brawnily
 bloodsuckers
