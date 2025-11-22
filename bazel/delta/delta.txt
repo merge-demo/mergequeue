@@ -12648,6 +12648,7 @@ dertrotheca
 defaultant
 descendentalist
 descrial
+dodgeries
 duplicidentate
 dechemicalization
 disjunctive
@@ -14497,7 +14498,6 @@ diplomatique
 delassement
 desk
 dedition
-dodgeries
 dipleidoscope
 decolonised
 dewfalls
