@@ -3369,7 +3369,6 @@ cyclohexene
 capouches
 cappadocian
 crypted
-cappae
 capparid
 capparis
 capped
@@ -8264,6 +8263,7 @@ chalcographic
 chalcographical
 chalcographist
 chalcolithic
+cappae
 coadunation
 chalcomenite
 chalcone
