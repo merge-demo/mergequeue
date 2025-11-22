@@ -4654,7 +4654,6 @@ glossitic
 guttersnipish
 griggles
 graphometer
-gowkit
 gastrodialysis
 gaonic
 gasconade
@@ -8851,6 +8850,7 @@ greylag
 groundout
 gyte
 girouettism
+gowkit
 gynaecomastia
 great
 giantisms
