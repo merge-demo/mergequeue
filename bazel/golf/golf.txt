@@ -1095,7 +1095,6 @@ graphicness
 gowdy
 goularo
 gormandizers
-gavelage
 genitives
 ganister
 goriest
@@ -1527,6 +1526,7 @@ germiest
 geotonic
 gangland
 grouse
+gavelage
 gasoliers
 guiro
 giftwrap
