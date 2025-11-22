@@ -5236,7 +5236,6 @@ esterification
 eretrian
 equipluve
 equilibrate
-epistrophic
 endomitosis
 endomorphy
 exta
@@ -8894,6 +8893,7 @@ estaminets
 expectorators
 entoderms
 ergograph
+epistrophic
 embitter
 emeroids
 ergomaniac
