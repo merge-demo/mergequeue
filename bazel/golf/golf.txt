@@ -1992,6 +1992,7 @@ galician
 goschens
 gryphaea
 gams
+gutnic
 glyptical
 gaurian
 gasting
@@ -10708,7 +10709,6 @@ gumma
 gunship
 gismondine
 gastrolytic
-gutnic
 gracioso
 guywire
 gerbera
