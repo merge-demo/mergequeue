@@ -18245,7 +18245,6 @@ coffeehouse
 coffeehouses
 coffeeman
 classico
-clayed
 coffeepots
 colloidize
 coffeeroom
@@ -21752,6 +21751,7 @@ condominiums
 condoms
 cyanoethylate
 condonable
+clayed
 condonance
 condonation
 condone
