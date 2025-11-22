@@ -3607,6 +3607,7 @@ felinity
 floorway
 files
 fiddle
+fighters
 filesniff
 freijo
 fazing
@@ -6717,7 +6718,6 @@ fogless
 frounced
 fogo
 frescoists
-fighters
 feast
 forelegs
 fogon
