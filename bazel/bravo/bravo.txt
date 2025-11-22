@@ -11957,7 +11957,6 @@ bbls
 brothelry
 bostons
 bogymen
-bogland
 budgerigah
 bytalk
 bogled
@@ -17865,6 +17864,7 @@ bused
 burling
 brisks
 bestselling
+bogland
 brawns
 bobotie
 blowfly
