@@ -2139,6 +2139,7 @@ fletch
 faujdar
 fuchsite
 fosterling
+flagstone
 fluer
 fidepromissor
 filtered
@@ -10940,7 +10941,6 @@ fess
 fulnesses
 flanconade
 feuded
-flagstone
 furfuran
 forewit
 foreseing
