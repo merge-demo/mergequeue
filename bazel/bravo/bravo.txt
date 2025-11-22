@@ -198,6 +198,7 @@ berceau
 bargainee
 bacchants
 bismanol
+bridleless
 beguiling
 bloodwood
 bees
@@ -10923,7 +10924,6 @@ beshiver
 bumps
 biloquist
 biclinia
-bridleless
 barth
 bourrees
 blinkard
