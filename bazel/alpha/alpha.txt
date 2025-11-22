@@ -9773,7 +9773,6 @@ amicabilities
 amperage
 amalgamization
 anaphase
-amalgamize
 amalic
 argosine
 aircrews
@@ -11924,6 +11923,7 @@ ancille
 always
 archduchies
 attatches
+amalgamize
 anaphylactically
 araliaceae
 anaemias
