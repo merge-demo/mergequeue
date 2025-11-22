@@ -2925,7 +2925,6 @@ divide
 desmodont
 duodecimomos
 dedicant
-dedicatee
 dichotic
 downbeat
 desulphuret
@@ -15546,6 +15545,7 @@ dement
 dewanny
 disuniformity
 doloriferous
+dedicatee
 donkeyman
 draffman
 decahedra
