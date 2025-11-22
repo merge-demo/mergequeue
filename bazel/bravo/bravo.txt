@@ -1769,7 +1769,6 @@ bamboula
 banterer
 boswellized
 bowmen
-balanops
 balloonet
 bedsprings
 bambute
@@ -17737,6 +17736,7 @@ brahmins
 burnishing
 bookbindery
 bellies
+balanops
 bede
 baneberries
 bejumbled
