@@ -21101,6 +21101,7 @@ conations
 conative
 conflab
 coercions
+coffinmaker
 conatus
 conaxial
 culminated
@@ -23220,7 +23221,6 @@ curmudgeonery
 constructive
 constructively
 constructivism
-coffinmaker
 constructivist
 circumstantiable
 constructor
