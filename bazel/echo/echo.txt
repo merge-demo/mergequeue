@@ -11464,7 +11464,6 @@ evictions
 explanatory
 emboldens
 eleocharis
-escarbuncle
 evictor
 evidence
 edeagra
@@ -12486,6 +12485,7 @@ enneadic
 electrifying
 electroosmosis
 enomania
+escarbuncle
 esophagotomy
 enrollees
 eximidus
