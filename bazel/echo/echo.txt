@@ -9472,6 +9472,7 @@ eczematoid
 entach
 enarch
 escout
+enstore
 equipondious
 escry
 escribientes
@@ -11782,7 +11783,6 @@ endorsingly
 exasperatedly
 eversion
 entrees
-enstore
 electrocatalysis
 exasperater
 engrid

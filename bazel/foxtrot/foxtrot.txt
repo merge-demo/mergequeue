@@ -8628,6 +8628,7 @@ flamberge
 freightless
 filterability
 fourposters
+futharks
 feet
 fuzes
 feticides
@@ -9650,7 +9651,6 @@ foresides
 fathers
 flocculous
 fourths
-futharks
 floyt
 freezy
 fubbed
