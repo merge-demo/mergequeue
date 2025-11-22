@@ -11478,7 +11478,6 @@ choicier
 choil
 chymistry
 choile
-choiler
 choir
 choirboys
 choired
@@ -23156,6 +23155,7 @@ cytostatic
 ciphers
 constituencies
 cantillated
+choiler
 constituents
 constitute
 constitutional
