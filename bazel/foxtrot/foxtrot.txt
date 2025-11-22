@@ -8457,7 +8457,6 @@ foresinger
 formelt
 ferritic
 filmsetter
-foreannouncement
 fortin
 frondesce
 factorized
@@ -10150,6 +10149,7 @@ fief
 freycinetia
 flaxen
 farmwife
+foreannouncement
 forbit
 forepredicament
 feued
