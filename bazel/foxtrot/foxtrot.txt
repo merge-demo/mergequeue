@@ -5441,6 +5441,7 @@ formulator
 famished
 foresummer
 feridjee
+furfuration
 fanatic
 fretsome
 fleeter
@@ -10840,7 +10841,6 @@ flus
 fleetness
 flavorous
 fulfillments
-furfuration
 fennici
 fulfullment
 functionless
