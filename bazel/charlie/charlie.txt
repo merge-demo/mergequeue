@@ -5509,7 +5509,6 @@ coumbite
 cataclysmatist
 cataclysmic
 cataclysmically
-catacomb
 crowboot
 cpm
 catacombs
@@ -16587,6 +16586,7 @@ crypt
 clonorchis
 cardinality
 chapeaus
+catacomb
 circumoesophagal
 cosponsorships
 circut
