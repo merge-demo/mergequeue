@@ -435,7 +435,6 @@ grapeys
 galeage
 goober
 gair
-glucuronide
 guests
 glucic
 gamosepalous
@@ -4450,6 +4449,7 @@ globigerinidae
 gynura
 goyazite
 gadsman
+glucuronide
 gobby
 giobertite
 grazierdom
