@@ -1902,6 +1902,7 @@ gaussmeter
 gatteridge
 gammaridae
 gaucho
+generalists
 gerbillus
 gamelote
 germaniums
@@ -9737,7 +9738,6 @@ gable
 gibbetting
 genuflector
 gambir
-generalists
 gordiidae
 gagroot
 gablewise
