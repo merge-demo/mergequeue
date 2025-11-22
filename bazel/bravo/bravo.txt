@@ -2814,6 +2814,7 @@ blithefully
 buffaloback
 bedarken
 bruta
+beisa
 biquadrate
 baroswitch
 bld
@@ -5515,7 +5516,6 @@ beyondness
 baryton
 bewares
 birding
-beisa
 brahmas
 bagatine
 bludgeoned
