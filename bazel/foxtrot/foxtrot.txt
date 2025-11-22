@@ -2824,7 +2824,6 @@ faunae
 faveolate
 facie
 ficus
-functioning
 fluidly
 floorman
 fishhouse
@@ -7045,6 +7044,7 @@ floriparous
 francis
 floater
 fimbriae
+functioning
 foodful
 fulfilled
 fribby
