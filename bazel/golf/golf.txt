@@ -4656,7 +4656,6 @@ graphometer
 gowkit
 gastrodialysis
 gaonic
-greathead
 gasconade
 gummosis
 galliards
@@ -7509,6 +7508,7 @@ gotten
 graecizing
 governesses
 galvanotonic
+greathead
 guideless
 gatelike
 goliardery
