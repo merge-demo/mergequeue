@@ -1224,7 +1224,6 @@ guilelessness
 garage
 guatemaltecan
 galapago
-gluconeogenesis
 gastrotricha
 garapato
 getatableness
@@ -3555,6 +3554,7 @@ garmentworker
 ganglions
 gymnorhina
 geomagnetist
+gluconeogenesis
 grugru
 gunslinging
 grinded
