@@ -22613,7 +22613,6 @@ conniptions
 connivance
 connivancy
 connivantly
-connive
 concertanti
 chug
 clinker
@@ -24028,6 +24027,7 @@ convents
 conventual
 cerebri
 converge
+connive
 cuspal
 concealment
 caprimulgi
