@@ -36,7 +36,6 @@ fabricates
 fabricator
 formularize
 flintless
-flintworker
 furies
 farmscape
 flick
@@ -7577,6 +7576,7 @@ foredoomer
 fgn
 fructuarius
 funiculus
+flintworker
 flays
 forespeak
 fecundative
