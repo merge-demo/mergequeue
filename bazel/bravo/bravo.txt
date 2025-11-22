@@ -2094,7 +2094,6 @@ botoyan
 bloodbeat
 banshies
 bornan
-bakelize
 bronchostomy
 besetment
 betrough
@@ -8814,6 +8813,7 @@ banalities
 battery
 bedrivels
 bummalos
+bakelize
 barfed
 benzol
 balsamiferous
