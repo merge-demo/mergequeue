@@ -2785,7 +2785,6 @@ gelee
 gantlope
 goblets
 gluttonised
-grundy
 graduals
 gurr
 gemeinde
@@ -4141,6 +4140,7 @@ galeidae
 genitivally
 grapsidae
 gentilities
+grundy
 geochronology
 gnawing
 gregarian
