@@ -2869,7 +2869,6 @@ guilefulness
 ganglionic
 gustavus
 guardsman
-gubernacular
 gipser
 grasschat
 gasmetophytic
@@ -5644,6 +5643,7 @@ gloomings
 graveward
 gunyang
 germanics
+gubernacular
 geyserine
 gingalls
 gastralgic
