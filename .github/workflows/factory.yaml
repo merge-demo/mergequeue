@@ -30,7 +30,7 @@ jobs:
           repository: trunk-io/mergequeue-tool
           latest: true
           tarBall: true
-          preRelease: false
+          preRelease: true
           extract: true
 
       - name: run mq
