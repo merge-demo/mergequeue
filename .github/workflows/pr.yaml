@@ -6,7 +6,7 @@ on:
 jobs:
   test:
     name: run tests to validate pr
-    runs-on: ubicloud-standard-2
+    runs-on: ubuntu-latest
     env:
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 

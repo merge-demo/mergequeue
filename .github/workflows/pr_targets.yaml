@@ -5,7 +5,7 @@ on: pull_request
 jobs:
   compute_pr_targets:
     name: compute
-    runs-on: ubicloud-standard-2
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -35,7 +35,7 @@ jobs:
           echo "flake_rate=$(echo "$output" | jq -r '.flake_rate')" >> $GITHUB_OUTPUT
           echo "sleep_for=$(echo "$output" | jq -r '.sleep_for')" >> $GITHUB_OUTPUT
         env:
-          TRUNK_TOKEN: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}          
+          TRUNK_TOKEN: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
 
       - name: mergeq queue configuration
         run: |
