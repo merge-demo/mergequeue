@@ -1,5 +1,5 @@
 mode = "parallelqueue"
-build = "bazel"
+build = "nx"
 
 [trunk]
 api = "api.trunk.io"
@@ -18,6 +18,8 @@ labels = ""                     # label to apply to pull request on creation (co
 comment = ""
 requests_per_hour = 100          # target number of pull requests per hour
 run_generate_for = "30 minutes"
+change_code_path = "nx"
+
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
