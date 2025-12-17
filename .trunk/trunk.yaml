@@ -1,6 +1,6 @@
 version: 0.1
 cli:
-  version: 1.24.0
+  version: 1.25.0
 plugins:
   sources:
     - id: trunk
@@ -26,3 +26,6 @@ tools:
   enabled:
     - bazel@8.2.1
     - jq@jq-1.7.1
+lint:
+  disabled:
+    - eslint

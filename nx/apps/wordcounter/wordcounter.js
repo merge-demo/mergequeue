@@ -24,7 +24,7 @@ for (const pkg of wordPackages) {
       .filter((word) => word.length > 0);
     WORD_DICT[pkg] = words;
   } catch (error) {
-    console.error(`Error loading ${pkg}:`, error.message);
+    console.error("Error loading", pkg + ":", error.message);
     WORD_DICT[pkg] = [];
   }
 }
