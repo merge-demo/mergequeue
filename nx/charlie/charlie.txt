@@ -1880,6 +1880,7 @@ containers
 cologne
 cotwin
 calandria
+contractible
 calicoed
 cordwains
 chickling
@@ -5605,7 +5606,6 @@ centi
 crochet
 catalogia
 crossweb
-contractible
 catalogical
 carking
 choiceless
