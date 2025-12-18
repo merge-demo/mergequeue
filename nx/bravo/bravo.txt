@@ -3890,7 +3890,6 @@ bawneen
 bawra
 barklyite
 bawsint
-brutalness
 bawsunt
 blamelessness
 beechnuts
@@ -4744,6 +4743,7 @@ bangs
 bedlams
 bienseance
 bedlar
+brutalness
 bazoo
 bibliotic
 blackseed
