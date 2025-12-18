@@ -8116,7 +8116,6 @@ floatation
 favouredness
 foretaster
 forefin
-foretasting
 fretsaw
 falisci
 forewrought
@@ -11032,6 +11031,7 @@ foresights
 fora
 filiferous
 fumarate
+foretasting
 flammulated
 fontainea
 frontolysis
