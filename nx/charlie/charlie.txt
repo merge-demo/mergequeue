@@ -14719,7 +14719,6 @@ cylix
 celebration
 charbocle
 cystathionine
-coruscant
 comber
 citherns
 cithren
@@ -28500,6 +28499,7 @@ creatress
 caecectomy
 creatureling
 creatures
+coruscant
 carapo
 creatureship
 conversibility
