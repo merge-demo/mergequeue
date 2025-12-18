@@ -6519,7 +6519,6 @@ fip
 failsoft
 frotted
 forspread
-furcular
 fluther
 foldskirt
 fortifying
@@ -9481,6 +9480,7 @@ fraudulent
 fraudulentness
 ferreting
 frauen
+furcular
 fideicommissumissa
 friseur
 financed
