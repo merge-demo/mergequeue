@@ -6227,7 +6227,6 @@ exclusioner
 encelia
 enlivened
 enolic
-enolizable
 explicableness
 etiologic
 enological
@@ -7285,6 +7284,7 @@ echeneidid
 effigial
 eosinic
 ergatogynous
+enolizable
 eclats
 endothorax
 eosinoblast
