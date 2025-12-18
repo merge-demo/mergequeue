@@ -1550,6 +1550,7 @@ ballgame
 ballhooter
 backslash
 balli
+byspell
 burmanniaceous
 burlesques
 befiddle
@@ -13917,7 +13918,6 @@ behavior
 bowtell
 barographic
 backpointer
-byspell
 broadened
 bargelli
 belugas
