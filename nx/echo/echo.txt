@@ -931,6 +931,7 @@ efreet
 ensisternal
 equipping
 endowments
+emacerate
 endorsements
 electrophoretic
 ectropion
@@ -10718,7 +10719,6 @@ emplacement
 euhemerist
 erichthus
 encrease
-emacerate
 emblazer
 ecologic
 euhyostylic
