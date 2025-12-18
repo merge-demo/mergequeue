@@ -3913,6 +3913,7 @@ adjourn
 allurance
 adjournal
 adjoust
+adicity
 aleyrodidae
 adjudging
 apocarps
@@ -21944,7 +21945,6 @@ associativeness
 amplify
 armoring
 associativity
-adicity
 autochthones
 articulating
 anathemata
