@@ -9900,6 +9900,7 @@ chronobiology
 chemosorption
 chemosphere
 collateral
+crossbreeds
 cancers
 chemosurgery
 chemotactic
@@ -13161,7 +13162,6 @@ cicatrizing
 cicelies
 ciceronage
 ciceroni
-crossbreeds
 ciceronian
 chiaroscuro
 clon
