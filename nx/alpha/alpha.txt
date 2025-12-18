@@ -1526,7 +1526,6 @@ anthroponomy
 airborn
 accomplicity
 asturian
-autopathic
 accomplisher
 angelican
 arthrodesis
@@ -3522,6 +3521,7 @@ addr
 allotheistic
 actinography
 azores
+autopathic
 addressable
 antics
 avestan
