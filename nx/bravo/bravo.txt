@@ -6967,6 +6967,7 @@ besluit
 bespread
 besmile
 besmiled
+basipterygial
 bobtailing
 bathhouse
 bunns
@@ -11888,7 +11889,6 @@ barabora
 befouled
 brent
 boatlip
-basipterygial
 borgh
 bockey
 bench
