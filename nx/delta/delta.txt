@@ -11955,6 +11955,7 @@ disembarks
 dentifrices
 degum
 decrease
+dyable
 deutovum
 disembitter
 diplanetic
@@ -18467,7 +18468,6 @@ dendrochronologically
 delator
 dispersant
 diapers
-dyable
 distinctive
 decals
 dermatophony
