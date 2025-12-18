@@ -6778,6 +6778,7 @@ barytosulphate
 badian
 bookery
 bersagliere
+buttoners
 brittles
 bin
 berserks
@@ -18309,7 +18310,6 @@ basaltoid
 buttonbush
 bivalve
 buttoner
-buttoners
 bedel
 bilirubinemia
 bowlegs
