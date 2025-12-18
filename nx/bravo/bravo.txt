@@ -2148,7 +2148,6 @@ brutism
 baptising
 butterless
 barleyhood
-baptismal
 bandsaw
 bulling
 baptisms
@@ -3039,6 +3038,7 @@ backswordsman
 bookbinderies
 bubba
 bartramian
+baptismal
 banish
 beetmister
 bliest
