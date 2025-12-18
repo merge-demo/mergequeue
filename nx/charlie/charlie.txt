@@ -3368,7 +3368,6 @@ chronographically
 celsius
 carrots
 capote
-cyclohexene
 capouches
 cappadocian
 crypted
@@ -3388,6 +3387,7 @@ cappings
 coagencies
 capple
 cappuccino
+cyclohexene
 chandu
 calycozoan
 credos
