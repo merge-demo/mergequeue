@@ -3981,6 +3981,7 @@ empale
 empalers
 eyepit
 empall
+elinvar
 excurvation
 empanelling
 empanels
@@ -13611,7 +13612,6 @@ englishwomen
 expurgates
 empedoclean
 effossion
-elinvar
 epsilon
 epiphytically
 eremurus

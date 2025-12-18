@@ -565,6 +565,7 @@ getfd
 growls
 gableended
 gravamem
+gauntleted
 gadinine
 glucosazone
 gallian
@@ -3642,7 +3643,6 @@ gro
 gastroenterological
 gluconeogenic
 goldest
-gauntleted
 gillnetting
 gonadotropic
 genearch
