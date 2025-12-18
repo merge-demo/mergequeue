@@ -1037,6 +1037,7 @@ busway
 bustiest
 boyaus
 basanite
+breenge
 bersil
 boroughmaster
 bailiwick
@@ -15041,7 +15042,6 @@ befetter
 betiding
 bicuspidal
 bandaka
-breenge
 breenger
 babushka
 breezeway
