@@ -36,10 +36,6 @@ python3 tools/detect_impacted_nx_targets.py --base=HEAD~1 -o nx_targets.json
 
 **Output:** Writes a JSON array of affected project names to the output file.
 
-### `detect_impacted_folders.py`
-
-Detects impacted folders from git status changes.
-
 ### `upload_glob_targets.py`
 
 Uploads impacted targets to Trunk API.
