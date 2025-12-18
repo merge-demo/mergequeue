@@ -33,6 +33,9 @@ jobs:
           preRelease: true
           extract: true
 
+      - name: Make mq executable
+        run: chmod +x ./mq
+
       - name: run mq
         id: edits
         run: ./mq generate --gh-token=${{ secrets.ELI_MERGEDEMO }} --trunk-token=${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
