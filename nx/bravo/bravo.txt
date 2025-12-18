@@ -6638,7 +6638,6 @@ baseheartedness
 bagass
 bergman
 bergs
-breastbone
 bordar
 boneshave
 bodegon
@@ -10286,6 +10285,7 @@ brachycerous
 bladderet
 bladdery
 bladderlike
+breastbone
 biblism
 bladderseed
 bladderwort
