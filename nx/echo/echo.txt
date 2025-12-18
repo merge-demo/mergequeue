@@ -6726,7 +6726,6 @@ electrophysics
 entertainment
 endosepsis
 echimys
-epicenters
 equines
 espaliers
 epithecal
@@ -9965,6 +9964,7 @@ elk
 estrums
 extrospection
 englishize
+epicenters
 estuarial
 epagogic
 eloquently
