@@ -11236,7 +11236,6 @@ bullfight
 bewail
 burez
 blasts
-brightening
 benday
 bertrand
 blotto
@@ -11942,6 +11941,7 @@ bayou
 boggle
 babakoto
 blastemas
+brightening
 boggler
 bannerol
 bogglers
