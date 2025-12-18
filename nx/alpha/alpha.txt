@@ -12080,6 +12080,7 @@ anemosis
 architeuthis
 anastate
 anastatus
+archipallial
 anastigmat
 anastigmatic
 alvah
@@ -17758,7 +17759,6 @@ annuloida
 apinae
 antidora
 acylated
-archipallial
 archiepiscopally
 albuminaturia
 alluringly
