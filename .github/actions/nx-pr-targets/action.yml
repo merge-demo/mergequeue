@@ -1,33 +1,35 @@
-name: "Nx PR Targets"
-description: "Detect and upload impacted Nx targets for a pull request"
+name: Nx PR Targets
+description: Detect and upload impacted Nx targets for a pull request
 
 inputs:
   trunk-token:
-    description: "Trunk API token"
+    description: Trunk API token
     required: true
   base-sha:
-    description: "Base SHA for comparison"
+    description: Base SHA for comparison
     required: true
   head-sha:
-    description: "Head SHA for comparison"
+    description: Head SHA for comparison
     required: true
-  node-version:
-    description: "Node.js version to use"
-    required: false
-    default: "20"
 
 runs:
-  using: "composite"
+  using: composite
   steps:
     - name: Setup Node.js for Nx
       uses: actions/setup-node@v4
       with:
-        node-version: ${{ inputs.node-version }}
+        node-version: 24
 
     - name: Install Nx dependencies
       run: |
         cd nx
         npm install
+      shell: bash
+
+    - name: Fetch commits for comparison
+      run: |
+        git fetch --no-tags origin "${{ inputs.base-sha }}"
+        git fetch --no-tags origin "${{ inputs.head-sha }}"
       shell: bash
 
     - name: Generate impacted Nx targets
