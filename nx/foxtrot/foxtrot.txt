@@ -4189,7 +4189,6 @@ floodtime
 firebrick
 foulmouthed
 foretokening
-firebug
 flagstones
 fado
 flickertail
@@ -7105,6 +7104,7 @@ figurant
 fractionator
 fripper
 flaker
+firebug
 fiddleback
 foreallege
 fregatae
