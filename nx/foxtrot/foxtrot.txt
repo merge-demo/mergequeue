@@ -1125,7 +1125,6 @@ filiates
 farthings
 forlornness
 fubs
-footprints
 fitted
 foreguts
 flog
@@ -2436,6 +2435,7 @@ frazer
 fulgourous
 feasters
 fullymart
+footprints
 fringillid
 freebooty
 fibrously
