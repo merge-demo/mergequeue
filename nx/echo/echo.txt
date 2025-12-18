@@ -4896,7 +4896,6 @@ elemental
 effeminateness
 excludible
 explete
-enjamb
 encroachments
 epitaxic
 encrustation
@@ -11812,6 +11811,7 @@ exauctorate
 empoisoned
 epiphytous
 enrolment
+enjamb
 elaphrium
 euryon
 exaudi
