@@ -1663,7 +1663,6 @@ forebrace
 flacourtiaceous
 folksong
 flemer
-forgrow
 fearedly
 fadeaways
 frisker
@@ -7839,6 +7838,7 @@ figulated
 forepaws
 flingdust
 foveolets
+forgrow
 furcellate
 fractionisation
 fungify
