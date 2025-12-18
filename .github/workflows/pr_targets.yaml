@@ -55,10 +55,21 @@ jobs:
         env:
           API_URL: https://api.trunk.io:443/v1/setImpactedTargets
 
+      - name: nx pr targets
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          steps.get-demo-config.outputs.build == 'nx'
+        uses: ./.github/actions/nx-pr-targets
+        with:
+          trunk-token: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          base-sha: ${{ github.event.pull_request.base.sha }}
+          head-sha: ${{ github.event.pull_request.head.sha }}
+          node-version: "20"
+
       - name: named pr targets
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
-          steps.get-demo-config.outputs.build != 'bazel'
+          steps.get-demo-config.outputs.build == 'folders'
         run: |
           # uncomment if you want to see full github json
           # echo "::group::GitHub Json"
