@@ -4578,7 +4578,6 @@ barks
 besuit
 bundeli
 borborus
-bedaubing
 beltlines
 bloodstone
 belial
@@ -6453,6 +6452,7 @@ bilati
 beothukan
 bellicose
 braggartly
+bedaubing
 basidiogenetic
 bedrocks
 bigwiggedness
