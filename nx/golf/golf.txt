@@ -4722,6 +4722,7 @@ generis
 gastraeas
 guzmania
 guanacos
+geoid
 gallinula
 gynodioecism
 gymnasiast
@@ -9104,7 +9105,6 @@ gherkin
 gentlehood
 grinch
 goldwork
-geoid
 garotte
 governableness
 grumose
