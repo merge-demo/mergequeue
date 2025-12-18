@@ -10380,7 +10380,6 @@ audio
 americanizing
 americanly
 aguroth
-alacriously
 almuds
 adlumia
 anise
@@ -15506,6 +15505,7 @@ attntrp
 annullable
 armguard
 antimystic
+alacriously
 antimystical
 antimystically
 apathic
