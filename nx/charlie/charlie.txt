@@ -11936,7 +11936,6 @@ cosmochemistry
 choreoid
 crocidolite
 chorepiscopal
-chorepiscope
 catheterize
 canoodling
 cowhages
@@ -19714,6 +19713,7 @@ combination
 coredeem
 combinational
 corrigent
+chorepiscope
 cloots
 combinations
 cells
