@@ -5849,7 +5849,6 @@ extrinsic
 engrafter
 emagram
 exibilate
-epiblastema
 engrailed
 elsewards
 epizoicide
@@ -11557,6 +11556,7 @@ extypal
 extraburghal
 elenchus
 encodement
+epiblastema
 embrittled
 errantness
 ennoy
