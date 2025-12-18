@@ -135,6 +135,10 @@ def main():
         "impactedTargets": impacted_targets,
     }
 
+    # Print the JSON payload being sent
+    print("📤 Sending JSON payload:")
+    print(json.dumps(post_body, indent=2))
+
     # Make API request
     headers = {"Content-Type": "application/json", "x-api-token": trunk_token}
     try:
@@ -144,20 +148,23 @@ def main():
         eprint(f"HTTP request failed: {e}")
         sys.exit(1)
 
+    # Print the response from the service
+    print(f"\n📥 Response from service (HTTP {http_status_code}):")
+    try:
+        response_body = response.json()
+        print(json.dumps(response_body, indent=2))
+    except (ValueError, json.JSONDecodeError):
+        print(response.text)
+
     # Handle response
     if http_status_code == 200:
         num_targets = len(impacted_targets)
         print(
-            f"✨ Uploaded {num_targets} impacted targets for PR #{pr_number} @ {pr_sha}"
+            f"\n✨ Uploaded {num_targets} impacted targets for PR #{pr_number} @ {pr_sha}"
         )
         sys.exit(0)
     else:
-        eprint(f"❌ Failed to upload impacted targets. HTTP {http_status_code}")
-        try:
-            error_body = response.json()
-            eprint(f"Response: {json.dumps(error_body, indent=2)}")
-        except:
-            eprint(f"Response: {response.text}")
+        eprint(f"\n❌ Failed to upload impacted targets. HTTP {http_status_code}")
         sys.exit(1)
 
 

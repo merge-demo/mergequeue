@@ -4,7 +4,7 @@ on: pull_request
 
 jobs:
   compute_pr_targets:
-    name: compute
+    name: compute_pr_targets
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
