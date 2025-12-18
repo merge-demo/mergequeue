@@ -28,8 +28,8 @@ runs:
 
     - name: Fetch base commit
       run: |
-        # Fetch the base commit so it's available for comparison
-        git fetch --depth=1 origin "${{ inputs.base-sha }}" || git fetch --unshallow
+        # Fetch only the base commit needed for comparison
+        git fetch --no-tags origin "${{ inputs.base-sha }}"
       shell: bash
 
     - name: Generate impacted Nx targets
