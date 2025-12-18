@@ -3287,6 +3287,7 @@ bloodiest
 basions
 backstabbed
 bronzes
+branchiostegan
 beadlery
 backpacking
 balche
@@ -11490,7 +11491,6 @@ baba
 banyoro
 bigamous
 begged
-branchiostegan
 bathometer
 bluffs
 behaves
