@@ -9574,7 +9574,6 @@ estivation
 endocrinology
 euglenineae
 ecotypes
-escapeless
 edestan
 ecphoria
 expressing
@@ -11408,6 +11407,7 @@ escaladed
 extrinsical
 embanking
 evangelising
+escapeless
 eventualize
 eventually
 expansional
