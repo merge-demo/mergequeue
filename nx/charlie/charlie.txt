@@ -1018,6 +1018,7 @@ calapite
 caprelline
 calappidae
 calas
+chronologies
 colourtype
 cohoba
 calascione
@@ -12590,7 +12591,6 @@ cellucotton
 chronologer
 circularize
 chronological
-chronologies
 coalternative
 chantecler
 cercle
