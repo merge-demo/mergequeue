@@ -15138,7 +15138,6 @@ cladoptosis
 copilots
 cladose
 cyder
-canicule
 cladoselachian
 coleosporiaceae
 colyba
@@ -21515,6 +21514,7 @@ colocentesis
 coerces
 concreted
 concretely
+canicule
 concreter
 concretional
 concretionary
