@@ -15231,7 +15231,6 @@ chlorphenol
 crassina
 clam
 cabriolet
-clamant
 circumnavigatory
 clamantly
 clamaroo
@@ -15591,6 +15590,7 @@ clathrarian
 clathrate
 choose
 clathrinidae
+clamant
 clathroid
 clathrose
 cranes
