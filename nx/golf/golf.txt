@@ -1351,7 +1351,6 @@ galvanist
 geoside
 glomerulus
 galloner
-gangrenes
 garnisheement
 glorifier
 gervao
@@ -2036,6 +2035,7 @@ gelatiniform
 gases
 gaveled
 gibbosities
+gangrenes
 gnomologic
 greiges
 guazuti
