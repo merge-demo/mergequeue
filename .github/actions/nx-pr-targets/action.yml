@@ -1,19 +1,19 @@
-name: "Nx PR Targets"
-description: "Detect and upload impacted Nx targets for a pull request"
+name: Nx PR Targets
+description: Detect and upload impacted Nx targets for a pull request
 
 inputs:
   trunk-token:
-    description: "Trunk API token"
+    description: Trunk API token
     required: true
   base-sha:
-    description: "Base SHA for comparison"
+    description: Base SHA for comparison
     required: true
   head-sha:
-    description: "Head SHA for comparison"
+    description: Head SHA for comparison
     required: true
 
 runs:
-  using: "composite"
+  using: composite
   steps:
     - name: Setup Node.js for Nx
       uses: actions/setup-node@v4
