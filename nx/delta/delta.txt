@@ -12902,7 +12902,6 @@ dermaptera
 disnew
 drachmae
 drawspan
-delving
 deorientalize
 disobeying
 delineative
@@ -16225,6 +16224,7 @@ decanters
 derange
 darneder
 defusing
+delving
 description
 diacetamide
 diploidion
