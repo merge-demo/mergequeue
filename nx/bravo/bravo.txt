@@ -11020,6 +11020,7 @@ bottleholder
 blk
 birri
 bhoosa
+bigonial
 bakwiri
 bromin
 buckshot
@@ -17606,7 +17607,6 @@ brandished
 bristling
 burgherage
 beguine
-bigonial
 bottomlessly
 burghers
 burgraves

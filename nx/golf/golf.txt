@@ -5092,6 +5092,7 @@ gypper
 griffins
 granza
 gastroptosia
+glycan
 guilders
 gravery
 glassmaking
@@ -5165,7 +5166,6 @@ gyrophoraceae
 graylags
 glazes
 gemmy
-glycan
 glyceride
 glb
 gastratrophia
