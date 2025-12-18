@@ -2118,7 +2118,6 @@ ceilingward
 chieftaincies
 circumnuclear
 captivator
-campanular
 campanulariae
 campanularidae
 campanulatae
@@ -6298,6 +6297,7 @@ crescence
 cravingly
 cecchine
 cabbaged
+campanular
 caulocarpic
 caulomic
 caulosarc
