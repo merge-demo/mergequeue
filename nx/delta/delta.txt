@@ -5361,7 +5361,6 @@ displaced
 dentical
 denticle
 dentiferous
-dentification
 desegmented
 dentifrice
 diageotropism
@@ -14137,6 +14136,7 @@ disanimate
 diol
 desacralize
 diapason
+dentification
 disulfiram
 doyst
 disulfonic
