@@ -30,6 +30,7 @@ runs:
       run: |
         # Fetch only the base commit needed for comparison
         git fetch --no-tags origin "${{ inputs.base-sha }}"
+        git fetch --no-tags origin "${{ inputs.head-sha }}"
       shell: bash
 
     - name: Generate impacted Nx targets
