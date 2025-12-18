@@ -9545,7 +9545,6 @@ breeching
 bisantler
 budgets
 bothridium
-barque
 burucha
 boeotia
 bogue
@@ -15640,6 +15639,7 @@ broaches
 blimpishness
 burgundies
 batterable
+barque
 buffone
 barrenest
 bulkheads
