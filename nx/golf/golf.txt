@@ -354,6 +354,7 @@ gilet
 gantlets
 gley
 graphed
+gossamer
 gasogenic
 gorefish
 gangrenous
@@ -1046,7 +1047,6 @@ gnarl
 geriatrics
 gentles
 gastrectomy
-gossamer
 garvock
 gerardias
 gorgonin
