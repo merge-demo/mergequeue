@@ -3115,7 +3115,6 @@ glucosine
 gelatinity
 grassie
 gumdrops
-gomuti
 gymnocidium
 gastful
 guffaws
@@ -10571,6 +10570,7 @@ gallivanter
 grasset
 gunmetal
 grecoue
+gomuti
 giftedly
 gurmukhi
 goffering
