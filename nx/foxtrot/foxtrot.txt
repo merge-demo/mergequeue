@@ -5823,6 +5823,7 @@ fluoridations
 fritted
 firehouse
 furbishes
+flintlocks
 froust
 filemark
 farts
@@ -6310,7 +6311,6 @@ freak
 fluxibility
 flummer
 flickerproof
-flintlocks
 fistnote
 funori
 fettling
