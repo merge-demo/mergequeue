@@ -5199,7 +5199,6 @@ adorners
 affectibility
 affecting
 aerophore
-archinformer
 antitangent
 autopoint
 aloeswood
@@ -8065,6 +8064,7 @@ appropriators
 aeciotelium
 artarine
 alfileria
+archinformer
 astert
 anthropocosmic
 acrosporous

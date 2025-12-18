@@ -5057,6 +5057,7 @@ flappet
 fermions
 figlike
 fishline
+foraminule
 fosses
 foveated
 fezes
@@ -8565,7 +8566,6 @@ frightment
 fanfarons
 frownful
 fornaxid
-foraminule
 fratchety
 featherer
 frogtongue
