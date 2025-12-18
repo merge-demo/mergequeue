@@ -1836,7 +1836,6 @@ gouts
 gemmiparity
 guinean
 gullah
-gingiva
 gatekeeper
 grizel
 grassy
@@ -7946,6 +7945,7 @@ granddaughter
 giglets
 got
 galleons
+gingiva
 glycerol
 glaziery
 goodyish
