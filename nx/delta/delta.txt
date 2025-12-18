@@ -7331,6 +7331,7 @@ diphenylenimide
 detorsion
 deashed
 disagreed
+divisional
 disvulnerability
 determiner
 diameters
@@ -14547,7 +14548,6 @@ division
 dollop
 degomme
 distill
-divisional
 diachronicness
 durio
 divisionary
