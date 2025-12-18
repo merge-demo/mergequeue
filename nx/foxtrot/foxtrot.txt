@@ -5127,6 +5127,7 @@ famulli
 fragrancies
 forewords
 furler
+felon
 fregit
 farmhousey
 fraile
@@ -5561,7 +5562,6 @@ forecited
 fluorite
 fascicle
 fibbing
-felon
 foliaceous
 fungic
 familiary
