@@ -1746,7 +1746,6 @@ gammon
 glibber
 gave
 gloeal
-glessite
 goric
 glass
 guesses
@@ -7355,6 +7354,7 @@ gratify
 gossiped
 gossipee
 goodyship
+glessite
 griffon
 glyoxime
 generalizers
