@@ -11,10 +11,6 @@ inputs:
   head-sha:
     description: "Head SHA for comparison"
     required: true
-  node-version:
-    description: "Node.js version to use"
-    required: false
-    default: "20"
 
 runs:
   using: "composite"
@@ -22,12 +18,19 @@ runs:
     - name: Setup Node.js for Nx
       uses: actions/setup-node@v4
       with:
-        node-version: ${{ inputs.node-version }}
+        node-version: 24
 
     - name: Install Nx dependencies
       run: |
         cd nx
         npm install
+      shell: bash
+
+    - name: Fetch base commit
+      run: |
+        # Fetch only the base commit needed for comparison
+        git fetch --no-tags origin "${{ inputs.base-sha }}"
+        git fetch --no-tags origin "${{ inputs.head-sha }}"
       shell: bash
 
     - name: Generate impacted Nx targets
