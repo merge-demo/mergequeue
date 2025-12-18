@@ -84,7 +84,6 @@ babels
 belinda
 botrytis
 bulwarks
-bori
 baldachins
 babhan
 balafo
@@ -6746,6 +6745,7 @@ basifies
 bilirubinuria
 benetting
 beroidae
+bori
 betimes
 berossos
 beround
