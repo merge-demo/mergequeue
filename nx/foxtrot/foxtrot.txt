@@ -9546,7 +9546,6 @@ frist
 findfault
 fullers
 forche
-foliated
 fyrd
 fishwives
 felicitate
@@ -11154,6 +11153,7 @@ flintwork
 forefather
 funereally
 fiddly
+foliated
 force
 figged
 frowy

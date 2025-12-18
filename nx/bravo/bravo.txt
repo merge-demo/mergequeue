@@ -11840,6 +11840,7 @@ bepale
 boucan
 bodykins
 bodilize
+baromotor
 bahuvrihi
 barbedness
 bellowed
@@ -17126,7 +17127,6 @@ bullfinches
 bullflower
 blende
 bettine
-baromotor
 bodeword
 backliding
 blackfins
