@@ -6141,7 +6141,6 @@ formalities
 flours
 fetterers
 flagilate
-fangled
 farthingless
 fishlines
 fabrique
@@ -11087,6 +11086,7 @@ fane
 factfinder
 flagellated
 flockless
+fangled
 functionnaire
 functors
 formational
