@@ -1181,6 +1181,7 @@ focalize
 funder
 funaria
 fifths
+folksy
 fume
 forepass
 frighter
@@ -8413,7 +8414,6 @@ futhark
 form
 fluoroscopes
 fullerboard
-folksy
 formalesque
 foistiness
 flatfootedly
