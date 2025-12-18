@@ -4031,7 +4031,6 @@ gellert
 grounds
 gilds
 gildhall
-gastrotrich
 grandness
 gildship
 gutturals
@@ -6363,6 +6362,7 @@ ganoblast
 garnitures
 gustables
 gofer
+gastrotrich
 given
 getspace
 goldspink
