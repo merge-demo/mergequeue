@@ -3871,6 +3871,7 @@ carbonify
 clept
 chewbark
 colonizers
+chalybite
 carbonification
 chigger
 consultively
@@ -8288,7 +8289,6 @@ coholder
 chaleh
 chalybeate
 chalybes
-chalybite
 chalice
 chancelry
 chaliced
