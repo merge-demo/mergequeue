@@ -15152,6 +15152,7 @@ disallows
 dullpate
 decayable
 doing
+durables
 discopodous
 dotish
 doitkin
@@ -17711,7 +17712,6 @@ dubbin
 disused
 demipauldron
 discriminable
-durables
 dedifferentiation
 decanonization
 dubbins
