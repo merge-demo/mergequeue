@@ -12100,7 +12100,6 @@ anastrophy
 advocator
 advisements
 activital
-anat
 anatase
 ardebs
 anatases
@@ -19792,6 +19791,7 @@ alteratively
 armamentarium
 autoskeleton
 affeerment
+anat
 attachable
 armangite
 adularia
