@@ -3412,6 +3412,7 @@ dyscrasia
 decarboxylase
 decolorisation
 disadorn
+degauss
 donet
 deflector
 dichlorvos
@@ -14482,7 +14483,6 @@ dihelios
 decoupling
 delly
 deckhouse
-degauss
 diphyzooid
 decapitating
 devitaminize
