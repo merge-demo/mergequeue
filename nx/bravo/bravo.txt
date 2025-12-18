@@ -2847,7 +2847,6 @@ backslashes
 bitterbump
 bullionist
 buttonmold
-barbery
 barrabora
 barrack
 borh
@@ -7793,6 +7792,7 @@ biography
 blessedest
 ballasts
 burrow
+barbery
 biauricular
 backhouse
 bedstock
