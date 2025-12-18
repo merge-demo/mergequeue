@@ -2843,7 +2843,6 @@ canonicals
 condiddled
 countercharge
 canonisation
-contermine
 cadaverine
 canonised
 canoniser
@@ -24559,6 +24558,7 @@ copers
 cutches
 coperta
 copes
+contermine
 chelidon
 cantate
 cophosis
