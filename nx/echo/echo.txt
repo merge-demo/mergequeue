@@ -3921,7 +3921,6 @@ enalid
 exede
 examinability
 epiglottis
-endexine
 emissory
 emitting
 entamebas
@@ -9680,6 +9679,7 @@ eclipsable
 embryotomies
 electrophysiologist
 ectocarpaceae
+endexine
 evaginate
 extrapulmonary
 espousement
