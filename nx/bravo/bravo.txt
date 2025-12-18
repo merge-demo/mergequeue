@@ -1881,7 +1881,6 @@ bandle
 blastoff
 bushcraft
 breadwinners
-bandmaster
 brainsickly
 bando
 besieger
@@ -9243,6 +9242,7 @@ bubale
 broadsides
 bacterioidal
 bedouinism
+bandmaster
 bothersomeness
 balewort
 bracteiform
