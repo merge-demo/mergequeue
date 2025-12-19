@@ -5307,7 +5307,6 @@ gamelan
 gromil
 glycerite
 gigmanism
-glycerolate
 gymnadeniopsis
 glyceroxide
 glycide
@@ -9811,6 +9810,7 @@ gorce
 grantor
 gue
 globulinuria
+glycerolate
 glossemes
 glares
 gnathostoma
