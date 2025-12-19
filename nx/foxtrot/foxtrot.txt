@@ -6436,7 +6436,6 @@ frivoled
 frogeye
 fluoaluminate
 fainted
-frictionable
 flatcap
 fairs
 fibrinolysis
@@ -9888,6 +9887,7 @@ flintstone
 fewnesses
 folksey
 flitching
+frictionable
 fraghan
 frits
 friskier
