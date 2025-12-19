@@ -1683,7 +1683,6 @@ gastroduodenitis
 guadua
 gastroduodenostomy
 gastritis
-ganodont
 gottfried
 gamed
 gommier
@@ -2691,6 +2690,7 @@ gemarist
 gigantocyte
 genioglossal
 gastroenterologists
+ganodont
 globoids
 geoteuthis
 genioglossus
