@@ -3592,7 +3592,6 @@ bathometry
 blockmaking
 bathool
 balneary
-boomkins
 bathophobia
 buvette
 bathos
@@ -13910,6 +13909,7 @@ bowshot
 bulbaceous
 brainish
 bowshots
+boomkins
 bombarder
 backstopped
 backhauled
