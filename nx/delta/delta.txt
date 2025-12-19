@@ -775,7 +775,6 @@ dandisette
 decoyer
 dandizette
 dayflies
-decasyllabic
 duvetyne
 destains
 disastrously
@@ -5718,6 +5717,7 @@ dipneumonous
 decastich
 dysthymia
 drepanid
+decasyllabic
 demit
 deplorabilia
 dextrane
