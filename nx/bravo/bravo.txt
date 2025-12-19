@@ -5293,7 +5293,6 @@ beggingly
 birsy
 backstab
 beneficiaire
-buddy
 brachytic
 barretries
 boltonia
@@ -11283,6 +11282,7 @@ blowing
 blowings
 basify
 brigandage
+buddy
 belage
 bredstitch
 blowiron
