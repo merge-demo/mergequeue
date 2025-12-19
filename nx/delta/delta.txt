@@ -1151,7 +1151,6 @@ decadarchy
 desertic
 dashplate
 dropflower
-depaint
 duracine
 dasyatis
 daylit
@@ -14379,6 +14378,7 @@ drillmaster
 divagationally
 divan
 dipolsphene
+depaint
 doley
 divans
 debatably
