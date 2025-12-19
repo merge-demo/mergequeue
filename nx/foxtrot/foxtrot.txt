@@ -5694,6 +5694,7 @@ fluffer
 ferratin
 footpound
 folioliferous
+fluidmeter
 fresnels
 factional
 facilitator
@@ -6281,7 +6282,6 @@ flared
 fissiparation
 fortissimos
 footlock
-fluidmeter
 fearnought
 fakirism
 forceful
