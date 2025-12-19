@@ -7847,7 +7847,6 @@ bibiri
 brad
 boondoggles
 barefisted
-bartizan
 bibitory
 bothridiums
 bohmite
@@ -8994,6 +8993,7 @@ busybodyish
 bedstands
 bioluminescence
 bewhite
+bartizan
 brender
 bremsstrahlung
 bacterioagglutinin
