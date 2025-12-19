@@ -10873,7 +10873,6 @@ bribegiver
 boatwise
 blimey
 brokership
-basis
 blent
 blattiform
 backpacks
@@ -11458,6 +11457,7 @@ bivious
 barytones
 bolthead
 bluetit
+basis
 bluffly
 bullhoof
 bejade
