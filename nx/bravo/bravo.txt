@@ -2522,7 +2522,6 @@ beflowers
 baggy
 bariatrician
 banderilla
-baric
 barycenter
 bemused
 burmite
@@ -7611,6 +7610,7 @@ bewizard
 bombycina
 blandished
 bimolecular
+baric
 beechy
 beeyard
 brog
