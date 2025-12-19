@@ -3616,7 +3616,6 @@ alces
 anomaloscope
 adenoacanthoma
 adenocarcinomas
-adenochondroma
 antipellagric
 adenochrome
 abnumerable
@@ -4766,6 +4765,7 @@ abbreviator
 avaunt
 anthologizing
 aftermath
+adenochondroma
 asterionella
 acarology
 anaretic
