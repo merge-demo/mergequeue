@@ -10241,7 +10241,6 @@ emphraxis
 ethylenimine
 esperanto
 exasperated
-epistolist
 epigenous
 emanationist
 esponton
@@ -12563,6 +12562,7 @@ eranist
 extinction
 envied
 enherit
+epistolist
 entryman
 elkdom
 eft
