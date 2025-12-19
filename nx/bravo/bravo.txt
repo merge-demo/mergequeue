@@ -3980,7 +3980,6 @@ bespy
 beaching
 beachman
 buenas
-blinky
 berchta
 bounteousness
 becrawl
@@ -7351,6 +7350,7 @@ bilbies
 bunker
 bibliolatrist
 becumber
+blinky
 brasilia
 bailiery
 balusters
