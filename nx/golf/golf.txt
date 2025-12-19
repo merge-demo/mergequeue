@@ -5623,7 +5623,6 @@ gymnasium
 golfers
 glossocomium
 gruelingly
-guidebook
 gruidae
 gallicanism
 gastrasthenia
@@ -9296,6 +9295,7 @@ gurge
 gangliate
 galactophagous
 gunj
+guidebook
 gi
 geodynamicist
 grapeline
