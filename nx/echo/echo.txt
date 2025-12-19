@@ -3586,7 +3586,6 @@ euchlaena
 encraal
 embossage
 embossed
-enbibe
 embossing
 emulsifications
 embossman
@@ -8124,6 +8123,7 @@ electrophotomicrography
 epicoelia
 encephalothlipsis
 electrovection
+enbibe
 embellish
 episarkine
 ethnology
