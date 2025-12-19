@@ -4435,6 +4435,7 @@ becoiffed
 bulkiness
 bludging
 beclogs
+bonspells
 bretonian
 bilabials
 beclothe
@@ -18293,7 +18294,6 @@ bowless
 buttinski
 bourout
 buttled
-bonspells
 buttock
 balachan
 banyans
