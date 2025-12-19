@@ -12873,7 +12873,6 @@ dyebeck
 demerited
 dromond
 dismissal
-dismissals
 dismissed
 distemperate
 dismisses
@@ -17556,6 +17555,7 @@ dactyls
 drumlins
 dorsiferous
 diciest
+dismissals
 drumloidal
 drummer
 duckhearted
