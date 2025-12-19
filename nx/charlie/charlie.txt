@@ -9019,7 +9019,6 @@ countergauge
 cookings
 charlatanic
 charlatanistic
-cgs
 charlatans
 charleys
 compaa
@@ -11409,6 +11408,7 @@ chlorozincate
 chlorpheniramine
 cloggily
 carib
+cgs
 cellulomonadeae
 chemotroph
 chlorpicrin
