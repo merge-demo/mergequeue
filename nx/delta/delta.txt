@@ -2690,7 +2690,6 @@ decompresses
 detectaphone
 demiplacate
 dogies
-duckies
 dcollet
 deconcentrate
 dhurnas
@@ -15529,6 +15528,7 @@ diopsides
 deliquesced
 disaffection
 disintegrationist
+duckies
 disvalued
 derobe
 dispassionateness
