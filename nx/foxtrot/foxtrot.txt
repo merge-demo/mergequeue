@@ -1198,7 +1198,6 @@ fright
 fund
 fluoroscopy
 fleech
-fears
 fascistization
 foxproof
 fountainlike
@@ -8989,6 +8988,7 @@ foreshadower
 frontally
 fourrageres
 fox
+fears
 fantaddish
 flixweed
 fuster
