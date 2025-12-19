@@ -1707,6 +1707,7 @@ calosoma
 calotermes
 calotype
 cyclodiolefine
+contrasty
 calotypic
 calotypist
 crossbolt
@@ -3350,7 +3351,6 @@ coderives
 caponize
 crispate
 caponized
-contrasty
 caponizer
 caponizing
 caponniere
