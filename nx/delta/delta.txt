@@ -6379,7 +6379,6 @@ dustmen
 diplotene
 disassociation
 dorsiventral
-dielec
 derodidymus
 derog
 demeanour
@@ -14369,6 +14368,7 @@ diurnule
 dimensuration
 diuron
 demeaned
+dielec
 dielytra
 doled
 diva
