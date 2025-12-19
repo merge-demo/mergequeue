@@ -3655,7 +3655,6 @@ fiftieths
 fibrillar
 freshed
 foretype
-feverberry
 filigrane
 furlana
 frangula
@@ -6164,6 +6163,7 @@ fewness
 fcp
 fewneses
 farrieries
+feverberry
 fabella
 flowcharted
 fungibles
