@@ -5817,6 +5817,7 @@ agatized
 agatizes
 agatizing
 agatoid
+arctan
 alarbus
 agaze
 agallop
@@ -19164,7 +19165,6 @@ adjiger
 allentiac
 arthropoda
 accessorized
-arctan
 attendances
 abusable
 antepretonic
