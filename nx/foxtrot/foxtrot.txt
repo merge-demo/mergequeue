@@ -393,7 +393,6 @@ fairy
 foresettle
 fructuous
 failings
-fittingness
 factors
 flabellate
 fallaway
@@ -5429,6 +5428,7 @@ feasten
 forefigure
 furor
 flurt
+fittingness
 fault
 firstfruits
 finnip
