@@ -8756,7 +8756,6 @@ freddo
 forbiddable
 flogged
 followership
-fortuuned
 forester
 fossule
 fiddlers
@@ -9333,6 +9332,7 @@ freath
 fathoming
 flane
 fewmets
+fortuuned
 fromward
 ferromagnesian
 frangulic
