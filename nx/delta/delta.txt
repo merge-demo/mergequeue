@@ -6088,7 +6088,6 @@ diastasic
 dysmenorrhoea
 dream
 dactyliographic
-dequeues
 der
 deboites
 dendrometer
@@ -6470,6 +6469,7 @@ desands
 desc
 descale
 downrightly
+dequeues
 descant
 dentinoblast
 disencumber
