@@ -2819,7 +2819,6 @@ exampleless
 ecodeme
 eleomargaric
 encephalon
-eleoplast
 epipolic
 equivalencing
 externalness
@@ -9048,6 +9047,7 @@ epiphyll
 entria
 ephesine
 emlen
+eleoplast
 endothermic
 exocyclic
 equiglacial
