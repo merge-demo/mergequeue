@@ -824,6 +824,7 @@ genseng
 gambogian
 gombroons
 grangerise
+goban
 genistin
 granulater
 groutiest
@@ -6257,7 +6258,6 @@ greats
 gormandizing
 gregorianizer
 gob
-goban
 greediness
 gadslid
 gobber
