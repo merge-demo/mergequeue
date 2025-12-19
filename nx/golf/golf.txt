@@ -828,7 +828,6 @@ grangerise
 goban
 genistin
 granulater
-groutiest
 geonegative
 gamboled
 gillar
@@ -8958,6 +8957,7 @@ getae
 gallicola
 grizzlyman
 greenth
+groutiest
 gesso
 glycogelatin
 germless
