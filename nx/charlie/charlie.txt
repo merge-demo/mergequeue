@@ -7442,7 +7442,6 @@ cerambycid
 coruscations
 cerambycidae
 cyclonist
-ceramicite
 catdom
 ceramics
 cledge
@@ -23365,6 +23364,7 @@ ceratosaurus
 contagion
 contagioned
 computation
+ceramicite
 cuculi
 cumulating
 colibert
