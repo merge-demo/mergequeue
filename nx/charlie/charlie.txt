@@ -14388,6 +14388,7 @@ curdler
 circumvolve
 circumvolved
 circumzenithal
+crosses
 circus
 circusy
 correspondents
@@ -21217,7 +21218,6 @@ cricoidectomy
 cananaean
 cospecific
 conceptualize
-crosses
 chrysamine
 conceptualized
 chonta
