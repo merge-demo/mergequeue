@@ -3889,7 +3889,6 @@ disp
 dyscrasite
 deerdog
 demihogshead
-dewy
 damone
 deityship
 dinobryon
@@ -16197,6 +16196,7 @@ drupetum
 draconic
 dialector
 deerskins
+dewy
 dizens
 deallocates
 defats
