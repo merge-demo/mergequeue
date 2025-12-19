@@ -54,7 +54,6 @@ electroretinograph
 excursion
 escarped
 eremite
-endothelium
 exhibiter
 evenblush
 earldoms
@@ -10445,6 +10444,7 @@ embryoniferous
 etymon
 ectocondyle
 equalities
+endothelium
 etiolated
 etiology
 europeanism
