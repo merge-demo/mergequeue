@@ -11212,7 +11212,6 @@ amphictyon
 amphictyony
 amphictyonian
 antistrophic
-achaenodon
 amphictyons
 anisospore
 amphid
@@ -22161,6 +22160,7 @@ apetalousness
 archeology
 asthenolith
 asthenology
+achaenodon
 anabaptistry
 asthenophobia
 anguid
