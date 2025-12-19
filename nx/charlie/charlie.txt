@@ -6259,7 +6259,6 @@ christine
 cauldrife
 casquette
 ctenoidei
-calcaneocuboid
 cauldrifeness
 cauldrons
 cottar
@@ -10503,6 +10502,7 @@ chylemia
 chyles
 chiliadron
 chiliads
+calcaneocuboid
 connexity
 chiliahedron
 chiliarchia
