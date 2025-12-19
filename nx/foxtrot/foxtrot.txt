@@ -2294,7 +2294,6 @@ formulable
 flotation
 foreface
 fistulizing
-flagelliferous
 fenestrae
 foreword
 fenestrated
@@ -6406,6 +6405,7 @@ fecundatory
 formularization
 flathead
 furanoside
+flagelliferous
 floatmaker
 fireworm
 fatiguabilities
