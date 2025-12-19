@@ -3120,7 +3120,6 @@ gomuti
 gymnocidium
 gastful
 guffaws
-gullage
 gurglet
 grees
 grips
@@ -10285,6 +10284,7 @@ gaumish
 grotesquery
 grecque
 gourmet
+gullage
 guitarist
 gelandelaufer
 gentlewomanish
