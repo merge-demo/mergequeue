@@ -4945,6 +4945,7 @@ extradictable
 endamoebas
 endamoebidae
 equations
+entoils
 endangitis
 expertised
 endarteteria
@@ -6824,7 +6825,6 @@ elaphine
 enrooted
 entoil
 eggler
-entoils
 entom
 extender
 episternalia
