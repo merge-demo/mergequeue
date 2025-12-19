@@ -6054,6 +6054,7 @@ gallocyanin
 gymnocarpic
 giesel
 gunate
+glasshouse
 geyerite
 grungy
 grislier
@@ -10809,7 +10810,6 @@ guttlers
 gainly
 goblinism
 gonenesses
-glasshouse
 glibbery
 gossipping
 geniolatry
