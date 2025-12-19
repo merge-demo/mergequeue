@@ -455,7 +455,6 @@ daysides
 deprevation
 daysmen
 dayspring
-direst
 disthrall
 daswen
 daytimes
@@ -17196,6 +17195,7 @@ decursive
 depletory
 drive
 diastrophism
+direst
 dehair
 deermeat
 disgustingness
