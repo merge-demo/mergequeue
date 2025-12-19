@@ -11635,7 +11635,6 @@ boatage
 bacterioscopical
 barspoon
 boatbuilding
-boathook
 boathouse
 backbends
 boffos
@@ -13858,6 +13857,7 @@ barleybird
 beaveries
 brooch
 biduous
+boathook
 bang
 bowheads
 bowie
