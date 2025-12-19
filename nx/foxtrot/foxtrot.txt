@@ -5080,7 +5080,6 @@ fumettes
 frsikets
 flagboat
 flareback
-furnishness
 fishweir
 flossa
 felicitated
@@ -10275,6 +10274,7 @@ frammit
 fibrinolysin
 fatheadedness
 falernian
+furnishness
 folkmot
 faultless
 fromenty
