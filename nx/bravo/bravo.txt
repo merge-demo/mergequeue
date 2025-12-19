@@ -1315,6 +1315,7 @@ basellaceous
 balatron
 benzaldiphenyl
 balatte
+boser
 bergfall
 bermudian
 bernoullian
@@ -1486,7 +1487,6 @@ bespottedness
 beglad
 bathyhyperesthesia
 bemadamed
-boser
 bacteremia
 borstal
 bistable
