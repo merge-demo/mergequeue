@@ -8659,7 +8659,6 @@ australoid
 alleys
 alephzero
 afrasian
-automatonlike
 alleyway
 alchitran
 abled
@@ -21997,6 +21996,7 @@ apothesis
 antiperiodic
 act
 assuming
+automatonlike
 assumingly
 assummon
 assumptious
