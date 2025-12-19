@@ -6783,6 +6783,7 @@ gamelang
 ganam
 gamgee
 gratias
+gymnotid
 gobbe
 gud
 glossospasm
@@ -9829,7 +9830,6 @@ gibbets
 guayabi
 guaiac
 goitcho
-gymnotid
 guaiaconic
 glebous
 guesstimated
