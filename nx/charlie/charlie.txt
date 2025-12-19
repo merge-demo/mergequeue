@@ -16076,7 +16076,6 @@ cinclidae
 clyde
 collards
 clydesider
-client
 clientage
 cliental
 classer
@@ -23799,6 +23798,7 @@ contrastiveness
 contrasts
 contrasuggestible
 cruiskeen
+client
 catface
 contratenor
 contravalence
