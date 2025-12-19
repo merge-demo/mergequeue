@@ -8082,7 +8082,6 @@ bruxism
 brast
 burrobrush
 bid
-bidactylous
 biddability
 biddably
 benedict
@@ -15079,6 +15078,7 @@ blindism
 baldricks
 bankruptship
 brushmaker
+bidactylous
 bodiment
 bastarda
 begot
