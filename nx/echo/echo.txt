@@ -2569,7 +2569,6 @@ enchodontidae
 encopreses
 extremes
 exploitatively
-equitriangular
 enchanters
 etrogs
 electron
@@ -6805,6 +6804,7 @@ entitling
 ecclesioclastic
 entoblastic
 entobronchium
+equitriangular
 eelgrass
 ellinge
 entocyemate
