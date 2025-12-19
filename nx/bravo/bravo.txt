@@ -10436,6 +10436,7 @@ bugseed
 boyards
 barytostrontianite
 blaoner
+blenk
 burinist
 belibeled
 backyarder
@@ -10711,7 +10712,6 @@ bowhead
 blenheim
 bibl
 belap
-blenk
 blennadenitis
 backsetting
 blennemesis
