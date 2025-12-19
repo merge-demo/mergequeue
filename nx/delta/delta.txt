@@ -1986,7 +1986,6 @@ dau
 downcastly
 dragbar
 dupondidii
-disvalue
 dopant
 discostate
 debuted
@@ -16310,6 +16309,7 @@ defended
 downshift
 downshifted
 downshore
+disvalue
 dephlegmatize
 dibbler
 dragonism
