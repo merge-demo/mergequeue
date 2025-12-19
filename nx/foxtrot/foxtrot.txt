@@ -5112,6 +5112,7 @@ freighting
 falasha
 forebespeak
 fatherling
+fractionise
 funking
 forbidding
 forthy
@@ -7567,7 +7568,6 @@ figworts
 floggers
 ficoidal
 foggier
-fractionise
 forecourts
 freeholding
 fulmen
