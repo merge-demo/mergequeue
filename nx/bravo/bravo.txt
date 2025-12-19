@@ -11951,6 +11951,7 @@ babakoto
 blastemas
 boggler
 bannerol
+buffeted
 bogglers
 boggling
 bessarabian
@@ -16840,7 +16841,6 @@ balimbing
 bissextile
 bohemians
 brachyprism
-buffeted
 brotchen
 botchiness
 borderless
