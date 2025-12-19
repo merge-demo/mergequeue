@@ -4301,7 +4301,6 @@ coater
 carfuffle
 capiteaux
 camauros
-centroidal
 carfuffling
 carful
 congregationalize
@@ -16590,6 +16589,7 @@ clonisms
 chaudron
 conjurer
 clerodendron
+centroidal
 choleuria
 cyclothurus
 coadmire
