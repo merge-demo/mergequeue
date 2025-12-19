@@ -4784,6 +4784,7 @@ demihag
 dodecatylic
 deair
 disseizor
+diagonalize
 deanimalize
 diemaker
 dentalizing
@@ -10575,7 +10576,6 @@ debouched
 decorticate
 despotist
 diplogenesis
-diagonalize
 deseam
 dirges
 doxographical
