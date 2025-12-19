@@ -9792,7 +9792,6 @@ gruntling
 gazook
 gruppo
 galeate
-guebre
 grutch
 galeche
 gumfield
@@ -10571,6 +10570,7 @@ gyneocracy
 gallivanter
 grasset
 gunmetal
+guebre
 grecoue
 giftedly
 gurmukhi
