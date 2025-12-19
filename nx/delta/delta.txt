@@ -2421,7 +2421,6 @@ dispelled
 donny
 dripstick
 disaffects
-decima
 decimalism
 dueling
 decimalization
@@ -8724,6 +8723,7 @@ dispensatrix
 demisacrilege
 diathesis
 dirl
+decima
 dimps
 diatoma
 diapase
