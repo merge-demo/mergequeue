@@ -1648,6 +1648,7 @@ four
 fdnames
 forthcut
 fluible
+faddisms
 flamboyantly
 furbelowed
 focally
@@ -11490,7 +11491,6 @@ furtively
 furud
 flamboyant
 flotant
-faddisms
 fructuousness
 fashery
 furunculous
