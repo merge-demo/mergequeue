@@ -13801,7 +13801,6 @@ carcinophobia
 cinenchyma
 concreate
 cinene
-cinenegative
 cineol
 creeky
 counterflow
@@ -22578,6 +22577,7 @@ connected
 connectedly
 connecter
 confabbed
+cinenegative
 connectibly
 chamferer
 connecticut
