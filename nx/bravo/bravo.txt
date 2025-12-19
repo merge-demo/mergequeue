@@ -4400,6 +4400,7 @@ bakeboard
 bonzian
 bepress
 barrable
+booleans
 butyrousness
 bickers
 bushwhacker
@@ -12796,7 +12797,6 @@ bookwards
 byronite
 bookworm
 bookwright
-booleans
 booleys
 bardy
 booly
