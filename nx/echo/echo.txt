@@ -8902,6 +8902,7 @@ ergo
 extrameridian
 educationally
 ergodic
+evenhead
 euphoria
 estaminets
 expectorators
@@ -9522,7 +9523,6 @@ esculents
 esculin
 expansively
 essences
-evenhead
 eugenesis
 epimorphism
 extrasolar
