@@ -2297,6 +2297,7 @@ canailles
 cymoid
 chargeship
 commonwealth
+cubitoplantar
 cytopahgous
 canakin
 canakins
@@ -23802,7 +23803,6 @@ client
 catface
 contratenor
 contravalence
-cubitoplantar
 contravene
 contravener
 cardueline
