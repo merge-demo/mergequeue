@@ -3905,6 +3905,7 @@ breadline
 baxtone
 brachyskelic
 boughten
+begray
 bazars
 bint
 brockage
@@ -5361,7 +5362,6 @@ bonace
 blueweed
 besoothement
 buyable
-begray
 bromobenzene
 barodynamic
 barbarisation
