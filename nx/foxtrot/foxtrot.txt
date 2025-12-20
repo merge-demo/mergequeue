@@ -933,6 +933,7 @@ ferneries
 flyleaf
 foundry
 ft
+foragers
 fasola
 fourchite
 fortunateness
@@ -8928,7 +8929,6 @@ favorableness
 foundrous
 farhands
 flotative
-foragers
 flu
 fountain
 fragged
