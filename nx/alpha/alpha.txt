@@ -3221,7 +3221,6 @@ alpist
 activation
 azaserine
 actuation
-acturience
 acuaesthesia
 achingly
 acuclosure
@@ -16149,6 +16148,7 @@ antiship
 antishipping
 amphitryon
 antisideric
+acturience
 antisymmetry
 anthophobia
 aeroplanist
