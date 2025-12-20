@@ -15847,7 +15847,6 @@ cleaver
 cleavers
 crusilee
 coremaker
-clamb
 cleche
 capacitance
 clechee
@@ -28164,6 +28163,7 @@ craniopathic
 craniopharyngeal
 code
 craniorhachischisis
+clamb
 countercheck
 cranioschisis
 cranioscopy
