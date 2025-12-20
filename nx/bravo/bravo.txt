@@ -9209,7 +9209,6 @@ bipedality
 bipeds
 bipeltate
 bipennate
-bedlamize
 brunches
 bevor
 baldrics
@@ -17722,6 +17721,7 @@ burned
 burner
 benempt
 billian
+bedlamize
 blastophaga
 bemuzzled
 bott
