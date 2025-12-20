@@ -7451,7 +7451,6 @@ djellab
 desmotropism
 drivable
 debating
-denude
 doctoral
 dubhgall
 distalia
@@ -8267,6 +8266,7 @@ diagonalizable
 diagonalization
 diagnosing
 duel
+denude
 diagonals
 deducting
 diagonalwise
