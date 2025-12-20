@@ -10418,7 +10418,6 @@ diacidic
 diphenylamine
 diphenylaminechlorarsine
 diervilla
-diphenylchloroarsine
 diphenylene
 despend
 diphenylenimine
@@ -15574,6 +15573,7 @@ diathermize
 donzels
 doob
 diazobenzene
+diphenylchloroarsine
 doodab
 demurrages
 dowdyish
