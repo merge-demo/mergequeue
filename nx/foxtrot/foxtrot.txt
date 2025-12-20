@@ -227,7 +227,6 @@ facular
 fruitworm
 feverroot
 fluorotype
-faculous
 firelock
 filibranch
 fermenting
@@ -2121,6 +2120,7 @@ fireplow
 feldsparphyre
 foreprize
 fulsome
+faculous
 favours
 foddered
 fellatrice
