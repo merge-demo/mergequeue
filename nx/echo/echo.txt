@@ -6614,7 +6614,6 @@ equiponderant
 excluding
 echinorhynchus
 esperantidist
-embryous
 enseam
 egyptianism
 expulsatory
@@ -8407,6 +8406,7 @@ elroquite
 exindusiate
 epitrope
 exclusionism
+embryous
 epivalve
 elatcha
 equerries
