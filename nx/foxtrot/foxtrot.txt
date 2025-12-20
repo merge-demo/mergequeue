@@ -6041,6 +6041,7 @@ flightiness
 finger
 fontange
 forgab
+forespeech
 frontooccipital
 flanker
 fictionise
@@ -7088,7 +7089,6 @@ foolish
 ferryboats
 fascinating
 fleapit
-forespeech
 factious
 fusional
 fingerstall
