@@ -6979,7 +6979,6 @@ excipular
 eying
 epistolar
 endostylic
-ephectic
 erian
 eyebrows
 ensaint
@@ -14064,6 +14063,7 @@ electrify
 exteroceptist
 exorcists
 echelonment
+ephectic
 exclude
 enquarter
 extracurriculum
