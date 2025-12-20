@@ -6869,7 +6869,6 @@ contented
 cellulosing
 cellulosity
 correllated
-cellulosities
 caphtor
 classicized
 cypreses
@@ -14100,6 +14099,7 @@ corticoid
 circlets
 circulated
 cochleas
+cellulosities
 circocele
 colloquialisms
 codecree
