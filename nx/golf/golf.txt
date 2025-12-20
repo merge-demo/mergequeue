@@ -5106,6 +5106,7 @@ glycan
 guilders
 gravery
 glassmaking
+gunfought
 guerite
 glyc
 gallberries
@@ -7593,7 +7594,6 @@ gheraoes
 grille
 glycosaemia
 gambians
-gunfought
 grab
 guanamine
 gullibility
