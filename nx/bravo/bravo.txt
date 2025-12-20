@@ -2745,7 +2745,6 @@ bullbat
 bismutoplagionite
 barolo
 bm
-bicolored
 benab
 bonneting
 bukeyef
@@ -9694,6 +9693,7 @@ blaewort
 bayeta
 bizes
 benj
+bicolored
 boondogglers
 ballywrack
 bisques
