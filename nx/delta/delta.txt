@@ -198,7 +198,6 @@ daemons
 daemonurgist
 defecant
 dak
-deemstership
 dysgenic
 disciplinarianism
 daffadilly
@@ -4727,6 +4726,7 @@ democracy
 diploneural
 diethylaminoethanol
 democracies
+deemstership
 democrat
 dawdles
 douar
