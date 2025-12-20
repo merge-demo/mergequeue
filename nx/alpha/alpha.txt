@@ -1664,7 +1664,6 @@ aphonias
 ainsells
 arriccios
 accueil
-acculturate
 acculturated
 acculturates
 astr
@@ -3447,6 +3446,7 @@ antroversion
 addible
 addicent
 antiknocks
+acculturate
 addictedness
 addicting
 adaptedness
