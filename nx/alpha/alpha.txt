@@ -6032,7 +6032,6 @@ arioso
 agility
 auxotrophic
 antemortal
-agilities
 attorneyship
 abecedaire
 amidofluoride
@@ -21603,6 +21602,7 @@ annexes
 applicability
 aspredo
 antirickets
+agilities
 akasha
 asprout
 antihierarchist
