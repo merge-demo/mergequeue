@@ -5340,7 +5340,6 @@ dorsoventrad
 derider
 dorsimesal
 disblame
-decoyed
 daraf
 diaphoretic
 displaced
@@ -6515,6 +6514,7 @@ despert
 dekameter
 diffracting
 deschool
+decoyed
 dirtbird
 dreggily
 distomiasis

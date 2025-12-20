@@ -2010,7 +2010,6 @@ fardels
 feetfirst
 fireworky
 fractionizing
-furlongs
 freshens
 farmers
 fieldwards
@@ -10437,6 +10436,7 @@ finnesko
 fillagree
 fescue
 follied
+furlongs
 foreadvice
 frontotemporal
 forestian
