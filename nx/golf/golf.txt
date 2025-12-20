@@ -1273,7 +1273,6 @@ griffes
 guenon
 gapper
 glutinosity
-guib
 grimaces
 galvanologist
 garran
@@ -6781,6 +6780,7 @@ garvanzo
 ganocephala
 gonionia
 genericness
+guib
 gamelang
 ganam
 gamgee
