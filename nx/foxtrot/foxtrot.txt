@@ -2884,7 +2884,6 @@ formats
 frouncing
 foaled
 flowstone
-fractioning
 fettlings
 farcin
 freighted
@@ -7080,6 +7079,7 @@ fabulousness
 foolhardiship
 foredeck
 flapperdom
+fractioning
 fraken
 fledge
 fedayeen
