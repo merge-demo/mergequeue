@@ -5813,6 +5813,7 @@ auxetics
 atlatl
 aligner
 agatized
+anuric
 agatizes
 agatizing
 agatoid
@@ -16466,7 +16467,6 @@ acrochordidae
 adulterize
 anuretic
 anury
-anuric
 arthrogenous
 arctoidea
 airish
