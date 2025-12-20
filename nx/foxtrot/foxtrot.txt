@@ -4521,6 +4521,7 @@ fuddles
 francophobia
 flagging
 favissa
+forestalling
 farmlands
 feer
 forheed
@@ -8023,7 +8024,6 @@ ferie
 flashbulb
 fungaceous
 forestal
-forestalling
 forestalls
 funerals
 flutterer
