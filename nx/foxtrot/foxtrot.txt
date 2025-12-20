@@ -4969,7 +4969,6 @@ fan
 facepiece
 floorages
 flamingant
-flong
 foremarch
 flaminical
 fomenters
@@ -8474,6 +8473,7 @@ factorized
 formatter
 father
 floridans
+flong
 flunkeyite
 fuzztail
 formularizing
