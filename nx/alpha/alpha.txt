@@ -3807,7 +3807,6 @@ ammodytidae
 adiathermancy
 antioxidase
 alcoranist
-arcticologist
 accipitrary
 acaridea
 adiathetic
@@ -11805,6 +11804,7 @@ aglimmer
 axfetch
 aparavidya
 analysers
+arcticologist
 abstentions
 aerides
 analyses
