@@ -3977,6 +3977,7 @@ flaunch
 fingerers
 feed
 fono
+fixature
 florissant
 freehanded
 falkland
@@ -11559,7 +11560,6 @@ flytier
 fulgurator
 fulmar
 futhermore
-fixature
 finnickiest
 forthbringing
 faucet
