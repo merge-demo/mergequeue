@@ -4780,7 +4780,6 @@ foulminded
 fellowshipped
 frundel
 filigera
-forceps
 flagelliform
 fever
 folie
@@ -9925,6 +9924,7 @@ ferromagnetism
 furze
 friesian
 fittable
+forceps
 friezer
 fiercely
 frig
