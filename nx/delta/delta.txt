@@ -4560,7 +4560,6 @@ disimagine
 dupes
 demimonde
 dumpishly
-disseise
 demineralization
 dovetail
 demineralized
@@ -7328,6 +7327,7 @@ determiner
 diameters
 didine
 determinism
+disseise
 dunnest
 deterministic
 dollbeer
