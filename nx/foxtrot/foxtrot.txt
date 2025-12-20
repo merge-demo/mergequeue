@@ -8014,7 +8014,6 @@ farfugium
 fletton
 fissipedia
 foredeep
-forespecified
 fll
 forespencer
 fiz
@@ -9369,6 +9368,7 @@ flocculant
 fleecier
 frankfurters
 fivers
+forespecified
 frayne
 frankish
 functionary
