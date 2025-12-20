@@ -8693,7 +8693,6 @@ equipotential
 externalize
 exconjugant
 endostyle
-epicoeliac
 epulotic
 equiprobably
 equiproportional
@@ -10589,6 +10588,7 @@ expectance
 euchrome
 euclideanism
 euclidian
+epicoeliac
 exhalant
 eucone
 eucopepoda
