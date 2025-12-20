@@ -2877,7 +2877,6 @@ barnmen
 banger
 brushland
 barraging
-battologist
 bailer
 braca
 battener
@@ -15243,6 +15242,7 @@ benchers
 bridale
 basehearted
 bridally
+battologist
 bridals
 boneheads
 briarberry
