@@ -2582,7 +2582,6 @@ giveaways
 generalized
 graywall
 guv
-gauchely
 gabbards
 gristy
 gangliasthenia
@@ -7802,6 +7801,7 @@ greeny
 grubworm
 gulleys
 gillstoup
+gauchely
 gingerwork
 glycolipine
 gargoylish
