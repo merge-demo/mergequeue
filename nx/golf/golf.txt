@@ -6781,7 +6781,6 @@ ganev
 garvanzo
 ganocephala
 gonionia
-gnosticize
 genericness
 gamelang
 ganam
@@ -8512,6 +8511,7 @@ genie
 gabling
 ginglymus
 grouchingly
+gnosticize
 grownups
 geomedical
 go
