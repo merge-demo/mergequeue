@@ -1011,7 +1011,6 @@ capuche
 caca
 calanque
 calantas
-chromocenter
 chondroid
 calapite
 caprelline
@@ -13786,6 +13785,7 @@ cinematizing
 cinematograph
 cinematography
 clarenceuxship
+chromocenter
 caving
 culpably
 chkfil
