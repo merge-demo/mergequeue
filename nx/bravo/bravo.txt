@@ -2769,6 +2769,7 @@ boose
 buboed
 boatloading
 bookies
+barycentric
 bookit
 been
 baroneting
@@ -15691,7 +15692,6 @@ blowzy
 bands
 bonbonniere
 bogglebo
-barycentric
 barbering
 battarism
 brunonia
