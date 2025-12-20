@@ -3071,7 +3071,6 @@ gossipper
 giant
 gnash
 glaciologists
-grands
 graphiter
 greensauce
 gerbils
@@ -9847,6 +9846,7 @@ gnathopoda
 grousers
 gorillas
 geckotidae
+grands
 guajillo
 gallicism
 gongoresque
