@@ -3183,7 +3183,6 @@ guardiancy
 germina
 geotechnic
 graplin
-glycans
 geraniaceae
 gazon
 griffado
@@ -9547,6 +9546,7 @@ greets
 geldability
 grouts
 grouze
+glycans
 gelatined
 glume
 gastornithidae
