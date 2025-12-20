@@ -678,6 +678,7 @@ depermed
 dampness
 dextrosuria
 diacetylene
+digestory
 despairs
 dampproofing
 dyspepsy
@@ -9495,7 +9496,6 @@ debenzolize
 desiliconize
 discussable
 digestor
-digestory
 decide
 digesture
 dinarzade
