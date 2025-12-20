@@ -16472,6 +16472,7 @@ airish
 anusim
 amphiboliferous
 argyrosomus
+asthenics
 abietinic
 almacantar
 anusvara
@@ -21896,7 +21897,6 @@ assize
 amiant
 achmetha
 archform
-asthenics
 assizes
 amphistome
 assman
