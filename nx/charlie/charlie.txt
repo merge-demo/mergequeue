@@ -8237,7 +8237,6 @@ chalazium
 chandam
 cellulomonas
 causewayed
-chalazoidite
 cercarias
 chalazoin
 candytuft
@@ -11836,6 +11835,7 @@ converter
 choplogic
 choplogical
 choregi
+chalazoidite
 cryptomonad
 candider
 chopper
