@@ -5758,6 +5758,7 @@ flyswatter
 filipiniana
 figmental
 forpass
+folksay
 frise
 flocking
 fenmen
@@ -8038,7 +8039,6 @@ faunally
 fanfoot
 fieldie
 favoured
-folksay
 fredricite
 fourteenthly
 forestation
