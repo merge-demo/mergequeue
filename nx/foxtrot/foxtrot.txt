@@ -10613,6 +10613,7 @@ forseen
 fractile
 ferity
 franc
+frontalis
 forswearing
 flumped
 forwaste
@@ -10861,7 +10862,6 @@ fossors
 flavor
 frowardly
 fon
-frontalis
 fluvioterrestrial
 fustianist
 filigreing
