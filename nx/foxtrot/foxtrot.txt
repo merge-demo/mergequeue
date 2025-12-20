@@ -4248,7 +4248,6 @@ fatting
 fireplug
 firepot
 foreflank
-fructoside
 forebooms
 flots
 frangipanni
@@ -9899,6 +9898,7 @@ freckly
 ferreters
 friendlessness
 fancier
+fructoside
 fornices
 frogskins
 forepeaks
