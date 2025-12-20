@@ -426,7 +426,6 @@ fibrotic
 festae
 fibroligamentous
 fauchards
-fur
 frockmaker
 fairship
 feal
@@ -1695,6 +1694,7 @@ foreordaining
 forehandsel
 floridian
 fearsomeness
+fur
 foreshape
 feased
 folic
