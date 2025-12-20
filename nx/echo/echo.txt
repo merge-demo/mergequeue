@@ -11682,7 +11682,6 @@ exogenism
 eadish
 exaggerate
 electrize
-etiotropic
 exaggerated
 eccentricity
 electrocautery
@@ -13678,6 +13677,7 @@ exteriorness
 espec
 emotionlessness
 ergotoxin
+etiotropic
 eurygnathic
 exterminatrix
 extraconscious
