@@ -2536,7 +2536,6 @@ drain
 dotted
 divulgater
 disregarder
-declare
 dimers
 dudgen
 drailing
@@ -17441,6 +17440,7 @@ dominium
 drouket
 deskill
 dermatographic
+declare
 damascener
 diagrammatician
 dentiroster

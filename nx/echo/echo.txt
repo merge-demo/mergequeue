@@ -1260,7 +1260,6 @@ emperors
 enrobe
 ecclesiarch
 eversive
-eking
 electrocystoscope
 equalness
 eclated
@@ -5965,6 +5964,7 @@ eruc
 erythrose
 euflavine
 epicondylitis
+eking
 expectorates
 enframing
 enigma
