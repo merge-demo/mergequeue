@@ -3333,7 +3333,6 @@ beings
 bandurria
 basketmaking
 bonnets
-barnacling
 batikuling
 basketware
 bluecoat
@@ -14989,6 +14988,7 @@ boatly
 breccias
 brecciated
 brecham
+barnacling
 bursar
 brechams
 brechans
