@@ -7532,7 +7532,6 @@ betaine
 businessman
 bevillain
 befell
-bonspell
 bashaws
 bedote
 breezeless
@@ -8416,6 +8415,7 @@ bilalo
 bacony
 beaverette
 bocage
+bonspell
 balolo
 bleareye
 bittium
