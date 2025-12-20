@@ -5589,6 +5589,7 @@ flintiness
 flicker
 fixity
 flocculently
+frapler
 fiords
 ferfel
 flickermouse
@@ -9273,7 +9274,6 @@ frangipani
 framea
 framer
 frames
-frapler
 forename
 footmenfootpad
 fungologist
