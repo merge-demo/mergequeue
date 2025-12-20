@@ -617,7 +617,6 @@ gorgoniacea
 ghostweed
 graveside
 gloryless
-galliots
 goulashes
 gurnets
 gramaries
@@ -5099,6 +5098,7 @@ glasslikeness
 goosefoots
 garrya
 gilled
+galliots
 gypper
 griffins
 granza
