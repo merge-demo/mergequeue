@@ -18300,7 +18300,6 @@ convexes
 coffret
 chiming
 coffrets
-clarifiable
 coffs
 cofighter
 cellmate
@@ -22930,6 +22929,7 @@ consignatary
 consignataries
 counterretreat
 comforting
+clarifiable
 chromosomic
 consigned
 consignee
