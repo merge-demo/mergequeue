@@ -4913,6 +4913,7 @@ encumbrance
 extrabureau
 english
 erythroneocytosis
+encumbrous
 evolves
 ephyrula
 eyednesses
@@ -12333,7 +12334,6 @@ erythroglucin
 effusiometer
 emanators
 exerted
-encumbrous
 excepable
 eaning
 eviscerations
