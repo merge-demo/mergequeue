@@ -8379,7 +8379,6 @@ chamacoco
 chamaebatia
 chamaecranial
 cogons
-centry
 compinge
 corkir
 chamaelirium
@@ -13092,6 +13091,7 @@ cybernetic
 chimblies
 cybernetical
 cybernetically
+centry
 cybernetician
 cyberneticist
 cybernetics
