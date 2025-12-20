@@ -1217,6 +1217,7 @@ dextrans
 datary
 dataries
 depeach
+dorsomedial
 datasetname
 dithers
 datcha
@@ -15734,7 +15735,6 @@ dewools
 disbuds
 deciduary
 doris
-dorsomedial
 diaxonic
 disyntheme
 dater
