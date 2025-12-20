@@ -16457,7 +16457,6 @@ condominiiums
 creamcup
 cloamen
 christliness
-clobber
 clobbers
 clochette
 clockbird
@@ -17698,6 +17697,7 @@ colonisation
 christianization
 connecting
 cockades
+clobber
 canorously
 camelina
 curviform
