@@ -5551,6 +5551,7 @@ catadioptrical
 catadioptrics
 conserved
 chantment
+counterbranch
 catadrome
 chlorophaeite
 catadupe
@@ -26746,7 +26747,6 @@ celandine
 counterborer
 counterboring
 counterboulle
-counterbranch
 curbstones
 counterbrand
 confutable
