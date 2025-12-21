@@ -2442,6 +2442,7 @@ goas
 gype
 grograms
 glutch
+gunship
 grandpas
 gemmologists
 gekkones
@@ -10709,7 +10710,6 @@ garbanzo
 gu
 grams
 gumma
-gunship
 gismondine
 gastrolytic
 gutnic
