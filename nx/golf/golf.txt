@@ -2797,7 +2797,6 @@ gluttonised
 graduals
 gurr
 gemeinde
-gamphrel
 gaunt
 growling
 gimmor
@@ -8551,6 +8550,7 @@ gasolene
 gemuti
 geonoma
 gravicembalos
+gamphrel
 garrotter
 glutton
 gravida
