@@ -9233,7 +9233,6 @@ dollface
 divined
 disinsectization
 dislegitimate
-drawcard
 digitaliform
 diemakers
 duckie
@@ -17338,6 +17337,7 @@ drooper
 dismays
 doggerels
 dichotomies
+drawcard
 druggier
 droopier
 despicableness
