@@ -3793,7 +3793,6 @@ acephalina
 adamantoblastoma
 accomplis
 aedility
-adiaphory
 afer
 adiaphorist
 alamo
@@ -5178,6 +5177,7 @@ antireticular
 anticommunist
 afenil
 autochanger
+adiaphory
 afetal
 agomensin
 apyrexia
