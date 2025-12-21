@@ -5323,7 +5323,6 @@ accra
 afflicter
 afflicting
 afflictingly
-afflictionless
 abranchian
 ambulante
 archoplasm
@@ -17575,6 +17574,7 @@ appendency
 aquacultural
 appendicalgia
 ausonian
+afflictionless
 antipodist
 ascii
 alienees

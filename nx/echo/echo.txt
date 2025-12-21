@@ -3670,7 +3670,6 @@ euploids
 exscinded
 endocrinopathic
 entangling
-embryogenesis
 eunomy
 extravert
 encolpion
@@ -9241,6 +9240,7 @@ etymol
 erotomaniac
 erotomaniacal
 excression
+embryogenesis
 eaters
 erythrozyme
 enweaved
