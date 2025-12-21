@@ -4180,6 +4180,7 @@ gaslit
 gainful
 gyrocompass
 geographical
+glossophaga
 gaggles
 gundogs
 gauds
@@ -6389,7 +6390,6 @@ gospelwards
 germanophile
 greenwort
 guesstimate
-glossophaga
 gulmohar
 galloped
 gamesomeness
