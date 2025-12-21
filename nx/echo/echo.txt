@@ -1890,7 +1890,6 @@ elapsed
 endamage
 everwho
 eightball
-eir
 eclat
 epurate
 eptatretidae
@@ -11308,6 +11307,7 @@ epoche
 excoriator
 earthbred
 evaporators
+eir
 ecurie
 equisurface
 englander
