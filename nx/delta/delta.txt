@@ -7391,7 +7391,6 @@ deliriums
 dermacentor
 diadoche
 daric
-detoxicant
 dehorter
 dicyclist
 diadochian
@@ -17574,6 +17573,7 @@ drums
 decalcifier
 drumstick
 drumwood
+detoxicant
 drunk
 drunkards
 desuperheater
