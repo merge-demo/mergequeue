@@ -6145,6 +6145,7 @@ enlodge
 episkotister
 estuary
 endocystitis
+enforced
 enlodgement
 enlumine
 entheos
@@ -11518,7 +11519,6 @@ elegancies
 epicurean
 elastometer
 emcee
-enforced
 encheiria
 erotylid
 exhaling
