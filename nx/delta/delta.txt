@@ -5394,7 +5394,6 @@ deyhouse
 decoction
 delicatesse
 daffodil
-denudant
 dendra
 decontrol
 delim
@@ -14523,6 +14522,7 @@ demotic
 dyadic
 divinister
 deallocating
+denudant
 dissimuler
 discoverers
 divinized
