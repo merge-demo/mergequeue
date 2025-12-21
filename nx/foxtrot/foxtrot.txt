@@ -3007,7 +3007,6 @@ furiousness
 fossiform
 faintheartedness
 filmiform
-forma
 fiars
 fiascos
 ferricyanogen
@@ -10898,6 +10897,7 @@ fliskier
 forsworn
 falloffs
 fides
+forma
 fulleries
 finfish
 fleets
