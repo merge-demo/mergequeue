@@ -1281,7 +1281,6 @@ granage
 ged
 gavall
 goethites
-gratten
 gromatical
 gyrator
 galium
@@ -4097,6 +4096,7 @@ gobernadora
 gegenschein
 gogglebox
 genus
+gratten
 gelechiid
 goosemouth
 gaulic
