@@ -5101,6 +5101,7 @@ baselines
 bowellike
 bejuco
 blazoning
+boatmaster
 befittingness
 behoof
 boundedness
@@ -12077,7 +12078,6 @@ brinkmanship
 brunellia
 brocading
 brit
-boatmaster
 bradycauma
 bulbilla
 boites
