@@ -8167,7 +8167,6 @@ fibulas
 fasthold
 fribbling
 fideicommissor
-foundlings
 fingerboards
 fuliginous
 fidgeting
@@ -10385,6 +10384,7 @@ farmyards
 fungite
 flusterment
 fibroplasia
+foundlings
 fonctionnaire
 fecundities
 fertilizable
