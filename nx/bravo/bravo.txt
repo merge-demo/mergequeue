@@ -6413,7 +6413,6 @@ behedge
 benzophenothiazine
 benzophloroglucinol
 betting
-benedight
 bewake
 benzophthalazine
 breakup
@@ -8749,6 +8748,7 @@ brontozoum
 birchen
 binal
 bedrown
+benedight
 bungo
 beezer
 binaphthyl
