@@ -5268,7 +5268,6 @@ gamecraft
 garten
 gentilic
 gammer
-gluiest
 genial
 grenade
 goatish
@@ -9360,6 +9359,7 @@ gonocoel
 gravestones
 groop
 gallerygoer
+gluiest
 glamorize
 goggliest
 gwen
