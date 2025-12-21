@@ -7313,6 +7313,7 @@ cepes
 civ
 conchitis
 clincher
+chromatopathic
 commercer
 constitution
 conicity
@@ -9183,7 +9184,6 @@ chass
 chasse
 cauliculus
 chassed
-chromatopathic
 chasseing
 chassepot
 chassepots
