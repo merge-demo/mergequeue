@@ -120,7 +120,6 @@ gadroon
 giher
 ginete
 gastly
-gastrostomy
 gazogene
 gypsyhood
 girdled
@@ -2998,6 +2997,7 @@ grievers
 galliardness
 geoids
 gloriole
+gastrostomy
 gendered
 galatine
 ghetti
