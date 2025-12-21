@@ -5468,6 +5468,7 @@ bechamel
 bonce
 briefers
 bahmani
+bloomy
 bootid
 broadmouth
 baronets
@@ -16664,7 +16665,6 @@ bucharest
 buchloe
 bunkoing
 burros
-bloomy
 balconette
 buchonite
 buck

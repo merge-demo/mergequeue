@@ -4135,7 +4135,6 @@ clerihew
 cubed
 chancellor
 cardinalities
-cardinally
 cardinalship
 cardings
 cardioarterial
@@ -14332,6 +14331,7 @@ condescend
 circumscribed
 collapsed
 circumsession
+cardinally
 circumsinous
 circumsolar
 collow
