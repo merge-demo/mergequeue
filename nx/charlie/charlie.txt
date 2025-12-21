@@ -9664,6 +9664,7 @@ crees
 clyfaker
 cheesecloth
 cheesecloths
+crosiers
 cheesecutter
 cognizably
 concursus
@@ -24830,7 +24831,6 @@ cartload
 contumax
 coquille
 corrade
-crosiers
 conductivity
 coquitlam
 cor
