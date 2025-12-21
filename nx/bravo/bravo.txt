@@ -1913,7 +1913,6 @@ bifidate
 biotechs
 brevipen
 bandore
-baselard
 balsa
 bandrol
 beatific
@@ -9483,6 +9482,7 @@ binocles
 beirut
 brahmaness
 beaconage
+baselard
 bemonster
 barristership
 birretta
