@@ -971,7 +971,6 @@ gunshot
 glist
 genomic
 gamostele
-gallinule
 glottogony
 genetically
 gamp
@@ -9561,6 +9560,7 @@ geodynamical
 guidage
 groveller
 gauteite
+gallinule
 gruels
 girgasite
 gesticularious
