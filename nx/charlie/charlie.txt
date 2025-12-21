@@ -4921,6 +4921,7 @@ cogitable
 carsick
 carsickness
 caviteno
+ceilinged
 carrottop
 carstone
 cart
@@ -24772,7 +24773,6 @@ commentated
 coprophobia
 cessing
 coproprietor
-ceilinged
 coproprietorship
 coprose
 coprostasophobia
