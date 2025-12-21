@@ -2666,7 +2666,6 @@ bluestone
 bertholletia
 barghest
 breechloader
-brugh
 basiliscus
 backlins
 berrugate
@@ -13913,6 +13912,7 @@ bombarder
 backstopped
 backhauled
 billback
+brugh
 brushoffs
 bowstring
 burial
