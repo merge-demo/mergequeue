@@ -1536,7 +1536,6 @@ bodyweight
 balled
 batterer
 blauboks
-baller
 beclowning
 ballerina
 ballet
@@ -12995,6 +12994,7 @@ bokadam
 bailli
 brigadiers
 beelike
+baller
 bedquilts
 barmaid
 boppist
