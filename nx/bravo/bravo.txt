@@ -2053,7 +2053,6 @@ bouet
 bumbaste
 biogeny
 bondwomen
-brine
 banksmen
 bucketed
 banlieu
@@ -5477,6 +5476,7 @@ barrier
 behooves
 behooving
 bacterioprotein
+brine
 backiebird
 beatless
 behoved
