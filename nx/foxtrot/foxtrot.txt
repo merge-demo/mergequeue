@@ -769,7 +769,6 @@ footbridge
 fanciless
 foliicolous
 forestaff
-fragrance
 fallows
 fandangos
 fandoms
@@ -7794,6 +7793,7 @@ faint
 fraenum
 forgathering
 finning
+fragrance
 fluorescein
 ferrotyped
 frostbite
