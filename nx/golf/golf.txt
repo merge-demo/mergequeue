@@ -1053,7 +1053,6 @@ gossamer
 garvock
 gerardias
 gorgonin
-gompholobium
 ganglioid
 ganglioma
 gangliomas
@@ -4129,6 +4128,7 @@ gargoyle
 glosts
 genetor
 grimoire
+gompholobium
 geoglossum
 gyropilot
 galaxiidae
