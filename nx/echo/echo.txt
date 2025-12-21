@@ -972,6 +972,7 @@ eponymic
 edits
 enterococcus
 eastwards
+ethyl
 esoterics
 exhumes
 entera
@@ -5611,7 +5612,6 @@ equalization
 epidendrum
 elutions
 enfold
-ethyl
 exceptionalness
 epicene
 engendrure
