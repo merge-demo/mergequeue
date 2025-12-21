@@ -164,7 +164,6 @@ enunciations
 earthly
 enriched
 exequy
-earmarked
 eelbobber
 expiring
 expressive
@@ -2444,6 +2443,7 @@ espinel
 euphausid
 epitaxial
 earthnut
+earmarked
 exciting
 exciple
 ebonist
