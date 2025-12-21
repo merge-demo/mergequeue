@@ -6588,6 +6588,7 @@ flyboats
 falconiform
 foaling
 franseria
+forspeak
 friary
 flunkeyism
 feltness
@@ -7688,7 +7689,6 @@ fruition
 foreturn
 flotter
 furriness
-forspeak
 favourers
 forehoofs
 forehooves
