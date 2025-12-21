@@ -1367,7 +1367,6 @@ fruticeous
 flaxdrop
 filecard
 flenser
-fatiscent
 fullword
 filicology
 fishboat
@@ -7639,6 +7638,7 @@ falces
 fools
 faluns
 fubby
+fatiscent
 forefield
 factitiousness
 foreorlop
