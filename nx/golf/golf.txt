@@ -1341,7 +1341,6 @@ groundling
 gristbite
 gignate
 gra
-glottological
 ganoine
 goanese
 guslee
@@ -3193,6 +3192,7 @@ graip
 gaddis
 glossiness
 governmentalist
+glottological
 geotilla
 grigs
 geotropy
