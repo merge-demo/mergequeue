@@ -1134,7 +1134,6 @@ academes
 academy
 apheliotropism
 aploperistomatous
-anaplasis
 antirusts
 academist
 arboral
@@ -20568,6 +20567,7 @@ attritus
 anguishing
 auriculariales
 arthritis
+anaplasis
 arthrobacterium
 arranged
 apathies
