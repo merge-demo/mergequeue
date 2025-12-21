@@ -14739,6 +14739,7 @@ braunite
 braunites
 bacury
 bootblack
+bundler
 beribbon
 baluchistan
 bowdlerize
@@ -17358,7 +17359,6 @@ brassylic
 brennage
 bundled
 boardmen
-bundler
 boudeuse
 bottleneck
 badged
