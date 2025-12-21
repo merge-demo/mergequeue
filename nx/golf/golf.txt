@@ -1852,7 +1852,6 @@ gatekeepers
 glos
 gentile
 groupage
-garlands
 grasses
 glutenous
 goundou
@@ -8674,6 +8673,7 @@ gateado
 gritty
 gres
 gymnosoph
+garlands
 galerum
 gawkishly
 geotactic
