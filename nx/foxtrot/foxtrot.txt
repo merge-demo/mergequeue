@@ -4382,7 +4382,6 @@ flechette
 funt
 floorshifts
 flagged
-forbearances
 frenums
 fishbowls
 flexive
@@ -4731,6 +4730,7 @@ facy
 factice
 frederic
 fricatrice
+forbearances
 fumers
 flacianist
 fife
