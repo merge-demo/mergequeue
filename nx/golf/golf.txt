@@ -6592,7 +6592,6 @@ gambeson
 grummets
 girons
 gimmerpet
-gambas
 guazzo
 groyne
 goulan
@@ -8903,6 +8902,7 @@ ghostfish
 grizzle
 gressorial
 grieving
+gambas
 glauconitic
 ghostified
 griquaite
