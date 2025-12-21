@@ -3406,7 +3406,6 @@ broider
 bewall
 bittor
 boehmenism
-berascaled
 bryophytic
 burghership
 byrrus
@@ -11472,6 +11471,7 @@ bluetongue
 bedmates
 bluetop
 berths
+berascaled
 burgware
 bravos
 bundlers
