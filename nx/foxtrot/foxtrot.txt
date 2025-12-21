@@ -3614,6 +3614,7 @@ ferroinclave
 fence
 forehalf
 filing
+finfish
 fimbristylis
 fuchsines
 foreordination
@@ -10900,7 +10901,6 @@ forsworn
 falloffs
 fides
 fulleries
-finfish
 fleets
 flivver
 fletched
