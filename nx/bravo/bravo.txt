@@ -11697,7 +11697,6 @@ bacteriotrypsin
 beerbelly
 bobbejaan
 bungstarter
-briseis
 benthon
 bucket
 bayogoula
@@ -12979,6 +12978,7 @@ banausic
 bipennated
 bombycillidae
 bandersnatch
+briseis
 branchery
 biplicity
 backcountry
