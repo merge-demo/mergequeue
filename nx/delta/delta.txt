@@ -3559,7 +3559,6 @@ drawbeam
 dissheathe
 dehwar
 defuze
-dolman
 dakoities
 dissociative
 degage
@@ -12335,6 +12334,7 @@ dishabituate
 deductively
 dragomen
 dishabituated
+dolman
 dishable
 debitable
 discerptibleness
