@@ -9699,7 +9699,6 @@ alvearies
 advent
 alvearium
 alveolariform
-antitetanic
 alveolate
 alveolation
 alveole
@@ -15602,6 +15601,7 @@ antimusicalness
 affrightedly
 areoles
 antispasmodics
+antitetanic
 antinaturalism
 alopeke
 actus
