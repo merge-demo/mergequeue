@@ -576,6 +576,7 @@ councilors
 convokes
 colloque
 confort
+cuselite
 caduac
 cruiseway
 commilitant
@@ -27555,7 +27556,6 @@ cover
 containable
 coverable
 coverages
-cuselite
 coverall
 coveralled
 coveralls
