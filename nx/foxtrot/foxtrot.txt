@@ -832,7 +832,6 @@ fanon
 fronted
 fantailed
 fingermark
-fermi
 fashioner
 finestill
 freckened
@@ -4331,6 +4330,7 @@ freespac
 fleshings
 formicivora
 ficiform
+fermi
 fieriest
 fibromatoid
 fosslify

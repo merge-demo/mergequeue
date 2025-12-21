@@ -5293,7 +5293,6 @@ exactor
 entreatable
 evened
 editors
-ecumenicity
 endopodite
 exagitation
 eskimoid
@@ -13694,6 +13693,7 @@ explorativeness
 externalities
 externalization
 eupractic
+ecumenicity
 externalized
 externalizes
 earbash
