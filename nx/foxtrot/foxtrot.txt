@@ -2330,6 +2330,7 @@ fer
 firecoat
 featherstitching
 ferae
+fatal
 fairyship
 fronton
 fetations
@@ -5547,7 +5548,6 @@ flexion
 foreclosable
 ferdiad
 fleecer
-fatal
 foraminiferous
 flirtish
 flexuously
