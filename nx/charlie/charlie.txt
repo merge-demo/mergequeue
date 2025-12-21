@@ -8262,6 +8262,7 @@ coenaculum
 comas
 chalcography
 caucho
+corticium
 chalcographic
 chalcographical
 chalcographist
@@ -25935,7 +25936,6 @@ catchier
 corticine
 corticipetal
 collegiate
-corticium
 corticoafferent
 corticoline
 calories
