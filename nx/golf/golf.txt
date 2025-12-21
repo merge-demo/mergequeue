@@ -5614,6 +5614,7 @@ grabman
 groundwall
 goldseed
 grisping
+gnomonologically
 guayroto
 glochid
 geranial
@@ -7976,7 +7977,6 @@ gothonic
 ganglionectomy
 globing
 glottologies
-gnomonologically
 goldenmouthed
 gasifiable
 galline
