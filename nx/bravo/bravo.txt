@@ -1843,6 +1843,7 @@ bandfile
 bandh
 burdon
 brownism
+blobbiness
 brython
 birken
 bandhook
@@ -10412,7 +10413,6 @@ blanketlike
 brimborion
 blankets
 bhoot
-blobbiness
 brisement
 blankish
 blankly
