@@ -1114,7 +1114,6 @@ bedimmed
 boatload
 brindled
 bluethroat
-boyg
 bargestone
 breakwind
 burseraceae
@@ -6677,6 +6676,7 @@ beryl
 beryllonate
 berimed
 beseemly
+boyg
 berimes
 bradypnoea
 bering
