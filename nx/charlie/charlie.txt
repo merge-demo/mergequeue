@@ -7330,7 +7330,6 @@ cantalite
 cephalagra
 computus
 coudee
-cephalaspis
 condurrite
 cephalate
 cephalhematoma
@@ -9287,6 +9286,7 @@ chatters
 chatti
 carbohydrates
 chattier
+cephalaspis
 cuspidors
 chairmending
 confragose
