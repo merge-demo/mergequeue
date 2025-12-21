@@ -1482,6 +1482,7 @@ fishmeal
 fairgoer
 fila
 flutings
+fetcher
 furibund
 flunkeyish
 furanose
@@ -8615,7 +8616,6 @@ familiarism
 flatworks
 fillagreing
 farseeingness
-fetcher
 fenceress
 faradisms
 flappiest
