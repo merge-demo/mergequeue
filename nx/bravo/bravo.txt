@@ -4248,7 +4248,6 @@ begat
 beardless
 beautified
 bathomania
-beautifier
 bishopbird
 banff
 beautiful
@@ -12704,6 +12703,7 @@ boohooing
 biaswise
 bear
 bungarus
+beautifier
 boroughmongering
 benchless
 baldachini
