@@ -17412,7 +17412,6 @@ cajeta
 coattending
 conductivities
 cineangiocardiographic
-cantrips
 coattestator
 coattested
 coattesting
@@ -18688,6 +18687,7 @@ cointerred
 cointerring
 cointersecting
 cointreau
+cantrips
 coinvolve
 coyo
 coyol
