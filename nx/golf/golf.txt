@@ -3000,7 +3000,6 @@ gendered
 galatine
 ghetti
 gasifier
-geologically
 gondite
 gavialis
 gelly
@@ -6799,6 +6798,7 @@ gossiping
 geront
 gymnogyps
 gentilitial
+geologically
 gyrostatics
 genal
 genros
