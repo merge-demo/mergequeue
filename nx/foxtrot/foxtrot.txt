@@ -5262,7 +5262,6 @@ fossilage
 fstore
 flot
 fissiped
-figgery
 flavoured
 flavourful
 fieldy
@@ -5825,6 +5824,7 @@ ferfet
 fluoridations
 fritted
 firehouse
+figgery
 furbishes
 flintlocks
 froust
