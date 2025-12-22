@@ -408,6 +408,7 @@ epact
 eutrophic
 embayed
 excelsitude
+eulerian
 evangelist
 ebriose
 elumbated
@@ -5850,7 +5851,6 @@ electrocratic
 engraining
 enwoven
 ekaha
-eulerian
 embergeese
 engramme
 epicarpal
