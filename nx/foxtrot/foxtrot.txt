@@ -4990,6 +4990,7 @@ forestcraft
 fringiest
 focused
 frappeed
+flyswatter
 flibbertigibbety
 figbird
 foundationally
@@ -5755,7 +5756,6 @@ fill
 filliping
 forelive
 footlessness
-flyswatter
 filipiniana
 figmental
 forpass
