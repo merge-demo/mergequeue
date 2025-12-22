@@ -3092,6 +3092,7 @@ geocline
 grits
 gipping
 geophagism
+gopura
 gemels
 grubhood
 gashliness
@@ -6255,7 +6256,6 @@ glue
 glucosidase
 gonne
 greaves
-gopura
 goatstone
 gaum
 goatweed
