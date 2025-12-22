@@ -11592,7 +11592,6 @@ anacephalize
 amanitin
 antineutrons
 aiery
-amylopsin
 anacharis
 arriver
 alps
@@ -12240,6 +12239,7 @@ altruism
 almach
 anchorite
 arraignable
+amylopsin
 archinfamy
 arbalests
 acetoveratrone
