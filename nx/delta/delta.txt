@@ -6685,7 +6685,6 @@ diplohedron
 downcurved
 desyatin
 deaconries
-desicate
 dubonnets
 desman
 desiderable
@@ -11566,6 +11565,7 @@ dispassionately
 dipt
 defrocks
 disconectae
+desicate
 dosology
 deglamorize
 disconformities
