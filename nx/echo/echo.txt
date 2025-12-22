@@ -3172,7 +3172,6 @@ ethnarchs
 eskimoes
 euryphage
 eloining
-endobronchial
 expurgators
 extinguishment
 eloins
@@ -8812,6 +8811,7 @@ ekename
 erasers
 effectuate
 eventuations
+endobronchial
 eldmother
 extracurial
 equestrial
