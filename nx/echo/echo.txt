@@ -2054,6 +2054,7 @@ earthstar
 encephalometric
 electrograph
 embroilments
+eyeblink
 eldin
 electrolyzation
 erupts
@@ -13600,7 +13601,6 @@ electropyrometer
 expulsory
 ectad
 exiledom
-eyeblink
 extemporary
 extemporisation
 ewing
