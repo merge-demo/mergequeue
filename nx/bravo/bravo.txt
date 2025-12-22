@@ -5057,7 +5057,6 @@ befalls
 botanised
 battlers
 blazoned
-bastonet
 bowfin
 bloodthirst
 befamilied
@@ -5742,6 +5741,7 @@ bulldozer
 belike
 bogeying
 bribes
+bastonet
 beparody
 bedsheets
 barrator
