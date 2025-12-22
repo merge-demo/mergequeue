@@ -1761,7 +1761,6 @@ deathtrap
 devocalization
 drof
 deathward
-dikaryon
 ductility
 docent
 downlier
@@ -7016,6 +7015,7 @@ desponder
 despondingly
 desponds
 diaster
+dikaryon
 districts
 divinisation
 donkeys
