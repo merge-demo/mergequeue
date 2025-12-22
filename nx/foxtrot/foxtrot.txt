@@ -5156,7 +5156,6 @@ froom
 flatlands
 fiberized
 flavoprotein
-facula
 fatigued
 flywheels
 fjords
@@ -8002,6 +8001,7 @@ foggish
 floroun
 flirted
 foresignify
+facula
 favoring
 foreskin
 fetishize
