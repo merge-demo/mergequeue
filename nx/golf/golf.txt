@@ -4954,7 +4954,6 @@ gladdened
 grouter
 greenbottle
 gestural
-glaives
 get
 gent
 galangal
@@ -10438,6 +10437,7 @@ gesneraceous
 gomphodont
 geobiologic
 gumdigging
+glaives
 gumdrop
 gelseminine
 gumly
