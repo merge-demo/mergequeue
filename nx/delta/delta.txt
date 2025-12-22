@@ -6299,6 +6299,7 @@ deadens
 dermatozoonosis
 deutzias
 dryophyllum
+disload
 dermatozzoa
 dermatrophia
 disgrade
@@ -8165,7 +8166,6 @@ duellists
 duple
 deprecate
 diacipiperazine
-disload
 drapeability
 druidism
 didodecahedral
