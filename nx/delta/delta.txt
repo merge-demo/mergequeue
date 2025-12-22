@@ -2797,7 +2797,6 @@ dicyemida
 demarches
 deftnesses
 duodecahedral
-dint
 drypoints
 dari
 decresc
@@ -12689,6 +12688,7 @@ diviners
 diacids
 duane
 derogations
+dint
 dyslexics
 dreadfully
 drury
