@@ -2510,6 +2510,7 @@ blueblack
 beslash
 bassetite
 bottonhook
+buckler
 barguest
 barguests
 buzylene
@@ -11150,7 +11151,6 @@ bolography
 blunker
 blandness
 brawniest
-buckler
 benevolently
 brotan
 broguing
