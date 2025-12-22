@@ -439,6 +439,7 @@ expugnable
 ecbole
 explained
 ellipsone
+enemyship
 extraembryonal
 emmer
 eremitical
@@ -5474,7 +5475,6 @@ enema
 enthralment
 excrescential
 enemata
-enemyship
 emblematicalness
 energesis
 energetic
