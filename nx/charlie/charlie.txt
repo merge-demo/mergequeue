@@ -11574,7 +11574,6 @@ cholecyanine
 couchee
 cholecystectasia
 cholecystectomy
-cingulum
 clammier
 chimachima
 countermeasure
@@ -16482,6 +16481,7 @@ cuon
 clockmaking
 crewer
 clockwatcher
+cingulum
 clockwise
 clockworked
 clavigerous
