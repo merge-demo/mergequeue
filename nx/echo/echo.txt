@@ -5152,7 +5152,6 @@ engirt
 endocrines
 endocrinic
 existentialistic
-enterocoel
 emergencies
 entogenous
 enteroptotic
@@ -7837,6 +7836,7 @@ empyocele
 exoerythrocytic
 epigone
 epithelium
+enterocoel
 exarchate
 exophoria
 ejaculator
