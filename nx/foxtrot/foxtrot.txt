@@ -9401,6 +9401,7 @@ facing
 fettler
 foxholes
 foreweigh
+flacons
 flubbing
 fidgeter
 forbye
@@ -10004,7 +10005,6 @@ fecundations
 foredeclare
 foxite
 frilled
-flacons
 flexitime
 finicky
 fopped
