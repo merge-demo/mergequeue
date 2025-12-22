@@ -2216,6 +2216,7 @@ fikie
 fiscus
 firebombs
 fuliguline
+freezing
 flatcars
 fructosan
 ferrara
@@ -4600,7 +4601,6 @@ fossilify
 fisheye
 fieldstone
 fistuca
-freezing
 freest
 filmist
 fistula
