@@ -2768,7 +2768,6 @@ guestchamber
 gorraf
 gipped
 gallused
-glanditerous
 gramophonist
 gonangia
 grover
@@ -3350,6 +3349,7 @@ gomorrean
 gaging
 gildhalls
 gonydial
+glanditerous
 gahnite
 globed
 gasogen
