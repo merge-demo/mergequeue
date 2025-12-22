@@ -4195,7 +4195,6 @@ cardioneurosis
 cardiopath
 cardiopathic
 chloanthite
-calthrop
 cardiopulmonary
 cardiorenal
 cardiorespiratory
@@ -28198,6 +28197,7 @@ crankpin
 cytolysin
 crankpins
 colipyuria
+calthrop
 churchman
 cranks
 corpulent
