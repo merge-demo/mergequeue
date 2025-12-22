@@ -14695,6 +14695,7 @@ chirurgy
 calyxes
 cystourethrography
 cistron
+cypraea
 cistronic
 cochon
 cistrons
@@ -26436,7 +26437,6 @@ cotyledonal
 cotyledonary
 catalyzing
 cotyledons
-cypraea
 cotyliscus
 cotylophora
 collide
