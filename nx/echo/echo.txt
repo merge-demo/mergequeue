@@ -1263,7 +1263,6 @@ emperors
 enrobe
 ecclesiarch
 eversive
-electrocystoscope
 equalness
 eclated
 expands
@@ -13123,6 +13122,7 @@ exhalation
 encroaches
 empaestic
 esocidae
+electrocystoscope
 ejuration
 erymanthian
 euthyneurous
