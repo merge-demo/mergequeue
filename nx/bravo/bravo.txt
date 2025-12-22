@@ -11893,7 +11893,6 @@ bortzes
 battleplane
 bouillons
 boedromion
-bovovaccine
 brevirostrate
 buggies
 besmutting
@@ -14142,6 +14141,7 @@ boloed
 brass
 brachistochrone
 brachistochronous
+bovovaccine
 brachystomatous
 brachystomous
 bumblings
