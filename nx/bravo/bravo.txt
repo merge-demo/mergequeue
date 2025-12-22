@@ -4076,7 +4076,6 @@ bean
 boldness
 begottenness
 bedeafen
-beancod
 beaner
 bolewort
 beanfield
@@ -16585,6 +16584,7 @@ baboo
 boringly
 bsh
 butyrochloral
+beancod
 bt
 btry
 bots
