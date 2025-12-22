@@ -5857,7 +5857,6 @@ floatier
 flustrum
 fulcrums
 flidge
-fitz
 farine
 fertilisable
 fowling
@@ -7253,6 +7252,7 @@ fiorded
 flumed
 footsy
 foiled
+fitz
 footslogger
 flailed
 financiery
