@@ -6958,7 +6958,6 @@ enantiomorphy
 elicitate
 embrocado
 entraining
-earwig
 entrainment
 entrains
 emissaryship
@@ -7313,6 +7312,7 @@ encushion
 epagomenae
 equerryship
 epagomenous
+earwig
 electro
 eumitosis
 epochism
