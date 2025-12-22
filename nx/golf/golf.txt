@@ -7039,6 +7039,7 @@ gamelote
 gladioli
 gentil
 gumshoes
+gastronomes
 glazier
 glamorizes
 grillade
@@ -10031,7 +10032,6 @@ grissens
 genetoid
 geomancies
 gangliac
-gastronomes
 gleans
 gazebos
 glaistig
