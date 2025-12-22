@@ -15741,7 +15741,6 @@ clavipectoral
 chips
 clavolet
 cumulonimbus
-chapel
 clawed
 clawer
 cubbishly
@@ -25999,6 +25998,7 @@ couthie
 colonization
 corviser
 corvo
+chapel
 chamade
 corvoid
 corvorant
