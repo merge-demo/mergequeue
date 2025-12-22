@@ -11818,7 +11818,6 @@ ectomorphy
 euglenida
 ectothermic
 exists
-exauthorate
 exauthorizeexc
 ethoxyl
 exceptio
@@ -12043,6 +12042,7 @@ ervum
 excommunicative
 excommunicator
 expetible
+exauthorate
 extrication
 excoriated
 electroanalysis
