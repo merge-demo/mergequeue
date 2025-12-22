@@ -5513,7 +5513,6 @@ brechites
 briefly
 boort
 bringdown
-boatswains
 bawty
 beingness
 brandade
@@ -13917,6 +13916,7 @@ bodkinwise
 bacteriotherapy
 bowshot
 bulbaceous
+boatswains
 brainish
 bowshots
 boomkins
