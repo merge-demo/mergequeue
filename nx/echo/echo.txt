@@ -465,7 +465,6 @@ ecclesiarchy
 extoll
 ecclesiast
 entrada
-expostulated
 empasm
 envelopers
 exody
@@ -6092,6 +6091,7 @@ enlistments
 erasion
 elastomeric
 eranthis
+expostulated
 encomienda
 electionary
 eugenic
