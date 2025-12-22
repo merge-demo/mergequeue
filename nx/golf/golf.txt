@@ -1910,7 +1910,6 @@ gammaridae
 gaucho
 generalists
 gerbillus
-gamelote
 germaniums
 groundable
 gowd
@@ -7035,6 +7034,7 @@ gavel
 gummer
 goofily
 goops
+gamelote
 gladioli
 gentil
 gumshoes
