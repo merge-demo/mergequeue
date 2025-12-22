@@ -1365,6 +1365,7 @@ filecard
 flenser
 fullword
 filicology
+forspoke
 fishboat
 fatly
 floscularia
@@ -8656,7 +8657,6 @@ frigidness
 frictionproof
 faintest
 footing
-forspoke
 fellatory
 flaunt
 fillebeg
