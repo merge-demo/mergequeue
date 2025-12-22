@@ -372,6 +372,7 @@ brewery
 brachypodous
 bovarist
 backhauls
+bashkir
 bossy
 borings
 backhoe
@@ -17565,7 +17566,6 @@ buret
 burets
 blowfishes
 bedirtied
-bashkir
 bellonion
 buccellarius
 bhima
