@@ -9517,6 +9517,7 @@ checkerist
 collet
 clavola
 checkers
+chroncmeter
 cabbalah
 cardanic
 capos
@@ -26142,7 +26143,6 @@ cheese
 cosmocracy
 centrum
 cervical
-chroncmeter
 cyclohexatriene
 creamier
 cosmogenetic
