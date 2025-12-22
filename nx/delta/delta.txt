@@ -2805,6 +2805,7 @@ duodecahedron
 decrescent
 deknight
 desulfured
+droller
 decretalist
 despumating
 debility
@@ -17276,7 +17277,6 @@ dentiform
 dilluer
 didactylous
 druidology
-droller
 diademing
 drolleries
 darogah
