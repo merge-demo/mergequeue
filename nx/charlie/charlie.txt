@@ -263,6 +263,7 @@ cities
 cassiduloidea
 cachepot
 chillies
+cognati
 condensing
 caches
 cachespell
@@ -18393,7 +18394,6 @@ contrarevolutionary
 chamsin
 cognately
 cerotate
-cognati
 churchless
 cardinalic
 cognatic
