@@ -10543,6 +10543,7 @@ freq
 frowsily
 footslogging
 famishment
+fixable
 frictionless
 francisca
 faiths
@@ -11613,7 +11614,6 @@ fragilely
 fermata
 fustics
 fussbudget
-fixable
 forint
 facsimile
 frolicsomely
