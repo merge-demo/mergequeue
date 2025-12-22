@@ -1450,7 +1450,6 @@ affixable
 archaisms
 amortize
 acclimatise
-acclimatised
 acclimatiser
 acclimatising
 aegagrus
@@ -2824,6 +2823,7 @@ abominability
 antenniform
 areometer
 arianrhod
+acclimatised
 acromiohumeral
 accrete
 actuals
