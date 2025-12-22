@@ -7078,7 +7078,6 @@ bespattered
 batara
 barracks
 bannerette
-briquetting
 bespeak
 bodyless
 biggings
@@ -10436,6 +10435,7 @@ boviform
 bemadam
 bribetaking
 biune
+briquetting
 beachboy
 bastion
 boghole
