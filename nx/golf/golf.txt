@@ -2054,7 +2054,6 @@ goaf
 gallied
 glime
 grapeful
-gantry
 gazzetta
 gutterize
 gavels
@@ -4997,6 +4996,7 @@ genially
 gangliest
 gateage
 graunt
+gantry
 grouselike
 gauging
 gymnospermal
