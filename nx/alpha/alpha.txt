@@ -7689,7 +7689,6 @@ alcoholmeter
 airmass
 anemogram
 alcoholmetric
-acroter
 abaissed
 alcoholometer
 acidic
@@ -21354,6 +21353,7 @@ amyloses
 analectic
 amphoras
 azobacter
+acroter
 asyndeton
 abditive
 asyndetons
