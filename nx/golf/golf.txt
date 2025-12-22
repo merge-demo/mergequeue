@@ -4388,7 +4388,6 @@ grylli
 gunky
 guz
 glottochronology
-ginglymostomoid
 gondi
 gardened
 gerund
@@ -6314,6 +6313,7 @@ gobylike
 gnashed
 gobinism
 griece
+ginglymostomoid
 gymnasial
 guidsire
 gyrons
