@@ -2885,7 +2885,6 @@ farcin
 freighted
 fackins
 firefighters
-footstall
 fettucini
 fungiferous
 fistulate
@@ -7241,6 +7240,7 @@ feodary
 flaxboard
 forepeak
 fordwine
+footstall
 filature
 fridays
 fleetings
