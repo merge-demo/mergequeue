@@ -7369,7 +7369,6 @@ glessite
 griffon
 glyoxime
 generalizers
-glomus
 gomarite
 germanous
 gossypine
@@ -8616,6 +8615,7 @@ gregge
 guidwilly
 gotos
 goldanged
+glomus
 gimbaling
 guider
 grauwacke
