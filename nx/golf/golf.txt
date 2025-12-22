@@ -4544,7 +4544,6 @@ gamb
 grapey
 gomutis
 gambrel
-gumwoods
 gills
 graminiform
 gerbille
@@ -6896,6 +6895,7 @@ gynandroid
 garrotes
 garfish
 gregarina
+gumwoods
 gelatinoid
 graticulate
 glis
