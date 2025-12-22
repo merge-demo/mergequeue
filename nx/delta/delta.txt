@@ -596,7 +596,6 @@ develin
 drawboy
 demifusion
 dextrose
-dups
 dvigu
 damine
 disbeliever
@@ -4807,6 +4806,7 @@ demolition
 demolitionist
 dictyosiphonaceous
 dishonest
+dups
 donnot
 daneworts
 dermatome
