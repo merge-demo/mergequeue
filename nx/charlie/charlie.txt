@@ -7814,7 +7814,6 @@ ceratophrys
 cerulific
 cerulignol
 cerumen
-cerumens
 ceruminal
 costean
 chemoautotrophy
@@ -28580,6 +28579,7 @@ credulities
 carabin
 creed
 creeded
+cerumens
 calamistrum
 caddised
 creeds
