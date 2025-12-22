@@ -5112,7 +5112,6 @@ glyc
 gallberries
 grav
 gomerec
-grittier
 gunman
 garboards
 guilelessly
@@ -5779,6 +5778,7 @@ gravemaker
 galera
 galactolysis
 garbel
+grittier
 gade
 graphites
 glycogenolysis
