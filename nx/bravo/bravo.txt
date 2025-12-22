@@ -1048,7 +1048,6 @@ brasswork
 bailiwicks
 bolete
 babyhouse
-becost
 blousier
 buzzards
 burghal
@@ -14279,6 +14278,7 @@ begoud
 brens
 branchiosaur
 binnite
+becost
 bobber
 bechamels
 batheable
