@@ -818,6 +818,7 @@ euglenidae
 earthquave
 ectypal
 ectype
+epicarpal
 enwrite
 epizoa
 erythrinidae
@@ -5850,7 +5851,6 @@ enwoven
 ekaha
 embergeese
 engramme
-epicarpal
 engrammes
 extensors
 edwardine
