@@ -755,7 +755,6 @@ autogyro
 agnition
 accordatura
 asperation
-attuning
 apogalacteum
 abrasively
 abrazite
@@ -3940,6 +3939,7 @@ abdal
 astre
 armozeen
 adjusting
+attuning
 akindle
 adjustment
 adjustmental
