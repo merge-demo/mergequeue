@@ -5033,6 +5033,7 @@ fumatory
 fizz
 forekeel
 faithbreaker
+fragrance
 faconne
 fulmarus
 flapdock
@@ -7791,7 +7792,6 @@ faint
 fraenum
 forgathering
 finning
-fragrance
 fluorescein
 ferrotyped
 frostbite
