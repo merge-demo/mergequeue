@@ -1366,7 +1366,6 @@ excludability
 earlocks
 ethylated
 enopla
-exemplupla
 eucalyptol
 echelon
 examinative
@@ -5963,6 +5962,7 @@ effate
 enhunger
 emissary
 eruc
+exemplupla
 erythrose
 euflavine
 epicondylitis
