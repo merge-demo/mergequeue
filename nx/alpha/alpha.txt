@@ -3993,6 +3993,7 @@ acronymize
 advect
 aphaeresis
 admerveylle
+allocate
 admi
 anhydrously
 apopemptic
@@ -8819,7 +8820,6 @@ allobrogical
 abidance
 absorption
 atturn
-allocate
 adelina
 anglophobes
 autoimmunization
