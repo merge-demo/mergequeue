@@ -5630,7 +5630,6 @@ flyless
 forbearingly
 fuddle
 fulgurata
-foxite
 firetop
 flimflamming
 flimflams
@@ -10001,6 +10000,7 @@ fanga
 forerevelation
 fecundations
 foredeclare
+foxite
 frilled
 flacons
 flexitime
