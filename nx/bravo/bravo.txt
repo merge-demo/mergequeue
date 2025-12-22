@@ -540,7 +540,6 @@ blit
 backwardness
 bootboy
 blastema
-befriendment
 biggishness
 burrock
 brickiest
@@ -16943,6 +16942,7 @@ baloch
 bugginess
 bookmonger
 bugara
+befriendment
 buginvillaea
 bong
 basten
