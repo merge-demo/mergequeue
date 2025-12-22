@@ -4004,7 +4004,6 @@ eyestalks
 evenhand
 empearl
 electroretinography
-each
 exultancy
 esothyropexy
 estus
@@ -7326,6 +7325,7 @@ exemplariness
 eelshop
 ephah
 enact
+each
 electrooptics
 escaping
 epanisognathism
