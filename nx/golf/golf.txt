@@ -2486,7 +2486,6 @@ glabrate
 girt
 gillflirt
 geoisotherm
-greekish
 grief
 geodynamic
 glandules
@@ -5839,6 +5838,7 @@ gaupus
 glissades
 greggle
 gather
+greekish
 gedrite
 golliwog
 geocarpic
