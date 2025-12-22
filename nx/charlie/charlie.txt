@@ -15133,6 +15133,7 @@ cladodontidae
 cladodus
 cladogenesis
 cladogenetic
+cupmate
 cladogenetically
 cavaliers
 cladogenous
@@ -17045,7 +17046,6 @@ cnidoblast
 cnidocil
 cobbed
 coexplosion
-cupmate
 cortisone
 cnidopod
 conoids
