@@ -2432,7 +2432,6 @@ entrail
 ecraseur
 electrodialyze
 essayical
-excoriates
 epistle
 eumenidean
 empiristic
@@ -9228,6 +9227,7 @@ embound
 episcopes
 epikleses
 empannel
+excoriates
 epiderm
 erotylidae
 enlarges
