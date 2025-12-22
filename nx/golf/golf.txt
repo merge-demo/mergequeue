@@ -793,6 +793,7 @@ gamashes
 goombay
 gastrospasm
 guamuchil
+glycosidase
 graf
 gimlet
 gambade
@@ -5894,7 +5895,6 @@ genteelest
 gadder
 guadalcazarite
 goldfinch
-glycosidase
 gawney
 gipsyweed
 glucoses
