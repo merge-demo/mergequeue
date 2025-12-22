@@ -10555,6 +10555,7 @@ franking
 fluky
 flatus
 festivous
+furnaces
 fossilised
 fauchard
 featherier
@@ -11382,7 +11383,6 @@ faute
 furnacelike
 firetraps
 fosters
-furnaces
 ferromagneticism
 flashlamp
 furnariides
