@@ -9916,7 +9916,6 @@ bitternut
 benzoated
 buhl
 biotite
-bitterroot
 backfall
 berrying
 bittersweets
@@ -15789,6 +15788,7 @@ becaps
 bove
 bedecks
 beauing
+bitterroot
 billethead
 backstrokes
 backhandedly
