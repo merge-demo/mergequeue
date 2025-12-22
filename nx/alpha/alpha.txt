@@ -7498,6 +7498,7 @@ albumens
 albumimeter
 aftership
 appraisers
+armaria
 ask
 abbasid
 anthranilate
@@ -19667,7 +19668,6 @@ aristate
 ascesis
 aristeas
 alertness
-armaria
 aristeia
 acetanilide
 aristocracy
