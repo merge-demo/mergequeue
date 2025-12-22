@@ -4944,7 +4944,6 @@ aerolites
 avulsions
 admonitioner
 antepalatal
-aerolithology
 aerolitic
 aerological
 antepartum
@@ -17300,6 +17299,7 @@ acidimetric
 afterdate
 amli
 antisiphonal
+aerolithology
 aclinal
 ashram
 acetonize
