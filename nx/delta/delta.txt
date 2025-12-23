@@ -4970,6 +4970,7 @@ dephosphorize
 draggled
 diamb
 demountable
+doctorate
 devastators
 demounts
 dempsters
@@ -14905,7 +14906,6 @@ disengagement
 dodecade
 dodecafid
 dodecahedral
-doctorate
 dieselization
 dodecahydrate
 duodenojejunostomy
