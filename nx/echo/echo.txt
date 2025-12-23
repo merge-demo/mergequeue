@@ -1287,7 +1287,6 @@ emagram
 epigramme
 eq
 eeriness
-ecostate
 epithalamion
 encircler
 endogenesis
@@ -13503,6 +13502,7 @@ ectocondyloid
 editing
 etruscologist
 evaporite
+ecostate
 eristic
 endangeitis
 epitomic

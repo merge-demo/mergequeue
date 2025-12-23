@@ -6359,7 +6359,6 @@ gobstopper
 goosenecked
 geomance
 gemots
-gametal
 gearings
 genarchaship
 graptoloidea
@@ -7563,6 +7562,7 @@ gunyah
 geodesies
 greenths
 garbled
+gametal
 goldarns
 gravimeter
 gallycrow
