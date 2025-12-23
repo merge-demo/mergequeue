@@ -1612,6 +1612,7 @@ ballotist
 ballots
 ballottement
 backlotter
+bailiffship
 baronage
 bahamian
 byelorussians
@@ -5907,7 +5908,6 @@ bronchophonic
 bared
 belonging
 basisphenoid
-bailiffship
 believing
 belongs
 bicameral
