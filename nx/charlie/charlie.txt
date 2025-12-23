@@ -8070,7 +8070,6 @@ castores
 cirrated
 chaetopodan
 chaetopterus
-chaetosoma
 chrysophlyctis
 chaetosomidae
 codrus
@@ -21962,6 +21961,7 @@ confidently
 confidentness
 confider
 confiders
+chaetosoma
 confiding
 coppa
 confidingly
