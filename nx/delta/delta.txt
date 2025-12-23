@@ -587,6 +587,7 @@ damfool
 div
 digenea
 dodecaheddra
+dissolver
 diwata
 decopperization
 desmopathologist
@@ -13763,7 +13764,6 @@ damndests
 dangering
 downlooker
 disbarments
-dissolver
 dissolvingly
 darwinical
 digressively
