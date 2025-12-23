@@ -6876,7 +6876,6 @@ barit
 brutalize
 belleek
 beggarman
-barrelhead
 beseige
 biliverdic
 botchers
@@ -18013,6 +18012,7 @@ benevolence
 bacteriophobia
 baryphonic
 businesslikeness
+barrelhead
 brutification
 barbotte
 babbitt
