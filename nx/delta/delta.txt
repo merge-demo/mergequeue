@@ -6876,7 +6876,6 @@ dispositor
 desoeuvre
 dewlight
 drailed
-destriers
 dsp
 desolate
 dobroes
@@ -10142,6 +10141,7 @@ dinetic
 dinette
 denazifies
 dissentiency
+destriers
 desilicating
 danai
 dusks
