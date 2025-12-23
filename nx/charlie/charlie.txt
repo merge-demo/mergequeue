@@ -6827,6 +6827,7 @@ chirologies
 cellarwoman
 cellblock
 celled
+coelom
 centennium
 cellepore
 cellfalcicula
@@ -17990,7 +17991,6 @@ charioteers
 coelodont
 comet
 claymores
-coelom
 coeloma
 coelomata
 companies
