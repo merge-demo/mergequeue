@@ -1354,7 +1354,6 @@ bardily
 balded
 balder
 bookmaking
-baldfaced
 bolloxing
 balzarine
 bruisewort
@@ -10726,6 +10725,7 @@ biti
 benzalhydrazine
 balian
 bandfish
+baldfaced
 bogijiab
 brachistocephali
 boney
