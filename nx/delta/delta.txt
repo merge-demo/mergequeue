@@ -5856,7 +5856,6 @@ domal
 demeaning
 disconcert
 deprecative
-dissolvable
 deprecator
 dysbarism
 datism
@@ -6117,6 +6116,7 @@ detrimental
 dropout
 dimission
 durgen
+dissolvable
 deckedout
 derated
 diphtheroid
