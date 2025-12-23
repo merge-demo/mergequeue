@@ -10157,7 +10157,6 @@ browsers
 blackcaps
 bejeweled
 blanketflower
-borrelia
 barysilite
 blackcod
 batidaceae
@@ -15859,6 +15858,7 @@ brininess
 barrows
 besomer
 blite
+borrelia
 beelol
 bratticer
 benaming
