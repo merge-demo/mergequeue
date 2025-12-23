@@ -59,7 +59,6 @@ glauconia
 griller
 gluemaking
 gamboler
-gablewindowed
 gogga
 gonidiophore
 galeenies
@@ -7003,6 +7002,7 @@ garhwali
 groundsman
 gastroepiploic
 geswarp
+gablewindowed
 goof
 goofah
 guaniferous
