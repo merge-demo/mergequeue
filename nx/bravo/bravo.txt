@@ -7504,7 +7504,6 @@ booteries
 blubbered
 beurre
 benamidar
-bestowage
 beveil
 bevelled
 bardism
@@ -10685,6 +10684,7 @@ bleaunt
 bleck
 bodhi
 bethreaten
+bestowage
 bleeped
 bleeps
 bleacheries
