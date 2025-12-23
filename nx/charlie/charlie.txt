@@ -7079,7 +7079,6 @@ chumpivilca
 centerboard
 centerer
 centerfold
-compania
 coofs
 chelators
 colonus
@@ -16627,6 +16626,7 @@ carburate
 conteck
 clopped
 clops
+compania
 cantref
 cloque
 cloques
