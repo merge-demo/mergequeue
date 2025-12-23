@@ -3941,7 +3941,6 @@ adjusting
 attuning
 akindle
 adjustment
-adjustmental
 adapts
 adjustores
 adjustoring
@@ -4616,6 +4615,7 @@ apish
 advt
 aurigal
 anetholes
+adjustmental
 aeacides
 aechmophorus
 assistless
