@@ -3820,7 +3820,6 @@ esthetical
 exla
 emparl
 extolled
-economic
 engrain
 expletory
 emended
@@ -4705,6 +4704,7 @@ electroencephalographs
 enmuffle
 entrammel
 ensuance
+economic
 englishism
 enciphering
 enrapture
