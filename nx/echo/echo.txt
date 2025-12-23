@@ -2491,7 +2491,6 @@ ellipsoids
 eurythmical
 enstatite
 electrogasdynamics
-embryographer
 electroharmonic
 empanelment
 electrohemostasis
@@ -5336,6 +5335,7 @@ endosmoses
 enjewel
 emim
 everglades
+embryographer
 exsertion
 endospore
 evidentness
