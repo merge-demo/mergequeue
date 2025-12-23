@@ -8083,7 +8083,6 @@ bailments
 bicuspid
 bruxism
 brast
-bid
 biddability
 biddably
 benedict
@@ -10180,6 +10179,7 @@ bignoniaceae
 blackfishing
 bufferrers
 beroida
+bid
 begrime
 betweenmaid
 badgering
