@@ -4443,7 +4443,6 @@ bilabials
 beclothe
 banting
 bonasus
-breathtakingly
 bhili
 beribers
 beclothes
@@ -9552,6 +9551,7 @@ basidium
 belays
 bisayan
 buccaro
+breathtakingly
 bettered
 bught
 biblist
