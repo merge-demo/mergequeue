@@ -1538,6 +1538,7 @@ autacoids
 accomplisht
 accordance
 atomity
+alacran
 accordancy
 agglutinoid
 adventureful
@@ -7173,7 +7174,6 @@ alack
 amole
 airworthiness
 anadromous
-alacran
 advertized
 automatic
 ameloblast
