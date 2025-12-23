@@ -260,6 +260,7 @@ faders
 firedamp
 fadge
 furfuramide
+flaxlike
 furniment
 fermery
 flattered
@@ -5585,7 +5586,6 @@ forfault
 fallaciously
 filamentar
 fiendlike
-flaxlike
 folkvangr
 flockowner
 fossicking
