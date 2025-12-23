@@ -10093,7 +10093,6 @@ gonads
 gypsies
 grub
 guyot
-gresil
 galahs
 gastropods
 garrulus
@@ -10778,6 +10777,7 @@ gerenuk
 ghole
 genialness
 gonadectomy
+gresil
 gammadia
 grandevous
 gandered
