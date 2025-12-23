@@ -8629,6 +8629,7 @@ farmyard
 forescript
 floury
 foredid
+flecks
 fir
 fittings
 ferretto
@@ -8848,7 +8849,6 @@ felichthys
 firmest
 fettstein
 fieldwork
-flecks
 finbone
 fossorious
 fossulae
