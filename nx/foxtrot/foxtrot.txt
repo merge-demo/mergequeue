@@ -6720,7 +6720,6 @@ furrier
 freshwater
 flaughtbred
 frequent
-finableness
 forecontrive
 fenner
 flingers
@@ -8306,6 +8305,7 @@ forehoof
 frontlets
 forgiving
 flintify
+finableness
 forgoer
 fidges
 forgoers
