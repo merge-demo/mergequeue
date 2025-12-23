@@ -1743,6 +1743,7 @@ broquery
 baronnes
 becollier
 buses
+bondstone
 biome
 biretta
 bedraggling
@@ -12496,7 +12497,6 @@ bonify
 bdls
 betaines
 brawniness
-bondstone
 burntness
 bather
 bagpiped
