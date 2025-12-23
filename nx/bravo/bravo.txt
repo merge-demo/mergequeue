@@ -835,7 +835,6 @@ biochron
 bromodeoxyuridine
 burnishers
 billikin
-bet
 bacillar
 bezique
 bagasses
@@ -6214,6 +6213,7 @@ benight
 buzzed
 bandalore
 benighter
+bet
 barked
 brittlestem
 basidiolichenes
