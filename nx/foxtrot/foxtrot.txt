@@ -4842,6 +4842,7 @@ faunus
 fishberries
 firepower
 flinthead
+franchisers
 fleay
 fainer
 foil
@@ -7335,7 +7336,6 @@ foraying
 frognose
 foralite
 foram
-franchisers
 fronds
 fearnaught
 frampold
