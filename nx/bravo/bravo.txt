@@ -2730,7 +2730,6 @@ balandrana
 brasen
 betaken
 beladies
-barognosis
 betters
 bellypiece
 batholitic
@@ -18122,6 +18121,7 @@ benzal
 bealtared
 bloodlettings
 buskin
+barognosis
 butcherer
 blobbier
 bureaucrats
