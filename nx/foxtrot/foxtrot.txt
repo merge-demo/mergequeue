@@ -2946,7 +2946,6 @@ fungological
 froths
 fevered
 flitchen
-furnacing
 franklinian
 feveret
 forefending
@@ -7013,6 +7012,7 @@ formalazine
 fumant
 flannels
 fineries
+furnacing
 freemason
 fondly
 fluorspar
