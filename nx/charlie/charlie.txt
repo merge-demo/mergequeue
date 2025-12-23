@@ -3439,7 +3439,6 @@ caprifoliaceae
 caprifolium
 cincinnatia
 capriform
-caprigenous
 caprylic
 cymene
 caprylyl
@@ -30963,6 +30962,7 @@ cum
 cants
 cumay
 currack
+caprigenous
 cumal
 cytozoic
 cumaphyte
