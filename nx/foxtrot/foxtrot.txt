@@ -966,6 +966,7 @@ facetiousness
 fluorids
 frape
 fastigiums
+fractureproof
 forkers
 formalizer
 fillagreed
@@ -1816,7 +1817,6 @@ fanfarade
 flyspecks
 fiddler
 fastener
-fractureproof
 fissiparous
 forgets
 featured
