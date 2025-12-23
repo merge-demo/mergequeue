@@ -2007,7 +2007,6 @@ frizzer
 fullam
 farragoes
 fannell
-fardels
 feetfirst
 fireworky
 fractionizing
@@ -3591,6 +3590,7 @@ flapjacks
 fussle
 fairbanks
 fourniture
+fardels
 flank
 filers
 fructification
