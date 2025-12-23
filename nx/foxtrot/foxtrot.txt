@@ -1629,6 +1629,7 @@ fawners
 frowned
 facet
 futilities
+facie
 farandole
 formicoidea
 framework
@@ -2827,7 +2828,6 @@ fretted
 faunae
 fibrointestinal
 faveolate
-facie
 ficus
 fluidly
 floorman
