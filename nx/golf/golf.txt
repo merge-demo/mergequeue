@@ -897,7 +897,6 @@ gotha
 gametocyst
 glycoluril
 gametocyte
-grayout
 gametogenic
 gooseflesh
 gueparde
@@ -6199,6 +6198,7 @@ givens
 glistened
 greenhead
 goliaths
+grayout
 gambodic
 gallotannate
 grooves
