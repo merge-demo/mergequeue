@@ -7183,7 +7183,6 @@ ameloblast
 adnouns
 abettals
 alacrious
-alacrity
 alactaga
 alada
 abridgements
@@ -23757,6 +23756,7 @@ acetifier
 avowance
 alto
 auspice
+alacrity
 authenticated
 asouth
 aerohydroplane
