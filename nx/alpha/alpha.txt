@@ -21893,7 +21893,6 @@ assythment
 assize
 amiant
 achmetha
-archform
 assizes
 amphistome
 assman
@@ -24919,6 +24918,7 @@ awakening
 awakeningly
 awaking
 automotor
+archform
 arseniosiderite
 ankylose
 adroit
