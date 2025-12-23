@@ -14143,7 +14143,6 @@ brachistocephalic
 boloed
 brass
 brachistochrone
-brachistochronous
 bovovaccine
 brachystomatous
 brachystomous
@@ -14345,6 +14344,7 @@ bikini
 bounciness
 brahmanism
 brahmanist
+brachistochronous
 brahmanistic
 brahmanize
 benched
