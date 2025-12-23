@@ -3316,7 +3316,6 @@ caplins
 coherald
 capmaking
 combatter
-capnodium
 capnoides
 clipping
 creaker
@@ -25115,6 +25114,7 @@ cueball
 calipers
 colophonian
 corema
+capnodium
 counternatural
 conglutinated
 commentate
