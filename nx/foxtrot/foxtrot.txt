@@ -2585,7 +2585,6 @@ ferroelectric
 fingerbreadth
 fattier
 fouty
-franchiser
 fibrocytic
 ferrogoslarite
 forcet
@@ -10021,6 +10020,7 @@ frilling
 flee
 flatwork
 fantod
+franchiser
 flavoury
 flor
 fryer
