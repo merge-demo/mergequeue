@@ -8793,7 +8793,6 @@ alimental
 anfractuousness
 airtightness
 ascoma
-apterygote
 acetylcholinesterase
 afforests
 acescents
@@ -10327,6 +10326,7 @@ addressability
 amenuse
 agrostological
 adeling
+apterygote
 audaciously
 archivers
 agglutinator
