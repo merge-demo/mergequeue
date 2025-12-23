@@ -6650,7 +6650,6 @@ aboon
 arakanese
 anatolian
 aporetical
-anointer
 amidoketone
 albedos
 audible
@@ -10512,6 +10511,7 @@ anchoic
 amidofluorid
 aperulosid
 amidogen
+anointer
 amidoguaiacol
 awabakal
 automacy
