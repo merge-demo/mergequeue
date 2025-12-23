@@ -4325,7 +4325,6 @@ expansibleness
 enactor
 epigrammatize
 entoproct
-echoed
 eloquence
 exclaustration
 enamelist
@@ -9704,6 +9703,7 @@ evacue
 euselachii
 esquisse
 exship
+echoed
 eversible
 extima
 easing
