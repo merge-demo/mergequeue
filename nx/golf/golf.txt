@@ -1522,6 +1522,7 @@ guaxima
 glandless
 gorlin
 gregarinidal
+grisounite
 grote
 genapping
 geratology
@@ -9136,7 +9137,6 @@ gambier
 grandiose
 gluily
 gavelkinder
-grisounite
 gelong
 greenbrier
 gigful
