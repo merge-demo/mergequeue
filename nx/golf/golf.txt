@@ -8151,7 +8151,6 @@ gulfed
 gloat
 glowflies
 granulators
-gripper
 gynaecocracy
 guanidins
 gabblers
@@ -9090,6 +9089,7 @@ grillroom
 gleet
 gerent
 grimmiaceae
+gripper
 ganglionectomies
 girthline
 glutination
