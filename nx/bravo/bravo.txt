@@ -291,6 +291,7 @@ brachiocyllosis
 backarrows
 backbar
 bedright
+begrutch
 birkenhead
 biolith
 booter
@@ -1256,7 +1257,6 @@ buckskinned
 baryonic
 bluejays
 bahai
-begrutch
 boater
 balander
 bleaberry
