@@ -1972,6 +1972,7 @@ functionalize
 frigiferous
 flchette
 flannelette
+ferocactus
 fireball
 flushed
 fravashi
@@ -3911,7 +3912,6 @@ fits
 fortuitously
 fecundating
 fluidness
-ferocactus
 financer
 fripperies
 followers
