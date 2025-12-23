@@ -6794,6 +6794,7 @@ bookery
 bersagliere
 brittles
 bin
+boeotia
 berserks
 barnumize
 berskin
@@ -9557,7 +9558,6 @@ budgets
 bothridium
 barque
 burucha
-boeotia
 bogue
 bluejack
 battlements
