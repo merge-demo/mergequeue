@@ -4433,7 +4433,6 @@ bulkiness
 bludging
 beclogs
 bonspells
-bretonian
 bilabials
 beclothe
 banting
@@ -10100,6 +10099,7 @@ blabmouth
 bravadoism
 bludgeoneer
 beamish
+bretonian
 behave
 blackamoors
 blair
