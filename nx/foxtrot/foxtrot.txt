@@ -5212,7 +5212,6 @@ foliaging
 foxiness
 frontierlike
 frivolers
-fiot
 foreclaw
 formalin
 fuchsia
@@ -6656,6 +6655,7 @@ funds
 fancymonger
 fatuousness
 focussed
+fiot
 fetlocked
 ferricyanic
 fecche
