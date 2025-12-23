@@ -1706,7 +1706,6 @@ belorussian
 baronial
 baloskion
 bulbels
-belittled
 baladine
 balsamation
 balsaminaceae
@@ -15836,6 +15835,7 @@ barding
 broking
 bushfighter
 brainwash
+belittled
 battiks
 broletti
 bi
