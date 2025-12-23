@@ -6743,6 +6743,7 @@ celature
 celeb
 capicha
 clition
+crutch
 celebrant
 cohesions
 celebrants
@@ -30418,7 +30419,6 @@ copied
 cloche
 crut
 conservatories
-crutch
 crutched
 crutching
 crutter
