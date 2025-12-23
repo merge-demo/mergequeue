@@ -264,7 +264,6 @@ dissuitable
 dry
 dizzard
 dagomba
-dagswain
 daguerreotype
 downspout
 dolichopodous
@@ -4727,6 +4726,7 @@ diploneural
 diethylaminoethanol
 democracies
 deemstership
+dagswain
 democrat
 dawdles
 douar
