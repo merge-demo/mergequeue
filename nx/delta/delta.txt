@@ -3850,6 +3850,7 @@ degraduation
 dopatta
 decastyle
 dephlegm
+distruss
 diomedeidae
 deselects
 disinteresting
@@ -10250,7 +10251,6 @@ dermoskeleton
 distaste
 doura
 dutch
-distruss
 decrepid
 denitrator
 dryops
