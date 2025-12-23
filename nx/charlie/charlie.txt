@@ -14064,7 +14064,6 @@ cypseliformes
 chiriana
 cryptostomate
 cypselomorphae
-churchism
 cypselomorphic
 cypselous
 cypselus
@@ -29258,6 +29257,7 @@ cryptobranch
 cryptobranchia
 cryptobranchiata
 clambakes
+churchism
 chondroma
 cutlas
 choices
