@@ -6697,7 +6697,6 @@ berkovets
 berkovtsi
 bedull
 bayesian
-berlin
 browsability
 bismuthine
 broomstaff
@@ -11053,6 +11052,7 @@ bails
 between
 bloats
 brachygnathous
+berlin
 blob
 bimetallic
 bicentrically
