@@ -2316,6 +2316,7 @@ eval
 escalatory
 epidemiologist
 exterminations
+eobionts
 ensepulchre
 evangelicalness
 electrizable
@@ -6439,7 +6440,6 @@ ensnared
 ensnarer
 echinostoma
 excommunicated
-eobionts
 edental
 evenmete
 euctical
