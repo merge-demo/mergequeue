@@ -891,7 +891,6 @@ goffer
 ghatti
 gymnophiona
 guerrilla
-gametangia
 gerontomorphosis
 grillwork
 gotha
@@ -6751,6 +6750,7 @@ gastronephritis
 gonidic
 genes
 gauges
+gametangia
 gyrostats
 glomerate
 globulimeter
