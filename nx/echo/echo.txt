@@ -2270,7 +2270,6 @@ electret
 electrets
 esophagogastrostomy
 exploitive
-electrically
 extensometer
 enciente
 embryony
@@ -10012,6 +10011,7 @@ epinician
 euptelea
 eternalised
 enweb
+electrically
 extradict
 emotiomuscular
 electrode
