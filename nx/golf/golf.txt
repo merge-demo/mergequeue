@@ -3625,6 +3625,7 @@ galilei
 genarcha
 ghazi
 grubber
+guiser
 gweducs
 guttatim
 gogos
@@ -6318,7 +6319,6 @@ gerahs
 genistein
 gullable
 gobies
-guiser
 gallify
 gasogenes
 gobiid
