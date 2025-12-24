@@ -251,7 +251,6 @@ gabbles
 gestatorium
 germanomaniac
 golpe
-gulaman
 gaspereau
 gaiter
 goajiro
@@ -7855,6 +7854,7 @@ globs
 gristmilling
 graphospasm
 gerents
+gulaman
 goosander
 grumble
 gimirrai
