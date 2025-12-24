@@ -6672,7 +6672,6 @@ gambusias
 gunnysack
 gondolas
 guidons
-glasseye
 gondoletta
 guffs
 gangliform
@@ -7745,6 +7744,7 @@ governors
 gentium
 glome
 girba
+glasseye
 glycuresis
 gemlike
 geist
