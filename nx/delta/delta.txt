@@ -6459,6 +6459,7 @@ decadenza
 dactylioglyph
 disbark
 desamidase
+dirian
 desands
 desc
 downrightly
@@ -10850,7 +10851,6 @@ debts
 dirgy
 doggedly
 dhooley
-dirian
 dirichletian
 desulfuriser
 dominicans
