@@ -3005,7 +3005,6 @@ gastrostomy
 gendered
 galatine
 ghetti
-gasifier
 gondite
 gavialis
 gelly
@@ -5494,6 +5493,7 @@ gradines
 goodwillies
 gliridae
 gasoline
+gasifier
 glirine
 germiculture
 gandhism
