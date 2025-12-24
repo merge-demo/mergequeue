@@ -1024,6 +1024,7 @@ foglietto
 fascicles
 flexuose
 flatlong
+fren
 fumosity
 feverweed
 fretful
@@ -6376,7 +6377,6 @@ flowchart
 flagpole
 forementioned
 fluocerine
-fren
 flang
 fullterm
 fluoran
