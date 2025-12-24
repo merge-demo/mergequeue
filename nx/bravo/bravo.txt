@@ -7161,7 +7161,6 @@ bifoliate
 biologist
 brightly
 bessel
-bessemer
 bessemerize
 bessemerized
 besses
@@ -12524,6 +12523,7 @@ bilberries
 boneshaker
 bridesman
 bidets
+bessemer
 backbeat
 benetnasch
 befavor
