@@ -1271,7 +1271,6 @@ gradings
 greasers
 galliardly
 grognard
-geneki
 griffes
 guenon
 gapper
@@ -10365,6 +10364,7 @@ gnashing
 galactosamine
 gardenly
 girasols
+geneki
 gordiid
 gullery
 grasshook
