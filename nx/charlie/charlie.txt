@@ -6953,6 +6953,7 @@ cementoma
 cements
 cementwork
 cemetaries
+comate
 cemetery
 copesettic
 cemeterial
@@ -19670,7 +19671,6 @@ consolidant
 comanic
 comarum
 characin
-comate
 cowerer
 coquilla
 camarilla
