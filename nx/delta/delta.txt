@@ -946,6 +946,7 @@ directives
 dewed
 dures
 darb
+dorsoabdominal
 deserters
 darby
 diapnoic
@@ -9070,7 +9071,6 @@ diss
 dermatophobia
 defigure
 dictionarian
-dorsoabdominal
 dollying
 dropsywort
 disembattle
