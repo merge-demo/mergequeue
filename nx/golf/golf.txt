@@ -9042,7 +9042,6 @@ guiles
 geohydrologic
 groomer
 grillee
-gatehouse
 golem
 gramashes
 granatum
@@ -10101,6 +10100,7 @@ garrulus
 ghostwrote
 galactodensimeter
 grammarian
+gatehouse
 gekkonoid
 gonfaloniership
 gasoscope
