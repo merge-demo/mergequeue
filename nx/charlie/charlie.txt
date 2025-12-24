@@ -18968,6 +18968,7 @@ cham
 collates
 collation
 collations
+cumaru
 cesti
 collatitious
 cloine
@@ -24643,7 +24644,6 @@ copis
 cowling
 chicnesses
 coattended
-cumaru
 caedmonic
 copywriters
 causticizing
