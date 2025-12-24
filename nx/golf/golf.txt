@@ -4433,7 +4433,6 @@ gorget
 grandezza
 gearcases
 gongs
-grifter
 gorgoneum
 guestling
 gutted
@@ -4801,6 +4800,7 @@ glar
 gypsy
 givingness
 globes
+grifter
 garrnishable
 gizz
 gorgoniaceous
