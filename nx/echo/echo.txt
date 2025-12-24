@@ -3982,6 +3982,7 @@ empalers
 eyepit
 empall
 excurvation
+earshots
 empanelling
 empanels
 enfamish
@@ -8860,7 +8861,6 @@ epitheloid
 enkernel
 ecospecifically
 esthesiometer
-earshots
 eremuri
 ethnoflora
 enerve
