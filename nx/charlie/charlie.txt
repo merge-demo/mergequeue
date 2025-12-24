@@ -5556,7 +5556,6 @@ cartbote
 capitulations
 clapperclawer
 coenosarcous
-coulometer
 catadioptrical
 catadioptrics
 conserved
@@ -7893,6 +7892,7 @@ castaway
 cessor
 cesspit
 cesspits
+coulometer
 carey
 contrastment
 cesspools
