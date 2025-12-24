@@ -27307,7 +27307,6 @@ czarowitch
 couping
 couple
 couplement
-coupler
 couples
 carling
 cleric
@@ -27564,6 +27563,7 @@ coverlets
 circumambiently
 consumation
 clairce
+coupler
 coverslip
 covertly
 colloquialist
