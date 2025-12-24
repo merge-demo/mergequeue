@@ -2672,7 +2672,6 @@ gangliectomy
 gourde
 gervas
 gardening
-gynophagite
 gardeviance
 gibbles
 genevan
@@ -5469,6 +5468,7 @@ gracelike
 griphosaurus
 gephyrean
 golaseccan
+gynophagite
 gingivitis
 gaea
 glyptolith
