@@ -6466,6 +6466,7 @@ firring
 floretty
 fisherboat
 feltman
+fanflower
 froisse
 footbaths
 feneration
@@ -10066,7 +10067,6 @@ familistical
 fascinated
 figure
 funnelled
-fanflower
 faradonervous
 flannelled
 fleyed
