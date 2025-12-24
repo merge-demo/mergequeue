@@ -2701,7 +2701,6 @@ deconsecrate
 duels
 dareful
 deconsecrated
-detailedness
 demitrain
 deconsideration
 decontaminating
@@ -8629,6 +8628,7 @@ diaglyph
 disimprove
 diarist
 dibbuk
+detailedness
 denatured
 diarrhea
 dows
