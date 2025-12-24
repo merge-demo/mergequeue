@@ -12153,7 +12153,6 @@ coronet
 chrysalida
 cascarilla
 chrysaline
-chromophilous
 chrysalis
 chrysalises
 cardiaplegia
@@ -30587,6 +30586,7 @@ casanovas
 cuboids
 chondropharyngeal
 colloquium
+chromophilous
 cubomedusan
 cubometatarsal
 cubonavicular
