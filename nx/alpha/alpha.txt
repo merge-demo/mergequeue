@@ -4924,7 +4924,6 @@ archdapifership
 auncel
 asexuals
 antimonide
-almsfolk
 atame
 alluvivia
 arake
@@ -18164,6 +18163,7 @@ aquatic
 aquatics
 aquatile
 arhats
+almsfolk
 acrimoniously
 aquatintist
 analogically
