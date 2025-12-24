@@ -907,7 +907,6 @@ expeditionary
 enures
 emperies
 extrastate
-electrostrictive
 episedia
 encomiastic
 excommunicators
@@ -12015,6 +12014,7 @@ essentials
 eigenspace
 etherion
 espeire
+electrostrictive
 embolus
 equilibrize
 electioneerer
