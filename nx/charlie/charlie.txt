@@ -11270,6 +11270,7 @@ chlorimetric
 chlorinated
 chlorinating
 curly
+candela
 chlorination
 chlorinator
 chlorines
@@ -16997,7 +16998,6 @@ centrex
 clerestories
 clutching
 cymbaleer
-candela
 clutchingly
 consignificate
 clutchman
