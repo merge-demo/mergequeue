@@ -3661,7 +3661,6 @@ emergency
 epiphloedic
 embrica
 embryectomy
-essaylet
 earlet
 endogonidium
 embright
@@ -13829,6 +13828,7 @@ earworm
 extracystic
 equiarticulate
 entomolite
+essaylet
 extracivic
 energeticist
 engenderer
