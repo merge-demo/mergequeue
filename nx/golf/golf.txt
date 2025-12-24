@@ -2378,7 +2378,6 @@ germanies
 geotectonic
 gravitates
 goggler
-ger
 gabon
 guardants
 glump
@@ -9551,6 +9550,7 @@ glidder
 grumbler
 gleaners
 greenlander
+ger
 gadaea
 gastrophthisis
 gastrocentrous
