@@ -2069,7 +2069,6 @@ episcope
 electrophorese
 evilly
 eudialyte
-elanet
 elanus
 enantiopathia
 extravenate
@@ -2627,6 +2626,7 @@ electrophoretogram
 expansure
 exturb
 estimated
+elanet
 eave
 eu
 ecthetically
