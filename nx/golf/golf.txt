@@ -4635,7 +4635,6 @@ gamboge
 gnaphalium
 gymnanthes
 gluttonism
-gnathobase
 grecianize
 giro
 glossae
@@ -5941,6 +5940,7 @@ glebe
 gewgawish
 grackle
 grogshops
+gnathobase
 goofs
 gambirs
 glamourizer
