@@ -6266,7 +6266,6 @@ glue
 glucosidase
 gonne
 greaves
-goatstone
 gaum
 goatweed
 guerrillaism
@@ -10590,6 +10589,7 @@ greaser
 grandisonian
 gowany
 gushed
+goatstone
 gonidium
 gunners
 gunning
