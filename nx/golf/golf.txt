@@ -5255,7 +5255,6 @@ garrulousness
 gigas
 gleety
 glottidean
-guineaman
 glottiscope
 gastriloquist
 gibbals
@@ -8771,6 +8770,7 @@ gallate
 griming
 gonapod
 galactagoguic
+guineaman
 gawkers
 gudefather
 glaumrie
