@@ -6763,6 +6763,7 @@ bushiest
 berry
 buchnerite
 binturong
+brotherlike
 banshee
 bitte
 bedscrew
@@ -14625,7 +14626,6 @@ branles
 blench
 birks
 biogeographers
-brotherlike
 blackneb
 bonito
 branniness
