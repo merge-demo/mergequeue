@@ -2383,7 +2383,6 @@ episteme
 electrocolloidal
 edulcoration
 exhaustable
-electroconvulsive
 empoisonment
 engorged
 exocone
@@ -11491,6 +11490,7 @@ emulgens
 enlistees
 eidolic
 electrophotometer
+electroconvulsive
 evigilation
 emenders
 endocrinous
