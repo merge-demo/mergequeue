@@ -9450,7 +9450,6 @@ decubitus
 dissert
 digenetic
 digenetica
-dicyanin
 digue
 diplanetism
 daydreamers
@@ -17755,6 +17754,7 @@ drunt
 discriminous
 dispossessed
 ducaton
+dicyanin
 dependency
 ducats
 dewiness
