@@ -10670,6 +10670,7 @@ chimeric
 coptic
 calci
 cavies
+coagment
 caribou
 cytoplasmic
 chimes
@@ -17180,7 +17181,6 @@ coaggregation
 computationally
 cladophoraceae
 coagitator
-coagment
 cleptobiotic
 coagmentation
 coagonize
