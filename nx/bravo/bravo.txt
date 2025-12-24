@@ -5336,7 +5336,6 @@ begnaw
 biharmonic
 borderlines
 balmy
-ballroom
 begone
 baryte
 boxlike
@@ -13582,6 +13581,7 @@ baroco
 bugsha
 bismutosmaltite
 berapt
+ballroom
 bobbysocks
 bearded
 bivane
