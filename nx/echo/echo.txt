@@ -8586,7 +8586,6 @@ enharmonic
 earnings
 equibalanced
 electrodialitic
-equicohesive
 equicontinuous
 engagements
 eyebar
@@ -12523,6 +12522,7 @@ enhalos
 eugeny
 enneacontahedron
 exoskeleton
+equicohesive
 exist
 existed
 elucidating
