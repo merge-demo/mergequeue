@@ -14374,7 +14374,6 @@ dimensuration
 diuron
 demeaned
 dielec
-dielytra
 doled
 diva
 divagated
@@ -17535,6 +17534,7 @@ druids
 dipterology
 dissimulations
 dellaring
+dielytra
 delegalizing
 doctrinaire
 disgustedly
