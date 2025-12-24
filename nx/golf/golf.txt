@@ -2704,7 +2704,6 @@ gigantocyte
 genioglossal
 gastroenterologists
 ganodont
-globoids
 geoteuthis
 genioglossus
 gelling
@@ -4561,6 +4560,7 @@ graminiform
 gerbille
 gigantomachia
 gawp
+globoids
 gmelinite
 gingering
 gyrate
