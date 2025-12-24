@@ -4620,7 +4620,6 @@ bewilderingly
 broomwood
 bedeafening
 baghouse
-bothriums
 bilberry
 bedecked
 bedrid
@@ -14014,6 +14013,7 @@ beevish
 blendor
 bracae
 biblioclasm
+bothriums
 bracciale
 braccianite
 boobyish
