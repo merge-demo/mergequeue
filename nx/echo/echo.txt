@@ -3829,7 +3829,6 @@ emended
 ecu
 emending
 escribano
-emerald
 elasticities
 emerge
 ecart
@@ -5742,6 +5741,7 @@ embrace
 eau
 educabilia
 etherolate
+emerald
 engirdle
 ebullient
 engrege
