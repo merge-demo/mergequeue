@@ -1067,7 +1067,6 @@ floriken
 floter
 foredestining
 furriery
-farolito
 flustration
 fiberboard
 ferriages
@@ -5442,6 +5441,7 @@ fault
 firstfruits
 finnip
 fleecy
+farolito
 flyblown
 forager
 fiendliness
