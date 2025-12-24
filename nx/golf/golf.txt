@@ -1489,7 +1489,6 @@ golet
 gastrophilus
 gastric
 gisarme
-growly
 greta
 gasolier
 ghostology
@@ -6523,6 +6522,7 @@ gibbert
 grutches
 goaltenders
 georgiadesite
+growly
 glaciologist
 germinatively
 gonapophysial
