@@ -1150,7 +1150,6 @@ gallnut
 galyac
 groupment
 gunpowder
-genion
 granddam
 gypsologist
 gander
@@ -6304,6 +6303,7 @@ graecian
 gyroidal
 grundyist
 galop
+genion
 governessy
 gid
 gobbles
