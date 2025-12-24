@@ -2337,6 +2337,7 @@ bagging
 boxboards
 barbotine
 bones
+bluelines
 bastinade
 biolysis
 belligerency
@@ -11433,7 +11434,6 @@ bluejacket
 bluejacks
 blueline
 blennophthalmia
-bluelines
 beeves
 bisaltae
 bodacious
