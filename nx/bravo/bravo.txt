@@ -2891,6 +2891,7 @@ broadthroat
 biverbal
 beclatter
 bestride
+boxlike
 badinage
 barrater
 barratries
@@ -5337,7 +5338,6 @@ borderlines
 balmy
 begone
 baryte
-boxlike
 begonia
 begoniales
 backslapping
