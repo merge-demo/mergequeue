@@ -1583,7 +1583,6 @@ disposition
 determinatively
 desitive
 disembody
-deadlocking
 decipolar
 duplicia
 direfulness
@@ -16265,6 +16264,7 @@ deteriorate
 downface
 downstair
 duodenocystostomy
+deadlocking
 dacryolite
 dipsaceous
 denominationalist
