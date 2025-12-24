@@ -1046,7 +1046,6 @@ dispensers
 darksum
 domineers
 danalite
-decimeter
 dharmasutra
 darling
 disobligingness
@@ -10964,6 +10963,7 @@ disaffirmance
 dheri
 dictyosiphon
 disaffirmation
+decimeter
 decidedness
 disaffirming
 dermococcus
