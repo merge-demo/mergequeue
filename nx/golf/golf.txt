@@ -2642,7 +2642,6 @@ geomorphist
 gypsyweed
 gramma
 gonocalyx
-gynecia
 galores
 grayware
 graal
@@ -4022,6 +4021,7 @@ gilbertian
 girlishness
 guttula
 gildable
+gynecia
 gentrification
 gesticulated
 grotzen
