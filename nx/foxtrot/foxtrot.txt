@@ -7468,7 +7468,6 @@ forcipressure
 frigidoreceptor
 foy
 fossick
-feinschmecker
 fiftypenny
 feminine
 frumpier
@@ -11614,6 +11613,7 @@ formulizer
 fragilely
 fermata
 fustics
+feinschmecker
 fussbudget
 forint
 facsimile
