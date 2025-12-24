@@ -2612,7 +2612,6 @@ allocated
 auxoflore
 abutters
 acquire
-antescript
 asiden
 acquisite
 arricciati
@@ -18182,6 +18181,7 @@ asseverating
 aberuncator
 aporphin
 allocatable
+antescript
 aconitic
 althea
 areel
