@@ -27619,7 +27619,6 @@ cyanidin
 clientry
 caesuras
 cowages
-cowardy
 cowardice
 chrobat
 cowardish
@@ -31682,6 +31681,7 @@ cushionet
 cushionflower
 cushioning
 celestial
+cowardy
 cushionless
 ciruses
 cushionlike
