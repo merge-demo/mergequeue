@@ -7218,7 +7218,6 @@ coffeehousing
 centring
 centrings
 clivia
-cavaedia
 centriole
 chalazogam
 confiture
@@ -30653,6 +30652,7 @@ chlorids
 cucurb
 compole
 cucurbita
+cavaedia
 cucurbitaceous
 cucurbite
 clinicist
