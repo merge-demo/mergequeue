@@ -913,7 +913,6 @@ gelatinizability
 genome
 guahivo
 gravata
-genteeler
 gaverick
 geld
 guna
@@ -8147,6 +8146,7 @@ gallygaskins
 gazabos
 garderobe
 gaspergous
+genteeler
 gynaeolater
 gulfed
 gloat
