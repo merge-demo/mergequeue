@@ -3121,7 +3121,6 @@ ascendance
 antimonous
 action
 albiflorous
-antagonizer
 allotrophic
 antispirochetic
 antisupernaturalist
@@ -5246,6 +5245,7 @@ alpenhorn
 affiliating
 apery
 anagenetical
+antagonizer
 ampitheater
 attackable
 anapterygotous
