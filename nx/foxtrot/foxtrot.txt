@@ -10268,6 +10268,7 @@ flavedos
 froideur
 froise
 frokin
+fleetness
 filum
 felons
 frolic
@@ -10844,7 +10845,6 @@ flambeaux
 fumose
 fulfillment
 flus
-fleetness
 flavorous
 fulfillments
 fennici
