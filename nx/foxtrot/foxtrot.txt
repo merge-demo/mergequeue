@@ -2901,7 +2901,6 @@ fackins
 firefighters
 fettucini
 fungiferous
-fruitlet
 froglike
 farsightedly
 flows
@@ -6458,6 +6457,7 @@ fluoaluminate
 fainted
 flatcap
 fairs
+fruitlet
 fibrinolysis
 fungi
 fistulariidae
