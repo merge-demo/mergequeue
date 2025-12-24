@@ -1157,7 +1157,6 @@ economizers
 estuaries
 enterobiasis
 edomitish
-expective
 eutomous
 exorbitate
 enterograph
@@ -5769,6 +5768,7 @@ expose
 embossments
 esophagomalacia
 emaciation
+expective
 eddying
 enfief
 endozoic
