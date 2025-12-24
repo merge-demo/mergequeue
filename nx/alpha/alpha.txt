@@ -1261,6 +1261,7 @@ aerognosy
 australopithecine
 ails
 antifoggant
+antitropic
 acarpelous
 augitic
 antisceptic
@@ -7065,7 +7066,6 @@ aker
 amdt
 antifeministic
 apogeal
-antitropic
 altiloquent
 akha
 angus
