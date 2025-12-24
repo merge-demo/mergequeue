@@ -2549,7 +2549,6 @@ childproof
 cacqueteuse
 candlenut
 candlepins
-chemist
 cerevis
 candler
 candlerent
@@ -29761,6 +29760,7 @@ crookedly
 crookedness
 crookery
 crookesite
+chemist
 crookheaded
 crooking
 circule
