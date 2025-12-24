@@ -1085,7 +1085,6 @@ epistolic
 echinology
 elective
 edification
-evaluators
 exfigure
 earock
 equipoised
@@ -7189,6 +7188,7 @@ ensample
 enzootically
 evenlight
 exposed
+evaluators
 endodontium
 ejidos
 enderon
