@@ -2662,6 +2662,7 @@ crankdisk
 cangia
 constitutively
 cangler
+coverlids
 cangue
 chonolith
 cangues
@@ -31003,7 +31004,6 @@ conferee
 chnuphis
 cherkesser
 counterflight
-coverlids
 clinchpoop
 cumbrous
 correctrice
