@@ -6643,6 +6643,7 @@ bergs
 breastbone
 bordar
 boneshave
+binal
 bodegon
 beribanded
 birdy
@@ -8740,7 +8741,6 @@ behinder
 barycentre
 brontozoum
 birchen
-binal
 bedrown
 benedight
 bungo
