@@ -2397,6 +2397,7 @@ betowel
 blinkering
 bromoiodide
 besmirch
+birefringent
 brotherhood
 bards
 bardship
@@ -9824,7 +9825,6 @@ barbing
 brands
 begums
 bites
-birefringent
 bebat
 bytes
 bitewing
