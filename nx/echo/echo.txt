@@ -1322,7 +1322,6 @@ ennuied
 effects
 enlarge
 edified
-enclog
 effectuated
 encastage
 effectuating
@@ -3606,6 +3605,7 @@ epitomically
 embows
 exanimate
 enculturate
+enclog
 entamoeba
 encyclopaediac
 effusive
