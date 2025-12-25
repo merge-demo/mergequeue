@@ -7282,7 +7282,6 @@ fameuse
 fancysick
 fortlet
 federalise
-footwalk
 footwarmer
 focalized
 frater
@@ -10322,6 +10321,7 @@ frondeurs
 forecourt
 feaze
 foss
+footwalk
 footcandles
 forewarning
 fiaunt
