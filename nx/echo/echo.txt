@@ -5130,7 +5130,6 @@ evanishment
 endoconidia
 edificate
 epiplanktonic
-ejectives
 encrustment
 elegits
 ember
@@ -11823,6 +11822,7 @@ epileptics
 eplot
 externization
 enviably
+ejectives
 electromagnetically
 equibalance
 epirrhematic
