@@ -7626,6 +7626,7 @@ grabhook
 grabouche
 gripsack
 gigolo
+geographics
 gerenda
 garpike
 gilbertite
@@ -10245,7 +10246,6 @@ glycogenase
 generating
 guimbard
 gorsehatch
-geographics
 gershom
 gomontia
 geechee
