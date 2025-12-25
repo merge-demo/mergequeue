@@ -3467,7 +3467,6 @@ figgiest
 fraternisation
 fecundity
 fleeches
-fanfares
 fingerable
 frostfishes
 foreseason
@@ -3541,6 +3540,7 @@ featherhead
 formant
 frightful
 foulsome
+fanfares
 filamentary
 filament
 flannelleaves
