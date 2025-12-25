@@ -3482,7 +3482,6 @@ favillae
 fumaroid
 fibbed
 figshell
-foe
 flankard
 fury
 foam
@@ -6225,6 +6224,7 @@ flaring
 feuded
 foragement
 frumpishness
+foe
 fudder
 fluctuating
 frugalist
