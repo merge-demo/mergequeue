@@ -7402,7 +7402,6 @@ floatplane
 frost
 fattened
 fierding
-flywire
 flirtigig
 foraramens
 frugs
@@ -11148,6 +11147,7 @@ frumperies
 flocculence
 fernlike
 foederal
+flywire
 fruitiest
 frumple
 francas
