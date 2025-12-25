@@ -5338,7 +5338,6 @@ disblame
 daraf
 diaphoretic
 displaced
-dentical
 denticle
 dentiferous
 desegmented
@@ -16567,6 +16566,7 @@ dodecarchy
 dishallow
 doctorly
 descensories
+dentical
 draggletailed
 deuteromycetes
 defensed
