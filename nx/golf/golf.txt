@@ -1483,7 +1483,6 @@ gamma
 gerousia
 gynocardia
 gradualness
-guydom
 gasboat
 giddiness
 gaselier
@@ -2802,6 +2801,7 @@ gimmor
 gascoigny
 greatcoat
 gyro
+guydom
 gyne
 garni
 gershon
