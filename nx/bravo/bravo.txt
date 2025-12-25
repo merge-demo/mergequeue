@@ -7949,6 +7949,7 @@ beclad
 bap
 bushels
 brusher
+bicker
 bicarbureted
 bicarburetted
 binucleated
@@ -12322,7 +12323,6 @@ bombline
 bowdrill
 bombast
 buglers
-bicker
 bezzi
 beldame
 baillie
