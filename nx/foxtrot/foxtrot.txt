@@ -9892,7 +9892,6 @@ forcelessness
 flintstone
 folksey
 flitching
-frictionable
 fraghan
 frits
 friskier
@@ -10482,6 +10481,7 @@ frostfish
 forcite
 frostbitten
 frosty
+frictionable
 feuillet
 fantasticality
 frostily
