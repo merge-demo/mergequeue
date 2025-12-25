@@ -9233,6 +9233,7 @@ discolour
 decorament
 dollface
 divined
+describe
 disinsectization
 dislegitimate
 digitaliform
@@ -14674,7 +14675,6 @@ dignified
 darioles
 djin
 disrespondency
-describe
 dowers
 doxies
 dieselize
