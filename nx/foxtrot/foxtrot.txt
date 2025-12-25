@@ -1160,7 +1160,6 @@ feller
 figeaters
 flyblows
 footy
-fets
 foredestiny
 farthingdeal
 funerally
@@ -6707,6 +6706,7 @@ fogfruit
 fibrins
 fruiteress
 flatterable
+fets
 flintlock
 flexura
 flouts
