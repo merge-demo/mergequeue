@@ -8619,7 +8619,6 @@ distilment
 dialyses
 diary
 diaglyph
-disimprove
 diarist
 dibbuk
 detailedness
@@ -9076,6 +9075,7 @@ dictyotic
 drinkability
 dailiness
 devow
+disimprove
 drubbed
 devance
 discernable
