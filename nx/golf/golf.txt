@@ -2098,7 +2098,6 @@ gillian
 governments
 gubbertush
 graminological
-gawk
 gratingly
 gozzard
 gerberia
@@ -6711,6 +6710,7 @@ guarnieri
 gumboils
 gastropancreatic
 gymnoglossa
+gawk
 genuflected
 goniatites
 garterless
