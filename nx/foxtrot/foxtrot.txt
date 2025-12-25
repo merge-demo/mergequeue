@@ -7621,7 +7621,6 @@ festino
 fatalize
 farrier
 fossula
-felty
 ferroglass
 fastly
 fees
@@ -8968,6 +8967,7 @@ feldspath
 feverwort
 favositoid
 formally
+felty
 fourier
 fanglet
 fourierism
