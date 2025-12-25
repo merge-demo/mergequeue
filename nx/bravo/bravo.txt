@@ -6989,7 +6989,6 @@ besmooth
 besmooths
 betrust
 bleeders
-barricades
 basilian
 besmouch
 bloodying
@@ -7156,6 +7155,7 @@ brambliest
 bifoliate
 biologist
 brightly
+barricades
 bessel
 bessemerize
 bessemerized
