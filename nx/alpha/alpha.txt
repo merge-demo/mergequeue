@@ -1070,7 +1070,6 @@ alcelaphine
 ammoniojarosite
 apparelled
 abundancy
-aluminosis
 abundant
 anachronical
 abundantly
@@ -5160,6 +5159,7 @@ aeviternal
 anatomicomedical
 af
 avernal
+aluminosis
 arbalos
 anelastic
 amourist
