@@ -2010,7 +2010,6 @@ bank
 bankalachi
 beshivers
 bidactyl
-bloodstones
 bankcard
 bethought
 banky
@@ -5651,6 +5650,7 @@ bocher
 busks
 boraciferous
 benjoin
+bloodstones
 besped
 beldams
 bacchar
