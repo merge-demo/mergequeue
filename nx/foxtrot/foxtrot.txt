@@ -67,7 +67,6 @@ fabulously
 facebar
 facebow
 fenchone
-feudalization
 faceharden
 flagships
 flecken
@@ -6571,6 +6570,7 @@ fluviolacustrine
 fleetly
 funereal
 foretack
+feudalization
 flamless
 furrings
 flibbertigibbets
