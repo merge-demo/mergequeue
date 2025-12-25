@@ -8290,7 +8290,6 @@ accumulativeness
 aliferous
 amorousness
 anasarcous
-aliform
 adumbrates
 aliener
 aligerous
@@ -11155,6 +11154,7 @@ amphibiety
 azimuthally
 artifices
 aquatinting
+aliform
 avolation
 amphibole
 alkide
