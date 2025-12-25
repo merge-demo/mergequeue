@@ -2168,7 +2168,6 @@ gymnolaematous
 giunta
 gunships
 geheimrat
-gallophobe
 gantlopes
 guayaberas
 gurjan
@@ -7307,6 +7306,7 @@ grumness
 gladstonian
 geochronic
 glowbird
+gallophobe
 generatrix
 gerated
 gastraeadae
