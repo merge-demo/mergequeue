@@ -10061,6 +10061,7 @@ erianthus
 ethanedithiol
 enthalpy
 epicoeloma
+exurge
 erythrophyllin
 encumbered
 export
@@ -14196,7 +14197,6 @@ esthetics
 epulation
 endlong
 equidistance
-exurge
 exuscitate
 enlists
 effecters
