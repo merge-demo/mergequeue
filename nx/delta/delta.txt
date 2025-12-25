@@ -9398,6 +9398,7 @@ djinni
 duplicator
 diffusers
 diffuses
+dimidiation
 danaidean
 dechlore
 demilitarizing
@@ -9922,7 +9923,6 @@ dimidiate
 dispart
 deodorizers
 dissonancy
-dimidiation
 dissinew
 downcourt
 dodecatoic
