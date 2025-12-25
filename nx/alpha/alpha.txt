@@ -6122,7 +6122,6 @@ autocytolytic
 alois
 aglypha
 analogal
-articular
 asymtotically
 aglyphodont
 algodonite
@@ -11295,6 +11294,7 @@ amphisbaenoid
 abri
 arts
 apronless
+articular
 aleck
 aik
 antimasks
