@@ -14120,7 +14120,6 @@ antennariid
 antennariidae
 antennate
 antennifer
-antefixes
 acraturesis
 antennula
 agapae
@@ -15659,6 +15658,7 @@ archeologic
 allomucic
 antiophthalmic
 anet
+antefixes
 attrahent
 astronomically
 acridines
