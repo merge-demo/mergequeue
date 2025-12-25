@@ -16182,7 +16182,6 @@ bdellidae
 balklines
 brotheler
 bulla
-brimstony
 bristletail
 bayonetted
 bred
@@ -17904,6 +17903,7 @@ belabour
 bonytail
 buginese
 bushelling
+brimstony
 boopis
 busher
 bernoo
