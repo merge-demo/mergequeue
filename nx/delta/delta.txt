@@ -3149,6 +3149,7 @@ defeated
 downs
 diluviate
 disgout
+dialogist
 dissimulated
 drouths
 dryness
@@ -4884,7 +4885,6 @@ discage
 diluting
 deigns
 diminuendo
-dialogist
 demonologer
 demonology
 demonologically
