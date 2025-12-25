@@ -3357,6 +3357,7 @@ caponize
 crispate
 caponized
 caponizer
+copyfitter
 caponizing
 caponniere
 capons
@@ -24605,7 +24606,6 @@ copydesk
 copier
 cerebrogalactose
 copies
-copyfitter
 comvia
 copyfitting
 copygraph
