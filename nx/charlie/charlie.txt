@@ -15411,7 +15411,6 @@ chicane
 cautio
 cabins
 claptraps
-clapwort
 culbuter
 claque
 candescently
@@ -23570,6 +23569,7 @@ carpenter
 chorization
 credo
 contingential
+clapwort
 contingentialness
 contingently
 contingentness
