@@ -5343,7 +5343,6 @@ denticle
 dentiferous
 desegmented
 dentifrice
-diageotropism
 dentil
 discussional
 dentiled
@@ -12501,6 +12500,7 @@ disempower
 dispersoidological
 disimprison
 dentinitis
+diageotropism
 diopsidae
 daube
 dysmerogenetic
