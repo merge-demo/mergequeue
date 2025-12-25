@@ -3432,7 +3432,6 @@ cedarware
 caprificate
 canyon
 caprifig
-constructionally
 caprifole
 caprifoliaceae
 caprifolium
@@ -9762,6 +9761,7 @@ cattish
 chelating
 chelator
 chelerythrine
+constructionally
 collisions
 conjunctiva
 chelicer
