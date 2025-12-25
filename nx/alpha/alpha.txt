@@ -8039,7 +8039,6 @@ aer
 anapaest
 algesia
 alfaqui
-ataraxia
 apatornis
 autonavigator
 antidotical
@@ -22108,6 +22107,7 @@ autoepigraph
 asterisks
 ammocoetidae
 anerotic
+ataraxia
 arousal
 angered
 antefurcal
