@@ -3822,7 +3822,6 @@ greyhound
 gratefulness
 greyling
 greenbugs
-gabbard
 greenland
 gavialoid
 gulancha
@@ -8869,6 +8868,7 @@ gainlier
 galleyworm
 graphostatical
 gaged
+gabbard
 gastness
 gypsiologist
 gneisses
