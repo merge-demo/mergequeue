@@ -2206,6 +2206,7 @@ greedily
 grough
 glycerinating
 gunyeh
+getable
 gombo
 graphanalysis
 granitiferous
@@ -9010,7 +9011,6 @@ gradgrindish
 glander
 golgothas
 gushers
-getable
 gigant
 glenlike
 greenbelt
