@@ -2192,6 +2192,7 @@ galea
 goniostat
 goldfinches
 glistening
+glisters
 gebbie
 guardians
 gecarcinian
@@ -2624,7 +2625,6 @@ geiger
 goutte
 garabato
 galluot
-glisters
 genesial
 genesitic
 geographized
