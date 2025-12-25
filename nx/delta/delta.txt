@@ -4490,6 +4490,7 @@ danubian
 defused
 drinkableness
 destruction
+dialyzer
 demiculverin
 dodgiest
 divulsed
@@ -8282,7 +8283,6 @@ dagesh
 desonation
 digitation
 doombook
-dialyzer
 diagrams
 dentin
 db
