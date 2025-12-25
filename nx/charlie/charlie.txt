@@ -14018,7 +14018,6 @@ chemosensitive
 cecca
 crimp
 comtes
-cypraeidae
 cypraeiform
 confinement
 cypraeoid
@@ -21615,6 +21614,7 @@ condensed
 condensedness
 condensers
 condenses
+cypraeidae
 cooba
 committeeman
 camphorating
