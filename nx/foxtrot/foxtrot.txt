@@ -1005,7 +1005,6 @@ fontanges
 filmsets
 foreshop
 fulmina
-fucuses
 foreplan
 formate
 foreorder
@@ -5612,6 +5611,7 @@ fmt
 flyer
 forfar
 fingerwise
+fucuses
 federal
 frontonasal
 flageolet
