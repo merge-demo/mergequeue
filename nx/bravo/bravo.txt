@@ -11679,6 +11679,7 @@ byeworkman
 blazoners
 bosks
 boatward
+blackboys
 boatwright
 beanfest
 bob
@@ -13946,7 +13947,6 @@ bostonese
 bowsie
 bacteriuria
 boxful
-blackboys
 bleed
 brussels
 bullring
