@@ -1216,6 +1216,7 @@ dextrans
 datary
 dataries
 depeach
+dendrium
 dorsomedial
 datasetname
 dithers
@@ -5064,7 +5065,6 @@ dialer
 dendritical
 deal
 derbyshire
-dendrium
 diminishes
 derailed
 donatary
