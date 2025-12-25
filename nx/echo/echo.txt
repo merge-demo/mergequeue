@@ -4299,6 +4299,7 @@ epicarides
 ejectment
 exaltedness
 electrochemical
+esodic
 electromobile
 entangle
 exosmoses
@@ -10857,7 +10858,6 @@ enlivenments
 emborders
 econometrics
 ergot
-esodic
 enologist
 excised
 exanthematic
