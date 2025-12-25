@@ -4944,7 +4944,6 @@ badchan
 bouncing
 bitriseptate
 braggite
-beehive
 boatel
 bandy
 beek
@@ -13842,6 +13841,7 @@ binominal
 bidential
 brewing
 bedplates
+beehive
 bowerlet
 begins
 bighearted
