@@ -4529,7 +4529,6 @@ diwans
 demilitarisation
 demilitarised
 demilitarising
-demilitarization
 dehydrogenase
 dibranchiate
 demilitarized
@@ -11162,6 +11161,7 @@ dichromic
 disbanded
 disoppilate
 decanted
+demilitarization
 deglaciation
 disbars
 disbase
