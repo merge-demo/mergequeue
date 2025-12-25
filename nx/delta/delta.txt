@@ -784,6 +784,7 @@ defs
 dispurpose
 drawn
 devolatilize
+dacryocystotomy
 dandles
 discute
 delirament
@@ -8191,7 +8192,6 @@ diffractions
 dicyema
 diacromyodi
 diactinic
-dacryocystotomy
 deemphasizing
 darghin
 diadelphian
