@@ -1858,7 +1858,6 @@ gentile
 groupage
 grasses
 glutenous
-goundou
 generalcies
 gemmules
 gousty
@@ -10215,6 +10214,7 @@ grindstone
 gitanemuk
 globalism
 gladdon
+goundou
 gimbaljawed
 groundneedle
 generaliser
