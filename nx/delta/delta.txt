@@ -5716,7 +5716,6 @@ duals
 deplorableness
 disrepair
 deplore
-deplorer
 deplumated
 disposes
 deemer
@@ -8733,6 +8732,7 @@ disproportionateness
 discriminate
 diatomales
 dedicated
+deplorer
 diatomeae
 diatomicity
 duetted
