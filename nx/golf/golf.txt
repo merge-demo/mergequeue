@@ -5116,7 +5116,6 @@ guilders
 gravery
 glassmaking
 gunfought
-guerite
 glyc
 gallberries
 grav
@@ -7101,6 +7100,7 @@ giottesque
 glaces
 gestalter
 gourounut
+guerite
 gaus
 gunwales
 gesnerian
