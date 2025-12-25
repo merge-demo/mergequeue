@@ -2692,6 +2692,7 @@ electrotelegraphy
 exhort
 epispadia
 electrotherapeutical
+entrep
 estampie
 escrol
 expectorating
@@ -3353,7 +3354,6 @@ endodermis
 ecdyses
 entitative
 eyry
-entrep
 eulogic
 expresses
 environed
