@@ -1857,7 +1857,6 @@ fluidizer
 farthermore
 fruiterers
 febriphobia
-februarius
 flemishing
 fringefoot
 fielden
@@ -10459,6 +10458,7 @@ forstall
 frizes
 fellah
 ferocity
+februarius
 flaxtail
 frontwards
 fragrant
