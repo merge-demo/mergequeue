@@ -4428,6 +4428,7 @@ bandleader
 becloak
 bereavement
 boojum
+bethorning
 beclog
 becoiffed
 bulkiness
@@ -7350,7 +7351,6 @@ bailiery
 balusters
 bassness
 bookmaker
-bethorning
 buffcoat
 blanketmaking
 basest
