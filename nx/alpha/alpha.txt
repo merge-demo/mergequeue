@@ -14477,7 +14477,6 @@ anthropical
 acquisition
 anthropobiology
 apneumatosis
-automaton
 anthropocentric
 acetaldehydase
 almoign
@@ -24796,6 +24795,7 @@ avions
 affair
 adieux
 avirulence
+automaton
 attunely
 algolagny
 anxious
