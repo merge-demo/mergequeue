@@ -377,7 +377,6 @@ galactosis
 grimsire
 gastrodynia
 gauric
-glovelike
 galactotrophy
 grf
 goodhumoredness
@@ -2810,6 +2809,7 @@ gershon
 guzzledom
 gyges
 guemul
+glovelike
 garblings
 gathers
 gazettal
