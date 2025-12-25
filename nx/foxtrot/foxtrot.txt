@@ -2861,7 +2861,6 @@ fisty
 finable
 foresails
 figworm
-flurry
 fungid
 familistery
 fortuned
@@ -5731,6 +5730,7 @@ flirtatiousness
 fundament
 floodwater
 fitroot
+flurry
 flippancies
 freshness
 ferrary
