@@ -3483,6 +3483,7 @@ figshell
 foe
 flankard
 fury
+foam
 ficins
 fordays
 floorhead
@@ -8611,7 +8612,6 @@ freehold
 fainters
 farfara
 floodmark
-foam
 farmplace
 frequence
 fiscs
