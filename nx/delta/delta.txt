@@ -3440,6 +3440,7 @@ duelists
 dehumidifier
 damp
 discomfortably
+deprecation
 defluent
 debyes
 disassociating
@@ -12135,7 +12136,6 @@ disexcommunicate
 detrition
 decalin
 duckiest
-deprecation
 dreggy
 denitrificant
 dramaturgy
