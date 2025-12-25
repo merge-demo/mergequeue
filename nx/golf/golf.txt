@@ -5111,6 +5111,7 @@ glasslikeness
 goosefoots
 garrya
 gilled
+gigas
 galliots
 gypper
 griffins
@@ -5253,7 +5254,6 @@ gleeks
 glycemic
 groundline
 garrulousness
-gigas
 gleety
 glottidean
 glottiscope
