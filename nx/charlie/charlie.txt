@@ -9846,6 +9846,7 @@ chemiotactic
 chemiotaxic
 carvone
 chemiotaxis
+cupriferous
 chemiotropic
 chemiotropism
 crinet
@@ -22528,7 +22529,6 @@ cinnamyls
 conjunctivas
 caslon
 clings
-cupriferous
 conjunctively
 chersonese
 chimbleys
