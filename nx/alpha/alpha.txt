@@ -2913,7 +2913,6 @@ armamentary
 advisive
 aerobatics
 albugineous
-acrostical
 acrostichoid
 acrostichum
 adoptianism
@@ -4913,6 +4912,7 @@ aerograph
 americium
 amphidetic
 aristogenic
+acrostical
 alluvia
 acculturized
 aerographical
