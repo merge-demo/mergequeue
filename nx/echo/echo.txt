@@ -7099,7 +7099,6 @@ epiplankton
 evadible
 extemporizing
 envaye
-explainability
 episcenia
 excerpting
 envelope
@@ -12615,6 +12614,7 @@ emanative
 estancieros
 epitonium
 ectethmoid
+explainability
 endostoma
 enriches
 effectualness
