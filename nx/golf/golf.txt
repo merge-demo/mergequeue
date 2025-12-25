@@ -5460,6 +5460,7 @@ glauconiidae
 garottes
 glyptodon
 glyptodontoid
+grisoutine
 glebae
 ghostwrites
 galactophlebitis
@@ -7863,7 +7864,6 @@ gimirrai
 gurlet
 gasometric
 guttide
-grisoutine
 grovelled
 gtc
 geoglossaceae
