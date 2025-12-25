@@ -6481,7 +6481,6 @@ diag
 dispossesses
 desmarestiaceae
 descendable
-descendants
 dimensioned
 dipeptid
 dentellated
@@ -17811,6 +17810,7 @@ diabolarch
 dower
 dermatological
 demographies
+descendants
 deskmen
 ducs
 determents
