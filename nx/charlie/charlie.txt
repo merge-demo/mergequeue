@@ -6284,7 +6284,6 @@ conche
 caulinar
 caulinary
 ceroplast
-caulis
 cannular
 caulivorous
 choanosomal
@@ -11406,6 +11405,7 @@ cantered
 chlorous
 chlorozincate
 chlorpheniramine
+caulis
 cloggily
 carib
 cgs
