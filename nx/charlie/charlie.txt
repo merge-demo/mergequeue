@@ -10870,6 +10870,7 @@ chippers
 coefficient
 chippewas
 chippy
+counterlighting
 cobishop
 cometic
 chloralose
@@ -31779,7 +31780,6 @@ custumal
 cut
 collicle
 cutaneously
-counterlighting
 circumspectively
 collegiality
 cutaways
