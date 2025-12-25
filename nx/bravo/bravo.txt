@@ -6479,7 +6479,6 @@ beleaguer
 backdown
 bepepper
 ballat
-booting
 bephilter
 booley
 boltropes
@@ -13440,6 +13439,7 @@ barbarea
 bundestag
 blunts
 baryglossia
+booting
 buncombes
 bibliotheca
 breadbaskets
