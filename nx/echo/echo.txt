@@ -3414,7 +3414,6 @@ embarkment
 embarks
 equipage
 exteroceptor
-equilibrium
 elohist
 em
 embarricado
@@ -3979,6 +3978,7 @@ eyepit
 empall
 excurvation
 earshots
+equilibrium
 empanelling
 empanels
 enfamish
