@@ -980,7 +980,6 @@ eastwards
 ethyl
 esoterics
 exhumes
-entera
 expanse
 excavatory
 exocardia
@@ -1793,6 +1792,7 @@ erinose
 entericoid
 epigraphical
 engravers
+entera
 embankments
 electrification
 epiblemata
