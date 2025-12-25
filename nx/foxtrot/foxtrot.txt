@@ -9449,7 +9449,6 @@ footstone
 following
 fraternism
 fitfulness
-finesses
 faux
 furcae
 falconbill
@@ -10698,6 +10697,7 @@ fleuretty
 fortuneless
 fringilla
 fecks
+finesses
 formularising
 fibriform
 foretelling
