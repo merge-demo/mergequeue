@@ -3515,7 +3515,6 @@ defrayable
 disembarrassment
 dismissable
 doom
-defrayers
 defraying
 desaturate
 desiccated
@@ -4374,6 +4373,7 @@ dimuence
 dissepiment
 dragonets
 duplexity
+defrayers
 dizening
 drawk
 demeanor
