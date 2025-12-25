@@ -3939,7 +3939,6 @@ ghat
 geomorphy
 gnoff
 gladatorial
-graphicly
 gigatons
 gastroschisis
 genetical
@@ -8318,6 +8317,7 @@ gleets
 genian
 grandee
 ginglymi
+graphicly
 glycuronide
 grassbird
 guerdons
