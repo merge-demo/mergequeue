@@ -2950,7 +2950,6 @@ cantharides
 coation
 clip
 cantharidian
-cycloacetylene
 cantharidize
 cantharidized
 cantharus
@@ -20341,6 +20340,7 @@ coetaneousness
 communitarianism
 community
 communitive
+cycloacetylene
 corruptless
 communization
 contumeliousness
