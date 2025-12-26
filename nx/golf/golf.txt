@@ -3007,7 +3007,6 @@ gambusia
 guatambu
 greasiness
 glitnir
-glycolic
 gibbering
 gentilhomme
 goldenknop
@@ -7565,6 +7564,7 @@ gunyah
 geodesies
 greenths
 garbled
+glycolic
 gametal
 goldarns
 gravimeter
