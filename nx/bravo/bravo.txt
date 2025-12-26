@@ -4807,7 +4807,6 @@ befancy
 bits
 bedside
 bedsonia
-bedsore
 bakers
 bemirrorment
 belvederes
@@ -12238,6 +12237,7 @@ bolognese
 balaenopteridae
 birdling
 besmut
+bedsore
 broos
 brailling
 bolographic
