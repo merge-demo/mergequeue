@@ -12391,7 +12391,6 @@ chromatopsia
 chromatoptometer
 chromatoptometry
 couch
-cobalticyanic
 chromatoscopy
 chromatosis
 chromaturia
@@ -15785,6 +15784,7 @@ conveniently
 chelaship
 corruptibly
 colonized
+cobalticyanic
 clearable
 clearance
 clearances
