@@ -2712,7 +2712,6 @@ acrylics
 arietta
 acipenserid
 arcabucero
-artifacts
 autolithography
 acrylonitrile
 attributes
@@ -13309,6 +13308,7 @@ antimerger
 abcess
 anorexic
 aquilawood
+artifacts
 albatross
 artery
 aproning
