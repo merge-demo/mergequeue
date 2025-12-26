@@ -8155,7 +8155,6 @@ brontophobia
 bash
 banishes
 buffalos
-baldpate
 byeman
 ballote
 bienly
@@ -8848,6 +8847,7 @@ bathypelagic
 bioactivities
 bioassaying
 bioastronautics
+baldpate
 belcher
 biobibliographer
 barleysick
