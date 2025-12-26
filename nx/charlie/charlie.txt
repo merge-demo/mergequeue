@@ -23082,7 +23082,6 @@ consound
 conspecies
 crenotherapy
 cotula
-conspecific
 conspection
 coccosphere
 conspectus
@@ -25892,6 +25891,7 @@ curvirostral
 cloudier
 centrums
 chalets
+conspecific
 comforter
 corseque
 contralti
