@@ -10902,6 +10902,7 @@ falloffs
 fides
 fulleries
 fleets
+frowsty
 flivver
 fletched
 fullmouthed
@@ -11672,7 +11673,6 @@ ferrety
 flames
 futurama
 floodometer
-frowsty
 flibustier
 furcates
 frailties
