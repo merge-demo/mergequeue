@@ -5571,7 +5571,6 @@ fluorite
 fascicle
 fibbing
 felon
-foliaceous
 fungic
 flacourtiaceae
 felsitic
@@ -11629,6 +11628,7 @@ forehew
 fustigatory
 fumy
 friendship
+foliaceous
 fetlow
 fineness
 fructoses
