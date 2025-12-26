@@ -6493,6 +6493,7 @@ bolshie
 boca
 bumbled
 blowiness
+backstrip
 bepart
 beacher
 bepimpling
@@ -15246,7 +15247,6 @@ bulbospinal
 bricklike
 beclose
 blennoid
-backstrip
 bucketing
 balneal
 bestrewn
