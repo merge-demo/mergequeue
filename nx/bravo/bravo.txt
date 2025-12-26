@@ -8834,6 +8834,7 @@ bombycids
 bedchamber
 bible
 binotonous
+baltimorean
 bedeck
 brachystaphylic
 boilerman
@@ -9655,7 +9656,6 @@ bisks
 bysmalith
 bismark
 boulder
-baltimorean
 bladed
 besmiles
 boisseau
