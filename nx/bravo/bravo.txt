@@ -5772,7 +5772,6 @@ boomlet
 backlogging
 brawlers
 bearably
-ballhausplatz
 beblubbered
 behint
 bigthatch
@@ -6669,6 +6668,7 @@ beneficences
 broughtas
 burghs
 busto
+ballhausplatz
 babbles
 berytidae
 boblet
