@@ -425,7 +425,6 @@ daunder
 descanting
 dayrooms
 deities
-dodrantal
 dhourra
 discoursers
 dairous
@@ -11535,6 +11534,7 @@ dynamometry
 disobligatory
 discommoned
 dextrinase
+dodrantal
 detective
 dcolletage
 denationalised
