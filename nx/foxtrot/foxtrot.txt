@@ -3289,7 +3289,6 @@ filopodium
 fiddlestick
 frambesia
 farsight
-fibroma
 fivescore
 flounces
 ferrelled
@@ -11345,6 +11344,7 @@ foreglimpsed
 forswat
 foldure
 fellic
+fibroma
 footsores
 fluoroid
 fustinella
