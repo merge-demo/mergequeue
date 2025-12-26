@@ -7610,7 +7610,6 @@ flintworker
 forespeak
 fecundative
 faradising
-foredune
 freezable
 fervors
 forril
@@ -8639,6 +8638,7 @@ feelers
 felt
 fearfully
 fibromucous
+foredune
 fulup
 fringilloid
 forsakenness
