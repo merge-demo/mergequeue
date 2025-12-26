@@ -1250,7 +1250,6 @@ fastbacks
 frigor
 flatdom
 faradism
-fastening
 futteret
 fama
 favella
@@ -10290,6 +10289,7 @@ fromenty
 fusilladed
 fromenties
 fogyishness
+fastening
 fluorated
 floscularian
 fluorotic
