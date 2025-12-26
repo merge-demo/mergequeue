@@ -3612,7 +3612,6 @@ glack
 gawkiness
 galleriidae
 glovers
-galactoid
 goetae
 gynaecology
 granitification
@@ -10113,6 +10112,7 @@ gazetteer
 gonystylus
 goldenfleece
 gnomic
+galactoid
 gnotobiologies
 grouping
 gaskets
