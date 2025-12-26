@@ -292,7 +292,6 @@ fissle
 foxfire
 fledges
 fragmentisation
-flanks
 fraenums
 forebar
 fistnotes
@@ -2714,6 +2713,7 @@ flaggella
 factorization
 fouette
 fervor
+flanks
 flamenco
 frondous
 fashions
