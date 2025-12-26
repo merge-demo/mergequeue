@@ -1845,6 +1845,7 @@ blobbiness
 brython
 birken
 bandhook
+burgess
 balladromic
 bandicoy
 bonzes
@@ -8861,7 +8862,6 @@ blankmindedness
 biocenosis
 burgraviate
 basket
-burgess
 branchiopodan
 belialist
 biochemic
