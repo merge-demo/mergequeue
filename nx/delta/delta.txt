@@ -560,7 +560,6 @@ disbursable
 disfranchiser
 damaskeen
 dod
-damaskine
 dynamoneure
 denounces
 diethylmalonylurea
@@ -3752,6 +3751,7 @@ dehorns
 decaudate
 doughlike
 dehorted
+damaskine
 defatigate
 dehorting
 digitoxin
