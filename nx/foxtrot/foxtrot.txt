@@ -1466,7 +1466,6 @@ fasciculite
 flittern
 flix
 felicitators
-font
 flavorings
 fruiter
 favourable
@@ -11104,6 +11103,7 @@ flatter
 functionalist
 fundamentalist
 fistful
+font
 fiendlier
 flops
 fervanite
