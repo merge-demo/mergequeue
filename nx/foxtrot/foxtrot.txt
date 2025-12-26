@@ -3353,7 +3353,6 @@ frowsiest
 flotsam
 fluorescer
 fulmined
-foreheaded
 forjaskit
 fiedlerite
 fifth
@@ -10127,6 +10126,7 @@ fe
 feckly
 fulciform
 fortuitus
+foreheaded
 fissiparously
 frittering
 fuchi
