@@ -11010,7 +11010,6 @@ euryprosopic
 excipuliform
 endosarcous
 eroses
-exornate
 extravagant
 emolliate
 eurypterus
@@ -12666,6 +12665,7 @@ enterogram
 effusion
 exognathite
 expunges
+exornate
 exogenetic
 enkolpion
 exometritis
