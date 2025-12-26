@@ -5320,6 +5320,7 @@ eliminability
 endosclerite
 extrahepatic
 eurybathic
+eucopepoda
 excudate
 endoscope
 endoscopes
@@ -10594,7 +10595,6 @@ euclidian
 epicoeliac
 exhalant
 eucone
-eucopepoda
 electrotechnic
 eucosmidae
 ecstasis
