@@ -5595,6 +5595,7 @@ flicker
 fixity
 flocculently
 frapler
+floatable
 fiords
 ferfel
 flickermouse
@@ -9714,7 +9715,6 @@ frenchly
 fafaronade
 fissionability
 festinate
-floatable
 footmanry
 faunch
 facework
