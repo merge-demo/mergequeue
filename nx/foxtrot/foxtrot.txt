@@ -10934,7 +10934,6 @@ fub
 foehn
 flexure
 field
-fulminatory
 fetal
 floorage
 fadridden
@@ -11760,6 +11759,7 @@ forloin
 fullhearted
 fellowred
 femalist
+fulminatory
 ferruginous
 fascines
 flocculi
