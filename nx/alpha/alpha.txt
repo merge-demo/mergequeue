@@ -4852,7 +4852,6 @@ amas
 amoebous
 arkwright
 aerodermectasia
-aerodynamical
 aerodynamically
 astrolater
 appoggiatura
@@ -14782,6 +14781,7 @@ ammonitish
 achor
 antidromal
 anticensorious
+aerodynamical
 anticensorship
 anticentralization
 automanual
