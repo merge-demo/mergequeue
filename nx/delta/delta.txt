@@ -330,6 +330,7 @@ daidlie
 dupatta
 dimeran
 dummyweed
+disarm
 deltaite
 denumberment
 damier
@@ -11267,7 +11268,6 @@ dragon
 dropt
 duckwheat
 debussyan
-disarm
 disgracers
 dyotheletism
 dyarchical
