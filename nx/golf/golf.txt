@@ -6390,6 +6390,7 @@ given
 getspace
 goldspink
 glimmered
+gunmetals
 glucosone
 granolithic
 grouty
@@ -9533,7 +9534,6 @@ gloving
 gundelow
 ganoidean
 grouser
-gunmetals
 gorgeted
 gyred
 grimp
