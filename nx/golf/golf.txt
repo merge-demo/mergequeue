@@ -375,7 +375,6 @@ guyer
 galoped
 galactosis
 grimsire
-gastrodynia
 gauric
 galactotrophy
 grf
@@ -9761,6 +9760,7 @@ gagroot
 gablewise
 gambes
 gorged
+gastrodynia
 glutens
 geckoes
 geophagies
