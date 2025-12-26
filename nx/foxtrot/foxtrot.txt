@@ -5350,7 +5350,6 @@ fusillade
 faintheart
 furciform
 fleabags
-federalization
 fireclay
 fluorites
 feoffee
@@ -11578,6 +11577,7 @@ feuage
 furzechat
 fundatrix
 fanleaf
+federalization
 fluence
 fruitlike
 foretalking
