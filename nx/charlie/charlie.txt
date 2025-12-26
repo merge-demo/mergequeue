@@ -7479,7 +7479,6 @@ ceratitoidea
 cataleptics
 ceratoblast
 ceratodidae
-ceratoduses
 centrifugalization
 capelet
 coistrils
@@ -15215,6 +15214,7 @@ chondrophyte
 clairvoyances
 clairvoyancy
 clairvoyant
+ceratoduses
 chinaberry
 claystone
 curtained
