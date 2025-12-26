@@ -7631,6 +7631,7 @@ chargers
 calathisci
 calcarated
 cerebrospinal
+ceresin
 chaetotaxy
 cevadilline
 cerebrospinant
@@ -11272,7 +11273,6 @@ culicid
 chlorize
 cynocephalus
 chesterbed
-ceresin
 chlormethane
 chrysidella
 chloroacetone
