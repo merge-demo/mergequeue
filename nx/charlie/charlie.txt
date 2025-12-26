@@ -3700,7 +3700,6 @@ couloirs
 carapaces
 carapacho
 chapfallenly
-contumacity
 cognates
 carapacic
 carapax
@@ -15096,6 +15095,7 @@ clackety
 coexertion
 clacking
 clacks
+contumacity
 clad
 curiate
 confated
