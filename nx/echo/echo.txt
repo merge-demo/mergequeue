@@ -2400,7 +2400,6 @@ electroscopes
 ethnotechnics
 epicaridan
 electrodeless
-exponentials
 ectogenetic
 energist
 electrodeposition
@@ -6533,6 +6532,7 @@ exactly
 extratension
 entail
 entomophthora
+exponentials
 elaphodus
 endurant
 ended
