@@ -4143,7 +4143,6 @@ eiffel
 ensheathed
 every
 etymologically
-endurability
 entombments
 eniac
 emplunge
@@ -4418,6 +4417,7 @@ encapsuled
 enure
 effectively
 encapsuling
+endurability
 encaptivate
 essence
 expectorate
