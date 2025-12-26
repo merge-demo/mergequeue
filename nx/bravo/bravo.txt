@@ -11850,7 +11850,6 @@ bodied
 becrowding
 bepale
 boucan
-bodykins
 bodilize
 bahuvrihi
 barbedness
@@ -14439,6 +14438,7 @@ brainstems
 brainstone
 biconical
 brainstormer
+bodykins
 boxfuls
 bacchanalian
 blowsed
