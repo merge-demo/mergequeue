@@ -1918,6 +1918,7 @@ gaussmeter
 gatteridge
 gammaridae
 gaucho
+geniohyoid
 generalists
 gerbillus
 germaniums
@@ -8200,7 +8201,6 @@ gazingstock
 galeodes
 grapery
 goaded
-geniohyoid
 gied
 grim
 gem
