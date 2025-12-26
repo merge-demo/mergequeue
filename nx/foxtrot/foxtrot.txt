@@ -802,7 +802,6 @@ fatality
 froster
 forensicality
 flipe
-flea
 floosy
 fustanelle
 fantasticalness
@@ -2486,6 +2485,7 @@ flabile
 filarious
 foamlike
 fris
+flea
 fibrinoid
 fry
 fernyear
