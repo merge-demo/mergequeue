@@ -4236,6 +4236,7 @@ adposition
 acmispon
 azonium
 armorer
+autotomize
 alchornea
 aesculapius
 annoyful
@@ -24454,7 +24455,6 @@ armbands
 adoptively
 archaeologists
 absorptions
-autotomize
 anacletica
 ambitiously
 autotomizing
