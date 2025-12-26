@@ -971,7 +971,6 @@ facetiousness
 fluorids
 frape
 fastigiums
-fractureproof
 forkers
 formalizer
 fillagreed
@@ -1455,6 +1454,7 @@ fatuus
 frankly
 fairtime
 fantasie
+fractureproof
 filago
 fireside
 faubourgs
