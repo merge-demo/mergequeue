@@ -5450,7 +5450,6 @@ femur
 filterable
 flexuosely
 floatative
-foggy
 fleering
 faunal
 figurativeness
@@ -9871,6 +9870,7 @@ forefelt
 feterita
 fluviomarine
 fosh
+foggy
 fibroneuroma
 felinophobe
 frickle
