@@ -1731,6 +1731,7 @@ burse
 blends
 baltimore
 bumblebeefishes
+berrugate
 bares
 baluba
 berogue
@@ -2660,7 +2661,6 @@ barghest
 breechloader
 basiliscus
 backlins
-berrugate
 barm
 bollixes
 begrimming
