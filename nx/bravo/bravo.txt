@@ -3722,7 +3722,6 @@ barrace
 blushiness
 battlesome
 brigantes
-bimestrial
 battlestead
 battlewagon
 bendays
@@ -8347,6 +8346,7 @@ batatilla
 belard
 buzukis
 beatster
+bimestrial
 benzocoumaran
 bignou
 betask
