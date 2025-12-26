@@ -7181,7 +7181,6 @@ emforth
 eryopsid
 ethnomanic
 exuviability
-emulate
 ethal
 electrons
 ecumenic
@@ -8278,6 +8277,7 @@ epigeic
 escapado
 epitoke
 erratums
+emulate
 endolaryngeal
 endplay
 epitheliomatous
