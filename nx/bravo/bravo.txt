@@ -6474,7 +6474,6 @@ beleaguer
 backdown
 bepepper
 ballat
-bephilter
 booley
 boltropes
 bronchopneumonic
@@ -12958,6 +12957,7 @@ boardinghouses
 bootman
 boots
 bottoms
+bephilter
 blouson
 bittersweet
 brontograph
