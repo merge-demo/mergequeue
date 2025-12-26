@@ -1223,7 +1223,6 @@ globular
 guestive
 guttate
 garfishes
-grappler
 glaux
 gimcrackery
 gimmicking
@@ -8488,6 +8487,7 @@ grinnie
 galactonic
 gratulation
 globefish
+grappler
 grandeurs
 garoting
 gandhara
