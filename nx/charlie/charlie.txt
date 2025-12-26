@@ -29928,6 +29928,7 @@ carbosilicate
 crossline
 cymas
 crosslink
+cusps
 crossness
 cladophorales
 crossopt
@@ -31713,7 +31714,6 @@ counterapse
 cusping
 cur
 cuspis
-cusps
 cuspule
 crests
 coopery
