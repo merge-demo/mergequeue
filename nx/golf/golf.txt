@@ -3069,7 +3069,6 @@ graphiter
 greensauce
 gamelin
 genepi
-glom
 grypanian
 gluttonized
 gerate
@@ -8765,6 +8764,7 @@ gambit
 glucosuric
 garrets
 games
+glom
 goustrous
 galeus
 gobbin
