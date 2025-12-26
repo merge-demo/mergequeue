@@ -6922,7 +6922,6 @@ amende
 apostrophic
 aglyphous
 aptian
-aventine
 airview
 agrypnias
 abdicative
@@ -13533,6 +13532,7 @@ adaptability
 albuminization
 annotator
 alasas
+aventine
 annotators
 arrendator
 assonant
