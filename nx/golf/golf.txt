@@ -1646,7 +1646,6 @@ gastreas
 glaucosuria
 gyrinid
 glassteel
-gravitational
 grimly
 grimines
 glibness
@@ -4681,6 +4680,7 @@ gironny
 graphophobia
 gyronny
 gamophyllous
+gravitational
 gyrophoraceous
 glance
 gringophobia
