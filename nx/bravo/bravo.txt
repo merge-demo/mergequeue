@@ -7917,7 +7917,6 @@ bibliopolically
 bibliopolist
 befall
 bibliosoph
-bibliotaphe
 bibliothecae
 bibliothecarian
 bungalows
@@ -14048,6 +14047,7 @@ balanced
 briared
 blubbering
 beclamored
+bibliotaphe
 brachialis
 breezeways
 blindstory
