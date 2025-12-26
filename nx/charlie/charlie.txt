@@ -8283,7 +8283,6 @@ chaldean
 chiver
 caucused
 caricetum
-contravariant
 councillary
 chalder
 coholder
@@ -15910,6 +15909,7 @@ clench
 carbamino
 clenched
 clencher
+contravariant
 clenchers
 clarshech
 clenches
