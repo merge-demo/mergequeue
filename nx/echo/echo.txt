@@ -5059,7 +5059,6 @@ exemplum
 eyelid
 editorialized
 endoaortitis
-endoappendicitis
 entoolitic
 economization
 emerited
@@ -10649,6 +10648,7 @@ enharmonical
 enchilada
 eudemonistic
 eudemonics
+endoappendicitis
 equivalencies
 epinephrine
 empurpling
