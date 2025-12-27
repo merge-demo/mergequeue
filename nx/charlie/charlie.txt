@@ -15174,7 +15174,6 @@ cezannesque
 claimants
 claimed
 congeals
-claimer
 consumables
 cacothelin
 claimers
@@ -19026,6 +19025,7 @@ checkweighman
 collencyte
 collery
 candyh
+claimer
 colleted
 colletes
 colletia
