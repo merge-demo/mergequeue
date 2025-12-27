@@ -4120,7 +4120,6 @@ genapper
 gimleteyed
 glutamine
 gastroduodenostomies
-gimleting
 gesnerad
 genesee
 geotaxes
@@ -7497,6 +7496,7 @@ gomerals
 gasconaded
 gists
 geodesy
+gimleting
 gades
 gonorrhoea
 groundwater
