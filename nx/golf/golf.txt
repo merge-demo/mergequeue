@@ -4234,6 +4234,7 @@ gois
 gaetuli
 gyromagnetic
 galvanomagnetism
+gyron
 gynaecological
 gabbiness
 gobbing
@@ -4397,7 +4398,6 @@ ginhouse
 gooselike
 gelidiaceae
 gangrene
-gyron
 gallanilide
 gyniatries
 gambias
