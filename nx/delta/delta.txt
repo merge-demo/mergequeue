@@ -1060,7 +1060,6 @@ decarch
 dorsodynia
 doling
 darraign
-dacryocystorhinostomy
 depositions
 darrein
 devonite
@@ -10499,6 +10498,7 @@ demonetized
 delapsion
 digonoporous
 depthless
+dacryocystorhinostomy
 danging
 discorder
 derangeable
