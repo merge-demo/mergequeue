@@ -7944,7 +7944,6 @@ downsteepy
 diathermal
 decimeters
 dextroaural
-diacanthous
 dismes
 drupiferous
 dartos
@@ -10730,6 +10729,7 @@ drad
 dun
 delocalisation
 donship
+diacanthous
 disarranged
 disinfects
 dhoon
