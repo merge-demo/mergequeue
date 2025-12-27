@@ -4537,7 +4537,6 @@ corupay
 cordialize
 carnation
 carnationist
-carnations
 carnauba
 carnaubas
 carneau
@@ -7665,6 +7664,7 @@ curatical
 counterappellant
 crowded
 commemorations
+carnations
 creationism
 cerevisial
 coes
