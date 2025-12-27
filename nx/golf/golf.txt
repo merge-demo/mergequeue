@@ -9,7 +9,6 @@ gunrooms
 gabber
 gabbers
 gobi
-guepard
 grasswork
 gratuities
 gabelles
@@ -7897,6 +7896,7 @@ ghostlikeness
 grammatics
 gastropodous
 galik
+guepard
 graved
 grammatistical
 gratinated
