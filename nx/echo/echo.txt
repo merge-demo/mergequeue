@@ -1280,7 +1280,6 @@ eucairite
 eleonorite
 eoghanacht
 epinephrin
-emagram
 epigramme
 eq
 eeriness
@@ -5233,6 +5232,7 @@ entier
 erythrogen
 encinder
 endoparasitica
+emagram
 etiotropically
 endopathic
 endopelvic
