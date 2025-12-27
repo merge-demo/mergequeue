@@ -6302,7 +6302,6 @@ caulocarpic
 caulomic
 caulosarc
 caulotaxis
-caulote
 cauls
 caum
 cauma
@@ -21896,6 +21895,7 @@ conferrers
 cohorn
 counterstain
 crotchet
+caulote
 chiasm
 conferruminate
 catslide
