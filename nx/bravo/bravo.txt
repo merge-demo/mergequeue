@@ -5180,6 +5180,7 @@ barns
 bondfolk
 barragan
 bicentricity
+basihyoid
 blastodisk
 bypasser
 bachelry
@@ -12879,7 +12880,6 @@ bacchiac
 bangster
 bkpt
 burk
-basihyoid
 barthian
 breastwise
 boong
