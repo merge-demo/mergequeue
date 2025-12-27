@@ -129,7 +129,6 @@ coumalic
 chordophone
 clitelline
 cabinetworker
-cabinetworking
 cabinlike
 crafter
 cabio
@@ -27672,6 +27671,7 @@ cowhides
 caravanning
 cancellability
 cowhiding
+cabinetworking
 cowhorn
 chillers
 camiscia
