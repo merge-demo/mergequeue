@@ -5773,6 +5773,7 @@ eddying
 enfief
 endozoic
 endues
+earthlike
 ensalada
 englanders
 engleim
@@ -10108,7 +10109,6 @@ entities
 ethereality
 epiboly
 etherealization
-earthlike
 extrusible
 electrochemistry
 endorses
