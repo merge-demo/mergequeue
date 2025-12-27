@@ -468,7 +468,6 @@ extoll
 ecclesiast
 entrada
 empasm
-envelopers
 exody
 extended
 etesians
@@ -9907,6 +9906,7 @@ earmarks
 estimations
 eprosy
 exhaustively
+envelopers
 emmensite
 earthnuts
 elaterium
