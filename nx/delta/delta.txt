@@ -7939,7 +7939,6 @@ dextranase
 doublelunged
 disallowable
 demicylinder
-defunctive
 downsteepy
 diathermal
 decimeters
@@ -10264,6 +10263,7 @@ deconcentrating
 disaccustom
 doornail
 deifiers
+defunctive
 dioctahedral
 dioctophyme
 deave
