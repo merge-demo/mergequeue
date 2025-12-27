@@ -3526,7 +3526,6 @@ dufoil
 drapery
 drowsiest
 defrauds
-defreeze
 defrocked
 dubbed
 derogately
@@ -15808,6 +15807,7 @@ does
 dorsiflexion
 deuteron
 detects
+defreeze
 diacetic
 deluge
 dissertations
