@@ -6759,7 +6759,6 @@ goniocraniometry
 grouters
 gaveller
 goniodoridae
-gnotobiote
 granitized
 gametophore
 gagging
@@ -9144,6 +9143,7 @@ grandiose
 gluily
 gavelkinder
 gelong
+gnotobiote
 greenbrier
 gigful
 gracious
