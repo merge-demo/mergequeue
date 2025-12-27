@@ -2523,7 +2523,6 @@ beflowers
 baggy
 bariatrician
 banderilla
-barycenter
 bemused
 burmite
 brillolette
@@ -18378,6 +18377,7 @@ buzzard
 beylical
 beasts
 bluebook
+barycenter
 balaustre
 byronics
 betwattled
