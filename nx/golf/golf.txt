@@ -1128,7 +1128,6 @@ gwyniad
 grivet
 granet
 giddier
-gesith
 grotesco
 grope
 galatic
@@ -7939,6 +7938,7 @@ granary
 greases
 glecoma
 gorst
+gesith
 gaberloonie
 gliriform
 gooseberries
