@@ -6819,6 +6819,7 @@ cellarwoman
 cellblock
 celled
 coelom
+cliffy
 centennium
 cellepore
 cellfalcicula
@@ -30073,7 +30074,6 @@ crowbait
 centuriate
 crowbar
 curlings
-cliffy
 columbo
 chilomata
 carnivores
