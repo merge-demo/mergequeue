@@ -3644,7 +3644,6 @@ foretype
 filigrane
 furlana
 frangula
-franchisee
 fannier
 foregoneness
 fanes
@@ -10241,6 +10240,7 @@ fadedness
 fibrillations
 flakers
 frond
+franchisee
 fluxmeter
 finickingness
 frust
