@@ -8623,7 +8623,6 @@ diary
 diaglyph
 diarist
 dibbuk
-detailedness
 denatured
 diarrhea
 dows
@@ -9778,6 +9777,7 @@ dysoxidize
 dogmatiser
 dermatocyst
 dillesk
+detailedness
 daimones
 denumerable
 deicer
