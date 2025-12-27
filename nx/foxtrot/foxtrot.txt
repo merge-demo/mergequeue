@@ -5589,7 +5589,6 @@ flicflac
 flintiness
 flicker
 fixity
-flocculently
 frapler
 floatable
 fiords
@@ -9696,6 +9695,7 @@ feoffor
 faying
 foeship
 fremontodendron
+flocculently
 frazing
 foreigns
 fideicommissum
