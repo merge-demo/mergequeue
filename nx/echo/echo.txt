@@ -4966,7 +4966,6 @@ exigenter
 entoplastron
 endeavourer
 encouragement
-enstamp
 endeavouring
 egression
 endeictic
@@ -6785,6 +6784,7 @@ entireness
 ethologic
 evading
 entiris
+enstamp
 extinguishing
 exasperate
 embryoniform
