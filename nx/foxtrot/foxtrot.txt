@@ -2832,6 +2832,7 @@ forebush
 foreadmonish
 fieldsmen
 farmhand
+fishnet
 fetichlike
 flowerets
 feticide
@@ -4452,7 +4453,6 @@ feelable
 flossy
 fraternizer
 fishmouth
-fishnet
 frank
 fleshpot
 fitnesses
