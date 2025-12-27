@@ -3805,7 +3805,6 @@ dienes
 dicier
 disjecting
 duplexed
-dropped
 despatched
 discommender
 deimos
@@ -5966,6 +5965,7 @@ diopside
 delictus
 deed
 durezza
+dropped
 depsides
 dilettantist
 discommoded
