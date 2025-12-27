@@ -4772,7 +4772,6 @@ glick
 genethliatic
 gendarme
 giantlike
-gabbroic
 ganglander
 greenwood
 gadling
@@ -8007,6 +8006,7 @@ goodhap
 galleyman
 gabblement
 gipper
+gabbroic
 geologized
 grudgment
 gasterosteoid
