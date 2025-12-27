@@ -7787,7 +7787,6 @@ explorator
 epiproct
 eupatridae
 electrologists
-epifaunae
 expropriating
 excitative
 entassment
@@ -9062,6 +9061,7 @@ empyreans
 eperotesis
 epibranchial
 ectocyst
+epifaunae
 erythrocytoblast
 explanate
 epizooty
