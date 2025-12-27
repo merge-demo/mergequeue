@@ -664,6 +664,7 @@ extracondensed
 electrophysiology
 emaculate
 estheses
+endolymphic
 exudative
 eclipsed
 equivocacy
@@ -12002,7 +12003,6 @@ exclaiming
 exclaims
 epitenon
 exclamative
-endolymphic
 epithermally
 excreation
 exclamatory
