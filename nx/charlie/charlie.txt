@@ -12542,7 +12542,6 @@ concubitus
 chronaxie
 chronic
 chronica
-chronically
 chronicle
 chronicled
 clattertrap
@@ -26406,6 +26405,7 @@ ciminite
 cryptoglioma
 concavities
 centipoise
+chronically
 clergess
 cliffier
 coterminousness
