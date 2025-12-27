@@ -5967,7 +5967,6 @@ delictus
 deed
 durezza
 depsides
-disciplinability
 dilettantist
 discommoded
 dept
@@ -12527,6 +12526,7 @@ disinfecting
 denormalized
 disinfections
 decrowned
+disciplinability
 decani
 diffeomorphic
 dissolutive
