@@ -775,7 +775,6 @@ footbridge
 fanciless
 foliicolous
 forestaff
-fallows
 fandangos
 fandoms
 frivolized
@@ -5028,6 +5027,7 @@ firman
 flammation
 forepad
 flipping
+fallows
 flatbeds
 flanneling
 fungoidal
