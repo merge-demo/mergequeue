@@ -3714,7 +3714,6 @@ batting
 battings
 battledores
 bywork
-baldly
 barotraumata
 bronteon
 battlefronts
@@ -13668,6 +13667,7 @@ balkingly
 bielenite
 boys
 benzdioxdiazine
+baldly
 bondholder
 billboard
 bevelment
