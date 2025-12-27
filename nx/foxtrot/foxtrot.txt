@@ -4770,6 +4770,7 @@ flagellatae
 footlike
 fulmination
 follies
+forereach
 flagellations
 fieldstrip
 fingal
@@ -7882,7 +7883,6 @@ fizz
 forbear
 foreran
 fascination
-forereach
 forereading
 forereckon
 foredates
