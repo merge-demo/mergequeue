@@ -3712,7 +3712,6 @@ eweries
 embryotome
 exhalatory
 eeten
-exculpated
 ephemerons
 echelette
 exhaustivity
@@ -6764,6 +6763,7 @@ elaborator
 entrechat
 endoceratitic
 enthusiastically
+exculpated
 eta
 enthusiastly
 emydosaurian
