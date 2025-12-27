@@ -17634,7 +17634,6 @@ calabozo
 cocculiferous
 cost
 cocculus
-convertend
 corrivals
 coccus
 chalazogamy
@@ -29473,6 +29472,7 @@ calvinist
 chaldaism
 chati
 cannoning
+convertend
 crystallod
 crystallogeny
 crystallogenical
