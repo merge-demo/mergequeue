@@ -794,7 +794,6 @@ abroach
 airdock
 abrogate
 allergies
-antagonisation
 archilithic
 abrogating
 avocado
@@ -5212,6 +5211,7 @@ affective
 advocacies
 affectivity
 affector
+antagonisation
 accoast
 affeerer
 aum
