@@ -4494,7 +4494,6 @@ destruction
 dialyzer
 demiculverin
 dodgiest
-divulsed
 demidistance
 diaphane
 diabetogenic
@@ -13058,6 +13057,7 @@ dispatches
 drillings
 dimethylsulfoxide
 discocarpium
+divulsed
 decimalised
 decimals
 daulias
