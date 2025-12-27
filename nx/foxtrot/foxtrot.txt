@@ -8629,6 +8629,7 @@ fuzzed
 finnochio
 functionate
 fingerfishes
+ferryage
 faddishly
 feelers
 felt
@@ -10186,7 +10187,6 @@ farce
 foxchop
 fetologies
 furdel
-ferryage
 famines
 fending
 foggages
