@@ -7541,7 +7541,6 @@ epicardia
 eyebrow
 employs
 exstemporaneous
-epauliere
 electroforming
 exocarp
 experienceable
@@ -13344,6 +13343,7 @@ elephantopus
 exponible
 existible
 evolvable
+epauliere
 extrametaphysical
 encowl
 enough
