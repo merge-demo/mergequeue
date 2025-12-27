@@ -6715,7 +6715,6 @@ guttler
 grint
 gibbet
 gulae
-gobmouthed
 growable
 gromatic
 gibbergunyah
@@ -8691,6 +8690,7 @@ gerip
 goopy
 geyser
 glossless
+gobmouthed
 gateado
 gritty
 gres
