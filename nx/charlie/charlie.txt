@@ -6056,6 +6056,7 @@ carryable
 cathouses
 crownling
 cathrin
+calystegia
 cathryn
 coversine
 cathud
@@ -7570,7 +7571,6 @@ cereals
 coached
 chariotry
 counterindoctrination
-calystegia
 cerebellifugal
 cowan
 charpie
