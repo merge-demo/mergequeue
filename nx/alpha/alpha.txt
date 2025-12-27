@@ -13520,6 +13520,7 @@ attributal
 annoyances
 anthropopathy
 antefact
+aster
 appeasing
 avenin
 autostandardization
@@ -23937,7 +23938,6 @@ authorless
 authors
 aeries
 admiringly
-aster
 anthropometrically
 autoabstract
 ambisextrous
