@@ -2591,7 +2591,6 @@ decoat
 decoct
 demiquaver
 dashes
-decocting
 decoctive
 deaminizing
 demishirt
@@ -4883,6 +4882,7 @@ drupose
 dismality
 dissimilation
 dissecting
+decocting
 discreditableness
 dishmonger
 discage
