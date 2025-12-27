@@ -6900,6 +6900,7 @@ etiquettes
 endamageable
 epispore
 ectocardia
+eisteddfods
 endometria
 evaporable
 equipments
@@ -12842,7 +12843,6 @@ ecphorization
 echoic
 emendated
 extinctor
-eisteddfods
 enumerations
 evangelistship
 efecks
