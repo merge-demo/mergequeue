@@ -3725,7 +3725,6 @@ deglutinate
 depot
 domitic
 delegated
-disprove
 dehkan
 durmasts
 decimate
@@ -6125,6 +6124,7 @@ derecho
 dereferenced
 designees
 dereferencing
+disprove
 deregulated
 dogface
 dodonean
