@@ -3426,7 +3426,6 @@ gourmets
 gerrymander
 gorgons
 goldwater
-gerrymanders
 guilts
 genitofemoral
 goldenrod
@@ -7829,6 +7828,7 @@ glagol
 gestion
 guanche
 graisse
+gerrymanders
 gerately
 gufa
 greenkeeper
