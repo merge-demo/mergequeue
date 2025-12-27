@@ -13589,6 +13589,7 @@ cimicide
 cene
 cimiciform
 chickens
+cryptoanalysis
 cimicifuga
 compressure
 cimicoid
@@ -29246,7 +29247,6 @@ crypto
 cryptoagnostic
 coextended
 cynogenealogist
-cryptoanalysis
 cryptoanalytically
 cryptobranch
 cryptobranchia
