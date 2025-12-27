@@ -4377,6 +4377,7 @@ ginglymodi
 gozill
 granulite
 gemstone
+galaxies
 gliriformia
 gravestead
 glossata
@@ -6881,7 +6882,6 @@ graphics
 gorbal
 guaranty
 globosities
-galaxies
 gluconokinase
 gymsia
 gluteoinguinal
