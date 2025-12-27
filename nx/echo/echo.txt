@@ -3995,7 +3995,6 @@ embarrassingly
 edictum
 enfolded
 egalite
-equiform
 extramodal
 empatron
 extemporizes
@@ -11437,6 +11436,7 @@ echovirus
 ennedra
 edibility
 eligibility
+equiform
 esthacyte
 evese
 entomostraca
