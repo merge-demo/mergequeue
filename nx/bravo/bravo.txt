@@ -3197,7 +3197,6 @@ balancers
 booklores
 byland
 bhaga
-bollandist
 blastozooid
 bromelia
 beadily
@@ -7617,6 +7616,7 @@ bimolecular
 baric
 beechy
 beeyard
+bollandist
 brog
 bullocks
 borne
