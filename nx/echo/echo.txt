@@ -2916,7 +2916,6 @@ eleventh
 evicts
 excitation
 emplaning
-endoderm
 elevons
 eurydice
 elf
@@ -4890,6 +4889,7 @@ excitoglandular
 empoisons
 ebulliometer
 exoperidium
+endoderm
 enculturation
 ergatandromorph
 epispastic
