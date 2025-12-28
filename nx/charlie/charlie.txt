@@ -24,7 +24,6 @@ cabaletta
 cestas
 cardplaying
 chertiest
-cabalisms
 crackerberries
 cereus
 caragheen
@@ -7131,6 +7130,7 @@ centonization
 centos
 cerebropathy
 centra
+cabalisms
 centrad
 central
 centraler
