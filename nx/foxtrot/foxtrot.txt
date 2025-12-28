@@ -5008,6 +5008,7 @@ fledging
 factordom
 fribourg
 freelage
+forego
 flankers
 foists
 feued
@@ -7504,7 +7505,6 @@ freenesses
 foreassurance
 forecabin
 feedingstuff
-forego
 forebay
 fragmentization
 feathering
