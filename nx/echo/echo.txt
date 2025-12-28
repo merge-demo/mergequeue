@@ -2742,7 +2742,6 @@ etymology
 emetic
 engorge
 eleemosynarily
-elegancy
 egos
 enditing
 erythrocyte
@@ -4242,6 +4241,7 @@ expiree
 escarping
 escambio
 emulousness
+elegancy
 eaux
 eumeristic
 expolish

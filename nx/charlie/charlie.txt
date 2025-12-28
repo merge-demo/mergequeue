@@ -16290,7 +16290,6 @@ conspicuous
 colporrhexis
 caraco
 clypeated
-clypeiform
 clypeola
 clypeolar
 clypeus
@@ -19222,6 +19221,7 @@ colocate
 chiquest
 colocated
 colocephali
+clypeiform
 coryph
 colocynth
 connections
