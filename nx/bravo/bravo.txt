@@ -11703,7 +11703,6 @@ bacteriotrypsin
 beerbelly
 bobbejaan
 bungstarter
-benthon
 bucket
 bayogoula
 bobbers
@@ -15587,6 +15586,7 @@ bouget
 biliprasin
 bromlite
 bird
+benthon
 bescent
 beast
 bussy
