@@ -1570,7 +1570,6 @@ gunsels
 glaik
 grulla
 glimes
-graphitized
 gainset
 gonydeal
 gibe
@@ -5457,6 +5456,7 @@ golaseccan
 gynophagite
 gingivitis
 gaea
+graphitized
 glyptolith
 galvanocontractility
 grotesques
