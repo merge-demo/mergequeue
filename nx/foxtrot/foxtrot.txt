@@ -1588,6 +1588,7 @@ fourstrand
 falsettist
 fibrinogen
 filespec
+floristic
 favorites
 furstone
 fadges
@@ -5863,7 +5864,6 @@ farine
 fertilisable
 fowling
 factorially
-floristic
 floatsmen
 fluff
 flaxbush
