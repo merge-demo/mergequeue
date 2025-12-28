@@ -1865,7 +1865,6 @@ acervation
 acervulus
 abiezer
 anadyomene
-anacoluthia
 athlothete
 acestes
 acceleration
@@ -8156,6 +8155,7 @@ algiomuscular
 algoesthesiometer
 anteing
 avoidances
+anacoluthia
 abiogenetic
 artisanship
 algoid
