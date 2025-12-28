@@ -7169,7 +7169,6 @@ clinoaxis
 centreboard
 centred
 centref
-centreless
 centrepiece
 canephoroe
 centrer
@@ -9217,6 +9216,7 @@ chateaux
 chatelain
 cordmaker
 chatelaines
+centreless
 chemotherapists
 copperproof
 corrosionproof
