@@ -19283,7 +19283,6 @@ critically
 colonies
 colonisability
 colonisable
-communication
 clinid
 consumingness
 colonisationist
@@ -28640,6 +28639,7 @@ cyclothymic
 clothilda
 choirboy
 chasmal
+communication
 cremorne
 cupids
 cremosin
