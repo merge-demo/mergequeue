@@ -274,7 +274,6 @@ fluyts
 fusains
 favi
 filander
-fadmongering
 felsic
 flooders
 fairly
@@ -1448,6 +1447,7 @@ foothil
 familiarise
 floorwalkers
 fringing
+fadmongering
 fetched
 fatuoid
 fatuus
