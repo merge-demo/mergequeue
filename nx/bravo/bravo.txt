@@ -7499,6 +7499,7 @@ bevelled
 bardism
 belayer
 beveller
+byte
 bookbinder
 bardelle
 biathlon
@@ -17957,7 +17958,6 @@ basemen
 boloroot
 bushlike
 beclamors
-byte
 bookbinding
 byssinosis
 bedot
