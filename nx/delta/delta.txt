@@ -2458,7 +2458,6 @@ deciphering
 dunghill
 destrudo
 decipium
-diphase
 diplodocus
 dipyre
 decision
@@ -16940,6 +16939,7 @@ denaturize
 doorways
 drearihead
 depositories
+diphase
 dartles
 duledge
 diminuendoed
