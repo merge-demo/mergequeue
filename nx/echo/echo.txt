@@ -4812,7 +4812,6 @@ executory
 excipient
 encomiumia
 encompassment
-embira
 excusation
 episiotomy
 echard
@@ -7193,6 +7192,7 @@ epoxying
 etheostoma
 equalizer
 enwove
+embira
 entender
 epistasis
 euphonym
