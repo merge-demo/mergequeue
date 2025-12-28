@@ -1343,6 +1343,7 @@ dipentine
 demissive
 diploid
 draftsperson
+doggerelize
 dompt
 damagement
 dart
@@ -3895,7 +3896,6 @@ dejeration
 dejeuner
 dekadrachm
 dekagramme
-doggerelize
 discommunity
 decumbiture
 designating
