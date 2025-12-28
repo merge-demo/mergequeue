@@ -3165,6 +3165,7 @@ ghostship
 gnomon
 gutturalizing
 gramoches
+gypsywort
 geoscopic
 geosphere
 gapless
@@ -7575,7 +7576,6 @@ gedeckt
 gelatiniferous
 grounded
 generability
-gypsywort
 grinagog
 gowked
 gambet
