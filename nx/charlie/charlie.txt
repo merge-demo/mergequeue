@@ -20042,7 +20042,6 @@ chamosite
 commensurability
 commensurable
 cajoled
-commensurably
 commensurate
 commensurateness
 curatorial
@@ -26763,6 +26762,7 @@ counterclaim
 cirriform
 counterclassifications
 cricketer
+commensurably
 countercolored
 cliff
 countercomplaint
