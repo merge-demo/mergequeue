@@ -2895,7 +2895,6 @@ doughs
 dracunculus
 decurvature
 duello
-decus
 doblones
 decarbonizing
 decuss
@@ -15214,6 +15213,7 @@ dolichosauri
 dameworts
 dracaenaceae
 dolichosauria
+decus
 discomposure
 dolichuric
 duplexer
