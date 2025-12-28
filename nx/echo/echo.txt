@@ -3392,7 +3392,6 @@ espier
 enteropneustal
 estimator
 equivocally
-epinephelus
 ebullate
 exurbanite
 exacters
@@ -6779,6 +6778,7 @@ educator
 extramural
 entire
 epithumetic
+epinephelus
 engluts
 enjoys
 entireness
