@@ -555,7 +555,6 @@ echinodorus
 est
 endotheliotoxin
 echinoid
-exequial
 ethiopians
 eavesdropper
 equatorially
@@ -1617,6 +1616,7 @@ erizo
 epiblastic
 egressed
 egresses
+exequial
 extraphysiological
 expounded
 egret
