@@ -6607,7 +6607,6 @@ esperantidist
 enseam
 egyptianism
 expulsatory
-enterocoela
 eructed
 execrate
 endlichite
@@ -7029,6 +7028,7 @@ entrapping
 entrustment
 eurygaea
 exchequers
+enterocoela
 exocoetus
 eyeglass
 eggfruit
