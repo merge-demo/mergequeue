@@ -1336,7 +1336,6 @@ eisteddfodism
 effeminise
 electrochronometer
 especial
-elemin
 explosives
 eelspear
 effeminising
@@ -6553,6 +6552,7 @@ empanel
 eatings
 entasis
 extreat
+elemin
 emiction
 endothelioma
 eclectic
