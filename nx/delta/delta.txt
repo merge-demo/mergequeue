@@ -2854,7 +2854,6 @@ dihydronicotine
 desensitizations
 dramatizations
 donors
-dynatron
 decumanus
 daphnin
 dolomitised
@@ -5504,6 +5503,7 @@ dehistoricize
 drama
 dematiaceous
 denotement
+dynatron
 directionality
 drought
 dyvour
