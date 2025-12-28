@@ -6101,6 +6101,7 @@ albuminoidal
 antifeudalism
 agitators
 apteral
+autoclaving
 ablock
 agamospore
 agitatrix
@@ -24014,7 +24015,6 @@ align
 acetobacter
 autoclave
 allemands
-autoclaving
 aspheric
 autocollimators
 autocombustion
