@@ -3563,7 +3563,6 @@ embolize
 eupeptic
 epididymal
 entocone
-embolomalerism
 enervator
 exceeder
 equoid
@@ -3797,6 +3796,7 @@ emeers
 emeership
 emend
 exscribe
+embolomalerism
 epistolizing
 eglandulose
 electroplax
