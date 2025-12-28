@@ -2140,7 +2140,6 @@ galla
 globosity
 gaudete
 graced
-glycoluric
 garon
 gazellelike
 gaviae
@@ -8381,6 +8380,7 @@ gulfing
 geoblast
 gaize
 guru
+glycoluric
 grandstander
 gemelled
 glides
