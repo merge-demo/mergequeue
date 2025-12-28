@@ -11867,7 +11867,6 @@ antisociality
 abas
 appulsion
 analoga
-analogy
 analogic
 anteposition
 ascertained
@@ -19627,6 +19626,7 @@ apterium
 alloclase
 apophorometer
 aridian
+analogy
 aridity
 admonishes
 analogies
