@@ -1881,7 +1881,6 @@ gossip
 gyrostabilized
 gleir
 graptolithina
-graveled
 gambles
 gazehound
 growlery
@@ -3314,6 +3313,7 @@ germanizer
 germule
 germanness
 ganging
+graveled
 gunrunner
 genapped
 gingeley
