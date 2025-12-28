@@ -9475,7 +9475,6 @@ fasciculated
 fyces
 forearmed
 fand
-floors
 fohat
 fraudulent
 fraudulentness
@@ -11400,6 +11399,7 @@ fleak
 furnishes
 fiddles
 functionlessness
+floors
 frosk
 feater
 forksmith
