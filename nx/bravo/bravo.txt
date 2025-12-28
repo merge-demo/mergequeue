@@ -10966,7 +10966,6 @@ batement
 benchmar
 blinkingly
 blinter
-batel
 blocky
 brassage
 blintzes
@@ -11996,6 +11995,7 @@ bogtrotting
 batfowler
 bombastry
 boardings
+batel
 bimillenary
 brother
 bogued
