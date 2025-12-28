@@ -6462,7 +6462,6 @@ floretty
 fisherboat
 feltman
 fanflower
-froisse
 footbaths
 feneration
 fluotantalic
@@ -9130,6 +9129,7 @@ forepoint
 foldboating
 frusta
 fooner
+froisse
 fracid
 frizzier
 foraminulous
