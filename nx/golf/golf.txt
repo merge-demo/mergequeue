@@ -4472,7 +4472,6 @@ giocoso
 gip
 gpd
 gleba
-gladiatorship
 gluttony
 galloman
 gaultherine
@@ -7150,6 +7149,7 @@ gorble
 gorblin
 gorcocks
 gypsylike
+gladiatorship
 grasscut
 guayaba
 greenfly
