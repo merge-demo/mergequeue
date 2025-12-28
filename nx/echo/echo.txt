@@ -5821,6 +5821,7 @@ epopees
 explanation
 engouement
 engoument
+exanthema
 entification
 evade
 emulatory
@@ -7888,7 +7889,6 @@ extincts
 executioner
 epihyal
 exogonium
-exanthema
 entogastric
 egis
 excitor
