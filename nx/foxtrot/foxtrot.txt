@@ -5012,6 +5012,7 @@ fribourg
 freelage
 flankers
 foists
+feued
 folksier
 fathered
 flashtester
@@ -10167,7 +10168,6 @@ farmwife
 foreannouncement
 forbit
 forepredicament
-feued
 frizing
 frizzante
 fishyback
