@@ -3306,7 +3306,6 @@ fideicommissaries
 fungus
 flirtling
 finesser
-faon
 forevermore
 foreward
 flyting
@@ -9608,6 +9607,7 @@ fdub
 fragmentitious
 forcipated
 fleabugs
+faon
 fabula
 firing
 featherbone
