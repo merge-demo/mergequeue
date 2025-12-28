@@ -3153,6 +3153,7 @@ enactment
 euryte
 eloigns
 eloin
+escheat
 eloine
 engrossing
 eloiner
@@ -12584,7 +12585,6 @@ embezzlement
 exochorion
 enterocolitis
 eaglestone
-escheat
 earthpeas
 embrawn
 epsomite
