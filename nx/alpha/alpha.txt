@@ -941,7 +941,6 @@ acescency
 afterhold
 absorbefacient
 azoflavine
-absorbing
 absorpt
 absorptiometer
 allegeable
@@ -2049,6 +2048,7 @@ afrikander
 acharnement
 achatina
 achatinidae
+absorbing
 ache
 alkalinising
 artemisin
