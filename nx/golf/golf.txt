@@ -5817,7 +5817,6 @@ gloveless
 glorifiable
 gym
 grain
-goldsmith
 gadarene
 gloveman
 gumtrees
@@ -10610,6 +10609,7 @@ gillion
 glandaceous
 gowned
 goldenmouth
+goldsmith
 glossologist
 greenockite
 gallow
