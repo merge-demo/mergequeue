@@ -3890,7 +3890,6 @@ bezels
 bodyhood
 bidding
 basifacial
-bawneen
 bawra
 barklyite
 bawsint
@@ -10834,6 +10833,7 @@ blurb
 befriz
 bromate
 boxtree
+bawneen
 bider
 bhikku
 banished
