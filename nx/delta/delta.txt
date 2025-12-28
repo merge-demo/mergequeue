@@ -5352,6 +5352,7 @@ duplications
 demonio
 disemburden
 diazenithal
+dragman
 donnees
 disgruntle
 dawned
@@ -16577,7 +16578,6 @@ draisine
 darwinian
 diplostemony
 dragline
-dragman
 durant
 dragoman
 dissimilarities
