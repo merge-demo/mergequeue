@@ -2441,7 +2441,6 @@ grograms
 glutch
 gunship
 grandpas
-gemmologists
 gekkones
 gimels
 grillage
@@ -2986,6 +2985,7 @@ grenadian
 guayules
 gaolering
 geographies
+gemmologists
 grievers
 galliardness
 geoids
