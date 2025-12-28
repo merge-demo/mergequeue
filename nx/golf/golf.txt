@@ -3718,6 +3718,7 @@ glossiphonia
 gadgeteer
 goes
 ghostland
+grantha
 gabbling
 gaugership
 grumpier
@@ -5901,7 +5902,6 @@ glances
 glucoside
 goshawk
 grandparents
-grantha
 gestening
 gynephobia
 gluttonize
