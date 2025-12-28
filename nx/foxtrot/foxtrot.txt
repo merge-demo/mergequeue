@@ -5740,7 +5740,6 @@ frae
 ferulas
 frontis
 farced
-ferule
 fleuronnee
 fungous
 fuzzball
@@ -10844,6 +10843,7 @@ fumose
 fulfillment
 flus
 flavorous
+ferule
 fulfillments
 fennici
 fulfullment
