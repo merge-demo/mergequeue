@@ -6849,7 +6849,6 @@ bigener
 buicks
 bioluminescent
 bescourge
-baboos
 buckeroos
 bust
 bescramble
@@ -13979,6 +13978,7 @@ backstage
 borghese
 barathron
 brooders
+baboos
 bassi
 broadening
 boxtop
