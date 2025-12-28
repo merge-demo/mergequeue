@@ -11996,6 +11996,7 @@ adnexa
 axoneme
 aesthesia
 aeschynomene
+arithmetizations
 adosculation
 autobahnen
 anapnoic
@@ -19741,7 +19742,6 @@ autophthalmoscope
 ammonium
 astrobiological
 albarellos
-arithmetizations
 aucan
 arithmetizes
 acrosticheae
