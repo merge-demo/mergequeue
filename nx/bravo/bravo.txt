@@ -4818,6 +4818,7 @@ benedicite
 bollix
 brazenface
 bikh
+banners
 beshrouded
 bolometer
 bedstraw
@@ -14335,7 +14336,6 @@ blimps
 bluet
 bessi
 bannister
-banners
 bourignonism
 bianchite
 bragly
