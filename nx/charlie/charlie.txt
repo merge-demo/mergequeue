@@ -22384,6 +22384,7 @@ coerects
 contradicted
 coni
 conia
+cosmogonal
 coniacian
 conic
 conical
@@ -26142,7 +26143,6 @@ cosmogeny
 cutheal
 chazzanim
 concentration
-cosmogonal
 copalche
 coleslaws
 conservatize
