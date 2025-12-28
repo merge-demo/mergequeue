@@ -1289,7 +1289,6 @@ eeriness
 epithalamion
 encircler
 endogenesis
-eassel
 enteroid
 epyllia
 epicranius
@@ -5971,6 +5970,7 @@ egotism
 enigmas
 enjambements
 enigmata
+eassel
 eluvial
 exquisite
 etourderie
