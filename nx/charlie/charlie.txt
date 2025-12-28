@@ -3061,7 +3061,6 @@ canvasbacks
 canvasers
 coralroot
 cumaldehyde
-coperiodic
 capriola
 cyclopterous
 canvasing
@@ -29080,6 +29079,7 @@ camerina
 chloryl
 crinatory
 crinel
+coperiodic
 cringeling
 cringes
 cringing
