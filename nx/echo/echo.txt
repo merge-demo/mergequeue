@@ -5091,7 +5091,6 @@ eremitic
 endochorion
 endochorionic
 engrains
-elatha
 endocyst
 epodic
 enucleate
@@ -9620,6 +9619,7 @@ ensearch
 esoterize
 esotropia
 esp
+elatha
 eparchial
 eventless
 eternalise
