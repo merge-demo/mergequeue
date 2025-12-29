@@ -5586,7 +5586,6 @@ endogens
 ethologist
 enflaming
 epiklesis
-equuleus
 embryulcus
 enflower
 essexite
@@ -8039,6 +8038,7 @@ expectorations
 endovasculitis
 exsanguious
 euthenist
+equuleus
 encoop
 electrodentistry
 epibasal
