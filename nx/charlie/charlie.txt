@@ -8749,6 +8749,7 @@ clinicians
 chapiter
 chloranaemia
 chapitral
+collyridian
 chaplain
 chaplaincies
 chaplains
@@ -19087,7 +19088,6 @@ collinsonia
 colliquable
 colliquate
 collyria
-collyridian
 collyrite
 carder
 collyrium
