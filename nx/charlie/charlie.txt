@@ -1854,7 +1854,6 @@ cambarus
 cambered
 croc
 chamfrain
-cambering
 consociate
 cambia
 cambiata
@@ -6642,6 +6641,7 @@ cochairman
 ceded
 ceders
 confocally
+cambering
 copepods
 cottiers
 cedilla
