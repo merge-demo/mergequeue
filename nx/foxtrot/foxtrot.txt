@@ -781,7 +781,6 @@ footbridge
 fanciless
 foliicolous
 forestaff
-fandangos
 fandoms
 frivolized
 fellowlike
@@ -7588,6 +7587,7 @@ females
 filtrate
 felicities
 factual
+fandangos
 fleshquake
 ferrules
 foredefeated
