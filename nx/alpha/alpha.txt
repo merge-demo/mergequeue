@@ -4249,6 +4249,7 @@ armorer
 autotomize
 alchornea
 aesculapius
+assubjugate
 annoyful
 akhlame
 alumen
@@ -9838,7 +9839,6 @@ airbrush
 amma
 antihormone
 agst
-assubjugate
 amapa
 approvably
 ainsell
