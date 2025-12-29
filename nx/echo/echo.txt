@@ -7405,7 +7405,6 @@ explosion
 ensculpture
 entasia
 exsanguineous
-exacted
 epenla
 edgings
 epentheses
@@ -9373,6 +9372,7 @@ escalator
 excommunicable
 ergonomics
 eupepsia
+exacted
 escalated
 exilition
 eucti
