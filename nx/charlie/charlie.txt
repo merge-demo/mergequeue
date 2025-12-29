@@ -16425,7 +16425,6 @@ cowichan
 citrange
 costumist
 chaunt
-cloakmaker
 constrainer
 cloakmaking
 cymbaline
@@ -27490,6 +27489,7 @@ covariable
 chumpiness
 cathartical
 cheongsam
+cloakmaker
 coal
 chimers
 covariant
