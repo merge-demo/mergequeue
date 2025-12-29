@@ -2168,7 +2168,6 @@ georgian
 gharris
 gerontine
 gdinfo
-gnomide
 golfings
 gds
 gaycat
@@ -10640,6 +10639,7 @@ gambette
 greenly
 gossipries
 gaylies
+gnomide
 gerontologies
 giganticness
 gargets
