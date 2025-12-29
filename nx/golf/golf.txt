@@ -1154,6 +1154,7 @@ groupment
 gunpowder
 granddam
 gypsologist
+galeidae
 gander
 gravamens
 guava
@@ -4136,7 +4137,6 @@ gimmickery
 gendering
 guiltful
 gymnasic
-galeidae
 genitivally
 grapsidae
 gentilities
