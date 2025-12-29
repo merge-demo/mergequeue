@@ -6500,7 +6500,6 @@ caves
 cavetti
 calusar
 conchie
-cavy
 cavia
 cavicorn
 cuprocyanide
@@ -14513,6 +14512,7 @@ culver
 chamoised
 cerilla
 catheads
+cavy
 cyst
 consoler
 continuantly
