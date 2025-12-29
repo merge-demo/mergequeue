@@ -493,6 +493,7 @@ finalisms
 fromwards
 fireflies
 foin
+fracturs
 faker
 flaneries
 fohns
@@ -11081,7 +11082,6 @@ footrace
 flew
 falconet
 flangeless
-fracturs
 forbidder
 foreknowableness
 functionation
