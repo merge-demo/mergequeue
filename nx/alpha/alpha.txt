@@ -5708,7 +5708,6 @@ aeolistic
 afterwash
 agamete
 angulates
-agamy
 agamian
 appendicitis
 adenocellulitis
@@ -11733,6 +11732,7 @@ anthropomantic
 aruspex
 anaesthetization
 ayme
+agamy
 artal
 anaesthetize
 apodidae
