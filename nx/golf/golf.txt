@@ -2348,7 +2348,6 @@ gymnics
 geographism
 geologist
 gymnocerata
-gadinic
 glassy
 graptomancy
 gruss
@@ -5100,6 +5099,7 @@ gigas
 galliots
 gynaecea
 gypper
+gadinic
 griffins
 granza
 gastroptosia
