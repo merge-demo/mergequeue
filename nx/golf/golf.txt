@@ -3226,7 +3226,6 @@ geraniums
 gebur
 galoping
 giron
-gluttons
 girtonian
 gap
 ghosty
@@ -9248,6 +9247,7 @@ grahamite
 grist
 guanase
 growthiness
+gluttons
 glucagon
 gyroceran
 gemeled
