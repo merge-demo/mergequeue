@@ -6685,7 +6685,6 @@ clamoring
 celestine
 ceilers
 ceilidhe
-connexivum
 ceiling
 ceilings
 ceilingwards
@@ -20102,6 +20101,7 @@ cultivable
 commercialness
 corporealness
 commercium
+connexivum
 creedal
 ctenocephalus
 clarabella
