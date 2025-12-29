@@ -841,6 +841,7 @@ allergy
 assertors
 astringents
 aerosols
+artinesses
 acesodyne
 anam
 athrogenic
@@ -14672,7 +14673,6 @@ atle
 antianaphylaxis
 autoparasitism
 anakinetomer
-artinesses
 antiangular
 antiannexation
 angioplany
