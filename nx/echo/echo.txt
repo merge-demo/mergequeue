@@ -10109,7 +10109,6 @@ elenchically
 eumolpus
 eutopia
 euphausiacea
-entities
 ethereality
 epiboly
 etherealization
@@ -13550,6 +13549,7 @@ elflock
 eutaxie
 excitements
 enlightening
+entities
 earthquakes
 exsectile
 experimentor
