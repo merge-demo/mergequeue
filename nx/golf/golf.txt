@@ -2656,6 +2656,7 @@ genetika
 gurgeon
 gathering
 greatest
+gonotocont
 guaraguao
 gospodipoda
 grangerisation
@@ -5077,7 +5078,6 @@ garland
 ganged
 gret
 glassful
-gonotocont
 grapplers
 gloxinia
 glasshouses
