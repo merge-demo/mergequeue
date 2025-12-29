@@ -2908,7 +2908,6 @@ awkwardest
 alienist
 across
 aubrietas
-anguilliform
 alvus
 allege
 ameristic
@@ -23879,6 +23878,7 @@ abanga
 apilary
 appulse
 ashed
+anguilliform
 autecism
 autecology
 arrach
