@@ -2185,7 +2185,6 @@ fiducia
 fats
 fratercula
 farmhouse
-fumulus
 felts
 forthtell
 fishworker
@@ -5169,6 +5168,7 @@ funambulism
 forz
 flatness
 fadged
+fumulus
 faceting
 flatted
 flatteringness
