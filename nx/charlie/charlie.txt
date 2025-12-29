@@ -1945,7 +1945,6 @@ coveters
 confeder
 crotalid
 checkered
-camera
 capitols
 counterwill
 cumulose
@@ -30898,6 +30897,7 @@ caecity
 creatinuria
 cultigens
 cultish
+camera
 cerasin
 carboyed
 cultism
