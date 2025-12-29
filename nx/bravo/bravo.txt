@@ -381,6 +381,7 @@ backhoe
 bake
 backhooker
 bemoans
+banjos
 backhouses
 baseballdom
 brachyurus
@@ -8760,7 +8761,6 @@ binderies
 barterer
 beggars
 baptizers
-banjos
 broker
 binding
 bookkeep
