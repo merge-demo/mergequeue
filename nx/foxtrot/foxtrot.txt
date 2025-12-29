@@ -1536,7 +1536,6 @@ faurd
 foreseat
 feedbox
 flippant
-foodless
 fanfaron
 foulish
 foreshift
@@ -1881,6 +1880,7 @@ falsifies
 fizzwater
 frohlich
 fecundator
+foodless
 fuligula
 fallow
 fewer
