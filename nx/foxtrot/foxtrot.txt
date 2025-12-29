@@ -4569,7 +4569,6 @@ futtocks
 forespoken
 feuder
 fisticuff
-fort
 fouldre
 familiarness
 fratricide
@@ -10803,6 +10802,7 @@ filamentoid
 fullering
 footpads
 fuchsian
+fort
 floundered
 faintful
 fuchsine
