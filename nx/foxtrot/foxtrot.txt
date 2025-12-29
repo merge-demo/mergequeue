@@ -1931,6 +1931,7 @@ forefit
 forksful
 freight
 furling
+fileable
 friable
 fangot
 froze
@@ -7435,7 +7436,6 @@ footmen
 ferrocerium
 forwarder
 filicides
-fileable
 fillemot
 faience
 firefall
