@@ -8788,7 +8788,6 @@ enticement
 eradicant
 epineolithic
 equilibrity
-embossable
 enround
 electrodepositable
 elegist
@@ -12595,6 +12594,7 @@ exocoelar
 exocoele
 excusing
 electrophoreses
+embossable
 exocoelic
 explant
 epicardium
