@@ -4309,6 +4309,7 @@ glyptotherium
 garryaceae
 goboes
 glabellum
+gynandrian
 gynecophorous
 gynecratic
 gelidness
@@ -6600,7 +6601,6 @@ groyne
 goulan
 ghostwrite
 gingivolabial
-gynandrian
 gelsemin
 gruis
 gawkiest
