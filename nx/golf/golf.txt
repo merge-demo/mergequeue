@@ -6107,7 +6107,6 @@ glengarries
 goosebeak
 gullibly
 gryphosaurus
-gigahertz
 gnessic
 gastromancy
 golcondas
@@ -9081,6 +9080,7 @@ glassworking
 glasser
 grimalkin
 genitive
+gigahertz
 gentianwort
 ghast
 grimme
