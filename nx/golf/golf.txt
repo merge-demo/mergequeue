@@ -3669,6 +3669,7 @@ grisaille
 galvanize
 gpm
 graeae
+granulations
 gangwa
 georgie
 gillnets
@@ -10305,7 +10306,6 @@ gulpier
 galactosidase
 girasol
 gault
-granulations
 getsul
 gullygut
 gonorrheal
