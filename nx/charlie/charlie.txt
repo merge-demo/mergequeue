@@ -10831,7 +10831,6 @@ chipchop
 chipewyan
 chiplet
 culvert
-chipmunk
 claviharp
 chipmunks
 chrysochrous
@@ -14334,6 +14333,7 @@ chronometry
 circumstantiality
 circumstantialities
 circumstantialness
+chipmunk
 circumstantiate
 circumstantiating
 circumstantiation
