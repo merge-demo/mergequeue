@@ -2278,6 +2278,7 @@ eudiometry
 enchantments
 exormia
 enbloc
+eyelets
 endolymph
 excretal
 eger
@@ -4719,7 +4720,6 @@ entryway
 euripides
 electrowin
 erythrodegenerative
-eyelets
 eelware
 exalbuminose
 encist
