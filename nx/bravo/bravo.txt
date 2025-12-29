@@ -4575,7 +4575,6 @@ bobberies
 bink
 betrunk
 buckteeth
-buglewort
 bicellular
 backjaw
 bedarkening
@@ -15395,6 +15394,7 @@ brigantines
 brigatry
 brigetty
 beliquoring
+buglewort
 bekick
 burgensic
 bloodbath
