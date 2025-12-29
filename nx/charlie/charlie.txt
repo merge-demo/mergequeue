@@ -9881,7 +9881,6 @@ calic
 cameograph
 catalogic
 chronobiology
-chemosorption
 chemosphere
 collateral
 cancers
@@ -30405,6 +30404,7 @@ centaurial
 cosignificative
 crustific
 crustily
+chemosorption
 crustose
 choloid
 coroutine
