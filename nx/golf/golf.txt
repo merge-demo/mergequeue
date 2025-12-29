@@ -973,7 +973,6 @@ grave
 ghostless
 glomeruli
 graptolite
-gunshot
 glist
 genomic
 gamostele
@@ -5737,6 +5736,7 @@ graian
 gaduin
 gummoses
 grandmother
+gunshot
 gantline
 gallant
 gaskins
