@@ -6528,7 +6528,6 @@ extratension
 entail
 entomophthora
 exponentials
-elaphodus
 endurant
 ended
 entangledness
@@ -8869,6 +8868,7 @@ ecospecifically
 esthesiometer
 eremuri
 ethnoflora
+elaphodus
 enerve
 escharoid
 englue
