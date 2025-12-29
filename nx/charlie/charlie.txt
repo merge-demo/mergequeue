@@ -7900,7 +7900,6 @@ cestrum
 conned
 cesural
 cetaceans
-cetaceum
 calpolli
 clericate
 collieshangie
@@ -10441,6 +10440,7 @@ cosurety
 chilblained
 chilcat
 coprostanol
+cetaceum
 chelophore
 child
 childbearing
