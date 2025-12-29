@@ -5304,7 +5304,6 @@ affixal
 astipulate
 astrid
 americanoid
-affixation
 amortization
 affixed
 apophantic
@@ -21819,6 +21818,7 @@ assertum
 agricolous
 acanaceous
 asak
+affixation
 apparencies
 alloeotic
 asses
