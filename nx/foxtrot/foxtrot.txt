@@ -4417,7 +4417,6 @@ fascistic
 fiancees
 feirie
 franchise
-fowlpox
 fleta
 fishfinger
 footgear
@@ -9997,6 +9996,7 @@ frilled
 fegary
 flexitime
 finicky
+fowlpox
 fopped
 flenching
 frypans
