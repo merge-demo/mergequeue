@@ -2322,7 +2322,6 @@ errorful
 escalate
 encrypting
 eyras
-electroacoustic
 electroacoustical
 elfkin
 exradius
@@ -11770,6 +11769,7 @@ ericetum
 excorticating
 exappendiculate
 empover
+electroacoustic
 exarate
 egyptianization
 eremochaeta
