@@ -9349,7 +9349,6 @@ baleless
 bushi
 blirt
 biopoiesis
-bonniness
 beau
 backwood
 bluebush
@@ -13765,6 +13764,7 @@ bufflehorn
 bovaristic
 burgout
 bovate
+bonniness
 besmirching
 bries
 bannermen
