@@ -2435,7 +2435,6 @@ brassic
 breechesflower
 brodder
 blowout
-bathic
 brawner
 baniwa
 bowk
@@ -14676,6 +14675,7 @@ bibliomancy
 balustrade
 balletically
 bogle
+bathic
 broilingly
 buffets
 babion
