@@ -424,6 +424,7 @@ daunder
 descanting
 dayrooms
 deities
+dorsad
 dhourra
 discoursers
 dairous
@@ -7823,7 +7824,6 @@ dyothelism
 dwelling
 dil
 devour
-dorsad
 devourers
 discourseless
 dependently
