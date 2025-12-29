@@ -2469,6 +2469,7 @@ barandos
 balaklava
 baphomet
 bereason
+bearhound
 bibliophilism
 binotic
 bigram
@@ -8505,7 +8506,6 @@ bafaro
 baronne
 birch
 butyryl
-bearhound
 bisections
 biliteral
 baywood
