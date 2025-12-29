@@ -7752,7 +7752,6 @@ diglyph
 devisor
 decrier
 dowie
-docoglossan
 devitalizes
 drawler
 dribblers
@@ -12480,6 +12479,7 @@ disconform
 disillusionising
 disdeceive
 decimalize
+docoglossan
 disillusionments
 diaphanousness
 disgorge
