@@ -338,7 +338,6 @@ galactagogue
 gesneria
 garlic
 gastrea
-gynophore
 goujons
 galactocele
 gymnopaedic
@@ -3178,6 +3177,7 @@ guerilla
 geochronologist
 guardiancy
 germina
+gynophore
 geotechnic
 graplin
 geraniaceae
