@@ -6042,6 +6042,7 @@ diaconicon
 dolous
 dells
 digitalization
+dissimilitude
 dorps
 delicacy
 dilli
@@ -18571,7 +18572,6 @@ decentration
 dush
 dusked
 ditchdigger
-dissimilitude
 dusky
 dessil
 dozer
