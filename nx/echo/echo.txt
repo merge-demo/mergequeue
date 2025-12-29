@@ -2682,7 +2682,6 @@ earhead
 emborder
 electrotechnician
 exports
-eogaean
 enfant
 eudaemonics
 engenderment
@@ -9492,6 +9491,7 @@ escorts
 escot
 endbrain
 emperor
+eogaean
 enghosted
 excurved
 eupneas
