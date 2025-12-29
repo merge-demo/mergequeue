@@ -6045,7 +6045,6 @@ anatomists
 agrionidae
 arioso
 agility
-auxotrophic
 antemortal
 attorneyship
 abecedaire
@@ -17476,6 +17475,7 @@ assigneeship
 appallingness
 alcalzar
 armaturing
+auxotrophic
 appallment
 aerodyne
 availability
