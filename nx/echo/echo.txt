@@ -8219,7 +8219,6 @@ enkraal
 electrothermometer
 extinctive
 eucrasia
-exsection
 empiecement
 etwas
 equidominant
@@ -9110,6 +9109,7 @@ euryalae
 encanker
 electroencephalographic
 ethinyl
+exsection
 enrockment
 empidonax
 escalloniaceae
