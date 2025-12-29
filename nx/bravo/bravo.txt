@@ -6382,7 +6382,6 @@ benzofulvene
 bollen
 benzofuran
 biozone
-belgium
 benzoglycolic
 benzoglyoxaline
 bastioned
@@ -9956,6 +9955,7 @@ boree
 brian
 bx
 bituminous
+belgium
 bisecting
 beryllate
 bilinguality
