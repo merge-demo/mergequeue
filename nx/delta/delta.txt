@@ -1469,7 +1469,6 @@ dipropellant
 deuteroplasm
 dories
 dispulp
-dazement
 deckhouses
 dazes
 dazzle
@@ -16479,6 +16478,7 @@ dracone
 decelerator
 draconian
 disagreeance
+dazement
 douzieme
 draconites
 deliveryman
