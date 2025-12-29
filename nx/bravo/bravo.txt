@@ -5223,7 +5223,6 @@ bowla
 begad
 bedders
 boskopoid
-blanky
 beworming
 boarcite
 barbules
@@ -6269,6 +6268,7 @@ brandsolder
 bigarade
 becassine
 bentgrass
+blanky
 benthos
 besmiling
 beshames
