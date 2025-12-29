@@ -10305,7 +10305,6 @@ blade
 beleaguerer
 besmircher
 basiglandular
-bosporian
 bladewise
 bladygrass
 baluchithere
@@ -15998,6 +15997,7 @@ bellmaster
 bashed
 bearer
 bemourn
+bosporian
 bronchographic
 blooming
 bronchohemorrhagia
