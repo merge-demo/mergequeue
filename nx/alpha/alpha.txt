@@ -10903,7 +10903,6 @@ argolian
 ammono
 ammonoidea
 ammonoidean
-aerocartography
 anaglyphy
 ammonoids
 ammonolitic
@@ -19441,6 +19440,7 @@ argention
 axonophorous
 antillean
 argentometry
+aerocartography
 aday
 anchoritical
 analysts
