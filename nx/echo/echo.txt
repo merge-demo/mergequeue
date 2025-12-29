@@ -5901,7 +5901,6 @@ excessman
 expend
 enhaemospore
 epiplastron
-emphases
 explees
 ecarinate
 execrators
@@ -9640,6 +9639,7 @@ epacris
 elaeagnus
 enfrai
 esparsette
+emphases
 encloud
 embost
 espartos
