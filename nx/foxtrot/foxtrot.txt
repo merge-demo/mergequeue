@@ -4674,7 +4674,6 @@ flewit
 freety
 filicinean
 fearsome
-flatnose
 figurante
 flaunched
 flections
@@ -5227,6 +5226,7 @@ fiscals
 flavescence
 fingall
 flytrap
+flatnose
 flavescent
 funguses
 flews
