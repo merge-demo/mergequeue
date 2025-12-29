@@ -4115,7 +4115,6 @@ bowmaking
 beelbow
 beardfishes
 beswarms
-botulinum
 beardy
 blanchimeter
 bearding
@@ -13701,6 +13700,7 @@ bullcart
 bindery
 besmottered
 bushes
+botulinum
 boskages
 basibranchiate
 bourder
