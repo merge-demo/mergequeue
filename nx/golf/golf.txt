@@ -1048,6 +1048,7 @@ geodist
 grasp
 golp
 glanced
+glycohaemia
 gymnonoti
 groan
 glassfuls
@@ -8681,7 +8682,6 @@ gonocalycine
 gliders
 graphitizing
 growthless
-glycohaemia
 gladys
 gerip
 goopy
