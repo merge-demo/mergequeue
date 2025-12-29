@@ -6314,7 +6314,6 @@ catochus
 coheaded
 cumberlandite
 cestos
-cephala
 cetiosauria
 clarinda
 caus
@@ -15513,6 +15512,7 @@ clasmatosis
 cuitle
 clasped
 cinevariety
+cephala
 clasper
 claspers
 claspt
