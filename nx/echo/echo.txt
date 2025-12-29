@@ -907,7 +907,6 @@ emperies
 extrastate
 episedia
 encomiastic
-excommunicators
 endosporous
 eriodictyon
 ectotoxin
@@ -3938,6 +3937,7 @@ elevenths
 eyliad
 estruate
 earthbound
+excommunicators
 emollients
 emoloa
 endosymbiosis
