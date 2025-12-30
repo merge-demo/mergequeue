@@ -4330,7 +4330,6 @@ eluder
 emit
 edibles
 enami
-estranging
 enamorado
 enamorato
 endleaves
@@ -4755,6 +4754,7 @@ executions
 existent
 exodos
 episcopacy
+estranging
 endosmosic
 ebulliometry
 excircle
