@@ -1941,6 +1941,7 @@ floccule
 finagling
 fonly
 flanchard
+furzier
 forworn
 felonwood
 flated
@@ -10910,7 +10911,6 @@ flirtations
 finagler
 foremastmen
 fulgoroidea
-furzier
 fruitist
 forgeful
 footgrip
