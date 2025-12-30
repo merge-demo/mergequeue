@@ -4109,7 +4109,6 @@ frostation
 fergusonite
 featherbrain
 fattable
-fanterie
 formal
 fatalness
 fissipedal
@@ -10466,6 +10465,7 @@ fribblers
 ferruling
 farrant
 frontiersmen
+fanterie
 flnerie
 foregoer
 forbodes
