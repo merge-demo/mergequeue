@@ -4313,6 +4313,7 @@ forequarters
 fluyt
 factive
 fet
+ferd
 flamethrower
 funditor
 fructiferousness
@@ -7915,7 +7916,6 @@ frakturs
 foreseeable
 futchel
 footeite
-ferd
 footslog
 fletching
 foreseer
