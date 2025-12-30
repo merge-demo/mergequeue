@@ -4605,7 +4605,6 @@ demirilievo
 deflea
 demonastery
 donn
-depose
 dinic
 demisang
 dulcite
@@ -7015,6 +7014,7 @@ despose
 desiccant
 deformed
 despotat
+depose
 demographer
 decede
 dissentiate
