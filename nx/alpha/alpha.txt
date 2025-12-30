@@ -1008,7 +1008,6 @@ award
 artifice
 arthrochondritis
 acroaesthesia
-antidromous
 abtruse
 aquitanian
 affluxes
@@ -18439,6 +18438,7 @@ arati
 araua
 appertinent
 arauan
+antidromous
 araucanian
 araucaria
 anarchize
