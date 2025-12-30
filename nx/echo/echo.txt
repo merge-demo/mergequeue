@@ -1492,7 +1492,6 @@ entasias
 effuviate
 efl
 efph
-enantiomorphism
 erringly
 entocondylar
 experimentarian
@@ -12084,6 +12083,7 @@ escheator
 endued
 engulfs
 edentates
+enantiomorphism
 expressor
 easels
 emblazonry
