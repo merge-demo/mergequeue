@@ -3538,7 +3538,6 @@ gaunter
 gracile
 gawish
 garotting
-gunkholed
 gibbsites
 gumbotils
 gapo
@@ -5776,6 +5775,7 @@ grimmish
 gloomy
 grapsoid
 gymnoplast
+gunkholed
 gossypose
 gonotheca
 gravemaker
