@@ -22397,7 +22397,6 @@ conidioid
 conidiophorous
 conidiospore
 copy
-conidium
 conifer
 coniferae
 castrato
@@ -30073,6 +30072,7 @@ curlings
 columbo
 chilomata
 carnivores
+conidium
 crowdedly
 circumambiencies
 cheson
