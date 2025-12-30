@@ -2809,7 +2809,6 @@ deuteroglobulose
 decretorian
 dithymol
 defi
-deferred
 dossers
 declarator
 decried
@@ -9219,6 +9218,7 @@ dieldrin
 derelict
 decahedrodra
 dieldrins
+deferred
 dielectric
 doziest
 disparately
