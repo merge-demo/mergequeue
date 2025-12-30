@@ -4115,6 +4115,7 @@ condalia
 cardin
 cardinal
 cardinalfish
+cory
 croslet
 cancans
 cardinalfishes
@@ -25149,7 +25150,6 @@ cathartae
 camails
 crampoons
 corge
-cory
 curculionist
 counterwall
 cynipoidea
