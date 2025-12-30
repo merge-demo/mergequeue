@@ -2026,7 +2026,6 @@ bank
 bankalachi
 beshivers
 bidactyl
-bankcard
 bethought
 banky
 banknote
@@ -17897,6 +17896,7 @@ beauship
 bivium
 boundable
 bushelers
+bankcard
 bescurvy
 bushelfuls
 belabour
