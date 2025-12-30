@@ -8893,7 +8893,6 @@ ergane
 ethnohistorically
 extenuating
 elfdom
-exp
 epergnes
 evonymus
 estrangement
@@ -9779,6 +9778,7 @@ empoisoner
 embitterment
 embracive
 explaining
+exp
 essoined
 embolemia
 eachwhere
