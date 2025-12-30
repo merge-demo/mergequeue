@@ -2411,6 +2411,7 @@ dripstick
 disaffects
 decimalism
 dueling
+dorize
 decimalization
 displeases
 decimalizes
@@ -13643,7 +13644,6 @@ dolce
 def
 dissimilars
 dentaries
-dorize
 dequantitate
 diedral
 dissimilate
