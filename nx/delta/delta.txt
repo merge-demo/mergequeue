@@ -5193,6 +5193,7 @@ declination
 declaimers
 denunciations
 deputy
+date
 denominations
 desired
 dicty
@@ -6716,7 +6717,6 @@ dimedone
 dispeopled
 decapetalous
 disacidify
-date
 dilaceration
 designatum
 designedly
