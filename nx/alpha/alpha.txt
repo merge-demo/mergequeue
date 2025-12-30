@@ -7513,6 +7513,7 @@ albuminimeter
 albuminiparous
 acromial
 agnomina
+antrotympanitis
 aphagias
 aldebaran
 anfracture
@@ -16451,7 +16452,6 @@ antrorse
 antrorsely
 antroscope
 antiromanticism
-antrotympanitis
 areopagus
 antrotomy
 aspring
