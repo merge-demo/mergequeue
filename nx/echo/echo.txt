@@ -457,6 +457,7 @@ evector
 ecclesia
 enumerable
 ecclesiarchy
+ensnarls
 extoll
 ecclesiast
 entrada
@@ -12983,7 +12984,6 @@ etheling
 evicke
 exposals
 emotion
-ensnarls
 entice
 expectorant
 espiglerie
