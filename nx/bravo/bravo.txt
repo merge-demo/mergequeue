@@ -3089,7 +3089,6 @@ basale
 berascaling
 bathetic
 basalts
-brecciating
 basaltware
 bombiccite
 basaree
@@ -4781,6 +4780,7 @@ barbarize
 benet
 burking
 barrener
+brecciating
 biotelemetry
 bracker
 brachylogy
