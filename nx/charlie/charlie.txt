@@ -2514,7 +2514,6 @@ candymaker
 cardiophobe
 candymaking
 candite
-curryfavel
 candyweed
 candle
 coehorn
@@ -24793,6 +24792,7 @@ creaked
 copulatory
 coenobic
 commers
+curryfavel
 coquecigrue
 corneagen
 cystomorphous
