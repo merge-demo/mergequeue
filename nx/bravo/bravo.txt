@@ -6236,7 +6236,6 @@ bootlace
 bookism
 bissextus
 battalions
-barndoor
 biuret
 bosporus
 blastogenesis
@@ -12572,6 +12571,7 @@ bonity
 balsam
 boroughlet
 bragi
+barndoor
 bemocks
 bardane
 bonk
