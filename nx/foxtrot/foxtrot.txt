@@ -8546,6 +8546,7 @@ forehatchway
 flusterate
 figs
 fumaroles
+flatwashes
 fortification
 flatweed
 formulated
@@ -10111,7 +10112,6 @@ functionality
 frithles
 fellowheirship
 forklifts
-flatwashes
 fleshment
 frithstool
 fritniency
