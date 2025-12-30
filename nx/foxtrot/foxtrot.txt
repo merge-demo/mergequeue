@@ -9365,7 +9365,6 @@ flocculant
 fleecier
 frankfurters
 fivers
-forespecified
 frayne
 frankish
 functionary
@@ -10432,6 +10431,7 @@ frontomallar
 frontomental
 fidibus
 folks
+forespecified
 flodge
 fumous
 fetterer
