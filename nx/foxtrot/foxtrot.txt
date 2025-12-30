@@ -3278,7 +3278,6 @@ ferrites
 faunology
 fluidrams
 ferrimagnetically
-foreknowable
 fieldpieces
 feudovassalism
 forefeet
@@ -5693,6 +5692,7 @@ feodaries
 funiculi
 forkmen
 federalizing
+foreknowable
 fleckiest
 forfeitures
 fungitoxicity
