@@ -3418,7 +3418,6 @@ fenestella
 forestate
 fielders
 forset
-furcation
 favellilidia
 frankforter
 flatbed
@@ -6806,6 +6805,7 @@ feretory
 ferryman
 farfal
 forethink
+furcation
 foldcourse
 fiberless
 folkmoots
