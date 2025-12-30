@@ -1997,7 +1997,6 @@ gams
 glyptical
 gaurian
 gasting
-gaurie
 gaurs
 glamourous
 gaussage
@@ -4144,6 +4143,7 @@ gnawing
 gregarian
 gringo
 gnars
+gaurie
 gymnasts
 gibbi
 grahamism
