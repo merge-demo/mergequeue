@@ -5256,6 +5256,7 @@ fstore
 flot
 fissiped
 flavoured
+fondant
 flavourful
 fieldy
 flavourless
@@ -10087,7 +10088,6 @@ finalizations
 fennec
 functions
 fishpound
-fondant
 fritz
 furnisher
 foozling
