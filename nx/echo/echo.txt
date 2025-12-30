@@ -6407,6 +6407,7 @@ elapid
 ensemble
 engastrimyth
 engrained
+evaluator
 electrocontractility
 enanguish
 espaliered
@@ -10430,7 +10431,6 @@ engraved
 estruation
 etymologization
 edentalous
-evaluator
 eurypteroid
 eviscerated
 eloinment
