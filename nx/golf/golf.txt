@@ -5093,7 +5093,6 @@ grasni
 guddler
 glassines
 galloping
-glassiness
 glasslikeness
 goosefoots
 garrya
@@ -7509,6 +7508,7 @@ getmesost
 galliardize
 glossodynia
 generalization
+glassiness
 glial
 gamogenesis
 gaen
