@@ -2118,7 +2118,6 @@ gawkish
 grecomania
 gipsied
 geranials
-greensward
 gawm
 gaining
 gazabo
@@ -5004,6 +5003,7 @@ glamoured
 germanic
 greatmouthed
 grolier
+greensward
 glebeless
 grippe
 gammed
