@@ -5459,7 +5459,6 @@ forevow
 firearmed
 falsifiable
 fatalisms
-foreshadows
 fley
 foxed
 flem
@@ -10931,6 +10930,7 @@ flavorful
 forge
 factorizing
 ferreiro
+foreshadows
 fub
 foehn
 flexure
