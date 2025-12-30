@@ -3409,6 +3409,7 @@ fierasferoid
 farcie
 fanfaronading
 fustanella
+fungible
 floc
 flecker
 featherlike
@@ -3664,7 +3665,6 @@ fertilised
 foreglow
 finedrawing
 fluxweed
-fungible
 federalize
 freeboots
 footbreadth
