@@ -4780,7 +4780,6 @@ benet
 burking
 barrener
 brecciating
-biotelemetry
 bracker
 brachylogy
 bedriveling
@@ -15397,6 +15396,7 @@ burgensic
 bloodbath
 brevete
 barghests
+biotelemetry
 bowsed
 basicytoparaplastin
 blackfish
