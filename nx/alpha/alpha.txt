@@ -14352,7 +14352,6 @@ anthicidae
 arthroplastic
 amercements
 anthills
-anthinae
 anthine
 amnesic
 anthypnotic
@@ -15774,6 +15773,7 @@ autoinhibited
 apodeme
 algesimeter
 antipeduncular
+anthinae
 acoemetae
 algebra
 atlantica
