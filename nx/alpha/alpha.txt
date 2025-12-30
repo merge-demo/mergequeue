@@ -11050,6 +11050,7 @@ athelia
 amorpha
 ascensiontide
 anarthropodous
+aphanites
 amorphia
 aerobion
 agomphious
@@ -16826,7 +16827,6 @@ approve
 anlet
 auxiliary
 ambrosiac
-aphanites
 aphra
 aphrodesiac
 abastral
