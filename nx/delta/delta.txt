@@ -2872,7 +2872,6 @@ danais
 doloroso
 daedalist
 devotions
-drepanis
 deuteroscopic
 duvetyns
 discernment
@@ -4235,6 +4234,7 @@ delthyrial
 destructible
 dineros
 deltohedron
+drepanis
 dogvanes
 delubra
 deluce
