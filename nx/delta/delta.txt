@@ -639,7 +639,6 @@ dearth
 damnificatus
 disoccupation
 debarration
-depolarizer
 damnifies
 damningly
 disposals
@@ -13199,6 +13198,7 @@ dassie
 discountenancer
 displeasures
 dilations
+depolarizer
 displicence
 drawsheet
 desaurine
