@@ -1978,7 +1978,6 @@ greywacke
 glairs
 glowering
 garnishments
-glamor
 gallamine
 gnomonical
 gimbal
@@ -2288,6 +2287,7 @@ garance
 geissoloma
 geissolomataceae
 geissospermine
+glamor
 genecologic
 glimpses
 granulocytopoiesis
