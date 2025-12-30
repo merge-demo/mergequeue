@@ -2700,7 +2700,6 @@ floodwall
 fishify
 fuminess
 flamant
-frenzies
 flambe
 faithing
 fungused
@@ -3113,6 +3112,7 @@ fogbank
 fairylike
 fountainheads
 fibrocement
+frenzies
 fieulamort
 formulas
 frottages
