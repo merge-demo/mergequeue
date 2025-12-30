@@ -5674,7 +5674,6 @@ cataractwise
 catarrhal
 col
 catarrhina
-colpeo
 charlie
 catarrhous
 catarrhs
@@ -18121,6 +18120,7 @@ centerward
 chincha
 counterpunch
 chronologist
+colpeo
 chinbone
 chairless
 cruses
