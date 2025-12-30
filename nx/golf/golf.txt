@@ -7542,7 +7542,6 @@ guideless
 gatelike
 goliardery
 greenbone
-gorbellies
 gymnast
 governmental
 garageman
@@ -9339,6 +9338,7 @@ gigantostracan
 grinder
 geomagnetically
 gront
+gorbellies
 gamodeme
 genuflect
 gangtide
