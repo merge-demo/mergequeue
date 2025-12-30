@@ -4286,6 +4286,7 @@ cottages
 carfare
 carfares
 carfloat
+crenic
 coater
 carfuffle
 capiteaux
@@ -29836,7 +29837,6 @@ clumsier
 cross
 circummeridian
 cablets
-crenic
 coronillo
 chronos
 chuckler
