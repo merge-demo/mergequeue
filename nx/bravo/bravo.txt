@@ -1394,6 +1394,7 @@ baled
 baleen
 bobance
 beach
+benzotrichloride
 battable
 balefires
 bewreak
@@ -6435,7 +6436,6 @@ biternate
 benzothiofuran
 burs
 benzothiophene
-benzotrichloride
 bolection
 benzoxyacetic
 blanchers
