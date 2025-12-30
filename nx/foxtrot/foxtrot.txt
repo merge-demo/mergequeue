@@ -6087,7 +6087,6 @@ foxhounds
 filchery
 florisugent
 funambule
-fanfare
 flauntingly
 forsook
 feak
@@ -7588,6 +7587,7 @@ fogram
 females
 filtrate
 felicities
+fanfare
 factual
 fandangos
 fleshquake
