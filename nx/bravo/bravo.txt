@@ -4637,7 +4637,6 @@ bullrushes
 bedehouses
 bedemen
 bens
-barry
 buxus
 bedevilling
 barbershops
@@ -17430,6 +17429,7 @@ bigaroons
 boettner
 buffoonism
 borzicactus
+barry
 brasset
 bunkering
 blackouts
