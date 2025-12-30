@@ -11140,7 +11140,6 @@ chlamydobacteriales
 clamours
 castrations
 chlamydosaurus
-chlamydoselachidae
 chlamydozoan
 chlamyphore
 carroting
@@ -22573,6 +22572,7 @@ chg
 cosech
 connaturalness
 connature
+chlamydoselachidae
 calumniatory
 connaught
 connectable

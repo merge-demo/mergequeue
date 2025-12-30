@@ -2891,7 +2891,6 @@ dihysteria
 degratia
 doughs
 dracunculus
-decurvature
 duello
 doblones
 decarbonizing
@@ -6226,6 +6225,7 @@ discretely
 dodonaena
 denationalisation
 diabolize
+decurvature
 dermatic
 dermatitises
 drupe
