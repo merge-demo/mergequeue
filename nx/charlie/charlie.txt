@@ -5074,6 +5074,7 @@ casate
 closemouthed
 casava
 cuber
+cotans
 cellepora
 canaliform
 crowsteps
@@ -28899,7 +28900,6 @@ cry
 crikey
 cryable
 cholestane
-cotans
 cryanesthesia
 criant
 carbonigenous
