@@ -3328,7 +3328,6 @@ decapitalization
 definite
 definitely
 distrait
-definiteness
 dahlin
 deergrass
 definitiones
@@ -18646,6 +18645,7 @@ deactivations
 deodorizer
 disalignment
 decury
+definiteness
 disforest
 drowsily
 disinflationary
