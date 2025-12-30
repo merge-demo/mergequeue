@@ -640,6 +640,7 @@ guenepe
 guideline
 gramineal
 geodetic
+gweducs
 grottowork
 gardencraft
 gallomaniac
@@ -3625,7 +3626,6 @@ genarcha
 ghazi
 grubber
 guiser
-gweducs
 guttatim
 gogos
 grewhound
