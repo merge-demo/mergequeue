@@ -3014,7 +3014,6 @@ evocative
 extern
 encorpore
 economy
-externa
 eliot
 eliphalet
 elbowroom
@@ -8477,6 +8476,7 @@ epos
 elianic
 encinas
 epizootic
+externa
 epoxyed
 epoxies
 employed
