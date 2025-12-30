@@ -1300,6 +1300,7 @@ ganges
 granch
 giddying
 gunnels
+gable
 ginkgo
 gloria
 gestation
@@ -9746,7 +9747,6 @@ gaelicism
 googolplex
 guying
 grummet
-gable
 genuflector
 gambir
 gordiidae
