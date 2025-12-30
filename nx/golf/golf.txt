@@ -1669,7 +1669,6 @@ geratic
 gladder
 gaminess
 greenhouses
-graftage
 gastrocnemii
 groten
 gaffed
@@ -5212,6 +5211,7 @@ gabbiest
 gnosticizer
 gunated
 glouted
+graftage
 galore
 gemara
 gerbils
