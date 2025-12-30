@@ -3258,7 +3258,6 @@ fittit
 fuzed
 foreknowledge
 freestanding
-fibrosity
 forthrightly
 faradizer
 foppery
@@ -7525,6 +7524,7 @@ fest
 forebodes
 forebody
 frostweed
+fibrosity
 flaser
 forsakers
 flentes
