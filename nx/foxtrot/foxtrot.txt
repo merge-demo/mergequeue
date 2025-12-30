@@ -1309,6 +1309,7 @@ fatefully
 fanaticise
 findability
 fernambuck
+finality
 fibromata
 functionarism
 foreconsent
@@ -6164,7 +6165,6 @@ flowcharted
 fungibles
 festivals
 fragmentized
-finality
 flowerage
 fluxation
 forever
