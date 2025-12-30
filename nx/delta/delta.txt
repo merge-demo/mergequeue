@@ -3337,7 +3337,6 @@ dilatant
 deliriate
 diastem
 demitting
-desisted
 duddery
 destiny
 domesticable
@@ -16788,6 +16787,7 @@ disorganized
 drawback
 drawbar
 disposability
+desisted
 decolorate
 demitube
 demirobe
