@@ -844,7 +844,6 @@ forbecause
 fanon
 fronted
 felichthys
-fantailed
 fingermark
 fashioner
 finestill
@@ -8174,6 +8173,7 @@ foederatus
 franzy
 fingerprinted
 florulent
+fantailed
 fruitfullest
 fluffily
 fishpond
