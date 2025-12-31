@@ -5925,6 +5925,7 @@ factitude
 familic
 frim
 frats
+forlornly
 fructiferous
 flannelflower
 fineable
@@ -11601,7 +11602,6 @@ fealty
 forced
 fraternal
 febrifugal
-forlornly
 for
 fetch
 forcarve
