@@ -15519,7 +15519,6 @@ cinevariety
 cephala
 clasper
 claspers
-claspt
 classable
 coplanarity
 classbook
@@ -18264,6 +18263,7 @@ christology
 coffin
 copper
 coffing
+claspt
 colpoplastic
 coffinless
 consoled
