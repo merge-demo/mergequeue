@@ -4480,7 +4480,6 @@ galtonian
 gypsyfy
 ganoblast
 generically
-granules
 gristles
 geophytes
 guacimo
@@ -5042,6 +5041,7 @@ gregarinae
 gatch
 grutched
 gelechia
+granules
 guards
 gaedown
 glycogen
