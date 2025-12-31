@@ -97,6 +97,7 @@ earpick
 elastician
 earpiece
 enchisel
+equiperiodic
 enmarble
 earreach
 engineership
@@ -8705,7 +8706,6 @@ episcleritis
 earth
 epiglottides
 evangelists
-equiperiodic
 emendations
 equipoise
 endophyllous
