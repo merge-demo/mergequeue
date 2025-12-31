@@ -910,7 +910,6 @@ ferine
 fenberry
 fanwise
 falangism
-faddier
 fadaise
 fleabug
 fallouts
@@ -2469,6 +2468,7 @@ fumbulator
 firstcomer
 fireproofing
 fishhood
+faddier
 futility
 fenestrule
 fuddlement
