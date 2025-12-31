@@ -7548,7 +7548,6 @@ forecastlehead
 five
 filemaking
 ferroboron
-fringillaceous
 forespake
 fallacious
 foreboder
@@ -10604,6 +10603,7 @@ fuddler
 foiling
 foilsman
 filaceous
+fringillaceous
 fusht
 furtive
 famular
