@@ -6773,7 +6773,6 @@ bin
 boeotia
 berserks
 barnumize
-berskin
 balize
 berhyme
 banjore
@@ -10409,6 +10408,7 @@ bagmen
 baidya
 bullfinch
 blankness
+berskin
 blanks
 bargainable
 byrewoman
