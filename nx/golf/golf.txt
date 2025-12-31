@@ -3591,7 +3591,6 @@ granulitization
 galvanic
 gyrocar
 greg
-gatewaymen
 gustus
 gyrochrome
 gangbuster
@@ -10565,6 +10564,7 @@ gerbo
 gesneraceae
 gyneocracy
 gallivanter
+gatewaymen
 grasset
 gunmetal
 guacico
