@@ -2147,6 +2147,7 @@ bewield
 blandfordia
 botrychium
 backup
+bugling
 blahlaut
 baptisias
 bonehead
@@ -3470,7 +3471,6 @@ buphaga
 bander
 barkpeeler
 boobook
-bugling
 bolloxed
 batable
 bespatter
