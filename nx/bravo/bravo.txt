@@ -2321,7 +2321,6 @@ breloque
 bathyscape
 barbicel
 bemitred
-barbicels
 bathonian
 bepuff
 barbierite
@@ -17039,6 +17038,7 @@ bulimias
 bronchiostenosis
 broomtail
 bayman
+barbicels
 braces
 bulimus
 baler
