@@ -3289,7 +3289,6 @@ frambesia
 farsight
 fivescore
 flounces
-ferrelled
 fortier
 fulgency
 finity
@@ -4321,6 +4320,7 @@ fretworked
 foddering
 fauces
 frailty
+ferrelled
 fluorins
 fellnesses
 fasteners
