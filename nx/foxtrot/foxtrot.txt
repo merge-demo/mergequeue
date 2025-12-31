@@ -6447,7 +6447,6 @@ femorocaudal
 fainted
 flatcap
 fairs
-fruitlet
 fibrinolysis
 fistulariidae
 finery
@@ -7436,6 +7435,7 @@ firefang
 footmen
 ferrocerium
 forwarder
+fruitlet
 filicides
 fillemot
 faience
