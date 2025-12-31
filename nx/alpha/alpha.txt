@@ -3167,6 +3167,7 @@ aweather
 ahungered
 apostrophized
 actives
+apparency
 activin
 activism
 aetiologically
@@ -17515,7 +17516,6 @@ antigonus
 apparats
 apparatus
 appareling
-apparency
 apparentements
 airify
 anoxyscope
