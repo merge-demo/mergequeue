@@ -1780,7 +1780,6 @@ bamboula
 banterer
 boswellized
 bowmen
-balanops
 balloonet
 bedsprings
 bambute
@@ -12126,6 +12125,7 @@ backstop
 boldly
 baedekers
 bonesets
+balanops
 baalshem
 burbots
 bedamp
