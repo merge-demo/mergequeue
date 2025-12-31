@@ -7976,7 +7976,6 @@ bicyclers
 bicyclic
 bicyclism
 blastaea
-bicyclist
 bedabbles
 burntly
 bicycular
@@ -13876,6 +13875,7 @@ barkentine
 blad
 borracha
 bowlder
+bicyclist
 bluefishes
 bauno
 bitbrace
