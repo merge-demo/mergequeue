@@ -3532,7 +3532,6 @@ formant
 frightful
 foulsome
 filamentary
-filament
 flannelleaves
 fishfall
 flagrancy
@@ -8953,6 +8952,7 @@ fiacre
 footle
 feldspath
 feverwort
+filament
 favositoid
 formally
 felty
