@@ -3410,7 +3410,6 @@ dimethylhydrazine
 downrightness
 dudgeon
 dissatisfy
-debasement
 dowly
 deflocculate
 deflocculating
@@ -6999,6 +6998,7 @@ despondentness
 desponder
 despondingly
 desponds
+debasement
 diaster
 dikaryon
 districts
