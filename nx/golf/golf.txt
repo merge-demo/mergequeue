@@ -1094,7 +1094,6 @@ gypsums
 gegenion
 glares
 guarding
-gainfully
 graphicness
 gowdy
 gestes
@@ -4181,6 +4180,7 @@ geographical
 glossophaga
 gaggles
 gundogs
+gainfully
 gauds
 gastroplication
 glaswegian
