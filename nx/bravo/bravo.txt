@@ -3229,7 +3229,6 @@ bedights
 bathtub
 blatters
 barkpeel
-biltong
 basigynium
 basilarchia
 beware
@@ -5826,6 +5825,7 @@ bellicism
 beyonds
 buqshas
 bromometry
+biltong
 belligerents
 buildress
 boxcar
