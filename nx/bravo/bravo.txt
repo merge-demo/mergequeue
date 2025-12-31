@@ -11876,7 +11876,6 @@ battleplane
 bouillons
 boedromion
 brevirostrate
-buggies
 besmutting
 barabora
 befouled
@@ -15691,6 +15690,7 @@ bepuzzlement
 babool
 badgemen
 broadling
+buggies
 bulbilis
 blowzy
 bands
