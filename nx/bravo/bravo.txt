@@ -3065,6 +3065,7 @@ biobibliographical
 bdellostomatidae
 baruria
 barvel
+bunnell
 baleful
 beduin
 brainwashing
@@ -7536,7 +7537,6 @@ briefer
 bread
 bevvy
 bewailers
-bunnell
 belimousined
 blowpit
 beguilingly
