@@ -3958,7 +3958,6 @@ graphis
 gimping
 grubworms
 gigawatts
-glioma
 glossoscopia
 geoty
 graphium
@@ -9916,6 +9915,7 @@ gormandized
 gravelly
 grander
 grainsick
+glioma
 gallop
 galiots
 glamorizing
