@@ -2753,7 +2753,6 @@ guestchamber
 gorraf
 gipped
 gallused
-gramophonist
 gonangia
 grover
 gekkonidae
@@ -2795,6 +2794,7 @@ gascoigny
 greatcoat
 gyro
 guydom
+gramophonist
 gyne
 garni
 gershon
