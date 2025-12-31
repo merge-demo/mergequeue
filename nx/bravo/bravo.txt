@@ -9551,7 +9551,6 @@ bogue
 bluejack
 battlements
 ballhawk
-biscayan
 biscayanism
 burnover
 barbal
@@ -10137,6 +10136,7 @@ battue
 beatitudes
 browsers
 blackcaps
+biscayan
 bejeweled
 blanketflower
 barysilite
