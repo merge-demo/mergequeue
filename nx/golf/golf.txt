@@ -4583,6 +4583,7 @@ graphometry
 glim
 galloper
 goobers
+germane
 gagger
 grinter
 gladiole
@@ -7666,7 +7667,6 @@ gorgonlike
 gool
 gnathometer
 guachamaca
-germane
 geira
 grounding
 geodynamics
