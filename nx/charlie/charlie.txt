@@ -7486,7 +7486,6 @@ ceria
 ceratophyllaceous
 crinch
 ceratophyllum
-ceratophyta
 colocephalous
 caneware
 crozier
@@ -20106,6 +20105,7 @@ connexivum
 creedal
 ctenocephalus
 clarabella
+ceratophyta
 commerge
 centifolious
 cristispira
