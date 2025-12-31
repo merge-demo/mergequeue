@@ -3678,7 +3678,6 @@ ghost
 gnathonism
 gasoliner
 glyceral
-guardstone
 gulist
 griphus
 groover
@@ -10018,6 +10017,7 @@ gaffer
 garrulousness
 glastonbury
 greenfinch
+guardstone
 gloatingly
 graybeard
 ghostlet
