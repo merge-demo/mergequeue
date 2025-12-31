@@ -2131,7 +2131,6 @@ guestship
 gen
 glumiferous
 galla
-globosity
 gaudete
 graced
 garon
@@ -4329,6 +4328,7 @@ gravidity
 gymnic
 gymnemic
 gloeosporiose
+globosity
 gawks
 geodesist
 galeopsis
