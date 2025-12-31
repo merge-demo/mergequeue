@@ -8961,6 +8961,7 @@ annelids
 allopathetic
 achievers
 allopathic
+autoicous
 anticoagulan
 actiniaria
 adlerian
@@ -20504,7 +20505,6 @@ agrarian
 auctary
 arterying
 angelin
-autoicous
 alkalous
 adusk
 attempter
