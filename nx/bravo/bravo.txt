@@ -2855,6 +2855,7 @@ buttonmold
 barbery
 barrabora
 barrack
+briguer
 borh
 ballers
 barracking
@@ -18078,7 +18079,6 @@ burbliest
 bibliophily
 backrush
 brazilins
-briguer
 but
 beroll
 booklet
