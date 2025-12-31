@@ -223,7 +223,6 @@ glagolitsa
 greys
 gooks
 gravelstone
-girdling
 gags
 gonoecium
 guarder
@@ -9093,6 +9092,7 @@ graveyards
 glaucomys
 greund
 glumal
+girdling
 glires
 gladiatorism
 goatherds
