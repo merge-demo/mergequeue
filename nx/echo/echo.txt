@@ -1981,7 +1981,6 @@ earthen
 etherialize
 exteriorate
 elastics
-exothermal
 eagle
 economizing
 eker
@@ -8227,6 +8226,7 @@ electrothermometer
 extinctive
 eucrasia
 empiecement
+exothermal
 etwas
 equidominant
 equidistantly
