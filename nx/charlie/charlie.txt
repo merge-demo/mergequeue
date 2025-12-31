@@ -10311,7 +10311,6 @@ chicker
 chickhood
 coveting
 coprosterol
-coheir
 chickories
 cowpoke
 chickpea
@@ -29527,6 +29526,7 @@ crithidia
 crithomancy
 critic
 criticality
+coheir
 criticalness
 coendured
 centervelic
