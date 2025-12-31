@@ -970,7 +970,6 @@ eastwards
 ethyl
 esoterics
 exhumes
-expanse
 excavatory
 eumitosis
 exocardia
@@ -3621,6 +3620,7 @@ ensuable
 eyeliner
 embracement
 elders
+expanse
 enquiry
 existability
 epicauta
