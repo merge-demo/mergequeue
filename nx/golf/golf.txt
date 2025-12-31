@@ -2480,7 +2480,6 @@ grief
 geodynamic
 glandules
 goading
-grassing
 grewia
 grots
 guttersnipes
@@ -9154,6 +9153,7 @@ grusinian
 gearcase
 grooming
 gardant
+grassing
 gradins
 gristmilling
 gladstone
