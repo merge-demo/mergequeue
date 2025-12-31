@@ -10228,7 +10228,6 @@ dermoskeleton
 distaste
 doura
 dutch
-decrepid
 denitrator
 dryops
 dositheans
@@ -14849,6 +14848,7 @@ documentable
 documental
 delimer
 dactylose
+decrepid
 disgregating
 disnatural
 dimmers
