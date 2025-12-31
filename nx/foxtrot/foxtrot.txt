@@ -7122,6 +7122,7 @@ fractionator
 fripper
 flaker
 fiddleback
+fusel
 foreallege
 fregatae
 footage
@@ -8129,7 +8130,6 @@ fillister
 fathogram
 fumigator
 foretellers
-fusel
 fondon
 farmland
 foison
