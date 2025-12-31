@@ -2320,7 +2320,6 @@ errorful
 escalate
 encrypting
 eyras
-electroacoustical
 elfkin
 exradius
 electroacoustics
@@ -3782,6 +3781,7 @@ efforce
 equiponderance
 ectoethmoid
 exercising
+electroacoustical
 embussing
 espigle
 enecate
