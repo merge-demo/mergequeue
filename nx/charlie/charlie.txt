@@ -9645,7 +9645,6 @@ coinfer
 cafuso
 cheesebox
 cheeseburgers
-cheesecake
 crees
 clyfaker
 cheesecloth
@@ -18900,6 +18899,7 @@ collaborators
 closehauled
 cosigner
 calligrapher
+cheesecake
 colladas
 crematoria
 collage
