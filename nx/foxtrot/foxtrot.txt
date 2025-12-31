@@ -3527,7 +3527,6 @@ fyke
 fains
 fitweed
 forehearth
-featherhead
 formant
 frightful
 foulsome
@@ -10048,6 +10047,7 @@ fibrosis
 fablemonger
 faddish
 fait
+featherhead
 flabbiest
 feloniously
 familistical
