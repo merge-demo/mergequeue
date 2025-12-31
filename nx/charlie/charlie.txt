@@ -15960,6 +15960,7 @@ clerid
 chicaning
 ceder
 comfrey
+castrato
 clerihews
 consence
 clerisies
@@ -22404,7 +22405,6 @@ conidiospore
 copy
 conifer
 coniferae
-castrato
 coniferin
 coniferophyte
 cuppier
