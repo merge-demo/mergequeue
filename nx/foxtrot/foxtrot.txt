@@ -190,7 +190,6 @@ furnarius
 flier
 factorable
 flimsies
-forcut
 finitary
 factoryship
 floatiness
@@ -3372,6 +3371,7 @@ familistic
 foreyards
 fusilades
 fastigate
+forcut
 fopling
 fossilification
 flappering
