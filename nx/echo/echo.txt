@@ -6399,7 +6399,6 @@ eyemark
 ethmoids
 elaboration
 enrobed
-encrinitical
 eloquently
 epist
 enunciator
@@ -9071,6 +9070,7 @@ episcenium
 empyreans
 eperotesis
 epibranchial
+encrinitical
 ectocyst
 epifaunae
 erythrocytoblast
