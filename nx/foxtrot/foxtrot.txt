@@ -385,6 +385,7 @@ fieldfight
 froes
 fluorides
 faintly
+fiercen
 ferrymen
 furoid
 fearer
@@ -3698,7 +3699,6 @@ flannelboard
 folder
 fillable
 frownless
-fiercen
 flavorlessness
 featherers
 frail
