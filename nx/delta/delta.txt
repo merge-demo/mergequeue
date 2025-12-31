@@ -4528,7 +4528,6 @@ demiliterate
 deflectional
 despotical
 demilustre
-diaskeuasis
 demiman
 dali
 detax
@@ -5570,6 +5569,7 @@ diabolizing
 desmognathae
 deperdite
 diastrophe
+diaskeuasis
 deperditely
 domain
 distinctest
