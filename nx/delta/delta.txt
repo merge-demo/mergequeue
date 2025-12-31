@@ -427,7 +427,6 @@ dorsad
 dhourra
 discoursers
 dairous
-dairt
 dais
 defog
 disinthrall
@@ -13375,6 +13374,7 @@ diazoamin
 depression
 deevey
 disquieter
+dairt
 disquietingness
 dipicrylamine
 disquietly
