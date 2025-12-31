@@ -3141,7 +3141,6 @@ defeated
 downs
 diluviate
 disgout
-dialogist
 dissimulated
 drouths
 dryness
@@ -17855,6 +17854,7 @@ dismark
 denervate
 dabb
 desubstantialize
+dialogist
 dunst
 dezincing
 dudism
