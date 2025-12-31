@@ -8445,6 +8445,7 @@ bavardage
 bootjack
 bouteloua
 bals
+biforked
 bilgeway
 bilharzial
 beglerbey
@@ -12778,7 +12779,6 @@ baudekin
 bookstand
 blemisher
 bookstores
-biforked
 bigaroon
 bucolic
 bullfice
