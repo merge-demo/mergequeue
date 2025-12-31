@@ -891,7 +891,6 @@ gerontomorphosis
 grillwork
 gotha
 gametocyst
-glycoluril
 gametocyte
 gametogenic
 grabby
@@ -5725,6 +5724,7 @@ gpad
 ganglioneuron
 gestning
 gelts
+glycoluril
 guardeen
 guttule
 ghillies
