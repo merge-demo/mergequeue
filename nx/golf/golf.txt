@@ -2064,7 +2064,6 @@ grapheme
 gaynesses
 grippit
 girsh
-gamey
 gleeked
 guideboard
 gibbously
@@ -2718,6 +2717,7 @@ glashan
 globularness
 glandule
 gravitons
+gamey
 gusle
 grith
 gemmoid
