@@ -3910,7 +3910,6 @@ fullage
 frostproof
 frolicsomely
 fustianize
-foggage
 fang
 formalised
 filopodia
@@ -5248,6 +5247,7 @@ fierceness
 fishmen
 filippi
 faugh
+foggage
 flavorsome
 falda
 fossilage
