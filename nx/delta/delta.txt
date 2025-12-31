@@ -316,7 +316,6 @@ desquamative
 desmidiaceae
 dribbling
 dunkadoo
-demobs
 dipsacaceae
 daydawn
 drugged
@@ -6444,6 +6443,7 @@ disbark
 desamidase
 dirian
 desands
+demobs
 desc
 downrightly
 dequeues
