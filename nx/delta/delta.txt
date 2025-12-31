@@ -2785,6 +2785,7 @@ disharmonize
 decremeter
 dicyemida
 demarches
+degass
 deftnesses
 duodecahedral
 drypoints
@@ -3577,7 +3578,6 @@ depending
 disguise
 desilverize
 debunker
-degass
 degassed
 disappears
 dodecant
