@@ -4780,6 +4780,7 @@ giveable
 gelidly
 gametophyll
 glene
+gnathites
 gaullist
 gotta
 gomeril
@@ -8561,7 +8562,6 @@ geodetical
 gusla
 gilo
 germaneness
-gnathites
 gasolene
 gemuti
 geonoma
