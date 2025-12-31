@@ -12849,6 +12849,7 @@ armorwise
 ammocoetid
 angioscope
 angiosymphysis
+adventurers
 anopia
 antiatoms
 ailantine
@@ -19337,7 +19338,6 @@ administratress
 areometry
 awm
 areometrical
-adventurers
 arbutus
 anthologizer
 areopagite
