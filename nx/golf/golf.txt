@@ -4784,7 +4784,6 @@ gotta
 gomeril
 galleta
 genarch
-glossematics
 glar
 gypsy
 givingness
@@ -9980,6 +9979,7 @@ guatibero
 grysbok
 grunswel
 glood
+glossematics
 guaza
 glycerinated
 gendarmerie
