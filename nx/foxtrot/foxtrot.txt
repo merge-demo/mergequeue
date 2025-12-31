@@ -2891,7 +2891,6 @@ fouettes
 floorcloth
 find
 febricide
-fibrose
 fimbricate
 featuring
 feudalists
@@ -10225,6 +10224,7 @@ frogmarch
 flowerful
 flossier
 frighted
+fibrose
 franconian
 finespun
 formolit
