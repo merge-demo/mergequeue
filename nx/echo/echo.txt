@@ -2686,6 +2686,7 @@ eudaemonics
 engenderment
 electrotelegraphy
 exhort
+exdelicto
 epispadia
 electrotherapeutical
 entrep
@@ -4659,7 +4660,6 @@ eristalis
 epidermophyton
 enchorial
 echinoderm
-exdelicto
 evolve
 eremiteship
 enchoric
