@@ -708,7 +708,6 @@ enspell
 equidistant
 eidently
 enode
-epinephelidae
 eyefuls
 enterozoa
 equalable
@@ -13712,6 +13711,7 @@ epitaxy
 expiatist
 ermanaric
 enfasten
+epinephelidae
 epiplasm
 equiaxe
 ergocalciferol
