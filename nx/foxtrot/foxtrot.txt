@@ -4788,6 +4788,7 @@ feuillants
 fortunetelling
 flocculable
 feltmonger
+fortunately
 flaunching
 freshened
 fooling
@@ -9237,7 +9238,6 @@ fichat
 feretra
 forfend
 fraise
-fortunately
 fibrinopurulent
 fraised
 frug
