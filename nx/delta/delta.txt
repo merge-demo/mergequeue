@@ -2482,7 +2482,6 @@ debased
 ditchdown
 dirigent
 deckhand
-dovekies
 duckwing
 deckle
 dulls
@@ -8976,6 +8975,7 @@ discriminators
 diolefin
 disobeyers
 dicyclies
+dovekies
 dentalized
 disqualifies
 distortions
