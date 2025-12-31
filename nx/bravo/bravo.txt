@@ -2389,7 +2389,6 @@ besplash
 bardcraft
 beleve
 buckhorn
-brabant
 brigandishly
 branchling
 bobtails
@@ -9636,6 +9635,7 @@ braize
 bulleting
 bisimine
 breaches
+brabant
 becap
 bullish
 bisymmetry
