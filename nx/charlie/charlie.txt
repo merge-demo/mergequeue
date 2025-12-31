@@ -18356,7 +18356,6 @@ coralloid
 counterbuilding
 conformers
 cogmen
-claypan
 chenevixite
 conterminant
 cognac
@@ -31682,6 +31681,7 @@ coth
 cushiness
 cushing
 cushion
+claypan
 cushioned
 cushionet
 cushionflower
