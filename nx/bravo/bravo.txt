@@ -3555,7 +3555,6 @@ baroscopic
 binode
 blonds
 bathylithic
-bipinnaria
 bathymetry
 bathymetrical
 biggonet
@@ -15187,6 +15186,7 @@ barberfish
 briarwood
 bribable
 bovinities
+bipinnaria
 bribees
 bribeless
 briberies
