@@ -6231,7 +6231,6 @@ caudex
 caudices
 cassolette
 cystiferous
-concise
 calanthe
 caudle
 caudles
@@ -12760,6 +12759,7 @@ convertibleness
 chumps
 chums
 cruth
+concise
 chumship
 comdia
 chumships
