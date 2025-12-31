@@ -5834,6 +5834,7 @@ epopees
 explanation
 engouement
 engoument
+encounter
 exanthema
 entification
 evade
@@ -11880,7 +11881,6 @@ enomoty
 excels
 eosophobia
 eternizes
-encounter
 excelsior
 eventfulness
 earthily
