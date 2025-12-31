@@ -1413,7 +1413,6 @@ fatbacks
 foretimes
 fishway
 fountainlet
-focometry
 fallibly
 firewood
 futchell
@@ -10828,6 +10827,7 @@ farcify
 festilogy
 florimania
 ferniest
+focometry
 fulciment
 fs
 failures
