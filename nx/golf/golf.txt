@@ -1681,6 +1681,7 @@ gif
 gastrodermal
 gastrodermis
 gulfweed
+galeopithecus
 gastroduodenitis
 guadua
 gastroduodenostomy
@@ -8952,7 +8953,6 @@ geranomorphic
 gothicize
 gringole
 gras
-galeopithecus
 gombroon
 grieko
 gecked
