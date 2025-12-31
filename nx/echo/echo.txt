@@ -413,7 +413,6 @@ extruct
 erythrinus
 espanol
 echowise
-ebulliate
 essera
 exomphalus
 entocondyle
@@ -7447,6 +7446,7 @@ employes
 elenctic
 escapers
 entanglement
+ebulliate
 endogenously
 extraperiodic
 extracurricular
