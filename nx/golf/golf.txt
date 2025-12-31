@@ -902,6 +902,7 @@ glutathione
 geognost
 grassfire
 gobioid
+gymnonoti
 gusseted
 goosebird
 gez
@@ -1043,7 +1044,6 @@ grasp
 golp
 glanced
 glycohaemia
-gymnonoti
 groan
 glassfuls
 gabardine
