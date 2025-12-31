@@ -863,7 +863,6 @@ fantasmal
 fundus
 fantasms
 forsloth
-fractable
 finked
 flowage
 flakes
@@ -3812,6 +3811,7 @@ ferrier
 furnitureless
 foreflap
 filterableness
+fractable
 facette
 fairyism
 fluoridisation
