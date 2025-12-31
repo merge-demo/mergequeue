@@ -16640,7 +16640,6 @@ adipocyte
 apelles
 acuminate
 athirst
-amphigonic
 affiliate
 abrasax
 apepsinia
@@ -18358,6 +18357,7 @@ asor
 arachnoidea
 antinial
 allergist
+amphigonic
 arachnology
 ancistrocladus
 amoinder
