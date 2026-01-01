@@ -1070,6 +1070,7 @@ foreswear
 feriae
 farreachingly
 flurr
+fingerprint
 fernleaf
 futiley
 federates
@@ -3990,7 +3991,6 @@ flattish
 forfeited
 forlay
 flunk
-fingerprint
 ferric
 furazolidone
 fluorosis
