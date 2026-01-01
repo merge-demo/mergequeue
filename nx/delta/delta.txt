@@ -7851,7 +7851,6 @@ dewaters
 dermobranchiata
 drofland
 disard
-desmocyte
 dispenser
 dihydrogen
 dewberries
@@ -8920,6 +8919,7 @@ detruck
 dislodging
 debitrix
 discursively
+desmocyte
 dioptrometry
 drifter
 dimethoxymethane

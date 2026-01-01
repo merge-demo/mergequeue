@@ -11507,7 +11507,6 @@ amula
 amulas
 archexorcist
 acone
-armaments
 aloemodin
 afterturn
 accoutring
@@ -23313,6 +23312,7 @@ attributively
 attributor
 ammonias
 attrite
+armaments
 attrited
 abscission
 apparitor
