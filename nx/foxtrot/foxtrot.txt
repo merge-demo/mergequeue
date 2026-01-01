@@ -3215,7 +3215,6 @@ foots
 friers
 frostwort
 flexionless
-fango
 fuchsone
 forefend
 festered
@@ -10880,6 +10879,7 @@ filagreing
 fractiously
 foreskins
 feston
+fango
 forehinting
 freestone
 flayer
