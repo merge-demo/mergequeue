@@ -7875,7 +7875,6 @@ castaway
 cessor
 cesspit
 cesspits
-coulometer
 carey
 contrastment
 cesspools
@@ -25172,6 +25171,7 @@ corybantine
 chiloplasty
 chemung
 counterbreastwork
+coulometer
 corybantish
 corybulbin
 caudicle
