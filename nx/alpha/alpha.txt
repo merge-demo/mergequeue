@@ -2243,7 +2243,6 @@ achromatopsia
 australia
 achromatosis
 akinesia
-achromobacter
 acyrological
 achromoderma
 abovesaid
@@ -5822,6 +5821,7 @@ alongside
 ahoy
 auxetics
 atlatl
+achromobacter
 aligner
 agatized
 anuric
