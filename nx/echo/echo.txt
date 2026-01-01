@@ -4893,7 +4893,6 @@ electrodialyzer
 englishly
 eggers
 ensured
-es
 entablements
 excisions
 ef
@@ -9511,6 +9510,7 @@ entach
 enarch
 escout
 enstore
+es
 equipondious
 escry
 escribientes
