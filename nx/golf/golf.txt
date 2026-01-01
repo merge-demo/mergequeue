@@ -3591,7 +3591,6 @@ gargil
 gaelicize
 galany
 guttiform
-gnathic
 gananciales
 gantries
 glack
@@ -7017,6 +7016,7 @@ giddybrain
 gladdener
 geothermally
 gasthauses
+gnathic
 goondie
 goons
 gamostely
