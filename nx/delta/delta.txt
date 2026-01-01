@@ -15635,6 +15635,7 @@ departement
 directable
 doorstop
 devotionality
+disulfate
 diverge
 diodes
 desensitizer
@@ -17224,7 +17225,6 @@ drivership
 dmarche
 drives
 dredgings
-disulfate
 driveway
 decrepitation
 dingoes
