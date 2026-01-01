@@ -6401,7 +6401,6 @@ farinas
 ferinely
 fluoroform
 fricasseing
-faence
 fluoboric
 forefoot
 fronture
@@ -6679,6 +6678,7 @@ fumigatory
 fica
 ferbams
 finewed
+faence
 fofarraw
 falderol
 fortifier
