@@ -4014,7 +4014,6 @@ crystalloluminescence
 carcinolysin
 cycadiform
 carcinological
-carcinoma
 carbocyclic
 curtesy
 carcinomata
@@ -17869,6 +17868,7 @@ codille
 coding
 codirected
 codirecting
+carcinoma
 circumaviation
 cream
 complement
