@@ -2041,7 +2041,6 @@ bristly
 biophysicist
 banknotes
 brasserie
-bedeguar
 buffoonesque
 bicollaterality
 bankrolled
@@ -13606,6 +13605,7 @@ boult
 breakermen
 boultel
 bepester
+bedeguar
 bedsonias
 bemuddle
 bounceback
