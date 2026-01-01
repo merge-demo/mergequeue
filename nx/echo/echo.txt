@@ -4530,7 +4530,6 @@ encephalophyma
 ethynylation
 entoptoscope
 emigrationist
-encephalos
 encapsulated
 empales
 encephalospinal
@@ -9446,6 +9445,7 @@ exostosed
 epipodium
 escarps
 enfeoff
+encephalos
 eschatological
 enaliosauria
 epistemonical
