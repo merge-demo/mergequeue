@@ -6242,6 +6242,7 @@ egrid
 eardrops
 endamaged
 eidology
+endosmosis
 enplane
 electromotor
 ecorticate
@@ -7952,7 +7953,6 @@ eurystomatous
 emitter
 eatery
 extrastapedial
-endosmosis
 exudates
 exptl
 exordia
