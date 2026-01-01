@@ -1534,7 +1534,6 @@ gangland
 grouse
 galoped
 gavelage
-gasoliers
 guiro
 giftwrap
 gripers
@@ -6301,6 +6300,7 @@ gobylike
 granadilla
 gnashed
 gobinism
+gasoliers
 griece
 ginglymostomoid
 gymnasial
