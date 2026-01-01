@@ -3644,7 +3644,6 @@ fanes
 frayn
 flagella
 foredate
-flawier
 forelooper
 floorings
 fuzzing
@@ -4426,6 +4425,7 @@ frenghi
 fraiser
 fei
 falsary
+flawier
 fovent
 flogmaster
 fumishly
