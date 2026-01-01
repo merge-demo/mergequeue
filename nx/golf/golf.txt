@@ -3771,6 +3771,7 @@ gobbets
 giarra
 gherao
 gelder
+geotactic
 giarre
 gastaldo
 governing
@@ -8689,7 +8690,6 @@ gymnosoph
 garlands
 galerum
 gawkishly
-geotactic
 goosing
 gree
 glean
