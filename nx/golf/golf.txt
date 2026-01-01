@@ -2879,6 +2879,7 @@ gigmanhood
 gravediggers
 guddled
 gynospore
+gyromitra
 gedunk
 geobotanic
 gustation
@@ -8529,7 +8530,6 @@ gametophyte
 ganglioblast
 gyrophoric
 gulden
-gyromitra
 grecian
 grues
 gressorious
