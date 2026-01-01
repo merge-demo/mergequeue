@@ -9839,6 +9839,7 @@ cupriferous
 chemiotropic
 chemiotropism
 crinet
+cryptogenic
 chemisette
 chemism
 choosy
@@ -29304,7 +29305,6 @@ cryptogamic
 cryptogamical
 citigrade
 cryptogamist
-cryptogenic
 caried
 custody
 cryptogram
