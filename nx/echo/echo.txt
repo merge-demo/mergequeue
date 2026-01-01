@@ -2162,7 +2162,6 @@ epizoan
 extrabold
 eructate
 endocyclic
-evanescently
 elbowy
 elbowpiece
 elbows
@@ -11816,6 +11815,7 @@ euglenida
 ectothermic
 exists
 exauthorizeexc
+evanescently
 ethoxyl
 exceptio
 epileptics
