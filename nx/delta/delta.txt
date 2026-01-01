@@ -8273,7 +8273,6 @@ diagrams
 dentin
 db
 dracontian
-demivolts
 dispossess
 droob
 dissimile
@@ -8882,6 +8881,7 @@ disconnect
 dissolvability
 desex
 dichas
+demivolts
 dichasia
 decolonizing
 distributiveness
