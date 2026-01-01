@@ -7809,7 +7809,6 @@ bronzy
 bursautee
 bibble
 bamboozle
-brackets
 bibbler
 blooms
 boulevards
@@ -12565,6 +12564,7 @@ bemocks
 bardane
 bonk
 begrudging
+brackets
 bagpiping
 bonne
 bescreens
