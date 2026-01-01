@@ -6640,6 +6640,7 @@ decadianome
 drawarm
 dipneedle
 danders
+detonator
 deregulates
 deserving
 diabetics
@@ -12542,7 +12543,6 @@ defies
 divertible
 disingenuousness
 dicaryophase
-detonator
 disinheritable
 diuturnity
 disinheritance
