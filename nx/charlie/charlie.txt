@@ -2664,6 +2664,7 @@ coverlids
 cangue
 chonolith
 cangues
+cooptation
 canichanan
 canicola
 canicula
@@ -4353,7 +4354,6 @@ chud
 caricaturing
 caricaturist
 contaminator
-cooptation
 chimeras
 casuists
 consecrated
