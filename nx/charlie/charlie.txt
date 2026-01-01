@@ -1909,7 +1909,6 @@ cambric
 cartonnage
 cambricleaf
 colobus
-curs
 cambridge
 catostomidae
 chaumer
@@ -30153,6 +30152,7 @@ coccinella
 cannstatt
 crubeen
 cruce
+curs
 crucethouse
 canonise
 crucial
