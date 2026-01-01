@@ -13712,6 +13712,7 @@ cnemapophysis
 cindering
 cinderman
 convocator
+contignation
 cinderous
 cinders
 cindy
@@ -23548,7 +23549,6 @@ conjoins
 contignate
 corycavidin
 californite
-contignation
 contiguity
 circumferent
 continentalize
