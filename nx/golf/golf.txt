@@ -1392,7 +1392,6 @@ guttular
 gamily
 governs
 ganodonta
-glossanthrax
 garnison
 greetingless
 garniture
@@ -7199,6 +7198,7 @@ grayest
 goodwillit
 gemellione
 gutsier
+glossanthrax
 gobioidea
 gleesomely
 gaminesses
