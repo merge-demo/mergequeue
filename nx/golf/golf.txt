@@ -5923,7 +5923,6 @@ goofs
 gambirs
 glamourizer
 gluepot
-gimballed
 garrison
 gemitorial
 globuliform
@@ -10490,6 +10489,7 @@ gumweeds
 gramenite
 gregal
 genizero
+gimballed
 geyserite
 gaggers
 gynecic
