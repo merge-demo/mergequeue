@@ -1208,7 +1208,6 @@ disinvolve
 dextrans
 datary
 dataries
-depeach
 dendrium
 dorsomedial
 datasetname
@@ -9003,6 +9002,7 @@ decerebrated
 dicotyls
 distortive
 debel
+depeach
 dicots
 dicoumarin
 disembed
