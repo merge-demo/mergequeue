@@ -10189,7 +10189,6 @@ blackguardry
 baroreceptor
 beseechers
 blackgum
-baulking
 beachcombing
 brevicomis
 blackgums
@@ -13261,6 +13260,7 @@ banderillas
 branchstand
 barman
 bumbarge
+baulking
 bromide
 bullydom
 blitzkriegs
