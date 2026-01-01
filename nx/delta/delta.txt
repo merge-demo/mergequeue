@@ -10865,6 +10865,7 @@ diathermometer
 demonologic
 doddart
 debaters
+disjuncts
 desalting
 disculpate
 decerebrize
@@ -16513,7 +16514,6 @@ darii
 dilucidate
 disdainable
 diomedes
-disjuncts
 dictated
 dehydrofreezing
 dethroning
