@@ -10254,6 +10254,7 @@ fleetness
 feme
 filum
 felons
+fistinut
 frolic
 felstone
 fluidglycerate
@@ -11446,7 +11447,6 @@ firefly
 frostless
 fathoms
 fusible
-fistinut
 fluorbenzene
 fideles
 flic
