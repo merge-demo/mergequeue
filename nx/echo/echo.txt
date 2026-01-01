@@ -3424,7 +3424,6 @@ episyllogism
 edeotomy
 eucirripedia
 embogue
-electrophobia
 ennuyant
 ecalcavate
 errand
@@ -5573,6 +5572,7 @@ escutcheoned
 eerinesses
 encasement
 enucleator
+electrophobia
 erroneousness
 essentiality
 endostome
