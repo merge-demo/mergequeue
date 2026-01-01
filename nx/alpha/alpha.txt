@@ -2610,7 +2610,6 @@ adjacent
 acquest
 armenite
 actutate
-applies
 arriswise
 acquiesce
 addiction
@@ -12788,6 +12787,7 @@ anasazi
 areality
 alternative
 angioblastic
+applies
 angiocardiographies
 anileness
 achordate
