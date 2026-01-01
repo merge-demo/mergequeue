@@ -1998,7 +1998,6 @@ educement
 epidemics
 ektenes
 expeditious
-endmatcher
 excitableness
 epilate
 ektexine
@@ -11713,6 +11712,7 @@ essayism
 epinard
 enclasped
 epicrises
+endmatcher
 examen
 elementals
 enregistry
