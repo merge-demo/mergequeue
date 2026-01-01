@@ -8951,7 +8951,6 @@ bobo
 bentwoods
 blankety
 bunchbacked
-bacterium
 biographers
 bossisms
 biographies
@@ -9615,6 +9614,7 @@ brince
 bishopdom
 baptists
 bilateral
+bacterium
 bishopling
 biol
 bishopstool
