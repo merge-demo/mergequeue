@@ -3107,7 +3107,6 @@ basculation
 bulbils
 bromobenzyl
 bambuk
-blindfold
 bibliothec
 baculite
 bemixes
@@ -6891,6 +6890,7 @@ beshade
 begrudges
 beslaver
 balmony
+blindfold
 beshadowed
 beauxite
 boggled
