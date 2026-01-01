@@ -15787,7 +15787,6 @@ clearcole
 clearedness
 clearheadedly
 cardcases
-calving
 crawly
 cataclysmist
 cometwise
@@ -27525,6 +27524,7 @@ complementizer
 cameroon
 covent
 coventrate
+calving
 coventry
 coroplast
 creaturehood
