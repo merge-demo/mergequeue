@@ -21122,6 +21122,7 @@ chordacentrum
 concassation
 cherishers
 concatenate
+cubangle
 catadromous
 concatenated
 ceride
@@ -30501,7 +30502,6 @@ cubages
 cubicovariant
 corozos
 cubane
-cubangle
 cubanite
 cubatory
 contraclockwise
