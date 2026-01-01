@@ -1693,7 +1693,6 @@ calorifics
 caricography
 calorifier
 calorimetry
-calorimetrical
 calorimetrically
 calorimotor
 calorist
@@ -25884,6 +25883,7 @@ carraran
 climax
 chloe
 communing
+calorimetrical
 cuneoscaphoid
 correction
 curette
