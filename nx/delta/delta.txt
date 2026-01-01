@@ -10579,6 +10579,7 @@ diplomaing
 datapunch
 doleritic
 drudger
+decremental
 deben
 decolorizing
 diplomates
@@ -15103,7 +15104,6 @@ deleniate
 dentist
 damningness
 disadvantaged
-decremental
 delawn
 degustate
 dubitatively
