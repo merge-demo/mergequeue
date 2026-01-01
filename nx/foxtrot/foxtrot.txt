@@ -4906,7 +4906,6 @@ fino
 fourscore
 flakiest
 forged
-frequentable
 flambeau
 foamier
 fixate
@@ -8159,6 +8158,7 @@ fossilology
 foretrace
 forecastleman
 fountful
+frequentable
 forwake
 foreuse
 foreutter
