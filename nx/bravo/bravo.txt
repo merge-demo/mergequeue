@@ -6206,7 +6206,6 @@ benic
 benight
 buzzed
 bandalore
-benighter
 bet
 barked
 brittlestem
@@ -6461,6 +6460,7 @@ burge
 backdate
 bellon
 bepatched
+benighter
 bettergates
 bailo
 boxings
