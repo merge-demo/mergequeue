@@ -17442,7 +17442,6 @@ applot
 airship
 adiate
 antiarchi
-apothegmatically
 apothegmatist
 acy
 atriensis
@@ -19432,6 +19431,7 @@ avouchment
 assortedness
 aseptify
 anagogically
+apothegmatically
 argenteous
 amphorophony
 allicins

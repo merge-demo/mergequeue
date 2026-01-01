@@ -7495,7 +7495,6 @@ beveller
 byte
 bookbinder
 bardelle
-biathlon
 bedgery
 bevenom
 bever
@@ -7902,6 +7901,7 @@ bulbomembranous
 byzantium
 bilipyrrhin
 bibliopolar
+biathlon
 bepimpled
 bargains
 bibliopole
