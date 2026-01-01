@@ -5395,6 +5395,7 @@ forecounsel
 flyswat
 feridji
 figuration
+fittest
 fruittime
 forthbringer
 formable
@@ -6751,7 +6752,6 @@ featherbed
 fluorescent
 forspeaking
 flamming
-fittest
 foiningly
 feasant
 forjudged
