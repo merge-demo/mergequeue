@@ -7274,7 +7274,6 @@ centupling
 centure
 countertenor
 carbonados
-century
 coda
 centurial
 concerto
@@ -28151,6 +28150,7 @@ craniopharyngeal
 code
 craniorhachischisis
 clamb
+century
 countercheck
 cranioschisis
 cranioscopy
