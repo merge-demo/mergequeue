@@ -4390,6 +4390,7 @@ frenums
 fishbowls
 flexive
 forky
+forereckon
 fisheyes
 forecomingness
 fistify
@@ -7888,7 +7889,6 @@ forbear
 foreran
 fascination
 forereading
-forereckon
 foredates
 flannelbush
 forerun
