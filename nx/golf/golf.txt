@@ -1423,7 +1423,6 @@ graphological
 gashing
 grandgore
 geneva
-glazen
 gallinazo
 gnamma
 gothicism
@@ -4703,6 +4702,7 @@ gooder
 gourmandise
 gibbsite
 gauping
+glazen
 geisothermal
 glycerate
 gigged
