@@ -2813,7 +2813,6 @@ fcomp
 fretted
 faunae
 fibrointestinal
-faveolate
 ficus
 fluidly
 floorman
@@ -11277,6 +11276,7 @@ fernando
 flatters
 furanoid
 fricandeaus
+faveolate
 fantasticism
 familiarizer
 furlane
