@@ -15574,7 +15574,6 @@ almondlike
 ancoral
 angiocarp
 alcotate
-anoxemic
 annulli
 alectoromorphae
 antimony
@@ -17923,6 +17922,7 @@ apprenticehood
 arenose
 agisms
 athrepsia
+anoxemic
 astipulation
 arcs
 apprenticement
