@@ -5140,6 +5140,7 @@ budworm
 before
 biotic
 boomorah
+blende
 broadside
 beggarer
 buccinatory
@@ -17130,7 +17131,6 @@ burliness
 brimfully
 bullfinches
 bullflower
-blende
 bettine
 baromotor
 backliding
