@@ -2036,7 +2036,6 @@ ferngrower
 frontspiece
 feinter
 feudary
-fundi
 facedown
 faucalize
 fireboat
@@ -8084,6 +8083,7 @@ fulminated
 foveolae
 funkiest
 flatcar
+fundi
 furify
 foreswore
 flavouring
