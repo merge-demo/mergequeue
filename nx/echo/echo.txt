@@ -5543,7 +5543,6 @@ euhemerizing
 encourage
 etherlike
 enfeoffing
-episcopant
 enfeoffment
 exestuate
 exhaustedly
@@ -6569,6 +6568,7 @@ enterectomy
 enterer
 eulogious
 estrangedness
+episcopant
 excusive
 eccritic
 embattled
