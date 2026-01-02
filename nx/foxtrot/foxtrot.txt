@@ -7660,6 +7660,7 @@ factualism
 foreworn
 foreguess
 flammant
+flambant
 foretopsail
 fittywise
 fiefdom
@@ -9422,7 +9423,6 @@ fenman
 fausant
 filmslide
 fireboats
-flambant
 fraternally
 felonsetting
 formic
