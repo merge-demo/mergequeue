@@ -670,7 +670,6 @@ elmiest
 enhance
 envier
 eclogic
-extraocular
 egressor
 eclogite
 eclosion
@@ -5535,6 +5534,7 @@ enfeeblements
 exorcising
 experimenting
 evertors
+extraocular
 exoterics
 espiritual
 enfeebles
