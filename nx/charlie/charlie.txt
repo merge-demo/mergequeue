@@ -19578,7 +19578,6 @@ chromaticism
 coextensiveness
 capanne
 coregence
-counteraffirmation
 columellia
 columelliaceae
 columna
@@ -28754,6 +28753,7 @@ crepusculine
 costliness
 catenary
 cres
+counteraffirmation
 cresc
 comparativeness
 cordelier
