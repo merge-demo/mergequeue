@@ -5917,7 +5917,6 @@ electrometallurgy
 exocytosis
 endsweep
 enharden
-especially
 eurytopicity
 exoenzymic
 embuskin
@@ -8673,6 +8672,7 @@ extractor
 enervous
 exceptionable
 expels
+especially
 emphyteuta
 elutriating
 emergently
