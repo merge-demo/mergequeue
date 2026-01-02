@@ -5477,7 +5477,6 @@ frillers
 flensers
 fallation
 fidelities
-feignedness
 feus
 farouk
 foolscap
@@ -9136,6 +9135,7 @@ fodient
 faired
 feoffees
 flamineous
+feignedness
 fabrications
 fearfullest
 fungosity
