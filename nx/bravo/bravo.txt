@@ -5746,7 +5746,6 @@ bretwaldaship
 bellacoola
 bellatrix
 bungler
-buckjump
 balaghat
 biophysics
 beaverroot
@@ -7211,6 +7210,7 @@ briary
 breaching
 blades
 beveled
+buckjump
 bongrace
 bauta
 bute
