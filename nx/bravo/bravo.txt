@@ -7708,6 +7708,7 @@ besin
 behavioral
 bhangi
 bhara
+bevy
 bharal
 basaltiform
 bhat
@@ -15434,7 +15435,6 @@ banchi
 bumboatwoman
 boilery
 botheration
-bevy
 brigsail
 bousing
 brill
