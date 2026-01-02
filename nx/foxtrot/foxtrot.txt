@@ -6872,6 +6872,7 @@ fiery
 flasks
 friability
 flourished
+fossilise
 frecked
 flioma
 folky
@@ -9080,7 +9081,6 @@ frankist
 forespeaker
 featy
 falsification
-fossilise
 flourisher
 firmance
 furbishable
