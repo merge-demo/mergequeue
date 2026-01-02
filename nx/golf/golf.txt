@@ -2795,7 +2795,6 @@ gyro
 guydom
 gramophonist
 gyne
-garni
 gershon
 guzzledom
 gyges
@@ -8549,6 +8548,7 @@ girliness
 grallatory
 gravette
 gaufrette
+garni
 grasscutter
 goniatitidae
 gallwort
