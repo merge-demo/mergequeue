@@ -6247,7 +6247,6 @@ farmtown
 fizzles
 firnismalerei
 fluidic
-flapdragon
 friendlike
 frankeniaceous
 fecit
@@ -9856,6 +9855,7 @@ feria
 fundatorial
 flavanthrone
 fogeys
+flapdragon
 feridgi
 forefelt
 feterita
