@@ -8030,7 +8030,6 @@ catsup
 civilianization
 caryophyllaceous
 chador
-chadors
 chaenolobus
 chaetae
 chemin
@@ -11818,6 +11817,7 @@ coinquinate
 converter
 choplogic
 choplogical
+chadors
 choregi
 chalazoidite
 cryptomonad
