@@ -5431,7 +5431,6 @@ glauconiidae
 garottes
 glyptodon
 glyptodontoid
-grisoutine
 glebae
 ghostwrites
 galactophlebitis
@@ -5747,6 +5746,7 @@ glossohyal
 gaultherase
 gobos
 glossolalia
+grisoutine
 gabbroid
 glossolysis
 goldweed
