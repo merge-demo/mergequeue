@@ -4645,7 +4645,6 @@ acoemetic
 attractivity
 aedeagi
 assyriologist
-aedeagus
 aviculture
 aedicule
 attraction
@@ -22066,6 +22065,7 @@ atrebates
 asepticism
 anteprostate
 astable
+aedeagus
 astay
 anisometropic
 aegithognathism
