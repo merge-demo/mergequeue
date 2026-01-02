@@ -4172,6 +4172,7 @@ dribs
 decimal
 deodorisation
 doorjamb
+detectible
 delphacidae
 disincorporated
 dogcart
@@ -7202,7 +7203,6 @@ digitate
 decertify
 dolorous
 damnified
-detectible
 detection
 diamantiferous
 deadlight
