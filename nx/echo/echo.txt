@@ -5308,6 +5308,7 @@ endosclerite
 extrahepatic
 eurybathic
 eucopepoda
+endogamy
 excudate
 endoscope
 endoscopes
@@ -14178,7 +14179,6 @@ exulcerating
 eviction
 exultingly
 eisteddfod
-endogamy
 empyromancy
 eebree
 extrauterine
