@@ -5612,7 +5612,6 @@ byelaws
 bedeen
 busings
 buzzwig
-brokenness
 buccaneers
 belah
 belaying
@@ -10609,6 +10608,7 @@ bereft
 bestial
 bohemia
 blaunner
+brokenness
 blawing
 bidery
 blawn
