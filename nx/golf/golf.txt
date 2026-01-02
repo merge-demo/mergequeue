@@ -484,6 +484,7 @@ glutoid
 galeorhinidae
 grouches
 galere
+garaged
 gridirons
 gipsies
 galericulate
@@ -3617,7 +3618,6 @@ guttatim
 gogos
 grewhound
 ghees
-garaged
 gladen
 guanylic
 granilla
