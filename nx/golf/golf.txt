@@ -738,6 +738,7 @@ gripple
 galvanizing
 gemmiferousness
 gunner
+galvanologist
 giantlikeness
 gollywog
 gonoplasm
@@ -1271,7 +1272,6 @@ guenon
 gapper
 glutinosity
 grimaces
-galvanologist
 garran
 gaia
 glenwood
