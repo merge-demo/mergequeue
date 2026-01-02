@@ -5541,7 +5541,6 @@ enfeeblish
 effectful
 epilimnetic
 euhemerizing
-encourage
 etherlike
 enfeoffing
 enfeoffment
@@ -12226,6 +12225,7 @@ elevener
 erodable
 edriasteroidea
 ergotine
+encourage
 eskuara
 ephemerides
 emmental
