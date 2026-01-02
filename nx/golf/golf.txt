@@ -2969,7 +2969,6 @@ geomant
 gasaliers
 goluptious
 glutinousness
-geyseric
 gigantomachy
 glueing
 gastrotheca
@@ -6461,6 +6460,7 @@ goldentop
 glochideous
 grapewise
 governor
+geyseric
 golder
 glimpse
 grower
