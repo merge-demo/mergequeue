@@ -4168,7 +4168,6 @@ gyrocompass
 geographical
 glossophaga
 gaggles
-gundogs
 gainfully
 gauds
 gastroplication
@@ -5142,6 +5141,7 @@ gyps
 glaucophanite
 goldcrest
 gimpiest
+gundogs
 guerdon
 gammick
 geologised
