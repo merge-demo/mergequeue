@@ -4110,7 +4110,6 @@ gettysburg
 gargoyle
 glosts
 genetor
-grimoire
 gompholobium
 geoglossum
 gyropilot
@@ -5645,6 +5644,7 @@ gloomily
 gloomings
 graveward
 gunyang
+grimoire
 germanics
 gubernacular
 geyserine
