@@ -2690,7 +2690,6 @@ filaze
 fawner
 frizziness
 fervence
-futilize
 ferventness
 frighteningness
 floodwall
@@ -8304,6 +8303,7 @@ foxglove
 ferrule
 fosterage
 faultiness
+futilize
 freestyler
 fusspots
 forepole
