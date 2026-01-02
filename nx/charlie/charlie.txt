@@ -1915,7 +1915,6 @@ camel
 comforted
 cameleer
 culverins
-camelia
 cauliflorous
 cameline
 camelish
@@ -9551,6 +9550,7 @@ checksum
 construct
 checksumming
 castro
+camelia
 cistaceae
 chromogenous
 catechize
