@@ -5522,7 +5522,6 @@ catachreses
 catachresis
 catachrestic
 chalices
-cercariae
 condemner
 catachthonic
 consummation
@@ -13799,6 +13798,7 @@ cinephotomicrography
 coemploys
 catalina
 cannaceae
+cercariae
 convoy
 cineplasty
 cineplastics
