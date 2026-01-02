@@ -382,6 +382,7 @@ diluents
 daimiote
 defension
 deployable
+didunculus
 disembargoing
 dimmet
 daimons
@@ -4228,7 +4229,6 @@ dogvanes
 delubra
 deluce
 delude
-didunculus
 dishonored
 dipperful
 detribalized
