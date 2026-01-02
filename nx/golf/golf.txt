@@ -1734,6 +1734,7 @@ goldstone
 genotypes
 glike
 gunsmiths
+guldens
 geogonical
 gastronosus
 gnarrs
@@ -6455,7 +6456,6 @@ goldeney
 gillaroo
 goldener
 gidgee
-guldens
 guary
 goldentop
 glochideous

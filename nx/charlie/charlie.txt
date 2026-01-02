@@ -7206,7 +7206,6 @@ coffeehousing
 centring
 centrings
 clivia
-centriole
 chalazogam
 confiture
 codebreak
@@ -19565,6 +19564,7 @@ columbine
 climactic
 chamfrons
 cusp
+centriole
 crocky
 copesetic
 columbotantalate
