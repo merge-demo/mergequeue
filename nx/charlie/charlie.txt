@@ -14013,7 +14013,6 @@ cyprididae
 cypridina
 caucasoid
 contraregular
-cyprina
 cyprinid
 cheiromancy
 cyprinids
@@ -20078,6 +20077,7 @@ charcutier
 commentators
 commentatorship
 carboned
+cyprina
 commented
 chromatioideae
 commenter
