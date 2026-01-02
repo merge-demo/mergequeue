@@ -1291,7 +1291,6 @@ bacao
 brochantite
 bury
 bedbug
-bedust
 boleite
 bacterioprecipitin
 balearian
@@ -3531,6 +3530,7 @@ batfishes
 biri
 batfowl
 bassists
+bedust
 batfowls
 bestore
 bulbocavernosus
