@@ -2746,7 +2746,6 @@ girths
 gorgers
 gunfire
 greenflies
-germanism
 gauger
 guestchamber
 gorraf
@@ -5841,6 +5840,7 @@ glt
 gatten
 gonophoric
 glochidia
+germanism
 gendarmes
 gruiformes
 guilds
