@@ -4604,7 +4604,6 @@ flowmanostat
 folsom
 footweary
 foresaying
-fasciotomy
 formulising
 fleckless
 fruitgrowing
@@ -9181,6 +9180,7 @@ frija
 fixive
 fanaloka
 fruiterer
+fasciotomy
 finitudes
 fascinations
 foveoles
