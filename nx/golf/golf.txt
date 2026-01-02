@@ -1487,7 +1487,6 @@ gasolier
 gasped
 ghostology
 granolith
-gaseousness
 girllike
 grotesque
 garner
@@ -6988,6 +6987,7 @@ grafter
 grutching
 grassflat
 goodies
+gaseousness
 guayabera
 gunnership
 grunch
