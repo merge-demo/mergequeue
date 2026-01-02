@@ -5389,6 +5389,7 @@ glimmer
 graphometry
 groundswell
 generall
+glutinant
 glucosid
 gutwise
 glycaemic
@@ -9710,7 +9711,6 @@ goodish
 girlfriend
 gruyere
 gasterosteidae
-glutinant
 gratefully
 gorfly
 gascromh
