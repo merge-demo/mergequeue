@@ -2684,7 +2684,6 @@ electrotherapy
 electrotheraputic
 emyds
 elaeopten
-electrothermal
 escribed
 ephippial
 emulsoidal
@@ -4306,6 +4305,7 @@ exospores
 enacting
 ers
 exercisers
+electrothermal
 embryocardia
 enacture
 exfodiation
