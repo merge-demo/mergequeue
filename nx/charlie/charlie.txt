@@ -14146,7 +14146,6 @@ concentricity
 catatonia
 circulators
 circulus
-cavaedium
 circumambiency
 circumambient
 circumambulate
@@ -29373,6 +29372,7 @@ cryptos
 cryptoscope
 cryptoscopy
 cryptosplenetic
+cavaedium
 cryptostome
 cryptous
 cryptovalence
