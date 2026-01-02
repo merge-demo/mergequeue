@@ -1791,7 +1791,6 @@ emigrant
 exoclinal
 exhorters
 een
-engraulis
 erodium
 effetely
 enamors
@@ -6091,6 +6090,7 @@ eranthis
 expostulated
 encomienda
 electionary
+engraulis
 eugenic
 eulachon
 elasmosaur
