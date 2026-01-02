@@ -1847,6 +1847,7 @@ eurygnathism
 epexegesis
 epicentra
 expletives
+executant
 executrix
 eimak
 exulted
@@ -6722,7 +6723,6 @@ epistrophy
 etherate
 enthelminthic
 exungulate
-executant
 effume
 ectosomal
 extratarsal
