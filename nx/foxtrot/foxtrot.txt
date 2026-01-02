@@ -5407,6 +5407,7 @@ fleabiting
 fledgeling
 fiendhead
 foxfinger
+freed
 fetis
 fragmentize
 flummeries
@@ -9565,7 +9566,6 @@ freebooter
 freebootery
 forestiera
 freebooting
-freed
 feltwork
 facete
 forensic
