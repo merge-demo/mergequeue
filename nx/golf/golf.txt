@@ -3838,7 +3838,6 @@ gids
 gingeleys
 grandchild
 granulitize
-geochronometry
 goldbeating
 griddlecakes
 gifola
@@ -6695,6 +6694,7 @@ gibbet
 gulae
 growable
 gromatic
+geochronometry
 gibbergunyah
 gymnosperm
 grattage
