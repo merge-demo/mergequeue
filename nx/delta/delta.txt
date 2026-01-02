@@ -4755,7 +4755,6 @@ dodecatylic
 deair
 disseizor
 diagonalize
-deanimalize
 diemaker
 dentalizing
 demography
@@ -18059,6 +18058,7 @@ dermestoid
 derail
 divisionist
 disturbing
+deanimalize
 desiccates
 dullity
 disgaveling
