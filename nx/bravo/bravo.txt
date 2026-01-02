@@ -10154,6 +10154,7 @@ bathochrome
 blues
 blackdamp
 bellhanger
+bursar
 blackener
 billette
 blackens
@@ -14998,7 +14999,6 @@ breccias
 brecciated
 brecham
 barnacling
-bursar
 brechams
 brechans
 breakfaster
