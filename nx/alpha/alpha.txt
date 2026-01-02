@@ -9089,7 +9089,6 @@ anthracoid
 alloxuraemia
 alloxuremia
 alveolary
-apnoeas
 anadicrotic
 alphyl
 amidoacetal
@@ -17309,6 +17308,7 @@ adamantoid
 anemometrographic
 aporhyolite
 allanites
+apnoeas
 autobiographal
 actinidiaceae
 asserting
