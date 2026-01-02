@@ -10366,7 +10366,6 @@ chiefery
 cyatholith
 chiefest
 cervalet
-conveyorizer
 chiefish
 chieftain
 chieftaincy
@@ -17368,6 +17367,7 @@ condensible
 churchmaster
 coastward
 coatdress
+conveyorizer
 coated
 commensurations
 coatee
