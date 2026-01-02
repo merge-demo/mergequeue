@@ -914,7 +914,6 @@ exculpatory
 extravagated
 exarillate
 eyelashes
-ectromelus
 efreet
 ensisternal
 equipping
@@ -5704,6 +5703,7 @@ enlargedly
 exameter
 exogastric
 emeu
+ectromelus
 evilest
 eozoon
 excitonutrient
