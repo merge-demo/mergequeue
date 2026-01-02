@@ -16602,7 +16602,6 @@ daphnis
 dorados
 distr
 dragonfishes
-didelph
 dragonflies
 didelphian
 dragonhood
@@ -18293,6 +18292,7 @@ demodulated
 dunnakin
 detrains
 dialyzability
+didelph
 demijohn
 demiourgoi
 dingledangle
