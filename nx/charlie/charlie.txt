@@ -455,6 +455,7 @@ copying
 civilisable
 chancered
 cactuslike
+cinclidotus
 cassavas
 cartages
 catheretic
@@ -25816,7 +25817,6 @@ chironomy
 calcars
 corrosivity
 colophonate
-cinclidotus
 corrugant
 corrugate
 corrugated
