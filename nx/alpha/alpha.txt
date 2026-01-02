@@ -12820,7 +12820,6 @@ antihemagglutinin
 annelid
 angioma
 angiomalacia
-angiomas
 acquits
 anoestrous
 angiomyosarcoma
@@ -24705,6 +24704,7 @@ averral
 alii
 adelopod
 angiogenic
+angiomas
 adelphi
 antiracial
 avgas
