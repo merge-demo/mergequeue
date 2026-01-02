@@ -6681,7 +6681,6 @@ archvillain
 ankyloblepharon
 anoterite
 ailuroidea
-ampelitic
 ailurophilic
 affirmation
 ailuropoda
@@ -11013,6 +11012,7 @@ amoebogeniae
 amoebula
 amoy
 apinoid
+ampelitic
 amok
 amoke
 azure
