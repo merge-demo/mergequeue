@@ -2487,6 +2487,7 @@ funs
 fernshaw
 fordo
 forehatch
+feck
 flavic
 freightage
 fawningness
@@ -5648,7 +5649,6 @@ fairleads
 flinch
 flagleaf
 fatted
-feck
 fishnets
 finedraw
 fumet
