@@ -2668,7 +2668,6 @@ bellying
 bable
 bribeable
 barling
-bluestone
 bertholletia
 barghest
 breechloader
@@ -18342,6 +18341,7 @@ bromiodide
 bulbs
 butts
 bolita
+bluestone
 bucellas
 bipontine
 bensail
