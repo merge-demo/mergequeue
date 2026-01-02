@@ -812,7 +812,6 @@ ectypal
 ectype
 epicarpal
 enwrite
-epizoa
 erythrinidae
 eral
 excrescent
@@ -8567,6 +8566,7 @@ eastlin
 etherify
 existing
 enviable
+epizoa
 entoglossal
 ethicism
 emblement
