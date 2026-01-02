@@ -11581,7 +11581,6 @@ cholecystostomy
 cholecystotomy
 choledochal
 culpability
-choledochoduodenostomy
 colpeurysis
 conformate
 collectorship
@@ -27438,6 +27437,7 @@ curupira
 cousinries
 cousinship
 centricalness
+choledochoduodenostomy
 crank
 coustumier
 combativity
