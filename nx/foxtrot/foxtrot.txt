@@ -5676,7 +5676,6 @@ fiddlestring
 freestyle
 fishwife
 flinkite
-flint
 fluffer
 fasnacht
 ferratin
@@ -10170,6 +10169,7 @@ foresightedly
 fastings
 fleishig
 formalism
+flint
 feebly
 farce
 foxchop
