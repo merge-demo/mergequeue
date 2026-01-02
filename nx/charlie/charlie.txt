@@ -11078,7 +11078,6 @@ counterpaled
 cocos
 codeless
 chiton
-conidiophore
 cageling
 chitons
 chitosamine
@@ -24025,6 +24024,7 @@ conventioner
 chainplate
 conventionize
 copperworks
+conidiophore
 conventions
 coralwort
 convents
