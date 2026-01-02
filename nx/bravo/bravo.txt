@@ -10301,7 +10301,6 @@ blading
 blade
 beleaguerer
 besmircher
-basiglandular
 bladewise
 bladygrass
 baluchithere
@@ -14911,6 +14910,7 @@ bayoneted
 breakthroughs
 bricks
 breakweather
+basiglandular
 brain
 bankings
 brachets
