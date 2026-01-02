@@ -5085,7 +5085,6 @@ dola
 daubes
 dumber
 dendrologous
-derivatives
 depth
 devorative
 dextrosinistral
@@ -9285,6 +9284,7 @@ decolorant
 dietitians
 dtset
 diplomat
+derivatives
 dietotherapy
 dietotoxic
 detersive
