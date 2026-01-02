@@ -9733,7 +9733,6 @@ biramose
 bankbook
 backslapped
 buildingless
-bioenergetics
 boatie
 byssoid
 buckskin
@@ -14475,6 +14474,7 @@ bathyspheres
 bagh
 babying
 brakeless
+bioenergetics
 brakeload
 bemotto
 brakemaker
