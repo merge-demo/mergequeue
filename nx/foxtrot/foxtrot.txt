@@ -5839,7 +5839,6 @@ fodders
 flounders
 flotas
 floatier
-flustrum
 fulcrums
 flidge
 farine
@@ -11406,6 +11405,7 @@ forksmith
 forestership
 flumdiddle
 forcemeat
+flustrum
 fisticuffing
 flatterous
 fleurette
