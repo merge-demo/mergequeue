@@ -7032,7 +7032,6 @@ dessous
 devall
 doodad
 durst
-dessus
 destabilization
 doolie
 difficultly
@@ -10398,6 +10397,7 @@ diphenylaminechlorarsine
 diervilla
 diastoles
 diphenylene
+dessus
 despend
 dustlessness
 decodable
