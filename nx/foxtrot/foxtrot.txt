@@ -5524,7 +5524,6 @@ finnan
 fletchers
 furrower
 furnit
-fisc
 faked
 filionymic
 forbearingness
@@ -10968,6 +10967,7 @@ fumarases
 fouling
 fallfish
 firmless
+fisc
 freesias
 frigidaire
 furors
