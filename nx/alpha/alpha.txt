@@ -5852,7 +5852,6 @@ achiote
 acculturizing
 archfelon
 anisocarpic
-ampyx
 aponeurosis
 ankylosaur
 agendum
@@ -10841,6 +10840,7 @@ agglutinated
 arsenous
 acronomy
 alloantibody
+ampyx
 antirent
 abides
 apparentement
