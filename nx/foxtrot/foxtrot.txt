@@ -2371,7 +2371,6 @@ francic
 fluther
 forgoes
 freeloving
-fenchol
 futures
 footganger
 fetial
@@ -11748,6 +11747,7 @@ factorage
 fumados
 fuzees
 fauvette
+fenchol
 faultfinders
 fuzzier
 fuzziest
