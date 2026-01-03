@@ -13760,6 +13760,7 @@ besmirching
 bries
 bannermen
 baldachinos
+burnable
 bejig
 bezil
 bestrowed
@@ -14347,7 +14348,6 @@ bumf
 brahmin
 behowl
 boxkeeper
-burnable
 brahminists
 brahmoism
 brahmsian
