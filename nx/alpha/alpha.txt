@@ -11734,7 +11734,6 @@ anaesthetization
 ayme
 agamy
 artal
-anaesthetize
 apodidae
 anaesthetized
 anaesthetizer
@@ -18695,6 +18694,7 @@ animability
 aurified
 anhungry
 archaise
+anaesthetize
 acidanthera
 almuce
 alexipharmical
