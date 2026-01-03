@@ -8861,6 +8861,7 @@ foul
 frotted
 fogger
 finesse
+franticness
 fervorless
 foulder
 fiberizer
@@ -10917,7 +10918,6 @@ foilable
 fiscalizing
 fullonian
 ferrying
-franticness
 froust
 fidgeters
 filtration
