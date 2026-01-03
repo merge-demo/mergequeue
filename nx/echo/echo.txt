@@ -3064,7 +3064,6 @@ emetia
 exhaustible
 excreters
 eardrop
-ellfish
 exor
 esthetes
 endarterium
@@ -6744,6 +6743,7 @@ erythraemia
 enthronizing
 emerit
 evacuation
+ellfish
 ediface
 enthusiasms
 elaborator
