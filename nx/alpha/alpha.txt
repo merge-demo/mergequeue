@@ -482,7 +482,6 @@ actinide
 airstream
 abyssus
 abit
-abstriction
 agriculture
 abbreviate
 amylemia
@@ -4061,6 +4060,7 @@ asci
 anestri
 admissive
 automan
+abstriction
 astrophotometrical
 amaracus
 acromion
