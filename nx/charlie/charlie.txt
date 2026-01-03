@@ -6641,7 +6641,6 @@ cecomorphic
 classily
 cecopexy
 cecrops
-cecum
 cecums
 cecutiency
 cedar
@@ -17953,6 +17952,7 @@ coelentera
 cubicle
 cookshack
 colics
+cecum
 cattlehide
 coelenterate
 catharses
