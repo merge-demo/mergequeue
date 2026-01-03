@@ -9989,7 +9989,6 @@ endocrinal
 earsplitting
 etalage
 endamnify
-ensures
 etamins
 enamdar
 entepicondylar
@@ -13766,6 +13765,7 @@ epithalamial
 entone
 effusely
 epiplectic
+ensures
 exodontist
 ethnize
 encloak
