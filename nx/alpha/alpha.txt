@@ -16541,7 +16541,6 @@ aortal
 aortarctia
 aortas
 avogadro
-agsam
 aegagri
 antheral
 amadis
@@ -19877,6 +19876,7 @@ acquereur
 armida
 armies
 abthainry
+agsam
 affenspalte
 armiferous
 agnoetism
