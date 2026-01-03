@@ -3163,7 +3163,6 @@ capercut
 combustibles
 citify
 caperers
-cheoplastic
 cachepots
 crosshatcher
 cowpox
@@ -9933,6 +9932,7 @@ crackjaw
 cephalotaceous
 chemotrophic
 chemotropically
+cheoplastic
 chempaduk
 chemurgical
 chemurgically
