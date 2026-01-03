@@ -3566,7 +3566,6 @@ drywall
 dawny
 depending
 disguise
-desilverize
 debunker
 degassed
 disappears
@@ -10825,6 +10824,7 @@ digit
 dynameter
 darkest
 distant
+desilverize
 dipleurobranchiate
 dauntingly
 displays
