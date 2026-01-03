@@ -7008,7 +7008,6 @@ aizoon
 antitryptic
 atrioventricular
 arborist
-animal
 abiology
 anoure
 aniseeds
@@ -11788,6 +11787,7 @@ analav
 aquariums
 apaise
 anagep
+animal
 analcimic
 antar
 anosphrasia
