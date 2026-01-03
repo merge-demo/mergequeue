@@ -6540,7 +6540,6 @@ cynicisms
 cavitary
 closeup
 cystophthisis
-choleric
 cauliculi
 cavitated
 consulter
@@ -13480,6 +13479,7 @@ cylindricule
 cylindriform
 calpack
 cylindrocylindric
+choleric
 curiatii
 counterfeiter
 coughroot
