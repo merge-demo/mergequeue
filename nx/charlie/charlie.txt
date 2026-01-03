@@ -3797,7 +3797,6 @@ carbimide
 cenacle
 clouters
 carbineer
-carbines
 carbinols
 commensality
 carboazotine
@@ -6180,6 +6179,7 @@ cattleman
 conhydrin
 cattlemen
 cattleship
+carbines
 catullian
 clamshells
 coburghership
