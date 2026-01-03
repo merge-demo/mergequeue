@@ -5917,7 +5917,6 @@ flannelflower
 fineable
 flubdubs
 forestaysail
-fabiform
 flowerpots
 flooder
 fowlpoxes
@@ -11240,6 +11239,7 @@ filter
 functional
 fylfot
 fornent
+fabiform
 factable
 fatherkin
 funkiness
