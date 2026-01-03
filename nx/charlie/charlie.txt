@@ -12859,7 +12859,6 @@ churchwardenize
 constitutionless
 churchwardens
 churchwardenship
-climb
 churchwoman
 churchwomen
 churel
@@ -14384,6 +14383,7 @@ curdler
 circumvolve
 circumvolved
 circumzenithal
+climb
 crosses
 circus
 circusy
