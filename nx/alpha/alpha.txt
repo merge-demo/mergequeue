@@ -13145,7 +13145,6 @@ apotelesmatical
 abiders
 anim
 anima
-animable
 agistor
 anthrapurpurin
 archaeopteris
@@ -18233,6 +18232,7 @@ assassination
 ammonocarbonous
 anapneic
 aquiclude
+animable
 alumnol
 ankylos
 amour
