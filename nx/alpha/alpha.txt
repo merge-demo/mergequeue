@@ -14171,7 +14171,6 @@ aplasias
 anteoccupation
 anteocular
 anteorbital
-augustinian
 animalize
 antibodies
 amphivorous
@@ -21425,6 +21424,7 @@ aslant
 aglethead
 aevum
 antidraft
+augustinian
 agitation
 atabeg
 asleep
