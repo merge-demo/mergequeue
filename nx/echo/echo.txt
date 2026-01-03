@@ -1270,6 +1270,7 @@ enteroid
 epyllia
 epicranius
 earthless
+enfelon
 effectiveness
 eesome
 escuages
@@ -2974,7 +2975,6 @@ eliminable
 etymologizing
 eradiation
 eliminate
-enfelon
 etiologies
 embind
 explait
