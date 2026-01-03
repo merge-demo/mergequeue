@@ -227,6 +227,7 @@ firelock
 filibranch
 fermenting
 facultatively
+fixtures
 faculties
 faunistically
 fringy
@@ -9242,7 +9243,6 @@ fresnel
 flavoury
 foresentence
 fetishist
-fixtures
 fleuret
 fourchet
 friesic
