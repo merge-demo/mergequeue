@@ -3047,6 +3047,7 @@ elkwood
 etherean
 epicenter
 entrapper
+elasticities
 ethicizing
 evolvements
 entocuniform
@@ -3813,7 +3814,6 @@ emended
 ecu
 emending
 escribano
-elasticities
 emerge
 ecart
 escapology
