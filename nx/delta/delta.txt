@@ -10319,6 +10319,7 @@ dioptrical
 duhr
 diorama
 daroo
+douziemes
 diophantine
 driftpiece
 dowsing
@@ -16134,7 +16135,6 @@ dout
 desorbing
 decrypted
 dualist
-douziemes
 dysmeromorphic
 dovecot
 dynamist
