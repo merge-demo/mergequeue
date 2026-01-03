@@ -5067,6 +5067,7 @@ grasni
 guddler
 glassines
 galloping
+glenlike
 glasslikeness
 goosefoots
 garrya
@@ -8995,7 +8996,6 @@ glander
 golgothas
 gushers
 gigant
-glenlike
 greenbelt
 guiltier
 griffaun
