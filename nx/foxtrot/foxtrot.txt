@@ -3736,7 +3736,6 @@ fortressed
 furoate
 failure
 fibula
-fellmonger
 fjorgyn
 fogyish
 fulls
@@ -7693,6 +7692,7 @@ friend
 flexes
 firth
 firm
+fellmonger
 fleawort
 fossa
 fidessa
