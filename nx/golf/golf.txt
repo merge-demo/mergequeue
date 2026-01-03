@@ -226,7 +226,6 @@ greatens
 gradefinder
 gratiano
 gaiassa
-gifts
 gelasimus
 guidman
 grandsir
@@ -2588,6 +2587,7 @@ gibbing
 guetare
 generative
 glabbella
+gifts
 generification
 gitaligenin
 governmentalism
