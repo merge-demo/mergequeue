@@ -5300,7 +5300,6 @@ arenicolor
 alterations
 appetized
 axon
-affixal
 astipulate
 astrid
 americanoid
@@ -8145,6 +8144,7 @@ afft
 anticreationist
 aghlabite
 angeline
+affixal
 anight
 algorab
 amenage
