@@ -556,6 +556,7 @@ blackie
 burrock
 brickiest
 bosniac
+balausta
 bunt
 baccharis
 bandboxical
@@ -5699,7 +5700,6 @@ belialic
 belibel
 brimmered
 belie
-balausta
 belied
 bridalty
 blatancy
