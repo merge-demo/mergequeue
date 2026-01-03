@@ -3573,7 +3573,6 @@ gilbertian
 glossa
 gambolled
 goniaster
-ganefs
 gnomelike
 gregarinaria
 gavial
@@ -6398,6 +6397,7 @@ gracer
 gasterozooid
 geoponic
 goshenite
+ganefs
 goidelic
 goldeyes
 gingivalgia
