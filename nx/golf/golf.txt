@@ -1725,7 +1725,6 @@ gadoids
 glycerinate
 gorkhali
 gynocracy
-gympie
 goldstone
 genotypes
 glike
@@ -3070,6 +3069,7 @@ gizmos
 gaolbird
 gaga
 geadephagous
+gympie
 glowworms
 greylags
 gucki
