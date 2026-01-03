@@ -1607,6 +1607,7 @@ daks
 doe
 doweled
 diadrome
+dicecup
 derision
 disenrol
 decl
@@ -2141,7 +2142,6 @@ decapitations
 disassemble
 distresses
 downfall
-dicecup
 decalcomanias
 decapodal
 dawn
