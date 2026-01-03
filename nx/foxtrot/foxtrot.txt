@@ -1252,7 +1252,6 @@ fearful
 flatten
 filmdom
 frostier
-fasti
 filariform
 familistic
 foreordinated
@@ -7412,6 +7411,7 @@ flagellariaceae
 floreate
 fasciculation
 fey
+fasti
 figgum
 fille
 fawnlike
