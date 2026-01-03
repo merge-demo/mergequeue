@@ -12474,6 +12474,7 @@ actinides
 argante
 androsphinx
 androsporangium
+autostethoscope
 arteriology
 androsterone
 androtomy
@@ -17149,7 +17150,6 @@ anticlea
 alpist
 adenocarcinoma
 acmes
-autostethoscope
 antibody
 appendicle
 apogamies
