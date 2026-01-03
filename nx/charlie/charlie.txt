@@ -17456,7 +17456,6 @@ cobble
 capax
 cobbled
 commixes
-cobblerfish
 cobblerism
 cobblers
 cobblership
@@ -28193,6 +28192,7 @@ churchman
 cranks
 corpulent
 crannage
+cobblerfish
 caesar
 crannel
 crannequin
