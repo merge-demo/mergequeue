@@ -294,7 +294,6 @@ dak
 dayabhaga
 dreed
 demisheath
-depolarized
 dayanim
 daybeacon
 dealbate
@@ -3738,6 +3737,7 @@ disour
 dehorns
 decaudate
 doughlike
+depolarized
 dehorted
 damaskine
 defatigate
