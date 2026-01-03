@@ -3746,7 +3746,6 @@ chromoxylography
 caravanserial
 companeros
 caravel
-confuse
 caravels
 cosen
 caraway
@@ -30710,6 +30709,7 @@ cudgerie
 cudweed
 czarian
 conrad
+confuse
 cudweeds
 counterexplanation
 cudwort
