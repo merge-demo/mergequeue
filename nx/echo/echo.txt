@@ -11489,6 +11489,7 @@ emenders
 endocrinous
 exsecant
 exoergic
+exaction
 echinopanax
 exhibited
 expended
@@ -11643,7 +11644,6 @@ eruca
 electivity
 eliminations
 eburnian
-exaction
 enfire
 exactitude
 electrohydraulic
