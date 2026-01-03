@@ -1619,7 +1619,6 @@ fleaseed
 fellmongery
 fawners
 frowned
-facet
 futilities
 facie
 formicoidea
@@ -10801,6 +10800,7 @@ floundered
 faintful
 fuchsine
 flustra
+facet
 foveation
 foredestined
 fleeten
