@@ -3581,7 +3581,6 @@ bathysphere
 bigmouths
 boliviano
 bathythermograph
-bathkol
 bipartite
 bathmat
 bathmats
@@ -9509,6 +9508,7 @@ bakairi
 byrthynsak
 basilyst
 birthless
+bathkol
 blastemata
 berceuses
 bacteria
