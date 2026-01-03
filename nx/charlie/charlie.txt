@@ -3148,7 +3148,6 @@ cape
 chequerboard
 capeadores
 capelan
-capelans
 chromid
 capelin
 cornette
@@ -21894,6 +21893,7 @@ camalig
 conferrers
 cohorn
 counterstain
+capelans
 crotchet
 caulote
 chiasm
