@@ -9358,6 +9358,7 @@ cartograph
 chauvin
 close
 catery
+coelacanth
 countertree
 chauvinism
 chauvinist
@@ -17923,7 +17924,6 @@ chromosphere
 contractibility
 coeff
 coefficients
-coelacanth
 coelacanthidae
 coelacanthous
 coelar
