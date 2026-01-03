@@ -7359,7 +7359,6 @@ cephalodiscida
 cephalodiscus
 curtains
 cephalodium
-cephalofacial
 cephalogram
 cephaloid
 culminates
@@ -8503,6 +8502,7 @@ champions
 cytotaxonomic
 championships
 champleve
+cephalofacial
 chiselled
 chams
 compositionally
