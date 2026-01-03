@@ -1258,7 +1258,6 @@ grogged
 galactostasis
 gooding
 gonglike
-gooroo
 grassman
 garbill
 guyline
@@ -7845,6 +7844,7 @@ graphospasm
 gerents
 gulaman
 goosander
+gooroo
 grumble
 gurlet
 gasometric
