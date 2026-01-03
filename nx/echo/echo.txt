@@ -1690,7 +1690,6 @@ enamel
 electrolyses
 earpieces
 echolocate
-endogenicity
 enterosyphilis
 embolon
 employ
@@ -10791,6 +10790,7 @@ exflagellate
 endosporic
 eumycete
 eulogiums
+endogenicity
 elaborating
 emoting
 euskera
