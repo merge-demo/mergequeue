@@ -15318,7 +15318,6 @@ corridored
 cookish
 clangors
 cappella
-clangour
 clangoured
 clangouring
 cakewalks
@@ -21590,6 +21589,7 @@ crepitacula
 condemn
 convent
 condemnations
+clangour
 chichimecan
 clour
 crustiness
