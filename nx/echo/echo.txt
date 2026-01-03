@@ -1427,7 +1427,6 @@ eelpout
 effort
 ethmovomer
 environic
-emmenic
 emeline
 ergonomic
 ethiopian
@@ -8458,6 +8457,7 @@ eponymus
 ensand
 email
 epicier
+emmenic
 elkhorn
 eroticomaniacal
 epopoeias
