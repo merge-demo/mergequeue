@@ -1717,7 +1717,6 @@ flighted
 fascio
 floats
 filicin
-fomites
 fortravail
 frippet
 fibrocyte
@@ -5964,6 +5963,7 @@ fantaisie
 fisk
 filleter
 fanwright
+fomites
 ferguson
 favism
 firkin
