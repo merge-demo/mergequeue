@@ -15217,6 +15217,7 @@ depreciated
 downing
 defamers
 dolisie
+deny
 dolite
 dolium
 darogha
@@ -18557,7 +18558,6 @@ despaired
 detailing
 derri
 durry
-deny
 dappled
 durrin
 dig
