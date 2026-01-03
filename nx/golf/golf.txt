@@ -970,7 +970,6 @@ gamophagy
 ghostless
 glomeruli
 graptolite
-gunshot
 glist
 genomic
 gamostele
@@ -4460,6 +4459,7 @@ gugu
 galtonian
 gypsyfy
 ganoblast
+gunshot
 generically
 gristles
 geophytes
