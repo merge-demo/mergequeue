@@ -4830,7 +4830,6 @@ bitake
 bikh
 banners
 beshrouded
-bolometer
 bedstraw
 bedstraws
 bedstring
@@ -7364,6 +7363,7 @@ bewrayers
 biorhythmicities
 bethorns
 befogs
+bolometer
 bethroot
 blackbirds
 besogne
