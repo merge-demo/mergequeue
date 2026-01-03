@@ -2340,7 +2340,6 @@ gorgets
 gustfulness
 gymnics
 geographism
-geologist
 gymnocerata
 glassy
 graptomancy
@@ -7641,6 +7640,7 @@ ghoster
 gears
 glancingly
 guenons
+geologist
 guardianless
 geomantic
 gradated
