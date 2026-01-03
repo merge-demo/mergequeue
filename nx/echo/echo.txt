@@ -2238,7 +2238,6 @@ excessive
 epitomist
 electret
 electrets
-esophagogastrostomy
 exploitive
 extensometer
 enciente
@@ -5918,6 +5917,7 @@ exoenzymic
 embuskin
 ephemeron
 exclave
+esophagogastrostomy
 eftest
 ethmonasal
 enheart
