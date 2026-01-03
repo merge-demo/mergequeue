@@ -3124,7 +3124,6 @@ eloigned
 eleometer
 euphonetic
 emissive
-empanelled
 endoscopy
 earthsmoke
 eloigning
@@ -7089,6 +7088,7 @@ extemporizing
 envaye
 episcenia
 excerpting
+empanelled
 envelope
 exurbanites
 extemporaneously
