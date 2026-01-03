@@ -931,7 +931,6 @@ grumousness
 glucosemia
 gawkishness
 gatewise
-gibboseness
 guelphism
 greedy
 germal
@@ -4060,6 +4059,7 @@ gravelliness
 gibbosity
 gentleman
 gratifications
+gibboseness
 gim
 gambolling
 gerundively
