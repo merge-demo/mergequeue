@@ -1343,7 +1343,6 @@ draftsperson
 doggerelize
 dompt
 damagement
-dart
 dauntingness
 discerners
 duelli
@@ -9225,6 +9224,7 @@ divined
 disinsectization
 dislegitimate
 digitaliform
+dart
 diemakers
 daphnioid
 duckie
