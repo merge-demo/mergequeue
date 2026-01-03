@@ -2181,6 +2181,7 @@ feltmaker
 fiducia
 fats
 fratercula
+flabellifoliate
 farmhouse
 felts
 forthtell
@@ -2416,7 +2417,6 @@ flemishes
 furls
 fortnightly
 fermail
-flabellifoliate
 fobbed
 festivities
 fatigate
