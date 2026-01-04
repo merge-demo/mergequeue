@@ -6653,7 +6653,6 @@ cottiers
 cedilla
 cedillas
 ceding
-cedis
 cosheath
 chromule
 cedrat
@@ -22526,6 +22525,7 @@ conjunctivas
 caslon
 clings
 conjunctively
+cedis
 chersonese
 chimbleys
 cheekful
