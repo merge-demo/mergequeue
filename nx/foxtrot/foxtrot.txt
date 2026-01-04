@@ -4996,7 +4996,6 @@ fissive
 filmcard
 flaneur
 frescoes
-functioned
 foremartyr
 fiddlewood
 filet
@@ -8721,6 +8720,7 @@ fellatee
 faultsman
 finchery
 forehands
+functioned
 flavonols
 fortuitous
 furrieries
