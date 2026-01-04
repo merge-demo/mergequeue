@@ -6644,7 +6644,6 @@ graver
 gonepoiesis
 gingivectomy
 gash
-geostatic
 grandioso
 gustoish
 gopak
@@ -10685,6 +10684,7 @@ gurk
 gellants
 gurney
 groundbird
+geostatic
 gurnet
 gildings
 girdlers
