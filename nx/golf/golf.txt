@@ -1727,7 +1727,6 @@ genotypes
 glike
 gunsmiths
 guldens
-geogonical
 gastronosus
 gnarrs
 goofier
@@ -10325,6 +10324,7 @@ gladiest
 goldfishes
 gabari
 gravemaster
+geogonical
 grammaticism
 greenwax
 gelatinigerous
