@@ -4955,6 +4955,7 @@ fomenters
 flowcharting
 fintadores
 frenulum
+forehinting
 flyway
 feebleheartedly
 flanch
@@ -10875,7 +10876,6 @@ fractiously
 foreskins
 feston
 fango
-forehinting
 freestone
 flayer
 furore
