@@ -4802,7 +4802,6 @@ backpedaled
 boughless
 burriest
 bougee
-bedroll
 bedrooms
 bruckle
 bandicoots
@@ -7595,6 +7594,7 @@ bricole
 brobdingnag
 bewilderedly
 bemadams
+bedroll
 boasting
 bollixes
 bribri
