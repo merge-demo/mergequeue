@@ -1695,6 +1695,7 @@ distringas
 dobl
 decoding
 disturber
+directory
 dearthfu
 disscussive
 doublehearted
@@ -15171,7 +15172,6 @@ discloak
 disbalance
 doleance
 delectably
-directory
 dolefully
 detainment
 drawlier
