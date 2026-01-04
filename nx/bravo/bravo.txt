@@ -1711,7 +1711,6 @@ bohea
 blur
 bravehearted
 biasing
-blackbrush
 buccate
 baloney
 bryan
@@ -13513,6 +13512,7 @@ blacksmith
 boucharde
 belime
 baccae
+blackbrush
 barometrography
 blundered
 bielid
