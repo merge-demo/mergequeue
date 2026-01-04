@@ -5954,6 +5954,7 @@ fortifiable
 fantaisie
 fisk
 filleter
+fets
 fanwright
 fomites
 ferguson
@@ -6677,7 +6678,6 @@ fogfruit
 fibrins
 fruiteress
 flatterable
-fets
 flintlock
 flexura
 flouts
