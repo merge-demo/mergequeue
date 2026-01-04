@@ -14128,7 +14128,6 @@ antehypophysis
 arterialisation
 antheming
 antidynamic
-amentia
 antejudiciary
 antelocation
 abrico
@@ -17787,6 +17786,7 @@ aversation
 ameiurus
 adumbration
 antispasis
+amentia
 applique
 appliques
 antinarcotics
