@@ -7932,7 +7932,6 @@ entomophaga
 eurystomatous
 emitter
 eatery
-extrastapedial
 exudates
 exptl
 exordia
@@ -13821,6 +13820,7 @@ epithelialize
 ethnography
 elating
 extracarpal
+extrastapedial
 extratropical
 extendible
 excepted
