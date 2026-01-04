@@ -1280,7 +1280,6 @@ calendrical
 calendula
 calendulas
 calendulin
-calentural
 chivalries
 coolabah
 calenture
@@ -9896,6 +9895,7 @@ consumptible
 calpacks
 caleches
 clays
+calentural
 calic
 cameograph
 catalogic
