@@ -2447,7 +2447,6 @@ bugaboos
 breechesflower
 brodder
 blowout
-brawner
 baniwa
 bowk
 barehead
@@ -11447,6 +11446,7 @@ bluepoint
 belzebub
 blueprint
 blancmange
+brawner
 blazingly
 bluesy
 bluesman
