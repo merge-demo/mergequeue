@@ -3964,6 +3964,7 @@ amgarn
 adjutant
 anesthetic
 adjutator
+aristocratic
 adjute
 aqueity
 apologer
@@ -14828,7 +14829,6 @@ archgomeral
 arthrocele
 anticeremoniously
 anticeremoniousness
-aristocratic
 antichamber
 allogenically
 archicleistogamy
