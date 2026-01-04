@@ -4108,7 +4108,6 @@ employability
 evenly
 electrovalence
 employe
-estado
 etamin
 epigene
 empestic
@@ -13257,6 +13256,7 @@ evasiveness
 entomological
 equiliria
 explicates
+estado
 euglenoidina
 eyewitness
 explicator
