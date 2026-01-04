@@ -772,7 +772,6 @@ aepyornis
 ascites
 annats
 abreast
-archenteric
 acratia
 abreed
 asyle
@@ -6856,6 +6855,7 @@ axiomatizes
 airling
 airposts
 airlock
+archenteric
 atmospherical
 annoyingness
 ava
