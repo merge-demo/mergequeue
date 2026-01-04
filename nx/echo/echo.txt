@@ -7710,6 +7710,7 @@ elytroplastic
 ergo
 epeirogeny
 equilibration
+ecostate
 expendability
 extrapopular
 epidemiologic
@@ -13510,7 +13511,6 @@ ectocondyloid
 editing
 etruscologist
 evaporite
-ecostate
 eristic
 endangeitis
 epitomic
