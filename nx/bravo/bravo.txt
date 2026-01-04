@@ -3344,6 +3344,7 @@ beings
 bandurria
 basketmaking
 bonnets
+blatant
 batikuling
 basketware
 bluecoat
@@ -5313,7 +5314,6 @@ beefed
 begirt
 bogies
 beglerbeglic
-blatant
 bakalai
 burka
 behew
