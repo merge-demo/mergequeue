@@ -3874,7 +3874,6 @@ egressive
 equivote
 echeneis
 eternal
-entomotomy
 electrotonus
 extraboldface
 eminencies
@@ -13268,6 +13267,7 @@ ectocuneiform
 epitheliomata
 elapids
 eglantine
+entomotomy
 etches
 electrohomeopathy
 earner
