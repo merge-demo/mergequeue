@@ -13782,6 +13782,7 @@ disenchants
 dion
 dissuasion
 depravedly
+deaspirate
 dirndls
 dissuasively
 detruncate
@@ -17587,7 +17588,6 @@ drunk
 desuperheater
 dogbite
 drunkenwise
-deaspirate
 dirtiest
 dryopteris
 drunker
