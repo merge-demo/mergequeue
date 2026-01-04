@@ -507,7 +507,6 @@ gnomes
 geomorphology
 gisement
 gratuity
-geographic
 gruffing
 graff
 galivants
@@ -8328,6 +8327,7 @@ greenslade
 gracefulness
 greyer
 gau
+geographic
 gravicembalo
 glucuronidase
 giansar
