@@ -506,7 +506,6 @@ geminations
 gnomes
 geomorphology
 gisement
-gratuity
 gruffing
 graff
 galivants
@@ -2240,6 +2239,7 @@ galax
 gonidiogenous
 gehlenite
 goblet
+gratuity
 grunted
 geoplanidae
 glucokinase
