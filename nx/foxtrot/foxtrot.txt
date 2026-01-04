@@ -3496,7 +3496,6 @@ fulgorid
 fusicladium
 filamentar
 fute
-flyweight
 fleetingly
 figures
 feelingless
@@ -4707,6 +4706,7 @@ fijian
 fulgor
 ferrugineous
 flabella
+flyweight
 frises
 facy
 factice
