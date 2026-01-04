@@ -2645,7 +2645,6 @@ ferrumination
 fluviatic
 fraters
 feedings
-felspathic
 fainaigue
 froufrou
 flickering
@@ -10127,6 +10126,7 @@ fluid
 frivolousness
 foray
 faunula
+felspathic
 felled
 forgives
 filisters
