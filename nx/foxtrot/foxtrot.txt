@@ -5560,7 +5560,6 @@ flyby
 fratch
 flybys
 forfault
-fallaciously
 fiendlike
 folkvangr
 flockowner
@@ -11270,6 +11269,7 @@ file
 farces
 frabjous
 fernando
+fallaciously
 flatters
 furanoid
 fricandeaus
