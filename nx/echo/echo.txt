@@ -8781,6 +8781,7 @@ emphractic
 enstrengthen
 equivoluminal
 explainers
+electrostatics
 enfume
 elementarist
 equoidean
@@ -12601,7 +12602,6 @@ embossable
 exocoelic
 explant
 epicardium
-electrostatics
 exocoelum
 epifascial
 empresa
