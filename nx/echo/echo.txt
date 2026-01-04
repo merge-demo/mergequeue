@@ -4234,7 +4234,6 @@ expolish
 expendible
 expressways
 equidiagonal
-epityphlon
 escutcheons
 experiment
 endometrium
@@ -13396,6 +13395,7 @@ euscaro
 escapeway
 excambion
 exemplify
+epityphlon
 exposture
 epanaphoral
 exter
