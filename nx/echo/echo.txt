@@ -1041,6 +1041,7 @@ edger
 edgeshot
 edgeway
 embalmment
+ephrathite
 exterritorial
 enshrouded
 edgrow
@@ -7490,7 +7491,6 @@ euda
 ephraimite
 exocoetidae
 extensively
-ephrathite
 estrins
 estall
 eophytic
