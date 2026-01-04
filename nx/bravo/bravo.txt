@@ -8018,7 +8018,6 @@ bicycler
 bluebooks
 bisiliac
 bickerer
-brewages
 bailsman
 bakehouses
 breathalyse
@@ -12033,6 +12032,7 @@ bubonidae
 boycotted
 bletheration
 brachiated
+brewages
 balneography
 boid
 boydekyn
