@@ -5260,7 +5260,6 @@ calemes
 cassandra
 conc
 crawthumper
-cartman
 cokeman
 creatrix
 conditioners
@@ -14496,6 +14495,7 @@ cispontine
 cissampelos
 conster
 cissy
+cartman
 compassionless
 cissies
 cissoidal
