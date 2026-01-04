@@ -21565,7 +21565,6 @@ concurrentness
 corsepresent
 concrescible
 calyceraceous
-coercer
 cofinal
 concurring
 concurs
@@ -24336,6 +24335,7 @@ craniophore
 conjury
 cookroom
 coral
+coercer
 concentrate
 caverning
 caritas
