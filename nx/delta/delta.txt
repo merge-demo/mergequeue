@@ -5416,7 +5416,6 @@ deoppilate
 dep
 doss
 deorganization
-deistic
 decolouriser
 doubtfully
 deorganize
@@ -9280,6 +9279,7 @@ deobstruent
 dietic
 decolorant
 dietitians
+deistic
 dtset
 diplomat
 dietotherapy
