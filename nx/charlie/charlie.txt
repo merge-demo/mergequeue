@@ -4005,7 +4005,6 @@ correctify
 carcinemia
 croquettes
 carcinogenesis
-carcinogenic
 carcinoid
 compartmental
 crystalloluminescence
@@ -22928,6 +22927,7 @@ chequeen
 calyptra
 consign
 consignatary
+carcinogenic
 consignataries
 counterretreat
 comforting
