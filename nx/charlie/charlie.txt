@@ -10860,6 +10860,7 @@ connectedness
 chippers
 coefficient
 chippewas
+cormel
 chippy
 counterlighting
 cobishop
@@ -25278,7 +25279,6 @@ cacophonize
 choom
 corkwing
 cormac
-cormel
 concetto
 coardent
 cormidium
