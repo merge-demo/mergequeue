@@ -22303,6 +22303,7 @@ congoleum
 congou
 coessentialness
 corrasion
+copyread
 congrats
 congratulable
 cliffhang
@@ -24605,7 +24606,6 @@ chanteyman
 copious
 copiousness
 cloners
-copyread
 copyreader
 copyreaders
 caudalward
