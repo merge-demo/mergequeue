@@ -15720,7 +15720,6 @@ broadspread
 broadsword
 bamangwato
 bromethyl
-brob
 betorcin
 bolder
 blithesomeness
@@ -17479,6 +17478,7 @@ berzelianite
 birdikin
 bena
 buprestis
+brob
 briskening
 bragwort
 biteless
