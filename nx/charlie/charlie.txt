@@ -4531,6 +4531,7 @@ catapults
 carbine
 cephalogenesis
 carnallite
+chartaceous
 colluvies
 churchshot
 carnalness
@@ -6855,7 +6856,6 @@ cytologist
 cellulofibrous
 celluloid
 confabbing
-chartaceous
 cellulosic
 contented
 conventionalization
