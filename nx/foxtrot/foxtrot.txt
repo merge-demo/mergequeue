@@ -2830,7 +2830,6 @@ foreadmonish
 fieldsmen
 farmhand
 fishnet
-fetichlike
 flowerets
 feticide
 front
@@ -11443,6 +11442,7 @@ frigage
 firefly
 frostless
 fathoms
+fetichlike
 fusible
 fluorbenzene
 fideles
