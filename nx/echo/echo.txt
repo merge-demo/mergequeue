@@ -2665,7 +2665,6 @@ exports
 enfant
 eudaemonics
 engenderment
-electrotelegraphy
 exhort
 exdelicto
 epispadia
@@ -10691,6 +10690,7 @@ enterpriser
 expectoration
 enveloper
 extirpatory
+electrotelegraphy
 eva
 euglenaceae
 extrasyllabic
