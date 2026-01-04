@@ -5744,7 +5744,6 @@ amant
 arrowwood
 adaty
 antisacerdotal
-antistrophon
 anabaenas
 agapai
 arthrometer
@@ -8346,6 +8345,7 @@ alimentic
 alabandite
 automatical
 amphiphithyra
+antistrophon
 affectum
 accidentalist
 alimony
