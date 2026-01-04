@@ -8482,7 +8482,6 @@ discographer
 diane
 dianetics
 desulfuration
-divider
 didactically
 dianilid
 deathworm
@@ -10407,6 +10406,7 @@ decodable
 diphenylenimine
 ditcher
 dug
+divider
 diphenylhydantoin
 dogmatic
 diodon
