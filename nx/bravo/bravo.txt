@@ -1495,7 +1495,6 @@ bathyhyperesthesia
 bemadamed
 bacteremia
 borstal
-bistable
 booked
 bedsick
 balladic
@@ -9106,6 +9105,7 @@ biosystematy
 byssine
 bighted
 biosociological
+bistable
 budzart
 balanoglossida
 bodysuit
