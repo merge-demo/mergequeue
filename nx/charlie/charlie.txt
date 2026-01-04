@@ -10622,7 +10622,6 @@ chiltern
 chilver
 caliological
 chimaera
-chimaerid
 chimaeroid
 chimakum
 curled
@@ -29321,6 +29320,7 @@ cadouk
 concelebrated
 craggedly
 cryptographal
+chimaerid
 certiorating
 cryptoheresy
 cryptoheretic
