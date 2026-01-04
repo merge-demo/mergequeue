@@ -9891,6 +9891,7 @@ chemosynthetic
 chemosmoses
 chemosmotic
 consumptible
+choora
 calpacks
 caleches
 clays
@@ -28043,7 +28044,6 @@ crambes
 crambidae
 chemosynthetically
 chiefage
-choora
 crambos
 crambus
 cramel
