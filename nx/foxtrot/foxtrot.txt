@@ -3818,6 +3818,7 @@ freckleproof
 femerell
 flauto
 fellside
+flectionless
 filthifying
 formin
 fairhead
@@ -8133,7 +8134,6 @@ fundmonger
 forcepses
 forevers
 fingerberry
-flectionless
 foregate
 forthwith
 fretless
