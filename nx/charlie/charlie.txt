@@ -7350,7 +7350,6 @@ cephalodymus
 cephalodiscid
 cephalodiscida
 cephalodiscus
-curtains
 cephalodium
 cephalogram
 cephaloid
@@ -19146,6 +19145,7 @@ citylike
 colloider
 coalsheds
 czarship
+curtains
 colloidochemical
 chemesthesis
 cordless
