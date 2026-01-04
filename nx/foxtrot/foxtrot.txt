@@ -1643,6 +1643,7 @@ fellowless
 fipenny
 four
 fdnames
+farmhands
 fundamentalists
 forthcut
 fluible
@@ -10082,7 +10083,6 @@ fishpound
 fritz
 furnisher
 foozling
-farmhands
 fenian
 fordam
 faki
