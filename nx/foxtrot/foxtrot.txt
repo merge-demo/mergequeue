@@ -4091,6 +4091,7 @@ fergusonite
 featherbrain
 fattable
 formal
+forgery
 fatalness
 fissipedal
 ferth
@@ -8239,7 +8240,6 @@ foresweat
 fabraea
 fesse
 forgeable
-forgery
 forwaked
 flashtubes
 fillingness
