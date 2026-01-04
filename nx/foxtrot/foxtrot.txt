@@ -1525,7 +1525,6 @@ foamers
 franklinite
 fattenable
 fauntleroy
-frankability
 filmdoms
 freely
 faurd
@@ -11004,6 +11003,7 @@ fluidiser
 frigging
 freeport
 freshly
+frankability
 fortilage
 fordable
 feuillemorte
