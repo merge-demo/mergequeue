@@ -473,7 +473,6 @@ fundulus
 ferroprussiate
 feateous
 fumble
-fanciers
 foreclosures
 fleetful
 fuseau
@@ -7588,6 +7587,7 @@ foredoomer
 fgn
 fructuarius
 funiculus
+fanciers
 flintworker
 forespeak
 freezable
