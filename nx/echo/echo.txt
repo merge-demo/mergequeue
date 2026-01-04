@@ -3315,7 +3315,6 @@ euharmonic
 endamages
 epileptic
 emancipator
-eelback
 emarginated
 eventilate
 evildoing
@@ -12710,6 +12709,7 @@ elmer
 everbearer
 exonym
 era
+eelback
 earcockle
 energizing
 exophasic
