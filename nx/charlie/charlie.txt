@@ -5,7 +5,6 @@ cephalad
 caatinga
 cab
 caba
-cires
 chorionic
 cajaput
 craniopharyngioma
@@ -29228,6 +29227,7 @@ chattingly
 cryptamnesic
 cryptanalytically
 cryptanalytics
+cires
 cryptanalyze
 cothamore
 capybara
