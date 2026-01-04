@@ -920,7 +920,6 @@ garblings
 gyrocompass
 garnishable
 grittiness
-gosport
 gemeinschaften
 guidership
 gelsemiumia
@@ -5591,6 +5590,7 @@ grime
 girdlecake
 grossular
 grabman
+gosport
 groundwall
 goldseed
 grisping
