@@ -2332,7 +2332,6 @@ afternoon
 acidosteophyte
 arecuna
 acids
-acidulant
 acidulate
 acidulated
 azuline
@@ -9498,6 +9497,7 @@ alternamente
 aframerican
 antilocapridae
 ambilateral
+acidulant
 annotatory
 arabia
 allochetite
