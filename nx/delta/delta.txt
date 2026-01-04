@@ -344,6 +344,7 @@ daybreaks
 diplostichous
 dreamt
 dermathemia
+detrimentally
 daygoing
 desiccation
 daiker
@@ -7412,7 +7413,6 @@ demigentleman
 dismoded
 diapensia
 daddynut
-detrimentally
 daroga
 deviate
 dancer

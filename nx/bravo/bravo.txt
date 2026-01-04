@@ -2812,7 +2812,6 @@ barites
 bolding
 bell
 betulaceous
-baroqueness
 banded
 blonder
 brazee
@@ -9339,6 +9338,7 @@ boozer
 buttering
 brines
 birdbaths
+baroqueness
 broomroot
 blethers
 brabbles
