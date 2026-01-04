@@ -9003,6 +9003,7 @@ biomes
 beanlike
 beavery
 babelike
+brontephobia
 besmuts
 biometries
 bion
@@ -9523,7 +9524,6 @@ birthright
 baffeta
 births
 birthstones
-brontephobia
 bulliform
 birthstool
 birthwort
