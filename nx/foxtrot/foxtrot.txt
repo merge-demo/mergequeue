@@ -4363,7 +4363,6 @@ furied
 frogfishes
 fathomed
 fishability
-feltwork
 flybook
 fixion
 fishboats
@@ -8244,6 +8243,7 @@ fibromyomatous
 forthcall
 forgetful
 fogdog
+feltwork
 facily
 frateries
 freud
