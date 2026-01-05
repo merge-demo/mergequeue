@@ -15118,6 +15118,7 @@ ascetics
 async
 aruke
 antidote
+anteroventrally
 appraise
 agnosias
 antidoted
@@ -20740,7 +20741,6 @@ affrap
 anamnesis
 articulations
 articulative
-anteroventrally
 alody
 agrostographic
 alwise
