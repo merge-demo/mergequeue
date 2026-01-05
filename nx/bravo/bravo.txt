@@ -5256,7 +5256,6 @@ begass
 bitless
 backmost
 blastocyst
-begats
 bolters
 bioblast
 bastes
@@ -8989,6 +8988,7 @@ biolinguistics
 belted
 biolyses
 bouleverse
+begats
 beneficium
 buttermaker
 boroughmongery
