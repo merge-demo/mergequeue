@@ -2036,7 +2036,6 @@ fourpounder
 ferngrower
 frontspiece
 feinter
-feudary
 facedown
 faucalize
 fireboat
@@ -6682,6 +6681,7 @@ flatterable
 flintlock
 flexura
 flouts
+feudary
 fogfruits
 frizel
 fluerics
