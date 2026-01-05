@@ -739,6 +739,7 @@ gypsydom
 gugglet
 galvanizers
 gripple
+goaling
 galvanizing
 gemmiferousness
 gunner
@@ -10690,7 +10691,6 @@ gildings
 girdlers
 goldbrickers
 grabs
-goaling
 glinted
 guaiacolize
 gurshes
