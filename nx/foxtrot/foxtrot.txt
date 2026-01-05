@@ -1723,7 +1723,6 @@ fascio
 floats
 filicin
 fortravail
-frippet
 fibrocyte
 flashflood
 feastfully
@@ -8073,6 +8072,7 @@ forests
 fissuriform
 fumer
 flusterated
+frippet
 forejudged
 forenews
 faunistic
