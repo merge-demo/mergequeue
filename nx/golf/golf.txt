@@ -4845,6 +4845,7 @@ gladiatorial
 gagelike
 gatherer
 growlingly
+gunnysack
 gablatores
 gunnen
 gaff
@@ -6628,7 +6629,6 @@ gyrodyne
 gateman
 gropes
 gambusias
-gunnysack
 gondolas
 guidons
 gondoletta
