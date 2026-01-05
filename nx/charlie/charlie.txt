@@ -7807,7 +7807,6 @@ cervicispinal
 cervicitis
 cervicoauricular
 chippable
-cervicobasilar
 cervicobregmatic
 cobitis
 cervicobuccal
@@ -15605,6 +15604,7 @@ chrysanisic
 chromograph
 coquin
 clattertraps
+cervicobasilar
 confirmatively
 clauber
 cupressaceae
