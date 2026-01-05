@@ -2333,7 +2333,6 @@ goloe
 gibbartas
 galopin
 geldings
-gol
 garlandage
 gelated
 gorgets
@@ -4072,6 +4071,7 @@ grasped
 glucolipid
 gimel
 gobernadora
+gol
 gegenschein
 gogglebox
 genus
