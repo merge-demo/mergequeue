@@ -1634,6 +1634,7 @@ crureus
 calmest
 calmier
 calmiest
+compiling
 coeducationally
 calming
 calmnesses
@@ -20752,7 +20753,6 @@ compliances
 compliancy
 cyanauric
 compliant
-compiling
 cupcake
 complicacy
 ceramiaceae
