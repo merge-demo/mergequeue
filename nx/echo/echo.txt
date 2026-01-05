@@ -330,7 +330,6 @@ enclaret
 encephalograph
 estops
 eastre
-extents
 enturret
 extramolecular
 empresse
@@ -8410,6 +8409,7 @@ erodible
 endodermic
 enchains
 enstamp
+extents
 emancipatress
 epizoic
 eudaemonia
