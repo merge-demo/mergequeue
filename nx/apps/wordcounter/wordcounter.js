@@ -11,7 +11,19 @@ const path = require("path");
 const WORD_DICT = {};
 
 // Word list packages (similar to UV setup)
-const wordPackages = ["alpha", "bravo", "charlie", "delta", "echo", "foxtrot", "golf"];
+const wordPackages = [
+  "alpha",
+  "bravo",
+  "charlie",
+  "delta",
+  "echo",
+  "foxtrot",
+  "golf",
+  "hotel",
+  "indigo",
+  "juliet",
+  "kilo",
+];
 
 // Load words from each package's .txt file
 for (const pkg of wordPackages) {
