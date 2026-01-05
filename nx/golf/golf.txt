@@ -273,6 +273,7 @@ geoplagiotropism
 grenada
 gnomon
 glauconiferous
+glomeroporphyritic
 groser
 gigavolt
 gummata
@@ -2513,7 +2514,6 @@ genderless
 gremiale
 gamogeny
 graven
-glomeroporphyritic
 gumshield
 gradatim
 gastroenterocolitis
