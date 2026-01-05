@@ -6216,7 +6216,6 @@ formwork
 foundationary
 ferrimagnetic
 folden
-frizzled
 fractionating
 fluffiness
 flexography
@@ -11627,6 +11626,7 @@ fumy
 friendship
 foliaceous
 fetlow
+frizzled
 fineness
 fructoses
 ferren
