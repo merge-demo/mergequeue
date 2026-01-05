@@ -5231,7 +5231,6 @@ begad
 bedders
 boskopoid
 boarcite
-barbules
 basification
 breadboards
 barkeeps
@@ -7434,6 +7433,7 @@ befreeze
 better
 besmirched
 batrachia
+barbules
 becovet
 buboes
 bashalick
