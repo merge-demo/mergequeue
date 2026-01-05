@@ -5720,7 +5720,6 @@ fungous
 fuzzball
 frontlessly
 furnage
-fungistatic
 frequentation
 fractuosity
 fels
@@ -9894,6 +9893,7 @@ fogeater
 fevercup
 fenestrone
 formalizes
+fungistatic
 foretells
 fistfuls
 fade
