@@ -5702,7 +5702,6 @@ glossinas
 gertrude
 glowbard
 glimmeringly
-gurneyite
 gloveress
 gimmaled
 gpad
@@ -10167,6 +10166,7 @@ genres
 guidepost
 glossophobia
 geostrategist
+gurneyite
 gerusia
 gastropathy
 granulated
