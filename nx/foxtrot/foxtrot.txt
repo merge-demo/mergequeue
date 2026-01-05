@@ -1423,7 +1423,6 @@ fishway
 fountainlet
 fallibly
 firewood
-futchell
 forbar
 ferreted
 fattest
@@ -2359,6 +2358,7 @@ floorward
 favel
 femineity
 frightener
+futchell
 fanhouse
 feres
 fatherlands
