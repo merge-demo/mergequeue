@@ -7057,7 +7057,6 @@ dilucid
 dayak
 dolts
 deposits
-destigmatization
 destigmatizing
 destination
 dunelands
@@ -16281,6 +16280,7 @@ decator
 discoloring
 downlink
 desertion
+destigmatization
 downloading
 downness
 dermographic
