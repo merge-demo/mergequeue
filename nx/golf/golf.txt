@@ -4008,7 +4008,6 @@ gastrogenous
 grounds
 gilds
 grandness
-gildship
 gutturals
 gerundive
 gushingly
@@ -7316,6 +7315,7 @@ grizzles
 gymnasisiums
 gospels
 greatcoats
+gildship
 gustative
 gossard
 greyflies
