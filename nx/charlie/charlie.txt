@@ -15513,6 +15513,7 @@ cinevariety
 cephala
 clasper
 claspers
+cestoidea
 classable
 coplanarity
 classbook
@@ -17176,7 +17177,6 @@ cozeys
 chemick
 chagrined
 coaguline
-cestoidea
 cataleptiform
 coagulometer
 coahuiltecan
