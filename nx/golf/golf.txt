@@ -5859,7 +5859,6 @@ gardenless
 gardon
 griddled
 gasfiring
-geolatry
 grandesque
 glycogenous
 gravimetric
@@ -7701,6 +7700,7 @@ graduands
 glade
 geopolitic
 girning
+geolatry
 galvanized
 gunpowderous
 globus
