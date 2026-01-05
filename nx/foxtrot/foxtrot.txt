@@ -3426,7 +3426,6 @@ frontals
 feminising
 fulmines
 forewarmer
-forepointer
 furfurans
 forthward
 frontoethmoid
@@ -9855,6 +9854,7 @@ feria
 fundatorial
 flavanthrone
 fogeys
+forepointer
 flapdragon
 feridgi
 forefelt
