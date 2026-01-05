@@ -5605,6 +5605,7 @@ frusla
 fortitude
 flighter
 fraik
+foret
 fleysome
 forehock
 funicular
@@ -8090,7 +8091,6 @@ factorist
 fumacious
 farceur
 floodplain
-foret
 fragilaria
 formalized
 feasances
