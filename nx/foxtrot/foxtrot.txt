@@ -5042,6 +5042,7 @@ fermions
 figlike
 fishline
 fosses
+fetialis
 foveated
 fezes
 freir
@@ -6410,7 +6411,6 @@ fairm
 flaggier
 foliates
 fireflower
-fetialis
 flibbertigibbet
 freshish
 farmed
