@@ -2004,7 +2004,6 @@ blubberman
 bundt
 bandlimiting
 brezhnev
-biotopes
 bulrushy
 bani
 bakeout
@@ -18306,6 +18305,7 @@ button
 boxthorns
 buttonball
 basaltoid
+biotopes
 buttonbush
 bivalve
 buttoner
