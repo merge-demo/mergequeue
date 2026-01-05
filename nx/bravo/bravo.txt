@@ -4024,7 +4024,6 @@ baetuli
 boilermaking
 butcheries
 brevier
-beaked
 beakerman
 bellite
 beakermen
@@ -11847,6 +11846,7 @@ brushlike
 bestowals
 bodicemaking
 becrowding
+beaked
 bepale
 boucan
 bodilize
