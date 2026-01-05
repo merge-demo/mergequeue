@@ -5770,6 +5770,7 @@ barnyards
 biocellate
 bascology
 bunn
+bioluminescence
 bulak
 bufo
 bellbird
@@ -8994,7 +8995,6 @@ boroughmongery
 bitting
 biologics
 busybodyish
-bioluminescence
 brachyhieric
 bewhite
 bartizan
