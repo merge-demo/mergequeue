@@ -10586,7 +10586,6 @@ bygones
 blatta
 blackbreast
 biostrome
-blatted
 boltheader
 bachelorship
 bespake
@@ -12895,6 +12894,7 @@ boost
 bromizes
 bruin
 biblicolegal
+blatted
 babassus
 burdenable
 birle
