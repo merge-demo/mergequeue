@@ -2095,6 +2095,7 @@ forebodies
 facture
 finetop
 favorless
+fleshen
 frument
 fayence
 fermentate
@@ -7805,7 +7806,6 @@ fleamy
 fashionableness
 felonwood
 fowlerite
-fleshen
 fritterers
 foreordinate
 floridian
