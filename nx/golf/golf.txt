@@ -6075,7 +6075,6 @@ guttie
 gibbled
 grisset
 grume
-gonococcoid
 gnaws
 gramineous
 gneiss
@@ -9138,6 +9137,7 @@ gaffers
 grammaticalness
 gazeful
 grusinian
+gonococcoid
 gearcase
 grooming
 gardant
