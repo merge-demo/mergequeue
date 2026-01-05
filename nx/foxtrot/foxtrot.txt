@@ -7307,7 +7307,6 @@ foaminess
 fixation
 foraying
 frognose
-foralite
 foram
 fronds
 fearnaught
@@ -9994,6 +9993,7 @@ frilliness
 fen
 favourer
 florid
+foralite
 flee
 flatwork
 fantod
