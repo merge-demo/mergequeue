@@ -502,7 +502,6 @@ fiumara
 forcleave
 fakery
 flaxweed
-foreconsider
 funbre
 frisch
 friz
@@ -3457,6 +3456,7 @@ fleeches
 fingerable
 frostfishes
 foreseason
+foreconsider
 fallback
 fighteress
 fatigation

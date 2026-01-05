@@ -12233,7 +12233,6 @@ ephemerides
 emmental
 exhibiters
 ecclesiolater
-eternalization
 equipment
 epanalepsis
 exocyclica
@@ -13127,6 +13126,7 @@ empaestic
 esocidae
 electrocystoscope
 ejuration
+eternalization
 erymanthian
 euthyneurous
 evolved
