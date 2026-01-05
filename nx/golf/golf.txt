@@ -1731,6 +1731,7 @@ genotypes
 glike
 gunsmiths
 guldens
+garotting
 gastronosus
 gnarrs
 goofier
@@ -3515,7 +3516,6 @@ girlfully
 gaunter
 gracile
 gawish
-garotting
 gibbsites
 gumbotils
 gapo
