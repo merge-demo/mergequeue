@@ -1837,6 +1837,7 @@ feedbags
 footwalk
 flexographic
 frostnipped
+firefly
 farcicality
 funambulate
 foreign
@@ -11436,7 +11437,6 @@ fluviose
 falteringly
 furrily
 frigage
-firefly
 frostless
 fathoms
 fetichlike
