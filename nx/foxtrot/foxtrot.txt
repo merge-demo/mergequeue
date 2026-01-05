@@ -6636,7 +6636,6 @@ fancify
 footpath
 forevouched
 foehnlike
-foeless
 faulted
 fulgurating
 forenotice
@@ -8734,6 +8733,7 @@ forbiddable
 flogged
 followership
 forester
+foeless
 fossule
 fiddlers
 forwardal
