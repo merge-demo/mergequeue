@@ -6801,7 +6801,6 @@ airdromes
 airdrop
 advertizing
 apart
-amiga
 airdropping
 aired
 anabolic
@@ -8296,6 +8295,7 @@ accenting
 aculea
 archin
 artefac
+amiga
 aselli
 aliethmoid
 axonal
