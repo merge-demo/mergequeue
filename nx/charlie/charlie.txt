@@ -7266,7 +7266,6 @@ countertenor
 carbonados
 coda
 centurial
-concerto
 covenably
 centuriator
 conehead
@@ -11819,6 +11818,7 @@ choregi
 chalazoidite
 cryptomonad
 candider
+concerto
 chopper
 choppers
 choppier
