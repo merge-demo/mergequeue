@@ -6,12 +6,12 @@ jobs:
   compute_pr_targets:
     name: compute_pr_targets
     runs-on: ubuntu-latest
-    if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}    
+    if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          lfs: truefilenames.sort();
+          lfs: true
 
       - name: trunk install
         uses: trunk-io/trunk-action/install@v1
@@ -64,6 +64,16 @@ jobs:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
           steps.get-demo-config.outputs.build == 'nx'
         uses: ./.github/actions/nx-pr-targets
+        with:
+          trunk-token: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          base-sha: ${{ github.event.pull_request.base.sha }}
+          head-sha: ${{ github.event.pull_request.head.sha }}
+
+      - name: turbo pr targets
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          steps.get-demo-config.outputs.build == 'turbo'
+        uses: ./.github/actions/turbo-pr-targets
         with:
           trunk-token: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
           base-sha: ${{ github.event.pull_request.base.sha }}
