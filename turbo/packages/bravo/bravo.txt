@@ -8867,6 +8867,7 @@ bioactivities
 bioassaying
 bioastronautics
 baldpate
+byssi
 belcher
 biobibliographer
 barleysick
@@ -13585,7 +13586,6 @@ barite
 boulangism
 bouldered
 bevatrons
-byssi
 boulderhead
 bandanna
 bilskirnir
