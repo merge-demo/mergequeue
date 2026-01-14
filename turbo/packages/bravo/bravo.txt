@@ -388,7 +388,6 @@ backhooker
 bemoans
 banjos
 backhouses
-baseballdom
 brachyurus
 baht
 bullocky
@@ -11868,6 +11867,7 @@ buteos
 bodywork
 bodyworks
 bodkin
+baseballdom
 bodkins
 boardlike
 barmybrained
