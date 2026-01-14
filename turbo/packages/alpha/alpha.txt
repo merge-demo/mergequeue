@@ -1405,7 +1405,6 @@ acceptress
 accepts
 attractants
 apellous
-aproned
 accessary
 accessaries
 anesthesiometer
@@ -18413,6 +18412,7 @@ antiecclesiastically
 aramids
 appendical
 aramina
+aproned
 afflictedness
 aficionado
 andromorphous
