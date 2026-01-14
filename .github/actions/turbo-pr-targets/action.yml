@@ -5,6 +5,9 @@ inputs:
   trunk-token:
     description: Trunk API token
     required: true
+  api-url:
+    description: Trunk API URL
+    required: true
   base-sha:
     description: Base SHA for comparison
     required: true
@@ -62,6 +65,5 @@ runs:
       run: |
         python3 tools/upload_targets.py \
           --targets-file=impacted_targets_json_tmp \
-          --trunk-token="$TRUNK_TOKEN" \
-          --api-url="https://api.trunk.io:443/v1/setImpactedTargets"
+          --api-url=${{ inputs.api-url }}
       shell: bash
