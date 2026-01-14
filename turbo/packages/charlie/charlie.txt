@@ -2360,6 +2360,7 @@ canamo
 cranesbill
 chaetognathous
 cicer
+colorfast
 canap
 consummator
 cabriole
@@ -6713,7 +6714,6 @@ celandines
 consultant
 celastraceae
 copings
-colorfast
 celastrus
 cuculla
 celation
