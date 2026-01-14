@@ -7007,7 +7007,6 @@ floriferousness
 finagled
 flagellate
 fumade
-freespace
 floodwood
 fondus
 feases
@@ -9612,6 +9611,7 @@ flotations
 freers
 farthest
 foresign
+freespace
 fecklessly
 feliform
 fulcrumage
