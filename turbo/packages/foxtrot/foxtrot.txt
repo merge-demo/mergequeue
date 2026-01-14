@@ -2854,6 +2854,7 @@ fisty
 finable
 foresails
 figworm
+fiedlerite
 fungid
 familistery
 fortuned
@@ -3334,7 +3335,6 @@ frowsiest
 flotsam
 fluorescer
 fulmined
-fiedlerite
 fifth
 flooding
 fiel
