@@ -3289,7 +3289,6 @@ fungus
 flirtling
 finesser
 forevermore
-foreward
 flyting
 flasket
 foreconscious
@@ -8061,6 +8060,7 @@ furnitures
 forenames
 fumigating
 flecnode
+foreward
 fiendfully
 ferrochromium
 forests
