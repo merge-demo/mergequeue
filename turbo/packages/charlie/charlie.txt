@@ -25717,6 +25717,7 @@ citators
 chlormethylic
 calctufa
 correspondentship
+cothurnus
 colophan
 ceruminous
 caripeta
@@ -26406,7 +26407,6 @@ cerenkov
 cothon
 cothouse
 cothurn
-cothurnus
 coticed
 coruscate
 colleter
