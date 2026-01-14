@@ -1299,6 +1299,7 @@ beknown
 betorcinol
 bradycinesia
 biogasses
+blub
 bacao
 brochantite
 bury
@@ -11337,7 +11338,6 @@ berouged
 blowziness
 blowzing
 bls
-blub
 blickey
 blubbed
 bootlicker
