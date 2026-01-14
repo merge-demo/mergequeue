@@ -746,7 +746,6 @@ gripple
 goaling
 galvanizing
 gemmiferousness
-gunner
 galvanologist
 giantlikeness
 gollywog
@@ -5321,6 +5320,7 @@ glaucus
 grammatology
 guanidine
 glegly
+gunner
 galactosemia
 gulfier
 glyconic
