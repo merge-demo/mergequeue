@@ -1523,7 +1523,6 @@ basted
 batterdock
 ballads
 balete
-baralipton
 bloodmonger
 blackware
 ballas
@@ -5115,6 +5114,7 @@ babery
 bentwood
 biquadrantal
 beflannel
+baralipton
 bureaucrat
 beflap
 beflea
