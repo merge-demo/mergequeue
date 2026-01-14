@@ -53,7 +53,7 @@ runs:
       run: |
         python3 tools/upload_targets.py \
           --targets-file=impacted_targets_json_tmp \
-          --trunk-token="${{ inputs.trunk-token }}" \
+          --trunk-token="${{ inputs.trunk-token }}"
       env:
         TRUNK_TOKEN: ${{ inputs.trunk-token }}
         GITHUB_REPOSITORY: ${{ github.repository }}
