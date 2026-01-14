@@ -15,6 +15,17 @@ inputs:
 runs:
   using: composite
   steps:
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install Python dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r tools/requirements.txt
+      shell: bash
+
     - name: Setup Node.js for Nx
       uses: actions/setup-node@v4
       with:
@@ -50,3 +61,4 @@ runs:
         PR_SHA: ${{ github.event.pull_request.head.sha }}
         TARGET_BRANCH: ${{ github.event.pull_request.base.ref }}
       shell: bash
+tr

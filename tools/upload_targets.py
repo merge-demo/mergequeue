@@ -12,6 +12,9 @@ import os
 import sys
 
 import requests
+import typer
+
+app = typer.Typer(help="Upload impacted targets to Trunk API")
 
 
 def eprint(*args, **kwargs):
@@ -50,10 +53,9 @@ def main():
     parser.add_argument(
         "--target-branch",
         help="Target branch name (or set TARGET_BRANCH/GITHUB_BASE_REF env var)",
-    )
-
-    args = parser.parse_args()
-
+    ),
+):
+    """Upload impacted targets to Trunk API."""
     # Get token from arg or env
     trunk_token = args.trunk_token or os.environ.get("TRUNK_TOKEN")
     if not trunk_token:
