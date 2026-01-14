@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-Upload impacted Nx targets to Trunk API.
+Upload impacted targets to Trunk API.
 
 This script reads impacted targets from a JSON file and uploads them to Trunk's API.
+It's a generic script that works for any build system (Nx, Turbo, Bazel, etc.).
 """
 
 import argparse
@@ -19,9 +20,7 @@ def eprint(*args, **kwargs):
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Upload impacted Nx targets to Trunk API"
-    )
+    parser = argparse.ArgumentParser(description="Upload impacted targets to Trunk API")
     parser.add_argument(
         "--targets-file",
         required=True,
@@ -50,7 +49,7 @@ def main():
     )
     parser.add_argument(
         "--target-branch",
-        help="Target branch name (or set TARGET_BRANCH env var)",
+        help="Target branch name (or set TARGET_BRANCH/GITHUB_BASE_REF env var)",
     )
 
     args = parser.parse_args()
@@ -63,7 +62,7 @@ def main():
 
     # Read impacted targets
     try:
-        with open(args.targets_file, "r") as f:
+        with open(args.targets_file, "r", encoding="utf-8") as f:
             impacted_targets = json.load(f)
         if not isinstance(impacted_targets, list):
             eprint(f"Error: Expected JSON array in {args.targets_file}")
@@ -138,9 +137,11 @@ def main():
     # Make API request
     headers = {"Content-Type": "application/json", "x-api-token": trunk_token}
     try:
-        response = requests.post(args.api_url, headers=headers, json=post_body)
+        response = requests.post(
+            args.api_url, headers=headers, json=post_body, timeout=30
+        )
         http_status_code = response.status_code
-    except Exception as e:
+    except requests.RequestException as e:
         eprint(f"HTTP request failed: {e}")
         sys.exit(1)
 
