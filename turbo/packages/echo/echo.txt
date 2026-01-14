@@ -4906,7 +4906,6 @@ equations
 entoils
 endangitis
 expertised
-endarteteria
 endaspidean
 endbrains
 epipodite
@@ -13100,6 +13099,7 @@ expediency
 ecoclimate
 experientialism
 eschevin
+endarteteria
 encarpuspi
 entosarc
 extensionality
