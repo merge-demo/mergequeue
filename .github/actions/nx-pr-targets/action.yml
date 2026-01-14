@@ -55,7 +55,6 @@ runs:
     - name: Upload targets to Trunk API
       env:
         TRUNK_TOKEN: ${{ inputs.trunk-token }}
-        API_URL: ${{ inputs.api-url }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PR_NUMBER: ${{ github.event.pull_request.number }}
         PR_SHA: ${{ github.event.pull_request.head.sha }}
@@ -63,5 +62,5 @@ runs:
       run: |
         python3 tools/upload_targets.py \
           --targets-file=impacted_targets_json_tmp \
-          --api-url="$API_URL"
+          --api-url=${{ inputs.api-url }}
       shell: bash
