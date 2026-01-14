@@ -2721,6 +2721,7 @@ electees
 edentate
 envoi
 eleemosynary
+entranceway
 etymology
 emetic
 engorge
@@ -4811,7 +4812,6 @@ equivocality
 encountered
 epigenesist
 endothecium
-entranceway
 encashing
 encountering
 eros
