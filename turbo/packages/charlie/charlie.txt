@@ -1181,6 +1181,7 @@ concaves
 calculator
 calculatory
 calculators
+corporosity
 chorically
 calculer
 causationist
@@ -25613,7 +25614,6 @@ corporify
 contracts
 chapterful
 corporification
-corporosity
 corps
 countersuggestion
 chondriocont
