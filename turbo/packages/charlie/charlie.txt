@@ -6786,7 +6786,6 @@ correlations
 coadministrator
 churchiness
 celiocolpotomy
-celioelytrotomy
 careeringly
 chary
 chancres
@@ -20578,6 +20577,7 @@ confriar
 cypruses
 chivareed
 colometrically
+celioelytrotomy
 catmalison
 cacodyls
 cherishable
