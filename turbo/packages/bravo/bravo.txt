@@ -627,6 +627,7 @@ behearse
 bacterid
 birdcages
 baraka
+behaves
 barracked
 brin
 bletherskate
@@ -11510,7 +11511,6 @@ battakhin
 begged
 bathometer
 bumboatman
-behaves
 broadshare
 budder
 blufter
