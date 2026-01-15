@@ -8127,6 +8127,7 @@ antitropal
 arrowheads
 algerian
 algerienne
+aurite
 alizarins
 algerite
 aciduric
@@ -23924,7 +23925,6 @@ authigenous
 anodine
 amphithurons
 astrict
-aurite
 authored
 angas
 anisocotyly
