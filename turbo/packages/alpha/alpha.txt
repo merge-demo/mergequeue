@@ -16447,7 +16447,6 @@ antonymies
 antoniniani
 antoninianus
 acidophil
-appointed
 aurei
 antonomastic
 antonomastical
@@ -21738,6 +21737,7 @@ agistator
 antisi
 assentors
 acarocecidia
+appointed
 asself
 ayyubid
 amphoric
