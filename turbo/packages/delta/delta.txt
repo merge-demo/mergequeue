@@ -8267,6 +8267,7 @@ diagnosing
 duel
 denude
 diagonals
+distancing
 deducting
 diagonalwise
 denudate
@@ -13825,7 +13826,6 @@ distanceless
 distancy
 dissimilar
 diabolarchy
-distancing
 dalmatian
 disjoining
 deceptitious
