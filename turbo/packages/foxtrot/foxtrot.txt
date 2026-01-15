@@ -930,7 +930,6 @@ ferneries
 flyleaf
 foundry
 ft
-foragers
 fed
 fasola
 fourchite
@@ -9517,6 +9516,7 @@ fuseless
 frecklier
 feudalizing
 findfault
+foragers
 fullers
 forche
 foliated
