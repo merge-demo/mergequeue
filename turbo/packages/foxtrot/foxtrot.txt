@@ -962,6 +962,7 @@ fluorids
 frape
 fastigiums
 forkers
+fob
 formalizer
 fillagreed
 fardage
@@ -6279,7 +6280,6 @@ fluent
 flukeworm
 follicle
 ferryhouse
-fob
 falerian
 flumes
 fluminous
