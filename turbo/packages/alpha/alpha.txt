@@ -4666,7 +4666,6 @@ aliveness
 annex
 aefald
 aefaldy
-armatured
 aljoba
 antrostomus
 armet
@@ -16062,6 +16061,7 @@ antipot
 architectonica
 amusing
 antirennin
+armatured
 antirenter
 aldehol
 acinacious
