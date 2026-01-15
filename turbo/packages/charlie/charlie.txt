@@ -7501,7 +7501,6 @@ contemplators
 chastened
 ceratostomataceae
 cytococcus
-cimicidae
 cheliceral
 ceratotheca
 cypridinidae
@@ -13074,6 +13073,7 @@ curtailments
 cibola
 cibolero
 cibols
+cimicidae
 columnea
 ciboney
 cibophobia
