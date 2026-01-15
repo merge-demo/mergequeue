@@ -4077,6 +4077,7 @@ glucolipid
 gimel
 gobernadora
 gol
+glycogenase
 gegenschein
 gogglebox
 genus
@@ -10232,7 +10233,6 @@ grape
 gossypin
 granjeno
 graminivore
-glycogenase
 generating
 guimbard
 gorsehatch
