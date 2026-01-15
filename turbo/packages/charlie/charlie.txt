@@ -10472,7 +10472,6 @@ cogeneric
 created
 childless
 childly
-childliest
 childlike
 childness
 childre
@@ -15981,6 +15980,7 @@ ceticide
 comrado
 conglutin
 clernly
+childliest
 cramper
 compromises
 covado
