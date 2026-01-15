@@ -2912,7 +2912,6 @@ footmark
 frizzen
 factoring
 fumier
-flagonless
 flyboy
 fingian
 farinha
@@ -6049,6 +6048,7 @@ fenceful
 freebooted
 fraternate
 flocculating
+flagonless
 frayn
 floridity
 floriscope
