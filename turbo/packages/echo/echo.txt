@@ -976,6 +976,7 @@ enquiring
 exorbital
 earthwork
 edaphosaurus
+edana
 explosibility
 encapsules
 euthanasic
@@ -2277,7 +2278,6 @@ etnas
 espressos
 exurbias
 endocrania
-edana
 expert
 essene
 entheal
