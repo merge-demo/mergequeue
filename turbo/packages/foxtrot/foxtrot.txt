@@ -1835,7 +1835,6 @@ fating
 feedbags
 footwalk
 flexographic
-frostnipped
 firefly
 farcicality
 funambulate
@@ -4133,6 +4132,7 @@ frogleaf
 fusilading
 fulk
 felonry
+frostnipped
 flexed
 fatling
 fenchyl
