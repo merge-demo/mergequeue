@@ -6876,7 +6876,6 @@ celotomies
 clonks
 cloze
 celsian
-cashbox
 celt
 cofaster
 celtiberian
@@ -19921,6 +19920,7 @@ comitia
 comitial
 colortype
 comitium
+cashbox
 cuscuses
 contrastimulus
 comitje
