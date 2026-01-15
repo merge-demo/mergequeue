@@ -3809,7 +3809,6 @@ duplexed
 despatched
 discommender
 deimos
-diastataxic
 daffs
 dallan
 decharm
@@ -10083,6 +10082,7 @@ dynamotor
 dinanderie
 disfrocks
 dissembles
+diastataxic
 dobrao
 defraudation
 debruised
