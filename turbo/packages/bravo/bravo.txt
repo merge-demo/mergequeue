@@ -14888,6 +14888,7 @@ breakfast
 buffetings
 bastard
 breakfronts
+beavers
 butlerage
 breaking
 barkeep
@@ -15577,7 +15578,6 @@ bodyshirt
 bilbos
 bination
 barometer
-beavers
 brewsterite
 barbacan
 brises
