@@ -3898,7 +3898,6 @@ bodyhood
 bidding
 basifacial
 bawra
-barklyite
 bawsint
 brutalness
 bawsunt
@@ -15807,6 +15806,7 @@ broiled
 bastide
 bullaria
 blare
+barklyite
 beshame
 baldness
 broiling
