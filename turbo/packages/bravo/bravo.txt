@@ -10613,7 +10613,6 @@ blastomas
 bereft
 bestial
 bohemia
-blaunner
 brokenness
 blawing
 bidery
@@ -14348,6 +14347,7 @@ borehole
 bumf
 brahmin
 behowl
+blaunner
 boxkeeper
 brahminists
 brahmoism
