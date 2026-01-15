@@ -1687,6 +1687,7 @@ circ
 cestoi
 counterdiscipline
 calorifical
+communique
 chairs
 calorification
 cardiograph
@@ -24214,7 +24215,6 @@ convolve
 ceratothecae
 cringingly
 constructing
-communique
 cynipidous
 convolves
 capacity
