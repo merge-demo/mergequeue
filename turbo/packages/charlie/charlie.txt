@@ -2708,7 +2708,6 @@ codders
 cephalosporium
 cording
 cubitopalmar
-catostomus
 cankerfret
 compiles
 calcemia
@@ -15221,6 +15220,7 @@ colours
 chlorphenol
 crassina
 clam
+catostomus
 cabriolet
 circumnavigatory
 clamantly

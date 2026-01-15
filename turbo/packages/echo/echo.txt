@@ -6025,6 +6025,7 @@ eyrie
 estoque
 expromissor
 endosarcs
+endemical
 expire
 epiglottises
 enkindles
@@ -13237,7 +13238,6 @@ explat
 empurples
 exertive
 ety
-endemical
 ethize
 explement
 envine
