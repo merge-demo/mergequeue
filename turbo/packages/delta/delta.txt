@@ -10925,7 +10925,6 @@ datolite
 diallist
 deuterocone
 dispenses
-disforestation
 doublethinking
 dorsoradial
 digressions
@@ -16593,6 +16592,7 @@ denunciate
 dragonade
 denotative
 donjon
+disforestation
 dikdiks
 dactylopius
 derout
