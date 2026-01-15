@@ -3108,6 +3108,7 @@ fibrocement
 frenzies
 fieulamort
 formulas
+fertilisable
 frottages
 filoplume
 fibroelastic
@@ -5835,7 +5836,6 @@ floatier
 fulcrums
 flidge
 farine
-fertilisable
 fowling
 factorially
 floatsmen
