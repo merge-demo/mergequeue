@@ -5376,6 +5376,7 @@ begrimes
 begriming
 begrimmed
 bot
+bathometer
 baileys
 brachycardia
 biweekly
@@ -11510,7 +11511,6 @@ baublery
 banyoro
 battakhin
 begged
-bathometer
 bumboatman
 broadshare
 budder
