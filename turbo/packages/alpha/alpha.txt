@@ -3012,7 +3012,6 @@ antireligious
 actinocrinite
 actinodielectric
 actinodromous
-actinoelectrically
 antigenic
 aerogeography
 axemaster
@@ -20736,6 +20735,7 @@ articulars
 accessively
 articulated
 accidental
+actinoelectrically
 articulately
 abut
 amimia
