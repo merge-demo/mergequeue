@@ -4904,6 +4904,7 @@ glaieul
 geodal
 gliomata
 gorier
+graphometric
 gorse
 glauberite
 glair
@@ -10718,7 +10719,6 @@ goonda
 grumping
 grandeur
 gubernatorial
-graphometric
 gox
 gussets
 gloms
