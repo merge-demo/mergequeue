@@ -3314,7 +3314,6 @@ edison
 euharmonic
 endamages
 epileptic
-emancipator
 emarginated
 eventilate
 evildoing
@@ -10171,6 +10170,7 @@ exertion
 endodermis
 expressness
 electrothermally
+emancipator
 endocarpoid
 elenctical
 elodeaceae
