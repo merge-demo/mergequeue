@@ -3016,6 +3016,7 @@ elytrorhagia
 euglandina
 elytrostenosis
 elytrotomy
+elbowbush
 emeer
 eggfish
 elixir
@@ -7409,7 +7410,6 @@ elevate
 ensilability
 ecphorize
 exhibitor
-elbowbush
 etherealized
 ephas
 erythrolytic
