@@ -3978,6 +3978,7 @@ bisulphate
 backstays
 bratty
 boltspreet
+beltcourse
 banyan
 bondon
 brittlewood
@@ -5052,7 +5053,6 @@ bisphenoid
 bostal
 brawest
 brachiofaciolingual
-beltcourse
 bigotedly
 befalling
 benzomorpholine
