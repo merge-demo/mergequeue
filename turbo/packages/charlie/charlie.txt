@@ -14136,7 +14136,6 @@ circularly
 circularness
 circulars
 caravaneer
-circulatable
 cabbalize
 chaetosomatidae
 cyanhydrate
@@ -14384,6 +14383,7 @@ circumvolution
 curdler
 circumvolve
 circumvolved
+circulatable
 circumzenithal
 climb
 crosses
