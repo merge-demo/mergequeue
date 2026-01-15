@@ -2757,7 +2757,6 @@ gauger
 guestchamber
 gorraf
 gipped
-gallused
 gonangia
 grover
 gekkonidae
@@ -10704,6 +10703,7 @@ gu
 grams
 gumma
 gastrolytic
+gallused
 gutnic
 gracioso
 guywire
