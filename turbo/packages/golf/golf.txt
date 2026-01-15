@@ -1034,7 +1034,6 @@ gnomons
 geophilous
 guttle
 glanduliferous
-gully
 geognostic
 geodetician
 ganger
@@ -7534,6 +7533,7 @@ gotten
 graecizing
 governesses
 galvanotonic
+gully
 greathead
 guideless
 gatelike
