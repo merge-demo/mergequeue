@@ -11749,7 +11749,6 @@ axises
 alban
 amigo
 anagap
-amos
 aerotechnics
 avoure
 appraisal
@@ -11985,6 +11984,7 @@ anaemias
 apostrophal
 anaphylactin
 anaphylactogenic
+amos
 anaphylatoxin
 apectomy
 anaphyte
