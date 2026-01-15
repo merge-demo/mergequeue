@@ -14949,7 +14949,6 @@ attroupement
 abret
 anticlines
 anticlinoria
-amphigouri
 anticlinorium
 axised
 anaphoral
@@ -17697,6 +17696,7 @@ alleging
 acidoid
 apparatuses
 agrostis
+amphigouri
 agathology
 apicial
 assail
