@@ -7668,7 +7668,6 @@ bezan
 biplace
 bezanty
 brassiness
-bargain
 bezants
 bezazzes
 bilk
@@ -15465,6 +15464,7 @@ beiges
 boba
 bullule
 bemusing
+bargain
 bilious
 brilliantly
 brilliantwise
