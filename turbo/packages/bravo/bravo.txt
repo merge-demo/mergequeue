@@ -2503,6 +2503,7 @@ billbugs
 bucchero
 bargaining
 beechwoods
+balancer
 burian
 bhut
 bedark
@@ -3807,7 +3808,6 @@ baboon
 bazzite
 browsing
 bescorched
-balancer
 bristlecone
 beerish
 benzole
