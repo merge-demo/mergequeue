@@ -2916,6 +2916,7 @@ cantaloupes
 catboat
 cantando
 cantankerous
+chapelries
 capsizable
 cantankerously
 counteractive
@@ -8728,7 +8729,6 @@ chapelmaster
 colonises
 chapelry
 combflower
-chapelries
 cinerins
 chapels
 chapelward
