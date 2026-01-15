@@ -5283,7 +5283,6 @@ frightless
 fogbound
 flukes
 fumage
-fishingly
 fluoridize
 fatwood
 fretters
@@ -5803,6 +5802,7 @@ firehouse
 figgery
 furbishes
 flintlocks
+fishingly
 filemark
 farts
 ferr
