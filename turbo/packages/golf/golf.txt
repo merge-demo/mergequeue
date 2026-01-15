@@ -4405,6 +4405,7 @@ gongs
 gorgoneum
 guestling
 gutted
+guze
 ghaut
 gluer
 graces
@@ -7309,7 +7310,6 @@ gyrostatic
 genet
 graves
 gutturally
-guze
 gravelling
 gangly
 gappier
