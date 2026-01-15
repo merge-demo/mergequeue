@@ -3269,7 +3269,6 @@ fraticellian
 ferrites
 faunology
 fluidrams
-ferrimagnetically
 fieldpieces
 feudovassalism
 forefeet
@@ -11067,6 +11066,7 @@ fezzy
 frowner
 frameae
 fellsman
+ferrimagnetically
 flaminica
 fractionated
 forficated
