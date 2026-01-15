@@ -10388,7 +10388,6 @@ edulcorator
 eruct
 edmond
 embrase
-exhance
 earwigging
 epiphanize
 electropositive
@@ -12013,6 +12012,7 @@ enterfeat
 exampleship
 essentials
 eigenspace
+exhance
 etherion
 espeire
 electrostrictive
