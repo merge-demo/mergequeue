@@ -4572,7 +4572,6 @@ fringilliformes
 foliages
 fissidens
 feetage
-fossilify
 fisheye
 fieldstone
 fistuca
@@ -8651,6 +8650,7 @@ forth
 freesia
 flatfooted
 flaunters
+fossilify
 fryers
 furicane
 flapless
