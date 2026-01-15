@@ -2170,7 +2170,6 @@ camphols
 contemnor
 camphorated
 camphorates
-camphory
 camphoryl
 corgi
 camphoroyl
@@ -4190,6 +4189,7 @@ cardiopulmonary
 cardiorenal
 cardiorespiratory
 cardiorrhaphy
+camphory
 cardiorrheuma
 cardiospermum
 celts
