@@ -1373,6 +1373,7 @@ gesturers
 garmentmaker
 grafting
 gemmel
+glutted
 gelogenic
 green
 garments
@@ -2072,7 +2073,6 @@ glyptodont
 guideboard
 gunbuilder
 gutlessness
-glutted
 gavots
 gazetteership
 glycerophosphoric
