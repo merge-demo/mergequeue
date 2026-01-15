@@ -2303,7 +2303,6 @@ encrypting
 eyras
 elfkin
 exradius
-electroacoustics
 enthetic
 exundation
 electroanesthesia
@@ -6532,6 +6531,7 @@ endothelioma
 eclectic
 engroove
 entelechies
+electroacoustics
 entomologic
 engorging
 entendre
