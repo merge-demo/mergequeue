@@ -4926,7 +4926,6 @@ gilt
 gardenhood
 gladdened
 greenbottle
-gestural
 get
 gent
 galangal
@@ -7026,6 +7025,7 @@ gastronomes
 glazier
 glamorizes
 grillade
+gestural
 gerundially
 grindle
 gomart
