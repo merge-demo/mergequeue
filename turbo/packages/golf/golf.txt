@@ -4467,7 +4467,6 @@ generaliter
 greffier
 graveyard
 gipsydom
-giddyhead
 gugu
 galtonian
 gypsyfy
@@ -7819,6 +7818,7 @@ gooiest
 garneter
 glagol
 gestion
+giddyhead
 guanche
 graisse
 geerah
