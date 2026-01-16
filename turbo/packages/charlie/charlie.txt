@@ -5353,7 +5353,6 @@ castable
 castagnole
 castalian
 castalides
-cardiopuncture
 chertier
 castanea
 chewy
@@ -12418,6 +12417,7 @@ chromiums
 chromize
 crocard
 congoese
+cardiopuncture
 chromizing
 caswellite
 chromoblast
