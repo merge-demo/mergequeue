@@ -275,7 +275,6 @@ booths
 bedotted
 boltuprightness
 bespangled
-belar
 back
 brachiocubital
 backache
@@ -1319,6 +1318,7 @@ bottine
 balantidic
 balaos
 baroquely
+belar
 benzamino
 barbed
 balases
