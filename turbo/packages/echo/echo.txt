@@ -6879,6 +6879,7 @@ eucalyn
 epiblema
 epitrchelia
 exudation
+errorless
 exarchal
 elasticize
 escudos
@@ -12286,7 +12287,6 @@ exempted
 exemption
 essenhout
 entremess
-errorless
 exemptions
 ephemerist
 eviternal
