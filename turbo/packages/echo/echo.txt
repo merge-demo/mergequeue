@@ -814,6 +814,7 @@ epicarpal
 enwrite
 erythrinidae
 eral
+endocyst
 excrescent
 extremest
 extradecretal
@@ -5069,7 +5070,6 @@ eremitic
 endochorion
 endochorionic
 engrains
-endocyst
 epodic
 enucleate
 experted
