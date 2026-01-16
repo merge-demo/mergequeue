@@ -8821,7 +8821,6 @@ acescents
 alodial
 antisensuously
 allium
-alliums
 antiministerialist
 allivalite
 appeases
@@ -20611,6 +20610,7 @@ aristotelian
 alkoxy
 assimilations
 administerings
+alliums
 amniote
 androgonium
 arthrodirous
