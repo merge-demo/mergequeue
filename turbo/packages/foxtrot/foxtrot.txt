@@ -792,7 +792,6 @@ folkloric
 footworn
 fulmen
 flogging
-fatality
 froster
 forensicality
 flipe
@@ -11390,6 +11389,7 @@ footballer
 flushness
 fourposter
 farceuse
+fatality
 fleak
 furnishes
 fiddles
