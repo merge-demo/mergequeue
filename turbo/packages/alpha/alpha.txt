@@ -15772,7 +15772,6 @@ adventure
 alya
 antipatriotically
 avengers
-antipatriotism
 agada
 autoinhibited
 apodeme
@@ -19751,6 +19750,7 @@ aristotle
 arytenoepiglottic
 amphiblestritis
 alfuro
+antipatriotism
 ambatch
 antinihilistic
 arithmancy
