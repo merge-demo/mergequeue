@@ -11561,7 +11561,6 @@ diphead
 disconnecting
 disconnection
 diplococcic
-disconnector
 demicannon
 denotable
 dollarfish
@@ -16988,6 +16987,7 @@ droning
 demipillar
 dendrocoela
 daybooks
+disconnector
 disjoined
 diacritically
 displenish
