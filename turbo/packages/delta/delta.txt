@@ -8916,6 +8916,7 @@ divinyl
 dichloramine
 dichloride
 dichloroacetic
+dentalization
 dichlorodifluoromethane
 domiciling
 deticked
@@ -11338,7 +11339,6 @@ dehydrogenise
 decorement
 delimiter
 dischevel
-dentalization
 dissimulator
 disci
 diabases
