@@ -10865,7 +10865,6 @@ chippy
 counterlighting
 cobishop
 cometic
-chloralose
 canzoni
 chippie
 chippier
@@ -15965,6 +15964,7 @@ coinventor
 carryovers
 cobstone
 clerkdom
+chloralose
 clerkery
 clerkess
 caligated
