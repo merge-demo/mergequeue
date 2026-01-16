@@ -2680,7 +2680,6 @@ decompress
 decompresses
 detectaphone
 demiplacate
-dogies
 dcollet
 dhurnas
 dishonourer
@@ -15226,6 +15225,7 @@ distinguishability
 dryest
 dosiology
 disrupts
+dogies
 dialogized
 departmentalizing
 dollia
