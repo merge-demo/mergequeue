@@ -3975,6 +3975,7 @@ expiations
 embarrassingly
 edictum
 enfolded
+epiparodos
 egalite
 extramodal
 empatron
@@ -7633,7 +7634,6 @@ eccentricities
 elapse
 eoliths
 enterohelcosis
-epiparodos
 epicortical
 enterostomy
 esere
