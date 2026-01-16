@@ -2071,7 +2071,6 @@ fructidor
 fusibleness
 freeform
 fideistic
-fogle
 federalist
 floriculture
 felicitator
@@ -9523,6 +9522,7 @@ foragers
 fullers
 forche
 foliated
+fogle
 fyrd
 fishwives
 felicitate
