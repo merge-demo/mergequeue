@@ -1472,6 +1472,7 @@ dories
 dispulp
 deckhouses
 dazes
+dignities
 dazzle
 dawnstreak
 discriminative
@@ -9560,7 +9561,6 @@ dignitary
 dignitarian
 demophoon
 doubloons
-dignities
 drunks
 dignotion
 dependants
