@@ -7233,6 +7233,7 @@ exsector
 electrocatalytic
 encephalomere
 epidemiology
+exterraneous
 energetics
 eccaleobion
 ensealed
@@ -14109,7 +14110,6 @@ eustatically
 enzymically
 extendedness
 epiphyses
-exterraneous
 entrancements
 extrinsically
 extrinsicalness
