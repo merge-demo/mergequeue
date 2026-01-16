@@ -2790,7 +2790,6 @@ desmogen
 dugal
 dop
 dorsalward
-disharmonize
 decremeter
 dicyemida
 demarches
@@ -10728,6 +10727,7 @@ delocalisation
 donship
 diacanthous
 disarranged
+disharmonize
 disinfects
 dhoon
 decessor
