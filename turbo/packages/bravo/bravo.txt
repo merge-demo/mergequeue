@@ -4969,6 +4969,7 @@ bimedial
 bonework
 blesse
 belgae
+butte
 barmier
 boulles
 bactritoid
@@ -16642,7 +16643,6 @@ battleship
 beanpole
 bejewelled
 brawls
-butte
 bavius
 booty
 bachelors
