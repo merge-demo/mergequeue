@@ -11934,7 +11934,6 @@ disbloom
 disembarks
 dentifrices
 degum
-decrease
 dyable
 deliberation
 deutovum
@@ -13720,6 +13719,7 @@ disturbation
 discoids
 defends
 doorplate
+decrease
 divalent
 dejecta
 demulsion
