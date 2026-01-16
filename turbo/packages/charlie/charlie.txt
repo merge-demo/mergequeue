@@ -10389,6 +10389,7 @@ conemaker
 chierete
 chievance
 chieve
+casterless
 chifferobe
 causalgia
 cosmocratic
@@ -14615,7 +14616,6 @@ corpusculum
 cystometer
 cystomyoma
 coadore
-casterless
 cystomyxoma
 chillum
 cystonectae
