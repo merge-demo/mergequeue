@@ -5854,7 +5854,6 @@ bengaline
 bellyful
 boor
 beadier
-barbermonger
 blacklisted
 boozily
 bellyland
@@ -11352,6 +11351,7 @@ barabbas
 balanism
 bestialising
 bankable
+barbermonger
 bromegrass
 bluchers
 bludge
