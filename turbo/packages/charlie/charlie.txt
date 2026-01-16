@@ -11630,7 +11630,6 @@ cholesterol
 clepsydrae
 cholesterolemia
 cholesteroluria
-choletelin
 controversial
 chack
 choline
@@ -22441,6 +22440,7 @@ coning
 cosiest
 circumduction
 conins
+choletelin
 coniogramme
 contradiscriminate
 cecostomy
