@@ -2777,6 +2777,7 @@ arloup
 attar
 acrobryous
 alarms
+auscult
 airglow
 apotropaion
 autopista
@@ -24751,7 +24752,6 @@ aniline
 appleberry
 approximated
 axonost
-auscult
 acromioscapular
 aviations
 aviatoriality
