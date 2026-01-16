@@ -3791,6 +3791,7 @@ foxer
 filmstrips
 filo
 filose
+forefather
 ferrier
 furnitureless
 foreflap
@@ -11152,7 +11153,6 @@ ferulae
 featurally
 flowerbed
 flintwork
-forefather
 funereally
 fiddly
 force
