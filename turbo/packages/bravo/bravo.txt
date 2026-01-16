@@ -1155,7 +1155,6 @@ brunets
 bridges
 baitfish
 buffeter
-ballard
 baiting
 baittle
 baywoods
@@ -7541,6 +7540,7 @@ barrelmaking
 boneache
 bourbonism
 bibbing
+ballard
 bestower
 betaine
 businessman
