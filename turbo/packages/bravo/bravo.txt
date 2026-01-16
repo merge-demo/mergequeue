@@ -8630,7 +8630,6 @@ blechnum
 basigenic
 baraza
 billon
-baronizing
 billow
 bimorph
 balladeroyal
@@ -14713,6 +14712,7 @@ baignoire
 bagio
 brat
 brutter
+baronizing
 blender
 buboed
 bounder
