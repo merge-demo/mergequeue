@@ -7663,6 +7663,7 @@ forspeak
 favourers
 forehoofs
 fewter
+fluotantalic
 forehooves
 forpit
 foreboding
@@ -8588,7 +8589,6 @@ farmyard
 forescript
 floury
 fumarases
-fluotantalic
 foredid
 flecks
 fir
