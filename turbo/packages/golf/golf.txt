@@ -5153,7 +5153,6 @@ genetmoil
 glazers
 geldant
 grouch
-gibus
 gnostology
 gingham
 gantsl
@@ -8465,6 +8464,7 @@ glottises
 gastaldite
 gadzooks
 gushet
+gibus
 gomphosis
 garancine
 goatishness
