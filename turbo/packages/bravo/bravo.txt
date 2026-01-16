@@ -3944,6 +3944,7 @@ booksellerish
 bombardier
 bocstaff
 brickbats
+bedirty
 bdelloura
 barbra
 bisected
@@ -12335,7 +12336,6 @@ bombasts
 bombed
 beseemed
 bomber
-bedirty
 begroaning
 balatronic
 bombes
