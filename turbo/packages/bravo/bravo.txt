@@ -2579,6 +2579,7 @@ bactrian
 backtalk
 barile
 barilla
+butch
 beleaf
 barters
 bathofloric
@@ -18102,7 +18103,6 @@ butanols
 bind
 bergander
 bouderie
-butch
 butcha
 bedoyo
 bolbanac
