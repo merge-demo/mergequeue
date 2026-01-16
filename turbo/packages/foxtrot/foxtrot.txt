@@ -313,7 +313,6 @@ fraternation
 feints
 feint
 fostell
-finagles
 fibrillated
 finochio
 flusker
@@ -8387,6 +8386,7 @@ fm
 filcher
 futhark
 form
+finagles
 fluoroscopes
 fullerboard
 folksy
