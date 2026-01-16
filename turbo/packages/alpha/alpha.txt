@@ -7804,7 +7804,6 @@ aldolized
 aldolizing
 aldols
 aldose
-aldoside
 aldosterone
 antonia
 aldosteronism
@@ -23910,6 +23909,7 @@ apathy
 allotters
 aciculas
 apocaffeine
+aldoside
 athetosic
 auganite
 avionic
