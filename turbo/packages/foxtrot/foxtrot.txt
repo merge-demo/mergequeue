@@ -9431,6 +9431,7 @@ flamens
 fratry
 flippery
 furnaceman
+fistful
 fulcrate
 furculum
 fastwalk
@@ -11098,7 +11099,6 @@ frostwork
 flatter
 functionalist
 fundamentalist
-fistful
 font
 fiendlier
 flops
