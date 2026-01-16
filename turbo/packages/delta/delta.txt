@@ -2835,7 +2835,6 @@ decastellate
 draggle
 desidious
 decrypt
-decryption
 dasyus
 decrowning
 dustier
@@ -11701,6 +11700,7 @@ dorms
 discoverer
 diabolised
 decancellation
+decryption
 discoverture
 deplume
 discradle
