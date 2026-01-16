@@ -2576,7 +2576,6 @@ ferrocyanate
 ferroelectric
 fingerbreadth
 fattier
-ferrogoslarite
 forcet
 franked
 foud
@@ -3899,6 +3898,7 @@ fumigators
 fusinist
 fluoridated
 fullage
+ferrogoslarite
 frostproof
 frolicsomely
 fustianize
