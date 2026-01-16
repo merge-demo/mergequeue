@@ -4314,7 +4314,6 @@ emit
 edibles
 enami
 eleut
-enamorado
 enamorato
 extraordinariness
 enamorment
@@ -7657,6 +7656,7 @@ encefalon
 enringed
 engagingly
 ectocrine
+enamorado
 envying
 espece
 epicuticle
