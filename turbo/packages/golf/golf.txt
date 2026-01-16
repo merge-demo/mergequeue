@@ -7944,7 +7944,6 @@ goracco
 gerbil
 grandaunt
 gheg
-gadolinic
 glairy
 gainless
 greenhorn
@@ -10532,6 +10531,7 @@ gentamicin
 gunge
 germinability
 gunjah
+gadolinic
 gaucheries
 genisaro
 glyceraldehyde
