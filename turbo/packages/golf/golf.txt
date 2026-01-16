@@ -3542,6 +3542,7 @@ goth
 geums
 gangues
 garmentworker
+gamodeme
 ganglions
 gymnorhina
 geomagnetist
@@ -9324,7 +9325,6 @@ grinder
 geomagnetically
 gront
 gorbellies
-gamodeme
 genuflect
 gangtide
 geronomite
