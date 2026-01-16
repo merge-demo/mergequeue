@@ -6422,7 +6422,6 @@ alnascharism
 antefixa
 agrotype
 aurochloride
-anthotaxy
 anerly
 arguta
 aggravate
@@ -22590,6 +22589,7 @@ ateliotic
 atelo
 atelocephalous
 alternativo
+anthotaxy
 ateloglossia
 abacist
 atelomyelia
