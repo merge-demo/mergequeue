@@ -11335,7 +11335,6 @@ eveless
 estrildine
 eth
 eveline
-equidifferent
 epitrochlear
 evenfall
 ennerve
@@ -14155,6 +14154,7 @@ escapists
 episcopising
 entredeux
 extrusory
+equidifferent
 eof
 examinations
 ecdysiast
