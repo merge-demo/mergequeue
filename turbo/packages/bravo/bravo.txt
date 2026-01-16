@@ -9817,7 +9817,6 @@ bisulfate
 biblioklept
 bromatology
 bocca
-bitable
 bidialectal
 bytalks
 bitanhol
@@ -11182,6 +11181,7 @@ bumelia
 brutalised
 bellhanger
 bailee
+bitable
 bushgoat
 bugfish
 biquadratic
