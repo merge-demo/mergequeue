@@ -5750,7 +5750,6 @@ doodler
 dewormed
 depopulation
 denitrize
-debeak
 dowve
 disimitation
 demipuppet
@@ -12609,6 +12608,7 @@ definitise
 dephase
 disinvagination
 deepfroze
+debeak
 directs
 dargsman
 daynet
