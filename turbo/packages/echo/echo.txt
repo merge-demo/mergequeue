@@ -12305,7 +12305,6 @@ exerce
 equimultiple
 exceptious
 epanisognathous
-endotracheitis
 equimolecular
 epimerite
 erichtoid
@@ -13456,6 +13455,7 @@ endome
 expropriate
 egalitarian
 elem
+endotracheitis
 evaluable
 epitomization
 enzymolysis
