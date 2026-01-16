@@ -1392,7 +1392,6 @@ grabbles
 gorb
 gastrostegal
 gravitometer
-garnetter
 glyconeogenetic
 guttular
 gamily
@@ -8086,6 +8085,7 @@ gasiform
 gribane
 gamone
 gaiters
+garnetter
 geomorphogeny
 giblets
 grimily
