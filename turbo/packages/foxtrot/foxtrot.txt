@@ -912,6 +912,7 @@ ferrate
 faquir
 farad
 faradaic
+flopper
 filleted
 fluorometer
 flamed
@@ -1040,7 +1041,6 @@ flypaper
 formicarian
 frieda
 focalization
-flopper
 felspathose
 foined
 floricomous
