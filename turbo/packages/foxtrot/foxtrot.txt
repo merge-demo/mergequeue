@@ -2343,7 +2343,6 @@ frauder
 filmable
 flanneled
 fencelike
-floaters
 flunked
 friarly
 funerary
@@ -9165,6 +9164,7 @@ fanaloka
 fruiterer
 fasciotomy
 finitudes
+floaters
 fascinations
 foveoles
 footled
