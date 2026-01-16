@@ -3285,6 +3285,7 @@ dragoons
 drostden
 defibrillatory
 dropax
+disentrail
 dissatisfactory
 defier
 drogues
@@ -12071,7 +12072,6 @@ drepanaspis
 disentombment
 disclaimers
 deplaceable
-disentrail
 disentrainment
 disentrance
 depilatory
