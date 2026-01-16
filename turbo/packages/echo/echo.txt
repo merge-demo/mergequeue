@@ -3949,7 +3949,6 @@ eohippus
 euskara
 extremistic
 encephalic
-emotioned
 emotionize
 epimeron
 emolument
@@ -13542,6 +13541,7 @@ execrating
 extemporarily
 exscutellate
 extravagancy
+emotioned
 elflock
 eutaxie
 excitements
