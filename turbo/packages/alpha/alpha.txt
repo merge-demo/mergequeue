@@ -13055,6 +13055,7 @@ abbreviating
 aluniferous
 aeroballistics
 arrowy
+artefacts
 agglomeratic
 anhedral
 anhelation
@@ -13669,7 +13670,6 @@ anodized
 abaisance
 anodizes
 acoelomous
-artefacts
 ampollosity
 antituberculous
 anticum
