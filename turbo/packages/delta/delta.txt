@@ -6272,7 +6272,6 @@ dehydrators
 dermatoplasm
 diapositive
 deozonizer
-decolonization
 debatter
 dermatorrhagia
 drossy
@@ -13792,6 +13791,7 @@ disturbedly
 disenchants
 dion
 dissuasion
+decolonization
 depravedly
 deaspirate
 dirndls
