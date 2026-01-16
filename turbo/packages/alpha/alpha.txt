@@ -9171,7 +9171,6 @@ antiputrefaction
 averter
 animations
 apollonistic
-almemars
 approof
 alienly
 amebid
@@ -14836,6 +14835,7 @@ anadipsic
 antiscii
 abbreviations
 arricciatos
+almemars
 ascribes
 antichance
 animatograph
