@@ -8566,6 +8566,7 @@ farmsteading
 forninst
 fricative
 flexor
+flyover
 fornix
 fanegada
 forspent
@@ -10090,7 +10091,6 @@ firstly
 fenetre
 fluviometer
 fiberizing
-flyover
 flintifying
 forefatherly
 franion
