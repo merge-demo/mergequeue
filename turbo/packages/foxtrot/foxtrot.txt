@@ -5120,7 +5120,6 @@ frivolous
 fawns
 fructure
 fort
-flasker
 furless
 fastuousness
 foretooth
@@ -6415,6 +6414,7 @@ fluorimetric
 fluorobenzene
 fructifies
 frizing
+flasker
 foreship
 frivoled
 frogeye
