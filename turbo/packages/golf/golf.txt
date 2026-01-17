@@ -813,7 +813,6 @@ gonia
 goldbeater
 gambe
 gourmanderie
-gambeered
 glauke
 greenlandite
 gastrostenosis
@@ -9735,6 +9734,7 @@ googolplex
 guying
 grummet
 genuflector
+gambeered
 gournard
 gambir
 gordiidae
