@@ -5557,6 +5557,7 @@ antifreezing
 afterpast
 afflux
 afterplanting
+anhedonia
 absinthium
 acknew
 afterreckoning
@@ -14312,7 +14313,6 @@ anthelia
 aramaean
 amphibolies
 autochthonous
-anhedonia
 anthelix
 archaeomagnetism
 anthem
