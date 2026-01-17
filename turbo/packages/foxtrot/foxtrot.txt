@@ -5806,7 +5806,6 @@ filemark
 farts
 ferr
 freakdom
-ferox
 forestallment
 fenestration
 flywinch
@@ -9485,6 +9484,7 @@ forbreak
 floatman
 florets
 fibdom
+ferox
 functionalism
 faveoluli
 flambeaus
