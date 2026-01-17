@@ -3414,6 +3414,7 @@ embogue
 ennuyant
 ecalcavate
 errand
+esthesias
 exolete
 exemplar
 ecliptic
@@ -7958,7 +7959,6 @@ epimers
 encyclopaedia
 equilobed
 epimysia
-esthesias
 expunger
 enflesh
 eteocreton
