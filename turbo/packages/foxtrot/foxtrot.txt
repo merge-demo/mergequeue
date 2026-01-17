@@ -9154,7 +9154,6 @@ fashionmonging
 fenagles
 farrieries
 foreclosing
-foreteller
 faithlessness
 fracturing
 federarie
@@ -10896,6 +10895,7 @@ ferris
 fulled
 feeing
 fieldwort
+foreteller
 fliskier
 forsworn
 falloffs
