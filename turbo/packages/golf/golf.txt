@@ -752,6 +752,7 @@ galvanology
 geomechanics
 gombeen
 gueridon
+gilden
 goumi
 genae
 galvanoplasty
@@ -1079,7 +1080,6 @@ geomalic
 glaucoma
 glor
 gonimous
-gilden
 gloiosiphoniaceae
 genoas
 granddaddy
