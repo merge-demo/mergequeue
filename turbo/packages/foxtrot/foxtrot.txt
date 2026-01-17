@@ -11106,6 +11106,7 @@ font
 fiendlier
 flops
 fervanite
+fusarial
 foyaite
 flatbread
 fastland
@@ -11679,7 +11680,6 @@ fadable
 frigorific
 feru
 felids
-fusarial
 forelands
 finikin
 flare
