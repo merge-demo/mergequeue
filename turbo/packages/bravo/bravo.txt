@@ -5358,6 +5358,7 @@ bacteriogenic
 blueweed
 besoothement
 buyable
+biloculina
 bromobenzene
 barodynamic
 barbarisation
@@ -18204,7 +18205,6 @@ backdated
 bibliothecary
 bremely
 busycon
-biloculina
 butsu
 binately
 brigbote
