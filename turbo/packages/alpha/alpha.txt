@@ -2219,6 +2219,7 @@ anguinidae
 aerostats
 autoptic
 assessably
+anthrasilicosis
 alginic
 amphioxides
 anomalipod
@@ -24317,7 +24318,6 @@ autophon
 aftertaste
 althaein
 ablepsy
-anthrasilicosis
 autophotoelectric
 autopilot
 autoincrement
