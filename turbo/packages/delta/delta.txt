@@ -3966,7 +3966,6 @@ drugless
 dustman
 decontaminator
 disquixote
-delatinize
 delation
 dichocarpous
 delators
@@ -16590,6 +16589,7 @@ dikdiks
 dactylopius
 derout
 denotations
+delatinize
 dialuric
 decorations
 deionization
