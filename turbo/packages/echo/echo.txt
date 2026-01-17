@@ -7274,7 +7274,6 @@ explodent
 exoascaceae
 ejicient
 enclitics
-exlex
 elechi
 engird
 excheat
@@ -14100,6 +14099,7 @@ extremuma
 ectozoa
 extrasacerdotal
 extricable
+exlex
 extricably
 egbo
 ericad
