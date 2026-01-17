@@ -5558,7 +5558,6 @@ flyby
 fratch
 flybys
 forfault
-fiendlike
 folkvangr
 flockowner
 firefight
@@ -6227,6 +6226,7 @@ felloes
 freewheelers
 farmtown
 forgrow
+fiendlike
 fizzles
 firnismalerei
 fluidic
