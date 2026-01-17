@@ -336,7 +336,6 @@ depasturage
 desalted
 daydreamy
 daydreaming
-deerweed
 disbound
 daydreams
 dilligrout
@@ -11575,6 +11574,7 @@ datasets
 dispeopling
 demophobe
 digester
+deerweed
 dunkle
 dysoxidizable
 divulgator
