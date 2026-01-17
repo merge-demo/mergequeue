@@ -737,7 +737,6 @@ badger
 breeches
 backyard
 bogwort
-badgerer
 blundersome
 booking
 banana
@@ -8438,6 +8437,7 @@ bilaminar
 burblier
 bemusement
 behaviors
+badgerer
 bilaterally
 belabouring
 boggart
