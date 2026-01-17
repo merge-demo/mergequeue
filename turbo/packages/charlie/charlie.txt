@@ -10840,7 +10840,6 @@ centropomus
 cinnoline
 chip
 chipchop
-chipewyan
 chiplet
 culvert
 claviharp
@@ -17129,6 +17128,7 @@ condominiums
 coadmits
 coadmitted
 caner
+chipewyan
 coadnate
 chloronaphthalene
 conspicuousness
