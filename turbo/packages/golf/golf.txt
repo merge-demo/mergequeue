@@ -4365,7 +4365,6 @@ guz
 glottochronology
 gondi
 gardened
-gerund
 galvanoscope
 ginhouse
 gooselike
@@ -10149,6 +10148,7 @@ glideness
 guardianly
 git
 gingely
+gerund
 grown
 gabbiest
 grandstands
