@@ -2331,7 +2331,6 @@ feoffs
 fasciole
 fra
 fiftyfold
-footstalk
 formalizing
 fer
 firecoat
@@ -3948,6 +3947,7 @@ funneled
 farcical
 follyproof
 fossil
+footstalk
 footsteps
 founders
 focalise
