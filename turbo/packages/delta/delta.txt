@@ -12457,7 +12457,6 @@ doubtably
 dertrum
 damageableness
 dancette
-dexterity
 defy
 deboise
 demesne
@@ -15303,6 +15302,7 @@ dismit
 demonolatry
 deafforestation
 dolphus
+dexterity
 dryfat
 displeasured
 doating
