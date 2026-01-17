@@ -3258,6 +3258,7 @@ basilic
 bantingize
 bedouin
 basilica
+bookmarks
 belverdian
 basilical
 brookable
@@ -12759,7 +12760,6 @@ bidarka
 begarie
 baguet
 bepimples
-bookmarks
 bastardisation
 bookmobiles
 baroni
