@@ -5778,6 +5778,7 @@ fussiest
 forebear
 fossiliferous
 fructicultural
+formatted
 fumeroot
 fallage
 fastigium
@@ -11303,7 +11304,6 @@ firearm
 fulmicotton
 fatwa
 firedog
-formatted
 feverfew
 firesides
 fraternize
