@@ -4885,6 +4885,7 @@ excisions
 ef
 encumbrance
 extrabureau
+extratorrid
 english
 erythroneocytosis
 encumbrous
@@ -8536,7 +8537,6 @@ eugenicists
 equalitarian
 equalitarianism
 essee
-extratorrid
 ethmoiditis
 epiphysis
 elain
