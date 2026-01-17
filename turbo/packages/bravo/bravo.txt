@@ -1944,6 +1944,7 @@ bacon
 balsa
 bandrol
 bonniest
+bonnetlike
 bework
 boreus
 bandsawn
@@ -12590,7 +12591,6 @@ bonnethead
 bedway
 bagie
 bonnetiere
-bonnetlike
 bonnibel
 blurts
 bibbers
