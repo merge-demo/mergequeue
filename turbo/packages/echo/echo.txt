@@ -1069,7 +1069,6 @@ edification
 exfigure
 earock
 equipoised
-evaluates
 envined
 edificatory
 epimerize
@@ -1804,6 +1803,7 @@ ectepicondylar
 elbow
 exopodite
 eigenvalues
+evaluates
 evaginated
 effervescive
 ensouling
