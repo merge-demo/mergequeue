@@ -145,6 +145,7 @@ fracturable
 frigidaria
 flayers
 fellaheen
+fights
 facks
 forefront
 fumitories
@@ -2746,7 +2747,6 @@ frizer
 foreparts
 freddo
 fibroserous
-fights
 festerment
 footway
 feis
