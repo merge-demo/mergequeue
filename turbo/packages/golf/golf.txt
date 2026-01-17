@@ -2786,7 +2786,6 @@ gantlope
 grimsir
 goblets
 gluttonised
-graduals
 gurr
 gemeinde
 gaunt
@@ -4089,6 +4088,7 @@ gratten
 gelechiid
 goosemouth
 gaulic
+graduals
 gamekeeper
 gaufer
 gudget
