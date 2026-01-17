@@ -7751,7 +7751,6 @@ bhikshu
 bullan
 breakover
 brocard
-bhindi
 bowstave
 bhishti
 bhistie
@@ -17455,6 +17454,7 @@ babeldom
 browny
 bunnia
 bicoloured
+bhindi
 bunnies
 bunodont
 brickleness
