@@ -6703,6 +6703,7 @@ fighters
 feast
 fellowships
 forelegs
+foray
 fogon
 fogproof
 frugally
@@ -10130,7 +10131,6 @@ falchions
 finalize
 fluid
 frivolousness
-foray
 faunula
 felspathic
 felled
