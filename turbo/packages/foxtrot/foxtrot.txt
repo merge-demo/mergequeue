@@ -1600,7 +1600,6 @@ formidability
 favosites
 fixings
 finer
-florae
 fiddlebow
 forereaching
 floppies
@@ -6679,6 +6678,7 @@ fogfruits
 frizel
 fluerics
 fasciculated
+florae
 formicariae
 foofaraws
 furrier
