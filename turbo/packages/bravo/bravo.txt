@@ -12231,7 +12231,6 @@ bolo
 bannerman
 bicron
 bogberries
-baloo
 bicarbide
 buckhound
 buttonmould
@@ -17759,6 +17758,7 @@ biobibliography
 burnwood
 brainchildren
 basileus
+baloo
 browsage
 bravadoes
 burped
