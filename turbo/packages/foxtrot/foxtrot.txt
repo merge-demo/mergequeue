@@ -5183,6 +5183,7 @@ frivolers
 foreclaw
 formalin
 fuchsia
+finished
 familarity
 frumpery
 funest
@@ -10884,7 +10885,6 @@ foeman
 frigorifico
 fulgurated
 forgathers
-finished
 fucused
 forthcoming
 fractural
