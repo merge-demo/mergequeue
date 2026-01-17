@@ -3947,7 +3947,6 @@ bulkily
 bedirty
 bdelloura
 barbra
-bisected
 bassette
 bunch
 bristols
@@ -6693,6 +6692,7 @@ berkeleianism
 berkelium
 berkovets
 berkovtsi
+bisected
 bedull
 bayesian
 browsability
