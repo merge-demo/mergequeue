@@ -4826,6 +4826,7 @@ badmouth
 branchia
 breekless
 bedspring
+betread
 benedicite
 bollix
 brazenface
@@ -7428,7 +7429,6 @@ bequeathment
 bimarginate
 bedgown
 boatings
-betread
 barnier
 bathybius
 braveries
