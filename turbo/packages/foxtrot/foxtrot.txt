@@ -4131,7 +4131,6 @@ fumeuses
 frogleaf
 fusilading
 fulk
-felonry
 frostnipped
 flexed
 fatling
@@ -6482,6 +6481,7 @@ fotui
 filches
 figurally
 fluted
+felonry
 featherbedded
 frenzied
 floozy
