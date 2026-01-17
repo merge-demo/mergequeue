@@ -11940,7 +11940,6 @@ chorines
 collunarium
 cachina
 chorioallantoic
-chorioallantoid
 chorioallantois
 centrifugation
 cornbread
@@ -20969,6 +20968,7 @@ cobhead
 cymous
 cultuses
 comprizing
+chorioallantoid
 cresol
 comprobation
 comproduce
