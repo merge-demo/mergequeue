@@ -4778,6 +4778,7 @@ feuillants
 fortunetelling
 flocculable
 feltmonger
+fluviovolcanic
 fortunately
 flaunching
 freshened
@@ -5900,7 +5901,6 @@ frostbites
 flogs
 fermis
 foeticidal
-fluviovolcanic
 flybane
 foveola
 freyr
