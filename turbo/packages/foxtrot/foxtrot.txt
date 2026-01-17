@@ -1896,7 +1896,6 @@ flybrush
 fishable
 fingerflower
 fontanelle
-fumbling
 fustilarian
 frouze
 foism
@@ -6636,6 +6635,7 @@ footpath
 forevouched
 foehnlike
 faulted
+fumbling
 fulgurating
 forenotice
 foemanship
