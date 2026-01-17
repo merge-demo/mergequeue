@@ -10444,6 +10444,7 @@ fisted
 flche
 frontstall
 forstall
+flockless
 frizes
 fellah
 ferocity
@@ -11089,7 +11090,6 @@ functionation
 fane
 factfinder
 flagellated
-flockless
 fangled
 functionnaire
 functors
