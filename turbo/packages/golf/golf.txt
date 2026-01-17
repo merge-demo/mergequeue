@@ -671,6 +671,7 @@ geropiga
 gravelish
 gangboard
 gamely
+gregariousness
 gallows
 gonitis
 giddify
@@ -6253,7 +6254,6 @@ gobber
 gazettes
 goateed
 guitarlike
-gregariousness
 guttural
 ghostiest
 gconv
