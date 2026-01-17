@@ -5388,7 +5388,6 @@ branchiopodous
 begruntle
 biographical
 begrutten
-beguess
 beguilement
 biunial
 beguilements
@@ -8814,6 +8813,7 @@ bounden
 besets
 bini
 beraking
+beguess
 buckie
 berakoth
 biniou
