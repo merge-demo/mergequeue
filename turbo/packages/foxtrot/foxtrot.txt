@@ -2852,7 +2852,6 @@ figworm
 fiedlerite
 fungid
 familistery
-fortuned
 fettered
 frowstiness
 foozle
@@ -6933,6 +6932,7 @@ frt
 flub
 ferthumlungur
 fobbing
+fortuned
 fumarase
 fibromatosis
 fauconnier
