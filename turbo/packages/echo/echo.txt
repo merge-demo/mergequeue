@@ -921,7 +921,6 @@ equipping
 endowments
 endorsements
 electrophoretic
-ectropion
 ectropium
 eluvia
 erogenesis
@@ -5620,6 +5619,7 @@ evelyn
 exiguities
 enforces
 endent
+ectropion
 endocentric
 edenic
 encouraging
