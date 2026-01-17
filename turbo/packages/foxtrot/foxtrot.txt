@@ -2145,7 +2145,6 @@ foliature
 fitch
 fawnier
 filippi
-fallenness
 flypapers
 fraudulently
 ferruginean
@@ -5164,6 +5163,7 @@ fictions
 flameflower
 feeding
 flued
+fallenness
 flangeway
 futter
 fibs
