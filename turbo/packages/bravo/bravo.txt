@@ -3725,7 +3725,6 @@ batting
 battings
 battledores
 bywork
-barotraumata
 bronteon
 battlefronts
 bringall
@@ -4398,6 +4397,7 @@ backswing
 bonairness
 brolly
 boordly
+barotraumata
 bagne
 bounties
 breakwater
