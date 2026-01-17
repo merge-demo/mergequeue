@@ -6825,7 +6825,6 @@ berwick
 bummaree
 burley
 baroi
-bes
 biocide
 bushpig
 boaedon
@@ -8177,6 +8176,7 @@ blimpish
 beloeilite
 busybodied
 ballonet
+bes
 beardie
 brontophobia
 bash
