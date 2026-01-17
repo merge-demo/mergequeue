@@ -2694,7 +2694,6 @@ barmcloth
 brither
 birdcage
 bascules
-balmlike
 barnabas
 bales
 barnaby
@@ -13077,6 +13076,7 @@ borecoles
 buddhic
 bored
 borsches
+balmlike
 boehmenist
 boreen
 bowerly
