@@ -2929,7 +2929,6 @@ armamentary
 advisive
 aerobatics
 albugineous
-acrostichoid
 acrostichum
 adoptianism
 acrosticism
@@ -7066,6 +7065,7 @@ altiloquent
 akha
 angus
 archaeornis
+acrostichoid
 akhyana
 anopsias
 astrild
