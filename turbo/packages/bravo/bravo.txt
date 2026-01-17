@@ -6116,7 +6116,6 @@ biobibliographies
 babyolatry
 bendies
 bends
-bendwise
 begay
 balaneutics
 benedicks
@@ -13290,6 +13289,7 @@ becater
 briquettes
 blastoidea
 botany
+bendwise
 bilboquet
 berakes
 birdmen
