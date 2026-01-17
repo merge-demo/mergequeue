@@ -5803,6 +5803,7 @@ engrammic
 estrangement
 epopees
 explanation
+epigenesis
 engouement
 engoument
 encounter
@@ -11564,7 +11565,6 @@ extensiveness
 evolutionism
 epizeuxis
 evolutionistic
-epigenesis
 endotheloid
 euaster
 extracorporeal
