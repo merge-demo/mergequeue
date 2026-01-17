@@ -370,7 +370,6 @@ discoloured
 dasher
 daymark
 doupion
-daimiate
 daimiel
 davallia
 daimyo
@@ -4764,6 +4763,7 @@ deaconing
 demihag
 dodecatylic
 deair
+daimiate
 disseizor
 diagonalize
 diemaker
