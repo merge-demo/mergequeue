@@ -2517,6 +2517,7 @@ bargelike
 beet
 bargellos
 beswinge
+bilateral
 begroans
 barger
 bardash
@@ -9646,7 +9647,6 @@ backbeats
 brince
 bishopdom
 baptists
-bilateral
 bacterium
 bishopling
 bandboxy
