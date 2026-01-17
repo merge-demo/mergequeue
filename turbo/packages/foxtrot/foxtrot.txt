@@ -3547,6 +3547,7 @@ fairylands
 fulgence
 filched
 fellowmen
+floricultural
 frenchism
 fogie
 flamboyance
@@ -6279,7 +6280,6 @@ falerian
 flumes
 fluminous
 freak
-floricultural
 fluxibility
 flummer
 flickerproof
