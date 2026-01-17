@@ -5330,7 +5330,6 @@ dentifrice
 dentil
 discussional
 dentiled
-dimin
 delivery
 dipmeter
 drub
@@ -17851,6 +17850,7 @@ duculinae
 dictyosome
 decurve
 dermoblast
+dimin
 dictatorship
 disenthrallment
 dunkirk
