@@ -6971,6 +6971,7 @@ fussiness
 fortuity
 fordless
 fond
+fusile
 fondateur
 fonded
 fondest
@@ -11558,7 +11559,6 @@ fowage
 figurations
 feedback
 friskful
-fusile
 flytier
 fulgurator
 fulmar
