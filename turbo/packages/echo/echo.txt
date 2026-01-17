@@ -1621,6 +1621,7 @@ enterobacterium
 eyah
 embliss
 equating
+endocytic
 earthpea
 encyclopedism
 eichwaldite
@@ -2207,7 +2208,6 @@ eldrich
 eldritch
 enchased
 eulogy
-endocytic
 elecives
 electant
 elect
