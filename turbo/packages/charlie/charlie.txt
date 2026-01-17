@@ -8363,6 +8363,7 @@ chamaelirium
 chamaepericlymenum
 chamaephyte
 chamaerops
+compacts
 chamaesiphonales
 chamar
 chambered
@@ -20410,7 +20411,6 @@ cancerdrops
 compactor
 clobbered
 compactors
-compacts
 comites
 compacture
 crumbliness
