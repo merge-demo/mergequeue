@@ -1236,6 +1236,7 @@ asaphic
 acarari
 ardelia
 acarian
+ascidiate
 apothece
 acarid
 accord
@@ -21048,7 +21049,6 @@ ambones
 annulments
 antiatom
 antihuff
-ascidiate
 angelologic
 ascidiform
 attour

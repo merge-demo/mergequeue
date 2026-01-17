@@ -371,7 +371,6 @@ dasher
 daymark
 doupion
 daimiel
-davallia
 daimyo
 dawdlers
 dihydrated
@@ -14668,6 +14667,7 @@ decurrency
 debauchee
 dolent
 djuka
+davallia
 diaskeuast
 dk
 dkg
