@@ -1441,7 +1441,6 @@ ethiopian
 epanorthotic
 emunct
 exenteritis
-epipleural
 envelop
 enfarce
 euxanthate
@@ -6122,6 +6121,7 @@ ergoplasm
 excommunicant
 entozoans
 epicentre
+epipleural
 eaved
 earlywood
 ervipiame
