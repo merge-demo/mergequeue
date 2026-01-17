@@ -11265,6 +11265,7 @@ bewail
 burez
 blasts
 brightening
+biod
 bertrand
 blotto
 blottto
@@ -11986,7 +11987,6 @@ bedwarf
 bipack
 bogong
 bruskly
-biod
 bacchical
 bogtrotting
 batfowler
