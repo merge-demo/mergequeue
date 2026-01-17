@@ -762,7 +762,6 @@ bifrost
 badiaga
 breathy
 boneshaw
-bannerman
 bushmanship
 badigeon
 beadsman
@@ -12228,6 +12227,7 @@ bunkum
 bollworm
 blizzardly
 bolo
+bannerman
 bicron
 bogberries
 baloo
