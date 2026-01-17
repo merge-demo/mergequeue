@@ -5392,7 +5392,6 @@ fennel
 friending
 frigefact
 futurity
-fleabiting
 fledgeling
 fiendhead
 foxfinger
@@ -7760,6 +7759,7 @@ frithbot
 flyblew
 flickery
 faint
+fleabiting
 fraenum
 forgathering
 finning
