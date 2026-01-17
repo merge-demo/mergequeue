@@ -9187,7 +9187,6 @@ crombec
 chastest
 chasteweed
 censurers
-ceduous
 chastiment
 chastise
 chastiser
@@ -29651,6 +29650,7 @@ chat
 crocodility
 cattishly
 cognizer
+ceduous
 chemosterilant
 convulsiveness
 cotingid
