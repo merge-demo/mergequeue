@@ -982,6 +982,7 @@ excel
 enquiring
 exorbital
 earthwork
+endothermic
 edaphosaurus
 edana
 explosibility
@@ -9055,7 +9056,6 @@ entria
 ephesine
 emlen
 eleoplast
-endothermic
 exocyclic
 equiglacial
 episcenium
