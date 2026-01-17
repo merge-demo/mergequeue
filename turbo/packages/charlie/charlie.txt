@@ -9872,7 +9872,6 @@ chemoprophylactic
 cruiser
 coaxer
 candent
-chemoreception
 chemoreceptive
 chemoreceptivity
 coteller
@@ -19302,6 +19301,7 @@ colonising
 colonist
 colonizable
 colonize
+chemoreception
 comminating
 courted
 colonnade
