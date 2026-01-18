@@ -1940,7 +1940,6 @@ baaskaap
 bifidate
 biotechs
 brevipen
-bandore
 bacon
 balsa
 bandrol
@@ -10754,6 +10753,7 @@ blennogenous
 begging
 baiters
 brushup
+bandore
 bharata
 botherment
 bossship
