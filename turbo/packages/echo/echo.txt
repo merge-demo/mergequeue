@@ -8570,7 +8570,6 @@ erase
 ejaculative
 eumorphic
 enunciative
-equatorward
 etheriform
 equatorwards
 excessmen
@@ -13382,6 +13381,7 @@ entobranchiate
 euscaro
 escapeway
 excambion
+equatorward
 exemplify
 epityphlon
 exposture
