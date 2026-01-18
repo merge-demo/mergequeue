@@ -4294,6 +4294,7 @@ ammonolysis
 afterstain
 albuminosis
 adrenocorticotropic
+amids
 anthracolithic
 astructive
 adstipulate
@@ -10577,7 +10578,6 @@ amidoplastid
 amidoxyl
 australopithecinae
 anagrammatize
-amids
 apolarity
 aphids
 ascaris
