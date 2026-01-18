@@ -2862,6 +2862,7 @@ forepreparation
 fetwa
 ferlies
 fetterlock
+faroeish
 flatfish
 forewing
 foxship
@@ -8925,7 +8926,6 @@ frigiddaria
 folktales
 fanatico
 fermental
-faroeish
 flimsily
 formularism
 foolfishes
