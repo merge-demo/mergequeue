@@ -4016,7 +4016,6 @@ besquib
 beadswomen
 broadcasting
 begetters
-beadwork
 baetuli
 boilermaking
 butcheries
@@ -10279,6 +10278,7 @@ biborate
 broadmindedly
 belly
 blacksmithing
+beadwork
 biochemy
 beastdom
 botargo
