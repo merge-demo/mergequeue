@@ -1675,7 +1675,6 @@ galeopithecus
 gastroduodenitis
 guadua
 gastroduodenostomy
-gastritis
 gottfried
 gamed
 gommier
@@ -10579,6 +10578,7 @@ grommets
 goads
 grilly
 gymnogene
+gastritis
 geologic
 gelds
 gens
