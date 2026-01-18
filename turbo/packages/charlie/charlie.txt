@@ -13014,7 +13014,6 @@ cyanose
 cyanoses
 chemitype
 cyanosite
-cyanotic
 chatting
 cyanotype
 cyanuramide
@@ -28445,6 +28444,7 @@ creams
 cindery
 creance
 chabot
+cyanotic
 creancer
 carpintero
 creant
