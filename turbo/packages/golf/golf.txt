@@ -4162,7 +4162,6 @@ guarapo
 globuloid
 gelinotte
 graphemic
-glycoproteid
 gastroarthritis
 goodly
 guaranin
@@ -9686,6 +9685,7 @@ gruellings
 gelts
 gruesome
 galeod
+glycoproteid
 gasp
 grassworm
 gregale
