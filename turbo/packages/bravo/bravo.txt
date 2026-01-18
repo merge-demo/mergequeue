@@ -4776,7 +4776,6 @@ bedrabbling
 bauds
 bedrails
 binnacle
-bedral
 boltwork
 bedraping
 bedread
@@ -9596,6 +9595,7 @@ biscuitroot
 burnets
 biscuits
 bhutia
+bedral
 bromides
 bumbledom
 bronchomycosis
