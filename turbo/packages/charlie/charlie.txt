@@ -10279,7 +10279,6 @@ corometer
 charlies
 calctuffs
 chichling
-chick
 chelidosaurus
 chickabiddy
 chemosorb
@@ -21510,6 +21509,7 @@ cluster
 concorporate
 culverts
 concorporated
+chick
 compartimento
 concourse
 cliqueless
