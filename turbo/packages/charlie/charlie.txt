@@ -22400,7 +22400,6 @@ compressible
 contaminating
 conicle
 chessman
-conidae
 champlainic
 conidioid
 conidiophorous
@@ -24613,6 +24612,7 @@ chanteyman
 copious
 copiousness
 cloners
+conidae
 copyreader
 copyreaders
 caudalward
