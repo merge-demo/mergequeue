@@ -1551,6 +1551,7 @@ extraversion
 encampment
 epinasty
 envigor
+equilocation
 exogeny
 enterate
 exaggeratedness
@@ -2829,7 +2830,6 @@ eagre
 elephantoid
 elephantoidal
 enantiopathy
-equilocation
 epididymodeferentectomy
 estrays
 elettaria
