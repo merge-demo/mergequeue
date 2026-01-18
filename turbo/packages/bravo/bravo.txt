@@ -9651,6 +9651,7 @@ bandboxy
 biol
 bishopstool
 bishopweed
+bigfoot
 bobbinets
 bestir
 benison
@@ -15759,7 +15760,6 @@ bananaquit
 beneficiating
 brochettes
 burble
-bigfoot
 brambly
 beamster
 bandmasters
