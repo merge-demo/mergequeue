@@ -9904,6 +9904,7 @@ chemotactic
 cresylene
 choochoo
 chemotaxy
+cyclohexyl
 collocatory
 chemotaxonomy
 chemotaxonomic
@@ -13232,7 +13233,6 @@ crossrow
 cyclohexanol
 crass
 cyclohexanone
-cyclohexyl
 cycloheximide
 chetverik
 communicants
