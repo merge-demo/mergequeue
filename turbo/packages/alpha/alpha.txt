@@ -761,7 +761,6 @@ autogyro
 agnition
 accordatura
 asperation
-apogalacteum
 abrasively
 abrazite
 antirevolutionaries
@@ -13541,6 +13540,7 @@ anniverse
 azobenzene
 annoy
 alister
+apogalacteum
 annoyance
 athenian
 attributal
