@@ -10684,7 +10684,6 @@ dowcote
 dipodomys
 dipolar
 dingar
-dumbnesses
 diaculum
 depit
 dormin
@@ -11176,6 +11175,7 @@ dispersoidology
 dribbled
 dogmatized
 disbenched
+dumbnesses
 disbenching
 dribblet
 decarbonylation
