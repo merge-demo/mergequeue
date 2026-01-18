@@ -4301,7 +4301,6 @@ battledore
 bacterious
 bebreech
 bigeminy
-backcourtman
 bebrother
 blouselike
 bebrush
@@ -12947,6 +12946,7 @@ bootlegs
 bootlessly
 bluefish
 bootlicking
+backcourtman
 burins
 blackest
 bara
