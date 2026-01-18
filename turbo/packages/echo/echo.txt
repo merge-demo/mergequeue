@@ -1835,7 +1835,6 @@ errabund
 edaciousness
 elaterin
 equitemporal
-expeller
 eremology
 erastian
 eila
@@ -7925,6 +7924,7 @@ epizootiology
 epinikion
 epilogical
 entomophaga
+expeller
 eurystomatous
 emitter
 eatery
