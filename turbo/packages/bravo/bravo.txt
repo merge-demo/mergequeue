@@ -6760,6 +6760,7 @@ bufonid
 bushiest
 berry
 buchnerite
+burglarizing
 binturong
 brotherlike
 banshee
@@ -17614,7 +17615,6 @@ bowdlerized
 burring
 bearlet
 berberry
-burglarizing
 bradykinetic
 bulldozes
 backster
