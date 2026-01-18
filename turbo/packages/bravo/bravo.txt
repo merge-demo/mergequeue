@@ -9974,7 +9974,6 @@ brian
 bx
 bituminous
 bisecting
-beryllate
 bilinguality
 bridleman
 burbles
@@ -12365,6 +12364,7 @@ bookmarker
 bumbarge
 bombillas
 bacchantic
+beryllate
 blan
 beefsteaks
 bobfly
