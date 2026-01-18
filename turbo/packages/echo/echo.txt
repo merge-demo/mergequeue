@@ -2381,7 +2381,6 @@ ebriosity
 epitrochlea
 electrodes
 etherization
-elotherium
 electrodiagnosis
 esterling
 embiid
@@ -10196,6 +10195,7 @@ effortfully
 ectoentad
 etherizes
 extraditing
+elotherium
 easeful
 encoders
 executives
