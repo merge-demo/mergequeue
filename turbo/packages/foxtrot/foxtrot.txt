@@ -6012,7 +6012,6 @@ fermorite
 flightiness
 finger
 fontange
-forgab
 forespeech
 frontooccipital
 flanker
@@ -9193,6 +9192,7 @@ forgivers
 fascinatress
 freeborn
 fragmentariness
+forgab
 fragmentist
 foundries
 faucals
