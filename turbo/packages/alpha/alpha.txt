@@ -794,7 +794,6 @@ aboiteaus
 abridging
 anourous
 abris
-abristle
 alabandine
 abroach
 airdock
@@ -5344,6 +5343,7 @@ argoletier
 attestation
 afforesting
 autophotometry
+abristle
 anticogitative
 afformative
 abuseful
