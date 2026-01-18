@@ -3857,7 +3857,6 @@ environmental
 extracted
 endometry
 eschatocol
-electroculture
 exotheca
 emigrating
 excogitating
@@ -8274,6 +8273,7 @@ epitaxies
 epitaxis
 ebonizes
 epidemicity
+electroculture
 epigrammatized
 enlife
 ecophobia

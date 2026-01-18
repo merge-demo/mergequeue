@@ -9501,7 +9501,6 @@ checkers
 chroncmeter
 cabbalah
 cardanic
-capos
 checky
 cityful
 circularising
@@ -22003,6 +22002,7 @@ confirmational
 confirmations
 curvant
 circumflexion
+capos
 carlina
 confirmatory
 craniosacral
