@@ -6817,7 +6817,6 @@ fragmentizer
 foretold
 fasces
 fructifier
-forger
 foliaged
 firetower
 fustigator
@@ -7710,6 +7709,7 @@ freeish
 fretty
 furs
 forsaken
+forger
 flamelike
 formalizations
 flicky

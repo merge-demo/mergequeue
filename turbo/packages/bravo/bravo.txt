@@ -876,6 +876,7 @@ beflags
 boohoos
 bravura
 baroclinity
+burnished
 bleachs
 blackboards
 backband
@@ -15729,7 +15730,6 @@ batful
 blennogenic
 butyric
 broadsider
-burnished
 borrovian
 begroaned
 botanophile
