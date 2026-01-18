@@ -2813,7 +2813,6 @@ discind
 deuteroglobulose
 decretorian
 dithymol
-declarator
 decried
 desistive
 deerflys
@@ -13049,6 +13048,7 @@ deccennia
 dispatched
 devaster
 duckish
+declarator
 disesteeming
 dispatches
 drillings
