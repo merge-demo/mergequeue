@@ -12570,7 +12570,6 @@ chronoisothermal
 cellucotton
 chronologer
 circularize
-chronological
 coalternative
 chantecler
 cercle
@@ -12807,6 +12806,7 @@ chuprassy
 canasta
 calorite
 commonplacer
+chronological
 camellias
 church
 courageousness
