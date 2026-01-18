@@ -1360,6 +1360,7 @@ aumbries
 accelerometer
 accelerometers
 anticatholic
+aport
 anapaestical
 anticnemion
 airtightly
@@ -17308,7 +17309,6 @@ aporrhegma
 ambiguousness
 amorini
 anights
-aport
 aportlast
 aposaturnium
 aposia
