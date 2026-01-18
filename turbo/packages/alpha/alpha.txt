@@ -18764,6 +18764,7 @@ ammonobasic
 archdiplomatist
 archdivine
 azymous
+autonomy
 alginuresis
 appliqued
 agy
@@ -21526,7 +21527,6 @@ arrhal
 asperula
 ambulatoria
 anticovenanting
-autonomy
 archeion
 adiaphanous
 alluvium
