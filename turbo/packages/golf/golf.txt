@@ -262,7 +262,6 @@ gainage
 griselda
 greenlandic
 geologizing
-ghostlike
 gambrelled
 guao
 gemless
@@ -6501,6 +6500,7 @@ genetic
 glaikitness
 gariba
 galvanocautery
+ghostlike
 golly
 gleanings
 glucolipine
