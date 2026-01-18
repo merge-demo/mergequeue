@@ -14805,6 +14805,7 @@ cytoglobin
 corselette
 concitizen
 cytoid
+cellaret
 citoyenne
 confiscated
 conscious
@@ -15281,7 +15282,6 @@ clamouring
 collembolan
 clamourist
 coadmired
-cellaret
 congous
 clamourous
 checkrow
