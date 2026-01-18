@@ -5717,7 +5717,6 @@ gimmaled
 gpad
 ganglioneuron
 gestning
-gelts
 glycoluril
 guardeen
 guttule
@@ -9682,6 +9681,7 @@ groundwood
 gidgea
 granuliform
 gruellings
+gelts
 gruesome
 galeod
 gasp
