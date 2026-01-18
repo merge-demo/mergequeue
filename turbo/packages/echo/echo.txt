@@ -11143,6 +11143,7 @@ enjambments
 encomy
 evacuant
 eighteenmos
+eversion
 episome
 extipulate
 experiencing
@@ -11790,7 +11791,6 @@ ensignship
 eurymus
 endorsingly
 exasperatedly
-eversion
 entrees
 electrocatalysis
 exasperater
