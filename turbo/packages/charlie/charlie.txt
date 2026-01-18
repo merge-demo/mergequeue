@@ -445,7 +445,6 @@ cactal
 cacti
 crowners
 concrete
-cactiform
 communications
 cactoid
 combind
@@ -4554,6 +4553,7 @@ carnation
 carnationist
 carnauba
 carnaubas
+cactiform
 carneau
 carnegie
 carnegiea
