@@ -6645,7 +6645,6 @@ binal
 bodegon
 beribanded
 birdy
-bargeboard
 barbarious
 beriberis
 bevesseled
@@ -10782,6 +10781,7 @@ beavered
 boody
 bibulus
 biorhythmic
+bargeboard
 bronchomotor
 bleo
 befuddlers
