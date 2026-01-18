@@ -2910,7 +2910,6 @@ epistomal
 egyptian
 etchings
 eelshop
-embank
 evaporatively
 erythrasma
 elliptical
@@ -9073,6 +9072,7 @@ electrotherapeutics
 entergogenic
 extrality
 extravascular
+embank
 epenthesis
 editorialist
 erythrocytosis
