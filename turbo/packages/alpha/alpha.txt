@@ -5468,7 +5468,6 @@ afteract
 appetitive
 afterlife
 alepine
-absorbs
 actinophone
 afterbirth
 antiutilitarian
@@ -7909,6 +7908,7 @@ arithmocracy
 avouched
 azodiphenyl
 adenography
+absorbs
 abandum
 anorthoscope
 atropines
