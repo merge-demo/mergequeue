@@ -1917,7 +1917,6 @@ enjoin
 epiphylaxis
 eluants
 eyeleted
-enabled
 echinulate
 estoppal
 eurypterid
@@ -13031,6 +13030,7 @@ entrusted
 epinaoi
 eraser
 escoba
+enabled
 emrode
 expatriated
 exhibiting

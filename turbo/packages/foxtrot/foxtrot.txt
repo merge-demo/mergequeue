@@ -8059,7 +8059,6 @@ forestral
 forestries
 firebrats
 furnitures
-forenames
 fumigating
 flecnode
 foreward
@@ -9181,6 +9180,7 @@ foveoles
 footled
 fries
 fragileness
+forenames
 foreknown
 faceplate
 fucus
