@@ -24611,7 +24611,6 @@ cypripedium
 copingstone
 chaplainry
 copiosity
-chanteyman
 copious
 copiousness
 conidae
@@ -28555,6 +28554,7 @@ creditless
 creditor
 curial
 creditress
+chanteyman
 citronade
 creditrix
 crednerite
