@@ -4280,7 +4280,6 @@ caret
 caretake
 caretaker
 caretakers
-caretaking
 chastisers
 chondrosteous
 caretook
@@ -31630,6 +31629,7 @@ chinwag
 curvicaudate
 curvifoliate
 courtiers
+caretaking
 colling
 chlorohydrocarbon
 curvilinead
