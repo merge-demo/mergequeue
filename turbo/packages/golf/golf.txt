@@ -5767,6 +5767,7 @@ grimmish
 gloomy
 grapsoid
 gymnoplast
+gypsoplast
 gunkholed
 gossypose
 gonotheca
@@ -6128,7 +6129,6 @@ greit
 greatly
 gnathostomous
 gustoes
-gypsoplast
 gnathostome
 gjetosts
 gallivants
