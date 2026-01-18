@@ -9050,7 +9050,6 @@ exocyclic
 equiglacial
 episcenium
 empyreans
-eperotesis
 epibranchial
 encrinitical
 ectocyst
@@ -13015,6 +13014,7 @@ endochondral
 espiegle
 embryonal
 ezba
+eperotesis
 entastic
 existentially
 esophagectomy
