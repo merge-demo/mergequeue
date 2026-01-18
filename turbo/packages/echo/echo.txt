@@ -611,7 +611,6 @@ eversions
 entertained
 eclaircissement
 epeus
-echeneidoid
 enchant
 enneaeteric
 empyreumatic
@@ -810,6 +809,7 @@ epispadias
 efficiencies
 edaphically
 euglenidae
+echeneidoid
 ectypal
 ectype
 epicarpal
