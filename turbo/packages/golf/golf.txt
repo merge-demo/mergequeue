@@ -822,7 +822,6 @@ gastrocolic
 guetar
 grazeable
 goldenrods
-gyppo
 gletty
 galoots
 granose
@@ -1551,6 +1550,7 @@ gazump
 grimgribber
 gastrologist
 goatpox
+gyppo
 gasper
 grounder
 gazetting
