@@ -340,7 +340,6 @@ exoduses
 exigible
 eaten
 eighty
-electrodynamic
 enchantment
 empeirema
 epacridaceous
@@ -12317,6 +12316,7 @@ elecampane
 equilin
 elvanitic
 exercitorian
+electrodynamic
 effront
 efs
 elaidate
