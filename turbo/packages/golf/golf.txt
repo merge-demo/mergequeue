@@ -6937,7 +6937,6 @@ goodrich
 guides
 geromorphism
 grayfly
-geometrised
 gradients
 geostatics
 goodwife
@@ -10031,6 +10030,7 @@ genetoid
 geomancies
 gangliac
 gleans
+geometrised
 gazebos
 glaistig
 gammation
