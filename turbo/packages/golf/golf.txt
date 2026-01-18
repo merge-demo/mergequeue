@@ -2181,7 +2181,6 @@ glout
 gastrotrichan
 guacos
 galea
-goniostat
 goldfinches
 galliards
 glistening
@@ -4321,6 +4320,7 @@ galeopsis
 gingered
 gaugeable
 guss
+goniostat
 glendover
 garrulity
 gingerline
