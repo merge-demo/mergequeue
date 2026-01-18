@@ -2870,7 +2870,6 @@ acronym
 acrotreta
 arteriolith
 aperitif
-abiogeneses
 adati
 aceratherium
 acronymic
@@ -7435,6 +7434,7 @@ aplacentalia
 albinotic
 antitypic
 apronful
+abiogeneses
 aesthesis
 albion
 allogamies
