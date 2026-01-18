@@ -6209,7 +6209,6 @@ egrid
 eardrops
 endamaged
 eidology
-endosmosis
 enplane
 electromotor
 ecorticate
@@ -9871,6 +9870,7 @@ erostrate
 experimentalize
 epeeists
 ependymoma
+endosmosis
 enweaving
 eleutheropetalous
 esthesiology
