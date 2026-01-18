@@ -2613,6 +2613,7 @@ archbishop
 aspiratory
 altaid
 adffrozen
+annunciable
 adjacent
 acquest
 armenite
@@ -23141,7 +23142,6 @@ agnominal
 aaronitic
 aggressor
 accouple
-annunciable
 airdropped
 allelocatalytic
 aflatoxin
