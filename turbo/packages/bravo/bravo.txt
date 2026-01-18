@@ -1115,6 +1115,7 @@ bransolder
 bromius
 barless
 baseless
+brigandine
 bryophyte
 bloodnoun
 buxine
@@ -15403,7 +15404,6 @@ bapistery
 blondine
 bevomited
 brachypterous
-brigandine
 bandhu
 brigantia
 brigantines
