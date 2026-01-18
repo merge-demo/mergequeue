@@ -149,7 +149,6 @@ gigantology
 gaelic
 gynostegia
 gs
-gallicole
 guy
 gentisin
 gratelike
@@ -1275,6 +1274,7 @@ glutinosity
 grimaces
 garran
 gaia
+gallicole
 glenwood
 granage
 ged
