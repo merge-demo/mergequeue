@@ -1012,7 +1012,6 @@ glossed
 gordunite
 ganga
 gangamopteris
-givers
 gangava
 groundward
 gynobase
@@ -8477,6 +8476,7 @@ grappler
 grandeurs
 garoting
 gandhara
+givers
 grudgers
 geotaxis
 gelada
