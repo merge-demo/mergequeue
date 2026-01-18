@@ -3862,7 +3862,6 @@ giftwrapping
 gazeless
 gorgonesque
 goats
-gushing
 gruffed
 gardenwards
 gwely
@@ -8550,6 +8549,7 @@ gaufrette
 garni
 grasscutter
 goniatitidae
+gushing
 gallwort
 gith
 gourmand
