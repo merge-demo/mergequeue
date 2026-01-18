@@ -4544,7 +4544,6 @@ feudists
 frit
 futtocks
 forespoken
-feuder
 fisticuff
 fouldre
 familiarness
@@ -6375,6 +6374,7 @@ fluoroform
 fricasseing
 fluoboric
 forefoot
+feuder
 fronture
 furry
 formalization
