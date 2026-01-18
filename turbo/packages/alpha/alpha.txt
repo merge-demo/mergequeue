@@ -14421,7 +14421,6 @@ awful
 acolyte
 anthotaxis
 andries
-analgetic
 aranga
 allocations
 assortatively
@@ -16183,6 +16182,7 @@ antiskid
 amorphia
 apteryges
 aloofness
+analgetic
 andron
 antismoking
 assurant
