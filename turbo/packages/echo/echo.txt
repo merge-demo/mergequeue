@@ -1871,7 +1871,6 @@ encomiast
 eyoty
 elapsed
 endamage
-everwho
 eightball
 eclat
 earthstar
@@ -12047,6 +12046,7 @@ expetible
 exauthorate
 extrication
 excoriated
+everwho
 electroanalysis
 excoriating
 egestions
