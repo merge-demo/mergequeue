@@ -6406,6 +6406,7 @@ borize
 blas
 brinishness
 burely
+barrett
 barfy
 benzonaphthol
 benzonitrile
@@ -8711,7 +8712,6 @@ burds
 beliquored
 brachiolaria
 balladlike
-barrett
 billiardist
 beseeching
 beaverite
