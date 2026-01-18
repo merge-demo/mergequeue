@@ -5660,7 +5660,6 @@ freeloader
 flingy
 funded
 fiddlestring
-freestyle
 fishwife
 flinkite
 fluffer
@@ -11543,6 +11542,7 @@ frugging
 furlable
 fabling
 fictionize
+freestyle
 fards
 floeberg
 famulary
