@@ -6877,7 +6877,6 @@ celticize
 celtidaceae
 celtiform
 consortiums
-celtis
 celtism
 cotyla
 contemporaries
@@ -21645,6 +21644,7 @@ cancelli
 cocciform
 calcaneofibular
 condiction
+celtis
 chosing
 condictious
 condiddle
