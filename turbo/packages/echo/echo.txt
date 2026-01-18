@@ -766,6 +766,7 @@ emotes
 echinal
 euomphalid
 egger
+echinops
 ecrase
 enclitic
 escort
@@ -10929,7 +10930,6 @@ evenwise
 entomologising
 epipteric
 eulogies
-echinops
 euphuize
 eupyrion
 eupittone
