@@ -2566,6 +2566,7 @@ generalities
 grig
 grubbies
 gain
+genizero
 guilder
 gymnastic
 gynecium
@@ -10488,7 +10489,6 @@ gumweeds
 gramenite
 gregal
 gluiest
-genizero
 gimballed
 geyserite
 grandmas
