@@ -2112,6 +2112,7 @@ embryologists
 emcees
 engarde
 elated
+equipper
 etherealise
 epitria
 exoneration
@@ -9631,7 +9632,6 @@ ewer
 endoblast
 encense
 entangleable
-equipper
 entia
 epenthesize
 epacris
