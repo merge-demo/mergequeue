@@ -5761,7 +5761,6 @@ bamboozled
 bonos
 bretwaldaship
 bloodleaf
-bellacoola
 bellatrix
 bungler
 balaghat
@@ -11673,6 +11672,7 @@ boatmen
 boats
 boatsetter
 bisymmetric
+bellacoola
 badju
 boatsteerer
 broomstraw
