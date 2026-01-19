@@ -6311,7 +6311,6 @@ cecchine
 cabbaged
 caulocarpic
 caulomic
-caulosarc
 caulotaxis
 cauls
 caum
@@ -25052,6 +25051,7 @@ cordwainer
 choleraic
 catastrophes
 cloves
+caulosarc
 corecipient
 corectome
 cracovienne
