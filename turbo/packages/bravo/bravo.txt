@@ -2837,6 +2837,7 @@ blithefully
 buffaloback
 bedarken
 bruta
+burrows
 beisa
 biquadrate
 baroswitch
@@ -5114,7 +5115,6 @@ binits
 basilicon
 beflagged
 broidering
-burrows
 bodymaking
 braconidae
 beflagging

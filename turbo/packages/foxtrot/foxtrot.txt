@@ -1929,6 +1929,7 @@ furtherance
 finback
 feteritas
 federalistic
+flagpole
 forksful
 freight
 furling
@@ -6342,7 +6343,6 @@ farmhouses
 foppy
 flatlings
 flowchart
-flagpole
 fontes
 forementioned
 flang
