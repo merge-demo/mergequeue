@@ -8881,7 +8881,6 @@ allochroic
 anticosmetic
 aeolodicon
 allochthon
-antlike
 archtempter
 askant
 ambilevous
@@ -11773,6 +11772,7 @@ anagrammatism
 anagrammatizing
 anagrams
 acidifiant
+antlike
 austerlitz
 axite
 anakinetomeric
