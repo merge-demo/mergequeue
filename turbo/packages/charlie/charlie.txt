@@ -10641,7 +10641,6 @@ calcaemia
 chime
 chimer
 chimeral
-chanteys
 chimeric
 coptic
 calci
@@ -21857,6 +21856,7 @@ confabulator
 cassian
 cytopharynges
 calypter
+chanteys
 caravanist
 confabulatory
 caracul
