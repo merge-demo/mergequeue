@@ -7745,6 +7745,7 @@ executable
 epidiascope
 engraff
 ecce
+eyebree
 epichilia
 ebullioscopy
 egoism
@@ -11383,7 +11384,6 @@ entosternite
 eventlessly
 empennages
 ergamine
-eyebree
 epichoric
 euxanthone
 erpetoichthys
