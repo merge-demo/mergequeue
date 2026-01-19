@@ -883,7 +883,6 @@ backband
 bagdad
 bunters
 begoniaceae
-bauxites
 bicolour
 bravade
 bagful
@@ -15750,6 +15749,7 @@ brocatelle
 beowulf
 brocatello
 blaubok
+bauxites
 billionths
 bleaches
 bangkoks
