@@ -1272,6 +1272,7 @@ danthonia
 dusted
 diazoic
 denari
+denaturing
 datives
 deplane
 desmids
@@ -5033,7 +5034,6 @@ demographers
 denaturants
 docilely
 dueller
-denaturing
 duplicand
 denaturise
 disfigures
