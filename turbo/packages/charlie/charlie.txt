@@ -6052,6 +6052,7 @@ clinkers
 catholicos
 curarize
 coraciiform
+cloglike
 cleg
 cyanide
 catholyte
@@ -6942,7 +6943,6 @@ concours
 ceratinous
 culm
 cenaculum
-cloglike
 cenation
 cencerro
 coumarane
