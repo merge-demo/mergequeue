@@ -3540,6 +3540,7 @@ astricts
 adduced
 aragonese
 adducer
+abjoint
 adduces
 auricles
 adducible
@@ -22275,7 +22276,6 @@ ariette
 astonishment
 altrices
 astoop
-abjoint
 amorphy
 aerated
 anticlassicist
