@@ -12822,7 +12822,6 @@ braiding
 barrelhouse
 boomable
 boomah
-boo
 baritonal
 boomboxes
 boomed
@@ -15224,6 +15223,7 @@ brushman
 blockheadedness
 bal
 brick
+boo
 battened
 brickbat
 buttonholed
