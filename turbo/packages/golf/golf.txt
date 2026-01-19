@@ -3468,7 +3468,6 @@ gestaltist
 gallicisms
 gynecology
 grum
-gubernance
 gaveler
 geometers
 gudgeons
@@ -4418,6 +4417,7 @@ gytling
 gynodioecious
 gophers
 giglet
+gubernance
 goosishness
 gascoyne
 gynogenesis
