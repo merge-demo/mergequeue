@@ -6763,7 +6763,6 @@ berry
 buchnerite
 burglarizing
 binturong
-brotherlike
 banshee
 bitte
 bedscrew
@@ -12413,6 +12412,7 @@ bigotries
 brothy
 betterly
 bassariscus
+brotherlike
 buckram
 befingering
 blindless
