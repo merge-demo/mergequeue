@@ -1340,6 +1340,7 @@ goodness
 groundling
 gristbite
 gignate
+gride
 gra
 ganoine
 goanese
@@ -6711,7 +6712,6 @@ guaiol
 glycolyl
 glimed
 geer
-gride
 graphitic
 gigs
 gastronephritis
