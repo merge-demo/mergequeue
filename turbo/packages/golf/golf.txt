@@ -1772,6 +1772,7 @@ germinance
 goodless
 golliwogs
 gallic
+gofer
 grx
 guanine
 gentisein
@@ -6349,7 +6350,6 @@ garnitures
 gustables
 gond
 gorilline
-gofer
 gastrotrich
 grenado
 given
