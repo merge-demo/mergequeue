@@ -3897,6 +3897,7 @@ disherits
 dekameters
 decumani
 dekapode
+disinter
 duo
 dahlsten
 decan
@@ -12574,7 +12575,6 @@ disintegrators
 dextrer
 dogs
 disintegrity
-disinter
 diagenetic
 disinterest
 disinterestedly
