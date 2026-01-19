@@ -4380,7 +4380,6 @@ drawk
 divort
 demeanor
 doit
-disallowableness
 disembark
 demeanored
 dissidents
@@ -12791,6 +12790,7 @@ dislustered
 delectate
 drollish
 decafid
+disallowableness
 depicts
 dhoni
 disulphonic
