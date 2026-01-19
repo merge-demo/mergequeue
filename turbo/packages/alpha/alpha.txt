@@ -1802,6 +1802,7 @@ agapanthuses
 aluminum
 achlamydeae
 acentrous
+articulare
 alizarine
 anastalsis
 acephali
@@ -20714,7 +20715,6 @@ acrobatholithic
 asterion
 archenia
 anthesteriac
-articulare
 allelomorph
 associate
 alder
