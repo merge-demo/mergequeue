@@ -11557,7 +11557,6 @@ cozies
 christophany
 cholecystnephrostomy
 cupellation
-cholecystocolostomy
 cognisability
 colonialization
 cholecystogastrostomy
@@ -25377,6 +25376,7 @@ causticization
 chartographical
 corneule
 comprising
+cholecystocolostomy
 cornfields
 cheroots
 cornflag
