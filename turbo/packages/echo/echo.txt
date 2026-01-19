@@ -4816,7 +4816,6 @@ encourages
 embusy
 escapable
 exorciser
-encoder
 episcopable
 embryogenetic
 enshrining
@@ -10352,6 +10351,7 @@ endorsement
 englacially
 excitability
 exhibitive
+encoder
 ellagic
 eloign
 ethylamime
