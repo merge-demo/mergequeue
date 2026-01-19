@@ -5366,7 +5366,6 @@ endothermy
 ectopatagia
 erthling
 echinocactus
-electively
 evangelium
 endotys
 endotracheal
@@ -9787,6 +9786,7 @@ extenuator
 envermeil
 emplanement
 extracellular
+electively
 essoinment
 essorant
 echiuroidea
