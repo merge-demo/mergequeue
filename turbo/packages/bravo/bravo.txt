@@ -6825,7 +6825,6 @@ bummaree
 burley
 baroi
 biocide
-bushpig
 boaedon
 bivouac
 busboy
@@ -15125,6 +15124,7 @@ burbs
 breveting
 belauder
 blusteringly
+bushpig
 bostrychidae
 balter
 bulging
