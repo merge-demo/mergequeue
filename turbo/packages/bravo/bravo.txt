@@ -249,7 +249,6 @@ belleter
 bacilary
 bacile
 bacillaceae
-brarow
 bacillariaceae
 baldric
 buried
@@ -760,6 +759,7 @@ bandsawing
 badges
 badging
 buddhism
+brarow
 banksman
 bifrost
 badiaga
