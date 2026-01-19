@@ -3886,6 +3886,7 @@ fluidness
 financer
 fripperies
 followers
+fudged
 fevertrap
 footslogged
 fluidextract
@@ -5884,7 +5885,6 @@ faultfinding
 fdname
 fruitfulness
 flockings
-fudged
 fulsamic
 folgerite
 fencepost
