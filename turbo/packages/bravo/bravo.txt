@@ -10420,7 +10420,6 @@ buonamano
 botong
 breaker
 blanketlike
-brimborion
 blankets
 bhoot
 brisement
@@ -12491,6 +12490,7 @@ bdls
 burnewin
 betaines
 brawniness
+brimborion
 burntness
 bather
 bagpiped
