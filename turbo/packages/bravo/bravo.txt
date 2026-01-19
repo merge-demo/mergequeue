@@ -4821,6 +4821,7 @@ bedrugs
 bemeans
 brakesman
 befancy
+bumbard
 bits
 bedside
 bedsonia
@@ -5608,7 +5609,6 @@ burgonets
 bruscus
 belash
 blobbed
-bumbard
 bombloads
 belaboring
 blisters
