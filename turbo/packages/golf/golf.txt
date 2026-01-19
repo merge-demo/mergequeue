@@ -2112,7 +2112,6 @@ guggles
 gimmicky
 giggledom
 grottolike
-gardenia
 gastrostege
 geison
 gawking
@@ -6496,6 +6495,7 @@ gabert
 goll
 gravelled
 guddling
+gardenia
 genetic
 glaikitness
 gariba
