@@ -14056,7 +14056,6 @@ corpuscle
 circe
 circean
 circensian
-circinate
 coxcombs
 chirinola
 circination
@@ -15474,6 +15473,7 @@ claroes
 collegian
 claromontane
 claros
+circinate
 chemotaxis
 contraposition
 cowtail
