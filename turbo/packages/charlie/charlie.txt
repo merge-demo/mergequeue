@@ -533,6 +533,7 @@ competence
 clogmaker
 chattertonian
 carbuilder
+chokecherry
 cungevoi
 cadged
 cacao
@@ -8966,7 +8967,6 @@ countersignature
 compartment
 charism
 charismata
-chokecherry
 consuete
 charismatic
 collationer
