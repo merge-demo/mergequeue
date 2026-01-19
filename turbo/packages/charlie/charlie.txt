@@ -19058,6 +19058,7 @@ collidin
 cetacea
 cepous
 collier
+cordel
 circuli
 cuprite
 chariots
@@ -24998,7 +24999,6 @@ cordax
 carnivora
 castoff
 cordeau
-cordel
 comae
 chumble
 cordelia
