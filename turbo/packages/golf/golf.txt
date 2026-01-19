@@ -5583,7 +5583,6 @@ glucaemia
 gumming
 gaysome
 gripless
-geochemist
 geophysical
 gefilte
 grandame
@@ -7343,6 +7342,7 @@ glareole
 ghee
 gobstopper
 groggery
+geochemist
 gossep
 graphs
 gaberlunzie
