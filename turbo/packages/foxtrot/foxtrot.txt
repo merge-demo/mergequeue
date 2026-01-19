@@ -1154,7 +1154,6 @@ fidelis
 flax
 fatally
 fearbabe
-feebleminded
 feller
 flyblows
 footy
@@ -7050,6 +7049,7 @@ fatalities
 foreknow
 flowk
 fosie
+feebleminded
 frase
 flacked
 felones
