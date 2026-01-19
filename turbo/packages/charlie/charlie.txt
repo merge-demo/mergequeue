@@ -8918,6 +8918,7 @@ crowds
 catechumenical
 catholicizing
 chareter
+comparatives
 charette
 censers
 chemisms
@@ -20470,7 +20471,6 @@ comparative
 comparatively
 callianassidae
 cacophonia
-comparatives
 cpi
 contratabular
 comparativist
