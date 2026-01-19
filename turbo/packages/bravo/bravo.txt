@@ -12879,6 +12879,7 @@ behorror
 bifoil
 birthplace
 bg
+besieges
 befanned
 bacchiac
 bangster
@@ -15372,7 +15373,6 @@ blisterwort
 bohorok
 boisterously
 brieflessly
-besieges
 briefness
 bleeds
 bedstaves
