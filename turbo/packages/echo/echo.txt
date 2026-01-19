@@ -5280,7 +5280,6 @@ extrahepatic
 eurybathic
 eucopepoda
 endogamy
-excudate
 endoscope
 endoscopes
 equivocalities
@@ -7929,6 +7928,7 @@ equivocatory
 estragol
 ensilation
 expounds
+excudate
 epimanikion
 epimeres
 electrostenolysis
