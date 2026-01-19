@@ -2494,7 +2494,6 @@ geodynamic
 glandules
 goading
 grewia
-grots
 guttersnipes
 gibbetwise
 gearcase
@@ -9596,6 +9595,7 @@ gnathobdellida
 gunbarrel
 grimmiaceous
 gangerel
+grots
 goitered
 garrick
 gemses
