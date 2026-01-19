@@ -4743,6 +4743,7 @@ collages
 carpeting
 carpetlayer
 carpetmaking
+chola
 clubability
 captivation
 carpets
@@ -11518,7 +11519,6 @@ cooptions
 cordovans
 crossosoma
 catagenesis
-chola
 costoxiphoid
 cholaemia
 cholalic
