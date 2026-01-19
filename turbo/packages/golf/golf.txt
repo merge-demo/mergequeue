@@ -5768,7 +5768,6 @@ gossypose
 gonotheca
 gravemaker
 galera
-galactolysis
 garbel
 grittier
 gade
@@ -6653,6 +6652,7 @@ gucks
 ganda
 grumped
 gladsome
+galactolysis
 gonidangium
 graver
 gonepoiesis
