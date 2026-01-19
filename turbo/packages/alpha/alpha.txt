@@ -6070,7 +6070,6 @@ archilowe
 accouters
 acridone
 agitant
-agitate
 agitated
 agitational
 aftosa
@@ -23163,6 +23162,7 @@ attendress
 asteriscus
 attends
 acquittance
+agitate
 almshouses
 araucano
 abstruser
