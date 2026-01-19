@@ -10565,6 +10565,7 @@ aristides
 antihypnotic
 ameliorativ
 amidoplast
+autota
 alison
 amidoplastid
 amidoxyl
@@ -23351,7 +23352,6 @@ auca
 anisocratic
 atrepsy
 achaenocarp
-autota
 aftertimes
 auchenium
 auchlet
