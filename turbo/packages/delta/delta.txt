@@ -10799,7 +10799,6 @@ dixies
 dissave
 discolorate
 deviates
-departing
 directors
 directorships
 desugared
@@ -12602,6 +12601,7 @@ dysyntribite
 driftfish
 deadhearted
 deodorise
+departing
 definitise
 dephase
 disinvagination
