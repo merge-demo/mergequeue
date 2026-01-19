@@ -7716,7 +7716,6 @@ etiological
 ephapse
 everyness
 erythraea
-epirogeny
 epidermic
 epidermical
 enteroplasty
@@ -13843,6 +13842,7 @@ embrake
 euvrou
 euplectella
 expos
+epirogeny
 euthenics
 elects
 excudit
