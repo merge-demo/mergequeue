@@ -8859,7 +8859,6 @@ cerned
 characters
 chasmogamy
 companiable
-cycads
 charadrii
 charadriiformes
 charadrine
@@ -27677,6 +27676,7 @@ cowhorn
 chillers
 copartnery
 confitent
+cycads
 cowhouse
 ciconiae
 chamaesyce
