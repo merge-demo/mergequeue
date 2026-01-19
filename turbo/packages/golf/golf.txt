@@ -2228,6 +2228,7 @@ goaves
 gemwork
 gastrolith
 gymnosperms
+graphophonic
 gerastian
 galas
 gaster
@@ -8274,7 +8275,6 @@ gnathostomi
 gladii
 graphophone
 grossulariaceae
-graphophonic
 gasteria
 graphoscope
 glycoprotein
