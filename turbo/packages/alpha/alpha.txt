@@ -12418,6 +12418,7 @@ apprest
 abjection
 androclinium
 androclus
+atpoints
 agialid
 absoil
 aspergilliform
@@ -23664,7 +23665,6 @@ aurichloride
 auricyanhydric
 anapaests
 alumroots
-atpoints
 allotropicity
 antiexpressively
 alms
