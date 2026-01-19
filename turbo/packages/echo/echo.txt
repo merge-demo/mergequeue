@@ -10710,7 +10710,6 @@ epitomizer
 emplacement
 euhemerist
 erichthus
-exothecium
 emacerate
 emblazer
 enarthrodia
@@ -13690,6 +13689,7 @@ externalization
 eupractic
 ecumenicity
 externalized
+exothecium
 externalizes
 earbash
 exocardial
