@@ -4835,6 +4835,7 @@ contrariantly
 coffea
 carr
 carrack
+chirotherian
 cymulose
 cycling
 corallita
@@ -10971,7 +10972,6 @@ chiropterygian
 chiropterite
 chiros
 chirospasm
-chirotherian
 casern
 corrals
 comessation
