@@ -5344,7 +5344,6 @@ breviers
 beglue
 beerage
 barbola
-begnaw
 biharmonic
 borderlines
 balmy
@@ -7463,6 +7462,7 @@ bookstack
 budgeting
 balmier
 briards
+begnaw
 briefest
 bated
 breasted
