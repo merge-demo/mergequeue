@@ -6280,7 +6280,6 @@ gobies
 gallify
 gasogenes
 gobiid
-gobylike
 granadilla
 gnashed
 gobinism
@@ -6686,6 +6685,7 @@ goniatites
 garterless
 guttler
 grint
+gobylike
 gibbet
 gulae
 growable
