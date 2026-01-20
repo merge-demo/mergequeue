@@ -1610,7 +1610,6 @@ acemetic
 attouchement
 accoutre
 aminobenzamide
-accoutrement
 angioclast
 albanian
 accoutres
@@ -11188,6 +11187,7 @@ axometric
 airiest
 agynous
 aerologists
+accoutrement
 authority
 attesting
 attainability
