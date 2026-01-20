@@ -386,6 +386,7 @@ forbid
 fairfieldite
 facets
 faceoff
+farmhouse
 fancifully
 fairground
 fairy
@@ -2182,7 +2183,6 @@ fiducia
 fats
 fratercula
 flabellifoliate
-farmhouse
 felts
 forthtell
 fishworker
