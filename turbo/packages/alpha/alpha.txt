@@ -9650,6 +9650,7 @@ allgood
 airworthiest
 aluminising
 aluminize
+angulometer
 aviary
 archer
 asserted
@@ -10725,7 +10726,6 @@ antiorgastic
 aminopherase
 aminopyrine
 agrobiologic
-angulometer
 armitas
 arachne
 alcayde
