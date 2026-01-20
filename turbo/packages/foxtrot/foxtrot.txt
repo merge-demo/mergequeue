@@ -1037,6 +1037,7 @@ foreknowledge
 forrel
 ferash
 freshening
+forensics
 fletcherize
 folates
 farmership
@@ -10245,7 +10246,6 @@ frolic
 felstone
 fluidglycerate
 franklinism
-forensics
 fistulatome
 flutier
 fasher
