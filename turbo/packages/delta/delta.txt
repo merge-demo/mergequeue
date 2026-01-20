@@ -8667,6 +8667,7 @@ dum
 dovekey
 diastalsis
 diglossia
+dimer
 disgustedness
 dryads
 dialectology
@@ -9858,7 +9859,6 @@ dimensionally
 dimensioning
 dimensum
 disangularize
-dimer
 decadency
 deludable
 deboner
