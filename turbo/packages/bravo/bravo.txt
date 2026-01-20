@@ -12774,7 +12774,6 @@ blacklegging
 begut
 bookseller
 bepreach
-burdalone
 bucorvinae
 becloaked
 bioelectric
@@ -15943,6 +15942,7 @@ barbaralalia
 bromized
 bromizing
 bounces
+burdalone
 behooped
 brocaded
 bipinnatisected
