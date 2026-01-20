@@ -1445,7 +1445,6 @@ confect
 cymes
 calyptoblastea
 chapiters
-calyptoblastic
 criticize
 calyptorhynchus
 calyptraea
@@ -29527,6 +29526,7 @@ cristiform
 cristino
 crackerberry
 cristobalite
+calyptoblastic
 cerebrums
 crystoleum
 crystolon
