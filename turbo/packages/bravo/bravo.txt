@@ -9022,7 +9022,6 @@ bion
 byon
 brasqued
 bionditional
-bionics
 brachyprosopic
 bionomic
 backswordman
@@ -10320,6 +10319,7 @@ beleaguerer
 besmircher
 bladewise
 bladygrass
+bionics
 baluchithere
 bisme
 blennostasis
