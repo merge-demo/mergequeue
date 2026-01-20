@@ -5094,7 +5094,6 @@ agonies
 archaised
 aesculin
 aplacophora
-archizoic
 aesir
 aesop
 aesopian
@@ -10520,6 +10519,7 @@ amidide
 acoelous
 adscript
 amidins
+archizoic
 anneal
 arret
 amidism
