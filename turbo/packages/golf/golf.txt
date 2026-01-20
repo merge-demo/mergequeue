@@ -2809,7 +2809,6 @@ gyne
 gershon
 guzzledom
 gyges
-guemul
 glovelike
 gathers
 gazettal
@@ -8705,6 +8704,7 @@ gravediggers
 gibier
 greedless
 grecism
+guemul
 guttled
 guttling
 germiniparous
