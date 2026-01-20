@@ -2933,6 +2933,7 @@ gobiiformes
 glossophagine
 gwiniad
 glitter
+gunflint
 gabbled
 geocerite
 glove
@@ -8434,7 +8435,6 @@ ganderteeth
 gratified
 gaseous
 gratis
-gunflint
 gloggs
 grad
 gladiolas
