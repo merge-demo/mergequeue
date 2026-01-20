@@ -4322,6 +4322,7 @@ goniostat
 glendover
 garrulity
 gingerline
+graphemes
 glomerular
 gingerness
 guestimated
@@ -4815,7 +4816,6 @@ guardo
 glacieret
 garookuh
 glacierist
-graphemes
 glaciers
 gymnothorax
 gladhearted
