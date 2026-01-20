@@ -5247,7 +5247,6 @@ gentilic
 gammer
 gawkier
 genial
-grenade
 goatish
 gullet
 gelsemiums
@@ -10645,6 +10644,7 @@ genera
 galvanocauterization
 guppies
 galee
+grenade
 gnomed
 gastroperiodynia
 gurged
