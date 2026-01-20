@@ -2942,7 +2942,6 @@ glove
 gubernation
 greenheaded
 gallons
-glabreity
 gulley
 growlier
 glumpish
@@ -6108,6 +6107,7 @@ gigliato
 gardinol
 gallimaufry
 gyrous
+glabreity
 gurniad
 genuflections
 gastroid
