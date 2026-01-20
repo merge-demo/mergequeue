@@ -4716,7 +4716,6 @@ forbearances
 fumers
 flacianist
 fife
-foresey
 forerank
 faldfee
 forthink
@@ -6879,6 +6878,7 @@ fornacic
 forebackwardly
 farmout
 farris
+foresey
 febriferous
 flammeous
 fitly
