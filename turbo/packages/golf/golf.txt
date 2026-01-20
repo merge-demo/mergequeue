@@ -5211,7 +5211,6 @@ gripsacks
 guttae
 groundsheet
 gale
-gleamless
 gleed
 gramophone
 germinant
@@ -8712,6 +8711,7 @@ gavelling
 grammars
 gearing
 gastraeal
+gleamless
 gates
 glunching
 gnathonical

@@ -12681,7 +12681,6 @@ aeronomist
 arpeggiation
 annus
 angareb
-angel
 angela
 artemis
 anthodium
@@ -24174,6 +24173,7 @@ appledrone
 autoimmunize
 autoindexing
 autoinfusion
+angel
 autoinoculable
 antiritualism
 aldermanries
