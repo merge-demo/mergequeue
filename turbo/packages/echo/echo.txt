@@ -5417,7 +5417,6 @@ endocrin
 exaggerations
 evulsion
 emydosauria
-empetraceae
 electuary
 eurithermophile
 emplastrum
@@ -13565,6 +13564,7 @@ ergusia
 exsolving
 epochs
 expectative
+empetraceae
 exposedness
 energies
 ebeneous
