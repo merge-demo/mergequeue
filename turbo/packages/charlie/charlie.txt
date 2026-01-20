@@ -12098,7 +12098,6 @@ cubans
 cyclonoscope
 crupper
 conjecturalist
-copeognatha
 chresmology
 chrestomathics
 chrestomathies
@@ -13393,6 +13392,7 @@ cofeatures
 cydonian
 chebec
 cydonium
+copeognatha
 cie
 cierge
 cierzo
