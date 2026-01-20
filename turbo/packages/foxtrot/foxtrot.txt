@@ -2795,7 +2795,6 @@ fixations
 finnmark
 frondeurs
 forgoing
-florists
 fraternizing
 festucine
 forelady
@@ -7400,6 +7399,7 @@ forceless
 fasciolar
 flagellariaceae
 floreate
+florists
 fasciculation
 fey
 fasti
