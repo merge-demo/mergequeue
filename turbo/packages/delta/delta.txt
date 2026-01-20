@@ -2659,7 +2659,6 @@ dasylirion
 doorkeeper
 decompiler
 decomposable
-diceman
 deviceful
 decomposer
 debrief
@@ -12331,6 +12330,7 @@ discredited
 dutchess
 detracted
 dactyl
+diceman
 dromaeognathous
 dielectrics
 doitrified
