@@ -7026,7 +7026,6 @@ destress
 dorje
 degrees
 disjointed
-despumation
 dealing
 desquamating
 desquamatory
@@ -8217,6 +8216,7 @@ divers
 damasked
 dissectors
 dulcor
+despumation
 diorism
 diadochic
 diadochite
