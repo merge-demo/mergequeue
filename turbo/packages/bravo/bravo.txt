@@ -5932,7 +5932,6 @@ beden
 backswordmen
 batswing
 blitzkrieg
-butterroot
 belast
 berber
 brandenburgs
@@ -10789,6 +10788,7 @@ bronchomotor
 bleo
 befuddlers
 bywords
+butterroot
 befrill
 boatsmen
 blepharadenitis
