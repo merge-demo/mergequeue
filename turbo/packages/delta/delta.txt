@@ -11404,7 +11404,6 @@ determinoid
 debug
 discloser
 disclosure
-diplomaed
 duplicitous
 downloading
 didache
@@ -14076,6 +14075,7 @@ distributor
 dermal
 distributorship
 demythify
+diplomaed
 distributress
 dietics
 despin
