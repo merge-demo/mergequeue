@@ -3896,7 +3896,6 @@ bezels
 bodyhood
 bidding
 biography
-basifacial
 bawra
 bawsint
 brutalness
@@ -16298,6 +16297,7 @@ bubo
 bluenesses
 brownouts
 brickly
+basifacial
 browntail
 belgravia
 blasties
