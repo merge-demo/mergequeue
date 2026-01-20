@@ -2527,7 +2527,6 @@ barger
 bardash
 bractea
 borscht
-beruffled
 boccia
 blueblack
 beslash
@@ -9761,6 +9760,7 @@ bedragglement
 bissonata
 besing
 bistate
+beruffled
 biosyntheses
 biochemist
 brainwashed
