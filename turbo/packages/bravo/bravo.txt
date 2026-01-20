@@ -4183,7 +4183,6 @@ beastlily
 beclown
 barrow
 boylas
-bradypus
 beastling
 bullswool
 beastlings
@@ -18056,6 +18055,7 @@ bustics
 barbeque
 banjoist
 bluely
+bradypus
 bugled
 busting
 bustle

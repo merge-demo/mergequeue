@@ -307,7 +307,6 @@ dayanim
 daybeacon
 dealbate
 daybed
-devchar
 disembowelment
 disgruntling
 dissuasiveness
@@ -6314,6 +6313,7 @@ drawbores
 dendrologist
 diaplasis
 dejectory
+devchar
 dermobranchiate
 dangles
 diagrammatical
