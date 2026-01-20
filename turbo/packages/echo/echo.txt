@@ -1369,7 +1369,6 @@ epeidia
 epilaryngeal
 enneandrous
 eubranchipus
-efflagitate
 epitympanic
 eugubium
 embellishes
@@ -7637,6 +7636,7 @@ epicotyls
 ecca
 enhancement
 extrasomatic
+efflagitate
 emplead
 enterostasis
 earworms
