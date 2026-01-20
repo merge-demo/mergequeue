@@ -15767,7 +15767,6 @@ crocoite
 cleansers
 codescendant
 cleanses
-cynosura
 cleanskin
 cleanskins
 cleanup
@@ -17170,6 +17169,7 @@ coagriculturist
 carryke
 chrononomy
 coagulability
+cynosura
 cymrite
 coagulated
 coagulates
