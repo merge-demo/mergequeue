@@ -7730,7 +7730,6 @@ certainness
 cormorant
 cetin
 certainty
-certhia
 caryatidic
 cfi
 certifiability
@@ -29335,6 +29334,7 @@ certiorating
 cryptoheresy
 cryptoheretic
 cryptolite
+certhia
 cytochalasin
 cryptolith
 cryptology
