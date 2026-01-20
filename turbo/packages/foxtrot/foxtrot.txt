@@ -1952,7 +1952,6 @@ foreknower
 familiarizingly
 falsify
 fenouillet
-falsum
 fooyoung
 flagmaker
 fone
@@ -2641,6 +2640,7 @@ frenched
 fluocerite
 frumpling
 ferrumination
+falsum
 fluviatic
 fraters
 feedings
