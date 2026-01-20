@@ -6361,7 +6361,6 @@ elapid
 ensemble
 engastrimyth
 engrained
-evaluator
 electrocontractility
 enanguish
 espaliered
@@ -12945,6 +12944,7 @@ epitonion
 empurple
 enchafe
 enhardy
+evaluator
 examines
 enfeeble
 erythrol
