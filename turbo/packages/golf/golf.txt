@@ -1276,7 +1276,6 @@ guenon
 gapper
 glutinosity
 grimaces
-garran
 gaia
 gallicole
 glenwood
@@ -1472,6 +1471,7 @@ gaoler
 gowks
 gamma
 gerousia
+garran
 gove
 gynocardia
 gradualness
