@@ -6360,6 +6360,7 @@ causers
 causes
 cgm
 crimison
+confederator
 causeuses
 cannellated
 causewaying
@@ -13388,7 +13389,6 @@ counterturn
 cydippe
 cofeatures
 cydonian
-confederator
 chebec
 cydonium
 cie
