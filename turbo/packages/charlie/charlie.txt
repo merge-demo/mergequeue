@@ -18662,7 +18662,6 @@ cointer
 cointerest
 cointerred
 cointerring
-cointersecting
 cantrips
 coinvolve
 coyo
@@ -24869,6 +24868,7 @@ conveyers
 cardecu
 corial
 comous
+cointersecting
 counterprotest
 coffeecakes
 coalified
