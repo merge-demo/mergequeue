@@ -1470,7 +1470,6 @@ algid
 ann
 alpinery
 acclimatizer
-adrenalectomy
 acquaintancy
 agreeableness
 anticness
@@ -16727,6 +16726,7 @@ autopotamic
 assamar
 akebi
 attidae
+adrenalectomy
 acara
 adenolipomatosis
 adverbless

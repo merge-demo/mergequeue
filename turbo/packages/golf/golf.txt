@@ -2948,7 +2948,6 @@ gobblers
 gavelkind
 gaeldom
 geocyclic
-gnat
 geraldine
 gorsy
 glideless
@@ -8948,6 +8947,7 @@ grieko
 gecked
 gatsby
 gelled
+gnat
 gyration
 gurgulation
 golfed
