@@ -4569,7 +4569,6 @@ gyrencephala
 gutturalized
 gilim
 gobbledygook
-graphometry
 glim
 galloper
 goobers
@@ -10688,6 +10687,7 @@ grippotoxin
 grayed
 gurk
 gellants
+graphometry
 groundbird
 geostatic
 gurnet
