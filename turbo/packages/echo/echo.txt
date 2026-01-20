@@ -1041,7 +1041,6 @@ exsheath
 edged
 eidolon
 edger
-edgeshot
 edgeway
 epigaster
 embalmment
@@ -3695,6 +3694,7 @@ echelette
 exhaustivity
 egoistry
 embrittle
+edgeshot
 enfranchised
 echinochrome
 erinaceidae
