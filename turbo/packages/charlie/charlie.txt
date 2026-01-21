@@ -2465,7 +2465,6 @@ cancroid
 clientele
 contuse
 crystallitic
-cancrum
 cancrums
 cand
 candelabras
@@ -21528,6 +21527,7 @@ celestialize
 concresce
 concrescence
 cephalohumeral
+cancrum
 concrescive
 colocentesis
 coerces
