@@ -2464,7 +2464,6 @@ endexines
 ecocide
 emotionalise
 electroing
-electrokinetic
 eluviate
 entrefer
 elaeometer
@@ -11564,6 +11563,7 @@ evolutionistic
 endotheloid
 euaster
 extracorporeal
+electrokinetic
 endocrine
 educt
 evolutionists
