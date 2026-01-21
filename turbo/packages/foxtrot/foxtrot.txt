@@ -539,6 +539,7 @@ falcons
 flabbergasts
 falculate
 fawnery
+fortune
 falcunculus
 falderals
 fussier
@@ -10017,7 +10018,6 @@ fringetail
 foreplot
 fimbles
 frogskin
-fortune
 fibrocystoma
 favors
 fringilline
