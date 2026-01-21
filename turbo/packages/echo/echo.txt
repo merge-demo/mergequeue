@@ -3417,7 +3417,6 @@ evacuate
 eventide
 embellisher
 embellishers
-eutelegenic
 encheason
 enchained
 encolden
@@ -13402,6 +13401,7 @@ edacities
 escalates
 excitatory
 evilmouthed
+eutelegenic
 emaciates
 eltime
 espadrilles
