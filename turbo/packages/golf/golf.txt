@@ -1280,6 +1280,7 @@ gaia
 gallicole
 glenwood
 granage
+gyrophora
 ged
 gavall
 goethites
@@ -10867,7 +10868,6 @@ graduation
 guaranteer
 gastrulation
 gils
-gyrophora
 goggan
 goaltending
 graperoot
