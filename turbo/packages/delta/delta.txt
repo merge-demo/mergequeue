@@ -9319,7 +9319,6 @@ dressers
 differenced
 differences
 dryad
-destroyable
 dunces
 differentiability
 differentiae
@@ -14207,6 +14206,7 @@ defenselessly
 derotrematous
 disyoked
 doublet
+destroyable
 disvisor
 dungs
 dynamoelectric
