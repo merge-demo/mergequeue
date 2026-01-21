@@ -8730,7 +8730,6 @@ dinting
 defocusses
 deescalations
 diatomist
-dover
 dot
 debadge
 diaporesis
@@ -11684,6 +11683,7 @@ diastasis
 discourses
 diovular
 discoursing
+dover
 decomplex
 decoagulate
 distritbute
