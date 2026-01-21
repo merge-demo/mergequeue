@@ -9068,7 +9068,6 @@ glassworking
 glasser
 genitive
 gigahertz
-gentianwort
 ghast
 grimme
 grillroom
@@ -9244,6 +9243,7 @@ gemeled
 gristlier
 grene
 grasper
+gentianwort
 griths
 gritted
 grittie
