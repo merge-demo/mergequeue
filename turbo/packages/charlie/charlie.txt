@@ -15539,6 +15539,7 @@ classicise
 compatibleness
 chromophoric
 classicism
+chaetopterin
 classicist
 classicists
 cheshire
@@ -27791,7 +27792,6 @@ coxcomb
 coxcombess
 catacaustic
 crookneck
-chaetopterin
 coxcombic
 chondrus
 cordleaf
