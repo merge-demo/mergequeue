@@ -3612,6 +3612,7 @@ bathos
 bathrobes
 bunkmates
 brach
+biquadratic
 balneophysiology
 benday
 bulldogger
@@ -11187,7 +11188,6 @@ bailee
 bitable
 bushgoat
 bugfish
-biquadratic
 bloodworthy
 belched
 blearily
