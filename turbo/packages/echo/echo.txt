@@ -9647,7 +9647,6 @@ esperantido
 extrapatriarchal
 enclosing
 emissaries
-epicycles
 espy
 espial
 electrocoagulation
@@ -14195,6 +14194,7 @@ ectosome
 esthetics
 epulation
 endlong
+epicycles
 equidistance
 exuscitate
 enlists
