@@ -1986,6 +1986,7 @@ gnomonical
 gimbal
 geology
 geranic
+gweduck
 goring
 grubroot
 glut
@@ -10216,7 +10217,6 @@ geissospermin
 gainsays
 glaucous
 gowpin
-gweduck
 gobbet
 gunless
 guillotinist
