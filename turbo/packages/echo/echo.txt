@@ -10207,7 +10207,6 @@ emptores
 ethicoaesthetic
 ethicopolitical
 emoter
-ethicoreligious
 erased
 elytriform
 etesian
@@ -10279,6 +10278,7 @@ exomorphic
 extension
 ethmofrontal
 eyebridled
+ethicoreligious
 esquamate
 empemata
 escorial
