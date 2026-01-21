@@ -3533,7 +3533,6 @@ bateau
 bateleur
 barbered
 bowerwoman
-bovista
 bouchal
 bulldoggishly
 bubos
@@ -14563,6 +14562,7 @@ barbarians
 belozenged
 branchiopoda
 branner
+bovista
 baktun
 bonding
 belugite
