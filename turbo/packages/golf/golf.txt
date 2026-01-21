@@ -1410,7 +1410,6 @@ gausterer
 gearshift
 gcd
 gangplow
-grundyite
 galvanopsychic
 gossipee
 gipsying
@@ -4937,6 +4936,7 @@ get
 gent
 galangal
 grangerizing
+grundyite
 gamdia
 gardens
 grenadierly
