@@ -4240,7 +4240,6 @@ condensery
 cmdr
 cenoby
 croceous
-chloroplatinic
 careerers
 carefreeness
 careful
@@ -16619,6 +16618,7 @@ closable
 closeable
 closecross
 closed
+chloroplatinic
 closefistedly
 closefistedness
 concussant
