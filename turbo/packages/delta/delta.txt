@@ -1676,7 +1676,6 @@ deanships
 dothiorella
 dehull
 deanthropomorphism
-diasynthesis
 dwarfness
 deanthropomorphization
 diadrom
@@ -6126,6 +6125,7 @@ designees
 dereferencing
 disprove
 deregulated
+diasynthesis
 dogface
 dodonean
 discrowning
