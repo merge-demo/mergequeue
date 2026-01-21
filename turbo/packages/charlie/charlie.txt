@@ -2072,7 +2072,6 @@ conli
 campaign
 clotheshorses
 campaigners
-campaigns
 colostric
 campana
 campane
@@ -7495,6 +7494,7 @@ capron
 chorioepithelioma
 ceratopteris
 ceratospongian
+campaigns
 contemplators
 chastened
 ceratostomataceae
