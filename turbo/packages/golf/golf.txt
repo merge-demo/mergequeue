@@ -4482,7 +4482,6 @@ ganoblast
 gunshot
 generically
 gristles
-geophytes
 guacimo
 gypsyhead
 gloeocapsoid
@@ -10754,6 +10753,7 @@ globulin
 gd
 gorsebird
 grovelers
+geophytes
 gouge
 gerodontics
 gerald
