@@ -1183,7 +1183,6 @@ acanthia
 apocryphally
 acanthion
 atrosanguineous
-acanthocephalous
 acanthocladous
 acanthodean
 abbots
@@ -21381,6 +21380,7 @@ acroter
 asyndeton
 abditive
 asyndetons
+acanthocephalous
 artesonado
 acacin
 asinego
