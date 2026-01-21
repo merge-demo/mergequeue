@@ -5954,7 +5954,6 @@ deckswabber
 debord
 decuples
 dragons
-diopside
 delictus
 deed
 dayfly
@@ -6844,6 +6843,7 @@ dissention
 danknesses
 dryobalanops
 dragnet
+diopside
 deadflat
 deltic
 domesticative
