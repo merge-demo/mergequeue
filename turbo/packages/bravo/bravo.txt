@@ -1983,7 +1983,6 @@ bimas
 bethabara
 bywalk
 bullragging
-bitwise
 bentiness
 belk
 bantoid
@@ -5521,6 +5520,7 @@ birding
 brahmas
 bagatine
 bludgeoned
+bitwise
 baklava
 bemurmured
 bodied
