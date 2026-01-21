@@ -829,7 +829,6 @@ ectocarpus
 eriophorum
 eosinophil
 ectocommensal
-ectocondylar
 endophytic
 electrolyser
 excrementous
@@ -13557,6 +13556,7 @@ exsibilation
 evadable
 exsiccant
 exsiccatae
+ectocondylar
 elucidate
 exsiccating
 ergusia
