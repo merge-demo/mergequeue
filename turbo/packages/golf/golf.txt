@@ -9031,7 +9031,6 @@ gallbladders
 galvanothermy
 guiles
 geohydrologic
-groomer
 grillee
 golem
 gramashes
@@ -9499,6 +9498,7 @@ gyroscope
 groupwise
 garvey
 glenn
+groomer
 generalizer
 gundelow
 ganoidean
