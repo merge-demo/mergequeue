@@ -7620,7 +7620,6 @@ gracefuller
 gallerying
 gracilariidae
 gyn
-gowlan
 gunsel
 graphic
 giovanni
@@ -8624,6 +8623,7 @@ gimbaling
 glyceridic
 grauwacke
 greeds
+gowlan
 glutaminase
 gerrymanderer
 gemmeous
