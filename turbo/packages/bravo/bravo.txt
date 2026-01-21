@@ -3831,7 +3831,6 @@ burgeoning
 baulked
 bearbane
 bookfair
-bequeaths
 behight
 broccoli
 boarfishes
@@ -10586,6 +10585,7 @@ bullheaded
 blatiform
 biotelemetric
 biffies
+bequeaths
 blats
 bygones
 blatta
