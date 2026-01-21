@@ -2207,6 +2207,7 @@ fogged
 feminal
 fruiting
 fragrancy
+fmt
 feminility
 feminin
 frecklish
@@ -5590,7 +5591,6 @@ forefeel
 fossilation
 formulary
 fuming
-fmt
 flyer
 forfar
 fingerwise
