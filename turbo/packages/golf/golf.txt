@@ -3301,6 +3301,7 @@ goxes
 german
 geckos
 gunstocks
+guider
 germanify
 graminiferous
 germanification
@@ -8620,7 +8621,6 @@ gotos
 goldanged
 glomus
 gimbaling
-guider
 glyceridic
 grauwacke
 greeds
