@@ -2285,6 +2285,7 @@ burgherdom
 bindoree
 befuddle
 broadsheet
+bequalm
 brier
 bianco
 bysen
@@ -6513,7 +6514,6 @@ beghard
 bejabbers
 bepuffed
 beetleheaded
-bequalm
 bklr
 bequeathed
 bruges
