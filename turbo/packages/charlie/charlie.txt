@@ -2777,6 +2777,7 @@ cableman
 cannie
 cagui
 cannier
+creolization
 canning
 cannings
 chiccories
@@ -5391,7 +5392,6 @@ chaufer
 castellate
 castellation
 castellatus
-creolization
 circumposition
 copulates
 chamberfellow
