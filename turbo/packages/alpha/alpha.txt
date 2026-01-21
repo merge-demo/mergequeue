@@ -14840,7 +14840,6 @@ activations
 antichreses
 antichrist
 antichristianism
-aforetime
 anglicisms
 ascomycetes
 antepagmenta
@@ -24157,6 +24156,7 @@ alewives
 avast
 arache
 altoist
+aforetime
 antianarchist
 absorbance
 azelfafage
