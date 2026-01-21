@@ -3572,7 +3572,6 @@ baroscopic
 binode
 blonds
 bathylithic
-bathymetry
 bathymetrical
 biggonet
 bathing
@@ -13364,6 +13363,7 @@ beety
 bushelman
 bughouses
 blastman
+bathymetry
 breeders
 benightedly
 brusquely
