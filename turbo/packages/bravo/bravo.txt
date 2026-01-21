@@ -3910,6 +3910,7 @@ bedlamp
 bifidated
 breadline
 baxtone
+baumhauerite
 brachyskelic
 boughten
 begray
@@ -15038,7 +15039,6 @@ bunchberries
 bennettites
 burnut
 bredbergite
-baumhauerite
 bredes
 blindfoldedly
 bredestitch
