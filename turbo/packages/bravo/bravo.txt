@@ -7317,6 +7317,7 @@ betear
 betel
 buttwood
 baseboards
+banalize
 barad
 bali
 betell
@@ -9608,7 +9609,6 @@ busybodyness
 bullheadedness
 bisects
 bottleflower
-banalize
 bosky
 baboot
 bromes
