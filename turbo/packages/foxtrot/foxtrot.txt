@@ -1739,6 +1739,7 @@ fledgling
 formican
 foreordainment
 filiality
+flyway
 featherbird
 feoffors
 forfare
@@ -4954,7 +4955,6 @@ flowcharting
 fintadores
 frenulum
 forehinting
-flyway
 feebleheartedly
 flanch
 farcemeat
