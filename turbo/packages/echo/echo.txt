@@ -4125,6 +4125,7 @@ extracranial
 energids
 expungement
 erythrodermia
+especially
 externum
 encl
 encaustes
@@ -8647,7 +8648,6 @@ extractor
 enervous
 exceptionable
 expels
-especially
 emphyteuta
 elutriating
 emergently
