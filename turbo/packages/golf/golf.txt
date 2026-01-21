@@ -1265,7 +1265,6 @@ gonglike
 grassman
 garbill
 guyline
-goosebone
 ganomalite
 garbler
 gradings
@@ -7677,6 +7676,7 @@ greybeard
 grading
 grease
 general
+goosebone
 gatefold
 gobiesox
 granters
