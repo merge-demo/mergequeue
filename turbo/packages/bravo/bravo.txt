@@ -3054,7 +3054,6 @@ branglement
 bopping
 burgesses
 bartizans
-bourkha
 beigel
 belee
 beckons
@@ -8546,6 +8545,7 @@ brumes
 barricading
 bittersweetly
 billboards
+bourkha
 beetrooty
 beshawled
 billbug
