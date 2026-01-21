@@ -15531,6 +15531,7 @@ classicalist
 classicality
 chaya
 classicise
+compatibleness
 chromophoric
 classicism
 classicist
@@ -20515,7 +20516,6 @@ compatibilities
 condors
 compatible
 clouts
-compatibleness
 chlorider
 compatriotic
 chilicote
