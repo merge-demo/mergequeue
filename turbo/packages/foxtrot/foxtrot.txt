@@ -6391,7 +6391,6 @@ furanoside
 flagelliferous
 floatmaker
 fireworm
-fatiguabilities
 fluoride
 fibromyositis
 frasera
@@ -6943,6 +6942,7 @@ flub
 ferthumlungur
 fobbing
 fortuned
+fatiguabilities
 fumarase
 fibromatosis
 fauconnier
