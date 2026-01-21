@@ -11644,6 +11644,7 @@ dialogged
 didest
 demiditone
 dishexecontahedroid
+deprecated
 discost
 dimorphite
 digitally
@@ -17195,7 +17196,6 @@ drippier
 damans
 deuteroscopy
 detailedly
-deprecated
 diabolically
 dripstone
 duffers
