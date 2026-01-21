@@ -6784,7 +6784,6 @@ bookery
 bersagliere
 brittles
 bin
-beguilingness
 boeotia
 berserks
 barnumize
@@ -14591,6 +14590,7 @@ brandenburgh
 brandy
 brosy
 bitty
+beguilingness
 bambos
 bondager
 brandied
