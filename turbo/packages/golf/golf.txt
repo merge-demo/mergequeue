@@ -2761,7 +2761,6 @@ genoise
 gentiopicrin
 girths
 gorgers
-gunfire
 greenflies
 gauger
 guestchamber
@@ -8912,6 +8911,7 @@ ghostified
 griquaite
 grouchiness
 glomerella
+gunfire
 governail
 goniopholidae
 gentman
