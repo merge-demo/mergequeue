@@ -1106,6 +1106,7 @@ ejectee
 enarm
 endopterygotic
 epacts
+exodos
 elhi
 eikons
 environage
@@ -4714,7 +4715,6 @@ evanishing
 embarrass
 eyren
 existent
-exodos
 episcopacy
 estranging
 endosmosic
