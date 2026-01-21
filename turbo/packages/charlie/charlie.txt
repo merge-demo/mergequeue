@@ -9560,7 +9560,6 @@ checkwriter
 concurrence
 cascading
 cheddar
-commentating
 cheddites
 crooked
 cheders
@@ -22183,6 +22182,7 @@ crambambuli
 confusability
 circummured
 confusedly
+commentating
 carnalized
 confusedness
 confuser
