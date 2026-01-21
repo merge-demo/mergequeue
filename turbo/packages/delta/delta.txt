@@ -6782,7 +6782,6 @@ desirer
 drachma
 daira
 dihedrons
-desirous
 desirousness
 drily
 dented
@@ -9984,6 +9983,7 @@ dimorphism
 dukker
 dissatisfactorily
 dally
+desirous
 disparted
 desophisticate
 deforests
