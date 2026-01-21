@@ -11460,6 +11460,7 @@ bargir
 bluepoint
 belzebub
 blueprint
+beekite
 blancmange
 brawner
 blazingly
@@ -11899,7 +11900,6 @@ boron
 befouled
 brent
 boatlip
-beekite
 borgh
 bockey
 bench
