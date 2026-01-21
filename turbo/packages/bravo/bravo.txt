@@ -1342,7 +1342,6 @@ bacteriophagous
 bandwagon
 bobbles
 bethlehem
-bookdealer
 bioplastic
 balboas
 barrowcoat
@@ -12732,6 +12731,7 @@ bushmaster
 bibulously
 blastophthoric
 bibliographically
+bookdealer
 bowet
 booker
 boatkeeper
