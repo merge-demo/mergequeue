@@ -4509,6 +4509,7 @@ forheed
 foreigner
 forslake
 flooded
+frustum
 fountainhead
 fructify
 famille
@@ -10747,7 +10748,6 @@ flagstaves
 flirter
 fletches
 forgotten
-frustum
 frutage
 faithlessly
 footraces
