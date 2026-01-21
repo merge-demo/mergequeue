@@ -1550,6 +1550,7 @@ flowcontrol
 fishbowl
 fauvism
 funk
+footnotes
 fuselage
 fauvisms
 foreprepare
@@ -10055,7 +10056,6 @@ flyball
 foamiest
 forwardness
 fiercly
-footnotes
 fetalism
 flammability
 fellowed
