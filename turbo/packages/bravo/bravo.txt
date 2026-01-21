@@ -7375,7 +7375,6 @@ bolometer
 bethroot
 blackbirds
 besogne
-bamboche
 bigmouthed
 bethump
 betides
@@ -14642,6 +14641,7 @@ broadleaves
 bewrayment
 bitterns
 brantails
+bamboche
 barricado
 bedcord
 brantle
