@@ -619,7 +619,6 @@ frighter
 fragaria
 floodways
 fleshes
-forehand
 folly
 farrantly
 forelimb
@@ -9908,6 +9907,7 @@ fungistatic
 foretells
 fistfuls
 fade
+forehand
 falconry
 filoplumaceous
 forkbeard
