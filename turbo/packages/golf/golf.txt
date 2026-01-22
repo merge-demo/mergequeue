@@ -1272,7 +1272,6 @@ greasers
 galliardly
 griffes
 guenon
-gapper
 glutinosity
 grimaces
 gaia
@@ -4071,6 +4070,7 @@ gibbosity
 gentleman
 gratifications
 gibboseness
+gapper
 gim
 gambolling
 gerundively
