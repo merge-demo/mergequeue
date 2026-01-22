@@ -873,7 +873,6 @@ falconets
 forzando
 fireworks
 footworks
-florivorous
 feverfews
 fantastication
 forold
@@ -7087,6 +7086,7 @@ foolish
 faintish
 ferryboats
 fascinating
+florivorous
 fleapit
 factious
 fusional
