@@ -7115,7 +7115,6 @@ enshadow
 exoner
 episterna
 echeneidid
-effectuation
 envolume
 embarment
 epistemonic
@@ -11385,6 +11384,7 @@ eventualize
 eventually
 expansional
 eventuating
+effectuation
 evictors
 effendi
 epileptogenous
