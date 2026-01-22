@@ -4464,6 +4464,7 @@ emulators
 embryophyta
 encephalographic
 ekphorize
+esiphonal
 episematic
 earlock
 enamelling
@@ -7162,7 +7163,6 @@ ephebi
 entender
 epistasis
 euphonym
-esiphonal
 enchesoun
 ensample
 enzootically
