@@ -2188,7 +2188,6 @@ flabellifoliate
 farmhouse
 felts
 forthtell
-fishworker
 feltwort
 fastidiosity
 felwort
@@ -7003,6 +7002,7 @@ flop
 fondlingly
 farewelled
 fraenulum
+fishworker
 foozled
 foreaccustom
 fruitwoman
