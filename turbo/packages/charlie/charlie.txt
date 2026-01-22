@@ -4060,7 +4060,6 @@ crissum
 cardel
 crucianella
 ceroid
-chromocentral
 creaminess
 cardiac
 cardiacal
@@ -4258,6 +4257,7 @@ careless
 carelessly
 carelessness
 careme
+chromocentral
 carene
 carer
 chyometer
