@@ -10559,7 +10559,6 @@ aniellidae
 aristides
 antihypnotic
 ameliorativ
-amidoplast
 autota
 alison
 amidoplastid
@@ -21208,6 +21207,7 @@ asexualised
 asexuality
 acetonaphthone
 asexualization
+amidoplast
 amuzzle
 anguineous
 asexually
