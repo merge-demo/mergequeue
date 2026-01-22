@@ -832,7 +832,6 @@ ectocommensal
 endophytic
 electrolyser
 excrementous
-elong
 ethology
 ectodermosis
 ennuyante
@@ -14194,6 +14193,7 @@ esthetics
 epulation
 endlong
 epicycles
+elong
 equidistance
 exuscitate
 enlists
