@@ -4930,7 +4930,6 @@ backchat
 beefeater
 beefeaters
 baclin
-barkentines
 bepride
 burhinidae
 bract
@@ -10226,6 +10225,7 @@ besague
 breads
 britany
 blackjacks
+barkentines
 bootstraps
 bondhold
 blvd
