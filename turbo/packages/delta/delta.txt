@@ -902,7 +902,6 @@ dantology
 dashpots
 dextrin
 dewitt
-decolourised
 daoine
 decks
 dap
@@ -6723,6 +6722,7 @@ disacidify
 dilaceration
 designatum
 designedly
+decolourised
 designedness
 diaper
 detachability
