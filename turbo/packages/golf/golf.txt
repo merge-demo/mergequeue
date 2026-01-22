@@ -782,7 +782,6 @@ goods
 geomorphic
 gemologies
 galvanotropism
-guntub
 globulolysis
 ganymede
 glossolalist
@@ -10828,6 +10827,7 @@ gyved
 gigunu
 guvacine
 goatland
+guntub
 growing
 grammatic
 greengrocery
