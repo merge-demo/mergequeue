@@ -3375,6 +3375,7 @@ eucharistized
 embarkment
 embarks
 equipage
+embosked
 exteroceptor
 elohist
 em
@@ -13971,7 +13972,6 @@ embezzles
 embrocations
 egards
 emceed
-embosked
 enwreathed
 endears
 exundance
