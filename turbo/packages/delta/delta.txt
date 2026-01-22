@@ -3060,7 +3060,6 @@ deescalate
 dyehouse
 deeses
 deepfrozen
-deemphasize
 diester
 downward
 diuretic
@@ -13754,6 +13753,7 @@ dreamboat
 desugaring
 degression
 damndests
+deemphasize
 dangering
 downlooker
 disbarments
