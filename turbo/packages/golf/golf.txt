@@ -1994,6 +1994,7 @@ gweduck
 goring
 grubroot
 glut
+gravelling
 gripes
 grudged
 gregarinous
@@ -7318,7 +7319,6 @@ gyrostatic
 genet
 graves
 gutturally
-gravelling
 gangly
 gappier
 goar
