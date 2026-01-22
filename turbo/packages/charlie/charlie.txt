@@ -12100,7 +12100,6 @@ chria
 chris
 calibogus
 caraunda
-chrysalid
 coronet
 chrysalida
 cascarilla
@@ -23387,6 +23386,7 @@ ceratosaurus
 contagion
 contagioned
 computation
+chrysalid
 ceramicite
 cuculi
 cumulating
