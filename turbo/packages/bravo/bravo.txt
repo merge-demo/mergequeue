@@ -1861,6 +1861,7 @@ bandelette
 banderma
 banderol
 banderole
+bicolors
 bindings
 brigading
 banders
@@ -8022,7 +8023,6 @@ bleakish
 babble
 bicolorous
 betrayal
-bicolors
 beadleism
 binna
 biconcave
