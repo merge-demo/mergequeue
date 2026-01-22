@@ -5051,7 +5051,6 @@ goalkeeper
 golconda
 gecarcinus
 gastrogenital
-gv
 gustful
 gularis
 garland
@@ -9435,6 +9434,7 @@ gradable
 gorgeous
 guacharos
 gigues
+gv
 gallinulinae
 groundy
 girrit
