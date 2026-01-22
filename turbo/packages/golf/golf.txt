@@ -10589,7 +10589,6 @@ grandisonian
 gowany
 gushed
 goatstone
-gonidium
 gunners
 gouvernantes
 gunning
@@ -10861,6 +10860,7 @@ growlers
 girds
 geomagnetician
 gush
+gonidium
 gyri
 grozet
 guideress
