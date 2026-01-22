@@ -5659,7 +5659,6 @@ bilify
 belderroot
 bodgie
 beleaguering
-bongar
 badgeless
 beleapt
 belection
@@ -9356,6 +9355,7 @@ bluebush
 bottommost
 both
 birded
+bongar
 bisectrix
 birdfarm
 bahawder
