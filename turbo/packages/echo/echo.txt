@@ -8686,7 +8686,6 @@ epilepsy
 ejecta
 equipotential
 exconjugant
-endostyle
 epulotic
 equiprobably
 eldfather
@@ -10560,6 +10559,7 @@ ephectic
 eckehart
 ethmose
 ethrog
+endostyle
 ergatandromorphic
 erotomania
 ewry
