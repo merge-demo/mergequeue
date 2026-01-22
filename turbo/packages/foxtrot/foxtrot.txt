@@ -1615,7 +1615,6 @@ footroom
 floriage
 flappier
 frijol
-fervescence
 flannel
 fawkener
 fraischeur
@@ -5305,6 +5304,7 @@ front
 fascioplasty
 fluoroscopies
 flaxman
+fervescence
 foreplanting
 formonitrile
 festuca
