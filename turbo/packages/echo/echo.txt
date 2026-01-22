@@ -351,7 +351,6 @@ eriophyidae
 eavedropping
 ephthianure
 endevil
-embouchement
 excentral
 eurytus
 eyestone
@@ -4122,6 +4121,7 @@ emplunge
 eccentring
 empodia
 eclegm
+embouchement
 extracranial
 energids
 expungement
