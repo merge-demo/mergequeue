@@ -5487,7 +5487,6 @@ flesh
 forbids
 fourteenths
 formes
-filchers
 feculae
 friezy
 fiduciarily
@@ -7326,6 +7325,7 @@ favour
 fulcrum
 feathered
 focimeter
+filchers
 fiddleheaded
 flickered
 forechamber
