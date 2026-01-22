@@ -3961,7 +3961,6 @@ barbeiro
 beaminess
 brocatel
 barhal
-bastardizations
 borborygm
 beachcombers
 beachdrops
@@ -5827,6 +5826,7 @@ bizarrely
 benevolences
 bemata
 brustling
+bastardizations
 beleaps
 bromoketone
 bestorm
