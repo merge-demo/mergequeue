@@ -4726,7 +4726,6 @@ faldfee
 forthink
 fablemongering
 forestry
-flo
 fatten
 fertil
 furtherest
@@ -10482,6 +10481,7 @@ fatness
 frutescent
 frostings
 fanzine
+flo
 finises
 fervencies
 floggable
