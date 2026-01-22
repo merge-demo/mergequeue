@@ -5719,7 +5719,6 @@ beliefless
 badman
 beliers
 blemishing
-belies
 believers
 benzotetrazine
 beamful
@@ -12133,6 +12132,7 @@ boldly
 baedekers
 bonesets
 balanops
+belies
 baalshem
 burbots
 bedamp
