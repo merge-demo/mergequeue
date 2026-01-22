@@ -2410,7 +2410,6 @@ bowdlerised
 bardings
 busyness
 becrusts
-becalms
 bardlike
 barkiest
 bazar
@@ -3740,6 +3739,7 @@ brigantes
 battlestead
 battlewagon
 bronchiectasis
+becalms
 bovver
 beautifully
 behatted
