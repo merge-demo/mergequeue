@@ -5785,7 +5785,6 @@ discouragement
 dissuade
 deposit
 divine
-diamondwork
 depositation
 dartlike
 disgorgement
@@ -9004,6 +9003,7 @@ disbar
 dudine
 dicotyledonous
 dicotyles
+diamondwork
 dicotylidae
 disenslave
 defrauding
