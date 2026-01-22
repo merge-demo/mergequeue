@@ -846,7 +846,6 @@ balk
 bafflers
 baffling
 bafflingly
-bulbus
 bartletts
 bushelbasket
 bonelike
@@ -11149,6 +11148,7 @@ bolography
 blunker
 blandness
 brawniest
+bulbus
 benevolently
 brotan
 broguing
