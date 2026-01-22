@@ -448,6 +448,7 @@ eveners
 enanthesis
 expediteness
 evector
+endoplastule
 ecclesia
 enumerable
 ecclesiarchy
@@ -4340,7 +4341,6 @@ electrolyzer
 ethine
 encephalosclerosis
 evisite
-endoplastule
 euornithes
 enapt
 elemi
