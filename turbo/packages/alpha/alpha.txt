@@ -2688,7 +2688,6 @@ angiograph
 abrasiometer
 africa
 anticyclonic
-anax
 apex
 airpark
 acridiidae
@@ -21129,6 +21128,7 @@ ascophore
 alfas
 aclydes
 arkoses
+anax
 ascothoracica
 acritude
 aerographer
