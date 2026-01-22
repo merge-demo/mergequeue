@@ -3017,7 +3017,6 @@ barsac
 backhatch
 beaveries
 becowarding
-bioassay
 blarneyer
 barstools
 bart
@@ -14286,6 +14285,7 @@ becost
 bobber
 bechamels
 batheable
+bioassay
 bouillon
 bigotry
 begrudger
