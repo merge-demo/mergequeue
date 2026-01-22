@@ -7395,7 +7395,6 @@ clunk
 chalaziferous
 cephalotaxus
 conventicles
-cephalothoraxes
 cephalotomy
 corozo
 chippering
@@ -31190,6 +31189,7 @@ communities
 cloudling
 cuprene
 cupreous
+cephalothoraxes
 carriers
 cupressus
 campagus
