@@ -1825,7 +1825,6 @@ forgets
 furphy
 featured
 fluidify
-featureful
 featurelessness
 featureliness
 furrows
@@ -3258,6 +3257,7 @@ fomenting
 flatware
 feelings
 fiddlecome
+featureful
 fracedinous
 farewells
 fiddlefaced
