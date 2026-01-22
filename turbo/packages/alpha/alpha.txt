@@ -5508,7 +5508,6 @@ aerial
 afterform
 actuarial
 aerolith
-aristos
 aftergas
 abstractedness
 ablings
@@ -22169,6 +22168,7 @@ amoeboid
 anarchically
 abampere
 audiograms
+aristos
 asthenical
 arpeggiando
 arrowstone
