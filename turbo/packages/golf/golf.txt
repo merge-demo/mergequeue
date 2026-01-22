@@ -1801,6 +1801,7 @@ gasterosteid
 gynandrism
 glossolaly
 gutterblood
+guttee
 gelatinotype
 grippelike
 ghyll
@@ -7984,7 +7985,6 @@ glottologies
 goldenmouthed
 gasifiable
 gainer
-guttee
 glouts
 goodhap
 galleyman
