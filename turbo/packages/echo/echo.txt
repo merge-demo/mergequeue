@@ -3022,6 +3022,7 @@ eschalot
 exogamy
 epidermis
 experimentalists
+exocline
 elaidin
 embryotroph
 eumycetic
@@ -7991,7 +7992,6 @@ endocannibalism
 epiotic
 eutannin
 exopterygota
-exocline
 epipactis
 elasticized
 enigmaticalness
