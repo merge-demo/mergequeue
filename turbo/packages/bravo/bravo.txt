@@ -888,7 +888,6 @@ bravade
 bagful
 baggagemaster
 bedamning
-brachydome
 baggager
 benzidin
 benzalcohol
@@ -4220,6 +4219,7 @@ beatrix
 bonging
 bonged
 beatuti
+brachydome
 brachet
 blockiness
 bigot
