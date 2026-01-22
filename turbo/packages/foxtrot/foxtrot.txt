@@ -873,7 +873,6 @@ falconets
 forzando
 fireworks
 footworks
-feverfews
 fantastication
 forold
 flyaways
@@ -10667,6 +10666,7 @@ frightable
 facultied
 fibular
 fruitlets
+feverfews
 facetted
 furcated
 fainting
