@@ -5496,7 +5496,6 @@ fiant
 friseurs
 fossed
 fretwork
-forbarred
 fratching
 foraged
 fleshy
@@ -9185,6 +9184,7 @@ footled
 fries
 fragileness
 forenames
+forbarred
 foreknown
 faceplate
 fucus
