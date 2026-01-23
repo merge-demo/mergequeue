@@ -574,6 +574,7 @@ ciconiiform
 councilors
 convokes
 colloque
+counterbuff
 confort
 cuselite
 caduac
@@ -9474,7 +9475,6 @@ checkback
 checkbite
 checkbits
 checkbook
-counterbuff
 chachalaca
 cableways
 cirrigerous
