@@ -8727,6 +8727,7 @@ decima
 dimps
 diatoma
 diapase
+displacement
 deems
 diastase
 din
@@ -15628,7 +15629,6 @@ denuclearizes
 digitizes
 dowl
 doghouses
-displacement
 derth
 deponent
 doorstone
