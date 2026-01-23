@@ -3103,7 +3103,6 @@ eloigned
 eleometer
 euphonetic
 emissive
-endoscopy
 earthsmoke
 eloigning
 enactment
@@ -10442,6 +10441,7 @@ emplume
 electrodialytic
 erstwhile
 etypic
+endoscopy
 equiponderation
 elytrtra
 enoplan
