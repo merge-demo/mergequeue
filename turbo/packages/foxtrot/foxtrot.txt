@@ -47,6 +47,7 @@ flatuosity
 fabroniaceae
 finds
 floorboard
+factorability
 foolhardihood
 foreshowing
 few
@@ -994,7 +995,6 @@ formate
 foreorder
 fenester
 flustrating
-factorability
 forweend
 forlornly
 flashes
