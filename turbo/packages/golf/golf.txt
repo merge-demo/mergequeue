@@ -6967,7 +6967,6 @@ grapevine
 goodwives
 germander
 grasswidow
-garrigue
 garhwali
 groundsman
 gastroepiploic
@@ -8281,6 +8280,7 @@ graphoscope
 glycoprotein
 grinderies
 gamestress
+garrigue
 graphotype
 grapier
 garrisons
