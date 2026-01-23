@@ -9704,7 +9704,6 @@ abature
 amphiblastic
 alurgite
 autocephalic
-asepalous
 altiplanicie
 aphthonite
 antennule
@@ -14249,6 +14248,7 @@ anteroinferior
 askewgee
 antipart
 anterointernal
+asepalous
 anterolateral
 antiferroelectric
 automorphically
