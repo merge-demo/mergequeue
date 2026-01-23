@@ -12160,6 +12160,7 @@ estrado
 electric
 exostome
 embergoose
+enumerations
 excuser
 elytron
 endpoint
@@ -12825,7 +12826,6 @@ ecphorization
 echoic
 emendated
 extinctor
-enumerations
 evangelistship
 efecks
 exoticist
