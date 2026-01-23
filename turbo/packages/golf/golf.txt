@@ -4481,7 +4481,6 @@ gundog
 generaliter
 greffier
 graveyard
-gipsydom
 gugu
 galtonian
 gypsyfy
@@ -6651,6 +6650,7 @@ gropes
 gambusias
 gondolas
 guidons
+gipsydom
 gondoletta
 guffs
 gangliform
