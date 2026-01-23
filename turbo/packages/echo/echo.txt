@@ -1606,6 +1606,7 @@ ehretiaceae
 env
 entrez
 enterobacterium
+enucleating
 eyah
 embliss
 equating
@@ -9805,7 +9806,6 @@ exprobrate
 englyn
 estampage
 empiric
-enucleating
 evolving
 estampede
 estang
