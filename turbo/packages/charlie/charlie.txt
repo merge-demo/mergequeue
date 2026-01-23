@@ -4704,7 +4704,6 @@ celiocele
 carpals
 chela
 carpathian
-carped
 carpellary
 cytinaceous
 composograph
@@ -31039,6 +31038,7 @@ cummers
 cummingtonite
 cummock
 crewe
+carped
 cohob
 cumol
 centiliters
