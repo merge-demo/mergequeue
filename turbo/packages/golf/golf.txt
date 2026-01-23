@@ -6732,6 +6732,7 @@ gonidic
 genes
 gauges
 gametangia
+gourmandizer
 gyrostats
 glomerate
 globulimeter
@@ -7484,7 +7485,6 @@ ghettoizes
 glossist
 grabbier
 grunerite
-gourmandizer
 grapplement
 gomerals
 gasconaded
