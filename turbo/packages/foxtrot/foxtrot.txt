@@ -3663,7 +3663,6 @@ fibrilated
 filigrees
 fidos
 footman
-flourishes
 flaying
 furnacer
 financiered
@@ -7724,6 +7723,7 @@ flyeater
 foreknew
 farcically
 florian
+flourishes
 freeish
 fretty
 furs
