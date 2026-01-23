@@ -11022,7 +11022,6 @@ disanimation
 disannuller
 dialogues
 dichroic
-disentanglements
 dyophysite
 disincarcerate
 disannuls
@@ -11645,6 +11644,7 @@ dialogged
 didest
 demiditone
 dishexecontahedroid
+disentanglements
 deprecated
 discost
 dimorphite
