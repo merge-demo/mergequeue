@@ -12705,7 +12705,6 @@ desecrater
 disliked
 disliken
 duma
-drawshave
 disdar
 dikage
 disliker
@@ -15759,6 +15758,7 @@ dormitories
 dissenting
 dimwits
 dormouse
+drawshave
 digallic
 dornic
 deletive
