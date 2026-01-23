@@ -7369,6 +7369,7 @@ bethroot
 blackbirds
 besogne
 bigmouthed
+biotomy
 bethump
 betides
 bego
@@ -10990,7 +10991,6 @@ blisteringly
 barlow
 blithe
 burliest
-biotomy
 blithesomely
 backseats
 bkgd
