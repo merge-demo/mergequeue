@@ -7593,7 +7593,6 @@ celiopyosis
 carduaceous
 catter
 cerebron
-cerebronic
 cerebroparietal
 cerebropedal
 coppy
@@ -24057,6 +24056,7 @@ convergence
 coiling
 convergences
 comps
+cerebronic
 convergency
 columbary
 convergent
