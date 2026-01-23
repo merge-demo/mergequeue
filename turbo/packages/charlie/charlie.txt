@@ -12519,6 +12519,7 @@ chron
 caplets
 cacothes
 concurrences
+carpogonium
 concubitus
 chronaxie
 chronic
@@ -16864,7 +16865,6 @@ clubroots
 clubs
 clubstart
 clubster
-carpogonium
 clubweed
 cionocranian
 clubwomen
