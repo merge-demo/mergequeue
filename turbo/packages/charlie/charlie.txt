@@ -13991,7 +13991,6 @@ chemosensitive
 cecca
 crimp
 comtes
-cypraeiform
 confinement
 cypraeoid
 cypre
@@ -19553,6 +19552,7 @@ capabilities
 columbaria
 columbaries
 clours
+cypraeiform
 columbate
 columbeion
 climath
