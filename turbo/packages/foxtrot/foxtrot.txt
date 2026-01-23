@@ -7164,7 +7164,6 @@ flimflammery
 footfolk
 ficklewise
 fruticulture
-flabel
 flumerin
 fictionised
 fused
@@ -11261,6 +11260,7 @@ funster
 furans
 furacious
 fireplaces
+flabel
 file
 farces
 frabjous
