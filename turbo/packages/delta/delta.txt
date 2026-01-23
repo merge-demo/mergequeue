@@ -4982,6 +4982,7 @@ dogcatchers
 druze
 dummies
 diphyletic
+durability
 dunne
 dueness
 diversionary
@@ -12388,7 +12389,6 @@ diplophyte
 dominate
 dishelms
 disher
-durability
 disherited
 divet
 defibrillator
