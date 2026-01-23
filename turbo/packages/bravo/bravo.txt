@@ -3377,7 +3377,6 @@ bushel
 bottlesful
 byordinary
 basophilic
-basques
 brans
 bassa
 balaenicipites
@@ -4043,6 +4042,7 @@ beamfilling
 beeware
 bivalvous
 beamhouse
+basques
 bibliophobe
 backbreaker
 benignancy
