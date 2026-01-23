@@ -7667,6 +7667,7 @@ effumability
 epideictic
 endomesoderm
 endotheliomata
+ensures
 eboulement
 euphemiser
 extensionist
@@ -13761,7 +13762,6 @@ ergmeter
 entone
 effusely
 epiplectic
-ensures
 exodontist
 ethnize
 entomogenous
