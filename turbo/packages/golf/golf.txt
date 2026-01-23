@@ -5176,7 +5176,6 @@ gesticulations
 glb
 gastratrophia
 geckotian
-gossipred
 gesticulator
 grumbled
 glossocomon
@@ -7820,6 +7819,7 @@ garneter
 glagol
 gestion
 giddyhead
+gossipred
 guanche
 graisse
 geerah
