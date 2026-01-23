@@ -4907,6 +4907,7 @@ aerodrome
 aerodromes
 arbitrating
 acetyltannin
+adonean
 aeroelastic
 aucupate
 aeroelasticity
@@ -22578,7 +22579,6 @@ atef
 ateles
 antidromy
 abiston
-adonean
 atelestite
 acetylcellulose
 asemasia
