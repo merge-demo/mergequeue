@@ -3849,7 +3849,6 @@ grasps
 gentlemanhood
 galled
 gypaetus
-gryphons
 gameball
 gastroenterotomy
 giver
@@ -5737,6 +5736,7 @@ ghillies
 glamberry
 gadroons
 glendale
+gryphons
 greasily
 glossocele
 graian
