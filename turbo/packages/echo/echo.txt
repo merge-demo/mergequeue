@@ -3518,7 +3518,6 @@ ergographic
 entozoon
 emboweled
 epithecial
-ethanamide
 eschewance
 extortionary
 eponyms
@@ -13857,6 +13856,7 @@ endotropic
 eelpot
 equivocation
 evaporize
+ethanamide
 ethionic
 ellasar
 extractability
