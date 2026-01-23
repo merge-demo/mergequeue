@@ -6358,7 +6358,6 @@ flatlings
 flowchart
 fontes
 forementioned
-flang
 fullterm
 fluoran
 fennish
@@ -9249,6 +9248,7 @@ flavoury
 foresentence
 fetishist
 fleuret
+flang
 fourchet
 friesic
 fayalites
