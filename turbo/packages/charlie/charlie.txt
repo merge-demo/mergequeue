@@ -4740,6 +4740,7 @@ chlamydospore
 creditorship
 contested
 collages
+corsak
 carpeting
 carpetlayer
 carpetmaking
@@ -25875,7 +25876,6 @@ connarus
 corsages
 corsairs
 chalcid
-corsak
 crippled
 corse
 chemoautotrophically
