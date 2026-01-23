@@ -2857,7 +2857,6 @@ finable
 foresails
 figworm
 fiedlerite
-fungid
 familistery
 fettered
 frowstiness
@@ -7991,6 +7990,7 @@ foreskin
 fetishize
 foveolas
 fluate
+fungid
 fastened
 fempty
 floran
