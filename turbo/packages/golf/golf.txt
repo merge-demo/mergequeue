@@ -4468,6 +4468,7 @@ gommelin
 grandsire
 generics
 giocoso
+granter
 gip
 gpd
 gleba
@@ -9777,7 +9778,6 @@ griffin
 greatheartedly
 gonadectomizing
 gruntles
-granter
 galvanotropic
 gruntling
 gazook
