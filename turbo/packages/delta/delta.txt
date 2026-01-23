@@ -9387,7 +9387,6 @@ diffractiveness
 dist
 diffranchise
 dely
-diadumenus
 decrete
 durabilities
 decadic
@@ -15461,6 +15460,7 @@ dressy
 dompteuse
 derve
 don
+diadumenus
 danker
 donaciform
 donack
