@@ -3418,6 +3418,7 @@ gnatling
 gorkun
 galbe
 glaciable
+gipsyweed
 gyroscopic
 gainor
 gravy
@@ -5895,7 +5896,6 @@ gadder
 grues
 guadalcazarite
 gawney
-gipsyweed
 glucoses
 glances
 glucoside
