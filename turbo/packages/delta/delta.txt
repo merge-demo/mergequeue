@@ -5957,7 +5957,6 @@ doctorlike
 doubledamn
 decimation
 deckswabber
-debord
 decuples
 dragons
 delictus
@@ -13607,6 +13606,7 @@ distingue
 diseurs
 depuration
 daffodowndilly
+debord
 dieffenbachia
 dissertate
 discerping
