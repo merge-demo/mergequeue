@@ -6574,6 +6574,7 @@ clannish
 commissaries
 caxon
 cretaceous
+caravan
 caxton
 confluence
 caxtonian
@@ -21460,7 +21461,6 @@ concoagulate
 congestions
 cannibality
 concoct
-caravan
 crackable
 concocted
 caseweed
