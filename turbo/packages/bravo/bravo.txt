@@ -16138,7 +16138,6 @@ battling
 bicolor
 buoy
 burgoo
-brassier
 breathful
 bundweed
 budget
@@ -18102,6 +18101,7 @@ bonked
 bibliopegistical
 butanols
 bind
+brassier
 bergander
 bouderie
 butcha
