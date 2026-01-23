@@ -5863,6 +5863,7 @@ fowlers
 flocced
 frustulose
 footsoldier
+foll
 filariae
 film
 feyer
@@ -6927,7 +6928,6 @@ formeret
 filibusterous
 freeway
 finely
-foll
 facia
 fedarie
 formalisation

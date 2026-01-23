@@ -729,7 +729,6 @@ enstyle
 erythristic
 ecospecific
 emblematised
-extoled
 effaces
 endermatic
 effascinate
@@ -3933,6 +3932,7 @@ emotionize
 epimeron
 emolument
 elevator
+extoled
 emotivity
 epileptology
 exorability
