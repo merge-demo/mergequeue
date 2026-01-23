@@ -2499,7 +2499,6 @@ diatropism
 deferral
 duds
 dishonourary
-declaim
 dichorisandra
 dresser
 declaimer
@@ -8329,6 +8328,7 @@ diplogenetic
 datagram
 disenactment
 dialectal
+declaim
 draftier
 darkishness
 damoclean
