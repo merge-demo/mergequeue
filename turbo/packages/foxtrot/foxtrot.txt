@@ -1699,7 +1699,6 @@ forehammer
 fondlike
 frangible
 ferrament
-fleeching
 fingertip
 foreordaining
 forehandsel
@@ -10057,6 +10056,7 @@ foretaste
 flyball
 foamiest
 forwardness
+fleeching
 fiercly
 fetalism
 flammability
