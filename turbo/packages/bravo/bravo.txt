@@ -6389,7 +6389,6 @@ borize
 blas
 brinishness
 burely
-barrett
 barfy
 benzonaphthol
 benzonitrile
@@ -17965,6 +17964,7 @@ byssinosis
 bedot
 blackheartedness
 bolty
+barrett
 bemoult
 bronzelike
 bushwhacked
