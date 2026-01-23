@@ -7006,7 +7006,6 @@ antitryptic
 atrioventricular
 arborist
 animal
-abiology
 anoure
 aniseeds
 appreciatorily
@@ -19756,6 +19755,7 @@ antinihilistic
 anticommerciality
 accelerations
 autophthalmoscope
+abiology
 ammonium
 astrobiological
 albarellos
