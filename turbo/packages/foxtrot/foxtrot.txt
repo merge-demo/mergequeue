@@ -6530,7 +6530,6 @@ floccose
 frailish
 flutist
 frenchman
-firebed
 forecover
 flutterboard
 faucal
@@ -7513,6 +7512,7 @@ fauld
 frictionlessness
 fest
 forebodes
+firebed
 fluorogen
 forebody
 frostweed
