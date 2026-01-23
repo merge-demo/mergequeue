@@ -2841,7 +2841,6 @@ ballgowns
 begalled
 bulkiest
 baudery
-beclap
 barothermograph
 bowelling
 barotrauma
@@ -16724,6 +16723,7 @@ buckle
 blacked
 befallen
 buckled
+beclap
 bebilya
 buckleless
 baklavas
