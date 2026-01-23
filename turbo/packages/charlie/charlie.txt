@@ -22428,7 +22428,6 @@ cordiner
 caracoler
 coniferous
 conifers
-cnidoscolus
 chevy
 conification
 coniform
@@ -31334,6 +31333,7 @@ coadjument
 curers
 clubber
 cures
+cnidoscolus
 compotation
 curets
 callisthenics
