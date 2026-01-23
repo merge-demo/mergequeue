@@ -2721,7 +2721,6 @@ beastings
 beblood
 butein
 bottomries
-batch
 beadflush
 bemaul
 barnman
@@ -9869,6 +9868,7 @@ banderols
 bemedalled
 bitmap
 buccaneering
+batch
 bimbos
 bitmapped
 bito
