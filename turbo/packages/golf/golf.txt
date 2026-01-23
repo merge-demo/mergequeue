@@ -670,7 +670,6 @@ gallantries
 grindstones
 goodheartedly
 gilour
-gastrojejunostomy
 geropiga
 gravelish
 gangboard
@@ -5819,6 +5818,7 @@ gloveless
 glorifiable
 gym
 grain
+gastrojejunostomy
 gadarene
 gloveman
 gumtrees

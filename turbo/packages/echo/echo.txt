@@ -12520,7 +12520,6 @@ eupione
 enzymology
 exculpative
 extoolitic
-enactable
 esonarthex
 enameler
 electrofusion
@@ -12760,6 +12759,7 @@ elasmobranchiate
 enmask
 exorcizer
 epiceratodus
+enactable
 exordium
 engold
 exotism
