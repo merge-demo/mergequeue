@@ -790,6 +790,7 @@ gluck
 gutturize
 galvanothermometer
 ggr
+goldfinch
 galliformes
 ginneries
 goose
@@ -5888,7 +5889,6 @@ germfree
 gadder
 grues
 guadalcazarite
-goldfinch
 gawney
 gipsyweed
 glucoses
