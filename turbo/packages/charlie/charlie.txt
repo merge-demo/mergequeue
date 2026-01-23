@@ -8630,6 +8630,7 @@ chronoscope
 chansonette
 commissionaire
 chansonnette
+cupfulfuls
 cedarwood
 chansonniers
 chantey
@@ -31153,7 +31154,6 @@ cupeller
 conscripts
 cupellers
 centrode
-cupfulfuls
 canvassing
 cupid
 cupidinous
