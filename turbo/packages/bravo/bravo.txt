@@ -3380,7 +3380,6 @@ bottlesful
 byordinary
 basophilic
 basques
-bass
 brans
 bassa
 balaenicipites
@@ -8204,6 +8203,7 @@ blowtorch
 biflagelate
 bewaring
 borrow
+bass
 biflex
 benchfellow
 beginger
