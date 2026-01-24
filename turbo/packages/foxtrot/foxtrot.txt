@@ -2831,7 +2831,6 @@ foreadmonish
 fieldsmen
 farmhand
 fishnet
-flowerets
 feticide
 front
 flossie
@@ -11233,6 +11232,7 @@ funky
 filter
 functional
 fylfot
+flowerets
 fornent
 fabiform
 fatherkin
