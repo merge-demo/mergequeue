@@ -2722,7 +2722,6 @@ decorable
 deist
 delectable
 duetto
-decorate
 decorating
 daukin
 decuple
@@ -3531,6 +3530,7 @@ doom
 defraying
 desaturate
 desiccated
+decorate
 dagobas
 desmomyaria
 dufoil
