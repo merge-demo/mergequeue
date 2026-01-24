@@ -5998,7 +5998,6 @@ foolscaps
 felspars
 flacon
 fumattoria
-foo
 fidiculae
 ferroelectrically
 fellowman
@@ -9103,6 +9102,7 @@ fr
 flintlike
 furdle
 funambulated
+foo
 faulkner
 frizzers
 forepoint
