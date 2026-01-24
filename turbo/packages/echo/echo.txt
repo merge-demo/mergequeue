@@ -4212,7 +4212,6 @@ exporters
 expiree
 escarping
 escambio
-emulousness
 elegancy
 eaux
 eumeristic
@@ -8430,6 +8429,7 @@ exsuction
 eurytropic
 electroanalytic
 electroencephalography
+emulousness
 elephantry
 eponym
 etiolate
