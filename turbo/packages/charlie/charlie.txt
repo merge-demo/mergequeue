@@ -3392,6 +3392,7 @@ coagencies
 capple
 cappuccino
 chandu
+coercibly
 calycozoan
 credos
 crackiness
@@ -8815,7 +8816,6 @@ characids
 cheville
 characine
 creasiest
-coercibly
 cyrillianism
 cenospecific
 characins
