@@ -11316,7 +11316,6 @@ flathat
 faceted
 fictional
 fusulina
-foldless
 fps
 furfurine
 funebrious
@@ -11598,6 +11597,7 @@ fussing
 fontinal
 fealty
 forced
+foldless
 ferrado
 fraternal
 febrifugal
