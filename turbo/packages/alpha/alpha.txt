@@ -5693,6 +5693,7 @@ ambalam
 agallochs
 acupunctuation
 afunction
+authoritative
 aquafortist
 agalma
 ardea
@@ -16037,7 +16038,6 @@ anaeroplasty
 astor
 antireducer
 acetones
-authoritative
 autotrophically
 antireflexive
 antireligion
