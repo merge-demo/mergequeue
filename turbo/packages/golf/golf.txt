@@ -7691,7 +7691,6 @@ gladly
 gardebras
 glozed
 gastropodan
-guardhouses
 gradiometric
 gaup
 gnawed
@@ -8278,6 +8277,7 @@ gasteria
 graphoscope
 glycoprotein
 grinderies
+guardhouses
 gamestress
 garrigue
 graphotype
