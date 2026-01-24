@@ -16142,7 +16142,6 @@ climant
 centiles
 climata
 celebesian
-climatal
 corticate
 climatarchic
 climate
@@ -31322,6 +31321,7 @@ curdoo
 conceivably
 cured
 clarinos
+climatal
 cornix
 cureless
 corypha
