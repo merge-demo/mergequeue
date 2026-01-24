@@ -6739,7 +6739,6 @@ crutch
 celebrant
 cohesions
 celebrants
-cerebellipetal
 celebrate
 comiakin
 celebratedly
@@ -31332,6 +31331,7 @@ coadjument
 curers
 clubber
 cures
+cerebellipetal
 cnidoscolus
 compotation
 curets
