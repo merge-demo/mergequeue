@@ -11617,6 +11617,7 @@ bevels
 bacauan
 blacks
 bizant
+brosy
 boarwood
 boas
 boaster
@@ -14565,7 +14566,6 @@ brandenburg
 brandenburger
 brandenburgh
 brandy
-brosy
 bitty
 beguilingness
 bambos
