@@ -88,6 +88,7 @@ catamaran
 cephaeline
 coemptor
 cabbed
+cancha
 cubics
 cabbie
 crenelate
@@ -2444,7 +2445,6 @@ cancerweed
 canch
 carbonatation
 centgener
-cancha
 canchalagua
 condonation
 cropsickness
