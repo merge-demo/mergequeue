@@ -1301,7 +1301,6 @@ ginkgo
 gloria
 gestation
 garefowl
-gyrene
 garetta
 gnawingly
 gargalize
@@ -4707,6 +4706,7 @@ gise
 granges
 gooder
 gourmandise
+gyrene
 gibbsite
 gauping
 glazen
