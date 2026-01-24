@@ -2297,7 +2297,6 @@ genettes
 globelike
 graben
 germanophilist
-garance
 geissoloma
 geissolomataceae
 geissospermine
@@ -5153,6 +5152,7 @@ gnatflower
 gaumed
 grumbly
 gallweed
+garance
 glomera
 goblinesque
 gutturine
