@@ -1866,7 +1866,6 @@ fight
 floruit
 feelingly
 fecundate
-fianchetti
 fanback
 frisson
 fallacious
@@ -6800,6 +6799,7 @@ folkmoots
 foredoomed
 fleshhook
 farinulent
+fianchetti
 fervescent
 froebelian
 flyers
