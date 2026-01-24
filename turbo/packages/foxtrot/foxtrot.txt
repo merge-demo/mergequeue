@@ -7834,7 +7834,6 @@ friaries
 fractionisation
 fungify
 favorite
-fligged
 fippence
 focusing
 fatiguable
@@ -7859,6 +7858,7 @@ facings
 flenses
 franger
 farnesols
+fligged
 floppers
 firestorm
 floretum
