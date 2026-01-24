@@ -1303,7 +1303,6 @@ decoloured
 daubreite
 degaussing
 dobsons
-dinitro
 densified
 dryermen
 declinate
@@ -16752,6 +16751,7 @@ dryinid
 dratting
 draught
 distal
+dinitro
 draughtboard
 daub
 draughtier
