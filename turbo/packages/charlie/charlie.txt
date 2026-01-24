@@ -13128,7 +13128,6 @@ cystoflagellata
 cicatrisive
 cicatrizate
 canalize
-craniographer
 cicatrization
 cott
 cicatrizer
@@ -17603,6 +17602,7 @@ coccyx
 coccyxes
 coccyzus
 cocco
+craniographer
 changar
 clallam
 coccobacilli
