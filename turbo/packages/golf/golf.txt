@@ -1272,7 +1272,6 @@ greasers
 galliardly
 griffes
 guenon
-glutinosity
 grimaces
 gaia
 gallicole
@@ -3641,6 +3640,7 @@ granilla
 goglets
 glottalize
 gigantal
+glutinosity
 gld
 gasworks
 grouching
