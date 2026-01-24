@@ -14222,6 +14222,7 @@ creoles
 canhoop
 circumintestinal
 circumjacence
+correspondential
 circumjacency
 circumjovial
 circumlitio
@@ -25723,7 +25724,6 @@ correspondences
 correspondency
 correspondent
 composedness
-correspondential
 correspondently
 citators
 carpets
