@@ -7580,7 +7580,6 @@ felicities
 fanfare
 factual
 fandangos
-fleshquake
 ferrules
 foredefeated
 frankheartedness
@@ -10672,6 +10671,7 @@ foxy
 felsophyre
 forescent
 feralin
+fleshquake
 fivepenny
 fairstead
 fruitstalk
