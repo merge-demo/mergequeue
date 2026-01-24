@@ -10967,7 +10967,6 @@ eurhythmic
 echeloot
 eventuation
 eoside
-eigenfrequency
 escobita
 ecologically
 ennuye
@@ -12895,6 +12894,7 @@ expeditiousness
 ecchymose
 epithymetic
 evangeliary
+eigenfrequency
 energetically
 ethnographical
 ervenholder
