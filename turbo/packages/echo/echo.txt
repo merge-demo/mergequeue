@@ -4299,7 +4299,6 @@ exclaustration
 enamelist
 enamelless
 eluder
-emit
 edibles
 enami
 elephancy
@@ -11458,6 +11457,7 @@ eutechnics
 ecphonesis
 escargatoire
 eucharis
+emit
 evidencing
 eonian
 ekistics
