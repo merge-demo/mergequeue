@@ -7673,7 +7673,6 @@ ensures
 eboulement
 euphemiser
 extensionist
-electrotautomerism
 expoundable
 epideistic
 enthymematical
@@ -10406,6 +10405,7 @@ etymic
 ergosterin
 endomyces
 engraved
+electrotautomerism
 estruation
 etymologization
 edentalous
