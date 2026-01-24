@@ -2678,7 +2678,6 @@ bellying
 bable
 bribeable
 barling
-bertholletia
 barghest
 breechloader
 basiliscus
@@ -6804,6 +6803,7 @@ boaedon
 bivouac
 busboy
 battalia
+bertholletia
 bitulithic
 besagne
 bisexually
