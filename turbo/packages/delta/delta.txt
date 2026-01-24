@@ -5571,6 +5571,7 @@ depends
 dallack
 dispersed
 dramatizable
+dolphin
 dukeship
 dothideaceous
 dieters
@@ -15296,7 +15297,6 @@ delusional
 dialler
 diffuse
 diasporas
-dolphin
 dirling
 diospyros
 dolphinfish
