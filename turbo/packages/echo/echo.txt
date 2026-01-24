@@ -12503,7 +12503,6 @@ emissaria
 enhalos
 eugeny
 enneacontahedron
-exoskeleton
 equicohesive
 exist
 existed
@@ -14001,6 +14000,7 @@ extrapolatory
 entemple
 extraposition
 electrolytic
+exoskeleton
 extraprofessional
 extrapunitive
 endogen
