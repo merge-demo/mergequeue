@@ -4993,7 +4993,6 @@ cartographical
 cartographically
 carton
 cartoner
-cannonball
 cartonful
 covinously
 crimmers
@@ -8425,6 +8424,7 @@ confiscator
 choribi
 cuttable
 chamoisite
+cannonball
 chamoline
 chamorro
 copalcocote
