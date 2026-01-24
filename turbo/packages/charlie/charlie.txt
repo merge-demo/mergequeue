@@ -18595,7 +18595,6 @@ cob
 clanless
 coimplore
 coyn
-cosmometry
 coinable
 coinage
 coinages
@@ -20973,6 +20972,7 @@ cultuses
 comprizing
 chorioallantoid
 cresol
+cosmometry
 comprobation
 comproduce
 cookless
