@@ -1137,7 +1137,6 @@ estuaries
 enterobiasis
 edomitish
 eutomous
-exorbitate
 enterograph
 edoni
 excisemen
@@ -2803,6 +2802,7 @@ elan
 endoubt
 enseat
 enleen
+exorbitate
 electroluminescent
 explicans
 evenhanded
