@@ -6749,7 +6749,6 @@ busulfan
 busying
 berrichonne
 bandleader
-bosquet
 bridgebuilding
 berrier
 berries
@@ -9410,6 +9409,7 @@ bobwood
 bovidae
 boga
 birectangular
+bosquet
 burh
 bireme
 bedlids
