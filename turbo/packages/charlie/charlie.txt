@@ -2217,7 +2217,6 @@ conuropsis
 circumfusile
 capotes
 campshed
-campsheeting
 campsite
 compasser
 campsites
@@ -29694,6 +29693,7 @@ croiik
 croyl
 chayroot
 croisade
+campsheeting
 croise
 croisee
 coetanean
