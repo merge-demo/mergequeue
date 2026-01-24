@@ -1641,6 +1641,7 @@ bailiffship
 baronage
 bahamian
 byelorussians
+brusquer
 ballottines
 bathwort
 ballpark
@@ -4206,7 +4207,6 @@ beatles
 backchain
 bellmen
 barometric
-brusquer
 beatnik
 beatrix
 bonging
