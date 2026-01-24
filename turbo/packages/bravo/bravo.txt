@@ -3558,7 +3558,6 @@ bathing
 bastinadoes
 beckoning
 balon
-barricade
 byronish
 brushy
 battleground
@@ -7713,6 +7712,7 @@ bravoite
 buxerry
 bhikshu
 bullan
+barricade
 breakover
 brocard
 bowstave
