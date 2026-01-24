@@ -3803,7 +3803,6 @@ ethel
 escribano
 emerge
 ecart
-escapology
 emerged
 edulcorated
 echinostomiasis
@@ -10578,6 +10577,7 @@ euclidian
 epicoeliac
 exhalant
 eucone
+escapology
 electrotechnic
 ecstasis
 expensing
