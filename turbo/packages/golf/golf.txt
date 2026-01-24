@@ -6277,7 +6277,6 @@ galoch
 gospelly
 gainable
 gobble
-gowpen
 gierfalcon
 gobbled
 gothicizer
@@ -10073,6 +10072,7 @@ groomish
 gigman
 galivanting
 glore
+gowpen
 gudgeon
 grobianism
 gauntest
