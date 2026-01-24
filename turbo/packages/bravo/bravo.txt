@@ -2689,7 +2689,6 @@ bututs
 bernardine
 barmaster
 benzoic
-brutus
 barmcloth
 brither
 birdcage
@@ -13246,6 +13245,7 @@ bankshall
 bossed
 boanergean
 bosselation
+brutus
 bolti
 barysphere
 buffbar
