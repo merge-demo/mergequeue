@@ -1439,7 +1439,6 @@ efforts
 effraction
 eighths
 etymologised
-electrometric
 euphonia
 equisetums
 enplaning
@@ -7892,6 +7891,7 @@ epileny
 exotospore
 entomeric
 exuccous
+electrometric
 exarchic
 eidola
 enlargement
