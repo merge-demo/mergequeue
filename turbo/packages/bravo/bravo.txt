@@ -4541,7 +4541,6 @@ bestrided
 becursed
 babesia
 becurses
-becurst
 basommatophorous
 becushioned
 blepharemphysema
@@ -15672,6 +15671,7 @@ bulkheads
 burred
 belemnid
 benzoazurine
+becurst
 broadcast
 broadcaster
 bullyragging
