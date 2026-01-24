@@ -4095,7 +4095,6 @@ electrovalence
 employe
 estado
 etamin
-epigene
 empestic
 epicanthus
 earthwall
@@ -7438,6 +7437,7 @@ eumorphous
 ephetae
 effulged
 expiators
+epigene
 ephetic
 epitaphs
 epibenthic
