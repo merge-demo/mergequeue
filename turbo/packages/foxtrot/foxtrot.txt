@@ -10298,7 +10298,6 @@ fingerleaf
 fingering
 forecourt
 foss
-footcandles
 forewarning
 fiaunt
 fraenula
@@ -10804,6 +10803,7 @@ flustra
 facet
 foveation
 foredestined
+footcandles
 fleeten
 fucinita
 freesilverite
