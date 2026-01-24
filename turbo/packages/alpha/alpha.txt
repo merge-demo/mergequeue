@@ -3663,6 +3663,7 @@ alvite
 adenomyoma
 adenomyxosarcoma
 adenoneural
+avarice
 aerophysical
 adenoneure
 antihierarchies
@@ -10279,7 +10280,6 @@ arcticize
 anemious
 agricolite
 amelanchier
-avarice
 argus
 auxoblast
 amelcorn
