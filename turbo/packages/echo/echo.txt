@@ -1097,7 +1097,6 @@ electrotypes
 epicaridea
 epitrichial
 exsanguinated
-encatarrhaphy
 ejectee
 enarm
 endopterygotic
@@ -13727,6 +13726,7 @@ elfhood
 euphemised
 emblazoning
 extersive
+encatarrhaphy
 exerting
 enemata
 epitrochoidal
