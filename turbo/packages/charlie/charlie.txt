@@ -14140,7 +14140,6 @@ coxalgies
 concentricity
 catatonia
 circulators
-circulus
 circumambiency
 circumambient
 circumambulate
@@ -26457,6 +26456,7 @@ cotitular
 cotland
 chowk
 cotoin
+circulus
 cubit
 cotorment
 calycanthemous
