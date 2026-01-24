@@ -2217,7 +2217,6 @@ fiscus
 firebombs
 fulgurate
 fuliguline
-freezing
 flatcars
 fructosan
 ferrara
@@ -7414,6 +7413,7 @@ floreate
 florists
 fasciculation
 fey
+freezing
 fasti
 figgum
 fille
