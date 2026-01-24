@@ -757,6 +757,7 @@ accersitor
 aswail
 admetus
 abrash
+antemeridian
 aeromechanics
 abashment
 autogyro
@@ -4838,7 +4839,6 @@ agsam
 authenticatable
 artistical
 archlute
-antemeridian
 aeroboat
 aerobranchia
 appearing
