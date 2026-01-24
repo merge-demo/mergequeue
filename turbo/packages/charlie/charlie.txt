@@ -7027,6 +7027,7 @@ centaur
 centaurdom
 cuvette
 centaurea
+cyanus
 carretta
 cantoned
 clitellum
@@ -16714,7 +16715,6 @@ clots
 clottage
 chaconne
 clotted
-cyanus
 carts
 consonantalized
 clotty
