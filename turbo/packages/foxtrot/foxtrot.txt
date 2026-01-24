@@ -7835,6 +7835,7 @@ fractionisation
 fungify
 favorite
 fligged
+fippence
 focusing
 fatiguable
 fellen
@@ -11191,7 +11192,6 @@ freechurchism
 futilely
 fixating
 foremanship
-fippence
 futuric
 fasciolae
 fictil
