@@ -1407,7 +1407,6 @@ gallotannin
 gasified
 gausterer
 gearshift
-gcd
 gangplow
 galvanopsychic
 gossipee
@@ -7552,6 +7551,7 @@ gladify
 gangman
 goldsmithing
 gunyah
+gcd
 greenths
 garbled
 glycolic
