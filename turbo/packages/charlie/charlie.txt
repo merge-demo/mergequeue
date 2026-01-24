@@ -3702,6 +3702,7 @@ carbonadoes
 carapidae
 cineastes
 clawlike
+carchariid
 carapine
 canvasback
 cucumaria
@@ -4004,7 +4005,6 @@ cajoleries
 crotalinae
 carcharias
 cerotene
-carchariid
 clerisy
 carchariidae
 carcharioid
