@@ -403,7 +403,6 @@ excelsitude
 eulerian
 evangelist
 entrenching
-extruct
 erythrinus
 espanol
 echowise
@@ -5991,6 +5990,7 @@ exhortative
 estampedero
 erosion
 ejects
+extruct
 earns
 eluding
 extrapituitary
