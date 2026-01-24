@@ -12895,7 +12895,6 @@ agentive
 angled
 argenol
 apostil
-archencephalic
 anglehook
 aphthitalite
 anglepod
@@ -19128,6 +19127,7 @@ allocute
 absorbant
 alkylamino
 alphanumeric
+archencephalic
 agritos
 actu
 amendable
