@@ -4719,7 +4719,6 @@ brownier
 bedizen
 boubas
 beekmantown
-bedkey
 bandpass
 braved
 braze
@@ -11255,6 +11254,7 @@ bertrand
 bertha
 blotto
 blottto
+bedkey
 britt
 bigwiggism
 botteghe
