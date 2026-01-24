@@ -3755,6 +3755,7 @@ graduations
 gurdy
 ghuz
 glabellae
+gratulant
 griffons
 gasterothecal
 gallein
@@ -7467,7 +7468,6 @@ googlies
 grangerized
 genotype
 galenas
-gratulant
 germen
 goulash
 ghbor
