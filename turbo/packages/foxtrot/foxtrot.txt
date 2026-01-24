@@ -920,7 +920,6 @@ furfural
 fardo
 ferneries
 flyleaf
-foundry
 ft
 fed
 fourchite
@@ -2091,6 +2090,7 @@ fleshen
 frument
 fayence
 fermentate
+foundry
 fluming
 feminist
 falcate
