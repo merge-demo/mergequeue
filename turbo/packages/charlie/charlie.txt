@@ -9307,7 +9307,6 @@ chauk
 calodaemon
 catagmatic
 chaukidari
-castrate
 chullo
 chaulmaugra
 chaulmoogra
@@ -20231,6 +20230,7 @@ charivan
 commodiously
 commodiousness
 commodity
+castrate
 commodities
 commoigne
 cuticulae
