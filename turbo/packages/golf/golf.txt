@@ -2110,7 +2110,6 @@ geobotanist
 galvanizer
 gerontes
 ginglmi
-gnomist
 gelndesprung
 gawkhammer
 greasehorn
@@ -5952,6 +5951,7 @@ glossocoma
 gibbers
 gauzier
 grayhair
+gnomist
 gutless
 gestapo
 grayness
