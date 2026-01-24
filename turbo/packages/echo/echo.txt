@@ -6797,6 +6797,7 @@ entomical
 empoisoning
 electroimpulse
 entomol
+enneahedron
 erses
 eyepopper
 exocentric
@@ -9737,7 +9738,6 @@ epitomisation
 equisonance
 everyplace
 eddo
-enneahedron
 euhedral
 ectogenesis
 enrobing
