@@ -3059,7 +3059,6 @@ giraffidae
 gorra
 globulins
 gastromyces
-geometridae
 gangshag
 geometriform
 graminicolous
@@ -6297,6 +6296,7 @@ gobbles
 glaucescent
 goolde
 ginzoes
+geometridae
 gerahs
 genistein
 gullable
