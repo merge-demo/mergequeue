@@ -16517,7 +16517,6 @@ clogmaking
 clogwheel
 canners
 clogwyn
-clogwood
 calvinian
 cloyedness
 chloralization
@@ -19982,6 +19981,7 @@ commandry
 cachinnated
 caudata
 commark
+clogwood
 croupal
 coinheres
 conjectural
