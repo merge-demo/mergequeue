@@ -5015,6 +5015,7 @@ chevrony
 cartulary
 cartularies
 carapache
+canzone
 cabbagelike
 collaring
 cartware
@@ -18958,7 +18959,6 @@ collaterally
 chalta
 collateralness
 collaterals
-canzone
 cohobating
 corved
 cham
