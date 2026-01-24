@@ -2403,7 +2403,6 @@ albardine
 aminovaleric
 aiseweed
 agadic
-aldopentose
 acinary
 autolyze
 anisopodal
@@ -23746,6 +23745,7 @@ anisuria
 aurums
 alopecurus
 auscultascope
+aldopentose
 andropetalar
 apocope
 academic
