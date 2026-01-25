@@ -1698,7 +1698,6 @@ gentries
 gastrophilite
 grandly
 gliosis
-gastrograph
 gamebag
 gazetteerish
 gordioidea
@@ -2021,6 +2020,7 @@ glyconian
 gleefully
 goosewing
 gaspingly
+gastrograph
 galleass
 goutify
 grubberies
