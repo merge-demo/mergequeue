@@ -12657,7 +12657,6 @@ aneuch
 arhatship
 andesite
 alala
-aneuploidy
 aneuric
 azo
 amentiferae
@@ -18552,6 +18551,7 @@ acceptees
 austrophile
 arboricoline
 arboricolous
+aneuploidy
 arboriculture
 abject
 ateknia
