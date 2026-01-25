@@ -1258,7 +1258,6 @@ groff
 gravures
 grogged
 galactostasis
-gooding
 gonglike
 grassman
 garbill
@@ -6275,6 +6274,7 @@ guttural
 ghostiest
 gconv
 gentle
+gooding
 gulpin
 gynandrarchic
 glucolipin
