@@ -1581,7 +1581,6 @@ biradial
 britches
 binate
 ballista
-basketlike
 beatinest
 balboa
 bargir
@@ -6345,6 +6344,7 @@ benzine
 blackfly
 bubbliness
 bromacetate
+basketlike
 buts
 brandi
 bardo
