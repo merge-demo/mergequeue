@@ -5387,7 +5387,6 @@ dentulous
 dentural
 dermatology
 diametrally
-diascia
 dentures
 duretto
 dish
@@ -15816,6 +15815,7 @@ disprobabilize
 dorsicornu
 dorsiflex
 does
+diascia
 dorsiflexion
 deuteron
 detects
