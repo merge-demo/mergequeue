@@ -2171,7 +2171,6 @@ folkmoot
 falsities
 forane
 felonwort
-falutin
 flatterdock
 fraudproof
 fligger
@@ -2618,6 +2617,7 @@ frivol
 filigreed
 ferio
 farandmen
+falutin
 foraminated
 ferruginating
 fulful
