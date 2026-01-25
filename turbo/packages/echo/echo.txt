@@ -2361,7 +2361,6 @@ excentricity
 electroscopes
 ethnotechnics
 epicaridan
-electrodeless
 ectogenetic
 energist
 electrodeposition
@@ -11365,6 +11364,7 @@ enneasemic
 exuvia
 encompass
 eponymist
+electrodeless
 ensweeten
 eventime
 entosternite
