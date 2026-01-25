@@ -5031,7 +5031,6 @@ assessory
 angiohyalinosis
 adinvention
 aerophobic
-aerophor
 antithermic
 arrode
 aerophotos
@@ -23501,6 +23500,7 @@ ansel
 arguendo
 atrabiliarious
 augurate
+aerophor
 abulias
 avert
 augure
