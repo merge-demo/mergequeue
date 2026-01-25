@@ -11116,6 +11116,7 @@ abatic
 amove
 achakzai
 amylolytic
+autochthones
 ampangabeite
 archsin
 anchisaurus
@@ -21971,7 +21972,6 @@ amplify
 armoring
 associativity
 adicity
-autochthones
 articulating
 anathemata
 apodictical
