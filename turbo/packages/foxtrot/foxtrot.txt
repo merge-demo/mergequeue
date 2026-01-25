@@ -5213,7 +5213,6 @@ flatnose
 flavescent
 funguses
 flews
-farse
 fulfil
 fleas
 fluxroot
@@ -9611,6 +9610,7 @@ falcata
 ferias
 foolery
 fortalice
+farse
 finalities
 flukier
 foamer
