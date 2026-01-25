@@ -2171,7 +2171,6 @@ gunships
 geheimrat
 gantlopes
 guayaberas
-gurjan
 griffith
 gastropulmonary
 graphostatics
@@ -8823,6 +8822,7 @@ guileful
 generable
 gerful
 gangan
+gurjan
 goodenoviaceae
 gablock
 glaiket
