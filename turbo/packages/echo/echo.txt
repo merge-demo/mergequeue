@@ -589,7 +589,6 @@ epigeal
 enhydros
 echometer
 echopractic
-examinate
 epidictic
 elitisms
 ebonise
@@ -3401,6 +3400,7 @@ eightieths
 episyllogism
 edeotomy
 eucirripedia
+examinate
 embogue
 ennuyant
 ecalcavate
