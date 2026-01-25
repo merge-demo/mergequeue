@@ -1338,7 +1338,6 @@ effervescency
 eights
 epode
 encloser
-endoskeletal
 essentialness
 exomis
 evasional
@@ -7059,6 +7058,7 @@ epiplankton
 evadible
 extemporizing
 envaye
+endoskeletal
 episcenia
 empanelled
 envelope
