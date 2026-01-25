@@ -2854,7 +2854,6 @@ finable
 foresails
 figworm
 fiedlerite
-familistery
 fettered
 frowstiness
 foozle
@@ -10756,6 +10755,7 @@ fruticetum
 fecklessness
 foreinclined
 fileting
+familistery
 foredated
 fouth
 formlessly
