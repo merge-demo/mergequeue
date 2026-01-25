@@ -5779,7 +5779,6 @@ agarics
 apluda
 acephalia
 acculturative
-agaroid
 ambilian
 alloeosis
 agaroses
@@ -20764,6 +20763,7 @@ antarchy
 augmenting
 acquitment
 altitonant
+agaroid
 artifactually
 ascents
 artifex
