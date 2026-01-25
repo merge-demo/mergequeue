@@ -611,6 +611,7 @@ fluctiferous
 flavorless
 frighter
 fragaria
+fiorin
 floodways
 fleshes
 folly
@@ -4119,7 +4120,6 @@ fiendful
 feuilletons
 frameworks
 floridan
-fiorin
 fusiladed
 fiorite
 flamberg
