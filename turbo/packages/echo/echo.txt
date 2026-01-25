@@ -7044,6 +7044,7 @@ escalloniaceous
 endamask
 electroanalytical
 ectropionization
+enumerations
 egotisms
 ectocinereal
 epapophysial
@@ -12157,7 +12158,6 @@ estrado
 electric
 exostome
 embergoose
-enumerations
 excuser
 elytron
 endpoint
