@@ -10578,7 +10578,6 @@ doxographical
 dittology
 dolorimeter
 documented
-decoctible
 diploidic
 dunderbolt
 dominus
@@ -15989,6 +15988,7 @@ ducato
 dottier
 dragonnade
 dia
+decoctible
 dissimulative
 dimberdamber
 dubba
