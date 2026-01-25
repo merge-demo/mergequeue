@@ -3733,7 +3733,6 @@ fertilizability
 funnily
 faultlessly
 fortressed
-furoate
 failure
 fibula
 fjorgyn
@@ -7483,6 +7482,7 @@ freakiest
 faultlessness
 faltered
 flatuses
+furoate
 fluor
 fluellin
 fillip
