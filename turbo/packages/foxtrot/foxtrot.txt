@@ -1373,7 +1373,6 @@ filecard
 flenser
 fullword
 filicology
-forspoke
 fishboat
 fatly
 floscularia
@@ -6279,6 +6278,7 @@ fluidounce
 factory
 fluigram
 filestatus
+forspoke
 frankincensed
 forsakenly
 fenestellidae
