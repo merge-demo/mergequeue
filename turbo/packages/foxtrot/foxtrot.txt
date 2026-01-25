@@ -188,6 +188,7 @@ factoryship
 floatiness
 fusinite
 flashily
+fractable
 feuar
 foreignism
 florin
@@ -3796,7 +3797,6 @@ ferrier
 furnitureless
 foreflap
 filterableness
-fractable
 facette
 fairyism
 fluoridisation
