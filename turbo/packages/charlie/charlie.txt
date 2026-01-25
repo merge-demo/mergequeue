@@ -8282,7 +8282,6 @@ chalybeate
 chalybes
 chalice
 chancelry
-chaliced
 chalicosis
 chalicothere
 chalicotheriid
@@ -14456,6 +14455,7 @@ charnel
 cuttanee
 celiectasia
 cirrostratus
+chaliced
 cappagh
 conscription
 cassatas
