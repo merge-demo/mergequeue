@@ -5184,7 +5184,6 @@ gesticulations
 glb
 gastratrophia
 geckotian
-gesticulator
 grumbled
 glossocomon
 guavas
@@ -5197,6 +5196,7 @@ guidwillie
 gainsay
 gunbright
 grandioseness
+gesticulator
 gaussbergite
 gleamy
 gorer
