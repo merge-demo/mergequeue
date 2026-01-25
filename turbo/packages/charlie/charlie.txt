@@ -9795,7 +9795,6 @@ cutinizing
 chelonia
 contrails
 chelonian
-cheloniidae
 crucialness
 cunit
 chemehuevi
@@ -12113,6 +12112,7 @@ caraunda
 coronet
 chrysalida
 cascarilla
+cheloniidae
 chrysaline
 chrysalis
 chrysalises
