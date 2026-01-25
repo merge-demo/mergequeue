@@ -1686,7 +1686,6 @@ firesafety
 flatworm
 fieldmice
 fragmentation
-folioing
 fleshless
 festa
 fieldward
@@ -3929,6 +3928,7 @@ french
 ferrocyanogen
 falsehearted
 furrowed
+folioing
 fireboxes
 flemish
 frailejon
