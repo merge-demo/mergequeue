@@ -5099,7 +5099,6 @@ gigas
 galliots
 gynaecea
 gypper
-gadinic
 gonoph
 griffins
 granza
@@ -6778,6 +6777,7 @@ gaolers
 graybeards
 ganev
 garvanzo
+gadinic
 gastronomics
 ganocephala
 gonionia
