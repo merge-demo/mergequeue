@@ -1591,7 +1591,6 @@ bifurcate
 ballywack
 basalt
 brooder
-beclart
 bursati
 baudronses
 bilamellate
@@ -14265,6 +14264,7 @@ butyne
 byword
 boarding
 buglosses
+beclart
 braehead
 bulblet
 bronchiogenic
