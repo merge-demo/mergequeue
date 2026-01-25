@@ -2533,7 +2533,6 @@ candlefishes
 collogued
 candleholder
 candlelight
-candlelighter
 chaloth
 confraternities
 candlelighting
@@ -19704,6 +19703,7 @@ chroma
 chrismale
 combatant
 cimbalom
+candlelighter
 combater
 combaters
 combating
