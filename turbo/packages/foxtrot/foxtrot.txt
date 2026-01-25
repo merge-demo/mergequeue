@@ -3100,6 +3100,7 @@ fairylike
 fountainheads
 fibrocement
 frenzies
+fustians
 fieulamort
 formulas
 fertilisable
@@ -11219,7 +11220,6 @@ furzed
 funiculars
 funiform
 fount
-fustians
 flashcubes
 formful
 fabricative
