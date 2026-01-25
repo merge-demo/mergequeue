@@ -10377,7 +10377,6 @@ fatalist
 friller
 forecatching
 flagmen
-flags
 fitche
 footer
 fraggings
@@ -10521,6 +10520,7 @@ frowners
 fatlike
 faciend
 freq
+flags
 frowsily
 footslogging
 famishment
