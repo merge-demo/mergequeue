@@ -1530,6 +1530,7 @@ faurd
 foreseat
 feedbox
 flippant
+fer
 fanfaron
 foulish
 foreshift
@@ -2336,7 +2337,6 @@ feoffs
 fra
 fiftyfold
 formalizing
-fer
 firecoat
 featherstitching
 ferae
