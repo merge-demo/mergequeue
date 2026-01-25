@@ -4311,7 +4311,6 @@ enterodynia
 enamour
 enamouredness
 expostulator
-eulogistical
 espouse
 espichellite
 enamours
@@ -5492,6 +5491,7 @@ extraocular
 exoterics
 espiritual
 enfeebles
+eulogistical
 enfeebling
 eucarida
 epigrammatised
