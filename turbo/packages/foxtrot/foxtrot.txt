@@ -1290,6 +1290,7 @@ falconoid
 fatalists
 fop
 fleeced
+frictionlessly
 former
 focimetry
 foxtails
@@ -3620,7 +3621,6 @@ frisbees
 flook
 farmable
 fridstool
-frictionlessly
 flashing
 faintishness
 fielder
