@@ -2024,6 +2024,7 @@ banisher
 banishing
 banishment
 banyuls
+bromogelatin
 baniva
 browis
 brittonic
@@ -15852,7 +15853,6 @@ biders
 broncho
 bulled
 bitonality
-bromogelatin
 beamishly
 bromacetone
 bromamide
