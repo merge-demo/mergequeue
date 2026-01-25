@@ -364,7 +364,6 @@ daylights
 desalters
 dayman
 droughtiness
-detruss
 daymares
 disseizes
 diarists
@@ -625,6 +624,7 @@ determinantal
 dextrorotatory
 dimorphisms
 duvetyn
+detruss
 decantate
 damnably
 dryadic

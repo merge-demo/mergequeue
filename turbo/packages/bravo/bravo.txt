@@ -5420,7 +5420,6 @@ bandying
 bandura
 beheaded
 beheader
-beheira
 beachward
 bulletmaking
 blubbery
@@ -8735,6 +8734,7 @@ binderies
 barterer
 beggars
 baptizers
+beheira
 broker
 binding
 bookkeep
