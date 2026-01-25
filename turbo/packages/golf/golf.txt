@@ -4087,7 +4087,6 @@ gendarmery
 gapper
 gim
 gambolling
-gerundively
 groining
 gletscher
 grifted
@@ -7898,6 +7897,7 @@ grammatite
 gumbo
 gelatification
 gramme
+gerundively
 gastrojejunostomies
 ginned
 groggiest
