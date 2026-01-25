@@ -8525,7 +8525,6 @@ foreseeing
 foremisgiving
 fard
 fulgid
-farctate
 flacourtia
 fished
 flapped
@@ -9667,6 +9666,7 @@ foretoken
 faldstool
 fouquieria
 foldouts
+farctate
 fourfiusher
 frigga
 fustle
