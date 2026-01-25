@@ -6061,7 +6061,6 @@ catholicon
 clinkers
 catholicos
 curarize
-coraciiform
 cloglike
 cleg
 cyanide
@@ -9110,6 +9109,7 @@ chartable
 charter
 charterer
 charterers
+coraciiform
 charterhouse
 chartering
 charterism
