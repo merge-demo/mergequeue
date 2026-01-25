@@ -11255,7 +11255,6 @@ discommendableness
 discamp
 denmark
 drawstring
-discanted
 dermochelys
 dragon
 dropt
@@ -15039,6 +15038,7 @@ dyn
 dhamma
 dissentaneous
 depressingness
+discanted
 defoliators
 deludher
 demulsify
