@@ -637,6 +637,7 @@ faltboat
 flugelmen
 faltere
 flavored
+funky
 frequenter
 frithsoken
 falx
@@ -11228,7 +11229,6 @@ funked
 flatbrod
 forbearable
 feuilleton
-funky
 filter
 functional
 fylfot
