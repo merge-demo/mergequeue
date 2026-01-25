@@ -5473,7 +5473,6 @@ dissolubility
 deadest
 devoiced
 dorsiventrality
-deoxidize
 doryphoros
 dews
 deoxygenated
@@ -5623,6 +5622,7 @@ decadents
 dephlegmation
 dermohemal
 dogstail
+deoxidize
 dastards
 dephlegmedness
 dephlogisticate
