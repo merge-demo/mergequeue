@@ -8351,7 +8351,6 @@ alimentation
 alimentativeness
 arsenium
 alimented
-alimentic
 alabandite
 automatical
 appellancy
@@ -25163,6 +25162,7 @@ antimonious
 axled
 apophylactic
 appendice
+alimentic
 almug
 atomicity
 aphanipterous
