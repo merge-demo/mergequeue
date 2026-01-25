@@ -5197,7 +5197,6 @@ guidwillie
 gainsay
 gunbright
 grandioseness
-gaussbergite
 gleamy
 gorer
 gangliglions
@@ -8450,6 +8449,7 @@ gandul
 gyring
 grapestone
 gravelroot
+gaussbergite
 gallstones
 gentisic
 goldbricks
