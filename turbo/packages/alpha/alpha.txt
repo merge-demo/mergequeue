@@ -17052,6 +17052,7 @@ albus
 ascitic
 auriscalp
 apocynthion
+auriculoparietal
 apocynthions
 apocyte
 apocopate
@@ -23691,7 +23692,6 @@ auriculocranial
 apios
 alumish
 amphisile
-auriculoparietal
 auriculotemporal
 auriferous
 appreciational
