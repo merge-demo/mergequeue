@@ -3551,7 +3551,6 @@ fairylands
 fulgence
 filched
 fellowmen
-floricultural
 frenchism
 fogie
 flamboyance
@@ -5431,6 +5430,7 @@ forefigure
 furor
 flurt
 fittingness
+floricultural
 fault
 firstfruits
 finnip
