@@ -2069,6 +2069,7 @@ chests
 cosherer
 camp
 campagi
+chiccories
 coquettes
 counteraverment
 campagna
@@ -2785,7 +2786,6 @@ cannier
 creolization
 canning
 cannings
-chiccories
 cannister
 cannisters
 crystallographically
