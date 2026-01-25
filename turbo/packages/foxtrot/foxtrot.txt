@@ -2917,6 +2917,7 @@ frustums
 fencing
 floccipend
 farfetch
+farness
 fluellite
 flyoff
 filialness
@@ -3488,7 +3489,6 @@ flusk
 formulism
 fictionalizes
 fisetin
-farness
 fermentology
 fraternity
 fleches
