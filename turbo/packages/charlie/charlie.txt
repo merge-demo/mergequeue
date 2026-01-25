@@ -3491,7 +3491,6 @@ capsizes
 capsizing
 capernaitish
 capsomere
-capsomers
 capstan
 capstans
 capstone
@@ -10005,6 +10004,7 @@ corodiastole
 copartaker
 ceremonialists
 chalcon
+capsomers
 catepuce
 cephalhydrocele
 coffles
