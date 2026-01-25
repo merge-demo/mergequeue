@@ -6205,7 +6205,6 @@ enamine
 ethnogeographical
 entered
 erecter
-endplate
 excipule
 epistapedial
 eelcatcher
@@ -7614,6 +7613,7 @@ electrophoridae
 epicoracoid
 exocrine
 ellachick
+endplate
 exhumations
 eccentricities
 elapse
