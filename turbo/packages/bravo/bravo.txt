@@ -3105,7 +3105,6 @@ bestness
 bealach
 buibui
 barques
-bronteana
 beguilers
 bonitas
 boithrin
@@ -6604,6 +6603,7 @@ baseheartedness
 bagass
 bergman
 bergs
+bronteana
 breastbone
 bordar
 boneshave
