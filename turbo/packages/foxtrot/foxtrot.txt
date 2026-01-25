@@ -4581,7 +4581,6 @@ festing
 fesswise
 fringilliformes
 foliages
-fissidens
 feetage
 fisheye
 fieldstone
@@ -11362,6 +11361,7 @@ flayed
 fluencies
 fornicated
 fremescence
+fissidens
 frothless
 foreprovision
 footways
