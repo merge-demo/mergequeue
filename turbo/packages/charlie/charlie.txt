@@ -7827,7 +7827,6 @@ cervicomuscular
 colures
 cholelithotripsy
 cribrous
-crotchy
 cervicothoracic
 cervicovesical
 cervinae
@@ -10967,6 +10966,7 @@ chiropody
 cheekish
 chiropodial
 chiropodic
+crotchy
 chiropodical
 caphite
 cavascope
