@@ -5830,7 +5830,6 @@ agatoid
 arctan
 alarbus
 agaze
-agallop
 agedness
 agee
 aerugos
@@ -14584,6 +14583,7 @@ anthropophilous
 afterdated
 anthropophobia
 anthroposociology
+agallop
 astriction
 altarlet
 adoretus
