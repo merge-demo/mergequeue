@@ -1577,6 +1577,7 @@ fissirostres
 farrago
 faltche
 facially
+flong
 farcetta
 fooster
 favored
@@ -8470,7 +8471,6 @@ factorized
 formatter
 father
 floridans
-flong
 flunkeyite
 fuzztail
 formularizing
