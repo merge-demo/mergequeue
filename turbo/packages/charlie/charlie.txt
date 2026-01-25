@@ -10064,7 +10064,6 @@ cheselip
 coxocerite
 cyclogram
 cheskey
-campine
 cheslep
 crestings
 clothesbrush
@@ -26061,6 +26060,7 @@ cholralosed
 coshes
 coshing
 cosy
+campine
 caulicule
 cosie
 cedrine
