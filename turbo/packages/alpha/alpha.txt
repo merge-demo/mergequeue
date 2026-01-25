@@ -18223,7 +18223,6 @@ animable
 alumnol
 ankylos
 amour
-adventurement
 ampelis
 aphanomyces
 aquifer
@@ -21864,6 +21863,7 @@ advowson
 assiege
 auricula
 assify
+adventurement
 alpen
 assign
 assignability
