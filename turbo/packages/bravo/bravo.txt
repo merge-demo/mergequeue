@@ -7194,6 +7194,7 @@ blades
 beveled
 buckjump
 bongrace
+bullbeggar
 bauta
 bute
 bituminised
@@ -10790,7 +10791,6 @@ blocks
 bergamo
 biomagnetic
 balow
-bullbeggar
 bugbeardom
 blepharomelasma
 blepharoncosis
