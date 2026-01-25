@@ -4241,6 +4241,7 @@ extoller
 emulsoids
 enteropathogenic
 exfiltration
+epidiascope
 elohim
 enlay
 epicenes
@@ -7732,7 +7733,6 @@ ethinamate
 empasma
 eggshells
 executable
-epidiascope
 engraff
 ecce
 eyebree
