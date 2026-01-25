@@ -7144,7 +7144,6 @@ ballon
 bestad
 biarticulated
 bacteriemia
-bernicles
 bestay
 buffoon
 bestamp
@@ -18310,6 +18309,7 @@ biotopes
 buttonbush
 bivalve
 buttoner
+bernicles
 buttoners
 bedel
 bilirubinemia
