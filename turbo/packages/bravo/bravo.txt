@@ -4601,7 +4601,6 @@ bedazzlingly
 bibliopolery
 beckon
 baptise
-bedbugs
 boden
 bedtick
 bedchair
@@ -17862,6 +17861,7 @@ busaos
 bawsunt
 bine
 busbar
+bedbugs
 busbars
 barotse
 bibliopegic
