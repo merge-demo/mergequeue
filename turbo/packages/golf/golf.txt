@@ -422,7 +422,6 @@ gazogene
 galbula
 gelding
 gallify
-glidewort
 gimleted
 galaxes
 gispin
@@ -6873,6 +6872,7 @@ gluteoinguinal
 gauntlets
 glucoprotein
 geaster
+glidewort
 galeas
 genitival
 geed
