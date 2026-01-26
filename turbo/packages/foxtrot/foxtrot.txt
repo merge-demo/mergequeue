@@ -75,7 +75,6 @@ furthers
 flysch
 fordeal
 fullfaces
-facundity
 facemark
 flunkeyhood
 flocklike
@@ -7952,6 +7951,7 @@ fistula
 foreshock
 fluidifier
 formoxime
+facundity
 filicidal
 foreshortened
 fenerate
