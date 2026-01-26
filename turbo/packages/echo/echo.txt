@@ -7162,7 +7162,6 @@ epistasis
 euphonym
 enchesoun
 ensample
-enzootically
 evenlight
 embarren
 exposed
@@ -10018,6 +10017,7 @@ endogamous
 englacial
 eterne
 endangerment
+enzootically
 escargots
 emacerated
 eternisation
