@@ -3270,7 +3270,6 @@ featureful
 fracedinous
 farewells
 fiddlefaced
-fiddlerfish
 ferrites
 faunology
 fluidrams
@@ -3858,6 +3857,7 @@ frustulum
 fingallian
 flet
 fleshpots
+fiddlerfish
 forewoman
 fieldball
 firmnesses
