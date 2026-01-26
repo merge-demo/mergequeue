@@ -2575,6 +2575,7 @@ faddishness
 feinting
 fumes
 forechase
+friscal
 fogramity
 flongs
 ferrocyanate
@@ -11640,7 +11641,6 @@ flyability
 fustiness
 fustoc
 fussily
-friscal
 fusulae
 feathery
 fluoric
