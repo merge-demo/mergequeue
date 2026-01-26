@@ -9800,7 +9800,6 @@ cheloids
 cutinizing
 chelonia
 contrails
-chelonian
 crucialness
 cunit
 chemehuevi
@@ -29926,6 +29925,7 @@ crossleted
 coelenterata
 chopfallen
 carcase
+chelonian
 cuculidae
 crosslight
 crosslike
