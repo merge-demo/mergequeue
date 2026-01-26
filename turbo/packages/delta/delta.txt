@@ -2754,7 +2754,6 @@ darbies
 decortication
 dematerialization
 decorticator
-determinants
 dolichocephalous
 decorticosis
 disoperation
@@ -4880,6 +4879,7 @@ dailies
 detecting
 demonography
 demonographies
+determinants
 denature
 dramseller
 deactivator
