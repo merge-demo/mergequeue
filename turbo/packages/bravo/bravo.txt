@@ -1741,6 +1741,7 @@ belorussian
 baronial
 baloskion
 bulbels
+billeter
 baladine
 balsamation
 balsaminaceae
@@ -11082,7 +11083,6 @@ bevelling
 borborygmic
 benzimidazole
 biomorphic
-billeter
 bedwarfs
 broil
 baobabs
