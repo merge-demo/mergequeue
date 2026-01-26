@@ -624,6 +624,7 @@ facesaving
 falconelle
 falsifier
 frogmouths
+foll
 foveolet
 floaty
 falsifying
@@ -5862,7 +5863,6 @@ fowlers
 flocced
 frustulose
 footsoldier
-foll
 filariae
 film
 feyer
