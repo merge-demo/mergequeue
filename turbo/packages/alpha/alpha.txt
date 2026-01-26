@@ -5503,6 +5503,7 @@ aloe
 afterclause
 australasian
 acrostichic
+alt
 aftercooler
 autocollimate
 ack
@@ -6741,7 +6742,6 @@ amplifies
 accepters
 alliage
 abucco
-alt
 aftermarket
 arpeggio
 allomerize
