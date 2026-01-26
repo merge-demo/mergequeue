@@ -1851,6 +1851,7 @@ eartag
 ep
 eddy
 edit
+epiploitis
 epistylar
 embolization
 extramorainic
@@ -8083,7 +8084,6 @@ exhausting
 epiploce
 exacum
 epiplocele
-epiploitis
 enthuse
 encircles
 epiprecoracoid
