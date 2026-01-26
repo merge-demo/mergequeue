@@ -21936,7 +21936,6 @@ coelomopore
 cornfield
 clubrooms
 confessedly
-confesses
 coiners
 confessingly
 confessional
@@ -23217,6 +23216,7 @@ cubbyhole
 constraints
 confervaceous
 cardioscope
+confesses
 constrict
 clamative
 claudio
