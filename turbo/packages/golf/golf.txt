@@ -3067,6 +3067,7 @@ getups
 gnash
 glaciologists
 graphiter
+glyoxalin
 greensauce
 gamelin
 genepi
@@ -4935,7 +4936,6 @@ glaired
 geomaly
 gangway
 guvacoline
-glyoxalin
 gidyea
 giantize
 gallimatia
