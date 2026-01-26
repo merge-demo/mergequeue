@@ -210,7 +210,6 @@ begary
 bioassays
 bigwigged
 bradyesthesia
-banditries
 brainpower
 biofog
 bandicoot
@@ -960,6 +959,7 @@ bagwigged
 bagwyn
 bields
 bustier
+banditries
 bagwork
 baker
 brumby
