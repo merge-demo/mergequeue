@@ -5484,6 +5484,7 @@ frillers
 fidelities
 feus
 farouk
+fribbles
 foolscap
 furunculoid
 flesh
@@ -7493,7 +7494,6 @@ feedingstuff
 forebay
 fragmentization
 flocked
-fribbles
 fideos
 fleetest
 faultily
