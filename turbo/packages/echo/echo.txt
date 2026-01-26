@@ -1435,7 +1435,6 @@ eelpout
 effort
 ethmovomer
 environic
-emeline
 ergonomic
 ethiopian
 epanorthotic
@@ -10831,6 +10830,7 @@ entosternum
 earache
 educes
 echini
+emeline
 embassiate
 eligibilities
 endostomata
