@@ -848,7 +848,6 @@ gilberts
 greensick
 gamboling
 glareolidae
-geonim
 gey
 gwine
 geezers
@@ -5782,6 +5781,7 @@ gleeds
 gish
 grimmish
 gloomy
+geonim
 grapsoid
 gymnoplast
 gypsoplast
