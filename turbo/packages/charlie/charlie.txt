@@ -7903,7 +7903,6 @@ colessees
 cestrian
 cestrum
 conned
-cesural
 cetaceans
 calpolli
 clericate
@@ -14362,6 +14361,7 @@ circumvented
 circumventing
 circumvention
 circumventions
+cesural
 camphor
 circumventor
 conveyorized
