@@ -2046,7 +2046,6 @@ feinter
 facedown
 faucalize
 flindosa
-forwander
 flatlander
 faunlike
 fogbows
@@ -2945,6 +2944,7 @@ fluvialist
 foldage
 faddists
 fingerparted
+forwander
 festivous
 finches
 floodlike
