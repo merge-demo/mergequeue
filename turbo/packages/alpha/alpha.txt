@@ -7832,7 +7832,6 @@ aldrins
 arba
 ausubos
 atrickle
-anomalonomy
 anglicism
 aldrovanda
 achromaturia
@@ -12814,6 +12813,7 @@ angioleucitis
 antihemagglutinin
 annelid
 angioma
+anomalonomy
 angiomalacia
 acquits
 anoestrous
