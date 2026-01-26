@@ -5749,6 +5749,7 @@ frise
 flocking
 flited
 frontate
+frontal
 foge
 freckliness
 foehns
@@ -6798,7 +6799,6 @@ flyers
 forseeable
 fluidics
 ferme
-frontal
 flaccidity
 footbeat
 forfalt
