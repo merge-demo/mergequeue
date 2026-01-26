@@ -1935,6 +1935,7 @@ flagpole
 forksful
 freight
 furling
+fidicula
 fileable
 friable
 fangot
@@ -7742,7 +7743,6 @@ flanes
 firearms
 foremast
 fritters
-fidicula
 franciscanism
 fisticuffery
 favillous
