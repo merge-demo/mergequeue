@@ -2,7 +2,9 @@ name: PR Testing
 run-name: PR Checks for ${{ github.ref_name }}
 on:
   pull_request: {}
-
+  push:
+    branches:
+      - trunk-merge/**
 jobs:
   test:
     name: run tests to validate pr
