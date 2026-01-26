@@ -1032,7 +1032,6 @@ expeditions
 exadversum
 erugo
 etchareottine
-excisable
 eyeless
 endoskeleton
 eqpt
@@ -1084,6 +1083,7 @@ electrologic
 essayish
 edifying
 ectoblastic
+excisable
 egolatrous
 edile
 erogenetic
