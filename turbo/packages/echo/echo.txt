@@ -10692,7 +10692,6 @@ euripus
 erebus
 euglenoid
 exolve
-electrotypic
 evenworthy
 ecossaise
 egosyntonic
@@ -12319,6 +12318,7 @@ effusiometer
 exerted
 entangled
 eaning
+electrotypic
 eviscerations
 evectant
 exertionless
