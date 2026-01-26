@@ -3885,6 +3885,7 @@ goats
 gruffed
 gardenwards
 gwely
+groggery
 gatekeep
 grant
 girrock
@@ -7359,7 +7360,6 @@ grieved
 glareole
 ghee
 gobstopper
-groggery
 geochemist
 gossep
 graphs
