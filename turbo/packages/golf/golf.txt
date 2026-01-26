@@ -4931,7 +4931,6 @@ glair
 glaire
 glosses
 gigger
-gradual
 growliness
 glaired
 geomaly
@@ -6712,6 +6711,7 @@ geochronometry
 gibbergunyah
 grattage
 gewgawed
+gradual
 growse
 grittle
 gardenize
