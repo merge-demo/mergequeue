@@ -2033,6 +2033,7 @@ feigners
 floey
 fluoridation
 flosses
+forelook
 frogling
 feigns
 fidleys
@@ -7732,7 +7733,6 @@ furfuraceous
 foreknowingly
 frere
 foreshaft
-forelook
 facer
 fumingly
 fanfaronade
