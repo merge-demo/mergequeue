@@ -1677,6 +1677,7 @@ astr
 anorganic
 alkalimeter
 arank
+adipocere
 autecologically
 ambiguously
 aphidid
@@ -3853,7 +3854,6 @@ antiphrasis
 autotransplant
 antiplethoric
 adipocellulose
-adipocere
 adipoceriform
 adipoid
 angiology
