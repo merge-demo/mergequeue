@@ -9614,7 +9614,6 @@ backbeats
 brince
 bishopdom
 baptists
-bacterium
 bishopling
 bandboxy
 biol
@@ -10802,6 +10801,7 @@ bassan
 blepharoptosis
 bargemaster
 biosynthetic
+bacterium
 blepharosynechia
 blepharosphincterectomy
 bunchberry
