@@ -4232,6 +4232,7 @@ decoherer
 dels
 djelfa
 dumpy
+disconformities
 delsartian
 downplayed
 dislocate
@@ -14188,7 +14189,6 @@ disunion
 drolly
 download
 disunites
-disconformities
 duffs
 dithyrambic
 disunity
