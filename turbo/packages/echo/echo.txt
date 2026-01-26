@@ -5922,6 +5922,7 @@ encoffin
 effate
 enhunger
 emissary
+enoptromancy
 epitheliogenetic
 eruc
 exemplupla
@@ -10813,7 +10814,6 @@ ethnobiology
 eupatrids
 eluent
 exemplars
-enoptromancy
 engine
 electrocuting
 execrates
