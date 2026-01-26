@@ -10712,6 +10712,7 @@ buchite
 bandfish
 baldfaced
 bogijiab
+batrachium
 brachistocephali
 boney
 byssus
@@ -17876,7 +17877,6 @@ bushbody
 blotchier
 belowground
 bushbucks
-batrachium
 bearbush
 begowk
 bacilluria
