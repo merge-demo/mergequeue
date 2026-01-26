@@ -98,6 +98,7 @@ gadabouts
 gualaca
 glauber
 gymnopaedes
+gyrostatic
 galabia
 glandulose
 gnomology
@@ -7330,7 +7331,6 @@ griddlecake
 goyetian
 gambled
 ganglion
-gyrostatic
 genet
 graves
 gutturally
