@@ -1378,7 +1378,6 @@ flenser
 fullword
 filicology
 fishboat
-fatly
 floscularia
 februation
 foredestiny
@@ -3143,6 +3142,7 @@ fakir
 funduline
 forbearing
 fibromyotomy
+fatly
 flinching
 feuding
 fibromuscular
