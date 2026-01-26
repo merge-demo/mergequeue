@@ -130,7 +130,6 @@ clitelline
 cabinetworker
 cabinlike
 crafter
-cabio
 chemisorptive
 costotransverse
 cabiria
@@ -11304,6 +11303,7 @@ chloroethene
 chlorofluorocarbon
 chlorofluoromethane
 clitoridauxe
+cabio
 ceylanite
 chloroformate
 churched
