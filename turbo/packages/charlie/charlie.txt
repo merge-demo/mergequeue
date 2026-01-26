@@ -574,7 +574,6 @@ cyanomaclurin
 cadres
 ciconiiform
 councilors
-convokes
 colloque
 counterbuff
 confort
@@ -3423,6 +3422,7 @@ curliewurlie
 campa
 capriccioso
 carers
+convokes
 caprices
 capricious
 cajole
