@@ -5937,6 +5937,7 @@ grogshops
 goofs
 gambirs
 glamourizer
+guttlers
 gluepot
 garrison
 gemitorial
@@ -10800,7 +10801,6 @@ gestonie
 gibberella
 gabbroitic
 gibli
-guttlers
 gainly
 goblinism
 gonenesses
