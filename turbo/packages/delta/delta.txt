@@ -8021,7 +8021,6 @@ dysthymic
 dialects
 defences
 derbylite
-doylt
 dietician
 duomi
 dispersion
@@ -9417,6 +9416,7 @@ dredge
 dismountable
 dejunkerize
 diffusions
+doylt
 diffusive
 diffusors
 diabolus
