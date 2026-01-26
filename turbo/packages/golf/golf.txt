@@ -2108,7 +2108,6 @@ galvanizer
 gerontes
 ginglmi
 gelndesprung
-gawkhammer
 greasehorn
 gormandise
 guggles
@@ -4643,6 +4642,7 @@ gyrating
 galvanise
 gorillaship
 goatbush
+gawkhammer
 gammarid
 gentility
 gunlocks

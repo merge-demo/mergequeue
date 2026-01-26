@@ -6153,6 +6153,7 @@ fewness
 fcp
 fauvist
 fewneses
+fetch
 fabella
 flowcharted
 fungibles
@@ -11604,7 +11605,6 @@ ferrado
 fraternal
 febrifugal
 for
-fetch
 forcarve
 frough
 frack
