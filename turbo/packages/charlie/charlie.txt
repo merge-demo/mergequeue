@@ -3469,7 +3469,6 @@ craniovertebral
 capsella
 calyptras
 capshore
-capsian
 collectress
 ceruses
 chullpa
@@ -23352,6 +23351,7 @@ consumo
 cremationist
 countertree
 cynosarges
+capsian
 consumpted
 corrasive
 consumptional
