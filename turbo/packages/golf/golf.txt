@@ -782,7 +782,6 @@ galvanotropism
 globulolysis
 ganymede
 glossolalist
-gutter
 gluck
 gutturize
 galvanothermometer
@@ -7279,6 +7278,7 @@ gingernut
 gemination
 gorgoneion
 gromyl
+gutter
 gormand
 gemmingia
 glycerine
