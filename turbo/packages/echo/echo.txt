@@ -412,7 +412,6 @@ entrenching
 extruct
 erythrinus
 espanol
-echowise
 essera
 exomphalus
 entocondyle
@@ -8619,6 +8618,7 @@ equidivision
 epigrammatising
 embouchures
 electrovital
+echowise
 espavel
 equielliptical
 equigranular
