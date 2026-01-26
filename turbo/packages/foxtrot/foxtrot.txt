@@ -4009,7 +4009,6 @@ forleft
 fingersmith
 ferison
 flushy
-furrow
 fabricated
 filmlike
 fadmongery
@@ -4168,6 +4167,7 @@ firebox
 flocculation
 farkleberries
 fellowcraft
+furrow
 floerkea
 fibrils
 faintness
