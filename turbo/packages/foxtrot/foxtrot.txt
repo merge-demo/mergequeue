@@ -3478,6 +3478,7 @@ ficins
 fordays
 floorhead
 formuliser
+fresher
 forjaskit
 forpined
 finnic
@@ -9505,7 +9506,6 @@ figurers
 floppiness
 fattrels
 faithworthy
-fresher
 frontways
 footling
 finiteness
