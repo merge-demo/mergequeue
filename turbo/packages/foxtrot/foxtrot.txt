@@ -4390,6 +4390,7 @@ funt
 floorshifts
 flagged
 frenums
+flintstone
 fishbowls
 flexive
 forky
@@ -9889,7 +9890,6 @@ filibusters
 forgiven
 fastuously
 forcelessness
-flintstone
 folksey
 flitching
 frits
