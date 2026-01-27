@@ -1420,6 +1420,7 @@ fatbacks
 foretimes
 fishway
 fountainlet
+fellows
 fallibly
 firewood
 forbar
@@ -6307,7 +6308,6 @@ fettling
 fusionism
 futurable
 flumping
-fellows
 filate
 fitting
 ferriprussiate
