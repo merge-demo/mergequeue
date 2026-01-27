@@ -9899,6 +9899,7 @@ chemosmotic
 consumptible
 choora
 corticoafferent
+crenate
 calpacks
 caleches
 clays
@@ -28665,7 +28666,6 @@ couveuse
 cavetto
 crenallation
 cuchulainn
-crenate
 crenated
 crenately
 cortins
