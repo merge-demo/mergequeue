@@ -3227,7 +3227,6 @@ flexionless
 fuchsone
 forefend
 festered
-funguslike
 falern
 forewarnings
 flinthearted
@@ -8059,6 +8058,7 @@ facetting
 fontinalaceae
 folial
 forestful
+funguslike
 fellable
 freezes
 frigger
