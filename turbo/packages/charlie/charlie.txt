@@ -11047,7 +11047,6 @@ chiseling
 chiseller
 chiselly
 chisellike
-chiselling
 coevolvedcoevolves
 collectable
 chiselmouth
@@ -18674,6 +18673,7 @@ cointerest
 cointerred
 cointerring
 cantrips
+chiselling
 coinvolve
 coyo
 coyol
