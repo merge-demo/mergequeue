@@ -4953,6 +4953,7 @@ essentia
 exul
 ektenes
 effuses
+evacuator
 enschedule
 exomphalous
 endemicity
@@ -11153,7 +11154,6 @@ engroove
 ensiform
 extractibility
 ectatic
-evacuator
 evaded
 echinoidea
 earthlier
