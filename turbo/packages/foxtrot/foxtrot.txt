@@ -3460,7 +3460,6 @@ fraternisation
 fecundity
 fleeches
 fingerable
-frostfishes
 foreseason
 foreconsider
 fallback
@@ -9214,6 +9213,7 @@ fishbed
 foraneous
 facts
 frayedness
+frostfishes
 flagmaking
 flashier
 finnac
