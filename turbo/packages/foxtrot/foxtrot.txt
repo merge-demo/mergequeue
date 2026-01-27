@@ -4145,7 +4145,6 @@ frogleaf
 fusilading
 fulk
 frostnipped
-flexed
 fatling
 fenchyl
 fiscalization
@@ -8106,6 +8105,7 @@ favouredness
 foretaster
 filed
 forefin
+flexed
 forthrights
 foretasting
 fretsaw
