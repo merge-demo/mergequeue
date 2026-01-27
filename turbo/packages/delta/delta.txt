@@ -4094,7 +4094,6 @@ disanswerable
 daalder
 disconnecter
 discomplexion
-dihybrid
 disreason
 delimitating
 delimitation
@@ -6233,6 +6232,7 @@ dermasurgery
 dedolomitization
 dermatagra
 dermatophagus
+dihybrid
 dermatotropic
 diaphragmatically
 desiccator
