@@ -2049,7 +2049,6 @@ facedown
 faucalize
 flindosa
 flatlander
-faunlike
 fogbows
 fascicule
 flaunting
@@ -5832,6 +5831,7 @@ flounders
 flotas
 floatier
 fetishes
+faunlike
 fulcrums
 flidge
 farine
