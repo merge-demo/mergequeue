@@ -6367,6 +6367,7 @@ benzofuran
 biozone
 benzoglycolic
 benzoglyoxaline
+binominal
 bastioned
 benzohydrol
 benzoylated
@@ -13819,7 +13820,6 @@ bower
 berchta
 bowerbird
 bituberculated
-binominal
 bidential
 brewing
 beehive
