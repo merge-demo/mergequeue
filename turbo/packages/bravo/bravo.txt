@@ -8408,6 +8408,7 @@ bundu
 bilby
 banqueteering
 baignet
+bestir
 bilbo
 bandsawed
 bleachyard
@@ -9619,7 +9620,6 @@ bishopstool
 bishopweed
 bigfoot
 bobbinets
-bestir
 benison
 barterers
 blatti
