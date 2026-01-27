@@ -15392,6 +15392,7 @@ cabins
 claptraps
 culbuter
 claque
+cte
 candescently
 calipering
 chaffering
@@ -17705,7 +17706,6 @@ cozing
 cockscombed
 coco
 cocoach
-cte
 chessboards
 campuses
 cashier
