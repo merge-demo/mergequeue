@@ -3840,7 +3840,6 @@ adion
 arhat
 adios
 adipate
-amphitruo
 aequorin
 amphithuron
 acetabuliform
@@ -15153,6 +15152,7 @@ apsidal
 acrothoracica
 antiemetic
 antiempiric
+amphitruo
 apothecia
 aggrandiser
 absents
