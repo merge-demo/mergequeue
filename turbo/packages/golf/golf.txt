@@ -6706,7 +6706,6 @@ gawk
 genuflected
 goniatites
 garterless
-guttler
 gobylike
 gibbet
 gulae
@@ -8844,6 +8843,7 @@ grossest
 gelsemia
 gauntleting
 germain
+guttler
 generalize
 griddler
 galleys
