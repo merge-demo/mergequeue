@@ -1390,7 +1390,6 @@ consolable
 california
 californian
 chinos
-chutneys
 chantages
 caliga
 caligate
@@ -29228,6 +29227,7 @@ cryptaesthesia
 conflictual
 cryptamnesia
 chattingly
+chutneys
 cryptamnesic
 cryptanalytically
 cryptanalytics
