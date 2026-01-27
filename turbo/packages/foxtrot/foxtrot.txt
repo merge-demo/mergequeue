@@ -187,7 +187,6 @@ factoryship
 floatiness
 fusinite
 flashily
-fractable
 feuar
 foreignism
 florin
@@ -1702,6 +1701,7 @@ fearless
 forehammer
 fondlike
 frangible
+fractable
 ferrament
 fingertip
 foreordaining
