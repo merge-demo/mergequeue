@@ -1093,7 +1093,6 @@ galvanometers
 gestes
 galactolipin
 goularo
-glossopharyngeal
 gormandizers
 gamboge
 genitives
@@ -3346,6 +3345,7 @@ granitiferous
 gentians
 gerundial
 gentlewomanlike
+glossopharyngeal
 germier
 goatsfoot
 gaetulian
