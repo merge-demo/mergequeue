@@ -5711,7 +5711,6 @@ backsight
 bandlimit
 belight
 baaed
-bulgaria
 bulldozer
 bogeying
 bribes
@@ -16985,6 +16984,7 @@ bedewoman
 buildups
 bordure
 bespeakable
+bulgaria
 bloodstainedness
 bedwarmer
 backland
