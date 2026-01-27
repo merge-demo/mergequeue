@@ -31,7 +31,6 @@ cnicus
 cabalist
 congii
 courier
-caballer
 corrosiving
 cranebill
 cineols
@@ -17572,6 +17571,7 @@ coccidae
 cookies
 coagency
 coccidial
+caballer
 cutikin
 cloddishly
 coccidian
