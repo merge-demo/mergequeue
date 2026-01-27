@@ -5522,6 +5522,7 @@ agronomies
 afterdeal
 afterdeck
 aerial
+astrographer
 afterform
 actuarial
 aerolith
@@ -22421,7 +22422,6 @@ adequation
 abohm
 autoaspiration
 astrograph
-astrographer
 assemblywomen
 aldehydes
 augites
