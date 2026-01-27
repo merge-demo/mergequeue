@@ -2845,7 +2845,6 @@ estuarian
 elytriferous
 enterotoxin
 ectosteally
-ecbasis
 expt
 endomorphic
 elder
@@ -7603,6 +7602,7 @@ epicoele
 elkesaite
 extolment
 espinos
+ecbasis
 euchymous
 epicoelous
 epidendron
