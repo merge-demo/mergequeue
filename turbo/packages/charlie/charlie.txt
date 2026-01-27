@@ -9894,6 +9894,7 @@ chemosmoses
 chemosmotic
 consumptible
 choora
+corticoafferent
 calpacks
 caleches
 clays
@@ -25939,7 +25940,6 @@ catchier
 corticine
 corticipetal
 collegiate
-corticoafferent
 corticoline
 calories
 corticolous
