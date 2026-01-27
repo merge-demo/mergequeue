@@ -13548,7 +13548,6 @@ cymbalist
 crapshooting
 cymbalists
 cymballed
-cymballing
 cymbalom
 cimbaloms
 cymbalon
@@ -14918,6 +14917,7 @@ compromised
 cytotactic
 cerebroganglion
 cytotaxis
+cymballing
 creosols
 cytotaxonomy
 conky
