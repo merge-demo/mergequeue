@@ -2870,7 +2870,6 @@ canopy
 canopid
 canalised
 canopies
-clarigate
 corticated
 canopying
 cours
@@ -13540,6 +13539,7 @@ cymars
 cymatia
 cymation
 curtsies
+clarigate
 confricamenta
 compensation
 cedarn
