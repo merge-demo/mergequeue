@@ -3273,6 +3273,7 @@ faunology
 fluidrams
 fieldpieces
 feudovassalism
+fremt
 forefeet
 fungilliform
 filopodium
@@ -6723,7 +6724,6 @@ filamentous
 foramens
 fictive
 filipina
-fremt
 fomalhaut
 fiscs
 folliculin
