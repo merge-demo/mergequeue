@@ -5192,6 +5192,7 @@ befuddled
 befuddler
 boxberries
 beleaguers
+bitmap
 befuddling
 beautyship
 ballistophobia
@@ -9844,7 +9845,6 @@ botcher
 burnsian
 banderols
 bemedalled
-bitmap
 buccaneering
 batch
 bimbos
