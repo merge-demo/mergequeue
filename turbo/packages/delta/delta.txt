@@ -10480,7 +10480,6 @@ dalar
 daglock
 dargo
 disembodies
-diphthongize
 diazoalkane
 diphthongizing
 daubentoniidae
@@ -16559,6 +16558,7 @@ dragee
 disputed
 dimensible
 dragger
+diphthongize
 draggers
 dislodges
 draggier
