@@ -2636,7 +2636,6 @@ gabelled
 gnathobase
 glaciomarine
 gruesomest
-genetta
 grendel
 gibbetting
 geomorphist
@@ -5400,6 +5399,7 @@ gr
 greenest
 gurgled
 gona
+genetta
 geoplana
 gowan
 glossily
