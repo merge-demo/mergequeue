@@ -322,6 +322,7 @@ feods
 forces
 fail
 fireplough
+fecundating
 faineancy
 fayles
 fimbricated
@@ -3883,7 +3884,6 @@ foregrounds
 frequencies
 fits
 fortuitously
-fecundating
 fluidness
 financer
 fripperies
