@@ -1523,6 +1523,7 @@ foamers
 franklinite
 fattenable
 fauntleroy
+foreworn
 filmdoms
 foretells
 freely
@@ -7645,7 +7646,6 @@ forst
 feudatory
 fables
 factualism
-foreworn
 foreguess
 flammant
 flambant
