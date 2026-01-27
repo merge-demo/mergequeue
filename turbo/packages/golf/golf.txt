@@ -280,7 +280,6 @@ grapta
 graziery
 geoplagiotropism
 grenada
-gnomon
 glauconiferous
 gifblaar
 glomeroporphyritic
@@ -2388,6 +2387,7 @@ geb
 george
 galloots
 ghiordes
+gnomon
 gadwall
 gedds
 grampa
