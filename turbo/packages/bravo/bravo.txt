@@ -5212,6 +5212,7 @@ begad
 bedders
 boskopoid
 boarcite
+boltonite
 basification
 breadboards
 barkeeps
@@ -10253,7 +10254,6 @@ beets
 benevolist
 blacksnake
 baneful
-boltonite
 bliaut
 ballsy
 blacktongue
