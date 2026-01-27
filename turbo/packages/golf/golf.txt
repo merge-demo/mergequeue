@@ -1152,7 +1152,6 @@ gravamens
 guava
 goners
 gantelope
-genitors
 gantlet
 grocer
 gled
@@ -10512,6 +10511,7 @@ galipots
 goladar
 girl
 gringolee
+genitors
 geometrina
 geodesical
 gratiola
