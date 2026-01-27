@@ -194,7 +194,6 @@ guesting
 gradgrind
 golfer
 goaled
-gabarit
 gammacism
 groschen
 garred
@@ -3286,6 +3285,7 @@ gashest
 grayback
 gayatri
 grimes
+gabarit
 gordiacea
 gluteofemoral
 gutty
