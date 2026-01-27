@@ -3233,7 +3233,6 @@ fictioner
 furbisher
 foci
 forestay
-forestish
 fictionized
 frankheartness
 fictionizing
@@ -7546,6 +7545,7 @@ formers
 falconries
 fragor
 fernseed
+forestish
 foreclosure
 fevering
 fodientia
