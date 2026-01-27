@@ -4878,7 +4878,6 @@ fellage
 forbears
 freedmen
 forwent
-fraternalism
 fulvidness
 farina
 flyman
@@ -5310,6 +5309,7 @@ foregather
 fifteen
 fumarole
 feasts
+fraternalism
 filial
 fant
 forcepslike
