@@ -65,6 +65,7 @@ gluemaking
 gamboler
 gogga
 gonidiophore
+gd
 galeenies
 garoo
 gossiper
@@ -10750,7 +10751,6 @@ gypsyry
 gedackt
 geckotoid
 globulin
-gd
 gorsebird
 grovelers
 geophytes
