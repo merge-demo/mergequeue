@@ -8160,7 +8160,6 @@ afft
 anticreationist
 aghlabite
 angeline
-affixal
 anight
 algorab
 antioptimism
@@ -22486,6 +22485,7 @@ arduously
 aped
 astrophysicists
 anthemideae
+affixal
 aleurones
 astrophotographic
 astrophotometer
