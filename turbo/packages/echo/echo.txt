@@ -4673,6 +4673,7 @@ englishism
 enciphering
 enrapture
 eulogism
+entohyal
 engerminate
 executonis
 easter
@@ -10504,7 +10505,6 @@ endaortic
 epistoma
 evulge
 explosions
-entohyal
 everymen
 endogastritis
 epilachnides
