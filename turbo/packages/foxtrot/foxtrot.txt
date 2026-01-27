@@ -1139,7 +1139,6 @@ forefends
 flockling
 fimbriodentate
 flagrance
-followeth
 florulas
 fiberization
 frumety
@@ -9981,6 +9980,7 @@ frijole
 footprint
 forewarner
 footpaths
+followeth
 foreshroud
 framableness
 fenceless
