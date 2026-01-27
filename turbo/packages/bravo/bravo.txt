@@ -9380,7 +9380,6 @@ basichromatic
 bluegums
 belabours
 barricados
-biophotometer
 bullyhuff
 brattach
 bathman
@@ -15279,6 +15278,7 @@ blastomycetous
 bahur
 biwa
 brecken
+biophotometer
 bisharin
 blueblaw
 bestrewed
