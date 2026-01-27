@@ -10084,6 +10084,7 @@ collab
 coalbox
 chipchap
 chessdom
+coffins
 chesser
 cabinda
 chesses
@@ -18279,7 +18280,6 @@ coffinless
 consoled
 chalcographer
 coffinmaking
-coffins
 coffled
 coarbitrator
 coffling
