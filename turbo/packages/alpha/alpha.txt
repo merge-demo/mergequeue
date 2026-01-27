@@ -10291,7 +10291,6 @@ auxoblast
 amelcorn
 alchemister
 amelet
-ameliorableness
 applemonger
 amylocellulose
 anhydrated
@@ -24251,6 +24250,7 @@ astrachan
 aeciotelia
 anthelices
 aluminoferric
+ameliorableness
 automatous
 automechanical
 almoner
