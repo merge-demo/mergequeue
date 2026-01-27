@@ -3549,6 +3549,7 @@ epidesmine
 emboscata
 exclusionary
 ectoglia
+entoparasitic
 electrometallurgist
 embosoming
 euchlaena
@@ -7601,7 +7602,6 @@ enteric
 epicoele
 elkesaite
 extolment
-entoparasitic
 espinos
 euchymous
 epicoelous
