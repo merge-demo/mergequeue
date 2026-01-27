@@ -8815,6 +8815,7 @@ chapwoman
 circumradii
 caddying
 chaqueta
+counterdefender
 commanders
 char
 conveyability
@@ -10693,7 +10694,6 @@ cantharidated
 chalk
 colporteur
 chimneyless
-counterdefender
 chimneylike
 chimneyman
 chimneypiece
