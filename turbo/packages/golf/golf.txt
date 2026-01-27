@@ -6184,6 +6184,7 @@ gauche
 goadsman
 grihastha
 genovino
+gamesters
 gazetteers
 groveling
 goal
@@ -7232,7 +7233,6 @@ gynecol
 gorgosaurus
 galenism
 gorillalike
-gamesters
 grimliness
 gloze
 grater
