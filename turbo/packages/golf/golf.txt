@@ -3475,7 +3475,6 @@ gerrhosauridae
 gila
 gestalt
 gestaltist
-gallicisms
 gynecology
 grum
 gaveler
@@ -7618,6 +7617,7 @@ gopherman
 gravimetrically
 greengroceries
 gloeosporium
+gallicisms
 goodyness
 gemmula
 grus
