@@ -7658,7 +7658,6 @@ epicrasis
 epopt
 equinal
 eumenid
-enemylike
 epithalamus
 encefalon
 enringed
@@ -12017,6 +12016,7 @@ exhance
 etherion
 espeire
 electrostrictive
+enemylike
 embolus
 equilibrize
 electioneerer
