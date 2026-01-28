@@ -1320,7 +1320,6 @@ amidships
 acaulescent
 acetomorphine
 acauline
-acc
 accable
 accel
 accelerable
@@ -6625,6 +6624,7 @@ aigret
 aquaculture
 alveolite
 archsteward
+acc
 afterbeat
 aymaran
 astatizer
