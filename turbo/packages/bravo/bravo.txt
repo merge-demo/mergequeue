@@ -417,7 +417,6 @@ bailor
 brigadier
 backlogged
 bearcat
-bescours
 babbled
 backouts
 bheesties
@@ -9432,6 +9431,7 @@ bioinstrumentation
 bathymeter
 basaltine
 bemedaled
+bescours
 bashes
 bergalith
 birma
