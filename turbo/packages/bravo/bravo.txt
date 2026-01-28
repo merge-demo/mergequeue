@@ -1059,7 +1059,6 @@ bersil
 boroughmaster
 bailiwick
 bridler
-bauble
 benzothiopyran
 blockhead
 blastocyte
@@ -5631,6 +5630,7 @@ bloodstones
 besped
 beldams
 bacchar
+bauble
 bilify
 belderroot
 bodgie
