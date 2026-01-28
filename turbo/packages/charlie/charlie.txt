@@ -27794,7 +27794,6 @@ calceiform
 coxankylometer
 coxbones
 coxcomb
-coxcombess
 catacaustic
 crookneck
 coxcombic
@@ -28510,6 +28509,7 @@ coruscant
 carapo
 creatureship
 conversibility
+coxcombess
 creaturize
 churchanity
 creaze
