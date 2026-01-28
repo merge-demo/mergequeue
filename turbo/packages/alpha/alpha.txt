@@ -11388,6 +11388,7 @@ amphodarch
 ampholytic
 anobiidae
 acroteric
+autochrome
 amphora
 amphorae
 acappella
@@ -19413,7 +19414,6 @@ amuser
 argentan
 axisymmetry
 aerobacter
-autochrome
 anacrisis
 arsacid
 affies
