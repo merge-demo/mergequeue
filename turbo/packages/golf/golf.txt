@@ -9,6 +9,7 @@ gummous
 gunrooms
 gabber
 gabbers
+grumbles
 glandulation
 gobi
 grasswork
@@ -5559,7 +5560,6 @@ glycidol
 gorsier
 gowning
 gad
-grumbles
 gamecocks
 guardlike
 globigerinae
