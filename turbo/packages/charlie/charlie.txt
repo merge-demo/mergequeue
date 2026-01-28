@@ -4290,7 +4290,6 @@ chastisers
 chondrosteous
 caretook
 comfiest
-carets
 caretta
 careworn
 concorporation
@@ -5686,6 +5685,7 @@ cataplasis
 cogwood
 capering
 cataplastic
+carets
 casten
 catapleiite
 catapulted
