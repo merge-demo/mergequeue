@@ -3383,7 +3383,6 @@ buccheros
 branchiopulmonate
 bassalia
 bootable
-brythonic
 baculum
 benzilic
 bassanite
@@ -13224,6 +13223,7 @@ bosporanic
 bosque
 bosques
 bilked
+brythonic
 bossage
 bossdom
 boastful
