@@ -371,7 +371,6 @@ greekless
 galactophoritis
 gutwort
 gingerin
-gilet
 gongorism
 gildedness
 gantlets
@@ -6183,6 +6182,7 @@ geelbec
 goa
 gadsbud
 gauche
+gilet
 goadsman
 grihastha
 genovino
