@@ -4940,7 +4940,6 @@ bedight
 bosher
 bassos
 beelzebul
-beennut
 bimedial
 bonework
 blesse
@@ -8589,6 +8588,7 @@ billon
 billow
 bimorph
 balladeroyal
+beennut
 butterflyfishes
 belinuridae
 billowiest
