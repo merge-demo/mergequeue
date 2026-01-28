@@ -7062,7 +7062,6 @@ escalloniaceous
 endamask
 electroanalytical
 ectropionization
-enumerations
 egotisms
 ectocinereal
 epapophysial
@@ -10190,6 +10189,7 @@ easeful
 encoders
 executives
 ethernet
+enumerations
 exudate
 emancipation
 escrowed
