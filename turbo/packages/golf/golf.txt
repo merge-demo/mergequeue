@@ -5450,6 +5450,7 @@ greenness
 glauconiidae
 garottes
 glyptodon
+grossular
 glyptodontoid
 glebae
 ghostwrites
@@ -5623,7 +5624,6 @@ giantesque
 grithbreach
 grime
 girdlecake
-grossular
 grabman
 gosport
 groundwall

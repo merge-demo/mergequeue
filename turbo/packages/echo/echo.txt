@@ -1981,7 +1981,6 @@ exophoric
 experienceless
 eryngo
 ekron
-encephalocele
 educement
 epidemics
 expeditious
@@ -2659,6 +2658,7 @@ enfant
 eudaemonics
 engenderment
 exdelicto
+encephalocele
 epispadia
 epigenesist
 electrotherapeutical
