@@ -4817,7 +4817,6 @@ cladoniaceous
 couteau
 carpophyte
 covariables
-carpopodite
 carpopoditic
 coordinating
 carved
@@ -6252,6 +6251,7 @@ chibcha
 chew
 caudation
 calycophorae
+carpopodite
 caudatory
 clergies
 corbel
