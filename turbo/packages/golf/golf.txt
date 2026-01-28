@@ -7961,6 +7961,7 @@ got
 galleons
 gingiva
 glycerol
+germinability
 glaziery
 goodyish
 gymnurinae
@@ -10531,7 +10532,6 @@ gossipingly
 gudesakes
 gentamicin
 gunge
-germinability
 gunjah
 gadolinic
 gaucheries
