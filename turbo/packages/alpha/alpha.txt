@@ -13237,6 +13237,7 @@ adornments
 almaine
 alleviant
 animist
+anastatic
 antigraft
 aecium
 antisilverite
@@ -17820,7 +17821,6 @@ apportioning
 analphabetic
 agent
 assertory
-anastatic
 apposability
 anthranone
 aegialitis
