@@ -2410,6 +2410,7 @@ cancelment
 cessment
 containerize
 chimneys
+caract
 culicine
 cancer
 cancerated
@@ -3633,7 +3634,6 @@ coosify
 chivied
 caracolling
 caracora
-caract
 caractacus
 caradoc
 carafes
