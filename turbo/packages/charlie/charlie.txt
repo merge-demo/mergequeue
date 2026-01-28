@@ -17719,6 +17719,7 @@ campuses
 cashier
 cocoanut
 chasing
+centigrade
 cocoawood
 churchgoing
 cocobola
@@ -24628,7 +24629,6 @@ chancily
 copihue
 ckw
 chutzpahs
-centigrade
 compellent
 carbonate
 chiggak
