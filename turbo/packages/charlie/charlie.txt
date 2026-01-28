@@ -2074,7 +2074,6 @@ campaign
 clotheshorses
 campaigners
 campaigns
-colostric
 campana
 campane
 campanella
@@ -5147,6 +5146,7 @@ compeller
 chondrectomy
 careys
 caseharden
+colostric
 capsaicin
 callosity
 casehardening
