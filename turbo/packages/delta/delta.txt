@@ -1058,7 +1058,6 @@ destandardize
 diplohedral
 dishes
 diacodium
-deas
 disobliging
 dutra
 darner
@@ -8545,6 +8544,7 @@ diet
 declassed
 dyschromatopsia
 dethrone
+deas
 dewbeam
 didacts
 diaphanometric
