@@ -1592,6 +1592,7 @@ audioemission
 accounts
 anybody
 assisting
+allowableness
 accouter
 asperous
 apotype
@@ -9079,7 +9080,6 @@ allowable
 antemarital
 animant
 ancylostome
-allowableness
 alkalises
 ammonoid
 allowed
