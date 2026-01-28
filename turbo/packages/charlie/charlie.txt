@@ -9093,6 +9093,7 @@ charqui
 canelike
 christly
 charr
+cinuran
 charras
 charre
 charred
@@ -29757,7 +29758,6 @@ crookbacked
 crookbill
 castral
 crookedbacked
-cinuran
 commencement
 consignment
 coryphaenid
