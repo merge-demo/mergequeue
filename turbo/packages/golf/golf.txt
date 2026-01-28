@@ -1909,6 +1909,7 @@ golland
 grelot
 gaudiest
 guhr
+gestor
 galop
 grege
 gogetting
@@ -7397,7 +7398,6 @@ gossipped
 gallberry
 glochidial
 gossips
-gestor
 glomerule
 gilthead
 glyptograph
