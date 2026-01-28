@@ -781,7 +781,6 @@ betterer
 bellybutton
 bicentennially
 badland
-badlands
 boation
 buba
 bat
@@ -4720,6 +4719,7 @@ bastardization
 bedlamitish
 bedub
 bovid
+badlands
 bibliogenesis
 bedewing
 bloomeria
