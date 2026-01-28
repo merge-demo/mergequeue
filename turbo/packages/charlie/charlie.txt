@@ -5263,7 +5263,6 @@ custodiam
 crwth
 champacs
 cassan
-cyans
 chefdom
 consecute
 calemes
@@ -29336,6 +29335,7 @@ cryptolite
 certhia
 cytochalasin
 cryptolith
+cyans
 cryptology
 conspiracies
 callas
