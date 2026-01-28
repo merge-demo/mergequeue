@@ -8401,6 +8401,7 @@ filcher
 futhark
 finagles
 fluoroscopes
+felidae
 fullerboard
 folksy
 formalesque
@@ -9411,7 +9412,6 @@ flagpoles
 furacana
 flammed
 franz
-felidae
 fliers
 foodstuff
 foreteeth
