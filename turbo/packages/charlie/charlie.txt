@@ -2591,7 +2591,6 @@ camphires
 censuses
 cyclotrons
 cheesing
-cliffing
 canebrake
 cardioschisis
 cementmaking
@@ -14072,6 +14071,7 @@ counterapproach
 calvity
 cattie
 circled
+cliffing
 chemically
 claudia
 catskin
