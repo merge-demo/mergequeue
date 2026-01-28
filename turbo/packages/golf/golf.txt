@@ -5553,6 +5553,7 @@ gump
 grassfinch
 griefs
 gauffers
+grenat
 guttiferous
 germinally
 gangplanks
@@ -5699,7 +5700,6 @@ glorying
 gant
 gothites
 grizzler
-grenat
 gaultheria
 galvanographic
 glandulous
