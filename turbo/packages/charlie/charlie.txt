@@ -11292,6 +11292,7 @@ clothbound
 chlorocarbonate
 casualty
 chlorochromic
+criticality
 capsicin
 chlorococcaceae
 cologned
@@ -29542,7 +29543,6 @@ crith
 crithidia
 crithomancy
 critic
-criticality
 coheir
 criticalness
 coendured
