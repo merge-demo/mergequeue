@@ -3685,7 +3685,6 @@ dorsers
 dactylopterus
 daunting
 dictamnus
-degust
 dasnt
 degusted
 disbowelled
@@ -15885,6 +15884,7 @@ dubs
 dehairer
 doped
 dorsiduct
+degust
 darjeeling
 droop
 dakerhens
