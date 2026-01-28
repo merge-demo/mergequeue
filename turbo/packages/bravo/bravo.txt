@@ -279,6 +279,7 @@ bespangled
 back
 brachiocubital
 backache
+boatable
 burrknot
 bocardo
 backadation
@@ -5424,7 +5425,6 @@ bulletmaking
 blubbery
 boardmanship
 boldo
-boatable
 becudgelling
 beetling
 behemoths
