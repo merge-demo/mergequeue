@@ -10090,7 +10090,6 @@ ethenoid
 ethenol
 eyecups
 eperva
-ensorcelize
 ebb
 erythrosin
 eidouranion
@@ -12343,6 +12342,7 @@ expects
 exhibitors
 endorsers
 excrescencies
+ensorcelize
 exflect
 endower
 enteromyiasis
