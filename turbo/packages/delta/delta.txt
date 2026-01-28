@@ -3525,6 +3525,7 @@ disapproving
 defrayable
 disembarrassment
 dismissable
+disring
 doom
 defraying
 desaturate
@@ -16832,7 +16833,6 @@ drawings
 duplicando
 deliquescent
 dissociable
-disring
 dendrodus
 diaphanoscopy
 deprecatingly
