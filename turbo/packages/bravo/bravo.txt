@@ -12066,6 +12066,7 @@ bolag
 bosey
 bolas
 bedell
+bootes
 bartsia
 balmacaan
 bolboxalis
@@ -12809,7 +12810,6 @@ breezeless
 bibliophobia
 bondswoman
 barquest
-bootes
 burglary
 basiliscine
 blink
