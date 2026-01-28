@@ -6446,6 +6446,7 @@ glossopteris
 garnerage
 glassman
 glossotherium
+glutter
 gobiesocid
 geostrophic
 gymnocladus
@@ -7842,7 +7843,6 @@ gaj
 geophone
 gegg
 groaners
-glutter
 globs
 graphospasm
 gerents
