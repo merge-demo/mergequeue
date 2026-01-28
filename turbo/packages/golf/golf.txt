@@ -194,7 +194,6 @@ guesting
 gradgrind
 golfer
 goaled
-gammacism
 groschen
 garred
 going
@@ -986,6 +985,7 @@ gagmen
 galloped
 ganched
 goner
+gammacism
 gerodontology
 granddads
 gundi
