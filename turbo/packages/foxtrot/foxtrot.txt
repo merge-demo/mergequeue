@@ -4746,6 +4746,7 @@ footlike
 fulmination
 follies
 fortress
+fornix
 forereach
 fieldstrip
 fingal
@@ -8577,7 +8578,6 @@ forninst
 fricative
 flexor
 flyover
-fornix
 fanegada
 forspent
 flocculus
