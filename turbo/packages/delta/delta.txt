@@ -5644,7 +5644,6 @@ depictions
 dermomycosis
 depictment
 dandilly
-depictors
 depicture
 distract
 debe
@@ -13311,6 +13310,7 @@ demorphinization
 dispropriate
 dysprosia
 disproves
+depictors
 disprovide
 dispurse
 distillate
