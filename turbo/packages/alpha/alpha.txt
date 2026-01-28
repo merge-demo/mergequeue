@@ -14279,7 +14279,6 @@ antetypes
 ashman
 ahypnia
 antevert
-anteverting
 alphabetizers
 americanist
 anthdia
@@ -24327,6 +24326,7 @@ affianced
 acetonate
 autopoisonous
 acclimatize
+anteverting
 autopolar
 autopolyploid
 autopolo

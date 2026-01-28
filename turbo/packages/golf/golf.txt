@@ -1824,7 +1824,6 @@ grizel
 grassy
 glummer
 glyptology
-gabbier
 gatekeepers
 glos
 gentile
@@ -6577,6 +6576,7 @@ glutting
 greyskin
 grammarian
 guaiacs
+gabbier
 guiders
 gentianin
 gentianales
