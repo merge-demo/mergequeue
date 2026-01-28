@@ -4456,7 +4456,6 @@ behinds
 bailment
 beached
 baptismal
-bestuur
 becomed
 bungs
 becometh
@@ -12706,6 +12705,7 @@ billion
 bailsmen
 bookfold
 biometric
+bestuur
 bookhood
 bloodhounds
 belamcanda
