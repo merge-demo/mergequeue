@@ -2507,7 +2507,6 @@ cantorial
 countermands
 coasters
 candies
-candying
 candymaker
 cardiophobe
 candymaking
@@ -10140,6 +10139,7 @@ compagnie
 chevener
 cheventayn
 cheverel
+candying
 carcassed
 cheveret
 cheveril
