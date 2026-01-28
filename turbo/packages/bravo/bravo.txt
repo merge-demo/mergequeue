@@ -2102,7 +2102,6 @@ bannerols
 bannisters
 birthmarks
 bioflavinoid
-bannock
 buyers
 bannocks
 boilinglike
@@ -16126,6 +16125,7 @@ brumalia
 boskiest
 brookier
 brookite
+bannock
 beneficient
 barbarianized
 battling
