@@ -6302,7 +6302,6 @@ deadens
 dermatozoonosis
 deutzias
 dishelming
-dryophyllum
 disload
 dermatozzoa
 dermatrophia
@@ -10804,6 +10803,7 @@ deviates
 directors
 directorships
 desugared
+dryophyllum
 dysphrasia
 dapples
 deposable
