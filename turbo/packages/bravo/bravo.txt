@@ -715,7 +715,6 @@ banjo
 baddie
 betimber
 benzedrine
-bathtubs
 bathetically
 browse
 baddies
@@ -12469,6 +12468,7 @@ burntness
 bather
 bagpiped
 bone
+bathtubs
 bejaundice
 bonebreaker
 bifoliolate
