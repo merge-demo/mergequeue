@@ -1266,7 +1266,6 @@ griffes
 guenon
 grimaces
 gaia
-gallicole
 glenwood
 granage
 gyrophora
@@ -7084,6 +7083,7 @@ grayly
 gliocyte
 gutturopalatal
 gelidity
+gallicole
 ganglioneure
 goosegog
 guignardia
