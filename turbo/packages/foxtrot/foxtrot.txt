@@ -2481,7 +2481,6 @@ flea
 fibrinoid
 fry
 fernyear
-furison
 funs
 fernshaw
 fordo
@@ -7846,6 +7845,7 @@ fiked
 forepossessed
 formulate
 filler
+furison
 foreshots
 facings
 flenses
