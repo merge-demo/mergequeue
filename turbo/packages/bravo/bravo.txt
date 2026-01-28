@@ -2290,7 +2290,6 @@ brier
 bianco
 bysen
 broadbrim
-bactericholia
 bide
 bathochromy
 bellman
@@ -11999,6 +11998,7 @@ brawling
 boyau
 bilinigrin
 boyaux
+bactericholia
 bronchostomies
 bertin
 bojite
