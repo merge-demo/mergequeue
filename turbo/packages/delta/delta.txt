@@ -14725,6 +14725,7 @@ doblon
 dissymmettric
 dobos
 drumlier
+damaging
 dactyloscopic
 detained
 decahedral
@@ -15133,7 +15134,6 @@ dispositioned
 diaphragmed
 deerherd
 dislustre
-damaging
 disallows
 dullpate
 decayable
