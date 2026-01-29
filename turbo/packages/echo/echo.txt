@@ -822,6 +822,7 @@ eral
 endocyst
 excrescent
 extremest
+electroengrave
 extradecretal
 encrust
 ectypography
@@ -6269,7 +6270,6 @@ ecclesiastry
 enduring
 estaminets
 exspoliation
-electroengrave
 embolectomies
 enrive
 eyeholes
