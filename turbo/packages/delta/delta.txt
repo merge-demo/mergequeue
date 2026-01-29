@@ -10613,7 +10613,6 @@ delisting
 diplonts
 diplophase
 difficultness
-dosology
 deviously
 dulias
 dezinced
@@ -16770,6 +16769,7 @@ dangersome
 diatomaceous
 dravidian
 damned
+dosology
 delaying
 dayboy
 dravidic

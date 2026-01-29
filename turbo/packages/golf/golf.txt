@@ -5058,6 +5058,7 @@ gisarmes
 gassy
 gapped
 glandulousness
+garnish
 groused
 goalkeeper
 golconda
@@ -10740,7 +10741,6 @@ gnomonological
 graille
 gavage
 galloot
-garnish
 gagers
 groggy
 gustiest
