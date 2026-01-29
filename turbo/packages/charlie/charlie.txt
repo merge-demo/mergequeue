@@ -128,6 +128,7 @@ clitelline
 cabinetworker
 cabinlike
 crafter
+commonweals
 chemisorptive
 costotransverse
 cabiria
@@ -20268,7 +20269,6 @@ corrodingly
 commonsense
 carpels
 commonsensically
-commonweals
 cherty
 commorancies
 clopping
