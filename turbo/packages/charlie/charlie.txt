@@ -25263,7 +25263,6 @@ corita
 calesa
 cephaldemae
 corium
-chiasmal
 chirurgic
 contradistinctively
 canonicate
@@ -30438,6 +30437,7 @@ csect
 cpu
 cholecystectomies
 csmp
+chiasmal
 crimpled
 csp
 csw
