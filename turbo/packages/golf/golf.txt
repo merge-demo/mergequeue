@@ -3302,7 +3302,6 @@ german
 geckos
 gunstocks
 guider
-germanify
 graminiferous
 germanification
 gadso
@@ -7647,6 +7646,7 @@ girlies
 ghoster
 glancingly
 guenons
+germanify
 geologist
 geognostical
 guardianless
