@@ -1091,7 +1091,6 @@ cantboard
 calciform
 centesimos
 calcifugal
-calcifugous
 chamaesiphonaceous
 calcimined
 crudeness
@@ -21237,6 +21236,7 @@ conceptual
 conceptualise
 cynthius
 crooning
+calcifugous
 clachan
 chiropractors
 conceptualism
