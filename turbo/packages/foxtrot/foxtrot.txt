@@ -4298,6 +4298,7 @@ fibster
 fenland
 fungology
 firmarii
+frutices
 furmeties
 flunkeys
 forrader
@@ -4567,7 +4568,6 @@ faithfulness
 flattest
 fatiscence
 frictionize
-frutices
 flaunted
 futurition
 fossilized
