@@ -3810,6 +3810,7 @@ greenhew
 goffers
 geodetics
 glucke
+getid
 gnostical
 galliass
 grungier
@@ -10250,7 +10251,6 @@ guinness
 gamodemes
 greyback
 gumbos
-getid
 grotianism
 gempylid
 gemelled
