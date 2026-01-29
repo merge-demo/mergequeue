@@ -1037,6 +1037,7 @@ galvanoscopy
 geodist
 gothicize
 grasp
+gravelled
 golp
 glanced
 glycohaemia
@@ -6520,7 +6521,6 @@ greese
 gonapophysial
 gabert
 goll
-gravelled
 guddling
 gardenia
 genetic
