@@ -24210,7 +24210,6 @@ autolithograph
 autoinfection
 alnein
 anhydraemia
-autolyzate
 autolyzes
 autoloader
 autology
@@ -24674,6 +24673,7 @@ aspirants
 anisogeny
 absumption
 asteer
+autolyzate
 arabized
 actinidia
 anastrophia
