@@ -3583,7 +3583,6 @@ banker
 befathered
 bathoflore
 batholithic
-balaamite
 butchers
 balconet
 bathometry
@@ -12593,6 +12592,7 @@ bonnwis
 bionomist
 bonorum
 bisector
+balaamite
 bagatelle
 bills
 brainchild
