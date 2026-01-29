@@ -322,7 +322,6 @@ feods
 forces
 fail
 fireplough
-fecundating
 faineancy
 fayles
 fimbricated
@@ -10710,6 +10709,7 @@ fartlek
 fortran
 flunkeyistic
 forelaid
+fecundating
 foreganger
 fil
 fellmongering
