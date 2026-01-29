@@ -7537,7 +7537,6 @@ bewary
 bewaste
 beweary
 besottedness
-botflies
 brainworker
 banagos
 beweeper
@@ -18203,6 +18202,7 @@ backdated
 bibliothecary
 bremely
 busycon
+botflies
 butsu
 binately
 brigbote
