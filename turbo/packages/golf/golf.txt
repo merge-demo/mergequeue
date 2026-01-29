@@ -1857,7 +1857,6 @@ gawkihood
 graphemics
 grecizing
 gossip
-gyrostabilized
 gleir
 gasper
 graptolithina
@@ -2659,6 +2658,7 @@ gurgeon
 gathering
 greatest
 gonotocont
+gyrostabilized
 guaraguao
 gospodipoda
 grangerisation
