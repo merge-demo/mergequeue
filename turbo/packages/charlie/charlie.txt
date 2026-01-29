@@ -12857,6 +12857,7 @@ churchwardenship
 churchwoman
 churchwomen
 churel
+catasta
 churidars
 cyclized
 cupidity
@@ -25263,7 +25264,6 @@ corita
 calesa
 cephaldemae
 corium
-chiasmal
 chirurgic
 contradistinctively
 canonicate
@@ -27414,7 +27414,6 @@ chow
 chaptered
 courtliest
 croppie
-catasta
 calandra
 courtlike
 cannonism
@@ -30438,6 +30437,7 @@ csect
 cpu
 cholecystectomies
 csmp
+chiasmal
 crimpled
 csp
 csw
