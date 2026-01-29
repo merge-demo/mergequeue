@@ -8466,6 +8466,7 @@ formatter
 father
 floridans
 flunkeyite
+fosite
 fuzztail
 formularizing
 frontierman
@@ -11625,7 +11626,6 @@ fortissimi
 farci
 fibrous
 fylgja
-fosite
 funestal
 forehew
 fustigatory
