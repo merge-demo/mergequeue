@@ -2660,7 +2660,6 @@ decompensations
 dasylirion
 doorkeeper
 decompiler
-decomposable
 deviceful
 decomposer
 debrief
@@ -6788,6 +6787,7 @@ desirer
 drachma
 daira
 dihedrons
+decomposable
 desirousness
 drily
 dented
