@@ -18197,7 +18197,6 @@ cervulus
 coetaneous
 coeternal
 caninity
-coeval
 camorrist
 coevalness
 carboline
@@ -28984,6 +28983,7 @@ cojuror
 cricothyroidean
 crossbowman
 compositions
+coeval
 chlorinize
 cynomorphous
 cochair
