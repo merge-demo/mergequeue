@@ -5412,7 +5412,6 @@ glutinant
 glucosid
 gutwise
 gasserian
-glycaemic
 grimmer
 gremmy
 glucosaemia
@@ -10430,6 +10429,7 @@ groundsill
 gilia
 gesneraceous
 gradative
+glycaemic
 gomphodont
 geobiologic
 gumdigging
