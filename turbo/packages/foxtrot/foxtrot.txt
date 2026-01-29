@@ -4058,6 +4058,7 @@ finishers
 finishes
 fultz
 formenic
+funguslike
 faffle
 foyaitic
 fibered
@@ -8056,7 +8057,6 @@ facetting
 fontinalaceae
 folial
 forestful
-funguslike
 fellable
 freezes
 frigger

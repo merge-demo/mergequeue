@@ -2974,7 +2974,6 @@ elymus
 ergotamine
 epitomes
 enallage
-elinguate
 enfield
 eleatic
 eleoblast
@@ -4475,6 +4474,7 @@ embryophyta
 encephalographic
 ekphorize
 esiphonal
+elinguate
 episematic
 earlock
 enamelling
