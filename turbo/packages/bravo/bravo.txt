@@ -12915,7 +12915,6 @@ boothale
 baronetcies
 badge
 boccias
-brews
 bedspread
 bitterblain
 boothite
@@ -17658,6 +17657,7 @@ blockish
 boris
 britchel
 belady
+brews
 blowier
 barrelfish
 bellipotent
