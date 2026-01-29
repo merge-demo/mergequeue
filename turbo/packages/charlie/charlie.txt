@@ -3771,7 +3771,6 @@ cuttlebone
 carbaryls
 ciconia
 chloroethylene
-carbazic
 carbazylic
 chlorpikrin
 cheerios
@@ -7754,6 +7753,7 @@ categorematic
 cellarway
 cartopper
 certifiable
+carbazic
 certificate
 certificated
 chincherinchees
