@@ -2821,7 +2821,6 @@ banded
 blonder
 brazee
 barmie
-bookends
 bowdlerism
 body
 barosinusitus
@@ -4907,6 +4906,7 @@ beefeaters
 baclin
 barkentines
 bepride
+bookends
 burhinidae
 bract
 bilobular
