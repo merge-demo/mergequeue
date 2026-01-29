@@ -8294,7 +8294,6 @@ digitation
 doombook
 diagrams
 dentin
-db
 dracontian
 dispossess
 droob
@@ -13257,6 +13256,7 @@ demogenic
 daidly
 domines
 deleerit
+db
 dolichohieric
 deutomerite
 daphnoid
