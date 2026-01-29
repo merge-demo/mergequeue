@@ -2388,7 +2388,6 @@ canc
 coffined
 canceled
 canceleer
-canceler
 cancellable
 contrasters
 cyprinidae
@@ -18844,6 +18843,7 @@ crommel
 coly
 chronopher
 clinkered
+canceler
 codeins
 colichemarde
 colicines
