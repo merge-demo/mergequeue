@@ -10249,7 +10249,6 @@ eo
 exactingly
 eudorina
 epicurish
-estafet
 evectic
 economical
 elucidatory
@@ -12788,6 +12787,7 @@ engraves
 elementary
 exostrae
 exoteric
+estafet
 exoterica
 elementalistically
 excitomotor
