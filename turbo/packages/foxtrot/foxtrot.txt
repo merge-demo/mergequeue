@@ -2245,7 +2245,6 @@ filesave
 fainaiguer
 femora
 fatil
-fain
 fenced
 fencelessness
 forkiest
@@ -11564,6 +11563,7 @@ frictionized
 fowage
 fingerspin
 feedback
+fain
 friskful
 flytier
 fulgurator
