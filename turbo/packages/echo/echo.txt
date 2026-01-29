@@ -585,7 +585,6 @@ electromeric
 elocutionize
 extraperineal
 egomanias
-electrodynamics
 effable
 estancia
 emblematize
@@ -3760,6 +3759,7 @@ embulk
 engulfing
 embull
 embush
+electrodynamics
 expiates
 examinees
 ethos
