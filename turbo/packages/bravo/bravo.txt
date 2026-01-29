@@ -2052,6 +2052,7 @@ bidactyl
 bethought
 banky
 banknote
+bergamo
 bristly
 biophysicist
 banknotes
@@ -10778,7 +10779,6 @@ baulkier
 birthrate
 blocks
 benamidar
-bergamo
 biomagnetic
 balow
 bugbeardom
