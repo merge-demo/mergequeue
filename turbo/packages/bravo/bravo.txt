@@ -6873,7 +6873,6 @@ beslaver
 balmony
 blindfold
 beshadowed
-beauxite
 boggled
 briolette
 biplosive
@@ -9001,6 +9000,7 @@ busheler
 barbershop
 burnouts
 boldface
+beauxite
 brev
 biophagism
 biophysic
