@@ -3764,6 +3764,7 @@ goonie
 graveldiver
 getatable
 gazoz
+googolplex
 goldfield
 generator
 gropingly
@@ -9727,7 +9728,6 @@ glossaries
 gelants
 gratiosolin
 gaelicism
-googolplex
 guying
 grummet
 genuflector
