@@ -4547,7 +4547,6 @@ carnation
 carnationist
 carnauba
 carnaubas
-cactiform
 carneau
 carnegie
 carnegiea
@@ -23508,6 +23507,7 @@ contrapuntal
 chimble
 contentable
 congregator
+cactiform
 contentation
 contentedly
 counterartillery
