@@ -6879,7 +6879,6 @@ ellipsoidal
 endangered
 electrum
 etiquettes
-endamageable
 esophagostomy
 epispore
 ectocardia
@@ -12738,6 +12737,7 @@ eremochaetous
 emperess
 entertissue
 evictee
+endamageable
 etesians
 expurgator
 exorcistic
