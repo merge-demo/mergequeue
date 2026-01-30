@@ -8029,7 +8029,6 @@ chaetal
 carromata
 chanidae
 clanks
-chaetifera
 chaetiferous
 cocytean
 chaetochloa
@@ -14167,6 +14166,7 @@ cymose
 circumbasal
 circumbendibus
 conception
+chaetifera
 circumboreal
 callityped
 choleic
