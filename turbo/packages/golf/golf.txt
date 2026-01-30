@@ -2869,6 +2869,7 @@ gyrate
 gustavus
 guardsman
 gipser
+glyptician
 grasschat
 gasser
 gasmetophytic
@@ -3682,7 +3683,6 @@ glops
 gurgly
 governorships
 gadgeteers
-glyptician
 gametes
 gutturotetany
 gory
