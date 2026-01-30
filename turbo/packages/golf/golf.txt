@@ -6541,7 +6541,6 @@ groundage
 groundably
 gospelmonger
 gallivat
-goniatitoid
 glycogenosis
 ghis
 gunster
@@ -6658,6 +6657,7 @@ gambusias
 gondolas
 guidons
 gondoletta
+goniatitoid
 guffs
 gangliform
 gamboller
