@@ -3431,7 +3431,6 @@ engrail
 evacuate
 eventide
 embellisher
-embellishers
 encheason
 enchained
 encolden
@@ -10383,6 +10382,7 @@ ethnohistoric
 ethoxide
 ethoxyethane
 enchiriridia
+embellishers
 earthshaking
 eiresione
 eleolite
