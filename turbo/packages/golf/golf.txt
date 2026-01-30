@@ -610,7 +610,6 @@ guineas
 gorgoniacea
 gesseron
 graveside
-gloriation
 gloryless
 goulashes
 gurnets
@@ -5635,6 +5634,7 @@ geophilidae
 gondolet
 gymnasium
 golfers
+gloriation
 gonosphere
 glossocomium
 gauming
