@@ -5089,6 +5089,7 @@ agrostographical
 aerotropism
 allantois
 aeruginous
+antaeus
 aerugo
 aes
 autosepticemia
@@ -13959,7 +13960,6 @@ alehouse
 ardisia
 antae
 antaean
-antaeus
 agriotypidae
 alvelos
 advantaging
