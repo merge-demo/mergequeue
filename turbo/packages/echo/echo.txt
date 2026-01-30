@@ -9,7 +9,6 @@ electrochronograph
 engirding
 epidermoid
 erigeron
-evaporometer
 euchologion
 emigate
 erosivity
@@ -14136,6 +14135,7 @@ enplanement
 emulates
 enlard
 entocuneiform
+evaporometer
 excussion
 endearment
 entrails
