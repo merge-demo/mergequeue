@@ -17013,7 +17013,6 @@ chm
 cmd
 cml
 cofferdams
-croconate
 cnemial
 corpsmen
 cistuses
@@ -26024,6 +26023,7 @@ contextual
 clumbers
 coseasonal
 chelidonian
+croconate
 cryptomeria
 coseat
 cosecant
