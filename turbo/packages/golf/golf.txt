@@ -1283,7 +1283,6 @@ ganges
 glike
 granch
 giddying
-gunnels
 gable
 ginkgo
 gloria
@@ -10775,6 +10774,7 @@ geranyl
 glycyl
 gutt
 gerenuk
+gunnels
 ghole
 genialness
 gonadectomy
