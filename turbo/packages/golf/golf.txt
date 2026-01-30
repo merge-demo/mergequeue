@@ -5003,6 +5003,7 @@ gastrelcosis
 ginger
 grisliest
 glamoured
+gibbergunyah
 germanic
 greatmouthed
 greensward
@@ -6707,7 +6708,6 @@ growable
 geotherm
 gromatic
 geochronometry
-gibbergunyah
 grattage
 gewgawed
 gradual
