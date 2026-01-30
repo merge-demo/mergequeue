@@ -231,6 +231,7 @@ bach
 bibliograph
 betonica
 bastinadoed
+barandos
 bactrites
 beneception
 betrothed
@@ -2482,7 +2483,6 @@ burrgrailer
 balbutient
 batino
 brendan
-barandos
 balaklava
 blitzkriegs
 baphomet
