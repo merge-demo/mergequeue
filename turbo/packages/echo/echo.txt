@@ -1995,7 +1995,6 @@ emulsic
 equisonant
 endodontist
 eradiculose
-elixate
 elabrate
 endocrinotherapy
 epigaea
@@ -4231,6 +4230,7 @@ escambio
 elegancy
 eaux
 eumeristic
+elixate
 expendible
 expressways
 equidiagonal
