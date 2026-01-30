@@ -15708,7 +15708,6 @@ chemics
 cytologies
 clavicythetheria
 clavicittern
-contraction
 clavicle
 cannas
 clavicorn
@@ -22472,6 +22471,7 @@ conioselinum
 chivalrously
 cahuita
 coniosis
+contraction
 coniospermous
 corms
 coadamite
