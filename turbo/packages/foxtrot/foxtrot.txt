@@ -7870,7 +7870,6 @@ foretalking
 funiculate
 forereckon
 foredates
-flannelbush
 forerun
 fname
 forjesket
@@ -9212,6 +9211,7 @@ facts
 frayedness
 frostfishes
 flagmaking
+flannelbush
 flashier
 finnac
 forpining
