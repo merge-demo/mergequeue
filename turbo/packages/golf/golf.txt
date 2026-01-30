@@ -53,6 +53,7 @@ groats
 galatotrophic
 graperies
 gangue
+gullish
 glaucolite
 guemal
 geometrine
@@ -2856,7 +2857,6 @@ guildship
 gratifier
 griding
 guser
-gullish
 glanduliform
 glossiphonidae
 gustfulness
