@@ -10128,7 +10128,6 @@ cystencyte
 chevaliers
 chippewa
 categorizers
-compagnie
 chevener
 cheventayn
 cheverel
@@ -14729,6 +14728,7 @@ canamary
 closen
 culler
 coursy
+compagnie
 coracobrachial
 cetiosauria
 cowering
