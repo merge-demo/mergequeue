@@ -2620,6 +2620,7 @@ frivol
 filigreed
 ferio
 farandmen
+foregoing
 falutin
 foraminated
 ferruginating
@@ -7246,7 +7247,6 @@ foiled
 fitz
 footslogger
 frenular
-foregoing
 fissuration
 fledglings
 fetisheer
