@@ -757,7 +757,6 @@ befoul
 babiches
 bandsawing
 badges
-badging
 buddhism
 brarow
 banksman
@@ -15170,6 +15169,7 @@ bram
 biddulphiaceae
 bryanism
 barsom
+badging
 bahuvrihis
 brawlys
 briard
