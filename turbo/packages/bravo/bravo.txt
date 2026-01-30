@@ -3134,7 +3134,6 @@ baseborn
 birdlime
 baseburner
 basecourt
-betokener
 boosting
 boneset
 baselevel
@@ -10775,6 +10774,7 @@ bienvenu
 boul
 bavin
 baulkier
+betokener
 birthrate
 blocks
 benamidar
