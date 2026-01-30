@@ -3342,6 +3342,7 @@ glossopharyngeal
 germier
 goatsfoot
 gaetulian
+girdlers
 gomorrean
 gaging
 gildhalls
@@ -10694,7 +10695,6 @@ groundbird
 geostatic
 gurnet
 gildings
-girdlers
 goldbrickers
 grabs
 guaiacolize
