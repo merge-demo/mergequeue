@@ -489,7 +489,6 @@ geelhout
 glutoid
 galeorhinidae
 grouches
-galere
 garaged
 gridirons
 galericulate
@@ -6378,6 +6377,7 @@ gorilline
 gastrotrich
 grenado
 given
+galere
 getspace
 goldspink
 glimmered
