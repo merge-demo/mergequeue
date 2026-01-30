@@ -2408,6 +2408,7 @@ frenchness
 ferities
 fulgoridae
 floodless
+formalizable
 foxie
 flyflapper
 falsiteit
@@ -2629,7 +2630,6 @@ framesmith
 fibrinogenic
 forecastles
 fervent
-formalizable
 funnel
 fireless
 flusters
