@@ -1477,7 +1477,6 @@ boyarisms
 blighter
 balkish
 bodaciously
-bahadurs
 beggar
 boroglycerate
 barras
@@ -2581,6 +2580,7 @@ butch
 beleaf
 barters
 bathofloric
+bahadurs
 baryon
 brio
 baryphonia
