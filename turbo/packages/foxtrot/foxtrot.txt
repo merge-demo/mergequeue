@@ -5736,7 +5736,6 @@ foredeserved
 fencer
 farth
 fecket
-fringepod
 flyspecking
 fill
 filliping
@@ -8732,6 +8731,7 @@ fala
 featheriest
 fortunes
 faintise
+fringepod
 frankfort
 forbiddable
 flogged
