@@ -13810,6 +13810,7 @@ deader
 driftpin
 dramatis
 dogvane
+dragger
 decapod
 digram
 dindle
@@ -16544,7 +16545,6 @@ draft
 dragee
 disputed
 dimensible
-dragger
 diphthongize
 draggers
 dislodges
