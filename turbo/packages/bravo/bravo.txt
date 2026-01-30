@@ -15605,7 +15605,6 @@ brisking
 briss
 backwoodsman
 bolsterer
-brist
 bombproof
 bristled
 bakhtiari
@@ -17448,6 +17447,7 @@ brocage
 bunkie
 buffi
 boccies
+brist
 baltis
 bunking
 babeldom
