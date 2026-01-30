@@ -3060,7 +3060,6 @@ bookbinderies
 bubba
 bartramian
 banish
-beetmister
 bliest
 burlesks
 balsaming
@@ -11355,6 +11354,7 @@ bluebells
 bepistoled
 brimstonewort
 bons
+beetmister
 bescorches
 bluebill
 bustic
