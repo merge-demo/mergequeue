@@ -4488,7 +4488,6 @@ gypsyfy
 ganoblast
 gunshot
 generically
-gristles
 guacimo
 gypsyhead
 gloeocapsoid
@@ -10641,6 +10640,7 @@ gnomide
 gerontologies
 giganticness
 gargets
+gristles
 gorrel
 genera
 galvanocauterization

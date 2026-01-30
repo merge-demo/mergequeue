@@ -8711,7 +8711,6 @@ alternationist
 allelomorphic
 ambach
 allelotropy
-allelotropic
 attendantly
 allelotropism
 alleluia
@@ -21694,6 +21693,7 @@ antibromic
 assassinations
 assassinative
 assassinist
+allelotropic
 assate
 airstrips
 arriccio
