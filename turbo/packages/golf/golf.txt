@@ -1169,6 +1169,7 @@ guffin
 gaol
 gulls
 grinners
+guariba
 galliney
 grifters
 grogs
@@ -4981,7 +4982,6 @@ goldhead
 genealogists
 goofballs
 growled
-guariba
 glandered
 global
 genially
