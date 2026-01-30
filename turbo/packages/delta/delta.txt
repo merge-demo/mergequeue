@@ -6705,7 +6705,6 @@ diatribes
 desiderta
 diptycas
 duckmole
-designable
 detumescent
 dhutis
 dissolutions
@@ -17604,6 +17603,7 @@ dexterical
 decastylar
 dichoree
 dacus
+designable
 duant
 dentigerous
 defeminisation
