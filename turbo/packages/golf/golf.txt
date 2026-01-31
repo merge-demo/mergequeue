@@ -2125,6 +2125,7 @@ gazeboes
 guestship
 gen
 glumiferous
+gourounut
 galla
 gaudete
 grandam
@@ -7089,7 +7090,6 @@ guelphic
 giottesque
 glaces
 gestalter
-gourounut
 guerite
 gaus
 gunwales
