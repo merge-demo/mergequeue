@@ -1933,6 +1933,7 @@ endict
 elementalist
 ejaculatory
 erdvark
+entitling
 elishah
 ejectively
 exigeante
@@ -6785,7 +6786,6 @@ elixed
 evangelistarion
 enculturating
 eggheads
-entitling
 ecclesioclastic
 entoblastic
 entobronchium
