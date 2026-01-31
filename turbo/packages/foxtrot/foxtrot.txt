@@ -83,6 +83,7 @@ faces
 folkright
 flattening
 flowerfence
+funny
 foliobranch
 fiendish
 flagrantness
@@ -11255,7 +11256,6 @@ faciest
 featherwork
 funnels
 fourer
-funny
 fundamentality
 flagellants
 frumaryl
