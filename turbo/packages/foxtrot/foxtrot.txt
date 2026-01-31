@@ -8316,7 +8316,6 @@ fodge
 flytraps
 fusate
 forisfamiliation
-fontlet
 ferrotyping
 firmament
 fatherlike
@@ -9178,6 +9177,7 @@ fragileness
 forenames
 forbarred
 foreknown
+fontlet
 faceplate
 fucus
 fumously
