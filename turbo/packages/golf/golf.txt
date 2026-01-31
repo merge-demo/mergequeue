@@ -6952,7 +6952,6 @@ guides
 geromorphism
 grayfly
 gradients
-geostatics
 goodwife
 grecians
 guasa
@@ -10039,6 +10038,7 @@ gargoyles
 gnathonic
 greasing
 granitoidal
+geostatics
 gisler
 guerdoner
 greatheart
