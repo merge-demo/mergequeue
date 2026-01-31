@@ -116,7 +116,6 @@ exsculptate
 equisetaceae
 engobe
 egotistically
-eartab
 exodermal
 eparch
 echinoderma
@@ -3676,6 +3675,7 @@ entify
 embryonic
 encyrtidae
 erythromycin
+eartab
 expectant
 elec
 extratellurian
