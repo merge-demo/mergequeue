@@ -2068,7 +2068,6 @@ fendillation
 favissae
 fusulas
 fieldfare
-frory
 foys
 fwelling
 flocky
@@ -5335,6 +5334,7 @@ flayflint
 fleabag
 flagellator
 fusillade
+frory
 faintheart
 furciform
 fleabags
