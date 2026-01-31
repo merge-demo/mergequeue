@@ -7547,7 +7547,6 @@ garageman
 gladify
 gangman
 goldsmithing
-gunyah
 gcd
 greenths
 garbled
@@ -8730,6 +8729,7 @@ gnostically
 golosh
 girosols
 greenrooms
+gunyah
 glossectomy
 globalism
 gynoecia
