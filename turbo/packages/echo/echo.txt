@@ -3976,6 +3976,7 @@ epiparodos
 egalite
 extramodal
 empatron
+epithecicia
 extemporizes
 etrurian
 empyema
@@ -10702,7 +10703,6 @@ etiquet
 excusable
 eugonic
 eggheaded
-epithecicia
 embrangled
 eugubine
 entoderm
