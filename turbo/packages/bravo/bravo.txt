@@ -3093,7 +3093,6 @@ breather
 blastplate
 bating
 badminton
-barware
 boneblack
 barksome
 basale
@@ -10347,6 +10346,7 @@ brawlingly
 besnows
 biggest
 boskets
+barware
 bramantip
 bagdi
 bootholder
