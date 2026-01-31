@@ -6318,6 +6318,7 @@ agraphia
 anuran
 agraphic
 arcato
+aglycons
 aratory
 acrocyanosis
 aylet
@@ -11356,7 +11357,6 @@ apriori
 amphitene
 amphitheatre
 arrivance
-aglycons
 anilin
 aniliid
 amphithecia
