@@ -3375,7 +3375,6 @@ equiparate
 egoist
 embargoes
 endocrinologist
-enc
 eavedropper
 embark
 epichorial
@@ -9272,6 +9271,7 @@ errable
 ejido
 errancies
 endospermous
+enc
 entrapments
 egressing
 electra
