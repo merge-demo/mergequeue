@@ -8390,6 +8390,7 @@ fuseboard
 fm
 filcher
 futhark
+fidded
 finagles
 fluoroscopes
 felidae
@@ -8992,7 +8993,6 @@ frotting
 fregatidae
 freelances
 fooder
-fidded
 fissiparity
 fluffed
 filmier
