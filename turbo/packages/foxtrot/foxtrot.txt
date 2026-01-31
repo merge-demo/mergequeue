@@ -6103,7 +6103,6 @@ flotson
 frightenedly
 fenster
 flounce
-floccilation
 flounced
 flounder
 frowardness
@@ -11270,6 +11269,7 @@ fireplaces
 flabel
 file
 farces
+floccilation
 frabjous
 fallaciously
 flatters
