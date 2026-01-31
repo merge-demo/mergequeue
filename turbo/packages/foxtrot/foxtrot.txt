@@ -3006,7 +3006,6 @@ fossiform
 faintheartedness
 forma
 fiars
-fiascos
 ferricyanogen
 ferrotype
 fortepiano
@@ -4439,6 +4438,7 @@ frenghi
 fraiser
 fei
 falsary
+fiascos
 fovent
 flogmaster
 fumishly
