@@ -491,7 +491,6 @@ glutoid
 galeorhinidae
 grouches
 garaged
-gridirons
 galericulate
 gadding
 gasifiers
@@ -3346,6 +3345,7 @@ gildhalls
 gonydial
 glanditerous
 gahnite
+gridirons
 globed
 gasogen
 gelatia
