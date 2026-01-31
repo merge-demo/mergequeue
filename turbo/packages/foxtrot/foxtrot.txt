@@ -4734,7 +4734,6 @@ fablemongering
 forestry
 flo
 fatten
-fertil
 furtherest
 fiddleneck
 freethinkers
@@ -7200,6 +7199,7 @@ frolicks
 flathe
 flaccid
 fiscalized
+fertil
 forwarders
 forfeits
 frizzlers
