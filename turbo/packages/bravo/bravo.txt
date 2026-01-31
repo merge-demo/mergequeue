@@ -2758,7 +2758,6 @@ benab
 bonneting
 bukeyef
 barology
-barolong
 boroughship
 barometers
 beefy
@@ -14702,6 +14701,7 @@ bestraught
 brasslike
 baignoire
 bagio
+barolong
 brat
 brutter
 bodywear
