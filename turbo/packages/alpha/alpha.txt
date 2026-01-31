@@ -9321,7 +9321,6 @@ abasements
 alongshore
 archbishops
 alemana
-alongshoreman
 autonetics
 alop
 axunge
@@ -23967,6 +23966,7 @@ antarchistic
 aubergistes
 anisopleurous
 allayer
+alongshoreman
 antidora
 anethole
 atheologically
