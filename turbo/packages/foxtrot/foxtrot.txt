@@ -9181,7 +9181,6 @@ forenames
 forbarred
 foreknown
 fontlet
-faceplate
 fucus
 fumously
 firebugs
@@ -10458,6 +10457,7 @@ forewarns
 fluffs
 formular
 fidged
+faceplate
 frostfish
 forcite
 frostbitten
