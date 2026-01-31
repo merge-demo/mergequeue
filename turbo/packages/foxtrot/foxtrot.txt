@@ -1368,7 +1368,6 @@ fanning
 fatigue
 fossicks
 fatiguesome
-fragmenting
 fishbones
 fulminuric
 fidate
@@ -2502,6 +2501,7 @@ flashforward
 fumarin
 fallout
 fastus
+fragmenting
 fingers
 flerry
 fudging
