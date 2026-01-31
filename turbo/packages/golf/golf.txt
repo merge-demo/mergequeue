@@ -5757,7 +5757,6 @@ gratia
 goldsmithery
 glockenspiel
 gallopade
-glossohyal
 gaultherase
 gobos
 grisoutine
@@ -9828,6 +9827,7 @@ glebous
 guesstimated
 guayaqui
 gawcie
+glossohyal
 goldbrick
 ghebeta
 guaymie
