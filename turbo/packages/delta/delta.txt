@@ -3090,7 +3090,6 @@ delightfully
 disagrees
 defaces
 disennoble
-defacing
 dunning
 defacto
 defade
@@ -8147,6 +8146,7 @@ decasualize
 detribalize
 disruptively
 deferrization
+defacing
 diachronic
 dipleurule
 daer
