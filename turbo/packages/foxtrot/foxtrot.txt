@@ -1088,7 +1088,6 @@ fam
 finkel
 fellatrixes
 fudgy
-fishling
 fastback
 flowing
 farrisite
@@ -8292,6 +8291,7 @@ foxglove
 ferrule
 fosterage
 faultiness
+fishling
 futilize
 freestyler
 fusspots
