@@ -4970,6 +4970,7 @@ enschedule
 exomphalous
 endemicity
 epichirema
+enantiopathic
 electrofused
 endemism
 eco
@@ -13744,7 +13745,6 @@ enterostomies
 editable
 encephalomeningitis
 extinctions
-enantiopathic
 euphorbia
 ententophil
 ectoenzym
