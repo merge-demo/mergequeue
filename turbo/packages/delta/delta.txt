@@ -8783,7 +8783,6 @@ defeat
 defrocking
 dictaphone
 dequeen
-dragsmen
 depeter
 dragonkind
 diestruses
@@ -14909,6 +14908,7 @@ dracontine
 dev
 dumbbells
 defendants
+dragsmen
 deridingly
 dispensible
 dodgily
