@@ -5751,7 +5751,6 @@ gyrolite
 gurus
 geologize
 gratia
-gammons
 goldsmithery
 glockenspiel
 gallopade
@@ -10585,6 +10584,7 @@ gymnogene
 gastritis
 geologic
 gelds
+gammons
 gens
 greaser
 grandisonian

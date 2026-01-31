@@ -8362,6 +8362,7 @@ blackcoat
 bias
 bikkurim
 biosynthetically
+brickyard
 balkier
 biogenous
 blackwood
@@ -15238,7 +15239,6 @@ bushiness
 brickhood
 buddhists
 basifier
-brickyard
 bricking
 brickish
 brickkiln
