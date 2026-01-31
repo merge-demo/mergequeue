@@ -977,7 +977,6 @@ fleshhood
 famelic
 friarbird
 fares
-feats
 faretta
 financialist
 forethinking
@@ -3916,6 +3915,7 @@ fumigators
 fusinist
 fluoridated
 fullage
+feats
 ferrogoslarite
 frostproof
 frolicsomely
