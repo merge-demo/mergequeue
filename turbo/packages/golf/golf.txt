@@ -2212,7 +2212,6 @@ geoidal
 garmented
 gestational
 gooseskin
-goaves
 gemwork
 gastrolith
 gamester
@@ -9493,6 +9492,7 @@ gnosiological
 gammoner
 gynophoric
 grandrelle
+goaves
 gravitations
 grouper
 garnisheing
