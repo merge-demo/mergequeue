@@ -4486,7 +4486,6 @@ bluenose
 bedead
 becross
 bureaucratism
-becrowd
 becrowded
 burstwort
 billeting
@@ -17883,6 +17882,7 @@ begowk
 bacilluria
 bairnishness
 beholders
+becrowd
 bolides
 bepaints
 burrers
