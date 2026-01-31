@@ -1768,7 +1768,6 @@ feldspathoidal
 forehent
 fashioning
 fusels
-foraminiferan
 fusobacterium
 fireworms
 fedn
@@ -2933,6 +2932,7 @@ furloughs
 fungological
 froths
 fevered
+foraminiferan
 flitchen
 franklinian
 feveret
