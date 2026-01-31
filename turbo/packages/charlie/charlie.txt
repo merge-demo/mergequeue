@@ -14702,6 +14702,7 @@ cenanthy
 citer
 citers
 consorted
+communicatee
 cites
 citess
 citharas
@@ -25814,7 +25815,6 @@ chemopause
 corroded
 corrodibility
 centimeters
-communicatee
 corrodier
 corrodies
 comestibles
