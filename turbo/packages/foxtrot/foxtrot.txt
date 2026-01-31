@@ -250,7 +250,6 @@ founder
 feoffeeship
 foetors
 faders
-firedamp
 fadge
 furfuramide
 flaxlike
@@ -10935,6 +10934,7 @@ field
 fetal
 floorage
 francs
+firedamp
 fulminurate
 fulness
 fess
