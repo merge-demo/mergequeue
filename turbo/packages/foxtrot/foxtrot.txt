@@ -2488,6 +2488,7 @@ funs
 fernshaw
 fordo
 forehatch
+flambeau
 feck
 flavic
 freightage
@@ -4901,7 +4902,6 @@ fino
 fourscore
 flakiest
 forged
-flambeau
 foamier
 fixate
 fossilist
