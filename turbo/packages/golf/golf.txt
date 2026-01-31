@@ -8215,7 +8215,6 @@ gracilaria
 glutethimide
 gravid
 gladlier
-gigabit
 gujar
 glycerolyses
 gelatinise
@@ -8803,6 +8802,7 @@ golems
 greenswarded
 greenware
 giveth
+gigabit
 greenwoods
 geophilus
 gekko
