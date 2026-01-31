@@ -760,7 +760,6 @@ coordinators
 consonantising
 caggy
 conjurors
-cagy
 cagier
 cecil
 collybist
@@ -9311,6 +9310,7 @@ catagmatic
 chaukidari
 castrate
 chullo
+cagy
 chaulmaugra
 chaulmoogra
 choralist
