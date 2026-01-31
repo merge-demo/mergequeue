@@ -17993,7 +17993,6 @@ charioteers
 comet
 claymores
 coeloma
-coelomata
 companies
 conservatrix
 coelomatous
@@ -19108,6 +19107,7 @@ cercopod
 cocainise
 collins
 collinses
+coelomata
 circumterraneous
 cristate
 chaptrel
