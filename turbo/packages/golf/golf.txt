@@ -1159,7 +1159,6 @@ gastrogastrotomy
 genin
 genio
 gnawings
-gowl
 galactometry
 gnetums
 guffin
@@ -7344,6 +7343,7 @@ gildship
 greyflies
 glumpiness
 guildhall
+gowl
 gosports
 grainless
 gossamered
