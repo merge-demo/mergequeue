@@ -9113,7 +9113,6 @@ charterhouse
 chartering
 charterism
 charterless
-chartermaster
 charters
 cryptograms
 cindered
@@ -17049,6 +17048,7 @@ coacervate
 censuring
 coachbuilder
 chosen
+chartermaster
 coimplicant
 catechetically
 confervalike
