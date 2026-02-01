@@ -2636,7 +2636,6 @@ behn
 barkhan
 batman
 blastoderm
-balistarii
 belostoma
 bumpkinly
 broncs
@@ -2996,6 +2995,7 @@ brattishing
 broadcasters
 byerlite
 barrios
+balistarii
 bumkin
 boulevard
 barrister
