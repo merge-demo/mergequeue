@@ -6895,6 +6895,7 @@ evaporable
 embelif
 eucalyn
 epiblema
+emphasis
 epitrchelia
 exudation
 errorless
@@ -9937,7 +9938,6 @@ embolisms
 estovers
 estradiol
 electrothermics
-emphasis
 epicentrum
 equicellular
 estrayed
