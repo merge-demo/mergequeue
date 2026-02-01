@@ -781,6 +781,7 @@ glossolalist
 gluck
 gutturize
 galvanothermometer
+glint
 ggr
 goldfinch
 galliformes
@@ -4502,7 +4503,6 @@ girlie
 grantiidae
 grammontine
 gastrostaxis
-glint
 ginning
 garvance
 giraffe
