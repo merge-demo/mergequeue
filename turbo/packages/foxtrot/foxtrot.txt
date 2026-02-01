@@ -3547,7 +3547,6 @@ forboding
 fairylands
 fulgence
 filched
-fellowmen
 frenchism
 fogie
 flamboyance
@@ -7068,6 +7067,7 @@ fabulousness
 foolhardiship
 foredeck
 flapperdom
+fellowmen
 fractioning
 fraken
 fledge
