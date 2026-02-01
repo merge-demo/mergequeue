@@ -16846,6 +16846,7 @@ buffable
 bahamas
 buffalo
 buffalofish
+begets
 burglarised
 bonnyvis
 buffaloing
@@ -18162,7 +18163,6 @@ byzant
 butyryls
 boldfacedly
 besonnet
-begets
 bosses
 biogenase
 butyrometer
