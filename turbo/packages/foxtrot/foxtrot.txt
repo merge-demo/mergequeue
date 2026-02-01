@@ -984,6 +984,7 @@ faretta
 financialist
 forethinking
 foresaid
+flywheel
 foldable
 fervid
 fishing
@@ -4138,7 +4139,6 @@ falsehoods
 fornenst
 faff
 fontanel
-flywheel
 fersmite
 frillings
 fratriage
