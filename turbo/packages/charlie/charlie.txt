@@ -3427,7 +3427,6 @@ capricornid
 conditotoria
 centon
 cedarware
-caprificate
 canyon
 caprifig
 caprifole
@@ -16636,6 +16635,7 @@ clewed
 clos
 clodknocker
 curiologic
+caprificate
 closable
 closeable
 closecross
