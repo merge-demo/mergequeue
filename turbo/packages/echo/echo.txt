@@ -3067,7 +3067,6 @@ escar
 et
 embeds
 emp
-encyclical
 educationable
 ergatocracy
 expropriates
@@ -4520,6 +4519,7 @@ ecclesiastic
 ejectamenta
 elevatedness
 externize
+encyclical
 enureses
 emplaned
 embarkation
