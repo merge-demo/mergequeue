@@ -5107,7 +5107,6 @@ guilders
 gravery
 glassmaking
 gunfought
-glyc
 gud
 galactophygous
 gallberries
@@ -6726,6 +6725,7 @@ gonion
 guid
 gonid
 gabeler
+glyc
 gluttonies
 galibi
 gynaecologic
