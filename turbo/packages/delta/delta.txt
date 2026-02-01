@@ -6312,6 +6312,7 @@ dermatoneural
 dextrogyration
 deject
 debit
+defibrillate
 disseminating
 depressions
 decametre
@@ -15459,7 +15460,6 @@ danker
 donaciform
 donack
 dowsed
-defibrillate
 deduit
 dogless
 donat

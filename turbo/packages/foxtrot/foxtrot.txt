@@ -3274,7 +3274,6 @@ fluidrams
 fieldpieces
 feudovassalism
 fremt
-forefeet
 fungilliform
 furfuryl
 filopodium
@@ -10661,6 +10660,7 @@ files
 flirtiest
 famish
 frightable
+forefeet
 facultied
 fibular
 feverfews
