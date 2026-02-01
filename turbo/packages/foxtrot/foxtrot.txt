@@ -5528,6 +5528,7 @@ fieri
 fervours
 finnan
 fletchers
+fabrics
 furrower
 furnit
 faked
@@ -9733,7 +9734,6 @@ friends
 fraicheur
 folklorists
 frenzy
-fabrics
 figurability
 factored
 frequenters
