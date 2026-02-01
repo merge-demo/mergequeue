@@ -96,7 +96,6 @@ goop
 gluey
 guidelines
 groupoid
-gallops
 grutten
 gadabouts
 gualaca
@@ -10355,6 +10354,7 @@ grouseberry
 gelate
 garretmaster
 gynic
+gallops
 gonidiospore
 gastrothecal
 gnashing
