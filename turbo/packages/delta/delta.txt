@@ -3235,7 +3235,6 @@ defend
 dikast
 dolmenic
 demimondaine
-dissentient
 distrainor
 defendant
 dir
@@ -14403,6 +14402,7 @@ dispireme
 divergement
 distensible
 divergent
+dissentient
 dishpans
 decrials
 diverse
