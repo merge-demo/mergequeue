@@ -1900,7 +1900,6 @@ faradizing
 frs
 fraidycat
 flybrush
-fishable
 fingerflower
 fontanelle
 fustilarian
@@ -9236,6 +9235,7 @@ fertilities
 fack
 fraises
 fausant
+fishable
 fretwise
 fascinery
 frontispieced
