@@ -2567,7 +2567,6 @@ gaiterless
 giveaways
 generalized
 graywall
-guv
 gabbards
 gristy
 gangliasthenia
@@ -8516,6 +8515,7 @@ groupers
 gayal
 grata
 galleon
+guv
 geomorphological
 geotectonically
 guardian
