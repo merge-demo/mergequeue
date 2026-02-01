@@ -8022,7 +8022,6 @@ booklift
 bartend
 bagroom
 bicornuate
-bicornute
 beshadow
 bicorporate
 banyai
@@ -9642,6 +9641,7 @@ bisymmetrical
 borate
 bisync
 boolies
+bicornute
 bisischiatic
 bauera
 bowings
