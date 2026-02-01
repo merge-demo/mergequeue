@@ -3955,7 +3955,6 @@ autotyphization
 acanthine
 absinthes
 adjust
-animalculum
 abdal
 aht
 astre
@@ -9199,6 +9198,7 @@ almerian
 ardeae
 apostle
 aerarian
+animalculum
 abranchiate
 alpigene
 almice
