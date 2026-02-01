@@ -4539,6 +4539,7 @@ ee
 epidiorthosis
 escuela
 enodation
+electrons
 excoction
 eleazar
 enchancement
@@ -7177,7 +7178,6 @@ emforth
 eryopsid
 exuviability
 ethal
-electrons
 ecumenic
 elvishly
 enneasyllabic
