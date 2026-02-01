@@ -2372,7 +2372,6 @@ ethnotechnics
 epicaridan
 ectogenetic
 energist
-electrodeposition
 ebriosity
 epitrochlea
 electrodes
@@ -12980,6 +12979,7 @@ evicke
 exposals
 emotion
 entice
+electrodeposition
 expectorant
 espiglerie
 expectorated
