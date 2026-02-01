@@ -1272,7 +1272,6 @@ galliardly
 griffes
 guenon
 grimaces
-gaia
 glenwood
 ghostless
 granage
@@ -10778,6 +10777,7 @@ glamourie
 geranyl
 glycyl
 gutt
+gaia
 gerenuk
 gunnels
 ghole
