@@ -4915,6 +4915,7 @@ carses
 cogitable
 carsick
 carsickness
+chromolithograph
 caviteno
 ceilinged
 carrottop
@@ -24568,7 +24569,6 @@ colonialist
 calorizes
 copenetrate
 copenhagen
-chromolithograph
 cyzicene
 coplaintiff
 coper
