@@ -12089,7 +12089,6 @@ dp
 deutoscolex
 deescalates
 dorbie
-doand
 delusion
 dognaps
 dysesthesia
@@ -14866,6 +14865,7 @@ dolorifuge
 dependencies
 depurging
 deglute
+doand
 dodder
 differingly
 dormancy
