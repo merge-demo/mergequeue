@@ -3719,6 +3719,7 @@ battlesome
 brigantes
 battlestead
 battlewagon
+bobbers
 bronchiectasis
 becalms
 bovver
@@ -11680,7 +11681,6 @@ bobbejaan
 bungstarter
 bucket
 bayogoula
-bobbers
 bartlett
 bobby
 burlily
