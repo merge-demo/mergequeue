@@ -523,6 +523,7 @@ guaranteers
 gigsman
 gravemaster
 gives
+guser
 geoffroyine
 gyrowheel
 gluten
@@ -2855,7 +2856,6 @@ gaberdine
 guildship
 gratifier
 griding
-guser
 glanduliform
 glossiphonidae
 gustfulness
