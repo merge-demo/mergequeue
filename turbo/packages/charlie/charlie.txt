@@ -7588,6 +7588,7 @@ cerebrize
 cerebrocardiac
 chairman
 cerebroganglionic
+cyananthrol
 cerebroid
 cirrhosed
 cerebromeningitis
@@ -22726,7 +22727,6 @@ conopophagidae
 conglobate
 circar
 conorhinus
-cyananthrol
 childbear
 conoscenti
 conjecture
