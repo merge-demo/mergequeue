@@ -2543,7 +2543,6 @@ aconelline
 assentatory
 aconine
 afdecho
-aconital
 aconite
 aconitine
 abolitionism
@@ -4091,6 +4090,7 @@ admittance
 admitted
 agitpunkt
 ardoise
+aconital
 ampliation
 aedoeagi
 alcoholically
