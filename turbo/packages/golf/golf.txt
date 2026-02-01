@@ -6124,7 +6124,6 @@ gravities
 goodby
 gordiacean
 girja
-gardinol
 gallimaufry
 gyrous
 glabreity
@@ -6869,6 +6868,7 @@ gauntlets
 glucoprotein
 geaster
 glidewort
+gardinol
 galeas
 genitival
 geed
