@@ -2089,7 +2089,6 @@ campaniliform
 chicayote
 campanini
 casseroled
-campanistic
 cuecas
 campanologer
 crucis
@@ -27609,6 +27608,7 @@ caterwauled
 covillager
 covine
 clinquant
+campanistic
 censes
 coving
 carapus
