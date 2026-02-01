@@ -9755,6 +9755,7 @@ collisions
 conjunctiva
 chelicer
 cysts
+chakazi
 chelide
 csardas
 cowheart
@@ -13876,7 +13877,6 @@ carpus
 cinnamons
 cinnolin
 cynocephalous
-chakazi
 cheerer
 chalicotherioid
 cynoclept
