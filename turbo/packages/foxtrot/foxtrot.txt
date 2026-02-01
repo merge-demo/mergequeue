@@ -8583,6 +8583,7 @@ floodmark
 farmplace
 forrard
 flammigerous
+forswore
 funje
 familiarism
 flatworks
@@ -10332,7 +10333,6 @@ fraising
 fezziwig
 formicaries
 fibreware
-forswore
 formicide
 flatmate
 footgeld
