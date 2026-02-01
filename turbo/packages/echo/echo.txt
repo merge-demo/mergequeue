@@ -8390,6 +8390,7 @@ everylike
 epitomized
 epitomizes
 exhalable
+elytron
 electrohydraulically
 echiurus
 exterminates
@@ -12168,7 +12169,6 @@ electric
 exostome
 embergoose
 excuser
-elytron
 endpoint
 exposure
 econometrical
