@@ -1960,7 +1960,6 @@ gaunch
 gangers
 gruelly
 gledes
-gypsite
 genealogically
 greywacke
 glairs
@@ -4763,6 +4762,7 @@ gasometer
 gomarian
 gotraja
 globulite
+gypsite
 gamboised
 groundwork
 grouseless
