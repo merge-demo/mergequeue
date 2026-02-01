@@ -7792,7 +7792,6 @@ brooklyn
 bazaars
 bicephalous
 bogman
-biface
 bark
 bronzy
 bibble
@@ -13286,6 +13285,7 @@ birdmen
 blennies
 botanic
 baltei
+biface
 bobbery
 backlet
 botanica
