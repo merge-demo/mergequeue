@@ -11450,7 +11450,6 @@ bullhoof
 boychik
 bejade
 bulbul
-bluetongue
 bedmates
 bluetop
 berths
@@ -17530,6 +17529,7 @@ backwardly
 bides
 bibliotherapies
 bee
+bluetongue
 bobadilish
 bundlet
 braggat
