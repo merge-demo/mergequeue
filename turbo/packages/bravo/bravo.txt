@@ -606,6 +606,7 @@ billmen
 benzobis
 beclothed
 bedrabble
+bedizen
 bacteremic
 bacteriaceae
 bacteriaemia
@@ -4697,7 +4698,6 @@ bedims
 basiophitic
 birdbrain
 brownier
-bedizen
 boubas
 beekmantown
 bandpass
