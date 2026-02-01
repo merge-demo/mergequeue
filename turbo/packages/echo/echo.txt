@@ -6304,6 +6304,7 @@ equijacent
 embowed
 enrut
 explainability
+experimentalize
 euclidean
 ens
 elastica
@@ -9874,7 +9875,6 @@ enclothe
 expletiveness
 eupepsy
 erostrate
-experimentalize
 epeeists
 ependymoma
 enweaving
