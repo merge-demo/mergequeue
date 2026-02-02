@@ -3573,7 +3573,6 @@ broodsac
 bereaven
 basion
 bathmism
-bedstands
 banker
 befathered
 bathoflore
@@ -11723,6 +11722,7 @@ bobierrite
 bobjerom
 bioelectricity
 boorish
+bedstands
 backpacker
 behung
 buzzword
