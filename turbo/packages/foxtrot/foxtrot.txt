@@ -1553,7 +1553,6 @@ flowcontrol
 fishbowl
 fauvism
 funk
-footnotes
 fuselage
 freeloving
 fauvisms
@@ -4496,6 +4495,7 @@ fluffier
 fountainwise
 frangulin
 fluctuant
+footnotes
 ferrotitanium
 faddy
 flatting
