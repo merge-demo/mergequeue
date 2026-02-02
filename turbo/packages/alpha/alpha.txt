@@ -5525,7 +5525,6 @@ aftercrop
 acanthodian
 affrontment
 afterdays
-antifoam
 amadou
 agronomies
 afterdeal
@@ -10855,6 +10854,7 @@ abatements
 activizing
 assized
 aits
+antifoam
 apprised
 affricates
 anack
