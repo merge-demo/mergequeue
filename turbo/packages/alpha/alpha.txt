@@ -10738,7 +10738,6 @@ anthrachrysone
 antichrome
 aminobenzoic
 appetency
-aminoglutaric
 aminoid
 agrement
 aminoketone
@@ -13425,6 +13424,7 @@ alamiqui
 acridest
 ankyloses
 accoll
+aminoglutaric
 antihumbuggist
 archmarshal
 assafetida
