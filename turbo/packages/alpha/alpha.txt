@@ -2728,7 +2728,6 @@ acrindoline
 allamonti
 asteriae
 arak
-anabasin
 acritan
 acrite
 asthenobiosis
@@ -4309,6 +4308,7 @@ adrenocortical
 adrenosterone
 adrenocorticotrophic
 ammonolysis
+anabasin
 afterstain
 albuminosis
 adrenocorticotropic
