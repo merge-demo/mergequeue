@@ -6215,7 +6215,6 @@ floccules
 focusable
 fascinative
 formwork
-foundationary
 ferrimagnetic
 ferryway
 folden
@@ -6291,6 +6290,7 @@ ferryhouse
 fratcher
 falerian
 flumes
+foundationary
 fluminous
 freak
 fluxibility
