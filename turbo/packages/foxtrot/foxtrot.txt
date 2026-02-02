@@ -10119,6 +10119,7 @@ fumarium
 frivolling
 feasibility
 falchions
+furore
 finalize
 fluid
 frivolousness
@@ -10881,7 +10882,6 @@ feston
 fango
 freestone
 flayer
-furore
 fullish
 foeman
 frigorifico
