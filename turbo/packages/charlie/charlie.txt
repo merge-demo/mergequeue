@@ -2806,7 +2806,6 @@ chedreux
 commelinaceae
 crispening
 cannulae
-cannulate
 circumscribe
 carajura
 cursitor
@@ -14071,6 +14070,7 @@ conservancies
 corticoid
 circlets
 circulated
+cannulate
 cochleas
 cellulosities
 circocele
