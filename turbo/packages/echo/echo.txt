@@ -4925,6 +4925,7 @@ ecliptics
 estrada
 eucaine
 emulatress
+eversion
 endeavour
 endamaging
 estreated
@@ -11135,7 +11136,6 @@ enjambments
 encomy
 evacuant
 eighteenmos
-eversion
 episome
 extipulate
 experiencing
