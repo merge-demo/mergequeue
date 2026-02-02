@@ -1106,7 +1106,6 @@ farruca
 farseer
 frenchwoman
 frondescence
-foughten
 farsighted
 fulvid
 fleabites
@@ -6466,6 +6465,7 @@ flatboat
 fording
 fetishists
 frosted
+foughten
 flourlike
 fortes
 fluoroscoped
