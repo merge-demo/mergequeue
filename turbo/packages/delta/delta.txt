@@ -4457,6 +4457,7 @@ demetricize
 draughtmanship
 deceits
 diceplay
+dpt
 duress
 demy
 decahydrated
@@ -4769,7 +4770,6 @@ disbudding
 darwin
 dangs
 devoirs
-dpt
 dilated
 detours
 dismisser
