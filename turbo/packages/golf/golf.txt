@@ -951,6 +951,7 @@ gammerel
 gammerstang
 garboils
 gastropneumatic
+grippes
 gannets
 groundplot
 gammock
@@ -8404,7 +8405,6 @@ gaucherie
 gawby
 grebe
 gizzards
-grippes
 genuflectory
 giantry
 gunplay
