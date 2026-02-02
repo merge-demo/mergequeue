@@ -1134,6 +1134,7 @@ fractional
 frothi
 fibrillary
 filiates
+forint
 farthings
 forlornness
 fubs
@@ -11624,7 +11625,6 @@ fermata
 fustics
 feinschmecker
 fussbudget
-forint
 facsimile
 fortissimi
 farci
