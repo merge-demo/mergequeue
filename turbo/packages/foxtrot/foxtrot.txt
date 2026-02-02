@@ -7053,7 +7053,6 @@ fatalities
 foreknow
 flowk
 fosie
-feebleminded
 frase
 flacked
 felones
@@ -9174,6 +9173,7 @@ fanaloka
 fruiterer
 fasciotomy
 finitudes
+feebleminded
 floaters
 fascinations
 foveoles
