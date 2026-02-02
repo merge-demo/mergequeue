@@ -1562,7 +1562,6 @@ driftbolt
 drail
 deadlier
 deaden
-droops
 docked
 diadelphian
 drippings
@@ -14431,6 +14430,7 @@ depreciatory
 demeter
 diversory
 disfiguringly
+droops
 dimethylamine
 dioptrometer
 dasyphyllous
