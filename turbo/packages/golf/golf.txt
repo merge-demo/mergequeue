@@ -2401,7 +2401,6 @@ gemma
 gardeners
 gemmating
 gushier
-gemmer
 gumphion
 grow
 gimbri
@@ -7537,6 +7536,7 @@ gemstones
 giggling
 gloomfully
 glitch
+gemmer
 guessable
 gat
 gambeson
