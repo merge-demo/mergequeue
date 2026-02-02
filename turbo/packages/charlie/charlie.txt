@@ -13136,7 +13136,6 @@ crossbreeds
 ciceronian
 chiaroscuro
 clon
-ciceronianisms
 ciceronianist
 compellability
 colluviums
@@ -31451,6 +31450,7 @@ clearminded
 centavo
 currajong
 currans
+ciceronianisms
 currant
 completions
 chresards
