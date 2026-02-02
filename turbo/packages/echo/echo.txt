@@ -2344,7 +2344,6 @@ estafetted
 entendres
 electroplating
 expostulate
-electroplates
 ecumenical
 emulsifying
 esterizing
@@ -11569,6 +11568,7 @@ enlighten
 extensiveness
 evolutionism
 epizeuxis
+electroplates
 evolutionistic
 endotheloid
 euaster
