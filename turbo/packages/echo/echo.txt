@@ -2852,7 +2852,6 @@ estuarian
 elytriferous
 enterotoxin
 ectosteally
-expt
 endomorphic
 elder
 epitympa
@@ -12148,6 +12147,7 @@ excurvated
 emaciate
 extrados
 emphysematous
+expt
 esclavage
 energise
 elasticin
