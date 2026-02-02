@@ -1059,7 +1059,6 @@ boyaus
 basanite
 breenge
 bersil
-boroughmaster
 bailiwick
 bridler
 benzothiopyran
@@ -7897,6 +7896,7 @@ bibliopolist
 befall
 bibliosoph
 bibliothecarian
+boroughmaster
 bungalows
 batoka
 butic
