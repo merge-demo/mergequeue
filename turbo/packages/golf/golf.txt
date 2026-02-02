@@ -1263,7 +1263,6 @@ grassman
 garbill
 guyline
 ganomalite
-garbler
 gradings
 golliwogg
 greasers
@@ -10703,6 +10702,7 @@ grabs
 guaiacolize
 gurshes
 gibbus
+garbler
 gobbler
 gonadectomies
 gyascutus
