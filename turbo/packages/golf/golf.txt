@@ -2220,6 +2220,7 @@ geoidal
 garmented
 gestational
 gooseskin
+goosehouse
 gemwork
 gastrolith
 gamester
@@ -2818,7 +2819,6 @@ gybing
 geode
 grenadines
 gallinule
-goosehouse
 genuflection
 gallates
 galactophlysis
