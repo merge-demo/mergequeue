@@ -774,6 +774,7 @@ glome
 galvanotherapy
 goods
 geomorphic
+gathers
 gemologies
 galvanotropism
 globulolysis
@@ -2803,7 +2804,6 @@ gershon
 guzzledom
 gyges
 glovelike
-gathers
 gazettal
 grigris
 gormless
