@@ -10463,7 +10463,6 @@ chelophore
 child
 childbearing
 circumspatial
-cerebrometer
 childcrowing
 childed
 contaminations
@@ -12878,6 +12877,7 @@ claviol
 copelata
 churred
 churrigueresco
+cerebrometer
 churring
 churrip
 churro
