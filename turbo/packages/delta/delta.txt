@@ -384,7 +384,6 @@ daimiote
 defension
 deployable
 didunculus
-disembargoing
 dimmet
 daimons
 ditches
@@ -11354,6 +11353,7 @@ disunifying
 dispensating
 dissociably
 discoherent
+disembargoing
 decays
 disciform
 diplopods
