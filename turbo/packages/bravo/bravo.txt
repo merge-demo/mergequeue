@@ -1735,6 +1735,7 @@ brachypyramid
 broon
 byline
 bambino
+becluster
 boutonniere
 belorussian
 baronial
@@ -13946,7 +13947,6 @@ bethels
 bumbershoot
 blitzes
 bibulosity
-becluster
 boxing
 boxmaker
 boxman
