@@ -9860,7 +9860,6 @@ bytownitite
 babysat
 beleave
 bitser
-bitsy
 birled
 bestialist
 brotherly
@@ -10707,6 +10706,7 @@ balian
 buchite
 bandfish
 baldfaced
+bitsy
 bogijiab
 batrachium
 brachistocephali
