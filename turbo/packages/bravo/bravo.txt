@@ -2671,7 +2671,6 @@ broadener
 barleycorn
 bournonite
 bilge
-bimensal
 bellying
 bable
 bribeable
@@ -14666,6 +14665,7 @@ bibliomancy
 balustrade
 balletically
 bogle
+bimensal
 bathic
 broilingly
 buffets
