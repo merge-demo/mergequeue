@@ -974,7 +974,6 @@ fardage
 foyers
 forride
 fictionization
-fardel
 foxhound
 fusion
 fardelet
@@ -6964,6 +6963,7 @@ flay
 fetishization
 fissicostate
 formylation
+fardel
 franks
 fussiness
 fortuity
