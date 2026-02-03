@@ -3367,7 +3367,6 @@ foulnesses
 fieldleft
 ferrean
 freewomen
-fanioned
 folily
 feeless
 foreyards
@@ -7329,6 +7328,7 @@ feathered
 focimeter
 filchers
 fiddleheaded
+fanioned
 flickered
 forechamber
 foraminiferal
