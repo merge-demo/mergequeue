@@ -20459,7 +20459,6 @@ antitypes
 acceptableness
 appeared
 adaptively
-anaglyphoscope
 argylls
 autosymnoia
 alme
@@ -22662,6 +22661,7 @@ allow
 abraham
 atheizer
 audiencier
+anaglyphoscope
 airthed
 adenostoma
 athel
