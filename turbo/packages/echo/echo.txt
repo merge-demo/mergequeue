@@ -3334,7 +3334,6 @@ embays
 exhalent
 evangelistic
 ethylenediamine
-emballonuridae
 eulachons
 essentialities
 equus
@@ -9514,6 +9513,7 @@ escript
 excerpta
 escritoire
 eleutherarch
+emballonuridae
 exorcisers
 electromotivity
 eruptives
