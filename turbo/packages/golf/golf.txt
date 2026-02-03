@@ -8672,7 +8672,6 @@ gests
 grizzliness
 groynes
 gapeseed
-greatness
 greave
 gapers
 gavelet
@@ -8891,6 +8890,7 @@ gowkit
 gynaecomastia
 gutterling
 great
+greatness
 giantisms
 gateless
 glassblowing
