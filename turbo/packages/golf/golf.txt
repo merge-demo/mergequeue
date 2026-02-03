@@ -1896,7 +1896,6 @@ gatteridge
 gammaridae
 guayabo
 gaucho
-geniohyoid
 generalists
 gerbillus
 germaniums
@@ -8976,6 +8975,7 @@ gironny
 gall
 genteel
 getae
+geniohyoid
 grizzlyman
 greenth
 groutiest
