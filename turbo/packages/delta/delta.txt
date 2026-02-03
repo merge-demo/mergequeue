@@ -13522,6 +13522,7 @@ dissavs
 drumbeater
 dissceptered
 dislike
+dogie
 dissceptre
 deceivance
 denaturized
@@ -15064,7 +15065,6 @@ dungeons
 doghead
 doghood
 doghouse
-dogie
 doglegs
 deboshed
 doglike
