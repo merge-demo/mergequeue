@@ -6384,7 +6384,6 @@ elaboration
 enrobed
 epist
 enunciator
-elapid
 ensemble
 engastrimyth
 engrained
@@ -11639,6 +11638,7 @@ elaterite
 epileptogenic
 elephanticide
 exacter
+elapid
 equianchorate
 euptelea
 elocutionary
