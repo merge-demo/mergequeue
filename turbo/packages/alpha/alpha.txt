@@ -16867,7 +16867,6 @@ anaerobe
 apiaca
 ambushlike
 apiaceae
-apiarian
 apiarians
 apiarists
 adolescently
@@ -24514,6 +24513,7 @@ autoxidizable
 autoxidize
 accloy
 antepenultimate
+apiarian
 administrated
 antihelices
 amparo
