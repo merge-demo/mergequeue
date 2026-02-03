@@ -4291,7 +4291,6 @@ goon
 gantleting
 gramophones
 gnabble
-geotectonics
 garnishing
 guncotton
 gantang
@@ -6667,6 +6666,7 @@ ganda
 grumped
 gladsome
 galactolysis
+geotectonics
 gonidangium
 guttula
 graver
