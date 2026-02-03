@@ -451,7 +451,6 @@ daysides
 deprevation
 daysmen
 dayspring
-disthrall
 daswen
 disdainful
 daytimes
@@ -713,6 +712,7 @@ deltaic
 dragshoe
 dagassa
 digitised
+disthrall
 domination
 dancalite
 duro

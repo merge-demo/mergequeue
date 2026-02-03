@@ -7348,6 +7348,7 @@ ferocious
 forestaff
 fluoridising
 formaldehydesulphoxylic
+flavors
 fairyfloss
 fridges
 forts
@@ -9058,7 +9059,6 @@ fizzled
 finochios
 frixion
 frolicsomeness
-flavors
 formably
 fehmic
 frication
