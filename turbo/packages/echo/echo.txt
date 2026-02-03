@@ -1124,7 +1124,6 @@ endere
 editorialization
 elsa
 ecphory
-expunction
 enclosed
 emblematising
 editorializers
@@ -13734,6 +13733,7 @@ esteemed
 educating
 elfhood
 euphemised
+expunction
 emblazoning
 extersive
 encatarrhaphy
