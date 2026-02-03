@@ -6985,7 +6985,6 @@ eager
 entreats
 entrec
 escalin
-exiting
 effecting
 eneugh
 excisor
@@ -7952,6 +7951,7 @@ epimanikion
 epimeres
 electrostenolysis
 enterolithiasis
+exiting
 evangels
 epitomate
 encephalonarcosis
