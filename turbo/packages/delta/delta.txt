@@ -810,6 +810,7 @@ danegelds
 deckhead
 daneweed
 daneweeds
+dozened
 detections
 dactyliomancy
 diabrotic
@@ -2865,7 +2866,6 @@ discretively
 disposure
 dangle
 disjointedness
-dozened
 doveling
 disgenius
 disparish

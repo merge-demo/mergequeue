@@ -2879,7 +2879,6 @@ foxship
 frisettes
 fantasize
 fogies
-formicarium
 frabjously
 frondage
 formats
@@ -4377,6 +4376,7 @@ forb
 furosemide
 focuser
 forfeitable
+formicarium
 frate
 fibroplastic
 flyte
