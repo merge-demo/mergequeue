@@ -534,7 +534,6 @@ damaged
 detort
 damageous
 deaccessions
-dictyonema
 dovyalis
 deliber
 dao
@@ -4781,6 +4780,7 @@ demihag
 dodecatylic
 deair
 daimiate
+dictyonema
 disseizor
 diagonalize
 dentalizing
