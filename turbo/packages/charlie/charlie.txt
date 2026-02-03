@@ -11832,7 +11832,6 @@ choristers
 calashes
 chorai
 choral
-choralcelo
 causeway
 chorale
 carmagnoles
@@ -23666,6 +23665,7 @@ contrabandage
 contrabandery
 causticiser
 contrabandista
+choralcelo
 carroccio
 constituted
 contrabassist
