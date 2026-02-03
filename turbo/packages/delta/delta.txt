@@ -7951,7 +7951,6 @@ diaplex
 dashers
 dextrad
 dextral
-directed
 dextran
 dextranase
 doublelunged
@@ -15669,6 +15668,7 @@ decrements
 doper
 disbarring
 dopier
+directed
 dogstone
 desi
 docile
