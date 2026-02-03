@@ -5558,7 +5558,6 @@ fol
 fural
 forestays
 favellae
-flexion
 foreclosable
 ferdiad
 fleecer
@@ -7362,6 +7361,7 @@ forbad
 faeces
 fat
 forbborne
+flexion
 freshen
 feudalism
 forby
