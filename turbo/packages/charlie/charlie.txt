@@ -16957,7 +16957,6 @@ clupeid
 cosignitary
 clupeids
 creatureliness
-classis
 cachalot
 caviar
 clupien
@@ -28659,6 +28658,7 @@ cremators
 coronule
 crembalum
 cutties
+classis
 cremes
 cremone
 cyclothymic
