@@ -1184,7 +1184,6 @@ entitule
 education
 edulcorating
 enscroll
-ensweep
 educational
 ethnocentrism
 extratracheal
@@ -13485,6 +13484,7 @@ exquire
 exsolution
 erbia
 epithalamium
+ensweep
 ethnomusicology
 enterparlance
 epidural
