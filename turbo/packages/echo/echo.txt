@@ -413,6 +413,7 @@ eulerian
 evangelist
 entrenching
 extruct
+electroextraction
 erythrinus
 espanol
 essera
@@ -2426,7 +2427,6 @@ encipher
 epoist
 enslavements
 exterminist
-electroextraction
 euchological
 effulgences
 exinanition
