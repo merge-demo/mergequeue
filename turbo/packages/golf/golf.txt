@@ -2701,7 +2701,6 @@ granule
 gemarist
 gigantocyte
 genioglossal
-gastroenterologists
 ganodont
 goodeniaceae
 geoteuthis
@@ -9377,6 +9376,7 @@ galenobismutite
 gobelin
 glaymore
 gorgonize
+gastroenterologists
 gelatinized
 glutamine
 geneserin
