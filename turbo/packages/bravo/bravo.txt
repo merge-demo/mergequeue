@@ -622,6 +622,7 @@ broomsticks
 bostangi
 bastiment
 bacteriodiagnosis
+boffins
 bromates
 benomyls
 bratstva
@@ -9678,7 +9679,6 @@ bisnaga
 bispinose
 bispinous
 bramah
-boffins
 boils
 bagani
 bathybian
