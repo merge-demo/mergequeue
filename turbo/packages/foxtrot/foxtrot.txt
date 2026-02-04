@@ -1460,6 +1460,7 @@ futhork
 fatuitous
 foothil
 familiarise
+feazes
 floorwalkers
 fringing
 fadmongering
@@ -4532,7 +4533,6 @@ forheed
 foreigner
 forslake
 flooded
-feazes
 frustum
 fountainhead
 fructify
