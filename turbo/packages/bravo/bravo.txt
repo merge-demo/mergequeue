@@ -670,7 +670,6 @@ beletter
 bronchocavernous
 bynames
 bungles
-bkpr
 backbitten
 boigid
 bacterized
@@ -16975,6 +16974,7 @@ bugwort
 banca
 baganda
 blackbeard
+bkpr
 benzalaniline
 borax
 burdensomely
