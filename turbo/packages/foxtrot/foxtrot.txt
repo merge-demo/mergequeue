@@ -3958,6 +3958,7 @@ foal
 funneling
 feedbacks
 finest
+flakeless
 finew
 fish
 fermentor
@@ -11253,7 +11254,6 @@ fucivorous
 funmaking
 flit
 falangism
-flakeless
 famble
 faciest
 featherwork
