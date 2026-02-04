@@ -8405,7 +8405,6 @@ cabirean
 chamfers
 calvaria
 carilloneur
-cradock
 conscientiously
 chamfron
 chamian
@@ -20623,6 +20622,7 @@ competitiveness
 competitor
 competitory
 conjugal
+cradock
 cascol
 competitors
 challengee
