@@ -12420,6 +12420,7 @@ amblyopic
 allumine
 atheroma
 armoniac
+auscultation
 amebiasis
 aortolith
 absistos
@@ -23752,7 +23753,6 @@ auscultates
 athrong
 auscultating
 apism
-auscultation
 amphicyrtic
 aerofoil
 anagnorises
