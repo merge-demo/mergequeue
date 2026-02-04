@@ -6824,6 +6824,7 @@ bigener
 buicks
 bioluminescent
 bescourge
+bellicosity
 buckeroos
 bust
 bescramble
@@ -13351,7 +13352,6 @@ bothie
 bardesanist
 baggers
 batons
-bellicosity
 bothnian
 bothnic
 batteled
