@@ -5540,6 +5540,7 @@ bekinkinite
 belgas
 bedframe
 basilican
+bowe
 bekissed
 bekisses
 boletes
@@ -13804,7 +13805,6 @@ babesias
 bleachery
 bucephalus
 bensall
-bowe
 basements
 bibcock
 bediapering
