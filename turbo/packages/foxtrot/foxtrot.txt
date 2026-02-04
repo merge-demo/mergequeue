@@ -11,6 +11,7 @@ funariaceae
 frail
 fabianist
 falconine
+flyability
 flagellators
 forcing
 fylker
@@ -11639,7 +11640,6 @@ frizzled
 fineness
 fructoses
 ferren
-flyability
 fustiness
 fustoc
 fussily
