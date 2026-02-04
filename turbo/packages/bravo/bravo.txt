@@ -12869,6 +12869,7 @@ besieges
 befanned
 bacchiac
 bangster
+butterfly
 bkpt
 burk
 barthian
@@ -17695,7 +17696,6 @@ burlesquer
 boviculture
 burlesquing
 burlet
-butterfly
 biotically
 blastema
 bidiurnal
