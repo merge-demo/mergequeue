@@ -9651,7 +9651,6 @@ enclosing
 emissaries
 espy
 espial
-electrocoagulation
 escrows
 espinal
 electrogalvanic
@@ -11614,6 +11613,7 @@ enfrenzy
 ethnocentricity
 empoison
 exclosure
+electrocoagulation
 emollition
 exacerbates
 empaneled
