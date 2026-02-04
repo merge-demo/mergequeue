@@ -8052,7 +8052,6 @@ calculus
 chaetura
 chafe
 concretion
-chafed
 chafery
 chiles
 cagayan
@@ -17621,6 +17620,7 @@ cumins
 cayennes
 culrage
 coccochromatic
+chafed
 coccogone
 coccogoneae
 concyclically
