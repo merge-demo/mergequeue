@@ -1313,6 +1313,7 @@ beltings
 binational
 balanta
 bescorn
+bisymmetry
 bottine
 balantidic
 balaos
@@ -9633,7 +9634,6 @@ breaches
 brabant
 becap
 bullish
-bisymmetry
 brandyman
 bushily
 bisymmetrical
