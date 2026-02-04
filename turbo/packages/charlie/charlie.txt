@@ -560,7 +560,6 @@ cadmia
 cadmic
 cateran
 convito
-cadmium
 crabsidle
 cadmiumize
 cadmiums
@@ -11686,6 +11685,7 @@ chondrarsenite
 cholesteric
 chondre
 chondrenchyma
+cadmium
 caramelin
 cocomats
 columbian
