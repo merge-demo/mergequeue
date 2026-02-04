@@ -4395,6 +4395,7 @@ fishbolts
 fulgurantly
 flechette
 funt
+foamier
 floorshifts
 flagged
 frenums
@@ -4910,7 +4911,6 @@ fino
 fourscore
 flakiest
 forged
-foamier
 fixate
 fossilist
 finisher

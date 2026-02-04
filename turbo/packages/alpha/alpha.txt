@@ -948,7 +948,6 @@ alive
 analcites
 absorptional
 aggregate
-arethusa
 actinopoda
 ataxonomic
 acidifies
@@ -24282,6 +24281,7 @@ aquifoliaceae
 axwort
 autonegation
 acclaimed
+arethusa
 autonomasy
 afeard
 airmen
