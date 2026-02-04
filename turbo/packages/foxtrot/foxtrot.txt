@@ -2360,7 +2360,6 @@ filmable
 flanneled
 fencelike
 flunked
-friarly
 funerary
 floorward
 favel
@@ -9210,6 +9209,7 @@ fusing
 fragments
 foresighted
 fishbed
+friarly
 foraneous
 facts
 frostfishes
