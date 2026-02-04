@@ -899,7 +899,6 @@ gametocyte
 gametogenic
 grabby
 gooseflesh
-gueparde
 geognost
 grassfire
 gobioid
@@ -1166,6 +1165,7 @@ genin
 genio
 gnawings
 geochronologist
+gueparde
 galactometry
 gnetums
 guffin

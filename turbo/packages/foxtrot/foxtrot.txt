@@ -3501,7 +3501,6 @@ fraternity
 fleches
 falcones
 fastigiate
-futtock
 fulgorid
 fusicladium
 filamentar
@@ -4386,6 +4385,7 @@ fourberie
 fantasmagorically
 flybook
 fixion
+futtock
 flecnodal
 fishboats
 fonduk
