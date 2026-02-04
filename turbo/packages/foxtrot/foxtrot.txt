@@ -7049,7 +7049,6 @@ floriparous
 francis
 floater
 fulfilment
-fimbriae
 functioning
 foodful
 fulfilled
@@ -8944,6 +8943,7 @@ felty
 fourier
 fanglet
 fourierism
+fimbriae
 feltings
 fourpence
 farcist
