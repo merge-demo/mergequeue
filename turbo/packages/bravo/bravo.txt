@@ -2140,7 +2140,6 @@ bidstand
 bantam
 bantamize
 bismar
-burette
 banteng
 beglerbegship
 barriers
@@ -13934,6 +13933,7 @@ bostonese
 bowsie
 bacteriuria
 boxful
+burette
 bleed
 brussels
 bullring
