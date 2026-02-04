@@ -6548,7 +6548,6 @@ ethnohistorian
 epipolism
 enteradenological
 extrathecal
-enteral
 ensuant
 enterectomy
 enterer
@@ -10601,6 +10600,7 @@ ergatandry
 electroendosmose
 excavationist
 electrotherapies
+enteral
 endorse
 eucritic
 eudaemon
