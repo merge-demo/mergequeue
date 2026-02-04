@@ -7593,7 +7593,6 @@ forestaller
 flacherie
 forjudgment
 fatimid
-foredoomer
 fgn
 fructuarius
 funiculus
@@ -10335,6 +10334,7 @@ foreordainments
 frontages
 feeder
 floorshow
+foredoomer
 filicoid
 fraising
 fezziwig
