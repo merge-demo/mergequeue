@@ -4132,6 +4132,7 @@ fusiladed
 fiorite
 flamberg
 foreseen
+firetower
 futuramic
 falsehoods
 fornenst
@@ -6823,7 +6824,6 @@ foretold
 fasces
 fructifier
 foliaged
-firetower
 fustigator
 fussify
 flipjack
