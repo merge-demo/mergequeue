@@ -1215,6 +1215,7 @@ disinvolve
 dextrans
 datary
 dataries
+defogs
 dendrium
 dorsomedial
 datasetname
@@ -4378,7 +4379,6 @@ disproportionation
 dioeciousness
 disclaimed
 dematerialized
-defogs
 dematerializing
 dematiaceae
 dimuence
