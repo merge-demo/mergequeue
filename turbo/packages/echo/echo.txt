@@ -3400,7 +3400,6 @@ embogue
 ennuyant
 ecalcavate
 errand
-esthesias
 enwombing
 exolete
 exemplar
@@ -8729,6 +8728,7 @@ equisignal
 erethitic
 epigaeous
 extradicting
+esthesias
 eriophyllous
 esculapian
 emulsifies
