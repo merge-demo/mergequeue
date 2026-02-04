@@ -6663,7 +6663,6 @@ bedull
 bayesian
 browsability
 bismuthine
-broomstaff
 blitter
 balaamitical
 beeishness
@@ -14041,6 +14040,7 @@ blindstory
 baitylos
 believed
 bedangled
+broomstaff
 brachyaxis
 brachycephali
 brachycephalism
