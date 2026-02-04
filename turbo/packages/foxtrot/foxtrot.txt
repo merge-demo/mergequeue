@@ -2383,7 +2383,6 @@ forgoes
 futures
 footganger
 fetial
-fortunetellers
 friendlier
 feriation
 flexors
@@ -4880,6 +4879,7 @@ fourteen
 fraughtage
 fady
 fixes
+fortunetellers
 firmhearted
 frondiferous
 fetching
