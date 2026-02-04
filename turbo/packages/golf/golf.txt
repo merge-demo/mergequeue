@@ -6381,7 +6381,6 @@ goldspink
 glimmered
 gunmetals
 granolithic
-grouty
 geotectology
 gossaniferous
 gog
@@ -7553,6 +7552,7 @@ gcd
 greenths
 garbled
 glycolic
+grouty
 gametal
 goldarns
 gravimeter
