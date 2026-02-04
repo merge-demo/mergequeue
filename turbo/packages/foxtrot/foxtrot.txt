@@ -2055,7 +2055,6 @@ facedown
 faucalize
 flindosa
 flatlander
-fogbows
 fascicule
 flaunting
 forfouchten
@@ -5874,6 +5873,7 @@ fates
 flexity
 feague
 fangas
+fogbows
 flinted
 ferrichloride
 furnishings
