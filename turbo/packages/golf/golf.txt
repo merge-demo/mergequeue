@@ -671,7 +671,6 @@ gregariousness
 gallows
 gonitis
 guilds
-giddify
 geoaesthesia
 gript
 giterne
@@ -4637,6 +4636,7 @@ gutium
 gyrodactylidae
 glucagons
 gobbledegook
+giddify
 gapa
 girthing
 gaudeamus
