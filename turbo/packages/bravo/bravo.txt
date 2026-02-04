@@ -3204,6 +3204,7 @@ basicity
 baloneys
 benzins
 balancers
+bulletproofed
 booklores
 bromids
 byland
@@ -4620,7 +4621,6 @@ bedecked
 bedrid
 bedecking
 beholdingness
-bulletproofed
 broadens
 bedehouse
 broadenings
