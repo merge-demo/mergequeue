@@ -6380,6 +6380,7 @@ elaboration
 enrobed
 epist
 enunciator
+expediters
 ensemble
 engastrimyth
 engrained
@@ -13507,7 +13508,6 @@ editing
 etruscologist
 erythrophagous
 eristic
-expediters
 endangeitis
 epigrapher
 elinor
