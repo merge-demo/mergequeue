@@ -3208,7 +3208,6 @@ fadaise
 flavourer
 flotages
 fringiness
-foods
 fogman
 feloness
 floorshift
@@ -5135,6 +5134,7 @@ fructure
 furless
 fastuousness
 foretooth
+foods
 floccular
 fellifluous
 furbelows
