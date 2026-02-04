@@ -248,6 +248,7 @@ dottore
 devourable
 daggar
 dualities
+decode
 dyssynergia
 daggerproof
 diskettes
@@ -2609,7 +2610,6 @@ deaminizing
 demishirt
 decoctum
 drudgery
-decode
 distributional
 ducture
 deignous
