@@ -4643,6 +4643,7 @@ brunhild
 breakfastless
 beltmaking
 bhikhari
+beachlamar
 briquetted
 bedfellows
 buildable
@@ -7274,7 +7275,6 @@ biographist
 barnstormers
 bombace
 boweryish
-beachlamar
 bete
 buccolingual
 brazera
