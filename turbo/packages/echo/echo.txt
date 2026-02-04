@@ -3089,7 +3089,6 @@ euectic
 eastermost
 elmwood
 exudations
-eyewash
 empennage
 equiangularity
 epicalyces
@@ -6513,6 +6512,7 @@ extratension
 entail
 entomophthora
 exponentials
+eyewash
 endurant
 ended
 entangledness
