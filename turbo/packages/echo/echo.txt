@@ -927,7 +927,6 @@ ensisternal
 equipping
 endowments
 endorsements
-electrophoretic
 ectropium
 eluvia
 erogenesis
@@ -10806,6 +10805,7 @@ euodic
 entrepots
 euonymy
 epilogues
+electrophoretic
 exochorda
 exsibilate
 echinid
