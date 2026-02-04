@@ -4854,7 +4854,6 @@ generalidad
 greisen
 gritter
 gunnel
-gnomonics
 gleg
 gigantize
 greenings
@@ -10800,6 +10799,7 @@ gadoidea
 geochronologic
 gynomonoecious
 gilbert
+gnomonics
 glyptography
 granolite
 gestonie
