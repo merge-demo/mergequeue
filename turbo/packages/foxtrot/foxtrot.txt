@@ -10834,6 +10834,7 @@ focometry
 fulciment
 fs
 failures
+frictionized
 fulcrumed
 formicarioid
 fulcruming
@@ -11563,7 +11564,6 @@ fluidizer
 fetting
 fusiform
 fusil
-frictionized
 fowage
 fingerspin
 feedback
