@@ -6801,7 +6801,6 @@ angularity
 airbusses
 antibias
 axometer
-altars
 aircraftmen
 aircraftsman
 antipass
@@ -15169,6 +15168,7 @@ aggrandiser
 absents
 antiapoplectic
 aquilon
+altars
 antienthusiastic
 afterfame
 antienvironmentalism
