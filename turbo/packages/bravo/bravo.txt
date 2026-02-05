@@ -2269,6 +2269,7 @@ barbarities
 barbarization
 boucle
 begoggled
+blocky
 brigid
 bijective
 bioecology
@@ -10944,7 +10945,6 @@ batement
 benchmar
 blinkingly
 blinter
-blocky
 brassage
 bathyorographical
 blintzes
