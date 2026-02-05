@@ -4392,6 +4392,7 @@ doit
 disembark
 demeanored
 dissidents
+dation
 diphtheritis
 dichasium
 douper
@@ -16612,7 +16613,6 @@ dragonwort
 dedolent
 desoxyribonuclease
 dragoonable
-dation
 denunciable
 dragoonage
 dragrope
