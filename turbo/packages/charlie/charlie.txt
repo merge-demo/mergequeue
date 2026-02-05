@@ -18367,7 +18367,6 @@ counterbuilding
 conformers
 cogmen
 chenevixite
-conterminant
 cognac
 curdier
 crookeries
@@ -28537,6 +28536,7 @@ chavicine
 carapaced
 credences
 coring
+conterminant
 credencive
 conditioning
 credenda
