@@ -13075,7 +13075,6 @@ barajillo
 bangling
 brewers
 baahling
-bowlmaker
 branders
 bedusk
 belfry
@@ -15198,6 +15197,7 @@ barberfish
 briarwood
 bribable
 bovinities
+bowlmaker
 bipinnaria
 bribees
 briberies
