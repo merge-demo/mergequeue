@@ -3562,6 +3562,7 @@ abdicates
 agcy
 aerothermodynamic
 anarthric
+archer
 asperses
 alcoholic
 anesthyl
@@ -9680,7 +9681,6 @@ aluminising
 aluminize
 angulometer
 aviary
-archer
 asserted
 aluminizes
 anticardium
