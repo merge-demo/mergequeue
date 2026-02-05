@@ -1578,6 +1578,7 @@ accouche
 accoucheur
 accoucheuses
 arclength
+allele
 accountable
 accusals
 accountably
@@ -10440,7 +10441,6 @@ aviararies
 amerinds
 ailuromania
 amerveil
-allele
 acanthophis
 arbores
 arendator
