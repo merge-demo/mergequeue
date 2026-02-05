@@ -288,6 +288,7 @@ fourierite
 foreshortening
 ford
 febrifacient
+fortalice
 footpounds
 firbolg
 flagarie
@@ -9609,7 +9610,6 @@ feeders
 falcata
 ferias
 foolery
-fortalice
 farse
 findability
 finalities
