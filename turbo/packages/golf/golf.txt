@@ -3862,7 +3862,6 @@ giver
 glyconin
 goldang
 gruffy
-gids
 grandfilial
 grandchild
 granulitize
@@ -7738,6 +7737,7 @@ glasseye
 glycuresis
 geist
 glaciolacustrine
+gids
 gruiform
 graecophil
 griper
