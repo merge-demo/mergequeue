@@ -4469,7 +4469,6 @@ apsides
 aldoxime
 aftmost
 adv
-archbanc
 archimago
 argue
 advaita
@@ -24813,6 +24812,7 @@ avis
 aflare
 ambagitory
 augitite
+archbanc
 afficionado
 atractaspis
 aeluroid
