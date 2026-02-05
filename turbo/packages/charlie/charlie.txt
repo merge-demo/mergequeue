@@ -4751,7 +4751,6 @@ carphology
 carpid
 circumventer
 cogredient
-conclaves
 carping
 canceration
 carpiodes
@@ -26883,6 +26882,7 @@ cruzados
 counterfleury
 counterfoil
 counterforce
+conclaves
 cosmopolitanizing
 carrom
 cavalero
