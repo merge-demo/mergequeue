@@ -15239,7 +15239,6 @@ dissociate
 dingmaul
 disbursal
 demipriest
-depressanth
 dogsleep
 derotremate
 domicile
@@ -18433,6 +18432,7 @@ duping
 diabolic
 dipsticks
 dupion
+depressanth
 disendowing
 downrush
 dukkha
