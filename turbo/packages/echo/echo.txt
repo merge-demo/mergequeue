@@ -8195,7 +8195,6 @@ epiphany
 enkraal
 endorhinitis
 electrothermometer
-extinctive
 eucrasia
 empiecement
 exothermal
@@ -11431,6 +11430,7 @@ encipherment
 elucidation
 emasculated
 engraving
+extinctive
 expurgated
 evocated
 ectonephridium
