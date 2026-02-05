@@ -5791,6 +5791,7 @@ dissuade
 deposit
 divine
 depositation
+decry
 dartlike
 disgorgement
 derailleur
@@ -16944,7 +16945,6 @@ dartles
 duledge
 diminuendoed
 dreggiest
-decry
 drearily
 dreariness
 deamidate
