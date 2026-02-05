@@ -3233,6 +3233,7 @@ forewarnings
 flinthearted
 flameholder
 fictioner
+frontis
 furbisher
 foci
 forestay
@@ -5727,7 +5728,6 @@ flirty
 feculent
 frae
 ferulas
-frontis
 farced
 fungous
 fuzzball
