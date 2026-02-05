@@ -6133,6 +6133,7 @@ carloadings
 catspaw
 catstane
 catstep
+counteropposite
 catstick
 ciderkin
 cafeterias
@@ -27009,7 +27010,6 @@ counteropening
 counteropponent
 culotte
 carbethoxyl
-counteropposite
 chiococcine
 copen
 counterorder
