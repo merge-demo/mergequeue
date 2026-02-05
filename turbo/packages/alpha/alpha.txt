@@ -5593,7 +5593,6 @@ acknew
 afterreckoning
 auxofluor
 andiroba
-absolute
 afters
 amphibrach
 allomerism
@@ -14872,6 +14871,7 @@ antipoverty
 aswough
 antineutron
 antichthon
+absolute
 abkhas
 antichthones
 acuan
