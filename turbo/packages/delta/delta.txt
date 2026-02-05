@@ -8611,6 +8611,7 @@ diaplases
 disk
 deprived
 dinosaurian
+depriver
 destroying
 doormaking
 deorsumversion
@@ -10725,7 +10726,6 @@ dipsacaceous
 deipnosophist
 disavow
 deployment
-depriver
 drad
 dun
 delocalisation
