@@ -13955,7 +13955,6 @@ discrepance
 drawtubes
 defoam
 dunking
-discohexaster
 distomatosis
 doryphorus
 diactin
@@ -14543,6 +14542,7 @@ divisibility
 divisibilities
 divisible
 division
+discohexaster
 dollop
 degomme
 distill
