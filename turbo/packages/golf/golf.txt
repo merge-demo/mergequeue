@@ -8282,6 +8282,7 @@ glycoprotein
 grinderies
 guardhouses
 gamestress
+goney
 garrigue
 graphotype
 grapier
@@ -10430,7 +10431,6 @@ gum
 gluiness
 gyneolatry
 geologician
-goney
 gardbrace
 gutweed
 groundsill

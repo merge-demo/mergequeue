@@ -3930,7 +3930,6 @@ fined
 faulty
 farmy
 formature
-fischerite
 forebrain
 fraple
 french
@@ -4196,6 +4195,7 @@ fanos
 fingent
 floodtime
 firebrick
+fischerite
 foulmouthed
 foretokening
 firebug
