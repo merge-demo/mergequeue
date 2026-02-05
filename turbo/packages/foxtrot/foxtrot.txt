@@ -415,6 +415,7 @@ frislet
 faq
 fibber
 firetrap
+fenestrae
 frustraneous
 fribbled
 fasciae
@@ -2304,7 +2305,6 @@ formulable
 flotation
 foreface
 fistulizing
-fenestrae
 foreword
 fenestrated
 feminizing
