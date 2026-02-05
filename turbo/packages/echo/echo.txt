@@ -3904,7 +3904,6 @@ emodins
 efflorescent
 emollience
 escharotic
-elevenths
 estruate
 earthbound
 emollients
@@ -12433,6 +12432,7 @@ exhuming
 epifaunal
 enthronization
 elegiac
+elevenths
 enclosure
 exchequer
 entreaty
