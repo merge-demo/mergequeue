@@ -11367,7 +11367,6 @@ asyllabic
 apriori
 amphitene
 amphitheatre
-arrivance
 anilin
 aniliid
 amphithecia
@@ -12452,6 +12451,7 @@ agendums
 addulce
 amberina
 anticomplex
+arrivance
 afflictions
 androgynal
 alterity
