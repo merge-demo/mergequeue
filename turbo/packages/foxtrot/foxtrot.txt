@@ -3204,7 +3204,6 @@ fadaise
 flavourer
 flotages
 fringiness
-foods
 fogman
 feloness
 floorshift
@@ -8179,6 +8178,7 @@ fraught
 flourishable
 furores
 flockbed
+foods
 foghorn
 forewings
 fichus
