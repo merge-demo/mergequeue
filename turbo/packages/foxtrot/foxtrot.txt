@@ -3015,7 +3015,6 @@ fioriture
 fairyology
 firemanship
 feoffers
-footwears
 feldspathoid
 frostflower
 frenchen
@@ -6229,6 +6228,7 @@ fluffiness
 flexography
 flugel
 foreleg
+footwears
 flatlet
 fiji
 factotums
