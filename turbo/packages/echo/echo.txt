@@ -2089,7 +2089,6 @@ extrapolator
 effuse
 elastically
 eurycephalous
-edenite
 exudes
 emberiza
 effete
@@ -5412,6 +5411,7 @@ exclaimingly
 endure
 endurer
 enduringly
+edenite
 enterozoic
 earthmen
 estantion
