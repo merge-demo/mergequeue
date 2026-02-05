@@ -3201,7 +3201,6 @@ ganglial
 gooier
 gie
 geologers
-gynecia
 gotiglacial
 guerdoning
 gephyrea
@@ -5841,6 +5840,7 @@ glows
 grinny
 gaupus
 glissades
+gynecia
 greggle
 gather
 greekish
