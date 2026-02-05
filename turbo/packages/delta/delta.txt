@@ -5564,7 +5564,6 @@ dependence
 desensitizes
 dependingly
 drouthiness
-depends
 dallack
 dispersed
 dramatizable
@@ -6715,6 +6714,7 @@ drunkard
 disorderliness
 delirament
 darnex
+depends
 diatribes
 desiderta
 diptycas
