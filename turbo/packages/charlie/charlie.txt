@@ -5691,6 +5691,7 @@ col
 catarrhina
 charlie
 catarrhous
+corselette
 catarrhs
 coburgher
 catasarka
@@ -14811,7 +14812,6 @@ cornsack
 cytogenic
 cahill
 cytoglobin
-corselette
 concitizen
 cytoid
 cellaret
