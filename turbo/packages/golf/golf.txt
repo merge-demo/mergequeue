@@ -3539,7 +3539,6 @@ gaunter
 genethlialogical
 gracile
 gawish
-gibbsites
 gumbotils
 gapo
 grogginess
@@ -6858,6 +6857,7 @@ grisettish
 graphics
 gorbal
 guaranty
+gibbsites
 globosities
 gluconokinase
 guardless
