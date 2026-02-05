@@ -9664,6 +9664,7 @@ freibergite
 fulgorous
 fruit
 flipflop
+finalize
 foretoken
 faldstool
 fouquieria
@@ -10123,7 +10124,6 @@ frivolling
 feasibility
 falchions
 furore
-finalize
 fluid
 frivolousness
 faunula
