@@ -3448,7 +3448,6 @@ addendums
 archaized
 adder
 abridgment
-addibility
 antroversion
 addible
 addicent
@@ -3712,6 +3711,7 @@ amies
 archidiaceae
 antilogarithmic
 alloted
+addibility
 abrenounce
 alliteration
 antiquity
