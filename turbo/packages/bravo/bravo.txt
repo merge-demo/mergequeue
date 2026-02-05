@@ -8089,7 +8089,6 @@ bourbon
 bug
 blasphemer
 beltmaker
-botonn
 besieging
 bloodhound
 bidiagonal
@@ -14724,6 +14723,7 @@ brattie
 balanorrhagia
 betrothal
 biobibliographic
+botonn
 bowpots
 bowlings
 brattled
