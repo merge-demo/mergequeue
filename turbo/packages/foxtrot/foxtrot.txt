@@ -292,6 +292,7 @@ fortalice
 footpounds
 firbolg
 flagarie
+fogramite
 fideism
 foxfire
 fledges
@@ -7689,7 +7690,6 @@ forehooves
 forpit
 fissidentaceae
 foreween
-fogramite
 flowoff
 flarfish
 falsified
