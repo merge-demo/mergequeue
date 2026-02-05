@@ -897,7 +897,6 @@ gametocyst
 gametocyte
 gametogenic
 grabby
-gooseflesh
 geognost
 grassfire
 gobioid
@@ -10336,6 +10335,7 @@ grubstaking
 gules
 gown
 grot
+gooseflesh
 glebal
 guarana
 gaums
