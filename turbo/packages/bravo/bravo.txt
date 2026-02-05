@@ -302,6 +302,7 @@ begrutch
 biolith
 booter
 bakeware
+brawly
 barbe
 benzacridine
 backslided
@@ -5499,7 +5500,6 @@ bouvier
 broadloom
 bejant
 blintz
-brawly
 babist
 broth
 bebled
