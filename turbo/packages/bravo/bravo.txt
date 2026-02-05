@@ -4942,6 +4942,7 @@ blesse
 belgae
 butte
 barmier
+basifier
 biglenoid
 boulles
 bactritoid
@@ -15241,7 +15242,6 @@ bouldering
 bushiness
 brickhood
 buddhists
-basifier
 bricking
 brickish
 brickkiln
