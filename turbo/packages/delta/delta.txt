@@ -1805,7 +1805,6 @@ debark
 dropseed
 drawknife
 debarking
-digamist
 dishpanful
 discede
 dwelled
@@ -5486,6 +5485,7 @@ diaphragm
 dogtrot
 dudishness
 dolichos
+digamist
 darlingly
 davening
 dermamyiasis
