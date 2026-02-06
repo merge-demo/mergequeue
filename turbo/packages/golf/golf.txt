@@ -6174,6 +6174,7 @@ garters
 gadfly
 geelbec
 goa
+gasterozooid
 gadsbud
 gauche
 gilet
@@ -6409,7 +6410,6 @@ glassworks
 gonotyl
 granulitis
 gracer
-gasterozooid
 geoponic
 goshenite
 ganefs
