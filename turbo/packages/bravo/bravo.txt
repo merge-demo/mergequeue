@@ -5899,7 +5899,6 @@ blitzkrieg
 belast
 berber
 brandenburgs
-biggety
 buffaloes
 beltane
 belauding
@@ -13789,6 +13788,7 @@ biodyne
 beblot
 bistratal
 botryopteriaceae
+biggety
 bowdlerising
 bemaddening
 bedfellowship
