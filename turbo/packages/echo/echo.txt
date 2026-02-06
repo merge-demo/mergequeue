@@ -4965,7 +4965,6 @@ endemicity
 epichirema
 enantiopathic
 electrofused
-endemism
 eco
 eightscore
 endenization
@@ -9350,6 +9349,7 @@ enstate
 emane
 enrobement
 effecter
+endemism
 educable
 escalades
 escalating
