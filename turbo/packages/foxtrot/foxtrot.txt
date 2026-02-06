@@ -4046,6 +4046,7 @@ fungoid
 finishable
 fluocerine
 flemer
+fruitery
 fabrication
 femininely
 feaze
@@ -6625,7 +6626,6 @@ friggle
 fractocumulus
 fireweeds
 fairgrass
-fruitery
 funds
 fancymonger
 fatuousness
