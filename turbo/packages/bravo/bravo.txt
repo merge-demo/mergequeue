@@ -1225,6 +1225,7 @@ burrowing
 biscot
 bearhide
 balloting
+billing
 bakra
 bruchus
 backslid
@@ -7911,7 +7912,6 @@ balistraria
 beryllium
 borborygmi
 bodymaker
-billing
 barothermogram
 bookman
 bibulousness
