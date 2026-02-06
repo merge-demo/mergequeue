@@ -4084,7 +4084,6 @@ geogonical
 glossator
 gimberjawed
 globigerina
-greeny
 gilttail
 gravelliness
 gibbosity
@@ -9611,6 +9610,7 @@ gossipmonger
 gowns
 ghostwriting
 guzerat
+greeny
 glaucophanization
 gallize
 gallera
