@@ -3400,7 +3400,6 @@ dyscrasia
 decarboxylase
 decolorisation
 disadorn
-donet
 deflector
 dichlorvos
 devitrifying
@@ -16388,6 +16387,7 @@ dultie
 drawtube
 deltal
 doeuvre
+donet
 downwind
 dowp
 dowse
