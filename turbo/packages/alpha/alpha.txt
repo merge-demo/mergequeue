@@ -7530,6 +7530,7 @@ archtreasurer
 albumens
 albumimeter
 aftership
+ancony
 appraisers
 armaria
 abbasid
@@ -12340,7 +12341,6 @@ alysson
 anticipate
 anconas
 anconeus
-ancony
 anconoid
 aruncus
 argufiers
