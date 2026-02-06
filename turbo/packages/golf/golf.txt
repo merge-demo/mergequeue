@@ -717,7 +717,6 @@ germanistic
 gawn
 gladdest
 grounds
-grissen
 gersdorffite
 gesticulate
 gentianic
@@ -2015,6 +2014,7 @@ gambogic
 gums
 gauzewing
 gomphocarpus
+grissen
 gomorrah
 gnostology
 galactia
