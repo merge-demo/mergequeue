@@ -1907,7 +1907,6 @@ fallow
 fewer
 flintier
 footingly
-forestless
 foredoom
 footstep
 fourdrinier
@@ -6603,6 +6602,7 @@ fingerstone
 fascioliasis
 flagrante
 frogfish
+forestless
 flapperism
 forestaffs
 flirtier
