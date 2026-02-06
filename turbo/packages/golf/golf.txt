@@ -5124,7 +5124,6 @@ grainsmen
 gloiosiphonia
 grenadine
 goldeneye
-greesagh
 gte
 glathsheimr
 ginnel
@@ -7371,6 +7370,7 @@ goldlike
 gratify
 goodyship
 glessite
+greesagh
 griffon
 grandiose
 glyoxime
