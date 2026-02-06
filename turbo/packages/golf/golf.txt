@@ -2250,6 +2250,7 @@ gastrotome
 grifts
 gefulltefish
 galley
+gaumy
 galax
 gonidiogenous
 gehlenite
@@ -7600,7 +7601,6 @@ gangism
 grassweed
 gledge
 gloomful
-gaumy
 gether
 gyrus
 grille
