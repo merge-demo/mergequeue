@@ -4478,7 +4478,6 @@ gipon
 gaetulan
 gypped
 giardia
-gyp
 gundog
 generaliter
 greffier
@@ -8945,6 +8944,7 @@ groove
 gingras
 gabbing
 grandparent
+gyp
 galesaur
 gaffe
 gigi

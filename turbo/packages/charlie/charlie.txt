@@ -1512,7 +1512,6 @@ caramelen
 cedulas
 curraghs
 calligrapha
-chemurgy
 colleens
 calligraphers
 college
@@ -28463,6 +28462,7 @@ carpintero
 creant
 creased
 countertenors
+chemurgy
 chromotypic
 creaseless
 creasers
