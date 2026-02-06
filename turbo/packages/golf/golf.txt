@@ -2373,7 +2373,6 @@ geotectonic
 gravitates
 goggler
 gabon
-guardants
 gerrhosaurid
 greeshoch
 glug
@@ -2509,6 +2508,7 @@ giffgaff
 ghoulie
 graeme
 goshawks
+guardants
 gatha
 giggled
 groundlessness
