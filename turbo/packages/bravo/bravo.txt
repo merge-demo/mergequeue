@@ -6407,7 +6407,6 @@ benzothiazine
 benzothiazoline
 bitripartite
 bregmata
-benzothiodiazole
 bergamiol
 bumpering
 backcloth
@@ -17510,6 +17509,7 @@ blight
 beauseant
 biognosis
 burbot
+benzothiodiazole
 bleak
 beata
 bromopicrin
