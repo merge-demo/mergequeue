@@ -1390,7 +1390,6 @@ fella
 fatima
 fruticeous
 flaxdrop
-filecard
 fullword
 filicology
 fishboat
@@ -10881,6 +10880,7 @@ fon
 fluvioterrestrial
 fustianist
 filigreing
+filecard
 filagreing
 fusain
 foreskins
