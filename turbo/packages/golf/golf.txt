@@ -7596,6 +7596,7 @@ geothlypis
 grando
 ganglioplexus
 guideway
+gleaning
 generousness
 gruffer
 gownsmen
@@ -9230,7 +9231,6 @@ grazier
 gryllotalpa
 griqualander
 geminis
-gleaning
 gardenmaking
 glouting
 geologists
