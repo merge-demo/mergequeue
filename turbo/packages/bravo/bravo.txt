@@ -17185,7 +17185,6 @@ bookish
 bullition
 bar
 boggin
-bulletproof
 bullnose
 beewinged
 bullnoses
@@ -17646,6 +17645,7 @@ benumb
 biographer
 basipterygoid
 breadless
+bulletproof
 bino
 buriers
 bywork
