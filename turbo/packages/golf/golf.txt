@@ -2248,6 +2248,7 @@ galactase
 gastrotome
 grifts
 gefulltefish
+galley
 galax
 gonidiogenous
 gehlenite
@@ -9594,7 +9595,6 @@ gerbe
 gowds
 gedanite
 gravimeters
-galley
 glandula
 graphite
 growliest
