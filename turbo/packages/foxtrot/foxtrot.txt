@@ -5740,7 +5740,6 @@ fels
 fins
 figureheadless
 fisher
-foredeserved
 fencer
 farth
 fecket
@@ -8445,6 +8444,7 @@ fulminous
 fuliginousness
 francomania
 fuze
+foredeserved
 formating
 formation
 factorship
