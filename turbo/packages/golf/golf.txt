@@ -1153,7 +1153,6 @@ gantelope
 gantlet
 grocer
 gled
-gantleted
 gripier
 galette
 grouses
@@ -2372,6 +2371,7 @@ gastrotomies
 galatians
 germanies
 geotectonic
+gantleted
 gravitates
 goggler
 gabon
