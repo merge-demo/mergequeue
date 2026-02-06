@@ -3,7 +3,6 @@ firedrake
 first
 forklift
 fallacia
-fimbrial
 fabaceae
 franciums
 fabaceous
@@ -1902,6 +1901,7 @@ falsifies
 fizzwater
 fecundator
 foodless
+fimbrial
 fuligula
 fallow
 fewer

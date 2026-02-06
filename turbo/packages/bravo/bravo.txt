@@ -8513,7 +8513,6 @@ billboards
 bourkha
 beetrooty
 beshawled
-billbug
 biller
 blackeye
 brantcorn
@@ -10837,6 +10836,7 @@ blewits
 blick
 betone
 blickie
+billbug
 bingey
 blickies
 blighia
