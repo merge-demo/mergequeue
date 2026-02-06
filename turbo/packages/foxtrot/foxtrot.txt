@@ -82,7 +82,6 @@ fullfaces
 facemark
 flunkeyhood
 flocklike
-forme
 filching
 faces
 folkright
@@ -8091,6 +8090,7 @@ flasklet
 factorist
 fumacious
 farceur
+forme
 fragilaria
 formalized
 feasances
