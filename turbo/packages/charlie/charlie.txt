@@ -8727,6 +8727,7 @@ chapelmaster
 colonises
 chapelry
 combflower
+crosspiece
 cinerins
 chapels
 chapelward
@@ -24394,7 +24395,6 @@ cholinergic
 coolest
 cattleless
 coned
-crosspiece
 coolheadedly
 conchyle
 coolie

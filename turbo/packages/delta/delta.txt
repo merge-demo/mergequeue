@@ -5989,7 +5989,6 @@ delimiting
 decohere
 disapprove
 dermatonosus
-derogated
 depthways
 disoccupy
 deadman
@@ -12681,6 +12680,7 @@ dreadfully
 drury
 dracaena
 dissimilarity
+derogated
 dendric
 disappoints
 disli
