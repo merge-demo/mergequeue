@@ -6094,7 +6094,6 @@ deracination
 divinising
 decurring
 dispraiser
-dictyostele
 diatheses
 disarmed
 decompound
@@ -8266,6 +8265,7 @@ diagonalizable
 diagonalization
 diagnosing
 duel
+dictyostele
 doubletree
 denude
 diagonals
