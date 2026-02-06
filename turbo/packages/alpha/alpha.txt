@@ -3207,7 +3207,6 @@ attributer
 actuality
 actualization
 actualness
-allochromatic
 axopetal
 adderbolt
 acoumetry
@@ -22512,6 +22511,7 @@ aisling
 aswash
 adyton
 aristarchy
+allochromatic
 asweve
 alchemistic
 aswirl
