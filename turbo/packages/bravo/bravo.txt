@@ -2098,6 +2098,7 @@ bannat
 baulky
 bannerline
 bannerole
+bewet
 blossomry
 bronchus
 bcf
@@ -9262,7 +9263,6 @@ befit
 bleezy
 bobsled
 bulletwood
-bewet
 blendure
 basnat
 blousily
