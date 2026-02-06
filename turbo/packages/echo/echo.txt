@@ -6995,6 +6995,7 @@ extractors
 embladder
 electrotitration
 enamourment
+epiplectic
 explorable
 effigiating
 estated
@@ -13768,7 +13769,6 @@ epithalamial
 ergmeter
 entone
 effusely
-epiplectic
 exodontist
 ethnize
 entomogenous
