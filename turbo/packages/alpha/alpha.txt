@@ -8893,6 +8893,7 @@ arrayment
 armouries
 audiometries
 alderliefest
+abstracts
 adermin
 alids
 alcyonacea
@@ -17384,7 +17385,6 @@ anoplotherium
 amidin
 arias
 adansonia
-abstracts
 agoramania
 ampuls
 apostrophes
