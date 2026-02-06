@@ -7639,7 +7639,6 @@ developer
 diswarn
 developing
 didelphis
-development
 developmentally
 decompressions
 decolouring
@@ -12185,6 +12184,7 @@ disfrocking
 dysfunctional
 documentaries
 dysfunctioning
+development
 doweling
 deltoidal
 durous
