@@ -5343,7 +5343,6 @@ diaphoretic
 displaced
 denticle
 dentiferous
-desegmented
 dentifrice
 dentil
 discussional
@@ -7565,6 +7564,7 @@ deuterosy
 drubber
 ducktail
 druidesses
+desegmented
 discs
 deuterotype
 deuterozooid
