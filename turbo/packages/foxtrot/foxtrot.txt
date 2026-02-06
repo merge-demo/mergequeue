@@ -7602,7 +7602,6 @@ fructuarius
 funiculus
 fanciers
 flintworker
-forespeak
 freezable
 fervors
 forril
@@ -7912,6 +7911,7 @@ foreseer
 foresees
 flashtube
 fonder
+forespeak
 foreseize
 flatteries
 fike
