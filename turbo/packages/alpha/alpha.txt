@@ -5938,7 +5938,6 @@ antisuffrage
 ablute
 agglutinative
 adamantine
-agglutinatively
 aarrghh
 agamobium
 agglutinize
@@ -13778,6 +13777,7 @@ auxiliar
 assertrix
 acanthaceae
 albuquerque
+agglutinatively
 aspergilloses
 anovesical
 apogamic
