@@ -10739,7 +10739,6 @@ anthrachrysone
 antichrome
 aminobenzoic
 appetency
-aminoid
 agrement
 aminoketone
 aminomalonic
@@ -20165,6 +20164,7 @@ arraignableness
 amateurism
 anodon
 arraigned
+aminoid
 aerosats
 allenarly
 allocutive
