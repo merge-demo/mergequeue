@@ -3255,7 +3255,6 @@ gigantism
 gametophytic
 goodhearted
 grainedness
-genuses
 goldminer
 graywacke
 gruellers
@@ -5344,6 +5343,7 @@ guanidine
 glegly
 gunner
 galactosemia
+genuses
 gulfier
 glyconic
 grandiloquently
