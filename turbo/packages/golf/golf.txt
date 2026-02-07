@@ -7599,7 +7599,6 @@ gleaning
 generousness
 gruffer
 gownsmen
-gangism
 grassweed
 gledge
 gloomful
@@ -10742,6 +10741,7 @@ gustfully
 groundlessly
 gypsyisms
 gnomonological
+gangism
 graille
 gavage
 galloot
