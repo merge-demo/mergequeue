@@ -1172,6 +1172,7 @@ galliney
 grifters
 grogs
 graftdom
+ganglioneuron
 grift
 groatsworth
 glyptographer
@@ -5729,7 +5730,6 @@ glowbard
 gloveress
 gimmaled
 gpad
-ganglioneuron
 gestning
 glycoluril
 guardeen
