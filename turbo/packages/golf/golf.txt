@@ -2229,7 +2229,6 @@ generosities
 gibby
 galactohemia
 gleit
-glossopathy
 grounders
 globetrotting
 grieced
@@ -8695,6 +8694,7 @@ galerum
 gawkishly
 goosing
 gree
+glossopathy
 glean
 gismondite
 gimcracks
