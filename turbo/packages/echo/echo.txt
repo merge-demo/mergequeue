@@ -3742,7 +3742,6 @@ embulk
 engulfing
 embull
 embush
-electrodynamics
 expiates
 examinees
 ethos
@@ -8291,6 +8290,7 @@ einstein
 earthwards
 electropuncturation
 ecumenicality
+electrodynamics
 electrolyzability
 embryonated
 eluxate
