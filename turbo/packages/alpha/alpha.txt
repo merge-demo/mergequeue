@@ -5183,7 +5183,6 @@ aetobatidae
 ancien
 antidoting
 aphoria
-anamorphism
 aetomorphae
 almohade
 amphierotism
@@ -13342,6 +13341,7 @@ anthelminthic
 apoturmeric
 anisometric
 anaglyptics
+anamorphism
 antimerger
 abcess
 aquilawood
