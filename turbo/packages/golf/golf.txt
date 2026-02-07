@@ -3005,7 +3005,6 @@ gastornis
 greasiness
 glitnir
 gibbering
-gentilhomme
 goldenknop
 gorgoniacean
 gaps
@@ -5318,6 +5317,7 @@ gangsters
 gonidiferous
 gammaroid
 goodman
+gentilhomme
 globularly
 gutturalism
 gingals
