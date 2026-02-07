@@ -3919,6 +3919,7 @@ boarts
 booksellerish
 bombardier
 bocstaff
+befuddler
 brickbats
 bulkily
 bedirty
@@ -5186,7 +5187,6 @@ bettong
 butted
 backfatter
 befuddled
-befuddler
 boxberries
 beleaguers
 bitmap
