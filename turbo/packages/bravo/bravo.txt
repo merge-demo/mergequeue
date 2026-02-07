@@ -5735,6 +5735,7 @@ bloodleaf
 bellatrix
 bungler
 balaghat
+biaxiality
 biophysics
 beaverroot
 bellbinder
@@ -7793,7 +7794,6 @@ backhouse
 bedstock
 blackshirted
 belgravian
-biaxiality
 birdseyes
 brooklyn
 bazaars
