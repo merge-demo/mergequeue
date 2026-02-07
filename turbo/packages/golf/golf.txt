@@ -2626,6 +2626,7 @@ gnathobase
 glaciomarine
 gruesomest
 grendel
+glidder
 gibbetting
 geomorphist
 gypsyweed
@@ -9539,7 +9540,6 @@ grs
 gristliness
 griminess
 groundkeeper
-glidder
 grumbler
 gleaners
 ger
