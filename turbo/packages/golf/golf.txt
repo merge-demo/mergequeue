@@ -280,7 +280,6 @@ geoplagiotropism
 grenada
 glauconiferous
 gifblaar
-glomeroporphyritic
 groser
 gigavolt
 gummata
@@ -2661,6 +2660,7 @@ gyrostabilized
 guaraguao
 gospodipoda
 grangerisation
+glomeroporphyritic
 gloriosity
 gangliectomy
 gourde
