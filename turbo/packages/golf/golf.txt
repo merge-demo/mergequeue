@@ -3583,6 +3583,7 @@ glimpsing
 glumella
 gourmandize
 guiders
+generalizers
 gab
 galvanisation
 gausses
@@ -7372,7 +7373,6 @@ griffon
 grandiose
 glyoxime
 galline
-generalizers
 gomarite
 germanous
 gleamier
