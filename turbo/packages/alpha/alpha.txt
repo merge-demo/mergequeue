@@ -10950,6 +10950,7 @@ aboardage
 aquaplaned
 adamellite
 amniomancy
+acephalan
 amnionata
 acclamation
 absolution
@@ -23121,7 +23122,6 @@ anthecology
 antheriform
 attemperament
 aizle
-acephalan
 attempered
 anaxon
 aleikum
