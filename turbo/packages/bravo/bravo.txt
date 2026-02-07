@@ -9671,7 +9671,6 @@ burhinus
 birchbark
 bismuthide
 bethanked
-beneficing
 beeping
 bismuthinite
 bejumble
@@ -10111,6 +10110,7 @@ belknap
 blackbody
 bloodings
 blackbuck
+beneficing
 biomicroscopies
 backfiller
 biotrons
