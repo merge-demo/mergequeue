@@ -2500,7 +2500,6 @@ gnaeus
 giffgaff
 ghoulie
 graeme
-goshawks
 guardants
 gatha
 giggled
@@ -10529,6 +10528,7 @@ gadsbodikins
 gonal
 gunfights
 ghillie
+goshawks
 griffinhood
 glob
 gossipingly
