@@ -3659,7 +3659,6 @@ batsman
 barrelsful
 besetting
 benzophenol
-bardolater
 bangia
 bottomchrome
 bunsen
@@ -4209,6 +4208,7 @@ belittling
 bibliomaniac
 bulbonuclear
 blackwasher
+bardolater
 beaumont
 bromol
 blanketeer
