@@ -2151,7 +2151,6 @@ detectors
 diabolology
 downtime
 disturbs
-diosmosis
 decantist
 decaffeinated
 decapitation
@@ -3571,6 +3570,7 @@ deganglionate
 dystome
 degasify
 decussately
+diosmosis
 dermatocoptes
 drywall
 dawny
