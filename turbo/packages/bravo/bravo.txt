@@ -9432,7 +9432,6 @@ brawl
 busser
 bespatterment
 byrlawman
-boatbill
 bioinstrumentation
 bathymeter
 basaltine
@@ -14118,6 +14117,7 @@ brachiosaur
 brachiosaurus
 brachyphyllum
 bargainers
+boatbill
 boycottage
 blah
 biosystematics
