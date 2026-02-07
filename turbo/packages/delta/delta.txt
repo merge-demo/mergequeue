@@ -1351,7 +1351,6 @@ draftsperson
 doggerelize
 dompt
 damagement
-dauntingness
 discerners
 duelli
 definer
@@ -16519,6 +16518,7 @@ draftings
 diesinker
 disinterred
 dallop
+dauntingness
 dendrodont
 dacryops
 disarchbishop
