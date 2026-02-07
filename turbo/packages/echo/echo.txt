@@ -1696,6 +1696,7 @@ electrolyses
 earpieces
 echolocate
 enterosyphilis
+esthesiogenic
 embolon
 employ
 epistilbite
@@ -8713,7 +8714,6 @@ erupting
 enamorate
 eradications
 enjoyed
-esthesiogenic
 elastometry
 enhallow
 ecartes
