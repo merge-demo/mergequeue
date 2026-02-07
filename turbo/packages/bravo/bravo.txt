@@ -2447,7 +2447,6 @@ bareca
 briar
 barefaced
 bombacaceous
-baulk
 bonete
 bradenhead
 byres
@@ -5113,6 +5112,7 @@ busier
 bhangs
 bombshells
 beflour
+baulk
 beflowered
 biotas
 bbs
