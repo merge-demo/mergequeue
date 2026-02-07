@@ -8117,7 +8117,6 @@ gastrochaenidae
 guacharo
 gourdworm
 grantia
-greekist
 grassplat
 gallet
 graustark
@@ -8644,6 +8643,7 @@ geopony
 gossipping
 gerb
 grappled
+greekist
 glucosin
 gulfed
 gingerleaf
