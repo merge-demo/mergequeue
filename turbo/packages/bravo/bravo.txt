@@ -2760,7 +2760,6 @@ bm
 benab
 bonneting
 bukeyef
-barology
 boroughship
 barometers
 beefy
@@ -13641,6 +13640,7 @@ buckras
 bhumidar
 bouquetiere
 backsplice
+barology
 bladder
 bloodsucker
 baud
