@@ -6121,7 +6121,6 @@ catso
 catsos
 carloadings
 catspaw
-catstane
 catstep
 counteropposite
 catstick
@@ -6664,6 +6663,7 @@ cedrela
 cocamine
 cedrene
 cedry
+catstane
 codeia
 chalcidiform
 cedrin
