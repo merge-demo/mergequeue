@@ -6371,6 +6371,7 @@ diplotene
 disassociation
 dorsiventral
 derodidymus
+daleth
 derog
 demeanour
 doronicum
@@ -12993,7 +12994,6 @@ disparageable
 disparagement
 disparagements
 documenting
-daleth
 distinctively
 disparate
 disestablish
