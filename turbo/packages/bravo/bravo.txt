@@ -8375,7 +8375,6 @@ bedirter
 bedaze
 balita
 blams
-blackcoat
 bias
 bikkurim
 biosynthetically
@@ -12518,6 +12517,7 @@ bonfires
 benchy
 bongoes
 bypast
+blackcoat
 borrows
 bannimus
 bedposts
