@@ -20668,7 +20668,6 @@ complaint
 capibara
 counteranswer
 complaintiveness
-complaints
 cabinetmake
 complaisant
 cankerworms
@@ -27307,6 +27306,7 @@ coupage
 coupe
 couped
 canner
+complaints
 cicrumspections
 cocus
 calked
