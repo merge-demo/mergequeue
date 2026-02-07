@@ -884,7 +884,6 @@ backband
 bagdad
 bunters
 begoniaceae
-bicolour
 baggagemaster
 bedamning
 baggager
@@ -9914,6 +9913,7 @@ budders
 boget
 bedticking
 bordelaise
+bicolour
 bauson
 bastardice
 bituminate
