@@ -9976,7 +9976,6 @@ biventer
 backseat
 bayonetting
 blackwashing
-bulkin
 bizarrerie
 bield
 broody
@@ -11219,6 +11218,7 @@ burkes
 besmutted
 batterfang
 brazenness
+bulkin
 bracts
 bf
 bezesteen
