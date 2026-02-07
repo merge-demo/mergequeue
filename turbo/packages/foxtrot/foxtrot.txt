@@ -725,7 +725,6 @@ familism
 firebolted
 farmstead
 forenotion
-ferromagnetic
 futilitarianism
 fascioloid
 forehard
@@ -5110,6 +5109,7 @@ forebespeak
 fatherling
 fractionise
 forbidding
+ferromagnetic
 forthy
 fireweed
 fishiest
