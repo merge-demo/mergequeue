@@ -413,7 +413,6 @@ burgles
 belook
 bacteriorhodopsin
 bwana
-backlit
 buckers
 betipple
 bailor
@@ -16578,6 +16577,7 @@ bleary
 brutishness
 brewed
 blockheadism
+backlit
 bandster
 bruzz
 bsf
