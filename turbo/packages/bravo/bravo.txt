@@ -1127,6 +1127,7 @@ bairnly
 branky
 barkstone
 bejel
+balize
 bromines
 bedimmed
 boatload
@@ -6762,7 +6763,6 @@ bin
 boeotia
 berserks
 barnumize
-balize
 berhyme
 banjore
 bert
