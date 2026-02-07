@@ -6752,6 +6752,7 @@ feedwater
 frized
 fleece
 feering
+ferity
 foresworn
 felonweed
 fainly
@@ -10618,7 +10619,6 @@ farceurs
 flative
 forseen
 fractile
-ferity
 franc
 frontalis
 forswearing
