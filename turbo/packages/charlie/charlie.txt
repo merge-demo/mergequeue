@@ -11244,7 +11244,6 @@ chlorimetric
 chlorinated
 chlorinating
 curly
-candela
 chlorination
 chlorinator
 chlorines
@@ -18576,6 +18575,7 @@ coequalize
 callitrichidae
 coigue
 coction
+candela
 coyish
 coleseeds
 chrometophobia
