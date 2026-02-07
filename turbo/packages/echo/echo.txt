@@ -3518,7 +3518,6 @@ emboweled
 epithecial
 eschewance
 extortionary
-eponyms
 extreme
 epigonus
 embolize
@@ -11432,6 +11431,7 @@ emasculated
 engraving
 extinctive
 expurgated
+eponyms
 evocated
 ectonephridium
 exes
