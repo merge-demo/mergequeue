@@ -9786,7 +9786,6 @@ cheliform
 crajuru
 curua
 cabby
-chelingas
 cheliped
 chelys
 cydon
@@ -31102,6 +31101,7 @@ cuneiformist
 columnarity
 chiggerweed
 cunenei
+chelingas
 coue
 countinghouse
 cunette
