@@ -5469,7 +5469,6 @@ casuals
 casuariiformes
 chloramide
 civetlike
-casuarina
 cantraips
 casuarius
 chamaecyparis
@@ -11328,6 +11327,7 @@ chlorometry
 categorem
 coopted
 capman
+casuarina
 chloromycetin
 curbed
 chiasmatype
