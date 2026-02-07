@@ -10069,7 +10069,6 @@ crestings
 clothesbrush
 chimney
 chemise
-chesoun
 counterfugue
 collab
 coalbox
@@ -21229,6 +21228,7 @@ concentric
 circumneutral
 concentricate
 crouching
+chesoun
 conceptualizer
 concents
 concentual

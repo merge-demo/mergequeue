@@ -3005,7 +3005,6 @@ greasiness
 glitnir
 gibbering
 goldenknop
-gorgoniacean
 gaps
 goatherdess
 guildsmen
@@ -3807,6 +3806,7 @@ geobios
 gallantry
 gibberellin
 gyromele
+gorgoniacean
 grandmotherhood
 gaffing
 greenhew
