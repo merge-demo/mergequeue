@@ -6303,7 +6303,6 @@ beedom
 backswept
 benzalethylamine
 benzalphenylhydrazone
-beaconwise
 benzamide
 benzoxate
 badgerbrush
@@ -14434,6 +14433,7 @@ biontic
 brow
 brachygraphy
 birdshots
+beaconwise
 bowldery
 blackbeetle
 blowpoint
