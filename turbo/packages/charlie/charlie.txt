@@ -15525,7 +15525,6 @@ clashingly
 cormlike
 clasmatocyte
 ccoya
-clasmatocytic
 clasmatosis
 cuitle
 clasped
@@ -29911,6 +29910,7 @@ crosshackle
 crosshair
 crosshand
 crosshatches
+clasmatocytic
 capillation
 cogwheel
 coadjutator
