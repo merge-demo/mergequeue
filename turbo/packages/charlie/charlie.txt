@@ -2071,6 +2071,7 @@ campanella
 coadjuvancy
 campania
 cecils
+cardinalities
 comdg
 condoles
 crunchier
@@ -4127,7 +4128,6 @@ caffa
 clerihew
 cubed
 chancellor
-cardinalities
 cardinalship
 cardings
 cardioarterial
