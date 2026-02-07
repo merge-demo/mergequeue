@@ -1012,7 +1012,6 @@ birlie
 bewitch
 bourdon
 bipalium
-blinger
 baycuru
 baidarka
 baidarkas
@@ -5833,6 +5832,7 @@ bellyland
 biunique
 biogenetical
 balopticon
+blinger
 bellmaking
 banquo
 baronship
