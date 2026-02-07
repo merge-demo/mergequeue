@@ -378,7 +378,6 @@ facsim
 fluids
 flowerily
 fattiness
-faints
 forcedness
 franklandite
 from
@@ -8091,6 +8090,7 @@ foreswore
 flavouring
 feeble
 flasklet
+faints
 factorist
 fumacious
 farceur
