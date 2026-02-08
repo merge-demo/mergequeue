@@ -9551,7 +9551,6 @@ disenchantment
 diglottist
 duumvir
 diallists
-demasculinised
 disgruntled
 dischargers
 dignifiedly
@@ -11751,6 +11750,7 @@ dogblow
 disported
 debellate
 deoxidising
+demasculinised
 discrested
 dowering
 default
