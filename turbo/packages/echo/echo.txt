@@ -6221,7 +6221,6 @@ eidology
 enplane
 electromotor
 ecorticate
-enplaned
 embryonary
 ethnogeographical
 entered
@@ -6542,6 +6541,7 @@ epipolism
 enteradenological
 extrathecal
 ensuant
+enplaned
 enterectomy
 enterer
 eulogious
