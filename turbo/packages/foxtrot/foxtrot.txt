@@ -9838,7 +9838,6 @@ fruitage
 faden
 fribbler
 friskle
-foreappointment
 fricace
 fricandeaux
 fuliginously
@@ -10050,6 +10049,7 @@ fibrosis
 fablemonger
 faddish
 fait
+foreappointment
 featherhead
 flabbiest
 feloniously
