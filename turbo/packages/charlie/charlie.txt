@@ -13998,7 +13998,6 @@ cippus
 confirmative
 cilioflagellata
 chitra
-chemosensitive
 cecca
 crimp
 comtes
@@ -25989,6 +25988,7 @@ colonization
 corviser
 corvo
 chapel
+chemosensitive
 chamade
 corvoid
 corvorant
