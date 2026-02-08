@@ -2390,6 +2390,7 @@ gumphion
 grow
 gimbri
 guianese
+glareless
 groomed
 gauk
 gruesomer
@@ -10133,7 +10134,6 @@ goldenhair
 gynecocracy
 galways
 gurgling
-glareless
 greenier
 grudges
 granophyric
