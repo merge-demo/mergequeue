@@ -3336,7 +3336,6 @@ alumroot
 aggravation
 appassionato
 adagissimo
-achromatise
 amalgamators
 aphototactic
 archiprelatical
@@ -6692,6 +6691,7 @@ ankyloblepharon
 ailuroidea
 antiopiumite
 ailurophilic
+achromatise
 affirmation
 ailuropoda
 acoustic
