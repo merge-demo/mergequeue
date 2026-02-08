@@ -3842,7 +3842,6 @@ gulancha
 gainsome
 gradienter
 glamorous
-genealogies
 geodaesia
 gorger
 girosol
@@ -5611,6 +5610,7 @@ glottogonist
 gervais
 glycogenetic
 gurges
+genealogies
 garuda
 ginks
 gravestone
