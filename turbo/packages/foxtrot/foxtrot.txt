@@ -85,7 +85,6 @@ filching
 faces
 folkright
 flattening
-flowerfence
 funny
 foliobranch
 fiendish
@@ -9959,6 +9958,7 @@ flatlanders
 flanche
 frantic
 favor
+flowerfence
 frigidly
 faradomuscular
 foundation
