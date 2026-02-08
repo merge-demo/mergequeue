@@ -10103,7 +10103,6 @@ chestnut
 chestnuts
 chet
 cheth
-communalized
 chetopod
 ceonocyte
 chetrum
@@ -22791,6 +22790,7 @@ conscribing
 conscript
 counterfeiters
 conscripting
+communalized
 conscriptional
 clambering
 conscriptions
