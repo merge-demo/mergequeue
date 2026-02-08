@@ -1713,7 +1713,6 @@ falsies
 fearingly
 ferineness
 fearless
-forehammer
 fondlike
 frangible
 fractable
@@ -8941,6 +8940,7 @@ feldspath
 feverwort
 filament
 favositoid
+forehammer
 formally
 frontiersman
 felty
