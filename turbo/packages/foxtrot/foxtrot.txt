@@ -4178,7 +4178,6 @@ figments
 figuredly
 fag
 firebox
-flocculation
 farkleberries
 fellowcraft
 furrow
@@ -6823,6 +6822,7 @@ folderols
 foreheater
 fjelds
 frette
+flocculation
 fiddlebrained
 freeing
 fikery
