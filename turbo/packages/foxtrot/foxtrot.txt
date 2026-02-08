@@ -4644,7 +4644,6 @@ factorizations
 fullnesses
 fanging
 frigidities
-formulations
 fireboard
 fluctuate
 fossane
@@ -7698,6 +7697,7 @@ flowoff
 flarfish
 falsified
 flawful
+formulations
 finnack
 fernier
 frayproof
