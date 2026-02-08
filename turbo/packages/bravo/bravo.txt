@@ -13227,6 +13227,7 @@ buzzers
 breatheableness
 binocle
 bosque
+beanos
 bosques
 bilked
 brythonic
@@ -17705,7 +17706,6 @@ behove
 bracteolate
 bismosol
 biont
-beanos
 braconid
 bankeress
 broach
