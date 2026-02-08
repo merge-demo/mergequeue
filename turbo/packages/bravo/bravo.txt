@@ -5031,7 +5031,6 @@ befalls
 botanised
 battlers
 blazoned
-bowfin
 bloodthirst
 befamilied
 biogeography
@@ -6855,6 +6854,7 @@ bluegills
 birlers
 beshake
 bentinck
+bowfin
 bendel
 bloodwite
 beryllosis
