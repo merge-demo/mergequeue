@@ -2801,7 +2801,6 @@ glovelike
 gazettal
 grigris
 gormless
-glottalite
 gloiopeltis
 gentiobiose
 guardianess
@@ -3635,6 +3634,7 @@ gogos
 genevieve
 ghees
 gladen
+glottalite
 guanylic
 granilla
 goglets
