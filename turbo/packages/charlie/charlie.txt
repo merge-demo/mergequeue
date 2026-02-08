@@ -7186,7 +7186,6 @@ catawba
 clamors
 centrifugaller
 cladoceran
-centrifugate
 centrifuge
 centrifugence
 centrifuging
@@ -13619,6 +13618,7 @@ cymophane
 cymophanous
 cymophenol
 confabulations
+centrifugate
 coherency
 composed
 cercopithecoid
