@@ -801,7 +801,6 @@ gimlet
 gambade
 garrotting
 gastroenteritic
-gambang
 gastrular
 grazer
 glaceing
@@ -10031,6 +10030,7 @@ gesneriaceous
 grissens
 genetoid
 geomancies
+gambang
 gangliac
 gleans
 geometrised
