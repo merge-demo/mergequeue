@@ -3820,7 +3820,6 @@ carbolics
 centricity
 cavalryman
 carbolising
-cowquake
 carbolize
 carbolized
 catamount
@@ -3987,6 +3986,7 @@ camanay
 carcel
 cheerfulness
 carangoid
+cowquake
 commodation
 carcels
 chuumnapm
