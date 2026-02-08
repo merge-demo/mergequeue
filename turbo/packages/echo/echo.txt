@@ -3882,7 +3882,6 @@ eminencies
 evendown
 exodermis
 exterminating
-eminent
 endorsor
 easternized
 esperance
@@ -12773,6 +12772,7 @@ eurycerotidae
 epomophorus
 exines
 extensional
+eminent
 epidendric
 exostosis
 exarchist
