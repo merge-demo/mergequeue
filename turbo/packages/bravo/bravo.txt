@@ -12656,7 +12656,6 @@ boodled
 braccia
 bestowable
 boogeymen
-bane
 bellical
 buhrs
 bec
@@ -17286,6 +17285,7 @@ bateman
 blastogenetic
 ballasts
 bugala
+bane
 bummack
 bikeways
 brechan
