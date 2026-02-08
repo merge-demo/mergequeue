@@ -19434,6 +19434,7 @@ calcitonin
 chimaeridae
 cephalopagus
 carbohydrazide
+cetacean
 cup
 chasty
 crosshaul
@@ -20779,7 +20780,6 @@ cupcake
 complicacy
 ceramiaceae
 complicant
-cetacean
 coelomate
 camphanic
 complicate
