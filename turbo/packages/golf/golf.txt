@@ -2788,7 +2788,6 @@ growling
 gimmor
 greatcoat
 gyro
-guydom
 gramophonist
 gyne
 gershon
@@ -3758,6 +3757,7 @@ gasterothecal
 gallein
 glinse
 goonie
+guydom
 graveldiver
 getatable
 gazoz
