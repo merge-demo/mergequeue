@@ -516,6 +516,7 @@ blackacre
 biogenesis
 burbling
 backstops
+bacteriolysin
 bucketeer
 backstreet
 blastophoric
@@ -2143,7 +2144,6 @@ bosch
 brouillon
 ballistically
 barring
-bacteriolysin
 bantayan
 buckshots
 bidstand
