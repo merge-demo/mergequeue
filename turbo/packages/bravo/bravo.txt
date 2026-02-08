@@ -12589,7 +12589,6 @@ bonnyish
 boogeyman
 balance
 bonnnes
-bonnwis
 bionomist
 bonorum
 bisector
@@ -15898,6 +15897,7 @@ barges
 buttonholer
 brahminee
 berg
+bonnwis
 bossboy
 blitzed
 basan
