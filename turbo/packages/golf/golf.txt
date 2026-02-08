@@ -662,7 +662,6 @@ grindstones
 gilour
 geropiga
 gravelish
-gangboard
 gamely
 gregariousness
 gallows
@@ -3517,6 +3516,7 @@ gagee
 gypsuming
 gallimaufries
 griff
+gangboard
 goalers
 grosbeak
 glossophaga
