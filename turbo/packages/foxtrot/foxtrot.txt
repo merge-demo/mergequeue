@@ -2069,7 +2069,6 @@ farl
 fops
 foremessenger
 frothiness
-foggiest
 felahin
 factionalist
 fendillation
@@ -2256,6 +2255,7 @@ femora
 fatil
 fenced
 fencelessness
+foggiest
 forkiest
 fengite
 fanout
