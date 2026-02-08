@@ -4199,6 +4199,7 @@ fingent
 floodtime
 firebrick
 fischerite
+flaminica
 foulmouthed
 foretokening
 firebug
@@ -11080,7 +11081,6 @@ frameae
 forerunnership
 fellsman
 ferrimagnetically
-flaminica
 forficated
 fumariaceous
 flaunter
