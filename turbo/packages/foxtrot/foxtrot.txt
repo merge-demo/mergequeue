@@ -33,7 +33,6 @@ feaked
 fibrocyst
 fabricates
 fabricator
-formularize
 flintless
 furies
 farmscape
@@ -6821,6 +6820,7 @@ forewonted
 freelancer
 folderols
 foreheater
+formularize
 fjelds
 frette
 flocculation
