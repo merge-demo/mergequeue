@@ -2320,7 +2320,6 @@ fondness
 fellowess
 featherheaded
 feaster
-fast
 fixities
 fixatifs
 frize
@@ -8243,6 +8242,7 @@ falsifications
 fossulate
 foresweat
 fabraea
+fast
 fesse
 forgeable
 forwaked
