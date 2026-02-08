@@ -1915,7 +1915,6 @@ flybrush
 fingerflower
 fontanelle
 fustilarian
-frouze
 foism
 fruitless
 forthinking
@@ -10716,6 +10715,7 @@ fleckered
 faradays
 fleshly
 fartlek
+frouze
 fortran
 flunkeyistic
 forelaid
