@@ -10868,7 +10868,6 @@ boatwise
 blimey
 braced
 brokership
-blent
 blattiform
 backpacks
 breechless
@@ -17657,6 +17656,7 @@ boff
 blockish
 boris
 britchel
+blent
 belady
 brews
 blowier
