@@ -1248,7 +1248,6 @@ epigrammatise
 eelcake
 elsewheres
 exposition
-episomal
 evaluation
 endopleuritic
 efflation
@@ -3228,6 +3227,7 @@ esophagospasm
 embuia
 elution
 embourgeoisement
+episomal
 esthesiometric
 enzymatically
 estocada
