@@ -1472,7 +1472,6 @@ gasolier
 gasped
 ghostology
 granolith
-grotesque
 gorilla
 gorgia
 galaginae
@@ -3638,6 +3637,7 @@ guanylic
 granilla
 goglets
 glottalize
+grotesque
 gigantal
 glutinosity
 gld
