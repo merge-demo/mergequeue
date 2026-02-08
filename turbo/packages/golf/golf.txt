@@ -135,7 +135,6 @@ goatfish
 gadroon
 giher
 ginete
-gastly
 girdled
 guerdoned
 gyros
@@ -5649,6 +5648,7 @@ gruidae
 glucogene
 gallicanism
 gastrasthenia
+gastly
 game
 gunstick
 glueman
