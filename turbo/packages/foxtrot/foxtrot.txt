@@ -1347,7 +1347,6 @@ famose
 flyable
 factionally
 frantically
-fluxible
 fatherly
 feest
 features
@@ -7650,6 +7649,7 @@ flimsilyst
 flustroid
 forefinger
 figary
+fluxible
 fixed
 floruits
 faeculence
