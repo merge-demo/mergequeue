@@ -1833,7 +1833,6 @@ fetisher
 fores
 ferninst
 forbesite
-folkmots
 flak
 flaithship
 frustules
@@ -4725,6 +4724,7 @@ fantasticate
 frettage
 fictation
 frumentarious
+folkmots
 flabbergast
 forkfuls
 fossicking

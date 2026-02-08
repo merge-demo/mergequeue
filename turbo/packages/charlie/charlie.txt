@@ -1306,6 +1306,7 @@ calibrated
 calibrater
 calibrates
 cloison
+cryological
 catchwater
 calibrating
 calibre
@@ -29172,7 +29173,6 @@ cloys
 catwalks
 clauster
 costards
-cryological
 cryometry
 cocashweed
 carajo
