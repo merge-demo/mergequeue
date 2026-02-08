@@ -141,6 +141,7 @@ fleabites
 frigidaria
 flayers
 fellaheen
+futures
 fights
 facks
 forefront
@@ -2380,7 +2381,6 @@ feudist
 francic
 fluther
 forgoes
-futures
 footganger
 fetial
 friendlier
