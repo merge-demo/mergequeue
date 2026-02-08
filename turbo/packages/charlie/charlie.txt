@@ -2502,7 +2502,6 @@ candidness
 candidnesses
 chrismatine
 crawlie
-cantorial
 countermands
 coasters
 candies
@@ -26893,6 +26892,7 @@ counterguard
 counterguerilla
 catchpollery
 courtless
+cantorial
 coraciiformes
 counterhaft
 commensurableness
