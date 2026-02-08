@@ -12611,7 +12611,6 @@ daredevils
 drate
 delegant
 dertrotheca
-defaultant
 descendentalist
 descrial
 duplicidentate
@@ -12927,6 +12926,7 @@ disomatic
 doubtmonger
 dermostosis
 degreeing
+defaultant
 docilities
 discolor
 disaffectedness
