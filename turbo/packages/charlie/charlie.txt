@@ -125,6 +125,7 @@ cabinetworker
 cabinlike
 crafter
 chemisorptive
+cornua
 costotransverse
 cabiria
 cabirian
@@ -25455,7 +25456,6 @@ crystallographers
 cornstone
 cajang
 czars
-cornua
 comdt
 cornual
 compulsory
