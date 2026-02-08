@@ -1860,7 +1860,6 @@ bandaging
 berylloid
 bowlin
 bushranging
-bandala
 bandanaed
 battlepiece
 bilboes
@@ -10023,6 +10022,7 @@ bouvardia
 bummock
 blenders
 bairntime
+bandala
 byzantine
 byzantinize
 barmecide
