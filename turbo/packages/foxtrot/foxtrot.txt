@@ -4147,7 +4147,6 @@ frillings
 fratriage
 fipples
 floscule
-fainted
 foisted
 forefeeling
 ferrosilicon
@@ -5725,6 +5724,7 @@ fere
 flippancies
 freshness
 ferrary
+fainted
 fetor
 flirty
 feculent
