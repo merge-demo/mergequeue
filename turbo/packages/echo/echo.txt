@@ -6560,7 +6560,6 @@ electricity
 emigrates
 enhuile
 exolemma
-emove
 execeptional
 eligenda
 eelgrasses
@@ -11201,6 +11200,7 @@ endoplastular
 eophyton
 evangeliarium
 enalyron
+emove
 enneaphyllous
 enforcers
 electropuncture
