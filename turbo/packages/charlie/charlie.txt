@@ -4128,7 +4128,6 @@ cardiomegalia
 caffa
 clerihew
 cubed
-chancellor
 cardinalship
 cardings
 cardioarterial
@@ -18448,6 +18447,7 @@ cellularity
 chokey
 carboxylate
 capillitial
+chancellor
 chronographic
 crystalloblastic
 centrale
