@@ -7416,7 +7416,6 @@ falterers
 flavorsomeness
 flake
 finks
-flinging
 furan
 forereport
 forethrift
@@ -11740,6 +11739,7 @@ florimanist
 fluvioglacial
 forbidden
 finitely
+flinging
 flanking
 followings
 frouzier
