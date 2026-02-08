@@ -6582,6 +6582,7 @@ aydendron
 achenocarp
 aidenn
 appleringy
+arsenopyrite
 aider
 antiaggressive
 auksinu
@@ -20391,7 +20392,6 @@ agrafes
 anaphalantiasis
 asahel
 antesignani
-arsenopyrite
 aeolotropy
 arsenostyracol
 aldermanlike
