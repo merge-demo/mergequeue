@@ -1524,6 +1524,7 @@ froise
 foresend
 faulx
 flugelman
+focimeter
 faults
 focusers
 fastidiously
@@ -7326,7 +7327,6 @@ frampold
 favour
 fulcrum
 feathered
-focimeter
 filchers
 fiddleheaded
 fanioned
