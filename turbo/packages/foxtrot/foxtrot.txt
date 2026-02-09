@@ -3277,6 +3277,7 @@ fiddlefaced
 ferrites
 faunology
 fluidrams
+forkless
 fieldpieces
 feudovassalism
 fremt
@@ -8360,7 +8361,6 @@ frontenis
 fightable
 forking
 flaveria
-forkless
 freedoms
 formicative
 flebile

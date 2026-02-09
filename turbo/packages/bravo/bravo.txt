@@ -1392,7 +1392,6 @@ baldheads
 bandager
 bilcock
 bushings
-baldish
 ballparks
 baldmoney
 bryogenin
@@ -2531,6 +2530,7 @@ buenos
 bassetite
 bottonhook
 buckler
+baldish
 barguest
 barguests
 buzylene
