@@ -1472,6 +1472,7 @@ fractureproof
 filago
 fireside
 faubourgs
+fingerlike
 focussing
 fistulose
 forestial
@@ -3567,7 +3568,6 @@ foremention
 filemaker
 flymen
 freedstool
-fingerlike
 forgetable
 fractabling
 foreskirt
