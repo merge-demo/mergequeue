@@ -1327,7 +1327,6 @@ garroter
 gary
 goodness
 groundling
-gristbite
 gignate
 gride
 gra
@@ -4207,6 +4206,7 @@ gosmore
 glotum
 greying
 ges
+gristbite
 geod
 gleesome
 ganef
