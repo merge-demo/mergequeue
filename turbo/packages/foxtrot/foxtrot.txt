@@ -86,7 +86,6 @@ faces
 folkright
 flattening
 funny
-foliobranch
 fiendish
 flagrantness
 funambulating
@@ -8344,6 +8343,7 @@ forerequest
 forkedness
 folderol
 fossa
+foliobranch
 feastful
 feigningly
 flaff
