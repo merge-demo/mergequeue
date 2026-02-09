@@ -5532,7 +5532,6 @@ backstamp
 bejezebel
 bessera
 bagnette
-barrette
 bloodguiltless
 blackeners
 brutified
@@ -14539,6 +14538,7 @@ blockage
 braziery
 blackcurrant
 betrail
+barrette
 branchiogenous
 branchiomere
 baikie
