@@ -4729,6 +4729,7 @@ dagswain
 democrat
 dawdles
 douar
+depender
 dogbody
 depraves
 dsnames
@@ -9212,7 +9213,6 @@ dielectric
 doziest
 disparately
 dismerit
-depender
 deputing
 discontinuor
 drosophilidae
