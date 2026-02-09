@@ -269,7 +269,6 @@ furniment
 fermery
 frau
 fiduciary
-fellagha
 fluyts
 fusains
 favi
@@ -10011,6 +10010,7 @@ flee
 flatwork
 franchiser
 flor
+fellagha
 fryer
 foollike
 flans
