@@ -7059,7 +7059,6 @@ barracks
 bespeak
 benevolences
 bodyless
-biggings
 bimorphs
 bushing
 bedswerver
@@ -8468,6 +8467,7 @@ bumble
 balsameaceae
 beaches
 bemusk
+biggings
 barkle
 bannerer
 bilingually
