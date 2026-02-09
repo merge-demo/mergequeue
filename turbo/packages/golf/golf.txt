@@ -969,7 +969,6 @@ genetically
 gamp
 graysby
 gastrolobium
-genre
 grivet
 gilgamesh
 grouting
@@ -5808,6 +5807,7 @@ grunts
 goupin
 galactosemic
 gnatworm
+genre
 genupectoral
 goniometer
 globoid
