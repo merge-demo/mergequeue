@@ -3514,6 +3514,7 @@ gangboard
 goalers
 grosbeak
 glossophaga
+gipons
 greatening
 gelignite
 guyots
@@ -10228,7 +10229,6 @@ glutaraldehyde
 grape
 girondism
 gossypin
-gipons
 granjeno
 graminivore
 generating
