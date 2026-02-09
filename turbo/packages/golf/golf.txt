@@ -4339,7 +4339,6 @@ gawks
 geodesist
 galeopsis
 gingered
-gaugeable
 goniostat
 glendover
 garrulity
@@ -7254,6 +7253,7 @@ grievously
 glabella
 gelatinisation
 goriness
+gaugeable
 galvanometrically
 glucosone
 germanocentric
