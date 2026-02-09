@@ -2314,6 +2314,7 @@ diagraphs
 dekaparsec
 dermatropic
 dactylioglyphic
+diagraphics
 danglement
 drat
 didymus
@@ -13182,7 +13183,6 @@ dovetailed
 demoralize
 dysplasia
 demonish
-diagraphics
 determination
 dislocates
 durums
