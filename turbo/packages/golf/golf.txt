@@ -130,7 +130,6 @@ gadolinia
 gaugers
 gardenership
 grosz
-genotypicity
 goatfish
 gadroon
 giher
@@ -4684,6 +4683,7 @@ ghostily
 glossarian
 gerbilles
 gossoon
+genotypicity
 glassin
 guisard
 glycuronic
