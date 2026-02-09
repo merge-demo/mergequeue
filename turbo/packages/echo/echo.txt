@@ -2428,7 +2428,6 @@ electroencephalographical
 essentialize
 electionary
 evoker
-electroendosmosis
 encipher
 epoist
 enslavements
@@ -13060,6 +13059,7 @@ egre
 echites
 eleuin
 ejectable
+electroendosmosis
 expenditrix
 ecclesiophobia
 enfonced
