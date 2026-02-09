@@ -1548,6 +1548,7 @@ eggs
 entothorax
 excerptive
 encyclopedial
+exsected
 eupeptically
 ensconces
 enervates
@@ -5228,7 +5229,6 @@ endleaves
 extravagances
 euchroic
 euhemerising
-exsected
 enantiomeride
 extrascriptural
 escartelly
