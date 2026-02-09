@@ -8893,6 +8893,7 @@ diceras
 dmod
 deriving
 dioptidae
+duplicability
 disconnect
 dissolvability
 desex
@@ -12647,7 +12648,6 @@ dridder
 disdiplomatize
 dendrobates
 disfavour
-duplicability
 dinitrobenzene
 dissolute
 disleafed
