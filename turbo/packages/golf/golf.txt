@@ -382,7 +382,6 @@ galactosis
 grimsire
 gauric
 galactotrophy
-grf
 goodhumoredness
 glutamates
 gynobasic
@@ -5184,6 +5183,7 @@ gesticulator
 grumbled
 glossocomon
 guavas
+grf
 genipap
 gemman
 guti
