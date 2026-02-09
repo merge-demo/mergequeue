@@ -14458,7 +14458,6 @@ chaliced
 cappagh
 conscription
 cassatas
-counterpuncher
 cirsectomies
 cirsoid
 cirsophthalmia
@@ -29147,6 +29146,7 @@ cryobiological
 cryobiologist
 criobolium
 courtman
+counterpuncher
 credit
 coelacanthini
 cacodorous
