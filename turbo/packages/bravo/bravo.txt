@@ -2111,7 +2111,6 @@ bannerols
 bannisters
 birthmarks
 bioflavinoid
-buyers
 bannocks
 boilinglike
 banovina
@@ -5826,6 +5825,7 @@ bullsnake
 berseem
 beverage
 bittock
+buyers
 bribeworthy
 baigneuse
 bengaline
