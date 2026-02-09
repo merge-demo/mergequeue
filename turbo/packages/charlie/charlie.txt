@@ -1471,6 +1471,7 @@ coecal
 continents
 careening
 calkers
+chequy
 chowse
 calkin
 calkins
@@ -18865,7 +18866,6 @@ cloches
 coarcted
 colymbion
 colymbriformes
-chequy
 colymbus
 choroid
 chaines
