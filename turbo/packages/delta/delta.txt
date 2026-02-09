@@ -13517,6 +13517,7 @@ dysgraphia
 deticks
 dissavs
 drumbeater
+decollation
 dissceptered
 dislike
 dogie
@@ -16505,7 +16506,6 @@ dibblers
 draftiest
 disobeyer
 diakinetic
-decollation
 dodderer
 dithiol
 distrix
