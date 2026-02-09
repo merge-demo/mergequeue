@@ -7025,6 +7025,7 @@ antitryptic
 atrioventricular
 arborist
 animal
+actionable
 anoure
 aniseeds
 appreciatorily
@@ -16675,7 +16676,6 @@ araby
 apertness
 abnormalism
 ambocoelia
-actionable
 apertometer
 aurally
 apocarpies
