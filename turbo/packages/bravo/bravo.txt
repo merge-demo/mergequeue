@@ -1746,6 +1746,7 @@ belorussian
 baronial
 baloskion
 bulbels
+bv
 billeter
 brownistical
 baladine
@@ -2052,7 +2053,6 @@ baptanodon
 benefitted
 banjorine
 banjuke
-bv
 beflecking
 bank
 bankalachi
