@@ -2839,7 +2839,6 @@ fieldsmen
 farmhand
 fishnet
 feticide
-front
 flossie
 freeways
 fizzy
@@ -11217,6 +11216,7 @@ farads
 firer
 failles
 flamethrowers
+front
 fieldsman
 fetoplacental
 fungosities
