@@ -1881,6 +1881,7 @@ endamage
 eightball
 eclat
 earthstar
+ecuelle
 epurate
 eptatretidae
 entrepeneur
@@ -7515,7 +7516,6 @@ endungeon
 encystment
 englishable
 eaceworm
-ecuelle
 eulamellibranch
 eloiners
 epicardia
