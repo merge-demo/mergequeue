@@ -3365,6 +3365,7 @@ feeless
 foreyards
 fusilades
 fastigate
+foollike
 fulmen
 forcut
 fopling
@@ -10010,7 +10011,6 @@ franchiser
 flor
 fellagha
 fryer
-foollike
 flans
 fluorometric
 fringehead
