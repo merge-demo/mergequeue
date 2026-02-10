@@ -18256,7 +18256,6 @@ coffer
 corridor
 cofferdam
 claudetite
-chaetophorales
 cephalotome
 coombe
 cofferer
@@ -23904,6 +23903,7 @@ controversionalist
 controverted
 controverter
 controvertibility
+chaetophorales
 controvertible
 counterplead
 controverting
