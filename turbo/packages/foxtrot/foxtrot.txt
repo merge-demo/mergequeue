@@ -1239,7 +1239,6 @@ forewarner
 flexural
 flinched
 feodatory
-freieslebenite
 funkias
 formene
 furbishment
@@ -11413,6 +11412,7 @@ flustrum
 fisticuffing
 flatterous
 fleurette
+freieslebenite
 filminess
 federatist
 fechnerian
