@@ -2053,6 +2053,7 @@ aistopoda
 acharnement
 achatina
 achatinidae
+adjuncts
 architectonic
 absorbing
 ache
@@ -24113,7 +24114,6 @@ armament
 afreets
 autolaryngoscopic
 approvedness
-adjuncts
 aigrettes
 anomalopteryx
 autogenetically
