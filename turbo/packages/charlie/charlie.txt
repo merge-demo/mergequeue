@@ -3057,7 +3057,6 @@ chiasmodon
 croppa
 clarino
 cycadeous
-canvasado
 canvasbacks
 canvasers
 coralroot
@@ -13428,6 +13427,7 @@ casting
 cigaritos
 choloepus
 cautions
+canvasado
 consubstantialism
 cygnid
 commodore
