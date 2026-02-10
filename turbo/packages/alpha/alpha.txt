@@ -776,6 +776,7 @@ archenteric
 acratia
 abreed
 asyle
+advanceable
 acetate
 autostrada
 abridgable
@@ -25092,7 +25093,6 @@ axenic
 axenically
 annual
 ausforms
-advanceable
 antiastronomical
 atwirl
 accusativeness
