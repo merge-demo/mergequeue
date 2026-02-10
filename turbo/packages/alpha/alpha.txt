@@ -2061,7 +2061,6 @@ appetites
 artemisin
 affiliation
 amylohydrolytic
-antiputrefactive
 anammonid
 auditorily
 altitudinal
@@ -16344,6 +16343,7 @@ aricine
 alphabetizing
 assuagement
 anthraphenone
+antiputrefactive
 antitropy
 asonia
 arculite
