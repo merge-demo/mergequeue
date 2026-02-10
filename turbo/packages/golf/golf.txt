@@ -7788,6 +7788,7 @@ grumbletonian
 gnomish
 gralline
 goofer
+gutnic
 gadman
 gondoliere
 gray
@@ -10712,7 +10713,6 @@ grams
 gumma
 gastrolytic
 gallused
-gutnic
 gears
 gracioso
 guywire
