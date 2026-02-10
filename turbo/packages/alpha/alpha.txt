@@ -6168,6 +6168,7 @@ astrolabes
 agitato
 aglucon
 agminated
+aircraftmen
 agnails
 agnat
 agnatha
@@ -6786,7 +6787,6 @@ arresting
 airbusses
 antibias
 axometer
-aircraftmen
 aircraftsman
 antipass
 adsorptiveness
