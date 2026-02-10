@@ -3450,7 +3450,6 @@ addendums
 archaized
 adder
 abridgment
-antroversion
 addible
 addicent
 antiknocks
@@ -9145,6 +9144,7 @@ allhallow
 abhorring
 alky
 aristogenetic
+antroversion
 anemometric
 antacid
 alluvious
