@@ -5263,7 +5263,6 @@ coachwood
 cassata
 coalitions
 cassation
-caveats
 cerin
 cassegrain
 clavierists
@@ -30026,6 +30025,7 @@ chrismal
 crottal
 concentrically
 crottle
+caveats
 crouch
 crouchant
 chilognathan
