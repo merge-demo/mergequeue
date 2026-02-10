@@ -2808,7 +2808,6 @@ delphinus
 duodecahedron
 decrescent
 deknight
-desulfured
 droller
 decretalist
 despumating
@@ -12342,6 +12341,7 @@ deathweed
 dishcloth
 dishcloths
 disparkle
+desulfured
 distraint
 dupable
 diel
