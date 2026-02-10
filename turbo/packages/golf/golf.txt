@@ -9049,7 +9049,6 @@ guiles
 geohydrologic
 grillee
 golem
-gramashes
 granatum
 geomorphogenist
 gorhens
@@ -9432,6 +9431,7 @@ guanabano
 glorify
 gobia
 galliot
+gramashes
 gouramis
 gemmate
 gazed
