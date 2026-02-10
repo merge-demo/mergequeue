@@ -7284,7 +7284,6 @@ emulous
 eimeria
 eurypygae
 enterpillar
-elasticity
 eat
 enigmatize
 encushion
@@ -9596,6 +9595,7 @@ epihippus
 enterohemorrhage
 esophagalgia
 esophagean
+elasticity
 esophago
 esophagogastroscopy
 esophagometer
