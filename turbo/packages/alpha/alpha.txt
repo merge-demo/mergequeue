@@ -11755,6 +11755,7 @@ anagyris
 anaglyph
 annulism
 anisopleural
+alkalamide
 anaglyphs
 anaglypta
 aldim
@@ -17423,7 +17424,6 @@ ashluslay
 alhambresque
 apothecaryship
 archosyrinx
-alkalamide
 afret
 archenemy
 apothecium
