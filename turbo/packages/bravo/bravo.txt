@@ -8731,6 +8731,7 @@ betuckered
 bulginess
 berghaan
 binaural
+bihalve
 blow
 binbashi
 blandly
@@ -15819,7 +15820,6 @@ brokage
 bulletin
 brokages
 banande
-bihalve
 barebones
 baksheeshes
 bottomlessness
