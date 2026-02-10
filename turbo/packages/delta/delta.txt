@@ -423,6 +423,7 @@ drinker
 dairywomen
 daunder
 descanting
+dustpoint
 dayrooms
 deities
 dorsad
@@ -13317,7 +13318,6 @@ dispurse
 distillate
 destuffing
 daintier
-dustpoint
 dispurvey
 disputability
 dotters
