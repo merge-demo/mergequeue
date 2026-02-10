@@ -3598,7 +3598,6 @@ gyrocar
 greg
 gustus
 gyrochrome
-gynostegigia
 gnathobdellae
 gargil
 gaelicize
@@ -4316,6 +4315,7 @@ gynetype
 gymnadenia
 glazieries
 glazings
+gynostegigia
 grieves
 gippy
 grads
