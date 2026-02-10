@@ -6680,7 +6680,6 @@ asteam
 ailuridae
 aneurilemmic
 archvillain
-ankyloblepharon
 ailuroidea
 antiopiumite
 ailurophilic
@@ -11249,6 +11248,7 @@ amphicreatinine
 archipallium
 amphictyony
 amphictyonian
+ankyloblepharon
 antistrophic
 amphictyons
 anisospore
