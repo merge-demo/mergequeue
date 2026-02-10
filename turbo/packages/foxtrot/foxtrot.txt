@@ -3193,6 +3193,7 @@ freeholds
 frosh
 fickle
 fixage
+frontages
 fruits
 fiches
 findjan
@@ -10336,7 +10337,6 @@ freshwoman
 flaps
 fuzil
 foreordainments
-frontages
 feeder
 floorshow
 foredoomer
