@@ -6682,7 +6682,6 @@ deshabille
 diachylon
 dinitrophenol
 diplohedron
-downcurved
 desyatin
 deaconries
 dubonnets
@@ -16499,6 +16498,7 @@ despatcher
 darii
 dilucidate
 disdainable
+downcurved
 diomedes
 dictated
 dehydrofreezing
