@@ -1598,7 +1598,6 @@ gametogenesis
 gaunted
 giblet
 gastreas
-glaucosuria
 gyrinid
 glassteel
 grimly
@@ -9200,6 +9199,7 @@ gliss
 greenstick
 glavering
 glaucomas
+glaucosuria
 gastrodiaphanoscopy
 gradine
 goniometrically
