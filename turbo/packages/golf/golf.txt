@@ -2907,7 +2907,6 @@ glycose
 gobiiformes
 glossophagine
 gwiniad
-glitter
 gunflint
 gabbled
 geocerite
@@ -10777,6 +10776,7 @@ gallium
 glamourie
 geranyl
 glycyl
+glitter
 gutt
 gaia
 gerenuk
