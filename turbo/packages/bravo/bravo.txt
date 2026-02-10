@@ -12416,7 +12416,6 @@ behap
 bicapitate
 backcast
 bookwright
-begloom
 bonbons
 batell
 barker
@@ -17940,6 +17939,7 @@ branial
 bibliopoly
 bushman
 bisinuate
+begloom
 benignant
 bushmasters
 boothian
