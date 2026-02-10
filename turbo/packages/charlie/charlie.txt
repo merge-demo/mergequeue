@@ -4488,7 +4488,6 @@ carlot
 cavorters
 communalised
 carmagnole
-ceremonials
 carmaker
 circumscriptions
 call
@@ -12170,6 +12169,7 @@ chaoticness
 chrysobalanus
 chrysoberyl
 chrysobull
+ceremonials
 cinchonising
 chrysocarpous
 chrysochloridae
