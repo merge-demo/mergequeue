@@ -112,7 +112,6 @@ fluidization
 facient
 furaldehyde
 facilitate
-fittiness
 facilitation
 fluosilicate
 facy
@@ -11091,6 +11090,7 @@ foreknowableness
 functionation
 fane
 factfinder
+fittiness
 flagellated
 fangled
 functionnaire
