@@ -6205,6 +6205,7 @@ fluctuational
 factioneer
 fluegelhorn
 foalfoot
+foveation
 forefence
 flightily
 fairgrounds
@@ -10810,7 +10811,6 @@ fuchsine
 furmint
 flustra
 facet
-foveation
 foredestined
 footcandles
 fleeten
