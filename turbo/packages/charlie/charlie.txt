@@ -11628,7 +11628,6 @@ cholesterinic
 cholesterol
 clepsydrae
 cholesterolemia
-cholesteroluria
 controversial
 chack
 choline
@@ -21722,6 +21721,7 @@ conditionalism
 coplotting
 conumerary
 claviculus
+cholesteroluria
 conditionalist
 cassytha
 campiness
