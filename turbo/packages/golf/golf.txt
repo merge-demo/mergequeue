@@ -1831,7 +1831,6 @@ gill
 gawkihood
 graphemics
 grecizing
-gossip
 gleir
 gasper
 gambles
@@ -7182,6 +7181,7 @@ galvayne
 grabbers
 geobotanical
 gnawable
+gossip
 gloryful
 granate
 generalship
