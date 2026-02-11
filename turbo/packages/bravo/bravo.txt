@@ -8517,7 +8517,6 @@ billage
 brumes
 barricading
 bittersweetly
-billboards
 bourkha
 beetrooty
 beshawled
@@ -15724,6 +15723,7 @@ borrovian
 bircher
 begroaned
 botanophile
+billboards
 breakfront
 broadsiding
 broadspread
