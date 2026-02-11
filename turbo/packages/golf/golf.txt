@@ -4068,7 +4068,6 @@ glossator
 gimberjawed
 globigerina
 gilttail
-gravelliness
 gibbosity
 gentleman
 gratifications
@@ -4212,6 +4211,7 @@ guidable
 galactolytic
 gliosa
 gigantosaurus
+gravelliness
 gonidiose
 ghibelline
 gynaecium
