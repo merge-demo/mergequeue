@@ -2354,6 +2354,7 @@ canamo
 cranesbill
 chaetognathous
 cicer
+cloveroot
 colorfast
 canap
 consummator
@@ -16866,7 +16867,6 @@ clubhauls
 clubhouses
 clubionidae
 clubland
-cloveroot
 clubmate
 corosif
 chiccory
