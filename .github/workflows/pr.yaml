@@ -5,10 +5,17 @@ on:
   push:
     branches:
       - trunk-merge/**
+
+# When both pull_request and push fire for the same branch (e.g. merge queue),
+# only one run proceeds; the in-progress run is cancelled.
+concurrency:
+  group: pr-test-${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: true
+
 jobs:
   test:
     name: run tests to validate pr
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     env:
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 
