@@ -7337,7 +7337,6 @@ glumpiness
 guildhall
 gowl
 gosports
-grainless
 gentianose
 gossamered
 galega
@@ -8282,6 +8281,7 @@ garrigue
 graphotype
 grapier
 garrisons
+grainless
 gusseting
 glossographer
 globule
