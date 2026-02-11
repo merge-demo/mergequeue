@@ -1277,7 +1277,6 @@ ecorche
 eblis
 eucairite
 eleonorite
-eoghanacht
 epinephrin
 epigramme
 eq
@@ -10634,6 +10633,7 @@ excavate
 endozoa
 eques
 enharmonical
+eoghanacht
 enchilada
 eudemonistic
 enfacement
