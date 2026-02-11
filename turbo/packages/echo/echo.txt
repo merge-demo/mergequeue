@@ -6199,6 +6199,7 @@ etiologic
 enological
 enterclose
 execs
+etagre
 ellipsoid
 erasure
 exodist
@@ -9828,7 +9829,6 @@ eternise
 elenchtical
 exact
 estrich
-etagre
 eikon
 egocentricity
 enthronising
