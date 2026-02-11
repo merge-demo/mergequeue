@@ -6306,7 +6306,6 @@ elastica
 emmenagogue
 elenchtic
 ensanguine
-eloquent
 enlargingly
 eradiated
 emporium
@@ -12674,6 +12673,7 @@ exonym
 era
 eelback
 earcockle
+eloquent
 energizing
 exophasic
 etchers
