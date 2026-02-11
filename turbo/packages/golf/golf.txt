@@ -661,7 +661,6 @@ gravelish
 gamely
 gregariousness
 galinsoga
-gallows
 gonitis
 guilds
 gallimaufry
@@ -6023,6 +6022,7 @@ goldbricker
 gibetting
 grin
 gentry
+gallows
 gusting
 glossoplasty
 gnarly
