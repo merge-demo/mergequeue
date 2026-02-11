@@ -764,7 +764,7 @@ gladsomer
 gire
 gawkily
 gorget
-geometrically
+geometrically 1
 graywether
 glome
 galvanotherapy
