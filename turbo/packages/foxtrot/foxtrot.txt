@@ -1884,6 +1884,7 @@ fec
 fight
 floruit
 feelingly
+formaliter
 fecundate
 formatted
 fanback
@@ -9479,7 +9480,6 @@ facinorous
 ffa
 florescent
 frauleins
-formaliter
 fissiparousness
 forejudger
 forbreak
