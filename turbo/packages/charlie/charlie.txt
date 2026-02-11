@@ -3328,7 +3328,6 @@ caponette
 caponier
 caponiere
 cognominate
-caponiers
 cavilling
 cotyledon
 concavely
@@ -25036,6 +25035,7 @@ configured
 cordobas
 cordon
 cordonazos
+caponiers
 consarn
 chlorargyrite
 circumstantiates
