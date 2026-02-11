@@ -1708,7 +1708,6 @@ gloeal
 goric
 glass
 guesses
-gamesman
 guernseys
 gaullism
 gastropexy
@@ -7835,6 +7834,7 @@ gamut
 gufa
 greenkeeper
 glassblowers
+gamesman
 gook
 glead
 grillework
