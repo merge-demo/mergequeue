@@ -15536,7 +15536,6 @@ classable
 coplanarity
 classbook
 conquinine
-classed
 cyclicism
 classers
 classfellow
@@ -18402,6 +18401,7 @@ conclude
 canmaking
 componentry
 cognitional
+classed
 cognitive
 cognitively
 cokelike
