@@ -2979,7 +2979,6 @@ gentlefolk
 gambusia
 guatambu
 gastornis
-greasiness
 glitnir
 gibbering
 goldenknop
@@ -5212,6 +5211,7 @@ grana
 groundsheet
 gale
 gleed
+greasiness
 gramophone
 germinant
 glyptologist
