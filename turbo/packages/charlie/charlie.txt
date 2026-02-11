@@ -5530,6 +5530,7 @@ cpm
 cyanamide
 catacorner
 ceaselessly
+ciruela
 clacked
 catacoustics
 cwms
@@ -14475,7 +14476,6 @@ cyrtometer
 calcavella
 cyrtomium
 cyrtopia
-ciruela
 croceins
 cyrus
 choroidocyclitis
