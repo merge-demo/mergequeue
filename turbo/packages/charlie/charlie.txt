@@ -9885,7 +9885,6 @@ chemoresistance
 chemoserotherapy
 chemosynthesis
 chemosynthetic
-chemosmoses
 chemosmotic
 consumptible
 choora
@@ -19370,6 +19369,7 @@ captainships
 cherubin
 colorant
 colorants
+chemosmoses
 colorate
 coloration
 colorational
