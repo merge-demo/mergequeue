@@ -3555,7 +3555,6 @@ captives
 cocooned
 comatulae
 captor
-capturable
 catechized
 capture
 captured
@@ -8708,6 +8707,7 @@ cobriform
 chapeled
 concion
 convalescency
+capturable
 crenelle
 chapelgoing
 cockpits
