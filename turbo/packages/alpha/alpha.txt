@@ -6381,7 +6381,6 @@ anamorphote
 anecdotists
 ametrometer
 agriculturist
-aftergood
 anticreep
 agrilus
 adultress
@@ -24803,6 +24802,7 @@ appropriable
 avilement
 avocation
 avions
+aftergood
 affair
 adieux
 avirulence
