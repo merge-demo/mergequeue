@@ -3579,7 +3579,6 @@ flapjacks
 fussle
 fairbanks
 fourniture
-flashover
 fardels
 flank
 filers
@@ -5488,6 +5487,7 @@ funniness
 frequentness
 forensic
 flensed
+flashover
 frillers
 federal
 fidelities
