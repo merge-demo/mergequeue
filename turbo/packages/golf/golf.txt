@@ -188,7 +188,7 @@ glamour
 greyhen
 goyish
 groggily
-goliathize
+goliathize 1
 goniometry
 gluteoperineal
 guesting
