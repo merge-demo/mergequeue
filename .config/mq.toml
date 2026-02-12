@@ -1,5 +1,5 @@
 mode = "parallelqueue"
-build = "turbo"
+build = "uv"
 
 [trunk]
 api = "api.trunk.io"
@@ -18,7 +18,7 @@ labels = ""                     # label to apply to pull request on creation (co
 comment = ""
 requests_per_hour = 10          # target number of pull requests per hour
 run_generate_for = "30 minutes"
-change_code_path = "turbo"
+change_code_path = "uv/lib"
 
 # how to distribute changes of impacted deps
 # 75% - 1 dep change
