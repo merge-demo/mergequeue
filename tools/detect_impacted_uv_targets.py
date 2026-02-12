@@ -9,7 +9,7 @@ propagates impact to dependents using the dependency graph from uv.lock.
 
 import argparse
 import json
-import subprocess
+import subprocess  # noqa: B404  # bandit: git is a trusted control-plane tool
 import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Set
@@ -20,6 +20,7 @@ def _parse_uv_lock(lock_path: Path) -> tuple[Dict[str, str], Dict[str, List[str]
     Parse uv.lock for workspace members without external TOML deps.
     Returns (path_by_name, dependents) for workspace packages only.
     """
+    # pylint: disable=too-many-branches,too-many-locals,too-many-statements
     text = lock_path.read_text(encoding="utf-8")
     members: Set[str] = set()
     in_manifest_members = False
@@ -47,7 +48,6 @@ def _parse_uv_lock(lock_path: Path) -> tuple[Dict[str, str], Dict[str, List[str]
     current_editable: Optional[str] = None
     current_deps: List[str] = []
     in_deps = False
-    in_source = False
 
     for line in text.splitlines():
         stripped = line.strip()
@@ -59,11 +59,11 @@ def _parse_uv_lock(lock_path: Path) -> tuple[Dict[str, str], Dict[str, List[str]
             current_editable = None
             current_deps = []
             in_deps = False
-            in_source = False
             continue
         if stripped.startswith('name = "'):
             current_name = stripped.split('"')[1]
-        if 'editable = "' in line:
+        # Only take editable from "source = { editable = \"...\" }", not requires-dist
+        if stripped.startswith("source = ") and 'editable = "' in line:
             for i, part in enumerate(line.split('"')):
                 if i % 2 == 1 and i >= 1:
                     current_editable = part.rstrip("/")
@@ -156,28 +156,34 @@ def get_changed_files(
     changed = []
     try:
         if base and head:
-            result = subprocess.run(
-                ["git", "diff", "--name-only", base, head],
-                capture_output=True,
-                text=True,
-                check=True,
+            result = (
+                subprocess.run(  # noqa: B603,B607  # nosec B603,B607 - git from PATH
+                    ["git", "diff", "--name-only", base, head],
+                    capture_output=True,
+                    text=True,
+                    check=True,
+                )
             )
             changed.extend(result.stdout.strip().split("\n"))
         elif uncommitted:
-            result = subprocess.run(
-                ["git", "diff", "--name-only", "HEAD"],
-                capture_output=True,
-                text=True,
-                check=True,
+            result = (
+                subprocess.run(  # noqa: B603,B607  # nosec B603,B607 - git from PATH
+                    ["git", "diff", "--name-only", "HEAD"],
+                    capture_output=True,
+                    text=True,
+                    check=True,
+                )
             )
             changed.extend(result.stdout.strip().split("\n"))
 
         if untracked:
-            result = subprocess.run(
-                ["git", "ls-files", "--others", "--exclude-standard"],
-                capture_output=True,
-                text=True,
-                check=True,
+            result = (
+                subprocess.run(  # noqa: B603,B607  # nosec B603,B607 - git from PATH
+                    ["git", "ls-files", "--others", "--exclude-standard"],
+                    capture_output=True,
+                    text=True,
+                    check=True,
+                )
             )
             changed.extend(result.stdout.strip().split("\n"))
 
@@ -199,8 +205,6 @@ def map_files_to_directly_changed_packages(
     Root pyproject.toml or uv.lock triggers all packages.
     """
     directly_changed: Set[str] = set()
-    root_lock = repo_root / "uv.lock"
-    root_pyproject = repo_root / "pyproject.toml"
     root_str = str(repo_root.resolve())
 
     for f in changed_files:
@@ -219,7 +223,7 @@ def map_files_to_directly_changed_packages(
             continue
         rel_str = str(rel).replace("\\", "/")
 
-        if rel_str == "pyproject.toml" or rel_str == "uv.lock":
+        if rel_str in ("pyproject.toml", "uv.lock"):
             directly_changed.update(path_by_name.keys())
             continue
         if rel_str.startswith("uv/"):
