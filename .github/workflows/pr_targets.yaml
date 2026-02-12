@@ -83,6 +83,17 @@ jobs:
           base-sha: ${{ github.event.pull_request.base.sha }}
           head-sha: ${{ github.event.pull_request.head.sha }}
 
+      - name: uv pr targets
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          steps.get-demo-config.outputs.build == 'uv'
+        uses: ./.github/actions/uv-pr-targets
+        with:
+          trunk-token: ${{ steps.get-trunk-token.outputs.token }}
+          api-url: ${{ steps.get-trunk-token.outputs.api_url }}
+          base-sha: ${{ github.event.pull_request.base.sha }}
+          head-sha: ${{ github.event.pull_request.head.sha }}
+
       - name: named pr targets
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
