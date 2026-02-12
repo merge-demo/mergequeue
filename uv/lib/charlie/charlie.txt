@@ -15847,7 +15847,7 @@ cleche
 capacitance
 clechee
 constants
-cleck
+cleck 1
 commune
 coassumes
 cledde
