@@ -2982,7 +2982,7 @@ canthotomy
 charivaris
 confuter
 clamehewit
-canthuthi
+canthuthi 1
 coyest
 canticle
 carne
