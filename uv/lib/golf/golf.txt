@@ -9130,7 +9130,7 @@ gavelkinder
 grisounite
 gelong
 greenbrier
-gigful
+gigful 1
 gracious
 grinning
 gingerberry
