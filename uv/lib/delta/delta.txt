@@ -7766,7 +7766,7 @@ detailism
 diglyph
 devisor
 decrier
-dowie
+dowie 1
 devitalizes
 drawler
 ductilizing
