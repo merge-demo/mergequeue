@@ -12980,7 +12980,7 @@ angulately
 appearance
 adulterator
 astrer
-aquilinity
+aquilinity 1
 assimilable
 athelings
 alkalisable
