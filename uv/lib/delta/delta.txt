@@ -12584,7 +12584,7 @@ dispersoid
 dromedaries
 diamantoid
 denominators
-disintegrator
+disintegrator 1
 deifications
 disintegrators
 dextrer
