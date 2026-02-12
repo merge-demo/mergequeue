@@ -8459,7 +8459,7 @@ angustate
 abdomens
 adaptable
 alacreatinine
-alkalize
+alkalize 1
 alkalizer
 afforested
 alkaloid
