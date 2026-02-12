@@ -9660,7 +9660,7 @@ dispersedelement
 desulphurization
 dikaryophasic
 dikaryophyte
-demission
+demission 1
 dikaryophytic
 disfiguration
 deliquesces
