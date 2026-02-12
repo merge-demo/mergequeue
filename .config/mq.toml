@@ -20,14 +20,6 @@ requests_per_hour = 10          # target number of pull requests per hour
 run_generate_for = "30 minutes"
 change_code_path = "turbo"
 
-
-# the max number of deps in this repo. setting to 3 for example will cause
-# files in alpha, bravo, charlie deps to be changed
-max_deps = 7
-
-# the max number of deps per PR to edit
-max_impacted_deps = 2
-
 # how to distribute changes of impacted deps
 # 75% - 1 dep change
 # 15% - 2 dep change
