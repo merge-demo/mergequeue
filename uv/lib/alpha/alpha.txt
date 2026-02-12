@@ -24169,7 +24169,7 @@ autoinfusion
 autoinoculable
 antiritualism
 aldermanries
-abrus
+abrus 1
 anquera
 acy
 afterlifetime
