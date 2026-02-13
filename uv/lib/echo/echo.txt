@@ -1991,7 +1991,7 @@ economizing
 eker
 epigastriocele
 epitritic
-equiparable
+equiparable 1
 effetman
 exorcisory
 encyclopedist
