@@ -5967,7 +5967,7 @@ encrinoidea
 encoffin
 elains
 effate
-enhunger
+enhunger 1
 emissary
 eruc
 erythrose
