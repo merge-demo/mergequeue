@@ -8662,7 +8662,7 @@ dissection
 dyassic
 delousing
 demagogies
-divulgate
+divulgate 1
 decoymen
 drumbling
 discoast
