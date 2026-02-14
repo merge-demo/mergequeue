@@ -15633,7 +15633,7 @@ dowl
 doghouses
 detumescent
 displacement
-derth
+derth 1
 deponent
 doorstone
 daggers
