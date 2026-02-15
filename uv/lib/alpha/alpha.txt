@@ -6079,7 +6079,7 @@ agitations
 allorrhyhmia
 actor
 anorchism
-anisochromatic
+anisochromatic 1
 anapaestic
 aviatrix
 appay
