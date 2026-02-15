@@ -5095,7 +5095,7 @@ disenabling
 deadrise
 dendrocygna
 discomfit
-dedimus
+dedimus 1
 dispone
 dissipated
 dissimulates
