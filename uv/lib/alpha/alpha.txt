@@ -14855,7 +14855,7 @@ astrognosy
 autospray
 apenteric
 antimachinery
-anticyclic
+anticyclic 1
 arrondi
 alife
 anticyclical
