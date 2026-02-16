@@ -8149,7 +8149,7 @@ goatling
 granulet
 gorgonising
 gemsboks
-gallies
+gallies 1
 granulization
 gliff
 ghastful
