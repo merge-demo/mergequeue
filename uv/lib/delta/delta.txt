@@ -3490,7 +3490,7 @@ defoliations
 descending
 disjunct
 debilitant
-dichroscope
+dichroscope 1
 decelerating
 dehydrochlorination
 dorosacral
