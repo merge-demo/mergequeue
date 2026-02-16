@@ -6383,7 +6383,7 @@ greenwort
 guesstimate
 glossophaga
 gulmohar
-galloped
+galloped 1
 gamesomeness
 grieve
 gigget
