@@ -21018,7 +21018,7 @@ cypsela
 compunct
 crassilingual
 compunction
-cystaster
+cystaster 1
 curvedness
 catenaries
 consolidate
