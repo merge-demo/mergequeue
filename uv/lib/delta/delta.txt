@@ -10196,7 +10196,7 @@ denuclearize
 decemvirs
 dingman
 doven
-dings
+dings 1
 despises
 dzeron
 depopularize
