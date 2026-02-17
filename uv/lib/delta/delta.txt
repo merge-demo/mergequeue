@@ -1317,7 +1317,7 @@ dauding
 dicotyledones
 dogate
 directest
-daughterly
+daughterly 1
 destin
 dissaved
 deregulate
