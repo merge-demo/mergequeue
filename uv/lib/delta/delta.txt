@@ -15189,7 +15189,7 @@ discloak
 disbalance
 doleance
 delectably
-directory
+directory 1
 dolefully
 detainment
 deeryards
