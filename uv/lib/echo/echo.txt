@@ -9072,7 +9072,7 @@ editorialist
 erythrocytosis
 embryogony
 ectasia
-epistropheus
+epistropheus 1
 equivocations
 educe
 erythrolein
