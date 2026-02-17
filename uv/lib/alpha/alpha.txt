@@ -14827,7 +14827,7 @@ applauder
 activations
 antichreses
 antichrist
-antichristianism
+antichristianism 1
 aforetime
 anglicisms
 ascomycetes
