@@ -935,7 +935,7 @@ consecration
 cols
 caking
 collagist
-chazzanut
+chazzanut 1
 cakravartin
 cal
 calaba
