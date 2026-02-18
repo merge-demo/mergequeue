@@ -12578,7 +12578,7 @@ awnlike
 ardennite
 antidoron
 appenditious
-aligns
+aligns 1
 aboriginary
 aeropleustic
 acinetarian
