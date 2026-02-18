@@ -16203,7 +16203,7 @@ cline
 clines
 caudexes
 clinger
-crankness
+crankness 1
 crossbeak
 clingfishes
 contravenes
