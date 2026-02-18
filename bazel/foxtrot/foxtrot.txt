@@ -11523,7 +11523,7 @@ forleave
 ferruler
 fistic
 foreremembered
-fab
+fab 1
 furtiveness
 frena
 foxfeet
