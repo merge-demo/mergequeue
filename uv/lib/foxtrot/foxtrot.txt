@@ -3266,7 +3266,7 @@ fluorinate
 fittit
 fuzed
 foreknowledge
-freestanding
+freestanding 1
 fibrosity
 forthrightly
 faradizer
