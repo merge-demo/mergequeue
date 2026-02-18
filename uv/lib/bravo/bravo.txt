@@ -17396,7 +17396,7 @@ bamboozler
 boychik
 baetylic
 bungtown
-bosun
+bosun 1
 blithered
 bungwall
 bagre
