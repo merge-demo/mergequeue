@@ -13033,7 +13033,7 @@ chresard
 cyanoplastid
 cyanoplatinite
 cooperative
-cyanoplatinous
+cyanoplatinous 1
 cyanose
 cyanoses
 chemitype
