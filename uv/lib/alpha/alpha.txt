@@ -12932,7 +12932,7 @@ arrivers
 angsts
 attackers
 anguillaria
-autogamies
+autogamies 1
 abey
 amphitheccia
 anticalculous

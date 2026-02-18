@@ -23148,7 +23148,7 @@ constituencies
 cantillated
 choiler
 constituents
-constitute
+constitute 1
 constitutional
 closing
 consociating
