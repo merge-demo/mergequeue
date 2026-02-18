@@ -2113,7 +2113,7 @@ geison
 gawking
 glucinic
 gastrins
-gawkish
+gawkish 1
 grecomania
 gipsied
 geranials
