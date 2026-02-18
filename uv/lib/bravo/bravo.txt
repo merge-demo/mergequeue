@@ -15639,7 +15639,7 @@ broacher
 baulkiest
 broaches
 blimpishness
-burgundies
+burgundies 1
 batterable
 buffone
 barrenest
