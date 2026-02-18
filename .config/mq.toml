@@ -1,5 +1,5 @@
 mode = "parallelqueue"
-build = "uv"
+build = "bazel"
 
 [trunk]
 api = "api.trunk.io"
