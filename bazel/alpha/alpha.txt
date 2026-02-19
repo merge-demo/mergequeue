@@ -13176,7 +13176,7 @@ ayrshire
 atmidometer
 animastic
 animastical
-achymous
+achymous 1
 associatory
 amniotome
 approver
