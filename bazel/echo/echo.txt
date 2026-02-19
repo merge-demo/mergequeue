@@ -4922,7 +4922,7 @@ encumbrance
 extrabureau
 english
 erythroneocytosis
-evolves
+evolves 1
 ephyrula
 eyednesses
 enterocoelic
