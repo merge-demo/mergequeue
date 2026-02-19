@@ -2305,7 +2305,7 @@ acidnesses
 acidology
 acidometer
 arioi
-afflation
+afflation 1
 anacardium
 acidometry
 antinationalization
