@@ -6942,7 +6942,7 @@ enzone
 esau
 entoprocta
 entoptic
-entoptical
+entoptical 1
 entoptics
 evections
 expense
