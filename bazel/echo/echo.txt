@@ -12190,7 +12190,7 @@ empory
 exeat
 epigraphs
 exec
-epiphonemas
+epiphonemas 1
 eudemonist
 exacervation
 enserfs
