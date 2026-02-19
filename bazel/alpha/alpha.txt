@@ -20705,7 +20705,7 @@ articulars
 accessively
 articulated
 accidental
-articulately
+articulately 1
 abut
 amimia
 articulates
