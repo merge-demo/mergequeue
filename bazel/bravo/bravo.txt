@@ -5969,7 +5969,7 @@ benchwarmer
 barothermohygrogram
 bosslet
 begripe
-bellarmine
+bellarmine 1
 bemaddened
 boob
 bellyfuls
@@ -7441,7 +7441,7 @@ bedeviling
 bulbar
 bebeerine
 bifidities
-brew
+brew 1
 barbeau
 bookstack
 budgeting
@@ -7978,7 +7978,7 @@ bicyclism
 blastaea
 bicyclist
 bedabbles
-burntly
+burntly 1
 bicycular
 biciliated
 bicylindrical
@@ -8741,7 +8741,7 @@ binaries
 betuckered
 bulginess
 berghaan
-binaural
+binaural 1
 blow
 binbashi
 blandly
@@ -12985,7 +12985,7 @@ bombastical
 bokadam
 bailli
 brigadiers
-beelike
+beelike 1
 bedquilts
 barmaid
 boppist
@@ -13052,7 +13052,7 @@ braggartry
 bulder
 bordroom
 botchier
-borinqueno
+borinqueno 1
 balling
 barf
 blizzard
@@ -16319,7 +16319,7 @@ brugnatellite
 benzoxy
 bluehearted
 broomsquire
-bulimic
+bulimic 1
 bossing
 bifurcal
 bubonoceze
@@ -17039,7 +17039,7 @@ bimahs
 binoxide
 bishoping
 bulkage
-boldfaces
+boldfaces 1
 burt
 bulkhead
 bulkheading
@@ -18028,7 +18028,7 @@ bondmanship
 busmen
 benda
 busses
-bussing
+bussing 1
 bussock
 beneurous
 brothiest

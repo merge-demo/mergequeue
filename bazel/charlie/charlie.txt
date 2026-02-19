@@ -3421,7 +3421,7 @@ cajole
 capricornid
 conditotoria
 centon
-cedarware
+cedarware 1
 caprificate
 canyon
 caprifig
@@ -6337,7 +6337,7 @@ causationism
 crapefish
 cyanaurate
 compatient
-causator
+causator 1
 cuffing
 cuprosilicon
 cause
@@ -10534,7 +10534,7 @@ chamoises
 carlylesque
 ceratozamia
 competitions
-chyliform
+chyliform 1
 chilina
 cordonazo
 citizenhood
@@ -11728,7 +11728,7 @@ chondriosphere
 connaturally
 cacophony
 chondrites
-chondritic
+chondritic 1
 chondroalbuminoid
 chondroangioma
 credential
@@ -14977,7 +14977,7 @@ citron
 cenobium
 carbonium
 citronalis
-comparison
+comparison 1
 citronellol
 citronin
 citrons

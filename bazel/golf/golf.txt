@@ -1565,7 +1565,7 @@ galliardise
 grassless
 geothermally
 gassed
-gypsumed
+gypsumed 1
 grana
 gentlemens
 gasser
@@ -2771,7 +2771,7 @@ gentiana
 gastrotympanites
 gentianella
 gregatim
-gadhelic
+gadhelic 1
 gung
 granulitic
 grabbled
@@ -5853,7 +5853,7 @@ grundel
 gadger
 gladify
 gate
-gymnosporangium
+gymnosporangium 1
 gynoecium
 glucate
 gorevan
@@ -7277,7 +7277,7 @@ gangsa
 gleaming
 gwerziou
 gavelman
-glassblowing
+glassblowing 1
 galactolipin
 glossotomies
 greencloth
@@ -8045,7 +8045,7 @@ gongorism
 gossipers
 gan
 galempung
-galleries
+galleries 1
 gravicembali
 gravat
 gastrulas
@@ -8184,7 +8184,7 @@ gazers
 grapelike
 gazingstock
 galeodes
-grapery
+grapery 1
 goaded
 geniohyoid
 gied
@@ -9106,7 +9106,7 @@ grinch
 goldwork
 geoid
 garotte
-governableness
+governableness 1
 grumose
 guttation
 geophagist
@@ -9488,7 +9488,7 @@ gonyaulax
 gernative
 graceful
 ghylls
-guelphish
+guelphish 1
 grundlov
 group
 gland
@@ -9554,7 +9554,7 @@ gastornithidae
 groved
 greenskeeper
 gur
-groveled
+groveled 1
 gridiron
 giustina
 goster
@@ -9849,7 +9849,7 @@ gorillas
 geckotidae
 guajillo
 gallicism
-gongoresque
+gongoresque 1
 gips
 grousy
 gametophagia

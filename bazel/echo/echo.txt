@@ -39,7 +39,7 @@ epidemiological
 electrothermic
 eloping
 erroneously
-eopaleozoic
+eopaleozoic 1
 emigrational
 edging
 eardropper
@@ -1010,7 +1010,7 @@ esophageal
 edder
 epiphora
 euphonism
-educationary
+educationary 1
 electropolar
 escargot
 edemas
@@ -3290,7 +3290,7 @@ etymologising
 expectations
 esophagismus
 endoproct
-eugenols
+eugenols 1
 eperlan
 embattlement
 elapidae
@@ -4800,7 +4800,7 @@ enterotomy
 epiopticon
 excusatory
 endocarpic
-encode
+encode 1
 exitance
 ensnarements
 encoding
@@ -6083,7 +6083,7 @@ erotization
 exposer
 evenhandedly
 eluant
-enfever
+enfever 1
 edinburgh
 escheated
 enlaurel
@@ -8275,7 +8275,7 @@ eure
 epigeic
 escapado
 epitoke
-erratums
+erratums 1
 endolaryngeal
 endplay
 epitheliomatous
@@ -11446,7 +11446,7 @@ evese
 entomostraca
 entheate
 embryotic
-expdt
+expdt 1
 elided
 evetide
 extirpating
@@ -12322,7 +12322,7 @@ earthlings
 ethic
 enhydrous
 etymologicon
-exercitation
+exercitation 1
 elecampane
 effortless
 equilin
@@ -12678,7 +12678,7 @@ emerse
 elzevir
 extrapolation
 exomphalos
-erotogenic
+erotogenic 1
 effrontery
 excrementary
 entame

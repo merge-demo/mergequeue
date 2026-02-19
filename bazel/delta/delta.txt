@@ -715,7 +715,7 @@ diatom
 deadmelt
 danceability
 danceable
-demoniacs
+demoniacs 1
 danced
 diddled
 degasification
@@ -3264,7 +3264,7 @@ deferrer
 deferrize
 disturbative
 densen
-deferrized
+deferrized 1
 disauthenticate
 dentilingual
 dullsome
@@ -5688,7 +5688,7 @@ dipl
 disrobe
 dentelliere
 dawdled
-dolorousness
+dolorousness 1
 drumler
 deplant
 disvertebrate
@@ -5974,7 +5974,7 @@ deprome
 demisphere
 drawling
 disaffectedly
-deprostrate
+deprostrate 1
 draughtiest
 downbeats
 darcy
@@ -6498,7 +6498,7 @@ dimensioned
 dipeptid
 dentellated
 disqualification
-delignated
+delignated 1
 disomatous
 descendent
 dolichosoma
@@ -7216,7 +7216,7 @@ desulfurised
 doomsdays
 dehiscence
 demultiplexing
-detainee
+detainee 1
 detaining
 disinfecter
 detar
@@ -8246,7 +8246,7 @@ diaglyphic
 desmopelmous
 dell
 davainea
-ductus
+ductus 1
 distrito
 diagnosed
 diagnostical
@@ -9034,7 +9034,7 @@ deaconhood
 dermatoplast
 dicoumarol
 dicranaceous
-dextrinous
+dextrinous 1
 diverter
 dicrotal
 dicrotous
@@ -9129,7 +9129,7 @@ disweapon
 didelphoid
 disinclines
 derisory
-doffs
+doffs 1
 detriment
 disdiaclasis
 disgracement
@@ -13135,7 +13135,7 @@ disperses
 doubtful
 dipicrylamin
 donkeyback
-dispersibility
+dispersibility 1
 dissolution
 dentilabial
 daces
@@ -14674,7 +14674,7 @@ djersa
 dschubba
 dignified
 darioles
-djin
+djin 1
 disrespondency
 describe
 dowers
@@ -17227,7 +17227,7 @@ dingoes
 deferrizing
 distanced
 driftweed
-degged
+degged 1
 drivewell
 driving
 disclamatory

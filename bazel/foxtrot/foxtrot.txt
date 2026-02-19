@@ -1645,7 +1645,7 @@ fdnames
 forthcut
 fluible
 flamboyantly
-furbelowed
+furbelowed 1
 focally
 fice
 feaberry
@@ -2037,7 +2037,7 @@ frogmouth
 fourpounder
 ferngrower
 frontspiece
-feinter
+feinter 1
 feudary
 fundi
 facedown
@@ -2394,7 +2394,7 @@ freakpot
 fantods
 fervidor
 formicivorous
-filtrable
+filtrable 1
 fingernail
 flanged
 ferigee
@@ -2624,7 +2624,7 @@ foraminated
 folkfree
 frowzier
 ferruginating
-fulful
+fulful 1
 flashly
 framesmith
 fibrinogenic
@@ -3229,7 +3229,7 @@ forgoes
 fusicoccum
 ficklest
 ficklety
-forel
+forel 1
 fosterable
 fictionalize
 fourcher
@@ -4517,7 +4517,7 @@ fissilinguia
 flinder
 fabulist
 fingernails
-filleul
+filleul 1
 fuddles
 francophobia
 flagging
@@ -5677,7 +5677,7 @@ firking
 fountains
 firebrands
 freeloader
-flingy
+flingy 1
 funded
 fiddlestring
 flings
@@ -6995,7 +6995,7 @@ formalazine
 fumant
 flannels
 fineries
-freemason
+freemason 1
 fondly
 fluorspar
 flop
@@ -7848,7 +7848,7 @@ focusing
 fatiguable
 fellen
 findings
-foreplay
+foreplay 1
 feudally
 fratricides
 fencible
@@ -8168,7 +8168,7 @@ fingerboards
 fuliginous
 fidgeting
 fulicinae
-foreverness
+foreverness 1
 fellowshiping
 foreview
 foregoes
@@ -9281,7 +9281,7 @@ footmenfootpad
 fungologist
 fumarine
 foldwards
-fogrum
+fogrum 1
 foldboats
 fistulization
 frowsiness
@@ -9573,7 +9573,7 @@ freebie
 frescos
 farsi
 fleeciest
-freebooter
+freebooter 1
 freebootery
 forestiera
 freebooting
@@ -10941,7 +10941,7 @@ fulnesses
 flanconade
 forgetness
 feuded
-furfuran
+furfuran 1
 forewit
 foreseing
 facsimiles
@@ -11289,7 +11289,7 @@ farcing
 fourfold
 folletti
 falun
-fully
+fully 1
 formularized
 finnoc
 florikan
@@ -11491,7 +11491,7 @@ furtively
 furud
 flamboyant
 flotant
-faddisms
+faddisms 1
 fructuousness
 fashery
 furunculous
@@ -11519,11 +11519,11 @@ finalis
 fissidactyl
 fireflaught
 filmsetting
-forleave
+forleave 1
 ferruler
 fistic
 foreremembered
-fab
+fab 1
 furtiveness
 frena
 foxfeet
