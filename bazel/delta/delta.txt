@@ -5974,7 +5974,7 @@ deprome
 demisphere
 drawling
 disaffectedly
-deprostrate
+deprostrate 1
 draughtiest
 downbeats
 darcy
