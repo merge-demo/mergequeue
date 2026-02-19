@@ -9849,7 +9849,7 @@ gorillas
 geckotidae
 guajillo
 gallicism
-gongoresque
+gongoresque 1
 gips
 grousy
 gametophagia
