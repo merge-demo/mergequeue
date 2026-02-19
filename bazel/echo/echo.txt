@@ -2382,7 +2382,7 @@ exhaustable
 electroconvulsive
 empoisonment
 engorged
-exocone
+exocone 1
 egoistic
 exergonic
 eurytomidae
