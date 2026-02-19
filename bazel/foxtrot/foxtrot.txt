@@ -6995,7 +6995,7 @@ formalazine
 fumant
 flannels
 fineries
-freemason
+freemason 1
 fondly
 fluorspar
 flop
