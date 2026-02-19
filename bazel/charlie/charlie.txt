@@ -5112,7 +5112,7 @@ caesarship
 case
 casease
 concipiency
-caseases
+caseases 1
 caseated
 caseation
 casebearer
