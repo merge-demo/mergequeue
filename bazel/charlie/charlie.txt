@@ -18087,7 +18087,7 @@ coenobioid
 conicoid
 contentless
 conjugable
-cardinalism
+cardinalism 1
 compactile
 coenobitical
 carbinol
