@@ -14164,7 +14164,7 @@ daywork
 deringer
 dunair
 disunify
-disorientates
+disorientates 1
 dolesman
 diastatically
 dermatomic
