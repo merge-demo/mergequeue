@@ -19070,7 +19070,7 @@ arulo
 archpolitician
 archprelate
 archprelatic
-avys
+avys 1
 adjudicator
 askingly
 approvals
