@@ -1,6 +1,6 @@
 # Nx Workspace
 
-This directory contains an Nx workspace setup to demonstrate parralel queues
+This directory contains workspaces of different monorepo providers demonstrate parralel queues
 
 ## Structure
 
