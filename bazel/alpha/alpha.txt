@@ -2821,7 +2821,7 @@ archostenosis
 autocamping
 acromicria
 antimeres
-aspersers
+aspersers 1
 athonite
 acromiocoracoid
 amateurishly
