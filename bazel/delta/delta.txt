@@ -3090,7 +3090,7 @@ desole
 delible
 designated
 degradand
-delightfully
+delightfully 1
 defaces
 disennoble
 defacing
