@@ -1203,7 +1203,7 @@ embolum
 excommune
 endogamic
 eatche
-edaciousness
+edaciousness 1
 ephesians
 educatress
 emetical
