@@ -11133,7 +11133,7 @@ disasters
 dimerize
 dorlach
 doupioni
-dumbfound
+dumbfound 1
 disastrous
 drippy
 dreparnaudia
