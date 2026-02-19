@@ -4285,7 +4285,7 @@ encephaloscopy
 emulsions
 equidistantial
 emacerated
-effluxes
+effluxes 1
 emphasise
 extoller
 emulsoids
