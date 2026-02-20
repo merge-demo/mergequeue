@@ -6336,7 +6336,7 @@ euclidean
 ens
 emmenagogue
 elenchtic
-ensanguine
+ensanguine 1
 eloquent
 enlargingly
 emporium
