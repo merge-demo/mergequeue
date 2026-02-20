@@ -4885,7 +4885,7 @@ ferrimagnetism
 frondiferous
 fetching
 factuality
-frightenedness
+frightenedness 1
 fabricational
 funks
 foldedly
