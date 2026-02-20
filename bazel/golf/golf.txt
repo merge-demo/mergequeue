@@ -536,7 +536,7 @@ gomphocarpus
 getters
 gnetaceous
 gamodemes
-galler
+galler 1
 grandmammy
 grandsirs
 germanium
