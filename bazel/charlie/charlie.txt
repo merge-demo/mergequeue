@@ -21042,7 +21042,7 @@ clitelliferous
 crookle
 computations
 coomy
-computatively
+computatively 1
 computativeness
 computer
 computerese
