@@ -2104,7 +2104,7 @@ campanologer
 crucis
 croaker
 coalmonger
-conjunctly
+conjunctly 1
 campanologically
 coniology
 campanologist
