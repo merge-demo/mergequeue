@@ -7587,7 +7587,7 @@ grassweed
 gledge
 gloomful
 gaumy
-gyrus
+gyrus 1
 gheraoes
 grille
 glycosaemia
