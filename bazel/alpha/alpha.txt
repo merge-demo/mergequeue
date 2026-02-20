@@ -10578,7 +10578,7 @@ assisted
 ambulatoriums
 alcuinian
 archduchy
-aequian
+aequian 1
 anophele
 amygdalin
 antepenuit
