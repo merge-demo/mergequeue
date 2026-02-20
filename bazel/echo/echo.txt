@@ -8745,7 +8745,7 @@ emmergoose
 entombing
 embryotrophic
 equivelocity
-encrotchet
+encrotchet 1
 exuberated
 exteriorized
 expatiator
