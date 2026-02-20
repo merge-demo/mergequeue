@@ -10227,7 +10227,7 @@ glamourously
 galusha
 geissospermin
 gainsays
-glaucous
+glaucous 1
 gowpin
 gweduck
 gobbet
