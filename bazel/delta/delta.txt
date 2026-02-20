@@ -6123,7 +6123,7 @@ detrimental
 dropout
 dimission
 durgen
-deckedout
+deckedout 1
 derated
 diphtheroid
 derater
