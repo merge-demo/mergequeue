@@ -20177,7 +20177,7 @@ aoli
 acidulation
 arratel
 asclepieion
-apothem
+apothem 1
 arrau
 assiduously
 arrearage
