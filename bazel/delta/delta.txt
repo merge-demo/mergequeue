@@ -6948,7 +6948,7 @@ despecification
 desperado
 darky
 dioptre
-digits
+digits 1
 desperados
 dorsointercostal
 dichasial
