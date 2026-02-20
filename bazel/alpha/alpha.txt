@@ -5303,7 +5303,7 @@ affixal
 astipulate
 astrid
 americanoid
-affixation
+affixation 1
 amortization
 affixed
 apophantic
