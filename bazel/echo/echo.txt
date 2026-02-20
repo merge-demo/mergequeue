@@ -13742,7 +13742,7 @@ ectoenzym
 enzyme
 extinguished
 extinguisher
-extinguishers
+extinguishers 1
 entoptically
 ectoplasm
 extipulate
