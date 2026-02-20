@@ -3261,7 +3261,7 @@ casimere
 capitations
 cyclotomy
 cystenchyme
-capite
+capite 1
 christianized
 capitellate
 canteen
