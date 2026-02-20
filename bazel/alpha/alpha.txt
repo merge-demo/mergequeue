@@ -13445,7 +13445,7 @@ apikoros
 antidogmatic
 anormal
 anneal
-artlessly
+artlessly 1
 arraignments
 annealer
 anneals
