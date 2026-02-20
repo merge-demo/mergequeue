@@ -7845,7 +7845,7 @@ ejaculator
 eddish
 epigoni
 entomotaxy
-epigonic
+epigonic 1
 expletive
 excardination
 encrinoid
