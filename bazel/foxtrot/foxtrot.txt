@@ -5366,7 +5366,7 @@ fettles
 flanken
 feebleness
 fascia
-fruiteries
+fruiteries 1
 ferulaic
 foldboater
 foreclosed
