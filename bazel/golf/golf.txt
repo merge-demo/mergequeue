@@ -7271,7 +7271,7 @@ grace
 gormandism
 gormandize
 glomi
-gormandizes
+gormandizes 1
 gundeck
 gangsa
 gleaming
