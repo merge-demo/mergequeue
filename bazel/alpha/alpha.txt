@@ -2599,7 +2599,7 @@ applies
 arriswise
 acquiesce
 addiction
-acanthopterous
+acanthopterous 1
 alginates
 acquiescement
 aureation
