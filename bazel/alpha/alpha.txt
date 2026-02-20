@@ -10694,7 +10694,7 @@ aminobenzaldehyde
 anthrachrysone
 antichrome
 aminobenzoic
-appetency
+appetency 1
 aminoglutaric
 aminoid
 agrement
