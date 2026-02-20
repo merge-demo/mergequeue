@@ -14459,7 +14459,7 @@ conscription
 cassatas
 counterpuncher
 cirsectomies
-cirsoid
+cirsoid 1
 cirsomphalos
 cirsophthalmia
 completable
