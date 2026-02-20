@@ -3676,7 +3676,7 @@ abnegation
 adenophorous
 abyssinian
 acephalite
-accumulative
+accumulative 1
 adenopodous
 adenosarcomata
 adiaphoristic
