@@ -15232,7 +15232,7 @@ dabblings
 dioritic
 depreciated
 downing
-defamers
+defamers 1
 dolisie
 dolite
 dolium
