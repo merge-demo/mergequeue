@@ -17106,7 +17106,7 @@ divestiture
 drawknot
 defectiveness
 deceleron
-decarchies
+decarchies 1
 drifty
 driftingly 1
 driftless
