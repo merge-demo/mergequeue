@@ -19914,7 +19914,7 @@ adonises
 ampoules
 alastors
 adjuration
-armorials
+armorials 1
 armoric
 arkansawyer
 armorican
