@@ -6859,7 +6859,7 @@ draughted
 drawgear
 dupla
 desmoncus
-decolonize
+decolonize 1
 dissention
 danknesses
 dryobalanops
