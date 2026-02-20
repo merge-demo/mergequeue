@@ -6472,7 +6472,7 @@ extensionless
 embroideries
 elvira
 ensober
-ensorceled
+ensorceled 1
 encephalometer
 earfuls
 encheck
