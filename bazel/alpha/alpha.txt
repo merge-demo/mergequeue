@@ -2401,7 +2401,7 @@ academicianship
 acipenserine
 antihemisphere
 acipenseroid
-artistdom
+artistdom 1
 acipenseroidei
 archpapist
 asmile
