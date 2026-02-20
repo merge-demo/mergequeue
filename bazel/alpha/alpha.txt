@@ -1218,7 +1218,7 @@ acanthopterygian
 adversed
 acromia
 acanthopterygii
-acanthoses
+acanthoses 1
 archeus
 acanthuridae
 acanthuthi
