@@ -3514,7 +3514,7 @@ fictionalizes
 farness
 fermentology
 fraternity
-fleches
+fleches 1
 falcones
 fastigiate
 futtock
