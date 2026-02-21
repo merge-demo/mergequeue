@@ -1536,7 +1536,7 @@ dieugard
 dynamisms
 dupondius
 dedoggerelize
-deacons
+deacons 1
 demobilizes
 diphygenic
 deactivate
