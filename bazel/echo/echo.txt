@@ -7756,7 +7756,7 @@ estopping
 equips
 edelweisses
 ethinamate
-empasma
+empasma 1
 eggshells
 executable
 epidiascope
