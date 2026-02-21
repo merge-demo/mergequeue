@@ -21380,7 +21380,7 @@ concionatory
 cothurni
 credulously
 conciseness
-clocks
+clocks 1
 cosponsor
 concision
 corrugation
