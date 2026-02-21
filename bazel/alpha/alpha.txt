@@ -10000,7 +10000,7 @@ aye
 antisepticise
 adirondack
 albinuria
-amberoid
+amberoid 1
 ambers
 arthropodous
 acinotubular
