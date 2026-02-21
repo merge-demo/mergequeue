@@ -16269,7 +16269,7 @@ cephalin
 chayaroot
 convector
 clinopodium
-conterminous
+conterminous 1
 constrainment
 curvilinear
 civilise
