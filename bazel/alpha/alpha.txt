@@ -15249,7 +15249,7 @@ antifreeze
 antifriction
 antifrost
 antifungal
-apoenzyme
+apoenzyme 1
 ataentsic
 albertinian
 androcratic
