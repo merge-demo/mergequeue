@@ -863,7 +863,7 @@ eddic
 entourages
 epistolizer
 eigenfunction
-erythrocytolysin
+erythrocytolysin 1
 electrocution
 encomiastical
 endophyte
