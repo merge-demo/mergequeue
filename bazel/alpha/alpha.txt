@@ -11320,7 +11320,7 @@ amendableness
 almacen
 amphithecium
 abjures
-alterant
+alterant 1
 avowries
 amphithyra
 ana
