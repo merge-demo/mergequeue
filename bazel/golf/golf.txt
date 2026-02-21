@@ -2426,7 +2426,7 @@ guiac
 gummose
 gratification
 guardship
-gemmological
+gemmological 1
 gemmologist
 goalkeeping
 grocers
