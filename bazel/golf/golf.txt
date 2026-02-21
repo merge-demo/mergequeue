@@ -2608,7 +2608,7 @@ geodete
 gemmification
 gunpapers
 gyrohorizon
-glaucine
+glaucine 1
 glamourization
 gesticular
 grisette
