@@ -7206,7 +7206,7 @@ equalizer
 enwove
 entender
 epistasis
-euphonym
+euphonym 1
 enchesoun
 ensample
 enzootically
