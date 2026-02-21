@@ -11907,7 +11907,7 @@ earlobes
 exceptiousness
 exultation
 eyr
-enhypostatic
+enhypostatic 1
 entrepreneurship
 epiphytes
 emissivity
