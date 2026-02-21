@@ -22170,7 +22170,7 @@ arviculture
 asthmatical
 aceric
 aeromantic
-asthmatoid
+asthmatoid 1
 arthrotomies
 asthmogenic
 asthore
