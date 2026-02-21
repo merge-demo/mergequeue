@@ -3289,7 +3289,7 @@ gahnites
 gunrack
 geriatrician
 geriatrist
-goxes
+goxes 1
 german
 geckos
 gunstocks
