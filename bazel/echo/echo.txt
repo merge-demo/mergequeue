@@ -4429,7 +4429,7 @@ emitted
 encapsuled
 enure
 effectively
-encapsuling
+encapsuling 1
 encaptivate
 essence
 expectorate
