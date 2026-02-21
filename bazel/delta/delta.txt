@@ -7331,7 +7331,7 @@ diphenylenimide
 detorsion
 deashed
 disagreed
-disvulnerability
+disvulnerability 1
 determiner
 diameters
 didine
