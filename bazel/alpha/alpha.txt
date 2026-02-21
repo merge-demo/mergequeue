@@ -19600,7 +19600,7 @@ astringing
 apostolical
 ambages
 arider
-asterospondyli
+asterospondyli 1
 apterium
 alloclase
 apophorometer
