@@ -13717,7 +13717,7 @@ disturbation
 discoids
 defends
 doorplate
-divalent
+divalent 1
 dejecta
 demulsion
 dissociations
