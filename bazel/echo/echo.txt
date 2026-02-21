@@ -1539,7 +1539,7 @@ exradio
 episcopised
 egoisticalness
 evoke
-embow
+embow 1
 encarnadine
 engloom
 emarginately
