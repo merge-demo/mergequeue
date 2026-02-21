@@ -4107,7 +4107,7 @@ finnicize
 fluctisonant
 fenestellid
 finitely
-fratery
+fratery 1
 felicitously
 foresightless
 fungusy
