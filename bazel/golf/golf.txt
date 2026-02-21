@@ -4550,7 +4550,7 @@ garigue
 gyrated
 gosain
 grandfatherish
-germinable
+germinable 1
 gummed
 gainpain
 glabrousness
