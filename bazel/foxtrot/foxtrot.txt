@@ -2951,7 +2951,7 @@ flaked
 furloughs
 fungological
 froths
-fevered
+fevered 1
 flitchen
 furnacing
 franklinian
