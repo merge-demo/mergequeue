@@ -14000,7 +14000,7 @@ antarctogaea
 amphitropal
 alencon
 anticlassical
-antatrophic
+antatrophic 1
 ante
 avener
 adenoviral
