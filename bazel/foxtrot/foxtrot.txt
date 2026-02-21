@@ -6359,7 +6359,7 @@ flowchart
 flagpole
 fluocerine
 fren
-flang
+flang 1
 fullterm
 fluoran
 fennish
