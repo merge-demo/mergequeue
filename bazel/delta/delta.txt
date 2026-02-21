@@ -7942,7 +7942,7 @@ desertward
 disestablismentarianism
 dexiotrope 1
 dyeable
-dexiotropic
+dexiotropic 1
 dishwashing
 dollarbird
 diaplex
