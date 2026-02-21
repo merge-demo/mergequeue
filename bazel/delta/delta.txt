@@ -1662,7 +1662,7 @@ dozening
 dentimeter
 deamidation
 deaminase
-digitize
+digitize 1
 daws
 daw
 dextraural
