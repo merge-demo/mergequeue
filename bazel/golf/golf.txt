@@ -1746,7 +1746,7 @@ gnarrs
 gammon
 glibber
 gave
-gloeal
+gloeal 1
 glessite
 goric
 glass
