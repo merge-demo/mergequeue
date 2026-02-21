@@ -13284,7 +13284,7 @@ cavalcades
 cyclometer
 choeropsis
 couchers
-clipperman
+clipperman 1
 crudding
 cyclometric
 contributes
