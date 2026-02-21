@@ -13262,7 +13262,7 @@ chetverik
 communicants
 cataloguer
 chemiatry
-cycloid
+cycloid 1
 coalternation
 cycloidean
 coalshed
