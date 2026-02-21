@@ -12101,7 +12101,7 @@ defuzed
 disrank
 diamondback
 dojiggy
-disentrancing
+disentrancing 1
 daisies
 destemper
 diagnoseable
