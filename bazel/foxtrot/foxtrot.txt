@@ -8134,7 +8134,7 @@ fondon
 farmland
 foison
 fire
-flexo
+flexo 1
 flatcaps
 faithful
 featurette
