@@ -8024,7 +8024,7 @@ dezincs
 damageable
 dft
 dysthymic
-dialects
+dialects 1
 defences
 derbylite
 defenestration
