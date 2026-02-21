@@ -2439,7 +2439,7 @@ disobediently
 degorder
 decimetre
 decimolar
-drainpipe
+drainpipe 1
 diplacusis
 daker
 decimole
