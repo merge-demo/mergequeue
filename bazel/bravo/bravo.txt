@@ -9969,7 +9969,7 @@ bivalvia
 bivalvian
 bivariant
 baddock
-bivascular
+bivascular 1
 bismuthyl
 binodous
 brahmic
