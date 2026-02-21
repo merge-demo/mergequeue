@@ -6546,7 +6546,7 @@ entomophthora
 elaphodus
 endurant
 ended
-entangled
+entangled 1
 entangledness
 endotrachelitis
 ehlite
