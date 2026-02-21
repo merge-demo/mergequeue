@@ -3608,7 +3608,7 @@ dripping
 dextrogyre
 dinosauric
 dinornithiformes
-degenerate
+degenerate 1
 desulphurizer
 diagrammatize
 diodont
