@@ -4323,7 +4323,7 @@ dequeue
 dronel
 diversicolored
 daubster
-diamondiferous
+diamondiferous 1
 diacritical
 dods
 demagogical
