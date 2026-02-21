@@ -1370,7 +1370,7 @@ fruticeous
 flaxdrop
 filecard
 flenser
-fatiscent
+fatiscent 1
 fullword
 filicology
 fishboat
