@@ -12516,7 +12516,7 @@ disincarnate
 dudes
 defiled
 disinclination
-disinclined
+disinclined 1
 disinclining
 dolichotmema
 disindividualize
