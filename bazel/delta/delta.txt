@@ -15641,7 +15641,7 @@ dissembler
 departement
 directable
 doorstop
-devotionality
+devotionality 1
 diverge
 diodes
 desensitizer
