@@ -14792,7 +14792,7 @@ dockyards
 docking
 dockization
 dockland
-doublehandedly
+doublehandedly 1
 docklands
 dominica
 dialogue
