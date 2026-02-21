@@ -22405,7 +22405,7 @@ assonia
 astrolabe
 astrolithology
 anaesthesiant
-apothegm
+apothegm 1
 achenia
 astrologaster
 astrologers
