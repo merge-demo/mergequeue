@@ -12946,7 +12946,7 @@ disoperculate
 desmosome
 dicephalous
 demons
-decatholicize
+decatholicize 1
 dosimetrician
 differers
 demihague
