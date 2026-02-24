@@ -5965,7 +5965,7 @@ gazogenes
 galactopathy
 grubs
 ginkgoes
-geoemtry
+geoemtry 1
 gastroparesis
 garreted
 groucho
