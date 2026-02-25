@@ -303,7 +303,7 @@ abdominoscopy
 agas
 admiratively
 abdominothoracic
-acquiescent
+acquiescent 1
 astoundment
 abdominous
 abduces
@@ -6501,7 +6501,7 @@ amebula
 ahir
 alternant
 autunian
-affiancing
+affiancing 1
 animalian
 anthemed
 ahmed
@@ -10183,7 +10183,7 @@ affluent
 apanage
 ambulatories
 ambulatorium
-ahepatokla
+ahepatokla 1
 avo
 acmaesthesia
 amburbial
@@ -13221,7 +13221,7 @@ apraxias
 animize
 amaltas
 anilidic
-allude
+allude 1
 animo
 archchampion
 antipathic
@@ -17198,7 +17198,7 @@ apomixes
 anthropomorphotheist
 acescent
 ankylosing
-almira
+almira 1
 apomixis
 apomorphia
 ahmadi
@@ -19992,7 +19992,7 @@ arugola
 ammonified
 alexipharmacon
 arnberry
-adenotome
+adenotome 1
 alkanol
 archikaryon
 aulu
