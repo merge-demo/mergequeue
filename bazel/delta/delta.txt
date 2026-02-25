@@ -6563,7 +6563,7 @@ daedal
 deity
 descriptivism
 doddies
-descrive
+descrive 1
 descure
 dabchick
 desecrater
@@ -9756,7 +9756,7 @@ dilatometrically
 dynamometers
 dcbname
 dilatoriness
-daypeep
+daypeep 1
 denaturiser
 dreamingly
 decence
@@ -12687,7 +12687,7 @@ desexualize
 diviners
 diacids
 duane
-derogations
+derogations 1
 dyslexics
 dreadfully
 drury
@@ -13248,7 +13248,7 @@ disposers
 dislocator
 dicrotic
 dispositional
-disharmonical
+disharmonical 1
 decentralisation
 dispositions
 drowner
@@ -13642,7 +13642,7 @@ dissyllabizing
 dissyllable
 dialecticism
 dashboard
-dignitarial
+dignitarial 1
 distractedness
 dolce
 def
@@ -14914,7 +14914,7 @@ diverts
 dodecaphonism
 demibastion
 dehumidifiers
-destructive
+destructive 1
 dodecarch
 dodecasemic
 decadi
