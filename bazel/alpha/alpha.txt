@@ -4512,7 +4512,7 @@ arming
 atelopodia
 ako
 adventurous
-anaglyptic
+anaglyptic 1
 adventurousness
 ankle
 antebridal
@@ -7062,7 +7062,7 @@ akehorne
 akela
 alkahestical
 acalephes
-adhibited
+adhibited 1
 asporogenous
 arthropathy
 ameiotic
@@ -7949,7 +7949,7 @@ annually
 abstractionists
 adp
 alerters
-autotropically
+autotropically 1
 amygdules
 alerting
 ales
@@ -12683,7 +12683,7 @@ angelfishes
 arreptitious
 autoheterosis
 activity
-angelically
+angelically 1
 auxograph
 alambique
 amb
@@ -16955,7 +16955,7 @@ aplanatic
 aplanatism
 ately
 airways
-abortus
+abortus 1
 aplanogamete
 areally
 antifermentative
