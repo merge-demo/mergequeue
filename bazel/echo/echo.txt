@@ -7475,7 +7475,7 @@ ephemeroptera
 eigne
 extrafocal
 electronographic
-eyess
+eyess 1
 extracivically
 ephetae
 effulged
@@ -10591,7 +10591,7 @@ euchrome
 euclideanism
 euclidian
 exhalant
-eucone
+eucone 1
 eucopepoda
 electrotechnic
 eucosmidae
