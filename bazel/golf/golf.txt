@@ -6244,7 +6244,7 @@ galloway
 glue
 glucosidase
 gonne
-greaves
+greaves 1
 gopura
 goatstone
 gaum
