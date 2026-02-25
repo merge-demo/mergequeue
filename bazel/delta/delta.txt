@@ -6928,7 +6928,7 @@ diarthroses
 dunamis
 dehydrogenating
 despairfully
-delphinid
+delphinid 1
 deaconize
 despairing
 desparple
