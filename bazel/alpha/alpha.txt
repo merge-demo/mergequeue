@@ -397,7 +397,7 @@ asbestinize
 antinaturalness
 auxohormone
 anlaut
-abider
+abider 1
 advisability
 abie
 apocatharsis
@@ -701,7 +701,7 @@ antiaesthetic
 aboulia
 anoli
 acupuncturists
-aboulic
+aboulic 1
 amyloplastic
 apiales
 abounding
@@ -5007,7 +5007,7 @@ arecaidine
 alphonsism
 aerophane
 appease 1
-assumptions
+assumptions 1
 abnormalist
 awaft 1
 accentuable
@@ -7192,7 +7192,7 @@ abettals
 alacrious
 alacrity
 alactaga
-alada
+alada 1
 abridgements
 antica
 amaranthoid
