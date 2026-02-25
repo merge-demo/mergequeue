@@ -6848,7 +6848,7 @@ cathro
 cellules
 cellulifugal
 crevasse
-clamor
+clamor 1
 cellulin
 contangoes
 cuddly
