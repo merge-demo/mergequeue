@@ -8424,7 +8424,7 @@ chamfer
 cabirean
 chamfers
 chamfrain
-calvaria
+calvaria 1
 carilloneur
 cradock
 conscientiously
