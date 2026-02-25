@@ -972,7 +972,7 @@ effluviable 1
 ethmolachrymal
 embryulci
 eddied
-eponymic
+eponymic 1
 edits
 enterococcus
 eastwards
@@ -2414,7 +2414,7 @@ electrodiagnosis
 esterling
 embiid
 epepophysis
-evangelization
+evangelization 1
 edda
 excusively
 epipetalous
@@ -6518,7 +6518,7 @@ enlivens
 erubescence
 excludable
 englerophoenix
-estimative
+estimative 1
 execration
 ephemeric
 englishes
@@ -13748,7 +13748,7 @@ ectoplasm
 extipulate
 eryngoes
 enouncing
-emberizine
+emberizine 1
 equilibrated
 effervescence
 emancipationist

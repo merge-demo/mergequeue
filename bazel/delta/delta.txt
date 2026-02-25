@@ -1960,7 +1960,7 @@ debunks
 disedify
 divinatory
 dermohumeral
-disyllabism
+disyllabism 1
 deburr
 divulgatory
 debus
@@ -6040,7 +6040,7 @@ diverticula
 dealkalize
 dyophysitic
 deceitfully
-denunciative
+denunciative 1
 disillusion
 dammit
 dolesomeness
@@ -6909,7 +6909,7 @@ dognap
 discolors
 dahabiyeh
 deadliest
-deficit
+deficit 1
 desorption
 drollist
 discomposes
@@ -8224,7 +8224,7 @@ ductible
 depigment
 deossify
 dados
-dipus
+dipus 1
 disspreading
 diadochy
 dablet
@@ -8260,7 +8260,7 @@ dehortatory
 demegoric
 diiodid
 dubitancy
-deathcup
+deathcup 1
 diploetic
 diagnostician
 diagnosticians
