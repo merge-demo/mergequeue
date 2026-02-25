@@ -1115,7 +1115,7 @@ familiarizing
 fervidness
 fusileer
 frizzling
-farthing
+farthing 1
 foresay
 fluffing
 feverishness
