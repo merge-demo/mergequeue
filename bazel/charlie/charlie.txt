@@ -2848,7 +2848,7 @@ canonised
 canoniser
 cephalothoraces
 coambassador
-canonising
+canonising 1
 canonist
 canonistical
 canonized
