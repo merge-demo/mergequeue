@@ -1625,7 +1625,7 @@ conveyor
 calmecac
 cyathophylloid
 courtrooms
-collectibles
+collectibles 1
 calmed
 cylindraceous
 centrobaric
@@ -5583,7 +5583,7 @@ cabalassou
 cyniatria
 consigne
 calotermitidae
-cassinoid
+cassinoid 1
 careerism
 celtologue
 contortively
@@ -8807,7 +8807,7 @@ concurbit
 camelot
 cloudless
 conceptualisation
-chaptalize
+chaptalize 1
 cymbalaria
 chapter
 canonries
@@ -10028,7 +10028,7 @@ childishness
 calcarate
 controvert
 caverned
-cherub
+cherub 1
 cyanites
 chanoyu
 cherubfish
@@ -10252,7 +10252,7 @@ counterimitate
 campanulated
 columboid
 clitoritis
-chicanery
+chicanery 1
 chicaneries
 chicaners
 convallarin
@@ -10527,7 +10527,7 @@ chirruper
 counterpreparation
 chromiferous
 chylific
-chylification
+chylification 1
 charlatanish
 chylifying
 chamoises
@@ -14617,7 +14617,7 @@ corpusculum
 cystometer
 cystomyoma
 coadore
-cystomyxoma
+cystomyxoma 1
 chillum
 cystonectae
 cystoneuralgia
@@ -29362,7 +29362,7 @@ courant
 cryptophyceae
 cryptophytic
 coadunatively
-cryptophthalmos
+cryptophthalmos 1
 correspond
 commemorable
 counterdemand
