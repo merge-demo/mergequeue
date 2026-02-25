@@ -1639,7 +1639,7 @@ flophouse
 fied
 foreannounce
 fellowless
-fipenny
+fipenny 1
 four
 fdnames
 forthcut
