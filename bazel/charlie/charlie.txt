@@ -8424,7 +8424,7 @@ chamfer
 cabirean
 chamfers
 chamfrain
-calvaria
+calvaria 1
 carilloneur
 cradock
 conscientiously
@@ -24240,7 +24240,7 @@ curval
 comr
 convolvulus
 coercively
-conventionist
+conventionist 1
 calcarea
 chuffest
 convulsant

@@ -2036,7 +2036,7 @@ apocope
 achalasia
 anolis
 apperceptively
-adstringe
+adstringe 1
 achape
 achaque
 acharya
@@ -5887,7 +5887,7 @@ altisonant
 actinocrinidae
 achroiocythemia
 asthenic
-ambisporangiate
+ambisporangiate 1
 aggenerate
 agger
 aleukaemic
@@ -7633,7 +7633,7 @@ achoke
 archership
 alchemizing
 alchimy
-amphicarpic
+amphicarpic 1
 antisepticist
 alcidine
 abstracter
@@ -8255,7 +8255,7 @@ acceleratory
 antitheological
 agouties
 ancylodactyla
-antichristian
+antichristian 1
 ariettas
 autogauge
 alienage
@@ -13120,7 +13120,7 @@ animable
 agistor
 anthrapurpurin
 archaeopteris
-antiromance
+antiromance 1
 animacule
 animadversional
 almuten
@@ -19603,7 +19603,7 @@ arider
 asterospondyli
 apterium
 alloclase
-apophorometer
+apophorometer 1
 aridian
 aridity
 admonishes
