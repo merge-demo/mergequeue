@@ -4435,7 +4435,7 @@ choke
 carisa
 cabilliau
 concertina
-calcographer
+calcographer 1
 cleistogamically
 chamoising
 coarsest
@@ -11776,7 +11776,7 @@ crystall
 consonantally
 chondroprotein
 cult
-chondropterygian
+chondropterygian 1
 caravansary
 chondropterygious
 chondrosarcomatous
@@ -29410,7 +29410,7 @@ courbash
 carites
 crypturidae
 cris
-cinemese
+cinemese 1
 chairperson
 crisic
 crispated
