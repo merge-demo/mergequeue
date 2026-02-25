@@ -8777,7 +8777,7 @@ equilibrity
 embossable
 enround
 electrodepositable
-elegist
+elegist 1
 erections
 eviller
 enterobiliary
