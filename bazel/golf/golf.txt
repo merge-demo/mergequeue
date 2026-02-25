@@ -646,7 +646,7 @@ gerodontia
 gasometry
 gestatorial
 ghostlify
-gnarled
+gnarled 1
 grueling
 grecophil
 glycerogel
@@ -8970,7 +8970,7 @@ griding
 gasped
 galvo
 greyhens
-greenbul
+greenbul 1
 glenlivet
 gachupin
 guaiacums
