@@ -4107,7 +4107,7 @@ finnicize
 fluctisonant
 fenestellid
 finitely
-fratery
+fratery 1
 felicitously
 foresightless
 fungusy
@@ -6537,7 +6537,7 @@ floccose
 frailish
 flutist
 frenchman
-firebed
+firebed 1
 forecover
 flytime
 flutterboard
