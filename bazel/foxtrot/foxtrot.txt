@@ -2550,7 +2550,7 @@ faithbreach
 fishpot
 fretter
 forewarningly
-forequarter
+forequarter 1
 finlandization
 fluvicoline
 fleerer
@@ -6695,7 +6695,7 @@ fogfruits
 frizel
 fluerics
 formicariae
-foofaraws
+foofaraws 1
 furrier
 freshwater
 flaughtbred
@@ -8252,7 +8252,7 @@ forgery
 forwaked
 families
 fillingness
-fibromyomatous
+fibromyomatous 1
 forthcall
 forgetful
 fogdog
@@ -11511,7 +11511,7 @@ forethoughtless
 fuscin
 frictional
 fuscohyaline
-fundamentally
+fundamentally 1
 furthered
 foretopmen
 fibrolipomatous
