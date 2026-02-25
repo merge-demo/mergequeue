@@ -2688,7 +2688,7 @@ exports
 eogaean
 enfant
 extendibility
-eudaemonics
+eudaemonics 1
 engenderment
 electrotelegraphy
 exhort
@@ -4766,7 +4766,7 @@ enclaves
 entrepreneurs
 epichondrotic
 euthermic
-evanishing
+evanishing 1
 embarrass
 eyren
 executions
