@@ -2157,7 +2157,7 @@ giunta
 gunships
 geheimrat
 gallophobe
-gantlopes
+gantlopes 1
 guayaberas
 gurjan
 griffith
