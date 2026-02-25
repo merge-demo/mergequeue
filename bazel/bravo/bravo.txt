@@ -6093,7 +6093,7 @@ bendee
 bullwhips
 beamier
 bittering
-bibliographical
+bibliographical 1
 bendees
 buyout
 biobibliographies
@@ -14372,7 +14372,7 @@ brayette
 brailles
 birdcraft
 bylaw
-bursiform
+bursiform 1
 bonebinder
 braillewriter
 boloman
