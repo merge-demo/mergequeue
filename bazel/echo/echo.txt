@@ -10847,7 +10847,7 @@ embassiate
 eligibilities
 endostomata
 envineyard
-enchase
+enchase 1
 eisteddfodau
 euphotic
 entailable
