@@ -12244,7 +12244,7 @@ anchorman
 auriculae
 avars
 altingiaceae
-anchormen
+anchormen 1
 asthmatically
 anchoveta
 anchusa
@@ -15264,7 +15264,7 @@ advocatory
 angiocarpian
 anthophila
 amphithyrons
-araneiform
+araneiform 1
 accent
 attainments
 armload
@@ -24493,7 +24493,7 @@ autovivisection
 apricots
 arteriagra
 abattoir
-apologal
+apologal 1
 ag
 anticlericalist
 antimoniated
