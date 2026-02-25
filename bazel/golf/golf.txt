@@ -1196,7 +1196,7 @@ galipine
 gorilla
 guestless
 gaplessness
-gynandrism
+gynandrism 1
 gappier
 genesiacal
 griot
@@ -2998,7 +2998,7 @@ geologically
 gondite
 gavialis
 gelly
-galvanocauteries
+galvanocauteries 1
 gentlefolk
 gambusia
 guatambu
@@ -3231,7 +3231,7 @@ giron
 gluttons
 girtonian
 gap
-ghosty
+ghosty 1
 gilgul
 goldenwing
 galoot
@@ -3348,7 +3348,7 @@ globed
 gasogen
 groovelike
 garrulinae
-germifuge
+germifuge 1
 goog
 gaudeamuses
 giftie
@@ -3799,7 +3799,7 @@ geodetics
 glucke
 gnostical
 galliass
-grungier
+grungier 1
 gastrosuccorrhea
 gibbosely
 goosepimply
