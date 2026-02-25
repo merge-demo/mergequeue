@@ -10203,7 +10203,7 @@ cheesecakes
 chiasma
 cotesian
 chloasmata
-camacan
+camacan 1
 chiasmas
 chiasmata
 cavesson
@@ -23419,7 +23419,7 @@ contemplatedly
 contemplating
 catechetical
 contemplation
-cryptomnesia
+cryptomnesia 1
 contemplations
 contemplatist
 coshered
