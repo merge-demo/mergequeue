@@ -4651,7 +4651,7 @@ ectostosis
 epithalamiums
 enajim
 ermelin
-eminence
+eminence 1
 engaged
 etherealised
 enhydrite
