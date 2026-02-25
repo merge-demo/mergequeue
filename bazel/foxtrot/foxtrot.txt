@@ -10439,7 +10439,7 @@ fluxional
 frontspieces
 fleet
 fwd
-fisted
+fisted 1
 flche
 frontstall
 forstall
