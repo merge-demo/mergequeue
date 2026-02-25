@@ -1808,7 +1808,7 @@ allamanda
 acephalist
 anonymousness
 adumbratively
-acephalocyst
+acephalocyst 1
 alveloz
 acephalous
 awnings
@@ -3945,7 +3945,7 @@ acanthine
 absinthes
 adjust
 animalculum
-abdal
+abdal 1
 astre
 armozeen
 adjusting
@@ -4500,7 +4500,7 @@ adventuress
 adventuresses
 avidiously
 acidimetrically
-alternation
+alternation 1
 angiostegnosis
 asellus
 aristodemocratical
@@ -6866,7 +6866,7 @@ astomatous
 aphorises
 apanages
 antiagglutinative
-albacora
+albacora 1
 awry
 airn
 anthropomorphical
@@ -12741,7 +12741,7 @@ angiectasis
 abortively
 apocathartic
 apostemate
-anomocarpous
+anomocarpous 1
 apyrous
 amphitrite
 agricole
@@ -13348,7 +13348,7 @@ anisostichous
 anisostomous
 amlacra
 amphitheatral
-anisotrope
+anisotrope 1
 anisotropically
 anencephalotrophia
 anystidae
@@ -13696,7 +13696,7 @@ anomalistical
 anomalocephalus
 apollinarianism
 anomaloflorous
-archaistic
+archaistic 1
 amentaceous
 anomalogonatous
 anomalon
@@ -17297,7 +17297,7 @@ acidimetric
 afterdate
 amli
 antisiphonal
-aclinal
+aclinal 1
 ashram
 acetonize
 antiagglutinant
@@ -20028,7 +20028,7 @@ aroynting
 aminothiophen
 antitype
 autographing
-antiamboceptor
+antiamboceptor 1
 aroynts
 arolia
 artus
@@ -20504,7 +20504,7 @@ acrid
 arteriomalacia
 autoagglutinin
 ascertainment
-actinobacilli
+actinobacilli 1
 actuaryship
 accomplishment
 autotoxemia
@@ -21013,7 +21013,7 @@ anachronistical
 aeroenterectasia
 ascians
 apiolin
-annexive
+annexive 1
 apperil
 amphichromatic
 ascidiacea
@@ -21613,7 +21613,7 @@ asprout
 antihierarchist
 antu
 anamniote
-approvable
+approvable 1
 azoxime
 asquint
 anallagmatis
@@ -23016,7 +23016,7 @@ altigraph
 atropine
 atropisms
 atropos
-atropous
+atropous 1
 atrorubent
 aeoline
 angiocarditis
