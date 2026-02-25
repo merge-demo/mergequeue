@@ -7782,7 +7782,7 @@ gadman
 gray
 getaway
 greasily
-goosishly
+goosishly 1
 gemmative
 grudgeful
 greasiest
@@ -9216,7 +9216,7 @@ germanous
 guaka
 glairing
 gunebo
-geoscience
+geoscience 1
 gibberosity
 grippleness
 grazier
