@@ -671,7 +671,7 @@ caestuses
 caesura
 cybernated
 caesurae
-caesuric
+caesuric 1
 caf
 cinefilm
 cafardise
