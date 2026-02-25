@@ -3536,7 +3536,7 @@ disembarrassment
 dismissable
 doom
 defrayers
-defraying
+defraying 1
 desaturate
 desiccated
 dagobas
@@ -4955,7 +4955,7 @@ draughty
 debussy
 demoralizes
 demorphism
-delectated
+delectated 1
 decate
 demosthenean
 drabbletail
