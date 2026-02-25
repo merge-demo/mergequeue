@@ -770,7 +770,7 @@ badmouthed
 burled
 badmouths
 bullfrog
-boltheads
+boltheads 1
 badnesses
 bradylogia
 bads
@@ -3428,7 +3428,7 @@ briny
 bastards
 bioptic
 barrelfishes
-baster
+baster 1
 bastille
 bastilles
 basibracteolate
@@ -5219,7 +5219,7 @@ befurbelowed
 befurred
 begabled
 bowla
-begad
+begad 1
 bedders
 boskopoid
 blanky
@@ -6722,7 +6722,7 @@ bechalks
 beshrouding
 brakesmen
 bushtit
-burrowers
+burrowers 1
 breadboxes
 boredoms
 buhlwork
@@ -11251,7 +11251,7 @@ basks
 blouses
 bloviated
 blowballs 1
-bhaktis
+bhaktis 1
 blowbys
 benzophenanthroline
 blowcock
@@ -12530,7 +12530,7 @@ boni
 bony
 burtonize
 boniata
-bloodshot
+bloodshot 1
 barnage
 balsamroot
 bourgeoning
