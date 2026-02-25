@@ -6013,7 +6013,7 @@ bookie
 bemoaned
 bauxitic
 baccarats
-bowenite
+bowenite 1
 boiling
 brouette
 bradyphasia
@@ -9344,7 +9344,7 @@ bushi
 blirt
 biopoiesis
 bonniness
-beau
+beau 1
 backwood
 bluebush
 bottommost
