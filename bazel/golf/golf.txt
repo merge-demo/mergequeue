@@ -2157,7 +2157,7 @@ giunta
 gunships
 geheimrat
 gallophobe
-gantlopes
+gantlopes 1
 guayaberas
 gurjan
 griffith
@@ -2608,7 +2608,7 @@ geodete
 gemmification
 gunpapers 1
 gyrohorizon
-glaucine
+glaucine 1
 glamourization
 gesticular
 grisette
