@@ -1158,7 +1158,7 @@ gripier
 grouses
 goninidia
 gastrogastrotomy
-genin
+genin 1
 genio
 gnawings
 galactometry
@@ -1189,7 +1189,7 @@ gonorrheic
 glabrescent
 grinned
 gezerah
-guejarite
+guejarite 1
 gunja
 gutturalize
 galipine
@@ -2404,7 +2404,7 @@ gambol
 gemmating
 gushier
 gemmer
-gumphion
+gumphion 1
 gloppy
 grow
 guianese
@@ -9552,7 +9552,7 @@ gelatined
 glume
 gastornithidae
 groved
-greenskeeper
+greenskeeper 1
 gur 1
 groveled 1
 gridiron
