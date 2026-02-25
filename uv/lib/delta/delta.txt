@@ -9100,7 +9100,7 @@ didacticality
 drassidae
 dichondraceae
 daleman
-dragomanish
+dragomanish 1
 didacticism
 defile
 doundake
@@ -9182,7 +9182,7 @@ desoxycinchonine
 decalog
 diptych
 dialyse
-doors
+doors 1
 delobranchiata
 dyeability
 denazification
@@ -14943,7 +14943,7 @@ dermatogen
 dramatist
 dreadless
 demophile
-discoursively
+discoursively 1
 dodman
 dodoma
 demonised

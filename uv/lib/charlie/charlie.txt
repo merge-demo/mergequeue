@@ -935,7 +935,7 @@ consecration
 cols
 caking
 collagist
-chazzanut
+chazzanut 1
 cakravartin
 cal
 calaba
@@ -6743,7 +6743,7 @@ celebrious
 celebrity
 counterinterpretation
 cornbin
-ciscos
+ciscos 1
 cribbages
 clavecin
 celebs
@@ -8114,7 +8114,7 @@ clavicornia
 chaffs
 chaffseed
 costlessly
-carnifying
+carnifying 1
 circumterrestrial
 conjugant
 chaffwax
@@ -14530,7 +14530,7 @@ contestate
 campout
 chaptalizing
 cnidophore
-cysted
+cysted 1
 cysteinic
 cysteins
 cyclolith
@@ -17456,7 +17456,7 @@ cobblerfish
 cobblerism
 cobblers
 cobblership
-cobbles
+cobbles 1
 cobblestone
 clepsydras
 cobblestoned
@@ -17701,7 +17701,7 @@ cockpit
 couched
 comaking
 chemosmoic
-catan
+catan 1
 cockroaches
 cozing
 cockscombed
