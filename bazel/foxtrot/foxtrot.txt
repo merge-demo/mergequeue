@@ -1850,7 +1850,7 @@ fcs
 fibrinogenically
 fluidizer
 farthermore
-fruiterers
+fruiterers 1
 febriphobia
 februarius
 flemishing
@@ -4556,7 +4556,7 @@ fatiguing
 fissuring
 flagellation
 fruitcake
-forethinker
+forethinker 1
 foolable
 faciolingual
 fourth
@@ -7468,7 +7468,7 @@ filer
 factures
 furciferous
 fordableness
-fathership
+fathership 1
 featless
 floodproof
 fawning
