@@ -933,7 +933,7 @@ clientelage
 conformant
 consecration
 cols
-caking
+caking 1
 collagist
 chazzanut
 cakravartin
@@ -14172,7 +14172,7 @@ circumaviate
 circumaviator
 cowlike
 circumaxial
-cobles
+cobles 1
 circumaxillary
 cymose
 circumbasal
@@ -27022,7 +27022,7 @@ counterpoints
 cataleptiform
 contestable
 chronical
-counterpoison
+counterpoison 1
 cara
 cunctatorship
 counterposition
