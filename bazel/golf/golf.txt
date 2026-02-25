@@ -5710,7 +5710,7 @@ glossies
 glossiest
 gybed
 glossinas
-gertrude
+gertrude 1
 glowbard
 gurneyite
 gerres
