@@ -10387,7 +10387,7 @@ anise
 arco
 adenochondrosarcoma
 americans
-americanum
+americanum 1
 amphicarpa
 avocados
 aliment
@@ -13464,7 +13464,7 @@ agraffee
 annette
 aob
 ahnfeltia
-annexa
+annexa 1
 attitudist
 annexation
 annexational
@@ -13833,7 +13833,7 @@ ala
 anorthophyre
 adrenocorticotrophin
 autocratship
-augean
+augean 1
 anorthose
 agglomerated
 afresh
@@ -14824,7 +14824,7 @@ autoplasties
 anthropomorphosis
 akiyenik
 applauder
-activations
+activations 1
 antichreses
 antichrist
 antichristianism
@@ -20313,7 +20313,7 @@ arrowlike
 aminoazobenzene
 arrowplate
 abortifacient
-annoying
+annoying 1
 arrowsmith
 arrowworm
 arroz
