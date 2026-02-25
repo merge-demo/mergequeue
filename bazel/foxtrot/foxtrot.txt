@@ -3414,7 +3414,7 @@ fiascoes
 foretalk
 fiendly
 featurely
-fc
+fc 1
 fetishlike
 firmed
 filarial
