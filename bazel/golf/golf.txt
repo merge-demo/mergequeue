@@ -727,7 +727,7 @@ gluteal 1
 gypsydom
 gugglet
 galvanizers
-gujar
+gujar 1
 gripple
 galvanizing
 gemmiferousness
@@ -860,7 +860,7 @@ gastromyxorrhea
 gire
 geometrician
 grammaticality
-gonagia
+gonagia 1
 gonadotropin
 girdlingly
 gameless
@@ -3863,7 +3863,7 @@ gigelira
 gaolerness
 gold
 granthi
-gell
+gell 1
 galanas
 giftwrapping
 gazeless
@@ -3882,7 +3882,7 @@ groszy
 gels
 gaelicization
 glumpy
-glazed
+glazed 1
 gloweringly
 gigahertzes
 galloperdix
@@ -8288,7 +8288,7 @@ gusseting
 glossographer
 globule
 graping
-grappa
+grappa 1
 grandaunts
 gruff 1
 gentians
@@ -8996,7 +8996,7 @@ glander
 gushers
 getable
 gigant
-glenlike
+glenlike 1
 greenbelt
 guiltier
 griffaun
@@ -9052,7 +9052,7 @@ grateful
 granulomatous
 gyrates
 gnatcatcher
-girasole
+girasole 1
 girlism
 gryllos
 gaffle
@@ -10478,7 +10478,7 @@ graylings
 gastrin
 goli
 gusher
-glumaceous
+glumaceous 1
 gulfwards
 ginghamed
 gynandromorph
