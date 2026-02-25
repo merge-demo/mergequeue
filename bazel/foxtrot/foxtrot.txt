@@ -3921,7 +3921,7 @@ function
 findhorn
 filarees
 fine
-fineableness
+fineableness 1
 fumigators
 fusinist
 fullage
@@ -4780,7 +4780,7 @@ fellowshipped
 filigera
 forceps
 flagelliform
-fever
+fever 1
 folie
 flagellula
 flickeringly

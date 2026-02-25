@@ -251,7 +251,7 @@ cachaza
 characterizes
 cachectic
 cachectical
-cached
+cached 1
 critch
 codeposit
 commemorational
@@ -2294,7 +2294,7 @@ canaigre
 canaille
 canailles
 cymoid
-chargeship
+chargeship 1
 commonwealth
 cytopahgous
 canakin
@@ -8036,7 +8036,7 @@ civilianization
 caryophyllaceous
 chador
 chadors
-chaenolobus
+chaenolobus 1
 chaetae
 chemin
 chaetal
@@ -22526,7 +22526,7 @@ conjurations
 cesar
 conjured
 conjurement
-canel
+canel 1
 championlike
 conjures
 conjuring
@@ -31784,7 +31784,7 @@ counterlighting
 circumspectively
 collegiality
 cutaways
-cutback
+cutback 1
 cutbacks
 chiniofon
 cutbank

@@ -13833,7 +13833,7 @@ ala
 anorthophyre
 adrenocorticotrophin
 autocratship
-augean
+augean 1
 anorthose
 agglomerated
 afresh
@@ -14824,7 +14824,7 @@ autoplasties
 anthropomorphosis
 akiyenik
 applauder
-activations
+activations 1
 antichreses
 antichrist
 antichristianism
