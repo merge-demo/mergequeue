@@ -85,7 +85,7 @@ jobs:
           esac
 
       - name: bazel pr targets
-        uses: trunk-io/merge-action@1.2
+        uses: trunk-io/merge-action@0.1.2
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
           steps.get-demo-config.outputs.build == 'bazel' &&
