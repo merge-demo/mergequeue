@@ -5,7 +5,7 @@ on: pull_request
 jobs:
   compute_pr_targets:
     name: compute_pr_targets
-    runs-on: ubicloud-standard-2
+    runs-on: ubuntu-latest
     if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}
     steps:
       - name: Checkout
@@ -85,7 +85,7 @@ jobs:
           esac
 
       - name: bazel pr targets
-        uses: trunk-io/merge-action@v0.1.2
+        uses: trunk-io/merge-action@1.2
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
           steps.get-demo-config.outputs.build == 'bazel' &&
