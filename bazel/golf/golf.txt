@@ -3143,7 +3143,7 @@ germanite
 gurgles
 georgics
 glycosyl
-gnathal
+gnathal 1
 gnathobasic
 gnast
 galumphing
@@ -5376,7 +5376,7 @@ glazework
 gutting
 geckoid
 gravitating
-gruelings
+gruelings 1
 gingal
 graph
 gammadion
@@ -5744,7 +5744,7 @@ gratia
 gammons
 goldsmithery
 glockenspiel
-gallopade
+gallopade 1
 glossohyal
 gaultherase
 gobos
@@ -5881,7 +5881,7 @@ gyle
 glucosaemia
 glucinium
 genteelest
-gadder
+gadder 1
 guadalcazarite
 goldfinch
 glycosidase
@@ -9842,7 +9842,7 @@ geoponical
 grilles
 gabbarts
 gallivant
-gospellike
+gospellike 1
 gnathopoda
 grousers
 gorillas
