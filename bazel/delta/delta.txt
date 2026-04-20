@@ -14792,7 +14792,7 @@ dockyards
 docking
 dockization
 dockland
-doublehandedly
+doublehandedly 1
 docklands
 dominica
 dialogue
@@ -14928,7 +14928,7 @@ dominates
 descrying
 dracontine
 dumbbells
-defendants
+defendants 1
 deridingly
 dispensible
 dodgily
