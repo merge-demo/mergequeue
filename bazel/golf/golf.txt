@@ -5263,7 +5263,7 @@ gamecraft
 garten
 gentilic
 gammer
-gluiest
+gluiest 1
 genial
 grenade
 goatish
