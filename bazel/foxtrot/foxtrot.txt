@@ -2272,7 +2272,7 @@ firebombed
 fumaria
 forshape
 full
-flavones
+flavones 1
 filamentiferous
 fantails
 folktale
@@ -4809,7 +4809,7 @@ forfeiting
 fraudful
 flubdubbery
 frontoorbital
-fou
+fou 1
 francisco
 foothills
 flagman
