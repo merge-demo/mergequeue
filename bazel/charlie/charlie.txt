@@ -18925,7 +18925,7 @@ criticise
 conductorship
 creepered
 cauterant
-coquinas
+coquinas 1
 confiscable
 conceding
 collaret
@@ -21704,7 +21704,7 @@ camphoric
 columbarium
 cecidomyiid
 cedens
-cephalon
+cephalon 1
 commy
 crackling
 cinchonism
@@ -22665,7 +22665,7 @@ conocuneus
 coderiving
 conodont
 contractiveness
-chrysatropic
+chrysatropic 1
 calmato
 conoidic
 chessboard
@@ -28809,7 +28809,7 @@ cresoxy
 cresoxid
 carcinosarcomas
 cloyed
-concumbency
+concumbency 1
 cress
 cleanable
 cassena
