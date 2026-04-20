@@ -7692,7 +7692,7 @@ deviations
 dusting
 deviatory
 discission
-densimetrically
+densimetrically 1
 devil
 disciplinary
 devildom
@@ -8024,7 +8024,7 @@ dezincs
 damageable
 dft
 dysthymic
-dialects
+dialects 1
 defences
 derbylite
 defenestration
