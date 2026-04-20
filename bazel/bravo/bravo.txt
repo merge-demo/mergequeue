@@ -7666,7 +7666,7 @@ biocenotic
 bescribbled
 bezils
 boyardom
-babished
+babished 1
 billywix
 baldricwise
 beziques
@@ -12399,7 +12399,7 @@ betterly
 brum
 bassariscus
 buckram
-befingering
+befingering 1
 blindless
 bonbonnieres
 bibliophilist
@@ -13868,7 +13868,7 @@ birches
 bedrite
 bowing
 bowings
-bowkail
+bowkail 1
 barkentine
 blad
 bowlder
