@@ -933,7 +933,7 @@ clientelage
 conformant
 consecration
 cols
-caking
+caking 1
 collagist
 chazzanut
 cakravartin
@@ -1323,7 +1323,7 @@ crewless
 cravatted
 crab
 costliest
-contrist
+contrist 1
 cesarolite
 caliburno
 colossuses
@@ -1526,7 +1526,7 @@ cigarillo
 chiefly
 calamintha
 callings
-chuvashes
+chuvashes 1
 celialgia
 callynteria
 callionymidae
@@ -14172,7 +14172,7 @@ circumaviate
 circumaviator
 cowlike
 circumaxial
-cobles
+cobles 1
 circumaxillary
 cymose
 circumbasal
@@ -19843,7 +19843,7 @@ comfily
 cuspidation
 comfiness
 coulometrically
-comfit
+comfit 1
 comfiture
 comfort
 cryptoglaux
@@ -27022,7 +27022,7 @@ counterpoints
 cataleptiform
 contestable
 chronical
-counterpoison
+counterpoison 1
 cara
 cunctatorship
 counterposition
