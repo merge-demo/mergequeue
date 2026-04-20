@@ -9106,7 +9106,7 @@ controversional
 charruas
 cloamer
 charshaf
-charsingha
+charsingha 1
 curvacious
 container
 charta
@@ -12083,7 +12083,7 @@ chouquette
 chous
 chouse
 choused
-cyanogenesis
+cyanogenesis 1
 chousers
 choush
 configurationist
@@ -30004,7 +30004,7 @@ coccosteidae
 crotching
 cancerization
 confutation
-crotesco
+crotesco 1
 cooptive
 cannoned
 chirothesia
