@@ -18925,7 +18925,7 @@ criticise
 conductorship
 creepered
 cauterant
-coquinas
+coquinas 1
 confiscable
 conceding
 collaret
@@ -28809,7 +28809,7 @@ cresoxy
 cresoxid
 carcinosarcomas
 cloyed
-concumbency
+concumbency 1
 cress
 cleanable
 cassena
