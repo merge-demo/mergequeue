@@ -2031,7 +2031,7 @@ bankrolled
 bankrolling
 bankrupt
 bosporan
-burl
+burl 1
 bankruptism
 bessy
 bankruptcy
@@ -5773,7 +5773,7 @@ backlogging
 brawlers
 bearably
 ballhausplatz
-beblubbered
+beblubbered 1
 behint
 bigthatch
 ballaster
@@ -17800,7 +17800,7 @@ benevolent
 burrstone
 bambini
 bundobust
-bursae
+bursae 1
 bursary
 bassine
 backstroked
