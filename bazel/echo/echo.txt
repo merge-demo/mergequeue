@@ -2410,7 +2410,7 @@ epitrochlea
 electrodes
 etherization
 elotherium
-electrodiagnosis
+electrodiagnosis 1
 esterling
 embiid
 epepophysis
@@ -3294,7 +3294,7 @@ eugenols 1
 eperlan
 embattlement
 elapidae
-eremitish
+eremitish 1
 effeminization
 emailed
 equalise
@@ -9049,7 +9049,7 @@ erythrocytoblast 1
 explanate
 epizooty
 ebbets
-equalize
+equalize 1
 emptier
 erythrocytolysis
 eelier
@@ -9522,7 +9522,7 @@ epimorphism
 extrasolar
 exempt
 envois
-esuriently
+esuriently 1
 esebrias
 ellops
 enantiotropy
@@ -11927,7 +11927,7 @@ extraphysical
 endemiology
 eudaemonistically
 excursory
-equiradical
+equiradical 1
 excess
 epithelia
 equestrienne
@@ -12468,7 +12468,7 @@ exchequer
 entreaty
 emotionalism
 ependyme
-ext
+ext 1
 elocutionists
 exigences
 encouragers
@@ -13306,7 +13306,7 @@ espousers
 efformation
 eminences
 ethicalities
-eclipsareon
+eclipsareon 1
 extracosmic
 extogenous
 encephalodialysis 1
@@ -13718,7 +13718,7 @@ eliciting
 elementarity
 epicarid
 elatine
-endnote
+endnote 1
 extratemporal
 esteemed
 educating
