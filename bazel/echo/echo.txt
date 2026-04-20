@@ -4960,7 +4960,7 @@ earnestful
 ephemerally
 endearedness
 enterocele
-endearingness
+endearingness 1
 exactive
 eglestonite
 ecliptics
@@ -9049,7 +9049,7 @@ erythrocytoblast 1
 explanate
 epizooty
 ebbets
-equalize
+equalize 1
 emptier
 erythrocytolysis
 eelier
@@ -11927,7 +11927,7 @@ extraphysical
 endemiology
 eudaemonistically
 excursory
-equiradical
+equiradical 1
 excess
 epithelia
 equestrienne

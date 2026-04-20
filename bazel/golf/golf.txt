@@ -1023,7 +1023,7 @@ guttle
 glanduliferous
 gully
 geognostic
-geodetician
+geodetician 1
 ganger
 guesten
 genthite
@@ -2201,7 +2201,7 @@ gunyeh
 gombo
 graphanalysis
 granitiferous
-granes
+granes 1
 guarantying
 ghosting
 guberniya
@@ -2922,7 +2922,7 @@ gingerous
 gee
 gelose
 gaylussite
-gobiiformes
+gobiiformes 1
 gwiniad
 glitter
 gabbled
@@ -3234,7 +3234,7 @@ gap
 ghosty
 gilgul
 goldenwing
-galoot
+galoot 1
 greatish
 getatability
 gally
@@ -4164,7 +4164,7 @@ gazee
 gitoxin
 generalissimos
 gramicidin
-gustatorily
+gustatorily 1
 gaitt
 gibleh
 gratewise
@@ -5668,7 +5668,7 @@ glissando
 ginglymodian
 grandsons
 gies
-glorying
+glorying 1
 gobbledegook
 gatemen
 gant
@@ -6863,7 +6863,7 @@ glauconite
 granulomas
 gaffsman
 gonosphere
-grisettish
+grisettish 1
 graphics
 gorbal
 guaranty
@@ -8432,7 +8432,7 @@ ganderteeth
 gratified
 gaseous
 gratis
-gunflint
+gunflint 1
 grad
 gladiolas
 gales
@@ -9041,7 +9041,7 @@ gorhens
 gastroenterologic
 gaper
 givin
-galbraithian
+galbraithian 1
 gilguy
 galoshes
 gateways
@@ -9114,7 +9114,7 @@ guillemet
 grindable
 gibbose
 grissel
-gingerol
+gingerol 1
 gadite
 gelseminic
 gummers
