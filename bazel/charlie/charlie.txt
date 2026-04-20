@@ -1134,7 +1134,7 @@ calciphobous
 calciprivic
 calypterae
 cardiant
-caveatee
+caveatee 1
 calcispongiae
 chromatosphere
 calcite
@@ -6709,7 +6709,7 @@ clovery
 charcia
 celadon
 complexionally
-cutidure
+cutidure 1
 celadonite
 coleen
 celaeno
@@ -10703,7 +10703,7 @@ colonitis
 complementarism
 chinafy
 cuapinole
-cartilages
+cartilages 1
 chinalike
 collinearity
 communicates
@@ -18369,7 +18369,7 @@ crookeries
 centime
 cognacs
 cognate
-contrarevolutionary
+contrarevolutionary 1
 chamsin
 cognately
 cerotate
@@ -21009,7 +21009,7 @@ compulsatorily
 compulsed
 calciphobe
 culex
-compulsion
+compulsion 1
 cereuses
 compulsitor
 coremiumia
