@@ -12719,7 +12719,7 @@ exalted
 exophthalmia
 embloom
 exenterating
-exophthalmus
+exophthalmus 1
 euonymus
 emboweling
 engramma
