@@ -3528,7 +3528,7 @@ captain
 captaincy
 captaincies
 caprioled
-captainry
+captainry 1
 captainship
 counterpetition
 communistically
@@ -5944,7 +5944,7 @@ conciliate
 cathartics
 cathartidae
 chistera
-cathartides
+cathartides 1
 chevied
 carburized
 cathartolinum
@@ -13262,7 +13262,7 @@ chetverik
 communicants
 cataloguer
 chemiatry
-cycloid
+cycloid 1
 coalternation
 cycloidean
 coalshed
@@ -16398,7 +16398,7 @@ clitoromaniacal
 cephalotribe
 clitter
 criniparous
-conditivia
+conditivia 1
 cochleare
 cliv
 cliver
@@ -19219,7 +19219,7 @@ cimbia
 collutoria
 collutories
 cafeteria
-collutorium
+collutorium 1
 colluvial
 chiffonade
 countlessly
