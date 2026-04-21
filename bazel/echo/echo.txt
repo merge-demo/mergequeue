@@ -4429,7 +4429,7 @@ emitted
 encapsuled
 enure
 effectively
-encapsuling
+encapsuling 1
 encaptivate
 essence
 expectorate
@@ -8145,7 +8145,7 @@ elaeosaccharum
 enclosers
 elutriation
 ebenales
-embowelment
+embowelment 1
 excursed
 epithermal
 elleck
@@ -10562,7 +10562,7 @@ evangelistarium
 effuse
 equationist
 endboard
-eclectical
+eclectical 1
 ensurers
 equational
 elevates
@@ -11931,7 +11931,7 @@ equiradical
 excess
 epithelia
 equestrienne
-ericineous
+ericineous 1
 excessively
 ecole
 espousals
