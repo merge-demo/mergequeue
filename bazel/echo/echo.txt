@@ -7756,7 +7756,7 @@ estopping
 equips
 edelweisses
 ethinamate
-empasma
+empasma 1
 eggshells
 executable
 epidiascope
@@ -11106,7 +11106,7 @@ espies
 esquiredom
 encage
 entune
-emulated
+emulated 1
 emblemish
 eutaenia
 etheostomoid
@@ -11737,7 +11737,7 @@ eglateres
 examinant
 eschewer
 enscrolled
-examinatory
+examinatory 1
 estrepe
 endochrome
 encumbering
