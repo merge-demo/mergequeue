@@ -14953,7 +14953,7 @@ citrangeade
 carronade
 capsize
 clouring
-contorsion
+contorsion 1
 chlorpropamide
 chromoplasm
 counterparallel
