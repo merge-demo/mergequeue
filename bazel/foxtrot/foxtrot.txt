@@ -1603,7 +1603,7 @@ funambulo
 functionating
 fallalery
 faniente
-favouring
+favouring 1
 footroom
 floriage
 frijol
@@ -11434,7 +11434,7 @@ fortunetell
 fallibleness
 formfeed
 frizers
-frigidarium
+frigidarium 1
 firebase
 fiducially
 fluviose
