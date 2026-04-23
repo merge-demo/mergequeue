@@ -5205,7 +5205,7 @@ enterovirus
 eastings
 electroballistician
 epilithic
-endogenae
+endogenae 1
 efference
 euchres
 echeloning
@@ -6106,7 +6106,7 @@ eugenic
 eulachon
 elasmosaur
 ebullience
-evanesce
+evanesce 1
 epifauna
 epirrhema
 electrocardiography
@@ -8465,7 +8465,7 @@ elianic
 encinas
 epizootic
 epoxyed
-epoxies
+epoxies 1
 employed
 evangelistaries
 easterlies
