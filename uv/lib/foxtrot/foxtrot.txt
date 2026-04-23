@@ -1144,7 +1144,7 @@ fiberization
 frumety
 feroher
 fidelis
-flax
+flax 1
 fatally
 fearbabe
 feebleminded
@@ -3997,7 +3997,7 @@ fibres
 fraulein
 friarling
 february
-fairydom
+fairydom 1
 felicitation
 frontlessness
 formability
@@ -8405,7 +8405,7 @@ futhorcs
 forlive
 foreking
 fictively
-frauder
+frauder 1
 fuseboard
 fm
 filcher
