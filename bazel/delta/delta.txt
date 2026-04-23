@@ -5430,7 +5430,7 @@ diplomatics
 disc
 denuder
 dermolysis
-douched
+douched 1
 dialysation
 denumerably
 denumerantive
@@ -7536,7 +7536,7 @@ deuterocanonical
 deuterocasease
 decemplicate
 dakhma
-drivels
+drivels 1
 decatizer
 deuterogamy
 dihydromorphinone
@@ -8755,7 +8755,7 @@ diaporesis
 demimonk
 decime
 distastefully
-dentalgia
+dentalgia 1
 demythologisation
 dichogamy
 diatonic
@@ -13038,7 +13038,7 @@ daijo 1
 disparts
 deformities
 deplethoric
-dispassion
+dispassion 1
 dispended
 dunfish
 dissipative
