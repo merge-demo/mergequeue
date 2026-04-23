@@ -4030,7 +4030,7 @@ biblicoliterary
 brailing
 barms
 beakless
-beaks
+beaks 1
 beala
 burglarproofing
 buchu
