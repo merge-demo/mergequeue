@@ -5263,7 +5263,7 @@ gamecraft
 garten
 gentilic
 gammer
-gluiest
+gluiest 1
 genial
 grenade
 goatish
@@ -9578,7 +9578,7 @@ gynecologist
 galactoscope
 grind
 gnus
-gingersnap
+gingersnap 1
 grovellingly
 geishas
 gneissoid
