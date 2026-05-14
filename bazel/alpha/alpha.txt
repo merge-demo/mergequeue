@@ -2470,7 +2470,7 @@ apprehendingly
 acoasm
 acetin
 almogavar
-agregation
+agregation 1
 aforethought
 avile
 acocantherin
@@ -17919,7 +17919,7 @@ almaciga
 apprizing
 appro
 amate
-approach
+approach 1
 aristodemocracy
 anthracotheriidae
 approachable
@@ -22978,7 +22978,7 @@ aegises
 aeolism
 antilysis
 atroceruleous
-afgod
+afgod 1
 aroynted
 atrochous
 aly
@@ -25308,7 +25308,7 @@ azogallein
 azogrenadine
 ashamedness
 authority
-abask
+abask 1
 amontillados
 assoiled
 azohumic
