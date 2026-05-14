@@ -980,7 +980,7 @@ esoterics
 exhumes
 entera 1
 expanse
-excavatory
+excavatory 1
 emasculating
 enthymematic
 ensaffron
@@ -12023,7 +12023,7 @@ enthusiasts
 ectromelian
 exclusive
 enaunter
-escutellate
+escutellate 1
 exclusiveness
 effectuality
 enforceability
