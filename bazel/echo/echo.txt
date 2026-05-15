@@ -1539,7 +1539,7 @@ exradio
 episcopised
 egoisticalness
 evoke
-embow
+embow 1
 encarnadine
 engloom
 emarginately
@@ -7033,7 +7033,7 @@ estated
 emetines
 extradialectal
 economising
-erythrochaete
+erythrochaete 1
 earphone
 enactory
 embellished
@@ -7554,7 +7554,7 @@ epicede
 exion
 encephalitogenic
 eroticomaniac
-epicedia
+epicedia 1
 encephalopathic
 earnie
 electronics
@@ -9498,7 +9498,7 @@ escry
 escribientes
 escrime
 eschatologically
-embryoferous
+embryoferous 1
 epiphanising
 escript
 everness
@@ -12272,7 +12272,7 @@ efflorescency
 enteromegaly
 els
 elegises
-everduring
+everduring 1
 exemplarism
 exempli
 endotoxin

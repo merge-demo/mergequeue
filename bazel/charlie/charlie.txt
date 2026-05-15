@@ -876,7 +876,7 @@ charque
 caitiffs
 crams
 cayubaba
-cocarboxylase
+cocarboxylase 1
 cs
 cayuca
 commendador
@@ -13208,7 +13208,7 @@ caryota
 cyclic
 cyclical
 cyclizing
-cyclically
+cyclically 1
 cyclicalness
 cyclide
 cubeb 1
@@ -18582,7 +18582,7 @@ coiler
 coeducational
 combusted
 clerkhood
-coin
+coin 1
 cephalopod
 coyly
 crowders

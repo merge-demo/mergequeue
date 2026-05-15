@@ -2401,7 +2401,7 @@ dayakker
 deciduity
 daver
 deciduoma
-discommendable
+discommendable 1
 deciduously
 dessertspoonful
 dimercuric
@@ -2820,7 +2820,7 @@ donatory 1
 decretively
 dictionary
 discind
-deuteroglobulose
+deuteroglobulose 1
 decretorian
 dithymol
 duplicative
@@ -14792,7 +14792,7 @@ dockyards
 docking
 dockization
 dockland
-doublehandedly
+doublehandedly 1
 docklands
 dominica
 dialogue
@@ -14928,7 +14928,7 @@ dominates
 descrying
 dracontine
 dumbbells
-defendants
+defendants 1
 deridingly
 dispensible
 dodgily
