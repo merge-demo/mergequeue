@@ -3161,7 +3161,7 @@ essentiate
 eburated
 ethnarchs
 eskimoes
-euryphage
+euryphage 1
 eloining
 endobronchial
 expurgators
@@ -4624,7 +4624,7 @@ echevin
 exeunt
 elucubrate
 excellent
-exarchs
+exarchs 1
 egotists
 equinities
 enchyma
@@ -6205,7 +6205,7 @@ eccrinology
 episememe
 entrappingly
 entocondyloid
-elision
+elision 1
 ennoblement
 estuant
 ennoblements
