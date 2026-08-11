@@ -2294,7 +2294,7 @@ canaigre
 canaille
 canailles
 cymoid
-chargeship
+chargeship 1
 commonwealth
 cytopahgous
 canakin
@@ -8036,7 +8036,7 @@ civilianization
 caryophyllaceous
 chador
 chadors
-chaenolobus
+chaenolobus 1
 chaetae
 chemin
 chaetal
@@ -31784,7 +31784,7 @@ counterlighting
 circumspectively
 collegiality
 cutaways
-cutback
+cutback 1
 cutbacks
 chiniofon
 cutbank
