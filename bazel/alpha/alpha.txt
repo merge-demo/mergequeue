@@ -19047,7 +19047,7 @@ announcer
 archpilferer
 adornment
 aneurismatic
-accentuating
+accentuating 1
 adulteration
 aphicide
 angst
@@ -21465,7 +21465,7 @@ asperity
 anthrol
 attrib
 associationist
-abdicating
+abdicating 1
 asperly
 acupuncturation
 autotransplantation
