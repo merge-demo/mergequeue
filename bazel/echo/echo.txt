@@ -12324,7 +12324,7 @@ enhydrous
 etymologicon
 exercitation 1
 elecampane
-effortless
+effortless 1
 equilin
 elvanitic
 exercitorian
