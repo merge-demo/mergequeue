@@ -5006,7 +5006,7 @@ gurgoyl
 gastrelcosis
 ginger
 grisliest
-glamoured
+glamoured 1
 germanic
 greatmouthed
 grolier
@@ -7989,7 +7989,7 @@ gipper
 geologized
 grudgment
 gasterosteoid
-grandmas
+grandmas 1
 guanosine
 granada
 glazy
