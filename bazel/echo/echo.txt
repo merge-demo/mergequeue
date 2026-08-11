@@ -2532,7 +2532,7 @@ exuviates
 ephemeromorph
 ensete
 entozoic
-euphausiidae
+euphausiidae 1
 extraconstellated
 ethnobotanic
 enounce
@@ -6673,7 +6673,7 @@ exhaled
 enteromegalia
 enteroneuritis
 effectuates
-entomophthoraceous
+entomophthoraceous 1
 engrafted
 eyehooks
 enhappy
@@ -6903,7 +6903,7 @@ endangered
 electrum
 etiquettes
 endamageable
-epispore
+epispore 1
 ectocardia
 endometria
 evaporable
@@ -7042,7 +7042,7 @@ eundem
 emote
 entrapping
 entrustment
-eurygaea
+eurygaea 1
 exchequers
 exocoetus
 eyeglass
@@ -8989,7 +8989,7 @@ embiotocid
 extinctionist
 electrocardiograph
 elicitable
-elfin
+elfin 1
 eristically
 employer
 exophthalmos
