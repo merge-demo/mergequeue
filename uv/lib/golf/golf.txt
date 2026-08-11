@@ -935,7 +935,7 @@ gammarine
 gingeli
 gammerel
 graeculus
-gammerstang
+gammerstang 1
 gastropneumatic
 gannets
 gammock
@@ -6565,7 +6565,7 @@ gpcd
 glaziest
 gemminess
 ganowanian
-gnatty
+gnatty 1
 grovelingly
 gleditsia
 gandoura
@@ -7342,7 +7342,7 @@ glareole
 ghee
 groggery
 gossep
-graphs
+graphs 1
 gaberlunzie
 gunation
 globe
