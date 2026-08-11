@@ -8036,7 +8036,7 @@ dumbhead
 dhal
 dimension
 dorsointestinal
-dhamnoo
+dhamnoo 1
 distinctional
 dragaded
 dhangar
@@ -10356,7 +10356,7 @@ dentata
 derelictly
 degeneracy
 dioramic
-diordinal
+diordinal 1
 duplet
 disgregation
 dipotassic
@@ -13941,7 +13941,7 @@ dystocia
 dourade
 dogwatch
 diaetetae
-dystocial
+dystocial 1
 doolee
 diagenesis
 discrepance

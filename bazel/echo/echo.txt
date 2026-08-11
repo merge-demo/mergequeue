@@ -11089,7 +11089,7 @@ egoity
 exulceratory
 ekacaesium
 epistemolog
-epiglottal
+epiglottal 1
 extravasation
 endosporium
 eurytus
@@ -13399,7 +13399,7 @@ ems
 enthrong
 evaluative
 express
-extralinguistic
+extralinguistic 1
 eudaemonical
 empire 1
 earlship

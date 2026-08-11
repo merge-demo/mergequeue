@@ -3423,7 +3423,7 @@ aesculus
 add
 atap
 alane
-alkamin
+alkamin 1
 animadversal
 attentions
 abscises
@@ -10902,7 +10902,7 @@ affronter
 allamoth
 antiphilosophy
 amerindic
-allegorical
+allegorical 1
 amniocentesis
 amniochorial
 arado
@@ -15526,7 +15526,7 @@ antimodernistic
 almshouse
 appendicularian
 aramidae
-antimonarchally
+antimonarchally 1
 auxochromic
 armchaired
 anthracnose
