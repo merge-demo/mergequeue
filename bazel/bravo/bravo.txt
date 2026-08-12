@@ -5697,7 +5697,7 @@ brimmered
 belie
 balausta
 belied
-bridalty
+bridalty 1
 blatancy
 branle
 beliefful
