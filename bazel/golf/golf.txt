@@ -2446,7 +2446,7 @@ gimels
 grillage
 gemmulation
 graniferous
-gotched
+gotched 1
 glycohemia
 ghoulish
 globally
@@ -3361,7 +3361,7 @@ gymnurine
 guitermanite
 gadbush
 gessamine
-gonfanons
+gonfanons 1
 gluside
 gibbar
 guttiferal
@@ -3737,7 +3737,7 @@ gyse
 galvanoplastics
 granaries
 guttur
-guayacan
+guayacan 1
 graduations
 gurdy
 ghuz
@@ -5159,7 +5159,7 @@ gazania
 glazers
 geldant
 grouch
-gibus
+gibus 1
 gnostology
 gingham
 gantsl

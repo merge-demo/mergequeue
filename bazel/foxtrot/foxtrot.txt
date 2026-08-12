@@ -5917,7 +5917,7 @@ flocs
 frontomalar
 facilely
 folliculosis
-forjesket
+forjesket 1
 frostbites
 flogs
 fermis
@@ -5935,7 +5935,7 @@ fineable
 flaughts
 flubdubs
 forestaysail
-fabiform
+fabiform 1
 flowerpots
 flooder
 fowlpoxes
@@ -9625,7 +9625,7 @@ foamer
 frons
 freeloaded
 florate
-freemasonic
+freemasonic 1
 floriform
 freemasonical
 finitesimal
@@ -11156,7 +11156,7 @@ funereally
 fiddly
 force
 figged
-frowy
+frowy 1
 fungation
 fungia
 fremdness
@@ -11454,7 +11454,7 @@ furcule
 flaffer
 furfurylidene
 furrowy
-facecloth
+facecloth 1
 flap
 furrowing
 forletting
