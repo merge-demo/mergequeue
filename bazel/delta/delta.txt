@@ -1662,7 +1662,7 @@ dozening
 dentimeter
 deamidation
 deaminase
-digitize
+digitize 1
 daws
 daw
 dextraural
@@ -6098,7 +6098,7 @@ deboites
 dendrometer
 deracinating
 domiciliar
-deracination
+deracination 1
 divinising
 decurring
 dictyostele
@@ -10167,7 +10167,7 @@ deuteranomal
 dasypaedes
 doater
 dinged
-diploids
+diploids 1
 daddle
 demihigh
 dingeing
@@ -12819,7 +12819,7 @@ dehydrogenized
 downhaul
 dyemaking
 daubs
-devolutive
+devolutive 1
 deliquiesce
 demiparadise
 dismals
