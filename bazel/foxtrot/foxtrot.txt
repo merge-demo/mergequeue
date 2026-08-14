@@ -1929,7 +1929,7 @@ furling
 friable
 fangot
 froze
-forebearing
+forebearing 1
 floccule
 finagling
 fonly
