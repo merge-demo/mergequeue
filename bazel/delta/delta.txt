@@ -13858,7 +13858,7 @@ distemper
 dollship
 ductileness
 dancery
-devours
+devours 1
 distemperedly
 dendritically
 drinn
