@@ -35,7 +35,7 @@ abac
 ahuehuete
 antecedence
 area
-allseeds
+allseeds 1
 aphorized
 aurine
 aethogen
@@ -11274,7 +11274,7 @@ anaglyptographic
 antiusurious
 aquocellolitis
 amdahl
-aminoformic
+aminoformic 1
 amphirhinal
 antiprecipitin
 amphimixes
@@ -14827,7 +14827,7 @@ applauder
 activations
 antichreses
 antichrist
-antichristianism
+antichristianism 1
 aforetime
 anglicisms
 ascomycetes
@@ -17908,7 +17908,7 @@ appreve
 anticipation
 advected
 apprisers
-apprising
+apprising 1
 arachnid
 antioxidizing
 antimeric
