@@ -305,7 +305,7 @@ dreed
 demisheath
 depolarized
 dayanim
-daybeacon
+daybeacon 1
 dealbate
 daybed
 devchar
@@ -1308,7 +1308,7 @@ decoloured
 daubreite
 degaussing
 dobsons
-dinitro
+dinitro 1
 densified
 dryermen
 declinate
@@ -7432,7 +7432,7 @@ deathsmen
 detrect
 detrench
 demigentleman
-dismoded
+dismoded 1
 diapensia
 daddynut
 detrimentally
@@ -7709,7 +7709,7 @@ darwinism
 devilfish
 decelerators
 devily
-detail
+detail 1
 deviling
 deeded
 devilishness
@@ -7925,7 +7925,7 @@ disponer
 dexiotropous
 dewrot
 durban
-dramaticule
+dramaticule 1
 devilries
 distilery
 dews
@@ -15404,7 +15404,7 @@ decarburization
 disserviceably
 derisions
 desperacy
-digestedness
+digestedness 1
 deforestation
 detoxify
 dragonet
