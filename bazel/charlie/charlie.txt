@@ -5703,7 +5703,7 @@ coeloglossum
 countersignal
 catawampous
 catawamptiously
-catawampus
+catawampus 1
 cenogenetically
 catberry
 catbirds
