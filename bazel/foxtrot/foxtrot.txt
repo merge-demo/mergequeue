@@ -7247,7 +7247,7 @@ foiled
 footslogger
 flailed
 financiery
-fatstocks
+fatstocks 1
 fluorogen
 foregoing
 fissuration
@@ -8818,7 +8818,7 @@ frailes
 fetchers
 flotillas
 fossage
-fanlight
+fanlight 1
 female
 fidel
 fearable
