@@ -935,7 +935,7 @@ gammarine
 gingeli
 gammerel
 graeculus
-gammerstang
+gammerstang 1
 gastropneumatic
 gannets
 gammock
@@ -2068,7 +2068,7 @@ gibbously
 gunbuilder
 gutlessness
 glutted
-gherkins
+gherkins 1
 gavots
 glycerophosphoric
 gomari
@@ -2936,7 +2936,7 @@ growlier
 glumpish
 gavelkind
 growleries
-glycol
+glycol 1
 gaeldom
 geocyclic
 gnat
@@ -5851,7 +5851,7 @@ gedact
 galvanoplastic
 grundel
 gadger
-gladify
+gladify 1
 gate
 gymnosporangium
 gynoecium
@@ -6565,7 +6565,7 @@ gpcd
 glaziest
 gemminess
 ganowanian
-gnatty
+gnatty 1
 grovelingly
 gleditsia
 gandoura
@@ -7342,7 +7342,7 @@ glareole
 ghee
 groggery
 gossep
-graphs
+graphs 1
 gaberlunzie
 gunation
 globe
@@ -9141,7 +9141,7 @@ gillenia
 grammatically
 goading
 gratings
-gareh
+gareh 1
 galvanometric
 gaffers
 grammaticalness
