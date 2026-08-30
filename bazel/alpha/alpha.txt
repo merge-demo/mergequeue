@@ -24706,7 +24706,7 @@ avers
 aversant
 averseness
 adults
-avertable
+avertable 1
 arabs
 autolyzed
 avertiment
