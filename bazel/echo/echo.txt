@@ -2164,7 +2164,7 @@ electropult
 elation
 euphonise
 enrib
-effloresces
+effloresces 1
 extrapolar
 explanative
 externalism
@@ -3231,7 +3231,7 @@ eluating
 ernesse
 enambush
 esotery
-extraschool
+extraschool 1
 eluctate
 elude
 equant
@@ -3959,7 +3959,7 @@ emory
 exopathic
 estella
 escapologist
-emirate
+emirate 1
 euxanthin
 euskara
 extremistic
@@ -4005,7 +4005,7 @@ eyestalks
 evenhand
 empearl
 electroretinography
-each
+each 1
 exultancy
 esothyropexy
 estus
@@ -6280,7 +6280,7 @@ enrapt
 eurygaean
 enrapted
 enrapts
-ethynyl
+ethynyl 1
 experimentative
 enraptured
 elemong
@@ -13314,7 +13314,7 @@ educts
 explosimeter
 exembryonate
 ecphore
-englishmen
+englishmen 1
 exorcisms
 explosively
 explosiveness
