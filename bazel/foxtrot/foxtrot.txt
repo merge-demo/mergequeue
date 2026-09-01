@@ -6387,7 +6387,7 @@ floreal
 funiliform
 finick
 fetichic
-ferinely
+ferinely 1
 fluoroform
 fluorescigenous
 fumarolic
@@ -11105,7 +11105,7 @@ foyaite
 fundamentalists
 flatbread
 fastland
-formality
+formality 1
 firecrackers
 fins
 factionate
