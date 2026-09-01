@@ -2636,7 +2636,7 @@ decollete
 discontinues
 desalter
 decoloring
-disavowed
+disavowed 1
 diogenes
 deforce
 dispose
@@ -14190,7 +14190,7 @@ dibbles
 defeater
 deathful
 disuse
-desquamate
+desquamate 1
 disbranching
 diapensiaceous
 disuses
@@ -18368,7 +18368,7 @@ dorse
 demulcent
 denudative
 duodenojejunostomies
-dillue
+dillue 1
 douches
 duodenoscopy
 denotate
