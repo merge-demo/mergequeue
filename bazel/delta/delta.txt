@@ -8293,7 +8293,7 @@ dagesh
 desonation
 digitation
 doombook
-dialyzer
+dialyzer 1
 diagrams
 dentin
 db
@@ -14806,7 +14806,7 @@ docoglossan
 disulphoxid
 detests
 docoglossate
-diswarren
+diswarren 1
 decidua
 docs
 doctor
