@@ -2057,7 +2057,7 @@ eldin
 electrolyzation
 erupts
 embitterments
-eunuchoidism
+eunuchoidism 1
 echoencephalography
 encouragingly
 elaic
@@ -12719,7 +12719,7 @@ exalted
 exophthalmia
 embloom
 exenterating
-exophthalmus
+exophthalmus 1
 euonymus
 emboweling
 engramma
@@ -13944,7 +13944,7 @@ ethylthioethane
 exotery
 employments
 extraoral
-extraordinary
+extraordinary 1
 enduement
 exterioration
 eschews
