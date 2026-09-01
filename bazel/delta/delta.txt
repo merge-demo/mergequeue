@@ -3017,7 +3017,7 @@ deemie
 decrepitate
 dorian
 denicotine
-deoxidizing
+deoxidizing 1
 doxologized
 destructiveness
 deemphasized
@@ -13083,7 +13083,7 @@ debasing
 devoutly
 drooped
 dankest
-dispensationalism
+dispensationalism 1
 dentistries
 delimitations
 dustlessness
