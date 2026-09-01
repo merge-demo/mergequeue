@@ -7101,7 +7101,7 @@ epapophysial
 evejar
 estivage
 emulsible
-estuous
+estuous 1
 edicule
 equiprobability
 electrophoric
@@ -9062,7 +9062,7 @@ europeans
 enbranglement
 exordial
 eyases
-electrotherapeutics
+electrotherapeutics 1
 entergogenic
 extrality
 extravascular
@@ -9433,7 +9433,7 @@ effeminised
 eyeshades
 eggshell
 escheats
-exiture
+exiture 1
 enamber
 eschel
 eschele
@@ -12333,7 +12333,7 @@ efs
 elaidate
 eulogizers
 erythroglucin
-effusiometer
+effusiometer 1
 emanators
 exerted
 encumbrous
