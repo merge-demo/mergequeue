@@ -627,7 +627,7 @@ dextrorotatory
 dimorphisms
 duvetyn
 decantate
-damnably
+damnably 1
 dryadic
 dollier
 dacryopyosis
@@ -1015,7 +1015,7 @@ daffling
 dypnone
 dolorimetric
 distichously
-darkie
+darkie 1
 definement
 darkies
 drupel
@@ -3727,7 +3727,7 @@ daytale
 drabble
 drepanoid
 didact
-dehydrogenate
+dehydrogenate 1
 dawtet
 distillable
 disentangled
@@ -5559,7 +5559,7 @@ depancreatize
 drawrod
 drainermen
 deoxygenized
-demicolumn
+demicolumn 1
 diffusionism
 depascent
 debilitation
@@ -6794,7 +6794,7 @@ decorticating
 demodex
 desiodothyroxine
 desirableness
-disseminated
+disseminated 1
 dojo
 dietzeite
 desiredly
