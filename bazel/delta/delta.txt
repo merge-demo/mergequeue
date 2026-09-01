@@ -2213,7 +2213,7 @@ diplograph
 dreich
 derivedly
 diatomaceae
-desultoriness
+desultoriness 1
 deliliria
 divvying
 deacidify
@@ -2695,7 +2695,7 @@ digynous
 dudeens
 deconcentration
 decondition
-dicers
+dicers 1
 delightedness
 dialectics
 disuniter
@@ -3499,7 +3499,7 @@ deflator
 deforced
 depressors
 deforces
-dimittis
+dimittis 1
 deforciant
 detention
 dislikers
@@ -5171,7 +5171,7 @@ distemperure
 dowable
 dendrologists
 duodenopancreatectomy
-dabbling
+dabbling 1
 derailleurs
 discuss
 denicotinizes
@@ -11600,7 +11600,7 @@ digester
 dunkle
 dysoxidizable
 divulgator
-disposable
+disposable 1
 discontentedness
 discriminantal
 dognaped
@@ -18151,7 +18151,7 @@ dumple
 donators
 dive
 dishearten
-devote
+devote 1
 dissceptring
 disavowable
 digress
