@@ -382,7 +382,7 @@ educ
 exoneural
 enterorrhea
 epicalyxes
-ebionite
+ebionite 1
 ebionitism
 existless
 equites
@@ -1552,7 +1552,7 @@ ephydra
 euthanasy
 enmeshments
 erotopathy
-explication
+explication 1
 epiphysitis
 empaling
 effigiation
@@ -2089,7 +2089,7 @@ eutectics
 edictal
 entraps
 enchainements
-ecphractic
+ecphractic 1
 epi
 eugene
 epopoean
@@ -5484,7 +5484,7 @@ emblematicalness
 energesis
 energetic
 electrochronographic
-extrinsicality
+extrinsicality 1
 eleutherophyllous
 earmark
 epilobium
@@ -7452,7 +7452,7 @@ extracurricular
 exercise
 elohimic
 enfile
-ecchondrotome
+ecchondrotome 1
 effusions
 emboliform
 ephestia
