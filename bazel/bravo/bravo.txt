@@ -2791,7 +2791,7 @@ bowlers
 behaviourally
 baronries
 briggs
-baroque
+baroque 1
 baconer
 bowsprits
 bureaus
@@ -3539,7 +3539,7 @@ bathycentesis
 benincasa
 burgages
 beuniformed
-bathycolpic
+bathycolpic 1
 berseems
 belatticed
 baroscopic
@@ -7647,7 +7647,7 @@ bahar
 barranca
 bairnteem
 bourgeoisitic
-balanidae
+balanidae 1
 bilabiate
 bezan
 biplace
@@ -9918,7 +9918,7 @@ boget
 bedticking
 bordelaise
 bauson 1
-bastardice
+bastardice 1
 bituminate
 bituminising
 bituminized
@@ -14771,7 +14771,7 @@ blacklegs
 brightener
 bedimplies
 braxy
-braxies
+braxies 1
 brunt
 brazenfacedness
 bicaudal
