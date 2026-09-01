@@ -5583,7 +5583,7 @@ cabalassou
 cyniatria
 consigne
 calotermitidae
-cassinoid
+cassinoid 1
 careerism
 celtologue
 contortively
@@ -10252,7 +10252,7 @@ counterimitate
 campanulated
 columboid
 clitoritis
-chicanery
+chicanery 1
 chicaneries
 chicaners
 convallarin
@@ -10527,7 +10527,7 @@ chirruper
 counterpreparation
 chromiferous
 chylific
-chylification
+chylification 1
 charlatanish
 chylifying
 chamoises
@@ -14617,7 +14617,7 @@ corpusculum
 cystometer
 cystomyoma
 coadore
-cystomyxoma
+cystomyxoma 1
 chillum
 cystonectae
 cystoneuralgia
