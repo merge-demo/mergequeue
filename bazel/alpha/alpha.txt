@@ -3988,7 +3988,7 @@ azilut
 adman
 antiquatedness
 atheticize
-admeasurer
+admeasurer 1
 adumbrant
 admeasuring
 adulterant
@@ -7118,7 +7118,7 @@ arythmic
 akkadian
 akmite
 aftershock
-aetheogam
+aetheogam 1
 acumble
 arthroderm
 amanitas
