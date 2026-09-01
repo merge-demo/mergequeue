@@ -3945,7 +3945,7 @@ acanthine
 absinthes
 adjust
 animalculum
-abdal
+abdal 1
 astre
 armozeen
 adjusting
@@ -13348,7 +13348,7 @@ anisostichous
 anisostomous
 amlacra
 amphitheatral
-anisotrope
+anisotrope 1
 anisotropically
 anencephalotrophia
 anystidae
@@ -20504,7 +20504,7 @@ acrid
 arteriomalacia
 autoagglutinin
 ascertainment
-actinobacilli
+actinobacilli 1
 actuaryship
 accomplishment
 autotoxemia
