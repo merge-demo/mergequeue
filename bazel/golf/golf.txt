@@ -2913,7 +2913,7 @@ gigots
 glycollic
 glints
 gallipots
-glittering
+glittering 1
 gledes
 gonocyte
 gallinulelike
@@ -9458,7 +9458,7 @@ garfield
 gastrulate
 grocerly
 garad
-grapple
+grapple 1
 glorified
 gasolinic
 gauntness
