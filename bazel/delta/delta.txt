@@ -2296,7 +2296,7 @@ diagraphical
 denouncing
 dohter
 decennoval
-deflux
+deflux 1
 decentering
 discomfortableness
 daidled
@@ -6392,7 +6392,7 @@ denuclearization
 derogates
 diglyceride
 dixie
-derogating
+derogating 1
 derogative
 derogator
 derogatory
@@ -11658,7 +11658,7 @@ deregulating
 discordancies
 discordant
 dialling
-dipetalous
+dipetalous 1
 distributution
 discorded
 discordous
@@ -11965,7 +11965,7 @@ domicils
 diesels
 disembodiment
 deducer
-disembogued
+disembogued 1
 diarian
 deceases
 disembowel
@@ -13604,7 +13604,7 @@ dissertational
 dentinal
 dissertative
 damme
-disparple
+disparple 1
 daintith
 disservice
 decisteres
@@ -16506,7 +16506,7 @@ diadrom
 deoculate
 dervishlike
 despatcher
-darii
+darii 1
 dishevel
 dilucidate
 disdainable
