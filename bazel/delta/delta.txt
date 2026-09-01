@@ -3826,7 +3826,7 @@ disjecting
 duplexed
 dropped
 despatched
-discommender
+discommender 1
 deimos
 daffs
 dallan
@@ -7942,7 +7942,7 @@ desertward
 disestablismentarianism
 dexiotrope 1
 dyeable
-dexiotropic
+dexiotropic 1
 dishwashing
 dollarbird
 diaplex
@@ -16271,7 +16271,7 @@ demiowl
 duchery
 ductilimeter
 diaheliotropism
-dramalogue
+dramalogue 1
 downgraded
 darlingtonia
 domboc
@@ -17282,7 +17282,7 @@ dermatophytosis
 delphinius
 distinguishably
 drolling
-delighter
+delighter 1
 drollishness
 denitrification
 drolls
