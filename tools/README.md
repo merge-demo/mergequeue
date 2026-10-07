@@ -76,9 +76,11 @@ config).
 
 Detects impacted Buck2 targets based on git changes. Uses the Buck2 build graph: changed files are
 mapped to their owning targets with `buck2 uquery "owner(...)"`, then impact is propagated to every
-dependent target with `buck2 uquery "rdeps(root//..., ...)"`. Requires `buck2` on `PATH`.
+dependent target with `buck2 uquery "rdeps(root//..., ...)"`. Runs the pinned `buck2/bin/buck2`
+DotSlash file by default, so [`dotslash`](https://dotslash-cli.com) must be on `PATH`.
 
-- Changes to `.buckconfig`, `.buckroot`, `toolchains/`, or any `.bzl` file impact all targets.
+- Changes to `.buckconfig`, `.buckroot`, `bin/buck2` (a buck2 upgrade), `toolchains/`, or any `.bzl`
+  file impact all targets.
 - Changes to a `BUCK` file impact every target in that package.
 - Deleted files impact every target in their nearest remaining package.
 
@@ -108,7 +110,7 @@ python3 tools/detect_impacted_buck2_targets.py --base=HEAD~1 -o buck2_targets.js
 - `-o, --output OUTPUT`: Output file path (default: impacted_targets_json_tmp)
 - `-q, --quiet`: Suppress verbose output
 - `--buck2-dir PATH`: Buck2 project root (default: `buck2/`)
-- `--buck2 PATH`: buck2 executable (default: `buck2` on `PATH`)
+- `--buck2 PATH`: buck2 executable (default: `buck2/bin/buck2`)
 
 **Output:** Writes a JSON array of impacted target labels (e.g. `root//alpha:alpha`) to the output
 file. Use with `upload_targets.py` to report impacted targets to Trunk (e.g. when `build == 'buck2'`

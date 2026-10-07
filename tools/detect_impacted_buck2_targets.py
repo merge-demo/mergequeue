@@ -11,6 +11,7 @@ depends on them with `buck2 uquery rdeps(...)`.
 import argparse
 import json
 import os
+import shutil
 import subprocess  # noqa: B404  # bandit: git and buck2 are trusted control-plane tools
 import sys
 import tempfile
@@ -20,10 +21,13 @@ from typing import List, Optional, Set
 UNIVERSE = "root//..."
 
 # Files (relative to the Buck2 project root) that affect every target.
-GLOBAL_FILES = {".buckconfig", ".buckroot"}
+GLOBAL_FILES = {".buckconfig", ".buckroot", "bin/buck2"}
 GLOBAL_DIRS = ("toolchains/",)
 
 BUILD_FILE_NAMES = {"BUCK", "BUCK.v2", "TARGETS", "TARGETS.v2"}
+
+# DotSlash file (relative to the Buck2 project root) that pins the buck2 version.
+PINNED_BUCK2 = "bin/buck2"
 
 
 def find_repo_root(start: Path) -> Optional[Path]:
@@ -136,7 +140,8 @@ def build_seed_query(changed_files: List[str], buck2_root: Path) -> Optional[str
     Turn changed files (relative to the Buck2 root) into a query expression
     for the directly changed targets. Returns None if nothing is impacted.
 
-    - .buckconfig, .buckroot, toolchains/ and .bzl changes impact everything.
+    - .buckconfig, .buckroot, bin/buck2 (the pinned version, which also pins the
+      bundled prelude), toolchains/ and .bzl changes impact everything.
     - A changed build file impacts every target in its package.
     - A changed source file impacts the targets that own it. If the file was
       deleted, every target in its nearest surviving package is impacted.
@@ -177,6 +182,21 @@ def detect_impacted_targets(
     if seed == UNIVERSE:
         return set(run_uquery(buck2, buck2_root, UNIVERSE))
     return set(run_uquery(buck2, buck2_root, f"rdeps({UNIVERSE}, {seed})"))
+
+
+def resolve_buck2(override: Optional[str], buck2_root: Path) -> str:
+    """Return the buck2 executable: the override, or the pinned DotSlash file."""
+    if override:
+        return override
+    pinned = str(buck2_root / PINNED_BUCK2)
+    if not shutil.which("dotslash"):
+        print(
+            f"Error: {pinned} is a DotSlash file but dotslash is not on PATH. "
+            "Install it from https://dotslash-cli.com or pass --buck2=buck2",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+    return pinned
 
 
 def write_impacted_targets_json(
@@ -242,8 +262,8 @@ def main() -> None:
     parser.add_argument(
         "--buck2",
         type=str,
-        default="buck2",
-        help="buck2 executable to invoke (default: buck2 on PATH)",
+        help=f"buck2 executable to invoke (default: the pinned DotSlash file "
+        f"<buck2-dir>/{PINNED_BUCK2}, which requires dotslash on PATH)",
     )
     args = parser.parse_args()
 
@@ -264,6 +284,8 @@ def main() -> None:
             file=sys.stderr,
         )
         sys.exit(1)
+
+    buck2 = resolve_buck2(args.buck2, buck2_root)
 
     if not args.quiet:
         print(f"Using Buck2 project at: {buck2_root}")
@@ -288,7 +310,7 @@ def main() -> None:
         if changed_files:
             print(f"Found {len(changed_files)} changed files")
 
-    impacted = detect_impacted_targets(changed_files, repo_root, buck2_root, args.buck2)
+    impacted = detect_impacted_targets(changed_files, repo_root, buck2_root, buck2)
     write_impacted_targets_json(list(impacted), args.output, verbose=not args.quiet)
 
 

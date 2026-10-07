@@ -14,10 +14,6 @@ inputs:
   head-sha:
     description: Head SHA for comparison
     required: true
-  buck2-version:
-    description: Buck2 release tag to install (see github.com/facebook/buck2/releases)
-    required: false
-    default: "2026-10-01"
 
 runs:
   using: composite
@@ -33,17 +29,9 @@ runs:
         pip install -r tools/requirements.txt
       shell: bash
 
-    - name: Install Buck2
-      env:
-        BUCK2_VERSION: ${{ inputs.buck2-version }}
-      run: |
-        mkdir -p "$RUNNER_TEMP/buck2-bin"
-        curl -fsSL "https://github.com/facebook/buck2/releases/download/${BUCK2_VERSION}/buck2-x86_64-unknown-linux-gnu.zst" \
-          | zstd -d -o "$RUNNER_TEMP/buck2-bin/buck2"
-        chmod +x "$RUNNER_TEMP/buck2-bin/buck2"
-        echo "$RUNNER_TEMP/buck2-bin" >> "$GITHUB_PATH"
-        "$RUNNER_TEMP/buck2-bin/buck2" --version
-      shell: bash
+    # buck2 itself is pinned by the DotSlash file at buck2/bin/buck2
+    - name: Install DotSlash
+      uses: facebook/install-dotslash@v2
 
     - name: Fetch commits for comparison
       run: |

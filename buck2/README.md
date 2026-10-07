@@ -9,16 +9,29 @@ This directory contains a [Buck2](https://buck2.build) project used to demonstra
   - Each package contains a `.txt` file with words and a `BUCK` file declaring a `filegroup`
 - **Toolchains**: `toolchains/` registers the prelude's demo toolchains
 - The prelude is the copy bundled with the `buck2` binary (`[external_cells] prelude = bundled`)
+- **`bin/buck2`**: a [DotSlash](https://dotslash-cli.com) file that pins the buck2 version
 
 ## Setup
 
-Install `buck2` from the [releases page](https://github.com/facebook/buck2/releases), then:
+Install `dotslash` (e.g. `cargo install dotslash` or `brew install dotslash`), then run the pinned
+buck2. The first run downloads and caches the binary for your platform:
 
 ```bash
 cd buck2
-buck2 targets //...
-buck2 build //...
+./bin/buck2 targets //...
+./bin/buck2 build //...
 ```
+
+## Upgrading Buck2
+
+Each [buck2 release](https://github.com/facebook/buck2/releases) publishes a DotSlash file named
+`buck2`. Replace `bin/buck2` with the one from the new release:
+
+```bash
+curl -fsSL -o buck2/bin/buck2 https://github.com/facebook/buck2/releases/download/<tag>/buck2
+```
+
+Because the prelude is bundled with the binary, this upgrades the build rules too.
 
 ## Impacted Targets
 
