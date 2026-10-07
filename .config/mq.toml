@@ -1,5 +1,5 @@
 mode = "parallelqueue"
-build = "bazel"
+build = "buck2"
 
 [trunk]
 api = "api.trunk.io"
@@ -18,7 +18,7 @@ labels = ""                     # label to apply to pull request on creation (co
 comment = ""
 requests_per_hour = 70          # target number of pull requests per hour
 run_generate_for = "60 minutes"
-change_code_path = "bazel"
+change_code_path = "buck2"
 
 # how to distribute changes of impacted deps
 # 75% - 1 dep change

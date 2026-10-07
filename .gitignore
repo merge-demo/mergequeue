@@ -38,3 +38,5 @@ yarn.lock
 .nx/
 
 impacted_targets_json_tmp
+# Buck2
+buck-out/
