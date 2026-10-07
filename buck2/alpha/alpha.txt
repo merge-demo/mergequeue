@@ -15063,7 +15063,7 @@ antidynastic
 antidiphtheria
 abrocome
 anapsida
-angelophanic
+angelophanic 1
 acidify
 antidisciplinarian
 allothigenous
