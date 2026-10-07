@@ -10270,7 +10270,7 @@ auxoblast
 amelcorn
 alchemister
 amelet
-ameliorableness
+ameliorableness 1
 amylocellulose
 anhydrated
 acidific
