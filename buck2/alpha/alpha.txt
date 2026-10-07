@@ -18211,7 +18211,7 @@ aquilid
 anoetic
 aerosol
 aquinist
-alcoholicity
+alcoholicity 1
 anenterous
 aerodynes
 allophone
