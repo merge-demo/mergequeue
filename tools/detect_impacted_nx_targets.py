@@ -206,10 +206,18 @@ def main():
     if not args.quiet:
         print(f"Using Nx workspace at: {nx_dir}")
 
-    # Parse files argument
+    # Parse files argument. Nx resolves --files relative to its workspace root,
+    # so convert repo-relative paths and drop files outside the workspace.
     files = None
     if args.files:
-        files = [f.strip() for f in args.files.split(",")]
+        files = []
+        for f in args.files.split(","):
+            path = (repo_root / f.strip()).resolve()
+            if path.is_relative_to(nx_dir):
+                files.append(str(path.relative_to(nx_dir)))
+        if not files:
+            write_impacted_targets_json([], args.output, not args.quiet)
+            return
 
     # Determine which mode to use
     # Nx requires either base/head OR uncommitted/untracked (mutually exclusive)
