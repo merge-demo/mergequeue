@@ -15611,7 +15611,7 @@ briss
 backwoodsman
 bolsterer
 bombproof
-bristled
+bristled 1
 bakhtiari
 bavarian
 biomagnetism
