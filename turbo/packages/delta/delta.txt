@@ -5104,7 +5104,7 @@ decollating
 ductings
 dravya
 dipsomania
-dewlap
+dewlap 1
 dendrocoelan
 dasypygal
 dendrocoele
