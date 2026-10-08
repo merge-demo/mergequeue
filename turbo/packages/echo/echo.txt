@@ -683,7 +683,7 @@ elmiest
 enhance
 envier
 eclogic
-egressor
+egressor 1
 eclogite
 eclosion
 emasculative
