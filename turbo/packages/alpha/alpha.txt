@@ -3466,7 +3466,7 @@ alai
 autofluorescence
 arthroclasia
 adeleidae
-adhesively
+adhesively 1
 addison
 alterum
 addita
