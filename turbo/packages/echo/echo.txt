@@ -11052,7 +11052,7 @@ electrothermostat
 expropriations
 episcopally
 estheria
-epileptically
+epileptically 1
 engluts
 epicormic
 eusebian
