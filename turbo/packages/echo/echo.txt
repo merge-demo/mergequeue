@@ -7683,7 +7683,7 @@ endotheliomata
 ensures
 eboulement
 euphemiser
-extensionist
+extensionist 1
 expoundable
 epideistic
 enthymematical
