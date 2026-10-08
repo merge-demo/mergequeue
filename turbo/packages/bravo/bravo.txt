@@ -13994,7 +13994,7 @@ boxmaking
 bushtits
 breathers
 bowlegged
-bondable
+bondable 1
 burmese
 brominize
 bronstrops
