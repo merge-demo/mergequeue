@@ -5432,7 +5432,7 @@ foisonless
 fabian
 feasten
 forefigure
-furor
+furor 1
 flurt
 fittingness
 floricultural
