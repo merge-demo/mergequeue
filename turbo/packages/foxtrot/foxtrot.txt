@@ -9242,7 +9242,7 @@ frug
 fertilities
 fack 1
 fraises
-fausant
+fausant 1
 fishable
 fretwise
 fascinery

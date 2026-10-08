@@ -5355,7 +5355,7 @@ equator
 elaterids
 egers
 emeroid
-elateridae
+elateridae 1
 encorbellment
 elamitic
 extuberant
