@@ -8705,7 +8705,7 @@ eldfather
 equiproportional
 ebulliently
 equiproportionality
-egocentrism
+egocentrism 1
 eluate
 entrike 1
 eked

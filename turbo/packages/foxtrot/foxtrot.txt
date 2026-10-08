@@ -295,7 +295,7 @@ fledges
 fraenums
 forebar
 fistnotes
-flambeed
+flambeed 1
 floosies
 felicitations
 flumdiddle
