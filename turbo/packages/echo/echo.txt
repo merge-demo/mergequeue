@@ -1867,7 +1867,7 @@ edit
 epiploitis
 epistylar
 embolization
-encoffinment
+encoffinment 1
 exarchy
 extramorainic
 equivocatingly
