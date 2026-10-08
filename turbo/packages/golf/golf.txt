@@ -4696,7 +4696,7 @@ gise
 granges
 gooder
 gourmandise
-gyrene
+gyrene 1
 gibbsite
 gauping
 glazen
