@@ -2091,7 +2091,7 @@ dichopodial
 decalitre
 dunlop
 dinornithid
-disappearance
+disappearance 1
 disencumbering
 dinoflagellida
 dixiecrat
