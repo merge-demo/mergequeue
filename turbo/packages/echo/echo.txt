@@ -9332,7 +9332,7 @@ extenuatory
 eruditical
 estop
 expressible
-erudition
+erudition 1
 erinys
 eurythmic
 endosiphon

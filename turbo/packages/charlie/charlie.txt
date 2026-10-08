@@ -20805,7 +20805,7 @@ complimentation
 confute
 complimentative
 cana
-cure
+cure 1
 complimenter
 complimentingly
 complin
