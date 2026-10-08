@@ -5059,7 +5059,7 @@ figlike
 fishline
 fosses
 fetialis
-foveated
+foveated 1
 fezes
 freir
 frsiket
