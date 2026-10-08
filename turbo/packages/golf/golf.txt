@@ -7150,7 +7150,7 @@ grasscut
 greenfly
 gile
 gorebill
-gordioid
+gordioid 1
 gearboxes
 gored
 gores
