@@ -2540,7 +2540,7 @@ encomiologic
 expeditely
 escadrilles
 exorcist
-endocritic
+endocritic 1
 eminency
 eatable
 ezra
