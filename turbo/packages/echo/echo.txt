@@ -4337,7 +4337,7 @@ expostulator
 espouse
 espichellite
 engulfed
-enamours
+enamours 1
 episperm
 ectropionized
 epotation
