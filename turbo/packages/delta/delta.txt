@@ -13389,7 +13389,7 @@ diamido
 disquiparancy
 demo
 disemprison
-diurnation
+diurnation 1
 dissentients
 delighted
 diploplacula
