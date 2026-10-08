@@ -11969,7 +11969,7 @@ disenchant
 dowd
 disenchantments
 disenchantress
-derned
+derned 1
 depluming
 disencharm
 doctrix
