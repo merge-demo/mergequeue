@@ -9467,7 +9467,7 @@ garad
 garniec
 grapple
 gaggery
-glorified
+glorified 1
 gasolinic
 gauntness
 grassiest
