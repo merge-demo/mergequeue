@@ -10306,7 +10306,7 @@ ammonocarbonic
 amenability
 atoll
 allocaffeine
-amenably
+amenably 1
 assess
 amenance
 amydon
