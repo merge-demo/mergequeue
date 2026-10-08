@@ -7322,7 +7322,7 @@ freudian
 fronds
 fearnaught
 favour
-fulcrum
+fulcrum 1
 feathered
 filchers
 fiddleheaded
