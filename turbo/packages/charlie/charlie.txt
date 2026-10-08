@@ -2985,7 +2985,7 @@ clamehewit
 canthuthi
 coyest
 canticle
-carne
+carne 1
 campesino
 canticles
 conquerableness
