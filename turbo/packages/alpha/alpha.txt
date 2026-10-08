@@ -22413,7 +22413,7 @@ ans
 armourers
 astrogony
 aspartyl
-adequation
+adequation 1
 abohm
 autoaspiration
 astrograph
