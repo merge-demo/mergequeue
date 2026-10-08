@@ -496,7 +496,7 @@ gastritis
 gravimetrical
 gelatin
 gye
-glaucodot
+glaucodot 1
 gluteus
 grama
 gullably
