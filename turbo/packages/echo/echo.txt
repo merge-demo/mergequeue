@@ -13110,7 +13110,7 @@ empaestic
 esocidae
 electrocystoscope
 ejuration
-eternalization
+eternalization 1
 erymanthian
 euthyneurous
 evolved
