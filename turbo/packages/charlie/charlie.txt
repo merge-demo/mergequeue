@@ -13619,7 +13619,7 @@ cymophanous
 cymophenol
 confabulations
 centrifugate
-coherency
+coherency 1
 composed
 cercopithecoid
 cymophobia
