@@ -10794,7 +10794,7 @@ dissave
 discolorate
 deviates
 directors
-directorships
+directorships 1
 desugared
 dryophyllum
 dysphrasia
