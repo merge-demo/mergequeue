@@ -11849,7 +11849,7 @@ emphasize
 eructated
 entoperipheral
 extancy
-elutes
+elutes 1
 exceeded
 endosperm
 evanescent
