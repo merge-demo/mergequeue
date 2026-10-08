@@ -9537,7 +9537,7 @@ frecklier
 feudalizing
 findfault
 foragers
-fullers
+fullers 1
 forche
 foliated
 fyrd
