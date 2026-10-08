@@ -9386,7 +9386,7 @@ fecal
 farcinoma
 facing
 fettler
-foxholes
+foxholes 1
 foreweigh
 flacons
 flubbing
