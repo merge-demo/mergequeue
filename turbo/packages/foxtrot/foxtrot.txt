@@ -11396,7 +11396,7 @@ fourposter
 farceuse
 fatality
 fleak
-furnishes
+furnishes 1
 fiddles
 flams
 functionlessness

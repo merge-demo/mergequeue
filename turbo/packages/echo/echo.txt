@@ -14006,7 +14006,7 @@ extraposition
 electrolytic
 exoskeleton
 extraprofessional
-extrapunitive
+extrapunitive 1
 endogen
 extraregularly
 equestrian
