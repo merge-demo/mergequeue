@@ -12125,7 +12125,7 @@ ebonite
 ensorcerize
 eyelike
 epural
-excursionist
+excursionist 1
 excurvated
 emaciate
 extrados
