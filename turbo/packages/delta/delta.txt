@@ -4314,7 +4314,7 @@ djins
 devoutness
 durning
 delimit
-duckhood
+duckhood 1
 dequeue
 dunderpate
 dronel
