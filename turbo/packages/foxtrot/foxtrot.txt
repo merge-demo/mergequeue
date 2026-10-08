@@ -9755,7 +9755,7 @@ farfel
 flenches
 fluentness
 faerie
-foresettled
+foresettled 1
 flyspeck
 flummoxed
 fastiia
