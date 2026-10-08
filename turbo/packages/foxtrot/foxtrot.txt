@@ -2083,7 +2083,7 @@ foremasthand
 fructidor
 fusibleness
 freeform
-fideistic
+fideistic 1
 fogle
 federalist
 foreseeability
