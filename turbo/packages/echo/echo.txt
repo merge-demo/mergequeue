@@ -4992,7 +4992,7 @@ equipollentness
 ensilaged
 eumoirous
 endenize
-executional
+executional 1
 escalop
 encapsule
 exuded
