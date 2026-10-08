@@ -3774,7 +3774,7 @@ archivolt
 adhesion
 arbutus
 adhesive
-architraved
+architraved 1
 ananke
 arteriosclerotic
 adhesiveness
