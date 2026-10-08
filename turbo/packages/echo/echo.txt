@@ -659,7 +659,7 @@ engravings
 extbook
 establishmentism
 ebriety
-ennoble
+ennoble 1
 evilness
 exprobration
 extimulate
