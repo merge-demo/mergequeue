@@ -5066,7 +5066,7 @@ gumwood
 gaggled
 grasni
 guddler
-glassines
+glassines 1
 galloping
 glenlike
 glasslikeness
