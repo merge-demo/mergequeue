@@ -5657,7 +5657,7 @@ cataphracted
 cataphrenia
 crook
 cataphrenic
-choraleon
+choraleon 1
 cataphrygian
 cataphrygianism
 cataplane
