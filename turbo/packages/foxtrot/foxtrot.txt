@@ -6013,7 +6013,7 @@ fiducinales
 forepoled
 fetich
 fourierist
-foziness
+foziness 1
 flitchplate
 floral
 floralize
