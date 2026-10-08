@@ -8033,7 +8033,7 @@ easements
 evident
 expound
 entertaining
-escallop
+escallop 1
 embezzlements
 enteroscope
 ealdormen
