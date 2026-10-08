@@ -5915,7 +5915,7 @@ facilely
 folliculosis
 frostbites
 flogs
-fermis
+fermis 1
 foeticidal
 flybane
 formose
