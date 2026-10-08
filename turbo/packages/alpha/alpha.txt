@@ -866,7 +866,7 @@ actionized
 arithmic
 amianthoid
 absentees
-absenters
+absenters 1
 antisensuousness
 aflatus
 absentminded
