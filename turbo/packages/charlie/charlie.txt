@@ -9717,7 +9717,7 @@ chromotype
 cataphonics
 cheiranthus
 cheirogaleus
-cheirography
+cheirography 1
 cheirolin
 cymbal
 ciconiidae
