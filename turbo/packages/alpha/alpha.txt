@@ -5504,7 +5504,7 @@ aftercast
 aftercataract
 afterclause
 australasian
-acrostichic
+acrostichic 1
 alt
 aftercooler
 autocollimate
