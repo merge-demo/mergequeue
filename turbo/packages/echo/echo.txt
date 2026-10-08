@@ -2670,7 +2670,7 @@ emborder
 electrotechnician
 exports
 enfant
-eudaemonics
+eudaemonics 1
 engenderment
 exdelicto
 encephalocele
