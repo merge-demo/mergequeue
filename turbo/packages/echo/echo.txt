@@ -4128,7 +4128,7 @@ excursus
 envisaged
 endives
 exedral
-extradite
+extradite 1
 epirote
 eiffel
 ensheathed
