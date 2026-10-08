@@ -2693,7 +2693,7 @@ deconsecrate
 duels
 dareful
 deconsecrated
-demitrain
+demitrain 1
 deconsideration
 decontaminating
 disforest
