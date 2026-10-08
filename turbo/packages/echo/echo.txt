@@ -8754,7 +8754,7 @@ effs
 ektexines
 extrusive
 emmergoose
-evitate
+evitate 1
 entombing
 extrovertedness
 embryotrophic
