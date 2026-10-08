@@ -6800,7 +6800,7 @@ ammonify
 airdrome
 airdromes
 airdrop
-advertizing
+advertizing 1
 apart
 airdropping
 aired
