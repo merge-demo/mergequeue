@@ -5089,7 +5089,7 @@ guilders
 gravery
 glassmaking
 gunfought
-gud
+gud 1
 gibsons
 galactophygous
 gallberries
