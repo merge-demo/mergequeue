@@ -7227,7 +7227,7 @@ enaena
 epicurize
 enskied
 excrescences
-expunge
+expunge 1
 electronegativity
 eoiths
 entamebae
