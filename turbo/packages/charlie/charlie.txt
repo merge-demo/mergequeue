@@ -8724,7 +8724,7 @@ capitaliser
 chapelling
 commonplaces
 chapelmaster
-colonises
+colonises 1
 chapelry
 combflower
 crosspiece
