@@ -9286,7 +9286,7 @@ bayldonite
 bifolia
 bloviating
 beany
-bawdry
+bawdry 1
 buckwheater
 baldricked
 buzuki

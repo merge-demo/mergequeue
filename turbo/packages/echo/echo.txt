@@ -9246,7 +9246,7 @@ evocators
 ethnolinguistic
 epizzoa
 ectotropic
-eloquential
+eloquential 1
 extrapleural
 extrapolative
 etherialisation
