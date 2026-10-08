@@ -15239,7 +15239,7 @@ clamatory
 cartooned
 clutterer
 casimeres
-cricks
+cricks 1
 catholicise
 clambake
 cycasins
