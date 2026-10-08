@@ -18554,7 +18554,7 @@ coiffeurs
 coiffeuses
 coiffured
 ceroxylon
-coiffures
+coiffures 1
 coiffuring
 coifing
 coeducate
