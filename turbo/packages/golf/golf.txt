@@ -7982,7 +7982,7 @@ gangster
 gaboons
 galvanotaxis
 glossina
-goniatitid
+goniatitid 1
 ghettoize
 gynecologic
 grippy
