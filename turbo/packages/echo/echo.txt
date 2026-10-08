@@ -5946,7 +5946,7 @@ enhypostatize
 encrinoidea
 encoffin
 effate
-enhunger
+enhunger 1
 emissary
 enoptromancy
 epitheliogenetic
