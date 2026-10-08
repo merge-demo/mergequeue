@@ -12551,7 +12551,7 @@ epsomite
 etymologist
 euphon
 ethion
-excecation
+excecation 1
 eunuchry
 exocoelar
 exocoele
