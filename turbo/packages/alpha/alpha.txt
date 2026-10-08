@@ -8484,7 +8484,7 @@ alkalosis
 alkalurops
 alkamine
 alkanet
-alkalifies
+alkalifies 1
 actionist
 allicholly
 alkanethiol
