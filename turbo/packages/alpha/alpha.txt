@@ -24248,7 +24248,7 @@ astrachan
 aeciotelia
 anthelices
 aluminoferric
-ameliorableness
+ameliorableness 1
 automatous
 automechanical
 almoner
