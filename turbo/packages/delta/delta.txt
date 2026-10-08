@@ -14594,7 +14594,7 @@ dysfunction
 damourite
 discus
 divorcible
-diminue
+diminue 1
 dropheads
 demosthenic
 developmentary
