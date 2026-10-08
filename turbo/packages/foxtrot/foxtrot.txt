@@ -11625,7 +11625,7 @@ fermata
 fustics
 feinschmecker
 fussbudget
-facsimile
+facsimile 1
 fortissimi
 farci
 fibrous
