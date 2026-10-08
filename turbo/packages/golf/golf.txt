@@ -2596,7 +2596,7 @@ gowf
 gasometrical
 glossolabial
 geiger
-goutte
+goutte 1
 graspers
 garabato
 galluot
