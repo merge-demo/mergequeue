@@ -6517,7 +6517,7 @@ failsoft
 frapping
 forspread
 furcular
-foldskirt
+foldskirt 1
 fortifying
 flexuousness
 fulminant
