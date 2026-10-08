@@ -4196,7 +4196,7 @@ geod
 gleesome
 ganef
 gulflike
-geniculum
+geniculum 1
 gynecophorous
 gossy
 gymnotus
