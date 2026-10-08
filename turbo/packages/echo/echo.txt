@@ -3215,7 +3215,7 @@ enambush
 esotery
 extraschool
 eluctate
-elude
+elude 1
 equant
 educive
 extroversively
