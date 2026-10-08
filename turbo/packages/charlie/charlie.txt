@@ -28510,7 +28510,7 @@ creatureship
 conversibility
 coxcombess
 creaturize
-churchanity
+churchanity 1
 creaze
 crebricostate
 crebrisulcate

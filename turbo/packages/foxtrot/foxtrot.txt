@@ -377,7 +377,7 @@ fluids
 flowerily
 fattiness
 forcedness
-franklandite
+franklandite 1
 from
 fieldfight
 froes
