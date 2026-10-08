@@ -7864,7 +7864,7 @@ forbear
 foreran
 fascination
 foretalking
-funiculate
+funiculate 1
 forereckon
 foredates
 forerun
