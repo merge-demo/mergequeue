@@ -2223,7 +2223,7 @@ fmt
 feminility
 feminin
 frecklish
-fondlesome
+fondlesome 1
 fluorinates
 foals
 freon
