@@ -2058,7 +2058,7 @@ beflecking
 bank
 bankalachi
 beshivers
-bidactyl
+bidactyl 1
 bethought
 banky
 banknote
