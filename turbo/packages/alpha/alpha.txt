@@ -817,7 +817,7 @@ arthropomata
 abruptness
 ambilogy
 algarot
-authoritatively
+authoritatively 1
 anither
 additur
 ammiral
