@@ -8615,7 +8615,7 @@ decigramme
 dystaxia
 diapsida
 dyskinetic
-deathin
+deathin 1
 dyarchy
 deadbeat
 dehydrant
