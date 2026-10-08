@@ -7196,7 +7196,7 @@ bestiarian
 biathlon
 bestock
 bestow
-bestowment
+bestowment 1
 burgee
 breaching
 blades
