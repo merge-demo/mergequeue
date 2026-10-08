@@ -1716,7 +1716,7 @@ empressements
 epistilbite
 ejective
 evang
-eyeground
+eyeground 1
 encephaloid
 enginery
 exasper
