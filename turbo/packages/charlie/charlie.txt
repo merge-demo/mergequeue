@@ -22099,7 +22099,7 @@ cyprinoid
 cashierer
 councilor
 conformably
-conformal
+conformal 1
 complexed
 crosstalk
 cloyne
