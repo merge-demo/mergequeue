@@ -8824,7 +8824,7 @@ bedchamber
 bible
 binotonous
 baltimorean
-bedeck
+bedeck 1
 baetzner
 brachystaphylic
 boilerman
