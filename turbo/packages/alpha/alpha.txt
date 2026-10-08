@@ -10939,7 +10939,7 @@ amosite
 armsful
 antipyretic
 anhydric
-adenophore
+adenophore 1
 aquicultural
 availably
 airtight
