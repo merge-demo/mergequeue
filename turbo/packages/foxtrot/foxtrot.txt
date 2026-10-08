@@ -532,7 +532,7 @@ foresense
 falco
 fermentive
 fusarole
-forgivableness
+forgivableness 1
 forepaled
 fetterless
 fustigating
