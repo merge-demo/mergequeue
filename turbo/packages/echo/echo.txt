@@ -12703,7 +12703,7 @@ epiloguing
 esprove
 embryography
 exceeds
-exospheric
+exospheric 1
 epithamia
 eloah
 epidemiologically
