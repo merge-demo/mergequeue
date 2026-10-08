@@ -15663,7 +15663,7 @@ disbarring
 dopier
 directed
 dogstone
-docile
+docile 1
 dunce
 dartrose
 didrachma
