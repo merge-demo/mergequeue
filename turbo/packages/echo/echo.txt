@@ -9241,7 +9241,7 @@ erythrozyme
 enweaved
 embosses
 entrant
-extirpate
+extirpate 1
 evocators
 ethnolinguistic
 epizzoa

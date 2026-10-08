@@ -11490,7 +11490,7 @@ foredescribe
 farms
 facilities
 figural
-flunkeyize
+flunkeyize 1
 finnmarks
 furthest
 flittering
