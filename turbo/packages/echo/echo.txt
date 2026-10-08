@@ -5287,7 +5287,7 @@ estocs
 ergodicity
 elegiast
 eliminability
-endosclerite
+endosclerite 1
 extrahepatic
 eurybathic
 eucopepoda
