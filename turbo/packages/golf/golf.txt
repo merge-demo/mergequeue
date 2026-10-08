@@ -4732,7 +4732,7 @@ graphitizable
 gratinate
 grandiflora
 gaoler
-gainstand
+gainstand 1
 garua
 galactite
 glick
