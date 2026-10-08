@@ -17603,7 +17603,7 @@ bacteriostatically
 baseballs
 burghbote
 brandished
-bristling
+bristling 1
 burgherage
 beguine
 bottomlessly
