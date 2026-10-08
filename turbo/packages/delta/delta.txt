@@ -15501,7 +15501,7 @@ diabolism
 dendral
 dobbie
 dualists
-desensitize
+desensitize 1
 dongola
 drams
 decomposite
