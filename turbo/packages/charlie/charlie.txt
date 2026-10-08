@@ -15482,7 +15482,7 @@ conga
 coapostate
 crocker
 confraternization
-claro
+claro 1
 claroes
 circumlocutional
 collegian
