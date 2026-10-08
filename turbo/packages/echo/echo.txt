@@ -822,7 +822,7 @@ edaphically
 euglenidae
 echeneidoid
 ectypal
-ectype
+ectype 1
 epicarpal
 enwrite
 erythrinidae
