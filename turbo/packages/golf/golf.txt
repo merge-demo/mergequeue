@@ -903,7 +903,7 @@ gelatinizability
 genome
 gravata
 gaverick
-geld
+geld 1
 guna
 gelatinate
 genealogic
