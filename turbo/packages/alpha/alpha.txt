@@ -2525,7 +2525,7 @@ antluetic
 alpiste
 agria
 acomia
-anglicize
+anglicize 1
 allozooid
 acomous
 amphikaryon
