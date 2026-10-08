@@ -6654,7 +6654,7 @@ dungaree
 deserts
 deserve
 dotingly
-depreciatoriness
+depreciatoriness 1
 disembodiments
 dustrags
 deserved
