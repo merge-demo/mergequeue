@@ -2371,7 +2371,7 @@ gote
 gaulish
 gambadoes
 geminid
-geminous
+geminous 1
 gratinating
 gestating
 gemma
