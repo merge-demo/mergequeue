@@ -2560,7 +2560,7 @@ dweller
 declassification
 disbudder
 derringer
-declassifies
+declassifies 1
 diplophonic
 disequality
 dematerialize
