@@ -16959,7 +16959,7 @@ decimalist
 drecks
 demihorse
 dullness
-downcurve
+downcurve 1
 dredgeful
 disintegrate
 discerp
