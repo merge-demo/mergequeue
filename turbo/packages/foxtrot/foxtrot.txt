@@ -11291,7 +11291,7 @@ frigorify
 femmes
 fogy
 fiscalize
-fadeaway
+fadeaway 1
 flurrying
 farcing
 fourfold
