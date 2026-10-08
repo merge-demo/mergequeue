@@ -1287,7 +1287,7 @@ ginkgo
 gestation
 garefowl
 garetta
-gnawingly
+gnawingly 1
 gargalize
 guttles
 grump
