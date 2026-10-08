@@ -6755,7 +6755,7 @@ fainly
 foiter
 felloe
 frayed
-fried
+fried 1
 formative
 fronded
 frondesce
