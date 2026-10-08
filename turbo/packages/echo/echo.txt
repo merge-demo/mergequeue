@@ -7094,7 +7094,7 @@ endpaper
 envelops
 enduing
 encarnalise
-eightfold
+eightfold 1
 enmarbled
 enverdure
 enlaced
