@@ -3157,7 +3157,7 @@ fibrositis
 ferrugo
 furriest
 frenum
-failingly
+failingly 1
 fingerpost
 ferment
 frighty
