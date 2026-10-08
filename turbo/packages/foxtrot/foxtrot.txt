@@ -6823,7 +6823,7 @@ feuille
 florula
 fragmentizer
 foretold
-fasces
+fasces 1
 fructifier
 foliaged
 fustigator
