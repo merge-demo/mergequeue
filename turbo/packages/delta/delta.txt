@@ -14215,7 +14215,7 @@ disyoked
 doublet
 destroyable
 disvisor
-dungs
+dungs 1
 dynamoelectric
 donatism
 depopulated
