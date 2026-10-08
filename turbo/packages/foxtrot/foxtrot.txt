@@ -5324,7 +5324,7 @@ ferry
 faitery
 flb
 fantasque
-flutey
+flutey 1
 foregather
 fifteen
 fumarole

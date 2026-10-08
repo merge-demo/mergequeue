@@ -17778,7 +17778,7 @@ acrocera
 aversation
 ameiurus
 abutilons
-adumbration
+adumbration 1
 antispasis
 amentia
 applique
