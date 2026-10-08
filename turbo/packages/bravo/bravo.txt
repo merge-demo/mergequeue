@@ -4858,7 +4858,7 @@ by
 beltwise
 bandcase
 baffing
-beduncing
+beduncing 1
 bagobo
 bratling
 bewrapped
