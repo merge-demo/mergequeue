@@ -6285,7 +6285,7 @@ gospelly
 gainable
 gobble
 gierfalcon
-gobbled
+gobbled 1
 gothicizer
 gelatinised
 graecian
