@@ -2284,7 +2284,7 @@ fumaria
 forshape
 full
 flavones
-finlandization
+finlandization 1
 filamentiferous
 fantails
 folktale
