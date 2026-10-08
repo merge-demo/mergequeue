@@ -115,7 +115,7 @@ equisetaceae
 engobe
 egotistically
 exodermal
-eparch
+eparch 1
 echinoderma
 earthboard
 exanthemata
