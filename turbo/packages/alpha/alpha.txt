@@ -5259,7 +5259,7 @@ affidation
 altropathy
 antihemorrhagic
 adscription
-allegorists
+allegorists 1
 almond
 affidavy
 acosmic
