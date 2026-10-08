@@ -11974,7 +11974,7 @@ always
 alienage
 attatches
 amalgamize
-anaphylactically
+anaphylactically 1
 araliaceae
 anaemias
 apostrophal
