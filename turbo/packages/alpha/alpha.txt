@@ -21601,7 +21601,7 @@ aspirer
 absorbers
 alliterator
 abboccato
-aprilesque
+aprilesque 1
 anice
 antecedes
 aspiringly
