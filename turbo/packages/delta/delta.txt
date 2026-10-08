@@ -4539,7 +4539,7 @@ dotier
 demihagbut
 demihaque
 demijambe
-dottled
+dottled 1
 dukhobor
 dynastically
 diwans
