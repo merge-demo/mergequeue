@@ -10631,7 +10631,7 @@ eisodic
 enmoss
 excavate
 endozoa
-eques
+eques 1
 enharmonical
 eoghanacht
 enchilada
