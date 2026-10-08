@@ -10609,7 +10609,7 @@ gowned
 goldenmouth
 goldsmith
 glossologist
-greenockite
+greenockite 1
 gallow
 glumose
 gallinules
