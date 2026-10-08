@@ -4814,7 +4814,7 @@ aspide
 addnl
 aero
 ausones
-aspermatism
+aspermatism 1
 aeroballistic
 aerobate
 aerobatic
