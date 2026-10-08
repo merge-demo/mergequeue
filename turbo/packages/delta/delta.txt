@@ -10922,7 +10922,7 @@ disadvance
 disadvancing
 disadvantageousness
 ditetragonal
-deminude
+deminude 1
 disadvising
 dysaesthesia
 dropvie
