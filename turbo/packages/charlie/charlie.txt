@@ -7010,7 +7010,7 @@ chock
 centaurdom
 cuvette
 centaurea
-cyanus
+cyanus 1
 carretta
 cantoned
 clitellum
