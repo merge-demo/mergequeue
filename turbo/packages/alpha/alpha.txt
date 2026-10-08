@@ -6772,7 +6772,7 @@ affluents
 almagra
 amyelinic
 adipocerous
-adopt
+adopt 1
 amitabha
 airburst
 arresting
