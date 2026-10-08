@@ -11994,7 +11994,7 @@ choroids
 commonplace
 chorology
 cylloses
-coheres
+coheres 1
 choromanic
 cajolers
 chevreuil
