@@ -15427,7 +15427,7 @@ brighid
 bannerlike
 becket
 brainwork
-brightish
+brightish 1
 bottomers
 bebelted
 bescoundrel
