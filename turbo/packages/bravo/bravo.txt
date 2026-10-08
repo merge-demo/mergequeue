@@ -9924,7 +9924,7 @@ bastardice
 bituminate
 bituminising
 bituminized
-burnbeat
+burnbeat 1
 bucktail
 babblative
 bellyman
