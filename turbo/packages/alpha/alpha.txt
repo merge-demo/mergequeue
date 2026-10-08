@@ -19823,7 +19823,7 @@ armariumaria
 armatoles
 antigun
 arsphenamine
-armatures
+armatures 1
 albation
 anarchal
 arcane
