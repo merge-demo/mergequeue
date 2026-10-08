@@ -16801,7 +16801,7 @@ aphydrotropism
 aphilanthropy
 aphylly
 abidi
-astrictiveness
+astrictiveness 1
 apparens
 aerification
 anticatalyzer
