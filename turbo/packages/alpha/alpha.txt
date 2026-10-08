@@ -7154,7 +7154,7 @@ abarthrosis
 atopite
 akre
 akrochordite
-allophore
+allophore 1
 akroter
 akroteria
 arithmetization
