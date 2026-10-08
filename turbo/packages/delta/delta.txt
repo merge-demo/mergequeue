@@ -8771,7 +8771,7 @@ declassifications
 diazin
 drayman
 death
-decrassify
+decrassify 1
 droners
 dialoguer
 deuterodome
