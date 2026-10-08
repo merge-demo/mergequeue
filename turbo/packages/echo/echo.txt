@@ -3247,7 +3247,7 @@ embryoscope
 encamping
 excretolic
 eunice
-ecumenicize
+ecumenicize 1
 eluvies
 euphonize
 ethopoeia
