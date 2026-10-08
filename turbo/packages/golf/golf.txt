@@ -10741,7 +10741,7 @@ groupie
 gustfully
 groundlessly
 gypsyisms
-gnomonological
+gnomonological 1
 gangism
 graille
 gavage
