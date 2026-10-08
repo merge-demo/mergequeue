@@ -4342,7 +4342,7 @@ antihygienic
 ascript
 acetmethylanilide
 adrowse
-arecaine
+arecaine 1
 autarchoglossa
 atabrine
 amortizing
