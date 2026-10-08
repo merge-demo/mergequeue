@@ -10968,7 +10968,7 @@ aillt
 admin
 atwin
 anticonstitution
-acquainted
+acquainted 1
 arched
 amoebaeum
 athogen
