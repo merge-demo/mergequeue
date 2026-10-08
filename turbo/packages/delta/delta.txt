@@ -5478,7 +5478,7 @@ deoxidisation
 dissolubility
 deadest
 devoiced
-dorsiventrality
+dorsiventrality 1
 doryphoros
 dews
 deoxygenated
