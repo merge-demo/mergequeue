@@ -6550,7 +6550,7 @@ descriptionist
 dogsled
 descriptionless
 dangleberry
-distensile
+distensile 1
 dysnomy
 designator
 diota
