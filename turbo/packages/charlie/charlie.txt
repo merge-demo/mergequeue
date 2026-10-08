@@ -21815,7 +21815,7 @@ culmy
 concentive 1
 corresponsive
 conductometric
-conductor
+conductor 1
 conductorial
 commoners
 crossbearer

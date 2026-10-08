@@ -4436,7 +4436,7 @@ bludging
 bonspells
 bilabials
 beclothe
-banting
+banting 1
 bonasus
 bhili
 beribers
