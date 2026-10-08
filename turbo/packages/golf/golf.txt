@@ -6347,7 +6347,7 @@ genarchaship
 graptoloidea
 goatsucker
 graplines
-gamic
+gamic 1
 gravenstein
 greentail
 gastrectasis
