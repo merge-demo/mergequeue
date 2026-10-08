@@ -7910,7 +7910,7 @@ deuniting
 dewless
 dactyloscopy
 daggled
-dewlike
+dewlike 1
 deeps
 deworming
 deworms
