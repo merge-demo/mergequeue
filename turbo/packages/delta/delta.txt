@@ -4885,7 +4885,7 @@ dailies
 detecting
 demonography
 demonographies
-determinants
+determinants 1
 denature
 dramseller
 deactivator
