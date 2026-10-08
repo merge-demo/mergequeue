@@ -9267,7 +9267,7 @@ exonerative 1
 errants
 espinette
 erratas
-erratic
+erratic 1
 erratically
 enantiomorphic
 elite
