@@ -5706,7 +5706,7 @@ benzotetrazine
 basseted
 bismarine
 beamful
-bloomery
+bloomery 1
 blankite
 budge
 bencite
