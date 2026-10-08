@@ -23735,7 +23735,7 @@ anteceded
 affrayed
 anthropogeography
 aurophore
-aurore
+aurore 1
 additionally
 acct
 aleppine
