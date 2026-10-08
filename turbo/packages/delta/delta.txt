@@ -12810,7 +12810,7 @@ downhaul
 dyemaking
 daubs
 devolutive
-deliquiesce
+deliquiesce 1
 demiparadise
 dismals
 dithalous
