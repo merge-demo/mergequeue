@@ -12080,7 +12080,7 @@ ekphoria
 expostulation
 extollingly
 erepsin
-eunuchize
+eunuchize 1
 escuage
 embryectomies
 enflames
