@@ -4463,7 +4463,7 @@ damns
 duress
 demy
 decahydrated
-dovetailing
+dovetailing 1
 diazotization
 demibeast
 demibelt
