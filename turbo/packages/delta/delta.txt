@@ -4081,7 +4081,7 @@ delignification
 decimalizing
 delimed
 disquisitory
-delimes
+delimes 1
 duskiness
 dhoby
 decreaseless
