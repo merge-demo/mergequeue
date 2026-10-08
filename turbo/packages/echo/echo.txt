@@ -7046,7 +7046,7 @@ excitomuscular
 encompassed
 epris
 exemptile
-earthfast
+earthfast 1
 experiencer
 enumeration
 eggroll
