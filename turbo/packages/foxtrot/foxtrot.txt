@@ -2424,7 +2424,7 @@ ferlying
 foiler
 ferling
 flemishes
-furls
+furls 1
 fortnightly
 fermail
 fobbed
