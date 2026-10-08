@@ -24533,7 +24533,7 @@ chronodeik
 contredanse
 copassionate
 countermotion
-clampdown
+clampdown 1
 cerographist
 copastor
 copastors
