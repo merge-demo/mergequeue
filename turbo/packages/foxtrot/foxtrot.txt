@@ -5798,7 +5798,7 @@ fructicultural
 fumeroot
 fallage
 fastigium
-foreswearing
+foreswearing 1
 filmer
 flamingly
 flittermouse
