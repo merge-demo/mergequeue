@@ -6680,7 +6680,7 @@ elongations
 enterprize
 expertising
 entosclerite
-eulogiser
+eulogiser 1
 ecrevisse
 epulis
 espundia
