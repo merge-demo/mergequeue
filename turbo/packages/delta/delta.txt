@@ -5198,7 +5198,7 @@ decephalization
 deathly
 dynasticism
 diaheliotropic
-detruncating
+detruncating 1
 devoid
 denitrifier
 denizenation
