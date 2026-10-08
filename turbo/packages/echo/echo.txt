@@ -10189,7 +10189,7 @@ enumerations
 exudate
 emancipation
 escrowed
-emmarbled
+emmarbled 1
 enacting
 electrotelegraphic
 externals
