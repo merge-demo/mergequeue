@@ -1333,7 +1333,7 @@ daitya
 derelinquish
 didappers
 daunt
-disfellowship
+disfellowship 1
 daunted
 dhobies
 daunters
