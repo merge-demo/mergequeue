@@ -7238,7 +7238,7 @@ disparatum
 daguilla
 darklings
 delubrum
-daintify
+daintify 1
 desolately
 disnatured
 dux
