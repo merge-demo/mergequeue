@@ -5918,7 +5918,7 @@ buffaloes
 beltane
 belauding
 bimetalic
-belter
+belter 1
 beraked
 buyouts
 brelan
