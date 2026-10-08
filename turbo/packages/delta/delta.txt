@@ -15052,7 +15052,7 @@ doggoning
 detant
 downfeed
 dislady
-difunctional
+difunctional 1
 dogget
 doggrelize
 dottrels
