@@ -8817,7 +8817,7 @@ enskyed
 embelin
 entempest
 empetraceous
-epistolize
+epistolize 1
 epilate
 ethoxy
 exigently
