@@ -10497,7 +10497,7 @@ chyles
 chiliadron
 chiliads
 calcaneocuboid
-capacitation
+capacitation 1
 connexity
 chiliahedron
 chiliarchia
