@@ -4082,7 +4082,7 @@ decimalizing
 delimed
 disquisitory
 delimes
-duskiness
+duskiness 1
 dhoby
 decreaseless
 delimitated
