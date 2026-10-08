@@ -1595,7 +1595,7 @@ biradial
 britches
 binate
 ballista
-beatinest
+beatinest 1
 balboa
 bargir
 ballistician
