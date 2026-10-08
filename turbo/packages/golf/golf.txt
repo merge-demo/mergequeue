@@ -1448,7 +1448,7 @@ gowks
 gamma
 gerousia
 garran
-gove
+gove 1
 gynocardia
 gradualness
 galbanums
