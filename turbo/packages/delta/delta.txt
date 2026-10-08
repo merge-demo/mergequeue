@@ -16868,7 +16868,7 @@ dicyclic
 descamisado
 dataria
 drona
-dimmish
+dimmish 1
 dumbs
 dreadable
 diglot
