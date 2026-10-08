@@ -11309,7 +11309,7 @@ flancards
 fusspot
 firearm
 fulmicotton
-fatwa
+fatwa 1
 firedog
 feverfew
 filippi
