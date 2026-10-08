@@ -21959,7 +21959,7 @@ coresort
 confidants
 centaurs
 counterproductivity
-confidence
+confidence 1
 confidency
 cosmogenic
 confident
