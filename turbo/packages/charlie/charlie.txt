@@ -9469,7 +9469,7 @@ check
 communizing
 checkage
 capsulized
-cubited
+cubited 1
 checkback
 checkbite
 checkbits
