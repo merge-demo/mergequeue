@@ -5908,7 +5908,7 @@ ginkgoales
 gentilish
 gleesomeness
 greenbacks
-gassiness
+gassiness 1
 guereba
 gymnospermous
 goitrous
