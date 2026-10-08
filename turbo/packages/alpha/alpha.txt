@@ -2588,7 +2588,7 @@ assist
 acpt
 acridinic
 acquaint
-acquaintanceship
+acquaintanceship 1
 antilift
 acidophilus
 acquisible
