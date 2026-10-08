@@ -1299,7 +1299,7 @@ cunea
 calaverite
 caliber
 compulsatory
-calibers
+calibers 1
 colunar
 calibrated
 calibrater
