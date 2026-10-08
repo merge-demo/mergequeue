@@ -5249,7 +5249,7 @@ garten
 gentilic
 gammer
 gawkier
-genial
+genial 1
 gullet
 gelsemiums
 glenohumeral
