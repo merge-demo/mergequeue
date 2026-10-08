@@ -13305,7 +13305,7 @@ elusively
 encomendero
 expone
 ephoralty
-elinvar
+elinvar 1
 echinosphaeritidae
 execrator
 exponency
