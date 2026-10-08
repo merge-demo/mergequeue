@@ -5062,7 +5062,7 @@ ageratums
 attenders
 alexinic
 aerostatic
-aerostatical
+aerostatical 1
 anthracin
 argas
 appertain
