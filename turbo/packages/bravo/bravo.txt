@@ -9090,7 +9090,7 @@ bistable
 budzart
 balanoglossida
 bodysuit
-beauts
+beauts 1
 biosome
 boodledom
 biosphere
