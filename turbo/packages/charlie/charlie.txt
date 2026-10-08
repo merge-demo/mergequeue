@@ -19931,7 +19931,7 @@ comitia
 comitial
 colortype
 cashbox
-cuscuses
+cuscuses 1
 contrastimulus
 comitje
 chunters
