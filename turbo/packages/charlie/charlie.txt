@@ -28985,7 +28985,7 @@ coeval
 chlorinize
 cynomorphous
 cochair
-cartelize
+cartelize 1
 cricotus
 criddle
 cried
