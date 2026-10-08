@@ -3884,7 +3884,7 @@ ferrometer
 flashlamps
 finaglers
 finalization
-fays
+fays 1
 futile
 filleting
 feckless
