@@ -668,7 +668,7 @@ extracondensed
 electrophysiology
 emaculate
 estheses
-endolymphic
+endolymphic 1
 exudative
 eclipsed
 equivocacy
