@@ -17050,7 +17050,7 @@ chosen
 chartermaster
 coimplicant
 catechetically
-confervalike
+confervalike 1
 checkup
 coacher
 counterdistinction
