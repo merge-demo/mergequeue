@@ -12071,7 +12071,7 @@ endemisms
 excreta
 escheator
 endued
-edentates
+edentates 1
 enantiomorphism
 expressor
 easels
