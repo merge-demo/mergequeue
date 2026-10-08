@@ -3346,7 +3346,7 @@ acecaffine
 agnizing
 anisodactylous
 anthranil
-antipolyneuritic
+antipolyneuritic 1
 adamantinoma
 adamantness
 actinochemical
