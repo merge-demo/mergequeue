@@ -6533,7 +6533,7 @@ foetid
 floccose
 frailish
 flutist
-frenchman
+frenchman 1
 forecover
 flutterboard
 faucal
