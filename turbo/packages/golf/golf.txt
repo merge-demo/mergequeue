@@ -9976,7 +9976,7 @@ goitres
 guatibero
 grysbok
 grunswel
-glood
+glood 1
 glossematics
 guaza
 glycerinated
