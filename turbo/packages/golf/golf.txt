@@ -6472,7 +6472,7 @@ gymnocerata
 governor
 geyseric
 golder
-glimpse
+glimpse 1
 grower
 guardedness
 goldfinny
