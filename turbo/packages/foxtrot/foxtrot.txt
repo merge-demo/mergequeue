@@ -3895,7 +3895,7 @@ foregrounds
 frequencies
 fits
 foreschooling
-fortuitously
+fortuitously 1
 fluidness
 financer
 fripperies
