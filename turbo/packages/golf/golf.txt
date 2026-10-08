@@ -7878,7 +7878,7 @@ gour
 gowpin
 gardevin
 greece
-galvanometrical
+galvanometrical 1
 grammarless
 grammaticaster
 goff
