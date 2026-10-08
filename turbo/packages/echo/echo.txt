@@ -11329,7 +11329,7 @@ eth
 eveline
 epitrochlear
 evenfall
-ennerve
+ennerve 1
 electroscission
 eupnoeic
 enervative
