@@ -1481,7 +1481,7 @@ beryllonite
 balker
 brink
 bastardise
-balkiest
+balkiest 1
 balking
 budgy
 backbiter
