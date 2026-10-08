@@ -11162,7 +11162,7 @@ chloral
 chloralformamide
 cluniac
 cupelling
-comburimeter
+comburimeter 1
 cymbocephalic
 chloralize
 chloralized
