@@ -472,7 +472,7 @@ foliosity
 facticity
 faitours
 fomented
-fainant
+fainant 1
 fawningly
 fistical
 fundulus
