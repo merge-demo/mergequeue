@@ -7815,7 +7815,7 @@ fowlerite
 fritterers
 foreordinate
 floridian
-forespent
+forespent 1
 finns
 filterman
 furiousity
