@@ -15671,7 +15671,7 @@ broacher
 baulkiest
 burgundies
 batterable
-buffone
+buffone 1
 barrenest
 bulkheads
 burred
