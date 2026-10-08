@@ -7241,7 +7241,7 @@ exsector
 electrocatalytic
 encephalomere
 epidemiology
-exterraneous
+exterraneous 1
 energetics
 ensealed
 eopalaeozoic

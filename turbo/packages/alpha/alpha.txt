@@ -6843,7 +6843,7 @@ airlessness
 anchistopoda
 airlift
 airlifting
-airlifts
+airlifts 1
 antiparliamentary
 adjectival
 airline
