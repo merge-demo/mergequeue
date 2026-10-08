@@ -5449,7 +5449,7 @@ earmark
 echoized
 epilobium
 entranced
-energeticness
+energeticness 1
 epacrid
 estimatingly
 extrasystole
