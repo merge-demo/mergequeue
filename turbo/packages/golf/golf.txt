@@ -6356,7 +6356,7 @@ gradating
 gam
 groceries
 glaucochroite
-geotropism
+geotropism 1
 goety
 gymnolaemata
 gaels
