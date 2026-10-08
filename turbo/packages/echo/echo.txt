@@ -8891,7 +8891,7 @@ elfdom
 ergatocrat
 epergnes
 erysiphe
-execrated
+execrated 1
 evonymus
 ergative
 elmier
