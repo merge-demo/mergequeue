@@ -6060,7 +6060,7 @@ disacknowledgement
 doughbelly
 doover
 diopsis
-disabuses
+disabuses 1
 diaconicon
 dolous
 dells
