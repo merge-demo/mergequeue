@@ -5199,7 +5199,7 @@ frivolers
 foreclaw
 fuchsia
 finished
-familarity
+familarity 1
 frumpery
 funest
 fraternizes
