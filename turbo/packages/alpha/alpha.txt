@@ -23506,7 +23506,7 @@ aerophor
 abulias
 avert
 augure
-alliteratively
+alliteratively 1
 augured
 abeigh
 anteroposteriorly
