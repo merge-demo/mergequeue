@@ -4437,7 +4437,7 @@ bonspells
 bilabials
 beclothe
 banting
-bonasus
+bonasus 1
 bhili
 beribers
 beclothes
