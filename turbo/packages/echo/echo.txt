@@ -12119,7 +12119,7 @@ enregister
 empierce
 excellencies
 ejam
-enfeoffing
+enfeoffing 1
 eloper
 ebonite
 ensorcerize
