@@ -20669,7 +20669,7 @@ complant
 chiromancer
 complect
 cottierism
-collapsible
+collapsible 1
 converser
 complementary
 carty
