@@ -12941,7 +12941,7 @@ autotype
 adenine
 anglophobia
 abattoirs
-apyrase
+apyrase 1
 anglophobiac
 adoptees
 aire
