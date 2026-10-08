@@ -9477,7 +9477,7 @@ grimmest
 guaharibo
 glaciate
 grumbling
-gaseously
+gaseously 1
 griffonne
 gabled
 glandulosity
