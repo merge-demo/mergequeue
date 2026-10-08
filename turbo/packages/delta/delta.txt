@@ -6167,7 +6167,7 @@ demast
 droshkies
 dolours
 decrepitness
-derestrict
+derestrict 1
 drumwood
 disputations
 dechlorinating
