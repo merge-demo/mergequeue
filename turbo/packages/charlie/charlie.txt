@@ -27143,7 +27143,7 @@ countersympathy
 countersink
 colical
 chesboll
-countersinks
+countersinks 1
 countersleight
 countersnarl
 cataclysmatic

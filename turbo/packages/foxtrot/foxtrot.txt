@@ -2492,7 +2492,7 @@ funs
 fernshaw
 fordo
 forehatch
-feck
+feck 1
 flavic
 freightage
 fawningness
