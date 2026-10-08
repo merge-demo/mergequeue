@@ -18015,7 +18015,7 @@ dulcification
 dropforging
 dislodgeable
 deporture
-dentelle
+dentelle 1
 dyers
 dulcified
 dulcigenic
