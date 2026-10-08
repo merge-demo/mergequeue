@@ -12717,7 +12717,7 @@ developable
 dyslysin
 disoxidate
 dyester
-duco
+duco 1
 diazotizing
 defectoscope
 dislluminate
