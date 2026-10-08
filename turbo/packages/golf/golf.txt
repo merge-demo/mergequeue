@@ -10461,7 +10461,7 @@ genets
 gummatous
 gerrymandered
 geistlich
-gansy
+gansy 1
 graphitization
 galluptious
 gastroadenitis
