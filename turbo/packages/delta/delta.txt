@@ -16719,7 +16719,7 @@ dicey
 dermatopsy
 desalt
 dadouchos
-disentomb
+disentomb 1
 drape
 disharmonized
 decourse
