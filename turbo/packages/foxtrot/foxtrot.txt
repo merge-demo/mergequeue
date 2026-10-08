@@ -1828,7 +1828,7 @@ fishhooks
 flamingos
 federalizes
 fetisher
-fores
+fores 1
 ferninst
 forbesite
 flak
