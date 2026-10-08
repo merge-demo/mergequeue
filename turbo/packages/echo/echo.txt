@@ -3907,7 +3907,7 @@ endexine
 emissory
 emitting
 electropathic
-effigy
+effigy 1
 endocrinologies
 echocardiogram
 engreen
