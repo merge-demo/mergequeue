@@ -7443,7 +7443,7 @@ disequilibriums
 densitometry
 disseised
 deferents
-detrivorous
+detrivorous 1
 dervish
 damn
 doggereled
