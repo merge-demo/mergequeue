@@ -3288,7 +3288,7 @@ glycosin
 gelotoscopy
 glent
 grabbable
-glosseme
+glosseme 1
 gula
 gabback
 geneticists
