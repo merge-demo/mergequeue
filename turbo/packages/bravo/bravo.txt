@@ -5914,7 +5914,7 @@ blitzkrieg
 belast
 berber
 brandenburgs
-buffaloes
+buffaloes 1
 beltane
 belauding
 bimetalic
