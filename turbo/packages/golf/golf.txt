@@ -2245,7 +2245,7 @@ gradation
 glasswort
 glarry
 gospeller
-gangrel
+gangrel 1
 grandpaternal
 glamoury
 guglio
