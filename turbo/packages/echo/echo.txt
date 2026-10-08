@@ -2899,7 +2899,7 @@ evicts
 excitation
 emplaning
 elevons
-eurydice
+eurydice 1
 elfenfolk
 exclamational
 endogeny
