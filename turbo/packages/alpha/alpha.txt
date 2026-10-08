@@ -21666,7 +21666,7 @@ assays
 assam
 assamites
 ancillas
-atrophiated
+atrophiated 1
 amblyopsidae
 athetizing
 assart
