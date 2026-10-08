@@ -9897,7 +9897,7 @@ gabi
 guttulate
 gobioids
 guaque
-geometric
+geometric 1
 genethliacon
 guarand
 gimlety
