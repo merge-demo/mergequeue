@@ -17195,7 +17195,7 @@ beduins
 blastulae
 brisque
 beneficiaryship
-barkantine
+barkantine 1
 bullpen
 bullpoll
 bemirror
