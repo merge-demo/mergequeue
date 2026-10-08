@@ -4796,7 +4796,7 @@ gravidly
 gainfulness
 glaciered
 gages
-gifted
+gifted 1
 gadi
 gein
 grapewort
