@@ -8309,7 +8309,7 @@ embroiler
 earthy
 evg
 excursional
-emulsoidal
+emulsoidal 1
 essonites
 episthotonos
 endogamies
