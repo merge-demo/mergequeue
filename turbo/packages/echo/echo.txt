@@ -3103,7 +3103,7 @@ eastermost
 elmwood
 exudations
 empennage
-equiangularity
+equiangularity 1
 epicalyces
 even
 epistolatory
