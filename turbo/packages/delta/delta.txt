@@ -2214,7 +2214,7 @@ diatomaceae
 desultoriness
 denunciant
 deliliria
-disconventicle
+disconventicle 1
 divvying
 deacidify
 decreative
