@@ -1767,7 +1767,7 @@ forecastlemen
 foresaddle
 fluphenazine
 fossildom
-fantasmagoric
+fantasmagoric 1
 frailero
 famatinite
 featheredged
