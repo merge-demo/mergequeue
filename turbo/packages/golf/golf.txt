@@ -3032,7 +3032,7 @@ gametogenous
 garnetz
 gossipper
 giant
-getups
+getups 1
 gnash
 glaciologists
 graphiter
