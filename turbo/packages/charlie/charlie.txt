@@ -30425,7 +30425,7 @@ crabhole
 crux
 cruxes
 chorizontes
-chelicere
+chelicere 1
 cruzieros
 crwd
 crystallogenic
