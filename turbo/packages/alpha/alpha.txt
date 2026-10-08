@@ -20899,7 +20899,7 @@ autodial
 antacrid
 asarabacca
 archshepherd
-asarin
+asarin 1
 asarite
 anatomizable
 ablastemic
