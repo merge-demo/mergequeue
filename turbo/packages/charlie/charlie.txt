@@ -31457,7 +31457,7 @@ currant
 completions
 chresards
 contradict
-conscripted
+conscripted 1
 currantworm
 caulking
 countermen
