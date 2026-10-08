@@ -9488,7 +9488,7 @@ escot
 endbrain
 emperor
 eogaean
-euryalean
+euryalean 1
 enghosted
 excurved
 eupneas
