@@ -8381,7 +8381,7 @@ exhalable
 elytron
 electrohydraulically
 echiurus
-exterminates
+exterminates 1
 errands
 elsholtzia
 epitrachelia
