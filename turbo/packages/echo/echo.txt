@@ -4347,7 +4347,7 @@ embody
 emphlysis
 eritrean
 eremacausis
-esoenteritis
+esoenteritis 1
 exotically
 encamp
 embrasure
