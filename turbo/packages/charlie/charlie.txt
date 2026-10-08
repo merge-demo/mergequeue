@@ -22395,7 +22395,7 @@ counterjudging
 conia
 cosmogonal
 conic
-conical
+conical 1
 canajong
 cataloguish
 corrupable
