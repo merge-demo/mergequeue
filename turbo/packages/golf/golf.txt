@@ -8685,7 +8685,7 @@ glossless
 gobmouthed
 gateado
 gritty
-gres
+gres 1
 gatch
 gymnosoph
 garlands
