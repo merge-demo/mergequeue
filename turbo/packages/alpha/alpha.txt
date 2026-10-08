@@ -8626,7 +8626,7 @@ aegean
 anta
 allegiance
 allegiancy
-apodeipna
+apodeipna 1
 apoharmine
 aqueduct
 abandoners
