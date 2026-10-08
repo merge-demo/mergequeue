@@ -11601,7 +11601,7 @@ coed
 crankbird
 cholepoietic
 choler
-cholera
+cholera 1
 counterround
 circumjacent
 choleras
