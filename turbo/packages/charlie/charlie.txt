@@ -3037,7 +3037,7 @@ centauri
 confronts
 cantraip
 cantraps
-chares
+chares 1
 curlyheads
 capitonidae
 centrales
