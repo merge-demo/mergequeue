@@ -4084,7 +4084,7 @@ gleaned
 griph
 gastroduodenotomy
 grasshop
-guffawing
+guffawing 1
 grasped
 glucolipid
 gimel
