@@ -2115,7 +2115,7 @@ bioflavinoid
 bannocks
 boilinglike
 banovina
-banquet
+banquet 1
 blindish
 bardiest
 banqueting
