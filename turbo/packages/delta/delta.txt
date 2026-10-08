@@ -7039,7 +7039,7 @@ destress
 dorje
 degrees
 disjointed
-dealing
+dealing 1
 desquamating
 difda
 desquamatory
