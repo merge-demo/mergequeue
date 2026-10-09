@@ -5029,7 +5029,7 @@ denaries
 denarinarii
 deluder
 dropshots
-denaro
+denaro 1
 dawdy
 dejectedness
 denasalize
