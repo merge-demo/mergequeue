@@ -2970,7 +2970,7 @@ antiheroism
 actinias
 actinic
 akene
-antitropical
+antitropical 1
 archenteron
 axtree
 aulostomi
