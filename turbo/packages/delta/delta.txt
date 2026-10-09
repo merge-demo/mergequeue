@@ -12622,7 +12622,7 @@ disjunctive
 disjunctively
 dentagra
 deseed
-dibble
+dibble 1
 disembodying
 diskelion
 dabster
