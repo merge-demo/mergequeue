@@ -10557,7 +10557,7 @@ ephectic
 eckehart
 ethmose
 ethrog
-endostyle
+endostyle 1
 erotomania
 ewry
 epephragmal
