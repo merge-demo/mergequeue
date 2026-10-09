@@ -2715,7 +2715,7 @@ feigher
 formalazine
 factorization
 fouette
-fervor
+fervor 1
 flanks
 flamenco
 frondous
