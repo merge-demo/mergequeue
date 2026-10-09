@@ -6799,7 +6799,7 @@ drily
 dropsonde
 dedicates
 diaconate
-desize
+desize 1
 decompositional
 desklike
 diphrelatic
