@@ -3462,7 +3462,7 @@ despotisms
 dishlike
 duodecimally
 dashboards
-disavowance
+disavowance 1
 dehydroffrozen
 defoedation
 defogged
