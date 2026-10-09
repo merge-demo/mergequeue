@@ -15551,7 +15551,7 @@ deathsmen
 donum
 donzel
 discovering
-doubt
+doubt 1
 diathermize
 donzels
 doob
