@@ -17793,7 +17793,7 @@ archipallial
 archiepiscopally
 albuminaturia
 applosion
-applosive
+applosive 1
 ataxia
 antiguan
 azoxybenzene
