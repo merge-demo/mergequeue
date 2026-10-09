@@ -1562,7 +1562,7 @@ forepayment
 festival
 flowcontrol
 fishbowl
-fauvism
+fauvism 1
 funk
 fuselage
 freeloving
