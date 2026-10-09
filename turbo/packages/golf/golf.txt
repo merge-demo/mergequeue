@@ -5350,7 +5350,7 @@ goiters
 grain
 gormands
 ganoses
-gipsyism
+gipsyism 1
 geotechnics
 gadgetry
 glycosidically
