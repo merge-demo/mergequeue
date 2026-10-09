@@ -10297,7 +10297,7 @@ ditton
 diopter
 diopters
 decumary
-delf
+delf 1
 discounter
 dioptometer
 disnature
