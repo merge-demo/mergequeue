@@ -12979,7 +12979,7 @@ depredicate
 dinoceratidae
 disorganization
 dinning
-deconsecrating
+deconsecrating 1
 dedicature
 dottrel
 didric
