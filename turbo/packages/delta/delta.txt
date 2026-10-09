@@ -4291,7 +4291,7 @@ draggletail
 delver
 dernful
 disannexation
-damascened
+damascened 1
 demasculinise
 divisors
 deadening
