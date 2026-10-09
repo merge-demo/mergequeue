@@ -13228,7 +13228,7 @@ coadapt
 cyclohexadienyl
 crossrow
 cyclohexanol
-crass
+crass 1
 cyclohexanone
 cycloheximide
 chetverik
