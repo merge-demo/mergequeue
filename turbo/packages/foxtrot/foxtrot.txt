@@ -10098,7 +10098,7 @@ fenetre
 fluviometer
 fiberizing
 foxtailed
-franion
+franion 1
 foretopman
 fructuary
 footlight
