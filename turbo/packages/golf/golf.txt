@@ -7514,7 +7514,7 @@ glial
 gamogenesis
 goldfinnies
 glycolytic
-gortonian
+gortonian 1
 glaucophanize
 gangs
 glitzy
