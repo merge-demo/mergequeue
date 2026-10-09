@@ -3355,7 +3355,7 @@ gessamine
 gonfanons
 garbel
 gluside
-gibbar
+gibbar 1
 guttiferal
 germinations
 gools
