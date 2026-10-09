@@ -31307,7 +31307,7 @@ considerately
 commemorize
 circumoral
 claudent
-curdiness
+curdiness 1
 curdled
 cottabus
 critchfield
