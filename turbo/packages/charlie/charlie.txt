@@ -2939,7 +2939,7 @@ cladosporium
 curlpaper
 cryptoprocta
 cantering
-canthal
+canthal 1
 curling
 cantharic
 cantharidae
