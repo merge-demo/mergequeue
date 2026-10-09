@@ -6533,7 +6533,7 @@ bushful
 brahmsian
 berates
 boot
-blastospheric
+blastospheric 1
 berattle
 bakehead
 boatside
