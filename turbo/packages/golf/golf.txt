@@ -5116,7 +5116,7 @@ glaga
 gotched
 gasless
 gascon
-glinting
+glinting 1
 glaucidium
 gainyield
 gandhist
