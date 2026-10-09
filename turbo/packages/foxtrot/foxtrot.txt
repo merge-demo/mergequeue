@@ -1405,7 +1405,7 @@ farenheit
 facund
 foreshower
 fibrocaseose
-ferkin
+ferkin 1
 filmy
 foreshoe
 feudatorial
