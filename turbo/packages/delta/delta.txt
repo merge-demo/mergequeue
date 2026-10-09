@@ -7469,7 +7469,7 @@ detruncation
 damneder
 dodgery
 detrusion
-detumescence
+detumescence 1
 deposal
 detune
 disruptionist
