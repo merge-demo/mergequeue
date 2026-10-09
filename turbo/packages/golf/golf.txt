@@ -10105,7 +10105,7 @@ gonfaloniership
 gossiped
 gasoscope
 glumaceous
-glottid
+glottid 1
 gazetteer
 gonystylus
 goldenfleece
