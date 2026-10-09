@@ -16092,7 +16092,7 @@ dropline
 doughtier
 dockside
 designfulness
-deipnosophistic
+deipnosophistic 1
 diplohedral
 doughtiest
 directest
