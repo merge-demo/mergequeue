@@ -12317,7 +12317,7 @@ discredited
 deathcup
 dutchess
 detracted
-dactyl
+dactyl 1
 diceman
 dromaeognathous
 dielectrics
