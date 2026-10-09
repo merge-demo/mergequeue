@@ -7553,7 +7553,7 @@ epicheiremata
 ependyma
 endomysium
 endovenous
-electrocapillarity
+electrocapillarity 1
 equivalently
 equalling
 embalmer
