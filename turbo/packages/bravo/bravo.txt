@@ -2490,7 +2490,7 @@ bearhound
 bibliophilism
 binotic
 bigram
-baresthesia
+baresthesia 1
 beworming
 bottom
 busies
