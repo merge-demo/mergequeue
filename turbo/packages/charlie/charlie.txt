@@ -24795,7 +24795,7 @@ copula
 cheechakos
 coroscopy
 copulae
-copular
+copular 1
 copularium
 conceivable
 carnel
