@@ -3622,7 +3622,7 @@ footmaker
 frisbees
 flook
 farmable
-fridstool
+fridstool 1
 flashing
 faintishness
 fielder
