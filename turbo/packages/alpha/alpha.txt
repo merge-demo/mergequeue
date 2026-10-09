@@ -19994,7 +19994,7 @@ aborsement
 afterclap
 armseye
 abatjour
-apertured
+apertured 1
 aals
 amasta
 armure
