@@ -13770,7 +13770,7 @@ entone
 effusely
 exodontist
 ethnize
-entomogenous
+entomogenous 1
 encloak
 exosperm
 evermo
