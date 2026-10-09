@@ -8954,7 +8954,7 @@ gigi
 gladelike
 grandiloquous
 galvanising
-gnaw
+gnaw 1
 greenlander
 geranomorphic
 gringole
