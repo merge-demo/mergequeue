@@ -2194,7 +2194,7 @@ genarchship
 giraffoid
 geoidal
 garmented
-gestational
+gestational 1
 gooseskin
 goosehouse
 gemwork
