@@ -827,7 +827,7 @@ epicarpal
 enwrite
 erythrinidae
 eral
-endocyst
+endocyst 1
 excrescent
 extremest
 electroengrave
