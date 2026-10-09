@@ -10539,7 +10539,7 @@ faiths
 forehanded
 falltime
 forcipiform
-frowze
+frowze 1
 franking
 fluky
 furnaces
