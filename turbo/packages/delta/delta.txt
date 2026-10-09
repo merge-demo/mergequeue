@@ -2969,7 +2969,7 @@ dwarfism
 distrainment
 deductive
 deductory
-deducts
+deducts 1
 deduplication
 desmogenous
 despoliations
