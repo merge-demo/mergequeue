@@ -7169,7 +7169,7 @@ autoregulation
 antibiotics
 argovian
 angusticlave
-autodynamic
+autodynamic 1
 antiodontalgic
 aweigh
 alabamide
