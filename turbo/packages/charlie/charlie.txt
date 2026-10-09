@@ -9027,7 +9027,7 @@ camisoles
 charlet
 cryoscope
 costotomies
-charlocks
+charlocks 1
 cobberer
 charm
 charmed
