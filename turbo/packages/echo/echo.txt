@@ -2862,7 +2862,7 @@ estuarian
 elytriferous
 enterotoxin
 ectosteally
-endomorphic
+endomorphic 1
 elder
 epitympa
 estoppels
