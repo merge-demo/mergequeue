@@ -13722,7 +13722,7 @@ disturbation
 discoids
 defends
 doorplate
-decrease
+decrease 1
 drinkables
 divalent
 dejecta
