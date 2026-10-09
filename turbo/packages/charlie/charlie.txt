@@ -31269,7 +31269,7 @@ curative
 curativeness
 curatorium
 charkha
-curatrices
+curatrices 1
 carabid
 coagula
 curatrix
