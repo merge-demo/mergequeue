@@ -6507,7 +6507,7 @@ eleventhly
 erythrocytometer
 entamoebic
 encarpium
-endostosis
+endostosis 1
 ephyra
 exactly
 extratension
