@@ -7209,7 +7209,7 @@ gaminesses
 galvanotactic
 goodnesses
 gony
-greenthumbed
+greenthumbed 1
 give
 gerfalcon
 gynecol
