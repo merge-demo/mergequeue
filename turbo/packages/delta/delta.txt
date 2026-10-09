@@ -14090,7 +14090,7 @@ districting
 defoaming
 decarnate
 defrayers
-doree
+doree 1
 domineeringly
 deltarium
 districtly
