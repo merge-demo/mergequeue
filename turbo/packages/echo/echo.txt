@@ -10723,7 +10723,7 @@ exhumate
 exedra
 elicitory
 etherializing
-equiformal
+equiformal 1
 egriot
 eulachan
 excerpted
