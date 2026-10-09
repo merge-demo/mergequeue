@@ -19065,7 +19065,7 @@ aerobes
 antipersonnel
 archostegnosis
 archipelagoes
-availingly
+availingly 1
 ammocoete
 aleurone
 archoverseer
