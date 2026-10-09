@@ -17335,7 +17335,7 @@ coarseness
 canonizations
 culpas
 chickory
-coarsening
+coarsening 1
 coarsens
 coarticulate
 coarticulation
