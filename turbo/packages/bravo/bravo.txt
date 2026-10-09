@@ -14082,7 +14082,7 @@ bombycidae
 boffin
 brachydont
 brachydontism
-brachyfacial
+brachyfacial 1
 biblicistic
 barracudas
 blase
