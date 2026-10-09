@@ -20731,7 +20731,7 @@ commutating
 chelidonate
 cheloid
 cryotron
-carvy
+carvy 1
 complexing
 complexion
 chromos
