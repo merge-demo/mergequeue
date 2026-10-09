@@ -30704,7 +30704,7 @@ cudgels
 chuhra
 cudweed
 czarian
-conrad
+conrad 1
 confuse
 counterexplanation
 cudwort
