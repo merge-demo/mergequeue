@@ -2815,7 +2815,7 @@ barites
 bolding
 bell
 betulaceous
-banded
+banded 1
 blonder
 brazee
 barmie
