@@ -4857,7 +4857,7 @@ fickleness
 fooless
 flagstick
 flagworm
-fandangle
+fandangle 1
 feramorz
 fittedness
 florida
