@@ -2647,7 +2647,7 @@ guaraguao
 gospodipoda
 grangerisation
 glomeroporphyritic
-gloriosity
+gloriosity 1
 gangliectomy
 gourde
 grubstaker
