@@ -2923,7 +2923,7 @@ downlinked
 disfavor
 duodecimals
 dedicatory
-despitous
+despitous 1
 dingies
 dedicatorily
 doggoner
