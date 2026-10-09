@@ -6897,7 +6897,7 @@ gangliomata
 graftonite
 gammacismus
 groundspeed
-gooders
+gooders 1
 goodheartedness
 goody
 giganticide
