@@ -14436,7 +14436,7 @@ defunctionalization
 diadoumenos
 disdeify
 daltonian
-diverters
+diverters 1
 disillusionized
 defaulter
 disjointing
