@@ -4735,7 +4735,7 @@ embarrass
 eyren
 existent
 estranging
-endosmosic
+endosmosic 1
 ebulliometry
 epistler
 entomophytous
