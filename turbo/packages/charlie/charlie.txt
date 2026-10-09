@@ -9888,7 +9888,7 @@ chemosynthetic
 chemosmotic
 consumptible
 choora
-corticoafferent
+corticoafferent 1
 crenate
 calpacks
 caleches
