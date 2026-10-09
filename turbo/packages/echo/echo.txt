@@ -2136,7 +2136,7 @@ electrosurgical
 endleaf
 enfoil
 exterminatress
-emasculates
+emasculates 1
 enanthematous
 eisteddfodism
 epoxy
