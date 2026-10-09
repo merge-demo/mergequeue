@@ -25660,7 +25660,7 @@ corpuscularity
 corpuscule
 corpusculous
 chairlift
-corradial
+corradial 1
 corradiate
 corradiated
 correality
