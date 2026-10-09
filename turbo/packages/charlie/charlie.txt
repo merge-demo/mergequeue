@@ -3301,7 +3301,7 @@ coilers
 caplins
 coherald
 capmaking
-combatter
+combatter 1
 capnoides
 clipping
 creaker
