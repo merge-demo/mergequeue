@@ -5351,7 +5351,7 @@ grain
 gormands
 ganoses
 gipsyism
-geotechnics
+geotechnics 1
 gadgetry
 glycosidically
 granulite
