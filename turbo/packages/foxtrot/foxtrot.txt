@@ -9994,7 +9994,7 @@ firetower
 fegary
 flexitime
 finicky
-fowlpox
+fowlpox 1
 fopped
 flenching
 frypans
