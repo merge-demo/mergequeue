@@ -8438,7 +8438,7 @@ ds
 duopsony
 degreed
 diamagnet
-diamagnetic
+diamagnetic 1
 diamagnetism
 dredging
 ditrochee
