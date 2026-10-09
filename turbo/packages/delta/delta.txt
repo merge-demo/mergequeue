@@ -9861,7 +9861,7 @@ doek
 dace
 dimensionally
 dimensioning
-dimensum
+dimensum 1
 disangularize
 decadency
 deludable
