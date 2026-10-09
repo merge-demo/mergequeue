@@ -12768,7 +12768,7 @@ disloyalty
 decrepity
 downcomer
 doored
-disloyalties
+disloyalties 1
 dislove
 dandlingly
 delimiters
