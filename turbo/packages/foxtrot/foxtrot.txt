@@ -3171,7 +3171,7 @@ femurs
 freelanced
 fibrovascular
 friendliness
-frigostable
+frigostable 1
 federalese
 feazings
 friezes
