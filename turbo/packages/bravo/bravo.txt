@@ -11418,7 +11418,7 @@ bluffy
 brownian
 bekko
 bestrut
-boxthorn
+boxthorn 1
 bagplant
 bluejacket
 bluejacks
