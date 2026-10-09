@@ -889,7 +889,7 @@ grolier
 gotha
 gametocyst
 gametocyte
-gametogenic
+gametogenic 1
 grabby
 geognost
 grassfire
