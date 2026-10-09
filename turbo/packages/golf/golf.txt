@@ -8498,7 +8498,7 @@ gonfalon
 genl
 gult
 gibaro
-gregarinina
+gregarinina 1
 garum
 glisteningly
 glossotype
