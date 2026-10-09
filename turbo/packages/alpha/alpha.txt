@@ -3771,7 +3771,7 @@ aeroscepsis
 accessorial
 anticipatively
 archivolt
-adhesion
+adhesion 1
 arbutus
 adhesive
 architraved
