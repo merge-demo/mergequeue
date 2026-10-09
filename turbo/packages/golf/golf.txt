@@ -8893,7 +8893,7 @@ gesticulatory
 gutterling
 great
 greatness
-giantisms
+giantisms 1
 gateless
 glassblowing
 gyroceracone
