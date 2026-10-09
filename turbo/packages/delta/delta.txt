@@ -2482,7 +2482,7 @@ decitizenize
 decivilize
 dateline
 deckel
-deporte
+deporte 1
 debased
 ditchdown
 dirigent
