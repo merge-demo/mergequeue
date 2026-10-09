@@ -18410,7 +18410,7 @@ cognize
 conveyancer
 cognized
 cognizes
-cognizing
+cognizing 1
 conourish
 crescive
 cognizor
