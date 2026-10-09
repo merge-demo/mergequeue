@@ -1554,7 +1554,7 @@ callisteia
 callistephus
 callisthenic
 cossid
-cenotaphic
+cenotaphic 1
 communising
 chemostat
 callisto
