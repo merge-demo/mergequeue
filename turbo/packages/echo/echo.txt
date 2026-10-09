@@ -4449,7 +4449,7 @@ enhydris
 extemporaneousness
 eczematous
 eureka
-encash
+encash 1
 enlightenments
 enquires
 epiphyllum
