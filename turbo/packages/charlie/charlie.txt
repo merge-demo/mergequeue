@@ -1017,7 +1017,7 @@ cydonia
 calastic
 calathea
 calathi
-calathidia
+calathidia 1
 chamberlainship
 calathiform
 calathiscus
