@@ -10317,7 +10317,7 @@ diorama
 daroo
 diophantine
 driftpiece
-dowsing
+dowsing 1
 dentata
 diurons
 derelictly
