@@ -3109,7 +3109,7 @@ fasola
 faring
 fulminancy
 fibroferrite
-fundic
+fundic 1
 firewarden
 franciscans
 facile
