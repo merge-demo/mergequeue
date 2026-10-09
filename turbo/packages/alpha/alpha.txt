@@ -5537,7 +5537,7 @@ argot
 aluco
 acetonylidene
 afterguard
-anaerobious
+anaerobious 1
 ablins
 apophylaxis
 afterheat
