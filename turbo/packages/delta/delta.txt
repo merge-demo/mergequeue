@@ -4324,7 +4324,7 @@ diamondiferous
 diacritical
 dods
 decennials
-dura
+dura 1
 descriers
 demagogue
 diseducate
