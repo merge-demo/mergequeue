@@ -2264,7 +2264,7 @@ decemfoliate
 decempedal
 dousers
 dominiums
-decemplex
+decemplex 1
 dissocialize
 doused
 decemstriate
