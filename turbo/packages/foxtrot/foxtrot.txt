@@ -8421,7 +8421,7 @@ fallibilist
 foreboded
 floweriness
 forpine
-freethink
+freethink 1
 fictitiously
 felonsetter
 febronian
