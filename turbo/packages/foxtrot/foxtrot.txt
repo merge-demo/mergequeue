@@ -10211,7 +10211,7 @@ funders
 frogmarch
 flowerful
 flossier
-frighted
+frighted 1
 fibrose
 franconian
 formalisms
