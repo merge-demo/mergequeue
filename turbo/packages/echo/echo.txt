@@ -6135,7 +6135,7 @@ entheos
 elites
 ergoplasm
 excommunicant
-entozoans
+entozoans 1
 epipleural
 eaved
 earlywood
