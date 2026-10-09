@@ -5383,7 +5383,7 @@ babelic
 begulf
 blastomycotic
 bakshish
-begummed
+begummed 1
 biolite
 bechauffeur
 barbacoa
