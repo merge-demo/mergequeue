@@ -6602,7 +6602,7 @@ chatoyancy
 ceaselessness
 cryogenically
 ceases
-ceasing
+ceasing 1
 conferment
 calamariaceae
 cebalrai
