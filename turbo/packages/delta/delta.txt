@@ -15045,7 +15045,7 @@ drownings
 doggo
 distinguisher
 deescalations
-dehors
+dehors 1
 determinable
 doggonest
 doggoning
