@@ -10418,7 +10418,7 @@ fetterer
 forfex
 finnesko
 fillagree
-fescue
+fescue 1
 furlongs
 fullery
 founded
