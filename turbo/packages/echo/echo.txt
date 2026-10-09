@@ -4766,7 +4766,7 @@ ensnarements
 encoding
 effectivity
 embrocate
-ergasterion
+ergasterion 1
 enbusshe
 epicrisis
 edwardsia
