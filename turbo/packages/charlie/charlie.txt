@@ -21072,7 +21072,7 @@ crookle
 computations
 coomy
 computatively
-computativeness
+computativeness 1
 computer
 computerese
 computerise
