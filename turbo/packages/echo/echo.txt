@@ -2281,7 +2281,7 @@ eyelets
 endolymph
 excretal
 eger
-encased
+encased 1
 ester
 electrifiers
 europasian
