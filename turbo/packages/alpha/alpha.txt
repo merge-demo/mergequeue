@@ -18184,7 +18184,7 @@ aeolid
 allowably
 anticontagiousness
 aquarius
-astint
+astint 1
 anacusia
 adequately
 asqueal
