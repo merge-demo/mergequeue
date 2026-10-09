@@ -4294,7 +4294,7 @@ foiblesse
 foreordains
 fendable
 flunkyism
-fastuous
+fastuous 1
 firk
 febrifuges
 filacer
