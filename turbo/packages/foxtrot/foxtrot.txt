@@ -6240,7 +6240,7 @@ factotums
 farmerish
 felloes
 freewheelers
-filespec
+filespec 1
 farmtown
 forgrow
 fiendlike
