@@ -2370,7 +2370,7 @@ bones
 bluelines
 bastinade
 biolysis
-belligerency
+belligerency 1
 bachelorlike
 barbula
 bardiness
