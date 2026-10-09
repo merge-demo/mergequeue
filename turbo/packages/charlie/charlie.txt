@@ -15244,7 +15244,7 @@ catholicise
 clambake
 cycasins
 colfox
-cassique
+cassique 1
 clamcracker
 crabfish
 clame
