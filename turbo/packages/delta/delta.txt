@@ -15130,7 +15130,7 @@ deerherd
 dislustre
 disallows
 dullpate
-decayable
+decayable 1
 demiofficial
 daisybush
 dactylitic
