@@ -31099,7 +31099,7 @@ cuneately
 cuneatic
 cuneiform
 cuneiformist
-columnarity
+columnarity 1
 chiggerweed
 cunenei
 chelingas
