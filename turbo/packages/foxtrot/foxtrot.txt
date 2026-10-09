@@ -5811,7 +5811,7 @@ frivolize
 ferfet
 fluoridations
 fritted
-figgery
+figgery 1
 furbishes
 flintlocks
 filemark
