@@ -3225,7 +3225,7 @@ defenceable
 dekle
 doftberry
 disrelation
-defencive
+defencive 1
 dents
 defend
 dikast
