@@ -2877,7 +2877,7 @@ foaled
 flowstone
 farcin
 freighted
-fackins
+fackins 1
 firefighters
 fettucini
 fungiferous
