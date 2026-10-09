@@ -307,7 +307,7 @@ dahs
 day
 dak
 dayabhaga
-dreed
+dreed 1
 demisheath
 dayanim
 daybeacon
