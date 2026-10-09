@@ -3677,7 +3677,7 @@ gametes
 gory
 ghost
 genesic
-gamble
+gamble 1
 gnathonism
 glyceral
 gulist
