@@ -163,7 +163,7 @@ enamors
 enriched
 exequy
 eelbobber
-expiring
+expiring 1
 expressive
 enticed
 echinostome
