@@ -4938,7 +4938,7 @@ guddle
 grondwet
 geologists
 gremials
-gynaecol
+gynaecol 1
 gamines
 gladioluses
 ginney
