@@ -1112,7 +1112,7 @@ frondescence
 farsighted
 fulvid
 flatiron
-foretime
+foretime 1
 farsightedness
 flooring
 forkedly
