@@ -4867,7 +4867,7 @@ fairwater
 falsism
 falsifiers
 flues
-fasting
+fasting 1
 frabbit
 forearm
 froglet
