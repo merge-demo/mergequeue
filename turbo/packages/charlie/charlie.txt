@@ -4996,7 +4996,7 @@ crystallizing
 chevrony
 cartulary
 cartularies
-carapache
+carapache 1
 canzone
 cabbagelike
 collaring
