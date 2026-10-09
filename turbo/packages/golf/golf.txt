@@ -10330,7 +10330,7 @@ grammaticism
 gymnoglossa
 greenwax
 gadoids
-gelatinigerous
+gelatinigerous 1
 globulicide
 gnattiest
 grasslike
