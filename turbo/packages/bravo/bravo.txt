@@ -4950,7 +4950,7 @@ basifier
 biglenoid
 boulles
 bactritoid
-bonaveria
+bonaveria 1
 boltless
 bolases
 beerbachite
