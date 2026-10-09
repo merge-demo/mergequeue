@@ -1473,7 +1473,7 @@ fingerlike
 focussing
 fistulose
 forestial
-featly
+featly 1
 faulds
 faultfind
 fasciculite
