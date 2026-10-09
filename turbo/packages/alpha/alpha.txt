@@ -13055,7 +13055,7 @@ anharmonic
 abbreviating
 aluniferous
 aeroballistics
-arrowy
+arrowy 1
 artefacts
 agglomeratic
 anhedral
