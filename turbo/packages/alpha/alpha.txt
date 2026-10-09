@@ -23921,7 +23921,7 @@ authigenetic
 authigenous
 anodine
 amphithurons
-astrict
+astrict 1
 authored
 angas
 anisocotyly
