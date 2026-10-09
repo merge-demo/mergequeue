@@ -20626,7 +20626,7 @@ aedegi
 alpestral
 adulators
 arthromeric
-actiniferous
+actiniferous 1
 afterplay
 adamantoma
 arthrometry
