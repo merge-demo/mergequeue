@@ -11825,7 +11825,7 @@ caselty
 cardioplasty
 cagn
 choragi
-choragic
+choragic 1
 choragion
 choristers
 calashes
