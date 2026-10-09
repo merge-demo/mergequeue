@@ -4420,7 +4420,7 @@ encaptive
 entomion
 exhilarative
 encarnalised
-encarnalize
+encarnalize 1
 enteropneust
 esguard
 egghot
