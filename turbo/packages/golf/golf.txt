@@ -1660,7 +1660,7 @@ gester
 gluts
 geitjie
 gelatination
-gastightness
+gastightness 1
 grudgefulness
 gryposis
 gentries
