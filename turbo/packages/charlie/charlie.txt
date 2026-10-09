@@ -7001,7 +7001,7 @@ calcarium
 caecitis
 censusing
 cuboid
-cosingular
+cosingular 1
 cavort
 centals
 coolies
