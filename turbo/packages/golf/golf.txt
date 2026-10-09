@@ -9441,7 +9441,7 @@ gazed
 glittery
 garroted
 gymnodontes
-gluttingly
+gluttingly 1
 geonic
 gotchy
 greekery
