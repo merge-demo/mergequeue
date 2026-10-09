@@ -7920,7 +7920,7 @@ glogg
 geotic
 gummage
 germanically
-gummy
+gummy 1
 geophagia
 generalist
 gouged
