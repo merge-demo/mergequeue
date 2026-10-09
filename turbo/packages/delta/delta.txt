@@ -4909,7 +4909,7 @@ densitometers
 demonomist
 draisene
 demonopolize
-demonry
+demonry 1
 detractory
 dubiosities
 dispersive
