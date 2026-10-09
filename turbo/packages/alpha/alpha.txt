@@ -8945,7 +8945,7 @@ acrogenic
 alloisomerism
 axisymmetric
 archaically
-apospory
+apospory 1
 anematizing
 aerobiologic
 allomorphite
