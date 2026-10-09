@@ -7109,7 +7109,7 @@ boldnesses
 basso
 bespotting
 bespouse
-bannerwise
+bannerwise 1
 backstick
 backsets
 brashest
