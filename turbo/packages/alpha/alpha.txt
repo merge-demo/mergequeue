@@ -3842,7 +3842,7 @@ arhat
 adios
 adipate
 aequorin
-amphithuron
+amphithuron 1
 acetabuliform
 adipinic
 antiphrasis
