@@ -471,7 +471,7 @@ folkmoter
 foliosity
 facticity
 faitours
-fomented
+fomented 1
 fainant
 fawningly
 fistical
