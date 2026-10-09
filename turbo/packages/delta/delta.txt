@@ -4844,7 +4844,7 @@ depthen
 decumana
 deepness
 dharna
-detickers
+detickers 1
 demonical
 decadal
 deathcups
