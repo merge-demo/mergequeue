@@ -8960,7 +8960,7 @@ bioinstrument
 biolinguistics
 biolyses
 bouleverse
-begats
+begats 1
 beneficium
 buttermaker
 boroughmongery
