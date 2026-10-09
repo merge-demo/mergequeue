@@ -16183,7 +16183,7 @@ dihydrol
 duodiodepentode
 dominic
 demideity
-disburse
+disburse 1
 drupetum
 draconic
 dialector
