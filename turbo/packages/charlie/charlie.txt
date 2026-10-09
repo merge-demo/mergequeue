@@ -24580,7 +24580,7 @@ chelidon
 cantate
 cophosis
 copia
-clapped
+clapped 1
 copiapite
 copyboys
 cod
