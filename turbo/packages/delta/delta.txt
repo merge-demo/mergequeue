@@ -7231,7 +7231,7 @@ digitate
 decertify
 dolorous
 damnified
-detection
+detection 1
 diamantiferous
 deadlight
 disparatum
