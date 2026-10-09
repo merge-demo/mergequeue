@@ -3417,7 +3417,7 @@ bulletmaker
 bastardism
 blather
 bastardized
-bastardizes
+bastardizes 1
 bastardliness
 birimose
 bindlet
