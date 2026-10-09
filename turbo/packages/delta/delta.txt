@@ -10448,7 +10448,7 @@ denticeti
 disarraying
 dourly
 dishonesties
-delphically
+delphically 1
 diphthongally
 disenable
 dipneust
