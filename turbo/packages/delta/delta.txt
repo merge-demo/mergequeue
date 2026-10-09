@@ -17407,7 +17407,7 @@ diamagnetically
 diffraction
 didascaly
 direction
-disjoinable
+disjoinable 1
 dropsies
 distomatidae
 dropwise
