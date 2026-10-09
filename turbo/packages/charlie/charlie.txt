@@ -16277,7 +16277,7 @@ chayaroot
 convector
 clinopodium
 conterminous
-cosmopolitan
+cosmopolitan 1
 curvilinear
 civilise
 citronize
