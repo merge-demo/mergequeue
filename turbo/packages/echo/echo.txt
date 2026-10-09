@@ -1337,7 +1337,7 @@ effeminise
 electrochronometer
 especial
 explosives
-eelspear
+eelspear 1
 effeminising
 effeminize
 effeminizing
