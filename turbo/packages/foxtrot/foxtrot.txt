@@ -9416,7 +9416,7 @@ furled
 fliers
 foodstuff
 foreteeth
-flouriness
+flouriness 1
 frolicly
 forlore
 frescoer
