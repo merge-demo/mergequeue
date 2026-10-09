@@ -6642,7 +6642,7 @@ gurglingly
 grittiest
 gyrodyne
 gateman
-gropes
+gropes 1
 gambusias
 gondolas
 guidons
