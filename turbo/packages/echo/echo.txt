@@ -8582,7 +8582,7 @@ equiaxed
 edificable
 equate
 eburnification
-enharmonic
+enharmonic 1
 earnings
 equibalanced
 electrodialitic
