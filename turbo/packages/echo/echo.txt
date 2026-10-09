@@ -10041,7 +10041,7 @@ esculetin
 evolutions
 expecting
 epidialogue
-emergent
+emergent 1
 encastered
 egrets
 ethambutol
