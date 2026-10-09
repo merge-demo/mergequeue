@@ -3629,7 +3629,7 @@ dubbing
 deglycerin
 dissonance
 deglory
-diminishments
+diminishments 1
 dermatoxerasia
 dec
 disarrangement
