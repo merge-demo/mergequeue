@@ -4066,7 +4066,7 @@ antislip
 agentival
 asci
 aquaplanes
-anestri
+anestri 1
 admissive
 astriferous
 automan
