@@ -12423,7 +12423,7 @@ enthronization
 elegiac
 elevenths
 enclosure
-exchequer
+exchequer 1
 entreaty
 emotionalism
 ependyme
