@@ -8605,7 +8605,7 @@ aegagropiles
 allassotonic
 alleviations
 allatrate
-abaction
+abaction 1
 autosuggestibility
 admitty
 alineation
