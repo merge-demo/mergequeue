@@ -2071,7 +2071,7 @@ endysis
 eutectics
 edictal
 entraps
-enchainements
+enchainements 1
 ecphractic
 epi
 eugene
