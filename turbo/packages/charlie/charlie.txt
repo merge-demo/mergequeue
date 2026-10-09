@@ -7008,7 +7008,7 @@ coolies
 cariocas
 chock
 centaurdom
-cuvette
+cuvette 1
 centaurea
 cyanus
 carretta
