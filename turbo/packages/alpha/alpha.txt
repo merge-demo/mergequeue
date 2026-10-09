@@ -4960,7 +4960,7 @@ acetometric
 awarding
 archdeacon
 astrogator
-aerolites
+aerolites 1
 avulsions
 admonitioner
 antepalatal
