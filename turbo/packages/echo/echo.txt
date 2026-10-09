@@ -12625,7 +12625,7 @@ effusion
 exognathite
 expunges
 exornate
-exogenetic
+exogenetic 1
 enkolpion
 exometritis
 excogitate
