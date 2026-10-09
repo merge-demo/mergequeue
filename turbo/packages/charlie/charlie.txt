@@ -9103,7 +9103,7 @@ container
 charta
 curialities
 chartable
-charter
+charter 1
 charterers
 coraciiform
 charterhouse
