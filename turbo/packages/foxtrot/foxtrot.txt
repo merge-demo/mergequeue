@@ -1883,7 +1883,7 @@ fortifyingly
 frutify
 fec
 fight
-floruit
+floruit 1
 feelingly
 formaliter
 fecundate
