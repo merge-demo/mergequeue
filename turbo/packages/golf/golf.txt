@@ -2565,7 +2565,7 @@ gallamine
 gargling
 gametogeny
 globiferous
-generant
+generant 1
 generate
 guitars
 gypsiferous
