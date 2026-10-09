@@ -10755,7 +10755,7 @@ alumetize
 animosities
 anabolitic
 appanaging
-antaphrodisiac
+antaphrodisiac 1
 agrammaphasia
 alevins
 anthophorous
