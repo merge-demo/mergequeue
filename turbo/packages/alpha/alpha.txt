@@ -17652,7 +17652,7 @@ acrose
 ahey
 appertainment
 auditory
-apolaustic
+apolaustic 1
 antiagglutination
 antediluvial
 agouta
