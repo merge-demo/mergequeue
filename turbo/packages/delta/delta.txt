@@ -15653,7 +15653,7 @@ determine
 dopchick
 dopebook
 decemfid
-demonstrator
+demonstrator 1
 discased
 distemperance
 dopey
