@@ -7337,7 +7337,7 @@ greyflies
 glumpiness
 guildhall
 gowl
-gosports
+gosports 1
 gentianose
 gossamered
 galega
