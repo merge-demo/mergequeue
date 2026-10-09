@@ -3411,7 +3411,7 @@ galleting
 gyromancy
 gentisate
 geometrized
-globularia
+globularia 1
 gourmets
 gerrymander
 gorgons
