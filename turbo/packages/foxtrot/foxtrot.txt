@@ -1549,7 +1549,7 @@ foreseat
 feedbox
 flippant
 fer
-fanfaron
+fanfaron 1
 foulish
 foreshift
 foetuses
