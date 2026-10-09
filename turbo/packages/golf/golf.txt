@@ -10745,7 +10745,7 @@ gnomonological
 gangism
 graille
 gavage
-galloot
+galloot 1
 gagers
 groggy
 gustiest
