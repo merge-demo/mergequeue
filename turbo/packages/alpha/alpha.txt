@@ -14109,7 +14109,7 @@ araneids
 antedates
 antedating
 angrier
-astur
+astur 1
 amphisbaenic
 ablegation
 anapests
