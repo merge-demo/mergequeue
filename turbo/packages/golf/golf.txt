@@ -226,7 +226,7 @@ gliadines
 gallish
 gaudsman
 goldcup
-glagolitsa
+glagolitsa 1
 greys
 gooks
 gravelstone
