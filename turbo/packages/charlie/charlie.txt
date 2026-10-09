@@ -19086,7 +19086,7 @@ chloridizing
 collimated
 collimates
 collimation
-collimator
+collimator 1
 colline
 collections
 classicistic
