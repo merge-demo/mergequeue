@@ -10681,7 +10681,7 @@ fylfot
 foxy
 felsophyre
 forescent
-feralin
+feralin 1
 fleshquake
 fivepenny
 fairstead
