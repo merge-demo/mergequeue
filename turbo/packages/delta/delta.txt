@@ -14380,7 +14380,7 @@ depaint
 doley
 demicadence
 ditali
-divans
+divans 1
 debatably
 distributivity
 dysentery
