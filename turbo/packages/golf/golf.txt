@@ -1423,7 +1423,7 @@ gymnasiums
 graviers
 governless
 glumpiest
-gnosticity
+gnosticity 1
 germinate
 garbages
 gulfy
