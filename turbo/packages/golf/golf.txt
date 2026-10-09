@@ -9807,7 +9807,7 @@ globulinuria
 glycerolate
 glossemes
 glares
-gnathostoma
+gnathostoma 1
 ginglyni
 gonochorismal
 groundbreaker
