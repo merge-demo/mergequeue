@@ -14146,7 +14146,7 @@ diapason
 dentification
 doyst
 disinfest
-disulfonic
+disulfonic 1
 dispread
 dirgelike
 dhobi
