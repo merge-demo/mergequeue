@@ -4146,7 +4146,7 @@ embouchement
 energids
 expungement
 erythrodermia
-especially
+especially 1
 externum
 encl
 encaustes
