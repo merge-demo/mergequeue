@@ -12123,7 +12123,7 @@ enfeoffing
 eloper
 ebonite
 ensorcerize
-eyelike
+eyelike 1
 epural
 excursionist
 excurvated
