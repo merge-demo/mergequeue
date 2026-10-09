@@ -527,7 +527,7 @@ flavone
 fixedly
 fioretti
 firerooms
-frowny
+frowny 1
 foresense
 falco
 fermentive
