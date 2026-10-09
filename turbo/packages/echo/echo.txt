@@ -3304,7 +3304,7 @@ enosist
 eobiont
 enthraller
 ennuied
-emanatism
+emanatism 1
 euphorias
 explanatoriness
 equipaga
