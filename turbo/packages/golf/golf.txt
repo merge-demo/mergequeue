@@ -2200,7 +2200,7 @@ goosehouse
 gemwork
 gastrolith
 gamester
-gymnosperms
+gymnosperms 1
 graphophonic
 gerastian
 giltcup
