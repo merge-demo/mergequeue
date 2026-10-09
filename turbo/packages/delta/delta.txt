@@ -13888,7 +13888,7 @@ declaimant
 dustily
 disthroned
 doltish
-disty
+disty 1
 dotardy
 distichal
 demisable
