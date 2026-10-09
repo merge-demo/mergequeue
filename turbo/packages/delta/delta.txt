@@ -10558,7 +10558,7 @@ diploe
 disbalancement
 didrachmas
 dispend
-dependable
+dependable 1
 debouched
 decorticate
 despotist
