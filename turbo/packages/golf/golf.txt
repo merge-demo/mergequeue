@@ -8789,7 +8789,7 @@ gorge
 greenling
 grogram
 galactoscope
-glaserite
+glaserite 1
 gatherable
 gentilism
 glyceryls
