@@ -866,7 +866,7 @@ englobement
 eddic
 entourages
 epistolizer
-eigenfunction
+eigenfunction 1
 encomiastical
 endophyte
 entailed
