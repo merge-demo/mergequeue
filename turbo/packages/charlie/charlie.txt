@@ -19523,7 +19523,7 @@ cornstook
 colstaff
 cnidogenous
 chasid
-coltishly
+coltishly 1
 coltlike
 calicos
 coltoria
