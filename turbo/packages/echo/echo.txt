@@ -2057,7 +2057,7 @@ extravenate
 encampments
 enthusiasm
 embalm
-excitedness
+excitedness 1
 enterocinesia
 elaphurus
 enology
