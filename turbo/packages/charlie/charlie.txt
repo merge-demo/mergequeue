@@ -25003,7 +25003,7 @@ castoff
 cordeau
 comae
 chumble
-cordelia
+cordelia 1
 cordelle
 crushableness
 cordery
