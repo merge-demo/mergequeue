@@ -15052,7 +15052,7 @@ aglossate
 airbus
 anlage
 anosphresia
-autoimmune
+autoimmune 1
 archworker
 antioptimistical
 achyrodes
