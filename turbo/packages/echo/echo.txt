@@ -1357,7 +1357,7 @@ exomis
 evasional
 ebcdic
 excludability
-earlocks
+earlocks 1
 ethylated
 elks
 enopla
