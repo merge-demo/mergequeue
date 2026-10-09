@@ -11141,7 +11141,7 @@ chladnite
 chondrite
 churlishly
 chlamyd
-chlamydate
+chlamydate 1
 cantion
 chlamydobacteriales
 clamours
