@@ -24366,7 +24366,7 @@ caritas
 cookshop
 cookshops
 chiliasms
-cookstove
+cookstove 1
 colligible
 copyboy
 contumacies
