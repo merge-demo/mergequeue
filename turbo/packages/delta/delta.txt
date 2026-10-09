@@ -6470,7 +6470,7 @@ desamidase
 dirian
 desands
 demobs
-desc
+desc 1
 downrightly
 dequeues
 descant
