@@ -4330,7 +4330,7 @@ economize
 enterointestinal
 exceeders
 exothermous
-enterodynia
+enterodynia 1
 enamour
 enamouredness
 expostulator
