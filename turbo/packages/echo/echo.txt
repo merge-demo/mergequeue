@@ -3313,7 +3313,7 @@ emanatist
 epical
 eternalized
 emanativ
-erupt
+erupt 1
 enwreath
 emancipated
 enshrouds
