@@ -2948,7 +2948,7 @@ chytrid
 cantharides
 coation
 clip
-cantharidian
+cantharidian 1
 carcan
 cantharidize
 cantharidized
