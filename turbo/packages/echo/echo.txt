@@ -2241,7 +2241,7 @@ eyre
 extramoral
 elevatory
 exocolitis
-effluve
+effluve 1
 endoplasma
 epigonos
 exhume
