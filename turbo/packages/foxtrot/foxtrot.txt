@@ -1255,7 +1255,7 @@ fastbacks
 frigor
 flatdom
 faradism
-futteret
+futteret 1
 fama
 favella
 forevouch
