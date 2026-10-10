@@ -983,7 +983,7 @@ dagos
 ding
 dignitaries
 derequisition
-dolomitise
+dolomitise 1
 disproportionate
 drest
 darics
