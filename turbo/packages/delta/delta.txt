@@ -14145,7 +14145,7 @@ desacralize
 diapason
 dentification
 doyst
-disinfest
+disinfest 1
 disulfonic
 dispread
 dirgelike
