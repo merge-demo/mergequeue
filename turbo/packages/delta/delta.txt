@@ -8156,7 +8156,7 @@ duellists
 duple
 deprecate
 diacipiperazine
-drapeability
+drapeability 1
 druidism
 didodecahedral
 digitalism
