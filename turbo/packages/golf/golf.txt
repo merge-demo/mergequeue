@@ -1340,7 +1340,7 @@ greenalite
 galvanist
 geoside
 glomerulus
-galloner
+galloner 1
 garnisheement
 glorifier
 gonochoristic
