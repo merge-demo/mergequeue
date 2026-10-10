@@ -2120,7 +2120,7 @@ eleusine
 exuberancy
 externat
 epipubes
-equiangle
+equiangle 1
 elastomers
 elastose
 epeisodia
