@@ -10919,7 +10919,7 @@ amnestied
 aldine
 aimer
 alf
-affronter
+affronter 1
 allamoth
 antiphilosophy
 amerindic
