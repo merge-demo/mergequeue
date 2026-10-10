@@ -5226,7 +5226,7 @@ desired
 dine
 depolarisation
 dusun
-deafer
+deafer 1
 denotatively
 dauerlauf
 dampens
