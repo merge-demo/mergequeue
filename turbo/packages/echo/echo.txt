@@ -2493,7 +2493,7 @@ electrokinetics
 elasticum
 exsecants
 educables
-expansivity
+expansivity 1
 embryopathology
 emender
 enervators
