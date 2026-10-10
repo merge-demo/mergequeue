@@ -20246,7 +20246,7 @@ athetosis
 arricciato
 ailantery
 acquiesces
-applicator
+applicator 1
 apetaly
 areroscope
 achromatic
