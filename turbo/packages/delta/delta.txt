@@ -12489,7 +12489,7 @@ doorkeep
 dilative
 diaporthe
 dicotyledonary
-disinfectants
+disinfectants 1
 drafter
 dreg
 disinfected
