@@ -7418,7 +7418,7 @@ erythrolytic
 enchaining
 excepts
 employes
-elenctic
+elenctic 1
 entanglement
 ebulliate
 endogenously
