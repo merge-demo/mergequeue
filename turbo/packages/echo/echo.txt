@@ -6974,7 +6974,7 @@ entreaties
 excavatorial
 enfuddle
 eager
-entreats
+entreats 1
 entrec
 escalin
 effecting
