@@ -9333,7 +9333,7 @@ felinities
 frothy
 fleawood
 fecaloid
-fatuitousness
+fatuitousness 1
 frankalmoign
 filibustrous
 fellowly
