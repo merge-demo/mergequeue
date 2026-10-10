@@ -14369,7 +14369,7 @@ diuron
 demeaned
 dielec
 doled
-divagated
+divagated 1
 divagates
 drillmaster
 divagationally
