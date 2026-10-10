@@ -16661,7 +16661,7 @@ autocratic
 aperea
 aperient
 aperients
-autonomies
+autonomies 1
 aperiodically
 ambulanced
 average
