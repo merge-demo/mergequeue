@@ -10042,7 +10042,7 @@ evolutions
 expecting
 epidialogue
 emergent
-encastered
+encastered 1
 egrets
 ethambutol
 ethmovomerine
