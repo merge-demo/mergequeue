@@ -11429,7 +11429,7 @@ evetide
 extirpating
 encipherment
 elucidation
-emasculated
+emasculated 1
 engraving
 extinctive
 expurgated
