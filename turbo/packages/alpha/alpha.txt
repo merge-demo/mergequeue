@@ -5889,7 +5889,7 @@ ages
 altisonant
 actinocrinidae
 achroiocythemia
-asthenic
+asthenic 1
 ambisporangiate
 aggenerate
 agger
