@@ -2054,7 +2054,7 @@ farouche
 fourpounder
 ferngrower
 frontspiece
-feinter
+feinter 1
 facedown
 faucalize
 flindosa
