@@ -3448,7 +3448,7 @@ defluent
 debyes
 disassociating
 doffed
-dictyoxylon
+dictyoxylon 1
 doigte
 defluvium
 demimark
