@@ -6815,7 +6815,7 @@ goodwill
 gibel
 gravilea
 glycosyls
-geryonia
+geryonia 1
 garle
 glutimate
 gonococci
