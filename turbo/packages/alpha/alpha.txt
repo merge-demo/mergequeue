@@ -12021,7 +12021,7 @@ archibuteo
 anarchy
 aerocolpos
 auberges
-antique
+antique 1
 antiexpressive
 almose
 anarchical
