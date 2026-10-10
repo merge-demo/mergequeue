@@ -13966,7 +13966,7 @@ enface
 electropoion
 escheatage
 extraparochial
-equicurve
+equicurve 1
 ectophytic
 essoiner
 embezzles
