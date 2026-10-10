@@ -3984,7 +3984,7 @@ dampang
 decides
 disintensify
 duplex
-devitalise
+devitalise 1
 deputized
 distune
 delectating
