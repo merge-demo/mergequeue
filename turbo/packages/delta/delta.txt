@@ -3687,7 +3687,7 @@ dehache
 dorsoepitrochlear
 dehypnotize
 dissonant
-disorganising
+disorganising 1
 desuetude
 disburdening
 demicylindrical
