@@ -1960,7 +1960,7 @@ froze
 forebearing
 floccule
 finagling
-fonly
+fonly 1
 flanchard
 furzier
 forworn
