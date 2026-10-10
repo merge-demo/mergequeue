@@ -8007,7 +8007,7 @@ glazy
 gables
 grandmotherly
 groutnoll
-glistens
+glistens 1
 gymnastical
 gomarist
 grippingness
