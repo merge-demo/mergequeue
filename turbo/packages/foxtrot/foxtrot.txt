@@ -7902,7 +7902,7 @@ footeite
 footslog
 fletching
 foreseer
-foresees
+foresees 1
 flashtube
 fonder
 forespeak
