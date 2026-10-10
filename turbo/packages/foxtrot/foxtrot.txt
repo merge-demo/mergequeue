@@ -9664,7 +9664,7 @@ freibergite
 fulgorous
 fruit
 flipflop
-finalize
+finalize 1
 foretoken
 faldstool
 fouquieria
