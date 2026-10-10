@@ -6269,7 +6269,7 @@ gob
 greediness
 gadslid
 gobber
-gazettes
+gazettes 1
 goateed
 guitarlike
 guttural
