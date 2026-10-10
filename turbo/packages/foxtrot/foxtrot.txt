@@ -2219,7 +2219,7 @@ fogged
 feminal
 fruiting
 fragrancy
-fmt
+fmt 1
 feminility
 feminin
 frecklish
