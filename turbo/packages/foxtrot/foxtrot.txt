@@ -4368,7 +4368,7 @@ feebler
 foraramina
 fylfots
 foreacquaint
-foreconceive
+foreconceive 1
 forb
 furosemide
 focuser
