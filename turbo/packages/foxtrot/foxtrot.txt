@@ -7306,7 +7306,7 @@ fourteenfold
 flubdubbery
 frilling
 forelock
-fopperly
+fopperly 1
 fraternized
 foujdar
 fourgon
