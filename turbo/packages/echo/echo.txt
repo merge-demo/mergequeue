@@ -8018,7 +8018,7 @@ epipanies
 expectorations
 endovasculitis
 exsanguious
-euthenist
+euthenist 1
 equuleus
 encoop
 electrodentistry
