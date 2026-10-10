@@ -8088,7 +8088,7 @@ feeble
 flasklet
 faints
 factorist
-fumacious
+fumacious 1
 farceur
 forme
 fragilaria
