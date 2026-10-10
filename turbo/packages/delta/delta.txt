@@ -415,7 +415,7 @@ desulfurise
 darwan
 disobedient
 dairymaids
-devaluate
+devaluate 1
 dogfighting
 dithered
 dorsoanterior
