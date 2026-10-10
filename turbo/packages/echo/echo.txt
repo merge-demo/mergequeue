@@ -12321,7 +12321,7 @@ exhibitors
 endorsers
 excrescencies
 ensorcelize
-exflect
+exflect 1
 endower
 enteromyiasis
 epicleidium
