@@ -10559,7 +10559,7 @@ disbalancement
 didrachmas
 dispend
 dependable
-debouched
+debouched 1
 decorticate
 despotist
 diplogenesis
