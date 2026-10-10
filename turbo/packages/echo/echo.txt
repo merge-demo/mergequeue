@@ -471,7 +471,7 @@ enumerable
 ecclesiarchy
 ensnarls
 extoll
-ecclesiast
+ecclesiast 1
 entrada
 empasm
 extended
