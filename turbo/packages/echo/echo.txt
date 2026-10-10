@@ -5082,7 +5082,7 @@ eclogites
 eardrums
 exited
 endoclinal
-eternals
+eternals 1
 endocoelar
 eupanorthidae
 ectozoan
