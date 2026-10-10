@@ -12122,7 +12122,7 @@ ejam
 enfeoffing
 eloper
 ebonite
-ensorcerize
+ensorcerize 1
 eyelike
 epural
 excursionist
