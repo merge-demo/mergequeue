@@ -1053,7 +1053,7 @@ eyeless
 eqpt
 edgar
 expatiatory
-edgeboned
+edgeboned 1
 eagerly
 exsheath
 edged
