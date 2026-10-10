@@ -5340,7 +5340,7 @@ anilao
 accra
 afflicter
 afflicting
-afflictingly
+afflictingly 1
 abranchian
 ambulante
 archoplasm
