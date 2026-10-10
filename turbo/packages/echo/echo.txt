@@ -1979,7 +1979,7 @@ earthen
 etherialize
 exteriorate
 elastics
-eluviated
+eluviated 1
 eagle
 economizing
 endocystitis
