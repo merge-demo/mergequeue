@@ -8372,7 +8372,7 @@ biplanal
 bikeway
 bedirter
 bedaze
-balita
+balita 1
 blams
 bias
 bikkurim
