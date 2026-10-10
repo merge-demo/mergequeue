@@ -1226,7 +1226,7 @@ gleetier
 gripiest
 gatewards
 grannybush
-galavants
+galavants 1
 gramy
 gruffly
 gambler
