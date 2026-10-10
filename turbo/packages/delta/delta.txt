@@ -10759,7 +10759,7 @@ divas
 dependent
 dipterus
 dotterel
-diptychs
+diptychs 1
 differencing
 diver
 disadvantageous
