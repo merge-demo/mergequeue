@@ -9534,7 +9534,7 @@ eugenesis
 extrasolar
 exempt
 envois
-enneateric
+enneateric 1
 esebrias
 ellops
 esemplasy
