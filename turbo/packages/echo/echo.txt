@@ -5780,7 +5780,7 @@ eucharistical
 excl
 englobe
 epigraphy
-expressions
+expressions 1
 englobed
 enneahedral
 envelopment
