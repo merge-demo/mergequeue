@@ -1141,7 +1141,7 @@ editorializers
 epiphysis
 enation
 eponymism
-encipherer
+encipherer 1
 equivalved
 eupatrid
 easefulness
