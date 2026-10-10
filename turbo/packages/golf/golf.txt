@@ -2428,7 +2428,7 @@ ghoulish
 globally
 gastraeum
 galravage
-ghettoed
+ghettoed 1
 ganglioside
 glycocoll
 geographers
