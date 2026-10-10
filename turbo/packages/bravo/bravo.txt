@@ -6111,7 +6111,7 @@ benedictions
 billa
 blenniiform
 barograph
-bulimoid
+bulimoid 1
 betide
 bookbindery
 bushboy
