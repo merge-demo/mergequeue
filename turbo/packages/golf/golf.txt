@@ -9362,7 +9362,7 @@ gyrostat
 gimmick
 gravestones
 groop
-gallerygoer
+gallerygoer 1
 glamorize
 gwen
 glareola
