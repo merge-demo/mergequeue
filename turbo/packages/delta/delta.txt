@@ -12781,7 +12781,7 @@ dissensions
 diathesic
 duplicatus
 dysluite
-delicto
+delicto 1
 dislustered
 delectate
 drollish
