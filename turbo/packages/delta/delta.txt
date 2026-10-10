@@ -2735,7 +2735,7 @@ devonshire
 dictates
 dissembling
 decore
-dewcup
+dewcup 1
 decorist
 durum
 demilancer
