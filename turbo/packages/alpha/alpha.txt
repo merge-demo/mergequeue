@@ -8958,7 +8958,7 @@ abortion
 admiralships
 arris
 antenatal
-amalg
+amalg 1
 alloo
 annelids
 allopathetic
