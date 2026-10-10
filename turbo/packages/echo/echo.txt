@@ -8028,7 +8028,7 @@ expilate
 eggar
 ease
 entoconid
-enstatitic
+enstatitic 1
 easements
 evident
 expound
