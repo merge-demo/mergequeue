@@ -2059,7 +2059,7 @@ enthusiasm
 embalm
 excitedness
 enterocinesia
-elaphurus
+elaphurus 1
 enology
 expedites
 enjoyers
