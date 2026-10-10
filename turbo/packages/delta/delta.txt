@@ -11560,7 +11560,7 @@ digester
 deterged
 deerweed
 dunkle
-dysoxidizable
+dysoxidizable 1
 divulgator
 danta
 disposable
