@@ -5389,7 +5389,7 @@ fairtime
 frostlike
 flutists
 fleche
-folliculate
+folliculate 1
 flechettes
 firewoods
 flecked
