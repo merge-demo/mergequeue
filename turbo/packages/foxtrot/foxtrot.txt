@@ -11697,7 +11697,7 @@ filets
 fracas
 fas
 far
-foretellableness
+foretellableness 1
 flugelhorn
 fasciola
 fernsick
