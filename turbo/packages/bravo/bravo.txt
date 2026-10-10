@@ -5636,7 +5636,7 @@ benjoin
 bloodstones
 besped
 beldams
-bacchar
+bacchar 1
 bauble
 bilify
 belderroot
