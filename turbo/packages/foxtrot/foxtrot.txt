@@ -4718,7 +4718,7 @@ fucales
 fathomless
 firesideship
 flannelly
-fantasticate
+fantasticate 1
 frettage
 fictation
 frumentarious
