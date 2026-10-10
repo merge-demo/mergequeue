@@ -4903,7 +4903,7 @@ gliomata
 goonies
 gorier
 graphometric
-gorse
+gorse 1
 gossard
 glauberite
 glair
