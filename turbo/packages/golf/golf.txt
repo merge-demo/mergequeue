@@ -6993,7 +6993,7 @@ gyrovague
 griefless
 guldengroschen
 gestalts
-geir
+geir 1
 glossopode
 gallerian
 gapes
