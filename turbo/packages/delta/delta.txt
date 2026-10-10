@@ -16257,7 +16257,7 @@ deadlocking
 dacryolite
 dipsaceous
 denominationalist
-desiderant
+desiderant 1
 dowels
 decrown
 demiowl
