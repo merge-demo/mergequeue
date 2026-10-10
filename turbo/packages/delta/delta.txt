@@ -1996,7 +1996,7 @@ desirable
 diced
 dermatoma
 drover
-demyelinate
+demyelinate 1
 dominated
 deflection
 descloizite
