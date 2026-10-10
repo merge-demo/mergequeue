@@ -5480,7 +5480,7 @@ deadest
 devoiced
 dorsiventrality
 doryphoros
-dews
+dews 1
 deoxygenated
 divestitures
 dilatation
