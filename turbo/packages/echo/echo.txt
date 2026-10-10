@@ -10070,7 +10070,7 @@ entitlement
 ethanolamine
 ephemeralness
 excretion
-ensepulcher
+ensepulcher 1
 ersatz
 exode
 endoparasitism
