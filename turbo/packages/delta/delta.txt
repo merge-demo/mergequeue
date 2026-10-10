@@ -16643,7 +16643,7 @@ drainage
 drained
 drainer
 dawdle
-dogging
+dogging 1
 drainers
 drainfield
 disvelop
