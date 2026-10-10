@@ -9526,7 +9526,7 @@ checkpointing
 combmaking
 concionate
 checkpoints
-commonize
+commonize 1
 cogitative
 checkrack
 casehardens
