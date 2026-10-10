@@ -6418,7 +6418,7 @@ blowup
 benzothiazine
 benzothiazoline
 bitripartite
-bregmata
+bregmata 1
 bergamiol
 bumpering
 backcloth
