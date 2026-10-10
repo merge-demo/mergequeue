@@ -4794,7 +4794,7 @@ extols
 exflagellation
 eequinoctium
 emulously
-enlivens
+enlivens 1
 encomic
 executory
 excipient
