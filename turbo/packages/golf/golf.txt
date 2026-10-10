@@ -4247,7 +4247,7 @@ groset
 gluttonise
 gynantherous
 grozer
-gonadectomized
+gonadectomized 1
 goliath
 gammoned
 grunth
