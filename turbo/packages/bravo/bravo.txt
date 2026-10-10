@@ -10138,7 +10138,7 @@ blackcods
 bathochrome
 blues
 blackdamp
-bursar
+bursar 1
 blackener
 billette
 bakalei
