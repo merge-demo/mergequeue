@@ -9847,7 +9847,7 @@ fabianism
 foulage
 fucatious
 flashbulbs
-fringe
+fringe 1
 firebricks
 fadlike
 fricando
