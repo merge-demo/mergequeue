@@ -6766,7 +6766,7 @@ bersagliere
 brittles
 bin
 boeotia
-berserks
+berserks 1
 barnumize
 berhyme
 banjore
