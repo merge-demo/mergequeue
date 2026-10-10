@@ -383,7 +383,7 @@ fieldfight
 froes
 fluorides
 faintly
-fiercen
+fiercen 1
 furoid
 finesses
 fearer
