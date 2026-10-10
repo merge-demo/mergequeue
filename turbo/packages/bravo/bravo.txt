@@ -6226,7 +6226,7 @@ bissextus
 battalions
 biuret
 bosporus
-blastogenesis
+blastogenesis 1
 bubas
 bluestems
 blatantly
