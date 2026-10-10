@@ -4563,7 +4563,7 @@ appertise
 advertisers
 attunes
 albication
-assuagable
+assuagable 1
 antiproductiveness
 adjuvant
 allobars
