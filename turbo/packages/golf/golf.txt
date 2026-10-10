@@ -2923,7 +2923,7 @@ geraldine
 guardiancy
 gneissoid
 gorsy
-glideless
+glideless 1
 gynaecocracies
 gunfighters
 geocoronium
