@@ -9528,7 +9528,7 @@ filthiest
 freckle
 furnace
 fieldmouse
-fruitfullness
+fruitfullness 1
 favouress
 fichtelite
 flyted
