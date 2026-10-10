@@ -1548,7 +1548,7 @@ deactivation
 dandelion
 distressedness
 doublure
-driftbolt
+driftbolt 1
 drail
 deadlier
 deaden
