@@ -187,7 +187,7 @@ garoted
 glamour
 greyhen
 goyish
-groggily
+groggily 1
 goliathize 1
 goniometry
 gluteoperineal
