@@ -5973,7 +5973,7 @@ fantaisie
 fisk
 filleter
 fets
-fanwright
+fanwright 1
 fomites
 favism
 firkin
