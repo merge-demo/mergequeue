@@ -6789,7 +6789,7 @@ gaffsail
 galiot
 gavyuti
 gossiping
-geront
+geront 1
 gymnogyps
 gringo
 gentilitial
