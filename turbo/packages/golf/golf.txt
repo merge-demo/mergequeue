@@ -9738,7 +9738,7 @@ grittiness
 genuflector
 gambeered
 gournard
-gambir
+gambir 1
 gordiidae
 gagroot
 gambes
