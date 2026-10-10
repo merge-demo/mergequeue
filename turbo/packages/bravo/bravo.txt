@@ -7215,7 +7215,7 @@ bladdernut
 bestrewment
 besnow
 baconist
-bisporous
+bisporous 1
 basses
 backstrip
 bestridden
