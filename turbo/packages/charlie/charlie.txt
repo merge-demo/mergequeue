@@ -18980,7 +18980,7 @@ catenulate
 coenobitic
 ciseleur
 culbut
-collect
+collect 1
 collected
 cranberry
 ctenoidean
