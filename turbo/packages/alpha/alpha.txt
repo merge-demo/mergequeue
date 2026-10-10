@@ -12035,7 +12035,7 @@ adela
 astromancy
 anarchist
 anarchists
-anarcho
+anarcho 1
 antisophistry
 atrium
 alpha
