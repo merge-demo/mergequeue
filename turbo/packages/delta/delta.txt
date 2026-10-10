@@ -14510,7 +14510,7 @@ divinability
 defiles
 diviner
 denied
-divinesse
+divinesse 1
 decarburised
 disjointly
 demotic
