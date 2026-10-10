@@ -11413,7 +11413,7 @@ entodermic
 echovirus
 ennedra
 eligibility
-esuriently
+esuriently 1
 embryophagous
 equiform
 esthacyte
