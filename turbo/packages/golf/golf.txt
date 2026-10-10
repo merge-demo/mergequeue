@@ -4301,7 +4301,7 @@ gyneolater
 grasseye
 guinfo
 germicide
-gynetype
+gynetype 1
 gymnadenia
 glazieries
 glazings
