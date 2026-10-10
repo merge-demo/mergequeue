@@ -2495,7 +2495,7 @@ acocantherin
 and
 awaredom
 acockbill
-alcoholizable
+alcoholizable 1
 antireduction
 acocotl
 aluminic
