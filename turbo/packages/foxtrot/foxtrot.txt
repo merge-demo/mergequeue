@@ -11056,7 +11056,7 @@ fellatrices
 fangless
 flycatcher
 frictionizing
-funambulatory
+funambulatory 1
 fondaco
 fedia
 flamenship
