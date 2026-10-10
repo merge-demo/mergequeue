@@ -11568,7 +11568,7 @@ fowage
 fingerspin
 feedback
 fain
-friskful
+friskful 1
 flytier
 fulmar
 futhermore
