@@ -1460,7 +1460,7 @@ balistes
 battologized
 boilermaker
 bucketer
-balistid
+balistid 1
 bloodshedding
 bravadoed
 balistidae
