@@ -8598,7 +8598,7 @@ devourer
 diapirs
 diaplases
 disk
-deprived
+deprived 1
 dinosaurian
 depriver
 destroying
