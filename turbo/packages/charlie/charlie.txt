@@ -8307,7 +8307,7 @@ chalkworker
 centriciput
 challas
 chamicuro
-calcifuge
+calcifuge 1
 challenger
 challengers
 challie
