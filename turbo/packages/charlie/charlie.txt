@@ -25871,7 +25871,7 @@ corsacs
 connarus
 corsages
 corsairs
-chalcid
+chalcid 1
 crippled
 corse
 chemoautotrophically
