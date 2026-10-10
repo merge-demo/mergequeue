@@ -2040,7 +2040,7 @@ amritas
 amidoxy
 amoret
 apsychical
-achalasia
+achalasia 1
 achape
 acharya
 apatheia
