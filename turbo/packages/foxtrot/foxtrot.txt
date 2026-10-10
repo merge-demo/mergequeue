@@ -5961,7 +5961,7 @@ frenchification
 frailly
 fivepins
 futileness
-frightening
+frightening 1
 fallibility
 fortunite
 floodlit
