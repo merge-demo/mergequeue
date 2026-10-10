@@ -2901,7 +2901,7 @@ frumpiness
 flaughts
 flutiest
 fanciable
-fumigations
+fumigations 1
 fortressing
 footmark
 frizzen
