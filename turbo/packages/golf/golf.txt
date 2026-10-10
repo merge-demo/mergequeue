@@ -6069,7 +6069,7 @@ guidebookish
 geyerite
 genetrix
 glovemen
-glycemia
+glycemia 1
 griddle
 gownsman
 gullishly
