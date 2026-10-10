@@ -3993,7 +3993,7 @@ flanque
 feminisation
 fictionally
 fibres
-foveolets
+foveolets 1
 fraulein
 friarling
 february
