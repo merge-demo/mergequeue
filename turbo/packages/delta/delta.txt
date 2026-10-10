@@ -18117,7 +18117,7 @@ dumbstricken
 demisemiquaver
 demagnetize
 dumdum
-dumdums
+dumdums 1
 dadu
 drab
 distichs
