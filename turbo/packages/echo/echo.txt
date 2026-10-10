@@ -9791,7 +9791,7 @@ emplanement
 extracellular
 electively
 essoinment
-essorant
+essorant 1
 echiuroidea
 endarterial
 engrave
