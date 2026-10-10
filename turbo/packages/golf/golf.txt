@@ -2809,7 +2809,7 @@ groundedness
 gentlemouthed
 glace
 gentler
-gutnish
+gutnish 1
 gilgulim
 gifture
 geolinguistics
