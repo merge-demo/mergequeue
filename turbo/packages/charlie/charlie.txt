@@ -14814,7 +14814,7 @@ concitizen
 cytoid
 cellaret
 citoyenne
-confiscated
+confiscated 1
 conscious
 coadmiring
 channelizes
