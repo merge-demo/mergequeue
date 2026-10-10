@@ -2368,7 +2368,7 @@ futchell
 fanhouse
 feres
 fatherlands
-floatstone
+floatstone 1
 flytings
 fegs
 frolicky
