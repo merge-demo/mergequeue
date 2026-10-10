@@ -9202,7 +9202,7 @@ disguiser
 donkeys
 dentinoma
 dieing
-deprovincialize
+deprovincialize 1
 dramshops
 derat
 dyeings
