@@ -6899,7 +6899,7 @@ darkness
 dryhouse
 dependents
 dognap
-discolors
+discolors 1
 descantist
 dahabiyeh
 deadliest
