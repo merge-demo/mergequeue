@@ -4024,7 +4024,7 @@ gilds
 grandness
 gutturals
 gerundive
-glossolabiopharyngeal
+glossolabiopharyngeal 1
 gushingly
 graybacks
 grossierete
