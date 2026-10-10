@@ -2400,7 +2400,7 @@ edda
 excusively
 epipetalous
 erythroid
-episcopalianize
+episcopalianize 1
 echinostoma
 ensorcell
 events
