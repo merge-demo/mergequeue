@@ -5470,7 +5470,7 @@ flex
 fusionless
 firefighter
 forevow
-facilitative
+facilitative 1
 frescoing
 firearmed
 falsifiable
