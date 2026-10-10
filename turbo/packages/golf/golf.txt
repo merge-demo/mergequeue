@@ -5770,7 +5770,7 @@ genuine
 gymnoplast
 gypsoplast
 gunkholed
-gossypose
+gossypose 1
 gonotheca
 gravemaker
 galera
