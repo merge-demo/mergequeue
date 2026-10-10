@@ -15731,7 +15731,7 @@ broadsword
 bamangwato
 bromethyl
 betorcin
-bolder
+bolder 1
 blithesomeness
 biaxially
 bardee
