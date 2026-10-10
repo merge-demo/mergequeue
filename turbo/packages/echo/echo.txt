@@ -7128,7 +7128,7 @@ esotrope
 endocolitis
 engrossed
 established
-epimere
+epimere 1
 examples
 epistolising
 egomaniacally
