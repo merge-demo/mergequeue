@@ -18252,7 +18252,7 @@ continuant
 coffer
 corridor
 cofferdam
-claudetite
+claudetite 1
 cephalotome
 coombe
 cofferer
