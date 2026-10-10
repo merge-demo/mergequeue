@@ -8069,7 +8069,7 @@ fiendfully
 ferrochromium
 forests
 fissuriform
-fumer
+fumer 1
 flusterated
 frippet
 forejudged
