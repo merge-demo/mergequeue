@@ -6220,7 +6220,7 @@ grabbings
 glyptographic
 ganglionless
 grivois
-gossipdom
+gossipdom 1
 gamblesome
 gardener
 geomyidae
