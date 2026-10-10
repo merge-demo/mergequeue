@@ -12104,7 +12104,7 @@ anastasius
 anemosis
 architeuthis
 anastate
-anastatus
+anastatus 1
 academia
 anastigmat
 anastigmatic
