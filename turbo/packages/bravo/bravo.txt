@@ -7521,7 +7521,7 @@ bestower
 betaine
 businessman
 bevillain
-befell
+befell 1
 bedote
 banes
 boehmite
