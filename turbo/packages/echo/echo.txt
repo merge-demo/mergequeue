@@ -12821,7 +12821,7 @@ eudipleural
 encircled
 exoterically
 erythremomelalgia
-equity
+equity 1
 exoticness
 epicoelian
 enantioses
