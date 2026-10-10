@@ -12332,7 +12332,7 @@ derrick
 dwarfishly
 decolorised
 depone
-deepening
+deepening 1
 decempartite
 didymiums
 decoagulation
