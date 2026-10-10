@@ -4782,7 +4782,7 @@ carpoidea
 chalcidid
 carpolith
 confides
-clitellus
+clitellus 1
 carpology
 corrosibility
 corynocarpaceae
