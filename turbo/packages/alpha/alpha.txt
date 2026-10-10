@@ -6637,7 +6637,7 @@ alcaide
 antidomestically
 aiguille
 aiguillette
-anthropoids
+anthropoids 1
 aquiline
 antinuke
 agorae
