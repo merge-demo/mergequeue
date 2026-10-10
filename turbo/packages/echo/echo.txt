@@ -6377,7 +6377,7 @@ ethmoids
 elaboration
 enrobed
 epist
-enunciator
+enunciator 1
 expediters
 ensemble
 engastrimyth
