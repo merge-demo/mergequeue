@@ -5497,7 +5497,7 @@ ferrymen
 fribbles
 foolscap
 flesh
-forbids
+forbids 1
 footsoreness
 fourteenths
 formes
