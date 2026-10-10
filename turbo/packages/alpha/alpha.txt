@@ -11158,7 +11158,7 @@ attenuation
 allotypically
 awakings
 antiorthodoxly
-amperometer
+amperometer 1
 asswage
 antiaphrodisiac
 anglomania
