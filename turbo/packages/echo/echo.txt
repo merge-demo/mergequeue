@@ -7625,7 +7625,7 @@ epoptist
 equichangeable
 enviousness
 encephalous
-ensconce
+ensconce 1
 enhungered
 euphemious
 electrophoridae
