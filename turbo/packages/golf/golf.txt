@@ -2842,7 +2842,7 @@ glanduliform
 glossiphonidae
 gustfulness
 geol
-guilefulness
+guilefulness 1
 ganglionic
 gyrate
 gustavus
