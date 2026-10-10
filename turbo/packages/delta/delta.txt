@@ -18496,7 +18496,7 @@ durably
 duologs
 dissentiently
 discussants
-dementi
+dementi 1
 driftlet
 declamator
 dyslogistically
