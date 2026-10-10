@@ -18386,7 +18386,7 @@ deceptiously
 deuteroconid
 dabbles
 disintrench
-decontrols
+decontrols 1
 duskishness
 daviesia
 dysphagia
