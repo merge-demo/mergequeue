@@ -12164,7 +12164,7 @@ eucolite
 enlistee
 empory
 exeat
-exec
+exec 1
 epiphonemas
 eudemonist
 exacervation
