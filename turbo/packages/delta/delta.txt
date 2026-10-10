@@ -15726,7 +15726,7 @@ disbuds
 doris
 diaxonic
 disyntheme
-disorientate
+disorientate 1
 dater
 drubbly
 dicyanine
