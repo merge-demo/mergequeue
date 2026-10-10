@@ -10186,7 +10186,7 @@ encoders
 executives
 ethernet
 enumerations
-exudate
+exudate 1
 emancipation
 escrowed
 emmarbled
