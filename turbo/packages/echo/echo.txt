@@ -11899,7 +11899,7 @@ emissivity
 emends
 eightfoil
 engore
-euploeinae
+euploeinae 1
 emotionalist
 enragement
 expurgation
