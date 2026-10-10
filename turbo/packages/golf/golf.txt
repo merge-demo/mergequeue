@@ -2195,7 +2195,7 @@ giraffoid
 geoidal
 garmented
 gestational
-gooseskin
+gooseskin 1
 goosehouse
 gemwork
 gastrolith
