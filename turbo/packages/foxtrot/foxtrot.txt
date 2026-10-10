@@ -9588,7 +9588,7 @@ flanger
 flagellant
 finalism
 faqir
-filipinize
+filipinize 1
 formless
 fleeceable
 fdub
