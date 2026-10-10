@@ -3345,7 +3345,7 @@ diastem
 demitting
 duddery
 destiny
-domesticable
+domesticable 1
 datiscoside
 distemperer
 dropsically
