@@ -27891,7 +27891,7 @@ chromidial
 crabman
 crabs
 crabstick
-comeatable
+comeatable 1
 conquians
 crabut
 crabweed
