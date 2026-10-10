@@ -17370,7 +17370,7 @@ aposteriori
 aerogun
 arithmometer
 apostille
-argos
+argos 1
 antagonist
 aglycosuric
 anatiferous
