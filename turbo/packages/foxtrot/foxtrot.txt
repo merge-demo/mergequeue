@@ -5029,7 +5029,7 @@ fallows
 flatbeds
 flanneling
 fungoidal
-fellatios
+fellatios 1
 forepaw
 ferries
 foments
