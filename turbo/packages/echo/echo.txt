@@ -2610,7 +2610,7 @@ exercitor
 enjelly
 epithelize
 exothecate
-exciter
+exciter 1
 electrophoretogram
 expansure
 exturb
