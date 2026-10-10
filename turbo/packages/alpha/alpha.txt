@@ -11882,7 +11882,7 @@ analogicalness
 amidomyelin
 abdominocardiac
 analogised
-alchem
+alchem 1
 analogize
 appropriation
 analogon
