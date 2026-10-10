@@ -5287,7 +5287,7 @@ affined
 affinely
 acromiodeltoid
 affines
-arthron
+arthron 1
 anthomedusae
 atonement
 alemanni
