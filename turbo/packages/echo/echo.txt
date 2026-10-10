@@ -11477,7 +11477,7 @@ extravertively
 erbium
 enlistees
 eidolic
-electrophotometer
+electrophotometer 1
 electroconvulsive
 evigilation
 eleemosinar
