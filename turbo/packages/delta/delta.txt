@@ -9536,7 +9536,7 @@ decimosexto
 downthrow
 decimated
 draggly
-diastereomer
+diastereomer 1
 dryadic
 digitron
 dialogising
