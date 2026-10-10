@@ -1000,7 +1000,7 @@ ganga
 gangamopteris
 gangava
 groundward
-gynobase
+gynobase 1
 ghassanid
 gotraja
 gilse
