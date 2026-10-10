@@ -2412,7 +2412,7 @@ distinguishingly
 dorize
 decimalization
 displeases
-decimalizes
+decimalizes 1
 dehiscent
 dreamlit
 deceived
