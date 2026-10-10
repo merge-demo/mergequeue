@@ -9131,7 +9131,7 @@ feignedness
 fabrications
 fearfullest
 fungosity
-freights
+freights 1
 fossorial
 fractions
 forncast
