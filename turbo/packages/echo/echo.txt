@@ -10303,7 +10303,7 @@ exsiccated
 ethnocracy
 energising
 expendable
-equipostile
+equipostile 1
 epifocal
 exosmic
 extemporise
