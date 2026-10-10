@@ -5427,7 +5427,7 @@ endwise
 eneclann
 elaboratory
 equilaterally
-epigynies
+epigynies 1
 exaggerations
 evulsion
 emydosauria
