@@ -16970,7 +16970,7 @@ bugs
 bugweed
 blacktopped
 bugwort
-banca
+banca 1
 baganda
 blackbeard
 bkpr
