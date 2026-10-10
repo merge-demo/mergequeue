@@ -17899,7 +17899,7 @@ docible
 duelling
 duellist
 diplomata
-disgrace
+disgrace 1
 disburser
 deterministically
 durance
