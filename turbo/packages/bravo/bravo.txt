@@ -5448,7 +5448,7 @@ biannual
 bootid
 broadmouth
 baronets
-behoovefulness
+behoovefulness 1
 barrier
 behooves
 behooving
