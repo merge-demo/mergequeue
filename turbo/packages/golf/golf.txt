@@ -4217,7 +4217,7 @@ ghibelline
 gynaecium
 gunned
 glycerophosphoric
-grovel
+grovel 1
 goloka
 gois
 gaetuli
