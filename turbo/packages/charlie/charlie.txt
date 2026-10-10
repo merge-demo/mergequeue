@@ -15544,7 +15544,7 @@ classicalist
 classicality
 chaya
 classicise
-compatibleness
+compatibleness 1
 chromophoric
 classicism
 chaetopterin
