@@ -14616,7 +14616,7 @@ detergible
 divulgation
 drudged
 demoralised
-divulge
+divulge 1
 divulged
 drivelling
 despite
