@@ -16757,7 +16757,7 @@ aphasiacs
 aphasics
 ambience
 anabaptized
-averse
+averse 1
 amylometer
 anterointerior
 accur
