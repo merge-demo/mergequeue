@@ -1781,7 +1781,7 @@ calved
 calvin
 cithern
 commutators
-comdr
+comdr 1
 controlment
 calvinism
 colorimetrical
