@@ -9881,7 +9881,7 @@ aponogeton
 antepreterit
 amphigen
 amarine
-amarity
+amarity 1
 aplotomy
 amaritude
 amarthritis
