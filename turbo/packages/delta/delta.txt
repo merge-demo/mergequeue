@@ -6498,7 +6498,7 @@ disqualification
 delignated
 disomatous
 descendent
-dalesfolk
+dalesfolk 1
 douppioni
 dolichosoma
 dunged
