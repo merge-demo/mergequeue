@@ -6189,7 +6189,7 @@ fluavile
 flubbed
 feudum
 foreread
-feloniously
+feloniously 1
 fairgoing
 flaxes
 feebling
