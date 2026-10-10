@@ -10872,7 +10872,7 @@ deluding
 disjuncts
 desalting
 disculpate
-decerebrize
+decerebrize 1
 diruption
 dereference
 deployed
