@@ -9249,7 +9249,7 @@ fascinery
 frontispieced
 fraktur
 fasciolet
-fresnel
+fresnel 1
 flavoury
 foresentence
 fetishist
