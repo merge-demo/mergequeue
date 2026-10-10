@@ -8809,7 +8809,7 @@ frigorimeter
 fluidible
 flighthead
 flushgate
-forespoke
+forespoke 1
 fricandoes
 fleeringly
 fossillike
