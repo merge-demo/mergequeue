@@ -7683,7 +7683,7 @@ gleary
 gromwells
 gardeny
 grouseward
-glovey
+glovey 1
 gradient
 galey
 greybeard
