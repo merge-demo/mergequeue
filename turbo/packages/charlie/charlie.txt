@@ -230,7 +230,7 @@ cacas
 cacatuidae
 cacatuinae
 coactions
-currency
+currency 1
 cacciatora
 capeador
 cacei
