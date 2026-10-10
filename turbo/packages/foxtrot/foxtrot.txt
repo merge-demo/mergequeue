@@ -3679,7 +3679,7 @@ fleur
 feistiest
 foysen
 forrard
-fluctuating
+fluctuating 1
 fruitwise
 futurisms
 fathead
