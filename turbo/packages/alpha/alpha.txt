@@ -10617,7 +10617,7 @@ aftershine
 acidifier
 aminated
 amygdule
-affirmative
+affirmative 1
 amigos
 amiidae
 amyl
