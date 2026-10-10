@@ -9917,7 +9917,7 @@ dimidiate
 dispart
 deodorizers
 dissonancy
-dissinew
+dissinew 1
 decimeter
 downcourt
 dodecatoic
