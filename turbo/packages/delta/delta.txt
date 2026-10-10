@@ -15048,7 +15048,7 @@ deescalations
 dehors
 determinable
 doggonest
-doggoning
+doggoning 1
 detant
 downfeed
 dislady
