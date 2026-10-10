@@ -12488,7 +12488,7 @@ countergauger
 charmer
 coachmaking
 cassino
-chrysorin
+chrysorin 1
 corimelaenidae
 chromopsia
 chromoptometer
