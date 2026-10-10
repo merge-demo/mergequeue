@@ -5231,7 +5231,7 @@ enantiomeride
 extrascriptural
 escartelly
 esphresis
-expenseless
+expenseless 1
 euphonium
 endopods
 epistolarily
