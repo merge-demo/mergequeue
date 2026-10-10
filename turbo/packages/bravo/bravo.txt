@@ -1277,7 +1277,7 @@ balan
 billiard
 bedstead
 behindhand
-bardie
+bardie 1
 balanceable
 burion
 bafflements
