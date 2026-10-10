@@ -6866,7 +6866,7 @@ flasks
 friability
 flourished
 fossilise
-frecked
+frecked 1
 flioma
 folky
 fatiguingly
