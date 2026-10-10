@@ -8815,7 +8815,7 @@ egritude
 esteems
 enskyed
 embelin
-entempest
+entempest 1
 empetraceous
 epistolize
 epilate
