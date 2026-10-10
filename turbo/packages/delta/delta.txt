@@ -3841,7 +3841,7 @@ deionizations
 dichroiscope
 diatropic
 depayse
-dyspnoea
+dyspnoea 1
 deionize
 degraduation
 dopatta
