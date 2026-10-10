@@ -5496,7 +5496,7 @@ gentlemen
 goodyera
 goldilocks
 guttering
-glimmery
+glimmery 1
 gigeria
 glisteringly
 gorblimy
