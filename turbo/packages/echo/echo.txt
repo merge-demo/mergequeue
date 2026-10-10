@@ -10560,7 +10560,7 @@ ethrog
 endostyle
 erotomania
 ewry
-epephragmal
+epephragmal 1
 enthusing
 entomophily
 exhibitory
