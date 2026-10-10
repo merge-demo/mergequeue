@@ -28261,7 +28261,7 @@ colchyte
 crare
 crashed
 confronting
-cursors
+cursors 1
 crasher
 crashers
 crashes
