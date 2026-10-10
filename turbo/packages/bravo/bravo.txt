@@ -9451,7 +9451,7 @@ brightest
 blepharophryplasty
 banya
 bipunctal
-bores
+bores 1
 blued
 barbarian
 birn
