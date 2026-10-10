@@ -11978,7 +11978,7 @@ commodate
 chorizontal
 comprehensible
 chorizos
-cribrately
+cribrately 1
 cutes
 chorograph
 chorographer
