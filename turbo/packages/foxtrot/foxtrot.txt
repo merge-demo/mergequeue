@@ -314,7 +314,7 @@ freethinker
 flexuosity
 fraternation
 feints
-feint
+feint 1
 fostell
 fibrillated
 finochio
