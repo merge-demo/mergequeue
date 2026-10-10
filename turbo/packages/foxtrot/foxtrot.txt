@@ -3204,7 +3204,7 @@ flotages
 fringiness
 fogman
 feloness
-floorshift
+floorshift 1
 firmisternous
 fougade
 fusicoccum
