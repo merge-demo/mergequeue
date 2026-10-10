@@ -25754,7 +25754,7 @@ corrige
 corrigenda
 compossibility
 corrigible
-chainbearer
+chainbearer 1
 curassows
 corrigibleness
 citrines
