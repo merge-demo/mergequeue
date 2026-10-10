@@ -9320,7 +9320,7 @@ alopecoid 1
 antrectomy
 alophas
 adventitious
-alorcinic
+alorcinic 1
 alosa
 alouette
 androsphinxes
