@@ -1486,7 +1486,7 @@ endosiphonate
 equippers
 estivate
 ebbs
-eclegme
+eclegme 1
 escadrille
 effusively
 entasias
