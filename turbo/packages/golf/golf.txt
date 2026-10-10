@@ -189,7 +189,7 @@ greyhen
 goyish
 groggily
 goliathize 1
-goniometry
+goniometry 1
 gluteoperineal
 guesting
 gradgrind
