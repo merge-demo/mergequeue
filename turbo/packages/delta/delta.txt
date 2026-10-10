@@ -5873,7 +5873,7 @@ depreciation
 dioscuri
 deoxygenization
 dryopians
-deforceor
+deforceor 1
 depredate
 depredated
 definitiveness
