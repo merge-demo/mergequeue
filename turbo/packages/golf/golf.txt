@@ -3575,7 +3575,7 @@ gausses
 gharnao
 gilbertian
 glossa
-gambolled
+gambolled 1
 goniaster
 grilse
 gnomelike
