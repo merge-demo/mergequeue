@@ -879,7 +879,7 @@ dermotherm
 daguerrean
 dripproof
 dieting
-demency
+demency 1
 disincrustant
 decrescendo
 dandling
