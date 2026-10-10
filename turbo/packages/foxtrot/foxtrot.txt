@@ -1997,7 +1997,7 @@ fillock
 fernticle
 fouty
 functionalize
-frigiferous
+frigiferous 1
 flchette
 flushed
 feminist
