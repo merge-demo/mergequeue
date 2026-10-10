@@ -1898,7 +1898,7 @@ eximiousness
 exacta
 effectively
 encashes
-evanescency
+evanescency 1
 expulsion
 ethnics
 eradicant
