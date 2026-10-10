@@ -4927,7 +4927,7 @@ facetiously
 flatteringly
 fuster
 fergusite
-frenetic
+frenetic 1
 formly
 fchar
 fluidised
