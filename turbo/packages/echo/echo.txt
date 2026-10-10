@@ -9903,7 +9903,7 @@ estimations
 eprosy
 envelopers
 emmensite
-earthnuts
+earthnuts 1
 elaterium
 ephedrin
 executes
