@@ -15523,7 +15523,7 @@ brindlish
 bryndza
 bleaters
 balloonfish
-buckstall
+buckstall 1
 bearskins
 brinehouse
 brineless
