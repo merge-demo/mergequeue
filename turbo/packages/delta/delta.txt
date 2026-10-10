@@ -3232,7 +3232,7 @@ dikast
 dolmenic
 demimondaine
 distrainor
-defendant
+defendant 1
 dir
 decorativeness
 defenestrating
