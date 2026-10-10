@@ -11103,7 +11103,7 @@ capillaries
 coagulose
 chiv
 coppernosed
-chivachee
+chivachee 1
 confirmand
 chivalresque
 caddis
