@@ -10384,7 +10384,7 @@ bailwood
 burgrave
 biosynthesis
 bravado
-buonamano
+buonamano 1
 botong
 breaker
 blanketlike
