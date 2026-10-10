@@ -9741,7 +9741,7 @@ dynamometers
 dcbname
 daypeep
 denaturiser
-dreamingly
+dreamingly 1
 decence
 duct
 discapacitate
