@@ -19130,7 +19130,7 @@ acroataxia
 archregent
 archrogue
 archruler
-apparentness
+apparentness 1
 antimediaevalism
 arachnophagous
 ancha
