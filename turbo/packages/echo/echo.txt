@@ -6441,7 +6441,7 @@ embroideries
 elvira
 ensorceled
 encephalometer
-earfuls
+earfuls 1
 encheck
 environments
 exercisable
