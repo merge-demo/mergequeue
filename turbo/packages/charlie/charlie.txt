@@ -30440,7 +30440,7 @@ chiasmal
 crimpled
 csp
 csw
-ct
+ct 1
 catharized
 crow
 ctenidial
