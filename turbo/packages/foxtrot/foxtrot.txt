@@ -6443,7 +6443,7 @@ flatcap
 fairs
 finery
 flapjack
-floretty
+floretty 1
 fisherboat
 feltman
 fanflower
