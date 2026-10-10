@@ -11565,7 +11565,7 @@ fetting
 fusiform
 fusil
 fowage
-fingerspin
+fingerspin 1
 feedback
 fain
 friskful
