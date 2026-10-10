@@ -5881,7 +5881,7 @@ ewest
 extrazodiacal
 exacerbescence
 epidendral
-exsiccate
+exsiccate 1
 engrossedly
 estoppage
 engrosser
