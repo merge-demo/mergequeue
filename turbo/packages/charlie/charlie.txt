@@ -31326,7 +31326,7 @@ curers
 clubber
 cures
 cerebellipetal
-cnidoscolus
+cnidoscolus 1
 compotation
 curets
 callisthenics
