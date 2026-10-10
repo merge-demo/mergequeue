@@ -5149,7 +5149,7 @@ bazookas
 backhatch
 beroidae
 befoulment
-biacuminate
+biacuminate 1
 bejazz
 befraught
 befreight
