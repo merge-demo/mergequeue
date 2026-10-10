@@ -2325,7 +2325,7 @@ denizens
 didna
 disseizin
 diabrotica
-determinists
+determinists 1
 decke
 diethylstilbestrol
 demidolmen
