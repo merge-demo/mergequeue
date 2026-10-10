@@ -4903,7 +4903,7 @@ diminuendo
 demonologer
 damasse
 demonology
-demonologically
+demonologically 1
 disluster
 densitometers
 demonomist
