@@ -36,7 +36,7 @@ goatroot
 geoselenic
 globose
 gouty
-goodlike
+goodlike 1
 gabioned
 glutamate
 gmelina
