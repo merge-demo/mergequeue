@@ -8346,7 +8346,7 @@ disvouch
 decalobate
 dromed
 decigrams
-doricize
+doricize 1
 dialycarpous
 dialin
 dialiness
