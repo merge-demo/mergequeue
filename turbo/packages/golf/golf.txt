@@ -5132,7 +5132,7 @@ gaumed
 grumbly
 garance
 glomera
-goblinesque
+goblinesque 1
 gutturine
 gentlehearted
 grander
