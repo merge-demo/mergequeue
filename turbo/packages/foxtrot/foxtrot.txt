@@ -11739,7 +11739,7 @@ florimanist
 fluvioglacial
 forbidden
 finitely
-flinging
+flinging 1
 flanking
 followings
 frouzier
