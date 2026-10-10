@@ -1338,7 +1338,7 @@ basellaceous
 balatron
 benzaldiphenyl
 blatchang
-boser
+boser 1
 bermudian
 bernoullian
 bingy
