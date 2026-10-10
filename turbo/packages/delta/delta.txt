@@ -18223,7 +18223,7 @@ diamagnetometer
 detonatability
 deadlocks
 dermatorrhoea
-decurrent
+decurrent 1
 dunderfunk
 debbies
 desmidiaceous
