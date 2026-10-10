@@ -20755,7 +20755,7 @@ ascents
 artifex
 activates
 aerobiology
-artificial
+artificial 1
 addiction
 alives
 adverted
