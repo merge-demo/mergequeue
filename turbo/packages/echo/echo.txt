@@ -11896,7 +11896,7 @@ enhypostatic
 entrepreneurship
 epiphytes
 emissivity
-emends
+emends 1
 eightfoil
 engore
 euploeinae
