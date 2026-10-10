@@ -10047,7 +10047,7 @@ faddish
 fait
 foreappointment
 featherhead
-flabbiest
+flabbiest 1
 feloniously
 familistical
 fascinated
