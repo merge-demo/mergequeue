@@ -6287,7 +6287,7 @@ fluigram
 filestatus
 forspoke
 frankincensed
-forsakenly
+forsakenly 1
 fenestellidae
 flybelts
 forinsecal 1
