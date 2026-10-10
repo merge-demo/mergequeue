@@ -8487,7 +8487,7 @@ glossopalatinus
 gov
 ginglymoarthrodial
 ginnet
-gleyde
+gleyde 1
 gilders
 grivets
 glaze
