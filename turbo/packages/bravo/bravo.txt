@@ -1424,7 +1424,7 @@ bewreak
 barmbrack
 baleys
 baleise
-batty
+batty 1
 beslave
 biporose
 bombastically
