@@ -2782,7 +2782,7 @@ decreasingly
 dieresis
 dairymen
 deltoideus
-decreer
+decreer 1
 deordination
 decurrently
 diamondized
