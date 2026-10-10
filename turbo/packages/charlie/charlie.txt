@@ -2177,7 +2177,7 @@ chimneyhead
 campylometer
 cynicist
 coffeecup
-cheery
+cheery 1
 campyloneuron
 cowhide
 cakey
