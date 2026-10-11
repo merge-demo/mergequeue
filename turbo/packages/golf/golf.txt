@@ -8278,7 +8278,7 @@ guardhouses
 gamestress
 goney
 garrigue
-graphotype
+graphotype 1
 grapier
 garrisons
 grainless
