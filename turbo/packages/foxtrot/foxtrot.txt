@@ -5462,7 +5462,7 @@ formulator
 famished
 foresummer
 feridjee
-fanatic
+fanatic 1
 fretsome
 fleeter
 fermentatively
