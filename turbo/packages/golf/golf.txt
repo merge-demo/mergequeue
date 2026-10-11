@@ -3170,7 +3170,7 @@ gaddis
 guariba
 glossiness
 governmentalist
-glottological
+glottological 1
 geotilla
 grigs
 geotropy
