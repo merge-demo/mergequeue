@@ -6658,7 +6658,7 @@ cosheath
 chromule
 cedrat
 conglution
-cedrate
+cedrate 1
 cedrela
 cocamine
 cedrene
