@@ -24182,7 +24182,7 @@ antiritualism
 aldermanries
 abrus
 anquera
-afterlifetime
+afterlifetime 1
 autojigger
 alkyl
 autojuggernaut
