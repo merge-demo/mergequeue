@@ -5826,7 +5826,7 @@ forgrown
 filariid
 floatage
 farmeries
-flung
+flung 1
 fayal
 feverously
 fattening
