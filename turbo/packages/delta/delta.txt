@@ -1604,7 +1604,7 @@ destruct
 dunkirker
 dhyana
 deafly
-deafmuteness
+deafmuteness 1
 disembrace
 digression
 deafness
