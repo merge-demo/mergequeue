@@ -13307,7 +13307,7 @@ expone
 ephoralty
 elinvar
 echinosphaeritidae
-execrator
+execrator 1
 exponency
 educated
 exponentiates
