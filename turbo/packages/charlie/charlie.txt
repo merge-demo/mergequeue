@@ -10981,7 +10981,7 @@ contraposita
 chiropterygian
 chiropterite
 chiros
-chirospasm
+chirospasm 1
 casern
 corrals
 comessation
