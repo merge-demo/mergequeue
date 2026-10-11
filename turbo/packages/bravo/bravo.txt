@@ -7721,7 +7721,7 @@ bathyscaphe
 bravoite
 buxerry
 bhikshu
-bullan
+bullan 1
 barricade
 breakover
 brocard
