@@ -8775,7 +8775,7 @@ bingos
 binh
 bounden
 besets
-bini
+bini 1
 beraking
 beguess
 berakoth
