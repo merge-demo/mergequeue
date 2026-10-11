@@ -10942,7 +10942,7 @@ anhydric
 adenophore
 aquicultural
 availably
-airtight
+airtight 1
 amnions
 assurors
 amnios

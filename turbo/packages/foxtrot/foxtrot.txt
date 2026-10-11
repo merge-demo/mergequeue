@@ -225,7 +225,7 @@ feverroot
 fluorotype
 firelock
 filibranch
-fermenting
+fermenting 1
 facultatively
 fixtures
 faculties
