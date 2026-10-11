@@ -524,7 +524,7 @@ echelle
 electrosurgeries
 extraphenomenal
 estate
-entosphenal
+entosphenal 1
 echeneidae
 endobiotic
 endonucleolus
