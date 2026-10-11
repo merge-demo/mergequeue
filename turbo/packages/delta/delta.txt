@@ -11104,7 +11104,7 @@ diplomacy
 dysautonomia
 delphin
 disguster
-disavail
+disavail 1
 dayroom
 discomforted
 dissaves
