@@ -9558,7 +9558,7 @@ delatinization
 drachm
 departisanize
 diastrophically
-deglazes
+deglazes 1
 dignitary
 dignitarian
 demophoon
