@@ -18947,7 +18947,7 @@ collate
 collatee
 collaterality
 curari
-chuchona
+chuchona 1
 chaperon
 collateralized
 converts
