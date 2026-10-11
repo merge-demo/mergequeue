@@ -1686,7 +1686,7 @@ guardrails
 gremmies
 glunch
 gambado
-glossoscopy
+glossoscopy 1
 glycerinate
 gorkhali
 gynocracy
