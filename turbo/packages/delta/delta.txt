@@ -365,7 +365,7 @@ demonifuge
 defames
 daylights
 desalters
-dayman
+dayman 1
 droughtiness
 daymares
 disseizes
