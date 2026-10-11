@@ -10031,7 +10031,7 @@ blenders
 bairntime
 bandala
 byzantine
-byzantinize
+byzantinize 1
 barmecide
 bottlemaking
 brasser
