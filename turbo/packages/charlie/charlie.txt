@@ -16584,7 +16584,7 @@ caps
 collateralize
 contraparallelogram
 complicities
-clonic
+clonic 1
 clonicity
 cytophaga
 clonicotonic
