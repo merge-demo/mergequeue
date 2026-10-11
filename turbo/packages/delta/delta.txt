@@ -9658,7 +9658,7 @@ disheart
 dieter
 dispersedelement
 desulphurization
-dikaryophasic
+dikaryophasic 1
 dikaryophyte
 demission 1
 dikaryophytic
