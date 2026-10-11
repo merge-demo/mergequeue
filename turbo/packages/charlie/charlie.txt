@@ -31313,7 +31313,7 @@ cottabus
 critchfield
 curdles
 contusions
-curdly
+curdly 1
 curdoo
 conceivably
 cured
