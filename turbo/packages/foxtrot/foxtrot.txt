@@ -5483,7 +5483,7 @@ farkleberry
 fluozirconic
 ferreter
 flora
-funniness
+funniness 1
 frequentness
 forensic
 flensed
