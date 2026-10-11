@@ -9287,7 +9287,7 @@ detruck
 decolorant
 dietitians
 deistic
-dtset
+dtset 1
 diplomat
 dietotherapy
 dietotoxic
