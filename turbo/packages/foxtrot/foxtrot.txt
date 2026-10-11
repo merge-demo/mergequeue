@@ -59,7 +59,7 @@ forebless
 foresight
 friskily
 faster
-fibrolite
+fibrolite 1
 flimflam
 flannelmouth
 fconv
