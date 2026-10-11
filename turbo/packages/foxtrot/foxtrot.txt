@@ -861,7 +861,7 @@ felichthys
 fingermark
 fashioner
 finestill
-freckened
+freckened 1
 freedoot
 forebows
 free
