@@ -1459,7 +1459,7 @@ golet
 grafter
 glissading
 gastrophilus
-gastric
+gastric 1
 gisarme
 greta
 gasolier
