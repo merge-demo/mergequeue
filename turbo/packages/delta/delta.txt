@@ -387,7 +387,7 @@ daimiote
 defension
 deployable
 didunculus
-dimmet
+dimmet 1
 daimons
 ditches
 daedalea
