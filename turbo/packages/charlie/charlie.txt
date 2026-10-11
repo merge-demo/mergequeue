@@ -3302,7 +3302,7 @@ caplins
 coherald
 capmaking
 combatter
-capnoides
+capnoides 1
 clipping
 creaker
 colonizes
