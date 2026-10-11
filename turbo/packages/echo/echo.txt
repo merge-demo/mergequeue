@@ -3377,7 +3377,7 @@ espier
 enteropneustal
 estimator
 equivocally
-exurbanite
+exurbanite 1
 elaphe
 exacters
 eggplants
