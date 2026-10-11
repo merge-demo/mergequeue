@@ -12161,7 +12161,7 @@ disrelate
 disfoliaged
 demobilization
 distich
-descendibility
+descendibility 1
 disherent
 disfortune
 dramatism
