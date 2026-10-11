@@ -8312,7 +8312,7 @@ dyakish
 dg
 dialcohol
 diffugient
-dialect
+dialect 1
 doomsman
 decolourized
 demoded
