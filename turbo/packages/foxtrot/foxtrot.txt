@@ -423,7 +423,7 @@ freeboard
 frows
 factful
 foredesk
-fusetron
+fusetron 1
 friendliwise
 festive
 flints
