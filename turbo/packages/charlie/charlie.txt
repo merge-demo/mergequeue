@@ -8645,7 +8645,7 @@ chantership
 chanteur
 chanteuse
 cisrhenane
-chanticleer
+chanticleer 1
 chanticleers
 chantier
 curiousness
