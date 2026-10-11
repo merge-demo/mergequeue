@@ -4371,7 +4371,7 @@ foreacquaint
 foreconceive
 forb
 furosemide
-focuser
+focuser 1
 forfeitable
 formicarium
 frate
