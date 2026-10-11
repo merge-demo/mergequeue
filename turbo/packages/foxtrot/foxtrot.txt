@@ -5670,7 +5670,7 @@ floating
 fibrine
 freckles
 funeration
-finite
+finite 1
 friended
 fuzz
 fusariose
