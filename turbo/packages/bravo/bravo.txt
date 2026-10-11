@@ -5589,7 +5589,7 @@ bulletheaded
 battlement
 blepharal
 bewigs
-barbitone
+barbitone 1
 businessmen
 byelaws
 bedeen
