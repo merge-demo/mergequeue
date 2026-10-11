@@ -10062,7 +10062,7 @@ apriority
 ambital
 anisole
 arteriococcygeal
-acondylous
+acondylous 1
 analysability
 ambition
 acorned
