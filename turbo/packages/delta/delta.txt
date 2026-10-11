@@ -6802,7 +6802,7 @@ diaconate
 desize
 decompositional
 desklike
-diphrelatic
+diphrelatic 1
 dunks
 deskman
 desks
