@@ -16939,7 +16939,7 @@ disvalued
 denaturize
 doorways
 drearihead
-depositories
+depositories 1
 diphase
 dartles
 duledge
