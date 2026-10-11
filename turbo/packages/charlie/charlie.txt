@@ -14381,7 +14381,7 @@ circumvolution
 curdler
 circumvolve
 circumvolved
-circulatable
+circulatable 1
 circumzenithal
 climb
 crosses
