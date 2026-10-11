@@ -923,7 +923,7 @@ glycaemia
 grumousness
 glucosemia
 galleylike
-gawkishness
+gawkishness 1
 gatewise
 guelphism
 greedy
