@@ -8886,7 +8886,7 @@ enteron
 erewhiles
 ergane
 ethnohistorically
-evanishing
+evanishing 1
 elfdom
 ergatocrat
 epergnes
