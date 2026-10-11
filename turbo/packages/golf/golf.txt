@@ -10870,7 +10870,7 @@ graduation
 guaranteer
 gastrulation
 goggan
-goaltending
+goaltending 1
 graperoot
 geniculated
 gouache
