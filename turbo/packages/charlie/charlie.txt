@@ -30181,7 +30181,7 @@ cruciferae
 crucify
 crucificial
 crucifies
-compressor
+compressor 1
 compursion
 cogue
 carbonising
