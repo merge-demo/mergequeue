@@ -11700,7 +11700,7 @@ chondrioma
 churlhood
 chondriomere
 chondriosphere
-connaturally
+connaturally 1
 chondrites
 chondritic
 chondroalbuminoid
