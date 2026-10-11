@@ -6531,7 +6531,7 @@ becolor
 berated
 bushful
 brahmsian
-berates
+berates 1
 boot
 blastospheric 1
 berattle
