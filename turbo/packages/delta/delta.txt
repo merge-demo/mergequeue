@@ -12326,7 +12326,7 @@ discharged
 decolorimeter
 drias
 disharmonising
-deflexion
+deflexion 1
 demasculinized
 derrick
 dwarfishly
