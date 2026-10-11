@@ -1178,7 +1178,7 @@ genoms
 gaslights
 gaon
 glaucionetta
-gartered
+gartered 1
 glues
 gynaecomasty
 gaped
