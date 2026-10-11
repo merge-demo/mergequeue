@@ -19688,7 +19688,7 @@ aleyrodid
 albolite
 attercrop
 apl
-aristae
+aristae 1
 affirmatively
 aerobacteriological
 alfarga
