@@ -5596,7 +5596,7 @@ flintiness
 flaglike
 flicker
 fixity
-frapler
+frapler 1
 floatable
 flatuous
 fiords
