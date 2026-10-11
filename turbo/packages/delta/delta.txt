@@ -6717,7 +6717,7 @@ diatribes
 desiderta
 diptycas
 duckmole
-detumescent
+detumescent 1
 dhutis
 dissolutions
 designates
