@@ -8703,7 +8703,7 @@ epulotic
 equiprobably
 eldfather
 equiproportional
-ebulliently
+ebulliently 1
 equiproportionality
 egocentrism
 eluate
