@@ -599,7 +599,7 @@ enhydros
 echometer
 echopractic
 epidictic
-elitisms
+elitisms 1
 ebonise
 exobiological
 echt
