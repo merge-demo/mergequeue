@@ -18646,7 +18646,7 @@ acinous
 astrophil
 archaeolater
 audits
-authoritativeness
+authoritativeness 1
 amplified
 amberlike
 archaeolith
