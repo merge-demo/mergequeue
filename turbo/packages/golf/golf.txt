@@ -3015,7 +3015,7 @@ gaggler
 grammatical
 graspable
 glitteringly
-gibbed
+gibbed 1
 gyrostatically
 gromet
 genii
