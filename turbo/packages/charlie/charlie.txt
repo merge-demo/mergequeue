@@ -17325,7 +17325,7 @@ coarrangement
 comptonite
 constrains
 chukars
-cadis
+cadis 1
 coarsely
 cranched
 coarsened
