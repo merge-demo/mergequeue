@@ -4443,7 +4443,7 @@ abductores
 ap
 adumbrating
 adumbrations
-asthenias
+asthenias 1
 agrypnode
 angild
 adumbrative
