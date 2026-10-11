@@ -9988,7 +9988,7 @@ disconnectiveness
 dimorph
 dimorphism
 dukker
-dissatisfactorily
+dissatisfactorily 1
 dally
 desirous
 disparted
