@@ -12923,7 +12923,7 @@ equispaced
 epipsychidion
 egotistical
 evenmindedness
-east
+east 1
 electrolysation
 enhaunt
 eulogiae
