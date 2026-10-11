@@ -5751,7 +5751,7 @@ enigmatization
 engystomatidae
 enatic
 etherol
-extinguish
+extinguish 1
 eke
 ephorus
 enticers
