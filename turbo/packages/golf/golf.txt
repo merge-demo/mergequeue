@@ -3257,7 +3257,7 @@ gustatory
 giddiest
 grades
 grayback
-genuflect
+genuflect 1
 gayatri
 grimes
 gabarit
