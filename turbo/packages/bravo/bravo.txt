@@ -16376,7 +16376,7 @@ baned
 brujos
 beglerbeglik
 broadways
-biter
+biter 1
 beachmaster
 balandra
 brulee
