@@ -4718,7 +4718,7 @@ glucosuria
 grudgingly
 genista
 galeae
-glucic
+glucic 1
 gowland
 gite
 gonarthritis
