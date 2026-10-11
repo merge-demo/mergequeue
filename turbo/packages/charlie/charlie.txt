@@ -18485,7 +18485,7 @@ cohenite
 cheve
 cronk
 curr
-coherence
+coherence 1
 cataractal
 coherer
 cumberworld
