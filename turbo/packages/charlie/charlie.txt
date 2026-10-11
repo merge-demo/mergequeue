@@ -3031,7 +3031,7 @@ cardsharps
 calabooses
 crystallographic
 cantoris
-cantors
+cantors 1
 cerebrational
 centauri
 confronts
