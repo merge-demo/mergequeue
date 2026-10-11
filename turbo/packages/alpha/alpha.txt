@@ -5902,7 +5902,7 @@ antidicomarianite
 acrogenous
 agglomerate
 anychia
-amblyoscope
+amblyoscope 1
 agglomerates
 agglomeration
 agglomerative
