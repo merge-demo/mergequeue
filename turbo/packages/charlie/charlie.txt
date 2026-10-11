@@ -3689,7 +3689,7 @@ cognates
 carapacic
 carapax
 climacterial
-coachable
+coachable 1
 carbonadoes
 carapidae
 cineastes
