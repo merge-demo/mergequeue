@@ -19686,7 +19686,7 @@ clefts
 comatiks
 comatosely
 countercharged
-comatoseness
+comatoseness 1
 comatosity
 comatula
 combaron
