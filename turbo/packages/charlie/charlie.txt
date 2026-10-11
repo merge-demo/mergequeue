@@ -16819,7 +16819,7 @@ comfortroot
 clowders
 clower
 clownade
-clownery
+clownery 1
 capitative
 clowneries
 clownheal
