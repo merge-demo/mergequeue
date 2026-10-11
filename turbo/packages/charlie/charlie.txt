@@ -14056,7 +14056,7 @@ chloritoid
 cleruchial
 circassic
 capivi
-corpuscle
+corpuscle 1
 circe
 circean
 circensian
