@@ -2807,7 +2807,7 @@ gypseian
 geraniales
 groundedness
 gentlemouthed
-glace
+glace 1
 gentler
 gutnish
 gilgulim
