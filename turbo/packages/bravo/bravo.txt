@@ -2268,7 +2268,7 @@ bassoons
 barbarise
 benzazimide
 bragless
-barbarities
+barbarities 1
 barbarization
 boucle
 begoggled
