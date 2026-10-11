@@ -3413,7 +3413,7 @@ campa
 capriccioso
 carers
 convokes
-caprices
+caprices 1
 capricious
 cajole
 capricornid
