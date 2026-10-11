@@ -18655,7 +18655,7 @@ adding
 adiathermal
 artemisic
 adoral
-archaeologic
+archaeologic 1
 amylases
 archaeological
 anilinophile
