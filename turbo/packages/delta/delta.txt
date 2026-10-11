@@ -5515,7 +5515,7 @@ drama
 dematiaceous
 denotement
 dynatron
-directionality
+directionality 1
 drought
 dyvour
 disilicate
