@@ -10426,7 +10426,7 @@ endothelium
 etiolated
 etiology
 europeanism
-epigeic
+epigeic 1
 enlacing
 etiologist
 entocoelic
