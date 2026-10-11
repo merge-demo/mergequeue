@@ -12740,7 +12740,7 @@ droughtier
 dislocatory
 drivecap
 drainageway
-detroit
+detroit 1
 dupondii
 dakoits
 domesticize
