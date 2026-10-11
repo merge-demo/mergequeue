@@ -24316,7 +24316,7 @@ autophon
 aftertaste
 alleluias
 althaein
-ablepsy
+ablepsy 1
 autophotoelectric
 autoincrement
 afterworking
