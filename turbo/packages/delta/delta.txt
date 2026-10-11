@@ -731,7 +731,7 @@ dictagraph
 dodging
 dander
 dandy
-dandiacally
+dandiacally 1
 decaffeinates
 dacryosolenitis
 dice
