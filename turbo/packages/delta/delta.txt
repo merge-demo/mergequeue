@@ -11641,7 +11641,7 @@ diagramed
 discountable
 discountenances
 distastes
-dendrolite
+dendrolite 1
 drunkometer
 daishiki
 docimasy
