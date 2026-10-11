@@ -2227,7 +2227,7 @@ fondlesome 1
 fluorinates
 foals
 freon
-feminineness
+feminineness 1
 feudee
 freshmanhood
 fiscus
