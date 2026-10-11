@@ -10597,7 +10597,7 @@ foiling
 foilsman
 filaceous
 fringillaceous
-fusht
+fusht 1
 furtive
 famular
 finched
