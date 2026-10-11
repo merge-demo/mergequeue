@@ -9766,7 +9766,7 @@ bistres
 billions
 boeotarch
 brights
-borg
+borg 1
 bewitching
 barleymow
 beja
