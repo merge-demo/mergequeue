@@ -786,7 +786,7 @@ goldfinch
 galliformes
 ginneries
 goose
-gies
+gies 1
 gracefullest
 gandergoose
 girllikeness
