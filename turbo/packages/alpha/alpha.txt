@@ -5277,7 +5277,7 @@ antagonizer
 attackable
 anapterygotous
 alingual
-anticlinal
+anticlinal 1
 anapophysial
 ammonifier
 affine
