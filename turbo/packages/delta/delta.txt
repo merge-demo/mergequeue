@@ -8160,7 +8160,7 @@ drapeability
 druidism
 didodecahedral
 digitalism
-demulcent
+demulcent 1
 desertful
 disconvenient
 dedentition

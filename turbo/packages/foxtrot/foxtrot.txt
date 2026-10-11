@@ -11084,7 +11084,7 @@ footrace
 flew
 falconet
 flangeless
-foreknowableness
+foreknowableness 1
 functionation
 fane
 factfinder
