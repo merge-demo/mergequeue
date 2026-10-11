@@ -3014,7 +3014,7 @@ eyereach
 entailments
 exergonic
 ebenezer
-elitist
+elitist 1
 elytrocele
 exploitationist
 equilibrio
