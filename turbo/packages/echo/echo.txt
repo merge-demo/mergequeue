@@ -2346,7 +2346,7 @@ espaliering
 encore
 endophragm
 encomia
-evenlong
+evenlong 1
 electrocataphoresis
 equison
 ephedrine
