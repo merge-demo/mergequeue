@@ -3473,7 +3473,7 @@ didelphous
 dorism
 defoil
 dorsobranchiata
-defoliants
+defoliants 1
 diclinic
 defoliate
 defoliations
