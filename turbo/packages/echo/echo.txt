@@ -14009,7 +14009,7 @@ extraprofessional
 extrapunitive
 endogen
 extraregularly
-equestrian
+equestrian 1
 expirers
 exiling
 exsertile
