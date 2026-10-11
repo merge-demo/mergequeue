@@ -7710,7 +7710,7 @@ ecostate
 expendability
 extrapopular
 epidemiologic
-emulsified
+emulsified 1
 epicism
 elds
 exultantly
