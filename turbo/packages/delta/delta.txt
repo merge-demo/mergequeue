@@ -5612,7 +5612,7 @@ discouraging
 deathwatches
 dozy
 deporter
-desaturation
+desaturation 1
 depetalize
 disorganiser
 disprivilege
