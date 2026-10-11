@@ -5074,7 +5074,7 @@ dendraxon
 decolorizer
 delightsome
 dagged
-dendriform
+dendriform 1
 dialer
 dendritical
 deal
