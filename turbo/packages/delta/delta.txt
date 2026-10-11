@@ -13720,7 +13720,7 @@ despoiling
 diphosgene
 disturbation
 discoids
-defends
+defends 1
 doorplate
 decrease
 drinkables
