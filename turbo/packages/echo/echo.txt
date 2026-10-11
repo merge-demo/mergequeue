@@ -11656,7 +11656,7 @@ elasmobranch
 electromechanics
 eriophyid
 ethnical
-exaestuate
+exaestuate 1
 eyeball
 erept
 epulones
