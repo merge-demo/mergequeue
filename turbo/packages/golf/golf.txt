@@ -8370,7 +8370,7 @@ gulfing
 geoblast
 grignet
 guru
-glycoluric
+glycoluric 1
 grandstander
 glides
 glutael
