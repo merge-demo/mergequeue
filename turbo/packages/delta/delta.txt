@@ -11340,7 +11340,7 @@ disembargoing
 decays
 disciform
 diplopods
-discigerous
+discigerous 1
 discinct
 discing
 drisk
