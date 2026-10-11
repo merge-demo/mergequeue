@@ -7881,7 +7881,7 @@ conned
 cetaceans
 calpolli
 clericate
-ceraunite
+ceraunite 1
 collieshangie
 cetane
 cetanes
