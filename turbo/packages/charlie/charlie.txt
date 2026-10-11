@@ -28170,7 +28170,7 @@ craniopathic
 codefendant
 code
 craniorhachischisis
-clamb
+clamb 1
 century
 countercheck
 cranioschisis
