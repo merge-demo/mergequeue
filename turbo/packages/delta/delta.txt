@@ -12951,7 +12951,7 @@ delusionist
 disfavourer
 drang
 disorderer
-dormantly
+dormantly 1
 daughterkin
 disacceptance
 dactylitis
