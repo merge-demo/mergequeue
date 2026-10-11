@@ -1860,7 +1860,7 @@ firefly
 farcicality
 funambulate
 foreign
-febricant
+febricant 1
 frilly
 frictions
 fore
