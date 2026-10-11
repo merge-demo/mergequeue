@@ -775,7 +775,7 @@ archenteric
 acratia
 abreed
 asyle
-advanceable
+advanceable 1
 acetate
 autostrada
 abridgable
