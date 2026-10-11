@@ -22706,7 +22706,7 @@ athymia
 apogonidae
 aristocracies
 athymic
-affright
+affright 1
 athing
 athink
 athyria
