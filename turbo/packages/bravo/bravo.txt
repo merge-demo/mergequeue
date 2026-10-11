@@ -2513,7 +2513,7 @@ bedark
 barocco
 brachyoura
 barge
-bergere
+bergere 1
 bult
 bargelike
 beet
