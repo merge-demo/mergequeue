@@ -8565,7 +8565,7 @@ diaphones
 demilitarising
 dexterously
 drys
-deflex
+deflex 1
 diaphony
 diaphysial
 defaitisme
