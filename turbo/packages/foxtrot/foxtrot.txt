@@ -10485,7 +10485,7 @@ fanzine
 finises
 fervencies
 faussebraye
-floggable
+floggable 1
 felsosphaerite
 floe
 freshment
