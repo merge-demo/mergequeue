@@ -11245,7 +11245,7 @@ chlorinated
 chlorinating
 curly
 chlorination
-chlorinator
+chlorinator 1
 chlorines
 chicote
 counterion
