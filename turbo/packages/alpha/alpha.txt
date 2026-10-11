@@ -5527,7 +5527,7 @@ aerolith
 aftergas
 abstractedness
 ablings
-articulatorily
+articulatorily 1
 afterglow
 aftergrief
 aftergrowth
