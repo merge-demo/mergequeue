@@ -9915,7 +9915,7 @@ gonopodpodia
 glioma
 gallop
 galiots
-glamorizing
+glamorizing 1
 groundnut
 grapenuts
 gratulatorily
