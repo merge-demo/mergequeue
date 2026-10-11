@@ -8629,7 +8629,7 @@ forborn
 fytte
 farstepped
 furthering
-frictionproof
+frictionproof 1
 faintest
 frousty
 forgivable
