@@ -605,7 +605,7 @@ glossopalatine
 grandfathership
 grieben
 guineas
-gorgoniacea
+gorgoniacea 1
 gesseron
 graveside
 gloryless
