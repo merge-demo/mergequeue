@@ -8477,7 +8477,7 @@ dapperest
 diaminogen
 downset
 directionize
-dodecyl
+dodecyl 1
 downgrades
 diamondbacked
 debaucher
