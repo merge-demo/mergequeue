@@ -31696,7 +31696,7 @@ cusk
 collodium
 cragsman
 cusparidine
-cuspate
+cuspate 1
 cusped
 cuspid
 cuspidal
