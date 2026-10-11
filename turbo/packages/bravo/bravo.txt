@@ -2553,7 +2553,7 @@ bronchostenosis
 bereaving
 burgus
 barye
-burglarise
+burglarise 1
 bois
 barcolongo
 breadearner
