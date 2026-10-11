@@ -5851,7 +5851,7 @@ desolations
 diachoresis
 domal
 demeaning
-disconcert
+disconcert 1
 deprecative
 deprecator
 dysbarism
