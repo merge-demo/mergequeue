@@ -1800,7 +1800,7 @@ gullah
 gatekeeper
 grizel
 grassy
-glummer
+glummer 1
 glyptology
 gatekeepers
 glos
