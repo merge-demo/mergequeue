@@ -7966,7 +7966,7 @@ dorsibranch
 drawpoint
 dextroglucose
 detainable
-distensive
+distensive 1
 dextrolactic
 despotes
 diphenylthiourea
