@@ -5402,7 +5402,7 @@ desegregating
 disseminated
 deyhouse
 decoction
-delicatesse
+delicatesse 1
 daffodil
 dendra
 decontrol
