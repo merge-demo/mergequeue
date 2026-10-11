@@ -11638,7 +11638,7 @@ discotheque
 discothque
 disengirdle
 diagramed
-discountable
+discountable 1
 discountenances
 distastes
 dendrolite
