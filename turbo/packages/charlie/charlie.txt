@@ -17362,7 +17362,7 @@ coastal
 coastally
 cohabitant
 coastguardman
-cheapskates
+cheapskates 1
 coastguardsmen
 cacheted
 cruder
