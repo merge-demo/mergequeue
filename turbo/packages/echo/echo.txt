@@ -6981,7 +6981,7 @@ effecting
 eneugh
 excisor
 encauma
-entrelac
+entrelac 1
 emetically
 epilogued
 escalops
