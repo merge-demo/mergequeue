@@ -363,7 +363,7 @@ dailamite
 dotiness
 demonifuge
 defames
-daylights
+daylights 1
 desalters
 dayman
 droughtiness
