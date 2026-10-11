@@ -2660,7 +2660,7 @@ acrawl
 amygdalic
 acre
 amount
-afoam
+afoam 1
 aquamarine
 ammochaeta
 acreage
