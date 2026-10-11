@@ -2922,7 +2922,7 @@ geocyclic
 geraldine
 guardiancy
 gneissoid
-gorsy
+gorsy 1
 glideless
 gynaecocracies
 gunfighters
