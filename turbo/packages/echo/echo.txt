@@ -8997,7 +8997,7 @@ electrocardiograph
 elfin
 eristically
 employer
-exophthalmos
+exophthalmos 1
 episodial
 erythema
 engrossing
