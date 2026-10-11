@@ -10219,7 +10219,7 @@ eastlander
 eclair
 emotionalistic
 elzevirian
-elaborates
+elaborates 1
 extruders
 evansite
 epanorthosis
