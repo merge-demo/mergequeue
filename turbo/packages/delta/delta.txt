@@ -14360,7 +14360,7 @@ dhaman
 diurna
 diurnal
 deuterogenic
-diurnally
+diurnally 1
 drug
 dragonize
 diurnule
