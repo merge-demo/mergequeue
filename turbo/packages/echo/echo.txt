@@ -1247,7 +1247,7 @@ epicures
 enjoyable
 enroot
 efficiently
-earthshock
+earthshock 1
 enchair
 ethylidyne
 epigrammatise
