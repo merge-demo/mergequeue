@@ -7918,7 +7918,7 @@ curwhibble
 cetoniinae
 cetorhinid
 chickadee
-cyamoid
+cyamoid 1
 criteriions
 complaintful
 conventionalisation
