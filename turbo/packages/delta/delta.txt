@@ -8546,7 +8546,7 @@ diaphanometric
 dampishness
 discommoning
 dharani
-debateful
+debateful 1
 daimonion
 dewfall
 desiredly
