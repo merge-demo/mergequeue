@@ -7436,7 +7436,7 @@ filicides
 fillemot
 faience
 firefall
-forevalue
+forevalue 1
 firstship
 forcibility
 forcibleness
