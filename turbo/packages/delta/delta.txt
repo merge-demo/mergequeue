@@ -8562,7 +8562,7 @@ druggists
 diaphone
 discontiguous
 diaphones
-demilitarising
+demilitarising 1
 dexterously
 drys
 deflex
