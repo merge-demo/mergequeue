@@ -16510,7 +16510,7 @@ dethroning
 dibblers
 draftiest
 disobeyer
-diakinetic
+diakinetic 1
 dodderer
 dithiol
 distrix
