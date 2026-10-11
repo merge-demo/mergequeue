@@ -14278,7 +14278,7 @@ argilliferous
 aptitudinal
 anterosuperior
 antesternal
-antesuperior
+antesuperior 1
 arboretums
 aviators
 acred
