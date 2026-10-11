@@ -3294,7 +3294,7 @@ frounceless
 finesser
 forevermore
 flasket
-foreconscious
+foreconscious 1
 facewise
 foveae
 ferrohydrocyanic
