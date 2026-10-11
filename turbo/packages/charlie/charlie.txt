@@ -25825,7 +25825,7 @@ chironomy
 calcars
 corrosivity
 colophonate
-corrugant
+corrugant 1
 corrugate
 corrugated
 cataphoric
