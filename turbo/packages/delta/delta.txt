@@ -4998,7 +4998,7 @@ dunne
 dueness
 diversionary
 distinguish
-derk
+derk 1
 demultiplexer
 deicing
 deurbanize
