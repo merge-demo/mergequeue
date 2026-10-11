@@ -10599,7 +10599,7 @@ filaceous
 fringillaceous
 fusht
 furtive
-famular
+famular 1
 finched
 fairfieldite
 fructuate
