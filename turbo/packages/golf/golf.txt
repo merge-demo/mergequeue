@@ -10086,7 +10086,7 @@ grobianism
 glycosidic
 gullage
 gauntest
-graecize
+graecize 1
 gainings
 gymnoglossate
 guavina
