@@ -14193,7 +14193,7 @@ esthetics
 epulation
 endlong
 epicycles
-elong
+elong 1
 extraliminal
 equidistance
 exuscitate
