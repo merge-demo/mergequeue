@@ -2186,7 +2186,7 @@ alguazil
 assessionary
 achondritic
 antifanatic
-abatjours
+abatjours 1
 artificious
 agrostology
 alure
