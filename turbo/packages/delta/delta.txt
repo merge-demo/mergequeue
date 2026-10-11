@@ -5353,7 +5353,7 @@ detains
 diaphoretic
 displaced
 denticle
-dentiferous
+dentiferous 1
 dentifrice
 dentil
 discussional
