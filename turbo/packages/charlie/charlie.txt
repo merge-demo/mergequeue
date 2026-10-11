@@ -22756,7 +22756,7 @@ coinsured
 consanguinean
 caballeros
 consanguineous
-consanguineously
+consanguineously 1
 caulocarpous
 consecrative
 columnarized
