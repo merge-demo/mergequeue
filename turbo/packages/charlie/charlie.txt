@@ -18983,7 +18983,7 @@ culbut
 collect
 collected
 cranberry
-ctenoidean
+ctenoidean 1
 constables
 collectibility
 collectible
