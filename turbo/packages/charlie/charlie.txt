@@ -4288,7 +4288,7 @@ carfare
 carfares
 carfloat
 crenic
-coater
+coater 1
 carfuffle
 capiteaux
 camauros
