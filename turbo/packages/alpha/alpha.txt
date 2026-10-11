@@ -11340,7 +11340,7 @@ amphispermous
 actinocarpous
 amphisporangiate
 amphistoma
-apiose
+apiose 1
 achillean
 asyllabic
 apriori
