@@ -10599,7 +10599,7 @@ gigmanity
 gigging
 garbanzo
 gallbladder
-glossmeter
+glossmeter 1
 gadidae
 geohydrologist
 gourmetism
