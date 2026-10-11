@@ -1572,7 +1572,7 @@ dhanush
 demand
 disposition
 deadlines
-desitive
+desitive 1
 disembody
 decipolar
 duplicia
