@@ -9166,7 +9166,7 @@ arrowplate
 almander
 anthracyl
 aeginetic
-almandines
+almandines 1
 aldime
 agalactous
 antiputrefaction
