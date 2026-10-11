@@ -21161,7 +21161,7 @@ amenableness
 appositeness
 airth
 amniorrhea
-ambiens
+ambiens 1
 affinitative
 arabella
 acquittal
