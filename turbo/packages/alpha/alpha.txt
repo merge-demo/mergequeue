@@ -13552,7 +13552,7 @@ annates
 armada
 alberich
 azeotropism
-amoebida
+amoebida 1
 amputated
 annotative
 amaurotic
