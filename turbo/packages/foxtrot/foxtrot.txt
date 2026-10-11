@@ -5793,7 +5793,7 @@ forestside
 forepromised
 fussiest
 forebear
-fossiliferous
+fossiliferous 1
 fructicultural
 fumeroot
 fallage
