@@ -17115,7 +17115,7 @@ coadjutant
 campement
 covotary
 commonweal
-coemptional
+coemptional 1
 champ
 coadjutor
 coadjutors
