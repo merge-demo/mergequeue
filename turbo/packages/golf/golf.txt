@@ -592,7 +592,7 @@ guilandina
 groundlings
 graters
 gyrinidae
-geocronite
+geocronite 1
 gentlewomanliness
 germanity
 gigue
