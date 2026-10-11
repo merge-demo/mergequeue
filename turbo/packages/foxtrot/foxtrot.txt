@@ -7110,7 +7110,7 @@ fripper
 flaker
 fiddleback
 fornices
-fusel
+fusel 1
 frontager
 fregatae
 footage
