@@ -1661,7 +1661,7 @@ dentimeter
 deaminase
 digitize
 daws
-daw
+daw 1
 dextraural
 distanceless
 deamination
