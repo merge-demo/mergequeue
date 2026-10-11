@@ -10083,7 +10083,7 @@ ethenoid
 ethenol
 eyecups
 eperva
-ebb
+ebb 1
 erythrosin
 endobronchial
 eidouranion
