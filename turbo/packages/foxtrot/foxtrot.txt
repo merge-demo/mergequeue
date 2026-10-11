@@ -9038,7 +9038,7 @@ fix
 fractionalize 1
 foreparents
 fleetwing
-frap
+frap 1
 feruling
 frasco
 foxbane
