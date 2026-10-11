@@ -5807,7 +5807,7 @@ flitters
 frequents
 flankwise
 froggiest
-frivolize
+frivolize 1
 ferfet
 fluoridations
 fritted
