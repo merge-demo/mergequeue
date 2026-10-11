@@ -4535,7 +4535,7 @@ foreigner
 forslake
 flooded
 feazes
-facers
+facers 1
 frustum
 fountainhead
 fructify
