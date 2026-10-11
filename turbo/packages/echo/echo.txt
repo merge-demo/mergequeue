@@ -5377,7 +5377,7 @@ explicators
 esquiline
 empyreum
 eophyte
-encashment
+encashment 1
 eccentrometer
 endothermal
 endothermy
