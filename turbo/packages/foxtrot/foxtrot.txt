@@ -2317,7 +2317,7 @@ fondness
 fellowess
 featherheaded
 feaster
-fixities
+fixities 1
 fixatifs
 frize
 flagitious
