@@ -6237,7 +6237,7 @@ footwears
 flatlet
 fiji
 factotums
-farmerish
+farmerish 1
 felloes
 freewheelers
 filespec
