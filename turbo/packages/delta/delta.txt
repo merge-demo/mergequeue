@@ -5049,7 +5049,7 @@ decaesarize
 diblastula
 densification
 dayal
-drivingly
+drivingly 1
 denaturalised
 denaturalising
 denaturalized
