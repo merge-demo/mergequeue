@@ -10172,7 +10172,7 @@ coggie
 chomping
 collectioner
 complaining
-chewing
+chewing 1
 chews
 ciceronians
 crease
