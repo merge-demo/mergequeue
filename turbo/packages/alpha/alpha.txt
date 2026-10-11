@@ -21362,7 +21362,7 @@ artwork
 adaptometer
 asynchronism
 asynchronisms
-asyndetic
+asyndetic 1
 androphore
 amyloses
 analectic
