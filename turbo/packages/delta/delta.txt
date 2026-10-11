@@ -2756,7 +2756,7 @@ drawrod
 decortization
 dactylorhiza
 dogmatically
-diamber
+diamber 1
 dirige
 dineric
 druthers
