@@ -12665,7 +12665,7 @@ archbeadle
 anisopteran
 advene
 allochroite
-algosis
+algosis 1
 antiopelmous
 aneurisms
 arithmetician
