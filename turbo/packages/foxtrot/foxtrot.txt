@@ -5514,7 +5514,7 @@ fratching
 foraged
 fleshy
 fillet
-ferally
+ferally 1
 fettuccine
 formatters
 fanjets
