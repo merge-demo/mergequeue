@@ -28759,7 +28759,7 @@ crept
 canters
 circaetus
 compendiary
-cavitate
+cavitate 1
 cornutine
 chafer
 crepusculine
