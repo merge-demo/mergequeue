@@ -1038,7 +1038,7 @@ chimpanzee
 chilopoda
 calcanean
 calcaneoastragaloid
-calcaneoplantar
+calcaneoplantar 1
 countersale
 calcaneoscaphoid
 calcaneum
