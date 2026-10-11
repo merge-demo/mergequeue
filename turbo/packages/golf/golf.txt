@@ -1715,7 +1715,7 @@ gaullism
 gastropexy
 gallowsmaker
 gutte
-greaseproof
+greaseproof 1
 guanophore
 garroo
 gorgonacea

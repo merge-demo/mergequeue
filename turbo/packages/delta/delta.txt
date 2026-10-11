@@ -11820,7 +11820,7 @@ dawing
 deuteroprism
 diamines
 discurre
-dioestrus
+dioestrus 1
 dihalo
 dislikable
 deplumed
