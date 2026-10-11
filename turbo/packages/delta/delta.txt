@@ -16784,7 +16784,7 @@ desisted
 decolorate
 demitube
 dyscrasial
-detritivorous
+detritivorous 1
 dichroscopic
 diprimary
 drawbore
