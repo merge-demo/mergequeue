@@ -9659,7 +9659,7 @@ escrows
 espinal
 electrogalvanic
 expressmen
-enters
+enters 1
 eustatic
 ensearcher
 espingole
