@@ -16709,7 +16709,7 @@ ammonic
 attachment
 apetalous
 armisonant
-adamantean
+adamantean 1
 apexed
 aortoclasia
 antichurch
