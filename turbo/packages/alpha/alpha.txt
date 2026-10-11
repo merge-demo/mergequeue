@@ -16181,7 +16181,7 @@ aidable
 aviatorial
 adeps
 acoup
-allometry
+allometry 1
 antiskid
 amorphia
 aloofness
