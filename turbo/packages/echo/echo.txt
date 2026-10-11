@@ -5577,7 +5577,7 @@ ectognatha
 equalization
 epidendrum
 elutions
-enfold
+enfold 1
 exceptionalness
 epicene
 engendrure
