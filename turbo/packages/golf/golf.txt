@@ -10736,7 +10736,7 @@ gassers
 gaddi
 gustard
 guergal
-gustatorial
+gustatorial 1
 groupie
 gustfully
 groundlessly
