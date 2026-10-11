@@ -10872,5 +10872,5 @@ gastrulation
 goggan
 goaltending
 graperoot
-geniculated
+geniculated 1
 gouache
