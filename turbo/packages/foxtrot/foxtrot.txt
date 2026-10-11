@@ -7647,7 +7647,7 @@ floruits
 faeculence
 foreimagination
 flashlike
-foregift
+foregift 1
 forgiveless
 feyness
 foregleam
