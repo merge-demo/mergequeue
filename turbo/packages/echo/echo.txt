@@ -8419,7 +8419,7 @@ electrizer
 evisceration
 egyptianize
 equip
-ephymnium
+ephymnium 1
 enjoyment
 eglogue
 ethicosocial
