@@ -681,7 +681,7 @@ backbitten
 boigid
 bacterized
 barefacedly
-brisk
+brisk 1
 backflow
 bullroarer
 babua
