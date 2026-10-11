@@ -10814,7 +10814,7 @@ glibbery
 geniolatry
 globoseness
 goldtail
-glaring
+glaring 1
 gingellies
 gargety
 ghazis
