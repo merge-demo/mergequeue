@@ -218,7 +218,7 @@ defraud
 discussing
 defection
 dissympathize
-daffiness
+daffiness 1
 daffing
 daffodilly
 drifted
