@@ -2542,7 +2542,7 @@ childproof
 cacqueteuse
 candlenut
 candlepins
-cerevis
+cerevis 1
 candler
 candlerent 1
 concealed
