@@ -16813,7 +16813,7 @@ dominee
 dey
 dicacodyl
 demurely
-decurtate
+decurtate 1
 disallowances
 dissuited
 drawgate
