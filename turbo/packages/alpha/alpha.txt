@@ -12575,7 +12575,7 @@ acquiescer
 attask
 acoustician
 appendicate
-adiapneustia
+adiapneustia 1
 androgonial
 augurers
 anemotaxis
