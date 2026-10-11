@@ -11581,7 +11581,7 @@ defeminize
 discontinuee
 disprepare
 daggletail
-discover
+discover 1
 dieselizing
 dreamlessness
 downweed
