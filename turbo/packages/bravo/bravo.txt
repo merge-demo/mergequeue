@@ -2527,7 +2527,7 @@ borscht
 boccia
 blueblack
 beslash
-buenos
+buenos 1
 bassetite
 bottonhook
 buckler
