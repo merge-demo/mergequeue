@@ -9441,7 +9441,7 @@ foeticide
 fico
 flamens
 fratry
-flippery
+flippery 1
 flexibly
 furnaceman
 fistful
