@@ -18883,7 +18883,7 @@ colossus
 charlatanship
 cestoid
 colistin
-coypou
+coypou 1
 colitic
 colitises
 colyum
