@@ -3389,7 +3389,7 @@ eavedropper
 embark
 epichorial
 embarkations
-euconic
+euconic 1
 epitomize
 eucharistized
 embarkment
