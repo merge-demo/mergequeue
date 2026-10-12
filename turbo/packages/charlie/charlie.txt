@@ -4683,7 +4683,7 @@ carp
 carpalia
 celiocele
 carpals
-chela
+chela 1
 carpathian
 carpellary
 cytinaceous
