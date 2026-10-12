@@ -8216,7 +8216,7 @@ dulcor
 despumation
 diorism
 diadochic
-diadochite
+diadochite 1
 diadochokinesia
 diaene
 diaeretic
