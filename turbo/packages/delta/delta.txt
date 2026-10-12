@@ -17206,7 +17206,7 @@ diaphoresis
 decursive
 dovecote
 depletory
-drive
+drive 1
 diastrophism
 direst
 deermeat
