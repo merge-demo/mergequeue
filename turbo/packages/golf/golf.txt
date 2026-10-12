@@ -8068,7 +8068,7 @@ gypsydoms
 guttulae
 geminiflorous
 gruffness
-gravels
+gravels 1
 gasify
 glenoidal
 granitiform
