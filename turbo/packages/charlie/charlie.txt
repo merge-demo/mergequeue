@@ -18182,7 +18182,7 @@ circumesophagal
 compital
 coptis
 cyanopia
-coessentiality
+coessentiality 1
 centerless
 coessentially
 cervulus
