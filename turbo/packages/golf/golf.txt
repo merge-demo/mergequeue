@@ -5209,7 +5209,7 @@ guiler
 gripsacks
 grana
 groundsheet
-gale
+gale 1
 gleed
 greasiness
 gramophone
