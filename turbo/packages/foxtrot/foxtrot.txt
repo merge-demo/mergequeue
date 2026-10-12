@@ -615,7 +615,7 @@ fossilisation
 forints
 feasted
 fogbank
-fourchette
+fourchette 1
 faddist
 farrago
 flawy
