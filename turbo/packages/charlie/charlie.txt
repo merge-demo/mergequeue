@@ -26496,7 +26496,7 @@ catocalid
 cotripper
 cotrustee
 couther
-cots
+cots 1
 cephalomelus
 cotset
 crub
