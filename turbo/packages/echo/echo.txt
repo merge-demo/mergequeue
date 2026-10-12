@@ -4879,7 +4879,7 @@ electrodialyzer
 englishly
 eggers
 ensured
-entablements
+entablements 1
 excisions
 ef
 encumbrance
