@@ -16904,7 +16904,7 @@ bichromatic
 bathysophic
 buffoonish
 bungle
-baret
+baret 1
 betorn
 baronages
 balneographer
