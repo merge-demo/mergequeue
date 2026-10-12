@@ -5352,7 +5352,7 @@ daraf
 detains
 diaphoretic
 displaced
-denticle 1
+denticle 2
 dentiferous
 dentifrice
 dentil
