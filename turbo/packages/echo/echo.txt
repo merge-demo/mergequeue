@@ -2733,7 +2733,7 @@ etymology
 emetic
 engorge
 eleemosynarily
-egos
+egos 1
 enditing
 erythrocyte
 evangelary
