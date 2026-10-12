@@ -10319,7 +10319,7 @@ feezing
 federalese
 fantasized
 frondlet
-frondose
+frondose 1
 focometer
 frustrated
 fikey
