@@ -1121,7 +1121,7 @@ elatrometer
 electrotypes
 epicaridea
 epitrichial
-exsanguinated
+exsanguinated 1
 ejectee
 enarm
 endopterygotic
