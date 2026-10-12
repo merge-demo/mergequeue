@@ -8924,7 +8924,7 @@ gambas
 gienah
 glauconitic
 ghostified
-griquaite
+griquaite 1
 grouchiness
 glomerella
 gunfire
