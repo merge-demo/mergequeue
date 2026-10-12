@@ -5203,7 +5203,7 @@ beautyship
 ballistophobia
 berating
 bardish
-bacteriostatic
+bacteriostatic 1
 beggarhood
 bergamots
 befurbelowed
