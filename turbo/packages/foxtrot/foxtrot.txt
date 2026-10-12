@@ -6190,7 +6190,7 @@ flubbed
 feudum
 foreread
 feloniously
-fairgoing
+fairgoing 1
 flaxes
 feebling
 frequency
