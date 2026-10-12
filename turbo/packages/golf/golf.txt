@@ -4049,7 +4049,7 @@ grisettes
 gelatines
 gilliflower
 grocery
-guttae
+guttae 1
 gastronome
 glonoine
 ghastlily
