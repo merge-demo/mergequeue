@@ -10446,7 +10446,7 @@ fermatian
 fungitoxic
 fingerhook
 fribblers
-ferruling
+ferruling 1
 farrant
 frontiersmen
 fanterie
