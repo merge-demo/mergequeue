@@ -2982,7 +2982,7 @@ gentlefolk
 gambusia
 guatambu
 gastornis
-glitnir
+glitnir 1
 gibbering
 goldenknop
 gaps
