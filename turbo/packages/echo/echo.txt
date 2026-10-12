@@ -4914,7 +4914,7 @@ endbrains
 epipodite
 emusify
 euhemerize
-entropy
+entropy 1
 exencephalic
 ectocoelic
 eyelight
