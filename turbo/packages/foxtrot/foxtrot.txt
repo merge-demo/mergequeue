@@ -4767,7 +4767,7 @@ footlike
 fulmination
 follies
 fortress
-fornix
+fornix 1
 forereach
 fieldstrip
 fingal
