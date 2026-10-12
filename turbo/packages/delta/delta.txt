@@ -10764,7 +10764,7 @@ differencing
 diver
 disadvantageous
 diquat
-decolorization
+decolorization 1
 deoxidized
 dirdums
 demirelief
