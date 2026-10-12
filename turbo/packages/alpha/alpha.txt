@@ -4228,7 +4228,7 @@ aphididae
 awakenings
 autogenous
 appellation
-adoration
+adoration 1
 adoratory
 agatelike
 adorer
