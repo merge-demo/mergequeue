@@ -1339,7 +1339,7 @@ balatron
 benzaldiphenyl
 blatchang
 boser
-bermudian
+bermudian 1
 bernoullian
 bingy
 burelage
