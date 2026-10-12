@@ -6997,7 +6997,7 @@ freemason
 forestate
 fondly
 fluorspar
-flauntingly
+flauntingly 1
 fatagaga
 flop
 flummeries
