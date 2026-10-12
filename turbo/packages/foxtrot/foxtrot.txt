@@ -11712,7 +11712,7 @@ ferruled
 foredesign
 friars
 fosslology
-flighty
+flighty 1
 fawnskin
 folkland
 fados
