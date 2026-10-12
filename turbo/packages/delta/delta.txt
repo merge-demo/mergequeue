@@ -535,7 +535,7 @@ detort
 damageous
 deaccessions
 dovyalis
-deliber
+deliber 1
 dao
 damalic
 dextrorotation
