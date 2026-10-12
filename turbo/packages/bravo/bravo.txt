@@ -10245,7 +10245,7 @@ blacksmithing
 beadwork
 biochemy
 beastdom
-boyang
+boyang 1
 biflorous
 beehead
 beforehandedness
