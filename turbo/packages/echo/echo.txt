@@ -366,7 +366,7 @@ eyestone
 erethistic
 eeler
 enthroned
-eavesdropping
+eavesdropping 1
 equimolar
 enkindler
 eightvos
