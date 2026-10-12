@@ -9647,7 +9647,7 @@ bushily
 bisymmetrical
 borate
 bisync
-boolies
+boolies 1
 bicornute
 bisischiatic
 bauera
