@@ -2343,7 +2343,7 @@ explosive
 electromobilism
 excrete
 espaliering
-encore
+encore 1
 endophragm
 encomia
 evenlong
