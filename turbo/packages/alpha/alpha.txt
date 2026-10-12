@@ -17651,7 +17651,7 @@ appertained
 acrose
 ahey
 appertainment
-auditory
+auditory 1
 apolaustic
 antiagglutination
 antediluvial
