@@ -4141,7 +4141,7 @@ futuramic
 falsehoods
 fornenst
 faff
-fontanel
+fontanel 1
 fersmite
 frillings
 fratriage
