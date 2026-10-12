@@ -5936,7 +5936,7 @@ besticking
 bedroom
 bufagin
 bangalay
-bude
+bude 1
 benumbing
 battiness
 backrest
