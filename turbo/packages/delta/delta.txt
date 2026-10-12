@@ -17723,7 +17723,7 @@ disinvestiture
 dubber
 drabnesses
 dubbin
-disused
+disused 1
 demipauldron
 discriminable
 demonologic
