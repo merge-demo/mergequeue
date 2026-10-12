@@ -14529,7 +14529,7 @@ diamond
 depicters
 duodenary
 detribalization
-divisa
+divisa 1
 demode
 dimethylketol
 directrixes
