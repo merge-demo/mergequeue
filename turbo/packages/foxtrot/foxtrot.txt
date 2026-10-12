@@ -9752,7 +9752,7 @@ foolhardiest
 fatigability
 fishworm
 farfel
-flenches
+flenches 1
 fluentness
 faerie
 foresettled
