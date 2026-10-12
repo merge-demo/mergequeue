@@ -2192,7 +2192,7 @@ granth
 grotty
 genarchship
 giraffoid
-geoidal
+geoidal 1
 garmented
 gestational
 gooseskin
