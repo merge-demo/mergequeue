@@ -16492,7 +16492,7 @@ borneo
 byrling
 brashier
 brushwood
-butteriness
+butteriness 1
 brushwork
 burdock
 boches
