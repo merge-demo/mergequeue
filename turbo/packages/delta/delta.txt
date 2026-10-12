@@ -17404,7 +17404,7 @@ dividual
 destool
 droppage
 diamagnetically
-diffraction
+diffraction 1
 didascaly
 direction
 disjoinable
