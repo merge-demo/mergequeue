@@ -7574,7 +7574,7 @@ cerebrize
 cerebrocardiac
 chairman
 cerebroganglionic
-cerebroid
+cerebroid 1
 cirrhosed
 chasmic
 cerebromeningitis
