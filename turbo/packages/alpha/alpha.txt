@@ -16944,7 +16944,7 @@ apiol
 alliterates
 almswomen
 astite
-abnormity
+abnormity 1
 apair
 amir
 anchory
