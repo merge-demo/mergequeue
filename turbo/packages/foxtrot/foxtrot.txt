@@ -8577,7 +8577,7 @@ fricative
 flexor
 flyover
 fanegada
-forspent
+forspent 1
 flocculus
 farfara
 floodmark
