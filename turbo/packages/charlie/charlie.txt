@@ -1269,7 +1269,7 @@ calenders
 calendric
 calendrical
 calendula
-calendulas
+calendulas 1
 calendulin
 chivalries
 coolabah
