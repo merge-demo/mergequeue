@@ -5294,7 +5294,7 @@ begirt
 beglerbeglic
 bakalai
 burka
-brahmaic
+brahmaic 1
 biannulate
 becurry
 blueheads
