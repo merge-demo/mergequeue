@@ -2194,7 +2194,7 @@ flashet
 feltmaker
 fiducia
 fats
-fratercula
+fratercula 1
 flabellifoliate
 farmhouse
 felts
