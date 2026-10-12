@@ -612,7 +612,7 @@ fellon
 foreknows
 forpet
 fossilisation
-forints
+forints 1
 feasted
 fogbank
 fourchette
