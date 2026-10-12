@@ -3137,7 +3137,7 @@ fakir
 funduline
 forbearing
 fibromyotomy
-fatly
+fatly 1
 flinching
 feuding
 fibromuscular
