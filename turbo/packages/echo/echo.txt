@@ -13180,7 +13180,7 @@ endostracal
 eyrar
 expiration
 exponentiation
-epaxial
+epaxial 1
 exotica
 emmantle
 expirations
