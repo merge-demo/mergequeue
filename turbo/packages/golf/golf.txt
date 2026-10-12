@@ -5749,7 +5749,7 @@ goldsmithery
 glockenspiel
 gallopade
 gaultherase
-gobos
+gobos 1
 grisoutine
 glossolysis
 goldweed
