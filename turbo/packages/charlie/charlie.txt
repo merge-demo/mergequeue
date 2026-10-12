@@ -29686,7 +29686,7 @@ croiik
 croyl 1
 chayroot
 croisade
-croise
+croise 1
 croisee
 coetanean
 croises
