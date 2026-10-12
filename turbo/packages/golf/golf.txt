@@ -2683,7 +2683,7 @@ geniculation
 granule
 gemarist
 gigantocyte
-genioglossal
+genioglossal 1
 ganodont
 goodeniaceae
 governorships
