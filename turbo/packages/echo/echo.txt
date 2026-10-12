@@ -3984,7 +3984,7 @@ egalite
 extramodal
 empatron
 epithecicia
-extemporizes
+extemporizes 1
 etrurian
 empyema
 eupatorin
