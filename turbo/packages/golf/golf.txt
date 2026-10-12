@@ -4568,7 +4568,7 @@ gracefully
 girellidae
 geometricism
 gurts
-greenhorns
+greenhorns 1
 gluelike
 gutturalized
 gilim
