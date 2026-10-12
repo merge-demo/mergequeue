@@ -3832,7 +3832,7 @@ gradienter
 glamorous
 genealogies
 geodaesia
-gorger
+gorger 1
 girosol
 glarier
 gonapophysal
