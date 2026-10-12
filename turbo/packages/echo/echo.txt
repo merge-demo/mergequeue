@@ -12108,7 +12108,7 @@ excruciating
 enascent
 eradicator
 entwisting
-excud
+excud 1
 ennoblment
 erotizing
 excurrent
