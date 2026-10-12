@@ -1278,7 +1278,7 @@ acetocinnamene
 acatalepsy
 acatalepsia
 acataleptic
-autocorrelate
+autocorrelate 1
 autosomally
 advectitious
 affusion
