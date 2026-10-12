@@ -29777,7 +29777,7 @@ crool
 counterambush
 croon
 crooned
-cankeredness
+cankeredness 1
 creakiness
 cullible
 citable
