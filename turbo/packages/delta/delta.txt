@@ -2479,7 +2479,7 @@ dixy
 decisively
 darkened
 decitizenize
-decivilize
+decivilize 1
 dateline
 deckel
 deporte
