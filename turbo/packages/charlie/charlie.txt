@@ -2308,7 +2308,7 @@ cobs
 cithrens
 carthaginian
 canaler
-chimeres
+chimeres 1
 caprone
 chylocyst
 cipher
