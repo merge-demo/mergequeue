@@ -8426,7 +8426,7 @@ gawked
 grumphy
 greenbacker
 gauntree
-gratifiable
+gratifiable 1
 guaco
 gelsemium
 glandiferous
