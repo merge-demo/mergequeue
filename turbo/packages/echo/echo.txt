@@ -6611,7 +6611,7 @@ elephantlike
 enzymologies
 echelons
 enterohydrocele
-elevation
+elevation 1
 embryoctonic
 eched
 eyeing
