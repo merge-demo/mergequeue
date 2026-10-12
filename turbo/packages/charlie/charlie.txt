@@ -26452,7 +26452,7 @@ cotype
 calycophoran
 crackpot
 cotised
-calloused
+calloused 1
 cotising
 cajuns
 candroys
