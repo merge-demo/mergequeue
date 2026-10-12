@@ -2262,7 +2262,7 @@ decemcostate
 dyewoods
 decemfoliate
 decempedal
-dousers
+dousers 1
 dominiums
 decemplex
 dissocialize
