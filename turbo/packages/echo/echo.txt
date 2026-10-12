@@ -6663,7 +6663,7 @@ enchelycephali
 enterosepsis
 enterotome
 encharged
-enright
+enright 1
 enterotoxemia
 encarnadine
 enterotoxication
