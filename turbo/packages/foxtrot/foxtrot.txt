@@ -2110,7 +2110,7 @@ fleshen
 frument
 fayence
 fermentate
-foundry
+foundry 1
 fluming
 falcate
 frogmen
