@@ -12202,7 +12202,7 @@ excur
 ensigns
 epiphanizing
 elevener
-erodable
+erodable 1
 edriasteroidea
 ergotine
 encourage
