@@ -15719,7 +15719,7 @@ dakota
 dendrochronologist
 denunciation
 dismarch
-deescalation
+deescalation 1
 disintegrates
 dewools
 disbuds
