@@ -5016,7 +5016,7 @@ filet
 fettering
 fluctuable
 faceable
-frowsier
+frowsier 1
 feathers
 faineantise
 falsificate
