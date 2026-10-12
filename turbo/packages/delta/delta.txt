@@ -18521,7 +18521,7 @@ diocesans
 decolonisation
 disownable
 diaphanous
-distortional
+distortional 1
 demisavage
 dissilition
 durbars
