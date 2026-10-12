@@ -10065,7 +10065,7 @@ flammability
 fellowed
 friskin
 frisking
-friskingly
+friskingly 1
 frisks
 frondiform
 feudatary
