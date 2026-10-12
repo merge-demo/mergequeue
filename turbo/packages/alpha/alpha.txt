@@ -16815,7 +16815,7 @@ alle
 anginal
 antipascha
 antifrictional
-abscoulomb
+abscoulomb 1
 algarsyf
 aphorise
 aphorismer
