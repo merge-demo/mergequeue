@@ -13511,7 +13511,7 @@ conundrum
 connascency
 compliance
 contours
-cyma
+cyma 1
 companionable
 cymae
 cyanoacrylate
