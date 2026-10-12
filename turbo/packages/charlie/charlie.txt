@@ -21945,7 +21945,7 @@ coiners
 confessingly
 confessional
 confessionalism
-confessionally
+confessionally 1
 chirographary
 confessor
 confessorship
