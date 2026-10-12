@@ -13154,7 +13154,7 @@ escapisms
 espiegleries
 earclip
 epigynous
-enhancive
+enhancive 1
 edema
 endognathal
 edriophthalmic
