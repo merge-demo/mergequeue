@@ -8820,7 +8820,7 @@ affranchising
 aspersions
 alimental
 anfractuousness
-airtightness
+airtightness 1
 ascoma
 acetylcholinesterase
 assistor
