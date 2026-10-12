@@ -4648,7 +4648,7 @@ gastrodialysis
 gaonic
 gasconade
 gummosis
-gentrice
+gentrice 1
 graphophobia
 gyronny
 grazingly
