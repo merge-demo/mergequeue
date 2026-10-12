@@ -6701,7 +6701,7 @@ compound
 counterquestion
 coathangers
 colligation
-ceinture
+ceinture 1
 ceyx
 ceja
 configural

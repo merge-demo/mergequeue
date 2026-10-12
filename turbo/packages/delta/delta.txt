@@ -5933,7 +5933,7 @@ desmotropy
 disorderedness
 dool
 deprivable
-degrader
+degrader 1
 dyslogy
 dyeable
 departements
