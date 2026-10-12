@@ -6842,7 +6842,7 @@ dendrograph
 desmodynia
 diazoamine
 desmodontidae
-delignate
+delignate 1
 danuri
 deter
 decennia
