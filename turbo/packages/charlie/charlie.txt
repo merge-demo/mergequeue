@@ -2306,7 +2306,7 @@ canale
 canaled
 cobs
 cithrens
-carthaginian
+carthaginian 1
 canaler
 chimeres
 caprone
