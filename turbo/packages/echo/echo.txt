@@ -12226,7 +12226,7 @@ encommon
 executrixes
 endodontic
 evolutionarily
-euphoria
+euphoria 1
 expounding
 exegesis
 exasperative
