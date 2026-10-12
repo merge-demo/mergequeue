@@ -4589,7 +4589,7 @@ futurition
 fiftieths
 fossilized
 fool
-feigned
+feigned 1
 frenchily
 fingery
 forestwards
