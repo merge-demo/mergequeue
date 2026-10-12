@@ -8479,7 +8479,7 @@ alkalizer
 afforested
 alkaloid
 alkaloids
-adoption
+adoption 1
 alkalosis
 alkalurops
 alkamine
