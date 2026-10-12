@@ -13027,7 +13027,7 @@ blether
 bacilliculture
 borboridae
 beslow
-borborygmatic
+borborygmatic 1
 biggin
 borborygmus
 bettongia
