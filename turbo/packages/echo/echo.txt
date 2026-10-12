@@ -3459,7 +3459,7 @@ evinces
 eductive
 ethnol
 exceptionableness
-ensepulchering
+ensepulchering 1
 enamels
 elench
 enthronement
