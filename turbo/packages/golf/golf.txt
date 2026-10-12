@@ -2738,7 +2738,7 @@ gentiopicrin
 girths
 gorgers
 greenflies
-gauger
+gauger 1
 guestchamber
 gorraf
 gipped
