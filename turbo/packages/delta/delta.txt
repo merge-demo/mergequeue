@@ -5616,7 +5616,7 @@ desaturation
 depetalize
 disorganiser
 disprivilege
-detainingly
+detainingly 1
 depravingly
 dorsumbonal
 deuterotokous
