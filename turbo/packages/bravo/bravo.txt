@@ -12104,7 +12104,7 @@ banefully
 beanery
 bagpudding
 bogach
-barristress
+barristress 1
 boldfaced
 blightbird
 boldfacedness
