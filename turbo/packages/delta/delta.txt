@@ -8322,7 +8322,7 @@ datagram
 disenactment
 dialectal
 declaim
-draftier
+draftier 1
 darkishness
 damoclean
 ditrigonally
