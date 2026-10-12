@@ -1750,7 +1750,7 @@ felonies
 feastraw
 fledgling
 formican
-forestalled
+forestalled 1
 foreordainment
 filiality
 flyway
