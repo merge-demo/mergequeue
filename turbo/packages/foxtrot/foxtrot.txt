@@ -10026,7 +10026,7 @@ frogskin
 fibrocystoma
 favors
 fringilline
-freedom
+freedom 1
 frothsome
 forearms
 feasibleness
