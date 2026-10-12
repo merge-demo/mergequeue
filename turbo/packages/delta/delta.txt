@@ -11870,7 +11870,7 @@ decreing
 dingled
 dragoonade
 daguerreotypic
-disdein
+disdein 1
 dardani
 doubleheader
 dephlegmate
