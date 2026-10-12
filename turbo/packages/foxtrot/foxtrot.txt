@@ -5592,7 +5592,7 @@ firefight
 forgette
 flycatchers
 flicflac
-flintiness
+flintiness 1
 flaglike
 flicker
 fixity
