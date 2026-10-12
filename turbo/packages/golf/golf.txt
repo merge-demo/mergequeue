@@ -4224,7 +4224,7 @@ gaetuli
 gyromagnetic
 galvanomagnetism
 gyron
-gynaecological
+gynaecological 1
 gabbiness
 gobbing
 gynaeconitis
