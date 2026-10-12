@@ -7772,7 +7772,7 @@ faint
 fleabiting
 fraenum
 forgathering
-finning
+finning 1
 fluorescein
 frostbite
 flocculently
