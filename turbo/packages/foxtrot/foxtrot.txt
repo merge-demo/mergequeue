@@ -288,7 +288,7 @@ febrifacient
 fortalice
 footpounds
 firbolg
-flagarie
+flagarie 1
 fideism
 foxfire
 fledges
