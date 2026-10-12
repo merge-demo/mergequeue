@@ -5924,7 +5924,7 @@ distn
 depressurize
 deaconate
 disentraced
-defeatee
+defeatee 1
 depreter
 depriment
 deprint
