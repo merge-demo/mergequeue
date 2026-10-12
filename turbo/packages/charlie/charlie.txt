@@ -10843,7 +10843,7 @@ churnability
 centropomus
 cinnoline
 chip
-chipchop
+chipchop 1
 chiplet
 culvert
 claviharp
