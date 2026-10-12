@@ -7657,7 +7657,7 @@ fables
 factualism
 foreguess
 flammant
-flambant
+flambant 1
 foretopsail
 fittywise
 fiefdom
