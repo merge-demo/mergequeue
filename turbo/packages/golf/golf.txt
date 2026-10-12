@@ -8719,7 +8719,7 @@ grammars
 gearing
 gastraeal
 gleamless
-gates
+gates 1
 glunching
 gnathonical
 gastrodisc
