@@ -9502,7 +9502,7 @@ disapproval
 diggable
 digged
 deuterostome
-demonstrational
+demonstrational 1
 dighted
 dighter
 digraphic
