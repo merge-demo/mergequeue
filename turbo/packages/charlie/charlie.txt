@@ -3508,7 +3508,7 @@ cabman
 capsulogenous
 cataphyllum
 callus
-capsulolenticular
+capsulolenticular 1
 capsulopupillary
 chromospheres
 capsulorrhaphy
