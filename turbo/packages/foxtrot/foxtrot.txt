@@ -8217,7 +8217,7 @@ furlanas
 felines
 festering
 fluidize
-floroscope
+floroscope 1
 fiercened
 fluidally
 forficula
