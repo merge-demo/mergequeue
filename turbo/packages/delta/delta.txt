@@ -2310,7 +2310,7 @@ defensory
 decream
 dishwash
 duchies
-dismounted
+dismounted 1
 diagraphs
 dekaparsec
 dermatropic
