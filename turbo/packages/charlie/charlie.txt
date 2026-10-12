@@ -2131,7 +2131,7 @@ channeler
 campers
 chiloma
 coadjacence
-campesinos
+campesinos 1
 campestral
 consarcinate
 camphane
