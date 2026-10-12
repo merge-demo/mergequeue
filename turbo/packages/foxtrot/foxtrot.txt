@@ -3476,7 +3476,7 @@ foraminifer
 favillae
 fumaroid
 figshell
-flankard
+flankard 1
 fury
 foam
 ficins
