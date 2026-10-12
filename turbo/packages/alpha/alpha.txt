@@ -15680,7 +15680,7 @@ anthophyta
 aversion
 affectionately
 archeologic
-allomucic
+allomucic 1
 antiophthalmic
 anet
 attrahent
