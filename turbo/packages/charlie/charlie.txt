@@ -16707,7 +16707,7 @@ cirrus
 clotheslines
 clothesman
 crypts
-cheerful
+cheerful 1
 catchingness
 cosuitor
 culla
