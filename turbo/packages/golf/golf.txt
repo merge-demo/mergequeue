@@ -5503,7 +5503,7 @@ gorblimy
 grubble
 gerridae
 goldish
-gloomingly
+gloomingly 1
 garnishment
 gadaria
 gastroparietal
