@@ -6297,7 +6297,7 @@ gid
 gobbles
 glaucescent
 goolde
-ginzoes
+ginzoes 1
 geometridae
 gerahs
 genistein
