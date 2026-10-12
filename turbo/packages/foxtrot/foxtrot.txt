@@ -10731,7 +10731,7 @@ fanciness
 foreyear
 follyer
 fructified
-fascistize
+fascistize 1
 filagree
 fringelike
 faenus
