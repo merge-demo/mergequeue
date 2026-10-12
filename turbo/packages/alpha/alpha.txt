@@ -12965,7 +12965,7 @@ arunta
 autogamies
 amphitheccia
 anguilloid
-aristol
+aristol 1
 averil
 angiopoietic
 arcanum
