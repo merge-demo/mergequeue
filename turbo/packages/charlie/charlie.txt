@@ -12078,7 +12078,7 @@ chroatol
 chows
 causer
 crambo
-cursiveness
+cursiveness 1
 chowses
 chowtime
 chowtimes
