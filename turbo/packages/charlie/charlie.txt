@@ -11547,7 +11547,7 @@ chold
 cholecyanine
 couchee
 cholecystectasia
-cholecystectomy
+cholecystectomy 1
 clammier
 chimachima
 countermeasure
