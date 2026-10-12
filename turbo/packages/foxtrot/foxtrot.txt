@@ -8331,7 +8331,7 @@ foundling
 florulae
 fils
 furriner
-fawning
+fawning 1
 flagellata
 forerequest
 forkedness
