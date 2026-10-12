@@ -8138,7 +8138,7 @@ foregate
 forthwith
 funnel
 ferberite
-fructuosity
+fructuosity 1
 fossilology
 foretrace
 forecastleman
