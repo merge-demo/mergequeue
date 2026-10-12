@@ -7947,7 +7947,7 @@ dextranase
 doublelunged
 disallowable
 demicylinder
-downsteepy
+downsteepy 1
 diathermal
 decimeters
 dextroaural
