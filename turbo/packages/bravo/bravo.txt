@@ -2309,7 +2309,7 @@ bewearies
 barbellula
 belabor
 barbellulate
-boozing
+boozing 1
 blunderings
 blossombill
 bermuda
