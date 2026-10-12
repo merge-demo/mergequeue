@@ -7540,7 +7540,7 @@ galvanotonic
 gully
 guideless
 gatelike
-goliardery
+goliardery 1
 greenbone
 gunny
 gymnast
