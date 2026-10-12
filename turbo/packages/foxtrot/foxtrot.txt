@@ -231,7 +231,7 @@ fixtures
 faculties
 faunistically
 fringy
-functionaries
+functionaries 1
 fulimart
 frostbound
 friezed
