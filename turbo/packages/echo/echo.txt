@@ -10935,7 +10935,7 @@ equability
 eggbeater
 epipelagic
 ends
-ecbolic
+ecbolic 1
 eupnoea
 emboweler
 excreting
