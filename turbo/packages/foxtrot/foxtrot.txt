@@ -10333,7 +10333,7 @@ faithfully
 furrowers
 freshwoman
 flaps
-fuzil
+fuzil 1
 foreordainments
 feeder
 floorshow
