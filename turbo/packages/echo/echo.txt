@@ -1256,7 +1256,7 @@ elsewheres
 exposition
 evaluation
 endopleuritic
-efflation
+efflation 1
 enmanche
 eelfare
 encrinite
