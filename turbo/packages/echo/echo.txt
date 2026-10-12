@@ -11133,7 +11133,7 @@ experiencing
 executing
 evacuants
 earthdrake
-exophagous
+exophagous 1
 epaulet
 entity
 eadi
