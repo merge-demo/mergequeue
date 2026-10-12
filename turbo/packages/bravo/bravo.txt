@@ -15140,7 +15140,7 @@ bestirring
 baure
 besmearer
 bizen
-breviloquent
+breviloquent 1
 bushhammer
 breviradiate
 blithely
