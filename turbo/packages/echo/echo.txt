@@ -9349,7 +9349,7 @@ essoinee
 endear
 eruptivity
 echinuliform
-esbatement
+esbatement 1
 enlock
 ectomorphic
 exolution
