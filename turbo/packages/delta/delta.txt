@@ -3596,7 +3596,7 @@ docosane
 deprecatorily
 dragonhead
 degenerately
-degenerateness
+degenerateness 1
 degenerescence
 diammonium
 degeneroos
