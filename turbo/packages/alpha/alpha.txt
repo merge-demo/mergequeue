@@ -824,7 +824,7 @@ ammiral
 abs
 aitchbone
 ammophila
-auriculately
+auriculately 1
 apparelling
 absalom
 ambisinistrous
