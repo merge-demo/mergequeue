@@ -2553,7 +2553,7 @@ candleshine
 conceders
 chaucerism
 candleshrift
-capitalizations
+capitalizations 1
 cecidiology
 committeewoman
 chinol
