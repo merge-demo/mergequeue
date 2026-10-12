@@ -2399,7 +2399,7 @@ decylic
 dorsiparous
 deciliter
 druidry
-destituent
+destituent 1
 doodads
 dodecane
 dispelled
