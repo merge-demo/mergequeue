@@ -5652,7 +5652,7 @@ fillers
 furriners
 fud
 fibrochondritis
-fulguration
+fulguration 1
 fusillading
 fluidising
 fireable
