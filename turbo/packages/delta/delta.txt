@@ -5586,7 +5586,7 @@ determiners
 discussive
 dictyosiphonaceae
 dedecoration
-deprisure
+deprisure 1
 diamine
 dialyzation
 disaffections
