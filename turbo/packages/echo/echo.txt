@@ -3244,7 +3244,7 @@ effuso
 exarchateship
 epigon
 embryoscope
-encamping
+encamping 1
 excretolic
 eunice
 ecumenicize
