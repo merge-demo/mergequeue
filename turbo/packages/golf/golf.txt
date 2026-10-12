@@ -1269,7 +1269,7 @@ gigasecond
 ged
 gavall
 goethites
-gromatical
+gromatical 1
 galvayned
 gyrator
 glyphographer
