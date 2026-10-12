@@ -11827,7 +11827,7 @@ deplumed
 dbl
 dissociableness
 discurtain
-discusses
+discusses 1
 disciplinate
 discussion
 dominations
