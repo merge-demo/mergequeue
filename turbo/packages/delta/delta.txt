@@ -8281,7 +8281,7 @@ dispells
 dagesh
 diplomas
 desonation
-digitation
+digitation 1
 doombook
 diagrams
 dentin
