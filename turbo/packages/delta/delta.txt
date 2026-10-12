@@ -8330,7 +8330,7 @@ dresses
 dockmaster
 dialectician
 disfavourable
-decapodous
+decapodous 1
 droopingness
 decurvature
 diplois
