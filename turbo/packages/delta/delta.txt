@@ -9778,7 +9778,7 @@ dermatocyst
 dillesk
 detailedness
 daimones
-denumerable
+denumerable 1
 dolefish
 digesters
 dillydally
