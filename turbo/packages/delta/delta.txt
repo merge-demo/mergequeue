@@ -15474,7 +15474,7 @@ discodactyl
 deceivableness
 dispell
 desist
-depredator
+depredator 1
 deflagrated
 decolorise
 dealers
