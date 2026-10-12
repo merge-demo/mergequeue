@@ -15752,7 +15752,7 @@ corin
 chandelled
 cleam
 confectioneries
-clean
+clean 1
 cleaned
 chloramine
 cleanest
