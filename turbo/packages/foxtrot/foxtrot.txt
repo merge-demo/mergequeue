@@ -3044,7 +3044,7 @@ filate
 ferrimagnetism
 fractionalization
 fibril
-fuzing
+fuzing 1
 filtratable
 fairily
 fusils
