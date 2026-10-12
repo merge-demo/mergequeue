@@ -10350,7 +10350,7 @@ enthuses
 epistolary
 ethnozoology
 ethography
-excepter
+excepter 1
 entropion
 ethnogeographer
 electrocataphoretic
