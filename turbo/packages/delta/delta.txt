@@ -14936,7 +14936,7 @@ decoloriser
 dermatoid
 disarmer
 displodes
-diathetic
+diathetic 1
 dialoger
 defrauders
 decimetres
