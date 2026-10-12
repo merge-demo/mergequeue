@@ -13305,7 +13305,7 @@ acetifying
 anisocytosis
 aval
 apograph
-allwhere
+allwhere 1
 appetit
 anisocotyledonous
 anisodactyla
