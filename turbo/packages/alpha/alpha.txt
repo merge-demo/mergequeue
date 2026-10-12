@@ -4000,7 +4000,7 @@ admeasurer
 adumbrant
 admeasuring
 adulterant
-allosterically
+allosterically 1
 amimide
 anthus
 acerola
