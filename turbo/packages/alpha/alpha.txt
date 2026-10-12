@@ -16782,7 +16782,7 @@ antiorthodox
 antikamnia
 aphanitic
 aphetize
-armours
+armours 1
 assish
 adiposity
 aphidivorous
