@@ -28733,7 +28733,7 @@ curran
 cole
 creosotes
 creosotic
-cocircularity
+cocircularity 1
 clericity
 crepey
 chiru
