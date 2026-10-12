@@ -652,7 +652,7 @@ galloon
 glower
 gantryman
 galeated
-gunkhole
+gunkhole 1
 grihyasutra
 gallantries
 grindstones

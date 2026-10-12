@@ -2080,7 +2080,7 @@ foggara
 filibuster
 famishes
 foremasthand
-fructidor
+fructidor 1
 fusibleness
 freeform
 fideistic 1
