@@ -3460,7 +3460,7 @@ adaptedness
 aix
 addictions
 aids
-ampassy
+ampassy 1
 abodah
 alai
 autofluorescence
