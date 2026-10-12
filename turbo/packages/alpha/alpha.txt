@@ -10972,7 +10972,7 @@ acquainted
 arched
 amoebaeum
 athogen
-amoebalike
+amoebalike 1
 amoebas
 angiospermal
 antefix
