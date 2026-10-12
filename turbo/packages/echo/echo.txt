@@ -1298,7 +1298,7 @@ efface
 equalized
 effacers
 ellipsis
-exhilarated
+exhilarated 1
 exumbrellar
 effect
 endocardiac
