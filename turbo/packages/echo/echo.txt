@@ -3309,7 +3309,7 @@ euphorias
 explanatoriness
 equipaga
 embassade
-emanatist
+emanatist 1
 epical
 eternalized
 emanativ
