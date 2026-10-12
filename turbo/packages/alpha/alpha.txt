@@ -20512,7 +20512,7 @@ anoxybiosis
 arteriolosclerosis
 afaint
 acrid
-arteriomalacia
+arteriomalacia 1
 autoagglutinin
 ascertainment
 actinobacilli
