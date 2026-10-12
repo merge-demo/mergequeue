@@ -6083,7 +6083,7 @@ benzalacetone
 barricader
 bend
 bub
-bendee
+bendee 1
 bullwhips
 beamier
 bittering
