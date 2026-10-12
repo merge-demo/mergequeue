@@ -28850,7 +28850,7 @@ cretan
 cymotrichy
 cretefaction
 callisection
-creticism
+creticism 1
 coturnix
 cretics
 cinematographically
