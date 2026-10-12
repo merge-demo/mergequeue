@@ -2388,7 +2388,7 @@ disownment
 diplontic
 deciduity
 daver
-discommendable
+discommendable 1
 disdain
 deciduously
 dessertspoonful
