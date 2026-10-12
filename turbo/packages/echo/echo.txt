@@ -3593,7 +3593,7 @@ ensnarers
 effusive
 equivalents
 enchainement
-ensuable
+ensuable 1
 engrosses
 eyeliner
 embracement
