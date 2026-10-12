@@ -2359,7 +2359,7 @@ filmable
 flanneled
 fencelike
 flunked
-funerary
+funerary 1
 floorward
 favel
 femineity
