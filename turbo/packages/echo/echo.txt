@@ -680,7 +680,7 @@ epilogate
 embowment
 eubasidii
 elmiest
-enhance
+enhance 1
 envier
 eclogic
 egressor
