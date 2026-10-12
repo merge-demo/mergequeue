@@ -12756,7 +12756,7 @@ discloud
 doily
 disloyal
 disencourage
-determents
+determents 1
 diplomatism
 dotardly
 drawfiling
