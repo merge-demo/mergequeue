@@ -4187,7 +4187,7 @@ gene
 graphomania
 grandfather
 gnathopod
-gosmore
+gosmore 1
 glotum
 greying
 ges
