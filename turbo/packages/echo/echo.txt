@@ -10133,7 +10133,7 @@ exemplifier
 endive
 earstone
 epithalami
-errs
+errs 1
 expositress
 enumerators
 eurhodine
