@@ -9176,7 +9176,7 @@ erodent
 eirenic
 erodes
 edgeless
-exterminatory
+exterminatory 1
 enslavement
 eeliest
 enginelike
