@@ -8335,7 +8335,7 @@ droopingness
 decurvature
 diplois
 dyne
-dejerate
+dejerate 1
 dargue
 daemonies
 disruptable
