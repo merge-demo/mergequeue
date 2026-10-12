@@ -4508,7 +4508,7 @@ fertilizers
 forsay
 ferrovanadium
 flour
-fisnoga
+fisnoga 1
 felinae
 figurer
 forblow
