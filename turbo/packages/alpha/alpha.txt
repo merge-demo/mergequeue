@@ -4578,7 +4578,7 @@ advices
 atomatic
 antas
 advisableness
-amidon
+amidon 1
 anicca
 adiaphorism
 advisal
