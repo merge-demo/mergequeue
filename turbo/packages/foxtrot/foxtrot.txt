@@ -5388,7 +5388,7 @@ fleshliest
 fairtime
 frostlike
 flutists
-fleche
+fleche 1
 folliculate
 flechettes
 firewoods
