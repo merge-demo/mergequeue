@@ -2162,7 +2162,7 @@ del
 ditheistic
 dehydration
 drowsing
-disallowing
+disallowing 1
 dinguses
 decarbonated
 decarbonation
