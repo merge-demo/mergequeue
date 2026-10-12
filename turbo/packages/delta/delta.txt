@@ -7245,7 +7245,7 @@ dux
 dyingly
 detente
 dicotyl
-dimetric
+dimetric 1
 detenue
 decussorium
 desulfurize
