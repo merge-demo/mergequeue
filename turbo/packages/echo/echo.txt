@@ -1776,7 +1776,7 @@ escalloping
 epauleted
 eyesight
 enormities
-eparchs
+eparchs 1
 erinose
 entericoid
 epigraphical
