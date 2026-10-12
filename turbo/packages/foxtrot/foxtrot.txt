@@ -11567,7 +11567,7 @@ fusil
 fowage
 fingerspin
 feedback
-fain
+fain 1
 friskful
 flytier
 fulmar
