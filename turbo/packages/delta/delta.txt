@@ -18638,7 +18638,7 @@ dhaw
 dutchmen
 dedicatorial
 degreeless
-duty
+duty 1
 dutiability
 disdains
 downtroddenness
