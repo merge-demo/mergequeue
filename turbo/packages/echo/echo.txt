@@ -12310,7 +12310,7 @@ evectant
 exertionless
 elric
 exertions
-enurny
+enurny 1
 eseptate
 equilobate
 eupepsies
