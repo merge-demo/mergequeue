@@ -1801,7 +1801,7 @@ gatekeeper
 grizel
 grassy
 glummer
-glyptology
+glyptology 1
 gatekeepers
 glos
 gentile
