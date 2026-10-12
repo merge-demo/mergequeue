@@ -18038,7 +18038,7 @@ busses
 bussing
 bioscientific
 bussock
-beneurous
+beneurous 1
 bodken
 banqueter
 bafyot
