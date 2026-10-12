@@ -6516,7 +6516,7 @@ entomophthora
 eyewash
 endurant
 ended
-entangledness
+entangledness 1
 endotrachelitis
 ehlite
 early
