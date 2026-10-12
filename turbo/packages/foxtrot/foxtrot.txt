@@ -287,7 +287,7 @@ ford
 febrifacient
 fortalice
 footpounds
-firbolg
+firbolg 1
 flagarie
 fideism
 foxfire
