@@ -8078,7 +8078,7 @@ exceptive
 equicrural
 electrooculogram
 exosporium
-extraprovincial
+extraprovincial 1
 epiphragm
 enlargedness
 encover
