@@ -3752,7 +3752,7 @@ decaudate
 doughlike
 depolarized
 dehorted
-damaskine
+damaskine 1
 defatigate
 dehorting
 digitoxin
