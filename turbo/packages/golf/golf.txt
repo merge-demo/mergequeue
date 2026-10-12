@@ -7370,7 +7370,7 @@ griffon
 grandiose
 glyoxime
 galline
-gomarite
+gomarite 1
 germanous
 gleamier
 gamotropism
