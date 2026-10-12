@@ -1467,7 +1467,7 @@ disinherison
 dipropellant
 deuteroplasm
 dories
-dispulp
+dispulp 1
 deckhouses
 duodenojejunal
 dazes
