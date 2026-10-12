@@ -8854,7 +8854,7 @@ flambage
 froghopper
 faulter
 foujdarry
-fibrousness
+fibrousness 1
 foul
 frotted
 fogger
