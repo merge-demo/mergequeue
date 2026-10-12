@@ -5390,7 +5390,7 @@ frostlike
 flutists
 fleche
 folliculate
-flechettes
+flechettes 1
 firewoods
 flecked
 forkhead
