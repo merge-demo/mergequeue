@@ -22726,7 +22726,7 @@ cryosphere
 conquerer
 conquerers
 conqueress
-conquering
+conquering 1
 coenure
 choko
 conquerment
