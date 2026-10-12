@@ -956,7 +956,7 @@ engraffing
 electroforming
 ethylin
 equilibristic
-escandalize
+escandalize 1
 expulser
 embalming
 euchrone
