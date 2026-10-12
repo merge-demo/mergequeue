@@ -7665,7 +7665,7 @@ forsteal
 forecasting
 freeze
 foxskin
-fano
+fano 1
 fiesta
 forehandedness
 fellingbird
