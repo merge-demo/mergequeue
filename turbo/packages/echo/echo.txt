@@ -7691,7 +7691,7 @@ enfeebler
 eriocaulaceous
 effluxion
 estrus
-esprise
+esprise 1
 extruder
 ellipticalness
 epidemically
