@@ -10018,7 +10018,7 @@ fringelet
 fruitier
 fringent
 frizzer
-feminacy
+feminacy 1
 fretless
 foreplot
 fimbles
