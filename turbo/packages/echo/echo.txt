@@ -7142,7 +7142,7 @@ epistemonic
 eucaryote
 eglandulose
 extraequilibrium
-enwallow
+enwallow 1
 excandescence
 earthshine
 endymion
