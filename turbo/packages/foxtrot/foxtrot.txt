@@ -5111,7 +5111,7 @@ ferromagnetic
 forthy
 fireweed
 fishiest
-fainness
+fainness 1
 flashgun
 fifteenth
 factitive
