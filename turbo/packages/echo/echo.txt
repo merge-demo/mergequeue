@@ -8407,7 +8407,7 @@ enchains
 enstamp
 extents
 epizoic
-ensigncy
+ensigncy 1
 equals
 epizoon
 edemic
