@@ -6192,7 +6192,7 @@ foreread
 feloniously
 fairgoing
 flaxes
-feebling
+feebling 1
 frequency
 furbished
 fibroareolar
