@@ -13553,7 +13553,7 @@ armada
 alberich
 azeotropism
 amoebida
-amputated
+amputated 1
 annotative
 amaurotic
 accuses
