@@ -6749,7 +6749,7 @@ frized
 fleece
 feering
 ferity
-foresworn
+foresworn 1
 felonweed
 fainly
 foiter
