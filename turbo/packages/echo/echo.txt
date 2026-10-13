@@ -11607,7 +11607,7 @@ elumbated
 exacerbated
 effet
 excided
-enfrenzy
+enfrenzy 1
 ethnocentricity
 empoison
 exclosure
