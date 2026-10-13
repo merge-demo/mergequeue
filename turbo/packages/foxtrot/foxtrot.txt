@@ -8517,7 +8517,7 @@ fream
 fraxetin
 foreseeing
 fard
-fulgid
+fulgid 1
 flacourtia
 fished
 frond
