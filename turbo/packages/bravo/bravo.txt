@@ -1945,7 +1945,7 @@ bandogs
 bediademed
 barken
 bandoleer
-burlesquely
+burlesquely 1
 backhoes
 blossom
 bandoleers
