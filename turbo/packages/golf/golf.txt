@@ -7162,7 +7162,7 @@ gabbros
 gabelle
 glistering
 geometrise
-glycuronid
+glycuronid 1
 guans
 gaffs
 glycid
