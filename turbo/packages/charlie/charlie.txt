@@ -8167,7 +8167,7 @@ chairmans
 chondroclasis
 chairmanship
 congrid
-chairmanships
+chairmanships 1
 checkoff
 conficient
 chairmender
