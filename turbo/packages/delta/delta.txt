@@ -16791,7 +16791,7 @@ drawbore
 deare
 dissenters
 dreeing
-disconsonant
+disconsonant 1
 difficult
 devaluated
 dephycercal
