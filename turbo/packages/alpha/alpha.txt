@@ -19689,7 +19689,7 @@ albolite
 attercrop
 apl
 aristae
-affirmatively
+affirmatively 1
 aerobacteriological
 alfarga
 aristate
