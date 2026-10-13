@@ -2272,7 +2272,7 @@ fenchene
 flosculariidae
 favn
 feluccas
-fastigated
+fastigated 1
 ficoid
 facaded
 florentinism
