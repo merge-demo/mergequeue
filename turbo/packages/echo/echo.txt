@@ -10078,7 +10078,7 @@ epinglette
 escharine
 enforcers
 echidnidae
-evocate
+evocate 1
 ethenoid
 ethenol
 eyecups
