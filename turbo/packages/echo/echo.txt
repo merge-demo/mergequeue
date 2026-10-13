@@ -2166,7 +2166,7 @@ endocyclic
 elbowy
 elbowpiece
 elbows
-explores
+explores 1
 elfishness
 elcaja
 eld
