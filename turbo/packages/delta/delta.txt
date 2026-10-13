@@ -5783,7 +5783,7 @@ demonomancy
 dreariest
 dissipatedly
 dewer
-disoxygenate
+disoxygenate 1
 declinations
 dainties
 dialog
