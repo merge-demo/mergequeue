@@ -9425,7 +9425,7 @@ chlorin
 chevon
 commendatory
 cheapest
-cheapish
+cheapish 1
 cheaply
 cheapness
 cladoselachea
