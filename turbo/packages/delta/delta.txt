@@ -16933,7 +16933,7 @@ directive
 danseuse
 desterilizing
 doohinkey
-defenses
+defenses 1
 dermatograph
 disvalued
 denaturize

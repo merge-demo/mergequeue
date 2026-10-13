@@ -12146,7 +12146,7 @@ exiguity
 excusably
 enswathing
 emblazes
-entertainments
+entertainments 1
 estrado
 electric
 exostome
