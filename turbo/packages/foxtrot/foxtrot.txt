@@ -8324,7 +8324,7 @@ ferrotyping
 firmament
 fatherlike
 flapperish
-flatulentness
+flatulentness 1
 fittiest
 fair
 foundling
