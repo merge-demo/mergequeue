@@ -2488,7 +2488,7 @@ flea
 fibrinoid
 fry
 fernyear
-funs
+funs 1
 fernshaw
 fordo
 forehatch
