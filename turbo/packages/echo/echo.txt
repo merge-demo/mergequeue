@@ -12948,7 +12948,7 @@ emictory
 exclusion
 equipartile
 epicyclical
-expected
+expected 1
 eucharises
 embathe
 expectedness
