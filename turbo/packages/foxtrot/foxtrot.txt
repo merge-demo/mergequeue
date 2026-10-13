@@ -2452,7 +2452,7 @@ frontwise
 foreproduct
 fermentable
 fermentativeness
-faradize
+faradize 1
 falus
 footbridges
 fermentescible
