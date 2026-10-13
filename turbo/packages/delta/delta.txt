@@ -14517,7 +14517,7 @@ demotic
 dyadic
 divinister
 deallocating 1
-denudant
+denudant 1
 dissimuler
 discoverers
 divinized
