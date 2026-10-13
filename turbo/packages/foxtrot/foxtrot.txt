@@ -136,7 +136,7 @@ falser
 fracturable
 fleabites
 frigidaria
-flayers
+flayers 1
 fellaheen
 futures
 fights
