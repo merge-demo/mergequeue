@@ -11727,7 +11727,7 @@ echopraxia
 echinulation
 explanations
 envision
-esc
+esc 1
 eveque
 episcopise
 ensurer
