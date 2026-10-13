@@ -15132,7 +15132,7 @@ apparance
 antidrug
 astronomical
 anemotropic
-applied
+applied 1
 archcheater
 analcimes
 alluvions
