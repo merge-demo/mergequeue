@@ -8830,7 +8830,7 @@ gunslinger
 garbles
 guileful
 generable
-gerful
+gerful 1
 gangan
 gurjan
 goodenoviaceae
