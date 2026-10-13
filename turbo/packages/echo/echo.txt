@@ -6496,7 +6496,7 @@ enrollment
 ectosphenoid
 essayists
 entrenchments
-entails
+entails 1
 eaglet
 embarrassedly
 egipto
