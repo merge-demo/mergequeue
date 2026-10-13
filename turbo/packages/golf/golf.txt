@@ -2829,7 +2829,7 @@ geogenous
 gater
 goutweed
 gapeseeds
-genua
+genua 1
 graafian
 gruel
 geatas
