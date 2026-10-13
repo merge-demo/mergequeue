@@ -23815,7 +23815,7 @@ australioid
 anticonservatively
 allicit
 amatorious
-allelomorphism
+allelomorphism 1
 acicular
 austrianize
 aldermanry
