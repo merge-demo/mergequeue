@@ -16722,7 +16722,7 @@ buckland
 bilkers
 buckle
 blacked
-befallen
+befallen 1
 buckled
 beclap
 bebilya
