@@ -9264,7 +9264,7 @@ daikering
 diurne
 daguerreotyper
 dietaries
-dibbing
+dibbing 1
 deosculate
 disploding
 declinal
