@@ -993,7 +993,7 @@ edaphon
 ecchymotic
 expositors
 endorsing
-ensorcels
+ensorcels 1
 excel
 enquiring
 exorbital
