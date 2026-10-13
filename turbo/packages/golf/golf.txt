@@ -2935,7 +2935,7 @@ gulph
 gosh
 gastroscopic
 gooseflower
-gunks
+gunks 1
 guardingly
 gaddang
 gurkha
