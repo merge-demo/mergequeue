@@ -6447,7 +6447,7 @@ degenerating
 drugshop
 danseusse
 desagrement
-demitone
+demitone 1
 deplumation
 dictatrix
 deodara
