@@ -7680,7 +7680,7 @@ barged
 boatbuilder
 bountiousness
 baronry
-bezzle
+bezzle 1
 bestead
 blackmailing
 brachydactylous
