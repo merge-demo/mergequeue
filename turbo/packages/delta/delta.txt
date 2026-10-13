@@ -17834,7 +17834,7 @@ disaggregate
 depolarising
 dhunchee
 dislodge
-dentition
+dentition 1
 daydreamer
 disaccordant
 dodecaphonically
