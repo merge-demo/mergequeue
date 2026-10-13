@@ -13959,7 +13959,7 @@ entoire
 extraparliamentary
 ectotrophic
 expressless
-epimer
+epimer 1
 eozoonal
 endokaryogamy
 enface
