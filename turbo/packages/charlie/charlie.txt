@@ -25916,7 +25916,7 @@ corsos
 cancrivorous
 corteges
 congas
-coeternally
+coeternally 1
 cortexes
 cortication
 cortices
