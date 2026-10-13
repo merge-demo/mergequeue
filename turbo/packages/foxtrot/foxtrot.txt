@@ -11059,7 +11059,7 @@ frictionizing
 funambulatory
 fondaco
 fedia
-flamenship
+flamenship 1
 fraghan
 frontality
 funambuloes
