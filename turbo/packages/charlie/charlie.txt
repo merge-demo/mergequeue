@@ -2521,7 +2521,7 @@ candleball
 candleberries
 candlebomb
 candlefish
-corporeal
+corporeal 1
 chaldaical
 confirmity
 candlefishes
