@@ -4591,7 +4591,7 @@ depths
 disusing
 detected
 digitigrade
-decretal
+decretal 1
 demiox
 dharmasmriti
 disenthrall
