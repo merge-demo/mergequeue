@@ -6783,7 +6783,7 @@ desynonymize
 decorticating
 demodex
 desiodothyroxine
-desirableness
+desirableness 1
 declarative
 dojo
 dietzeite
