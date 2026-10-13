@@ -4793,7 +4793,7 @@ embrangle
 extols
 exflagellation
 eequinoctium
-emulously
+emulously 1
 enlivens
 encomic
 executory
