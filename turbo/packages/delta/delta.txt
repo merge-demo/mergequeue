@@ -17638,7 +17638,7 @@ disillusionize
 disannulled
 dinners
 dsname
-dsri
+dsri 1
 defeminization
 dromornis
 dtd
