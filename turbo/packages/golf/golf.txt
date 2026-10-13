@@ -4042,7 +4042,7 @@ gammarine
 graduality
 giantish
 gabbart
-glum
+glum 1
 gurney
 gastritic
 grisettes
