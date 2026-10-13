@@ -13157,7 +13157,7 @@ borowolframic
 barometrograph
 borrachio
 borrasca
-bandoliered
+bandoliered 1
 bonanzas
 bubo
 borrowable
