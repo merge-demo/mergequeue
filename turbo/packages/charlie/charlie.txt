@@ -12406,7 +12406,7 @@ chromize
 crocard
 corymbiate
 congoese
-cardiopuncture
+cardiopuncture 1
 chromizing
 caswellite
 chromoblast
