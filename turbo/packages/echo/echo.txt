@@ -11892,7 +11892,7 @@ exultation
 expectations
 eyr
 eugranitic
-enhypostatic
+enhypostatic 1
 entrepreneurship
 epiphytes
 emissivity
