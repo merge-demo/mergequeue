@@ -13128,7 +13128,7 @@ borneols
 belaced
 bovids
 borning
-bornite
+bornite 1
 bagasses
 baksheesh
 bestirs
