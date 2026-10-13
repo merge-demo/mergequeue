@@ -2318,7 +2318,7 @@ dactylioglyphic
 diagraphics
 danglement
 drat
-didymus
+didymus 1
 diacetyls
 delectations
 denizens
