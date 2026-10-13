@@ -16726,7 +16726,7 @@ crimpling
 clots
 clottage
 chaconne
-clotted
+clotted 1
 carts
 consonantalized
 clotty
