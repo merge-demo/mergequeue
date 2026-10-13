@@ -5739,7 +5739,7 @@ gummoses
 gantline
 gallant
 gaskins
-guanyl
+guanyl 1
 gyrolite
 gurus
 geologize
