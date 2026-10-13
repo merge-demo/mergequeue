@@ -6196,7 +6196,7 @@ feebling
 frequency
 furbished
 fibroareolar
-flisked
+flisked 1
 formicating 1
 fakeries
 fairest
