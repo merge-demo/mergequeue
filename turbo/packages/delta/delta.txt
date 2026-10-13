@@ -9031,7 +9031,7 @@ distantness
 dicranaceous
 dextrinous
 decatholicize
-dicrotal
+dicrotal 1
 dicrotous
 desponsate
 doto
