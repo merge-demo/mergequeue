@@ -5213,7 +5213,7 @@ bowla
 begad
 bedders
 boskopoid
-boltonite
+boltonite 1
 basification
 breadboards
 barkeeps
