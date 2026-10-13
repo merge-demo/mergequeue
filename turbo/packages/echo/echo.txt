@@ -5242,7 +5242,7 @@ endopterygota
 errorist
 endoradiosonde
 extract
-exfiguration
+exfiguration 1
 embryotrophy
 emanator
 epitomatory
