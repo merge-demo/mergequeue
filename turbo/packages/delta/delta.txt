@@ -12175,7 +12175,7 @@ disfranchises
 drosophilae
 depel
 dudgeon
-deride
+deride 1
 discoursiveness
 deliquesce
 doolees
