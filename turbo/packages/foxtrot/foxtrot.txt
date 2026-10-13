@@ -10765,7 +10765,7 @@ folious
 firedragon
 frutex
 fruticetum
-fecklessness
+fecklessness 1
 foreinclined
 fileting
 familistery
