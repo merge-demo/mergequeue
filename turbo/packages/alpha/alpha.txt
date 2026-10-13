@@ -19440,7 +19440,7 @@ apish
 antillean
 argentometry
 aerocartography
-aday
+aday 1
 anchoritical
 aeriness
 actinians
