@@ -15132,7 +15132,7 @@ disallows
 dullpate
 decayable
 demiofficial
-daisybush
+daisybush 1
 dactylitic
 doing
 discopodous
