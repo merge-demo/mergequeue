@@ -3445,7 +3445,7 @@ beechdrops
 bastinado
 bluebonnet
 bastings
-badgerly
+badgerly 1
 bastions
 boughpot
 bef
