@@ -13301,7 +13301,7 @@ botanics
 basilysis
 bridechamber
 botanies
-botanize
+botanize 1
 brushmen
 battiest
 boswellizing
