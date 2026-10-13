@@ -6905,7 +6905,7 @@ foliature
 flintwood
 flosculous
 februaries
-feculence
+feculence 1
 forswear
 foreignization
 footsie
