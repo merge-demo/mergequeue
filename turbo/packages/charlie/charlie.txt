@@ -3391,7 +3391,7 @@ credos
 crackiness
 caprate
 coagulatory
-capreol
+capreol 1
 commotional
 capreolar
 clamper
