@@ -3864,7 +3864,7 @@ bawdrics
 bawdries
 boreal
 bawl
-bawled
+bawled 1
 bawler
 bawly
 brutalitarian
