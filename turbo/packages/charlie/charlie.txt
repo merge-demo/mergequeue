@@ -9048,7 +9048,7 @@ clodlike
 charmonium
 charms
 charneco
-charnockite
+charnockite 1
 covarecan
 charnockites
 cluniacensian
