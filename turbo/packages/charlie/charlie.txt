@@ -21727,7 +21727,7 @@ campiness
 conditionalize
 conditionally
 cnidosis
-compellably
+compellably 1
 centralisation
 casson
 cassises
