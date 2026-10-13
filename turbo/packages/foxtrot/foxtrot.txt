@@ -7591,7 +7591,7 @@ folliculin
 flacherie
 forjudgment
 fatimid
-fgn
+fgn 1
 fructuarius
 funiculus
 fanciers
