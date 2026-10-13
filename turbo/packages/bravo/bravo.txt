@@ -718,7 +718,7 @@ boglander
 bischofite
 bombardo
 breathable
-balteus
+balteus 1
 banjo
 baddie
 betimber
