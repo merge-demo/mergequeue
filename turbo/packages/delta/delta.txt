@@ -5993,7 +5993,7 @@ diagrammitically
 depthlessness
 diobols
 demonetization
-dacite
+dacite 1
 delimiting
 decohere
 disapprove
