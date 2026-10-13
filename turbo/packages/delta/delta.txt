@@ -14542,7 +14542,7 @@ discohexaster
 dollop
 degomme
 distill
-divisional
+divisional 1
 diachronicness
 durio
 divisionary
