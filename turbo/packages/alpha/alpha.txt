@@ -4301,7 +4301,7 @@ adrenin
 addu
 adrenitis
 archcount
-adrenochrome
+adrenochrome 1
 adrenocortical
 adrenosterone
 adrenocorticotrophic
