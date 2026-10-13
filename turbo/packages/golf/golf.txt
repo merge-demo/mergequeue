@@ -10253,7 +10253,7 @@ gauzelike
 globulitic
 goers
 germigenous
-galeproof
+galeproof 1
 gregarious
 guinness
 gamodemes
