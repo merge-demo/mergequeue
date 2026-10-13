@@ -8884,7 +8884,7 @@ barbarousness
 biocoenotic
 bensil
 biodegradability
-biodegradable
+biodegradable 1
 becassocked
 beleap 1
 biodegraded
