@@ -392,7 +392,7 @@ gavot
 gaoled
 glaive
 goto
-goatskins
+goatskins 1
 grandmamma
 guisian
 gps
