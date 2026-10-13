@@ -19893,7 +19893,7 @@ annist
 ahorse
 achaemenidian
 adenopharyngitis
-arightly
+arightly 1
 armillate
 armine
 arrogating
