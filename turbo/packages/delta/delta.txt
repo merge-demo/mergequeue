@@ -1913,7 +1913,7 @@ dallas
 deodorant
 deathday
 debriefing
-dowser
+dowser 1
 danzig
 didus
 declassicize
