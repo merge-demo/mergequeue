@@ -9626,7 +9626,7 @@ flatfootedness
 freen
 featherfoil
 flowerer
-forwardly
+forwardly 1
 foreleader
 flotations
 freers
