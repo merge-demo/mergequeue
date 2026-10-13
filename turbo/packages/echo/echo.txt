@@ -13962,7 +13962,7 @@ expressless
 epimer
 eozoonal
 endokaryogamy
-enface
+enface 1
 electropoion
 escheatage
 extraparochial
