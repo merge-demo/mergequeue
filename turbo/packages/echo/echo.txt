@@ -7942,7 +7942,7 @@ ensilation
 expounds
 excudate
 epimanikion
-epimeres
+epimeres 1
 electrostenolysis
 enterolithiasis
 exiting
