@@ -4537,7 +4537,7 @@ graminiform
 gerbille
 gawp
 guerrillaism
-galliums
+galliums 1
 globoids
 gmelinite
 grazes
