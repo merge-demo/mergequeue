@@ -10576,7 +10576,7 @@ ascaris
 anotia
 abnegating
 absinthiating
-amyelencephalous
+amyelencephalous 1
 apomictically
 adenoidism
 aviator
