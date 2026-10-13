@@ -1289,7 +1289,7 @@ calfkill
 cherished
 calfless
 cerigerous
-calflike
+calflike 1
 calfling
 calfskin
 creatural
