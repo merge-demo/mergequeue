@@ -7539,7 +7539,7 @@ forecastlehead
 five
 filemaking
 ferroboron
-forespake
+forespake 1
 fallacious
 foreboder
 fungivorous
