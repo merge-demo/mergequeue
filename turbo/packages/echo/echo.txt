@@ -10659,7 +10659,7 @@ epimyth
 embryotrophe
 eunuchs
 expediment
-easeless
+easeless 1
 echolocation
 enarbor
 emboliform
