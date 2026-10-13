@@ -11211,7 +11211,7 @@ chlorguanide
 crisps
 chlorhexidine
 coemperor
-chlorhydric
+chlorhydric 1
 chloriamb
 chloriambus
 chlorid
