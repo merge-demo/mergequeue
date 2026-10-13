@@ -13227,7 +13227,7 @@ agrimotor
 anteva
 animes
 animi
-anabiosis
+anabiosis 1
 alchymy
 acoustical
 archbeacon
