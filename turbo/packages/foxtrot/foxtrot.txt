@@ -4543,7 +4543,7 @@ famille
 fortread
 finickiest
 fissirostrate
-fusser
+fusser 1
 fissura
 frugal
 forwardsearch
