@@ -16825,7 +16825,7 @@ agnoete
 aphorismos
 avatars
 asyndesis
-autopore
+autopore 1
 aphorist
 ailuropus
 autoportraiture
