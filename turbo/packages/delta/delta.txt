@@ -6131,7 +6131,7 @@ dijudicant
 disilane
 duperies
 diabantite
-deservedness
+deservedness 1
 derats
 deratted
 defatigation
