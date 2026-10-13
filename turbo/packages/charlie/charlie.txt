@@ -7377,7 +7377,7 @@ cephalopterus
 cephaloridine
 confocal
 cadus
-copecks
+copecks 1
 cephalosome
 campbellite
 clunk
