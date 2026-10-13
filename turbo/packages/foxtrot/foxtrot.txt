@@ -1235,7 +1235,7 @@ frustrately
 firmitude
 frigidity
 fenders
-forewarner
+forewarner 1
 flexural
 flinched
 feodatory
