@@ -11717,7 +11717,7 @@ examinable
 eglateres
 examinant
 eschewer
-enscrolled
+enscrolled 1
 examinatory
 estrepe
 endochrome
