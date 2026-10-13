@@ -797,7 +797,7 @@ exadverso
 endosulfan
 earthmaking
 expiated
-exodus
+exodus 1
 epeira
 eurytopic
 encephalography
