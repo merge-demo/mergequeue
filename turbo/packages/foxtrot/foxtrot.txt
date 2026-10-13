@@ -8567,7 +8567,7 @@ feigner
 fossilize
 fibbed
 fornicatrix
-frameshift
+frameshift 1
 fullfil
 fissionable
 fungating
