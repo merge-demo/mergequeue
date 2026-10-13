@@ -9077,7 +9077,7 @@ epenthesis
 editorialist
 embryogony
 ectasia
-epistropheus
+epistropheus 1
 empowerment
 echevaria
 equivocations
