@@ -417,7 +417,7 @@ glucogenesis
 gazogene
 galbula
 gelding
-gallify
+gallify 1
 gimleted
 galaxes
 gispin
