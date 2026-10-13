@@ -10810,7 +10810,7 @@ faintful
 fuchsine
 furmint
 flustra
-facet
+facet 1
 foredestined
 footcandles
 fleeten
