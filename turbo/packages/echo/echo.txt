@@ -2948,7 +2948,7 @@ etrogim
 encamped
 eliminant
 ennoblers
-ethid
+ethid 1
 externalising
 elicitors
 eloined
