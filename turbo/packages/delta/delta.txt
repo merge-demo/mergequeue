@@ -17679,7 +17679,7 @@ dialogic
 disaffiliates
 decare
 donsky
-desulphurating
+desulphurating 1
 disapprovingly
 dystopia
 disanimal
