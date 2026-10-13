@@ -10318,7 +10318,7 @@ daroo
 diophantine
 driftpiece
 dowsing
-dentata
+dentata 1
 diurons
 derelictly
 degeneracy
