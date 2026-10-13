@@ -11228,7 +11228,7 @@ funiculars
 funiform
 fount
 false
-flashcubes
+flashcubes 1
 formful
 fabricative
 flexuosities
