@@ -6541,7 +6541,7 @@ entomologic
 engorging
 elegises
 entendre
-extravagating
+extravagating 1
 entente
 erythorbate
 ethnohistorian
