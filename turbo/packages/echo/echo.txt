@@ -13771,7 +13771,7 @@ effusely
 exodontist
 ethnize
 entomogenous
-encloak
+encloak 1
 exosperm
 evermo
 entea
