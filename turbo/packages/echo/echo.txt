@@ -7987,7 +7987,7 @@ epinicia
 extrusion
 eyebath
 epinyctis
-enheritage
+enheritage 1
 ensconced
 energumenon
 expressly
