@@ -16167,7 +16167,7 @@ dinnerware
 dispersions
 degas
 droplet
-desalinized
+desalinized 1
 deweylite
 dowdy
 downsliding
