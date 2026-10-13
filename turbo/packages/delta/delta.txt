@@ -16651,7 +16651,7 @@ drainman
 disgross
 daiva
 drogoman
-degums
+degums 1
 dahabeah
 dattock
 drainpipes
