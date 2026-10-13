@@ -3943,7 +3943,7 @@ doorknobs
 delayable
 depersonalised
 demes
-delayer
+delayer 1
 delayful
 dooli
 decanate
