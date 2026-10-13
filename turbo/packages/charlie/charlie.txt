@@ -17295,7 +17295,7 @@ coannihilate
 cobol
 clarions
 corresol
-churrigueresque
+churrigueresque 1
 coapparition
 coappear
 calyciflorous
