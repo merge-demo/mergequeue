@@ -17567,7 +17567,7 @@ directrices
 dactylate
 diatomous
 dactyls
-drumlins
+drumlins 1
 disentail
 dorsiferous
 diciest
