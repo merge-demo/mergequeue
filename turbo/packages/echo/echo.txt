@@ -8254,7 +8254,7 @@ epopoeia
 epochal
 enatant
 eure
-enforcive
+enforcive 1
 escapado
 epitoke
 epigones
