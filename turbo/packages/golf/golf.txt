@@ -1099,7 +1099,7 @@ gonangium
 gregorianize
 ganja
 genically
-genecologically
+genecologically 1
 generatively
 gashouses
 gearshifts
