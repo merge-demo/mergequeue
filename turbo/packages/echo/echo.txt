@@ -11947,7 +11947,7 @@ excises
 excystment
 emirs
 ensilages
-exothermicity
+exothermicity 1
 endurance
 enlist
 epithecate
