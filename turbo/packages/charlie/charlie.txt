@@ -7286,7 +7286,7 @@ civ
 conchitis
 clincher
 chromatopathic
-commercer
+commercer 1
 constitution
 conicity
 carnelians
