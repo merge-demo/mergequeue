@@ -5508,7 +5508,7 @@ acrostichic
 alt
 aftercooler
 autocollimate
-ack
+ack 1
 apological
 almoning
 aftercrop
