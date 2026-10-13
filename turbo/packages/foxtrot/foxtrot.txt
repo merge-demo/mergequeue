@@ -3702,7 +3702,7 @@ foalfoot
 flaccidities
 fillings
 footwarmers
-fricti
+fricti 1
 forepoling
 found
 fierasferid
