@@ -4369,7 +4369,7 @@ foraramina
 fylfots
 foreacquaint
 foreconceive
-forb
+forb 1
 furosemide
 focuser
 forfeitable

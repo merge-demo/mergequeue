@@ -15042,7 +15042,7 @@ coenobitism
 coke
 civilness
 crowing
-civism
+civism 1
 civisms
 chloralizing
 civitan
