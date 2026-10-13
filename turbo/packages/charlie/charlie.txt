@@ -12338,7 +12338,7 @@ cuticularize
 chromatolysis
 conquerable
 chromatolytic
-chromatologies
+chromatologies 1
 chromatopathy
 celebe
 chromatophil
