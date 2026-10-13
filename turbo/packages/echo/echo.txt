@@ -11096,7 +11096,7 @@ escudero
 endimanche
 electrolyte
 ephestian
-exigent
+exigent 1
 euterpean
 enactments
 eutexia
