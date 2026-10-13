@@ -5824,7 +5824,7 @@ fulfils
 footback
 forgrown
 filariid
-floatage
+floatage 1
 farmeries
 flung
 fayal
