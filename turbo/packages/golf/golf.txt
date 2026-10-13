@@ -6814,7 +6814,7 @@ glossodynamometer
 goodwill
 gibel
 gravilea
-glycosyls
+glycosyls 1
 geryonia
 garle
 glutimate
