@@ -10865,7 +10865,7 @@ enarme
 euphemise
 elected
 euphemising
-euphemistically
+euphemistically 1
 euphemize
 eyebeam
 enneapetalous
