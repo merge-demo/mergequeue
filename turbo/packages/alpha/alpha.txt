@@ -7057,7 +7057,7 @@ adoniram
 adductive
 avick
 aphyllous
-amuletic
+amuletic 1
 autoist
 aquench
 axolotl
