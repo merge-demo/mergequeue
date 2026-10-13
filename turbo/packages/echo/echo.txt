@@ -3218,7 +3218,7 @@ eluctate
 elude
 equant
 educive
-extroversively
+extroversively 1
 eludible
 enswathes
 enfollow
