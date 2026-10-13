@@ -1537,7 +1537,7 @@ forepiece
 faunish
 fleecing
 foamers
-franklinite
+franklinite 1
 fattenable
 fauntleroy
 foreworn
