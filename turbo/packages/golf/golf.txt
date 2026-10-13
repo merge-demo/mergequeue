@@ -6122,7 +6122,7 @@ gravities
 gapper
 goodby
 gordiacean
-girja
+girja 1
 gyrous
 glabreity
 gurniad
