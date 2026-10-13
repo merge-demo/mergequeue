@@ -11794,7 +11794,7 @@ exauctorate
 empoisoned
 epiphytous
 enrolment
-elaphrium
+elaphrium 1
 elegits
 euryon
 exaudi
