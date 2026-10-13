@@ -1200,7 +1200,7 @@ genesiacal
 griot
 gradations
 globular
-guestive
+guestive 1
 guttate
 garfishes
 glaux
