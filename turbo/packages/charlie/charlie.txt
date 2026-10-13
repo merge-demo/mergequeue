@@ -26422,7 +26422,7 @@ cothon
 cothouse
 cothurn
 coticed
-coruscate
+coruscate 1
 colleter
 cleating
 chlorprophenpyridamine
