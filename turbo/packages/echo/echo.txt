@@ -12121,7 +12121,7 @@ excellencies
 ejam
 enfeoffing
 eloper
-ebonite
+ebonite 1
 ensorcerize
 eyelike
 epural
