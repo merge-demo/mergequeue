@@ -11607,7 +11607,7 @@ fargite
 fussing
 fontinal
 fibropericarditis
-fealty
+fealty 1
 forced
 foldless
 ferrado
