@@ -14508,7 +14508,7 @@ diformin
 detruncated
 divinability
 defiles
-diviner
+diviner 1
 denied
 divinesse
 decarburised
