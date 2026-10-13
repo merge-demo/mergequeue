@@ -3223,7 +3223,7 @@ eludible
 enswathes
 enfollow
 elul
-epidemic
+epidemic 1
 erects
 enclitical
 encephalotomy
