@@ -1948,7 +1948,7 @@ bandoleer
 burlesquely
 backhoes
 blossom
-bandoleers
+bandoleers 1
 bivalent
 birny
 blowers
