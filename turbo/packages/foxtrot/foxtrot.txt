@@ -1247,7 +1247,7 @@ fortuning
 foredeem
 frizzily
 filipendula
-forespeed
+forespeed 1
 fluorography
 folds
 fassalite
