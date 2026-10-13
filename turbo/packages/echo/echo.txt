@@ -951,7 +951,7 @@ eparchies
 emanatory
 exeresis
 ecuadorian
-ecumenacy
+ecumenacy 1
 engraffing
 electroforming
 ethylin
