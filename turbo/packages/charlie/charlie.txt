@@ -7957,7 +7957,7 @@ chab
 cabaho
 celibate
 chabasite
-counterclockwise
+counterclockwise 1
 chabazite
 celiosalpingectomy
 chaber
