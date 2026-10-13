@@ -2675,7 +2675,7 @@ decompress
 decompresses
 decolourisation
 detectaphone
-demiplacate
+demiplacate 1
 dcollet
 dhurnas
 dishonourer
