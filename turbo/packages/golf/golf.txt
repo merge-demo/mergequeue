@@ -10840,7 +10840,7 @@ gyrofrequency
 girderage
 gyrograph
 guttar
-guaiacum
+guaiacum 1
 grudgefully
 guzul
 genotypical
