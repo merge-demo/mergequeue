@@ -664,7 +664,7 @@ evilness
 exprobration
 extimulate
 enshrouding
-extracondensed
+extracondensed 1
 electrophysiology
 emaculate
 estheses
