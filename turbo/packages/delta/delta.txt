@@ -18050,7 +18050,7 @@ dullard
 debind
 dipotassium
 detrusor
-dullardness
+dullardness 1
 dispauper
 dullards
 donatories
