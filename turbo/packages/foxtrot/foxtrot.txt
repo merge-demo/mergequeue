@@ -8437,7 +8437,7 @@ fasels
 formee
 freethinking
 faintling
-fulminous
+fulminous 1
 fuliginousness
 francomania
 fuze
