@@ -8150,7 +8150,7 @@ emprosthotonus
 extrapolated
 endobatholithic
 ephippium
-entrepas
+entrepas 1
 engyscope
 episcopization
 enlighteners
