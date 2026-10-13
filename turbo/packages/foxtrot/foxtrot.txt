@@ -133,7 +133,7 @@ fibre
 fossiled
 facsimiled
 falser
-fracturable
+fracturable 1
 fleabites
 frigidaria
 flayers
