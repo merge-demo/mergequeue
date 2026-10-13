@@ -1195,7 +1195,7 @@ focalize
 fifths
 forepass
 foochowese
-footings
+footings 1
 fovea
 fascist
 fibrils
