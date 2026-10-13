@@ -9252,7 +9252,7 @@ dedd
 deforester
 diesters
 deflectable
-diestock
+diestock 1
 diestrous
 drawbridge
 dogears
