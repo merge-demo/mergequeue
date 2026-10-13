@@ -911,7 +911,7 @@ gambia
 garblings
 gyrocompass
 geoponical
-garnishable
+garnishable 1
 gemeinschaften
 guidership
 gelsemiumia
