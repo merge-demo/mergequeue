@@ -4638,7 +4638,7 @@ efferous
 enrapting
 eustachian
 eristalis
-enchorial
+enchorial 1
 echinoderm
 evolve
 eremiteship

@@ -6374,7 +6374,7 @@ given
 galere
 getspace
 goldspink
-glimmered
+glimmered 1
 gunmetals
 granolithic
 geotectology
