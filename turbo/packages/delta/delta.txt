@@ -18070,7 +18070,7 @@ deanimalize
 desiccates
 dullity
 disgaveling
-damnifying
+damnifying 1
 digitaria
 diocletian
 dullnesses
