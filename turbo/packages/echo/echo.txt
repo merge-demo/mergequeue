@@ -11742,7 +11742,7 @@ ephydrid
 euplocomi
 engoue
 erysipelous
-epanadiplosis
+epanadiplosis 1
 elusory
 excavating
 escheatorship
