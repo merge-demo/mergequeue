@@ -17459,7 +17459,7 @@ crosstrees
 cobbin
 causeries
 cobble
-capax
+capax 1
 cobbled
 commixes
 cobblerism
