@@ -3246,7 +3246,7 @@ epigon
 embryoscope
 encamping
 excretolic
-eunice
+eunice 1
 ecumenicize
 eluvies
 euphonize
