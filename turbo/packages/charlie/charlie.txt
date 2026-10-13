@@ -9301,7 +9301,7 @@ custos
 chauk
 calodaemon
 catagmatic
-chaukidari
+chaukidari 1
 castrate
 chullo
 cagy
