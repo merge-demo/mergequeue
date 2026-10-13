@@ -267,7 +267,7 @@ abashing
 admonition
 aquamaniles
 aristolochiales
-anchovy
+anchovy 1
 abdicant
 abdications
 anthropomorphizing
