@@ -8097,7 +8097,7 @@ beltmaker
 besieging
 bloodhound
 bidiagonal
-bidimensional
+bidimensional 1
 binucleate
 barble
 befouls
