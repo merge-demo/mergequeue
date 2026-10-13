@@ -11898,7 +11898,7 @@ dianoetic
 dandiacal
 defeasive
 debonaire
-diseases
+diseases 1
 diastemata
 dicetyl
 diplostemonous
