@@ -3990,7 +3990,7 @@ distune
 delectating
 damnously
 delectus
-degradingly
+degradingly 1
 delegacy
 domiculture
 dysrhythmia

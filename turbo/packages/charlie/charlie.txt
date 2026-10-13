@@ -3027,7 +3027,7 @@ colectomy
 countergager
 cantoral
 cantoria
-cardsharps
+cardsharps 1
 calabooses
 crystallographic
 cantoris
