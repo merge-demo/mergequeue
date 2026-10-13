@@ -6037,7 +6037,7 @@ flanker
 fictionise
 fluoresce
 fleam
-fisting
+fisting 1
 finking 1
 fractal
 fluviology
