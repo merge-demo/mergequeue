@@ -6890,7 +6890,7 @@ errorless
 exarchal
 elasticize
 escudos
-enlisted
+enlisted 1
 embonpoint
 ephoric
 eighteenths
