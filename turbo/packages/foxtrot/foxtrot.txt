@@ -7967,7 +7967,7 @@ felicitousness
 flaunty
 fordone
 forget
-funnelwise
+funnelwise 1
 familiarised
 forepleasure
 fiddling
