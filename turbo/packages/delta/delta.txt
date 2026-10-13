@@ -11880,7 +11880,7 @@ disdiapason
 delegatus
 distinguished
 dalliance
-dedifferentiated
+dedifferentiated 1
 dropsical
 defrosters
 dramm
