@@ -28672,7 +28672,7 @@ cavetto
 crenallation
 cuchulainn
 crenated
-crenately
+crenately 1
 cortins
 crotches
 cellblocks
