@@ -8976,7 +8976,7 @@ gnosiology
 gothicity
 giggit
 gironny
-gall
+gall 1
 genteel
 getae
 geniohyoid
