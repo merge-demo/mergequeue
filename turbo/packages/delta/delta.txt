@@ -7671,7 +7671,7 @@ dovened
 donable
 deviance
 dimples
-deviancy
+deviancy 1
 dogcatcher
 deinosauria
 disquantity
