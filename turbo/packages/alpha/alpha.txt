@@ -18902,7 +18902,7 @@ adherer
 anatropia
 archidiaconate
 archididascalos
-arouse
+arouse 1
 archidome
 astronomers 1
 audient
