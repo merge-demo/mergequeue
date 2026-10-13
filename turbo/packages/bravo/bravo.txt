@@ -8091,7 +8091,7 @@ bioherms
 bandboxes
 binocularity
 bourbon
-bug
+bug 1
 blasphemer
 beltmaker
 besieging
