@@ -1229,7 +1229,7 @@ bakingly
 bakli
 bribeless
 baymen
-burrowing
+burrowing 1
 biscot
 bearhide
 balloting
