@@ -10896,7 +10896,7 @@ causson
 counteradvise
 chiriguano
 chirimia
-cathedralwise
+cathedralwise 1
 chirino
 chirk
 chirkest
