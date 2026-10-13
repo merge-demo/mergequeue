@@ -13950,7 +13950,7 @@ diminuted
 diagenesis
 discrepance
 drawtubes
-defoam
+defoam 1
 dunking
 distomatosis
 doryphorus
