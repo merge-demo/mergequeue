@@ -660,7 +660,7 @@ extbook
 establishmentism
 ebriety
 ennoble
-evilness
+evilness 1
 exprobration
 extimulate
 enshrouding
