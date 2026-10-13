@@ -1041,7 +1041,7 @@ farmerly
 foreknowledge
 forrel
 ferash
-freshening
+freshening 1
 forensics
 fletcherize
 folates
