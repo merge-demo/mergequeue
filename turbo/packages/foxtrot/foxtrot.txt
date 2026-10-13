@@ -11061,7 +11061,7 @@ fondaco
 fedia
 flamenship
 fraghan
-frontality
+frontality 1
 funambuloes
 filled
 fixups
