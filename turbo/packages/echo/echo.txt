@@ -13544,7 +13544,7 @@ elflock
 eutaxie
 excitements
 enlightening
-earthquakes
+earthquakes 1
 exsectile
 experimentor
 exuviae
