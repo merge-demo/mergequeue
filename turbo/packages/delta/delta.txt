@@ -3660,7 +3660,7 @@ degraded
 degradement
 dozing
 depsid
-disrupt
+disrupt 1
 decimalisation
 discalced
 denigrate
