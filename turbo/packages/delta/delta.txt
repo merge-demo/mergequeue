@@ -8713,7 +8713,7 @@ disenfranchisements
 devastator
 dorsonuchal
 dumky
-diathermy
+diathermy 1
 demonstrate
 decorousness
 demoting
