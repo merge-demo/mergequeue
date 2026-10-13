@@ -15134,7 +15134,7 @@ bulging
 berlina
 bushbuck
 breviconic
-bunkered
+bunkered 1
 brevilingual
 bestirring
 baure
