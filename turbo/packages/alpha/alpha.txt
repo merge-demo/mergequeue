@@ -11394,7 +11394,7 @@ admedian
 aquifers
 antiplatelet
 amphoteric
-antonina
+antonina 1
 ampyxes
 abies
 amphigaean
