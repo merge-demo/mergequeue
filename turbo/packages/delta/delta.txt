@@ -16823,7 +16823,7 @@ donations
 dishonorary
 drawings
 duplicando
-deliquescent
+deliquescent 1
 dissociable
 dendrodus
 diaphanoscopy
