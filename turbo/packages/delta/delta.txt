@@ -18337,7 +18337,7 @@ dispar
 disshadow
 debussing
 detonate
-duodecastyle
+duodecastyle 1
 duodecennial
 duodecillions
 doxy
