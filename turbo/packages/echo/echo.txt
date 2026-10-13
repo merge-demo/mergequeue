@@ -1472,7 +1472,7 @@ electroshocks
 exposal
 embolium
 embarrased
-empathic
+empathic 1
 etui
 emeraude
 epizootically
