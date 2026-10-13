@@ -6780,7 +6780,7 @@ batten
 berthed
 bougainvillaea
 birdeye
-berther
+berther 1
 bradypodoid
 bluehearts
 buprestidan

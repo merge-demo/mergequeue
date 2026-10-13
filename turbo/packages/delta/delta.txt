@@ -4937,7 +4937,7 @@ decolonise
 disbursed
 dissentious
 dictators
-demoraliser
+demoraliser 1
 demoralising
 defecter
 diacrisis
