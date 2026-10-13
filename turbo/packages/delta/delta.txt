@@ -8457,7 +8457,7 @@ diambic
 devex
 diamegnetism
 diazepam
-diamesogamous
+diamesogamous 1
 delabialized
 dumfounderment
 deciares
