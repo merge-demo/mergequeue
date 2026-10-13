@@ -1324,7 +1324,7 @@ beltings
 binational
 balanta
 bescorn
-bisymmetry
+bisymmetry 1
 bottine
 balantidic
 balaos
