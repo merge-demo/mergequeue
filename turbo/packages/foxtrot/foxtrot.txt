@@ -4485,7 +4485,7 @@ forerigging
 footstool
 fishskin
 formidable
-frankenia
+frankenia 1
 flattercap
 fermal
 fishberry
