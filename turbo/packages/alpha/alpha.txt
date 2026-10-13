@@ -1166,7 +1166,7 @@ anonymities
 acamar
 allocrotonic
 allethrin
-assumedly
+assumedly 1
 ammoniacal
 azimuths
 acana
