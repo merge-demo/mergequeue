@@ -326,7 +326,7 @@ fessed
 fittage
 fewnesses
 fornicatory
-fplot
+fplot 1
 fluxionary
 feods
 forces
