@@ -12896,7 +12896,7 @@ deviator
 dermaptera
 disnew
 drachmae
-drawspan
+drawspan 1
 delving
 deorientalize
 disobeying
