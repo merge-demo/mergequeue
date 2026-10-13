@@ -12944,7 +12944,7 @@ cyanids
 cyanimide
 cyanine
 commemorators
-chaldrons
+chaldrons 1
 contingent
 cyanitic
 columnating
