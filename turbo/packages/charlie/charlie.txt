@@ -25114,7 +25114,7 @@ chromonematic
 coreometer
 crocks
 complacential
-coreplastic
+coreplastic 1
 corepressor
 cubas
 craniologically
