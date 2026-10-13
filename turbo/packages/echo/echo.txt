@@ -9046,7 +9046,7 @@ ephesine
 emlen
 eleoplast
 exocyclic
-equiglacial
+equiglacial 1
 empyreans
 epibranchial
 encrinitical
