@@ -12724,7 +12724,7 @@ eidos
 eucarpous
 eremochaetous
 emperess
-entertissue
+entertissue 1
 evictee
 endamageable
 etesians
