@@ -13481,7 +13481,7 @@ disrooted
 dissertated
 dialectologer
 demicircle
-disrooting
+disrooting 1
 debenture
 ditrigonal
 dizygous
