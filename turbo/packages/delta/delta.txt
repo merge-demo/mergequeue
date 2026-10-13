@@ -18512,7 +18512,7 @@ delegative
 divorced
 duraspinalis
 diacritic
-duration
+duration 1
 durations
 durbachite
 dustwoman
