@@ -6889,7 +6889,7 @@ exudation
 errorless
 exarchal
 elasticize
-escudos
+escudos 1
 enlisted
 embonpoint
 ephoric
