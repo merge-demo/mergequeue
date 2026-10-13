@@ -8923,7 +8923,7 @@ chareter
 comparatives
 charette
 censers
-chemisms
+chemisms 1
 chargable
 combmaker
 charge
