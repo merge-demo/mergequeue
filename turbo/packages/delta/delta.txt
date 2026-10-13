@@ -18219,7 +18219,7 @@ downfallen
 depersonalize
 delights
 dentatocostate
-diamagnetometer
+diamagnetometer 1
 detonatability
 deadlocks
 dermatorrhoea
