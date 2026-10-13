@@ -252,7 +252,7 @@ elevenfold
 equisegmented
 easylike
 eastabout
-eerisome
+eerisome 1
 enseam
 easted
 expiry
