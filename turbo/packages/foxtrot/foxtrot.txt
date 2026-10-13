@@ -5673,7 +5673,7 @@ funeration
 finite
 friended
 fuzz
-fusariose
+fusariose 1
 firking
 fountains
 firebrands
