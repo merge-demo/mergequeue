@@ -5731,7 +5731,7 @@ fainted
 fetor
 flirty
 feculent
-flourishes
+flourishes 1
 frae
 ferulas
 fungous
