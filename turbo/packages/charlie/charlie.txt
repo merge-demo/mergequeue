@@ -19601,7 +19601,7 @@ centimolar
 columnates
 columnation
 crinkleroot
-crystaled
+crystaled 1
 columner
 commonalties
 carolled
