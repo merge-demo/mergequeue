@@ -12994,7 +12994,7 @@ distater
 dispand
 descaling
 diphthongized
-disparageable
+disparageable 1
 disparagement
 disparagements
 documenting
