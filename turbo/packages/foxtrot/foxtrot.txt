@@ -9445,7 +9445,7 @@ flippery
 flexibly
 furnaceman
 fistful
-fulcrate
+fulcrate 1
 furculum
 fastwalk
 febricitant
