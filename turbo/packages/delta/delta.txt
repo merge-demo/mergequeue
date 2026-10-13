@@ -5512,7 +5512,7 @@ departer
 devastated
 dehistoricize
 drama
-dematiaceous
+dematiaceous 1
 denotement
 dynatron
 directionality
