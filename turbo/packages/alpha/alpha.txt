@@ -23370,7 +23370,7 @@ autogenesis
 aucubas
 abovementioned
 acned
-allokinetic
+allokinetic 1
 allophanamide
 amorphotae
 apposed
