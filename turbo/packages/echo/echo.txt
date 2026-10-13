@@ -7146,7 +7146,7 @@ enwallow
 excandescence
 earthshine
 endymion
-eposes
+eposes 1
 empassion
 eglandulous
 expirer
