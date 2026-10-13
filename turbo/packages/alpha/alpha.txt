@@ -18624,7 +18624,7 @@ acraeinae
 arcboutant
 abundances
 arccos
-appomattoc
+appomattoc 1
 apostume
 assiduousness
 anhematosis
