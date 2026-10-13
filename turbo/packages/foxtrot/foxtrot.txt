@@ -590,7 +590,7 @@ falloff
 flamier
 frequentative
 frappe
-feeblish
+feeblish 1
 funerate
 fenugreek
 flamless
