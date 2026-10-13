@@ -4926,7 +4926,7 @@ frogflower
 facetiously
 flatteringly
 fuster
-fergusite
+fergusite 1
 frenetic
 formly
 fchar
