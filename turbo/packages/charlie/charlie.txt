@@ -18991,7 +18991,7 @@ caesarean
 collection
 cinnamon
 collectivise
-collectivism
+collectivism 1
 collectivist
 circumcircle
 collectivistically
