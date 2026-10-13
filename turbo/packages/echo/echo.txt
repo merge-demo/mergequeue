@@ -5488,7 +5488,7 @@ encake
 electroscope
 elritch
 ectocarpic
-excitate
+excitate 1
 examiner
 epizoal
 equiformity
