@@ -8735,7 +8735,7 @@ domelike
 disproportionateness
 discriminate
 diatomales
-deplorer
+deplorer 1
 diatomeae
 diatomicity
 duetted
