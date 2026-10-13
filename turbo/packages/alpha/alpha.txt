@@ -5581,7 +5581,7 @@ allomerism
 attentat
 apholate
 aftershaft
-aftershafted
+aftershafted 1
 acetylcholinic
 almagests
 appalachia
