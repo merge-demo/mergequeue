@@ -4964,7 +4964,7 @@ electrocorticogram
 envy
 extirpative
 equinia
-engraphic
+engraphic 1
 endoskeleton
 excreation
 earthgall
