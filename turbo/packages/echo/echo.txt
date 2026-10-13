@@ -11845,7 +11845,7 @@ extrared
 eustacy
 enlace
 excave
-emphasize
+emphasize 1
 eructated
 entoperipheral
 extancy
