@@ -3892,7 +3892,7 @@ countertranslation
 charmfulness
 carbonization
 crassulaceous
-carbonize
+carbonize 1
 charlatanism
 carbonizers
 concn
