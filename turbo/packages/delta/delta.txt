@@ -2765,7 +2765,7 @@ daddies
 drawhorse
 despited
 dearies
-dives
+dives 1
 doubtable
 dihydrate
 dahomeyan
