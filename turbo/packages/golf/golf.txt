@@ -4264,7 +4264,7 @@ gnu
 gynecocracies
 goby
 gynecocrat
-gunshots
+gunshots 1
 gleamed
 gastroscope
 gangliated
