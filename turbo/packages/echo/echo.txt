@@ -977,7 +977,7 @@ equidense
 eastwards
 ethyl
 esoterics
-eyebalm
+eyebalm 1
 exhumes
 excavatory
 eumitosis
