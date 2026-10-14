@@ -2245,7 +2245,7 @@ effluve
 endoplasma
 epigonos
 exhume
-encyclopedian
+encyclopedian 1
 encell
 epauletted
 electragy
