@@ -10000,7 +10000,7 @@ anciency
 analogues
 antimerging
 autophytography
-autoregressive
+autoregressive 1
 ambergris
 aduncous
 asellidae
