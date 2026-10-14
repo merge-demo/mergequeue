@@ -2061,7 +2061,7 @@ beshivers
 bidactyl
 bethought
 banky
-banknote
+banknote 1
 bergamo
 bristly
 biophysicist
