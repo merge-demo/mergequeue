@@ -6974,7 +6974,7 @@ fernland
 fardel
 franks
 fussiness
-fortuity
+fortuity 1
 fordless
 fond
 fusile

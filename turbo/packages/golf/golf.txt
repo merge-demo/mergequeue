@@ -9270,7 +9270,7 @@ galeres
 grizzel
 gibingly
 graininess
-glowworm
+glowworm 1
 guts
 grueling
 gaugeably
