@@ -3048,7 +3048,7 @@ anura
 actinomycete
 allogeneity
 analcime
-actinomycosistic
+actinomycosistic 1
 auxillary
 alacrify
 aphrodisiac
