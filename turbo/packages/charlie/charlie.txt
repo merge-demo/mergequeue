@@ -11914,7 +11914,7 @@ choreus
 choreutic
 chorial
 cilician
-choriamb
+choriamb 1
 choriambic
 chorometry
 cozenage
