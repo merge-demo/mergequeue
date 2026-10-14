@@ -8263,7 +8263,7 @@ aposporous
 android
 anonad
 aconitia
-acquaintedness
+acquaintedness 1
 alienability
 albuminousness
 ascetta
