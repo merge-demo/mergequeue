@@ -10767,7 +10767,7 @@ bywords
 butterroot
 befrill
 blepharadenitis
-blepharanthracosis
+blepharanthracosis 1
 boylike
 brutalise
 blepharism
