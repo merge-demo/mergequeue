@@ -909,7 +909,7 @@ exsanguine
 extrastate
 electromechanical
 episedia
-encomiastic
+encomiastic 1
 endosporous
 eriodictyon
 ectotoxin
