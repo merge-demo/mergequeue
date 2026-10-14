@@ -13472,7 +13472,7 @@ cylindric
 cylindrically
 cylindricity
 cylindricule
-cylindriform
+cylindriform 1
 calpack
 cylindrocylindric
 choleric

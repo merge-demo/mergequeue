@@ -1257,7 +1257,7 @@ gradings
 gingersnaps
 golliwogg
 greasers
-galliardly
+galliardly 1
 griffes
 guenon
 grimaces

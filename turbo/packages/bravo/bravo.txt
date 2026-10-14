@@ -15696,7 +15696,7 @@ bauxitite
 bogie
 bluster
 botulismus
-burr
+burr 1
 bedog
 baskish
 braggiest
