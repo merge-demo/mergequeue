@@ -30,7 +30,7 @@ fieldmen
 fibrolitic
 feaked
 fibrocyst
-fabricates
+fabricates 1
 fabricator
 flintless
 furies
