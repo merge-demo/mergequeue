@@ -7079,7 +7079,7 @@ giottesque
 glaces
 gestalter
 guerite
-gaus
+gaus 1
 gunwales
 gesnerian
 garbell
