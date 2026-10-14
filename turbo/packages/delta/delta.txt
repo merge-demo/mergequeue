@@ -9444,7 +9444,7 @@ dozener
 digeneous
 decubitus
 dissert
-digenetic
+digenetic 1
 digenetica
 digue
 diplanetism
