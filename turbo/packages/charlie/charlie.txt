@@ -8418,7 +8418,7 @@ cuttable
 chamoisite
 cannonball
 chamoline
-chamorro
+chamorro 1
 copalcocote
 cunei
 chromotherapist
