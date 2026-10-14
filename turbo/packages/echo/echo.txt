@@ -10888,7 +10888,7 @@ exemplaric
 epizoism
 exmoor
 electromyographically
-exothermic
+exothermic 1
 ethanoyl
 esthete
 electromuscular
