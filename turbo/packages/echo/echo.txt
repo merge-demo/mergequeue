@@ -14027,7 +14027,7 @@ exordize
 enigmatography
 endothecia
 epitrophic
-exr
+exr 1
 enthrallingly
 enteroclisis
 extractorship
