@@ -6577,7 +6577,7 @@ gemminess
 gnatty
 grovelingly
 gleditsia
-gandoura
+gandoura 1
 goumier
 gastropod
 ghettos
