@@ -9898,7 +9898,7 @@ estimate
 eerily
 eluders
 exilian
-elongative
+elongative 1
 estimations
 eprosy
 envelopers
