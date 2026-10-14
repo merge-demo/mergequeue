@@ -11441,7 +11441,7 @@ admonitory
 anhydremia
 apodosis
 ampullary
-ampullate
+ampullate 1
 aqueoigneous
 amphioxus
 ampulliform
