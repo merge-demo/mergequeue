@@ -2937,7 +2937,7 @@ gastroscopic
 gooseflower
 gunks
 guardingly
-gaddang
+gaddang 1
 gurkha
 guapilla
 gibes
