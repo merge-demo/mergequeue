@@ -12699,7 +12699,7 @@ bize
 bidialectalism
 blowholes
 bear
-bungarus
+bungarus 1
 beautifier
 boroughmongering
 benchless
