@@ -10305,7 +10305,7 @@ energising
 expendable
 equipostile
 epifocal
-exosmic
+exosmic 1
 extemporise
 exaggerative
 eupomatiaceae
