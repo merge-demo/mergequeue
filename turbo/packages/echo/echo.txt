@@ -12148,7 +12148,7 @@ enswathing
 emblazes
 entertainments
 estrado
-electric
+electric 1
 exostome
 embergoose
 excuser
