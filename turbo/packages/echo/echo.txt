@@ -11855,7 +11855,7 @@ endosperm
 evanescent
 eucre
 econometric
-epiphytically
+epiphytically 1
 everwhich
 eparchate
 enfranchisement
