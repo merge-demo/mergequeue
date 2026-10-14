@@ -2786,7 +2786,7 @@ decreer
 deordination
 decurrently
 diamondized
-decreet
+decreet 1
 demarchy
 desmogen
 dugal
