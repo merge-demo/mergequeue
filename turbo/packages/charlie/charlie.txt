@@ -23821,7 +23821,7 @@ contratenor
 contravalence
 contravene
 contravener
-cardueline
+cardueline 1
 chlorinous
 contravening
 contraversion
