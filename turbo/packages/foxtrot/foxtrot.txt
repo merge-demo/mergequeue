@@ -324,7 +324,7 @@ fagaceae
 firesafe
 fessed
 fittage
-fewnesses
+fewnesses 1
 fornicatory
 fplot
 fluxionary
