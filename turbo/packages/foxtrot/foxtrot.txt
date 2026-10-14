@@ -6683,7 +6683,7 @@ fruiteress
 flintlock
 flexura
 flouts
-feudary
+feudary 1
 fogfruits
 frizel
 fluerics
