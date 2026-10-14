@@ -2967,7 +2967,7 @@ geographies
 gemmologists
 galliardness
 geoids
-gloriole
+gloriole 1
 gastrostomy
 gendered
 galatine
