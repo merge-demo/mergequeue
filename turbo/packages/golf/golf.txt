@@ -9960,7 +9960,7 @@ gritless
 geocratic
 guarrau
 gogglers
-glegness
+glegness 1
 glyptic
 gonake
 googols
