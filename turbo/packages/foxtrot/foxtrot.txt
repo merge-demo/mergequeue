@@ -2705,7 +2705,7 @@ frighteningness
 floodwall
 fishify
 foredivine
-fuminess
+fuminess 1
 flamant
 flambe
 faithing
