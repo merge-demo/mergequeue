@@ -6747,7 +6747,7 @@ cribbages
 clavecin
 celebs
 celemin
-celemines
+celemines 1
 celery
 cimborio
 cypres
