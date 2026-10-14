@@ -13643,7 +13643,7 @@ dissiliency
 dissilient
 dolichurus
 dermatobia
-dissyllabic
+dissyllabic 1
 dasypaedic
 documentarian
 dissyllabised
