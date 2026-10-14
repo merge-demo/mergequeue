@@ -11640,7 +11640,7 @@ fructoses
 ferren
 fustiness
 fustoc
-fussily
+fussily 1
 fusulae
 feathery
 fusure
