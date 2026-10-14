@@ -11850,7 +11850,7 @@ eructated
 entoperipheral
 extancy
 elutes
-exceeded
+exceeded 1
 endosperm
 evanescent
 eucre
