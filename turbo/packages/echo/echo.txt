@@ -11125,7 +11125,7 @@ entanglingly
 entry
 enjambments
 encomy
-evacuant
+evacuant 1
 eighteenmos
 episome
 extipulate
