@@ -11038,7 +11038,7 @@ fraction
 fumarate
 flammulated
 fontainea
-frontolysis
+frontolysis 1
 fancies
 flanerie
 fumishing
