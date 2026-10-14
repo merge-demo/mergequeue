@@ -8160,7 +8160,7 @@ ethmosphenoid
 episcopized
 equanimity
 euchromatin
-extemporalness
+extemporalness 1
 elenchically
 expedientist
 evelong
