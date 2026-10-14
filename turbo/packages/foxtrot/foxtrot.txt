@@ -10256,7 +10256,7 @@ fasher
 frolicker
 frolicking
 frillies
-flagitiousness
+flagitiousness 1
 faitour
 ferricyanhydric
 freebooters
