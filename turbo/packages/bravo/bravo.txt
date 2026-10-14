@@ -894,7 +894,7 @@ bedamning
 baggager
 benzidin
 benzalcohol
-beffroy
+beffroy 1
 baggala
 borderlight
 bagganet
