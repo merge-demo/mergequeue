@@ -4552,7 +4552,7 @@ grademark
 gnarred
 girder
 gil
-generalate
+generalate 1
 greens 1
 goosebill
 geometrid

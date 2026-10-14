@@ -2910,7 +2910,7 @@ broadcasts
 broadthroat
 biverbal
 beclatter
-bestride
+bestride 1
 boxlike
 braked
 badinage
