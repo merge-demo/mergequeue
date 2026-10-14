@@ -10606,7 +10606,7 @@ diphtheritic
 deceptivity
 diplonema
 deuteric
-detritus
+detritus 1
 dunnaged
 delisting
 diplonts
