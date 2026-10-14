@@ -13961,7 +13961,7 @@ ectotrophic
 expressless
 epimer
 eozoonal
-endokaryogamy
+endokaryogamy 1
 enface
 electropoion
 escheatage
