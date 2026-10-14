@@ -4836,7 +4836,7 @@ embusy
 escapable
 exorciser
 episcopable
-embryogenetic
+embryogenetic 1
 enshrining
 engraven
 eria
