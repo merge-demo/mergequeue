@@ -12615,7 +12615,7 @@ coons
 cellulating
 corsetiere
 candlepin
-chubby
+chubby 1
 cayuco
 chubbier
 colorless
