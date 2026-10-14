@@ -2057,7 +2057,7 @@ frontspiece
 feinter
 facedown
 faucalize
-flindosa
+flindosa 1
 flatlander
 fascicule
 flaunting
