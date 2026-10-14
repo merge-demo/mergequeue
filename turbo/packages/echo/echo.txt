@@ -7536,7 +7536,7 @@ electronics
 eastward
 epicedian
 epicedium
-entropies
+entropies 1
 entopterygoid
 eburine
 ensorceling
