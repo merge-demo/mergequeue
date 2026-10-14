@@ -18506,7 +18506,7 @@ daffish
 disawa
 datch
 drongos
-durances
+durances 1
 downcast
 delegative
 divorced
