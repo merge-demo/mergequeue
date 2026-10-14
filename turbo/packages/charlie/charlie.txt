@@ -10332,7 +10332,7 @@ consultory
 canariote
 chickwit
 chicle
-chicly
+chicly 1
 chicness
 chantries
 chico
