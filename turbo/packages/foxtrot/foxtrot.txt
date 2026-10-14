@@ -2436,7 +2436,7 @@ fractur
 frizzle
 frisco
 farandola
-flutterable
+flutterable 1
 frazer
 fulgourous
 feasters
