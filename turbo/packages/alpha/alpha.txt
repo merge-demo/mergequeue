@@ -21370,7 +21370,7 @@ amphoras
 alloys
 azobacter
 acroter
-asyndeton
+asyndeton 1
 abditive
 asyndetons
 acanthocephalous
