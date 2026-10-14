@@ -10373,7 +10373,7 @@ embrase
 epigeous
 earwigging
 epiphanize
-electropositive
+electropositive 1
 enfranchisable
 exodromic
 exchanged
