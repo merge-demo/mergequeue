@@ -546,7 +546,7 @@ almners
 ablend
 adore
 acetolysis
-ataraxies
+ataraxies 1
 amidophosphoric
 amyotrophia
 actualize
