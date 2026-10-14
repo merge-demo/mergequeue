@@ -23716,7 +23716,7 @@ articles
 auriphone
 auriphrygia
 auripigment
-aurir
+aurir 1
 auriscalpia
 auriscopy
 aurist
