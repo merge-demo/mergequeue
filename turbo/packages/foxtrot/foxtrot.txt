@@ -5976,7 +5976,7 @@ fets
 fanwright
 fomites
 favism
-firkin
+firkin 1
 fawn
 forecasters
 footscald
