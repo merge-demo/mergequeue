@@ -5804,7 +5804,7 @@ flamingly
 flittermouse
 fellowship
 flitters
-frequents
+frequents 1
 flankwise
 froggiest
 frivolize
