@@ -1470,7 +1470,7 @@ anticness
 acclinal
 adhesivemeter
 arhythmical
-autopolyploidy
+autopolyploidy 1
 acclinate
 amidocyanogen
 admittatur
