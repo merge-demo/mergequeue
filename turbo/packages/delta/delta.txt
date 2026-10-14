@@ -15660,7 +15660,7 @@ dopey
 decrements
 doper
 disbarring
-dopier
+dopier 1
 directed
 dogstone
 docile
