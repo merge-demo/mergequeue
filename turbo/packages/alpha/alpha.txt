@@ -10366,7 +10366,7 @@ alkalic
 amerces
 amerciament
 amercing
-airfares
+airfares 1
 america
 arrayed
 americanese
