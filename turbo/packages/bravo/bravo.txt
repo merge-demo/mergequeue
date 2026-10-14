@@ -4762,7 +4762,7 @@ binnacle
 boltwork
 bedraping
 bedread
-bedrench
+bedrench 1
 baldling
 blast
 bed
