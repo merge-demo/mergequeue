@@ -4302,7 +4302,7 @@ addu
 adrenitis
 archcount
 adrenochrome
-adrenocortical
+adrenocortical 1
 adrenosterone
 adrenocorticotrophic
 ammonolysis
