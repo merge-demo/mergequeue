@@ -783,7 +783,7 @@ galvanothermometer
 glint
 ggr
 goldfinch
-galliformes
+galliformes 1
 ginneries
 goose
 gies
