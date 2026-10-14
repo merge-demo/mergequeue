@@ -10447,7 +10447,7 @@ bhutan
 bathmic
 blason
 blasphemed
-blasphemes
+blasphemes 1
 blasphemies
 blasphemous
 blasphemousness
