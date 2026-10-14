@@ -10077,7 +10077,7 @@ chipchap
 chessdom
 coffins
 chesser
-cabinda
+cabinda 1
 chesses
 chessylite
 chessist
