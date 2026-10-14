@@ -3481,7 +3481,7 @@ descending
 disjunct
 dispendiously
 debilitant
-decelerating
+decelerating 1
 decompressed
 deflator
 deforced
