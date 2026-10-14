@@ -5662,7 +5662,7 @@ exordiums
 exposable
 eligibly
 erysiphaceae
-ectocelic
+ectocelic 1
 extranatural
 everbearing
 eng
