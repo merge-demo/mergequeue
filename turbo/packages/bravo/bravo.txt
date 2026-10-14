@@ -15461,7 +15461,7 @@ bludgeoner
 bota
 bifurcations
 battledoring
-brilliancies
+brilliancies 1
 bagged
 brutally
 brilliandeer
