@@ -1074,7 +1074,7 @@ accurtation
 alcelaphine
 ammoniojarosite
 apparelled
-abundancy
+abundancy 1
 abundant
 abundantly
 agnatically
