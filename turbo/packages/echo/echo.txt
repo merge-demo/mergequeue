@@ -2921,7 +2921,7 @@ elfwort
 erigenia
 elian
 enervated
-exacinate
+exacinate 1
 equicostate
 encystation
 elias
