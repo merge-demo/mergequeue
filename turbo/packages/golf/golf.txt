@@ -9959,7 +9959,7 @@ gondoliers
 gritless
 geocratic
 guarrau
-gogglers
+gogglers 1
 glegness
 glyptic
 gonake
