@@ -5844,7 +5844,7 @@ arithmetical
 atteal
 agelast
 agelaus
-agelessness
+agelessness 1
 aphicidal
 adradial
 achaque
