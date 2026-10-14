@@ -12500,7 +12500,7 @@ exculpative
 extoolitic
 esonarthex
 enameler
-electrofusion
+electrofusion 1
 extant
 existlessness
 emeses
