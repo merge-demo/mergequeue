@@ -2821,7 +2821,7 @@ epiclesis
 embden
 endomastoiditis
 erratuta
-exostracize
+exostracize 1
 elan
 endoubt
 enseat
