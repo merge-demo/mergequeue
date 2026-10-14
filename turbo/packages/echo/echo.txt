@@ -13042,7 +13042,7 @@ expermentized
 exosculation
 embankment
 ergates
-enslave
+enslave 1
 embassador
 eutaxite
 explications
