@@ -18134,7 +18134,7 @@ dictions
 debatable
 dardistan
 distinctionless
-dardic
+dardic 1
 duppa
 domatophobia
 dumose
