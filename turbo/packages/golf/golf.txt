@@ -8590,7 +8590,7 @@ governess
 growths
 gastrocnemius
 glabriety
-griqua
+griqua 1
 gravity
 germinal
 gradually
