@@ -6703,7 +6703,7 @@ coathangers
 colligation
 ceinture
 ceyx
-ceja
+ceja 1
 configural
 clovery
 charcia
