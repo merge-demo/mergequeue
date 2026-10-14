@@ -6005,7 +6005,7 @@ exigence
 electrodesiccate
 electricalness
 embolomerism
-electrodynamism
+electrodynamism 1
 exhortative
 estampedero
 erosion
