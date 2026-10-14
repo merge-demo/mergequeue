@@ -4274,7 +4274,7 @@ escarpments
 ectogenous
 engs
 enhydra
-equiponderate
+equiponderate 1
 excerpts
 effectible
 en
