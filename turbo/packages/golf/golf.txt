@@ -6698,7 +6698,7 @@ growable
 geotherm
 gromatic
 geochronometry
-grattage
+grattage 1
 gewgawed
 gradual
 gastrotheca
