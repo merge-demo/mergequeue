@@ -6951,7 +6951,7 @@ abstruseness
 allicins
 ays
 antipneumococcic
-anatomopathologic
+anatomopathologic 1
 alogism
 acetaldehydrase
 aissor
