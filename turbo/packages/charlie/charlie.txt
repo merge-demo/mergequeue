@@ -3045,7 +3045,7 @@ cantrip
 cantus
 cantuta
 cantwise
-castigated
+castigated 1
 canula
 canulae
 canulas
