@@ -13259,7 +13259,7 @@ englifier
 estranger
 evict
 eponymize
-eternizing
+eternizing 1
 exantlate
 ensheath
 epignathous
