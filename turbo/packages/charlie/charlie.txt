@@ -28240,7 +28240,7 @@ cardiopathy
 councillor
 crapehanger
 cinnabaric
-crapette
+crapette 1
 conjoiner
 concordial
 cricothyreoid
