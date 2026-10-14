@@ -2492,7 +2492,7 @@ deckle
 dulls
 discal
 diatropism
-deferral
+deferral 1
 duds
 dishonourary
 dichorisandra
