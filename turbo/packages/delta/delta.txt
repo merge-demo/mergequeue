@@ -15807,7 +15807,7 @@ dorsicornu
 dorsiflex
 does
 diascia
-dorsiflexion
+dorsiflexion 1
 deuteron
 detects
 defreeze
