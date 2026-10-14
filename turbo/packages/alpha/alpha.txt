@@ -24022,7 +24022,7 @@ appalachian
 accerse
 antapocha
 antiproton
-align
+align 1
 acetobacter
 autoclave
 allemands
