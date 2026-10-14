@@ -4224,7 +4224,7 @@ empirically
 epicurism
 euascomycetes
 escrol
-emulant
+emulant 1
 earwiggy
 elucidator
 ergonomically
