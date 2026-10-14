@@ -7716,7 +7716,7 @@ geopolitic
 girning
 geolatry
 galvanized
-gunpowderous
+gunpowderous 1
 gauzy
 globus
 gallivanter
