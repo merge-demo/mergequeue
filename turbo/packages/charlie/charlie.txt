@@ -28582,7 +28582,7 @@ credulities
 carabin
 creed
 creeded
-cerumens
+cerumens 1
 calamistrum
 caddised
 creeds
