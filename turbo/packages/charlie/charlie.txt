@@ -21986,7 +21986,7 @@ confidingness
 canteens
 coinsurable
 coexclusive
-configurating
+configurating 1
 configuration
 configurationally
 configurations
