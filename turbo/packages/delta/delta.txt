@@ -6521,7 +6521,7 @@ descensionist
 descensive
 donor
 descent
-despert
+despert 1
 dekameter
 diffracting
 deschool
