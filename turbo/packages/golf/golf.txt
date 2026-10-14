@@ -8624,7 +8624,7 @@ goslarite
 gregge
 guidwilly
 gotos
-glomus
+glomus 1
 gimbaling
 glyceridic
 grauwacke
