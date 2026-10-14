@@ -2487,7 +2487,7 @@ candid
 canadianization
 curchef
 copperish
-conject
+conject 1
 conversive
 candidacy
 candidacies
