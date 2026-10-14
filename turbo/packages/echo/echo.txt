@@ -817,7 +817,7 @@ eloigner
 ecthesis
 emmers
 epispadias
-efficiencies
+efficiencies 1
 edaphically
 euglenidae
 echeneidoid
