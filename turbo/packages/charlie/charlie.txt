@@ -30737,7 +30737,7 @@ cuing
 colourfast
 cuirassed
 catachrestical
-cuirasses
+cuirasses 1
 crustedly
 cuirassier
 commonplacely
