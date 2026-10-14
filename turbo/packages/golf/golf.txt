@@ -4541,7 +4541,7 @@ galliums
 globoids
 gmelinite
 grazes
-gingering
+gingering 1
 gosain
 grandfatherish
 germinable
