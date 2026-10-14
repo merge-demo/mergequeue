@@ -10685,7 +10685,7 @@ dowcote
 dipodomys
 dipolar
 dingar
-diaculum
+diaculum 1
 depit
 dormin
 demurs
