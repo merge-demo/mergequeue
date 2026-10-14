@@ -17061,7 +17061,7 @@ disorders
 distannic
 dryadetum
 damners
-dentistic
+dentistic 1
 dactyliographer
 dribbles
 dosers
