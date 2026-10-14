@@ -7343,7 +7343,7 @@ defiantly
 disprejudice
 deterrent
 dodunk
-detersiveness
+detersiveness 1
 diastral
 disunions
 detestation
