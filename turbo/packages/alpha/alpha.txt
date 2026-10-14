@@ -887,7 +887,7 @@ adjt
 absinthole
 amberite
 artilize
-amphivasal
+amphivasal 1
 angiohypertonia
 amphineurous
 aeronomy
