@@ -12943,7 +12943,7 @@ differers
 demihague
 disks
 doddard
-dyschromatoptic
+dyschromatoptic 1
 demivoice
 decentralist
 dolomitized
