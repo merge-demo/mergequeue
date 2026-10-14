@@ -3899,7 +3899,7 @@ concn
 chylificatory
 carbonizing
 carbonometer
-carbonous
+carbonous 1
 carbons
 carbonuria
 calcined
