@@ -5424,7 +5424,7 @@ ghilzai
 glyoxalic
 galliwasp
 guniter
-glyphic
+glyphic 1
 gambist
 guran
 girlhood
