@@ -11289,7 +11289,7 @@ episcoparian
 epoche
 excoriator
 earthbred
-ensate
+ensate 1
 eir
 ecurie
 equisurface
