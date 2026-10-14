@@ -14126,7 +14126,7 @@ eutrophy
 endosternite
 embusqu
 endosiphonal
-extensory
+extensory 1
 episcopates
 ebonizing
 ephemerality
