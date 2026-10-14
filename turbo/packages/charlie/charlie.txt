@@ -10863,7 +10863,7 @@ chippers
 coefficient
 chippewas
 cormel
-chippy
+chippy 1
 counterlighting
 cobishop
 cometic
