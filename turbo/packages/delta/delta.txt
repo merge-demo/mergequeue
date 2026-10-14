@@ -12197,7 +12197,7 @@ dysfunctions
 disfurnish
 deport
 disfurnished
-dangerless
+dangerless 1
 deathshot
 dervishes
 disfurniture
