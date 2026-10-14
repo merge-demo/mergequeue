@@ -8679,7 +8679,7 @@ gonocalycine 1
 gliders
 graphitizing
 growthless
-goopy
+goopy 1
 geyser
 glossless
 gobmouthed
