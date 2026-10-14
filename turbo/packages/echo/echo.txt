@@ -4642,7 +4642,7 @@ enchorial
 echinoderm
 evolve
 eremiteship
-enchoric
+enchoric 1
 encyclopedias
 ekoi
 enteropathy
