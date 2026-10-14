@@ -11093,7 +11093,7 @@ aubade
 artiodactyl
 apostolic
 attics
-amotus
+amotus 1
 arbitrament
 amounted
 anonymous
