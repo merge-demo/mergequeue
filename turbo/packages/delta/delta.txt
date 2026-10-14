@@ -6408,7 +6408,7 @@ diglyphic
 docquet
 deewans
 deportment
-disadvanced
+disadvanced 1
 derride
 disleave
 derriere
