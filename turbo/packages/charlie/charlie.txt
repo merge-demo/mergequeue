@@ -10366,7 +10366,7 @@ chieftain
 chieftaincy
 chieftainess
 chieftainry
-complexify
+complexify 1
 chalcosiderite
 chieftainries
 concludendi
