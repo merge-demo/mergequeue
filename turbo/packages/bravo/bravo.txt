@@ -2334,7 +2334,7 @@ benzoles
 bubaline
 bullrings
 bagger
-bartholomite
+bartholomite 1
 blameably
 baobab
 breloque
