@@ -1191,7 +1191,7 @@ entitule
 education
 edulcorating
 enscroll
-educational
+educational 1
 ethnocentrism
 extratracheal
 estipulate
