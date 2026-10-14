@@ -27107,7 +27107,7 @@ counters
 crotchety
 compressedly
 causability
-counterscalloped
+counterscalloped 1
 carpent
 counterscarp
 counterscoff
