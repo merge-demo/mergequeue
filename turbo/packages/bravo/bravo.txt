@@ -2519,7 +2519,7 @@ bargelike
 beet
 bargellos
 beswinge
-begroans
+begroans 1
 barger
 bardash
 bractea
