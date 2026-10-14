@@ -7470,7 +7470,7 @@ goldfish
 geologising
 gourded
 gothics
-geomyid
+geomyid 1
 gospelist
 granuliferous
 gabbler
