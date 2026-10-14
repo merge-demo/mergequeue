@@ -3693,7 +3693,7 @@ bucketmaker
 beltis
 batterie
 breck
-batterman
+batterman 1
 blennemesis
 bullockman
 bepinch
