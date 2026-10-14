@@ -12547,7 +12547,7 @@ ethane
 eaglestone
 earthpeas
 embrawn
-epsomite
+epsomite 1
 etymologist
 euphon
 ethion
