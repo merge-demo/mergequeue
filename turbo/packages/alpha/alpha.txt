@@ -15126,7 +15126,7 @@ albedometer
 amphitokal
 artotypy
 aspherical
-anoplanthus
+anoplanthus 1
 antidromically
 apparance
 antidrug
