@@ -11086,7 +11086,7 @@ espies
 esquiredom
 encage
 entune
-ewery
+ewery 1
 emulated
 emblemish
 eutaenia
