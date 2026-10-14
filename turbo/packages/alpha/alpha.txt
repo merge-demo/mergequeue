@@ -10509,7 +10509,7 @@ anatinae
 adscendent
 agib
 amyclas
-alboranite
+alboranite 1
 amicous
 absolutistically
 amicronucleate
