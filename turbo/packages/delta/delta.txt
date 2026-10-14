@@ -160,7 +160,7 @@ dewtry
 dadenhudd
 duressor
 dimercurion
-deprivations
+deprivations 1
 depasturable
 drugstore
 doltishly
