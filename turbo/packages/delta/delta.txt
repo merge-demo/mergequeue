@@ -2626,7 +2626,7 @@ deguelia
 dumbcow
 dispensaries
 displeaser
-discontinues
+discontinues 1
 decoloring
 disavowed
 diogenes
