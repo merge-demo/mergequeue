@@ -11075,7 +11075,7 @@ anthropometer
 archegone
 acroblast
 assais
-amorphus
+amorphus 1
 amort
 amortizable
 algic
