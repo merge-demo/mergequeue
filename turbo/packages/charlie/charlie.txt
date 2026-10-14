@@ -11897,7 +11897,7 @@ cuds
 calculabilities
 condescends
 covibrate
-crestfallenness
+crestfallenness 1
 cerites
 cohanim
 cruces
