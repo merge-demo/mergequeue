@@ -4126,7 +4126,7 @@ featherbrain
 fattable
 formal
 forgery
-fatalness
+fatalness 1
 fissipedal
 ferth
 fiendful
