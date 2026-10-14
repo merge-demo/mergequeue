@@ -6459,7 +6459,7 @@ evolutes
 ectodermic
 enlister
 enstar
-enrapturing
+enrapturing 1
 espanoles
 elocation
 entr

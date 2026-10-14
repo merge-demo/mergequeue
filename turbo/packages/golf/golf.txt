@@ -5639,7 +5639,7 @@ gastrasthenia
 gravy
 gastly
 game
-gunstick
+gunstick 1
 glueman
 gallinago
 gowkedness
