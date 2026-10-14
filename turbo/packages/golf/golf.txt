@@ -5200,7 +5200,7 @@ graftage
 galore
 gemara
 gerbils
-gieseckite
+gieseckite 1
 gena
 geogenesis
 grottesco
