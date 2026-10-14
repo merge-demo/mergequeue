@@ -2075,7 +2075,7 @@ fusulas
 fieldfare
 foys
 fwelling
-flocky
+flocky 1
 foggara
 filibuster
 famishes
