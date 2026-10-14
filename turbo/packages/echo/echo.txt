@@ -11485,7 +11485,7 @@ emenders
 endocrinous
 exsecant
 electrothanatosis
-exoergic
+exoergic 1
 exaction
 echinopanax
 exhibited
