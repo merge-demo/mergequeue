@@ -7834,7 +7834,7 @@ enterocoel
 exarchate
 ejaculator
 eddish
-epigoni
+epigoni 1
 espressivo
 entomotaxy
 epigonic
