@@ -8921,7 +8921,7 @@ eddie
 entelam
 experimentally
 ergoted
-encephalomalaxis
+encephalomalaxis 1
 ergotism
 ergotizing
 erichthoid
