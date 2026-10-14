@@ -20300,7 +20300,7 @@ aleutian
 adsignification
 arroyos
 arroyuelo
-arrosive
+arrosive 1
 aleuritic
 antistreptococcal
 allowances
