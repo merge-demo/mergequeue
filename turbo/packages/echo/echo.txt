@@ -6302,7 +6302,7 @@ euclidean
 ens
 elastica
 emmenagogue
-elenchtic
+elenchtic 1
 ensanguine
 enlargingly
 eradiated
