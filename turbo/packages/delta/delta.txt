@@ -3045,7 +3045,7 @@ dowress
 decarbonized
 desegregation
 diacetine
-deers
+deers 1
 deerstalkers
 detailist
 deerstalking
