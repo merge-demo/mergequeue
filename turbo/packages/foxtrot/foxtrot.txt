@@ -6142,7 +6142,7 @@ fecials
 flouted
 fulminations
 fretish
-frondigerous
+frondigerous 1
 foxfish
 frustration
 fetidity
