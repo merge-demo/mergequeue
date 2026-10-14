@@ -4263,7 +4263,7 @@ adposition
 acmispon
 azonium
 armorer
-autotomize
+autotomize 1
 alchornea
 aesculapius
 assubjugate
