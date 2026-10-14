@@ -14673,7 +14673,7 @@ balustrade
 balletically
 bogle
 bimensal
-bathic
+bathic 1
 broilingly
 buffets
 babion
