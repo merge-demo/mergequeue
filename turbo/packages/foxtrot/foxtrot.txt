@@ -3217,7 +3217,7 @@ fourneau
 foots
 funder
 friers
-frostwort
+frostwort 1
 flexionless
 fuchsone
 forefend
