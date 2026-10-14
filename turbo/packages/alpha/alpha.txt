@@ -3708,7 +3708,7 @@ attenuative
 argoan
 amies
 archidiaceae
-antilogarithmic
+antilogarithmic 1
 alloted
 addibility
 abrenounce
