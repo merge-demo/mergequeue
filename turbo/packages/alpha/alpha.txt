@@ -15000,7 +15000,7 @@ agrin
 antispadix
 anticontagiously
 arizonians
-azimuthal
+azimuthal 1
 anticonvellent
 aeroducts
 autograft
