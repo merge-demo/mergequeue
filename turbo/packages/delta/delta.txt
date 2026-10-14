@@ -3478,7 +3478,7 @@ diclinic
 defoliate
 defoliations
 descending
-disjunct
+disjunct 1
 dispendiously
 debilitant
 decelerating
