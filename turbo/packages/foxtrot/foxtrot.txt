@@ -1269,7 +1269,7 @@ frostier
 filariform
 familistic
 fermentative
-farmerlike
+farmerlike 1
 flutteringly
 farseeing
 figgier
