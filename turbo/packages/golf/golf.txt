@@ -6039,7 +6039,7 @@ geminative
 guard
 gutturonasal
 gingerly
-goodwilly
+goodwilly 1
 geranium
 goatish
 gamier
