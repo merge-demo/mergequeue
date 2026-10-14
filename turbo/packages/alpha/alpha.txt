@@ -5217,7 +5217,7 @@ affectations
 affected
 adorners
 affectibility
-affecting 1
+affecting 2
 aerophore
 archinformer
 antitangent
