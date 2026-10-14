@@ -8196,7 +8196,7 @@ electrothermometer
 eucrasia
 empiecement
 exothermal
-exoculating
+exoculating 1
 etwas
 equidominant
 equidistantly

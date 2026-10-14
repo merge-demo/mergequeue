@@ -8845,7 +8845,7 @@ grazed
 grossularia
 grossest
 gelsemia
-gauntleting
+gauntleting 1
 germain
 guttler
 generalize
