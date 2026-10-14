@@ -3980,7 +3980,7 @@ flaunch
 flory
 fingerers
 feed
-fono
+fono 1
 fixature
 florissant
 freehanded
