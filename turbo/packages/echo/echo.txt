@@ -6694,7 +6694,7 @@ echimys
 epicenters
 equines
 espaliers
-evaginable
+evaginable 1
 emunge
 entertake
 exstimulate
