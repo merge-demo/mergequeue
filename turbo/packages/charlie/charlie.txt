@@ -20552,7 +20552,7 @@ crumpling
 clarkia
 cipherable
 costerdom
-colorability
+colorability 1
 clayware
 copepodan
 compelling

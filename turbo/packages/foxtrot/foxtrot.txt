@@ -7887,7 +7887,7 @@ fictionalizing
 foresail
 feuilletonistic
 fasten
-fork
+fork 1
 floes
 fetticus
 forewarned
