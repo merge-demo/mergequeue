@@ -4423,7 +4423,7 @@ gophers
 giglet
 gubernance
 granulates
-goosishness
+goosishness 1
 gascoyne
 gynogenesis
 glidingly
