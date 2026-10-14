@@ -3234,7 +3234,7 @@ demimondaine
 distrainor
 defendant
 dir
-decorativeness
+decorativeness 1
 defenestrating
 danae
 dayside
