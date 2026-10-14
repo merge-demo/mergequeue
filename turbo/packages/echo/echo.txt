@@ -2256,7 +2256,7 @@ electrets
 exploitive
 extensometer
 enciente
-embryony
+embryony 1
 embraceable
 encoach
 extremely
