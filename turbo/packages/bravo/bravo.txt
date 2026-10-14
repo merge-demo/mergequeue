@@ -10554,7 +10554,7 @@ bespeech
 baptisteries
 bullheaded
 blatiform
-biotelemetric
+biotelemetric 1
 biffies
 bequeaths
 blats
