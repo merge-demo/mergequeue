@@ -12795,7 +12795,7 @@ doudle
 disconfirm
 dismayable
 dismayfully
-declension
+declension 1
 datagrams
 diathermancy
 doubty
