@@ -16020,7 +16020,7 @@ degasifier
 decompensated
 duryodhana
 distally
-doublethink
+doublethink 1
 driveline
 drainboard
 dockers
