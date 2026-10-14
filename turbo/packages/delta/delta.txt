@@ -14520,7 +14520,7 @@ deallocating 1
 denudant
 dissimuler
 discoverers
-divinized
+divinized 1
 divinizes
 demarche
 diatomean
