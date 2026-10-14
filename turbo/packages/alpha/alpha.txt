@@ -10152,7 +10152,7 @@ apolog
 ambreic
 archdiocese
 ambrettolide
-arthralgia
+arthralgia 1
 antiempiricist
 alluminor
 ardilla
