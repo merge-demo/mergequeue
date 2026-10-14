@@ -15552,7 +15552,7 @@ donum
 donzel
 discovering
 doubt 1
-diathermize
+diathermize 1
 donzels
 doob
 deverbative
