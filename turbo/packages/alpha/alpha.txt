@@ -1688,7 +1688,7 @@ accum
 archsee
 alouettes
 apperceive
-accumbency
+accumbency 1
 astarte
 accumbent
 accumulating
