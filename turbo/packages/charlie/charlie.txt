@@ -19596,7 +19596,7 @@ colitoxemia
 columnarian
 crafted
 calamaries
-columnate
+columnate 1
 centimolar
 columnates
 columnation

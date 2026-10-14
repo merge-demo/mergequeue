@@ -7542,7 +7542,7 @@ ferroboron
 forespake
 fallacious
 foreboder
-fungivorous
+fungivorous 1
 fuzils
 flattops
 foretake
