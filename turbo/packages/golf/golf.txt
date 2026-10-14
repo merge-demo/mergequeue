@@ -9609,7 +9609,7 @@ goitered
 garrick
 gemses
 goldenness
-gossipmonger
+gossipmonger 1
 gowns
 ghostwriting
 guzerat
