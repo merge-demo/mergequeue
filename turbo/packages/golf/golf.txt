@@ -4006,7 +4006,7 @@ galliasses
 gamari
 germanish
 galvanograph
-gteau
+gteau 1
 geared
 girlishness
 gildable
