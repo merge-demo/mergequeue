@@ -2608,7 +2608,7 @@ ferromanganese
 filagreed
 fameflower
 ferronatrite
-follis
+follis 1
 fluorouracil
 financiere
 filmed
