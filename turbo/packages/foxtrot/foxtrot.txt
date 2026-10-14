@@ -4790,7 +4790,7 @@ fever
 folie
 flagellula
 flickeringly
-fauve
+fauve 1
 filigrain
 fargoing
 flageolets
