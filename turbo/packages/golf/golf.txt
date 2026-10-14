@@ -5943,7 +5943,7 @@ gesnera
 gaincome
 glummest
 generalific
-glumnesses
+glumnesses 1
 gemeinschaft
 gallomania
 glossocoma
