@@ -11037,7 +11037,7 @@ elargement
 equanimous
 eyeletter
 envoyship
-estoc
+estoc 1
 earlier
 encomimia
 exuberating
