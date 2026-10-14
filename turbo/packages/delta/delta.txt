@@ -5221,7 +5221,7 @@ declaimers
 denunciations
 deputy
 date
-denominations
+denominations 1
 desired
 dine
 depolarisation
