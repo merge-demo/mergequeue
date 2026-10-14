@@ -4424,7 +4424,7 @@ encarnalize
 enteropneust
 esguard
 egghot
-extermine
+extermine 1
 effervesces
 echards
 edifices
