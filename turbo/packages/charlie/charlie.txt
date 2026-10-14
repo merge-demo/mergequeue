@@ -3964,7 +3964,7 @@ carlylism
 carburiser
 cerulescent
 carburizer
-carburizes
+carburizes 1
 chattelize
 caecilian
 cruster
