@@ -15577,7 +15577,7 @@ deviable
 deicide
 doolfu
 dooly
-doomed
+doomed 1
 doomer
 danakil
 decerning
