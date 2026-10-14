@@ -14046,7 +14046,7 @@ elektra
 enliven
 eidolons
 excandescency
-embellishments
+embellishments 1
 extrathermodynamic
 emes
 economists
