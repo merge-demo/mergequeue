@@ -5954,7 +5954,7 @@ freer
 fraudlessness
 freehand
 feretories
-furzes
+furzes 1
 fearlessly
 favonius
 frenchification
