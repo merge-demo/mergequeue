@@ -10811,7 +10811,7 @@ entrepots
 euonymy
 epilogues
 electrophoretic
-exochorda
+exochorda 1
 exsibilate
 echinid
 expedients
