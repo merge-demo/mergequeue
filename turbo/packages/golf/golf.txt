@@ -5103,7 +5103,7 @@ guernseyed
 glareproof
 griskin
 grainsmen
-gloiosiphonia
+gloiosiphonia 1
 grenadine
 goldeneye
 gte
