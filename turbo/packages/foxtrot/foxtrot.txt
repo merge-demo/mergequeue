@@ -1737,7 +1737,7 @@ flighted
 fascio
 floats
 filicin
-fortravail
+fortravail 1
 fibrocyte
 flashflood
 feastfully
