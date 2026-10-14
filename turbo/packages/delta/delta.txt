@@ -3227,7 +3227,7 @@ doftberry
 disrelation
 defencive
 dents
-defend
+defend 1
 dikast
 dolmenic
 demimondaine
