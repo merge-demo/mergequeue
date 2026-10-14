@@ -3228,7 +3228,7 @@ forewarnings
 flinthearted
 flameholder
 fictioner
-frontis
+frontis 1
 furbisher
 foci
 forestay
