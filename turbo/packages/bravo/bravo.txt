@@ -10938,7 +10938,7 @@ bartonia
 brooms
 beadroll
 blinker
-balancewise
+balancewise 1
 bitterful
 bovld
 barretors
