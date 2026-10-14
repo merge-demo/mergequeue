@@ -10373,7 +10373,7 @@ gullery
 grasshook
 gingerwort
 grike
-gapingstock
+gapingstock 1
 gullets
 generators
 giddied
