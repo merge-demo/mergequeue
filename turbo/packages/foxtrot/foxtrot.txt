@@ -10148,7 +10148,7 @@ foreannouncement
 forbit
 forepredicament
 fractionized
-frizzante
+frizzante 1
 fishyback
 fantad
 fragmentise
