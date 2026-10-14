@@ -1685,7 +1685,7 @@ firoloida
 feverberry
 federate
 fuddledness
-fumigates
+fumigates 1
 forebrace
 flacourtiaceous
 fearedly
