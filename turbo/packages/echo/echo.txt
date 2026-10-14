@@ -2730,7 +2730,7 @@ envoi
 eleemosynary
 entranceway
 etymology
-emetic
+emetic 1
 engorge
 eleemosynarily
 egos
