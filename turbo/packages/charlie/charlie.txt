@@ -11942,7 +11942,7 @@ camois
 colophonite
 chiefdom
 chorioidocyclitis
-chorioidoiritis
+chorioidoiritis 1
 catcalling
 chorions
 contemningly
