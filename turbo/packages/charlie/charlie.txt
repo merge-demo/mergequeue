@@ -2865,7 +2865,7 @@ canonship
 canoodles
 counsinhood
 canopy
-canopid
+canopid 1
 canalised
 canopies
 corticated
