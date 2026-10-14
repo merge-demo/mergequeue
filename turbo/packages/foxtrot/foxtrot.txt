@@ -1376,7 +1376,7 @@ flaggish
 fanning
 fatigue
 fossicks
-fatiguesome
+fatiguesome 1
 fjeld
 fishbones
 fulminuric
