@@ -1955,7 +1955,7 @@ fileable
 figure
 friable
 fangot
-frenal
+frenal 1
 froze
 forebearing
 floccule
