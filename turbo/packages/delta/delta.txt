@@ -1496,7 +1496,7 @@ dcb
 depressure
 deaccessioning
 drawbolt
-delftware
+delftware 1
 dermatorrhea
 definiendum
 dextrorotary
