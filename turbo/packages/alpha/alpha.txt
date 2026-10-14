@@ -12538,7 +12538,7 @@ anemically
 anemobiagraph
 anemochord
 anemochore
-aleutic
+aleutic 1
 aforehand
 anaboly
 appropriated
