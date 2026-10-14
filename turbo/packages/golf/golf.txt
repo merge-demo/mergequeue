@@ -3805,7 +3805,7 @@ galliass
 grungier
 gastrosuccorrhea
 gibbosely
-goosepimply
+goosepimply 1
 gibbous
 ganching
 gloriously
