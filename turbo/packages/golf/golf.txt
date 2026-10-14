@@ -2909,7 +2909,7 @@ gwiniad
 gunflint
 gabbled
 geocerite
-glove
+glove 1
 gubernation
 gallons
 gulley
