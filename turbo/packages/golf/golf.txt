@@ -4559,7 +4559,7 @@ geometrid
 grating
 goupen
 giojoso
-greegree
+greegree 1
 gressible
 girdles
 grids
