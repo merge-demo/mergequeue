@@ -9751,7 +9751,7 @@ bistort
 bedarkened
 bistorts
 beetlehead
-bistred
+bistred 1
 balcony
 beknights
 bradylexia
