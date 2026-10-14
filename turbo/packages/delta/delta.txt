@@ -5882,7 +5882,7 @@ deleting
 droshky
 depredatory
 deontic
-disembargoed
+disembargoed 1
 deodars
 duffy
 duplicity
