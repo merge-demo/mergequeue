@@ -12679,7 +12679,7 @@ anfractuosity
 authentications
 addleheadedly
 alejandro
-aperies
+aperies 1
 allocators
 amixia
 aporrhaidae
