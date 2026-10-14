@@ -6423,7 +6423,7 @@ embarrassing
 endangerments
 electromyography
 espave
-espousal
+espousal 1
 expandibility
 ensnared
 ensnarer
