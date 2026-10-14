@@ -2777,7 +2777,7 @@ extrathoracic
 erythrosis
 estrangements
 elementalize
-ephori
+ephori 1
 elementaloid
 expurgative
 eunicid
