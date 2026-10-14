@@ -10059,7 +10059,7 @@ foamiest
 forwardness
 fleeching
 fiercly
-fetalism
+fetalism 1
 fulfulde
 flammability
 fellowed
