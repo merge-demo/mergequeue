@@ -5802,7 +5802,7 @@ divine
 depositation
 decry
 dartlike
-disgorgement
+disgorgement 1
 derailleur
 dreiling
 deformism
