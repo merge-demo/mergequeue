@@ -4926,7 +4926,7 @@ ephemerally
 endearedness
 endearingness
 exactive
-eglestonite
+eglestonite 1
 ecliptics
 estrada
 eucaine
