@@ -10131,7 +10131,7 @@ fluid
 frivolousness
 faunula
 felled
-forgives
+forgives 1
 filisters
 fenite
 fissile
