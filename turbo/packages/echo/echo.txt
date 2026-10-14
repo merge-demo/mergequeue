@@ -5988,7 +5988,7 @@ equilibristat
 eudromias
 equivaliant
 elevatingly
-eudemon
+eudemon 1
 equiexcellency
 expanding
 epilated
