@@ -4198,7 +4198,7 @@ disincorporated
 dogcart
 depasturing
 debtors
-diversifiable
+diversifiable 1
 disparpling
 dasyurus
 doeskin
