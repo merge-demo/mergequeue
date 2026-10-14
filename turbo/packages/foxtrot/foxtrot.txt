@@ -882,7 +882,7 @@ flowage
 flakes
 flavicant
 forkman
-fluorogenic
+fluorogenic 1
 fulicine
 formatively
 freshet
