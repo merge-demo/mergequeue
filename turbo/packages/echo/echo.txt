@@ -6908,7 +6908,7 @@ evocations
 entoplasm
 euxenites
 extravaganzas
-estreats
+estreats 1
 exiled
 earthquave
 encradle
