@@ -4315,7 +4315,7 @@ devoutness
 durning
 delimit
 duckhood
-dequeue
+dequeue 1
 dunderpate
 dronel
 diversicolored
