@@ -16153,7 +16153,7 @@ desecrate
 deoxygenize
 drewite
 devisal
-dovening
+dovening 1
 desireless
 deplasmolysis
 declassified
