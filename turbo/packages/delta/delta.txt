@@ -2710,7 +2710,7 @@ deconvolution
 deconvolve
 desmon
 diopsides
-decor
+decor 1
 diplopic
 dappledness
 decurves
