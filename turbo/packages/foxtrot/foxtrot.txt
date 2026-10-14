@@ -3246,7 +3246,7 @@ fielded
 ftnerr
 frizziest
 freehearted
-fluorinate
+fluorinate 1
 fittit
 freestanding
 forthrightly
