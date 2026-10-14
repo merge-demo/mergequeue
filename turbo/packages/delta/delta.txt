@@ -3778,7 +3778,7 @@ deice
 donning
 disseizoress
 defibrillation 1
-deicers
+deicers 1
 defacingly
 deicides
 dismutation
