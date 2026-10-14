@@ -6595,7 +6595,7 @@ beret
 brangler
 berets
 berewick
-banquettes
+banquettes 1
 bergamasche
 bergamask
 blastoma
