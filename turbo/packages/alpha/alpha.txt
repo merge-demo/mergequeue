@@ -15488,7 +15488,7 @@ assented
 anapestic
 antimension
 archisperm
-antimere
+antimere 1
 antimerism
 antimesia
 archetypically
