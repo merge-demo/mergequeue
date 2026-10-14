@@ -30435,7 +30435,7 @@ csch
 csect
 cpu
 cholecystectomies
-csmp
+csmp 1
 chiasmal
 crimpled
 csp 1
