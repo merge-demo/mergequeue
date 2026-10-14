@@ -11385,7 +11385,7 @@ drossing
 dastardy
 dockyard
 dissuader
-demivotary
+demivotary 1
 determinoid
 debug
 discloser
