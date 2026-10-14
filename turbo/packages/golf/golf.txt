@@ -6266,7 +6266,7 @@ goave
 greats 1
 gregorianizer
 gob
-greediness
+greediness 1
 gadslid
 gobber
 gazettes
