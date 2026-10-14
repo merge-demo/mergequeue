@@ -11307,7 +11307,7 @@ enforcively
 evapotranspiration
 ecaudata
 ergatoid
-evenglow
+evenglow 1
 eneid
 erudite
 encephalomeric
