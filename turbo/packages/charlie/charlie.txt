@@ -19101,7 +19101,7 @@ coelomata
 circumterraneous
 cristate
 chaptrel
-collinsite
+collinsite 1
 collinsonia
 colliquable
 colliquate
