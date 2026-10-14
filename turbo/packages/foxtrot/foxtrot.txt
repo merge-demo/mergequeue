@@ -9795,7 +9795,7 @@ followup
 fretten
 firedamps
 fragmentary
-fattens
+fattens 1
 foredooming
 fleck
 foamy
