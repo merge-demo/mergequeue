@@ -5652,7 +5652,7 @@ gerunds
 gloomily
 gloomings
 graveward
-gunyang
+gunyang 1
 grimoire
 germanics
 gubernacular
