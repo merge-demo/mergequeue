@@ -6764,7 +6764,7 @@ badian
 bookery
 bersagliere
 brittles
-bin
+bin 1
 boeotia
 berserks
 barnumize
