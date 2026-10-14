@@ -11629,7 +11629,7 @@ didest
 demiditone
 dishexecontahedroid
 disentanglements
-deprecated
+deprecated 1
 discost
 dimorphite
 digitally
