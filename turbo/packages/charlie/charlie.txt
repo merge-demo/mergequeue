@@ -18373,7 +18373,7 @@ churchless
 cardinalic
 cuinage
 cognatic
-calorize
+calorize 1
 cognatus
 cementum
 cognisable
