@@ -5555,7 +5555,7 @@ erroneousness
 essentiality
 endostome
 eugenists
-enfants
+enfants 1
 enfiled
 expediences
 evangel
