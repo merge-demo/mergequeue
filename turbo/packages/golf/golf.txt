@@ -7479,7 +7479,7 @@ glossist
 grabbier
 grunerite
 grapplement
-gomerals
+gomerals 1
 gists
 geodesy
 gimleting
