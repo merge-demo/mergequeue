@@ -547,7 +547,7 @@ folium
 falcons
 flabbergasts
 falculate
-fawnery
+fawnery 1
 fortune
 falcunculus
 falderals
