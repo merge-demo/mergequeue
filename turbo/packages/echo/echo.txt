@@ -12949,7 +12949,7 @@ exclusion
 equipartile
 epicyclical
 expected
-eucharises
+eucharises 1
 embathe
 expectedness
 eumenidean
