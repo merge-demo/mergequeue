@@ -21217,7 +21217,7 @@ communitywide
 concentric
 circumneutral
 concentricate
-crouching
+crouching 1
 chesoun
 conceptualizer
 concents
