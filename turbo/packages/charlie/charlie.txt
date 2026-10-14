@@ -10704,7 +10704,7 @@ chinafy
 cuapinole
 cartilages
 chinalike
-collinearity
+collinearity 1
 communicates
 cyanformic
 chondralgia
