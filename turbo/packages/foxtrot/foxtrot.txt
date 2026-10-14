@@ -9263,7 +9263,7 @@ freckling
 fungate
 frangipani
 frizers
-framea
+framea 1
 framer
 frames
 forename

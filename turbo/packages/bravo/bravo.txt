@@ -7193,7 +7193,7 @@ backdating
 blastomeric
 bur
 bestiarian
-biathlon
+biathlon 1
 bestock
 bestow
 bestowment
