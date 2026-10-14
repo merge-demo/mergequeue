@@ -10835,7 +10835,7 @@ fulciment
 fs
 failures
 frictionized
-fulcrumed
+fulcrumed 1
 formicarioid
 fulcruming
 feeable
