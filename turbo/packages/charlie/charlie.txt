@@ -2586,7 +2586,7 @@ catalan
 ceraunograph
 carbona
 cracowe
-canduc
+canduc 1
 crepier
 camphires
 censuses
