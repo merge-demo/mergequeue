@@ -12793,7 +12793,7 @@ excusefully
 emboldener
 extraretinal
 evangelicity
-ensepulchered
+ensepulchered 1
 ecanda
 excavation
 enterocyst
