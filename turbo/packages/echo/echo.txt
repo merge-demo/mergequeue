@@ -12672,7 +12672,7 @@ everbearer
 exonym
 era
 eelback
-earcockle
+earcockle 1
 eloquent
 energizing
 exophasic
