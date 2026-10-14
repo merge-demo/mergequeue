@@ -10176,7 +10176,7 @@ doven
 dings
 despises
 dzeron
-depopularize
+depopularize 1
 dismortgage
 dining
 discoplacental
