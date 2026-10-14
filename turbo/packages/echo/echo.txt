@@ -11848,7 +11848,7 @@ excave
 emphasize
 eructated
 entoperipheral
-extancy
+extancy 1
 elutes
 exceeded
 endosperm
