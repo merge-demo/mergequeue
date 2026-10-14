@@ -3823,7 +3823,7 @@ addends
 adiation
 arugolas
 adib
-allanite
+allanite 1
 adiel
 adrenalectomized
 aprowl
