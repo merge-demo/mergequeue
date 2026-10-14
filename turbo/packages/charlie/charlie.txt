@@ -27350,7 +27350,7 @@ chemistries
 courbette
 courbettes
 clogginess
-carcaneted
+carcaneted 1
 cantillation
 courgette
 courida
