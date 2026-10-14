@@ -9552,7 +9552,7 @@ diallists
 disgruntled
 dischargers
 dignifiedly
-decoying
+decoying 1
 deionizing
 delatinization
 drachm
