@@ -6271,7 +6271,7 @@ gadslid
 gobber
 gazettes
 goateed
-guitarlike
+guitarlike 1
 guttural
 ghostiest
 gconv
