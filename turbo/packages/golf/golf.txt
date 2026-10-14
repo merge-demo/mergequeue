@@ -3639,7 +3639,7 @@ gastroenterological
 gluconeogenic
 goldest
 glimpser
-gauntleted
+gauntleted 1
 gillnetting
 gonadotropic
 genearch
