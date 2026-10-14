@@ -1756,7 +1756,7 @@ ew
 embattle
 exhbn
 epigraphic
-eutony
+eutony 1
 eyes
 encasing
 eyeseed
