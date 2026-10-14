@@ -548,7 +548,7 @@ geisotherm
 gilravager
 gudgeoning
 gup
-geotropic
+geotropic 1
 galleryite
 gravidness
 garde
