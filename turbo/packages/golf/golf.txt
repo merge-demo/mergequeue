@@ -2792,7 +2792,7 @@ gormless
 gloiopeltis
 gentiobiose
 guardianess
-gait
+gait 1
 gentlemanlikeness
 gossan
 gybing
