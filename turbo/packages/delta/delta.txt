@@ -16331,7 +16331,7 @@ divergently
 discinoid
 decorum
 downsizing
-discontinuable
+discontinuable 1
 dichord
 dovetails
 daylight
