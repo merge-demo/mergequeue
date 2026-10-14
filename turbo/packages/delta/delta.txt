@@ -9508,7 +9508,7 @@ dighter
 digraphic
 dynamogeny
 dialysers
-demiurge
+demiurge 1
 decontaminated
 digital
 drunkest
