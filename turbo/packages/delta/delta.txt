@@ -11147,7 +11147,7 @@ demultiplexed
 dodecagon
 deprecatoriness
 dammaret
-decapitable
+decapitable 1
 disbelievers
 diphosphid
 diascordium
