@@ -28802,7 +28802,7 @@ cresegol
 cresyl
 cresylate
 cresylic
-cresyls
+cresyls 1
 cresive
 cornucopian
 cresoline
