@@ -18220,7 +18220,7 @@ depersonalize
 delights
 dentatocostate
 diamagnetometer
-detonatability
+detonatability 1
 deadlocks
 dermatorrhoea
 decurrent
