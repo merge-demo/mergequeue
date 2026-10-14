@@ -12594,7 +12594,7 @@ disinvagination
 deepfroze
 debeak
 directs
-distritbutes
+distritbutes 1
 dargsman
 daynet
 decupled
