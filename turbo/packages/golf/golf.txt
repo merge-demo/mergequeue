@@ -4095,7 +4095,7 @@ gogglebox
 genus
 gratten
 gelechiid
-goosemouth
+goosemouth 1
 gaulic
 graduals
 gamekeeper
