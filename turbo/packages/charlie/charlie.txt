@@ -15727,7 +15727,7 @@ coy
 carlisle
 clavipectoral
 chips
-clavolet
+clavolet 1
 cumulonimbus
 clawed
 clawer
