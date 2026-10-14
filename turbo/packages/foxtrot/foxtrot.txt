@@ -7774,7 +7774,7 @@ fraenum
 forgathering
 finning
 fluorescein
-frostbite
+frostbite 1
 flocculently
 fatelike
 footrail
