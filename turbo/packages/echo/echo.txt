@@ -6983,7 +6983,7 @@ excisor
 encauma
 entrelac
 emetically
-epilogued
+epilogued 1
 escalops
 eneas
 eustyle
