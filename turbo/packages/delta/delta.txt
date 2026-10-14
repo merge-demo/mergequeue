@@ -9943,7 +9943,7 @@ daintily
 drossiness
 dawnlight
 distances
-devonian
+devonian 1
 droved
 declassee
 dobsonfly

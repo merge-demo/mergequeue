@@ -5010,7 +5010,7 @@ bloodletting
 branchiform
 breakwaters
 beetles
-bubal
+bubal 1
 brompicrin
 baching
 bhunder
