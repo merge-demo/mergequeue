@@ -2198,7 +2198,7 @@ epanthous
 elderman
 eggwhisk
 ethmolith
-electrics
+electrics 1
 electrographic
 exedrae
 esthesia
