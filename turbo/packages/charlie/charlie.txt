@@ -18705,7 +18705,7 @@ campily
 connect
 clinocephalism
 coker
-cokes
+cokes 1
 cokewold
 cokie
 crystallology
