@@ -5617,7 +5617,7 @@ depetalize
 disorganiser
 disprivilege
 detainingly
-depravingly
+depravingly 1
 dorsumbonal
 deuterotokous
 dogtrick
