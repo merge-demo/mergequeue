@@ -5115,7 +5115,7 @@ extrema
 engirt
 endocrines
 endocrinic
-existentialistic
+existentialistic 1
 emergencies
 entogenous
 enteroptotic
