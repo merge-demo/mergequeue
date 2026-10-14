@@ -8458,7 +8458,7 @@ glossograph
 grenatite
 gatehouse
 guaguanche
-gnathopodous
+gnathopodous 1
 guinea
 glottises
 gastaldite
