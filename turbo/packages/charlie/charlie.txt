@@ -31197,7 +31197,7 @@ cuprobismutite
 cryolite
 corrosive
 cuproiodargyrite
-cloysome
+cloysome 1
 chalque
 cuproplumbite
 cuproscheelite
