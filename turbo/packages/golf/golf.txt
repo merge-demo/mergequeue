@@ -1422,7 +1422,7 @@ garsil
 gymnasiums
 graviers
 governless
-glumpiest
+glumpiest 1
 gnosticity
 germinate
 garbages
