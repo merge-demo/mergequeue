@@ -23037,7 +23037,7 @@ axiologically
 attacca
 adjuring
 amphibolite
-antiperistaltic
+antiperistaltic 1
 attempt
 antecell
 agonothete
