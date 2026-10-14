@@ -13028,7 +13028,7 @@ deformities
 dabber
 deplethoric
 dispassion
-dispended
+dispended 1
 dunfish
 dissipative
 dopes
