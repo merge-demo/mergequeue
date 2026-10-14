@@ -6214,7 +6214,7 @@ fluegelhorn
 foalfoot
 foveation
 forefence
-flightily
+flightily 1
 fairgrounds
 forlana
 fatlings
