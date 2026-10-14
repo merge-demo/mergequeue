@@ -5143,7 +5143,7 @@ epitrochoid
 entresol
 elytrorrhaphy
 earbob
-epicarp
+epicarp 1
 encyclic
 erava
 exceedingness
