@@ -5320,7 +5320,7 @@ axon
 astipulate
 astrid
 amortization
-affixed
+affixed 1
 apophantic
 andantinos
 androsin
