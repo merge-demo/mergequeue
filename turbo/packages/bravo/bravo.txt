@@ -9764,7 +9764,7 @@ biophysicochemical
 bystreet
 bistres
 billions
-boeotarch
+boeotarch 1
 brights
 borg
 bewitching
