@@ -7593,7 +7593,7 @@ deutzia
 discernible
 drou
 doublewidth
-diddikai
+diddikai 1
 darking
 darwinistic
 deva
