@@ -2147,7 +2147,7 @@ gadswoons
 georgian
 gharris
 glareous
-gdinfo
+gdinfo 1
 gasping
 golfings
 gds
