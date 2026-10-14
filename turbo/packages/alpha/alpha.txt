@@ -2864,7 +2864,7 @@ aceratherium
 acronymic
 akvavits
 autostylic
-autarchical
+autarchical 1
 agonium
 apium
 azaleas
