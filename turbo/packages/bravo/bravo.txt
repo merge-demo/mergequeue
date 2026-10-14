@@ -6010,7 +6010,7 @@ bookie
 bemoaned
 butle
 bauxitic
-bowenite
+bowenite 1
 boiling
 brouette
 bradyphasia
