@@ -4455,7 +4455,7 @@ aerobus
 apodan
 adure
 andia
-allergia
+allergia 1
 anticomplement
 australic
 antipuritan
