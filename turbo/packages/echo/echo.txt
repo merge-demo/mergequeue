@@ -3388,7 +3388,7 @@ endocrinologist
 eavedropper
 embark
 epichorial
-embarkations
+embarkations 1
 euconic
 epitomize
 eucharistized
