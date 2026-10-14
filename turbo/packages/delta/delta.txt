@@ -9429,7 +9429,7 @@ disfranchise
 displume
 deglut
 destructively
-digamma
+digamma 1
 demilegato
 digammated
 dodgier
