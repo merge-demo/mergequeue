@@ -12305,7 +12305,7 @@ anatropous
 antiecclesiastic
 alnico
 acerra
-apprehensions
+apprehensions 1
 avanyu
 agathin
 ancylostomiasis
