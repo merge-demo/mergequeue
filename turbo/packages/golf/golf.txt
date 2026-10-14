@@ -8597,7 +8597,7 @@ gradually
 gawsy
 gravitic
 gurgeons
-griped
+griped 1
 guarri
 guianan
 gypping
