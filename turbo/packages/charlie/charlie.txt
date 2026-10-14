@@ -1093,7 +1093,7 @@ crudeness
 calcimining
 choppin
 crossbarred
-calcinate
+calcinate 1
 calcinator
 calcine
 coherently
