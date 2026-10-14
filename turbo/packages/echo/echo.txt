@@ -5167,7 +5167,7 @@ expedition
 endogenous
 enlistment
 electo
-emanatistic
+emanatistic 1
 embroider
 endoglobular
 eleme
