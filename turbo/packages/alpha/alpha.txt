@@ -1768,7 +1768,7 @@ arabis
 anemia
 acedias
 abbreviature
-agalloch
+agalloch 1
 astigmia
 ammonitiferous
 agoniada
