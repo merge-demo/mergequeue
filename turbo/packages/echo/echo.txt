@@ -7740,7 +7740,7 @@ emergents
 explorational
 erysipelatoid
 englify
-ensure
+ensure 1
 emendable
 estopping
 equips
