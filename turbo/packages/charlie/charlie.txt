@@ -28764,7 +28764,7 @@ cornutine
 chafer
 crepusculine
 costliness
-cres
+cres 1
 counteraffirmation
 cresc
 comparativeness
