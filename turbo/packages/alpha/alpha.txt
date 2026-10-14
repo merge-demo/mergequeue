@@ -14748,7 +14748,7 @@ appointee
 antidiffuser
 acushla
 actorish
-ambulacral
+ambulacral 1
 antisex
 antiblastic
 adumbral
