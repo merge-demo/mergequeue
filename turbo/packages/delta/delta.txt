@@ -9247,7 +9247,7 @@ dinghies
 draftable
 damfoolish
 depicturing
-deanathematize
+deanathematize 1
 dedd
 deforester
 diesters
