@@ -10803,7 +10803,7 @@ amlong
 ammelide
 apodemal
 arenaria
-apothecary
+apothecary 1
 adductor
 ammeter
 ammeters
