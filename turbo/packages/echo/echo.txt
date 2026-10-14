@@ -3249,7 +3249,7 @@ excretolic
 eunice
 ecumenicize
 eluvies
-euphonize
+euphonize 1
 ethopoeia
 ellwand
 eludes
