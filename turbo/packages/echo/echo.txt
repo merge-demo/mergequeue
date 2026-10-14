@@ -3439,7 +3439,7 @@ equaled
 engrail
 evacuate
 eirene
-eventide
+eventide 1
 embellisher
 encheason
 enchained
