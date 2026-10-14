@@ -913,7 +913,7 @@ gyrocompass
 geoponical
 garnishable
 gemeinschaften
-guidership
+guidership 1
 gelsemiumia
 gametophoric
 gorbet
