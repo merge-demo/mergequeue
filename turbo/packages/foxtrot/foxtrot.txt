@@ -8658,7 +8658,7 @@ flatfooted
 flaunters
 fossilify
 fryers
-furicane
+furicane 1
 flapless
 fathomable
 forthgaze
