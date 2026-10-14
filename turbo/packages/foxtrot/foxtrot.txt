@@ -4112,7 +4112,7 @@ fabulosity
 fylgjur
 foolship
 finnicize
-foresightedness
+foresightedness 1
 fenestellid
 frush
 fartherer
