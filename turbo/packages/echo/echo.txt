@@ -7929,7 +7929,7 @@ epizootiology
 epinikion
 entomophaga
 expeller
-eurystomatous
+eurystomatous 1
 emitter
 exudates
 exordia
