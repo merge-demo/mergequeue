@@ -5701,7 +5701,7 @@ delthyrium
 deploy
 desipramine
 despotic
-deltoids
+deltoids 1
 disusance
 dispansive
 dermoossification
