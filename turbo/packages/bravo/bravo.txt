@@ -9115,7 +9115,7 @@ besprinkled
 badgir
 ballgown
 biotechnologically
-bathysmal
+bathysmal 1
 buccin
 butyraceous
 blanketed
