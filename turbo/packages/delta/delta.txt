@@ -4125,7 +4125,7 @@ demisolde
 diphtheritically
 demagnetised
 dianthuses
-debye
+debye 1
 deguelin
 deliration
 delire
