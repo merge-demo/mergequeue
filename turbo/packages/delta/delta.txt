@@ -17973,7 +17973,7 @@ dietitian
 dugouts
 dugs
 dugway
-deaerator
+deaerator 1
 derencephalus
 doornboom
 desamidization
