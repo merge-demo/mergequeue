@@ -6721,7 +6721,7 @@ celation
 cheapjack
 celature
 caruage
-celeb
+celeb 1
 capicha
 clition
 crutch
