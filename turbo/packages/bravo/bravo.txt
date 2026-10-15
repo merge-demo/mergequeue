@@ -9583,7 +9583,7 @@ bisectors
 bisectrices
 busybodyness
 bullheadedness
-bisects
+bisects 1
 bottleflower
 bosky
 baboot
