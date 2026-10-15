@@ -528,7 +528,7 @@ geeldikkop
 galipoidin
 guzzles
 galleins
-globalism
+globalism 1
 getters
 gnetaceous
 glaireous
