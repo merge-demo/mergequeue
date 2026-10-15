@@ -1148,7 +1148,7 @@ grocer
 gled
 gripier
 galette
-grouses
+grouses 1
 goninidia
 gastrogastrotomy
 genin
