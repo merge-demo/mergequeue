@@ -5565,7 +5565,7 @@ arteriovenous
 ascry
 aftermost
 afternoons
-afternose
+afternose 1
 auburns
 antifreezing
 afterpast
