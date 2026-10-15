@@ -2757,7 +2757,7 @@ encrusts
 eutocia
 extrusions
 electroplater
-exhilaratory
+exhilaratory 1
 evergreenite
 exchangeably
 explorations
