@@ -8440,7 +8440,7 @@ eurytropic
 electroanalytic
 electroencephalography
 empyromancy
-emulousness
+emulousness 1
 elephantry
 eponym
 etiolate
