@@ -16974,7 +16974,7 @@ carbocer
 comparable
 clustered
 cabbalistically
-clusterfist
+clusterfist 1
 catechu
 caprifigs
 coerceable
