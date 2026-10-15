@@ -19088,7 +19088,7 @@ collimates
 collimation
 collimator
 colline
-collections
+collections 1
 classicistic
 coxy
 caecias
