@@ -17827,7 +17827,7 @@ brachistocephalous
 backbit
 boddle
 bunkerman
-bursiculate
+bursiculate 1
 bursitis
 bestialise
 benzbitriazole
