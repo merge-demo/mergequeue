@@ -8237,7 +8237,7 @@ asbestuses
 aggiornamento
 alicyclic
 actiniochrome
-allochroous
+allochroous 1
 antifederalist
 aphelandra
 achronical
