@@ -27251,7 +27251,7 @@ counterworking
 committee
 carminative
 counting
-clothespress
+clothespress 1
 countywide
 cerebellopontine
 countlessness
