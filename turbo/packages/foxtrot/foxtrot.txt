@@ -9384,7 +9384,7 @@ firkins
 flatways
 fecal
 farcinoma
-facing
+facing 1
 fettler
 foxholes
 foreweigh
