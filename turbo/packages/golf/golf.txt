@@ -10509,7 +10509,7 @@ gimmicks
 goalee
 grayishness
 garn
-graspingness
+graspingness 1
 galipots
 goladar
 gotham
