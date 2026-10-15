@@ -3412,7 +3412,7 @@ embassadress
 exumbral
 elaine
 embassy
-eustomatous
+eustomatous 1
 episyllogism
 edeotomy
 eucirripedia
