@@ -14722,7 +14722,7 @@ anaglyphic
 adzes
 amphitricha
 antibacterial
-anaglyptograph
+anaglyptograph 1
 antiballooner
 agenesis
 artisanry
