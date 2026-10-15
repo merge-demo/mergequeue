@@ -18083,7 +18083,7 @@ dulness
 dysphemism
 diabetics
 dogskin
-dongs
+dongs 1
 dungol
 dulocracy
 dissuasory
