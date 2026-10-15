@@ -4482,7 +4482,7 @@ dauntlessly
 dothideales
 disjointedly
 duomachy
-devalorize
+devalorize 1
 developmentist
 dysphoric
 deemphasizes
