@@ -2603,7 +2603,7 @@ cryptocrystallization
 columnar
 cyamelide
 castile
-caned
+caned 1
 canela
 canelas
 canellaceous
