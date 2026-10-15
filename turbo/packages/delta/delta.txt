@@ -6330,7 +6330,7 @@ destrer
 dermis
 drawbores
 diaplasis
-devchar
+devchar 1
 dermobranchiate
 deflorations
 decharm
