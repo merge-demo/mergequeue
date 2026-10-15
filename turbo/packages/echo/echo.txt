@@ -1623,7 +1623,7 @@ exotoxin
 ervipiame
 ehretiaceae
 env
-entrez
+entrez 1
 enterobacterium
 enucleating
 eyah
