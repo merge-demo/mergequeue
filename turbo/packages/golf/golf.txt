@@ -8554,7 +8554,7 @@ goniatitidae
 gametophyte
 gushing
 googul
-gallwort
+gallwort 1
 gith
 gourmand
 guestimating
