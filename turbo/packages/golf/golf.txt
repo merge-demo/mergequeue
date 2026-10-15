@@ -2330,7 +2330,7 @@ geographism
 glassy
 graptomancy
 gruss
-gutturalisation
+gutturalisation 1
 grubbiness
 gainturn
 guavaberry
