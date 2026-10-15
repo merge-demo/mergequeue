@@ -868,7 +868,7 @@ benzenoid
 blatherer
 biniodide
 banba
-biochron
+biochron 1
 bromodeoxyuridine
 burnishers
 billikin
