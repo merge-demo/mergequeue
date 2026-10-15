@@ -7825,7 +7825,7 @@ bordures
 boondoggles
 barefisted
 bibitory
-bothridiums
+bothridiums 1
 bohmite
 biblical
 bobsledders
