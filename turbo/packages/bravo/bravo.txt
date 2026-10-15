@@ -10514,7 +10514,7 @@ bradyuria
 bashlik
 blastoporal
 blastosphere
-balanus
+balanus 1
 bromal
 belligerent
 blastula
