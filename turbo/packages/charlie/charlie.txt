@@ -12014,7 +12014,7 @@ champlev
 choruses
 chorusing
 chanceries
-crisp
+crisp 1
 countermachination
 crusca
 cordyl
