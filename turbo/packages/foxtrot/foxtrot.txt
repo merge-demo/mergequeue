@@ -9118,7 +9118,7 @@ froisse
 fracid
 frizzier
 foraminulous
-furioso
+furioso 1
 flopover
 fuzee
 fruitarian
