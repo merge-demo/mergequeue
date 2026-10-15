@@ -12076,7 +12076,7 @@ enantiomorphism
 expressor
 easels
 emblazonry
-ekphoria
+ekphoria 1
 expostulation
 extollingly
 erepsin
