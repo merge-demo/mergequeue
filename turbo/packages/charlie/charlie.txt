@@ -23047,7 +23047,7 @@ consomme
 cheirology
 consommes
 consonance
-consonancy
+consonancy 1
 consonant
 consonantal
 consonantalize
