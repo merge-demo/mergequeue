@@ -14319,7 +14319,7 @@ daceloninae
 ditheisms
 ditty
 disdaining
-decardinalize
+decardinalize 1
 dispassionate
 didymoid
 decrial
