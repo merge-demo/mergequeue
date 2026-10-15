@@ -30226,7 +30226,7 @@ crueller
 cruellest
 cruelly
 cruelness
-cruels
+cruels 1
 communbus
 cruent
 colmar
