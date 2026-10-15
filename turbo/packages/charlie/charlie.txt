@@ -15724,7 +15724,7 @@ chrysograph
 claviger
 carshops
 coy
-carlisle
+carlisle 1
 clavipectoral
 chips
 clavolet
