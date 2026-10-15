@@ -5128,7 +5128,7 @@ glycoside
 glossate
 glali
 gnatflower
-gaumed
+gaumed 1
 grumbly
 garance
 glomera
