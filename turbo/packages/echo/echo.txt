@@ -3110,7 +3110,7 @@ epistolatory
 ecdysones
 echinorhinidae
 etheriidae
-entombed
+entombed 1
 epitomised
 elodeas
 enfaced
