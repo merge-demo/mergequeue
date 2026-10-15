@@ -14289,7 +14289,7 @@ cacciatore
 clavierist
 cautelous
 circumpose
-condite
+condite 1
 circumquaque
 circumradius
 circumradiuses
