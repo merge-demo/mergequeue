@@ -12730,7 +12730,7 @@ bookishness
 brackened
 boxty
 breviate
-barrenwort
+barrenwort 1
 beaux
 barging
 bimetallist
