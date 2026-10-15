@@ -12302,7 +12302,7 @@ eulogizers
 erythroglucin
 effusiometer
 exerted
-entangled
+entangled 1
 eaning
 electrotypic
 eviscerations
