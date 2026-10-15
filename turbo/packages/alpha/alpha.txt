@@ -4784,7 +4784,7 @@ asterionella
 acarology
 autopathic
 anaretic
-antihum
+antihum 1
 aorists
 aeriality
 angiasthenia
