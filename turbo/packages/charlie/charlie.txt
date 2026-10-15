@@ -20256,7 +20256,7 @@ commoning
 cambist
 camias
 corrodingly
-commonsense
+commonsense 1
 carpels
 commonsensically
 commonweals
