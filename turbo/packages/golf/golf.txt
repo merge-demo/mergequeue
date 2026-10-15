@@ -5295,7 +5295,7 @@ gymnadeniopsis
 grouping
 glyceroxide
 glycide
-glabrous
+glabrous 1
 gangmaster
 glusid
 garters
