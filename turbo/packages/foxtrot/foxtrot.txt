@@ -10324,7 +10324,7 @@ focometer
 frustrated
 fikey
 friendless
-foxinesses
+foxinesses 1
 fosterers
 fraternise
 forrarder
