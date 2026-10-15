@@ -7602,7 +7602,7 @@ gyrus
 grille
 glycosaemia
 generalcy
-gambians
+gambians 1
 guanamine
 gullibility
 guarantied
