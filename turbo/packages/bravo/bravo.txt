@@ -7497,7 +7497,7 @@ beveil
 bevelled
 belated
 bardism
-belayer
+belayer 1
 beveller
 byte
 bookbinder
