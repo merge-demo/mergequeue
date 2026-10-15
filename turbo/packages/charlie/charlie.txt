@@ -19767,7 +19767,7 @@ capturer
 corotation
 caesiums
 chromatism
-copolymers
+copolymers 1
 coryphee
 combustible
 cornloft
