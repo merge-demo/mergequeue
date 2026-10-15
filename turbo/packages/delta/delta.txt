@@ -3526,7 +3526,7 @@ defraying
 desaturate
 desiccated
 decorate
-dagobas
+dagobas 1
 desmomyaria
 dufoil
 drapery
