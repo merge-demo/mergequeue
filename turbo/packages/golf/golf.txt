@@ -10665,7 +10665,7 @@ gladius
 gyric
 goatsbane 1
 galp
-gazaboes
+gazaboes 1
 gurgoyle
 glaiketness
 genuflexion
