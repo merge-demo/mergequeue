@@ -12507,7 +12507,7 @@ anecdotes
 anecdotic
 anova
 aluminiform
-appealed
+appealed 1
 anechoic
 amazed
 adar
