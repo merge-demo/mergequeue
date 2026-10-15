@@ -6347,7 +6347,7 @@ forthcomingness
 furcraeas
 favela
 fluoboride
-fluoric
+fluoric 1
 flaggiest
 fibratus
 fumerel

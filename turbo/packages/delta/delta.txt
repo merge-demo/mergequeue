@@ -12865,7 +12865,7 @@ decalcify
 dubhe
 drywalls
 diodia
-descensory
+descensory 1
 disminion
 doomsters
 decreeable
