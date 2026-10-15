@@ -8527,7 +8527,7 @@ diapauses
 donaries
 decarburize
 dodecastylos
-decongesting
+decongesting 1
 diapedeses
 diapedetic
 divisionism
