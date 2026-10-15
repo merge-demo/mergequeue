@@ -31718,7 +31718,7 @@ cusps
 cuspule
 crests
 coopery
-cond
+cond 1
 cusser
 caselessly
 ciselures
