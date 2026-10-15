@@ -8914,7 +8914,7 @@ apiaries
 alloeostropha
 areason
 anhedron
-angularity
+angularity 1
 airlifted
 aporrhaoid
 anorexic
