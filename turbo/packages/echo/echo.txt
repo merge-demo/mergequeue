@@ -11354,7 +11354,7 @@ exalters
 expensefulness
 exsects
 eccyesis
-exaristate
+exaristate 1
 embolism
 evennesses
 eventful
