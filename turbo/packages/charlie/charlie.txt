@@ -19367,7 +19367,7 @@ coloradoite
 connectionism
 captainships
 cherubin
-colorant
+colorant 1
 colorants
 chemosmoses
 colorate
