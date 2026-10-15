@@ -1331,7 +1331,7 @@ balaos
 baroquely
 belar
 benzamino
-barbed
+barbed 1
 balases
 balat
 basellaceous
