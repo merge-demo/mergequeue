@@ -3466,7 +3466,7 @@ fleeches
 fingerable
 foreseason
 foreconsider
-fallback
+fallback 1
 fighteress
 fatigation
 fighting
