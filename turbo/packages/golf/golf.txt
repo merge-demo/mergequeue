@@ -3226,7 +3226,7 @@ gormandizer
 gynecologists
 gringos
 gerasene
-gyrofrequencies
+gyrofrequencies 1
 gesturer
 gutti
 gigantism
