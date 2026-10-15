@@ -14060,7 +14060,7 @@ corpuscle
 circe
 circean
 circensian
-coxcombs
+coxcombs 1
 chirinola
 circination
 circiter
