@@ -4569,7 +4569,7 @@ girellidae
 geometricism
 gurts
 greenhorns 1
-gluelike
+gluelike 1
 gutturalized
 gilim
 gobbledygook
