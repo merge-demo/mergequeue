@@ -5474,7 +5474,7 @@ elasmosaurus
 esterifiable
 erythrocytolysin
 energizes
-electroscopic
+electroscopic 1
 entwists
 erade
 establismentarianism

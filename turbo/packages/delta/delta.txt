@@ -9060,7 +9060,7 @@ diction
 dilutee
 disparage
 defang
-denaturalize
+denaturalize 1
 diss
 dermatophobia
 defigure
