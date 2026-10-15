@@ -8075,7 +8075,7 @@ granitiform
 geomancer
 gastrostomus
 gaslightness
-geomagnetism
+geomagnetism 1
 ghain
 genteelish
 gesning
