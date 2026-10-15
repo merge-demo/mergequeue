@@ -22658,7 +22658,7 @@ connotation
 ceratitoid
 corema
 connotations
-connotative
+connotative 1
 connotatively
 counterextend
 connote
