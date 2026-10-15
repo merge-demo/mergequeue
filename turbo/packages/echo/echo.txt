@@ -2135,7 +2135,7 @@ exoneration
 electrosurgical
 endleaf
 enfoil
-exterminatress
+exterminatress 1
 emasculates
 enanthematous
 eisteddfodism
