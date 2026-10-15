@@ -2510,7 +2510,7 @@ enserfs
 entoiled
 eternity
 electrolytically
-exuviates
+exuviates 1
 ephemeromorph
 ensete
 entozoic
