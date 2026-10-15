@@ -8280,7 +8280,7 @@ dynamiting
 dispells
 dagesh
 diplomas
-desonation
+desonation 1
 digitation
 doombook
 diagrams
