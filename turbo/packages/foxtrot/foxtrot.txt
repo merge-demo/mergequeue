@@ -2313,7 +2313,7 @@ faunule
 fenestrato
 fifteenfold
 foreruns
-fondness
+fondness 1
 fellowess
 featherheaded
 feaster
