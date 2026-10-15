@@ -15684,7 +15684,7 @@ clubbability
 coinfinity
 camwood
 clavelization
-clavelize
+clavelize 1
 clavellated
 cothurnian
 controllingly
