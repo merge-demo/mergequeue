@@ -14366,7 +14366,7 @@ dragonize
 diurnule
 dimensuration
 diuron
-demeaned
+demeaned 1
 dielec
 doled
 divagated
