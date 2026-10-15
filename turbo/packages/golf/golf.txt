@@ -10378,7 +10378,7 @@ gullets
 generators
 giddied
 gasconaded
-gargoyled
+gargoyled 1
 gallflower
 garbanzos
 giambeux
