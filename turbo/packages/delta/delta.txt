@@ -11411,7 +11411,7 @@ draconis
 distorted
 desertless
 drawn
-dubiety
+dubiety 1
 diverted
 discobolos
 disbelieving
