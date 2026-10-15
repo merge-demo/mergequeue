@@ -7799,7 +7799,7 @@ cervicoauricular
 conditione
 chippable
 cervicobregmatic
-cobitis
+cobitis 1
 cervicobuccal
 cervicodynia
 cervicolabial
