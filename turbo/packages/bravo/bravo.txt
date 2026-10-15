@@ -14059,7 +14059,7 @@ brachycrany
 bowpot
 bricktimber
 brachydactylia
-belted
+belted 1
 bakehouse
 bathhouses
 bicuspidate
