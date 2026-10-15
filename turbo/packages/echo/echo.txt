@@ -6925,7 +6925,7 @@ evections
 expense
 embargoed
 ebullate
-evangelicality
+evangelicality 1
 enjoyableness
 entosternal
 eleganter
