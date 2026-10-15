@@ -8236,7 +8236,7 @@ chalcocite
 compotatory
 christianomastix
 chalcogen
-chalcogenide
+chalcogenide 1
 coenaculum
 comas
 caucho

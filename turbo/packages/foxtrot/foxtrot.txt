@@ -11155,7 +11155,7 @@ fingerhold
 funeralize
 footnoted
 ferulae
-featurally
+featurally 1
 formylal
 flowerbed
 flintwork
