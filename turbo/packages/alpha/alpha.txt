@@ -13616,7 +13616,7 @@ argand
 autoaddress
 abura
 akaakai
-aspalax
+aspalax 1
 apostasis
 ambuscading
 annulosa
