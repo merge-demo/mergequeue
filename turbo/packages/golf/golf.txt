@@ -6283,7 +6283,7 @@ glucolipin
 galoch
 gospelly
 gainable
-gobble
+gobble 1
 gierfalcon
 gobbled
 gothicizer
