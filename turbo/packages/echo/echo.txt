@@ -11598,7 +11598,7 @@ ewes
 engraphia
 emphatically
 eucalypt
-envenomous
+envenomous 1
 everywhereness
 expatiation
 encephalitis
