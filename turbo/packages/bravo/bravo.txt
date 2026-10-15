@@ -1672,7 +1672,7 @@ bambara
 bosnisch
 barbuts
 bestrews
-blandiloquious
+blandiloquious 1
 bogtrot
 boycotter
 ballsiest
