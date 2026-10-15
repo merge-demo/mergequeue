@@ -4864,7 +4864,7 @@ archisupreme
 armlet
 andric
 aneared
-avoset
+avoset 1
 adoptionism
 anorthophyre
 aerocraft
