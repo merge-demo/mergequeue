@@ -4941,7 +4941,7 @@ gremials
 gynaecol 1
 gamines
 gladioluses
-ginney
+ginney 1
 groundwards
 glamors
 geldable
