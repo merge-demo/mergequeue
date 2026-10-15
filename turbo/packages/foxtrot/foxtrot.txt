@@ -8659,7 +8659,7 @@ flaunters
 fossilify
 fryers
 furicane
-flapless
+flapless 1
 fathomable
 forthgaze
 forthgo
