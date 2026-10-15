@@ -12167,7 +12167,7 @@ disfortune
 dramatism
 diomedea
 disbandment
-directional
+directional 1
 domini
 dormie
 dodoisms
