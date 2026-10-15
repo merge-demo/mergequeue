@@ -2711,7 +2711,7 @@ genyplasty
 globularness
 glandule
 gravitons
-gamey
+gamey 1
 gusle
 grith
 gemmoid

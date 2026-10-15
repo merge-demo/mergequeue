@@ -379,7 +379,7 @@ fattiness
 forcedness
 franklandite
 from
-fieldfight
+fieldfight 1
 froes
 fluorides
 faintly
