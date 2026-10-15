@@ -9118,7 +9118,7 @@ dingdong
 disweapon
 didelphoid
 disinclines
-derisory
+derisory 1
 doffs
 desexualized
 detriment
