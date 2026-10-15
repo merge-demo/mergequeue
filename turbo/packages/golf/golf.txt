@@ -6734,7 +6734,7 @@ ganevs
 gourmandizer
 gyrostats
 glomerate
-globulimeter
+globulimeter 1
 geyseral
 gagaku
 gurdfish
