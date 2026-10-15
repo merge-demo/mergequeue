@@ -2189,7 +2189,7 @@ breakbone
 behaviourist
 balliage
 baptistry
-bitingly
+bitingly 1
 broncos
 bibenzyl
 bemingled
