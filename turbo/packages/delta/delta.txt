@@ -4122,7 +4122,7 @@ delinter
 deliquiate
 deliquium
 demisolde
-diphtheritically
+diphtheritically 1
 demagnetised
 dianthuses
 debye
