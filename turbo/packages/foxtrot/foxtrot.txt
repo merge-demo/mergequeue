@@ -4008,7 +4008,7 @@ flattish
 fireplace
 forfeited
 forlay
-flunk
+flunk 1
 ferric
 furazolidone
 fluorosis
