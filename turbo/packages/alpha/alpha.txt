@@ -1509,7 +1509,7 @@ accompanies
 anoura
 accompanyist
 asperggilla
-aphasiac
+aphasiac 1
 accompanimental
 accompli
 allanitic
