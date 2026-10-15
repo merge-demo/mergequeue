@@ -4833,7 +4833,7 @@ ephydriad
 expertise
 encourages
 embusy
-escapable
+escapable 1
 exorciser
 episcopable
 embryogenetic
