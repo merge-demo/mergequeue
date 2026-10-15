@@ -14143,7 +14143,7 @@ epitaphic
 evensongs
 extrachromosomal
 encomium
-electly
+electly 1
 expromission
 enigmatology
 escapists
