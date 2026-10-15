@@ -15799,7 +15799,7 @@ debosh
 dorsibranchiata
 distinctor
 didymitis
-disciplined
+disciplined 1
 diaphragming
 dicyemid
 disprobabilize
