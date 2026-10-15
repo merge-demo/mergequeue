@@ -8684,7 +8684,7 @@ geyser
 glossless
 gobmouthed
 gateado
-gritty
+gritty 1
 gres 1
 gatch
 gymnosoph
