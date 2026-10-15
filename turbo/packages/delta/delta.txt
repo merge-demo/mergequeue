@@ -5843,7 +5843,7 @@ dewaxing
 deadtongue
 dags
 dermatocoptic
-deprecable
+deprecable 1
 deprecating
 derotrema
 doorbrand
