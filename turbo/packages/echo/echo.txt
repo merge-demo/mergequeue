@@ -3217,7 +3217,7 @@ extraschool
 eluctate
 elude
 equant
-educive
+educive 1
 extroversively
 eludible
 enswathes
