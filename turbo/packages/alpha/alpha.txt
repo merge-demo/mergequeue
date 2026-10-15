@@ -23962,7 +23962,7 @@ anseriformes
 actinophonic
 acetylsalicylate
 aeolotropic
-autoasphyxiation
+autoasphyxiation 1
 antick
 algicides
 antidotally
