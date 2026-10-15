@@ -14626,7 +14626,7 @@ broadleaves
 bewrayment
 bitterns
 brantails
-bamboche
+bamboche 1
 barricado
 bedcord
 brantle
