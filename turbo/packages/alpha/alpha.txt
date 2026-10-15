@@ -5362,7 +5362,7 @@ argoletier
 afforesting
 autophotometry
 abristle
-anticogitative
+anticogitative 1
 afformative
 abuseful
 affrayers
