@@ -14007,7 +14007,7 @@ electrolytic
 exoskeleton
 extraprofessional
 extrapunitive
-endogen
+endogen 1
 extraregularly
 equestrian
 expirers
