@@ -22692,7 +22692,7 @@ ateuchi
 atherosclerosis
 advancer
 atherosclerotic
-acerbic
+acerbic 1
 absent
 aeronomic
 abjuratory
