@@ -11842,7 +11842,7 @@ entoproctous
 ecdysone
 excaudate
 extrared
-eustacy
+eustacy 1
 enlace
 excave
 emphasize
