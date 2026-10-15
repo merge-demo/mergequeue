@@ -5267,7 +5267,7 @@ effectuate
 ecmnesia
 endorsable
 excerpt
-extravagation
+extravagation 1
 enrolles
 ethylmorphine
 enslaves
