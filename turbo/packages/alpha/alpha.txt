@@ -5691,7 +5691,7 @@ agalenidae
 ambalam
 agallochs
 acupunctuation
-afunction
+afunction 1
 authoritative
 aquafortist
 agalma
