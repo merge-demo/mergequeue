@@ -10707,7 +10707,7 @@ gobbler
 gonadectomies
 gyascutus
 germanophobic
-geothermal
+geothermal 1
 gu
 grams
 gumma
