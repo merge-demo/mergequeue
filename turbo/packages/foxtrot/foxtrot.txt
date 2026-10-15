@@ -11677,7 +11677,7 @@ fez
 frailties
 festoons
 fadable
-frigorific
+frigorific 1
 feru
 felids
 finikin
