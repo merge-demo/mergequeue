@@ -2542,7 +2542,7 @@ escadrilles
 exorcist
 endocritic
 eminency
-eatable
+eatable 1
 ezra
 emptiable
 electrometer
