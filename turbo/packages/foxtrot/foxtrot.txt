@@ -11675,7 +11675,7 @@ flibustier
 furcates
 fez
 frailties
-festoons
+festoons 1
 fadable
 frigorific
 feru
