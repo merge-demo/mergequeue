@@ -2778,7 +2778,7 @@ erythrosis
 estrangements
 elementalize
 ephori
-elementaloid
+elementaloid 1
 expurgative
 eunicid
 essang
