@@ -17964,7 +17964,7 @@ bookbinding
 byssinosis
 bedot
 blackheartedness
-bolty
+bolty 1
 barrett
 bemoult
 bushwhacked
