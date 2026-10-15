@@ -2484,7 +2484,7 @@ endexines
 emotionalise
 electroing
 eluviate
-entrefer
+entrefer 1
 elaeometer
 ecosphere
 epicanthic
