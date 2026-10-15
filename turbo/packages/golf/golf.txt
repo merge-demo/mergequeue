@@ -770,7 +770,7 @@ glome
 galvanotherapy
 goods
 geomorphic
-gathers
+gathers 1
 grizzliest
 gemologies
 galvanotropism
