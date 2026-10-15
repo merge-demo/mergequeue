@@ -1493,7 +1493,7 @@ decidual
 dracma
 dc
 dcb
-depressure
+depressure 1
 deaccessioning
 drawbolt
 delftware
