@@ -12083,7 +12083,7 @@ bokharan
 bokom
 bosey
 bolas
-bedell
+bedell 1
 bartsia
 balmacaan
 bolboxalis
