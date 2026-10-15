@@ -15479,7 +15479,7 @@ deflagrated
 decolorise
 dealers
 demodulates
-dependableness
+dependableness 1
 dismembers
 dogedoms
 desolated
