@@ -5862,7 +5862,7 @@ gate
 gymnosporangium
 gynoecium
 glucate
-gorevan
+gorevan 1
 gibelite
 gastrostomies
 glucinums
