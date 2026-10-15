@@ -23491,7 +23491,7 @@ contendress
 corker
 cornstalk
 civil
-contends
+contends 1
 cimeter
 contenement
 contrapuntal
