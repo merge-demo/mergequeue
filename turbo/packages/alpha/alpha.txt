@@ -22425,7 +22425,7 @@ aspidiotus
 acromegalic
 ailurophobic
 assonia
-astrolabe
+astrolabe 1
 astrolithology
 anaesthesiant
 achenia

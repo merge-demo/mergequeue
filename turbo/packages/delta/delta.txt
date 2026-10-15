@@ -10765,7 +10765,7 @@ diver
 disadvantageous
 diquat
 decolorization
-deoxidized
+deoxidized 1
 dirdums
 demirelief
 directdiscourse
