@@ -2179,7 +2179,7 @@ furfuration
 folkmoot
 falsities
 forane
-felonwort
+felonwort 1
 freenesses
 flatterdock
 fraudproof
