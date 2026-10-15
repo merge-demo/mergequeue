@@ -837,7 +837,7 @@ ectypography
 epitheton
 entrecote
 epop
-exulate
+exulate 1
 epistolography
 ectiris
 etamines
