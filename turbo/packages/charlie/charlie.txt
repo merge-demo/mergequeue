@@ -15406,7 +15406,7 @@ claptraps
 culbuter
 claque
 cte
-candescently
+candescently 1
 calipering
 chaffering
 claques

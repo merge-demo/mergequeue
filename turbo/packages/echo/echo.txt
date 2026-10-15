@@ -5787,7 +5787,7 @@ envelopment
 extirp
 englut
 emhpasizing
-encored
+encored 1
 excedent
 ependymitis
 ectropionizing
