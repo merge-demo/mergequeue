@@ -11716,7 +11716,7 @@ coniomycetes
 chondrocoracoid
 consonantalizing
 chondrocostal
-chondrocranial
+chondrocranial 1
 circuitous
 chondrodystrophy
 chondrodystrophia
