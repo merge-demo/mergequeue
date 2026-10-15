@@ -14068,7 +14068,7 @@ dispace
 dialist
 dropman
 distribution
-decretum
+decretum 1
 dryopithecinae
 dispensable
 deluging
