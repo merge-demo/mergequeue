@@ -5187,7 +5187,7 @@ af
 avernal
 aluminosis
 arbalos
-anelastic
+anelastic 1
 amourist
 accend
 avouching
