@@ -11479,7 +11479,7 @@ bluffable
 blicky
 bialveolar
 baraca
-beseemingness
+beseemingness 1
 brunette
 bizzarro
 backwinding
