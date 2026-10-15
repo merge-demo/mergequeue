@@ -6501,7 +6501,7 @@ filches
 figurally
 fluted
 felonry
-featherbedded
+featherbedded 1
 forbearers
 frenzied
 floozy
