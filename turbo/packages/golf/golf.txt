@@ -7611,7 +7611,7 @@ gravimetrically
 greengroceries
 gloeosporium
 gallicisms
-goodyness
+goodyness 1
 gemmula
 goethian
 grus
