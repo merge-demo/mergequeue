@@ -1239,7 +1239,7 @@ forewarner
 flexural
 flinched
 feodatory
-funkias
+funkias 1
 formene
 furbishment
 flagellosis
