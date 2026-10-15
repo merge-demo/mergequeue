@@ -7172,7 +7172,7 @@ genecor
 gorgeret
 gangrenescent
 girly
-gorglin
+gorglin 1
 gynerium
 gladden
 gonophoric
