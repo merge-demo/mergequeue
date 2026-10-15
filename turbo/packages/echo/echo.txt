@@ -3887,7 +3887,7 @@ electrotonus
 extraboldface
 eminencies
 evendown
-exodermis
+exodermis 1
 exterminating
 endorsor
 easternized
