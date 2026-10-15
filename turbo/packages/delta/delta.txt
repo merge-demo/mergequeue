@@ -2039,7 +2039,7 @@ daimen
 duplicitas
 dichloramin
 decagram
-dourness
+dourness 1
 decagrams
 despised
 diverberate
