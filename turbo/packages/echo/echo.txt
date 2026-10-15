@@ -595,7 +595,7 @@ emblematize
 echoing
 echoism
 epigeal
-enhydros
+enhydros 1
 echometer
 echopractic
 epidictic

@@ -11611,7 +11611,7 @@ choleriform
 cholerigenous
 chelicerate
 cholerine
-choleroid
+choleroid 1
 cholerophobia
 camphylene
 cyanamids
