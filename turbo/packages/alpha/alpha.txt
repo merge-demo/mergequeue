@@ -1405,7 +1405,7 @@ accessary
 accessaries
 anesthesiometer
 accessarily
-autarkic
+autarkic 1
 amoebae
 accessariness
 arcubalist
