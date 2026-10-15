@@ -9066,7 +9066,7 @@ burlier
 boylikeness
 bioscopy
 bioscopic
-bioastronautical
+bioastronautical 1
 bedecorate
 ballistocardiograph
 biosensor
