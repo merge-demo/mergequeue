@@ -6211,7 +6211,7 @@ frugalist
 fluctuational
 factioneer
 fluegelhorn
-foalfoot
+foalfoot 1
 foveation
 forefence
 flightily
