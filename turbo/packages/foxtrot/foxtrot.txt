@@ -7906,7 +7906,7 @@ foresees
 flashtube
 fonder
 forespeak
-foreseize
+foreseize 1
 flatteries
 fike
 firy
