@@ -2975,7 +2975,7 @@ chaffers
 capriole
 cicalas
 cyclanthus
-claustrum
+claustrum 1
 croppies
 canthorrhaphy
 canthotomy
