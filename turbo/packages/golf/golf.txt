@@ -10640,7 +10640,7 @@ gossipries
 gland
 golfs
 gnomide
-gerontologies
+gerontologies 1
 giganticness
 gargets
 greeny
