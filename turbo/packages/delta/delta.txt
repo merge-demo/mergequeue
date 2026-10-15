@@ -5536,7 +5536,7 @@ diversities
 dynes
 doweral
 dx
-dimmock
+dimmock 1
 departmentalism
 departmentalization
 departmentalized

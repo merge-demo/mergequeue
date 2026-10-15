@@ -11147,7 +11147,7 @@ abstractiveness
 ascidioidea
 amper
 amatory
-assientist
+assientist 1
 ascots
 analects
 achromatized
