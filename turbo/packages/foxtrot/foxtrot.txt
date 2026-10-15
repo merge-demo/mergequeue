@@ -9648,7 +9648,7 @@ fathers
 flocculous
 fourths
 floyt
-freezy
+freezy 1
 fubbed
 fashed
 fromage
