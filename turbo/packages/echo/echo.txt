@@ -2268,7 +2268,7 @@ electriferous
 energumen
 equivalve
 epilating
-extortions
+extortions 1
 encephalogram
 elongated
 equally
