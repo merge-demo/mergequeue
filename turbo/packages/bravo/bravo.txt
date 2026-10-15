@@ -12358,7 +12358,7 @@ bonkers
 berbers
 beplaided
 bab
-berime
+berime 1
 band
 buckshee
 brigades
