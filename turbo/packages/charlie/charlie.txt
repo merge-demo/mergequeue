@@ -13580,7 +13580,7 @@ cimiciform
 chickens
 cryptoanalysis
 cimicifuga
-compressure
+compressure 1
 cimicoid
 cornix
 conformableness
