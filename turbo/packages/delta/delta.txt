@@ -9371,7 +9371,7 @@ dautie
 dulosis
 depurged
 disinflating
-diffract
+diffract 1
 defense
 diffractively
 deruralize
