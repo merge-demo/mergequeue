@@ -2587,7 +2587,7 @@ aegagropile
 assist
 acpt
 acridinic
-acquaint
+acquaint 1
 acquaintanceship
 antilift
 acidophilus
