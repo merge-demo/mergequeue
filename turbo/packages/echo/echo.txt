@@ -11642,7 +11642,7 @@ eburnian
 enfire
 exactitude
 electrohydraulic
-eleusinian
+eleusinian 1
 endopolyploid
 exactness
 edeology
