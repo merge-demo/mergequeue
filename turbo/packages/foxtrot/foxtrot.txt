@@ -9248,7 +9248,7 @@ fretwise
 fascinery
 frontispieced
 fraktur
-fasciolet
+fasciolet 1
 fresnel
 flavoury
 foresentence

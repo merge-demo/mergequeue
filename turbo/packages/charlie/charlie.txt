@@ -10422,7 +10422,7 @@ conquered
 coryphaena
 ceratopsia
 cledde
-curlily
+curlily 1
 clinocephalic
 courtiery
 chihfu
