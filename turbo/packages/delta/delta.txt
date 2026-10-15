@@ -6412,7 +6412,7 @@ disadvanced
 derride
 disleave
 derriere
-dactyli
+dactyli 1
 duster
 dephlegmedness
 discriminatory
