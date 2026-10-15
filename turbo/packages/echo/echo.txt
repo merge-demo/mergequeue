@@ -3376,7 +3376,7 @@ embarge
 espier
 enteropneustal
 estimator
-equivocally
+equivocally 1
 exurbanite
 elaphe
 exacters
