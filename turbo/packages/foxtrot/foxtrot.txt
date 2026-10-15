@@ -2883,7 +2883,7 @@ fettucini
 fungiferous
 froglike
 farsightedly
-flows
+flows 1
 fouettes
 floorcloth
 find
