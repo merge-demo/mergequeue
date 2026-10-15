@@ -2554,7 +2554,7 @@ addda
 acopyrine
 acopon
 atrabiliar
-acor
+acor 1
 angelophanic
 acorea
 atomistic
