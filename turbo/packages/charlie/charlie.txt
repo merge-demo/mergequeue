@@ -12331,7 +12331,7 @@ chromatize
 credensiveness
 chromatogenous
 coiny
-cinchonia
+cinchonia 1
 chromatographic
 chromatographically
 cuticularize
