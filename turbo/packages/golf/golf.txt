@@ -1963,7 +1963,7 @@ gregarinous
 ghastlier
 guttable
 gonif
-galician
+galician 1
 gallweed
 geryoniidae
 gryphaea
