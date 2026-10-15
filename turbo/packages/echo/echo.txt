@@ -6520,7 +6520,7 @@ entangledness
 endotrachelitis
 ehlite
 early
-enwrapt
+enwrapt 1
 earsore
 epaenetic
 entanglements
