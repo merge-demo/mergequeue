@@ -5631,7 +5631,7 @@ encouraging
 epilogation
 enforest
 epacme
-elicitable
+elicitable 1
 enform
 ergometric
 enfort
