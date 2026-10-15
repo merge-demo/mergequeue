@@ -16319,7 +16319,7 @@ bode
 brucellae
 bleared
 boussingaultia
-brucellosis
+brucellosis 1
 barely
 biolytic
 brucia
