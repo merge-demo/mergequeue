@@ -6712,7 +6712,7 @@ drunkard
 disorderliness
 delirament
 darnex
-depends
+depends 1
 diatribes
 desiderta
 diptycas
