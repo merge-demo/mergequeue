@@ -7638,7 +7638,7 @@ factitiousness
 foreorlop
 flimsiness
 flimsilyst
-flustroid
+flustroid 1
 forefinger
 figary
 fluxible
