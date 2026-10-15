@@ -2633,7 +2633,7 @@ acquisitor
 antibrachial
 acetiam
 amphigonous
-assuaging
+assuaging 1
 adunation
 almacenista
 alangine
