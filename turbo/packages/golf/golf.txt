@@ -1082,7 +1082,7 @@ glares
 guarding
 graphicness
 gowdy
-galvanometers
+galvanometers 1
 gestes
 galactolipin
 goularo
