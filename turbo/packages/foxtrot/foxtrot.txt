@@ -3558,7 +3558,7 @@ forboding
 fairylands
 fulgence
 filched
-frenchism
+frenchism 1
 fogie
 flamboyance
 funmaker
