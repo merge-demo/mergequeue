@@ -10568,7 +10568,7 @@ epiclidal
 equibiradiate
 esprits
 elpidite
-equiprobable
+equiprobable 1
 euphroes
 ernesse
 enteria
