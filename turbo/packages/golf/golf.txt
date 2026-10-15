@@ -10813,7 +10813,7 @@ gonenesses
 glibbery
 geniolatry
 globoseness
-goldtail
+goldtail 1
 glaring
 gingellies
 gargety
