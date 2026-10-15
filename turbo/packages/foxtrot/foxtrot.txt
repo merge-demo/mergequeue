@@ -1145,7 +1145,7 @@ foreguts
 flog
 falseheartedness
 fennels
-flexures
+flexures 1
 flippers
 filberts
 forefends
