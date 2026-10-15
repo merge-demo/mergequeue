@@ -8464,7 +8464,7 @@ glottises
 gastaldite
 gadzooks
 gushet
-gibus
+gibus 1
 gomphosis 1
 garancine
 gnosticize
