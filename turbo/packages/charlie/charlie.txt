@@ -2910,7 +2910,7 @@ cantando
 cantankerous
 copatain
 chapelries
-capsizable
+capsizable 1
 cantankerously
 counteractive
 chonicrite
