@@ -6896,7 +6896,7 @@ gehenna
 gangliomata
 graftonite
 gammacismus
-groundspeed
+groundspeed 1
 gooders
 goodheartedness
 goody
