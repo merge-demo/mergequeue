@@ -14139,7 +14139,7 @@ diazotizable
 disulfide
 decasualised
 dipso
-disanimate
+disanimate 1
 diol
 desacralize
 diapason
