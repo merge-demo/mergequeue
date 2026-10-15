@@ -11136,7 +11136,7 @@ deglaciation 1
 disbars
 disbase
 dani
-disbeliefs
+disbeliefs 1
 decastere
 diarchic
 decemjugate
