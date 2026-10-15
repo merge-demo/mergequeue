@@ -2579,7 +2579,7 @@ disentwined
 declines
 declining
 doh
-declivent
+declivent 1
 derive
 dreamlike
 declivity
