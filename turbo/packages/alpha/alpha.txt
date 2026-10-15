@@ -18376,7 +18376,7 @@ arterialised
 amphiploid
 antrotome
 albuginaceae
-adcraft
+adcraft 1
 anosognosia
 araire
 amphigory
