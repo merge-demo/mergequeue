@@ -3702,7 +3702,7 @@ alimenting
 attempre
 adenotomic
 adenous
-autocarpic
+autocarpic 1
 adeona
 attenuative
 argoan
