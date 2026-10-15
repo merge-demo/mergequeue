@@ -5929,7 +5929,7 @@ agglutinoscope
 anorthoclase
 acclaiming
 amblygeusia
-agglutogenic
+agglutogenic 1
 accompanists
 aggrade
 achene
