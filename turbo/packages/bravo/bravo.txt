@@ -1104,7 +1104,7 @@ barbasco
 bayonets
 benefactors
 bifacial
-blksize
+blksize 1
 bayong
 boobish
 babongo
