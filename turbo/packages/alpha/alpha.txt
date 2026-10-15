@@ -2560,7 +2560,7 @@ acorea
 atomistic
 aecidia
 acorus
-acosmism
+acosmism 1
 assizing
 acosmist
 athecata
