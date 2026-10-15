@@ -8292,7 +8292,7 @@ concussation
 canapes
 chacker
 chalkiness
-chalking
+chalking 1
 chalklike
 chalkline
 columnated
