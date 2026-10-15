@@ -6345,7 +6345,7 @@ echoize
 ellice
 embarras
 ethaldehyde
-enthrals
+enthrals 1
 evenfalls
 endangiitis
 enshield
