@@ -6800,7 +6800,7 @@ genal
 genros
 gondola
 goniums
-glanis
+glanis 1
 gl
 galliardize
 gelsemin
