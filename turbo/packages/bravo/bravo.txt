@@ -9967,7 +9967,7 @@ ballottine
 blairmorite
 bivalents
 bivalvia
-bivalvian
+bivalvian 1
 bivariant
 baddock
 bivascular
