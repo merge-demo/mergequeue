@@ -9948,7 +9948,7 @@ bilinguality
 bridleman
 burbles
 biases
-bivalence
+bivalence 1
 blethering
 byelaw
 biland
