@@ -14001,7 +14001,7 @@ dossals
 dentoid
 diphosphide
 donary
-dependably
+dependably 1
 disinclining
 distracter
 deaurate
