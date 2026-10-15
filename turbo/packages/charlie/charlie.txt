@@ -11965,7 +11965,7 @@ cyanuret
 choristate
 chorister
 coenacting
-congeals
+congeals 1
 choristership
 choristoblastoma
 choristoneura
