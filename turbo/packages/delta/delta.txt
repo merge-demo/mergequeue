@@ -17230,7 +17230,7 @@ dmarche
 drives
 dredgings
 driveway
-decrepitation
+decrepitation 1
 dingoes
 deferrizing
 distanced
