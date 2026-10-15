@@ -2857,7 +2857,7 @@ generatrices
 gileadite
 galvvanoscopy
 gumlah
-gummosity
+gummosity 1
 genuflex
 glyptal
 gynaeceum
