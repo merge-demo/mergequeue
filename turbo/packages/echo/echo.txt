@@ -1550,7 +1550,7 @@ entothorax
 excerptive
 encyclopedial
 exsected
-eupeptically
+eupeptically 1
 ensconces
 enervates
 erosible
