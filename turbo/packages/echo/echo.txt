@@ -8035,7 +8035,7 @@ expound
 entertaining
 escallop 1
 embezzlements
-enteroscope
+enteroscope 1
 ealdormen
 exogens
 epiphanous
