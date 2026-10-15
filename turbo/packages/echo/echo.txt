@@ -12218,7 +12218,7 @@ eclogue
 executress
 elshin
 exsurge
-exch
+exch 1
 endosteal
 enchases
 expertized
