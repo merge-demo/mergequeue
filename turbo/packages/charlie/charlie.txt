@@ -7853,7 +7853,7 @@ cession
 clapotis
 cessionaire
 castaway
-cessor
+cessor 1
 cesspit
 cesspits
 carey

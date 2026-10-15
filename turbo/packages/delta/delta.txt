@@ -12400,7 +12400,7 @@ dampne
 dishome
 dishonor
 disoccident
-distendedness
+distendedness 1
 dishonorer
 doctrinairism
 deresinize
