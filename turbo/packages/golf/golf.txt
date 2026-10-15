@@ -1764,7 +1764,7 @@ gynandrism
 glossolaly
 gutterblood
 guttee
-gelatinotype
+gelatinotype 1
 grippelike
 ghyll
 glutinate
