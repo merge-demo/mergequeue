@@ -24106,7 +24106,7 @@ autoette
 antigenicity
 autofrettage
 angulation
-armament
+armament 1
 afreets
 autolaryngoscopic
 approvedness
