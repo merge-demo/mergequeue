@@ -5650,7 +5650,7 @@ gyrators
 genicular
 gerunds
 gloomily
-gloomings
+gloomings 1
 graveward
 gunyang
 grimoire
