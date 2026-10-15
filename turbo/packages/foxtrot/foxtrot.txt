@@ -2076,7 +2076,7 @@ fieldfare
 foys
 fwelling
 flocky
-foggara
+foggara 1
 filibuster
 famishes
 foremasthand
