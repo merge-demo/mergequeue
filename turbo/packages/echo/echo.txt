@@ -8580,7 +8580,7 @@ eskimauan
 extraparenchymal
 equiaxed
 edificable
-equate
+equate 1
 eburnification
 enharmonic
 earnings
