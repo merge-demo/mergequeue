@@ -9637,7 +9637,7 @@ ewer
 endoblast
 encense
 entangleable
-entia
+entia 1
 epacris
 elaeagnus
 enfrai
