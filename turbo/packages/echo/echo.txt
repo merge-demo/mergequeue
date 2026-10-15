@@ -12107,7 +12107,7 @@ electability
 excruciating
 enascent
 eradicator
-entwisting
+entwisting 1
 excud
 ennoblment
 erotizing
