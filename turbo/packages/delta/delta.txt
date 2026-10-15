@@ -9545,7 +9545,7 @@ decken
 denotate
 duellos
 diglots
-disenchantment
+disenchantment 1
 diglottist
 duumvir
 diallists
