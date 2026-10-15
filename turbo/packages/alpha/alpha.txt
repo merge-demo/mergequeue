@@ -19725,7 +19725,7 @@ ammoniate
 armeniaceous
 anticathexis
 abricot
-aristology
+aristology 1
 anamite
 anglesmith
 adorningly
