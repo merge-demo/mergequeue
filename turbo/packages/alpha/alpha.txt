@@ -23732,7 +23732,7 @@ anesis
 auroch
 answer
 anteceded
-affrayed
+affrayed 1
 anthropogeography
 aurophore
 aurore
