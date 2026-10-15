@@ -4851,7 +4851,7 @@ exportable
 episcopolatry
 encrinic
 encrinidae
-elegance
+elegance 1
 encroacher
 equalizing
 exponentiations
