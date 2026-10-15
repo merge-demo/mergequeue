@@ -14210,7 +14210,7 @@ damage
 daboia
 deodorizing
 defenselessly
-derotrematous
+derotrematous 1
 disyoked
 doublet
 destroyable
