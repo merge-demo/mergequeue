@@ -4843,7 +4843,7 @@ goombay
 galaxian
 geck
 glaiks
-glaciates
+glaciates 1
 gladiator
 grabbiest
 guatemalan
