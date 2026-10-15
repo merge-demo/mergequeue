@@ -9357,7 +9357,7 @@ difficilitate
 dignosle
 desertlike
 dewinesses
-doucely
+doucely 1
 drooling
 dockages
 demonstrance
