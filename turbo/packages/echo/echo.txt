@@ -1090,7 +1090,7 @@ envined
 edificatory
 epimerize
 expostulatively
-elliptic
+elliptic 1
 ephahs
 edificed
 electrologic
