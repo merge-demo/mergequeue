@@ -6975,7 +6975,7 @@ guaiac
 greystone
 gauntries
 gushiest
-genevoise
+genevoise 1
 gynosporangium
 geason
 goofiness
