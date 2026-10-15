@@ -3598,7 +3598,7 @@ galany
 guttiform
 gananciales
 gantries
-glack
+glack 1
 goudy
 gawkiness
 galleriidae
