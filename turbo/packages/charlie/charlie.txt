@@ -28163,7 +28163,7 @@ communitorium
 craniomaxillary
 camellia
 craniometry
-capronyl
+capronyl 1
 craniometrist
 cladosiphonic
 craniopathic
