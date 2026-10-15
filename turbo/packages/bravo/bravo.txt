@@ -7087,7 +7087,7 @@ boyos
 bawdiness
 bespell
 bespelled
-bespend
+bespend 1
 bespew
 boucherism
 batan
