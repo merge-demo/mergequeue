@@ -8952,7 +8952,7 @@ galesaur
 gaffe
 gigi
 gladelike
-grandiloquous
+grandiloquous 1
 galvanising
 gnaw
 greenlander
