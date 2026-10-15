@@ -5129,7 +5129,7 @@ derivatives
 depth
 devorative
 debell
-dextrosinistral
+dextrosinistral 1
 dundee
 dopamine
 disulphoxide
