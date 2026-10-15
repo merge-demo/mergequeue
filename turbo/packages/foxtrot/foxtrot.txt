@@ -2078,7 +2078,7 @@ fwelling
 flocky
 foggara
 filibuster
-famishes
+famishes 1
 foremasthand
 fructidor
 fusibleness
