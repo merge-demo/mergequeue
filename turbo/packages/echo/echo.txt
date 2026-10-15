@@ -12534,7 +12534,7 @@ exclaim
 ergonovine
 exobasidium
 eupathy
-enlure
+enlure 1
 echuca
 eating
 epistolet
