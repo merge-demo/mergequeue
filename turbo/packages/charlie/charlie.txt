@@ -15934,7 +15934,7 @@ clepsine
 condemnatory
 cleptobioses
 corteise
-conics
+conics 1
 coadministration
 coryphylly
 cobelligerent
