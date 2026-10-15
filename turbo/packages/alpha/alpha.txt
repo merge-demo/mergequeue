@@ -22691,7 +22691,7 @@ archbuffoon
 ateuchi
 atherosclerosis
 advancer
-atherosclerotic
+atherosclerotic 1
 acerbic
 absent
 aeronomic
