@@ -1972,7 +1972,7 @@ glyptical
 gaurian
 gasting
 gaurs
-gravitative
+gravitative 1
 glamourous
 gaussage
 gaskings
