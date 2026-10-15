@@ -27708,7 +27708,7 @@ copsole
 circumdate
 cuppier
 crassier
-cowitch
+cowitch 1
 coercionist
 corrigendum
 cadaveric
