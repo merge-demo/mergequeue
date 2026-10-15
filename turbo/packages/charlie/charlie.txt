@@ -25403,7 +25403,7 @@ cornhusking
 coulombic
 consummate
 commensalism
-corny
+corny 1
 cornic
 cornice
 cuarta
