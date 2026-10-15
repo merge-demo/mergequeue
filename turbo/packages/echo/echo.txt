@@ -4237,7 +4237,7 @@ escarping
 escambio
 elegancy
 eaux
-eumeristic
+eumeristic 1
 elixate
 expendible
 expressways
