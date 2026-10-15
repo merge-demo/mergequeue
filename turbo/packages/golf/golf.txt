@@ -2779,7 +2779,7 @@ gaunt
 growling
 gimmor
 greatcoat
-gyro
+gyro 1
 gramophonist
 gyne
 gershon
