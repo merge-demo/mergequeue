@@ -1549,7 +1549,7 @@ eggs
 entothorax
 excerptive
 encyclopedial
-exsected
+exsected 1
 eupeptically
 ensconces
 enervates
