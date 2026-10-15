@@ -8707,7 +8707,7 @@ decors
 delicioso
 demagnetise
 distort
-dichrooscopic
+dichrooscopic 1
 dodecylene
 disenfranchisements
 devastator
