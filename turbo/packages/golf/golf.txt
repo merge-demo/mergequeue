@@ -1039,7 +1039,7 @@ gastrectomy
 gossamer
 gashed
 garvock
-gerardias
+gerardias 1
 gorgonin
 ganglioid
 ganglioma
