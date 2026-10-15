@@ -6155,7 +6155,7 @@ guttulous
 gns
 geese
 gatefolds
-globical
+globical 1
 generical
 glavered
 gardy

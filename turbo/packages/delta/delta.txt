@@ -2990,7 +2990,7 @@ disengage
 diabolos
 deeding
 directorates
-deedless
+deedless 1
 depreciant
 discants
 deejay
