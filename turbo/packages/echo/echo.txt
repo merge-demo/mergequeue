@@ -12726,7 +12726,7 @@ eremochaetous
 emperess
 entertissue
 evictee
-endamageable
+endamageable 1
 etesians
 expurgator
 exorcistic
