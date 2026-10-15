@@ -416,7 +416,7 @@ belook
 bacteriorhodopsin
 bwana
 buckers
-betipple
+betipple 1
 bailor
 brigadier
 backlogged
