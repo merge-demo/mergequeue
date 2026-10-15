@@ -12536,7 +12536,7 @@ chronicle
 clattertrap
 chronicling
 chronicon
-chronics
+chronics 1
 craddy
 chronique
 contingency
