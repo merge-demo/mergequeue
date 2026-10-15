@@ -5223,7 +5223,7 @@ archinformer
 antitangent
 autopoint
 aratinga
-affection
+affection 1
 apostasies
 arbutinase
 atoneness
