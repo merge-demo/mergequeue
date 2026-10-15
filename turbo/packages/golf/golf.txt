@@ -1494,7 +1494,7 @@ groose
 guaxima
 glandless
 gorlin
-gregarinidal
+gregarinidal 1
 grisounite
 grote
 genapping
