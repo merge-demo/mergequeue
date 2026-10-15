@@ -14199,7 +14199,7 @@ dibbles
 defeater
 deathful
 disuse
-desquamate
+desquamate 1
 disbranching
 disuses
 disutility
