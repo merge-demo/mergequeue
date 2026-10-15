@@ -233,7 +233,7 @@ gravelstone
 gags
 gonoecium
 guarder
-greatens
+greatens 1
 gradefinder
 gratiano
 gaiassa
