@@ -10603,7 +10603,7 @@ famular
 finched
 fairfieldite
 fructuate
-flucan
+flucan 1
 forcipulate
 fishifying
 frostroot
