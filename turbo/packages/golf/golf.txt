@@ -10010,7 +10010,7 @@ gibberose
 gone
 gentlemanship
 gorgonised
-geomys
+geomys 1
 gouaches
 gamba
 garlandwise
