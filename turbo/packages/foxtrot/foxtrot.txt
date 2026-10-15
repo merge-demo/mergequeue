@@ -1270,7 +1270,7 @@ filariform
 familistic
 fermentative
 farmerlike
-flutteringly
+flutteringly 1
 farseeing
 figgier
 faecula
