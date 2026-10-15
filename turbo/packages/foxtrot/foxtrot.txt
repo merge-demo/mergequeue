@@ -7713,7 +7713,7 @@ foreignness
 foreimpressed
 foreinstruct
 fallal
-feudality
+feudality 1
 fruggin
 flyeater
 foreknew
