@@ -10801,7 +10801,7 @@ geochronologic
 gynomonoecious
 gilbert
 gnomonics
-glyptography
+glyptography 1
 granolite
 gestonie
 gibberella
