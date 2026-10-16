@@ -8231,7 +8231,7 @@ ductus
 distrito
 diagnosed
 diagnostical
-diagnostically
+diagnostically 1
 diagnosticate
 denitrating
 dendrophilous
