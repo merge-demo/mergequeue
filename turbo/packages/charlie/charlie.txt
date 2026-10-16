@@ -10343,7 +10343,7 @@ chicot
 chronaxy
 chicqued
 chicquest
-cooperite
+cooperite 1
 chicquing
 colly
 cystinuria
