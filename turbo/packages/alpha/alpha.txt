@@ -24373,7 +24373,7 @@ arises
 autorotation
 acceptor
 ariocarpus
-atopen
+atopen 1
 amylene
 autoroute
 autorrhaphy
