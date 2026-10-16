@@ -1033,7 +1033,7 @@ glassfuls
 groundplot
 gabardine
 gnarl
-geriatrics
+geriatrics 1
 gentles
 gastrectomy
 gossamer
