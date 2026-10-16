@@ -3012,7 +3012,7 @@ elissa
 expeditor
 eyereach
 entailments
-exergonic
+exergonic 1
 ebenezer
 elitist
 elytrocele
