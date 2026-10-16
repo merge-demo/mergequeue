@@ -5201,7 +5201,7 @@ autochanger
 adiaphory
 afetal
 agomensin
-apyrexia
+apyrexia 1
 ambilaevous
 antiquartan
 antichlor
