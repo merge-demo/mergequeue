@@ -2484,7 +2484,7 @@ foliously
 flabile
 foamlike
 fris
-flea
+flea 1
 fibrinoid
 fry
 fernyear
