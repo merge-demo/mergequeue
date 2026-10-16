@@ -1860,7 +1860,7 @@ acerous
 acertannin
 acoustoelectric
 aquaregia
-allseed
+allseed 1
 antitabetic
 avalent
 acerval
