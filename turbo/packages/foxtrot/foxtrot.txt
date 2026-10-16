@@ -1788,7 +1788,7 @@ furfuran
 featheriness
 frogface
 foreslack
-forsterite
+forsterite 1
 farfet
 farsalah
 forlorn
