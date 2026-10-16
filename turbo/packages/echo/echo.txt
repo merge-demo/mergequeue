@@ -610,7 +610,7 @@ exostoses
 eciliate
 extemporized
 emporia
-emetics
+emetics 1
 eurypharynx
 electrodialyze
 euro
