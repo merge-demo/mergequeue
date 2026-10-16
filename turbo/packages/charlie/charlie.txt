@@ -9838,7 +9838,7 @@ chemiotaxic
 carvone
 chemiotaxis
 cupriferous
-chemiotropic
+chemiotropic 1
 crinet
 cryptogenic
 chemisette
