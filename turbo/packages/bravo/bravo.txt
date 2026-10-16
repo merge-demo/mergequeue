@@ -944,7 +944,7 @@ boscage
 berryless
 bivinyl
 biopsychic
-belligerently
+belligerently 1
 bazookaman
 boistousness
 bassalian
