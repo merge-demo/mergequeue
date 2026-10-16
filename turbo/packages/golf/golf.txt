@@ -5837,7 +5837,7 @@ greggle
 gather
 greekish
 gedrite
-glutetei
+glutetei 1
 golliwog
 geocarpic
 gastriloquy
