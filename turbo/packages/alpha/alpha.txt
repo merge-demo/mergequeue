@@ -14797,7 +14797,7 @@ anticatarrhal
 acronymize
 afernan
 audiometry
-altiscope
+altiscope 1
 anticaustic
 amulet
 affreighter
