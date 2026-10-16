@@ -2606,7 +2606,7 @@ ecphova
 electrophoretically
 eudiaphoresis
 elliptically
-exercitor
+exercitor 1
 enjelly
 epithelize
 exothecate
