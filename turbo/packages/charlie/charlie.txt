@@ -21036,7 +21036,7 @@ compts
 cabretta
 cannelured
 compulsatorily
-compulsed
+compulsed 1
 calciphobe
 culex
 compulsion
