@@ -10663,7 +10663,7 @@ gasolines
 gametogony
 gladius
 gyric
-goatsbane 1
+goatsbane 2
 galp
 gazaboes
 gurgoyle
