@@ -1156,7 +1156,7 @@ dispersively
 daimios
 diploconical
 declericalize
-dimera
+dimera 1
 dianoetical
 dade
 detrited
