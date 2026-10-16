@@ -20259,7 +20259,7 @@ anthologise
 aphides
 analabos
 animalcula
-arrivals
+arrivals 1
 atracheate
 aromatize
 alimonied
