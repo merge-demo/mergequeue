@@ -5294,7 +5294,7 @@ eucopepoda
 endogamy
 endoscope
 endoscopes
-equivocalities
+equivocalities 1
 eradicators
 egeran
 emmeniopathy
