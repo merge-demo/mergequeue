@@ -9093,7 +9093,7 @@ bodysuit
 beauts
 biosome
 boodledom
-biosphere
+biosphere 1
 breakdown
 bionomical
 biostatic
