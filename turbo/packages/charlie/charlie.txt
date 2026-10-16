@@ -24291,7 +24291,7 @@ convulsions
 clostridia
 cosinusoid
 convulsive
-convulsively
+convulsively 1
 coo
 cocodette
 chalcidoidea
