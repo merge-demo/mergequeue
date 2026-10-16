@@ -3893,7 +3893,7 @@ endorsor
 easternized
 esperance
 eminently
-enamored
+enamored 1
 expressionless
 executorship
 edentulous
