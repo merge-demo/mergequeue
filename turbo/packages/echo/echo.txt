@@ -5903,7 +5903,7 @@ exaggerativeness
 earsplitting
 epitomise
 edeitis
-externalise
+externalise 1
 enhancing
 enharbour
 escribientes
