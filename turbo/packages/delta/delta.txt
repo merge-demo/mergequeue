@@ -5703,7 +5703,7 @@ desipramine
 despotic
 deltoids
 disusance
-dispansive
+dispansive 1
 dermoossification
 discern
 dreamingful
