@@ -1967,7 +1967,7 @@ dipware
 divinatory
 dermohumeral
 deburr
-divulgatory
+divulgatory 1
 debus
 decanally
 defying
