@@ -2556,7 +2556,7 @@ candleshrift
 capitalizations
 cecidiology
 committeewoman
-chinol
+chinol 1
 castellanship
 candlesticks
 cogniser
