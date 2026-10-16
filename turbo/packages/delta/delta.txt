@@ -12905,7 +12905,7 @@ dustiness
 desulphuration
 disoblige
 dognapping
-decolorising
+decolorising 1
 disobliges
 duff
 darkful
