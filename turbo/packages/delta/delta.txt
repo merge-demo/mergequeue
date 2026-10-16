@@ -15624,7 +15624,7 @@ daggers
 dissembler
 departement
 directable
-doorstop
+doorstop 1
 devotionality
 diapasonal
 disulfate
