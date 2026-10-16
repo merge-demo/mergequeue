@@ -23471,7 +23471,7 @@ augends
 auger
 ahimsas
 agrufe
-augerer
+augerer 1
 antireformer
 augers
 auget
