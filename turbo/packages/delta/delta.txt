@@ -403,7 +403,7 @@ darkens
 daintifying
 desiccating
 diversity
-daintiness
+daintiness 1
 daiquiri
 dingle
 diriment
