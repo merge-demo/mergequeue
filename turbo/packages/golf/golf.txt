@@ -4040,7 +4040,7 @@ gynostegium
 gabendum
 gammarine
 graduality
-giantish
+giantish 1
 gabbart
 glum
 gurney

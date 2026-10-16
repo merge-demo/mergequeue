@@ -3708,7 +3708,7 @@ dowlas
 dehydrochlorinate
 daytale
 drabble
-drepanoid
+drepanoid 1
 didact
 dehydrogenate
 derogatory
