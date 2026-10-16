@@ -7939,7 +7939,7 @@ epimanikia
 equivocatory
 estragol
 ensilation
-expounds
+expounds 1
 excudate
 epimanikion
 epimeres
