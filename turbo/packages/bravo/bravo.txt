@@ -5223,7 +5223,7 @@ basaltic
 boneheaded
 bicentenary
 bimastoid
-bullyragged
+bullyragged 1
 basophils
 beaky
 bowtie
