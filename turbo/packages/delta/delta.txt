@@ -1157,7 +1157,7 @@ daimios
 diploconical
 declericalize
 dimera
-dianoetical
+dianoetical 1
 dade
 detrited
 decrementing
