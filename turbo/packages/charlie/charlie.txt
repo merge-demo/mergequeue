@@ -15708,7 +15708,7 @@ chemics
 cytologies
 clavicythetheria
 clavicittern
-clavicle
+clavicle 1
 cannas
 clavicorn
 clavicornes
