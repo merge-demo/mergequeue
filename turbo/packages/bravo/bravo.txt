@@ -8427,7 +8427,7 @@ bilection
 bileve
 bilewhit
 bavardage
-berbery
+berbery 1
 bootjack
 bouteloua
 bals
