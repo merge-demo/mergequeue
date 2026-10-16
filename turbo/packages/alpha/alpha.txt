@@ -1393,7 +1393,7 @@ arabesquerie
 anglican
 anticompetitive
 amadavat
-acceptors
+acceptors 1
 antifreezes
 acervuline
 antibacteriolytic
