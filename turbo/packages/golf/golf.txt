@@ -9688,7 +9688,7 @@ gelts
 gruesome
 galeod
 glycoproteid
-gasp
+gasp 1
 grassworm
 gregale
 gratifying
