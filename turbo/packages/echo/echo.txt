@@ -2337,7 +2337,7 @@ electrocardiogram
 enclear
 ever
 electrocardiographic
-euphuistic
+euphuistic 1
 entocele
 explosive
 electromobilism
