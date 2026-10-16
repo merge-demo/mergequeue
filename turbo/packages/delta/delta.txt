@@ -12719,7 +12719,7 @@ disoxidate
 dyester
 duco
 diazotizing
-defectoscope
+defectoscope 1
 dislluminate
 dubbings
 difference
