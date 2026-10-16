@@ -15250,7 +15250,7 @@ crabfish
 clame
 cheeseboard
 clamflat
-ctn
+ctn 1
 calamospermae
 chivalry
 capricornus
