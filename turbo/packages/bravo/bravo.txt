@@ -9253,7 +9253,7 @@ bipolarization
 besmear
 bedivere
 bloodlusting
-bishopess
+bishopess 1
 bipotentiality
 bromoiodid
 bipotentialities
