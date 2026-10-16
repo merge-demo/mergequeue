@@ -2385,7 +2385,7 @@ abortionist
 abator
 adjection
 acrospired
-anticritically
+anticritically 1
 acinaciform
 amorism
 acinar
