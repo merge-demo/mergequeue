@@ -1507,7 +1507,7 @@ germiest
 geniture
 granulomatous
 grein
-geotonic
+geotonic 1
 grouse
 galoped
 gavelage
