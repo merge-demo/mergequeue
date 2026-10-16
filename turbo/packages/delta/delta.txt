@@ -16205,7 +16205,7 @@ daren
 dextroamphetamine
 dermatotherapy
 deliberate
-dowsets
+dowsets 1
 densitometer
 dowitchers
 determinedness
