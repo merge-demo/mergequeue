@@ -5980,7 +5980,7 @@ bouncingly
 bevaring
 bemask
 bricktop
-befooling
+befooling 1
 bribeability
 bruises
 bitterbark
