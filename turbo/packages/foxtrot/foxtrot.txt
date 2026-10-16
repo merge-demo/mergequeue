@@ -8929,7 +8929,7 @@ fermental
 foolfishes
 favorers
 frenchy
-frisbee
+frisbee 1
 floit
 flywort
 fiacre
