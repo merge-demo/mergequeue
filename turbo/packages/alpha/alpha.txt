@@ -7192,7 +7192,7 @@ algodoncillo
 aethrioscope
 alack
 amole
-anadromous
+anadromous 1
 advertized
 automatic
 ameloblast
