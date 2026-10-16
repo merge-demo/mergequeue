@@ -7241,7 +7241,7 @@ footstall
 filature
 fridays
 foreignize
-fleetings
+fleetings 1
 forel
 feudalising
 flanderkin
