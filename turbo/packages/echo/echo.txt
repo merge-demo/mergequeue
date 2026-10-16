@@ -9707,7 +9707,7 @@ exship
 echoed
 eversible
 extima
-easing
+easing 1
 endited
 eventuated
 entoptoscopic
