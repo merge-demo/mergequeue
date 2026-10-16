@@ -4260,7 +4260,7 @@ encephaloscopy
 emulsions
 erythrocytes
 equidistantial
-effluxes
+effluxes 1
 emphasise
 extoller
 emulsoids
