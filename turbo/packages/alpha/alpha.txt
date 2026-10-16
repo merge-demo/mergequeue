@@ -8704,7 +8704,7 @@ argyrite
 almes
 alternationist
 allelomorphic
-ambach
+ambach 1
 allelotropy
 attendantly
 allelotropism
