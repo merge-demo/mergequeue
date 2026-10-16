@@ -7289,7 +7289,7 @@ eurypygae
 enterpillar
 eat
 enigmatize
-encushion
+encushion 1
 epagomenae
 equerryship
 extraconstitutional
