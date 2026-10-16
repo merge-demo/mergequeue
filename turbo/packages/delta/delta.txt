@@ -11752,7 +11752,7 @@ debellate
 deoxidising
 demasculinised
 discrested
-dowering
+dowering 1
 default
 dined
 dermutation
