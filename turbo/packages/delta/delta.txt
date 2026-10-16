@@ -5963,7 +5963,7 @@ dropforged
 deprome
 demisphere
 drawling
-disaffectedly
+disaffectedly 1
 deprostrate
 draughtiest
 downbeats
