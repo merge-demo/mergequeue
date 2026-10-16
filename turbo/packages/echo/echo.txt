@@ -8090,7 +8090,7 @@ enhedge
 epiplasmic
 exhausting
 epiploce
-exacum
+exacum 1
 epiplocele
 enthuse
 encircles
