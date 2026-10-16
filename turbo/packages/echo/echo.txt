@@ -3994,7 +3994,7 @@ electroretinography
 exultancy
 esothyropexy
 estus
-effloresce
+effloresce 1
 epilamellar
 etymologise
 estrapade
