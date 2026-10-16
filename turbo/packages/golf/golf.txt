@@ -9200,7 +9200,7 @@ gliss
 greenstick
 glavering
 glaucomas
-glaucosuria
+glaucosuria 1
 gastrodiaphanoscopy
 gradine
 goniometrically
