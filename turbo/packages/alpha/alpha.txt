@@ -5230,7 +5230,7 @@ atoneness
 affectional
 affectionateness
 affectioned
-anemographic
+anemographic 1
 affections
 affective
 advocacies
