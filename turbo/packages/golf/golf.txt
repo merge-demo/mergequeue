@@ -962,7 +962,7 @@ gamophagy
 glomeruli
 gunarchy
 graptolite
-glist
+glist 1
 genomic
 gamostele
 glottogony
