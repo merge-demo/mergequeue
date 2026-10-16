@@ -3102,7 +3102,7 @@ euectic
 eastermost
 elmwood
 exudations
-empennage
+empennage 1
 equiangularity
 epicalyces
 even
