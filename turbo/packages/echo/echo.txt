@@ -600,7 +600,7 @@ echometer
 echopractic
 epidictic
 elitisms
-ebonise
+ebonise 1
 exobiological
 echt
 earliness
