@@ -1329,7 +1329,7 @@ fluoridised
 frache
 fishman
 flookan
-flout
+flout 1
 functionality
 fallowness
 frictionally
