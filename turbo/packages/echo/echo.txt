@@ -7301,7 +7301,7 @@ exception
 enfettered
 exaggerating
 epalpebrate
-eternises
+eternises 1
 enolize
 exemplariness
 ephah
