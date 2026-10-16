@@ -15018,7 +15018,7 @@ decided
 deformer
 doggerelling
 deposals
-dioptrics
+dioptrics 1
 disbutton
 decnet
 doggers
