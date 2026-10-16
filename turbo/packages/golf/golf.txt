@@ -1122,7 +1122,7 @@ gerip
 glossing
 ganoidian
 gaillardia
-galanas
+galanas 1
 geonyctitropic
 gutsiest
 grammatolatry

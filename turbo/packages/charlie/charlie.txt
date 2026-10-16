@@ -481,7 +481,7 @@ conjunctiveness
 crummock
 creepiest
 caddiced
-caddicefly
+caddicefly 1
 caddie
 caddies
 convulsionary
