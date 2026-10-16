@@ -5219,7 +5219,7 @@ adorners
 affectibility
 affecting 1
 aerophore
-archinformer
+archinformer 1
 antitangent
 autopoint
 aratinga
