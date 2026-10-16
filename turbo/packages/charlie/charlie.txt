@@ -9196,7 +9196,7 @@ chastiment
 chastise
 chastiser
 consulships
-clapperboard
+clapperboard 1
 cheering
 corf
 chastity

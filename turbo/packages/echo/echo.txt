@@ -2490,7 +2490,7 @@ ecosphere
 epicanthic
 exterminative
 electrokinetics
-elasticum
+elasticum 1
 exsecants
 educables
 expansivity
