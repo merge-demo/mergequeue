@@ -13953,7 +13953,7 @@ extraoral
 extraordinary
 exterioration
 eschews
-elaborateness
+elaborateness 1
 eudeve
 entoire
 extraparliamentary
