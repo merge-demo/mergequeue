@@ -9650,7 +9650,7 @@ fourths
 floyt
 freezy
 fubbed
-fashed
+fashed 1
 fromage
 frocked
 fletcher
