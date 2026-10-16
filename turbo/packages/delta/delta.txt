@@ -7941,7 +7941,7 @@ dollarbird
 diaplex
 dashers
 dextrad
-dextral
+dextral 1
 dextran
 dextranase
 doublelunged
