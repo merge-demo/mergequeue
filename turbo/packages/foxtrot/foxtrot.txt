@@ -204,7 +204,7 @@ footstock
 freedwoman
 ferns 1
 fazenda
-factotum
+factotum 1
 felsitic
 ferrihemoglobin
 frasier
