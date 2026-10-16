@@ -9440,7 +9440,7 @@ bathymeter
 basaltine
 bemedaled
 bescours
-bashes
+bashes 1
 bergalith
 birma
 borosilicate
