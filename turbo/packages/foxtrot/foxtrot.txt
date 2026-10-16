@@ -4357,7 +4357,7 @@ frankify
 flimmer
 feerie
 fetography
-fatigueless
+fatigueless 1
 frustrates
 frankable
 fourflusher
