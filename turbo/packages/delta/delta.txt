@@ -6800,7 +6800,7 @@ dropsonde
 dedicates
 diaconate
 desize
-decompositional
+decompositional 1
 desklike
 diphrelatic
 dunks
