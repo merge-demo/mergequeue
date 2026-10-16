@@ -9791,7 +9791,7 @@ bubblebow
 bisulfate
 biblioklept
 bocca
-bidialectal
+bidialectal 1
 bytalks
 bitanhol
 bitartrate
