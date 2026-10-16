@@ -2983,7 +2983,7 @@ equiprobabilism
 eliminated
 ectopia
 elymus
-ergotamine
+ergotamine 1
 epitomes
 enallage
 enfield
