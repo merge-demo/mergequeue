@@ -26758,7 +26758,7 @@ caldrons
 counterbored
 celandine
 counterborer
-counterboring
+counterboring 1
 curbstones
 counterbrand
 confutable
