@@ -670,7 +670,7 @@ emaculate
 estheses
 endolymphic
 exudative
-eclipsed
+eclipsed 1
 equivocacy
 eclipses
 efts
