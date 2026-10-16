@@ -5564,7 +5564,7 @@ glucine
 gallery
 grained
 goatskin
-gambols
+gambols 1
 grugrus
 gymnocalycium
 gussies
