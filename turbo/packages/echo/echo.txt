@@ -9361,7 +9361,7 @@ effecter
 endemism
 educable
 escalades
-escalating
+escalating 1
 escalations
 enkindle
 expectedly
