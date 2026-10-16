@@ -795,7 +795,7 @@ alabandine
 abroach
 airdock
 abrogate
-allergies
+allergies 1
 amphithyra
 archilithic
 abrogating
