@@ -6505,7 +6505,7 @@ dunged
 diadromous
 dispositionally
 dissevering
-determinate
+determinate 1
 dactylogram
 disanney
 demonist
