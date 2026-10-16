@@ -15739,7 +15739,7 @@ dormancies
 dizygotic
 dormers
 dormette
-desolator
+desolator 1
 dormeuse
 dormice
 dishpans
