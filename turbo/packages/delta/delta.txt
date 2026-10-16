@@ -1622,7 +1622,7 @@ disenrol
 decl
 dealcoholize
 dinoceratan
-datisca
+datisca 1
 deutsche
 disorientated
 didymia
