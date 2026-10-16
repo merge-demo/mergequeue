@@ -8475,7 +8475,7 @@ evangelistaries
 easterlies
 eprise
 epimorpha
-endures
+endures 1
 epsilons
 extravasate
 expressionistic
