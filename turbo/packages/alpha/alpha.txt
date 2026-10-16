@@ -5587,7 +5587,7 @@ almagests
 appalachia
 aftershocks
 aftersound
-anterevolutional
+anterevolutional 1
 afterspring
 anatron
 anhele
