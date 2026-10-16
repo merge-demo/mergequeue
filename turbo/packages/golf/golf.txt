@@ -5992,7 +5992,7 @@ globalize
 glutinative
 granuloadipose
 gingelies
-giftedness
+giftedness 1
 gradgrindism
 guaba
 goldenlocks
