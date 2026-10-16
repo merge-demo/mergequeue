@@ -2570,7 +2570,7 @@ cordwoods
 codlins
 caenozoic
 conners
-candlewicks
+candlewicks 1
 complementative
 candlewright
 candling
