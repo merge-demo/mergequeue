@@ -5509,7 +5509,7 @@ dewdrops
 diaxon
 denials
 departer
-devastated
+devastated 1
 dehistoricize
 drama
 dematiaceous
