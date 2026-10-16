@@ -5473,7 +5473,7 @@ damnable
 dolley
 dilutors
 durion
-declamation
+declamation 1
 deoxidisation
 dissolubility
 deadest
