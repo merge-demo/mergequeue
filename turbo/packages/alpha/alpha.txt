@@ -17764,7 +17764,7 @@ archdespot
 applications
 anecdotalist
 appositely
-applicative
+applicative 1
 ammunition
 applicatively
 applicatory
