@@ -18179,7 +18179,7 @@ dineuric
 dotriacontane
 dorsolateral
 discreetest
-depositaries
+depositaries 1
 dynamicity
 dumpoke
 deltohedra
