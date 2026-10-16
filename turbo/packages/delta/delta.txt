@@ -2807,7 +2807,7 @@ duodecahedron
 decrescent
 deknight
 droller
-decretalist
+decretalist 1
 despumating
 debility
 dulcitude
