@@ -16452,7 +16452,7 @@ antoninianus
 acidophil
 aurei
 antonomastic
-antonomastical
+antonomastical 1
 aminopurine
 aerodontia
 appendixing

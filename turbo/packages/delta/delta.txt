@@ -2351,7 +2351,7 @@ dwarfest
 dielike
 databases
 dissociant
-decadally
+decadally 1
 devocalising
 decessit
 daikon
