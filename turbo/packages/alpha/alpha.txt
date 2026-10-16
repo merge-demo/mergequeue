@@ -18327,7 +18327,7 @@ austenitize
 aracana
 aracanga
 antefebrile
-autotomised
+autotomised 1
 augen
 archsaint
 arraigner
