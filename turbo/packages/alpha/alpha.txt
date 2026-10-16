@@ -16783,7 +16783,7 @@ antikamnia
 aphanitic
 aphetize
 armours
-assish
+assish 1
 adiposity
 aphidivorous
 aphidolysin
