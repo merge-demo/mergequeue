@@ -5995,7 +5995,7 @@ foliole
 fictioneering
 foundership
 feldsher
-floorwise
+floorwise 1
 fissate
 featishness
 fastnesses
