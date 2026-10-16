@@ -16748,7 +16748,7 @@ bids
 bistorta
 bedfoot
 buzzardly
-bariatrics
+bariatrics 1
 bucktooth
 bronchovesicular
 bucktoothed
