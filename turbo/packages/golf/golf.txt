@@ -8280,7 +8280,7 @@ goney
 garrigue
 graphotype
 grapier
-garrisons
+garrisons 1
 grainless
 gusseting
 glossographer
