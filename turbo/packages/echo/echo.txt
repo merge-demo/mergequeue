@@ -1819,7 +1819,7 @@ elbow
 exopodite
 eigenvalues
 evaluates
-evaginated
+evaginated 1
 effervescive
 ensouling
 eurypterida
