@@ -5961,7 +5961,7 @@ eking
 expectorates
 enframing
 enigma
-egotism
+egotism 1
 enigmas
 enjambements
 enigmata
