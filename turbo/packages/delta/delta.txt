@@ -17318,7 +17318,7 @@ dronepipe
 decurion
 devaunt
 deduct
-denervation
+denervation 1
 devolvement
 drony
 droningly
