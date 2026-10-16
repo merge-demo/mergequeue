@@ -19370,7 +19370,7 @@ cherubin
 colorant
 colorants
 chemosmoses
-colorate
+colorate 1
 coloration
 colorational
 colorative
