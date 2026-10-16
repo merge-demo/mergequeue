@@ -2920,7 +2920,7 @@ armamentary
 advisive
 aerobatics
 albugineous
-acrostichum
+acrostichum 1
 adoptianism
 acrosticism
 axiomatized
