@@ -3535,7 +3535,7 @@ gottlieb
 guytrash
 gynecolatry
 grenadin
-goth
+goth 1
 ginmill
 geums
 gangues
