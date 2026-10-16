@@ -4820,7 +4820,7 @@ foothills
 flagman
 fasciolaria
 fancifulness
-floatiest
+floatiest 1
 fullwords
 faena
 fellowshipping
