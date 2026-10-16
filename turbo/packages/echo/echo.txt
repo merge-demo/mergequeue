@@ -7371,7 +7371,7 @@ exuviate
 encloses 1
 exonship
 epithetical
-everywhither
+everywhither 1
 earthmoving
 equipollency
 eyres
