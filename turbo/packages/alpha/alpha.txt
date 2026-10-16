@@ -5361,7 +5361,7 @@ affordable
 argoletier
 afforesting
 autophotometry
-abristle
+abristle 1
 anticogitative
 afformative
 abuseful
