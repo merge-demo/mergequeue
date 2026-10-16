@@ -9286,7 +9286,7 @@ cordite
 chaucerian
 chauchat
 ceratophyllaceae
-conjunctive
+conjunctive 1
 chauffage
 chauffer
 chauffeured
