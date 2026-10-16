@@ -2571,7 +2571,7 @@ brained
 bonaci
 beltways
 bloodberry
-bardel
+bardel 1
 beleaped
 blens
 bactrian
