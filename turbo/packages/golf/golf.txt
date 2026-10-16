@@ -3096,7 +3096,7 @@ gurglet
 grees
 grips
 goan
-gooseherd
+gooseherd 1
 germinative
 geopolitical
 gayer
