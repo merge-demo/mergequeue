@@ -2497,7 +2497,7 @@ groundlessness
 genderless
 gamogeny
 graven
-gradatim
+gradatim 1
 gastroenterocolitis
 gliriformia
 gladite
