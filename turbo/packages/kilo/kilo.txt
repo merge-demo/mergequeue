@@ -4871,7 +4871,7 @@ khimozz
 khinstkb
 khinthxpw
 khioct
-khipcid
+khipcid 1
 khipf
 khiqa
 khira
