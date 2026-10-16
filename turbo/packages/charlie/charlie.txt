@@ -24443,7 +24443,7 @@ cooperates
 carapaxes
 caracals
 crusadoes
-chupatti
+chupatti 1
 cooperation
 cuissart
 cilioscleral
