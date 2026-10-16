@@ -5871,7 +5871,7 @@ despots
 drago
 depreciation
 dioscuri
-deoxygenization
+deoxygenization 1
 dryopians
 deforceor
 depredate
