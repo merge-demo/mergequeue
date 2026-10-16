@@ -5378,7 +5378,7 @@ fissured
 faconde
 floccillation
 ferrocyanide
-faverel
+faverel 1
 figged
 fluoridise
 foredetermine
