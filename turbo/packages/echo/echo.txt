@@ -11879,7 +11879,7 @@ echium
 except
 escheatment
 eppes
-encolure
+encolure 1
 entomologise
 epigenetic
 etheneldeli
