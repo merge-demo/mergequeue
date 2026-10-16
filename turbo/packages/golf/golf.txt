@@ -6982,7 +6982,7 @@ goofiness
 grutching
 grassflat
 goodies
-gaseousness
+gaseousness 1
 guayabera
 grunch
 gnotobiology
