@@ -10805,7 +10805,7 @@ direful
 direfully
 disadvantage
 dirempt
-direness
+direness 1
 drusy
 dolly
 developement
