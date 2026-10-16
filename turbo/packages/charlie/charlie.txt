@@ -17244,7 +17244,7 @@ communicativeness
 chambrel
 curseder
 coalier
-coaliest
+coaliest 1
 coenzymatically
 coalify
 caperer
