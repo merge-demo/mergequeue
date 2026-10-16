@@ -5201,7 +5201,7 @@ fuchsia
 finished
 familarity
 frumpery
-funest
+funest 1
 fraternizes
 formylating
 fictionising
