@@ -10169,7 +10169,7 @@ guato
 genres
 guidepost
 glossophobia
-geostrategist
+geostrategist 1
 gaufre
 gurneyite
 gerusia
