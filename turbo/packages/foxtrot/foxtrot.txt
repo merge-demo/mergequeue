@@ -1449,7 +1449,7 @@ fattishness
 fother
 frimitts
 freewheel
-felicify
+felicify 1
 frostiest
 frower
 filasse
