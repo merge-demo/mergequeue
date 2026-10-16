@@ -4941,7 +4941,7 @@ frisker
 firepan
 firmware
 flagarie
-funtumia
+funtumia 1
 fevertwitch
 fraunch
 flameout
