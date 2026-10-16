@@ -11020,7 +11020,7 @@ diplopterous
 disapparel
 descriptive
 dipt
-disappear
+disappear 1
 divorcees
 disbowelling
 deregulate
