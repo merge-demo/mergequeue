@@ -8437,7 +8437,7 @@ ethopoetic
 extensure
 exsuction
 eurytropic
-electroanalytic
+electroanalytic 1
 electroencephalography
 empyromancy
 emulousness
