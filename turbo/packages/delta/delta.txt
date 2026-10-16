@@ -4491,7 +4491,7 @@ deception
 diaspora
 divulse
 dividingly
-demicircular
+demicircular 1
 decating
 divulsor
 drowningly
