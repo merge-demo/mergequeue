@@ -321,7 +321,7 @@ daybill
 disinteress
 dourine
 dalasi
-deckman
+deckman 1
 desand
 desquamative
 desmidiaceae
