@@ -9012,7 +9012,7 @@ busheler
 barbershop
 burnouts
 boldface
-beauxite
+beauxite 1
 brev
 biophagism
 biophysic
