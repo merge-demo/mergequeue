@@ -5494,7 +5494,7 @@ fidelities
 feus
 farouk
 ferrymen
-fribbles
+fribbles 1
 foolscap
 flesh
 forbids
