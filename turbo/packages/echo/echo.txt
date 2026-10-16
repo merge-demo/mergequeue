@@ -1086,7 +1086,7 @@ edification
 exfigure
 earock
 equipoised
-envined
+envined 1
 edificatory
 epimerize
 expostulatively
