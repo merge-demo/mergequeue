@@ -11588,7 +11588,7 @@ downweed
 defectionist
 discontinuities
 dicatalexis
-discontinuously
+discontinuously 1
 drop
 disconula
 disconvenience
