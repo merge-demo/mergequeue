@@ -7839,7 +7839,7 @@ espressivo
 entomotaxy
 epigonic
 expletive
-excardination
+excardination 1
 encrinoid
 exoascus
 extirpationist
