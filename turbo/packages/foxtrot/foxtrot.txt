@@ -2371,7 +2371,7 @@ fatherlands
 floatstone
 flytings
 fegs
-frolicky
+frolicky 1
 favoritism
 ferforth
 feudist
