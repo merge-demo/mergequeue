@@ -1613,7 +1613,7 @@ expounded
 egret
 egromancy
 emptiness
-egurgitate
+egurgitate 1
 egurgitated
 eheu
 explanatively
