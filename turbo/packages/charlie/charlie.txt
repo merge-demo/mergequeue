@@ -28297,7 +28297,7 @@ crate
 crateman
 clitic
 cratemen
-criss
+criss 1
 crossbreed
 crater
 cachet
