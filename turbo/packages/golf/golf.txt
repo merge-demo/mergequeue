@@ -7134,7 +7134,7 @@ gorals
 genealogize
 gastrocystic
 goran
-gynecoid
+gynecoid 1
 guested
 gremio
 geanticlinal
