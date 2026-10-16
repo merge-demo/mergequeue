@@ -3250,7 +3250,7 @@ galagala
 gaut
 gossypol
 gyral
-gaelicist
+gaelicist 1
 gulo
 galvanical
 gustatory
