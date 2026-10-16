@@ -13522,7 +13522,7 @@ cimaise
 cicatriculae
 cafe
 colament
-cymaise
+cymaise 1
 cort
 calorisator
 cathartically
