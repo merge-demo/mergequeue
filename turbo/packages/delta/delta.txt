@@ -7266,7 +7266,7 @@ dournesses
 defalk
 disarrest
 deterioration
-deuce
+deuce 1
 data
 dear
 dicyan
