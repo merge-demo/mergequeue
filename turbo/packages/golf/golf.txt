@@ -501,7 +501,7 @@ gluteus
 grama
 gullably
 geminations
-gnomes
+gnomes 1
 geomorphology
 galloons
 gisement
