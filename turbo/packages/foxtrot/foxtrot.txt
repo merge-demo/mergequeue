@@ -5603,7 +5603,7 @@ fiords
 flickermouse
 flannelmouthed
 flowery
-furbearer
+furbearer 1
 froebelist
 fanaticized
 forefeel
