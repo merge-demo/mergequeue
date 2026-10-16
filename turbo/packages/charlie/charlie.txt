@@ -18235,7 +18235,7 @@ cantinas
 carbonari
 coffeegrowing
 cladothrix
-cuss
+cuss 1
 capelets
 chemicovital
 coffeehouse
