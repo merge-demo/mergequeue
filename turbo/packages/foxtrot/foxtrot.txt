@@ -1584,7 +1584,7 @@ fenceress
 funning
 froufrous
 fopperies
-fortyfold
+fortyfold 1
 flights
 feltwort
 farcelike
