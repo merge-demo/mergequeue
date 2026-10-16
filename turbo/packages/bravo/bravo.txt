@@ -12591,7 +12591,7 @@ biochemically
 bonnier
 bonnyish
 boogeyman
-balance
+balance 1
 bonnnes
 bionomist
 bonorum
