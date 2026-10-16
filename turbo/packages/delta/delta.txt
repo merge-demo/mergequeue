@@ -7444,7 +7444,7 @@ densitometry
 disseised
 deferents
 detrivorous
-dervish
+dervish 1
 damn
 doggereled 1
 doebird
