@@ -1352,7 +1352,7 @@ effervescency
 eights
 epode
 encloser
-essentialness
+essentialness 1
 exomis
 evasional
 ebcdic
