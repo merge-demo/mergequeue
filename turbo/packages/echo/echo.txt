@@ -3779,7 +3779,7 @@ espigle
 equipoises
 enecate
 eurythmies
-explored
+explored 1
 emceeing
 escalader
 enquirer
