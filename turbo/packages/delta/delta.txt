@@ -17378,7 +17378,7 @@ doigt
 derivability
 delime
 deallocation
-delactation
+delactation 1
 deviants
 diduced
 dropmeal
