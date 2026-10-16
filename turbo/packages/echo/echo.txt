@@ -5711,7 +5711,7 @@ erupts
 exceptionality
 exophthalmic
 engined
-equangular
+equangular 1
 ending 1
 excusability
 engage
