@@ -17258,7 +17258,7 @@ dentinasal
 droger
 dichlorodiphenyltrichloroethane
 disthrone
-depreciative
+depreciative 1
 dictyogenous
 degausses
 desulphurated
