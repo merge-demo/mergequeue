@@ -1398,7 +1398,7 @@ engrailment
 earl
 electrodialyses
 electrometrically
-expandedness
+expandedness 1
 emetins
 epidote
 exterous
