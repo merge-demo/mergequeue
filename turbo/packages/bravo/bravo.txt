@@ -2112,7 +2112,7 @@ bannerols
 bannisters
 birthmarks
 bioflavinoid
-bannocks
+bannocks 1
 boilinglike
 banovina
 banquet
