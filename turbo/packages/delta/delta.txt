@@ -10199,7 +10199,7 @@ dinking
 defatting
 dinkum
 duroc
-dormitory
+dormitory 1
 decillionth
 dishcross
 doblons
