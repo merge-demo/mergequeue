@@ -8272,7 +8272,7 @@ ellagate
 exemplification
 epitaxis
 ebonizes
-epidemicity
+epidemicity 1
 electroculture
 epigrammatized
 enlife
