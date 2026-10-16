@@ -13459,7 +13459,7 @@ extrusile
 exorate
 expropriator
 eringo
-epenthetic
+epenthetic 1
 electrolyse
 ensuingly
 encopresis
