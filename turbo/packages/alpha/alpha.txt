@@ -22992,7 +22992,7 @@ an
 apocynaceae
 admirative
 awls
-amoebocyte
+amoebocyte 1
 affectless
 aphonics
 atrociously
