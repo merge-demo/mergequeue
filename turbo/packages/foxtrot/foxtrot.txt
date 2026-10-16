@@ -1898,7 +1898,7 @@ fecundator
 foodless
 fimbrial
 fuligula
-fallow
+fallow 1
 fewer
 flintier
 footingly
