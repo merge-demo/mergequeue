@@ -5518,7 +5518,7 @@ glutinously
 grudgeons
 greencoat
 gangling
-gestured
+gestured 1
 gnetum
 graduand
 glucinum
