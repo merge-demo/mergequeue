@@ -3043,7 +3043,7 @@ diphthongs
 deucedly
 dowress
 decarbonized
-desegregation
+desegregation 1
 diacetine
 deers
 deerstalkers
