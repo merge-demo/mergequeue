@@ -1312,7 +1312,7 @@ focimetry
 foxtails
 forestick
 flutework
-fructivorous
+fructivorous 1
 fatbird
 fatefully
 fanaticise
