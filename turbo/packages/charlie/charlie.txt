@@ -3406,7 +3406,7 @@ capri
 capric
 checkhook
 capriccetto
-capricci
+capricci 1
 capriccio
 curliewurlie
 campa
