@@ -10621,7 +10621,7 @@ affirmative
 amigos
 amiidae
 amyl
-amylan
+amylan 1
 aphorismatic
 attomy
 aurichalcite
