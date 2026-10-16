@@ -5160,7 +5160,7 @@ epilithic
 elevens
 endogenae
 efference
-euchres
+euchres 1
 echeloning
 enchanter
 expedition
