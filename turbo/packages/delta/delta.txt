@@ -12871,7 +12871,7 @@ doomsters
 decreeable
 driftway
 dyebeck
-demerited
+demerited 1
 dromond
 dismissal
 dismissed
