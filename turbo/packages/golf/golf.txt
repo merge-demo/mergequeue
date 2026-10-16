@@ -9227,7 +9227,7 @@ guaka
 glairing
 gunebo
 geoscience
-gibberosity
+gibberosity 1
 grippleness
 grazier
 gryllotalpa
