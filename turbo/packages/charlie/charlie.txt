@@ -16849,7 +16849,7 @@ clubbist
 chopas
 clubdom
 clubfist
-clubfisted
+clubfisted 1
 cenotaph
 clubfoot
 clubfooted
