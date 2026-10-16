@@ -2183,7 +2183,7 @@ extraviolet
 elderberries
 erythemic
 emissitious
-elderliness
+elderliness 1
 editorship
 exponentiated
 expect
