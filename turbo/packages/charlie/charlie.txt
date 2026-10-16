@@ -3459,7 +3459,7 @@ craniovertebral
 capsella
 calyptras
 capshore
-collectress
+collectress 1
 ceruses
 chullpa
 capsicums
