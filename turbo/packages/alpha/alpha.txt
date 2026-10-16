@@ -2292,7 +2292,7 @@ acidy
 acetamid
 accessless
 asphyxias
-acidiferous
+acidiferous 1
 argil
 aneurin
 arbtrn
