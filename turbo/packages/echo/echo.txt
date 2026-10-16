@@ -6806,7 +6806,7 @@ emmenology
 exoticism
 entombs
 excremental
-eviscerator
+eviscerator 1
 entomere
 entomic
 explorate
