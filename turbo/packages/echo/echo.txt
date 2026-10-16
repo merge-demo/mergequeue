@@ -4777,7 +4777,7 @@ etymologize
 expensively
 executioners
 eventides
-excrementitiousness
+excrementitiousness 1
 encolpia
 epiphytical
 ethanim
