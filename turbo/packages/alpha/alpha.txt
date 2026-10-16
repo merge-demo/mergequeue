@@ -11900,7 +11900,7 @@ analphabet
 analphabete
 amphibium
 angelus
-acyanopsia
+acyanopsia 1
 awink
 acceptedly
 ancerata
