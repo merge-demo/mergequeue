@@ -6717,7 +6717,7 @@ elusions
 esparcet
 exsuperate
 exophoria
-exhilarate
+exhilarate 1
 enthral
 eschewers
 enthralldom
