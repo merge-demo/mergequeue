@@ -9016,7 +9016,7 @@ equiponderous
 ebcasc
 effund
 erythremia
-entertainer
+entertainer 1
 erythric
 edituate
 eteocretes
