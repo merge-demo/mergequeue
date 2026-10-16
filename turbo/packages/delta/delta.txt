@@ -6687,7 +6687,7 @@ dinitrophenol
 diplohedron
 desyatin
 deaconries
-dubonnets
+dubonnets 1
 decalcification
 desiderable
 diascopy
