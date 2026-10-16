@@ -83,7 +83,7 @@ grayish
 geometdecrne
 giddap
 glowing
-graticule
+graticule 1
 gynocratic
 geotical
 gonalgia
