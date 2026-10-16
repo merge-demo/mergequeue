@@ -3585,7 +3585,7 @@ declaredness
 depredations
 delusterant
 dripping
-dextrogyre
+dextrogyre 1
 dinosauric
 dinornithiformes
 degenerate
