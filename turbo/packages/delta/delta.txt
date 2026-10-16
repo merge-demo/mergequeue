@@ -4049,7 +4049,7 @@ domicil
 dismissible
 delicatessen
 dynam
-dustoor
+dustoor 1
 dominance
 delice
 dualistic
