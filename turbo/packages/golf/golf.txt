@@ -10843,7 +10843,7 @@ guttar
 guaiacum
 grudgefully
 guzul
-genotypical
+genotypical 1
 gasworker
 grailer
 gymnasiarch
