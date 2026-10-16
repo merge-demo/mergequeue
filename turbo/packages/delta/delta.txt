@@ -7477,7 +7477,7 @@ detuning
 diastrophic
 dragooned
 dexiotropic
-doggishness
+doggishness 1
 diosma
 dunderpates
 darkheartedness
