@@ -7195,7 +7195,7 @@ grassier
 galactophorous
 grattoirs
 grizzlies
-gutterwise
+gutterwise 1
 gainlessness
 gentoo
 grayest
