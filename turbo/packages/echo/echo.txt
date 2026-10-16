@@ -12638,7 +12638,7 @@ elzevir
 extrapolation
 exomphalos
 erotogenic
-effrontery
+effrontery 1
 excrementary
 endeavoring
 entame
