@@ -11828,7 +11828,7 @@ choragi
 choragic
 choragion
 choristers
-calashes
+calashes 1
 chorai
 choral
 causeway
