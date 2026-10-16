@@ -15975,7 +15975,7 @@ brontoscopy
 bronchioli
 bronchiospasm
 bronchitic
-bronchitis
+bronchitis 1
 bethrall
 birota
 bronchoalveolar
