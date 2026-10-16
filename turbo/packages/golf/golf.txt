@@ -1146,7 +1146,7 @@ gantelope
 gantlet
 grocer
 gled
-gripier
+gripier 1
 galette
 grouses
 goninidia
