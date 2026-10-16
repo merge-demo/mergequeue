@@ -8270,7 +8270,7 @@ gnathostomi
 gladii
 graphophone
 grossulariaceae
-gasteria
+gasteria 1
 graphoscope
 glycoprotein
 grinderies
