@@ -4733,7 +4733,7 @@ democracy
 diploneural
 democracies
 dagswain
-democrat
+democrat 1
 dawdles
 douar
 depender
