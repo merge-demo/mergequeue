@@ -6304,7 +6304,7 @@ backswept
 benzalethylamine
 benzalphenylhydrazone
 benzamide
-benzoxate
+benzoxate 1
 badgerbrush
 benzamine
 badinerie
