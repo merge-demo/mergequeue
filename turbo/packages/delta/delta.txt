@@ -8088,7 +8088,7 @@ dentex
 developpes
 distributions
 decidable
-dinosaurs
+dinosaurs 1
 diabetometer
 demetallize
 demineralize
