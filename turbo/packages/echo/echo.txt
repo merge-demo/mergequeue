@@ -2310,7 +2310,7 @@ electrization
 excavated
 epicotyl
 errorful
-escalate
+escalate 1
 encrypting
 eyras
 elfkin
