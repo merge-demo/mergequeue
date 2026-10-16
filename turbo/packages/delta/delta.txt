@@ -6420,7 +6420,7 @@ decree
 drung
 decenter
 disencumbered
-denizening
+denizening 1
 debellation
 daniglacial
 doxology
