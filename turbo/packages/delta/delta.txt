@@ -3057,7 +3057,7 @@ deeses
 deepfrozen
 diester
 downward
-diuretic
+diuretic 1
 dehydrogenising
 durzada
 disinvolvement
