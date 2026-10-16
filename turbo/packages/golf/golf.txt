@@ -5717,7 +5717,7 @@ glossies
 glaucomys
 glossiest
 gybed
-glossinas
+glossinas 1
 gertrude
 glowbard
 gloveress
