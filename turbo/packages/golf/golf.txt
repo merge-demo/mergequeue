@@ -3882,7 +3882,7 @@ gucked
 groszy
 guilfat
 gaelicization
-glumpy
+glumpy 1
 glazed
 galloperdix
 gigaherz

@@ -10933,7 +10933,7 @@ formalins
 factorizing
 ferreiro
 foreshadows
-fub
+fub 1
 flintifying
 flexure
 field
