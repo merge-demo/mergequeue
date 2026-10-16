@@ -9208,7 +9208,7 @@ flosh
 fastigious
 fusing
 fragments
-foresighted
+foresighted 1
 fishbed
 friarly
 foraneous
