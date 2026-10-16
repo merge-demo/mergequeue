@@ -962,7 +962,7 @@ desists
 dodecastyle
 doctors
 dreidel
-dizzyingly
+dizzyingly 1
 dextrosazone
 dipsey
 dray
