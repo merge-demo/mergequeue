@@ -10157,7 +10157,7 @@ gerund
 grown
 gabbiest
 grandstands
-gabs
+gabs 1
 gallnuts
 guide
 gigglement
