@@ -1536,7 +1536,7 @@ gazetting
 gainbirth
 gunsels
 glaik
-gloria
+gloria 1
 grulla
 glimes
 ginny
