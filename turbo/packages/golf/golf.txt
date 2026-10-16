@@ -4574,7 +4574,7 @@ gutturalized
 gilim
 gobbledygook
 glim
-galloper
+galloper 1
 goobers
 germane
 gagger
