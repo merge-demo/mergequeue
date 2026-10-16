@@ -5522,7 +5522,7 @@ afterdeck
 aerial
 astrographer
 afterform
-actuarial
+actuarial 1
 aerolith
 aftergas
 abstractedness
