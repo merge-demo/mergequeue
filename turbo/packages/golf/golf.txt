@@ -778,7 +778,7 @@ globulolysis
 ganymede
 glossolalist
 gluck
-gutturize
+gutturize 1
 galvanothermometer
 glint
 ggr
