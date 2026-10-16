@@ -7543,7 +7543,7 @@ forespake
 fallacious
 foreboder
 fungivorous
-fuzils
+fuzils 1
 flattops
 foretake
 funebrial
