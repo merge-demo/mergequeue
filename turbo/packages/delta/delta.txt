@@ -5627,7 +5627,7 @@ decadents
 dephlegmation
 dermohemal
 dogstail
-deoxidize
+deoxidize 1
 dastards
 dephlogisticate
 dana
