@@ -29840,7 +29840,7 @@ crosiered
 capsumin
 clumsier
 cross
-circummeridian
+circummeridian 1
 cablets
 coronillo
 chronos
