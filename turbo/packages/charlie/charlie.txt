@@ -11323,7 +11323,7 @@ chloromata
 chloromelanite
 chlorometer
 chloromethane
-chlorometry
+chlorometry 1
 categorem
 coopted
 capman
