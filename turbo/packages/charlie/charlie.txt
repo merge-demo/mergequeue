@@ -27980,7 +27980,7 @@ craftiest
 calycanthus
 conferencing
 craftiness
-craftless
+craftless 1
 croucher
 charactonym
 craftsmanship
