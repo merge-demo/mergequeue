@@ -13929,7 +13929,7 @@ cynopithecidae
 cynopithecoid
 cynorrhoda
 cynorrhodon
-cynosure
+cynosure 1
 cynosures
 cynosurus
 cynotherapy
