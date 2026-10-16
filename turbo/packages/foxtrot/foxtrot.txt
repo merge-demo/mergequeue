@@ -4130,7 +4130,7 @@ fatalness
 fissipedal
 ferth
 fiendful
-figulate
+figulate 1
 feuilletons
 floridan
 fusiladed
