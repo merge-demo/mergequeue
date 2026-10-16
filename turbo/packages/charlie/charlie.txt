@@ -9580,7 +9580,7 @@ cheeful
 cankerworm
 calciminer
 cheek
-cheekbone
+cheekbone 1
 cheekbones
 crepeier
 counteracting
