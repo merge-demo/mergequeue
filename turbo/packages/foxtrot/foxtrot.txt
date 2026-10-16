@@ -7438,7 +7438,7 @@ faience
 firefall
 forevalue
 firstship
-forcibility
+forcibility 1
 forcibleness
 futurologist
 furnacite
