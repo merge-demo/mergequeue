@@ -2543,7 +2543,7 @@ frangibility
 freebee
 freeboot
 fem
-functionalistic
+functionalistic 1
 fennish
 foresightful
 falerno
