@@ -19588,7 +19588,7 @@ chromaticism
 coextensiveness
 capanne
 coregence
-columellia
+columellia 1
 columelliaceae
 columnal
 camphors
