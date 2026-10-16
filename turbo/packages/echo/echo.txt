@@ -10388,7 +10388,7 @@ eleolite
 exorbitance
 entresalle
 excreted
-exposit
+exposit 1
 ecb
 emeute
 ectocranial

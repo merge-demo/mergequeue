@@ -4702,7 +4702,7 @@ flamboyancy
 fistlike
 fizgig
 fizgigs
-figaro
+figaro 1
 feta
 fairyish
 forsake
