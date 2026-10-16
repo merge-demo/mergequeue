@@ -2813,7 +2813,7 @@ cursitor
 cannulating
 chinafish
 colius
-canoeist
+canoeist 1
 canoeload
 canoes
 cardiogenesis
