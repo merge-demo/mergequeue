@@ -2838,7 +2838,7 @@ gaberdine
 guildship
 gratifier
 griding
-glanduliform
+glanduliform 1
 glossiphonidae
 gustfulness
 geol
