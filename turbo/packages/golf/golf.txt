@@ -8575,7 +8575,7 @@ gravida
 gynecomasty
 garcons
 ganoidal
-gamogenetic
+gamogenetic 1
 gitana
 grandada
 grouped
