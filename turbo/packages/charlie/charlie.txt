@@ -3337,7 +3337,7 @@ cirrous
 calabash
 caponise
 corslets
-captivate
+captivate 1
 chrystocrene
 caponising
 camaldolensian
