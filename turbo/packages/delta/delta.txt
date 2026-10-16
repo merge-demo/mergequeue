@@ -17316,7 +17316,7 @@ dronage
 discovenant
 dronepipe
 decurion
-devaunt
+devaunt 1
 deduct
 denervation
 devolvement
