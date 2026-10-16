@@ -3391,7 +3391,7 @@ epichorial
 embarkations
 euconic
 epitomize
-eucharistized
+eucharistized 1
 embarkment
 embarks
 equipage
