@@ -3091,7 +3091,7 @@ gumdrops
 gomuti
 gymnocidium
 gastful
-guffaws
+guffaws 1
 gurglet
 grees
 grips
