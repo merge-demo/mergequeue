@@ -3712,7 +3712,7 @@ echelette
 exhaustivity
 egoistry
 embrittle
-edgeshot
+edgeshot 1
 enfranchised
 echinochrome
 erinaceidae
