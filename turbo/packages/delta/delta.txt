@@ -15628,7 +15628,7 @@ doorstop
 devotionality
 diapasonal
 disulfate
-diverge
+diverge 1
 dockman
 diodes
 desensitizer
