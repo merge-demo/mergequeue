@@ -9693,7 +9693,7 @@ ectoblast
 enshielded
 extraperitoneal
 espouser
-espouses
+espouses 1
 epicostal
 espousing
 enterorrhexis
