@@ -5508,7 +5508,7 @@ fasts
 forehear
 fiant
 friseurs
-fossed
+fossed 1
 fretwork
 fratching
 foraged
