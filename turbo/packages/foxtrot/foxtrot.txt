@@ -9402,7 +9402,7 @@ frowzier
 fractionised
 footier
 flamboyer
-franticly
+franticly 1
 folksong
 fossor
 freeloading
