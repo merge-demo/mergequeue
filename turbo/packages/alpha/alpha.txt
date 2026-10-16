@@ -1535,7 +1535,7 @@ alkoranic
 abidden
 antimensium
 autacoids
-autoexcitation
+autoexcitation 1
 accomplisht
 accordance
 atomity
