@@ -5511,7 +5511,7 @@ friseurs
 fossed
 fretwork
 fratching
-foraged
+foraged 1
 fleshy
 fillet
 ferally
