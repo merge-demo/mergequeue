@@ -5653,7 +5653,7 @@ estrif
 elaeagnaceous
 extinct
 epepophysial
-exteriorly
+exteriorly 1
 essayist
 extraterrestrially
 eucalypts
