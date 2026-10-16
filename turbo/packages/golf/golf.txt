@@ -6804,7 +6804,7 @@ glanis
 gl
 galliardize
 gelsemin
-garbleable
+garbleable 1
 goniunia
 groceteria
 goitrogen
