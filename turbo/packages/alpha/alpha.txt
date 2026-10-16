@@ -14656,7 +14656,7 @@ assignments
 antialcoholic
 akerite
 antialcoholism
-antialcoholist
+antialcoholist 1
 antialdoxime
 abanga
 angiectopia
