@@ -11983,7 +11983,7 @@ dagoes
 desmodus
 disenfranchisement
 devanagari
-demonkind
+demonkind 1
 disenfranchises
 disintertwine
 divinest
