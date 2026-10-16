@@ -13650,7 +13650,7 @@ barology
 bladder
 bloodsucker
 baud
-bande
+bande 1
 binocs
 blendcorn
 balkingly
