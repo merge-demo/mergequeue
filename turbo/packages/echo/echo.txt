@@ -6484,7 +6484,7 @@ exstruct
 entocyst
 erubescence
 excludable
-englerophoenix
+englerophoenix 1
 estimative
 esperantidist
 execration
