@@ -9572,7 +9572,7 @@ gruels
 girgasite
 gemmiest
 gesticularious
-gymnostomata
+gymnostomata 1
 galactopoiesis
 giftlike
 geophones
