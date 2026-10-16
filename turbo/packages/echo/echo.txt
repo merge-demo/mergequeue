@@ -10796,7 +10796,7 @@ embracer
 eucrystalline
 elastance
 eurodollar
-expurgatory
+expurgatory 1
 estivates
 euphemizer
 emanation
