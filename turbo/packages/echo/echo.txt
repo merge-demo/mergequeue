@@ -9677,7 +9677,7 @@ extortionist
 encounterers
 evangelicalism
 erectors
-eclipsable
+eclipsable 1
 embryotomies
 electrophysiologist
 efficient
