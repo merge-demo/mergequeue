@@ -5246,7 +5246,7 @@ gunter
 gorgonzola
 gamecraft
 garten
-gentilic
+gentilic 1
 gammer
 gawkier
 genial
