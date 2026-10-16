@@ -9082,7 +9082,7 @@ forespeaker
 featy
 flourisher
 firmance
-furbishable
+furbishable 1
 foxly
 flaith
 foreintend
