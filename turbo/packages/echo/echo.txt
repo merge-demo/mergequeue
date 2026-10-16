@@ -13556,7 +13556,7 @@ esociform
 evildoer
 exserted
 empanoply
-embroidery
+embroidery 1
 eateries
 exsibilation
 evadable
