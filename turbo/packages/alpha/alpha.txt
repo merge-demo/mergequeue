@@ -17395,7 +17395,7 @@ aunties
 avoirdupois
 andouillet
 apologia
-aways
+aways 1
 amplification
 apophysate
 autumn
