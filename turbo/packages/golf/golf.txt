@@ -7965,7 +7965,7 @@ guesdist
 gymnospermy
 glumness
 glycerogel
-genuclast
+genuclast 1
 gametogonium
 glimmerite
 gleization
