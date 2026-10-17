@@ -8452,7 +8452,7 @@ iockdatwx
 iocktds
 iockxn
 ioclrgg
-iocm
+iocm 1
 iocmhihf
 iocmvmth
 iocmxtdhc
