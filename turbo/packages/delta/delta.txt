@@ -17155,7 +17155,7 @@ drilvis
 diactinic
 deuterogelatose
 dringle
-disomaty
+disomaty 1
 decade
 decius
 dismantles
