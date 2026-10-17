@@ -8609,7 +8609,7 @@ equidistribution
 esu
 exect
 embrasuring
-equidiurnal
+equidiurnal 1
 eelpouts
 ethnomanic
 embryulcia
