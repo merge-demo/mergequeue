@@ -13662,7 +13662,7 @@ earths
 extenuations
 eucalyptic
 enskying
-extenuative
+extenuative 1
 exorcisation
 earners
 evirate
