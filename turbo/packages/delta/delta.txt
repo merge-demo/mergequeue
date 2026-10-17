@@ -2954,7 +2954,7 @@ diegesis
 diplasiasmus
 deduces
 droil
-dolt
+dolt 1
 deducibility
 deducted
 disseisoress
