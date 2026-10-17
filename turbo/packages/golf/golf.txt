@@ -4674,7 +4674,7 @@ glossarian
 gerbilles
 gossoon
 genotypicity
-glassin
+glassin 1
 guisard
 glycuronic
 glary
