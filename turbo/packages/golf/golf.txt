@@ -6973,7 +6973,7 @@ gwantus
 goofah
 guaiac
 greystone
-gauntries
+gauntries 1
 gushiest
 genevoise
 gynosporangium
