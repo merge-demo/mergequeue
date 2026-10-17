@@ -5674,7 +5674,7 @@ avellano
 ancillae
 affatuate
 againstand
-albuginitis
+albuginitis 1
 antilens
 amphidromia
 amphistomatic
