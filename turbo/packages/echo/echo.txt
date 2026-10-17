@@ -2171,7 +2171,7 @@ elfishness
 elcaja
 eld
 epimeritic
-effiguration
+effiguration 1
 enamoredness
 ethynes
 eyedropperful
