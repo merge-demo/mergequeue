@@ -16667,7 +16667,7 @@ ambulanced
 average
 aperiodicity
 acaroid
-apert
+apert 1
 arsonation
 asperates
 archelaus
