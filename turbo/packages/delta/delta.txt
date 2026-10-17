@@ -8829,7 +8829,7 @@ defied
 donzella
 diabolo
 disjuncture
-dibenzoyl
+dibenzoyl 1
 detriments
 dialyzable
 deg
