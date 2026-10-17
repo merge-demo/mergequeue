@@ -17958,7 +17958,7 @@ cookshack
 colics
 cecum
 cattlehide
-coelenterate
+coelenterate 1
 catharses
 crotin
 coelenterates
