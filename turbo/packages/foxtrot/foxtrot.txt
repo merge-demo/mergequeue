@@ -10804,7 +10804,7 @@ footpads
 farmerette
 fuchsian
 footsteps
-fructificative
+fructificative 1
 floundered
 faintful
 fuchsine
