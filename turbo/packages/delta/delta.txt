@@ -264,7 +264,7 @@ daggling
 daghesh
 deoxyribonuclease
 duplicative
-dappling
+dappling 1
 denitrate
 droopt
 deincrustant
