@@ -9534,7 +9534,7 @@ fichtelite
 flyted
 fuseless
 frecklier
-feudalizing
+feudalizing 1
 findfault
 foragers
 fullers
