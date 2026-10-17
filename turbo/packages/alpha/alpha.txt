@@ -22485,7 +22485,7 @@ affixal
 aleurones
 astrophotographic
 astrophotometer
-astroscopy
+astroscopy 1
 autocratorical
 astroscopus
 astrospectral
