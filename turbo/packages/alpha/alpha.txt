@@ -18456,7 +18456,7 @@ ankh
 arawakian
 anatomized
 antlion
-amboceptor
+amboceptor 1
 actinistia
 acidized
 archdeacons
