@@ -10813,7 +10813,7 @@ flustra
 facet
 foredestined
 footcandles
-fleeten
+fleeten 1
 fucinita
 freesilverite
 flauntily
