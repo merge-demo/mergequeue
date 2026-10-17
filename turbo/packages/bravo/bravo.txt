@@ -1962,7 +1962,7 @@ biotechs
 brevipen
 bacon
 balsa
-bandrol
+bandrol 1
 bonniest
 bonnetlike
 bework
