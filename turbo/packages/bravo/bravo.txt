@@ -16043,7 +16043,7 @@ bersaglieri
 braggardism
 bysacki
 bestrewing
-bowess
+bowess 1
 bronchotyphus
 bott
 bronchotome
