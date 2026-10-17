@@ -17882,7 +17882,7 @@ diagnosis
 drabbletailed
 derbies
 debutante
-destituteness
+destituteness 1
 dysmenorrhagia
 desentimentalize 1
 doctrine
