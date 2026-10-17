@@ -7067,7 +7067,7 @@ grayly
 gutturopalatal
 gelidity
 gallicole
-ganglioneure
+ganglioneure 1
 goosegog
 guignardia
 goyle
