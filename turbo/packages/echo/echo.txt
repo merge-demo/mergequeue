@@ -4286,7 +4286,7 @@ exaltedness
 electrochemical
 esodic
 electromobile
-entangle
+entangle 1
 exosmoses
 enflowered
 echiniform
