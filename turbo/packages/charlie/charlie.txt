@@ -20730,7 +20730,7 @@ cyanopsia
 commutating
 chelidonate
 cheloid
-cryotron
+cryotron 1
 carvy
 complexing
 complexion
