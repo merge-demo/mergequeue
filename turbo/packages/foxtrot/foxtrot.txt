@@ -3123,7 +3123,7 @@ founderous
 frayne
 fairlead
 fantastic
-foretokened
+foretokened 1
 functor
 functionals
 felsophyric
