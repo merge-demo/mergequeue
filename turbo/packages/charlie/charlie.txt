@@ -16717,7 +16717,7 @@ catechismal
 chapbook
 clothespins
 centroplasm
-clothespresses
+clothespresses 1
 cire
 clothiers
 clothings
