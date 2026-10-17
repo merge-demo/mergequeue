@@ -133,7 +133,7 @@ grosz
 goatfish
 gadroon
 giher
-ginete
+ginete 1
 girdled
 guerdoned
 gyros
