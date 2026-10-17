@@ -4565,7 +4565,7 @@ attunes
 albication
 assuagable
 antiproductiveness
-adjuvant
+adjuvant 1
 allobars
 antirationalistic
 anagnostes

@@ -8612,7 +8612,7 @@ genealogical
 guerdonless
 gibbeting
 gaudeamuses
-geothermometer
+geothermometer 1
 gaufrettes
 glucose
 geometrizing
