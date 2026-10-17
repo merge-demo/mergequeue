@@ -23301,7 +23301,7 @@ clavieristic
 consulta
 captors
 carminate
-consultable
+consultable 1
 crevalle
 coarsest
 carbora
