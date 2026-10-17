@@ -2344,7 +2344,7 @@ electromobilism
 excrete
 espaliering
 encore
-endophragm
+endophragm 1
 encomia
 evenlong
 electrocataphoresis
