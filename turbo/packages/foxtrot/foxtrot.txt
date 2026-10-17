@@ -8696,7 +8696,7 @@ falconiformes
 flaxwench
 fuzziness
 frumpish
-fosset
+fosset 1
 fid
 frisette
 fraudulence
