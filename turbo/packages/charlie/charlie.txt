@@ -4306,7 +4306,7 @@ carhop
 carhops
 contorted
 continuing
-cary
+cary 1
 caryatid
 caryatidal
 cigaresque
