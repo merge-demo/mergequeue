@@ -786,7 +786,7 @@ dopaoxidase
 dandler
 defs
 daidle
-dispurpose
+dispurpose 1
 devolatilize
 dacryocystotomy
 dandles
