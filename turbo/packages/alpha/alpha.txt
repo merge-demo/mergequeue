@@ -14430,7 +14430,7 @@ abnegate
 apselaphesis
 anthracia
 alcazars
-amnemonic
+amnemonic 1
 almugs
 amplexicauline
 anthracitic
