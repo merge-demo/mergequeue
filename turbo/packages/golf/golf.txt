@@ -3040,7 +3040,7 @@ glyoxalin
 greensauce
 gamelin
 genepi
-gluttonized
+gluttonized 1
 gerate
 grangerised
 geomorphologically

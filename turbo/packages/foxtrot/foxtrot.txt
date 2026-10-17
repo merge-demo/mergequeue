@@ -5526,7 +5526,7 @@ fw
 flacker
 feminization
 fleshmonger
-fcy
+fcy 1
 flagfall
 fletcherism
 frontignac
