@@ -5971,7 +5971,7 @@ exquisite
 etourderie
 enigmatist
 enigmatographer
-exempts
+exempts 1
 encoronet
 enisled
 enisles
