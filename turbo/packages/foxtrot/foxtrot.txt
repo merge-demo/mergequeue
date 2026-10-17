@@ -4992,7 +4992,7 @@ fledging
 factordom
 fernbrake
 fribourg
-formals
+formals 1
 freelage
 forego
 flankers
