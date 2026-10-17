@@ -3106,7 +3106,7 @@ empennage 1
 equiangularity
 epicalyces
 even
-epistolatory
+epistolatory 1
 ecdysones
 echinorhinidae
 etheriidae
