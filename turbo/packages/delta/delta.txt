@@ -5159,7 +5159,7 @@ defer
 daughterlike
 deading
 densitometric
-deniably
+deniably 1
 denial
 dentinoid
 disminister
