@@ -550,7 +550,7 @@ gudgeoning
 gup
 geotropic
 galleryite
-gravidness
+gravidness 1
 garde
 goolah
 geranomorphae
