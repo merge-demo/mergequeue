@@ -19381,7 +19381,7 @@ crossarms
 compunctiously
 coloraturas
 carnivoracity
-colorature
+colorature 1
 celesta
 colorblind
 cavallas
