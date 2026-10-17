@@ -11534,7 +11534,7 @@ dispassionately
 defrocks
 disconectae
 dosology
-deglamorize
+deglamorize 1
 disconjure
 disconnectedness
 diphtheroidal
