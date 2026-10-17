@@ -474,7 +474,7 @@ extoll
 ecclesiast 1
 entrada
 empasm
-extended
+extended 1
 endoconidium
 extorsion
 extrasensorial
