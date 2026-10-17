@@ -3098,7 +3098,7 @@ fustians
 fieulamort
 formulas
 fertilisable
-frottages
+frottages 1
 filoplume
 fibroelastic
 fountaineer
