@@ -9305,7 +9305,7 @@ birdbander
 blockholer
 beggaries
 belgian
-bespeed
+bespeed 1
 backsides
 brasilein
 brazed
