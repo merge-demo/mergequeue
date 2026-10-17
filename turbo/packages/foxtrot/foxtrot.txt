@@ -4168,7 +4168,7 @@ fiendishly
 fogproof
 fraticelli
 firebomb
-fakiness
+fakiness 1
 fairlike
 fractionlet
 faithwise
