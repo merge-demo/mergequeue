@@ -1296,7 +1296,7 @@ fastnacht
 fhrer
 florinda
 frigs
-foins
+foins 1
 footlocker
 fossoria
 fluctuous
