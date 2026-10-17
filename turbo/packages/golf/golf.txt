@@ -4211,7 +4211,7 @@ guidable
 galactolytic
 gliosa
 gigantosaurus
-gravelliness
+gravelliness 1
 gonidiose
 ghibelline
 gynaecium

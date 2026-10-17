@@ -25574,7 +25574,7 @@ camelias
 corotate
 corotates
 campman
-compulsoriness
+compulsoriness 1
 corotomy
 commemorized
 coroutines
