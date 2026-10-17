@@ -1837,7 +1837,7 @@ debarbarize
 daylilies
 debeige
 downwarp
-declinograph
+declinograph 1
 dewberry
 doorstead
 doughnut

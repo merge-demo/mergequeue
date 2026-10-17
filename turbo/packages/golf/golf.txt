@@ -4215,7 +4215,7 @@ gravelliness
 gonidiose
 ghibelline
 gynaecium
-gunned
+gunned 1
 glycerophosphoric
 grovel
 goloka
