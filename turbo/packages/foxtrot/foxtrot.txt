@@ -1010,7 +1010,7 @@ foreorder
 fenester
 flustrating
 forweend
-forlornly
+forlornly 1
 flashes
 fluoborid
 feeblest

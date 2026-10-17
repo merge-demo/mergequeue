@@ -25307,7 +25307,7 @@ cornada
 cornballs
 cornberry
 counterscale
-cornbind
+cornbind 1
 checkerboards
 cricking
 chromoisomerism
