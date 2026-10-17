@@ -3462,7 +3462,7 @@ exceptionableness
 ensepulchering 1
 enamels
 elench
-enthronement
+enthronement 1
 emperors
 ebionism
 ekhimi
