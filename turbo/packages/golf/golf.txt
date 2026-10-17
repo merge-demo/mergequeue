@@ -1424,7 +1424,7 @@ graviers
 governless
 glumpiest
 gnosticity
-germinate
+germinate 1
 garbages
 gulfy
 grosgrained
