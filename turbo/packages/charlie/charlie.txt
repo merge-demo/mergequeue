@@ -3562,7 +3562,7 @@ captured
 captures
 capturing
 curricular
-capuan
+capuan 1
 capuched
 consolate
 chortler
