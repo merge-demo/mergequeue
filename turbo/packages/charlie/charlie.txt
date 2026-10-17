@@ -5892,7 +5892,7 @@ catercap
 catercorner
 camsteary
 caller
-catercornered
+catercornered 1
 craner
 catered
 codpiece
