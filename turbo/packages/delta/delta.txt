@@ -7451,7 +7451,7 @@ doebird
 dactylus
 detrude
 darbha
-diplegic
+diplegic 1
 defrosts
 dich
 dermoplasty
