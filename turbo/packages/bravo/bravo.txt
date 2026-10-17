@@ -11289,7 +11289,7 @@ backups
 blowing
 blowings 1
 basify
-brigandage
+brigandage 1
 buddy
 bredstitch
 blowiron
