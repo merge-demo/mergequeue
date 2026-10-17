@@ -1780,7 +1780,7 @@ glycine
 gastrocolostomy
 geodesia
 gastrovascular
-goala
+goala 1
 gulleries
 gainspeaker
 grummeter
