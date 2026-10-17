@@ -18570,7 +18570,7 @@ durrin
 dig
 durrs
 durukuli
-disanimated
+disanimated 1
 dyslexic
 defortify
 decentration
