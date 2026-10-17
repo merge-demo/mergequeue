@@ -8503,7 +8503,7 @@ characterizing
 cestoda
 caroluses
 chancelloress
-cid
+cid 1
 copybook
 chancellors
 califates
