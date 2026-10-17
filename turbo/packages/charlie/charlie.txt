@@ -573,7 +573,7 @@ cuselite
 caduac
 cantabrize
 cruiseway
-commilitant
+commilitant 1
 cataleptiform
 comitium
 catalineta
