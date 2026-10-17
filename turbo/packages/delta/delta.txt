@@ -16877,7 +16877,7 @@ daftnesses
 dreaded
 disadventurous
 disentailment
-despairingness
+despairingness 1
 douanes
 dreading
 demonstrandum
