@@ -1339,7 +1339,7 @@ guillotiner
 greenalite
 galvanist
 geoside
-glomerulus
+glomerulus 1
 galloner
 garnisheement
 glorifier
