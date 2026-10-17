@@ -3722,7 +3722,7 @@ delustrant
 deprivation
 dehisce
 dasymeter
-dichromism
+dichromism 1
 deglutinate
 depot
 domitic
