@@ -6788,7 +6788,7 @@ glossospasm
 gaffsail 1
 galiot
 gavyuti
-gossiping
+gossiping 1
 geront
 gymnogyps
 gringo
