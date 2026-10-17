@@ -9045,7 +9045,7 @@ entria
 ephesine
 emlen
 eleoplast
-exocyclic
+exocyclic 1
 equiglacial 1
 empyreans
 epibranchial
