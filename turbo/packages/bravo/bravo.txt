@@ -17186,7 +17186,7 @@ boggin
 bullnose
 beewinged
 bullnoses
-bullnut
+bullnut 1
 beetroot
 bullock
 brachialgia
