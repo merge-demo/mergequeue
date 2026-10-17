@@ -16830,7 +16830,7 @@ aphorist
 ailuropus
 autoportraiture
 aphorize
-abos
+abos 1
 aphorizes
 aphorizing
 ancienter
