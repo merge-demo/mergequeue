@@ -15987,7 +15987,7 @@ doveweed
 deactivated
 doctrinizing
 disaffiliating
-dehumanize
+dehumanize 1
 dimanganous
 dewani
 dispetal
