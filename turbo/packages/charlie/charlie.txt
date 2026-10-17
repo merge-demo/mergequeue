@@ -30224,7 +30224,7 @@ cruds
 cruel
 crueller
 cruellest
-cruelly
+cruelly 1
 cruelness
 cruels
 communbus
