@@ -9505,7 +9505,7 @@ deuterostome
 demonstrational
 dighted
 dighter
-digraphic
+digraphic 1
 dynamogeny
 dialysers
 demiurge
