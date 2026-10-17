@@ -3152,7 +3152,7 @@ beallach
 biota
 boccis
 bifurcates
-basihyal
+basihyal 1
 biuniquely
 basenesses
 bangiales
