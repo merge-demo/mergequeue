@@ -149,7 +149,7 @@ fulfillers
 fibbery
 fossae
 factionalism
-fatuously
+fatuously 1
 factualness
 fullbodied
 freezers
