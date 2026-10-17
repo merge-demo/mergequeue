@@ -12215,7 +12215,7 @@ bannerman
 bodock
 bicron
 bogberries
-bicarbide
+bicarbide 1
 buckhound
 buttonmould
 balustered
