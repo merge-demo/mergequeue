@@ -15529,7 +15529,7 @@ cephala
 clasper
 claspers
 cestoidea
-classable
+classable 1
 coplanarity
 classbook
 conquinine
