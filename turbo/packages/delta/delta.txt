@@ -10118,7 +10118,7 @@ dodecahedra
 dindon
 digestive
 dirts
-discurrent
+discurrent 1
 displease
 dripped
 dismember
