@@ -589,7 +589,7 @@ forjudger
 falloff
 flamier
 frequentative
-frappe
+frappe 1
 feeblish
 funerate
 fenugreek
