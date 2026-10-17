@@ -2576,7 +2576,7 @@ dipneumones
 dimmed
 declinatory
 disentwined
-declines
+declines 1
 declining
 doh
 declivent
