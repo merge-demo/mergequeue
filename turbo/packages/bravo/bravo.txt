@@ -14887,7 +14887,7 @@ breadwinning
 breakability
 bilith
 brokers
-breakable
+breakable 1
 breakaxe
 bitterless
 bilipurpurin
