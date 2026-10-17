@@ -4218,7 +4218,7 @@ countercultures
 chiron
 coloboma
 cheefuller
-cardsharp
+cardsharp 1
 chlorites
 cavaliered
 chinatown
