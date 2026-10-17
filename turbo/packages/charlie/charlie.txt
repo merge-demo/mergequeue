@@ -2058,7 +2058,7 @@ chests
 cosherer
 camp
 campagi
-chiccories
+chiccories 1
 coquettes
 counteraverment
 campagna
