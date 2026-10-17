@@ -5908,7 +5908,7 @@ agglomeration
 agglomerative
 abscissions
 arachnologist
-apical
+apical 1
 agglutinate
 acromyodi
 arenaceous
