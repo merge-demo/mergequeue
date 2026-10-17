@@ -2710,7 +2710,7 @@ enolase
 edinburgh
 earwigged
 eightyfold
-esquamulose
+esquamulose 1
 evaporated
 electrovalent
 electrowinning
