@@ -5362,7 +5362,7 @@ fleams
 fittier
 fraughting
 feedbin
-farrier
+farrier 1
 fettles
 flanken
 feebleness
