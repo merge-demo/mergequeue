@@ -1577,7 +1577,7 @@ eaglets
 embossment
 eglomise
 episkeletal
-errite
+errite 1
 eurasia
 entires
 enumerator
