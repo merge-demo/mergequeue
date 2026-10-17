@@ -11183,7 +11183,7 @@ evanesces
 extrajudicial
 elver
 evanescible
-evanescing
+evanescing 1
 expilation
 exostracism
 endover
