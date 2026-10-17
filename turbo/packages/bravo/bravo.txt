@@ -2923,7 +2923,7 @@ barrelage
 barreled
 barreleyes
 bipennate
-barrelet
+barrelet 1
 bookend
 batuque
 botanical
