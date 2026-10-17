@@ -15774,7 +15774,7 @@ clumpier
 conclavist
 cleanout
 cleansable
-cellists
+cellists 1
 cleanse
 centrarchidae
 crestfallenly
