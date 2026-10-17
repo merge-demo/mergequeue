@@ -19075,7 +19075,7 @@ autocatharsis
 announcer
 archpilferer
 adornment
-aneurismatic
+aneurismatic 1
 accentuating
 adulteration
 aphicide
