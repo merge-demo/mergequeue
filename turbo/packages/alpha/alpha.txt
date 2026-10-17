@@ -11415,7 +11415,7 @@ alupag
 autocephaly
 absorptance
 againward
-amplication
+amplication 1
 austerer
 amplicative
 autoelectrolytic
