@@ -1335,7 +1335,7 @@ fallowness
 frictionally
 fragmentized
 feltmonger
-fabulize
+fabulize 1
 fineleaf
 fyttes
 famose
