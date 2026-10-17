@@ -14126,7 +14126,7 @@ connexion
 circularization
 conversably
 circularizes
-choriambs
+choriambs 1
 circularly
 circularness
 circulars
