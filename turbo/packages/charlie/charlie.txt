@@ -16851,7 +16851,7 @@ clubdom
 clubfist
 clubfisted
 cenotaph
-clubfoot
+clubfoot 1
 clubfooted
 clubhand
 clubhands
