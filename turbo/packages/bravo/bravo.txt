@@ -17914,7 +17914,7 @@ blamed
 bekiss
 bushgrass
 bubbled
-botan
+botan 1
 bushy
 barton
 becater 1
