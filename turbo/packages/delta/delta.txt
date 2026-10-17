@@ -15502,7 +15502,7 @@ dendral
 dobbie
 dualists
 desensitize
-dongola
+dongola 1
 drams
 decomposite
 decrew
