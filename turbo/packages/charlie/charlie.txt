@@ -17031,7 +17031,7 @@ cobbed
 coexplosion
 cortisone
 cnidopod
-conoids
+conoids 1
 confoundable
 cardiacs
 carbonite
