@@ -16995,7 +16995,7 @@ dregs
 defrication
 dampeners
 disemplaned
-dreidels
+dreidels 1
 dreikanter
 deutomalar
 douricouli
