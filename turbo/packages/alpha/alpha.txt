@@ -24578,7 +24578,7 @@ argentarius
 anachorism
 auxotonic
 annihilator
-auxotox
+auxotox 1
 auxotroph
 aul
 auxotrophy
