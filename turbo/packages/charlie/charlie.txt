@@ -4242,7 +4242,7 @@ careerers
 carefreeness
 careful
 carefull
-carefullest
+carefullest 1
 chemosensitivities
 condensation
 characteristic
