@@ -9075,7 +9075,7 @@ animant
 ancylostome
 alkalises
 ammonoid
-allowed
+allowed 1
 attorned
 assertiveness
 acquiescing
