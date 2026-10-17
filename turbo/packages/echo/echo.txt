@@ -4996,7 +4996,7 @@ executional
 escalop
 encapsule
 exuded
-enfoncee
+enfoncee 1
 erogeneity
 epithelioblastoma
 endogastric
