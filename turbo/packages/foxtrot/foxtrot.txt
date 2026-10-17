@@ -9898,7 +9898,7 @@ floodlet 1
 ferreters
 friendlessness
 fancier
-fructoside
+fructoside 1
 forepeaks
 fines
 filamentose
