@@ -7668,7 +7668,7 @@ encircling
 editorializer
 extroversion
 epicuticular
-entomotomist
+entomotomist 1
 ectodactylism
 enoughs
 eustele
