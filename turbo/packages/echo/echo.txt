@@ -2053,7 +2053,7 @@ evilly
 eudialyte
 elanus
 enantiopathia
-extravenate
+extravenate 1
 encampments
 enthusiasm
 embalm
