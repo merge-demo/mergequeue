@@ -2726,7 +2726,7 @@ enceint
 equipotent
 electees
 edentate
-envoi
+envoi 1
 eleemosynary
 entranceway
 etymology
