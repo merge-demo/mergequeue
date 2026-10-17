@@ -6264,7 +6264,7 @@ edaphic
 enows
 electrotechnology
 euryscope
-extrapyramidal
+extrapyramidal 1
 ecclesiastry
 enduring
 estaminets

@@ -6000,7 +6000,7 @@ fissate
 featishness
 fastnesses
 fusty
-foolscaps
+foolscaps 1
 felspars
 flacon
 fumattoria
