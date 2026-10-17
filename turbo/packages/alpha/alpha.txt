@@ -15799,7 +15799,7 @@ ablauts
 agonistical
 anvilled
 aviolite
-amidic
+amidic 1
 agriotype
 antiphylloxeric
 amphibiotica
