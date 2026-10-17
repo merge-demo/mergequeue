@@ -9856,7 +9856,7 @@ downstater
 diosphenol
 dendroclastic
 dinmont
-doctrinable
+doctrinable 1
 doek
 dace
 dimensionally
