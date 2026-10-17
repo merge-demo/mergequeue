@@ -14039,7 +14039,7 @@ endopterygotous
 ekes
 extrait
 electroergometer
-embiotocoid
+embiotocoid 1
 ecclesiasticalism
 eyeline
 elektra
