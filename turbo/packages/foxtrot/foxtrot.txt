@@ -9516,7 +9516,7 @@ flavonol
 furcilia
 flitches
 flawn
-freaks
+freaks 1
 forested
 forfear
 founts
