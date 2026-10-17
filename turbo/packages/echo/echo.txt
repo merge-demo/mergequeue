@@ -12513,7 +12513,7 @@ exite
 eranist
 extinction
 envied
-enherit
+enherit 1
 epistolist
 entryman
 elkdom
