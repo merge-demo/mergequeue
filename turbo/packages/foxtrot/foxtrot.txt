@@ -5370,7 +5370,7 @@ fullmouth
 fascia 1
 flitterbat
 formalin
-fruiteries
+fruiteries 1
 ferulaic
 foldboater
 foreclosed
