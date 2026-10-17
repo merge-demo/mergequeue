@@ -22618,7 +22618,7 @@ connects
 catawampously
 camelopard
 criminogenic
-cuffed
+cuffed 1
 coaevals
 connexes
 cantabri
