@@ -2983,7 +2983,7 @@ gambusia
 guatambu
 gastornis
 glitnir
-gibbering
+gibbering 1
 goldenknop
 gaps
 goatherdess
