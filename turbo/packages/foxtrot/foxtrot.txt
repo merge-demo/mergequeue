@@ -8823,7 +8823,7 @@ fireball
 fossorious
 fearfully
 fossulae
-flatfishes
+flatfishes 1
 firelit
 featureless
 fostered
