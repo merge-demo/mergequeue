@@ -1920,7 +1920,7 @@ forthinking
 feta
 fineness
 fleeceless
-fremescent
+fremescent 1
 flitched
 forfalt
 filicologist
