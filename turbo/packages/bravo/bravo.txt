@@ -13623,7 +13623,7 @@ blockaders
 brantail
 bibulosities
 bounded
-braveness
+braveness 1
 breaks
 baxter
 brigadiership
