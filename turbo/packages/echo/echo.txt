@@ -9955,7 +9955,7 @@ eatery
 ecclesiae
 estrin
 elk
-emblazon
+emblazon 1
 estrums
 extrospection
 englishize
