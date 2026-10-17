@@ -11688,7 +11688,7 @@ antineutral
 aryepiglottidean
 apocatastatic
 anticarnivorous
-acoria
+acoria 1
 argyrodite
 alc
 alphosises
