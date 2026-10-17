@@ -7957,7 +7957,7 @@ fumatoriums
 fibrinogenous
 fitness
 freestones
-foreshow
+foreshow 1
 flinting
 fistulous
 flajolotite
