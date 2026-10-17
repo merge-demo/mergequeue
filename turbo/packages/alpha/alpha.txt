@@ -23129,7 +23129,7 @@ arthurian
 albumoses
 anthroponym
 areopagy
-astonishingness
+astonishingness 1
 antinode
 attitudinize
 authoritarianisms
