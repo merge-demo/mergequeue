@@ -8050,7 +8050,7 @@ frustrate
 flammably
 formentation
 facetting
-folial
+folial 1
 forestful
 fellable
 freezes
