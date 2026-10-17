@@ -8633,7 +8633,7 @@ abandoners
 arboricultural
 avocative
 allegorisation
-allegorise
+allegorise 1
 afear
 abscising
 admirance
