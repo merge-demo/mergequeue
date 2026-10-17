@@ -1851,7 +1851,7 @@ fellahin
 firebreaks
 feudalize
 fractured
-flabellum
+flabellum 1
 fating
 feedbags
 footwalk
