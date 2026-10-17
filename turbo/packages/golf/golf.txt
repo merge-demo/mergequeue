@@ -1086,7 +1086,7 @@ galvanometers
 gestes
 galactolipin
 goularo
-gormandizers
+gormandizers 1
 gamboge
 genitives
 gymnodiniidae
