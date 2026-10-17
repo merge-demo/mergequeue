@@ -17457,7 +17457,7 @@ devitrified
 deforcer
 disvisage
 dopas
-delphacid
+delphacid 1
 desectionalize
 drouthier
 defame
