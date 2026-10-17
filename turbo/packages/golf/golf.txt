@@ -5708,7 +5708,7 @@ gushes
 geodynamics
 greedier
 grandnephews
-glossemic
+glossemic 1
 gibbously
 gepoun
 glaciometer
