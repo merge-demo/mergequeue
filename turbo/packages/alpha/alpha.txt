@@ -25149,7 +25149,7 @@ agricolite
 antiduke
 antritis
 anathemas
-apertum
+apertum 1
 alums
 advocatrice
 alcoholuria
