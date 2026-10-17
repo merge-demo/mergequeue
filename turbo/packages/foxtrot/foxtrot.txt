@@ -11194,7 +11194,7 @@ frenzelite
 forepaling
 flinter
 fullgrownness
-fusobacteria
+fusobacteria 1
 foetalization
 fungoes
 fluoroborate
