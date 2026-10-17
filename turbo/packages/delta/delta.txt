@@ -18296,7 +18296,7 @@ detrains
 dialyzability
 didelph
 demijohn
-demiourgoi
+demiourgoi 1
 dingledangle
 disintegration
 dunner
