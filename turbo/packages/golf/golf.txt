@@ -7707,7 +7707,7 @@ getter
 gynandrophore
 gaspy
 gaw
-gemutlich
+gemutlich 1
 gerontism
 gest
 graduands

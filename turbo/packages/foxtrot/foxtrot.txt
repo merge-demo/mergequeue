@@ -325,7 +325,7 @@ firesafe
 fessed
 fittage
 fewnesses
-fornicatory
+fornicatory 1
 fplot
 fluxionary
 feods
