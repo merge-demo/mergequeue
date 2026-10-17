@@ -10754,7 +10754,7 @@ galewort
 glyphograph
 gypsyry
 gedackt
-geckotoid
+geckotoid 1
 globulin
 gorsebird
 grovelers
