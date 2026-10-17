@@ -3954,7 +3954,7 @@ epimeron
 emolument
 elevator
 extoled
-emotivity
+emotivity 1
 epileptology
 exorability
 epitases
