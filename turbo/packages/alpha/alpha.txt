@@ -2829,7 +2829,7 @@ antimeres
 aspersers
 athonite
 autodiagnosis
-acromiocoracoid
+acromiocoracoid 1
 amateurishly
 alite
 abominability
