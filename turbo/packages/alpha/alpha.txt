@@ -4035,7 +4035,7 @@ administrates
 antihemolytic
 administrative
 affixion
-administratively
+administratively 1
 administratrices
 antiarin
 admirable
