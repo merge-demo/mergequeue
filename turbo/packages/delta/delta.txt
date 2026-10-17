@@ -12547,7 +12547,7 @@ dotonidae
 donk
 diamonding
 daffed
-disintegrated
+disintegrated 1
 dipterological
 designment
 denotation
