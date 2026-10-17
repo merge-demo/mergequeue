@@ -2482,7 +2482,7 @@ epicleses
 enterochromaffin
 endexines
 emotionalise
-electroing
+electroing 1
 eluviate
 entrefer
 elaeometer
