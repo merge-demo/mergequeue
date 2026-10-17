@@ -730,7 +730,7 @@ distale
 dictagraph
 dodging
 dander
-dandy
+dandy 1
 dandiacally
 decaffeinates
 dacryosolenitis
