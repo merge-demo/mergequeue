@@ -5790,7 +5790,7 @@ dialog
 datableness
 diaxial
 deceit
-distalwards
+distalwards 1
 dacker
 deepnesses
 decoupled
