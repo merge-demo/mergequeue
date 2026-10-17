@@ -19160,7 +19160,7 @@ anciens
 arcifera
 arcifinious
 alluvion
-arciform
+arciform 1
 archoptosis
 asexualise
 arcite
