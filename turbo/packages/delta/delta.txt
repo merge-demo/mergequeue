@@ -4524,7 +4524,7 @@ downdraught
 donmeh
 detroiter
 demigauntlet
-doting
+doting 1
 disclosing
 dignosce
 decussis
