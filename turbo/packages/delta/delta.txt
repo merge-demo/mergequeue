@@ -12597,7 +12597,7 @@ directs
 distritbutes
 dargsman
 daynet
-decupled
+decupled 1
 devel
 disyoking
 degradational
