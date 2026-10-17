@@ -10475,7 +10475,7 @@ frostily
 fluorate
 forwearying
 fordid
-flegm
+flegm 1
 forereading
 fluitant
 fatness
