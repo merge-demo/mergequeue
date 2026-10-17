@@ -3554,7 +3554,7 @@ epidesmine
 emboscata
 exclusionary
 ectoglia
-entoparasitic
+entoparasitic 1
 electrometallurgist
 embosoming
 euchlaena
