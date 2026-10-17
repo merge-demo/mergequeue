@@ -8688,7 +8688,7 @@ exfoliate
 encharging
 episcleritis
 earth
-epiglottides
+epiglottides 1
 europeanize
 emendations
 equipoise
