@@ -12628,7 +12628,7 @@ chucked
 childkind
 chucker
 chuckfarthing
-chuckhole
+chuckhole 1
 canvassy
 chaule
 clergywomen
