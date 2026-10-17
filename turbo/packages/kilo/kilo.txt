@@ -1116,7 +1116,7 @@ kaueuk
 kaufr
 kaug
 kaugg
-kaugnmdev
+kaugnmdev 1
 kaugzsywp
 kauhdc
 kauhfcsymtt
