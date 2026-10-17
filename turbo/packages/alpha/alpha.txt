@@ -17585,7 +17585,7 @@ ashlars
 alcedo
 acyrology
 alunite
-alkalifying
+alkalifying 1
 alkalin
 apotihecal
 abidingness
