@@ -23706,7 +23706,7 @@ auriflamme
 authorize
 aurigerous
 aurigraphy
-aurotellurite
+aurotellurite 1
 akanekunik
 almain
 aurilave
