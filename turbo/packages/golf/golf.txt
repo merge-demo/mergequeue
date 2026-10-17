@@ -5662,7 +5662,7 @@ gastralgic
 gobbling
 growsome
 grubbiest
-glaringly
+glaringly 1
 groma
 glyoxal
 gokuraku
