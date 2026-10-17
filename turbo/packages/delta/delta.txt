@@ -1343,7 +1343,7 @@ demissive
 dawsonia
 diploid
 draftsperson
-doggerelize
+doggerelize 1
 dompt
 damagement
 discerners 1
