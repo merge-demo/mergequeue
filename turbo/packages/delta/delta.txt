@@ -6407,7 +6407,7 @@ doggones
 diglyphic
 docquet
 deewans
-deportment
+deportment 1
 disadvanced
 derride
 disleave
