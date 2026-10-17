@@ -11461,7 +11461,7 @@ daps
 demerse
 dissectional
 disconformity
-disseminates
+disseminates 1
 demiparallel
 discanting
 deepened
