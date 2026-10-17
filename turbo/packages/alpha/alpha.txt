@@ -16574,7 +16574,7 @@ astronautic
 apaesthetize
 articulatory
 anophthalmus
-apagogic
+apagogic 1
 avenses
 arumlike
 apagogically
