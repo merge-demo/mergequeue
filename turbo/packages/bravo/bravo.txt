@@ -3949,7 +3949,7 @@ biliment
 bowed
 bumpiest
 bisulphate
-burny
+burny 1
 backstays
 bratty
 boltspreet
