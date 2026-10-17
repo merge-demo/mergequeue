@@ -2942,7 +2942,7 @@ fluvialist
 foldage
 faddists
 fingerparted
-flenser
+flenser 1
 forwander
 festivous
 finches
