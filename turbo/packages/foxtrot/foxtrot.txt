@@ -10545,7 +10545,7 @@ fluky
 furnaces
 fossilised
 fauchard
-frizer
+frizer 1
 fieldpiece
 frowziest
 frowzled
