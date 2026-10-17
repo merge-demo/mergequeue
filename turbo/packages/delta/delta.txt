@@ -7289,7 +7289,7 @@ disseized
 diffusivity
 dollies
 diaxone
-desiccative
+desiccative 1
 doukhobor
 devisers
 defecters
