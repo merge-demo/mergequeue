@@ -22575,7 +22575,7 @@ connate
 connately
 connateness
 crinate
-colonizability
+colonizability 1
 commotion
 connatural
 connaturality
