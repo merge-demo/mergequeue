@@ -1960,7 +1960,7 @@ icon
 icoriq
 icoslvtjuf
 icoukr
-icpbaw
+icpbaw 1
 icpkmspbr
 icpmcszzbcer
 icpnrawmq
