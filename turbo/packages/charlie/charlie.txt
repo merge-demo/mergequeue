@@ -1133,7 +1133,7 @@ carollers
 cuppers
 cloddiness
 calcitic
-calcitrant
+calcitrant 1
 calcitrate
 cataphatic
 claiborne
