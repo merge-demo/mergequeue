@@ -6873,7 +6873,7 @@ celotomies
 clonks
 cloze
 celsian
-celt
+celt 1
 cofaster
 celtiberian
 celticize
