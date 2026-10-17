@@ -9044,7 +9044,7 @@ charmingest
 charmingness
 charmless
 charmlessly
-clodlike
+clodlike 1
 charmonium
 charms
 charneco
