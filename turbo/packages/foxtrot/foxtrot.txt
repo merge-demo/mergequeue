@@ -7699,7 +7699,7 @@ foreigneering
 friend
 foliiferous
 faroff
-flexes
+flexes 1
 firth
 firm
 facileness

@@ -6720,7 +6720,7 @@ exophoria
 exhilarate
 enthral
 eschewers
-enthralldom
+enthralldom 1
 exurb
 enormously
 enveloping
