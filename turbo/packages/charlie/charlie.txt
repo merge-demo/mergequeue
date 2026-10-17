@@ -3511,7 +3511,7 @@ callus
 capsulolenticular
 capsulopupillary
 chromospheres
-capsulorrhaphy
+capsulorrhaphy 1
 convocationally
 costarring
 cupboards
