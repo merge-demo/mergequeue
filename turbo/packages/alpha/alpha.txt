@@ -12662,7 +12662,7 @@ aleuron
 arrayan
 aesopic
 archbeadle
-anisopteran
+anisopteran 1
 advene
 allochroite
 algosis
