@@ -2108,7 +2108,7 @@ gasolene
 guestship
 girdlelike
 gen
-glumiferous
+glumiferous 1
 gourounut
 galla
 gaudete
