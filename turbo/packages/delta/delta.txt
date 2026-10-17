@@ -639,7 +639,7 @@ dearth
 disoccupation
 decadence
 debarration
-damnifies
+damnifies 1
 damningly
 dairyings
 disposals
