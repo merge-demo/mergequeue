@@ -1720,7 +1720,7 @@ deasil
 denims
 dearness
 douanier
-deteriorative
+deteriorative 1
 dispensations
 decostate
 defensibility
