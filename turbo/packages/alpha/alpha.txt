@@ -4077,7 +4077,7 @@ acromion
 agamoid
 asarotum
 areometric
-admit
+admit 1
 allowanced
 anisosthenic
 aldrin
