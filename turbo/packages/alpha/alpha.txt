@@ -15112,7 +15112,7 @@ appast
 annihilationism
 armomancy
 ascetics
-async
+async 1
 aruke
 antidote
 anteroventrally
