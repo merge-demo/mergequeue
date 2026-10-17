@@ -5590,7 +5590,7 @@ epimacus
 emigratory
 enfoldings
 ekistics
-enfolds
+enfolds 1
 eneuch
 emigated 1
 epicist
