@@ -4079,7 +4079,7 @@ discant
 danize
 delignification
 decimalizing
-delimed
+delimed 1
 disquisitory
 delimes
 duskiness

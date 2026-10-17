@@ -10568,7 +10568,7 @@ formylate
 feracities
 florins
 founds
-fertilizations
+fertilizations 1
 fatidical
 frittered
 falcade
