@@ -14940,7 +14940,7 @@ bearing
 balantidium
 bolshevize
 breastheight
-baldie
+baldie 1
 bignonia
 begulfing
 breasthook
