@@ -4356,7 +4356,7 @@ encratic
 equinovarus
 electrolyzer
 ethine
-encephalosclerosis
+encephalosclerosis 1
 evisite
 euornithes
 elemi
