@@ -5438,7 +5438,7 @@ equivocates
 etatist
 epidia
 enthralment
-excrescential
+excrescential 1
 emblematicalness
 energesis
 energetic
