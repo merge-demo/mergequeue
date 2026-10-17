@@ -2035,7 +2035,7 @@ gavels
 gavia
 geminiform
 gederathite
-gio
+gio 1
 grapheme
 gaynesses
 grippit
