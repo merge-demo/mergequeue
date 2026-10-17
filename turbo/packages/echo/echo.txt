@@ -3773,7 +3773,7 @@ equiponderance
 ectoethmoid
 electroacoustical
 effetman
-embussing
+embussing 1
 epexegetical
 espigle
 equipoises

@@ -2719,7 +2719,7 @@ fervor
 flanks
 flamenco
 frondous
-fashions
+fashions 1
 fruitive
 funnier
 figpecker
