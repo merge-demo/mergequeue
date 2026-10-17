@@ -8940,7 +8940,7 @@ filament
 favositoid
 forehammer
 formally
-frontiersman
+frontiersman 1
 felty
 fourier
 fanglet
