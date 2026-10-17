@@ -3919,7 +3919,7 @@ fullage
 feats
 ferrogoslarite
 frostproof
-frolicsomely
+frolicsomely 1
 fustianize
 fang
 formalised
