@@ -10505,7 +10505,7 @@ feodality
 featherback
 flees
 flattered
-fum
+fum 1
 fumelike
 firetail
 farandman
