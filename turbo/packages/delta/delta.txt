@@ -2548,7 +2548,7 @@ declaredly
 declares
 disquietudes
 dimaris
-disgout
+disgout 1
 diplococcus
 declaring
 declasses
