@@ -1343,7 +1343,7 @@ bermudian
 bernoullian
 bingy
 burelage
-bedways
+bedways 1
 bluecap
 bunks
 bacteriophagous
