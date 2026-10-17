@@ -5398,7 +5398,7 @@ generall
 glutinant
 glucosid
 gutwise
-gasserian
+gasserian 1
 grimmer
 gremmy
 glucosaemia
