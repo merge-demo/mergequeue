@@ -3994,7 +3994,7 @@ degradingly
 delegacy
 domiculture
 dysrhythmia
-delegate
+delegate 1
 doorsill 1
 dispossessory
 delegates
