@@ -5719,7 +5719,7 @@ glossiest
 gybed
 glossinas 1
 gertrude
-glowbard
+glowbard 1
 gloveress
 gimmaled
 gpad
