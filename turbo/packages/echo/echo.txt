@@ -3292,7 +3292,7 @@ emanate
 estruses
 ectopic
 ethnos
-exegetically
+exegetically 1
 eridanid
 enraged
 envisions
