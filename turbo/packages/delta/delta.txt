@@ -18285,7 +18285,7 @@ demonian
 dustcloths
 dunkled
 discipline
-discalceate
+discalceate 1
 durdenite
 decouples
 dunlins
