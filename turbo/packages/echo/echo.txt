@@ -5379,7 +5379,7 @@ empyreum
 eophyte
 encashment
 eccentrometer
-endothermal
+endothermal 1
 endothermy
 ectopatagia
 erthling
