@@ -5960,7 +5960,7 @@ favonius
 frenchification
 frailly
 fivepins
-futileness
+futileness 1
 frightening
 fallibility
 fortunite
