@@ -14554,7 +14554,7 @@ debussed
 domine
 detents
 divisions
-divisive
+divisive 1
 divisively
 disrobed
 diners
