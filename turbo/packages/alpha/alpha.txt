@@ -9594,7 +9594,7 @@ accentuate
 atheism
 algorithmic
 autoionization
-amuse
+amuse 1
 antecommunion
 aspersors
 altruists
