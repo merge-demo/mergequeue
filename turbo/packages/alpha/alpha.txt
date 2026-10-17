@@ -15519,7 +15519,7 @@ antimission
 although
 animetta
 androconia
-avijja
+avijja 1
 attntrp
 annullable
 armguard
