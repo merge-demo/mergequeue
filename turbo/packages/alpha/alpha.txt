@@ -6624,7 +6624,7 @@ alveolite
 archsteward
 acc
 afterbeat
-astatizer
+astatizer 1
 assembles
 anodynous
 apterous
