@@ -5880,7 +5880,7 @@ goliards
 gallinaceous
 graphometrist
 ganglionary
-gallywasp
+gallywasp 1
 gyle
 glucinium
 genteelest
