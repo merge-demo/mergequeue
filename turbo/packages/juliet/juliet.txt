@@ -12915,7 +12915,7 @@ juxng
 juxnp
 juxnt
 juxo
-juxoafudx
+juxoafudx 1
 juxobs
 juxpa
 juxpewne
