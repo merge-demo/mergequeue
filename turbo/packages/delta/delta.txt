@@ -2813,7 +2813,7 @@ debility
 dulcitude
 desalinization
 deedbote
-donatory
+donatory 1
 decretively
 dictionary
 discind
