@@ -16869,7 +16869,7 @@ descamisado
 dataria
 drona
 dimmish
-dumbs
+dumbs 1
 dreadable
 diglot
 directorial
