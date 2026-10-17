@@ -6796,7 +6796,7 @@ dihedrons
 decomposable
 desirousness
 drily
-dropsonde
+dropsonde 1
 dedicates
 diaconate
 desize
