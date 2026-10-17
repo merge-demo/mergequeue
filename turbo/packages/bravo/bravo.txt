@@ -4886,7 +4886,7 @@ beechnut
 breakstone
 bloomage
 backspeer
-bomarea
+bomarea 1
 beechwood
 bright
 bourbons
