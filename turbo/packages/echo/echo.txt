@@ -370,7 +370,7 @@ eavesdropping
 equimolar
 enkindler
 eightvos
-exosseous
+exosseous 1
 ebcd
 experts
 electrepeter
