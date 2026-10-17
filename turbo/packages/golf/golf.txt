@@ -6320,7 +6320,7 @@ gastroatonia
 gastrocele
 gymnorhininae
 goblin
-gettable
+gettable 1
 gigartinaceous
 gunmen
 gauster
