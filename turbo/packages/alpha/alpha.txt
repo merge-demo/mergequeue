@@ -10376,7 +10376,7 @@ academician
 aethers
 americanisms
 appellees
-aboriginals
+aboriginals 1
 americanistic
 aftertax
 astigmatizer
