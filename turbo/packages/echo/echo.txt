@@ -6257,7 +6257,7 @@ educate
 ethanes
 enrich
 enrichener
-ectopias
+ectopias 1
 evenforth
 errant
 edaphic
