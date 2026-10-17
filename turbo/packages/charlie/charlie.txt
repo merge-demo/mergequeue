@@ -5824,7 +5824,7 @@ cinurous
 categorial
 chieftainship
 cylindrocephalic
-categoric
+categoric 1
 coliidae
 chondrified
 cessionary
