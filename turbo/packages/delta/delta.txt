@@ -16520,7 +16520,7 @@ draftings
 diesinker
 disinterred
 dallop
-dauntingness
+dauntingness 1
 dendrodont
 dacryops
 disarchbishop
