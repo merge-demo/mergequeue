@@ -8657,7 +8657,7 @@ freesia
 flatfooted
 flaunters
 fossilify
-fryers
+fryers 1
 furicane
 flapless
 fathomable
