@@ -15708,7 +15708,7 @@ broadling
 buggies
 bulbilis
 blowzy
-bands
+bands 1
 bonbonniere
 barbering
 battarism

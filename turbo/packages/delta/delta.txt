@@ -2522,7 +2522,7 @@ declarations
 dolichocephali
 deligation
 demieagle
-discomorula
+discomorula 1
 drinkproof
 deconsecration
 doglegged
