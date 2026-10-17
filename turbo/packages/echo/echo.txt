@@ -7469,7 +7469,7 @@ excusal
 ebenaceae
 engine
 enif
-exorbitantly
+exorbitantly 1
 ephippia
 enfortune
 earthmover
