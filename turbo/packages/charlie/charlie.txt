@@ -28562,7 +28562,7 @@ checkerwork
 creditive
 creditless
 creditor
-curial
+curial 1
 creditress
 chanteyman
 celled
