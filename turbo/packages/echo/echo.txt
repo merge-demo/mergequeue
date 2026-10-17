@@ -2349,7 +2349,7 @@ encomia
 evenlong
 electrocataphoresis
 equison
-ephedrine
+ephedrine 1
 electrochronometric
 enfroward
 estafetted
