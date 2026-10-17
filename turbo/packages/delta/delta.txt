@@ -1847,7 +1847,7 @@ drugmaker
 decriminalize
 degeneratively
 defeudalize
-debilitates
+debilitates 1
 dermatoglyphics
 debitum
 declaratory
