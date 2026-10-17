@@ -4851,7 +4851,7 @@ deathcups
 dimmedness
 disgusts
 diestrum
-dognapers
+dognapers 1
 durableness
 demonise
 dactyliotheca
