@@ -11174,7 +11174,7 @@ felspar
 fadeout
 fideists
 farmer
-fungicidal
+fungicidal 1
 fungicidally
 fungicides
 fungicolous
