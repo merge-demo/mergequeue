@@ -6585,7 +6585,7 @@ feltness
 frounce
 foamflower
 flammulation
-firework
+firework 1
 frocks
 floriculturally
 fullness
