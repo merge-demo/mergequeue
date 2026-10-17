@@ -4274,7 +4274,7 @@ burke
 basurale
 boggish
 bathyscaph
-battledore
+battledore 1
 bacterious
 bummery
 bebreech
