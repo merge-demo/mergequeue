@@ -15872,7 +15872,7 @@ antipleion
 advocation
 antiplurality
 antipodal
-antipode
+antipode 1
 antimensia
 anchorwise
 antipodic
