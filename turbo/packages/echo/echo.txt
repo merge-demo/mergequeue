@@ -1143,7 +1143,7 @@ enation
 eponymism
 encipherer
 equivalved
-eupatrid
+eupatrid 1
 easefulness
 elasticness
 equatability
