@@ -6760,7 +6760,7 @@ entire
 epithumetic
 epinephelus
 enjoys
-entireness
+entireness 1
 ethologic
 encashed
 evading
