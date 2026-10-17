@@ -4709,7 +4709,7 @@ escaloping
 euripides
 electrowin
 erythrodegenerative
-eremophyte
+eremophyte 1
 eelware
 exalbuminose
 encist
