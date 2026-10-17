@@ -3167,7 +3167,7 @@ elaborate
 evinced
 eggnogs
 egghead
-entertainingness
+entertainingness 1
 envisagement
 eichbergite
 expounders
