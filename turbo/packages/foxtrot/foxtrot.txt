@@ -4327,7 +4327,7 @@ fluyt
 factive
 fet
 flamethrower
-funditor
+funditor 1
 fructiferousness
 fretworked 1
 foddering 1
