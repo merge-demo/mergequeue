@@ -13718,7 +13718,7 @@ anomalism
 anomalist
 aromatite
 anomalistic
-andor
+andor 1
 asiatic
 anomalistical
 anomalocephalus
