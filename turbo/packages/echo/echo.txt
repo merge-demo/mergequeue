@@ -4254,7 +4254,7 @@ emulsion
 exemplifiable
 etherene
 echoless
-excruciatingly
+excruciatingly 1
 earjewel
 encephaloscopy
 emulsions
