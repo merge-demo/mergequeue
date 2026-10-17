@@ -9585,7 +9585,7 @@ expressing
 emigrated
 eutectoid
 expediente
-excurse
+excurse 1
 esculent
 egocentristic
 encephaloma
