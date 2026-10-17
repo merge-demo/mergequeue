@@ -12062,7 +12062,7 @@ excrementive
 extrasensory
 enfolder
 excrescency
-eccentric
+eccentric 1
 eris
 excuseless
 extispex
