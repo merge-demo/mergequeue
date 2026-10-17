@@ -5735,7 +5735,7 @@ flourishes
 frae
 ferulas
 fungous
-fuzzball
+fuzzball 1
 frontlessly
 furnage
 frequentation
