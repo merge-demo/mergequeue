@@ -8124,7 +8124,7 @@ foison
 fire
 formulates
 flexo
-flatcaps
+flatcaps 1
 faithful
 frivolity
 featurette
