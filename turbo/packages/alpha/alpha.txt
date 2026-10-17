@@ -486,7 +486,7 @@ agriculture
 abbreviate
 amylemia
 antiscriptural
-abiuret
+abiuret 1
 abjectedness
 attriting
 aueto
