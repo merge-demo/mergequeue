@@ -14762,7 +14762,7 @@ bravers
 bipolar
 bradycrotic
 braves
-bisect
+bisect 1
 bravi
 braving
 bravissimo
