@@ -3253,7 +3253,7 @@ datiscetin
 drakefly
 dudder
 deferrable
-deferrer
+deferrer 1
 disturbative
 densen
 decentralized
