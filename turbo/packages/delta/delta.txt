@@ -10253,7 +10253,7 @@ deifiers
 defunctive
 dioctahedral
 dextroses
-dioctophyme
+dioctophyme 1
 deave
 defaulting
 diodontidae
