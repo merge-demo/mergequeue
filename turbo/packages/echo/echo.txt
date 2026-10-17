@@ -7226,7 +7226,7 @@ ergatomorphism
 enaena
 epicurize
 enskied
-excrescences
+excrescences 1
 expunge
 electronegativity
 eoiths
