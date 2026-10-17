@@ -4803,7 +4803,7 @@ feuillants
 fortunetelling
 flocculable
 fluviovolcanic
-fortunately
+fortunately 1
 flaunching
 freshened
 fooling
