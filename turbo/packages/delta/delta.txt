@@ -8251,7 +8251,7 @@ diagonal
 downplay
 diagonalizable
 diagonalization
-diagnosing
+diagnosing 1
 duel
 dictyostele
 doubletree
