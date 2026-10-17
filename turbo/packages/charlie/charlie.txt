@@ -2886,7 +2886,7 @@ coetaneity
 cansos
 chartophylaxes
 congenialize
-cant
+cant 1
 connectionless
 crayfish
 cantabank

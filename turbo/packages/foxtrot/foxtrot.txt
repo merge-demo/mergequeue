@@ -9288,7 +9288,7 @@ flagons
 fordull
 foregoers
 foremost
-fabrikoid
+fabrikoid 1
 fruticeta
 funfairs
 flukey
