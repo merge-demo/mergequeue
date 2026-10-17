@@ -511,7 +511,7 @@ funbre
 frisch
 friz
 fertilizing
-foreshock
+foreshock 1
 frenne
 filicite
 faking
