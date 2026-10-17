@@ -6112,7 +6112,7 @@ clippable
 catoptrically
 curtise
 catoptrite
-catoptromantic
+catoptromantic 1
 catoquina
 chelonidae
 cats
