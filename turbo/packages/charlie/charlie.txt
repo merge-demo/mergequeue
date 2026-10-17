@@ -6230,7 +6230,7 @@ chew
 caudation
 calycophorae
 carpopodite
-caudatory
+caudatory 1
 clergies
 corbel
 corticifugal
