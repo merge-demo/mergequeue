@@ -6499,7 +6499,7 @@ confiner
 cambodia
 cavelike
 cavemen
-cavernal
+cavernal 1
 cavernlike
 cavernoma
 cavernous
