@@ -2643,7 +2643,7 @@ buttonhook
 bravery
 beduchess
 bantamweight
-berlinize
+berlinize 1
 birdhouses
 bilges
 botanise
