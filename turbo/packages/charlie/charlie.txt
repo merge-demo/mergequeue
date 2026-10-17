@@ -29216,7 +29216,7 @@ characid
 crippleness
 crippler
 creaser
-capillarity
+capillarity 1
 cystomatous
 crippling
 cripplingly
