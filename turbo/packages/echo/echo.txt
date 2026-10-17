@@ -2458,7 +2458,7 @@ electrogalvanization
 equivalence
 electrogenic
 eudemonia
-exhilarates
+exhilarates 1
 enhearten
 electrogilt 1
 electrogram
