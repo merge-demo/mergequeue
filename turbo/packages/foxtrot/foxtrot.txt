@@ -5762,7 +5762,7 @@ flited
 frontate
 frontal
 foge 1
-freckliness
+freckliness 1
 foehns
 finebent
 finings
