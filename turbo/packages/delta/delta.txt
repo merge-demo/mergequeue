@@ -5951,7 +5951,7 @@ duffer
 diplodus
 deprogrammed
 divoto
-drillstock
+drillstock 1
 dottling
 devonic
 dollish
