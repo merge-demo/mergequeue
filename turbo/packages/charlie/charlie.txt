@@ -1972,7 +1972,7 @@ circummigrate
 campanero
 comp
 crenelates
-choliambist
+choliambist 1
 crampbit
 cameronian
 coyure
