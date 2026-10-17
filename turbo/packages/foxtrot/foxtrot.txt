@@ -9850,7 +9850,7 @@ flashbulbs
 fringe
 firebricks
 fadlike
-fricando
+fricando 1
 fakement
 frouncing
 feminize
