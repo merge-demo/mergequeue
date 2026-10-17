@@ -9801,7 +9801,7 @@ chapeless
 chalybean
 certhiidae
 corrugates
-cowardliness
+cowardliness 1
 clubroot
 combattants
 calanid
