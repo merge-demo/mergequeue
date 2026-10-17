@@ -5292,7 +5292,7 @@ footloose
 faciation
 fangy
 foamed
-frangulinic
+frangulinic 1
 flings
 flailed
 fetishistic
