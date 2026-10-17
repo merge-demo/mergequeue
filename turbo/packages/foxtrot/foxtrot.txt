@@ -3296,7 +3296,7 @@ forevermore
 flasket
 foreconscious
 facewise
-foveae
+foveae 1
 ferrohydrocyanic
 fractionization
 fossilologist
