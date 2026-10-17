@@ -13825,7 +13825,7 @@ extrastapedial
 extratropical
 extendible
 extracerebral
-embolo
+embolo 1
 elucidative
 effervescingly
 electrophilic
