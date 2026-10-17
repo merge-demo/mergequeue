@@ -3665,7 +3665,7 @@ grisaille
 galvanize
 gpm
 granulations
-gangwa
+gangwa 1
 georgie
 gillnets
 gigantine
