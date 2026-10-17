@@ -17539,7 +17539,7 @@ askance
 acanthodea
 appealingly
 agruif
-ambidextrousness
+ambidextrousness 1
 acuter
 archaicness
 abstruse
