@@ -11342,7 +11342,7 @@ ethnohistory
 exotropic
 electrodesiccation
 eryopid
-embarrel
+embarrel 1
 edificator
 eruciform
 emanatively
