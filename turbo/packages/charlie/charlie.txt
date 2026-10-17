@@ -11607,7 +11607,7 @@ circumjacent
 choleras
 civilising
 cervelases
-choleriform
+choleriform 1
 cholerigenous
 chelicerate
 cholerine
