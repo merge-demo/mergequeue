@@ -1807,7 +1807,7 @@ glos
 gentile
 groupage
 grasses
-glutenous
+glutenous 1
 generalcies
 gemmules
 gousty
