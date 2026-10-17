@@ -12239,7 +12239,7 @@ degreasing
 diazomethane
 disgospel
 diminuendos
-disgospelize
+disgospelize 1
 disgracer
 dipicrate
 disenchanted
