@@ -8669,7 +8669,7 @@ equinate
 enameller
 emerging
 excretions
-equinumerally
+equinumerally 1
 ethrogs
 enarration
 equipages
