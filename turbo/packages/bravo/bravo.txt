@@ -6894,7 +6894,7 @@ boggled
 briolette
 biplosive
 breediness
-betail
+betail 1
 baselessness
 betta
 becoward
