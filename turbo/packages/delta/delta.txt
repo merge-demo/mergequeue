@@ -12477,7 +12477,7 @@ diageotropism
 diopsidae
 daube
 dysmerogenetic
-delphinoid
+delphinoid 1
 disincarnate
 dudes
 defiled
