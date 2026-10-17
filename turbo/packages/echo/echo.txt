@@ -10610,7 +10610,7 @@ eucritic
 eudaemon
 eurous
 enmeshes
-extravasated
+extravasated 1
 ecdyson
 exchangee
 experience
