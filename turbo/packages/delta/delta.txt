@@ -12589,7 +12589,7 @@ deadhearted
 deodorise
 departing
 definitise
-dephase
+dephase 1
 disinvagination
 deepfroze
 debeak
