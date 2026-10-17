@@ -2296,7 +2296,7 @@ expert
 essene
 entheal
 euphuism
-endosteum
+endosteum 1
 eval
 etonian
 escalatory
