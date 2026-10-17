@@ -3328,7 +3328,7 @@ capone
 caponette
 caponier
 caponiere
-cognominate
+cognominate 1
 cavilling
 cotyledon
 concavely
