@@ -3939,7 +3939,7 @@ gigatons
 gastroschisis
 gastrosoph
 genetical
-geoduck
+geoduck 1
 geminates
 gemmily
 gyroceras
