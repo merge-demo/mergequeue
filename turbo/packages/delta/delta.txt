@@ -16454,7 +16454,7 @@ devolatilisation
 dracin
 dollhouse
 darken
-degradations
+degradations 1
 detinuit
 doubtance
 dirhinous
