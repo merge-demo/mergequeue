@@ -1959,7 +1959,7 @@ glut
 gravelling
 gripes
 grudged
-gregarinous
+gregarinous 1
 ghastlier
 guttable
 gonif
