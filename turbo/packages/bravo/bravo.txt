@@ -2530,7 +2530,7 @@ beslash
 buenos
 bassetite
 bottonhook
-buckler
+buckler 1
 baldish
 barguest
 barguests
