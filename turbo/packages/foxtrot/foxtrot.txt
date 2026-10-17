@@ -5413,7 +5413,7 @@ firehouses
 fennel
 friending
 frigefact
-futurity
+futurity 1
 fledgeling
 fiendhead
 foxfinger
