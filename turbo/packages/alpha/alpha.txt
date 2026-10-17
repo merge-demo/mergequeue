@@ -7463,7 +7463,7 @@ apts
 angledog
 antiflatulent
 albitite
-acutiator
+acutiator 1
 anguilla
 antitheistical
 angulare
