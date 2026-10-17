@@ -2877,7 +2877,7 @@ canopus
 canos
 canossa
 canotier
-canreply
+canreply 1
 cubi
 cansful
 coddled
