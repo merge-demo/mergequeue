@@ -3607,7 +3607,7 @@ azole
 assedat
 annotatively
 albizias
-arabicize
+arabicize 1
 agora
 adendritic
 akenbold
