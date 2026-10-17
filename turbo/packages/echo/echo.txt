@@ -11732,7 +11732,7 @@ eveque
 episcopise
 ensurer
 easier
-entoptoscopy
+entoptoscopy 1
 examinee
 emoted
 epithelization
