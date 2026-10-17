@@ -19929,7 +19929,7 @@ clayish
 comity
 comitia
 comitial
-colortype
+colortype 1
 cashbox
 cuscuses
 contrastimulus
