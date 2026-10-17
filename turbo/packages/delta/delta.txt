@@ -2332,7 +2332,7 @@ demidolmen
 downwash
 diazoaminobenzene
 deceptive
-deceptively
+deceptively 1
 dermatologic
 disloign
 deceptiveness
