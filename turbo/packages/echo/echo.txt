@@ -1525,7 +1525,7 @@ endosternum
 exradio
 eucosmidae
 episcopised
-egoisticalness
+egoisticalness 1
 evoke
 embow
 engloom
