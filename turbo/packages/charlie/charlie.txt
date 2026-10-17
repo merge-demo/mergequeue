@@ -13747,7 +13747,7 @@ cinemactic
 cinemagoer
 caxiri
 cinemagoers
-covenanter
+covenanter 1
 cinemas
 cinematheque
 carsmith
