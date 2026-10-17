@@ -9090,7 +9090,7 @@ alloxans
 arsenicalism
 alloxantin
 anthracoid
-alloxuraemia
+alloxuraemia 1
 alloxuremia
 alveolary
 anadicrotic
