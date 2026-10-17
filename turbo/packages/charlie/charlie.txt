@@ -5166,7 +5166,7 @@ catawamptious
 caserne
 casernes
 costumery
-caserns
+caserns 1
 cases
 caseum
 cordis
