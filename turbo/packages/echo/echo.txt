@@ -12501,7 +12501,7 @@ extoolitic
 esonarthex
 enameler
 electrofusion
-extant
+extant 1
 existlessness
 emeses
 epistemological
