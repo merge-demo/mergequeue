@@ -464,7 +464,7 @@ eveners
 enanthesis
 equilibrize
 expediteness
-evector
+evector 1
 endoplastule
 ecclesia
 enumerable
