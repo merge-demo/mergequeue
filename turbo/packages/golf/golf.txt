@@ -1380,7 +1380,7 @@ guttular
 gamily
 governs
 ganodonta
-garnison
+garnison 1
 greetingless
 garniture
 glycosemia
