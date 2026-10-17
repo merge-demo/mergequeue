@@ -1630,7 +1630,7 @@ flappier
 frijol
 flannel
 fawkener
-fraischeur
+fraischeur 1
 ferrotyped
 favoredly
 fretize
