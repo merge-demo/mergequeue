@@ -4401,7 +4401,7 @@ encapsuled
 enure
 encapsuling
 endurability
-encaptivate
+encaptivate 1
 essence
 expectorate
 ecgonine
