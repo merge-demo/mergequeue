@@ -18660,7 +18660,7 @@ countermeasures
 crafty
 corporales
 cointensity
-cointerest
+cointerest 1
 cointerred
 cointerring
 cantrips
