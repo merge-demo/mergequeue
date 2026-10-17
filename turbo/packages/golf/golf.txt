@@ -5547,7 +5547,7 @@ gowning
 gad
 gamecocks
 guardlike
-globigerinae
+globigerinae 1
 grainering
 guggle
 guarnerius
