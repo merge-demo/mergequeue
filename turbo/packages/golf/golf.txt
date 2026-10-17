@@ -2513,7 +2513,7 @@ gibed
 griever
 gained
 guessive
-generalise
+generalise 1
 gonocoel
 gynandrous
 graciously
