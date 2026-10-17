@@ -6957,7 +6957,7 @@ flusherman
 forepurpose
 fee
 follily
-feeblemindedness
+feeblemindedness 1
 fadeless
 frontozygomatic
 fendy
