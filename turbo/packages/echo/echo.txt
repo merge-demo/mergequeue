@@ -5728,7 +5728,7 @@ elector
 embrace
 educabilia
 etherolate
-emerald
+emerald 1
 engirdle
 ebullient
 engrege
