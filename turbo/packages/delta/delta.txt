@@ -1699,7 +1699,7 @@ dupability
 disentrain
 dispond
 duckstone
-distringas
+distringas 1
 dobl
 decoding
 directory
