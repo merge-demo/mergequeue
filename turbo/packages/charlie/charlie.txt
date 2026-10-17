@@ -2818,7 +2818,7 @@ canoeload
 canoes
 cardiogenesis
 cryptoanalyst 1
-cukes
+cukes 1
 canoewood
 cadence
 coincident
