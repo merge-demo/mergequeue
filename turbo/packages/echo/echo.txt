@@ -8907,7 +8907,7 @@ ergodic
 expectorators
 evaporite
 entoderms
-euthermic
+euthermic 1
 ergograph
 epistrophic
 embitter
