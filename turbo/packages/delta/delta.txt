@@ -14660,7 +14660,7 @@ djave
 drill
 djebels
 djehad
-dumpled
+dumpled 1
 deferens
 djellabah
 decanically
