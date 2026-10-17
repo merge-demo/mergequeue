@@ -24914,7 +24914,7 @@ awakable
 acoelomate
 awake
 aortosclerosis
-awakened
+awakened 1
 apeak
 amminolysis
 algometer
