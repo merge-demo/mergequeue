@@ -26995,7 +26995,7 @@ counterobligation
 counteroffensive
 chevet
 cerograph
-counteroffer
+counteroffer 1
 counteropening
 counteropponent
 culotte
