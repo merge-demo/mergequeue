@@ -13500,7 +13500,7 @@ endymal
 egocentricities
 edge
 erk
-epifolliculitis
+epifolliculitis 1
 ectocondyloid
 editing
 etruscologist
