@@ -24268,7 +24268,7 @@ chuffest
 convulsant
 convulse
 convulsedly
-compulsiveness
+compulsiveness 1
 circuity
 chorion
 choky
