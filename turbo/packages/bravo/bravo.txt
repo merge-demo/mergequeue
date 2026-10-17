@@ -1809,7 +1809,7 @@ bilanders
 brachman
 burdie
 bamboula
-banterer
+banterer 1
 boswellized
 bowmen
 backset
