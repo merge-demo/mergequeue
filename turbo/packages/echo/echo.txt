@@ -6189,7 +6189,7 @@ euryhaline
 ennobling
 ensteel
 ectosarcous
-exterritorialize
+exterritorialize 1
 enoint
 enterological
 ensues
