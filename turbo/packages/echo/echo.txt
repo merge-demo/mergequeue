@@ -7499,7 +7499,7 @@ electrodepositor
 ensignhood
 enviously
 externate
-encyc
+encyc 1
 elevato
 epiblasts
 exemplifiers
