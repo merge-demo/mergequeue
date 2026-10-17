@@ -15535,7 +15535,7 @@ bringeth
 brushiness
 botanophilist
 brynhild
-burn
+burn 1
 blist
 barbes
 bebar
