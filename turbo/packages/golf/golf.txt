@@ -917,7 +917,7 @@ guidership
 gelsemiumia
 gametophoric
 gorbet
-gated
+gated 1
 gnashes
 glycaemia
 grumousness
