@@ -7651,7 +7651,7 @@ germanify
 geologist
 geognostical
 guardianless
-geomantic
+geomantic 1
 gradated
 gatecrasher
 gestureless
