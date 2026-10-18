@@ -12490,7 +12490,7 @@ anear
 abrogable
 annihilability
 autodermic
-asphyxy
+asphyxy 1
 approval
 animalia
 admensuration
