@@ -9466,7 +9466,7 @@ babingtonite
 biron
 byronesque
 birostrate
-byronic
+byronic 1
 binocles
 beirut
 brahmaness
