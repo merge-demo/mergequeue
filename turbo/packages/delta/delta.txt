@@ -7442,7 +7442,7 @@ drumfire
 disequilibriums
 densitometry
 disseised
-deferents
+deferents 1
 detrivorous
 dervish
 damn
