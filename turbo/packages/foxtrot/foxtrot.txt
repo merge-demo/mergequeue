@@ -1661,7 +1661,7 @@ fellowless
 forebush
 fipenny
 four
-fdnames
+fdnames 1
 farmhands
 fundamentalists
 forthcut
