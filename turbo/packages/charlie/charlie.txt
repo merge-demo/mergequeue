@@ -1897,7 +1897,7 @@ cambresine
 cuir
 cherrystones
 calumnia
-cartonnage
+cartonnage 1
 cambricleaf
 colobus
 cambridge
