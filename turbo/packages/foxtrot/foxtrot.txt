@@ -4949,7 +4949,7 @@ foreappoint
 fourflushers
 flameouts
 fictileness
-frets
+frets 1
 farmhold
 flamers
 fictionist
