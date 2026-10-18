@@ -4982,7 +4982,7 @@ diamb
 demountable
 devastators
 demounts
-dempsters
+dempsters 1
 deaerate
 demulcents
 diphycercy
