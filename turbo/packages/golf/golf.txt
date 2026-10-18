@@ -1042,7 +1042,7 @@ garvock
 gerardias
 gorgonin
 ganglioid
-ganglioma
+ganglioma 1
 gangliomas
 gigahertzes
 ganglionate
