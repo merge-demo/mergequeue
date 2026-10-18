@@ -7043,7 +7043,7 @@ entwines
 epinikian
 enzymolytic
 excitomuscular
-encompassed
+encompassed 1
 epris
 exemptile
 earthfast
