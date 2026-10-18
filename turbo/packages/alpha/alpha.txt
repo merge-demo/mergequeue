@@ -14917,7 +14917,7 @@ abnormality
 antliate
 angeles
 anticyclically
-anticity
+anticity 1
 anticytolysin
 accredits
 almsgiving
