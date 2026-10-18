@@ -1470,7 +1470,7 @@ calite
 calyx
 coecal
 continents
-careening
+careening 1
 calkers
 chequy
 chowse
