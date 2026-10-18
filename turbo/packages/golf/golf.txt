@@ -1595,7 +1595,7 @@ gaunted
 giblet
 gastreas
 gyrinid
-glassteel
+glassteel 1
 grimly
 grimines
 glibness
