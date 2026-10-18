@@ -27154,7 +27154,7 @@ counterspies
 coverage
 counterstand
 cudweeds
-counterstep
+counterstep 1
 corabeca
 crocheting
 coprostasis
