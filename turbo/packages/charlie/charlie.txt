@@ -15310,7 +15310,7 @@ clandestinely
 clandestineness
 clanfellow
 caddo
-compatriot
+compatriot 1
 crowdie
 critturs
 coexist
