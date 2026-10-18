@@ -5202,7 +5202,7 @@ gemara
 gerbils
 gieseckite
 gena
-geogenesis
+geogenesis 1
 grottesco
 gymnanthous
 guiler
