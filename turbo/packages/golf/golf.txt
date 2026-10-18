@@ -5264,7 +5264,7 @@ geomedicine
 gymnogenous
 gurish
 girondist
-glaucophane
+glaucophane 1
 garish
 galoubet
 gammers
