@@ -9861,7 +9861,7 @@ chemokinetic
 chemolysis
 cicero
 correspondentially
-clamp
+clamp 1
 chemophysiology
 chemoprophyalctic
 cycle
