@@ -8844,7 +8844,7 @@ entophytic
 equiprobabilist
 eternities
 enjeopardy
-extricable
+extricable 1
 encrypt
 ejections
 emptive
