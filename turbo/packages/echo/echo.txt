@@ -6735,7 +6735,7 @@ evacuation
 ellfish
 ediface
 eupnea
-extrinsical
+extrinsical 1
 elaborator
 entrechat
 epitomic
