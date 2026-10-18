@@ -7091,7 +7091,7 @@ dissuasions
 deterrently
 domajig
 demesmerize
-descriptiveness
+descriptiveness 1
 disorient
 desto
 disvalues
