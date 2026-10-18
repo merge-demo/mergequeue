@@ -394,7 +394,7 @@ faceoff
 fancifully
 fairground
 fairy
-foresettle
+foresettle 1
 fingerroot
 failings
 factors
