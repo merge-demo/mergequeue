@@ -16315,7 +16315,7 @@ autoregenerator
 anthochlor
 antitobacconist
 auscultative
-ahura
+ahura 1
 antitonic
 autoneurotoxin
 annuity
