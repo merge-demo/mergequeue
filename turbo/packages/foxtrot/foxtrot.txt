@@ -5998,7 +5998,7 @@ feldsher
 floorwise
 fissate
 featishness
-fastnesses
+fastnesses 1
 fusty
 foolscaps
 felspars
