@@ -2561,7 +2561,7 @@ giltheads
 gibber
 guillotined
 grassed
-gallamine
+gallamine 1
 gargling
 gametogeny
 globiferous
