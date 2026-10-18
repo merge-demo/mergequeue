@@ -16363,7 +16363,7 @@ duodecane
 drastically
 dewret
 downthrown
-denaturation
+denaturation 1
 delayage
 downtown
 debar
