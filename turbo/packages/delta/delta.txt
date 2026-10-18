@@ -4960,7 +4960,7 @@ demote
 demoted
 demotes
 disomus
-demotions
+demotions 1
 deferent
 dysmeromorph
 daystar
