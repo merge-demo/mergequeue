@@ -6595,7 +6595,7 @@ cheroot
 cdg
 cdr
 cesspool
-cosmonaut
+cosmonaut 1
 celibates
 cearin
 chatoyancy
