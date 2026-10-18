@@ -3253,7 +3253,7 @@ gyral
 gaelicist
 gulo
 galvanical
-gustatory
+gustatory 1
 giddiest
 grades
 grayback
