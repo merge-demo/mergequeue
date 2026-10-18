@@ -10884,7 +10884,7 @@ defrayer
 deterges
 demersion
 divulgement
-diapensiaceous
+diapensiaceous 1
 dioeciodimorphous
 dentelated
 doohinkus
