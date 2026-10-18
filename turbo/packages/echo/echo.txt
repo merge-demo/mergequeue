@@ -10391,7 +10391,7 @@ excreted
 exposit
 ecb
 emeute
-ectocranial
+ectocranial 1
 excruciator
 ensuite
 endemiological
