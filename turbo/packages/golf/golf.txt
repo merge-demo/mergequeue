@@ -6712,7 +6712,7 @@ gypsine
 gonion
 ganjas
 guid
-gonid
+gonid 1
 gabeler
 glyc
 gluttonies
