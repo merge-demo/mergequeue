@@ -5868,7 +5868,7 @@ estamp
 erasures
 erg
 engreaten
-evirtuate
+evirtuate 1
 enocyte
 electrotyping
 ergotize
