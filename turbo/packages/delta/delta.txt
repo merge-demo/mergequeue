@@ -6887,7 +6887,7 @@ dictyoid
 dealbation
 desolateness
 desiccate
-deadheading
+deadheading 1
 desolates
 desolating
 doffers
