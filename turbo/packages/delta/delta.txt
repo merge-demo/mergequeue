@@ -10969,7 +10969,7 @@ dissevered
 deodorised
 divinations
 disagreing
-dethronable
+dethronable 1
 dredges
 dioptroscopy
 demonlike
