@@ -3954,7 +3954,7 @@ adjust
 abdal
 aht
 astre
-armozeen
+armozeen 1
 adjusting
 attuning
 akindle
