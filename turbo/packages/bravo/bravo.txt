@@ -5577,7 +5577,7 @@ boulanger
 bela
 buffalofishes
 beluchi
-burgonets
+burgonets 1
 bruscus
 belash
 blobbed
