@@ -18216,7 +18216,7 @@ decener
 dundasite
 didascalar
 downfallen
-depersonalize
+depersonalize 1
 delights
 dentatocostate
 diamagnetometer
