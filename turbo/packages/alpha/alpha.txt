@@ -15319,7 +15319,7 @@ alhambra
 antigravitational
 angiemphraxis
 automobiling
-antigravity
+antigravity 1
 antigrowth
 affectible
 anatomizes

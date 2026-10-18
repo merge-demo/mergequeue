@@ -8523,7 +8523,7 @@ dantomania
 disaccharides
 dinked
 diapause
-diapauses
+diapauses 1
 donaries
 decarburize
 dodecastylos
