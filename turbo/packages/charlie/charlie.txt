@@ -2478,7 +2478,7 @@ choraguses
 certitude
 clang
 cassidony
-cypselus
+cypselus 1
 colloidally
 circumnatant
 candescence
