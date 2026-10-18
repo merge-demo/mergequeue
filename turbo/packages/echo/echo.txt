@@ -13577,7 +13577,7 @@ energies
 ebeneous
 exsudate
 embowelling
-extumescence
+extumescence 1
 ectadenia
 egeria
 emulation
