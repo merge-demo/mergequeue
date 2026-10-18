@@ -6861,7 +6861,7 @@ gymsia
 gluteoinguinal
 gauntlets
 glucoprotein
-geaster
+geaster 1
 glidewort
 gardinol
 galeas
