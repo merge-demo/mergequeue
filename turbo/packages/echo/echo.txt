@@ -7242,7 +7242,7 @@ electrocatalytic
 encephalomere
 epidemiology
 exterraneous
-energetics
+energetics 1
 ensealed
 eopalaeozoic
 egocentrically
