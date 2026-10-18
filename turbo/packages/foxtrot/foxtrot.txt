@@ -5405,7 +5405,7 @@ flyswat
 feldspathization
 figuration
 fittest
-fruittime
+fruittime 1
 forthbringer
 formable
 flecking
