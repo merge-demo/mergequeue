@@ -4721,7 +4721,7 @@ flannelly
 fantasticate
 frettage
 fictation
-frumentarious
+frumentarious 1
 folkmots
 flabbergast
 forkfuls
