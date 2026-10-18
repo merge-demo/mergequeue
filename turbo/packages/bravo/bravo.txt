@@ -7481,7 +7481,7 @@ bistre
 bramantesque
 bullragged
 bleariest
-birefraction
+birefraction 1
 befoolment
 betwine
 befingered
