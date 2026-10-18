@@ -7093,7 +7093,7 @@ florivorous
 fleapit
 factious
 fusional
-fingerstall
+fingerstall 1
 fadmonger
 fewsome
 foolproof
