@@ -19305,7 +19305,7 @@ colonisationist
 colonised
 colonising
 colonist
-colonizable
+colonizable 1
 colonize
 chemoreception
 comminating
