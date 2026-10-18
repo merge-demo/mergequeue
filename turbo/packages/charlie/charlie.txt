@@ -2075,7 +2075,7 @@ coadjuvancy
 campania
 cecils
 cardinalities
-comdg
+comdg 1
 condoles
 crunchier
 campanile
