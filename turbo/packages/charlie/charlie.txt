@@ -12020,7 +12020,7 @@ crusca
 cordyl
 chockler
 casal
-chorusmaster
+chorusmaster 1
 chorussed
 chorusses
 cathedralic
