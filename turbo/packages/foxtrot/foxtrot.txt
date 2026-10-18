@@ -3093,7 +3093,7 @@ fireclay
 fairylike
 fountainheads
 fibrocement
-frenzies
+frenzies 1
 fustians
 fieulamort
 formulas
