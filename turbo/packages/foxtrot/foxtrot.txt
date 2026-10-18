@@ -7085,7 +7085,7 @@ fractioning
 fraken
 fledge
 fedayeen
-foolish
+foolish 1
 faintish
 ferryboats
 fascinating
