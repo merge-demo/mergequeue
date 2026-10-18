@@ -8215,7 +8215,7 @@ dissectors
 dulcor
 despumation
 diorism
-diadochic
+diadochic 1
 diadochite
 diadochokinesia
 diaene
