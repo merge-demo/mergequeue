@@ -3368,7 +3368,7 @@ cyclohexene
 capouches
 cappadocian
 crypted
-capparid
+capparid 1
 capparis
 capped
 cappelletti
