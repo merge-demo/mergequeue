@@ -14192,7 +14192,7 @@ ectosome
 esthetics
 epulation
 endlong
-epicycles
+epicycles 1
 elong
 extraliminal
 equidistance
