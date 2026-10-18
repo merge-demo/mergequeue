@@ -25004,7 +25004,7 @@ awhile
 atlatls
 awhir
 awhirl
-aswim
+aswim 1
 autotruck
 antedon
 awikiwiki
