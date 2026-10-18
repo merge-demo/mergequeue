@@ -15976,7 +15976,7 @@ antiquarianize
 anachronism
 antiquaries
 americas
-amylase
+amylase 1
 arach
 acquital
 aliasing
