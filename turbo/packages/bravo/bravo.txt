@@ -3524,7 +3524,7 @@ batete
 balotade
 blue
 batfishes
-biri
+biri 1
 batfowl
 bassists
 bedust
