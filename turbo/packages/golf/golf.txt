@@ -1840,7 +1840,7 @@ gazehound
 growlery
 guffaw
 gigantostracan
-gilgai
+gilgai 1
 goofy
 geodic
 gourmandism
