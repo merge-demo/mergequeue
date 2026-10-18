@@ -9461,7 +9461,7 @@ apicad
 angiosclerotic
 aluminise
 autocinesis
-alterable
+alterable 1
 acatery
 alterably
 anchylose
