@@ -3320,7 +3320,7 @@ gerundial
 gentlewomanlike
 glossopharyngeal
 germier
-goatsfoot
+goatsfoot 1
 gaetulian
 gusto
 girdlers
