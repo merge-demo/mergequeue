@@ -9861,7 +9861,7 @@ galaxy
 guaneide
 guanethidine
 gallbush
-galyacs
+galyacs 1
 gist
 gastroenterologist
 galactic
