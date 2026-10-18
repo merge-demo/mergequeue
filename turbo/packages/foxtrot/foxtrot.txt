@@ -1233,7 +1233,7 @@ fissure
 foredoing
 frustrately
 firmitude
-frigidity
+frigidity 1
 fenders
 forewarner
 flexural
