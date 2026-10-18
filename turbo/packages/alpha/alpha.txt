@@ -19651,7 +19651,7 @@ annotate
 ark
 arillate
 archprotopope
-affricative
+affricative 1
 abwatts
 arillus
 ampere
