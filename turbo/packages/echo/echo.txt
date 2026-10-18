@@ -5583,7 +5583,7 @@ epicene
 engendrure
 edenization
 ethiopia
-euthanatize
+euthanatize 1
 evibrate
 enfolders
 epimacus
