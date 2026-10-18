@@ -10913,7 +10913,7 @@ euphotide
 excommunicate
 esd
 euphues
-epipedometry
+epipedometry 1
 epilogizing
 entomologising
 epipteric
