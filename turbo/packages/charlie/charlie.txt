@@ -15179,7 +15179,7 @@ claymore
 claims
 covenable
 claypans
-clair
+clair 1
 clairaudience
 countertug
 claire
