@@ -8642,7 +8642,7 @@ downbeard
 dephysicalize
 diarrhoetic
 disfavored
-diarticular
+diarticular 1
 dias
 depertible
 dermatographia
