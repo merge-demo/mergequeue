@@ -19724,7 +19724,7 @@ combination
 coredeem
 combinational
 corrigent
-chorepiscope
+chorepiscope 1
 cloots
 combinations
 corallike
