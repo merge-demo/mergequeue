@@ -3442,7 +3442,7 @@ eirene
 eventide
 embellisher
 encheason
-enchained
+enchained 1
 encolden
 embers
 estival
