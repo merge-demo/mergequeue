@@ -5371,7 +5371,7 @@ fascia 1
 flitterbat
 formalin
 fruiteries
-ferulaic
+ferulaic 1
 foldboater
 foreclosed
 fissured
