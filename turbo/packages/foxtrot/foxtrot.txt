@@ -11705,7 +11705,7 @@ fasciated
 frameless
 flaw
 fanfish
-fiancailles
+fiancailles 1
 frowns
 furriered
 ferruled
