@@ -1551,7 +1551,7 @@ glutelin
 gripe
 glassless
 gregarinoidea
-gluelikeness
+gluelikeness 1
 gout
 gassing
 gismos
