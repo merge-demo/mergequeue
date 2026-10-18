@@ -9512,7 +9512,7 @@ gecking
 groutier
 gaes
 gyving
-gyroscope
+gyroscope 1
 gonotokont
 groupwise
 garvey
