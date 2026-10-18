@@ -6495,7 +6495,7 @@ cavey
 chromoscope
 cavekeeper
 cavelet
-confiner
+confiner 1
 cambodia
 cavelike
 cavemen
