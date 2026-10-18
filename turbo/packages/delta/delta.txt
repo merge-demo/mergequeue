@@ -338,7 +338,7 @@ daidlie
 dimeran
 dummyweed
 disarm
-deltaite
+deltaite 1
 denumberment
 damier
 depasturage
