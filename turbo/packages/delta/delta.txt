@@ -10816,7 +10816,7 @@ distilment
 drier
 diletant
 dashwheel
-diadematoida
+diadematoida 1
 digit
 dynameter
 darkest
