@@ -6108,7 +6108,7 @@ exulcerative
 epithalamiast
 entremets
 emboly
-exceed
+exceed 1
 exossate
 epizoisms
 explida
