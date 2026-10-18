@@ -5624,7 +5624,7 @@ flighter
 foret
 fleysome
 forehock
-funicular
+funicular 1
 faddiest
 flightier
 foster
