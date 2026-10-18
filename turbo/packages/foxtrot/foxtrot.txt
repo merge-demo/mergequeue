@@ -3530,7 +3530,7 @@ fyke
 fitweed
 forehearth
 formant
-frightful
+frightful 1
 foulsome
 fielding
 filamentary
