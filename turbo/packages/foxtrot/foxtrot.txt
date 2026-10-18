@@ -6399,7 +6399,7 @@ fluoboric
 forefoot
 feuder
 fronture
-furry
+furry 1
 formalization
 frogspawn
 fafnir
