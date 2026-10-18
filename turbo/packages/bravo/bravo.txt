@@ -6555,7 +6555,7 @@ berberidaceous
 berberis
 brunizem
 bournous
-booted
+booted 1
 bagattino
 bladderless
 berchemia
