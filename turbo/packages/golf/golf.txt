@@ -4535,7 +4535,7 @@ gambrel
 gills
 graminiform
 gerbille
-gawp
+gawp 1
 guerrillaism
 galliums
 globoids
