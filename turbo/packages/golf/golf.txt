@@ -2750,7 +2750,7 @@ genteelize
 gelating
 groutite
 gentiana
-gastrotympanites
+gastrotympanites 1
 gentianella
 gregatim
 gadhelic

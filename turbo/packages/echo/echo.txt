@@ -2781,7 +2781,7 @@ ephori
 elementaloid
 expurgative
 eunicid
-essang
+essang 1
 encoronate
 eluded
 embelic
