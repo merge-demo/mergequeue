@@ -5123,7 +5123,7 @@ gandhist
 gummas
 gromatics
 grassland
-gubbo
+gubbo 1
 glycoside
 glossate
 glali
