@@ -15930,7 +15930,7 @@ cleanly
 cleped
 clepsydra
 contorniate
-clepsine
+clepsine 1
 condemnatory
 cleptobioses
 corteise
