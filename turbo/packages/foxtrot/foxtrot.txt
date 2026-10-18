@@ -274,7 +274,7 @@ financier
 filander
 felsic
 flooders
-fairly
+fairly 1
 folk 1
 fotive
 frenulum
