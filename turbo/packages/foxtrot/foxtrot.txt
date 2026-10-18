@@ -6293,7 +6293,7 @@ flybelts
 forinsecal 1
 fescennine
 fluked
-fertilisability
+fertilisability 1
 fuliginosity
 fluent
 flukeworm
