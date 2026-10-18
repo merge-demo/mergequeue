@@ -5608,7 +5608,7 @@ diplomatology
 depersonalized
 discipled
 deflated
-discouraging
+discouraging 1
 deathwatches
 dozy
 deporter
