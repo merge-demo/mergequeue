@@ -15322,7 +15322,7 @@ descendability
 dittander
 domba
 disbogue
-daimioate
+daimioate 1
 donationes
 deserver
 decian
