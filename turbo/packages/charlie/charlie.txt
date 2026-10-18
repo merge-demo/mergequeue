@@ -27121,7 +27121,7 @@ colophane
 countersense
 countershade
 chasms
-configurable
+configurable 1
 cormoid
 countershine
 chemosorptive
