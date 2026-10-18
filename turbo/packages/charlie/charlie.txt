@@ -22039,7 +22039,7 @@ countertrend
 crois
 chookies
 count
-confiscates
+confiscates 1
 confiscation
 cornroot
 confiscations
