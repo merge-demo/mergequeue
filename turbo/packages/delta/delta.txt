@@ -2736,7 +2736,7 @@ dictates
 dissembling
 decore
 dewcup
-decorist
+decorist 1
 durum
 demilancer
 disfeatured
