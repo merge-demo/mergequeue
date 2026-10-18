@@ -2848,7 +2848,7 @@ gyrate
 gustavus
 guardsman
 gipser
-glyptician
+glyptician 1
 grasschat
 gasser
 gasmetophytic
