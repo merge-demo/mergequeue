@@ -9719,7 +9719,7 @@ anaemic
 alveary
 advent
 alvearium
-alveolariform
+alveolariform 1
 alveolate
 alveolation
 alveole
