@@ -10358,7 +10358,7 @@ drabbing
 dfault
 deejays
 dioxane
-dioxanes
+dioxanes 1
 demonises
 droiture
 diplosphene
