@@ -27704,7 +27704,7 @@ cowing
 carcinosarcomata
 cowinner
 cowish
-copsole
+copsole 1
 circumdate
 cuppier
 crassier
