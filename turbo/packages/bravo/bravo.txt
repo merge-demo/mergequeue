@@ -10398,7 +10398,7 @@ bagmen
 baidya
 bullfinch
 blankness
-berskin
+berskin 1
 blanks
 byrewoman
 boltmaking
