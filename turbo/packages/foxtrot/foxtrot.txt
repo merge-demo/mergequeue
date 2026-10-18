@@ -11539,7 +11539,7 @@ furtiveness
 frena
 foxfeet
 fuselages
-fuselike
+fuselike 1
 forecaddie
 fermentations
 flourescent
