@@ -4584,7 +4584,7 @@ bedaubing
 beltlines
 bloodstone
 belial
-biddelian
+biddelian 1
 blocker
 beats
 bedazement
