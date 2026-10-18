@@ -1968,7 +1968,7 @@ gallweed
 geryoniidae
 gryphaea
 gams
-glyptical
+glyptical 1
 gaurian
 gasting
 gaurs
