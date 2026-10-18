@@ -4279,7 +4279,7 @@ excerpts
 effectible
 en
 enjoined
-extirpation
+extirpation 1
 epicarides
 ejectment
 exaltedness
