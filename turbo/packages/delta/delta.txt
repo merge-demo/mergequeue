@@ -10740,7 +10740,7 @@ dipsopathy
 deutonephron
 daintiest
 dipstick
-diazotize
+diazotize 1
 divinization
 dipteraceae
 dipterygian
