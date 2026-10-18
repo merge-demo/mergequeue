@@ -1387,7 +1387,7 @@ fruticeous
 flaxdrop
 fullword
 filicology
-fishboat
+fishboat 1
 floscularia
 februation
 foredestiny
