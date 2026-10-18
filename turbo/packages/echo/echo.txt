@@ -2165,7 +2165,7 @@ eructate
 endocyclic
 elbowy
 elbowpiece
-elbows
+elbows 1
 explores
 elfishness
 elcaja
