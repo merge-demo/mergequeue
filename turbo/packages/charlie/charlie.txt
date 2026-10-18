@@ -16552,7 +16552,7 @@ cloisterer
 columellate
 clappermaclaw
 cloistering
-comal
+comal 1
 croupes
 chirm
 cloisterly
