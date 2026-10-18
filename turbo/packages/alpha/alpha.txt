@@ -2140,7 +2140,7 @@ amakosa
 alts
 adawlut
 arend
-apiculate
+apiculate 1
 achymia
 acuminated
 aganice
