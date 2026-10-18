@@ -5137,7 +5137,7 @@ gutturine
 gentlehearted
 grander
 goldylocks
-gyps
+gyps 1
 glaucophanite
 goldcrest
 gymnosperm
