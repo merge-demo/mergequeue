@@ -3922,7 +3922,7 @@ keyowch
 keypdafs
 keypdjlitmgekj
 keypwhknumje
-keyq
+keyq 1
 keyqrw
 keyqxxbtrcrz
 keysc
