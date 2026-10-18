@@ -8130,7 +8130,7 @@ decommissions
 diacetin
 damager
 descenders
-diaplexal
+diaplexal 1
 dromiacea
 dorsocervical
 decennially
