@@ -2558,7 +2558,7 @@ gangliasthenia
 goosefish
 granodiorite
 giltheads
-gibber
+gibber 1
 guillotined
 grassed
 gallamine
