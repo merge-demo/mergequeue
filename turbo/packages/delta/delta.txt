@@ -9245,7 +9245,7 @@ dateableness
 dyes
 dinghies
 draftable
-damfoolish
+damfoolish 1
 depicturing
 deanathematize
 dedd
