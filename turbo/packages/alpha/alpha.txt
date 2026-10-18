@@ -967,7 +967,7 @@ ameland
 angoras
 abstainers
 abstaining
-abstains
+abstains 1
 antiserum
 assis
 atlantomastoid
