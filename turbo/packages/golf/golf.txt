@@ -6594,7 +6594,7 @@ guazzo
 groyne
 goulan
 ghostwrite
-gingivolabial
+gingivolabial 1
 gruis
 gawkiest
 geldesprung
