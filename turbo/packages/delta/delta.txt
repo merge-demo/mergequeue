@@ -5278,7 +5278,7 @@ dissemblers
 densifying
 disharmonism
 danaro
-diglottic
+diglottic 1
 disscepter
 dewey
 deligated
