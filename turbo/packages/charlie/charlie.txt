@@ -12208,7 +12208,7 @@ caliche
 camphorphorone
 chrysosperm
 chrysosplenium
-chrysothrix
+chrysothrix 1
 chrysotile
 cheirospasm
 chrysotis
