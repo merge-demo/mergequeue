@@ -10305,7 +10305,7 @@ denudation
 deducement
 desilverizer
 downtrends
-delightsomeness
+delightsomeness 1
 discophore
 dioptra
 depurative
