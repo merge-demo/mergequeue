@@ -8716,7 +8716,7 @@ enchain
 erupting
 enamorate
 eradications
-enjoyed
+enjoyed 1
 elastometry
 enhallow
 ecartes
