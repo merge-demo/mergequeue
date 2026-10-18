@@ -8556,7 +8556,7 @@ diphthongal
 deobstruent
 discommodious
 dermographia
-diaphysis
+diaphysis 1
 dracontiasis
 druggists
 diaphone
