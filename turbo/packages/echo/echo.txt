@@ -6607,7 +6607,7 @@ empyreumata
 enantiomeric
 encraty
 epicyemate
-elephantlike
+elephantlike 1
 enzymologies
 echelons
 enterohydrocele
