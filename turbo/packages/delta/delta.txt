@@ -1824,7 +1824,7 @@ demology
 demonolater
 discovered
 demagnetiser
-debauched
+debauched 1
 debauchedly
 dissuades
 dobson
