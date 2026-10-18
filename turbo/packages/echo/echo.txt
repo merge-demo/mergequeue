@@ -11897,7 +11897,7 @@ entrepreneurship
 epiphytes
 emissivity
 emends
-eightfoil
+eightfoil 1
 engore
 euploeinae
 emotionalist
