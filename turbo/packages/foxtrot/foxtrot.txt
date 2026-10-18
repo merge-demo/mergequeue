@@ -10433,7 +10433,7 @@ fleet
 fisted
 flche
 frontstall
-forstall
+forstall 1
 flockless
 frizes
 fellah
