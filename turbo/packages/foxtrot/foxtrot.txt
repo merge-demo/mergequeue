@@ -11142,7 +11142,7 @@ fibroligamentous
 fanega
 freeings
 faiences
-floatation
+floatation 1
 fiats
 frumperies
 flocculence
