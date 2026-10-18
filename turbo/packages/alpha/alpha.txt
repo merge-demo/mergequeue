@@ -24011,7 +24011,7 @@ autocatalyze
 aeolipile
 aquiferous
 autocholecystectomy
-apoplectical
+apoplectical 1
 aunthoods
 atmometer
 acetylbiuret
