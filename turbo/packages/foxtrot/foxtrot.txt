@@ -9448,7 +9448,7 @@ fistful
 fulcrate
 furculum
 fastwalk
-febricitant
+febricitant 1
 fidele
 fraternities
 fumarates
