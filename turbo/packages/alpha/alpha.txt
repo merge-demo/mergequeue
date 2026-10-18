@@ -2246,7 +2246,7 @@ achromatosis
 acyrological
 achromoderma
 abovesaid
-amygdalolith
+amygdalolith 1
 articulability
 allows
 achronism
