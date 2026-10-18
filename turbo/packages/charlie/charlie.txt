@@ -13308,7 +13308,7 @@ cyclopteridae
 centerwise
 cyclopteroid
 compactification
-czarist
+czarist 1
 cyclorama
 cataloging
 cycloramic
