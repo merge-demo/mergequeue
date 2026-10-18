@@ -8144,7 +8144,7 @@ beedged
 banishes
 buffalos
 byeman
-ballote
+ballote 1
 bluntie
 bienly
 boyism
