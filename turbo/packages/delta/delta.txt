@@ -12379,7 +12379,7 @@ deplantation
 drybrush
 degressive
 desecate
-disheriting
+disheriting 1
 deforms
 declivate
 dishevelled
