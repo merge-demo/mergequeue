@@ -3924,7 +3924,7 @@ derivationally
 drisheen
 douser
 duopoly
-disleal
+disleal 1
 diaphemetric
 deyship
 demagnification
