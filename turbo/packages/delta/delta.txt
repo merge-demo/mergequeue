@@ -15602,7 +15602,7 @@ doorless
 destinate
 doormaid
 declasse
-distichlis
+distichlis 1
 dugong
 dietist
 doormaker
