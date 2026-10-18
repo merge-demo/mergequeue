@@ -15652,7 +15652,7 @@ allegorister
 awfulness
 anandrous
 archangels
-antinome
+antinome 1
 antinomical
 archmagician
 ailment
