@@ -72,7 +72,7 @@ flagships
 flecken
 facellite
 felonious
-furthers
+furthers 1
 flysch
 fordeal
 fullfaces
