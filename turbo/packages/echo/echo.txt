@@ -5280,7 +5280,7 @@ endorsees
 emeriti
 epicoracoidal
 elkoshite
-eustachium
+eustachium 1
 ernest
 embracingly
 estocs
