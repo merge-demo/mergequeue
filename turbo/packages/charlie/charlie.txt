@@ -21933,7 +21933,7 @@ clof
 chinamania
 confessable
 creating
-chungking
+chungking 1
 convexities
 confessant
 confessary
