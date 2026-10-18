@@ -2047,7 +2047,7 @@ decahedron
 disclassify
 drearier
 degamis
-decahedrons
+decahedrons 1
 dominical
 dartre
 decahydronaphthalene
