@@ -2965,7 +2965,7 @@ diaphanotype
 describers
 deductio
 deductions
-dwarfism
+dwarfism 1
 distrainment
 deductive
 deductory
