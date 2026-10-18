@@ -2727,7 +2727,7 @@ gauntry
 gripeful
 gorlois
 grenades
-geodesists
+geodesists 1
 gristmiller
 gliadins
 guillotine
