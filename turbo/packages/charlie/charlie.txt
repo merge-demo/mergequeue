@@ -14315,7 +14315,7 @@ circumsolar
 collow
 cocciferous
 circumspangle
-caudal
+caudal 1
 crambid
 crystalwort
 calorific
