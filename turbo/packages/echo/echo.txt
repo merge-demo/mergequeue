@@ -11905,7 +11905,7 @@ enragement
 expurgation
 ephidrosis
 eustatically
-excerebration
+excerebration 1
 extraphysical
 eudaemonistically
 excursory
