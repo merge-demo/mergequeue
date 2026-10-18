@@ -12772,7 +12772,7 @@ eminent
 epidendric
 exostosis
 exarchist
-exostra
+exostra 1
 ebullition
 engraves
 elementary
