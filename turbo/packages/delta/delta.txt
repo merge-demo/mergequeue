@@ -10341,7 +10341,7 @@ departures
 detenant
 diospyraceous
 doubletone
-deforming
+deforming 1
 daisee
 debonairly
 dyotheletical
