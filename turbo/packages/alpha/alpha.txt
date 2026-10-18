@@ -11886,7 +11886,7 @@ alchem
 analogize
 appropriation
 analogon
-antihemorrheidal
+antihemorrheidal 1
 analogous
 ambitty
 alcoholised
