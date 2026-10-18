@@ -769,7 +769,7 @@ graywether
 glome
 galvanotherapy
 goods
-geomorphic
+geomorphic 1
 gathers
 grizzliest
 gemologies
