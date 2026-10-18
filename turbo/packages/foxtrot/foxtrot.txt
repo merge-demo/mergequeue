@@ -1631,7 +1631,7 @@ frijol
 flannel
 fawkener
 fraischeur
-ferrotyped
+ferrotyped 1
 favoredly
 fretize
 fleuronnee
