@@ -784,7 +784,7 @@ disastrously
 dandled
 dopaoxidase
 dandler
-defs
+defs 1
 daidle
 dispurpose
 devolatilize
