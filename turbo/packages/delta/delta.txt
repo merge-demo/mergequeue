@@ -11478,7 +11478,7 @@ drachen
 discomfort
 dewaterer
 demarch
-delies
+delies 1
 dismounts
 derivationist
 deuteropathic
