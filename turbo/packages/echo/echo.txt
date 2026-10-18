@@ -4973,7 +4973,7 @@ exiguous
 endship
 essentia
 exul
-ektenes
+ektenes 1
 effuses
 evacuator
 enschedule
