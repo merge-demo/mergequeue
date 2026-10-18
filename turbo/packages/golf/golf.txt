@@ -1887,7 +1887,7 @@ gonadotrophic
 globulet
 gymnasts
 givers
-glottologic
+glottologic 1
 gunboat
 ganglia
 gulped
