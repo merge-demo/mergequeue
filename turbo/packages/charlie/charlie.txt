@@ -10198,7 +10198,7 @@ chuvash
 coulis
 chias
 cheesecakes
-chiasma
+chiasma 1
 cotesian
 chloasmata
 camacan
