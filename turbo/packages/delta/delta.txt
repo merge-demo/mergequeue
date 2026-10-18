@@ -10882,7 +10882,7 @@ disabled
 doorplates
 defrayer
 deterges
-demersion
+demersion 1
 divulgement
 diapensiaceous
 dioeciodimorphous
