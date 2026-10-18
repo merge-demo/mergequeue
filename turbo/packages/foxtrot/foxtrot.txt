@@ -6659,7 +6659,7 @@ filt
 frontad
 felonous
 figurism
-foeti
+foeti 1
 fumigatory
 fica
 ferbams
