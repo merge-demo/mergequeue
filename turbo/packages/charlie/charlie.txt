@@ -6771,7 +6771,7 @@ celestite
 celestitude
 clivias
 celiadelphus
-celibacy
+celibacy 1
 costard
 celibatic
 conducent
