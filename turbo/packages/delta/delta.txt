@@ -2792,7 +2792,7 @@ desmogen
 dugal
 dop
 dorsalward
-decremeter
+decremeter 1
 dicyemida
 demarches
 degass
