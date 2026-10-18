@@ -1670,7 +1670,7 @@ acriflavine
 accueil
 acculturated
 acculturates
-astr
+astr 1
 anorganic
 alkalimeter
 arank
