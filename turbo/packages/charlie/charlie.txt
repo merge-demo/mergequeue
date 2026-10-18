@@ -15872,7 +15872,7 @@ cassinese
 chesterfields
 chronomancy
 cleft
-confer
+confer 1
 cleidagra
 calms
 chamal
