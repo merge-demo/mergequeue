@@ -4983,7 +4983,7 @@ gurgoyl
 gastrelcosis
 ginger
 grisliest
-glamoured
+glamoured 1
 gibbergunyah
 germanic
 greatmouthed
