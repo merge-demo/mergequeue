@@ -262,7 +262,7 @@ eightsmen
 electrostatic
 enring
 electroplated
-expiries
+expiries 1
 easterling
 exhumers
 epigoneion
