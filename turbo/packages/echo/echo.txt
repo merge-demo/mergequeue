@@ -7255,7 +7255,7 @@ ectozoon
 eosate
 endurableness
 effigial
-eosinic
+eosinic 1
 ergatogynous
 enolizable
 eulogize
