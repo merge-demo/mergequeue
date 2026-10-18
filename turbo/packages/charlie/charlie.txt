@@ -28291,7 +28291,7 @@ crassly
 crassulaceae
 crataeva
 champlain
-curtnesses
+curtnesses 1
 cratchins
 crate
 crateman
