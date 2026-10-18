@@ -2313,7 +2313,7 @@ errorful
 escalate
 encrypting
 eyras
-elfkin
+elfkin 1
 entirely
 exradius
 embraceries
