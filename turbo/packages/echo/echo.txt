@@ -8586,7 +8586,7 @@ enharmonic
 earnings
 equibalanced
 electrodialitic
-equicontinuous
+equicontinuous 1
 engagements
 establishing
 eyebar
