@@ -14136,7 +14136,7 @@ emulates
 enlard
 entocuneiform
 evaporometer
-excussion
+excussion 1
 endearment
 entrails
 epitaphic
