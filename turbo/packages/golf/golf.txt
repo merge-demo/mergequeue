@@ -991,7 +991,7 @@ geanticline
 gubernia
 gemmed
 grumblingly
-gabgab
+gabgab 1
 generously
 glissette
 glossed
