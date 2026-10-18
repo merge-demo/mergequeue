@@ -84,7 +84,7 @@ faces
 folkright
 flattening
 funny
-fiendish
+fiendish 1
 flagrantness
 funambulating
 facetely
