@@ -2889,7 +2889,7 @@ floorcloth
 find
 febricide
 fimbricate
-featuring
+featuring 1
 feudalists
 fractionising
 freetrader
