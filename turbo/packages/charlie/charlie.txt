@@ -1680,7 +1680,7 @@ cestoi
 counterdiscipline
 calorifical
 communique
-chairs
+chairs 1
 calorification
 cardiograph
 calappa
