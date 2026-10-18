@@ -4070,7 +4070,7 @@ anestri 1
 admissive
 astriferous
 automan
-abstriction
+abstriction 1
 astrophotometrical
 amaracus
 acromion
