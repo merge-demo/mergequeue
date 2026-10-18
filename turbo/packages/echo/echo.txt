@@ -4919,7 +4919,7 @@ exencephalic
 ectocoelic
 eyelight
 emporetic
-eurytomid
+eurytomid 1
 emulsifiers
 ennomic
 ephemerally
