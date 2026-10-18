@@ -1250,7 +1250,7 @@ acarine
 awaiters
 acarines
 adenodermia
-achromasia
+achromasia 1
 alacritous
 anucleate
 acontias
