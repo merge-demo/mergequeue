@@ -1952,7 +1952,7 @@ gnomonical
 gimbal
 geology
 geranic
-gweduck
+gweduck 1
 goring
 grubroot
 glut
