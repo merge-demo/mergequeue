@@ -3392,7 +3392,7 @@ embarkations
 euconic
 epitomize
 eucharistized
-embarkment
+embarkment 1
 embarks
 equipage
 embosked
