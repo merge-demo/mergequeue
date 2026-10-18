@@ -11741,7 +11741,7 @@ discrepated
 dioptometry
 diskless
 discrepation
-dullardism
+dullardism 1
 dehydrogenize
 drawplate
 dexamethasone
