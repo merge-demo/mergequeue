@@ -3751,7 +3751,7 @@ dehorns
 decaudate
 doughlike
 depolarized
-dehorted
+dehorted 1
 damaskine
 defatigate
 dehorting
