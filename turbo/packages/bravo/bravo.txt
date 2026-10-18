@@ -8582,7 +8582,7 @@ braggartism
 brethel
 beldames
 bookable
-brightsomeness
+brightsomeness 1
 bowling
 blechnum
 basigenic
