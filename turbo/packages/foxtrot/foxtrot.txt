@@ -4003,7 +4003,7 @@ frontlessness
 formability
 forechoose
 furcula
-friese
+friese 1
 flattish
 fireplace
 forfeited
