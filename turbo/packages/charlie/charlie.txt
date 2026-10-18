@@ -27604,7 +27604,7 @@ caterwauled
 covillager
 covine
 clinquant
-campanistic
+campanistic 1
 chivvies
 censes
 coving
