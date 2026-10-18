@@ -29143,7 +29143,7 @@ cryobiologist
 criobolium
 courtman
 counterpuncher
-credit
+credit 1
 coelacanthini
 cacodorous
 crioceras
