@@ -6661,7 +6661,7 @@ enhalo
 eutychianism
 enchelycephali
 enterosepsis
-enterotome
+enterotome 1
 encharged
 enright
 enterotoxemia
