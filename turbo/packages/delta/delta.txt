@@ -9445,7 +9445,7 @@ digeneous
 decubitus
 dissert
 digenetic
-digenetica
+digenetica 1
 digue
 diplanetism
 daydreamers
