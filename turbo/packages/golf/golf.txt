@@ -7385,7 +7385,7 @@ gardenful
 gossipped
 gallberry
 glochidial
-gossips
+gossips 1
 glomerule
 gilthead
 glyptograph
