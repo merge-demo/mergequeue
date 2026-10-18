@@ -2110,7 +2110,7 @@ girdlelike
 gen
 glumiferous
 gourounut
-galla
+galla 1
 gaudete
 grandam
 garon
