@@ -11934,7 +11934,7 @@ axoplasms
 autoantitoxin
 arylated
 addable
-ananym
+ananym 1
 ananism
 ananite
 anelace
