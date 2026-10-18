@@ -10585,7 +10585,7 @@ dosimetrist
 doleritic
 dronkelew
 drudger
-decremental
+decremental 1
 deben
 decolorizing
 diplomates
