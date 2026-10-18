@@ -5158,7 +5158,7 @@ deices
 defer
 daughterlike
 deading
-densitometric
+densitometric 1
 deniably
 denial
 dentinoid
