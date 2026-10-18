@@ -6739,7 +6739,7 @@ extrinsical
 elaborator
 entrechat
 epitomic
-endoceratitic
+endoceratitic 1
 enthusiastically
 exculpated
 enthusiastly
