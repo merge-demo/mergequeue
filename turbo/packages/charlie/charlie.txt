@@ -5010,7 +5010,7 @@ couchantly
 cartwheeler
 consolan
 canopic
-conformant
+conformant 1
 czarowitz
 cartwhip
 carucage
