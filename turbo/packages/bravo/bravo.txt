@@ -2617,7 +2617,7 @@ barytophyllite
 blawed
 brushproof
 bridgelike
-bluestocking
+bluestocking 1
 betterments
 barkcutter
 balsameaceous
