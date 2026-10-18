@@ -14384,7 +14384,7 @@ circumvolved
 circulatable
 circumzenithal
 climb
-crosses
+crosses 1
 circus
 circusy
 correspondents
