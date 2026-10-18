@@ -1557,7 +1557,7 @@ gassing
 gismos
 globicephala
 gymnura
-gauntlet
+gauntlet 1
 gutteral
 gulanganes
 gunlock
