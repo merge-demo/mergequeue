@@ -15015,7 +15015,7 @@ diphthongising
 disrout
 durnedest
 decided
-deformer
+deformer 1
 doggerelling
 deposals
 dioptrics
