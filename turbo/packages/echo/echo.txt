@@ -10107,7 +10107,7 @@ epiboly
 etherealization
 extrusible
 electrochemistry
-endorses
+endorses 1
 ethereally
 emprosthotonos
 etherealness
