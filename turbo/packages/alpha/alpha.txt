@@ -15802,7 +15802,7 @@ aviolite
 amidic
 agriotype
 antiphylloxeric
-amphibiotica
+amphibiotica 1
 acarpellous
 arist
 arthrempyesis
