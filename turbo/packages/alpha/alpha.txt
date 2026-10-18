@@ -3942,7 +3942,7 @@ adjunctly
 analogia
 admissory
 anteporch
-adjured
+adjured 1
 amygdalotome
 aristotelism
 absconding
