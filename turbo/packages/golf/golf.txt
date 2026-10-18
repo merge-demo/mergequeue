@@ -5799,7 +5799,7 @@ galactosemic
 gnatworm
 genre
 genupectoral
-goniometer
+goniometer 1
 globoid
 geobotanically
 garblers
