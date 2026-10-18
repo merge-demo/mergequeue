@@ -10670,7 +10670,7 @@ chymics
 calic
 chymify
 cobnuts
-confide
+confide 1
 cholinesterase
 chiminage
 chimla
