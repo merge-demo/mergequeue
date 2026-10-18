@@ -8334,7 +8334,7 @@ decapodous
 droopingness
 decurvature 1
 diplois
-dyne
+dyne 1
 dejerate
 dargue
 daemonies
