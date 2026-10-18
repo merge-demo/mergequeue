@@ -17122,7 +17122,7 @@ coadjutors
 carduus
 coadjutorship
 coadjutress
-coadjutrix
+coadjutrix 1
 coadjuvate
 chartology
 crasser
