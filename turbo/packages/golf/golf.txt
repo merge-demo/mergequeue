@@ -6166,7 +6166,7 @@ grammar
 gowiddie
 goblinry
 generalizing
-gyre
+gyre 1
 grommet
 gadfly
 geelbec
