@@ -17942,7 +17942,7 @@ cystonephrosis
 coelection
 coelector
 coreless
-cloacean
+cloacean 1
 chololith
 captiving
 colpocele
