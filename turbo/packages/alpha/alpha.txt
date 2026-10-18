@@ -2055,7 +2055,7 @@ achatinidae
 adjuncts
 architectonic
 absorbing
-ache
+ache 1
 alkalinising
 appetites
 artemisin
