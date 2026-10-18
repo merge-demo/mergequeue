@@ -2047,7 +2047,7 @@ fluoridation
 flosses
 forelook
 frogling
-feigns 1
+feigns 2
 fidleys
 flitch
 farouche
