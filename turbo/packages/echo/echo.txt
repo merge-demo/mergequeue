@@ -1060,7 +1060,7 @@ edged
 eidolon
 edger
 edgeway
-epigaster
+epigaster 1
 embalmment
 ephrathite
 exterritorial
