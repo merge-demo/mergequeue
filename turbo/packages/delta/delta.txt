@@ -1150,7 +1150,7 @@ demonstrative
 detick
 digitogenin
 dasypus
-defencelessly
+defencelessly 1
 duxelles
 dispersively
 daimios
