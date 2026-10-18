@@ -26946,7 +26946,7 @@ conflictingly
 counterman
 carles
 countermand
-countermandable
+countermandable 1
 craniological
 contemner
 cushioniness
