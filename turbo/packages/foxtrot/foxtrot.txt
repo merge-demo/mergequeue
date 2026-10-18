@@ -10162,7 +10162,7 @@ fiber
 falcer
 friulian
 fibroadenia
-frizzy
+frizzy 1
 fastings
 fleishig
 formalism
