@@ -2487,7 +2487,7 @@ fris
 flea
 fibrinoid
 fry
-fernyear
+fernyear 1
 funs
 fernshaw
 fordo
