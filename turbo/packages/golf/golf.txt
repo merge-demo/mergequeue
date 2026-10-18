@@ -5926,7 +5926,7 @@ gambirs
 glamourizer
 goclenian
 guttlers
-gluepot
+gluepot 1
 garrison
 gemitorial
 globuliform
