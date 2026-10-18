@@ -18647,7 +18647,7 @@ denarii
 dipaschal
 dummyism
 dutymonger
-deactivations
+deactivations 1
 disalignment
 decury
 definiteness
