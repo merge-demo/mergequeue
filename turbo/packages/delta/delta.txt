@@ -1050,7 +1050,7 @@ diacodium
 disobliging
 dutra
 darner
-darners
+darners 1
 darning
 dewooled
 dimeters
