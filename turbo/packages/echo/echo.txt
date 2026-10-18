@@ -12627,7 +12627,7 @@ expunges
 exornate
 exogenetic
 enkolpion
-exometritis
+exometritis 1
 excogitate
 endeavors
 emotionless
