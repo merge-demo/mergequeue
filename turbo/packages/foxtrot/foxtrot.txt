@@ -172,7 +172,7 @@ fabulous
 fwd
 fourquine
 factiously
-floristics
+floristics 1
 fuddling
 forthought
 feather
