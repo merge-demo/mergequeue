@@ -9509,7 +9509,7 @@ fattrels
 faithworthy
 frontways
 footling
-finiteness
+finiteness 1
 finiglacial
 fiador
 flavonol
