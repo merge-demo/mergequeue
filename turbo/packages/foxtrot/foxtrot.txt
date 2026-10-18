@@ -9183,7 +9183,7 @@ fascinations
 foveoles
 footled
 fries
-fragileness
+fragileness 1
 forenames
 forbarred
 foreknown
