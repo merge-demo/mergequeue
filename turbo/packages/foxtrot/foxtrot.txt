@@ -10224,7 +10224,7 @@ fruticant
 fadedness
 flakers
 franchisee
-fluxmeter
+fluxmeter 1
 finickingness
 flaxy
 frust
