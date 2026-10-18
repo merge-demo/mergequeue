@@ -4489,7 +4489,7 @@ cavorters
 communalised
 carmagnole
 carmaker
-circumscriptions
+circumscriptions 1
 call
 carmalum
 carmanians
