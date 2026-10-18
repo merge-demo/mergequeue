@@ -6185,7 +6185,7 @@ goal
 griffithite
 galactophore
 gawney
-goniatite
+goniatite 1
 gigantolite
 gunmanship
 goyin
