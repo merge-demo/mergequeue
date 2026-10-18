@@ -11449,7 +11449,7 @@ dar
 doest
 defalcations
 deads
-drivellers
+drivellers 1
 discolorment
 discolouring
 discolourization
