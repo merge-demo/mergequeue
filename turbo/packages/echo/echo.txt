@@ -4423,7 +4423,7 @@ encarnalised
 encarnalize
 enteropneust
 esguard
-egghot
+egghot 1
 extermine
 effervesces
 echards
