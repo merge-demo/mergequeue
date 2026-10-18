@@ -5655,7 +5655,7 @@ coucher
 cosmetology
 cataphracted
 cataphrenia
-crook
+crook 1
 cataphrenic
 choraleon
 cataphrygian
