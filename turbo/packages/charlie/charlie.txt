@@ -11484,7 +11484,7 @@ choirmasters
 cornaceous
 charthouse
 climature
-classmen
+classmen 1
 calumnies
 costless
 chokage
