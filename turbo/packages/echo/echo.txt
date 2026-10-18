@@ -13624,7 +13624,7 @@ expurgates
 empedoclean
 effossion
 epsilon
-eremurus
+eremurus 1
 emamelware
 epitaph
 extending
