@@ -10087,7 +10087,7 @@ glycosidic
 gullage
 gauntest
 graecize
-gainings
+gainings 1
 gymnoglossate
 guavina
 guesser
