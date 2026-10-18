@@ -11539,7 +11539,7 @@ ess
 electuaries
 extypal
 extraburghal
-elenchus
+elenchus 1
 encodement
 epiblastema
 embrittled
