@@ -2692,7 +2692,7 @@ circumnavigations
 chokestrap
 clingfish
 canker
-cankerberry
+cankerberry 1
 cankerbird
 chaperone
 carriable
