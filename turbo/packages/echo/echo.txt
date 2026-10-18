@@ -6718,7 +6718,7 @@ esparcet
 exsuperate
 exophoria
 exhilarate
-enthral
+enthral 1
 eschewers
 enthralldom
 exurb
