@@ -10491,7 +10491,7 @@ gramenite
 gouldian
 gregal
 gluiest
-gimballed
+gimballed 1
 geyserite
 grandmas
 gaggers
