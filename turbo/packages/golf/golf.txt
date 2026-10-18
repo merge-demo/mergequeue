@@ -2869,7 +2869,7 @@ gynospore
 gyromitra
 gatchwork
 gedunk
-geobotanic
+geobotanic 1
 grievants
 gustation
 gradualism
