@@ -5512,7 +5512,7 @@ fossed
 fretwork
 fratching
 foraged
-fleshy
+fleshy 1
 fillet
 ferally
 fettuccine
