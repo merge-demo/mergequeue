@@ -11998,7 +11998,7 @@ belladonna
 becker
 bay
 braula
-bidigitate
+bidigitate 1
 bromeliad
 babysitting
 bunkhouse
