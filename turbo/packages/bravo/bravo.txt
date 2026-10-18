@@ -3353,7 +3353,7 @@ backspread
 bran
 boller
 bronchobuster
-basoid
+basoid 1
 baraithas
 beltine
 banus
