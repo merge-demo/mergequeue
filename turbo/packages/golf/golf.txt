@@ -4857,7 +4857,7 @@ gunnysack
 gablatores
 gunnen
 gaff
-geopolar
+geopolar 1
 guttersnipe
 guessed
 gorgonizing
