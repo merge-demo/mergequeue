@@ -8431,7 +8431,7 @@ berbery
 bootjack
 bouteloua
 bals
-bosonic
+bosonic 1
 biforked
 bilgeway
 bilharzial
