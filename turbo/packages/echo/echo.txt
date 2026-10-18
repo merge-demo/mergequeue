@@ -5435,7 +5435,7 @@ electuary
 eurithermophile
 emplastrum
 equivocates
-etatist
+etatist 1
 epidia
 enthralment
 excrescential
