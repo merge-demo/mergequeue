@@ -15409,7 +15409,7 @@ brigantia
 brigantines
 brigatry
 brigetty
-beliquoring
+beliquoring 1
 buglewort
 bekick
 burgensic
