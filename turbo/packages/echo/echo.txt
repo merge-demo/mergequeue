@@ -6304,7 +6304,7 @@ elastica
 emmenagogue
 elenchtic
 ensanguine
-enlargingly
+enlargingly 1
 eradiated
 emporium
 exanthemas
