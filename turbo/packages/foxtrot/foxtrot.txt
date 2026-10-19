@@ -3461,7 +3461,7 @@ forswearer
 flaccidly
 figgiest
 fraternisation
-fecundity
+fecundity 1
 fleeches
 fingerable
 foreseason
