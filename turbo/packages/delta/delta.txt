@@ -15915,7 +15915,7 @@ dewaxes
 daydream
 dotages
 doubleword
-darned
+darned 1
 duddle
 disesteemed
 diesis
