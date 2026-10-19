@@ -12196,7 +12196,7 @@ deviators
 dysfunctions
 disfurnish
 deport
-disfurnished
+disfurnished 1
 dangerless
 deathshot
 dervishes
