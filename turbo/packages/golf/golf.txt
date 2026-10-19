@@ -2858,7 +2858,7 @@ gileadite
 galvvanoscopy
 gumlah
 gummosity
-genuflex
+genuflex 1
 glyptal
 gynaeceum
 groggier
