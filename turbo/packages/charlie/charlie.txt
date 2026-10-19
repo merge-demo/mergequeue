@@ -2085,7 +2085,7 @@ campaniliform
 chicayote
 campanini
 casseroled
-cuecas
+cuecas 1
 campanologer
 crucis
 croaker
