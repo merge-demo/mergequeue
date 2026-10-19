@@ -10392,7 +10392,7 @@ exposit
 ecb
 emeute
 ectocranial
-excruciator
+excruciator 1
 ensuite
 endemiological
 extranational
