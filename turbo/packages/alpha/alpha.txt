@@ -23238,7 +23238,7 @@ attingent
 anisognathous
 aggro
 autosuggestions
-apple
+apple 1
 adaptors
 apophasis
 attitudinised
