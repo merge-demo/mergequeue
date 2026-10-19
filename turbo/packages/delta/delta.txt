@@ -17898,7 +17898,7 @@ dayflowers
 docible
 duelling
 duellist
-diplomata
+diplomata 1
 disgrace
 disburser
 deterministically
