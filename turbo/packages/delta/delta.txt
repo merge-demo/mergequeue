@@ -17655,7 +17655,7 @@ duadic
 demilitarise
 difluence
 duads
-dentalmen
+dentalmen 1
 disembarked
 dygogram
 diversifies
