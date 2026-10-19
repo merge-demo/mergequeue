@@ -11391,7 +11391,7 @@ fluoroformol
 frontirostria
 forgiveably
 footballer
-flushness
+flushness 1
 fourposter
 farceuse
 fatality
