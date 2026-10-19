@@ -6080,7 +6080,7 @@ catling
 catlings
 cairds
 catlins
-craftsperson
+craftsperson 1
 cryptoporticus
 canephroi
 cantharidizing
