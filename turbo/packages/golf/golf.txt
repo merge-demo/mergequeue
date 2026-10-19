@@ -6237,7 +6237,7 @@ gregor
 garrisoned
 gastrimargy
 guillotinade
-gamopetalae
+gamopetalae 1
 gp
 galactophagist
 globetrotters
