@@ -10044,7 +10044,7 @@ gammation
 gargoyles
 gnathonic
 greasing 1
-granitoidal
+granitoidal 1
 geostatics
 gisler
 guerdoner
