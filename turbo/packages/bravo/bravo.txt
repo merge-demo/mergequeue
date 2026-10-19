@@ -543,7 +543,7 @@ bayok
 blasthole
 bafflingness
 barometrical
-bioscope
+bioscope 1
 backvelder
 blastodermic
 baufrey
