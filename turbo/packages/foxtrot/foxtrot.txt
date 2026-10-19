@@ -8082,7 +8082,7 @@ fingersmith
 funkiest
 fundi
 furify
-foreswore
+foreswore 1
 flavouring
 feeble
 flasklet
