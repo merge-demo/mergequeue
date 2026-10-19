@@ -3188,7 +3188,7 @@ bilabial
 baptisin
 bataleur
 bashmuric
-biperforate
+biperforate 1
 barbecue
 busine
 berserk
