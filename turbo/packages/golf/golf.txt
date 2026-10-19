@@ -6305,7 +6305,7 @@ gullable
 gasogenes
 gobiid
 granadilla
-groupable
+groupable 1
 gnashed
 gobinism
 gasoliers
