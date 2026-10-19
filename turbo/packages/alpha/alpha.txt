@@ -7670,7 +7670,7 @@ astrohatch
 absorbencies
 alcyonium
 abreaction
-amplidyne
+amplidyne 1
 airplaned
 antefurca
 actual
