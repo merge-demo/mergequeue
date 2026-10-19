@@ -7540,7 +7540,7 @@ five 1
 filemaking
 ferroboron
 forespake
-fallacious
+fallacious 1
 foreboder
 fungivorous
 fuzils
