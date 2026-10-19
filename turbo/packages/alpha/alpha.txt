@@ -10777,7 +10777,7 @@ asterisked
 amissible
 amissing
 amita
-apartmental
+apartmental 1
 adherends
 aplanatically
 arthroses
