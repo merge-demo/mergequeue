@@ -4861,7 +4861,7 @@ excludible
 explete
 enjamb
 encroachments
-exsect
+exsect 1
 epitaxic
 encrustation
 elepaio
