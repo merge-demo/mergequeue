@@ -15044,7 +15044,7 @@ doggle
 drownings
 doggo
 distinguisher
-deescalations
+deescalations 1
 dehors
 determinable
 doggonest
