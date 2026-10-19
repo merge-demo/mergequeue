@@ -28949,7 +28949,7 @@ cribworks
 cardinalate
 convocated
 cricetidae
-chrysal
+chrysal 1
 chaityas
 curtseyed
 crancelin
