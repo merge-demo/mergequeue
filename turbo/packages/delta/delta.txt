@@ -3480,7 +3480,7 @@ defoliations
 descending
 disjunct
 dispendiously
-debilitant
+debilitant 1
 decelerating
 decompressed
 deflator
