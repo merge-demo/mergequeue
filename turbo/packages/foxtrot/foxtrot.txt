@@ -8998,7 +8998,7 @@ fistle
 fragile
 furiously
 frotting
-fregatidae
+fregatidae 1
 freelances
 fooder
 fissiparity
