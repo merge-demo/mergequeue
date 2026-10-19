@@ -19066,7 +19066,7 @@ antipersonnel
 archostegnosis
 archipelagoes
 availingly
-ammocoete
+ammocoete 1
 aleurone
 archoverseer
 anana
