@@ -10072,7 +10072,7 @@ ephemeralness
 excretion
 ensepulcher
 ersatz
-exode
+exode 1
 endoparasitism
 epinglette
 escharine
