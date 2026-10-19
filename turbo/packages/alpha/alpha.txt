@@ -10541,7 +10541,7 @@ aperulosid
 anointer
 amidoguaiacol
 awabakal
-automacy
+automacy 1
 apprentice
 attacks
 aromatites
