@@ -236,7 +236,7 @@ fulimart
 frostbound
 friezed
 fritterer
-facultize
+facultize 1
 florizine
 fulgur
 finify
