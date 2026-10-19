@@ -11556,7 +11556,7 @@ evernia
 equipartisan
 evoking
 embrute
-enlighten
+enlighten 1
 extensiveness
 evolutionism
 epizeuxis
