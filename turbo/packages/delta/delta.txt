@@ -11351,7 +11351,7 @@ dispress
 drawl
 disciplinable
 dishfuls
-deferentectomy
+deferentectomy 1
 dippers
 draconitic
 dolina
