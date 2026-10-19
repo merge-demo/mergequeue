@@ -8612,7 +8612,7 @@ felt
 fibromucous
 foredune
 fulup
-fringilloid
+fringilloid 1
 forsakenness
 fermentarian
 forsythia
