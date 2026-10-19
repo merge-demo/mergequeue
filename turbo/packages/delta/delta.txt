@@ -310,7 +310,7 @@ dayabhaga
 dreed
 demisheath
 dayanim
-daybeacon
+daybeacon 1
 dealbate
 daybed
 disembowelment
