@@ -7808,7 +7808,7 @@ croh
 cervicomuscular
 colures
 cholelithotripsy
-cribrous
+cribrous 1
 cervicothoracic
 cervicovesical
 cervinae
