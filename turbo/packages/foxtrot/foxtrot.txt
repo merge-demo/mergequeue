@@ -1991,7 +1991,7 @@ forbite
 formalistically
 forecaster
 fothergilla
-fancy
+fancy 1
 feebless
 fillock
 fernticle
