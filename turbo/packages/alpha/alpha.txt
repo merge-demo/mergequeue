@@ -19117,7 +19117,7 @@ arcticward
 allocute
 absorbant
 alkylamino
-alphanumeric
+alphanumeric 1
 archencephalic
 agritos
 actu
