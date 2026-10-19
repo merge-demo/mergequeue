@@ -10398,7 +10398,7 @@ endemiological
 extranational
 electrotheraputical
 ecblastpsis
-epileptical
+epileptical 1
 educators
 extusion
 echinate
