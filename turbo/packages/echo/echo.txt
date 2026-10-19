@@ -14134,7 +14134,7 @@ enseraph
 enplanement
 emulates
 enlard
-entocuneiform
+entocuneiform 1
 evaporometer
 excussion
 endearment
