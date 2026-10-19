@@ -5250,7 +5250,7 @@ etaerio
 excommunicated
 exactor
 entreatable
-educt
+educt 1
 embryotegae
 editors
 endopodite
