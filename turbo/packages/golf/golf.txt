@@ -7212,7 +7212,7 @@ gony
 greenthumbed
 give
 gerfalcon
-gynecol
+gynecol 1
 gorgosaurus
 galenism
 gorillalike
