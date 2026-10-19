@@ -7261,7 +7261,7 @@ generosity
 gribble
 gingernut
 gemination
-gorgoneion
+gorgoneion 1
 gromyl
 gutter
 gormand
