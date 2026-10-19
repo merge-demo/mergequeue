@@ -7412,7 +7412,7 @@ abomasusi
 autotractor
 atelostomia
 annulus
-amusiveness
+amusiveness 1
 aeronauts
 affinage
 antrum
