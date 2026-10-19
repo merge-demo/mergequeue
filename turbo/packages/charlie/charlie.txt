@@ -12018,7 +12018,7 @@ crisp
 countermachination
 crusca
 cordyl
-chockler
+chockler 1
 casal
 chorusmaster
 chorussed
