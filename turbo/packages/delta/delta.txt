@@ -5215,7 +5215,7 @@ dryopes
 distortedness
 denominate
 decadent
-desmosis
+desmosis 1
 declination
 declaimers
 denunciations
