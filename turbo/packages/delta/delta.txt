@@ -2646,7 +2646,7 @@ decolours
 decommission
 decommissioned
 discriminably
-dozers
+dozers 1
 dandyprat
 deepens
 decompensating
