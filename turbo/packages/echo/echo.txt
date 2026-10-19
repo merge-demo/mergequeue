@@ -2549,7 +2549,7 @@ electrometer
 exstrophy
 earthgrubber
 euphorbiaceous
-extremes
+extremes 1
 exploitatively
 enchanters
 etrogs
