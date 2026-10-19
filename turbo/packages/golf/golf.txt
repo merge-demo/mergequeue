@@ -2783,7 +2783,7 @@ gyro 1
 gramophonist
 gyne
 gershon
-guzzledom
+guzzledom 1
 gyges
 glovelike
 gazettal
