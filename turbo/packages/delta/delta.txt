@@ -9976,7 +9976,7 @@ dimmer
 defensor
 dasyatidae
 dimness
-decisiveness
+decisiveness 1
 dermatographism
 dysacousma
 disopinion

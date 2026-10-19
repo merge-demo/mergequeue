@@ -5382,7 +5382,7 @@ faverel
 figged
 fluoridise
 foredetermine
-flunkyistic
+flunkyistic 1
 forthset
 fleshliest
 fairtime
