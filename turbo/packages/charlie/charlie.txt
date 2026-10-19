@@ -19488,7 +19488,7 @@ crystallike
 crematoririums
 cisterna
 crociary
-corposant
+corposant 1
 colourist
 centure
 chilblain
