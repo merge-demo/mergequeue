@@ -313,7 +313,7 @@ foaming
 freethinker
 flexuosity
 fraternation
-feints
+feints 1
 feint
 fostell
 fibrillated
