@@ -10943,7 +10943,7 @@ francs
 firedamp
 fulminurate
 fulness
-fess
+fess 1
 fragmentised
 fulnesses
 flanconade
