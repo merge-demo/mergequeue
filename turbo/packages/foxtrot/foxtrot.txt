@@ -8836,7 +8836,7 @@ ferrotypes
 forebye
 facioscapulohumeral
 foreigners
-frenzily
+frenzily 1
 flashers
 fot
 florideous
