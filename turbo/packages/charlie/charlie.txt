@@ -30870,7 +30870,7 @@ capreoline
 cathop
 cosmologygy
 compar
-culpose
+culpose 1
 considerability
 cypselid
 culsdesac
