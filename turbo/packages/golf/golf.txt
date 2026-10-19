@@ -10800,7 +10800,7 @@ gadoidea
 geochronologic
 gynomonoecious
 gilbert
-gnomonics
+gnomonics 1
 glyptography
 granolite
 gestonie
