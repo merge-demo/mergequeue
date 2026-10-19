@@ -3883,7 +3883,7 @@ bedlamp
 bifidated
 breadline
 baxtone
-baumhauerite
+baumhauerite 1
 brachyskelic
 boughten
 begray
