@@ -5601,7 +5601,7 @@ floatable
 flatuous
 fiords
 flickermouse
-flannelmouthed
+flannelmouthed 1
 flowery
 furbearer
 froebelist
