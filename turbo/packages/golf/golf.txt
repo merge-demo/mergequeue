@@ -9950,7 +9950,7 @@ gumptions
 grilladed
 glycemic
 guarico
-gonidial
+gonidial 1
 graphostatic
 getaways
 grievousness
