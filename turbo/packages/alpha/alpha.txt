@@ -21814,7 +21814,7 @@ asserts
 assertum
 agricolous
 acanaceous
-asak
+asak 1
 affixation
 apparencies
 alloeotic
