@@ -17229,7 +17229,7 @@ drivership
 dmarche
 drives
 dredgings
-driveway
+driveway 1
 decrepitation 1
 dingoes
 deferrizing
