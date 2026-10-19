@@ -21789,7 +21789,7 @@ assertion
 androids
 actinologue
 avowter
-assertional
+assertional 1
 awninged
 appreciating
 assertively
