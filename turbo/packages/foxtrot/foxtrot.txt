@@ -11023,7 +11023,7 @@ falafel
 fumets
 fumiest
 fluoroscope
-frivolist
+frivolist 1
 fillets
 fierce
 flutidae
