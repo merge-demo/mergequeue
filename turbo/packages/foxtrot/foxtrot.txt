@@ -1520,7 +1520,7 @@ fanaticism
 froise
 foresend
 faulx
-flugelman
+flugelman 1
 focimeter
 faults
 focusers
