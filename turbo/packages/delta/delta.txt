@@ -9471,7 +9471,7 @@ digestible
 dite
 dielytra
 digestibleness
-digestibly
+digestibly 1
 delesseriaceae
 decline
 dinornithidae
