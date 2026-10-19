@@ -3845,7 +3845,7 @@ aequorin
 amphithuron
 acetabuliform
 adipinic
-antiphrasis
+antiphrasis 1
 autotransplant
 antiplethoric
 adipocellulose
