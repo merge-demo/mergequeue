@@ -11366,7 +11366,7 @@ apochae
 amphibian
 autoclasis
 attaste
-antipeptone
+antipeptone 1
 anticodon
 alloquy
 anticreeper
