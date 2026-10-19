@@ -16629,7 +16629,7 @@ compania
 confining
 cantref
 cloque
-cloques
+cloques 1
 cathodically
 cimaroon
 clewed
