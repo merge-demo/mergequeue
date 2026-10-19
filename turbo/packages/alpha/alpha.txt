@@ -21990,7 +21990,7 @@ abomination
 assuade
 astrologer
 alectoropodous
-anthropic
+anthropic 1
 antiphagocytic
 arterin
 aquameter
