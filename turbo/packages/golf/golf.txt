@@ -6969,7 +6969,7 @@ gastroepiploic
 geswarp
 gablewindowed
 galvanoplastical
-gwantus
+gwantus 1
 goofah
 guaiac
 greystone
