@@ -10605,7 +10605,7 @@ drawfile
 diphtheritic
 deceptivity
 diplonema
-deuteric
+deuteric 1
 detritus 1
 dunnaged
 delisting
