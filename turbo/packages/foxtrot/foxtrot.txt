@@ -2925,7 +2925,7 @@ fooleries
 flukiness
 freezed
 foxberries
-fac
+fac 1
 furloughs
 fungological
 froths
