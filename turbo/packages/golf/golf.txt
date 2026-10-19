@@ -3137,7 +3137,7 @@ gelechiidae
 guesswork
 geoscopy
 gordonia
-germanophobe
+germanophobe 1
 ghostship
 gnomon
 gutturalizing
