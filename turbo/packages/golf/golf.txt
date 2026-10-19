@@ -3678,7 +3678,7 @@ gory
 ghost
 genesic
 gamble
-gnathonism
+gnathonism 1
 glyceral
 gulist
 griphus
