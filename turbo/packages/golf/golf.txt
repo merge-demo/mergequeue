@@ -3447,7 +3447,7 @@ gymkhanas
 gretel
 gehey
 geodes
-gessoes
+gessoes 1
 gerrhosauridae
 gila
 gestalt
