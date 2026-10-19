@@ -8060,7 +8060,7 @@ gunzian
 gearman
 gleeking
 glycerose
-glassier
+glassier 1
 gratae
 granite
 gracy
