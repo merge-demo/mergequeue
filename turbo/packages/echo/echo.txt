@@ -4684,7 +4684,7 @@ epanaphora
 electroencephalographs
 egomania
 enmuffle
-entrammel
+entrammel 1
 economic
 enciphering
 extradited
