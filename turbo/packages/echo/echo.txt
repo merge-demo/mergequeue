@@ -9262,7 +9262,7 @@ endospermous
 enc
 entrapments
 egressing
-electra
+electra 1
 exonerative 1
 errants
 espinette
