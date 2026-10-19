@@ -11550,7 +11550,7 @@ cholecystectasia
 cholecystectomy
 clammier
 chimachima
-countermeasure
+countermeasure 1
 cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
