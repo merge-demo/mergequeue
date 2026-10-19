@@ -13496,7 +13496,7 @@ aob
 annexa
 attitudist
 annexation
-areaways
+areaways 1
 alette
 annexationism
 annexations
