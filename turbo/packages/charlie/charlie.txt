@@ -10596,7 +10596,7 @@ chilogrammo
 cubic
 contract
 conservatoire
-covings
+covings 1
 corybantic
 cosmopolis
 camise
