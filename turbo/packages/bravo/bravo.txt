@@ -7447,7 +7447,7 @@ bookstack
 budgeting
 balmier
 briards
-begnaw
+begnaw 1
 briefest
 breasted
 bongos
