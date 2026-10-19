@@ -11136,7 +11136,7 @@ earthdrake
 exophagous
 epaulet
 entity
-eadi
+eadi 1
 evacuated
 endeavored
 elephantic
