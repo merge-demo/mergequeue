@@ -5191,7 +5191,7 @@ denim
 demoness
 danceress
 dartoic
-debone
+debone 1
 dyings
 daemon
 decephalization
