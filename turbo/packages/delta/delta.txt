@@ -5230,7 +5230,7 @@ deafer
 denotatively
 dauerlauf
 dampens
-denotativeness
+denotativeness 1
 denotatum
 deacidifying
 denotes
