@@ -7901,7 +7901,7 @@ cebids
 chaetangium
 congregationally
 curdwort
-cratometric
+cratometric 1
 cetiosaurian
 cetology
 contumacities

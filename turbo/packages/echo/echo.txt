@@ -9285,7 +9285,7 @@ externalist
 exogamous
 enliveningly
 expositional
-entertains
+entertains 1
 euchologia
 eugeosynclinal
 epitaphize
