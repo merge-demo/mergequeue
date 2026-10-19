@@ -10861,7 +10861,7 @@ gweeon
 growlers
 girds
 geomagnetician
-gush
+gush 1
 gonidium
 gyri
 grozet
