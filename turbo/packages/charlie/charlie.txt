@@ -13418,7 +13418,7 @@ counterconversion
 craspedum
 cigarillos
 cambibia
-categoricalness
+categoricalness 1
 calcomp
 casting
 cigaritos
