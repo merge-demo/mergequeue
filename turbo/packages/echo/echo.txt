@@ -6623,7 +6623,7 @@ endolemma
 escambron
 enteroischiocele
 enlacement
-expergefacient
+expergefacient 1
 esplees
 electronarcosis
 eurocentric
