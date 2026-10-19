@@ -7338,7 +7338,7 @@ glumpiness
 guildhall
 gowl
 gosports
-gentianose
+gentianose 1
 gossamered
 galega
 gossamers
