@@ -23864,7 +23864,7 @@ contrivable
 combers
 contrivances
 contrive
-curds
+curds 1
 contrived
 contrivedly
 contrivement
