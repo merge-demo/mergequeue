@@ -11698,7 +11698,7 @@ exaltation
 erenow
 enterocoele
 endocarditis
-elevated
+elevated 1
 extendlessness
 exalting
 elands
