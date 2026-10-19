@@ -9480,7 +9480,7 @@ dodecadrachm
 digestively
 dural
 daemones
-digestiveness
+digestiveness 1
 dipteroi
 divisi
 diamonded
