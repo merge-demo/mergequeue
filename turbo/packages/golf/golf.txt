@@ -5929,7 +5929,7 @@ guttlers
 gluepot
 garrison
 gemitorial
-globuliform
+globuliform 1
 gaylussacia
 greathead
 gluishness
