@@ -8681,7 +8681,7 @@ fizzing
 filii
 fourness
 flaxseeds
-frightsome
+frightsome 1
 fogydom
 faith
 fortieth
