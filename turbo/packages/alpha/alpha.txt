@@ -19265,7 +19265,7 @@ areach
 attractions
 antitarnish
 amaranthus
-autotypes
+autotypes 1
 areal
 areasoner
 areca
