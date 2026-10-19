@@ -8695,7 +8695,7 @@ fortifiers
 falconiformes
 flaxwench
 fuzziness
-frumpish
+frumpish 1
 fosset
 fid
 frisette
