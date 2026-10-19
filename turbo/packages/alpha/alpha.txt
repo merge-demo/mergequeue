@@ -2728,7 +2728,7 @@ asteriae
 arak
 acritan
 acrite
-asthenobiosis
+asthenobiosis 1
 ameliorated
 astringent
 arthrobranchia
