@@ -9246,7 +9246,7 @@ fausant
 fishable
 fretwise
 fascinery
-frontispieced
+frontispieced 1
 fraktur
 fasciolet
 fresnel
