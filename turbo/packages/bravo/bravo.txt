@@ -10516,7 +10516,7 @@ blastoporal
 blastosphere
 balanus
 bromal
-belligerent
+belligerent 1
 blastula
 boswellia
 blastulation
