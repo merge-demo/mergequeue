@@ -23961,7 +23961,7 @@ convalescents
 convalesces
 convalescing
 convallaria
-chalazion
+chalazion 1
 consummately
 chammied
 constitutionalize
