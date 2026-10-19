@@ -5871,7 +5871,7 @@ engreaten
 evirtuate
 enocyte
 electrotyping
-ergotize
+ergotize 1
 entangledly
 elb
 edificing
