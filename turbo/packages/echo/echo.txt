@@ -2651,7 +2651,7 @@ epispadiac
 ectocornea
 expansum
 enthymematic
-evil
+evil 1
 exciples
 embiidina
 electrostriction
