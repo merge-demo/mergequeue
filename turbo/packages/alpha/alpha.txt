@@ -19760,7 +19760,7 @@ arythmical
 anteprandial
 allelopathy
 ascriptive
-arithmocratic
+arithmocratic 1
 arithmograph
 arithmography
 azulejos
