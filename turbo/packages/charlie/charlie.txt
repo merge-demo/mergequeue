@@ -15961,7 +15961,7 @@ clericality
 clericals
 chordaceous
 clericature
-cointension
+cointension 1
 colloquialize
 clericism
 conglomerator
