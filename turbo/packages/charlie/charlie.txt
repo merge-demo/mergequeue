@@ -11990,7 +11990,7 @@ cyanacetic
 chinless
 coronene
 choroidoretinitis
-choroids
+choroids 1
 commonplace
 chorology
 cylloses
