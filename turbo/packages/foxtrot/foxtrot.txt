@@ -4115,7 +4115,7 @@ finnicize
 foresightedness
 fenestellid
 frush
-fartherer
+fartherer 1
 felicitously
 ferd
 foresightless
