@@ -1555,7 +1555,7 @@ foreshift
 foetuses
 fauterer
 fauteuil
-fussy
+fussy 1
 foreteach
 farrow
 forepayment
