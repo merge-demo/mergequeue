@@ -4584,7 +4584,7 @@ euphemism
 endosarcode
 ethnolinguistics
 eeriest
-epicerastic
+epicerastic 1
 estradas
 ensigned
 earthtongue
