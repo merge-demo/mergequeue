@@ -10061,7 +10061,7 @@ fleeching
 fiercly
 fetalism
 fulfulde
-flammability
+flammability 1
 fellowed
 friskin
 frisking
