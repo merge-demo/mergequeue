@@ -18095,7 +18095,7 @@ aeonic
 adlet
 arrenotokous
 areolate
-apterial
+apterial 1
 apterygidae
 apterygiformes
 almsgiver
