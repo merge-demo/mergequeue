@@ -1739,7 +1739,7 @@ glycolipin
 germinance
 goodless
 golliwogs
-gallic
+gallic 1
 gofer
 grx
 guanine
