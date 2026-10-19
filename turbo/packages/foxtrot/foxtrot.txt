@@ -2552,7 +2552,7 @@ funduck
 ferryboat
 fatties
 fratery
-fitchews
+fitchews 1
 fibrocytic
 faithbreach
 fishpot
