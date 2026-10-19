@@ -4669,7 +4669,7 @@ fells
 ferrotungsten
 farced
 fulica
-flewit
+flewit 1
 floyd
 freety
 fullmouthed
