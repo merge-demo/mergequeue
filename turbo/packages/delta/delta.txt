@@ -4248,7 +4248,7 @@ dineros
 deltohedron
 drepanis
 dogvanes
-delubra
+delubra 1
 deluce
 delude
 dishonored
