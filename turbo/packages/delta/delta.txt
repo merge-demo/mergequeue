@@ -2205,7 +2205,7 @@ decartelize
 decatize
 doggeries
 decartelizing
-dowries
+dowries 1
 decasepalous
 diplograph
 dreich
