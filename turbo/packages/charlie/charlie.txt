@@ -9174,7 +9174,7 @@ chassepots
 chiarooscurist
 chasseurs
 creatine
-chassignite
+chassignite 1
 chastacosta
 chattel
 chaste
