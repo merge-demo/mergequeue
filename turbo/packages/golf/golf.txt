@@ -10103,7 +10103,7 @@ galactodensimeter
 gekkonoid
 gonfaloniership
 gossiped
-gasoscope
+gasoscope 1
 glumaceous
 glottid
 gazetteer
