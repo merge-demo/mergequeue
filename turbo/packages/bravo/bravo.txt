@@ -386,7 +386,7 @@ balkily
 brewery
 bryce
 brachypodous
-bovarist
+bovarist 1
 bashkir
 bossy
 borings
