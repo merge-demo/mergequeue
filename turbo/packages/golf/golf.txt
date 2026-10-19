@@ -8686,7 +8686,7 @@ gobmouthed
 gateado
 gritty
 gres 1
-gatch
+gatch 1
 gymnosoph
 garlands
 galerum
