@@ -9032,7 +9032,7 @@ fib
 frumentaceous
 flotsan
 flashbacks
-fatigued
+fatigued 1
 faineantism
 fix
 fractionalize 1
