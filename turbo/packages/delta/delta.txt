@@ -3499,7 +3499,7 @@ deform
 diasters
 doughmaker
 deformability
-disknow
+disknow 1
 distomum
 demographical
 deformable
