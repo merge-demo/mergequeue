@@ -4068,7 +4068,7 @@ glossator
 gimberjawed
 globigerina
 gilttail
-gibbosity
+gibbosity 1
 gentleman
 gratifications
 gibboseness
