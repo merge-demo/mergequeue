@@ -6854,7 +6854,7 @@ graphics
 gorbal
 guaranty
 gibbsites
-globosities
+globosities 1
 gluconokinase 1
 guardless
 gymsia
