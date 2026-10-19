@@ -7889,7 +7889,7 @@ dewdamp
 dapson
 dewdrop
 dewdropper
-dogteeth
+dogteeth 1
 drillet
 dooryard
 dewflower
