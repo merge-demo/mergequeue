@@ -1634,7 +1634,7 @@ goldarned
 gryphon
 grungiest
 gastrocoel
-gamuts
+gamuts 1
 gamelion
 gorkiesque
 grates
