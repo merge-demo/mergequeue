@@ -5183,7 +5183,7 @@ endolymphatic
 ectobatic
 electromagnetic
 eluviums
-exitus
+exitus 1
 elusive
 endolysin
 eparchy
