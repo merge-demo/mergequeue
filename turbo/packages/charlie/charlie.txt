@@ -19728,7 +19728,7 @@ chorepiscope
 cloots
 combinations
 corallike
-cells
+cells 1
 combinative
 counterrotating
 combinator
