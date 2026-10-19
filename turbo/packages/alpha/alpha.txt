@@ -20444,7 +20444,7 @@ artcraft
 antitypes
 acceptableness
 appeared
-adaptively
+adaptively 1
 argylls
 autosymnoia
 alme
