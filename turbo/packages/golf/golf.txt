@@ -10620,7 +10620,7 @@ guildite
 gunpoints
 gloomiest
 ghoul
-gunpower
+gunpower 1
 gentled
 gimmickry
 gunshop
