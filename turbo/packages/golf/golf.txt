@@ -5106,7 +5106,7 @@ grainsmen
 gloiosiphonia
 grenadine
 goldeneye
-gte
+gte 1
 glathsheimr
 ginnel
 gourmander
