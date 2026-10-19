@@ -4965,7 +4965,7 @@ goofballs
 growled
 glandered
 global
-genially
+genially 1
 gangliest
 gateage
 graunt
