@@ -461,7 +461,7 @@ escapements
 erf
 eunuchal
 eveners
-enanthesis
+enanthesis 1
 equilibrize
 expediteness
 evector
