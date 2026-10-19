@@ -12173,7 +12173,7 @@ dormie
 dodoisms
 disfranchises
 drosophilae
-depel
+depel 1
 dudgeon
 deride
 discoursiveness
