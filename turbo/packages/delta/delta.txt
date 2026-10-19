@@ -2311,7 +2311,7 @@ decream
 dishwash
 duchies
 dismounted
-diagraphs
+diagraphs 1
 dekaparsec
 dermatropic
 dactylioglyphic
