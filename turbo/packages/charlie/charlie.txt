@@ -4676,7 +4676,7 @@ coverture
 carousals
 cabmen
 coupleress
-carouse
+carouse 1
 caroused
 carousels
 carp

@@ -4924,7 +4924,7 @@ emulsifiers
 ennomic
 ephemerally
 endearedness
-endearingness
+endearingness 1
 exactive
 eglestonite
 ecliptics
