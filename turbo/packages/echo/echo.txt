@@ -10187,7 +10187,7 @@ executives
 ethernet
 enumerations
 exudate
-emancipation
+emancipation 1
 escrowed
 emmarbled
 enacting 1
