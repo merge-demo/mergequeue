@@ -4334,7 +4334,7 @@ enterodynia
 enamour
 enamouredness
 expostulator
-espouse
+espouse 1
 espichellite
 engulfed
 enamours
