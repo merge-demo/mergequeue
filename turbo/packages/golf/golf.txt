@@ -10691,7 +10691,7 @@ googol
 grippotoxin
 grayed
 gurk
-gellants
+gellants 1
 graphometry
 groundbird
 geostatic
