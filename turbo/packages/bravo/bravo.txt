@@ -37,7 +37,7 @@ berline
 babbittry
 biplosion
 bodleian
-begowned
+begowned 1
 brutalizes
 bracketwise
 babblers
