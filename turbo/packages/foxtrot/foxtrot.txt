@@ -10229,7 +10229,7 @@ finickingness
 flaxy
 frust
 fgrid
-fjarding
+fjarding 1
 firiness
 fishweed
 fennecs
