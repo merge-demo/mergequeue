@@ -6139,7 +6139,7 @@ entozoans 1
 epipleural
 eaved
 earlywood
-enmeshment
+enmeshment 1
 enrols
 easters
 enmity
