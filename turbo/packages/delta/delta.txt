@@ -3249,7 +3249,7 @@ downsizes
 drays
 defensibly
 defensively
-datiscetin
+datiscetin 1
 drakefly
 dudder
 deferrable
