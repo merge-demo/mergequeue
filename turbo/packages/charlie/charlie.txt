@@ -18184,7 +18184,7 @@ coptis
 cyanopia
 coessentiality
 centerless
-coessentially
+coessentially 1
 cervulus
 coetaneous
 coeternal
