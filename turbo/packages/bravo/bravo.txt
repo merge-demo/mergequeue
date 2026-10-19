@@ -3714,7 +3714,7 @@ bringall
 brucella
 barnstorms
 battler
-battleships
+battleships 1
 barrace
 blushiness
 battlesome
