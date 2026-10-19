@@ -3522,7 +3522,7 @@ broadax
 botchiest
 batete
 balotade
-blue
+blue 1
 batfishes
 biri
 batfowl
