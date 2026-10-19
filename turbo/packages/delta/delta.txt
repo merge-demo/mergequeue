@@ -10307,7 +10307,7 @@ desilverizer
 downtrends
 delightsomeness
 discophore
-dioptra
+dioptra 1
 depurative
 demove
 dioptric
