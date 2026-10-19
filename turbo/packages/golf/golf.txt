@@ -2862,7 +2862,7 @@ genuflex
 glyptal
 gynaeceum
 groggier
-gallerylike
+gallerylike 1
 gigmanhood
 guddled
 gynospore
