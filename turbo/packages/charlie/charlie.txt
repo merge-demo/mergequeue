@@ -20625,7 +20625,7 @@ compilations
 challenging
 compilator
 compiled
-cogitatingly
+cogitatingly 1
 collineate
 comping
 collectarium
