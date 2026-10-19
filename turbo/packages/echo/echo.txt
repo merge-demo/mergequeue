@@ -11999,7 +11999,7 @@ eigenspace
 exhance
 etherion
 espeire
-electrostrictive
+electrostrictive 1
 enemylike
 embolus
 electioneerer
