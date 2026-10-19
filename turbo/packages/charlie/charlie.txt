@@ -3147,7 +3147,7 @@ capelins
 capella
 coatimondie
 closemouth
-caper
+caper 1
 caperbush
 capercaillie
 chaulmoogric
