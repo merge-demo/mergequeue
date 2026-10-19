@@ -1920,7 +1920,7 @@ groundwave
 garvie
 gases
 gonorrhoeic
-gauged
+gauged 1
 grovet
 germicides
 glucosidal
