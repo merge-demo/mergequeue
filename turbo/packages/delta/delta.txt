@@ -4123,7 +4123,7 @@ deliquiate
 deliquium
 demisolde
 diphtheritically
-demagnetised
+demagnetised 1
 dianthuses
 debye
 deguelin
