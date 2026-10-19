@@ -9290,7 +9290,7 @@ foregoers
 foremost
 fabrikoid
 fruticeta
-funfairs
+funfairs 1
 flukey
 fluidise
 faulting
