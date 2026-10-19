@@ -9548,7 +9548,7 @@ bisantler
 budgets
 bothridium
 burucha
-bogue
+bogue 1
 bluejack
 battlements
 brewage
