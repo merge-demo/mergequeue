@@ -1141,7 +1141,7 @@ apheliotropism
 aploperistomatous
 antirusts
 academist
-arboral
+arboral 1
 academite
 academization
 allayed
