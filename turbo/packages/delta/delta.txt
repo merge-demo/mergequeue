@@ -574,7 +574,7 @@ dialers
 decolonized
 daunch
 damfool
-div
+div 1
 digenea
 dodecaheddra
 dissolver
