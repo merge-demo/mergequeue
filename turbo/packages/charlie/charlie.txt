@@ -12619,7 +12619,7 @@ chubby
 cayuco
 chubbier
 colorless
-condores
+condores 1
 cteninidia
 chubbiest
 chubs
