@@ -10793,7 +10793,7 @@ epitactic
 encumber
 engrafts
 embracer
-eucrystalline
+eucrystalline 1
 elastance
 eurodollar
 expurgatory
