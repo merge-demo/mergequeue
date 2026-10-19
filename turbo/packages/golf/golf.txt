@@ -5742,7 +5742,7 @@ gaskins
 guanyl
 gyrolite
 gurus
-geologize
+geologize 1
 gratia
 gatherers
 goldsmithery
