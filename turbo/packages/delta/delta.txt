@@ -18079,7 +18079,7 @@ deglaze
 deflexing
 demihearse
 devoto
-dulness
+dulness 1
 dysphemism
 diabetics
 dogskin
