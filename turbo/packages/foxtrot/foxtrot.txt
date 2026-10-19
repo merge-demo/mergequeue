@@ -4494,7 +4494,7 @@ factorize
 furthermost
 fleshing
 foreloop
-fantocine
+fantocine 1
 fluffier
 fountainwise
 frangulin
