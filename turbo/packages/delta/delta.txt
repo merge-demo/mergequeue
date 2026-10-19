@@ -11379,7 +11379,7 @@ doctrinize
 dowagers
 disclass
 deuterogenesis
-disclimax
+disclimax 1
 dialogite
 drossing
 dastardy
