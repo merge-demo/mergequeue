@@ -10430,7 +10430,7 @@ frontsman
 fluxional
 frontspieces
 fleet
-fisted
+fisted 1
 flche
 frontstall
 forstall
