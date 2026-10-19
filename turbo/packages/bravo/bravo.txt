@@ -10079,7 +10079,7 @@ barytic
 bewhiskered
 blabbermouths
 blabbing
-blabmouth
+blabmouth 1
 bludgeoneer
 beamish
 bretonian
