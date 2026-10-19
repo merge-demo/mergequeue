@@ -31198,7 +31198,7 @@ cryolite
 corrosive
 cuproiodargyrite
 cloysome
-chalque
+chalque 1
 cuproplumbite
 cuproscheelite
 cytoplastic
