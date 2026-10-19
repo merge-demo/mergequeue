@@ -4575,7 +4575,7 @@ advertizes
 antinationalistic
 advice
 advices
-atomatic
+atomatic 1
 antas
 advisableness
 amidon
