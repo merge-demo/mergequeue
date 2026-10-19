@@ -6319,7 +6319,7 @@ fitting
 ferriprussiate
 facadal
 floreted
-flunkey
+flunkey 1
 frilal
 fumatories
 fissipeda
