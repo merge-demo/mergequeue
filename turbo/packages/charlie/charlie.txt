@@ -3346,7 +3346,7 @@ coderives
 caponize
 crispate
 caponized
-caponizer
+caponizer 1
 copyfitter
 caponizing
 caponniere
