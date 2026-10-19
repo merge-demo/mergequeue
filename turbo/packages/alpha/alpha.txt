@@ -23912,7 +23912,7 @@ autoconverter
 abomasi
 apocaffeine
 aldoside
-athetosic
+athetosic 1
 auganite
 appositively
 alumbrado
