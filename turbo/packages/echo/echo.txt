@@ -11387,7 +11387,7 @@ effectuation
 evictors
 effendi
 epileptogenous
-evergreen
+evergreen 1
 exsputory
 evergreens
 everydayness
