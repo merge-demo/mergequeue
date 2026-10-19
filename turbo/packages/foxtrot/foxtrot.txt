@@ -7894,7 +7894,7 @@ forewarned
 feiseanna
 featherworker
 foresee
-faitor
+faitor 1
 frakturs
 foreseeable
 futchel
