@@ -1073,7 +1073,7 @@ abundance
 accurtation
 alcelaphine
 ammoniojarosite
-apparelled
+apparelled 1
 abundancy
 abundant
 abundantly
