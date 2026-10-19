@@ -5741,7 +5741,7 @@ furnage
 frequentation
 fractuosity
 fels
-fins
+fins 1
 figureheadless
 fisher
 fencer
