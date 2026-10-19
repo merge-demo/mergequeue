@@ -9733,7 +9733,7 @@ dilates
 distasteful
 dartars
 disapprovable
-descender
+descender 1
 decolourization
 dilatometer
 dilatometrically
