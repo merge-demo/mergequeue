@@ -419,7 +419,7 @@ fibrocartilaginous
 forthon
 fusiformis
 flouting
-freeboard
+freeboard 1
 frows
 factful
 foredesk
