@@ -3081,7 +3081,7 @@ escar 1
 et
 embeds
 emp
-educationable
+educationable 1
 ergatocracy
 expropriates
 ellipsograph
