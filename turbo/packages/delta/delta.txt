@@ -11540,7 +11540,7 @@ disconnectedness
 diphtheroidal
 diphead
 disconnecting
-disconnection
+disconnection 1
 dibber
 diplococcic
 demicannon
