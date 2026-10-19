@@ -10432,7 +10432,7 @@ amesite
 abamp
 acroama
 anezeh
-asterisms
+asterisms 1
 amess
 akmudar
 assailants
