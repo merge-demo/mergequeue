@@ -12544,7 +12544,7 @@ embezzlement
 exochorion
 enterocolitis
 ethane
-eaglestone
+eaglestone 1
 earthpeas
 embrawn
 epsomite
