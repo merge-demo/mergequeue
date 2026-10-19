@@ -1025,7 +1025,7 @@ gothicize
 grasp
 gravelled
 golp
-glanced
+glanced 1
 greenuk
 glycohaemia
 groan
