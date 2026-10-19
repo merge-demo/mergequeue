@@ -6833,7 +6833,7 @@ counterbalance
 cellose
 cognizance
 coadunative
-counterreconnaissance
+counterreconnaissance 1
 casketing
 cocoonery
 cementers
