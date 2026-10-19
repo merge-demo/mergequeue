@@ -14942,7 +14942,7 @@ bolshevize
 breastheight
 baldie
 bignonia
-begulfing
+begulfing 1
 breasthook
 bumpee
 bristol
