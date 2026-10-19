@@ -3351,7 +3351,7 @@ fieldish
 funereality
 format
 fluctisonant
-flatfoot
+flatfoot 1
 fructescent
 fattener
 fibromatous
