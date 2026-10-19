@@ -2042,7 +2042,7 @@ decagram
 dourness
 decagrams
 despised
-diverberate
+diverberate 1
 decahedron
 disclassify
 drearier
