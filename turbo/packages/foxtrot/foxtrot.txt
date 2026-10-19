@@ -5901,7 +5901,7 @@ fdname
 fruitfulness
 flockings
 fulsamic
-folgerite
+folgerite 1
 fencepost
 foetalism
 furlers
