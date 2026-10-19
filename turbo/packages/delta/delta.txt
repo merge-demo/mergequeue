@@ -17873,7 +17873,7 @@ dialogist
 dunst
 dezincing
 dudism
-diaconicum
+diaconicum 1
 deft
 defilement
 dudleya
