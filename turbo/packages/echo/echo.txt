@@ -5146,7 +5146,7 @@ earbob
 epicarp
 encyclic
 erava
-exceedingness
+exceedingness 1
 endothermically
 enounced
 elephants
