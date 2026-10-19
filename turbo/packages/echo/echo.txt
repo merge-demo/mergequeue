@@ -11672,7 +11672,7 @@ eccentricity
 electrocautery
 epididymectomy
 exaggeratingly
-extralinguistically
+extralinguistically 1
 expends
 erythrogenic
 estragons
