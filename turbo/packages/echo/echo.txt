@@ -12418,7 +12418,7 @@ exfiltrate
 equilibrial
 electrolysing
 exhuming
-epifaunal
+epifaunal 1
 enthronization
 elegiac
 elevenths
