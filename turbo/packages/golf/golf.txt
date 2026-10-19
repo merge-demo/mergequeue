@@ -4003,7 +4003,7 @@ gnomological
 guatuso
 gearksutite
 galliasses
-gamari
+gamari 1
 germanish
 galvanograph
 gteau
