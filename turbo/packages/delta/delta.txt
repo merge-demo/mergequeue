@@ -12508,7 +12508,7 @@ disinfections
 decrowned
 decani
 diffeomorphic
-deglutition
+deglutition 1
 dissolutive
 delbert
 disinfestant
