@@ -6564,7 +6564,7 @@ gpss
 glutting
 greyskin
 grammarian
-guaiacs
+guaiacs 1
 gabbier
 gentianin
 gentianales

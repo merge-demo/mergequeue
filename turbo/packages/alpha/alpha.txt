@@ -19314,7 +19314,7 @@ anaglyphics
 arenoid
 australis
 areographical
-areolae
+areolae 1
 anteriors
 aluminothermics
 areolas
