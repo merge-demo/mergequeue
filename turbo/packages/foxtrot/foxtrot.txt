@@ -1500,7 +1500,7 @@ fullam
 floatability
 fungillus
 faucre
-faultiest
+faultiest 1
 fishmeal
 fairgoer
 flutings
