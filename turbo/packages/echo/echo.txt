@@ -10188,7 +10188,7 @@ ethernet
 enumerations
 exudate
 emancipation
-escrowed
+escrowed 1
 emmarbled
 enacting 1
 electrotelegraphic
