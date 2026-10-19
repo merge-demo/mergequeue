@@ -28409,7 +28409,7 @@ crazyweed
 crc
 canzo
 crcao
-chromosome
+chromosome 1
 crche
 chorioidoretinitis
 cenchrus
