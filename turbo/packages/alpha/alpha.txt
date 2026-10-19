@@ -1897,7 +1897,7 @@ acetaniside
 astrogeology
 acetars
 axillas
-apostolicity
+apostolicity 1
 acetenyl
 antisymmetric
 actinostomal
