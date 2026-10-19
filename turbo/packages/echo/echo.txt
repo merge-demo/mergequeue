@@ -12415,7 +12415,7 @@ enlimn
 exhumatory
 emancipations
 exfiltrate
-equilibrial
+equilibrial 1
 electrolysing
 exhuming
 epifaunal
