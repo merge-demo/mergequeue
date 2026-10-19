@@ -10969,7 +10969,7 @@ fluework
 fallfish
 firmless
 fisc
-freesias
+freesias 1
 frigidaire
 furors
 forgettable
