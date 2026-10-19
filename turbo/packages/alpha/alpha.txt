@@ -15485,7 +15485,7 @@ anabolize
 antimelancholic
 attainder
 assented
-anapestic
+anapestic 1
 antimension
 archisperm
 antimere
