@@ -3171,7 +3171,7 @@ active
 aweather
 apostrophized
 actives
-apparency
+apparency 1
 attunely
 activin
 activism
