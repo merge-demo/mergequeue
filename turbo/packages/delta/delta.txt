@@ -9492,7 +9492,7 @@ dittography
 debussyanize
 debenzolize
 dicentrin
-desiliconize
+desiliconize 1
 discussable
 digestor
 decide
