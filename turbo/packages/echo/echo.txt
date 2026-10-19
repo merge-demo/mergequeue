@@ -6411,7 +6411,7 @@ exceptioner
 exhalants
 eastering
 enactors
-exothermic
+exothermic 1
 egestion
 exsanguinate
 eucryphiaceous
