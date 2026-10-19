@@ -22460,7 +22460,7 @@ astronaut
 apollinian
 asmodeus
 astronavigator
-anodynic
+anodynic 1
 astronomy
 analgen
 aphototropism
