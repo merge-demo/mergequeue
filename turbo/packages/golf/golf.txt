@@ -2495,7 +2495,7 @@ gatha
 giggled
 groundlessness
 genderless
-gamogeny
+gamogeny 1
 graven
 gradatim
 gastroenterocolitis
