@@ -2512,7 +2512,7 @@ candies
 candymaker
 cardiophobe
 candymaking
-candite
+candite 1
 candyweed
 caseconv
 candle
