@@ -3478,7 +3478,7 @@ ganisters
 gemul
 gewgawry
 gyrfalcon
-gigantological
+gigantological 1
 gestatory
 geriatric
 grivoise
