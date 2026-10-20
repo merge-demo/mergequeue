@@ -9423,7 +9423,7 @@ cheapening
 cheapery
 chlorin
 chevon
-commendatory
+commendatory 1
 cheapest
 cheapish
 cheaply
