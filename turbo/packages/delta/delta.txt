@@ -10832,7 +10832,7 @@ debts
 dirgy
 doggedly
 dhooley
-dirichletian
+dirichletian 1
 desulfuriser
 dominicans
 decarbonised
