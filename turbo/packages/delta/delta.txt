@@ -15506,7 +15506,7 @@ dongola
 drams
 decomposite
 decrew
-doni
+doni 1
 deliquesced
 disaffection
 disintegrationist
