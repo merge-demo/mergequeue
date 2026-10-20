@@ -6574,7 +6574,7 @@ genesiac
 gpcd
 glaziest
 gemminess
-gnatty
+gnatty 1
 grovelingly
 gleditsia
 gandoura
