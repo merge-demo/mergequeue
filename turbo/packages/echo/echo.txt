@@ -8620,7 +8620,7 @@ equidivision
 epigrammatising
 embouchures
 electrovital
-echowise
+echowise 1
 espavel
 equielliptical
 equigranular
