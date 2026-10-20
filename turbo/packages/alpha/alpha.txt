@@ -17149,7 +17149,7 @@ anaphrodisiac
 achiever
 avocets
 anisochromia
-apogeotropism
+apogeotropism 1
 apogon
 afterfuture
 apogonid
