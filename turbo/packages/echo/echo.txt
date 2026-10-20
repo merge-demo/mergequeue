@@ -13378,7 +13378,7 @@ escapeway
 excambion
 equatorward
 exemplify
-epityphlon
+epityphlon 1
 exposture
 epanaphoral
 exter
