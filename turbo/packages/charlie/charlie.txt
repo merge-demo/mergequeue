@@ -13431,7 +13431,7 @@ commodore
 countersecure
 cygninae
 companionableness
-cygnus
+cygnus 1
 cigua
 cyke
 cyl

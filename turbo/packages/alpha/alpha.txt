@@ -2505,7 +2505,7 @@ autoloaders
 anadicrotism
 acoelomi
 apogean
-accuser
+accuser 1
 attemperance
 alexin
 amoebicidal
