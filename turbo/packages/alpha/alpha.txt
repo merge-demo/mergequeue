@@ -15057,7 +15057,7 @@ archworker
 antioptimistical
 achyrodes
 anticrisis
-anticritic
+anticritic 1
 anticritical
 astrose
 anasarcas
