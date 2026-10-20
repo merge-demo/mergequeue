@@ -11541,7 +11541,7 @@ diphtheroidal
 diphead
 disconnecting
 disconnection
-dibber
+dibber 1
 diplococcic
 demicannon
 denotable
