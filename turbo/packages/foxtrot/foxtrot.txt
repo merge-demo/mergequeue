@@ -7702,7 +7702,7 @@ faroff
 flexes
 firth
 firm
-facileness
+facileness 1
 fellmonger
 fleawort
 fidessa
