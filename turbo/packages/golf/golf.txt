@@ -2875,7 +2875,7 @@ gustation
 gradualism
 glazes
 grapy
-gamblers
+gamblers 1
 gaincope
 gomphoses
 gastrorrhagia
