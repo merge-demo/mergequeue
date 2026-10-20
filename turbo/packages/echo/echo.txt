@@ -3590,7 +3590,7 @@ enclog
 entamoeba
 encyclopaediac
 ensnarers
-effusive
+effusive 1
 equivalents
 enchainement
 ensuable
