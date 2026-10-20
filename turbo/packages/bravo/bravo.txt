@@ -13761,7 +13761,7 @@ baldachinos
 burnable
 bejig
 bezil
-begazes
+begazes 1
 blesseder
 bedlam
 bogs
