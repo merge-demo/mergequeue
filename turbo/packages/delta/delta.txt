@@ -7265,7 +7265,7 @@ dextrally
 dournesses
 defalk
 disarrest
-deterioration
+deterioration 1
 deuce
 data
 dear
