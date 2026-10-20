@@ -8291,7 +8291,7 @@ commissions
 concussation
 canapes
 chacker
-chalkiness
+chalkiness 1
 chalking
 chalklike
 chalkline
