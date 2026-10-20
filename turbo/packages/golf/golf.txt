@@ -8343,7 +8343,7 @@ glump
 genonema
 glenoid
 gasket
-geophytic
+geophytic 1
 gnarling
 gnar
 glunimie
