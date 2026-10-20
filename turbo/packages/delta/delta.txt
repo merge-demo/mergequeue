@@ -3729,7 +3729,7 @@ domitic
 delegated
 dehkan
 durmasts
-decimate
+decimate 1
 dehonestation
 disoccupied
 delineations
