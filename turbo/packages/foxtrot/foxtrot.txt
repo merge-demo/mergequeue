@@ -6378,7 +6378,7 @@ fudgy
 fluctuability
 footropes
 ferriage
-foveolar
+foveolar 1
 fixup
 fluvio
 fluoresceine
