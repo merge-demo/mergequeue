@@ -3311,7 +3311,7 @@ equipaga
 embassade
 emanatist
 epical
-eternalized
+eternalized 1
 emanativ
 erupt
 enwreath
