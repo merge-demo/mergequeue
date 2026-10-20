@@ -4971,7 +4971,7 @@ gateage
 graunt
 gantry
 grouselike
-gauging
+gauging 1
 gymnospermal
 gallantize
 gyrenes
