@@ -16250,7 +16250,7 @@ draughtswomanship
 deforest
 devises
 deteriorate
-downface
+downface 1
 downstair
 duodenocystostomy
 deadlocking
