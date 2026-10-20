@@ -10791,7 +10791,7 @@ freehandedness
 flagstaffs
 fissipeds
 fth
-feuars
+feuars 1
 footsoldiers
 fanned
 freinage
