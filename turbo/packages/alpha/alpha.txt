@@ -3849,7 +3849,7 @@ antiphrasis
 autotransplant
 antiplethoric
 adipocellulose
-adipoceriform
+adipoceriform 1
 adipoid
 angiology
 aube
