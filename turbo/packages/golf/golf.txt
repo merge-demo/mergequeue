@@ -8483,7 +8483,7 @@ geotaxis
 gelada
 glossingly
 guajira
-glossopalatinus
+glossopalatinus 1
 gov
 ginglymoarthrodial
 ginnet
