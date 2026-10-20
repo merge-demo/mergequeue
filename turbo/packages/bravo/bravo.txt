@@ -10244,7 +10244,7 @@ belly
 blacksmithing
 beadwork
 biochemy
-beastdom
+beastdom 1
 boyang
 biflorous
 beehead
