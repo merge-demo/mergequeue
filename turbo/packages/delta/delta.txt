@@ -6772,7 +6772,7 @@ desilvers
 demultiplex
 demoniacal
 daeva
-dolichocephal
+dolichocephal 1
 drafts
 detachments
 desinence
