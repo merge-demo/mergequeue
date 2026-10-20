@@ -10576,7 +10576,7 @@ escallops
 eocarboniferous
 elixation
 enologies
-earthiness
+earthiness 1
 expectance
 euchrome
 euclideanism

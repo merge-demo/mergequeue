@@ -9994,7 +9994,7 @@ glutamic
 gubernative
 gunwale
 glazer
-gubernatrix
+gubernatrix 1
 goodsome
 geophysically
 gogglier
