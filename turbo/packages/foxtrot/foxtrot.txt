@@ -3001,7 +3001,7 @@ faintheartedness
 forma
 fiars
 ferricyanogen
-ferrotype
+ferrotype 1
 fortepiano
 flukily
 forasmuch
