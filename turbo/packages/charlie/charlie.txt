@@ -4974,7 +4974,7 @@ cypseli
 cartographic
 cartographical
 cartographically
-carton
+carton 1
 cartoner
 cartonful
 crimmers
