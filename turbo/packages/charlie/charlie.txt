@@ -29500,7 +29500,7 @@ conjunctional
 continental
 culpatory
 crystallometric
-crystallose
+crystallose 1
 checkerboard
 coevality
 crystallurgy
