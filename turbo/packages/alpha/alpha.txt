@@ -24339,7 +24339,7 @@ autoproteolysis
 argillomagnesian
 autopsical
 autopsychoanalysis
-autopsychosis
+autopsychosis 1
 autopsied
 autopsies
 ambrose
