@@ -6380,7 +6380,7 @@ ametrometer
 agriculturist
 anticreep
 agrilus
-adultress
+adultress 1
 agrimony
 antiputrescent
 agriochoerus
