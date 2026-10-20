@@ -9722,7 +9722,7 @@ fuchsins
 fevery
 fretworks
 flexile
-flaccidness
+flaccidness 1
 frenchwomen
 frenetical
 frigorifical
