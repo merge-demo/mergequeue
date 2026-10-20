@@ -5473,7 +5473,7 @@ eosinophilia
 elasmosaurus
 esterifiable
 erythrocytolysin
-energizes
+energizes 1
 electroscopic
 entwists
 erade
