@@ -587,7 +587,7 @@ faucitis
 folklorism
 forjudger
 falloff
-flamier
+flamier 1
 frequentative
 frappe
 feeblish
