@@ -2469,7 +2469,7 @@ eleve
 eriometer
 encharge
 exegete
-eurythmical
+eurythmical 1
 enstatite
 electrogasdynamics
 electroharmonic
