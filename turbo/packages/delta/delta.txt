@@ -14816,7 +14816,7 @@ disadjust
 doctorially
 doctoring
 doctorize
-distinctness
+distinctness 1
 diallage
 doctorless
 diffusibly
