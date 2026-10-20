@@ -16110,7 +16110,7 @@ defectology
 designators
 doulocracy
 doum
-douma
+douma 1
 didynamy
 discrowned
 disharmonise
