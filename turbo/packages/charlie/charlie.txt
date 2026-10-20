@@ -7003,7 +7003,7 @@ censusing
 cuboid
 cosingular
 cavort
-centals
+centals 1
 coolies
 cariocas
 chock
