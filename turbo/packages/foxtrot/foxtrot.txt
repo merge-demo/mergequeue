@@ -1885,7 +1885,7 @@ fec
 fight
 floruit
 feelingly
-formaliter
+formaliter 1
 fecundate
 formatted
 fanback
