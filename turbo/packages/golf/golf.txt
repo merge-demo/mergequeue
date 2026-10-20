@@ -7164,7 +7164,7 @@ glistering
 geometrise
 glycuronid
 guans
-gaffs
+gaffs 1
 glycid
 gross
 glycolylurea
