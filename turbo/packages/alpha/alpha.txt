@@ -15382,7 +15382,7 @@ antiking
 aposematic
 araneology
 alcaic
-antikings
+antikings 1
 arachnoidal
 agenes
 anatherum
