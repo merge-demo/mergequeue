@@ -4020,7 +4020,7 @@ disdub
 departmentize
 dehumanizing
 dealership
-dawtie
+dawtie 1
 darwinians 1
 describer
 delsartean
