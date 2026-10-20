@@ -17105,7 +17105,7 @@ aspersorium
 apodeipnon
 apodema
 austenitizing
-adiabolist
+adiabolist 1
 asperated
 antistes
 administrant
