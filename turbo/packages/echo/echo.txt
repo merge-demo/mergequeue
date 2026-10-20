@@ -8722,7 +8722,7 @@ enhallow
 ecartes
 electroencephalograph
 equisided
-equisignal
+equisignal 1
 erethitic
 epigaeous
 extradicting
