@@ -9532,7 +9532,7 @@ digitising
 desulphurise
 digitizing
 desorbed
-decimosexto
+decimosexto 1
 downthrow 1
 decimated
 draggly
