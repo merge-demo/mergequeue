@@ -10145,7 +10145,7 @@ deltidia
 diverticulate
 diploblastic
 defogging
-downy
+downy 1
 deuteranomal
 dasypaedes
 doater
