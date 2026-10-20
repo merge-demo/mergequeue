@@ -7027,7 +7027,7 @@ grillade
 gestural
 governmentalize
 gloryingly
-gerundially
+gerundially 1
 grindle
 gomart
 grade
