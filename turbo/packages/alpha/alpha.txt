@@ -21646,7 +21646,7 @@ anisomerous
 atomicism
 assayable
 afterpotential
-assayed
+assayed 1
 aphonous
 amorist
 assayers
