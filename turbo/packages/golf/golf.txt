@@ -1893,7 +1893,7 @@ ganglia
 gulped
 gastromycosis
 ghalva
-geal
+geal 1
 garnetwork
 garnet
 gynecocratic
