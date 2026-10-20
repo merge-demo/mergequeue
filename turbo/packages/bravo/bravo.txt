@@ -9525,7 +9525,7 @@ bakerdom
 bis
 borussian
 buffers
-bachelorize
+bachelorize 1
 baizing
 besputter
 baister
