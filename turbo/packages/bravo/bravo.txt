@@ -4026,7 +4026,7 @@ boites
 beamers
 bueno
 beamfilling
-beeware
+beeware 1
 bivalvous
 beamhouse
 basques
