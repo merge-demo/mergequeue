@@ -5002,7 +5002,7 @@ amphisbaenid
 argentate
 armscye
 admissibleness
-aeropathy
+aeropathy 1
 arthritides
 aerope
 acinetae
