@@ -2487,7 +2487,7 @@ debased
 ditchdown
 dirigent
 deckhand
-duckwing
+duckwing 1
 deckle
 dulls
 discal
