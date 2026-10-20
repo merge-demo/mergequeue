@@ -22451,7 +22451,7 @@ astrometeorology
 aforenamed
 apprend
 asterina
-allegorization
+allegorization 1
 astrometry
 agric
 animalising
