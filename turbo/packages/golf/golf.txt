@@ -7535,7 +7535,7 @@ gambeson
 governed
 graecizing
 gentlemanism
-governesses
+governesses 1
 galvanotonic
 gully
 guideless
