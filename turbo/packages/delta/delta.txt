@@ -201,7 +201,7 @@ duplify
 dealfish
 daemons
 daemonurgist
-defecant
+defecant 1
 dysgenic
 disciplinarianism
 daffadilly
