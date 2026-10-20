@@ -2549,7 +2549,7 @@ foresightful
 falerno
 fairyhood
 funduck
-ferryboat
+ferryboat 1
 fatties
 fratery
 fitchews
