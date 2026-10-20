@@ -9640,7 +9640,7 @@ entangleable
 entia
 epacris
 elaeagnus
-enfrai
+enfrai 1
 esparsette
 emphases
 encloud
