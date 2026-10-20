@@ -14909,7 +14909,7 @@ dev
 dumbbells
 defendants
 dragsmen
-deridingly
+deridingly 1
 dicephalous
 dispensible
 dodgily
