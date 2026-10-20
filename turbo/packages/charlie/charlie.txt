@@ -27760,7 +27760,7 @@ calina
 crescentic
 catbrier
 carpal
-corkscrews
+corkscrews 1
 connecters
 cowshed
 cowsheds
