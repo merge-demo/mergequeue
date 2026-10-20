@@ -15503,7 +15503,7 @@ chemotaxonomically
 clart
 clarty
 clartier
-caries
+caries 1
 clartiest
 convulsionist
 clarts
