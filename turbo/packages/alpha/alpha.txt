@@ -7697,7 +7697,7 @@ appendicocaecostomy
 autoprothesis
 asterin
 alcoholysis
-albatrosses
+albatrosses 1
 aguinaldos
 aspirins
 aphorised
