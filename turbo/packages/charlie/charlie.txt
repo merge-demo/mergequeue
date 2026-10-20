@@ -18842,7 +18842,7 @@ corvisor
 cytogene
 colicroot
 colicwort
-cranial
+cranial 1
 chiaroscurist
 cervelliere
 colies
