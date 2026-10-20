@@ -10041,7 +10041,7 @@ geometrised
 gazebos
 glaistig
 gammation
-gargoyles
+gargoyles 1
 gnathonic
 greasing 1
 granitoidal
