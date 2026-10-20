@@ -11470,7 +11470,7 @@ ferntickle
 furrure
 foreglimpse
 fin
-ferri
+ferri 1
 foliolose
 freelancing
 figurational
