@@ -6037,7 +6037,7 @@ expromissor
 ephphatha
 endosarcs
 endemical
-expire
+expire 1
 epiglottises
 enkindles
 edginess
