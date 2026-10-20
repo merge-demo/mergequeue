@@ -9186,7 +9186,7 @@ fries
 fragileness
 forenames
 forbarred
-foreknown
+foreknown 1
 fontlet
 fucus
 fumously
