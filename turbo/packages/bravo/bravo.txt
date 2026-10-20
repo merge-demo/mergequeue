@@ -7088,7 +7088,7 @@ bawdiness
 bespell
 bespelled
 bespend
-bespew
+bespew 1
 boucherism
 batan
 bonking
