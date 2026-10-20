@@ -6066,7 +6066,7 @@ fraternate
 flocculating
 flagonless
 floridity
-floriscope
+floriscope 1
 fetterbush
 faba
 funicule
