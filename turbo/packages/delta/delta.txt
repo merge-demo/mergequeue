@@ -13729,7 +13729,7 @@ dejecta
 demulsion
 dissociations
 directoire
-defluous
+defluous 1
 deadlihead
 diaclinal
 disannex
