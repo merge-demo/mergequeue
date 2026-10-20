@@ -10829,7 +10829,7 @@ acronomy
 alloantibody
 ampyx
 antirent
-abides
+abides 1
 apparentement
 abatements
 activizing
