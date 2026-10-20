@@ -14506,7 +14506,7 @@ disembowelled
 demurest
 diformin
 detruncated
-divinability
+divinability 1
 defiles
 diviner
 denied

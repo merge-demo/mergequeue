@@ -30156,7 +30156,7 @@ coccinella
 cannstatt
 crubeen
 cruce
-curs
+curs 1
 crucethouse
 canonise
 crucial
