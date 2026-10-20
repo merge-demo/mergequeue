@@ -3139,7 +3139,7 @@ geoscopy
 gordonia
 germanophobe
 ghostship
-gnomon
+gnomon 1
 gutturalizing
 gramoches
 gypsywort
