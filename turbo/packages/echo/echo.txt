@@ -6073,7 +6073,7 @@ exorableness
 enlief
 enhelm
 evertebrate
-excruciate
+excruciate 1
 escutcheon
 encounters
 epilator
