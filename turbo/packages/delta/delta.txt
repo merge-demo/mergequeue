@@ -12571,7 +12571,7 @@ depilous
 disheaven
 dimyary
 depersonize
-disinters
+disinters 1
 doctrinization
 deodorants
 desertlessly
