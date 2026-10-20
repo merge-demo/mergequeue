@@ -16305,7 +16305,7 @@ downshifted
 deheathenize
 disvalue
 dephlegmatize
-dibbler
+dibbler 1
 dragonism
 dainteth
 deplored
