@@ -7270,7 +7270,7 @@ establisher
 epa
 equiatomic
 expeditating
-explodent
+explodent 1
 exoascaceae
 ejicient
 enclitics
