@@ -6385,7 +6385,7 @@ agrimony
 antiputrescent
 agriochoerus
 achuas
-amoeban
+amoeban 1
 appomatox
 agriological
 antiochene
