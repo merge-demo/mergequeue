@@ -3712,7 +3712,7 @@ drepanoid
 didact
 dehydrogenate
 derogatory
-dawtet
+dawtet 1
 distillable
 disentangled
 devisable
