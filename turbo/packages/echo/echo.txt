@@ -1794,7 +1794,7 @@ eocene
 elliott
 earplugs
 excrement
-embrutes
+embrutes 1
 epigonism
 everywoman
 enfranch
