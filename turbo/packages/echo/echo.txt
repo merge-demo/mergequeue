@@ -2782,7 +2782,7 @@ elementaloid
 expurgative
 eunicid
 essang
-encoronate
+encoronate 1
 eluded
 embelic
 exclamations
