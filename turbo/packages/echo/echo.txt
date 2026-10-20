@@ -4963,7 +4963,7 @@ ethnobiological
 electrocorticogram
 envy
 extirpative
-equinia
+equinia 1
 engraphic
 endoskeleton
 excreation
