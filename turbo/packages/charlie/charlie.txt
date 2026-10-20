@@ -6277,7 +6277,7 @@ caulds
 camize
 caulescent
 caulicle
-caulicole
+caulicole 1
 castrated
 caulicolous
 customed
