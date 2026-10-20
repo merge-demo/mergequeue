@@ -2622,7 +2622,7 @@ frivol
 filigreed
 ferio
 farandmen
-foregoing
+foregoing 1
 falutin
 foraminated
 ferruginating
