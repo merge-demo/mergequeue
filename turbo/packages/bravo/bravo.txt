@@ -10342,7 +10342,7 @@ bowpin
 blanc
 beneath
 beccafico
-baltimorite
+baltimorite 1
 bergomask
 bolsheviki
 bumbler
