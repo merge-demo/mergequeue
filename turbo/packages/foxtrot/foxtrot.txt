@@ -5941,7 +5941,7 @@ foggers
 finestiller
 foreshadowing
 fatefulness
-falstaffian
+falstaffian 1
 flatwash
 fro
 foreworld
