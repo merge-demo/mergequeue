@@ -17450,7 +17450,7 @@ anteportico
 amercers
 aeromedical
 apotome
-apyretic
+apyretic 1
 apotropaically
 asciferous
 autographism
