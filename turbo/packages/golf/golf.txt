@@ -1134,7 +1134,7 @@ geneura
 gerontocracies
 gallnut
 groupment
-gunpowder
+gunpowder 1
 granddam
 gypsologist
 galeidae
