@@ -919,7 +919,7 @@ etherized
 epilogistic
 enteritidis
 echinoids
-extropical
+extropical 1
 encapsulating
 escalation
 electrotonic
