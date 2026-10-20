@@ -1369,7 +1369,7 @@ fatigable
 favorable
 fatigableness
 forfars
-frock
+frock 1
 fidac
 fruticulose
 flaggish
