@@ -7138,7 +7138,7 @@ episterna
 echeneidid
 envolume
 embarment
-epistemonic
+epistemonic 1
 eucaryote
 eglandulose
 extraequilibrium
