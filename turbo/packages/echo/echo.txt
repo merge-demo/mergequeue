@@ -11248,7 +11248,7 @@ ergometrine
 extramental
 epiderms
 expirable
-evanishes
+evanishes 1
 enterostenosis
 exsolved
 extrapoetical
