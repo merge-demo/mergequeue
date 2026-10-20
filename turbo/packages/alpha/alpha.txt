@@ -15005,7 +15005,7 @@ anticonvellent
 aeroducts
 autograft
 anakrousis
-aljama
+aljama 1
 anticonventional
 assonance
 anticor
