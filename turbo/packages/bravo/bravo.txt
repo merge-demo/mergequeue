@@ -14804,7 +14804,7 @@ brazier
 bern
 ballooner
 bombable
-burgheress
+burgheress 1
 baru
 brava
 brazil
