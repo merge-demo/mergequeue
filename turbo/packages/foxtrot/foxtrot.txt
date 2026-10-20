@@ -5407,7 +5407,7 @@ figuration
 fittest
 fruittime
 forthbringer
-formable
+formable 1
 flecking
 firehouses
 fennel
