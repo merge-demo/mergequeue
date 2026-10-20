@@ -2384,7 +2384,7 @@ autosymbolic
 abortionist
 abator
 adjection
-acrospired
+acrospired 1
 anticritically
 acinaciform
 amorism
