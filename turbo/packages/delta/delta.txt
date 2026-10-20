@@ -5844,7 +5844,7 @@ deadtongue
 dags
 dermatocoptic
 deprecable
-deprecating
+deprecating 1
 derotrema
 doorbrand
 desolations
