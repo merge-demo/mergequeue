@@ -1460,7 +1460,7 @@ dawts
 damages
 disbarred
 dedicatedly
-doublehanded
+doublehanded 1
 daze
 discerptibility
 disinherison
