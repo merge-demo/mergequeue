@@ -28781,7 +28781,7 @@ clocked
 compensate
 coacervated
 crescentiform
-chinking
+chinking 1
 chylifactive
 crescenting
 crouche
