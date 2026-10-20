@@ -2956,7 +2956,7 @@ deduces
 droil
 dolt
 deducibility
-deducted
+deducted 1
 disseisoress
 doxycycline
 deductible
