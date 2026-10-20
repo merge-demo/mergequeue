@@ -11386,7 +11386,7 @@ amphora
 amphorae
 acappella
 algors
-alohas
+alohas 1
 apiator
 abuzz
 amphore
