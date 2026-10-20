@@ -5477,7 +5477,7 @@ declamation
 deoxidisation
 dissolubility
 deadest
-devoiced
+devoiced 1
 dorsiventrality
 doryphoros
 dews
