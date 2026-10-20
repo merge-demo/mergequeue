@@ -13044,7 +13044,7 @@ bucking
 bordering
 bemantle
 balangay
-bolster
+bolster 1
 blousing
 beriber
 blinder
