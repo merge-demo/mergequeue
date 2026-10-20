@@ -16640,7 +16640,7 @@ caprificate
 closable
 closeable
 closecross 1
-closed
+closed 1
 chloroplatinic
 closefistedly
 closefistedness
