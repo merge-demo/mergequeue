@@ -6582,7 +6582,7 @@ aidmen
 akeake
 aline
 adjunctive
-afterripening
+afterripening 1
 arbalestre
 apocarpous
 anoraks
