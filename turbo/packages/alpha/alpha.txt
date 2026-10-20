@@ -12000,7 +12000,7 @@ adnexa
 axoneme
 aesthesia
 aeschynomene
-arithmetizations
+arithmetizations 1
 adiaphora 1
 adosculation
 actualistic
