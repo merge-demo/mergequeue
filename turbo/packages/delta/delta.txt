@@ -4842,7 +4842,7 @@ demonetizing
 disembogue
 depthen
 decumana
-deepness
+deepness 1
 dharna
 detickers
 demonical
