@@ -8199,7 +8199,7 @@ exothermal
 exoculating
 etwas
 equidominant
-equidistantly
+equidistantly 1
 ergophobia
 enisling
 elderbrotherish
