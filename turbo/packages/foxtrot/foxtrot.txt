@@ -9634,7 +9634,7 @@ farthest
 foresign
 freespace
 fecklessly
-feliform
+feliform 1
 fiscalized
 fulcrumage
 flabrum
