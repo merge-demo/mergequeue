@@ -10898,7 +10898,7 @@ dannock
 disaccomodate
 dromons
 dobsonflies
-droplike
+droplike 1
 dropcloth
 diclytra
 disunionism
