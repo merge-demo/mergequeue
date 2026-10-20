@@ -8777,7 +8777,7 @@ equoidean
 exhedra
 euphyllite
 eradicable
-enticement
+enticement 1
 epineolithic
 equilibrity
 enround
