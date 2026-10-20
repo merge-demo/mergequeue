@@ -2021,7 +2021,7 @@ fide
 feere
 flipper
 fautor
-fours
+fours 1
 feeze
 fimicolous
 furmity
