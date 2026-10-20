@@ -2626,7 +2626,7 @@ gymnosophist
 genethlic
 glossopetra
 goatee
-glossosteresis
+glossosteresis 1
 geoagronomic
 geniality
 genetics
