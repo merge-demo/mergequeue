@@ -12190,7 +12190,7 @@ doweling
 deltoidal
 durous
 detector
-dampers
+dampers 1
 despoticly
 deviators
 dysfunctions
