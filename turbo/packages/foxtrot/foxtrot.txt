@@ -1785,7 +1785,7 @@ featherfew
 fluoridates
 fn
 furfuran
-featheriness
+featheriness 1
 frogface
 foreslack
 forsterite
