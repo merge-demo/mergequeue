@@ -10814,7 +10814,7 @@ direnesses
 demophil
 distilment
 drier
-diletant
+diletant 1
 dashwheel
 diadematoida
 digit
