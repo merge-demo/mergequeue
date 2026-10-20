@@ -12802,7 +12802,7 @@ booly
 backhanding
 betatters
 book
-borocarbide
+borocarbide 1
 brasses
 burstone
 boolya
