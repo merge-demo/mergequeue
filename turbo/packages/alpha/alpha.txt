@@ -8403,7 +8403,7 @@ amphitheater
 anticomet
 aerodromics
 alisp
-alisphenoidal
+alisphenoidal 1
 asynapsis
 aliter
 archaiser
