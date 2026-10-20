@@ -5741,7 +5741,7 @@ gallant
 gaskins
 guanyl
 gyrolite
-gurus
+gurus 1
 geologize
 gratia
 gatherers
