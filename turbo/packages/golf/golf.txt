@@ -376,7 +376,7 @@ graphed
 gasogenic
 gorefish
 gangrenous
-goniometrical
+goniometrical 1
 guyer
 galactosis
 grimsire
