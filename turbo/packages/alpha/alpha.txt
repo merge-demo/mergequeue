@@ -9044,7 +9044,7 @@ allotments
 allotransplantation
 anapsidan
 aden
-autarkically
+autarkically 1
 actinoids
 allotriomorphic
 allotriophagy
