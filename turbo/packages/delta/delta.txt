@@ -14512,7 +14512,7 @@ diviner
 denied
 divinesse
 decarburised
-disjointly
+disjointly 1
 demotic
 dyadic
 divinister
