@@ -6611,7 +6611,7 @@ fogey
 foulbrood
 focalizes
 forwrap
-forgave
+forgave 1
 formulaically
 femalely
 fineish
