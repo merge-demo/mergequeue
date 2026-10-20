@@ -588,7 +588,7 @@ baubee
 balisaur
 baconian
 bishopric
-breaths
+breaths 1
 bistro
 baconism
 baragouinish
