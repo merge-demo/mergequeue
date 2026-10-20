@@ -9363,7 +9363,7 @@ gimmick
 gravestones
 groop
 gallerygoer
-glamorize
+glamorize 1
 gwen
 glareola
 goutiness
