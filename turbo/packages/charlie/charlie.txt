@@ -30097,7 +30097,7 @@ crowdle
 chromatrope
 cingulated
 crowed
-crower
+crower 1
 crowers
 conductors
 centuried
