@@ -13832,7 +13832,7 @@ electrophilic
 earworm
 extracystic
 equiarticulate
-entomolite
+entomolite 1
 essaylet
 extracivic
 energeticist
