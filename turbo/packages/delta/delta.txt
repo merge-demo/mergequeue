@@ -2488,7 +2488,7 @@ ditchdown
 dirigent
 deckhand
 duckwing
-deckle
+deckle 1
 dulls
 discal
 diatropism
