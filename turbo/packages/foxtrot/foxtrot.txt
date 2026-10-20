@@ -4157,7 +4157,7 @@ fumeuses
 frogleaf
 fusilading 1
 fulk
-frostnipped
+frostnipped 1
 fatling
 fenchyl
 fiscalization
