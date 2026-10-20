@@ -17121,7 +17121,7 @@ arithmetize
 apodictive
 apodyteria
 adverb
-apodyterium
+apodyterium 1
 apods
 azotizing
 apogaeic
