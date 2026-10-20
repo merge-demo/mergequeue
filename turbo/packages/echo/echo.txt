@@ -3875,7 +3875,7 @@ exotheca
 emigrating
 excogitating
 enflagellate
-epidotic
+epidotic 1
 enfeebled
 eclipsis
 executers
