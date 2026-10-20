@@ -6859,7 +6859,7 @@ gluconokinase 1
 guardless
 gymsia
 gluteoinguinal
-gauntlets
+gauntlets 1
 glucoprotein
 geaster
 glidewort
