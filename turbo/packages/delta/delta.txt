@@ -16455,7 +16455,7 @@ dracin
 dollhouse
 darken
 degradations 1
-detinuit
+detinuit 1
 doubtance
 dirhinous
 disjointness
