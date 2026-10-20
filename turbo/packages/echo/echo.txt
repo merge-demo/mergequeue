@@ -1487,7 +1487,7 @@ equippers
 estivate
 ebbs
 eclegme
-escadrille
+escadrille 1
 effusively
 entasias
 effuviate
