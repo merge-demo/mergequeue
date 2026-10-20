@@ -9104,7 +9104,7 @@ charta
 curialities
 chartable
 charter
-charterers
+charterers 1
 coraciiform
 charterhouse
 chartering
