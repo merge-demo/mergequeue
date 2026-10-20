@@ -7794,7 +7794,7 @@ cyanided
 caenogenesis
 cichloid
 cerviciplex
-cervicitis
+cervicitis 1
 cervicoauricular
 conditione
 chippable
