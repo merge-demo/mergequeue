@@ -12186,7 +12186,7 @@ exercent
 ephemera
 execute
 exceptor
-extravagancies
+extravagancies 1
 enquicken
 eyewaters
 eras

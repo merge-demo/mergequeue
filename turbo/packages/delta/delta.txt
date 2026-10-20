@@ -14476,7 +14476,7 @@ dihelios
 decoupling
 delly
 deckhouse
-degauss
+degauss 1
 diphyzooid
 devitaminize
 drouk
