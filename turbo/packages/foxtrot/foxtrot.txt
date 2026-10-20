@@ -591,7 +591,7 @@ flamier
 frequentative
 frappe
 feeblish
-funerate
+funerate 1
 fenugreek
 flamless
 flagstaff
