@@ -3565,7 +3565,7 @@ degage
 dawting
 deganglionate
 dystome
-degasify
+degasify 1
 decussately
 diosmosis
 dermatocoptes
