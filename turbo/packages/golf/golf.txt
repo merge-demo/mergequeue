@@ -3460,7 +3460,7 @@ guyana
 gudgeons
 gastrologer
 genoa
-gallanting
+gallanting 1
 glasgow
 gallophobia
 gourdlike
