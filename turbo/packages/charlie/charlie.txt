@@ -14267,7 +14267,7 @@ cardioids
 canalside
 circumnutated
 circumnutation
-cooperatively
+cooperatively 1
 circumorbital
 circumpacific
 circulet
