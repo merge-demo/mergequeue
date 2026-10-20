@@ -6766,7 +6766,7 @@ dodecatyl
 disally
 dirtboard
 datatype
-demoralizer
+demoralizer 1
 diathermic
 desilvers
 demultiplex
