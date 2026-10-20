@@ -1540,7 +1540,7 @@ gloria
 grulla
 glimes
 ginny
-gibe
+gibe 1
 gaspers
 galliardise
 grassless
