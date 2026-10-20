@@ -12105,7 +12105,7 @@ eubacterium
 ency
 electability
 excruciating
-enascent
+enascent 1
 eradicator
 entwisting
 excud
