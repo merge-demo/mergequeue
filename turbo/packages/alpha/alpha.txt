@@ -12918,7 +12918,7 @@ abscise
 arverni
 apolysin
 anatabine
-aditio
+aditio 1
 ameer
 anglify
 alkalometry
