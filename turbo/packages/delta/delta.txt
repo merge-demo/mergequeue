@@ -4431,7 +4431,7 @@ demerit
 demiluster
 damoetas
 drones
-despairfulness
+despairfulness 1
 desultory
 demesgne
 dudleyite
