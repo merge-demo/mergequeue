@@ -14629,7 +14629,7 @@ discipliner
 dusk
 dishevely
 divulsing
-divvy
+divvy 1
 derating
 depressing
 diallel
