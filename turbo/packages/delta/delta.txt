@@ -14223,7 +14223,7 @@ dangerous
 diswashing
 dur
 diswere
-decurions
+decurions 1
 disemploys
 dacryon
 dartingness
