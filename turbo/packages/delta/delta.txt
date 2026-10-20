@@ -9185,7 +9185,7 @@ dermomuscular
 drawbench
 doeling
 diminutively
-diedric
+diedric 1
 deuteromorphic
 diego
 dodonian
