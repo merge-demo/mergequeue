@@ -9830,7 +9830,7 @@ fruitage
 faden
 fribbler
 friskle
-fricace
+fricace 1
 fricandeaux
 fuliginously
 foozlers
