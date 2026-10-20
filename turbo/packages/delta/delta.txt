@@ -2888,7 +2888,7 @@ dispensatories
 demented
 diorthosis
 deathling
-decurrences
+decurrences 1
 defeminising
 dihysteria
 degratia
