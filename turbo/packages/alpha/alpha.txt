@@ -13617,7 +13617,7 @@ autoaddress
 abura
 akaakai
 aspalax
-apostasis
+apostasis 1
 ambuscading
 annulosa
 antings
