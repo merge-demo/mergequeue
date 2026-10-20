@@ -1843,7 +1843,7 @@ gigantostracan
 gilgai
 goofy
 geodic
-gourmandism
+gourmandism 1
 galacturia
 gardenwise
 gentilesse
