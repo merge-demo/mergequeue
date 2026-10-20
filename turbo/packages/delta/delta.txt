@@ -12137,7 +12137,7 @@ depressible
 dejections
 disfigure
 defencelessness
-definitude
+definitude 1
 disfigurer
 demarcated
 didactician
