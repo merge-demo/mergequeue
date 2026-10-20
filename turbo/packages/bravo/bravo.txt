@@ -2697,7 +2697,7 @@ bales
 barnaby
 bluebreast
 besnivel
-birefractive
+birefractive 1
 bungy
 blowoffs
 bushelwoman
