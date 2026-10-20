@@ -1097,7 +1097,7 @@ electrologic
 essayish
 edifying
 ectoblastic
-excisable
+excisable 1
 egolatrous
 edile
 erogenetic
