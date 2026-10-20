@@ -9969,7 +9969,7 @@ endowers
 embosk
 entonement
 entreatment
-esurient
+esurient 1
 electroform
 ericetal
 epilobe
