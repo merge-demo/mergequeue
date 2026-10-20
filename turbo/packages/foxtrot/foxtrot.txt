@@ -1036,7 +1036,7 @@ foussa 1
 fulfill
 farmeress
 fireling
-flerrying
+flerrying 1
 farmerly
 foreknowledge
 forrel
