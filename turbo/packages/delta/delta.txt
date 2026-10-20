@@ -469,7 +469,7 @@ decopperize
 desocialization
 dermititis
 dairying
-decompile
+decompile 1
 dilleniaceous
 dale
 deutochloride
