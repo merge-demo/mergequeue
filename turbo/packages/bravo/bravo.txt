@@ -2344,7 +2344,7 @@ bathonian
 bepuff
 barbierite
 busyish
-blatancies
+blatancies 1
 bromite
 briber
 blomstrandine

@@ -1519,7 +1519,7 @@ fetchingly
 fanaticism
 froise
 foresend
-faulx
+faulx 1
 flugelman
 focimeter
 faults
