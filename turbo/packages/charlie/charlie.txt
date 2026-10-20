@@ -26287,7 +26287,7 @@ costious
 collagenic
 costipulator
 cylindromata
-costiveness
+costiveness 1
 changeableness
 chumship
 calliper

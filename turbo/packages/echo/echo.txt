@@ -2276,7 +2276,7 @@ extemporization
 eudiometry
 enchantments
 exormia
-enbloc
+enbloc 1
 eyelets
 endolymph
 excretal
