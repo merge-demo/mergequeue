@@ -8496,7 +8496,7 @@ expansions
 externally
 extramarital
 endball
-exculpation
+exculpation 1
 eleemosynariness
 evolutive
 eupyrene
