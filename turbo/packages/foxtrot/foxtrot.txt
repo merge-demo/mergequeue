@@ -1462,7 +1462,7 @@ floorwalkers
 fringing
 fadmongering
 fetched
-fatuoid
+fatuoid 1
 fatuus
 frankly
 fractureproof
