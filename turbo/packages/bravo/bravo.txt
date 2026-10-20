@@ -13002,7 +13002,7 @@ beadings
 brideless
 bloomers
 balanid
-boracite
+boracite 1
 boracous
 borage
 bruchidae
