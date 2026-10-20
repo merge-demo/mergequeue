@@ -23117,7 +23117,7 @@ aciurgy
 armillaria
 archocele
 avodires
-anthecology
+anthecology 1
 antheriform
 attemperament
 aizle
