@@ -6711,7 +6711,7 @@ frounced
 fogo
 frescoists
 fighters
-feast
+feast 1
 fellowships
 forelegs
 foray
