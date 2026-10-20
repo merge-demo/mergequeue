@@ -2863,7 +2863,7 @@ dangle
 disjointedness
 doveling
 disgenius
-disparish
+disparish 1
 deepest
 dictyopteris
 decumbent
