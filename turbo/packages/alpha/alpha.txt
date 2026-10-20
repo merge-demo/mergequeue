@@ -3967,7 +3967,7 @@ amgarn
 adjutant
 anesthetic
 adjutator
-adjute
+adjute 1
 aqueity
 apologer
 arrestive
