@@ -1067,7 +1067,7 @@ exterritorial
 enshrouded
 edgrow
 encephaloscope
-expos
+expos 1
 enormous
 ead
 ensanguining

@@ -9505,7 +9505,7 @@ alternate
 alternated
 alternately
 achier
-alignments
+alignments 1
 assaugement
 aphengescope
 apritif
