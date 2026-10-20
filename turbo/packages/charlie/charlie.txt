@@ -5828,7 +5828,7 @@ categoric
 coliidae
 chondrified
 cessionary
-categorically
+categorically 1
 crushproof
 categories
 cardiazol
