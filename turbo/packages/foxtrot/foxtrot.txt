@@ -10596,7 +10596,7 @@ fenderless
 foiling
 foilsman
 filaceous
-fringillaceous
+fringillaceous 1
 fusht
 furtive
 famular
