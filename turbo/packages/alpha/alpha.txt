@@ -5692,7 +5692,7 @@ ambalam
 agallochs
 acupunctuation
 afunction
-authoritative
+authoritative 1
 aquafortist
 agalma
 ardea
