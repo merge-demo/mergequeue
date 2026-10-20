@@ -271,7 +271,7 @@ anchovy
 abdicant
 abdications
 anthropomorphizing
-adze
+adze 1
 amphistyly
 allogamous
 aphenoscope
