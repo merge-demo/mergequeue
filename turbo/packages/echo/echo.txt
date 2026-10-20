@@ -6906,7 +6906,7 @@ endiablee
 elling
 evocations
 entoplasm
-euxenites
+euxenites 1
 extravaganzas
 estreats
 exiled
