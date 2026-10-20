@@ -6857,7 +6857,7 @@ gibbsites
 globosities
 gluconokinase 1
 guardless
-gymsia
+gymsia 1
 gluteoinguinal
 gauntlets
 glucoprotein
