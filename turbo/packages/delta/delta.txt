@@ -3442,7 +3442,7 @@ duelists
 dehumidifier
 damp
 discomfortably
-deprecation
+deprecation 1
 donnot
 defluent
 debyes
