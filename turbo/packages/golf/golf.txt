@@ -5673,7 +5673,7 @@ glassrope
 glorifications
 garefowls
 gentlefolks
-gnatlike
+gnatlike 1
 grandmother
 garlics
 glissando
