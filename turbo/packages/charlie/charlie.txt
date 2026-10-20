@@ -3256,7 +3256,7 @@ capitatim
 cputime
 capitation
 casimere
-capitations
+capitations 1
 cyclotomy
 cystenchyme
 capite
