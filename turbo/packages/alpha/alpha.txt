@@ -18822,7 +18822,7 @@ arylation
 allheals
 assurgent
 abumbrellar
-artfully
+artfully 1
 antideflation
 ananaplas
 antipollution
