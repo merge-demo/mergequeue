@@ -3074,7 +3074,7 @@ flintily
 frontispiece
 frozen
 frenching
-faddiness
+faddiness 1
 fisherboy
 fibroblastic
 ferngale
