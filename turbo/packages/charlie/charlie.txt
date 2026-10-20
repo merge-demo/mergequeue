@@ -31482,7 +31482,7 @@ curricles
 chalcedonous
 chiropteran
 curricling
-currycomb
+currycomb 1
 cree
 cartoon
 carpolite
