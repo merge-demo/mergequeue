@@ -27620,7 +27620,7 @@ centrutra
 coarser
 cognoscitively
 cypressroot
-crescentwise
+crescentwise 1
 cow
 cyanidin
 clientry
