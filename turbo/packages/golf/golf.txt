@@ -8694,7 +8694,7 @@ gawkishly
 goosing
 gree
 glossopathy
-glean
+glean 1
 gismondite
 gimcracks
 glacification
