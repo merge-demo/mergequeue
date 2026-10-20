@@ -8434,7 +8434,7 @@ dialonian
 dorsocervically
 devotionalist
 dorsiventrally
-ds
+ds 1
 duopsony
 degreed
 diamagnet
