@@ -16928,7 +16928,7 @@ corance
 canavalin
 curst
 clumpst
-clumse
+clumse 1
 candider
 clumsy
 cloyer
