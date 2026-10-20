@@ -6844,7 +6844,7 @@ fistiness
 floridities
 foozler
 fraudulency
-freemartin
+freemartin 1
 foreporch
 fonnish
 falconlike
