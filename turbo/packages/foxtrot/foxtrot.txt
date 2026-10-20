@@ -8396,7 +8396,7 @@ futhark
 fidded
 finagles
 fluoroscopes
-felidae
+felidae 1
 fullerboard 1
 folksy
 formalesque
