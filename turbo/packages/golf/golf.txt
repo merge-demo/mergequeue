@@ -191,7 +191,7 @@ groggily 1
 goliathize 1
 goniometry
 gluteoperineal
-guesting
+guesting 1
 gradgrind
 golfer
 goaled
