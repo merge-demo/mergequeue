@@ -1866,7 +1866,7 @@ avalent
 acerval
 aggressions
 antiphysic
-acervate
+acervate 1
 acervulus
 abiezer
 anadyomene
