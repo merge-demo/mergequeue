@@ -19472,7 +19472,7 @@ colourer
 caveated
 cubage 1
 colourfulness
-clavicles
+clavicles 1
 congo
 cavated 1
 chlamydeous
