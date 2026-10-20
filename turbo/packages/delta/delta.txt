@@ -10900,7 +10900,7 @@ dromons
 dobsonflies
 droplike
 dropcloth
-diclytra
+diclytra 1
 disunionism
 draymen
 dromioid
