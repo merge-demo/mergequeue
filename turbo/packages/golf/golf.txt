@@ -7963,7 +7963,7 @@ goodyish
 gymnurinae
 guesdist
 gymnospermy
-glumness
+glumness 1
 glycerogel
 genuclast
 gametogonium
