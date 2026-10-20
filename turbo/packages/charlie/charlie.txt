@@ -3639,7 +3639,7 @@ coenoblastic
 cattleyas
 carbanilic
 confucianist
-clangor
+clangor 1
 caraganas
 crateful
 coronado

@@ -6416,7 +6416,7 @@ egestion
 exsanguinate
 eucryphiaceous
 eastern
-equatorial
+equatorial 1
 epeirogenetic
 ecophene
 embarrassing
