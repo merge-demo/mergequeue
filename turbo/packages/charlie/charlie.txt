@@ -18439,7 +18439,7 @@ cellularity
 chokey
 carboxylate
 capillitial
-chancellor
+chancellor 1
 chronographic
 crystalloblastic
 centrale
