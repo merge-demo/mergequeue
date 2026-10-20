@@ -19102,7 +19102,7 @@ circumterraneous
 cristate
 chaptrel
 collinsite
-collinsonia
+collinsonia 1
 colliquable
 colliquate
 collyria
