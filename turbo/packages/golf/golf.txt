@@ -1841,7 +1841,7 @@ growlery
 guffaw
 gigantostracan
 gilgai
-goofy
+goofy 1
 geodic
 gourmandism
 galacturia
