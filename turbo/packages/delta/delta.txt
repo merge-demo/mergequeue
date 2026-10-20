@@ -16943,7 +16943,7 @@ depositories
 diphase
 dartles
 duledge
-diminuendoed
+diminuendoed 1
 drearily
 dreariness
 deamidate
