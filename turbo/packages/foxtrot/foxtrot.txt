@@ -10904,7 +10904,7 @@ fliskier
 forsworn
 falloffs
 fides
-fulleries
+fulleries 1
 fleets
 frowsty
 flivver
