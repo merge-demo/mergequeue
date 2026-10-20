@@ -5930,7 +5930,7 @@ frats
 fructiferous
 flannelflower
 fineable
-flubdubs
+flubdubs 1
 forestaysail
 flowerpots
 flyting
