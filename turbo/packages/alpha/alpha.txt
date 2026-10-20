@@ -5078,7 +5078,7 @@ ablush
 aerotechnical
 alchera
 aerotherapeutics
-amphidiploidy
+amphidiploidy 1
 attainting
 aerotherapy
 androphorous
