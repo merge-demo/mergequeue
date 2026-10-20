@@ -4830,7 +4830,7 @@ effulgence
 epichindrotic
 epigne
 ephydriad
-expertise
+expertise 1
 encourages
 embusy
 escapable
