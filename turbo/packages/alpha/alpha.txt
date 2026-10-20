@@ -10022,7 +10022,7 @@ abseiled
 albacore
 ambidexterity
 anthocephalous
-ambidexterities
+ambidexterities 1
 andorite
 arctoidean
 anthracemia
