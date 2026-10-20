@@ -17802,7 +17802,7 @@ disarrange
 domicilii
 duckery
 duckers
-dimission
+dimission 1
 duces
 disfigurements
 deposita
