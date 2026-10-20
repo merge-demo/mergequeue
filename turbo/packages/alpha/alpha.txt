@@ -7774,7 +7774,7 @@ aration
 aldermanity
 anacrotism
 aplustria
-avulses
+avulses 1
 alleviates
 antiseptical
 aldermanship
