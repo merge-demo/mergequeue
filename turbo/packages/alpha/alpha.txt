@@ -288,7 +288,7 @@ antimerina
 anolian
 appurtenances
 accuracy
-autotropism
+autotropism 1
 abdominally
 aeroacoustic
 aguamas
