@@ -12932,7 +12932,7 @@ cyanhydric
 cyanhydrin
 citron
 citrean
-cyanid
+cyanid 1
 collects
 casel
 circumhorizontal
