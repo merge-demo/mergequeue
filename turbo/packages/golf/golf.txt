@@ -8158,7 +8158,7 @@ graphidiaceae
 granulocyte
 gerontal
 galbanum
-galt
+galt 1
 generalissimo
 grager
 gironde
