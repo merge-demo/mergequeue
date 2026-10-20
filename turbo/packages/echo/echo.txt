@@ -5824,7 +5824,7 @@ emulatory
 etherizing
 efficace
 electrovalency
-exfoliation
+exfoliation 1
 erlkings
 epicele
 extrinsic
