@@ -4311,7 +4311,7 @@ expulsive
 expansibleness
 enactor
 epigrammatize
-entoproct
+entoproct 1
 eloquence
 exclaustration
 enamelist
