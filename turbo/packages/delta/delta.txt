@@ -12499,7 +12499,7 @@ desponsories
 dispractice
 dols
 dangerously
-decerns
+decerns 1
 dugout
 disowning
 disinfecting
