@@ -17657,7 +17657,7 @@ antiagglutination
 antediluvial
 agouta
 apostlehood
-appetence
+appetence 1
 automobilist
 aquotize
 appetibleness
