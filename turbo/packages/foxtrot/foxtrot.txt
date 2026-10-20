@@ -6042,7 +6042,7 @@ finking 1
 fractal
 fluviology
 fibromas
-faeroese
+faeroese 1
 filippo
 flet
 foun
