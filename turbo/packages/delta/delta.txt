@@ -18522,7 +18522,7 @@ decolonisation
 disownable
 diaphanous
 distortional
-demisavage
+demisavage 1
 dissilition
 durbars
 diau
