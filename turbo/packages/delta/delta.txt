@@ -14534,7 +14534,7 @@ demode
 dimethylketol
 directrixes
 downpouring
-divisibility
+divisibility 1
 divisibilities
 divisible
 division
