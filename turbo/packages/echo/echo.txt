@@ -1527,7 +1527,7 @@ eucosmidae
 episcopised
 egoisticalness
 evoke
-embow
+embow 1
 engloom
 emarginately
 epistolographer
