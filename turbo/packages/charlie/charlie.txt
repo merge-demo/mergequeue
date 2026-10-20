@@ -5131,7 +5131,7 @@ compeller
 chondrectomy
 careys
 caseharden
-colostric
+colostric 1
 capsaicin
 callosity
 casehardening
