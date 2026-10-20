@@ -6730,7 +6730,7 @@ cohesions
 celebrants
 celebrate
 comiakin
-celebratedly
+celebratedly 1
 celebrater
 celebrates
 celebrationis
