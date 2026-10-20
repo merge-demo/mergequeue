@@ -6557,7 +6557,7 @@ ayatollah
 aiblins
 aliens
 aidance
-apostasy
+apostasy 1
 aidant
 aided
 auturgy
