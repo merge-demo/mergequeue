@@ -12678,7 +12678,7 @@ energizing
 exophasic
 etchers
 exalted
-exophthalmia
+exophthalmia 1
 embloom
 epibolism
 exenterating
