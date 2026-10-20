@@ -3332,7 +3332,7 @@ gonydial
 glanditerous
 gahnite
 gridirons
-globed
+globed 1
 gasogen
 gomerels
 gelatia
