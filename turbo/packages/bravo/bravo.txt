@@ -3040,7 +3040,7 @@ brilliancy
 blood
 bullace
 bartholomewtide 1
-bartisan
+bartisan 1
 broadhorn
 ballrooms 1
 barflies
