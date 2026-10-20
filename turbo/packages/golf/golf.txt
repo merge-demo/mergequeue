@@ -9317,7 +9317,7 @@ generale
 ghosted
 grogshop
 gigmaness
-geosyncline
+geosyncline 1
 gnathalgia
 guignol
 glopnen
