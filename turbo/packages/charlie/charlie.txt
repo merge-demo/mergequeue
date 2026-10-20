@@ -19954,7 +19954,7 @@ commanding
 changeover
 corolitic
 commandingly
-commandingness
+commandingness 1
 commandite
 commandless
 cruentate
