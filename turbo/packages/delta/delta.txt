@@ -635,7 +635,7 @@ dinoflagellata
 deploitation
 dominick
 damnify
-dearth
+dearth 1
 disoccupation
 decadence
 debarration
