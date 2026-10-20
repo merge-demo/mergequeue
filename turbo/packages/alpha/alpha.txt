@@ -24396,7 +24396,7 @@ antagonise
 autosight
 albuminuric
 autosymbolical
-autosymbolically
+autosymbolically 1
 airplaning
 antiquarianism
 anthracometer
