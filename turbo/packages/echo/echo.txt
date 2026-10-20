@@ -4907,7 +4907,7 @@ endamoebas
 endamoebidae
 equations
 entoils
-endangitis
+endangitis 1
 expertised
 endaspidean
 endbrains
