@@ -2466,7 +2466,7 @@ destrudo
 demerol
 decipium
 diplodocus
-dipyre
+dipyre 1
 decision
 defeatists
 distinctly
