@@ -19436,7 +19436,7 @@ cornicing
 colorman
 cerealose
 colors
-cutose
+cutose 1
 colossal
 colossality
 carcinogens
