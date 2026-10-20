@@ -3331,7 +3331,7 @@ epicnemial
 elaeodendron
 executions
 euphroe
-equiangular
+equiangular 1
 emphemeralness
 expensefully
 ecdyses
