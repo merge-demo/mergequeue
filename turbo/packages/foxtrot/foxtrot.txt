@@ -1959,7 +1959,7 @@ frenal
 froze
 forebearing
 floccule
-finagling
+finagling 1
 fonly
 flanchard
 furzier
