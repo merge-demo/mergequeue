@@ -2215,7 +2215,7 @@ epiglottiditis
 escamotage
 eggless
 encrisp
-eldest
+eldest 1
 effigiated
 eventuate
 engulfment
