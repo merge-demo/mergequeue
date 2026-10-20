@@ -184,7 +184,7 @@ gag
 gooseliver
 groveler
 garoted
-glamour
+glamour 1
 greyhen
 goyish
 groggily 1
