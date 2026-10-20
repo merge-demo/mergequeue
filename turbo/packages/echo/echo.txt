@@ -10862,7 +10862,7 @@ encalendar
 examinationism
 euphemisation
 enarme
-euphemise
+euphemise 1
 elected
 euphemising
 euphemistically
