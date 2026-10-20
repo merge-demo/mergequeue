@@ -1804,7 +1804,7 @@ glummer
 glyptology
 gatekeepers
 glos
-gentile
+gentile 1
 groupage
 grasses
 glutenous
