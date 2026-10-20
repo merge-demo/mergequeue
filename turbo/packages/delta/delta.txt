@@ -10981,7 +10981,7 @@ disaligned
 disalliege
 deoxidization
 downbend
-doorframe
+doorframe 1
 disallow
 displaying
 dorneck
