@@ -1418,7 +1418,7 @@ dichotomized
 dissimilitude
 damnit
 dasht
-dawk
+dawk 1
 diapering
 dioptrate
 dogly
