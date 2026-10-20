@@ -5916,7 +5916,7 @@ folliculosis
 frostbites
 flogs
 fermis
-foeticidal
+foeticidal 1
 flybane
 formose
 foveola
