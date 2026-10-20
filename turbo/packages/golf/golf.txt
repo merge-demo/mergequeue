@@ -7347,7 +7347,7 @@ galloglass
 geochronometric
 graffias
 grieved
-glareole
+glareole 1
 ghee
 gobstopper
 geochemist
