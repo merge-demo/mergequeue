@@ -18597,7 +18597,7 @@ coyn
 coinable
 coinage
 coinages
-coincide
+coincide 1
 corpulently
 cobbler
 coincidently
