@@ -3372,7 +3372,7 @@ glaucescence
 griseous
 garment
 gigartinaceae
-gypseous
+gypseous 1
 guaraunan
 gaertnerian
 gynandries
