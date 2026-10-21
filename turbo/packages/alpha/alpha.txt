@@ -19359,7 +19359,7 @@ automatist
 alkaliferous
 abluent
 arethusas
-alk
+alk 1
 aretinian
 anticoagulating
 attermined
