@@ -11138,7 +11138,7 @@ epaulet
 entity
 eadi 1
 evacuated
-endeavored
+endeavored 1
 elephantic
 evulse
 entropionize
