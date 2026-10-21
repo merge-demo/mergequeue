@@ -12752,7 +12752,7 @@ elsewise
 exortion
 endodontia
 exosmose
-exosmotic
+exosmotic 1
 eclampsia
 explicative
 erotize
