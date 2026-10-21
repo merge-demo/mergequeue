@@ -7350,7 +7350,7 @@ crepuscle
 cephalology
 cephalom
 coquettishness
-cephalomant
+cephalomant 1
 chalcedonian
 cephalomeningitis
 catlin
