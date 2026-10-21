@@ -7812,7 +7812,7 @@ echolalia
 edmund
 endopoditic
 epiploic
-equivocators
+equivocators 1
 enumerability
 extrudes
 exorcization
