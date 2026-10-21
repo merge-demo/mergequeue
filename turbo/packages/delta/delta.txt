@@ -15207,7 +15207,7 @@ dameworts
 dracaenaceae
 dolichosauria
 discomposure
-dolichuric
+dolichuric 1
 duplexer
 dolioform
 demitasses
