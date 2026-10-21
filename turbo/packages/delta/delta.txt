@@ -15335,7 +15335,7 @@ dispergated
 daudit
 decrystallization
 darbyite
-deadborn
+deadborn 1
 decongestion
 domesdays
 diarthrodial
