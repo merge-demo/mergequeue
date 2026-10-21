@@ -1803,7 +1803,7 @@ featherpate
 fetlocks
 forconceit
 foghorns
-foehn
+foehn 1
 futurology
 flaggella
 ficklehearted
