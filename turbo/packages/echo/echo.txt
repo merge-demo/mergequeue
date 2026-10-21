@@ -6074,7 +6074,7 @@ enlief
 enhelm
 evertebrate
 excruciate
-escutcheon
+escutcheon 1
 encounters
 epilator
 enlightenedly
