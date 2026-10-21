@@ -16005,7 +16005,7 @@ canniness
 clerstory
 clansmen
 cyamelid
-coolheadedness
+coolheadedness 1
 cleruchy
 connach
 crossbirth
