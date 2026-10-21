@@ -9180,7 +9180,7 @@ biped
 bipedal
 beggared
 bogo
-bourbonesque
+bourbonesque 1
 bipedality
 bipeds
 bipeltate
