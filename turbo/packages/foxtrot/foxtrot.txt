@@ -4172,7 +4172,7 @@ fakiness
 fairlike
 fractionlet
 faithwise
-figments
+figments 1
 figuredly
 fag
 firebox
