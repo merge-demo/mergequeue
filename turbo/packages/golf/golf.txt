@@ -6146,7 +6146,7 @@ gammarus
 gnosis
 galenist
 glaserian
-gnotobiosis
+gnotobiosis 1
 goldanged
 gnotobiotically
 galactorrhoea
