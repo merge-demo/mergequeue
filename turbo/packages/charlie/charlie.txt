@@ -27967,7 +27967,7 @@ counterselection
 cognosce
 cradlemaker
 cradlemate
-camerlengos
+camerlengos 1
 celeomorphic
 catharize
 clinoclase
