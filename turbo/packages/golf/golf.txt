@@ -10536,7 +10536,7 @@ glob
 gossipingly
 gudesakes
 gentamicin
-gunge
+gunge 1
 gunjah
 gaucheries
 genisaro
