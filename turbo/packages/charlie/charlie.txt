@@ -14748,7 +14748,7 @@ cocinero
 choroiditis
 curatel
 chiarooscuros
-cityness
+cityness 1
 cotyle
 citynesses
 chinantecs
