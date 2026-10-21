@@ -10171,7 +10171,7 @@ guidepost
 glossophobia 1
 geostrategist
 gaufre
-gurneyite
+gurneyite 1
 gerusia
 gastropathy
 granulated
