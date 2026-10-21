@@ -931,7 +931,7 @@ flopper
 filleted
 fluorometer
 flamed
-feel
+feel 1
 faradisation
 fluosilicic
 fimbrilliferous
