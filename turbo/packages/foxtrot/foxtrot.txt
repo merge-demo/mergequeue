@@ -7505,7 +7505,7 @@ fergus
 fellatah
 foisting
 floppily
-fastly
+fastly 1
 fullface
 forebode
 fauld
