@@ -4355,7 +4355,7 @@ casuists
 consecrated
 caricology
 crisper
-counterslope
+counterslope 1
 crum
 caricologist
 cowlstaff
