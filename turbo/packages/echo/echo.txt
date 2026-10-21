@@ -7725,7 +7725,7 @@ etiological
 ephapse
 everyness
 erythraea
-epidermic
+epidermic 1
 epidermical
 enteroplasty
 erechtheus
