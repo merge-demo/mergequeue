@@ -3894,7 +3894,7 @@ devested
 derivation
 drake
 dejeration
-dejeuner
+dejeuner 1
 dekadrachm
 dekagramme
 discommunity
