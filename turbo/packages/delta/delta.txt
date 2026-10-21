@@ -10780,7 +10780,7 @@ dainty
 diluteness
 decreement
 diseur
-directionalize
+directionalize 1
 directionally
 deckles
 dhan
