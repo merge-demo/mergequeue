@@ -1710,7 +1710,7 @@ graced
 goric
 glass
 guesses
-guernseys
+guernseys 1
 gaullism
 gastropexy
 gallowsmaker
