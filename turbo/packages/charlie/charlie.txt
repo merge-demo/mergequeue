@@ -26155,7 +26155,7 @@ cosmography
 chigoe
 cosmographic
 cosmographical
-concomitantly
+concomitantly 1
 cosmographically
 cosmographies
 cosmoline
