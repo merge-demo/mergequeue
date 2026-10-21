@@ -1374,7 +1374,7 @@ fidac
 fruticulose
 flaggish
 fanning
-fatigue
+fatigue 1
 fossicks
 fatiguesome
 fjeld
