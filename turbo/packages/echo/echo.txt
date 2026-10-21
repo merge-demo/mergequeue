@@ -6695,7 +6695,7 @@ epicenters
 equines
 espaliers
 evaginable
-emunge
+emunge 1
 entertake
 exstimulate
 exhumed
