@@ -9507,7 +9507,7 @@ frappes
 fusus
 fattrels
 faithworthy
-frontways
+frontways 1
 footling
 finiteness
 finiglacial
