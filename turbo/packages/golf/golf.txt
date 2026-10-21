@@ -3952,7 +3952,7 @@ gooses
 glochchidia
 garote
 gratuito
-gallopers
+gallopers 1
 graphomaniac
 grice
 ganner
