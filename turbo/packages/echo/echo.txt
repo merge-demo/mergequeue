@@ -1250,7 +1250,7 @@ efficiently
 earthshock
 enchair
 ethylidyne
-epigrammatise
+epigrammatise 1
 eelcake
 elsewheres
 exposition
