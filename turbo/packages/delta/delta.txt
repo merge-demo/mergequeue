@@ -1584,7 +1584,7 @@ demise
 doubtingness
 deadpanned
 deadpans
-daikering
+daikering 1
 doryanthes
 disinfector
 deadwork
