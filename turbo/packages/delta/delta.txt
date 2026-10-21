@@ -5831,7 +5831,7 @@ deafforest
 destrier
 disestablishes
 desistance
-dasyure
+dasyure 1
 dictating
 deprave
 disanagrammatize
