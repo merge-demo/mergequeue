@@ -19118,7 +19118,7 @@ allocute
 absorbant
 alkylamino
 alphanumeric
-archencephalic
+archencephalic 1
 agritos
 actu
 amendable
