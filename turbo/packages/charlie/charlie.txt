@@ -25006,7 +25006,7 @@ chumble
 cordelia
 cordelle
 crushableness
-cordery
+cordery 1
 corders
 carroms
 conventing
