@@ -12183,7 +12183,7 @@ emoluments
 enthroning
 empiriocritical
 exercent
-ephemera
+ephemera 1
 execute
 exceptor
 extravagancies
