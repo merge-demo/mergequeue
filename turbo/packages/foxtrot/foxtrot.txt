@@ -967,7 +967,7 @@ fabrile
 fruitling
 farceuses
 flenched
-fluorids
+fluorids 1
 frape
 fastigiums
 forkers
