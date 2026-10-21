@@ -22524,7 +22524,7 @@ conjugationally
 conjugations
 conjugator
 conjugators
-conjugium
+conjugium 1
 coohee
 conjunctions
 countercause
