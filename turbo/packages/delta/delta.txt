@@ -11462,7 +11462,7 @@ demerse
 dissectional
 disconformity
 disseminates
-demiparallel
+demiparallel 1
 discanting
 deepened
 demimondaines
