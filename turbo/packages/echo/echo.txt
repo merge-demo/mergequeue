@@ -13659,7 +13659,7 @@ enfurrow
 excommunicators
 eragrostis
 earths
-extenuations
+extenuations 1
 eucalyptic
 enskying
 extenuative
