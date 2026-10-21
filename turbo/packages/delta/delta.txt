@@ -3597,7 +3597,7 @@ deprecatorily
 dragonhead
 degenerately
 degenerateness
-degenerescence
+degenerescence 1
 diammonium
 degeneroos
 degerm
