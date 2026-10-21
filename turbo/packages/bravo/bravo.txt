@@ -5558,7 +5558,7 @@ bouleuterion
 borons
 busket
 beknighted
-ballistite
+ballistite 1
 beknotted
 burrio
 brassicaceous
