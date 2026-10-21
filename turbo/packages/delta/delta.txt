@@ -12575,7 +12575,7 @@ disinters
 doctrinization
 deodorants
 desertlessly
-defoamers
+defoamers 1
 diapiric
 downmost
 dragoness
