@@ -13872,7 +13872,7 @@ anoscope
 angstrom
 achariaceae
 acyloin
-anoscopy
+anoscopy 1
 adytum
 aseismatic
 anospinal
