@@ -4579,7 +4579,7 @@ collie
 carnival
 carnivalesque
 contrastimulation
-carnivals
+carnivals 1
 carnivoral
 carnivore
 carnivorism
