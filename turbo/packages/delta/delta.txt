@@ -4637,7 +4637,7 @@ douzaines
 dereliction
 demipectinate
 denarius
-diswench
+diswench 1
 demiscible
 dicebox
 denticulate
