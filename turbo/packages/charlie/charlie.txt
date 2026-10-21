@@ -26753,7 +26753,7 @@ counterbend
 calamitously
 cubicles
 counterblast
-counterborder
+counterborder 1
 caldrons
 counterbored
 celandine
