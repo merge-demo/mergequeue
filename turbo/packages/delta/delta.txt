@@ -1689,7 +1689,7 @@ dephysicalization
 diazid
 decrementless
 dehumanisation
-delineator
+delineator 1
 debonnaire
 dismissive
 dears
