@@ -1454,7 +1454,7 @@ acclimates
 acclimatisation
 affixable
 archaisms
-amortize
+amortize 1
 acclimatise
 acclimatising
 aegagrus
