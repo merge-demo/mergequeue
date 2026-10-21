@@ -2598,7 +2598,7 @@ cementmaking
 canebrakes
 cephalodynia
 cowskins
-counterdisengage
+counterdisengage 1
 cryptocrystallization
 columnar
 cyamelide
