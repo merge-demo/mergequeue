@@ -12542,7 +12542,7 @@ demyship
 disinhume
 djagatay
 dorsoventral
-disinsure
+disinsure 1
 dotonidae
 donk
 diamonding
