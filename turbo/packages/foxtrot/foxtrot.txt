@@ -82,7 +82,7 @@ flocklike
 filching
 faces
 folkright
-flattening
+flattening 1
 funny
 fiendish
 flagrantness
