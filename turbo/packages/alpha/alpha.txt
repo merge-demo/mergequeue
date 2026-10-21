@@ -21955,7 +21955,7 @@ aeriest
 anatripsis
 alderling
 associativeness
-amplify
+amplify 1
 armoring
 associativity
 adicity
