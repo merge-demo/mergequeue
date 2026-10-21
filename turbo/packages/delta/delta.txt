@@ -1043,7 +1043,7 @@ divorcer
 darlingness
 darn
 darndest
-darnels
+darnels 1
 destandardize
 dishes
 diacodium
