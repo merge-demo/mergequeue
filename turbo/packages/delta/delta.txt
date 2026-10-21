@@ -1643,7 +1643,7 @@ disassembler
 deallocate
 decurved
 deobstruct
-devotional
+devotional 1
 daunter
 discontinuance
 dicephalus
