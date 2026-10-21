@@ -4564,7 +4564,7 @@ colorcast 1
 cartilaginoid
 carnifex
 carnifexes
-cationic
+cationic 1
 centillionth
 carnification
 carnificial
