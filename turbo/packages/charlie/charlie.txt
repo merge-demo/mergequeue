@@ -27481,7 +27481,7 @@ coaeval
 cuprous
 couxia
 citrous
-chronicity
+chronicity 1
 covalences
 covalency
 carpoptosis
