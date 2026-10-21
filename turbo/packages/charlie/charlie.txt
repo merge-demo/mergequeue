@@ -24190,7 +24190,7 @@ cephalophus
 convincement
 castanets
 coachful
-claw
+claw 1
 crestless
 collocutory
 counterrecoil
