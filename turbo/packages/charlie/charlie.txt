@@ -21344,7 +21344,7 @@ ceboid
 conchifera
 conchiferous
 caldadaria
-compulsively
+compulsively 1
 copolymeric
 convolved
 conchyliferous

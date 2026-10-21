@@ -2727,7 +2727,7 @@ allamonti
 asteriae
 arak
 acritan
-acrite
+acrite 1
 asthenobiosis
 ameliorated
 astringent
