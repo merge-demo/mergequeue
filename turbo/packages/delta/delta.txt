@@ -16523,7 +16523,7 @@ dallop
 dauntingness
 dendrodont
 dacryops
-disarchbishop
+disarchbishop 1
 draftsman
 drupaceous
 decamping
