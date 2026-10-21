@@ -8879,7 +8879,7 @@ gypsiologist
 groundedly
 gneisses
 gyrosyn
-guardfully
+guardfully 1
 greylag
 groundout
 gyrated
