@@ -5520,7 +5520,7 @@ eucarida
 epigrammatised
 edessan
 enfeeblish
-effectful
+effectful 1
 epilimnetic
 euhemerizing
 etherlike
