@@ -27614,7 +27614,7 @@ charioteership
 covisitor
 conventicler
 covite
-covolume
+covolume 1
 catchpennies
 centrutra
 coarser
