@@ -4994,7 +4994,7 @@ fernbrake
 fribourg
 formals
 freelage
-forego
+forego 1
 flankers
 foists
 feued
