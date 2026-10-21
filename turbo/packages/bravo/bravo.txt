@@ -15540,7 +15540,7 @@ blist
 barbes
 bebar
 boyce
-burin
+burin 1
 bloodless
 brinies
 burrfish
