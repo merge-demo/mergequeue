@@ -7055,7 +7055,7 @@ bezzant
 bennetweed
 bespattered
 batara
-barracks
+barracks 1
 bespeak
 benevolences
 bodyless
