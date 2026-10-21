@@ -144,7 +144,7 @@ gersum
 golkakra
 glacises
 granulize
-gageable
+gageable 1
 glycolipide
 guerdonable
 guelf
