@@ -4637,7 +4637,7 @@ chemicocautery
 carom
 clubbily
 caromel
-caroming
+caroming 1
 caroms
 carone
 convictiveness
