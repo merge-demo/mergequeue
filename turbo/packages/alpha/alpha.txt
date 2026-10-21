@@ -4603,7 +4603,7 @@ abreacting
 arranger
 alluringly
 adviser
-autonomize
+autonomize 1
 apparatchiki
 alkalemia
 androcentric
