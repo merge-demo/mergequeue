@@ -21956,7 +21956,7 @@ cymbella
 confidante
 copout
 coresort
-confidants
+confidants 1
 centaurs
 counterproductivity
 confidence

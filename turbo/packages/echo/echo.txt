@@ -593,7 +593,7 @@ effable
 estancia
 emblematize
 echoing
-echoism
+echoism 1
 epigeal
 enhydros
 echometer
