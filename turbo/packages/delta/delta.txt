@@ -16341,7 +16341,7 @@ dumbhead
 downslide
 describent
 downslip
-decibel
+decibel 1
 downslope
 disappendancy
 desmognathism
