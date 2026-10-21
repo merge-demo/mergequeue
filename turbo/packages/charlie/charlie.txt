@@ -9398,7 +9398,7 @@ chazans
 chazanut
 chazy
 circularwise
-curtly
+curtly 1
 chazzans
 causativity
 coignes
