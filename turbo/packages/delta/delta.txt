@@ -16109,7 +16109,7 @@ dementie
 defectology
 designators
 doulocracy
-doum
+doum 1
 douma
 didynamy
 discrowned
