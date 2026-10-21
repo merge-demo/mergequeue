@@ -208,7 +208,7 @@ beguiling
 bloodwood
 bees
 bushrope
-bookiness
+bookiness 1
 bemoanable
 bloodmobile
 begary
