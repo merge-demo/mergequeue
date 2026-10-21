@@ -833,7 +833,7 @@ extremest
 electroengrave
 extradecretal
 encrust
-ectypography
+ectypography 1
 epitheton
 entrecote
 epop
