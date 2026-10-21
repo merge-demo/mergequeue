@@ -5983,7 +5983,7 @@ footscald
 fulah
 fixures
 flashness
-floorcloths
+floorcloths 1
 frere
 fluidizing
 folkways
