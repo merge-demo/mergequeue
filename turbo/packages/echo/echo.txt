@@ -8094,7 +8094,7 @@ exacum
 epiplocele
 enthuse
 encircles
-epiprecoracoid
+epiprecoracoid 1
 extrude
 elegant
 epipterous
