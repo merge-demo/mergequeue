@@ -3093,7 +3093,7 @@ diethyltryptamine
 dicycle
 digraphs
 depleting
-describable
+describable 1
 dialecticize
 dinornithic
 defalcating
