@@ -4622,7 +4622,7 @@ grister
 gutium
 gyrodactylidae
 glucagons
-gobbledegook
+gobbledegook 1
 gapa
 girthing
 gaudeamus
