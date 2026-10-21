@@ -1066,7 +1066,7 @@ circumcisions
 calceolaria
 calceolate
 calceus
-challengable
+challengable 1
 costoclavicular
 calchas 1
 calche
