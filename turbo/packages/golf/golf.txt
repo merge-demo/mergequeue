@@ -1266,7 +1266,7 @@ ghostless
 granage
 gyrophora
 gigasecond
-ged
+ged 1
 gavall
 goethites
 gromatical
