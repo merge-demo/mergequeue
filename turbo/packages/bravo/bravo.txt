@@ -11171,7 +11171,7 @@ bitable 1
 bushgoat
 bugfish
 bloodworthy
-belched
+belched 1
 blearily
 blooey
 bloomed
