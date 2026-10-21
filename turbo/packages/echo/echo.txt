@@ -10901,7 +10901,7 @@ enfin
 encephalocoele
 epibaterium
 euktolite
-endosporously
+endosporously 1
 evolutoid
 euphory
 enchondrosis
