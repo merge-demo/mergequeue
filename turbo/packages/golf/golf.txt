@@ -9427,7 +9427,7 @@ glycollide
 gabionage
 groupies
 ghastfully
-geminally
+geminally 1
 gitksan
 goldtit
 guanabano
