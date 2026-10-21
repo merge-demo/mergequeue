@@ -9580,7 +9580,7 @@ granted
 gynecologist
 gleams
 guilty
-gnus
+gnus 1
 gingersnap
 granddaddies
 grovellingly
