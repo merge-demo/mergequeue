@@ -4509,7 +4509,7 @@ eery
 enrange
 erucin
 emancipate
-enactive
+enactive 1
 emerita
 ephorate
 encephalopathia
