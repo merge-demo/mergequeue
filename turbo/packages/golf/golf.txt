@@ -1699,7 +1699,7 @@ guldens
 garotting
 gastronosus
 gnarrs
-goofier
+goofier 1
 gammon
 glibber
 grainsick
