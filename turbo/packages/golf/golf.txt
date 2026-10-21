@@ -4893,7 +4893,7 @@ ginghams
 greeter
 geologies
 gymmal
-glagolic
+glagolic 1
 gorillian 1
 grecomaniac
 gethsemane
