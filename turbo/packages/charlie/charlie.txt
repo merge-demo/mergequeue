@@ -19085,7 +19085,7 @@ cardiasthma
 chloridizing
 collimated
 collimates
-collimation
+collimation 1
 collimator
 colline
 collections
