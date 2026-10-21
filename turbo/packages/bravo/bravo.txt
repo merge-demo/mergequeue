@@ -1261,7 +1261,7 @@ barrowful
 bendy
 barleys
 bottomer
-brimmed
+brimmed 1
 bromochlorophenol
 broozled
 bucketsful
