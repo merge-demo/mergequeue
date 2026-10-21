@@ -10248,7 +10248,7 @@ eudorina
 epicurish
 evectic
 economical
-elucidatory
+elucidatory 1
 electrocution
 endoscopist
 ethylation
