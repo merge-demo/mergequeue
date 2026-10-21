@@ -3221,7 +3221,7 @@ educive
 extroversively
 eludible
 enswathes
-enfollow
+enfollow 1
 elul
 epidemic
 erects
