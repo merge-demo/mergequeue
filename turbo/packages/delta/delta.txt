@@ -12201,7 +12201,7 @@ dangerless
 deathshot
 dervishes
 disfurniture
-disguised
+disguised 1
 donax
 disgarnish
 draftmanship
