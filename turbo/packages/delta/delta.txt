@@ -2569,7 +2569,7 @@ distiller
 declensionally
 declensions
 decretist
-declimatize
+declimatize 1
 driblets
 declinational
 dipneumones
