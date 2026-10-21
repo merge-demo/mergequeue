@@ -1857,7 +1857,7 @@ bivial
 beslime
 bullose
 bialystoker
-bandaged
+bandaged 1
 bandaging
 berylloid
 bowlin
