@@ -27130,7 +27130,7 @@ countershock
 counterside
 crance
 czardoms
-counterindicate
+counterindicate 1
 crustal
 concurringly
 cemental
