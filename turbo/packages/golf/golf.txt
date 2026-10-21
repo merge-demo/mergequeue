@@ -2918,7 +2918,7 @@ glumpish
 gobblers
 gavelkind
 gaeldom
-geocyclic
+geocyclic 1
 geraldine
 guardiancy
 gneissoid
