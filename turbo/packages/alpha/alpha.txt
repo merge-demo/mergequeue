@@ -24531,7 +24531,7 @@ aoristic
 ascaron
 ame
 auxetic
-adoptability
+adoptability 1
 aghorapanthi
 anywhereness
 at
