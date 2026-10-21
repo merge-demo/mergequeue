@@ -24512,7 +24512,7 @@ autoxidizability
 autoxidizable
 autoxidize
 accloy
-antepenultimate
+antepenultimate 1
 apiarian
 administrated
 antihelices
