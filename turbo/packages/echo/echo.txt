@@ -1879,7 +1879,7 @@ einkorn
 einsteinian
 encomiast
 eyoty
-elapsed
+elapsed 1
 endamage
 eightball
 eclat
