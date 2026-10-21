@@ -3872,7 +3872,7 @@ extracted
 endometry
 eschatocol
 exotheca
-emigrating
+emigrating 1
 excogitating
 enflagellate
 epidotic
