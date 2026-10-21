@@ -19106,7 +19106,7 @@ collinsonia
 colliquable
 colliquate
 collyria
-collyrite
+collyrite 1
 carder
 collyrium
 cedes
