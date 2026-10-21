@@ -2072,7 +2072,7 @@ decaying
 diopsimeter
 diety
 dummy
-defaced
+defaced 1
 devolution
 disproportionally
 decal
