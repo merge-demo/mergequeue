@@ -4452,7 +4452,7 @@ dendrons
 divelling
 directoral
 demethylate
-definitize
+definitize 1
 disauthorize
 demetricize
 draughtmanship
