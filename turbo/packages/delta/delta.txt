@@ -3604,7 +3604,7 @@ degerm
 dihalogen
 donnish
 degerminate
-doated
+doated 1
 degerminator
 distentions
 degerms
