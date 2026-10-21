@@ -5079,7 +5079,7 @@ bejuco
 blazoning
 boatmaster
 befittingness
-behoof
+behoof 1
 balconette
 brachiofacial
 boundedness

@@ -3072,7 +3072,7 @@ doohickus
 dentaria
 defacer
 danes
-dentiscalp
+dentiscalp 1
 diaheliotropically
 desole
 delible
