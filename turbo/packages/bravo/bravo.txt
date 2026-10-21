@@ -2608,7 +2608,7 @@ bucerotinae
 bulletined
 barytocelestite
 barytone
-barytons
+barytons 1
 busing
 bowable
 bears
