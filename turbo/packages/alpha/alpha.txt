@@ -22388,7 +22388,7 @@ antilia
 autoscopy
 accreting
 astrodome
-apikorsim
+apikorsim 1
 astrogating
 agreeing
 admitter
