@@ -3502,7 +3502,7 @@ fictionalizes
 fisetin
 fluorites
 fraternity
-fleches
+fleches 1
 falcones
 fastigiate
 fulgorid
