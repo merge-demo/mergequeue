@@ -9210,7 +9210,7 @@ gluttei
 grippiness
 gratulatory
 glycolytically
-galvanometer
+galvanometer 1
 greenwich
 galvanization
 generalizes
