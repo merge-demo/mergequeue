@@ -11974,7 +11974,7 @@ depluming
 disencharm
 doctrix
 disenclose
-daint
+daint 1
 diammine
 decimus
 domicella
