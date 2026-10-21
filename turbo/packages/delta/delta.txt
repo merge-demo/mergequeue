@@ -10755,7 +10755,7 @@ dipterocarpous
 dipterocarpus
 delay
 doughtily
-divas
+divas 1
 dependent
 dipterus
 dotterel
