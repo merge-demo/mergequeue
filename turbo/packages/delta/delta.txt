@@ -1597,7 +1597,7 @@ dynamogenous
 disacidified
 deafened
 doorjambs
-dummered
+dummered 1
 dawe
 dicyanid
 destruct
