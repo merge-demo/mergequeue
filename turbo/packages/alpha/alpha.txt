@@ -9207,7 +9207,7 @@ atheisms
 apothegm
 anga
 almonage
-angina
+angina 1
 almonership
 almonries
 angiochondroma
