@@ -11611,7 +11611,7 @@ arriver
 alps
 apodes
 autosite
-acicularly
+acicularly 1
 algebras
 alleged
 antemingent
