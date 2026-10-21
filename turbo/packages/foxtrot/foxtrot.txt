@@ -11406,7 +11406,7 @@ feater
 forksmith
 forestership
 forcemeat
-flustrum
+flustrum 1
 fisticuffing
 flatterous
 fleurette
