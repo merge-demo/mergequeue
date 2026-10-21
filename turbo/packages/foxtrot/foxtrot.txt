@@ -226,7 +226,7 @@ fluorotype
 firelock
 filibranch
 fermenting
-facultatively
+facultatively 1
 fixtures
 faculties
 faunistically
