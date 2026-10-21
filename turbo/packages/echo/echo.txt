@@ -4409,7 +4409,7 @@ electrophotometry
 eternized
 electrophysiologic
 electroencephalogram
-excentrical
+excentrical 1
 endenizen
 extispices
 enthymeme
