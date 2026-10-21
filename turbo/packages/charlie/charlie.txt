@@ -27207,7 +27207,7 @@ coparent
 countertraverse
 countertreason
 corbelling
-callowness
+callowness 1
 catholicus
 confessors
 collodionize
