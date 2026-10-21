@@ -9188,7 +9188,7 @@ forenames
 forbarred
 foreknown
 fontlet
-fucus
+fucus 1
 fumously
 firebugs
 fertilising
