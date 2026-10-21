@@ -6913,7 +6913,7 @@ gestations
 galacthidrosis
 gaoling
 geochemically
-goodishness
+goodishness 1
 grallatores
 gastight
 groupthink
