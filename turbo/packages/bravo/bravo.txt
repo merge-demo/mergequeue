@@ -9874,7 +9874,7 @@ butene
 beasties
 besmirches
 bitter
-bitterbloom
+bitterbloom 1
 bittered
 beyerite
 bitterender
