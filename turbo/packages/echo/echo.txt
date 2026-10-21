@@ -1602,7 +1602,7 @@ exscind
 egotized
 egracias
 eradicated
-egress
+egress 1
 erizo
 epiblastic
 egressed
