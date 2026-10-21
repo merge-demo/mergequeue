@@ -1816,7 +1816,7 @@ debases
 duyker
 doggoned
 daggerlike
-debate
+debate 1
 disemboguing
 distintion
 distortionist
