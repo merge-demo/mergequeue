@@ -5107,7 +5107,7 @@ evanishment
 endoconidia
 edificate
 epiplanktonic
-encrustment
+encrustment 1
 ember
 elaeoblast
 elatives
