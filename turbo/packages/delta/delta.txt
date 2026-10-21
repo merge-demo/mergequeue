@@ -3856,7 +3856,7 @@ disinteresting
 dissceptred
 decorationist
 deionizer
-degeneration
+degeneration 1
 deipnophobia
 disembarkations
 dilutes
