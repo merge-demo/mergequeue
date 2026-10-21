@@ -2278,7 +2278,7 @@ enchantments
 exormia
 enbloc
 eyelets
-endolymph
+endolymph 1
 excretal
 eger
 encased
