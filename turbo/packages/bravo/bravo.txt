@@ -1643,7 +1643,7 @@ boud
 boyarism
 blier
 butyrous
-balloted
+balloted 1
 ballotist
 ballots
 ballottement
