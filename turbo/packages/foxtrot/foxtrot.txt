@@ -4286,7 +4286,7 @@ fictionisation
 freehandedly
 fingerling
 freudism
-fatiguability
+fatiguability 1
 fulsomely
 ferdwit
 foreshortens
