@@ -1041,7 +1041,7 @@ gashed 1
 garvock
 gerardias
 gorgonin
-ganglioid
+ganglioid 1
 ganglioma
 gangliomas
 gigahertzes
