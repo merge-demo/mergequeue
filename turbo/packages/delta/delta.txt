@@ -5286,7 +5286,7 @@ drammer
 defat
 diatomaceoid
 denouncers
-detestable
+detestable 1
 detinue
 dentale
 dissimulate
