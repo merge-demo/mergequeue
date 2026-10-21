@@ -26512,7 +26512,7 @@ ceiba
 copernicanism
 conductory
 chuckstone
-coopt
+coopt 1
 cottager
 cottagers
 cottars
