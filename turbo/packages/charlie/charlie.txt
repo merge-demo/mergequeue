@@ -9501,7 +9501,7 @@ checkerist
 collet
 clavola
 checkers
-chroncmeter
+chroncmeter 1
 cabbalah
 cardanic
 checky
