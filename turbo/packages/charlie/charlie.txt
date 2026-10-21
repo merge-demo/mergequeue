@@ -5927,7 +5927,7 @@ chhatri
 catgut
 chancellorism
 cath
-cannibalic
+cannibalic 1
 catha
 cynipoid
 capillatus
