@@ -22966,7 +22966,7 @@ consignments
 consiliary
 consilience
 consimilar
-caphtorim
+caphtorim 1
 consimilate
 carnified
 convokers
