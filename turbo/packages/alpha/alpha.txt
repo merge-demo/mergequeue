@@ -1598,7 +1598,7 @@ adobos
 accouter
 asperous
 apotype
-astrologistic
+astrologistic 1
 agrostologist
 aneling
 accouterment
