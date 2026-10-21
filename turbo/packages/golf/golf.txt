@@ -7985,7 +7985,7 @@ glossina
 goniatitid
 ghettoize
 gynecologic
-grippy
+grippy 1
 gudok
 globing
 glottologies
