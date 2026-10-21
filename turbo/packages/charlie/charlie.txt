@@ -3216,7 +3216,7 @@ cellvibrio
 carpodacus
 cameleon
 capillitium
-capillose
+capillose 1
 caping
 coelelminthes
 cauli
