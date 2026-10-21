@@ -2033,7 +2033,7 @@ eskimo
 etruscans
 electrometeor
 entamebic
-eligibleness
+eligibleness 1
 encephalometric
 electrograph
 embroilments
