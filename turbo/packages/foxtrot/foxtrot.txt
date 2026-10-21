@@ -4970,7 +4970,7 @@ flanch
 farcemeat
 formalize
 ferrugination
-fictionalized
+fictionalized 1
 foraminate
 fascet
 fact
