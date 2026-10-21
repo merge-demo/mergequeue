@@ -5972,7 +5972,7 @@ doctorlike
 doubledamn
 decimation
 deckswabber
-decuples
+decuples 1
 dragons
 delictus
 deed
