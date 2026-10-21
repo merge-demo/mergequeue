@@ -7144,7 +7144,7 @@ eglandulose
 extraequilibrium
 enwallow
 excandescence
-earthshine
+earthshine 1
 endymion
 eposes
 empassion
