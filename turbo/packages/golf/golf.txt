@@ -3069,7 +3069,7 @@ guardroom
 generally
 glucokinin 1
 globigerine
-gleanable
+gleanable 1
 gali
 gubat
 ghouls
