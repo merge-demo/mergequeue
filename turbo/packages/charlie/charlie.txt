@@ -12848,7 +12848,7 @@ churchwardens
 churchwardenship
 churchwoman
 churchwomen
-churel
+churel 1
 catasta
 churidars
 cyclized
