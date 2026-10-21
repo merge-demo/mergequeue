@@ -7374,7 +7374,7 @@ daising
 decriminalizes
 deflagration
 dislive
-detinues
+detinues 1
 dissymmetrical
 derogatoriness
 detn
