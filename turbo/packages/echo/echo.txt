@@ -8883,7 +8883,7 @@ endocannibalism
 embossers
 eelworms
 enteron
-erewhiles
+erewhiles 1
 ergane
 ethnohistorically
 evanishing
