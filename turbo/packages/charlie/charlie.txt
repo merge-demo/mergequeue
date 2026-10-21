@@ -23765,7 +23765,7 @@ contrapose
 contraposed
 clinospore
 chalcograph
-contraposit
+contraposit 1
 cataplexy
 contrapositive
 contrapositives
