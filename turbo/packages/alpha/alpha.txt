@@ -4551,7 +4551,7 @@ arrogance
 amania
 arbutin
 appending
-accumulable
+accumulable 1
 adversities
 abranchial
 aliptes
