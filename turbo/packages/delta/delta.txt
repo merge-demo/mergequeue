@@ -5219,7 +5219,7 @@ desmosis
 declination
 declaimers
 denunciations
-deputy
+deputy 1
 date
 denominations
 desired
