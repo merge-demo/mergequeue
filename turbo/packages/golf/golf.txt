@@ -5941,7 +5941,7 @@ gorman
 gritting
 gesnera
 gaincome
-glummest
+glummest 1
 generalific
 glumnesses
 gemeinschaft
