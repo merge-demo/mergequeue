@@ -15142,7 +15142,7 @@ colyba
 cladus
 claes
 criminosis
-condecent
+condecent 1
 crumbled
 clag
 clagged
