@@ -9954,7 +9954,7 @@ diminution
 deeplier
 didactics
 dramaturgist
-diminutions
+diminutions 1
 deener
 diminutive
 dimiss
