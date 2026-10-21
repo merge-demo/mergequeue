@@ -9987,7 +9987,7 @@ fenceless
 fanga
 forerevelation
 fecundations
-foredeclare
+foredeclare 1
 foxite
 frilled
 firetower
