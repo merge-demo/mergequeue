@@ -14843,7 +14843,7 @@ documentable
 documental
 delimer
 dactylose
-decrepid
+decrepid 1
 disgregating
 disnatural
 dimmers
