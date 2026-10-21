@@ -2252,7 +2252,7 @@ electragy
 excessive
 epitomist
 electret
-electrets
+electrets 1
 exploitive
 extensometer
 enciente
