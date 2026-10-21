@@ -4067,7 +4067,7 @@ fultz
 formenic
 funguslike
 faffle
-foyaitic
+foyaitic 1
 fibered
 frimaire
 foramination
