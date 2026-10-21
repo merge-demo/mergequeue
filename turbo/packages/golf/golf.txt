@@ -779,7 +779,7 @@ ganymede
 glossolalist
 gluck
 gutturize
-galvanothermometer
+galvanothermometer 1
 glint
 ggr
 goldfinch
