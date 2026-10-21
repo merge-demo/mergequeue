@@ -6089,7 +6089,7 @@ florisugent
 funambule
 forsook
 feak
-foretriangle
+foretriangle 1
 funicles
 fleyland
 forecome
