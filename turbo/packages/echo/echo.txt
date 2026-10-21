@@ -5046,7 +5046,7 @@ endoaortitis
 entoolitic
 economization
 emerited
-endoauscultation
+endoauscultation 1
 effervescently
 equiradial
 etchant
