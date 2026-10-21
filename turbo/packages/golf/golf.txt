@@ -3330,7 +3330,7 @@ gaging
 gildhalls
 gonydial
 glanditerous
-gahnite
+gahnite 1
 gridirons
 globed
 gasogen
