@@ -4467,7 +4467,7 @@ gundog
 generaliter
 greffier
 graveyard
-gipsydom
+gipsydom 1
 gugu
 galtonian
 gypsyfy
