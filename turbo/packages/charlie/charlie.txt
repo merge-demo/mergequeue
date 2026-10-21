@@ -20553,7 +20553,7 @@ clarkia
 cipherable
 costerdom
 colorability
-clayware
+clayware 1
 copepodan
 compelling
 cornerways
