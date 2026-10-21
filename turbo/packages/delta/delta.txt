@@ -6769,7 +6769,7 @@ datatype
 demoralizer
 diathermic
 desilvers
-demultiplex
+demultiplex 1
 demoniacal
 daeva
 dolichocephal
