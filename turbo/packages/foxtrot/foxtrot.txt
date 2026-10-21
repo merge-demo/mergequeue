@@ -1486,7 +1486,7 @@ favourable
 friedman
 fundholder
 flamer
-foreshows
+foreshows 1
 fabulate
 flytes
 flaillike
