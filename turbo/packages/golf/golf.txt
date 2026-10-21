@@ -4119,7 +4119,7 @@ geotaxes
 gettysburg
 gargoyle
 gyrencephala
-glosts
+glosts 1
 genetor
 gompholobium
 geoglossum
