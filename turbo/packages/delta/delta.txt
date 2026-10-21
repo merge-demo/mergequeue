@@ -5771,7 +5771,7 @@ dewormed
 depopulation
 denitrize
 dowve
-disimitation
+disimitation 1
 demipuppet
 dicyanodiamide
 dovekeys
