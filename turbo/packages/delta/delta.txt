@@ -6069,7 +6069,7 @@ delicacy
 dilli
 dehumanise
 dramaticism
-depressiveness
+depressiveness 1
 deputizing
 degraders
 deonerate
