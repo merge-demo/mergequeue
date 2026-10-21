@@ -10762,7 +10762,7 @@ anthophorous
 amire
 anthracometric
 amyris
-amyrol
+amyrol 1
 amyroot
 allodiaries
 alodiary
