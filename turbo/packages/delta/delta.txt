@@ -14209,7 +14209,7 @@ dramatists
 damage
 daboia
 deodorizing
-defenselessly
+defenselessly 1
 derotrematous
 disyoked
 doublet 1
