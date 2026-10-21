@@ -14740,7 +14740,7 @@ cityfolk
 citigradae
 cigale
 coordinate
-curtsy
+curtsy 1
 coenamor
 coccinellid
 coalyards
