@@ -2841,7 +2841,7 @@ exrupeal
 europhium
 eagre
 elephantoid
-elephantoidal
+elephantoidal 1
 enantiopathy
 epididymodeferentectomy
 estrays
