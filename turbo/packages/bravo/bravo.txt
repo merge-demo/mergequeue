@@ -11942,7 +11942,7 @@ boggle
 balaustine
 babakoto
 blastemas
-boggler
+boggler 1
 beballed
 bannerol
 buffeted
