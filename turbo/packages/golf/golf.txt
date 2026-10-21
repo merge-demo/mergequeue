@@ -1666,7 +1666,7 @@ gryposis
 gentries
 gastrophilite
 grandly
-gliosis
+gliosis 1
 gamebag
 gazetteerish 1
 gordioidea
