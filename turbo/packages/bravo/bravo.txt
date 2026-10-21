@@ -12926,7 +12926,7 @@ badge
 boccias
 bedspread
 bitterblain
-boothite
+boothite 1
 bootied
 bearfoot
 batwa
