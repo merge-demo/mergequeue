@@ -11756,7 +11756,7 @@ anaglyphs
 anaglypta
 aldim
 azomethine
-armorbearer
+armorbearer 1
 appetizement
 acacatechin
 ablator
