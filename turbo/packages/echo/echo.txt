@@ -8784,7 +8784,7 @@ enround
 electrodepositable
 elegist
 erections
-explosionist
+explosionist 1
 empathizing
 eviller
 enterobiliary
