@@ -7171,7 +7171,7 @@ argovian
 angusticlave
 autodynamic
 antiodontalgic
-aweigh
+aweigh 1
 alabamide
 alabamine
 alkalinizes
