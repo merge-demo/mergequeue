@@ -3164,7 +3164,7 @@ eom
 epitra
 emmarble
 elaborate
-evinced
+evinced 1
 eggnogs
 egghead
 entertainingness
