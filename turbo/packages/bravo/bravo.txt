@@ -5291,7 +5291,7 @@ bournes
 begirds
 bickered
 begirt
-beglerbeglic
+beglerbeglic 1
 bakalai
 burka
 brahmaic
