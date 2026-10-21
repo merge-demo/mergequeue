@@ -4441,7 +4441,7 @@ diapyesis
 demesman
 depravities
 declarers
-disentitle
+disentitle 1
 doctrinalism
 demesnial
 decrypting
