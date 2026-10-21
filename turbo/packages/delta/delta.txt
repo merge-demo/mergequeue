@@ -7880,7 +7880,7 @@ doughtiness
 dispenser
 dewberries
 dewcap
-devocalised
+devocalised 1
 driveways
 dewclaws
 diaphonia
