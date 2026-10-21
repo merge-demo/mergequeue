@@ -11681,7 +11681,7 @@ dashy
 discoach
 discoverable
 distilland
-disworth
+disworth 1
 dorms
 discoverer
 diabolised
