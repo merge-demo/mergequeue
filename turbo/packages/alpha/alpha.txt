@@ -6607,7 +6607,7 @@ amber
 aiglet
 altitudinous
 alectoriae
-anchoresses
+anchoresses 1
 autobolide
 aphroditeum
 antsy
