@@ -20503,7 +20503,7 @@ chapin
 celticist
 compass
 compassability
-compassable
+compassable 1
 compassed
 cotham
 cobwebbiest
