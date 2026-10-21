@@ -3998,7 +3998,7 @@ delegate
 doorsill 1
 dispossessory
 delegates
-delegateship
+delegateship 1
 dermographism
 darst
 digressiveness
