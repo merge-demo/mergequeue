@@ -2672,7 +2672,7 @@ exports
 enfant
 eudaemonics
 engenderment
-exdelicto
+exdelicto 1
 encephalocele
 epispadia 1
 epigenesist
