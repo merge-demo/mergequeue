@@ -3694,7 +3694,7 @@ gnathite
 goalmouth
 gherkins
 gyrencephalic
-ghostier
+ghostier 1
 galah
 glacierist
 gamer
