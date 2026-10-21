@@ -9608,7 +9608,7 @@ freeholdership
 feeders
 falcata
 ferias
-foolery
+foolery 1
 findability
 finalities
 flukier
