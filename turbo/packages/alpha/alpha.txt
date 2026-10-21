@@ -11663,7 +11663,7 @@ anacreontically
 athens
 anacrogynae
 amba
-anacrogynous
+anacrogynous 1
 accents
 askapart
 anacrotic
