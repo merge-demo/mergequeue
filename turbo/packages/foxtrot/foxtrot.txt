@@ -10487,7 +10487,7 @@ fervencies
 faussebraye
 floggable
 felsosphaerite
-floe
+floe 1
 freshment
 frillery
 favouringly
