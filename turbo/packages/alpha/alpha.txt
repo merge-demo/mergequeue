@@ -948,7 +948,7 @@ aggregate
 actinopoda
 ataxonomic
 acidifies
-adulterately
+adulterately 1
 antichymosin
 aborally
 apprehension
