@@ -3221,7 +3221,7 @@ frostwort
 flexionless
 fuchsone
 forefend
-foodlessness
+foodlessness 1
 festered
 falern
 forewarnings
