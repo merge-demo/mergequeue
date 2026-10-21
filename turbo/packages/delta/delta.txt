@@ -2847,7 +2847,7 @@ diaclasis
 decubiti
 deculturate
 driverless
-decuman
+decuman 1
 deperm
 dorosacral
 dihydronicotine
