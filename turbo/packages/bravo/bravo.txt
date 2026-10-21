@@ -17783,7 +17783,7 @@ basementless
 base
 braiders
 burrhead
-burrheaded
+burrheaded 1
 bedcovers
 biserrate
 burrheadedness
