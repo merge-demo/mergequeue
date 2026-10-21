@@ -13774,7 +13774,7 @@ entomogenous
 encloak
 exosperm
 evermo
-entea
+entea 1
 extispicious
 extoling
 epitympanum
