@@ -8638,7 +8638,7 @@ gentlemanly
 grapnel
 geopony
 gossipping
-gerb
+gerb 1
 grappled
 greekist
 glucosin
