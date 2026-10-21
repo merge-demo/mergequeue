@@ -17090,7 +17090,7 @@ coachwright
 coact
 coacting
 constituently
-coaction
+coaction 1
 coactive
 counterquip
 coactively
