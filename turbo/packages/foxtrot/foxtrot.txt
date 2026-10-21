@@ -9702,7 +9702,7 @@ fideicommissum
 firmly
 firebrat
 frenatae
-frenchify
+frenchify 1
 fido
 freakful
 fremd
