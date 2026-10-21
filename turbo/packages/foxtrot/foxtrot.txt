@@ -2864,7 +2864,7 @@ fetwa
 ferlies
 fetterlock
 faroeish
-flatfish
+flatfish 1
 forewing
 foxship
 frisettes
