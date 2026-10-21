@@ -11952,7 +11952,7 @@ endurance
 enlist
 epithecate
 exactress
-enarthroses
+enarthroses 1
 enteromesenteric
 epistemophilic
 everlastingly
