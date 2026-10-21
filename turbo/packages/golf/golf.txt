@@ -7548,7 +7548,7 @@ garageman
 gladify
 gangman
 goldsmithing
-gcd
+gcd 1
 greenths
 garbled
 glycolic
