@@ -10941,7 +10941,7 @@ fetal
 floorage
 francs
 firedamp
-fulminurate
+fulminurate 1
 fulness
 fess
 fragmentised
