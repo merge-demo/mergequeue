@@ -3296,7 +3296,7 @@ exegetically
 eridanid
 enraged
 envisions
-enclose
+enclose 1
 euplastic
 emanational
 extrapelvic
