@@ -878,7 +878,7 @@ commendador
 crost
 cosmothetic
 cayuga
-cayugan
+cayugan 1
 cayugas
 cayuse
 cayuses
