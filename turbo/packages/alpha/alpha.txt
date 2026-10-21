@@ -12480,7 +12480,7 @@ argante
 androsphinx
 androsporangium
 autostethoscope
-arteriology
+arteriology 1
 androsterone
 androtomy
 acoemeti

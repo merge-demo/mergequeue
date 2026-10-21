@@ -11924,7 +11924,7 @@ exalter
 exocataphoria
 ese
 exairesis
-esthesis
+esthesis 1
 endemic
 electrooptical
 ensampler
