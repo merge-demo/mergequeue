@@ -11092,7 +11092,7 @@ collembolic
 chytridiose
 chytridiosis
 chytroi
-chits
+chits 1
 chittack
 chitted
 chitter
