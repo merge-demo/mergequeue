@@ -10098,7 +10098,7 @@ abrupt
 adrenal
 arles
 alchymies
-astral
+astral 1
 antimonarchists
 antasthmatic
 amblystegite
