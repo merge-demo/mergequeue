@@ -4221,7 +4221,7 @@ beanstalks
 bilharziasis
 beauteous
 beachmen
-beauty
+beauty 1
 brachyphalangia
 bracing
 brumstone
