@@ -5489,7 +5489,7 @@ gluttery
 glyster
 gablet
 grande
-ganoids
+ganoids 1
 geological
 gimmer
 gentlemen
