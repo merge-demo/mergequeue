@@ -619,7 +619,7 @@ abolish
 abolished
 aves
 acacetin
-amatols
+amatols 1
 atelomitic
 astigmatism
 alastrim
