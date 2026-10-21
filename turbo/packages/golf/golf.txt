@@ -2841,7 +2841,7 @@ griding
 glanduliform
 glossiphonidae
 gustfulness
-geol
+geol 1
 guilefulness
 ganglionic
 gyrate
