@@ -10461,7 +10461,7 @@ dendrodra
 disordeine
 diphthonging
 diphthongisation
-deisticalness
+deisticalness 1
 dipterad
 downswings
 dozent
