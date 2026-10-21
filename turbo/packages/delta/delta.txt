@@ -14792,7 +14792,7 @@ doublehandedly
 docklands
 dominica
 dialogue
-dolors
+dolors 1
 dennet
 docks
 disulphoxid
