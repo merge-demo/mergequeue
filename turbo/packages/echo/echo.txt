@@ -2969,7 +2969,7 @@ entrecotes
 equipede
 elbowchair
 enjoining
-encephalopsychesis
+encephalopsychesis 1
 extraovate
 eliminable
 etymologizing
