@@ -9956,7 +9956,7 @@ alloy
 androeccia
 amaze
 airlocks
-akroterial
+akroterial 1
 autotrophy
 addict
 anatomicopathological
