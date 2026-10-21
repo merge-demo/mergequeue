@@ -9347,7 +9347,7 @@ eruptive
 extortioner
 essoinee
 endear
-eruptivity
+eruptivity 1
 echinuliform
 esbatement
 enlock
