@@ -4059,7 +4059,7 @@ application
 analysed
 acetophenin
 acidogenic
-aureola
+aureola 1
 admiring
 anality
 antislip
