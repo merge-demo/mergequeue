@@ -4583,7 +4583,7 @@ borborus
 bedaubing
 beltlines
 bloodstone
-belial
+belial 1
 biddelian
 blocker
 beats
