@@ -5062,7 +5062,7 @@ escrod
 eavesdrop
 eclecticism
 endearingly
-exemptible
+exemptible 1
 evertebrata
 emotiovascular
 egma
