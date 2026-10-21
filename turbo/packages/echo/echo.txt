@@ -5194,7 +5194,7 @@ equipluve
 equilibrate
 endomitosis
 endomorphy
-exta
+exta 1
 ekebergite
 either
 endoneurium
