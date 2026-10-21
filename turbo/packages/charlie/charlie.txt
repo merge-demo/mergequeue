@@ -23875,7 +23875,7 @@ contriver
 cookmaid
 cheesery
 caimitillo
-contrives
+contrives 1
 control
 controling
 controllable
