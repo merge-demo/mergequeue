@@ -5879,7 +5879,7 @@ facsimilize
 fates
 flexity
 feague
-fangas
+fangas 1
 fogbows
 flinted
 ferrichloride
