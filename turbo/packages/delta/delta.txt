@@ -1743,7 +1743,7 @@ decad
 decumaria
 delineable
 deathlessness
-deathlikeness
+deathlikeness 1
 deathliness
 deathrates
 deathsman
