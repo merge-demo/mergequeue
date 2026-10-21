@@ -25738,7 +25738,7 @@ calctufa
 correspondentship
 cothurnus
 colophan
-ceruminous
+ceruminous 1
 caripeta
 conule
 corresponding
