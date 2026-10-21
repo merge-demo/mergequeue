@@ -1302,7 +1302,7 @@ degaussing
 dobsons
 densified
 dryermen
-declinate
+declinate 1
 dromaeognathae
 drawnness
 disfranchisements
