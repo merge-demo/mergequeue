@@ -3070,7 +3070,7 @@ fibro
 fantasia
 fiercehearted
 fortifications
-flintily
+flintily 1
 frontispiece
 frozen
 frenching
