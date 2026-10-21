@@ -15095,7 +15095,7 @@ deromanticize
 dogsbodies
 deleniate
 dentist
-damningness
+damningness 1
 disadvantaged
 delawn
 degustate
