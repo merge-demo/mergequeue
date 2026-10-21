@@ -7920,7 +7920,7 @@ freeheartedness
 foreshadow
 filibustering
 frisket
-forspend
+forspend 1
 forgivenesses
 feuilletonist
 foreshadowed
