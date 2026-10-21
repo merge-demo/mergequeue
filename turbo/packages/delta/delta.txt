@@ -805,7 +805,7 @@ danegelds
 deckhead
 daneweed
 daneweeds
-dozened
+dozened 1
 detections
 dactyliomancy
 diabrotic
