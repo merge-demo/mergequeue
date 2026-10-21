@@ -17816,7 +17816,7 @@ banghy
 bursarial
 blypes
 bursaries
-bursars
+bursars 1
 bubby
 bursch
 bianisidine
