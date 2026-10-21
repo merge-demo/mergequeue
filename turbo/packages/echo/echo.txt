@@ -8289,7 +8289,7 @@ epithalline
 exotism
 elastase
 einstein
-earthwards
+earthwards 1
 electropuncturation
 ecumenicality
 electrodynamics
