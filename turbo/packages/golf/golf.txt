@@ -2230,7 +2230,7 @@ gefulltefish
 galley
 gaumy
 galax
-gonidiogenous
+gonidiogenous 1
 gehlenite
 goblet
 gratuity
