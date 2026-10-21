@@ -15597,7 +15597,7 @@ diversionist
 dooputty
 doorhead
 dooring
-doorknob
+doorknob 1
 doorless
 destinate
 doormaid
