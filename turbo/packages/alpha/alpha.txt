@@ -5134,7 +5134,7 @@ almoin
 atherosclerotically
 aestii
 annihilated
-aestivate
+aestivate 1
 avocate
 aestivates
 azotite
