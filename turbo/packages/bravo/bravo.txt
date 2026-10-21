@@ -4349,7 +4349,7 @@ bely
 blowze 1
 bonspiels
 bombola
-bechuana
+bechuana 1
 bespousing
 bellhops
 beclang
