@@ -14461,7 +14461,7 @@ divertingness
 dissolveability
 demoralization
 diagnoseable
-dawdler
+dawdler 1
 disproof
 divertisement
 dextrogyrous
