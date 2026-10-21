@@ -12567,7 +12567,7 @@ cellucotton
 chronologer
 circularize
 coalternative
-chantecler
+chantecler 1
 cercle
 cafetiere
 chronologizing
