@@ -6967,7 +6967,7 @@ garhwali
 groundsman
 gastroepiploic
 geswarp
-gablewindowed
+gablewindowed 1
 galvanoplastical
 gwantus
 goofah
