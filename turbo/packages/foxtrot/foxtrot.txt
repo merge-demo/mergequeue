@@ -2527,7 +2527,7 @@ faired
 fastballs
 flunky
 favaginous
-foulmouth
+foulmouth 1
 formaldehyde
 feverlike
 frondescent
