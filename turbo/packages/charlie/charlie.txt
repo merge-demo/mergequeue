@@ -28708,7 +28708,7 @@ clung
 crenothrix
 crenula
 connectible
-crenulate
+crenulate 1
 crenulation
 creodonta
 crenellating
