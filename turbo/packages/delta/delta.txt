@@ -7474,7 +7474,7 @@ deposal
 detune
 disruptionist
 detuning
-diastrophic
+diastrophic 1
 dragooned
 dexiotropic
 doggishness
