@@ -1268,7 +1268,7 @@ expands
 equilibriate
 epiky
 estotiland
-embowl
+embowl 1
 exploringly
 eelworm
 epichlorohydrin
