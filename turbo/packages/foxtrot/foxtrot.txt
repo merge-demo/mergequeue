@@ -11231,7 +11231,7 @@ false
 flashcubes
 formful
 fabricative
-flexuosities
+flexuosities 1
 ferned
 flemished
 fluorescing
