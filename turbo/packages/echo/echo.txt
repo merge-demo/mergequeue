@@ -894,7 +894,7 @@ evilspeaker
 encourager
 endiadem
 ectoproctous
-enteroptosis
+enteroptosis 1
 engineery
 eumolpique
 ectosarc
