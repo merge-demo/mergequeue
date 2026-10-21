@@ -6916,7 +6916,7 @@ elecampane
 enzone
 eighties
 esau
-entoprocta
+entoprocta 1
 etherealizing
 erected
 entoptic
