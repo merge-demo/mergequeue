@@ -4405,7 +4405,7 @@ encaptivate
 essence
 expectorate
 ecgonine
-electrophotometry
+electrophotometry 1
 eternized
 electrophysiologic
 electroencephalogram
