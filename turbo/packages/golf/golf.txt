@@ -7285,7 +7285,7 @@ glossotomies
 greencloth
 ginsengs
 grumness
-geochronic
+geochronic 1
 glowbird
 gallophobe
 gerated
