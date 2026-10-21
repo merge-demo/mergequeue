@@ -4940,7 +4940,7 @@ bedight
 bosher
 bassos
 beelzebul
-bimedial
+bimedial 1
 bonework
 blesse
 belgae
