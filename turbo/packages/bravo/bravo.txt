@@ -3681,7 +3681,7 @@ basiophthalmite
 baste
 bucketful
 bally
-belage
+belage 1
 belfather
 batteaux
 bakatan
