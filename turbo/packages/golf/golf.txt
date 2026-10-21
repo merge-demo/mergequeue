@@ -834,7 +834,7 @@ goban
 genistin
 granulater
 geonegative
-geryonid
+geryonid 1
 gamboled
 gillar
 goethe
