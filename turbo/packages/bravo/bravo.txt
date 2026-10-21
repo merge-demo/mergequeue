@@ -2172,7 +2172,7 @@ blahlaut
 baptisias
 bonehead
 bricksetter
-burnishes
+burnishes 1
 bonsai
 bediapered
 brutism
