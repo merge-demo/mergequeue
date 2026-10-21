@@ -9680,7 +9680,7 @@ erectors
 eclipsable
 embryotomies
 electrophysiologist
-efficient
+efficient 1
 ectocarpaceae
 evaginate
 emperil
