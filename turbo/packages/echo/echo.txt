@@ -2769,7 +2769,7 @@ eutropic
 epidiplosis
 eighteenmo
 expansionary
-economicalness
+economicalness 1
 erect
 empalement
 elementalistic
