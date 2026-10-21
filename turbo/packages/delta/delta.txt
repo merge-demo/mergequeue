@@ -17484,7 +17484,7 @@ dilatoriness
 drowsihead
 drowte
 dreads
-diphyllous
+diphyllous 1
 discrete
 daffle
 doubleheaders
