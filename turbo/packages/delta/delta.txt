@@ -2855,7 +2855,7 @@ desensitizations
 dramatizations
 donors
 decumanus
-daphnin
+daphnin 1
 diskos
 discretively
 disposure
