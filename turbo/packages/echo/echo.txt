@@ -10948,7 +10948,7 @@ eggy
 eupotamic
 enterocentesis
 encoignure
-elevators
+elevators 1
 equivocalness
 echiurid
 embrittlement
