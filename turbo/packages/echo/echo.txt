@@ -3883,7 +3883,7 @@ egressive
 equivote
 echeneis
 eternal
-electrotonus
+electrotonus 1
 extraboldface
 eminencies
 evendown
