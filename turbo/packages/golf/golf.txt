@@ -3075,7 +3075,7 @@ gubat
 ghouls
 gibbol
 glossarist
-garo
+garo 1
 groaned
 geophilid
 galvanoscopic
