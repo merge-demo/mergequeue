@@ -4983,7 +4983,7 @@ epichirema
 enantiopathic
 electrofused
 eco
-eightscore
+eightscore 1
 endenization
 excusator
 ecarte
