@@ -8595,7 +8595,7 @@ farmyard
 forescript
 floury
 fumarases
-fluotantalic
+fluotantalic 1
 foredid
 flecks
 fir
