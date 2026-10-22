@@ -24708,7 +24708,7 @@ avers
 aversant
 averseness
 adults
-avertable
+avertable 1
 antivenefic
 arabs
 autolyzed
