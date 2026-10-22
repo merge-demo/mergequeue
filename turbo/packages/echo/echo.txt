@@ -8841,7 +8841,7 @@ egyptology
 estrones
 erectopatent
 entophytic
-equiprobabilist
+equiprobabilist 1
 eternities
 enjeopardy
 extricable
