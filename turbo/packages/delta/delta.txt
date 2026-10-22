@@ -12442,7 +12442,7 @@ dentally
 deracinate
 doubtably
 dertrum
-damageableness
+damageableness 1
 dancette
 defy
 deboise
