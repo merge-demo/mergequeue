@@ -3363,7 +3363,7 @@ dictative
 defis
 deflagrable
 desophistication
-dialling
+dialling 1
 decolor
 disrestore
 dynagraph
