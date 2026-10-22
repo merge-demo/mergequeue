@@ -4172,7 +4172,7 @@ adonist
 arterialization
 albumoscope
 amphilogy
-adonite
+adonite 1
 amberoids
 alkylamine
 adonizing
