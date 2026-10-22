@@ -6482,7 +6482,7 @@ evincingly
 euphratean
 exstruct
 entocyst
-erubescence
+erubescence 1
 excludable
 englerophoenix
 estimative
