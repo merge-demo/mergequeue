@@ -13260,7 +13260,7 @@ estranger
 evict
 eponymize
 eternizing
-exantlate
+exantlate 1
 ensheath
 epignathous
 eyedroppers
