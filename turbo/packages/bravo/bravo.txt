@@ -13905,7 +13905,7 @@ brined
 bulbaceous
 boatswains
 brainish
-bowshots
+bowshots 1
 boomkins
 backstopped
 backhauled
