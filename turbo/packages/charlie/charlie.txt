@@ -4960,7 +4960,7 @@ cartels
 cartilaginous
 carting
 coulometry
-cartist
+cartist 1
 cartloads
 clicket
 colory
