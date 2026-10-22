@@ -15534,7 +15534,7 @@ coplanarity
 classbook
 conquinine
 cyclicism
-classers
+classers 1
 classfellow
 classy
 contrastably

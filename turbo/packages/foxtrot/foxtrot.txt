@@ -6516,7 +6516,7 @@ fip
 failsoft
 frapping
 forspread
-furcular
+furcular 1
 foldskirt
 fortifying
 flexuousness
