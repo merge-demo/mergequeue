@@ -12637,7 +12637,7 @@ didy
 dyskeratosis
 diskette
 discernibleness
-diskindness
+diskindness 1
 denationalised
 diskography
 dvandva
