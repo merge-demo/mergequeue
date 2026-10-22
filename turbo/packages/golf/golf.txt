@@ -4252,7 +4252,7 @@ goliath
 gammoned
 grunth
 gomavel
-gynarchic
+gynarchic 1
 gazella
 geumatophobia
 gradometer
