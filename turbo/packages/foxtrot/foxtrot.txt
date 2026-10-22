@@ -7096,7 +7096,7 @@ fusional
 fingerstall
 fadmonger
 fewsome
-foolproof
+foolproof 1
 foolproofness
 ferret
 fibulare
