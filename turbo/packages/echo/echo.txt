@@ -2101,7 +2101,7 @@ excretory
 extrapolator
 effuse
 elastically
-eurycephalous
+eurycephalous 1
 exudes
 emberiza
 effete
