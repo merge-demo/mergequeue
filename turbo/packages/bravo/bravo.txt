@@ -1550,7 +1550,7 @@ backsword
 ballastic
 bashawship
 ballata
-brisked
+brisked 1
 batikulin
 ballatoon
 broiden
