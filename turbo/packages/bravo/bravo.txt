@@ -1682,7 +1682,7 @@ ballstock
 ballup
 ballweed
 botony
-bouffante
+bouffante 1
 balmarcodes
 balmawhapple
 bimodality
