@@ -5887,7 +5887,7 @@ furnishings
 featurely
 foresignify
 flocculent
-flushes
+flushes 1
 flaxier
 flocker
 frogged
