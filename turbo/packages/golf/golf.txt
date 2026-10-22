@@ -935,7 +935,7 @@ gutturotetany
 gursh
 gingeli
 gammerel
-gammerstang
+gammerstang 1
 garboils
 guayaba
 gastropneumatic
