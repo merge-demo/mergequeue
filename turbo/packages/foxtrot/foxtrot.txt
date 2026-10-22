@@ -8110,7 +8110,7 @@ foretasting
 fretsaw
 falisci
 forewrought
-fractionate
+fractionate 1
 fanaticalness
 foretell
 figurehead

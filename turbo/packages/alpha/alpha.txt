@@ -2580,7 +2580,7 @@ acouometer
 azocoralline
 antihelminthic
 asphyxiating
-adjacently
+adjacently 1
 acousticon
 allotriognathi
 aegagropile
