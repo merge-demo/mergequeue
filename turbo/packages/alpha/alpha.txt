@@ -4838,7 +4838,7 @@ allotypy
 allophylic
 awedly
 agsam
-authenticatable
+authenticatable 1
 artistical
 archlute
 aeroboat
