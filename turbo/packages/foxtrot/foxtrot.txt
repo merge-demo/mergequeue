@@ -11488,7 +11488,7 @@ foothill
 ferrite
 foredescribe
 farms
-facilities
+facilities 1
 figural
 flunkeyize
 finnmarks
