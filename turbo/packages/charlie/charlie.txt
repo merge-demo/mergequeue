@@ -8970,7 +8970,7 @@ chalchihuitl
 cryptal
 countersignature
 compartment
-charism
+charism 1
 charismata
 consuete
 charismatic
