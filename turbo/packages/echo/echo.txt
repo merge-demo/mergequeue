@@ -6486,7 +6486,7 @@ erubescence
 excludable
 englerophoenix
 estimative
-esperantidist
+esperantidist 1
 execration
 englishes
 ephemeris
