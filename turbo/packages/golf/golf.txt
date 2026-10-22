@@ -6101,7 +6101,7 @@ glutaeous
 gorbit
 guttie
 gibbled
-grisset
+grisset 1
 grume
 gnaws
 gramineous
