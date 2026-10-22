@@ -1532,7 +1532,7 @@ flytraps
 filmmaking
 foulards
 filibeg
-flauntiness
+flauntiness 1
 forepiece
 faunish
 fleecing
