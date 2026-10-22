@@ -21854,7 +21854,7 @@ auricula
 assify
 adventurement
 alpen
-addax
+addax 1
 assign
 assignability
 astrodynamics
