@@ -8561,7 +8561,7 @@ calemes
 cablish
 cymaphen
 catanadromous
-chandui
+chandui 1
 countercross
 conversationable
 chandul
