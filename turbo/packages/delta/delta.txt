@@ -6187,7 +6187,7 @@ deriding
 divertor
 dwells
 deringa
-diffuseness
+diffuseness 1
 dorsispinal
 demonstrability
 did
