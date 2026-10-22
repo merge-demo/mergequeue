@@ -10873,7 +10873,7 @@ disjuncts
 desalting
 disculpate
 decerebrize
-diruption
+diruption 1
 dereference
 deployed
 disable
