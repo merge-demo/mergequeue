@@ -5528,7 +5528,7 @@ gastrorrhaphy
 gastropoda
 gustier
 genear
-globalizing
+globalizing 1
 gisants
 growls
 groggeries
