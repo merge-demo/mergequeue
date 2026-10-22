@@ -1602,7 +1602,7 @@ favorer
 foresty
 ferrash
 fleecelike
-fourstrand
+fourstrand 1
 falsettist
 fibrinogen
 floristic

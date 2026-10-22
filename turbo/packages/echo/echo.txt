@@ -12973,7 +12973,7 @@ electrodeposition 1
 expectorant
 espiglerie
 expectorated
-echinococcus
+echinococcus 1
 enneahedria
 exculpate
 etatisms
