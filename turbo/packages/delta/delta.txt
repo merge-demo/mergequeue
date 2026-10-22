@@ -15102,7 +15102,7 @@ degustate
 dubitatively
 dipolarization
 dogstones
-dogtie
+dogtie 1
 dumpler
 degenerated
 dogtooth
