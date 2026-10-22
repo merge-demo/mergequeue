@@ -5847,7 +5847,7 @@ glt
 gatten
 glochidia
 germanism
-gendarmes
+gendarmes 1
 gruiformes
 geroderma
 graffito
