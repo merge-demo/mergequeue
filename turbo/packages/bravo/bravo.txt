@@ -17858,7 +17858,7 @@ barmfel
 balanites
 ballistocardiogram
 bus
-busaos
+busaos 1
 bawsunt
 bine
 busbar
