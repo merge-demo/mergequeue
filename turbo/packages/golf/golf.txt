@@ -6102,7 +6102,7 @@ gorbit
 guttie
 gibbled
 grisset
-grume
+grume 1
 gnaws
 gramineous
 gneiss
