@@ -24540,7 +24540,7 @@ copastors
 candlebox
 copatentee
 copatriot
-copatroness
+copatroness 1
 cathectic
 crankum
 connascent
