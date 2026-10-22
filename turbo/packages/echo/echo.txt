@@ -1450,7 +1450,7 @@ ethmovomer
 environic
 ergonomic
 ethiopian
-epanorthotic
+epanorthotic 1
 emunct
 exenteritis
 envelop
