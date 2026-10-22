@@ -2726,7 +2726,7 @@ gullyhole
 gauntry
 gripeful
 gorlois
-grenades
+grenades 1
 geodesists
 gristmiller
 gliadins
