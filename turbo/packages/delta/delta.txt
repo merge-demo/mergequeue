@@ -10915,7 +10915,7 @@ datolite
 diallist
 deuterocone
 dispenses
-doublethinking
+doublethinking 1
 dorsoradial
 digressions
 disadvance
