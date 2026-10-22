@@ -381,7 +381,7 @@ franklandite
 from
 fieldfight
 froes
-fluorides
+fluorides 1
 faintly
 fiercen
 furoid
