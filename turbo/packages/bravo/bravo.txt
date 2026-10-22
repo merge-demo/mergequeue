@@ -4822,7 +4822,7 @@ bedstraw
 bedstraws
 bedstring
 boundedly
-bigamists
+bigamists 1
 beautiless
 broadwise
 bartram
