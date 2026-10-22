@@ -24066,7 +24066,7 @@ coiling
 convergences
 comps
 cerebronic
-convergency
+convergency 1
 columbary
 convergent
 cytogeny
