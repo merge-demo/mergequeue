@@ -8243,7 +8243,7 @@ dubitancy
 diploetic
 diagnostician
 dispopularize
-dizzy
+dizzy 1
 draped
 disinsectization
 disputableness
