@@ -5922,7 +5922,7 @@ glebe
 gewgawish
 grogshops
 goofs
-gambirs
+gambirs 1
 glamourizer
 goclenian
 guttlers
