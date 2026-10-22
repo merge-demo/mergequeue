@@ -1952,7 +1952,7 @@ freight
 furling
 fidicula
 fileable
-figure
+figure 1
 friable
 fangot
 frenal
