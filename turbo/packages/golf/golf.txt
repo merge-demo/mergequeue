@@ -6960,7 +6960,7 @@ gigglers
 grieshuckle
 grinds
 grapevine
-goodwives
+goodwives 1
 germander
 grasswidow
 garhwali
