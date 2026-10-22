@@ -19578,7 +19578,7 @@ cusp
 centriole
 copesetic
 columbotantalate
-crepiness
+crepiness 1
 confession
 childhoods
 columel
