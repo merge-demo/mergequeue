@@ -9326,7 +9326,7 @@ ferromagnesian
 frangulic
 forjudge 1
 flichter
-fidelis
+fidelis 1
 fishless
 fetichistic
 felinities
