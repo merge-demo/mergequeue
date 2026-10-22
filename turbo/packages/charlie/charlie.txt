@@ -20296,7 +20296,7 @@ communalistic
 confederacies
 communalization
 congressional
-communalize
+communalize 1
 ceratoglossus
 communalizer
 copters
