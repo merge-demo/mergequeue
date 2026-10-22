@@ -3325,7 +3325,7 @@ basisidia
 bedwell
 basisphenoidal
 barbut
-basitemporal
+basitemporal 1
 besotment
 basitting
 basiventral
