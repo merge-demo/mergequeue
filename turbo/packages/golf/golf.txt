@@ -5860,7 +5860,7 @@ gharri
 gadger
 gate
 gymnosporangium
-gynoecium
+gynoecium 1
 glucate
 gorevan
 gibelite
