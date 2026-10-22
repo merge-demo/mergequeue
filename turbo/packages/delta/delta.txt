@@ -8181,7 +8181,7 @@ dactylic
 dart
 drabbets
 denitrified
-disyllabize
+disyllabize 1
 diacranterian
 diffractions
 dicyema
