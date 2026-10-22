@@ -633,7 +633,7 @@ bromates
 benomyls
 bratstva
 behearse
-bacterid
+bacterid 1
 birdcages
 baraka
 behaves
