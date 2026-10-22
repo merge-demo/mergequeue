@@ -6454,7 +6454,7 @@ deodara
 digitization
 dragomanic
 desalinated
-diaereses
+diaereses 1
 deafeningly
 despairs
 dodecanoic
