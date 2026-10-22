@@ -4962,7 +4962,7 @@ emigates
 ethnobiological
 electrocorticogram
 envy
-extirpative
+extirpative 1
 equinia
 engraphic
 endoskeleton
