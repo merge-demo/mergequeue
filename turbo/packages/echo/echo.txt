@@ -13400,7 +13400,7 @@ escalates
 excitatory
 evilmouthed
 eutelegenic
-emaciates
+emaciates 1
 eltime
 espadrilles
 energizer
