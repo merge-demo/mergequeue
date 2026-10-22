@@ -9263,7 +9263,7 @@ disambiguations
 daikering
 diurne
 daguerreotyper
-dietaries
+dietaries 1
 dibbing
 deosculate
 disploding
