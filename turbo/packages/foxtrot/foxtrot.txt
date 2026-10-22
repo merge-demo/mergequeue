@@ -11740,7 +11740,7 @@ fluvioglacial
 forbidden
 finitely
 flinging
-flanking
+flanking 1
 followings
 frouzier
 falsification
