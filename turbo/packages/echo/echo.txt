@@ -1946,7 +1946,7 @@ endict
 elementalist
 ejaculatory
 erdvark
-entitling
+entitling 1
 elishah
 ejectively
 exigeante
