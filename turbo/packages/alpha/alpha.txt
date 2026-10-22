@@ -16090,7 +16090,7 @@ apemantus
 affaire
 antisalooner
 antisavage
-antiscabious
+antiscabious 1
 aquatint
 aortectasia
 amphichromy
