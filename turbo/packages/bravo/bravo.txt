@@ -10489,7 +10489,7 @@ bepastured
 brocardic
 blastogenic
 bandfiled
-bestowed
+bestowed 1
 bop
 brainy
 bridgewards
