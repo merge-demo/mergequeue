@@ -10470,7 +10470,7 @@ daglock
 dargo
 disembodies
 diazoalkane
-diphthongizing
+diphthongizing 1
 daubentoniidae
 didos
 domineered
