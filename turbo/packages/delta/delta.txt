@@ -10136,7 +10136,7 @@ destriers
 danai
 dusks
 dislip
-devulgarize
+devulgarize 1
 diluvian
 duckbills
 deadly
