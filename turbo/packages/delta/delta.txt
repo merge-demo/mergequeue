@@ -2296,7 +2296,7 @@ daidled
 drips
 dirtplate
 disaggregation
-digestors
+digestors 1
 dynamical
 deliberant
 decentralising
