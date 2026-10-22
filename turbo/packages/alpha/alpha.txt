@@ -17465,7 +17465,7 @@ astronomer
 apozem
 astrophel
 angiostomize
-amphipneustic
+amphipneustic 1
 apozema
 apozymase
 argemony
