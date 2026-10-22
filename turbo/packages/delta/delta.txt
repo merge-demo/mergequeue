@@ -5675,7 +5675,7 @@ dipl
 disrobe
 dentelliere
 dolorousness
-deicer
+deicer 1
 drumler
 deplant
 disvertebrate
