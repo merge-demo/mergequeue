@@ -24512,7 +24512,7 @@ clr
 courtliness
 clavis
 copaivic
-copaliferous
+copaliferous 1
 copalite
 coparcenar
 coparcenary
