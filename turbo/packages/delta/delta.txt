@@ -1494,7 +1494,7 @@ dracma
 dc
 dcb
 depressure 1
-deaccessioning
+deaccessioning 1
 drawbolt
 delftware
 dermatorrhea
