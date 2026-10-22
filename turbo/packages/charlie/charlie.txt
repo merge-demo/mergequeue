@@ -10728,7 +10728,7 @@ cataloger
 clammersome
 classrooms
 corroder
-chinchy
+chinchy 1
 chinchillas
 chinchillette
 caligo
