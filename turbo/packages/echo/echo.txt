@@ -10193,7 +10193,7 @@ emmarbled
 enacting 1
 electrotelegraphic
 externals
-escargotieres
+escargotieres 1
 esperantic
 esophagomycosis
 envenomation
