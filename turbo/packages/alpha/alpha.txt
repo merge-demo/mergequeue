@@ -23866,7 +23866,7 @@ ashlaring
 autarchies
 autarchist
 acalypterae
-allosaurus
+allosaurus 1
 anisostichus
 airmailing
 andoke
