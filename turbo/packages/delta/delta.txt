@@ -606,7 +606,7 @@ dramamine
 deposes
 doff
 damnability
-damnabilities
+damnabilities 1
 disegno
 dawut
 deadrize
