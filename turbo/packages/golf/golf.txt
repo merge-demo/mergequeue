@@ -9273,7 +9273,7 @@ graininess
 glowworm
 guts
 grueling
-gaugeably
+gaugeably 1
 grizzling
 ghosts
 groanful
