@@ -3399,7 +3399,7 @@ canonizant
 capreolary
 capreolate
 chimericalness
-crossbarring
+crossbarring 1
 continuua
 capretto
 capri
