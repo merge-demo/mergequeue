@@ -1203,7 +1203,7 @@ globular
 guestive
 guttate
 garfishes
-glaux
+glaux 1
 gimcrackery
 gimmicking
 glanders
