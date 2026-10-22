@@ -5828,7 +5828,7 @@ floatage
 farmeries
 flung
 fayal
-feverously
+feverously 1
 fattening
 fervidly
 firepower
