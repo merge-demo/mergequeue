@@ -1017,7 +1017,7 @@ feeblest
 forehook
 foglietto
 fascicles
-flexuose
+flexuose 1
 flatlong
 fren
 fumosity
