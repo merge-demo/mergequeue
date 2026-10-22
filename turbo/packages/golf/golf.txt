@@ -2127,7 +2127,7 @@ galeiform
 ganglands
 guillermo
 gazette
-gemmiparity
+gemmiparity 1
 gloving
 gumshoing
 gymnolaematous
