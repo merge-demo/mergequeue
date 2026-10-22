@@ -804,7 +804,7 @@ encephalography
 enter
 euplotid
 emplection
-extravisceral
+extravisceral 1
 evincibly
 electrophotography
 ectasis
