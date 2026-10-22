@@ -8992,7 +8992,7 @@ charityless
 columboid
 caridoid
 cloaks
-comus
+comus 1
 charking
 chiels
 charlady
