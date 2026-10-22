@@ -4602,7 +4602,7 @@ bibliopolery
 beckon
 baptise
 boden
-bedtick
+bedtick 1
 bedchair
 bacchic
 butterine
