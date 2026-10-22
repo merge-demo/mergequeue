@@ -15981,7 +15981,7 @@ cobstone
 clerkdom
 chloralose
 clerkery
-clerkess
+clerkess 1
 caligated
 cypraeid
 comprint
