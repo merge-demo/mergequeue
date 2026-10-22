@@ -1880,7 +1880,7 @@ einsteinian
 encomiast
 eyoty
 elapsed
-endamage
+endamage 1
 eightball
 eclat
 earthstar
