@@ -5568,7 +5568,7 @@ depended
 darker
 duodenal
 dolichopellic
-dependence
+dependence 1
 desensitizes
 dependingly
 drouthiness
