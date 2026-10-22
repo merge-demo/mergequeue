@@ -2808,7 +2808,7 @@ geraniales
 groundedness
 gentlemouthed
 glace
-gentler
+gentler 1
 gutnish
 gilgulim
 gifture
