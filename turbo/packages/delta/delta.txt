@@ -8342,7 +8342,7 @@ disruptable
 dioestrum
 disincline
 depredation
-disvouch
+disvouch 1
 decalobate
 dromed
 decigrams
