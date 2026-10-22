@@ -4013,7 +4013,7 @@ crystalloluminescence
 carcinolysin
 cycadiform
 carcinological
-carbocyclic
+carbocyclic 1
 curtesy
 carcinomata
 corroborees
