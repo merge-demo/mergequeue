@@ -1106,7 +1106,7 @@ firehalls
 forthcame
 flyings
 farruca
-farseer
+farseer 1
 frenchwoman
 frondescence
 farsighted
