@@ -17757,7 +17757,7 @@ desicate
 devaluing
 dubitate
 doyenne
-dubitatingly
+dubitatingly 1
 duboisin
 duboisine
 duc
