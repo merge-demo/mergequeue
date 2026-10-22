@@ -9529,7 +9529,7 @@ digitisation
 disemboweled
 disinfestation
 digitising
-desulphurise
+desulphurise 1
 digitizing
 desorbed
 decimosexto
