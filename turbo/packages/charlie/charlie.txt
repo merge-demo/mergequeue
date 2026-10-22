@@ -11251,7 +11251,7 @@ chicote
 counterion
 chlorite
 coenures
-chloritic
+chloritic 1
 carlie
 continuities
 chloritization
