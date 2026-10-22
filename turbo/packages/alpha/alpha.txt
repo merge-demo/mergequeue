@@ -18855,7 +18855,7 @@ apprize
 aroma
 archflamen
 archfoe
-ancestresses
+ancestresses 1
 aedoeagus
 angloid
 acervose
