@@ -5750,7 +5750,7 @@ damagingly
 deliberating
 debater
 duree
-disjoint
+disjoint 1
 descriptor
 decasualizing
 depolymerize
