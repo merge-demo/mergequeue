@@ -9799,7 +9799,7 @@ dimetria
 dier
 dromos
 dilo
-differentially
+differentially 1
 doolee
 detonators
 descendant
