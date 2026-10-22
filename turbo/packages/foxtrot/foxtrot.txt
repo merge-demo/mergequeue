@@ -3248,7 +3248,7 @@ frizziest
 freehearted
 fluorinate
 fittit
-freestanding
+freestanding 1
 forthrightly
 filosa
 faradizer
