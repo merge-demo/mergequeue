@@ -1606,7 +1606,7 @@ ballywack
 brooder
 bricklayers
 biborate
-bursati
+bursati 1
 baudronses
 bilamellate
 ballo
