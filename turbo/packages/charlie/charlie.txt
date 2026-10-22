@@ -17220,7 +17220,7 @@ creatorship
 craterous
 cramoisy
 coaled
-cariosity
+cariosity 1
 coaler
 coalers
 crucifer
