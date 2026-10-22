@@ -8096,7 +8096,7 @@ enthuse
 encircles
 epiprecoracoid
 extrude
-elegant
+elegant 1
 epipterous
 epipubis
 expostulations
