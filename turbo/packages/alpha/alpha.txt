@@ -12342,7 +12342,7 @@ ancresses
 anda
 arborise
 astylospongia
-analog
+analog 1
 andabatism
 antinous
 atheromatous
