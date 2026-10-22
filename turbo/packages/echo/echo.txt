@@ -3968,7 +3968,7 @@ empall
 excurvation
 earshots
 equilibrium
-empanelling
+empanelling 1
 empanels
 enfamish
 ecumene
