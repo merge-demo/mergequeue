@@ -2590,7 +2590,7 @@ gyrohorizon
 greillade
 glaucine
 glamourization
-gesticular
+gesticular 1
 grisette
 gowf
 gasometrical
