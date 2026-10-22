@@ -24528,7 +24528,7 @@ caroigne
 copartiment
 circles
 commandrie
-copartnership
+copartnership 1
 chronodeik
 contredanse
 copassionate
