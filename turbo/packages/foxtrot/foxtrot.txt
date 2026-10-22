@@ -5815,7 +5815,7 @@ figgery
 furbishes
 flintlocks
 filemark
-farts
+farts 1
 ferr
 freakdom
 forestallment
