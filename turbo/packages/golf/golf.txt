@@ -5596,7 +5596,7 @@ geophysical
 gefilte
 grandame
 gownlet
-gliocyte
+gliocyte 1
 glottogonist
 gervais
 glycogenetic
