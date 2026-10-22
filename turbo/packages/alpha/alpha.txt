@@ -19547,7 +19547,7 @@ acetonic
 adventist
 agrological
 anoles
-authenticness
+authenticness 1
 amphidromic
 angularize
 argufying
