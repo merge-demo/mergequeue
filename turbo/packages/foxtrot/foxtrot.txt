@@ -2277,7 +2277,7 @@ ficoid
 facaded
 florentinism
 fimble
-flatulence
+flatulence 1
 firebombed
 flypasts
 fumaria
