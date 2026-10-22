@@ -9354,7 +9354,7 @@ enlock
 ectomorphic
 exolution
 emotionally
-enstate
+enstate 1
 emane
 enrobement
 effecter
