@@ -11326,7 +11326,7 @@ dilatometric
 dehydrogenise
 decorement
 delimiter
-dischevel
+dischevel 1
 dissimulator
 disci
 diabases
