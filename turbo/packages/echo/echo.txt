@@ -8403,7 +8403,7 @@ embryous
 elatcha
 erodible
 endodermic
-enchains
+enchains 1
 enstamp
 extents
 epizoic
