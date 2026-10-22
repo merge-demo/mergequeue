@@ -4965,7 +4965,7 @@ envy
 extirpative
 equinia
 engraphic
-endoskeleton
+endoskeleton 1
 excreation
 earthgall
 ebonises
