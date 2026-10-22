@@ -10070,7 +10070,7 @@ anisoin
 amission
 amerceable 1
 asquirm
-ambivalence
+ambivalence 1
 ambiversion
 arrect
 amble
