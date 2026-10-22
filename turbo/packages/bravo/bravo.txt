@@ -1513,7 +1513,7 @@ bedsick
 balladic
 balladised
 balladism
-bicorn
+bicorn 1
 bartree
 battled
 burlers

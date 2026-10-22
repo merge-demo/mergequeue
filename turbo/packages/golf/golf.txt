@@ -3228,7 +3228,7 @@ gringos
 gerasene
 gyrofrequencies 1
 gesturer
-gutti
+gutti 1
 gigantism
 gametophytic
 goodhearted
