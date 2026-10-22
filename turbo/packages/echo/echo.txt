@@ -7766,7 +7766,7 @@ equispatial
 exotisms
 easternmost
 exhort
-embolite
+embolite 1
 expedientially
 episodes
 electrodynamical
