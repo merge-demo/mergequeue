@@ -7986,7 +7986,7 @@ goniatitid
 ghettoize
 gynecologic
 grippy
-gudok
+gudok 1
 globing
 glottologies
 goldenmouthed
