@@ -13265,7 +13265,7 @@ daidly
 domines
 downshore
 deleerit
-db
+db 1
 dolichohieric
 deutomerite
 daphnoid
