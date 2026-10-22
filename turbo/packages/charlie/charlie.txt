@@ -28955,7 +28955,7 @@ curtseyed
 crancelin
 crimmy
 cricetids
-cricetus
+cricetus 1
 cricked
 crickey
 cricket
