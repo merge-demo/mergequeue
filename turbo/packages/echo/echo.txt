@@ -13303,7 +13303,7 @@ equipt
 electromyograph
 elusively
 encomendero
-expone
+expone 1
 ephoralty
 elinvar
 echinosphaeritidae

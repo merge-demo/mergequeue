@@ -15535,7 +15535,7 @@ classbook
 conquinine
 cyclicism
 classers
-classfellow
+classfellow 1
 classy
 contrastably
 classicalism
