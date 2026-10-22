@@ -667,7 +667,7 @@ decapitalize
 damped
 desquamated
 deafen
-dudgeons
+dudgeons 1
 dihydroxy
 devoting
 dodecastylar
