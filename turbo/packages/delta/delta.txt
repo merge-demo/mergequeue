@@ -5199,7 +5199,7 @@ deathly
 dynasticism
 diaheliotropic
 detruncating
-devoid
+devoid 1
 denitrifier
 denizenation
 diquats
