@@ -8714,7 +8714,7 @@ epicondylar
 endothelia
 enchain
 erupting
-enamorate
+enamorate 1
 eradications
 enjoyed
 elastometry
