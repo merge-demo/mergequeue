@@ -19063,7 +19063,7 @@ cuprite
 chariots
 countertrades
 colliery
-crises
+crises 1
 callable
 camb
 colliflower
