@@ -2896,7 +2896,7 @@ doughs
 dracunculus
 duello
 doblones
-decarbonizing
+decarbonizing 1
 decuss
 decussate
 decussatively
