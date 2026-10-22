@@ -3450,7 +3450,7 @@ caprella
 convoking
 caprizant
 caldron
-caproin
+caproin 1
 concubinate
 camptodrome
 causeuse
