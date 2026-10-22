@@ -343,7 +343,7 @@ allophylian
 auletris
 ascarid
 apodia
-afright
+afright 1
 acetonemia
 aftwards
 anacephalaeosis
