@@ -6059,7 +6059,7 @@ agynic
 aortographies
 audacious
 anamnionic
-apoplectiform
+apoplectiform 1
 amidst
 autodecomposition
 appestats
