@@ -2138,7 +2138,7 @@ flunks
 favours
 foddered
 fellatrice
-frigate
+frigate 1
 fletch
 faujdar
 fuchsite
