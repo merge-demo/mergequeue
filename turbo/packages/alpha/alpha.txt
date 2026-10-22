@@ -18251,7 +18251,7 @@ aerosol
 aquinist
 alcoholicity
 anenterous
-arsenide
+arsenide 1
 aerodynes
 allophone
 autotheism
