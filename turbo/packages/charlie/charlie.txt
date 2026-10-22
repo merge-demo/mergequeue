@@ -27034,7 +27034,7 @@ contoid
 chimneypot
 counterpoints
 contestable
-chronical
+chronical 1
 cara
 cunctatorship
 counterposting
