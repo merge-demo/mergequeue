@@ -4925,7 +4925,7 @@ biers
 beegerite
 bootlick
 bairnliness
-badchan
+badchan 1
 bitriseptate
 braggite
 boatel
