@@ -12925,7 +12925,7 @@ egotistical
 evenmindedness
 east
 electrolysation
-enhaunt
+enhaunt 1
 eulogiae
 expectancy
 endotherm
