@@ -1033,7 +1033,7 @@ darkmans
 dineutron
 daggly
 darkskin
-disseises
+disseises 1
 dispensers
 domineers
 dharmasutra
