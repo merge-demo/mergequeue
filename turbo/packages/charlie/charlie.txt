@@ -8299,7 +8299,7 @@ columnated
 chalkone
 chalkos
 chalkotheke
-chalkpit
+chalkpit 1
 chalkrail
 circumflect
 catechizable
