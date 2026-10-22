@@ -10902,7 +10902,7 @@ fieldwort
 foreteller
 fliskier
 forsworn
-falloffs
+falloffs 1
 fides
 fulleries 1
 fleets
