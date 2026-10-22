@@ -8857,7 +8857,7 @@ dozinesses
 draglines
 dovens
 dibstone
-degustation
+degustation 1
 doziness
 depthwise
 diffeomorphism
