@@ -13965,7 +13965,7 @@ endokaryogamy
 enface
 electropoion
 escheatage
-extraparochial
+extraparochial 1
 equicurve
 ectophytic
 essoiner
