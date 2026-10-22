@@ -13729,7 +13729,7 @@ excorticate
 elatine
 endnote
 extratemporal
-ensnares
+ensnares 1
 esteemed
 educating
 elfhood
