@@ -5038,7 +5038,7 @@ antiparagraphe
 assessory
 angiohyalinosis
 aerophobic
-antithermic
+antithermic 1
 arrode
 aerophotos
 algomic
