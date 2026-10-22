@@ -3627,7 +3627,7 @@ granilla
 goglets
 glottalize
 grotesque
-gigantal
+gigantal 1
 glutinosity
 gld
 gasworks
