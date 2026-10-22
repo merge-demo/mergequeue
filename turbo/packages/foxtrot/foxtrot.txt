@@ -1859,7 +1859,7 @@ flexographic
 firefly
 farcicality
 funambulate
-foreign
+foreign 1
 febricant
 frilly
 frictions
