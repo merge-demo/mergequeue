@@ -2788,7 +2788,7 @@ decurrently
 diamondized
 decreet
 demarchy
-desmogen
+desmogen 1
 dugal
 dop
 dorsalward
