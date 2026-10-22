@@ -8629,7 +8629,7 @@ dinge
 debugging
 dialyses
 diary
-diaglyph
+diaglyph 1
 diarist
 dibbuk
 denatured
