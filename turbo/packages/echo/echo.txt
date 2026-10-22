@@ -117,7 +117,7 @@ egotistically
 exodermal
 eparch
 echinoderma
-earthboard
+earthboard 1
 exanthemata
 enantiomorphous
 endometritis
