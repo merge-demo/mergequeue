@@ -9556,7 +9556,7 @@ cistaceae
 chromogenous
 catechize
 cubiculum
-capacitively
+capacitively 1
 checkweighmen
 closeted
 checkwork
