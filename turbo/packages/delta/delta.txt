@@ -12482,7 +12482,7 @@ disincarnate
 dudes
 defiled
 disinclination
-disinclined
+disinclined 1
 dolichotmema
 disindividualize
 doorkeep
