@@ -2711,7 +2711,7 @@ edinburgh
 earwigged
 eightyfold
 esquamulose
-evaporated
+evaporated 1
 electrovalent
 electrowinning
 exaggerators
