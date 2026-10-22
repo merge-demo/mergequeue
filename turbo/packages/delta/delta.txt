@@ -13825,7 +13825,7 @@ decapod
 digram
 dindle
 dampishly
-distain
+distain 1
 distaining
 devolatilized
 denumeration
