@@ -9667,7 +9667,7 @@ deliquesces
 defamatory
 doorcase
 dipneusti
-digonoporous
+digonoporous 1
 dispense
 daphnias
 ditting
