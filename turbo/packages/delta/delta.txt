@@ -2070,7 +2070,7 @@ downgate
 debilities
 decaying
 diopsimeter
-diety
+diety 1
 dummy
 defaced
 devolution
