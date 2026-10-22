@@ -23384,7 +23384,7 @@ ceratosaurus
 contagion
 contagioned
 computation
-chrysalid
+chrysalid 1
 ceramicite
 cuculi
 cumulating
