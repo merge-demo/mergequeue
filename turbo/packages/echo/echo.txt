@@ -8704,7 +8704,7 @@ equiprobably
 eldfather
 equiproportional
 ebulliently
-equiproportionality
+equiproportionality 1
 egocentrism
 eluate
 entrike 1
