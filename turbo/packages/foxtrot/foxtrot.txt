@@ -6918,7 +6918,7 @@ fragmented
 fishback
 fogs
 formyls
-fulwa
+fulwa 1
 fideicommission
 foreordinated
 formeret

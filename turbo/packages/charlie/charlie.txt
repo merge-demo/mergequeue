@@ -16853,7 +16853,7 @@ clubfisted
 cenotaph
 clubfoot
 clubfooted
-clubhand
+clubhand 1
 clubhands
 cerebralgia
 clubhaul
