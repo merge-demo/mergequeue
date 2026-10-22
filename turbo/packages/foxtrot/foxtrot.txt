@@ -10308,7 +10308,7 @@ fingering
 forecourt
 foss
 forewarning
-fiaunt
+fiaunt 1
 fraenula
 floodlighted
 fluoridized
