@@ -1591,7 +1591,7 @@ farcelike
 frisca
 filariidae
 fissirostres
-faltche
+faltche 1
 facially
 flong
 farcetta

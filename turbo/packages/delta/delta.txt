@@ -15469,7 +15469,7 @@ daymen
 diapery
 disbands
 donator
-detergence
+detergence 1
 discodactyl
 deceivableness
 dispell
