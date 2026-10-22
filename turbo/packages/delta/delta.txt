@@ -18057,7 +18057,7 @@ donatories
 dolerite
 downhills
 decreed
-delves
+delves 1
 dullbrained
 donna
 dauted
