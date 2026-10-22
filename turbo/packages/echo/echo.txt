@@ -1406,7 +1406,7 @@ endowing
 ericoid
 entosterna
 erythromelalgia
-excoct
+excoct 1
 encashable
 enzymes
 efflorescing
