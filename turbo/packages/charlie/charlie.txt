@@ -20872,7 +20872,7 @@ compositing
 compositional
 cacoepist
 conspirational
-compositor
+compositor 1
 compositors
 cashed
 costeaning
