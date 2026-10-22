@@ -3230,7 +3230,7 @@ gyrofrequencies 1
 gesturer
 gutti
 gigantism
-gametophytic
+gametophytic 1
 goodhearted
 grainedness
 goldminer
