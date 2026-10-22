@@ -9379,7 +9379,7 @@ doubleted
 diffractiveness
 dist
 diffranchise
-dely
+dely 1
 decrete
 durabilities
 decadic
