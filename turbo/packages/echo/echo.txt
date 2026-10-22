@@ -4685,7 +4685,7 @@ electroencephalographs
 egomania
 enmuffle
 entrammel
-economic
+economic 1
 enciphering
 extradited
 enrapture
