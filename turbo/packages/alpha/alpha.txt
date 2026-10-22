@@ -244,7 +244,7 @@ actable
 aselline
 abey
 apostate
-abraded
+abraded 1
 acantholysis
 adenomata
 abbreviates
