@@ -10695,7 +10695,7 @@ gellants
 graphometry
 groundbird
 geostatic
-gurnet
+gurnet 1
 gildings
 goldbrickers
 grabs
