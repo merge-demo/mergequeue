@@ -1703,7 +1703,7 @@ goofier
 gammon
 glibber
 grainsick
-gerontology
+gerontology 1
 gave
 gloeal
 graced
