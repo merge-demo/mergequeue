@@ -2390,7 +2390,7 @@ correlatively
 canc
 coffined
 canceled
-charlemagne
+charlemagne 1
 canceleer
 cancellable
 contrasters
