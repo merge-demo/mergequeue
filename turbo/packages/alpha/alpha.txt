@@ -6612,7 +6612,7 @@ autobolide
 aphroditeum
 antsy
 aiglets
-affirms
+affirms 1
 aigre
 abbatial
 ascalabota
