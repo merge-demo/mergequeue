@@ -6625,7 +6625,7 @@ binal
 bodegon
 beribanded
 birdy
-barbarious
+barbarious 1
 beriberis
 bevesseled
 beerier
