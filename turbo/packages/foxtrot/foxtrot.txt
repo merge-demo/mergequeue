@@ -3849,7 +3849,7 @@ formicary
 fiberscope
 filiopietistic
 forgiveable
-fungistat
+fungistat 1
 forjudging
 favous
 fimbriating
