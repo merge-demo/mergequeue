@@ -17994,7 +17994,7 @@ arsenics 1
 acidolysis
 aegagropila
 am
-approvance
+approvance 1
 absolutes
 arsyl
 antiempirical
