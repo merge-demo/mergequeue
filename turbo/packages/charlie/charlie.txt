@@ -12017,7 +12017,7 @@ chanceries
 crisp
 countermachination
 crusca
-cordyl
+cordyl 1
 chockler
 casal
 chorusmaster
