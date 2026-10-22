@@ -10078,7 +10078,7 @@ chessdom
 coffins
 chesser
 cabinda
-chesses
+chesses 1
 chessylite
 chessist
 chirimen
