@@ -12011,7 +12011,7 @@ annihilates
 australopithecus
 andes
 anemone
-anapterygotism
+anapterygotism 1
 awe
 anarcestes
 alteregoistic
