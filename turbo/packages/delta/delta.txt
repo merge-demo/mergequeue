@@ -915,7 +915,7 @@ dipnoi
 diagredium
 densus
 dominating
-decapsulate
+decapsulate 1
 dosain
 dromiceius
 dermapostasis
