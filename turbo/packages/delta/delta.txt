@@ -8597,7 +8597,7 @@ digressionary
 devourer
 diapirs
 diaplases
-disk
+disk 1
 deprived
 dinosaurian
 depriver
