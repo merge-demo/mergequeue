@@ -16402,7 +16402,7 @@ dulc
 drawcansir
 draggletailedness
 doxa
-doxastic
+doxastic 1
 doxasticon
 doxie
 distad
