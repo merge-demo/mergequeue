@@ -4263,7 +4263,7 @@ equidistantial
 effluxes
 emphasise
 extoller
-emulsoids
+emulsoids 1
 enteropathogenic
 exfiltration
 epidiascope
