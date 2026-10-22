@@ -6442,7 +6442,7 @@ curvinervate
 cavayard
 cavalcaded
 cotylophorous
-cardinalist
+cardinalist 1
 cavalier
 choregic
 cation
