@@ -17430,7 +17430,7 @@ cobaea
 corbeil
 cotters
 cobalamin
-comb
+comb 1
 cobalt
 cobaltamine
 complanation
