@@ -18716,7 +18716,7 @@ aliptic
 archarchitect
 accusably
 addlebrain
-autocephality
+autocephality 1
 archbishopry
 airmail
 archbishopric
