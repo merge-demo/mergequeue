@@ -806,7 +806,7 @@ deckhead
 daneweed
 daneweeds
 dozened
-detections
+detections 1
 dactyliomancy
 diabrotic
 deduced
