@@ -8495,7 +8495,7 @@ glands
 golfing
 graveclod
 gonfalon
-genl
+genl 1
 gult
 gibaro
 gregarinina
