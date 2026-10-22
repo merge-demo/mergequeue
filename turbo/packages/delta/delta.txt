@@ -4531,7 +4531,7 @@ decussis
 dendrite
 decern
 dorsilumbar
-devocation
+devocation 1
 drabbled
 demigroat
 dogmatician
