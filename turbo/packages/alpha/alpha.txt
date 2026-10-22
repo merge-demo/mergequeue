@@ -15086,7 +15086,7 @@ antidynastic
 antidiphtheria
 abrocome
 anapsida
-acidify
+acidify 1
 antidisciplinarian
 allothigenous
 antidisestablishmentarianism
