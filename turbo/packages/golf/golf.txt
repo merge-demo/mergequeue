@@ -6678,7 +6678,7 @@ glitters
 garmentless
 giantism
 gastroscopies
-glooms
+glooms 1
 gallflies
 golach
 gimlets
