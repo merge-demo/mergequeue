@@ -2582,7 +2582,7 @@ fumes
 forechase
 friscal
 fogramity
-flongs
+flongs 1
 ferrocyanate
 ferroelectric
 fingerbreadth
