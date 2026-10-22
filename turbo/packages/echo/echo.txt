@@ -6560,7 +6560,7 @@ eccritic
 eightieths
 embattled
 epimedium
-enorthotrope
+enorthotrope 1
 eohippuses
 electricity
 emigrates
