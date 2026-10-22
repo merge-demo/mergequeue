@@ -8417,7 +8417,7 @@ confiscator
 cuttable
 chamoisite
 cannonball
-chamoline
+chamoline 1
 chamorro
 copalcocote
 cunei
