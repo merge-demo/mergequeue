@@ -19258,7 +19258,7 @@ aliners
 awabi
 adventurish
 astrocaryum
-ardurous
+ardurous 1
 amphipneust
 acetylglycine
 areach
