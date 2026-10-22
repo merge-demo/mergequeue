@@ -4784,7 +4784,7 @@ deaconing
 demihag
 dodecatylic
 deair
-daimiate
+daimiate 1
 dictyonema
 disseizor
 diagonalize
