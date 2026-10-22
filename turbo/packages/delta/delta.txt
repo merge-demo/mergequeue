@@ -14200,7 +14200,7 @@ defeater
 deathful
 disuse
 desquamate
-disbranching
+disbranching 1
 disuses
 disutility
 disutilize
