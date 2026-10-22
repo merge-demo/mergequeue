@@ -7075,7 +7075,7 @@ estivage
 emulsible
 estuous
 edicule
-evangelian
+evangelian 1
 equiprobability
 electrophoric
 earnest
