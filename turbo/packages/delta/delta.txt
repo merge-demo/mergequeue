@@ -748,7 +748,7 @@ dreaminess
 detachs
 dandify
 dissipatedness
-dimmit
+dimmit 1
 dispeopler
 denumerant
 douceness
