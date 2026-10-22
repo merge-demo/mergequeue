@@ -2116,7 +2116,7 @@ bannocks
 boilinglike
 banovina
 banquet
-blindish
+blindish 1
 bardiest
 banqueting
 beseem
