@@ -25239,7 +25239,7 @@ aciduria
 azeotrope
 attenuates
 alveoloclasia
-abstrict
+abstrict 1
 azeotropic
 azerbaijani
 azerbaijanian
