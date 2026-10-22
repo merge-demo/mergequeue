@@ -12935,7 +12935,7 @@ docilities
 discolor
 disaffectedness
 differed
-disoperculate
+disoperculate 1
 desmosome
 demons
 dosimetrician
