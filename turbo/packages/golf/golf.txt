@@ -7478,7 +7478,7 @@ ghettoizes
 glossist
 grabbier
 grunerite
-grapplement
+grapplement 1
 gomerals
 gists
 geodesy
