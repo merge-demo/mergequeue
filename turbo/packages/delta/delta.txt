@@ -16779,7 +16779,7 @@ diarrhoeic
 disorganized
 drawback
 disposability
-disendow
+disendow 1
 desisted
 decolorate
 demitube
