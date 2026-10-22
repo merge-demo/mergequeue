@@ -12143,7 +12143,7 @@ demarcated
 didactician
 diasper
 depositure
-degausser
+degausser 1
 despiciency
 demander
 depurates
