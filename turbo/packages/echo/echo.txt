@@ -2294,7 +2294,7 @@ exurbias 1
 endocrania
 expert
 essene
-entheal
+entheal 1
 euphuism
 endosteum
 eval
