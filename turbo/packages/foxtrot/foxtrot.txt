@@ -8604,7 +8604,7 @@ ferretto
 fuzzed
 flamencos
 finnochio
-functionate
+functionate 1
 fingerfishes
 ferryage
 faddishly
