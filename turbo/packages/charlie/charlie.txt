@@ -27640,7 +27640,7 @@ culp
 cowardness
 cowbane
 collided
-coolheaded
+coolheaded 1
 chamfered
 cowbanes
 corticosteroid
