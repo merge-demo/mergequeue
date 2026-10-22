@@ -17204,7 +17204,7 @@ coaguline
 coagulometer
 coahuiltecan
 cantic
-coaid
+coaid 1
 coaita
 coak
 coakum
