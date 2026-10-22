@@ -5604,7 +5604,7 @@ explodable
 enteroscopy
 elysium
 esophoria
-enforceable
+enforceable 1
 enclosures
 embosomed
 ectocarpous
