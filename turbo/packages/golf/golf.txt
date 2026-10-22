@@ -4834,7 +4834,7 @@ generalidad
 greisen
 gritter
 gunnel
-gleg
+gleg 1
 gigantize
 greenings
 goiterogenic
