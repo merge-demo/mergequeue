@@ -10773,7 +10773,7 @@ gorhen
 gimbals
 garbline
 gallium
-glamourie
+glamourie 1
 geranyl
 glycyl
 glitter
