@@ -8093,7 +8093,7 @@ farceur
 forme
 fragilaria
 formalized
-feasances
+feasances 1
 flouncing
 feminines
 fractiousness
