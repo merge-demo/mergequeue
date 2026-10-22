@@ -1723,7 +1723,7 @@ douanier
 deteriorative
 dispensations
 decostate
-defensibility
+defensibility 1
 deaspiration
 degree
 dihely

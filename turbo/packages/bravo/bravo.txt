@@ -8778,7 +8778,7 @@ besets 1
 bini
 beraking
 beguess
-berakoth
+berakoth 1
 biniou
 binitarianism
 beworm
