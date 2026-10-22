@@ -9992,7 +9992,7 @@ foxite
 frilled
 firetower
 fegary
-flexitime
+flexitime 1
 finicky
 fowlpox
 fopped
