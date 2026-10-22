@@ -16567,7 +16567,7 @@ apabhramsa
 axletree
 appress
 acutorsion
-apache
+apache 1
 attained
 apadana
 astronautic
