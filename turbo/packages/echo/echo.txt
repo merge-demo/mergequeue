@@ -10983,7 +10983,7 @@ etuis
 eutaxies
 eusynchite
 eurycephalic
-epiglot
+epiglot 1
 enridged
 epiclastic
 electrodialitically
