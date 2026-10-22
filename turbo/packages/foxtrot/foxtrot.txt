@@ -2406,7 +2406,7 @@ fleshlessness
 frizettes
 flakelet
 fistularia
-flavous
+flavous 1
 filipuncture
 frenchness
 ferities
