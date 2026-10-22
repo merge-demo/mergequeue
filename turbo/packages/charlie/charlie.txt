@@ -1884,7 +1884,7 @@ croupier
 cessionee
 crimble
 corbinas
-confectory
+confectory 1
 cambodian
 calotte
 camboge
