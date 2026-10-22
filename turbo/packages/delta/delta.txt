@@ -17918,7 +17918,7 @@ delayingly
 duets
 diatonical
 demulce
-demeans
+demeans 1
 dazzling
 delirifacient
 duetting
