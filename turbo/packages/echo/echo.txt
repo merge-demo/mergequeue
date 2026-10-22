@@ -14045,7 +14045,7 @@ eyeline
 elektra
 enliven
 eidolons
-excandescency
+excandescency 1
 embellishments
 extrathermodynamic
 emes
