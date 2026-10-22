@@ -2161,7 +2161,7 @@ draggletailedly
 del
 ditheistic
 dehydration
-drowsing
+drowsing 1
 disallowing
 dinguses
 decarbonated
