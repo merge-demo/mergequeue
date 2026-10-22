@@ -8779,7 +8779,7 @@ bini
 beraking
 beguess
 berakoth
-biniou
+biniou 1
 binitarianism
 beworm
 bubonic

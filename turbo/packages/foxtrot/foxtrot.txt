@@ -1962,7 +1962,7 @@ floccule
 finagling
 fonly
 flanchard
-furzier
+furzier 1
 forworn
 flated
 formulization
