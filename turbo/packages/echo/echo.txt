@@ -2307,7 +2307,7 @@ ensepulchre
 evangelicalness
 electrizable
 electrization
-excavated
+excavated 1
 epicotyl
 errorful
 escalate
