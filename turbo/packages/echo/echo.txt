@@ -5401,7 +5401,7 @@ elsewhither
 electronvolt
 ergotization
 endowment
-ectene
+ectene 1
 excantation
 endpoints
 endrudge
