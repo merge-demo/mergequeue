@@ -6131,7 +6131,7 @@ enforced
 epiphanise
 enlodgement
 enlumine
-entheos
+entheos 1
 elites
 ergoplasm
 excommunicant
