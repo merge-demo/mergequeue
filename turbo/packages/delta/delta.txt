@@ -2313,7 +2313,7 @@ duchies
 dismounted
 diagraphs
 dekaparsec
-dermatropic
+dermatropic 1
 dactylioglyphic
 diagraphics
 danglement
