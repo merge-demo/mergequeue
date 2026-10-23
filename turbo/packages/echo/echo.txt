@@ -8932,7 +8932,7 @@ evap
 ecumenicism
 essive
 errhine
-eudaemonist
+eudaemonist 1
 erical 1
 exoskeletal
 eteoclus
