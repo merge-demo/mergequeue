@@ -12864,7 +12864,7 @@ churlishness
 churn
 chemokinesis
 canvased
-cowbarn
+cowbarn 1
 conducted
 churnful
 cresphontes
