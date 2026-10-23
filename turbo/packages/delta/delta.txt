@@ -17047,7 +17047,7 @@ dynametrical 1
 decompensates
 deuzan
 dressmakery
-dressmakers
+dressmakers 1
 dressmaking
 dressoir
 disagreeableness
