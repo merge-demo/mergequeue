@@ -8073,7 +8073,7 @@ desugar
 durzi
 dispersedye
 dhritarashtra
-disables
+disables 1
 drawable
 dhurra
 detrimentalness
