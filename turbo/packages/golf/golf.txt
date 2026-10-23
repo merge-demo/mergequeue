@@ -5099,7 +5099,7 @@ gunman
 garboards
 guilelessly
 gilten
-guernseyed
+guernseyed 1
 glareproof
 griskin
 grainsmen
