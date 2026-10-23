@@ -1538,7 +1538,7 @@ faunish
 fleecing
 foamers
 franklinite
-fattenable
+fattenable 1
 fauntleroy
 foreworn
 filmdoms
