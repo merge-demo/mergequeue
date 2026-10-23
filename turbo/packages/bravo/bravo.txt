@@ -11260,7 +11260,7 @@ botteghe
 bloodguiltiness
 begirdled
 blouse
-basks
+basks 1
 blouses
 brokes
 bloviated
