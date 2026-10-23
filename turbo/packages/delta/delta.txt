@@ -9294,7 +9294,7 @@ dietotoxic
 detersive
 depletable
 diluvions
-depilation
+depilation 1
 dietrichite
 duvetine
 dyeware
