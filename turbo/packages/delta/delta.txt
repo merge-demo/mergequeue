@@ -5179,7 +5179,7 @@ damia
 decarburation
 desertic
 denierer
-denigrates
+denigrates 1
 denigrator
 dietine
 diazoate
