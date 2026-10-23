@@ -5026,7 +5026,7 @@ endophragmal
 equimolal
 entomb
 enqueued
-excuses
+excuses 1
 encumbrances
 emollescence
 eucosmid
