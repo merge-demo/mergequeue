@@ -6822,7 +6822,7 @@ cellite
 currs
 continua
 cellmates
-cello
+cello 1
 chambermaid
 celloid
 chairmaker
