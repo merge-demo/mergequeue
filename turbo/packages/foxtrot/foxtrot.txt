@@ -2331,7 +2331,7 @@ fragmentation
 furrowless
 frangipane
 farish
-fensive
+fensive 1
 flippest
 furner
 falbalas
