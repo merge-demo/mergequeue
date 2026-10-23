@@ -10467,7 +10467,7 @@ downswings
 dozent
 dalar
 daglock
-dargo
+dargo 1
 disembodies
 diazoalkane
 diphthongizing
