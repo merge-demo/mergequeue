@@ -9235,7 +9235,7 @@ dimnesses
 docibleness
 dyer
 diaplexus
-dementis
+dementis 1
 dishorse
 dihydrazone
 disemic
