@@ -8975,7 +8975,7 @@ charismata
 consuete
 charismatic
 collationer
-collunaria
+collunaria 1
 cunabular
 ceriphs
 chalazia
