@@ -30066,7 +30066,7 @@ crout
 cumbersomely
 croute
 cotice
-commandress
+commandress 1
 crouth
 cellule
 conversational
