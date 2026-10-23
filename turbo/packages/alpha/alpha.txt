@@ -24923,7 +24923,7 @@ awakeners
 agravic
 attractability
 awakening
-awakeningly
+awakeningly 1
 awaking
 automotor
 archform
