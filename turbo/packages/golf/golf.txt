@@ -5637,7 +5637,7 @@ glucogene
 gallicanism
 gastrasthenia
 gravy
-gastly
+gastly 1
 game
 gunstick
 glueman
