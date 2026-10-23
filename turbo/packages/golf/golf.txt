@@ -511,7 +511,7 @@ galivants
 geneticism
 gleamiest
 glissandos
-growthful
+growthful 1
 guruship
 grooty
 guaranteers
