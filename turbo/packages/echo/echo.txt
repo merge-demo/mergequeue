@@ -8507,7 +8507,7 @@ ecphoriae
 eurindic
 erases
 elongates
-epuration
+epuration 1
 exculpable
 euchloric
 effectual
