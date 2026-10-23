@@ -6272,7 +6272,7 @@ exspoliation
 embolectomies 1
 enrive
 eyeholes
-enroll
+enroll 1
 epicyclic
 enrollee
 euplectella
