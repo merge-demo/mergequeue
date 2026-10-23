@@ -11211,7 +11211,7 @@ eviler
 ethmosphenoidal
 endocrinologic
 entrenchment
-epithetize
+epithetize 1
 endfile
 englyns
 eely
