@@ -9970,7 +9970,7 @@ chalukya
 chequerwork
 chequin
 cherchez
-chercock
+chercock 1
 cherem
 calcimine
 cherenkov
