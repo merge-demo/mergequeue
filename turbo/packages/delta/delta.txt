@@ -6105,7 +6105,7 @@ disarmed
 decompound
 dizened
 deraigning
-divest
+divest 1
 dispirits
 derailing
 demiworld
