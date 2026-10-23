@@ -5484,7 +5484,7 @@ engarland
 enervate
 embalmers
 enervating
-encake
+encake 1
 electroscope
 elritch
 ectocarpic
