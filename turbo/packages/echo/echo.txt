@@ -3163,7 +3163,7 @@ exhaustiveness
 eom
 epitra
 emmarble
-elaborate
+elaborate 1
 evinced
 eggnogs
 egghead
