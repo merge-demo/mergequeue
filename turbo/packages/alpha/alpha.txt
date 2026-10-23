@@ -16449,7 +16449,7 @@ antonymy
 antonymies
 antoniniani
 antoninianus
-acidophil
+acidophil 1
 aurei
 antonomastic
 antonomastical
