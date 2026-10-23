@@ -7650,7 +7650,7 @@ enhancement
 extrasomatic
 efflagitate
 emplead
-enterostasis
+enterostasis 1
 eton
 epicrasis
 epopt
