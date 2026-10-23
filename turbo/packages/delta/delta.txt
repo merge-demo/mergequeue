@@ -12585,7 +12585,7 @@ dankness
 depilator
 daud
 driftfish
-deadhearted
+deadhearted 1
 deodorise
 departing
 definitise
