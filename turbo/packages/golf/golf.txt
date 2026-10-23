@@ -1495,7 +1495,7 @@ guaxima
 glandless
 gorlin
 gregarinidal
-grisounite
+grisounite 1
 grote
 genapping
 geratology
