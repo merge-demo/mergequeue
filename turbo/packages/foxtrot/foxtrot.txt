@@ -129,7 +129,7 @@ frill
 fumiferous
 flashforwards
 feedhead
-fibre
+fibre 1
 fossiled
 facsimiled
 falser
