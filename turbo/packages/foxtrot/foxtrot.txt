@@ -2490,7 +2490,7 @@ fry
 fernyear
 funs
 fernshaw
-fordo
+fordo 1
 forehatch
 feck
 flavic
