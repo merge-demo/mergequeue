@@ -2676,7 +2676,7 @@ antiarcha
 antitheft
 angiograph
 abrasiometer
-africa
+africa 1
 anticyclonic
 apex
 airpark
