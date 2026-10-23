@@ -4459,7 +4459,7 @@ allergia
 anticomplement
 australic
 antipuritan
-adust
+adust 1
 adustion
 apsides
 aldoxime
