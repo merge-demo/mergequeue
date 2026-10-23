@@ -4095,7 +4095,7 @@ ecdysis
 energetistic
 epinicial
 excitant
-exogenous
+exogenous 1
 enfoulder
 eellike
 eire
