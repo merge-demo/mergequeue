@@ -3713,7 +3713,7 @@ exhaustivity
 egoistry
 embrittle
 edgeshot
-enfranchised
+enfranchised 1
 echinochrome
 erinaceidae
 escobilla
