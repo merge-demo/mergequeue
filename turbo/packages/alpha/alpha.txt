@@ -19268,7 +19268,7 @@ amaranthus
 autotypes
 areal
 areasoner
-areca
+areca 1
 arecain
 arecas
 allision
