@@ -10314,7 +10314,7 @@ floodlighted
 fluoridized
 fortiori
 flexible
-frondless
+frondless 1
 feezing
 federalese
 fantasized
