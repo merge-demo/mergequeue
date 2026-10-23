@@ -3884,7 +3884,7 @@ equivote
 echeneis
 eternal
 electrotonus
-extraboldface
+extraboldface 1
 eminencies
 evendown
 exodermis

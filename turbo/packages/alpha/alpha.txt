@@ -6750,7 +6750,7 @@ arpeggio
 allomerize
 agglutination
 atrioporal
-abnormities
+abnormities 1
 ainus 1
 anterodorsal
 antemetic
