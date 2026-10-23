@@ -2450,7 +2450,7 @@ drydenian
 diaeresis
 decipherability
 dooryards
-dand
+dand 1
 doctrinarily
 duplet
 distomatous
