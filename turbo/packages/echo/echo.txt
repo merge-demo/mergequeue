@@ -3926,7 +3926,7 @@ emodins
 efflorescent
 emollience
 escharotic
-estruate
+estruate 1
 earthbound
 emollients
 emoloa
