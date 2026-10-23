@@ -2377,7 +2377,7 @@ ferforth
 feudist
 francic
 fluther
-forgoes
+forgoes 1
 footganger
 fetial
 friendlier
