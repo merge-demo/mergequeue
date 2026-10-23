@@ -9093,7 +9093,7 @@ frenetics
 formity
 follows
 furtum
-fortresses
+fortresses 1
 fichteanism
 filters
 fantasias
