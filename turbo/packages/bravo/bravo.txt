@@ -7496,7 +7496,7 @@ beurre
 beveil
 bevelled
 belated
-bardism
+bardism 1
 belayer
 beveller
 byte
