@@ -9078,7 +9078,7 @@ disimprove
 drubbed
 devance
 discernable
-devotedly
+devotedly 1
 depickle
 decongestants
 dunted
