@@ -22573,7 +22573,7 @@ conn
 connaraceous
 connate
 connately
-connateness
+connateness 1
 crinate
 colonizability
 commotion
