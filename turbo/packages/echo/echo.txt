@@ -7833,7 +7833,7 @@ epithelium 1
 enterocoel
 exarchate
 ejaculator
-eddish
+eddish 1
 epigoni
 espressivo
 entomotaxy
