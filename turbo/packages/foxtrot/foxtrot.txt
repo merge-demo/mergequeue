@@ -4620,7 +4620,7 @@ filagrees
 ferring
 flowmanostat
 folsom
-footweary
+footweary 1
 foresaying
 formulising
 fleckless
