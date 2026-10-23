@@ -1123,7 +1123,7 @@ glossing
 ganoidian
 gaillardia
 galanas
-geonyctitropic
+geonyctitropic 1
 gutsiest
 grammatolatry
 grudgeful
