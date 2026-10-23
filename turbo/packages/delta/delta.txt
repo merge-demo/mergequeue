@@ -9470,7 +9470,7 @@ demark
 digestible
 dite
 dielytra
-digestibleness
+digestibleness 1
 digestibly
 delesseriaceae
 decline
