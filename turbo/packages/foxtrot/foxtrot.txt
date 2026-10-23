@@ -3219,7 +3219,7 @@ funder
 friers
 frostwort
 flexionless
-fuchsone
+fuchsone 1
 forefend
 foodlessness
 festered
