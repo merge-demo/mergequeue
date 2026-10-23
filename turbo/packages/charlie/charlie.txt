@@ -19577,7 +19577,7 @@ chamfrons
 cusp
 centriole
 copesetic
-columbotantalate
+columbotantalate 1
 crepiness
 confession
 childhoods
