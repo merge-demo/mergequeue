@@ -7335,7 +7335,7 @@ foible
 felting
 frenchless
 friendliest
-flourishy
+flourishy 1
 fanaticize
 formularised
 foraminose
