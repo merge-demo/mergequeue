@@ -2492,7 +2492,7 @@ exterminative
 electrokinetics
 elasticum
 exsecants
-educables
+educables 1
 expansivity
 embryopathology
 emender
