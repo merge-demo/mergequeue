@@ -8865,7 +8865,7 @@ globe
 gnostic
 girsle
 guanay
-gablelike
+gablelike 1
 graecized
 goldeye
 greyed
