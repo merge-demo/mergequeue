@@ -8574,7 +8574,7 @@ fungating
 farmsteading
 forninst
 fricative
-flexor
+flexor 1
 flyover
 fanegada
 forspent
