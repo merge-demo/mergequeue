@@ -1497,7 +1497,7 @@ depressure 1
 deaccessioning
 drawbolt
 delftware
-dermatorrhea
+dermatorrhea 1
 definiendum
 dextrorotary
 deformers
