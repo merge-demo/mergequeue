@@ -5922,7 +5922,7 @@ catfight
 creeled
 catfish
 catfoot
-catfooted
+catfooted 1
 chhatri
 catgut
 chancellorism
