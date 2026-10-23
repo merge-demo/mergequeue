@@ -4101,7 +4101,7 @@ collops
 cardiectasis
 careless
 compileable
-chamoisette
+chamoisette 1
 cardiectomize
 cardielcosis
 cushiest
