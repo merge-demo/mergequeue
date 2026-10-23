@@ -5100,7 +5100,7 @@ dissimulates
 disterr
 destitute
 deperition
-decollating
+decollating 1
 ductings
 dravya
 dipsomania
