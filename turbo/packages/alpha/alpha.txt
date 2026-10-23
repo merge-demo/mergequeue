@@ -13239,7 +13239,7 @@ adornments
 almaine
 alleviant
 animist
-anastatic
+anastatic 1
 antigraft
 aecium
 antisilverite
