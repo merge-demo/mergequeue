@@ -3361,7 +3361,7 @@ doles
 deturn
 dictative
 defis
-deflagrable
+deflagrable 1
 desophistication
 dialling 1
 decolor
