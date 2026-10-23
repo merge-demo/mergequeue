@@ -7598,7 +7598,7 @@ grassweed
 gledge
 gloomful
 gether
-gyrus
+gyrus 1
 grille
 glycosaemia
 generalcy
