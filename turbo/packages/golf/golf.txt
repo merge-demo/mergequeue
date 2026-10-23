@@ -8707,7 +8707,7 @@ gunsmith
 greedyguts 1
 gravediggers
 gibier
-greedless
+greedless 1
 grecism
 guemul
 guttled
