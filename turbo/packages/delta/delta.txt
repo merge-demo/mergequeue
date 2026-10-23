@@ -11325,7 +11325,7 @@ devoter
 dilatometric
 dehydrogenise
 decorement
-delimiter
+delimiter 1
 dischevel
 dissimulator
 disci
