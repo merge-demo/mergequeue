@@ -7601,7 +7601,7 @@ gether
 gyrus
 grille
 glycosaemia
-generalcy
+generalcy 1
 gambians
 guanamine
 gullibility
