@@ -5145,7 +5145,7 @@ gimpiest
 gobbets
 gundogs
 guerdon
-gammick
+gammick 1
 geologised
 ganoidei
 gratins
