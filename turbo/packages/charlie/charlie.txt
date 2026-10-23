@@ -17924,7 +17924,7 @@ coeducationalism
 coeducationalize
 crude
 coef
-chromosphere
+chromosphere 1
 contractibility
 coeff
 coefficients

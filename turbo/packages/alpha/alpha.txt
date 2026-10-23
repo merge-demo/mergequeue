@@ -22935,7 +22935,7 @@ avowedness
 atremata
 applaudable
 apprentices
-ashangos
+ashangos 1
 arachnids
 anatoxins
 ahriman
