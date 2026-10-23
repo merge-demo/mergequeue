@@ -10075,7 +10075,7 @@ ersatz
 exode
 endoparasitism
 epinglette
-escharine
+escharine 1
 enforcers
 echidnidae
 evocate
