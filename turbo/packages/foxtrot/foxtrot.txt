@@ -10312,7 +10312,7 @@ fiaunt
 fraenula
 floodlighted
 fluoridized
-fortiori
+fortiori 1
 flexible
 frondless
 feezing
