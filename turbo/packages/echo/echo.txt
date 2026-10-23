@@ -12755,7 +12755,7 @@ exosmose
 exosmotic
 eclampsia
 explicative
-erotize
+erotize 1
 ensembles
 encounterable
 emancipative
