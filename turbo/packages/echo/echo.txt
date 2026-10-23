@@ -1753,7 +1753,7 @@ eyepiece
 enrapturer
 everard
 ew
-embattle
+embattle 1
 exhbn
 epigraphic
 eutony
