@@ -7158,7 +7158,7 @@ disheartener
 daphnetin
 desulphur
 desulphurate
-delatorian
+delatorian 1
 desulphurised
 demonize
 dollyman
