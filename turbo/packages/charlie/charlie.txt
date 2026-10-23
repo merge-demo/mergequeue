@@ -27709,7 +27709,7 @@ circumdate
 cuppier
 crassier
 cowitch
-coercionist
+coercionist 1
 corrigendum
 cadaveric
 chamite
