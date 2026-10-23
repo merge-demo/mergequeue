@@ -2291,7 +2291,7 @@ ganofs
 gelant
 glyceric
 grummels
-ganta
+ganta 1
 granulation
 graduates
 gelatinating
