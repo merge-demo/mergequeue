@@ -3681,7 +3681,7 @@ dictamnus
 dasnt
 degusted
 disbowelled
-dregginess
+dregginess 1
 dewlaps
 dehache
 dorsoepitrochlear
