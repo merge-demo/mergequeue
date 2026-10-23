@@ -5970,7 +5970,7 @@ eluvial
 exquisite
 etourderie
 enigmatist
-enigmatographer
+enigmatographer 1
 exempts
 encoronet
 enisled
