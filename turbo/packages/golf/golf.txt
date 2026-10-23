@@ -4527,7 +4527,7 @@ greenlets
 gypster
 gerodontics
 grandniece
-gamb
+gamb 1
 grapey
 gynodioecism
 gomutis
