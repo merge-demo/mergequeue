@@ -10890,7 +10890,7 @@ clerids
 cardstock
 contortioned
 chiralgia
-contiguousness
+contiguousness 1
 chirapsia
 causson
 counteradvise
