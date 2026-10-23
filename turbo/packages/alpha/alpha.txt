@@ -15854,7 +15854,7 @@ antithrombin
 alert
 antipyretics
 antipyrin
-accustomedness
+accustomedness 1
 alinota
 antipyrine
 annuli
