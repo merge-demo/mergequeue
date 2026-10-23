@@ -27148,7 +27148,7 @@ countersleight
 countersnarl
 cataclysmatic
 counterspy
-caricaturable
+caricaturable 1
 chromoplast
 counterspies
 coverage
