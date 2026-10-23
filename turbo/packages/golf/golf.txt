@@ -4170,7 +4170,7 @@ goodly
 guaranin
 galenoid
 gemmule
-gainful
+gainful 1
 geographical
 gaggles
 grackle
