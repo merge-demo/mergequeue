@@ -9522,7 +9522,7 @@ forfear
 founts
 flask
 fibrovasal
-foveate
+foveate 1
 fermenter
 filthiest
 freckle
