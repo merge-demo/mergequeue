@@ -63,7 +63,7 @@ excuss
 ecotypes
 elf
 empaneling
-earliest
+earliest 1
 emarginate
 enfilading
 eastness
