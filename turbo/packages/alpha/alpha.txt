@@ -23464,7 +23464,7 @@ apomict
 augend
 adversity
 antiantidote
-aquiform
+aquiform 1
 antihygienically
 arsenillo
 augends
