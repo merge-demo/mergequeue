@@ -9208,7 +9208,7 @@ bribe
 bipinnated
 bipinnatipartite
 butyrals
-bow
+bow 1
 bipinnatisect
 bobsledding
 betassel
