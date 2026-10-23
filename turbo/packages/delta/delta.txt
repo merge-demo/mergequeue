@@ -14563,7 +14563,7 @@ decomposition
 divisor
 digitalein
 deckels
-desalinize
+desalinize 1
 dondine
 divisorial
 dreint 1
