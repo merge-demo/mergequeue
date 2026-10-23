@@ -5553,7 +5553,7 @@ dihydrogen
 disproven
 depascent
 debilitation
-disrepute
+disrepute 1
 depatriate
 dispergation
 doornails
