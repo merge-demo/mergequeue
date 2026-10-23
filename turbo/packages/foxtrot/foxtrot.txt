@@ -5092,7 +5092,7 @@ forvay
 flarer
 funorin
 fiendliest
-foursquarely
+foursquarely 1
 forelay
 forewent
 flashed
