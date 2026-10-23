@@ -10220,7 +10220,7 @@ defossion
 dressing
 dermoosseous
 dayshine
-destry
+destry 1
 dinotherian
 dins
 defenestrate
