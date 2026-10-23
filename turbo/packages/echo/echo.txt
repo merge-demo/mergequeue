@@ -2222,7 +2222,7 @@ engulfment
 eldrich
 euphuizing
 eldritch
-enchased
+enchased 1
 eulogy
 elecives
 electant
