@@ -2775,7 +2775,7 @@ daun
 draughtiness
 dian
 dreche
-divelled
+divelled 1
 druggist
 docudrama
 decreasingly
