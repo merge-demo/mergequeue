@@ -10230,7 +10230,7 @@ flaxy
 frust
 fgrid
 fjarding
-firiness
+firiness 1
 fishweed
 fennecs
 flamingoes
