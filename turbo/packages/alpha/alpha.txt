@@ -5506,7 +5506,7 @@ afterclause
 australasian
 acrostichic
 alt
-aftercooler
+aftercooler 1
 autocollimate
 ack
 apological
