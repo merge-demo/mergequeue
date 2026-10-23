@@ -22848,7 +22848,7 @@ atty
 agamic
 apanaging
 aedilitian
-atmospherically
+atmospherically 1
 atmospherics
 abscessroot
 atmosteal
