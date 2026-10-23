@@ -4382,7 +4382,7 @@ agaristidae
 adstipulator
 aduana
 amination
-adularescence
+adularescence 1
 appointments
 abbes
 assertorial
