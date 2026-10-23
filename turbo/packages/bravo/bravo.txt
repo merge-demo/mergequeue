@@ -3099,7 +3099,7 @@ blastplate
 bating
 badminton
 boneblack
-barksome
+barksome 1
 basale
 berascaling
 bisyllabism

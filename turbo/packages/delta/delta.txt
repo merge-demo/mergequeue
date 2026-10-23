@@ -3549,7 +3549,7 @@ dawcock
 defunction
 deul
 disfrock
-disseminate
+disseminate 1
 diethylamine
 disenchanter
 defunctionalize
