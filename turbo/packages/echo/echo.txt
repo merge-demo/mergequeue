@@ -9620,7 +9620,7 @@ evildoers
 expertism
 eventlessness
 exceptionary
-ensearch
+ensearch 1
 esoterize
 esotropia
 elatha
