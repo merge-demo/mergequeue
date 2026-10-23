@@ -1861,7 +1861,7 @@ acertannin
 acoustoelectric
 aquaregia
 allseed
-antitabetic
+antitabetic 1
 avalent
 acerval
 aggressions
