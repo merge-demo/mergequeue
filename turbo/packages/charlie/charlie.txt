@@ -6342,7 +6342,7 @@ causality
 causalities
 causally
 causans
-cyphellate
+cyphellate 1
 causate
 causationism
 crapefish
