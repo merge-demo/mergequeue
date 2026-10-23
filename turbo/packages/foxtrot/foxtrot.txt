@@ -5385,7 +5385,7 @@ foredetermine
 flunkyistic
 forthset
 fleshliest
-fairtime
+fairtime 1
 frostlike
 flutists
 fleche
