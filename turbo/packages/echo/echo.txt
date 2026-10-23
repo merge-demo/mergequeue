@@ -12845,7 +12845,7 @@ edder
 erethisms
 exsert
 endamoeba
-exteroceptive
+exteroceptive 1
 electrogild
 expandedly
 explicable
