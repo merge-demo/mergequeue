@@ -10602,7 +10602,7 @@ bicepses
 blusterous
 bluing
 backlands
-belemnite
+belemnite 1
 budgetful
 blazonment
 bouquet
