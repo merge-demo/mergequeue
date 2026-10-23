@@ -17740,7 +17740,7 @@ devot
 diene
 discoloredness
 discriminateness
-disconsolacy
+disconsolacy 1
 derivate
 debugs
 dungeon
