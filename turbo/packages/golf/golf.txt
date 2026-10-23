@@ -7766,7 +7766,7 @@ ganoidean
 gematriot
 grafted
 gaumlike
-gnathism
+gnathism 1
 garner
 gauby
 goasila
