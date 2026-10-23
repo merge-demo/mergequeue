@@ -8740,7 +8740,7 @@ flogged
 followership
 forester
 foeless
-fossule
+fossule 1
 fiddlers
 forwardal
 fermentability
