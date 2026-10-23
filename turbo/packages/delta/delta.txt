@@ -2654,7 +2654,7 @@ danging
 delinquents 1
 decenniad
 decompensations
-dasylirion
+dasylirion 1
 doorkeeper
 decompiler
 deviceful
