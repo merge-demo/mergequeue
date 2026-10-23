@@ -11298,7 +11298,7 @@ entirety
 eagles
 exalbuminous
 epenthesize
-evaporimeter
+evaporimeter 1
 electrocute
 ecdysons
 enwrap
