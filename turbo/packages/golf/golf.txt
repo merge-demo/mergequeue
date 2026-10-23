@@ -10019,7 +10019,7 @@ geochrony
 gudewife
 girgashite
 gaffer
-garrulousness
+garrulousness 1
 glastonbury
 greenfinch
 guardstone

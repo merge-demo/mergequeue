@@ -6992,7 +6992,7 @@ fumant
 flouncey
 flannels
 fineries
-furnacing
+furnacing 1
 freemason
 forestate
 fondly
