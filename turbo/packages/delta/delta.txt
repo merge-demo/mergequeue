@@ -9969,7 +9969,7 @@ disbecome 1
 discographical
 dirigomotor
 dermohemia
-divinable
+divinable 1
 dinothere
 dimly
 dimmer
