@@ -5189,7 +5189,7 @@ endolysin
 eparchy
 endurable
 eretrian
-ethologies
+ethologies 1
 equipluve
 equilibrate
 endomitosis
