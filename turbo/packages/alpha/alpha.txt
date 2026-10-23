@@ -23835,7 +23835,7 @@ adaptational
 austrogaea
 ampules
 atheriogaea
-aphonic
+aphonic 1
 aphorising
 anthozoan
 acetamide
