@@ -13712,7 +13712,7 @@ excursionize
 epitaxy
 expiatist
 enfasten
-epinephelidae
+epinephelidae 1
 epiplasm
 equiaxe
 ergocalciferol

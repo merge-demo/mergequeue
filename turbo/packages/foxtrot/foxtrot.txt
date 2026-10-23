@@ -8307,7 +8307,7 @@ forhaile
 foreroyal
 floralia
 fod
-fossilizable
+fossilizable 1
 familyish
 forhow
 ficoidaceae
