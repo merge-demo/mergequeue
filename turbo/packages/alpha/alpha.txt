@@ -24669,7 +24669,7 @@ axiom
 alypine
 aspirants
 anisogeny
-absumption
+absumption 1
 asteer
 autolyzate
 arabized
