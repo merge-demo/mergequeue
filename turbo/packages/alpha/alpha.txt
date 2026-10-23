@@ -24177,7 +24177,7 @@ autoimmunize
 autoindexing
 autoinfusion
 angel
-autoinoculable
+autoinoculable 1
 antiritualism
 aldermanries
 abrus
