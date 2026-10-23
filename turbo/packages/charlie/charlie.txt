@@ -7084,7 +7084,7 @@ curvidentate
 coquetoon
 centiday
 cannikin
-copt
+copt 1
 confluences
 centigrams
 centile
