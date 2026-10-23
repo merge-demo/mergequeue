@@ -17607,7 +17607,7 @@ bristling
 burgherage
 beguine
 bottomlessly
-burghers
+burghers 1
 burgraves
 bullocker
 bureaucratized
