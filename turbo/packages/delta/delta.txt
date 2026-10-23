@@ -6524,7 +6524,7 @@ descent
 despert
 dekameter
 diffracting
-deschool
+deschool 1
 decoyed
 dirtbird
 dreggily
