@@ -5439,7 +5439,7 @@ adenoblast
 afortiori
 apocatastasis
 afoul
-afray
+afray 1
 athrocytosis
 antisymmetrical
 anticensoriousness
