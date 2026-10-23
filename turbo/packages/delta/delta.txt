@@ -4780,7 +4780,7 @@ dismisser
 demodulating
 designless
 dwaibly
-deaconing
+deaconing 1
 demihag
 dodecatylic
 deair
