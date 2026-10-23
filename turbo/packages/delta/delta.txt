@@ -8132,7 +8132,7 @@ damager
 descenders
 diaplexal
 dromiacea
-dorsocervical
+dorsocervical 1
 decennially
 dakotans
 doutous
