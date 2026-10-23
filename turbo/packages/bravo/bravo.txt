@@ -3236,7 +3236,7 @@ buckbush
 backstrapped
 batiked
 bodiless
-bedights
+bedights 1
 bathtub
 blatters
 barkpeel
