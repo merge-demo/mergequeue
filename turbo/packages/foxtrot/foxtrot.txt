@@ -9991,7 +9991,7 @@ foredeclare
 foxite
 frilled
 firetower
-fegary
+fegary 1
 flexitime
 finicky
 fowlpox
