@@ -22043,7 +22043,7 @@ confiscates
 confiscation
 cornroot
 confiscations
-confiscators
+confiscators 1
 churnable
 chromocytometer
 clairschacher
