@@ -6761,7 +6761,7 @@ desilt
 disregular
 deerweeds
 dihedral
-depraving
+depraving 1
 dodecatyl
 disally
 dirtboard
