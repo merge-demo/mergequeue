@@ -9177,7 +9177,7 @@ fanaloka 1
 fruiterer
 fasciotomy
 finitudes
-feebleminded
+feebleminded 1
 floaters
 fascinations
 foveoles
