@@ -4683,7 +4683,7 @@ graecism
 grosbeaks
 girted
 galactoside
-guarapucu
+guarapucu 1
 grego
 guaranteeship
 glutin
