@@ -2092,7 +2092,7 @@ felicitator
 fudger
 frightened
 fertilizer
-foredefine
+foredefine 1
 fainty
 filletlike
 fear
