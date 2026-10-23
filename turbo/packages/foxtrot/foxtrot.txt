@@ -5219,7 +5219,7 @@ flavanilin
 fiscals
 flavescence
 fumarolic
-fingall
+fingall 1
 flytrap
 flatnose
 flavescent
