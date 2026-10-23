@@ -5348,7 +5348,7 @@ gonopod
 gyrencephalate
 goiters
 grain
-gormands
+gormands 1
 ganoses
 gipsyism
 geotechnics
