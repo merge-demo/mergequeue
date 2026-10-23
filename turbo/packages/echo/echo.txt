@@ -6089,7 +6089,7 @@ engraulis
 eugenic
 eulachon
 elasmosaur
-ebullience
+ebullience 1
 evanesce
 embryologies
 epifauna
