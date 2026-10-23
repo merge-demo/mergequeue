@@ -3583,7 +3583,7 @@ egocentric
 esperantism
 exhibits
 epitomically
-embows
+embows 1
 exanimate
 enculturate
 enclog
