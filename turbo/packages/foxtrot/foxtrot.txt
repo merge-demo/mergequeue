@@ -4757,7 +4757,7 @@ farcies
 feuillage
 fulldo
 forestalment
-flammiferous
+flammiferous 1
 furloughing
 flagellariaceous
 fleecily
