@@ -24855,7 +24855,7 @@ coracoclavicular
 chompers
 coracocostal
 christiform
-coracoid
+coracoid 1
 coracoidal
 crocket
 chaumontel
