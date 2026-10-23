@@ -8569,7 +8569,7 @@ fibbed
 fornicatrix
 frameshift
 fullfil
-fissionable
+fissionable 1
 fungating
 farmsteading
 forninst
