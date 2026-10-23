@@ -4500,7 +4500,7 @@ burstwort
 billeting
 brickset
 bacchanalias
-bumptiously
+bumptiously 1
 buffering
 bistratose
 buhrstone
