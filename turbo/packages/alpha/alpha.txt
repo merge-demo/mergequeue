@@ -18227,7 +18227,7 @@ ammonocarbonous
 anapneic
 aquiclude
 animable
-alumnol
+alumnol 1
 ankylos
 amour
 ampelis
