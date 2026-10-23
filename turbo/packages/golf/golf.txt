@@ -5877,7 +5877,7 @@ glycogenous
 gravimetric
 guerrila
 goliards
-gallinaceous
+gallinaceous 1
 graphometrist
 ganglionary
 gallywasp
