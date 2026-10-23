@@ -2050,7 +2050,7 @@ degamis
 decahedrons
 dominical
 dartre
-decahydronaphthalene
+decahydronaphthalene 1
 divulsion
 dramaturge
 desiatin
