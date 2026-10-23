@@ -1862,7 +1862,7 @@ funambulate
 foreign
 febricant
 frilly
-frictions
+frictions 1
 fore
 feastless
 febrific
