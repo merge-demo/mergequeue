@@ -29218,7 +29218,7 @@ crippler
 creaser
 capillarity
 cystomatous
-crippling
+crippling 1
 cripplingly
 cryptaesthesia
 conflictual
