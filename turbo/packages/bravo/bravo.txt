@@ -12422,7 +12422,7 @@ banisterine
 bond
 bipinnatifid
 bless
-blunger
+blunger 1
 bondar
 bockerel
 bastardly
