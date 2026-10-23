@@ -16967,7 +16967,7 @@ akuammine
 affectable
 anhima
 approachment
-arrive
+arrive 1
 autotoxication
 aladinist
 alhagi
