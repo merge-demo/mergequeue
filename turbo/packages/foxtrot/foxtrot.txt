@@ -5195,7 +5195,7 @@ foliaging
 fanion
 foxiness
 frontierlike
-frivolers
+frivolers 1
 foreclaw
 fuchsia
 finished
