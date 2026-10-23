@@ -7280,7 +7280,7 @@ cepaceous
 comitatus
 cepe
 crossroads
-cepes
+cepes 1
 chemurgic
 civ
 conchitis
