@@ -5211,7 +5211,7 @@ endopathic
 endopelvic
 encyclopaedist
 endoperidium
-epoptes
+epoptes 1
 endophagous
 ephebeion
 ethnicity
