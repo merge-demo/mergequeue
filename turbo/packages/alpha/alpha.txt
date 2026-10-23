@@ -5060,7 +5060,7 @@ aerose
 aerosolization
 ageratums
 attenders
-alexinic
+alexinic 1
 aerostatic
 aerostatical
 anthracin
