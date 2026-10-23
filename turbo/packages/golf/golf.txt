@@ -2594,7 +2594,7 @@ gesticular
 grisette
 gowf
 gasometrical
-glossolabial
+glossolabial 1
 geiger
 goutte
 graspers
