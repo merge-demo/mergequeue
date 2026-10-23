@@ -10803,7 +10803,7 @@ deposable
 deificatory
 direful
 direfully
-disadvantage
+disadvantage 1
 dirempt
 direness
 drusy
