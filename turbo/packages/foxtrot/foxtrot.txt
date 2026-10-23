@@ -195,7 +195,7 @@ factoryship
 floatiness
 fusinite
 flashily
-feuar
+feuar 1
 filarious
 foreignism
 florin
