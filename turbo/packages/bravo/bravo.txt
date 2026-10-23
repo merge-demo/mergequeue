@@ -17624,7 +17624,7 @@ bruin
 bobcoat
 burglarproofs
 burglars
-basote
+basote 1
 breath
 blay
 blaeberry
