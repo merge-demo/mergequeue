@@ -257,7 +257,7 @@ bacile
 bacillaceae
 bacillariaceae
 baldric
-buried
+buried 1
 blotless
 balancedness
 brontosaur
