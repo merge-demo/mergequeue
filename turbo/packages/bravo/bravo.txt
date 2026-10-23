@@ -5592,7 +5592,7 @@ bewigs
 barbitone
 businessmen
 byelaws
-bedeen
+bedeen 1
 busings
 buzzwig
 buccaneers
