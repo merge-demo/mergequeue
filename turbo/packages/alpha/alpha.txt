@@ -7690,7 +7690,7 @@ annot
 alcoholdom
 abbrev
 alcoholemia
-appetition
+appetition 1
 azan
 anaudia
 appendicocaecostomy
