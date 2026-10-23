@@ -2947,7 +2947,7 @@ dedogmatize
 discounted
 dedolation
 disturbance
-deseret
+deseret 1
 destinal
 dotingness
 diegesis
