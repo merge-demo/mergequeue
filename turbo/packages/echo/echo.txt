@@ -8404,7 +8404,7 @@ elatcha
 erodible
 endodermic
 enchains
-enstamp
+enstamp 1
 extents
 epizoic
 ensigncy
