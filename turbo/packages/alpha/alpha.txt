@@ -12752,7 +12752,7 @@ antimedicative
 agnamed
 anelectric
 allograft
-anger
+anger 1
 adiaphoresis
 acrasieae
 adversifolious
