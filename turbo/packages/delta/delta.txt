@@ -6376,7 +6376,7 @@ dustmen
 deplaceable
 diplotene
 disassociation
-dorsiventral
+dorsiventral 1
 derodidymus
 daleth
 derog
