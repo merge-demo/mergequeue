@@ -11990,7 +11990,7 @@ divinest
 diapsid
 driest
 duckfoot
-dwarfy
+dwarfy 1
 dromaeus
 daverdy
 dae

@@ -5440,7 +5440,7 @@ confront
 casaque
 castlewise
 castock
-clepes
+clepes 1
 castoffs
 castoreum
 caftaned
