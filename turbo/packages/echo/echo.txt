@@ -12199,7 +12199,7 @@ enneahedrons
 engarb
 episynthetic
 excur
-ensigns
+ensigns 1
 epiphanizing
 elevener
 erodable
