@@ -545,7 +545,7 @@ excavator
 edgy
 enciphered
 exopterygotous
-enormity
+enormity 1
 enclitically
 echinodermatous
 exquisitely
