@@ -24538,7 +24538,7 @@ at
 armsize
 abhor
 aerophile
-abstrude
+abstrude 1
 aglaos
 athwart
 abbreviatable
