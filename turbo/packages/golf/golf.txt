@@ -1265,7 +1265,7 @@ glenwood
 ghostless
 granage
 gyrophora
-gigasecond
+gigasecond 1
 ged
 gavall
 goethites
