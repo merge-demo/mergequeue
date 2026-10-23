@@ -4525,7 +4525,7 @@ ecclesiastic
 ejectamenta
 elevatedness
 externize
-encyclical
+encyclical 1
 enureses
 emplaned
 embarkation
