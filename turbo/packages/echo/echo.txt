@@ -5739,7 +5739,7 @@ engirdling
 emplectite
 engirds
 electroblasting
-eyeglance
+eyeglance 1
 extraverted
 extemporised
 endofaradism
