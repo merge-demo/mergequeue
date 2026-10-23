@@ -5509,7 +5509,7 @@ enfatico
 enfeeblements
 experimenting
 evertors
-extraocular
+extraocular 1
 exoterics
 espiritual
 enfeebles
