@@ -15142,7 +15142,7 @@ besmearer
 bizen
 breviloquent
 bushhammer
-breviradiate
+breviradiate 1
 blithely
 bugeyed
 brevit
