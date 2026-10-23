@@ -569,7 +569,7 @@ councilors
 colloque
 counterbuff
 confort
-cuselite
+cuselite 1
 caduac
 cantabrize
 cruiseway
