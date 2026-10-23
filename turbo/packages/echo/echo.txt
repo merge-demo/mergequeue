@@ -13189,7 +13189,7 @@ extruded
 elicited
 elapinae
 embale
-expires
+expires 1
 esteemable
 eastertide
 encephala
