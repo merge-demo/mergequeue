@@ -3079,7 +3079,7 @@ copalm
 caon
 chlorocruorin
 caoutchin
-coughs
+coughs 1
 caoutchoucin
 cap
 capa
