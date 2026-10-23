@@ -22753,7 +22753,7 @@ clairsentience
 consacre
 consanguine
 coinsured
-consanguinean
+consanguinean 1
 caballeros
 consanguineous
 consanguineously
