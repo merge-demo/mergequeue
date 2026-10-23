@@ -9053,7 +9053,7 @@ covarecan
 charnockites
 cluniacensian
 charnu
-colorfastness
+colorfastness 1
 conglomeratic
 ceratostomella
 compartmentalized
