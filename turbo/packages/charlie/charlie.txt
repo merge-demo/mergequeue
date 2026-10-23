@@ -26957,7 +26957,7 @@ countermaneuver
 countfish
 columbotitanate
 colorable
-chevaux
+chevaux 1
 countermarching
 complexification
 caroches
