@@ -2304,7 +2304,7 @@ epidemiologist
 exterminations
 eobionts
 ensepulchre
-evangelicalness
+evangelicalness 1
 electrizable
 electrization
 excavated
