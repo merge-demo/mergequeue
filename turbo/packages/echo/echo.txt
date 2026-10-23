@@ -11081,7 +11081,7 @@ energized
 evans
 eusthenopteron
 electros
-escopet
+escopet 1
 espies
 esquiredom
 encage
