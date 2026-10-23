@@ -2646,7 +2646,7 @@ anacleticum
 acrania
 arius
 actresses
-acranial
+acranial 1
 alcaaba
 anachronistical
 antisepticize
