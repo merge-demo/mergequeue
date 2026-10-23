@@ -2427,7 +2427,7 @@ flemishes
 furls
 fortnightly
 fermail
-fobbed
+fobbed 1
 festivities
 flavius
 fatigate

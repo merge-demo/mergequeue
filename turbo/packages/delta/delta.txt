@@ -11853,7 +11853,7 @@ distrouble
 dihelium
 disdainfulness
 delations
-deflagrating
+deflagrating 1
 drawknives
 dentel
 dispermic
