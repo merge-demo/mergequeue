@@ -8477,7 +8477,7 @@ eprise
 epimorpha
 endures
 epsilons
-extravasate
+extravasate 1
 expressionistic
 entryways
 entrants
