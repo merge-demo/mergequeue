@@ -694,7 +694,7 @@ antiglobulin
 abortionists
 ariot
 absorbency
-abortive
+abortive 1
 afebrile
 abortiveness
 allegorising
