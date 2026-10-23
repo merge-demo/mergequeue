@@ -10797,7 +10797,7 @@ eucrystalline
 elastance
 eurodollar
 expurgatory
-estivates
+estivates 1
 euphemizer
 emanation
 ethicalism
