@@ -5405,7 +5405,7 @@ decoction
 delicatesse
 daffodil
 dendra
-decontrol
+decontrol 1
 deschampsia
 denudating
 disordained
