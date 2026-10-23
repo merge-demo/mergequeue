@@ -6864,7 +6864,7 @@ farewell
 fiery
 flasks
 friability
-flourished
+flourished 1
 fossilise
 frecked 1
 flioma
