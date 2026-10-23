@@ -9635,7 +9635,7 @@ espadon
 effervescible
 ewer
 endoblast
-encense
+encense 1
 entangleable
 entia
 epacris
