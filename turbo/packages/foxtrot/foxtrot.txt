@@ -9482,7 +9482,7 @@ facinorous
 ffa
 florescent
 frauleins
-fissiparousness
+fissiparousness 1
 forejudger
 forbreak
 fakeer
