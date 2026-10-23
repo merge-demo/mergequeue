@@ -8154,7 +8154,7 @@ diacid
 detachment
 duellists
 duple
-deprecate
+deprecate 1
 diacipiperazine
 drapeability
 druidism
