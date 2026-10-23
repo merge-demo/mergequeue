@@ -8338,7 +8338,7 @@ forkedness
 folderol
 fossa
 foliobranch
-feastful
+feastful 1
 feigningly
 flaff
 fulminates
