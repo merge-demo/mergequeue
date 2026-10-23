@@ -2881,7 +2881,7 @@ fackins
 firefighters
 fettucini
 fungiferous
-froglike
+froglike 1
 farsightedly
 flows
 fouettes
