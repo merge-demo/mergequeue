@@ -3920,7 +3920,7 @@ boarts
 booksellerish
 bombardier
 bocstaff
-befuddler
+befuddler 1
 brickbats
 bulkily
 bedirty
