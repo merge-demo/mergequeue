@@ -11018,7 +11018,7 @@ floodlight 1
 fabliaux
 fusuma
 farmery
-forcipate
+forcipate 1
 falafel
 fumets
 fumiest
