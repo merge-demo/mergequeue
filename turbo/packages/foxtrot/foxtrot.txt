@@ -9861,7 +9861,7 @@ fractionisation
 feria
 fundatorial
 flavanthrone
-fouettee
+fouettee 1
 fogeys
 forepointer
 flapdragon
