@@ -13680,7 +13680,7 @@ endorsors
 erratum
 epistolizable
 exteriorness
-espec
+espec 1
 emotionlessness
 etiotropic
 eurygnathic
