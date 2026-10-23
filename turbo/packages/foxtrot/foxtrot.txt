@@ -4859,7 +4859,7 @@ flagstick
 flagworm 1
 fandangle
 feramorz
-fittedness
+fittedness 1
 florida
 flivvers
 feathering
