@@ -9661,7 +9661,7 @@ aluminize
 angulometer
 aviary
 asserted
-aluminizes
+aluminizes 1
 anticardium
 archantiquary
 adobe
