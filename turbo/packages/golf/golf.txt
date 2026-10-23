@@ -1449,7 +1449,7 @@ gamma
 gerousia
 garran
 gove
-gynocardia
+gynocardia 1
 gradualness
 galbanums
 gasboat
