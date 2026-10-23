@@ -5614,7 +5614,7 @@ apii
 absorptivity
 aphototaxis
 aftervision
-afterwale
+afterwale 1
 amnesics
 afterward
 afterwise
