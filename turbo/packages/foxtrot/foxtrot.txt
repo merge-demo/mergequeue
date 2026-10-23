@@ -5198,7 +5198,7 @@ frontierlike
 frivolers
 foreclaw
 fuchsia
-finished
+finished 1
 familarity
 frumpery
 funest
