@@ -10832,7 +10832,7 @@ gloss
 gigunu
 guvacine
 goatland
-guntub
+guntub 1
 grammatic
 greengrocery
 grayhead
