@@ -2073,7 +2073,7 @@ edictal
 entraps
 enchainements 1
 ecphractic
-epi
+epi 1
 eugene
 earwitness
 epispermic
