@@ -18549,7 +18549,7 @@ coiffe
 coiffed
 caustics
 clavers
-coiffeur
+coiffeur 1
 coiffeurs
 coiffeuses
 coiffured
