@@ -446,7 +446,7 @@ combind
 crocodilean
 chesteine
 cactus
-copying
+copying 1
 civilisable
 chancered
 cactuslike
