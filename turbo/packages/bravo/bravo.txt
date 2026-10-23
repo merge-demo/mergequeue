@@ -6711,7 +6711,7 @@ blackstick
 bonneter
 bondman
 becripple
-bernice
+bernice 1
 begaze
 berninesque
 bevesselled
