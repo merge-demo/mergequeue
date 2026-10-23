@@ -10296,7 +10296,7 @@ diagrammers
 ditton
 diopter
 diopters
-decumary
+decumary 1
 delf
 discounter
 dioptometer
