@@ -1642,7 +1642,7 @@ daundered
 disassembler
 deallocate
 decurved
-deobstruct
+deobstruct 1
 devotional
 daunter
 discontinuance
