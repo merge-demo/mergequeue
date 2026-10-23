@@ -16580,7 +16580,7 @@ arumlike
 apagogically
 apagogue
 apayao
-abterminal
+abterminal 1
 apaid
 abioses
 antitrochanter
