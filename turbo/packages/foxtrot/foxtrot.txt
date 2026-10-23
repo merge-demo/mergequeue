@@ -5722,7 +5722,7 @@ flirtatiously
 fundament
 floodwater
 fitroot
-flurry
+flurry 1
 fere
 flippancies
 freshness
