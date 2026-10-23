@@ -8845,7 +8845,7 @@ equiprobabilist
 eternities
 enjeopardy
 extricable
-encrypt
+encrypt 1
 ejections
 emptive
 euonymin
