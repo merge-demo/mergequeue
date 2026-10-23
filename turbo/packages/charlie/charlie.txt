@@ -24055,7 +24055,7 @@ convents
 conventual
 cerebri
 converge
-connive
+connive 1
 cuspal
 concealment
 caprimulgi
