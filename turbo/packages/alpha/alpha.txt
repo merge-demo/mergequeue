@@ -15964,7 +15964,7 @@ angloman
 appointor
 autorotate
 antiq
-antiqua
+antiqua 1
 acetylated
 antelope
 anticonscience
