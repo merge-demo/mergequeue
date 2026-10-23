@@ -10406,7 +10406,7 @@ chlorinity
 commissionership
 comitadji
 cop
-clear
+clear 1
 crackskull
 cored
 chondrotome
