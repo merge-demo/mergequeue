@@ -6537,7 +6537,7 @@ blastospheric 1
 berattle
 bakehead
 boatside
-borickite
+borickite 1
 brekky
 benzothiazole
 berberi
