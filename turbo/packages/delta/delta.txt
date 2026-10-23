@@ -14201,7 +14201,7 @@ deathful
 disuse
 desquamate
 disbranching
-disuses
+disuses 1
 disutility
 disutilize
 doldrum
