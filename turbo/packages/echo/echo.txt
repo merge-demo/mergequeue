@@ -1321,7 +1321,7 @@ effects
 enlarge
 edified
 effectuated
-encastage
+encastage 1
 effectuating
 effervesced
 extenuating
