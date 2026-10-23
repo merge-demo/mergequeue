@@ -315,7 +315,7 @@ articulate
 abducted
 abductions
 aquaducts
-allegro
+allegro 1
 abductor
 acestes
 abducts
