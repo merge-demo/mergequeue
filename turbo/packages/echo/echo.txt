@@ -11566,7 +11566,7 @@ esp
 endotheloid
 euaster
 equivocacies
-electrokinetic
+electrokinetic 1
 endocrine
 evolutionists
 exculpatorily
