@@ -15875,7 +15875,7 @@ antipodal
 antipode
 antimensia
 anchorwise
-antipodic
+antipodic 1
 autocoprophagous
 argufied
 antipoetical
