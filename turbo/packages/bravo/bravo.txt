@@ -9683,7 +9683,7 @@ barway
 bismutosphaerite
 bisnaga
 bispinose
-bispinous
+bispinous 1
 bramah
 boils
 bagani
