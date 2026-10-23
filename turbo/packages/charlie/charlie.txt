@@ -15548,7 +15548,7 @@ compatibleness
 chromophoric
 classicism
 chaetopterin
-classicist
+classicist 1
 classicists
 cheshire
 cordially
