@@ -29331,7 +29331,7 @@ certhia
 cytochalasin
 cryptolith
 cyans
-cryptology
+cryptology 1
 conspiracies
 callas
 cryptomere
