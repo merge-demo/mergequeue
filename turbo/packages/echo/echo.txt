@@ -7143,7 +7143,7 @@ eucaryote
 eglandulose
 extraequilibrium
 enwallow
-excandescence
+excandescence 1
 earthshine
 endymion
 eposes
