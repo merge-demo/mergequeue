@@ -12163,7 +12163,7 @@ epigraphically
 eucolite
 enlistee
 empory
-exeat
+exeat 1
 exec
 epiphonemas
 eudemonist
