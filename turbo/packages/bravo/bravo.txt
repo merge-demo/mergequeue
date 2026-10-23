@@ -9878,7 +9878,7 @@ bitterbloom
 bittered
 beyerite
 bitterender
-boulevardize
+boulevardize 1
 ballooning
 bapt
 bemingling
