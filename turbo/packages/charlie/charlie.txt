@@ -9107,7 +9107,7 @@ charter
 charterers
 coraciiform
 charterhouse
-chartering
+chartering 1
 charterism
 charterless
 charters
