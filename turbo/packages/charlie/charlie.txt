@@ -15767,7 +15767,7 @@ ciniphes
 consanguinity
 coiffeuse
 cerebellar
-chainlet
+chainlet 1
 couma
 cleanliest
 clumpier
