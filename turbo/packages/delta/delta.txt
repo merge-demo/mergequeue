@@ -2447,7 +2447,7 @@ dietetist
 designs
 decyne
 drydenian
-diaeresis
+diaeresis 1
 decipherability
 dooryards
 dand
