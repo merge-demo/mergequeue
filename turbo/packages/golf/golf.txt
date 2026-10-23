@@ -2629,7 +2629,7 @@ goatee
 glossosteresis
 geoagronomic
 geniality
-genetics
+genetics 1
 gipper
 gastrolysis
 gudgeoned
