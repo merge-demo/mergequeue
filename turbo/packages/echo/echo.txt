@@ -607,7 +607,7 @@ earliness
 ecchymosed
 excommenge
 exostoses
-eciliate
+eciliate 1
 extemporized
 emporia
 emetics
