@@ -6651,7 +6651,7 @@ fripperer
 fecifork 1
 foemen
 forethoughtfully
-fullered
+fullered 1
 frankfold
 flaringly
 foetation
