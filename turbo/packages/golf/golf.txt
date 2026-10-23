@@ -964,7 +964,7 @@ gunarchy
 graptolite
 glist
 genomic
-gamostele
+gamostele 1
 glottogony
 genetically
 gamp
