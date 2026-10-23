@@ -18471,7 +18471,7 @@ duplifying
 duplone
 disruptiveness
 deutschemark
-delator
+delator 1
 dispersant
 diapers
 dermatophony
