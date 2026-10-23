@@ -2990,7 +2990,7 @@ goatherdess
 guildsmen
 geomancy
 garnered
-glosser
+glosser 1
 gushingness
 gauchest
 gravipause
