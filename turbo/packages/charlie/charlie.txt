@@ -11742,7 +11742,7 @@ chukkas
 chondromyxosarcoma
 chondromucoid
 chondropharyngeus
-carpale
+carpale 1
 chondroplast
 chondroplasty
 consonantally
