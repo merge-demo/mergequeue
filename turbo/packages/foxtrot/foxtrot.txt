@@ -10507,7 +10507,7 @@ flees
 flattered
 fum
 fumelike
-firetail
+firetail 1
 farandman
 frouzy
 finch
