@@ -17862,7 +17862,7 @@ dunkirk
 dude
 dyophysitical
 diverb
-devoutless
+devoutless 1
 debilitated
 dismark
 denervate
