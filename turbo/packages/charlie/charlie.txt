@@ -253,7 +253,7 @@ coemploy
 cities
 cachepot
 crenelations
-cognati
+cognati 1
 condensing
 caches
 cachespell
