@@ -6082,7 +6082,7 @@ cairds
 catlins
 craftsperson
 cryptoporticus
-canephroi
+canephroi 1
 cantharidizing
 cumene
 casuistical
