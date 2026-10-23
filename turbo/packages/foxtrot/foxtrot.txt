@@ -1299,7 +1299,7 @@ frigs
 foins
 footlocker
 fossoria
-fluctuous
+fluctuous 1
 flarfishes
 feminophobe
 falconoid
