@@ -5075,7 +5075,7 @@ gelatiniser
 glassful
 garrya
 gilled
-gigas
+gigas 1
 galliots
 gynaecea
 gypper
