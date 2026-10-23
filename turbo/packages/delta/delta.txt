@@ -2276,7 +2276,7 @@ derby
 decemviral
 deepish
 decemvirship
-decayer
+decayer 1
 depurator
 decennial
 dislikeful
