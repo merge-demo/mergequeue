@@ -22273,7 +22273,7 @@ cucujidae
 commote
 congestible
 congesting
-congestion
+congestion 1
 calk
 congestive
 conceitedly
