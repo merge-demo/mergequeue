@@ -6345,7 +6345,7 @@ dgag
 denary 1
 drassid
 dermoneurosis
-decent
+decent 1
 downtrod
 discordful
 doctrinal
