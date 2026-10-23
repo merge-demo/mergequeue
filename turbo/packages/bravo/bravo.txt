@@ -15076,7 +15076,7 @@ bepuzzle
 bountifully
 bolling
 blastophore
-bregma
+bregma 1
 bordel
 bregmate
 brachypinacoidal
