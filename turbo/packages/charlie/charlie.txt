@@ -29486,7 +29486,7 @@ cageot
 cloak
 chileanize
 crystallography
-crystalloid
+crystalloid 1
 concretism
 choragium
 crystalloidal
