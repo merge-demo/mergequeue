@@ -3843,7 +3843,7 @@ diatropic
 depayse
 dyspnoea
 deionize
-degraduation
+degraduation 1
 dopatta
 delighting
 deposer
