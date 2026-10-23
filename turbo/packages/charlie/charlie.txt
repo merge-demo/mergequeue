@@ -21273,7 +21273,7 @@ countersank
 chapped
 concertato
 concertedness
-cicatrose
+cicatrose 1
 chromatics
 charismas
 concertini
