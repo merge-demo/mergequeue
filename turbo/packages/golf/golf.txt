@@ -2515,7 +2515,7 @@ gained
 guessive
 generalise
 gonocoel
-gynandrous
+gynandrous 1
 graciously
 glorifying
 geotactically
