@@ -23050,7 +23050,7 @@ consonance
 consonancy
 consonant
 consonantal
-consonantalize
+consonantalize 1
 consonantic
 cavalcade
 consonantised
