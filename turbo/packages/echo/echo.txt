@@ -10301,7 +10301,7 @@ ela
 ebullitions
 exsiccated
 ethnocracy
-energising
+energising 1
 expendable
 equipostile
 epifocal
