@@ -13302,7 +13302,7 @@ explosiveness
 equipt
 electromyograph
 elusively
-encomendero
+encomendero 1
 expone
 ephoralty
 elinvar
