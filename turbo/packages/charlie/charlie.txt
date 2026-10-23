@@ -8305,7 +8305,7 @@ circumflect
 catechizable
 chalkworker
 centriciput
-challas
+challas 1
 chamicuro
 calcifuge
 challenger
