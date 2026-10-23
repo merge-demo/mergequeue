@@ -8414,7 +8414,7 @@ deputise
 deliracy
 disciplines
 discontinue
-deliveror
+deliveror 1
 ditties
 dialogers
 dexies
