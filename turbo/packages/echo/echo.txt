@@ -11543,7 +11543,7 @@ elenchus
 encodement
 epiblastema
 embrittled
-errantness
+errantness 1
 ennoy
 evocator
 evoe
