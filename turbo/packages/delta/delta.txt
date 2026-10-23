@@ -198,7 +198,7 @@ daemony
 deforesting
 debitumenize
 duplify
-dealfish
+dealfish 1
 daemons
 daemonurgist
 defecant
