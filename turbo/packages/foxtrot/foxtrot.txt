@@ -1262,7 +1262,7 @@ forevouch
 femalize
 footwall
 fatuate
-fearful
+fearful 1
 flatten
 filmdom
 frostier
