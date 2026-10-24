@@ -5097,7 +5097,7 @@ estray
 explanitory
 exsanguinous
 exprobratory
-endocoele
+endocoele 1
 enaliosaurian
 exploiter
 effaced
