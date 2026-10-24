@@ -7033,7 +7033,7 @@ deformed
 diarthric
 despotat
 demographer
-decede
+decede 1
 dissentiate
 destress
 dorje
