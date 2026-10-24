@@ -5515,7 +5515,7 @@ espiritual
 enfeebles
 eulogistical
 extirpatory
-enfeebling
+enfeebling 1
 eucarida
 epigrammatised
 edessan
