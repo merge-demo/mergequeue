@@ -579,7 +579,7 @@ gallicizer
 galliform
 gomphrena
 gabfest
-gorilloid
+gorilloid 1
 garron
 greaseball
 garthman
