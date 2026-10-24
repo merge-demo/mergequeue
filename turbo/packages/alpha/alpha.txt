@@ -22695,7 +22695,7 @@ atherosclerotic
 acerbic
 absent
 aeronomic
-abjuratory
+abjuratory 1
 acumen
 amphibolostylous
 apoise
