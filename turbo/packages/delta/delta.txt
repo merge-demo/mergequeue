@@ -13543,7 +13543,7 @@ dortiship
 defterdar
 disaccharose
 dungeoner
-disperse
+disperse 1
 disquisitive
 disrelishable
 drollist
