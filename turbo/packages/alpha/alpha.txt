@@ -11018,7 +11018,7 @@ araeosystyle
 antibank
 amomis
 autosled
-arbitre
+arbitre 1
 amoraim
 antidivorce
 amoral
