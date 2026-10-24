@@ -18285,7 +18285,7 @@ coffret
 chiming
 coffrets
 coffs
-cofighter
+cofighter 1
 cellmate
 casearia
 coforeknown
