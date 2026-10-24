@@ -7501,7 +7501,7 @@ dichapetalum
 dipsadinae
 doorwise
 degger
-dibase
+dibase 1
 denitrify
 disentwine
 desolatingly
