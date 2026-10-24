@@ -4371,7 +4371,7 @@ ginglymostoma
 gigmania
 gnathion
 graphicalness
-grylli
+grylli 1
 gunky
 guz
 glottochronology
