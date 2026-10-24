@@ -10489,7 +10489,7 @@ floggable
 felsosphaerite
 floe
 freshment
-frillery
+frillery 1
 favouringly
 frot
 froth
