@@ -6373,7 +6373,7 @@ bastioned
 benzohydrol
 benzoylated
 becuna
-benzene
+benzene 1
 benzoylation
 benzoinated
 borize
