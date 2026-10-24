@@ -5065,7 +5065,7 @@ disfigures
 dextrogyrate
 denaturization
 desensitizers
-dendraspis
+dendraspis 1
 doomwatcher
 daler
 dibbukim
