@@ -1058,7 +1058,7 @@ eagerly
 exsheath
 edged
 eidolon
-edger
+edger 1
 edgeway
 epigaster
 embalmment
