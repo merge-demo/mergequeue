@@ -14907,7 +14907,7 @@ conveys
 combite
 counterpray
 curding
-compactness
+compactness 1
 coenogamete
 continuedly
 cordites
