@@ -820,7 +820,7 @@ flipe
 floosy
 foredays
 fustanelle
-fantasticalness
+fantasticalness 1
 forcible
 flautists
 frisk
