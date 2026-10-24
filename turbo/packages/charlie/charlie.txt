@@ -19371,7 +19371,7 @@ colorant
 colorants
 chemosmoses
 colorate
-coloration
+coloration 1
 colorational
 colorative
 centrifugally
