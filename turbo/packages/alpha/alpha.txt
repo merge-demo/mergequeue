@@ -758,7 +758,7 @@ autogyro
 agnition
 accordatura
 asperation
-abrasively
+abrasively 1
 abrazite
 antirevolutionaries
 amplitudes
