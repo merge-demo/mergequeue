@@ -19627,7 +19627,7 @@ arbacia
 apophorometer
 aridian
 analogy
-aridity
+aridity 1
 admonishes
 aridities
 anaxagorean
