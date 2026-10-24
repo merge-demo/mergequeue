@@ -19486,7 +19486,7 @@ aelurophobe
 adrenocorticosteroid
 argillous
 arkab
-appetible
+appetible 1
 argin
 argyranthous
 acroceridae
