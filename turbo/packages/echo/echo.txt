@@ -9084,7 +9084,7 @@ equivocations
 educe
 erythrolein
 enteromorpha
-electrothermostatic
+electrothermostatic 1
 epigraphs
 ennobled
 ether
