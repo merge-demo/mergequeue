@@ -10453,7 +10453,7 @@ autogenetic
 alkanna
 abbeys
 axonic
-acceptances
+acceptances 1
 adstipulation
 apoplectoid
 almah
