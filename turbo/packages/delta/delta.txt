@@ -2625,7 +2625,7 @@ decoll
 deguelia
 dumbcow
 dispensaries
-displeaser
+displeaser 1
 discontinues
 decoloring
 disavowed
