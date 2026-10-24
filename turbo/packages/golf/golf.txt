@@ -99,7 +99,7 @@ guidelines
 groupoid
 grutten
 gadabouts
-gualaca
+gualaca 1
 glauber
 gymnopaedes
 gyrostatic
