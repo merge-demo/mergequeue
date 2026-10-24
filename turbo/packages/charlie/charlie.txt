@@ -5746,7 +5746,7 @@ cannon
 catchlight
 cultivatability
 cornein
-clockcase
+clockcase 1
 crystallogy
 cowpock
 caudillism
