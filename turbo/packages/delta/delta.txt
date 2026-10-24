@@ -3133,7 +3133,7 @@ disability
 domesticity
 duringly
 defaulted
-defaultless
+defaultless 1
 depauperization
 downfolded
 defaults
