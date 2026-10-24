@@ -5716,7 +5716,7 @@ flush
 flavins
 flirt
 fixatif
-footed
+footed 1
 fortifies
 flirtatiously
 fundament
