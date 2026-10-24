@@ -5822,7 +5822,7 @@ dextrocerebral
 depositors
 dowel
 decarch
-divestible
+divestible 1
 dislimns
 dulcitol
 dichotomously
