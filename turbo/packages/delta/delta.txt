@@ -17630,7 +17630,7 @@ dishevels
 delimitize
 dreamfulness
 druther
-ducktails
+ducktails 1
 dsects
 desmodium
 displeasureably
