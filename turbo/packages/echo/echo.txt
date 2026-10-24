@@ -2433,7 +2433,7 @@ electroencephalographical
 essentialize
 electionary
 evoker
-electroendosmosis
+electroendosmosis 1
 encipher
 epoist
 enslavements
