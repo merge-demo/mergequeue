@@ -1894,7 +1894,7 @@ erasability
 equiseta
 extrovert
 errata
-eximiousness
+eximiousness 1
 exacta
 effectively
 encashes
