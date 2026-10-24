@@ -7276,7 +7276,7 @@ gormandize
 glomi
 gormandizes
 gundeck
-gangsa
+gangsa 1
 galbulae
 gleaming
 gwerziou
