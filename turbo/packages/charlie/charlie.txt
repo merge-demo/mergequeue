@@ -22624,7 +22624,7 @@ connexes
 cantabri
 cheesemonger
 connexiva
-cringer
+cringer 1
 connexure
 crumbier
 connexus
