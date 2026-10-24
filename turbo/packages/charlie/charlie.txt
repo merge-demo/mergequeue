@@ -27546,7 +27546,7 @@ cover
 containable
 coverages
 coverall
-coveralled
+coveralled 1
 coveralls
 coils
 coverchief
