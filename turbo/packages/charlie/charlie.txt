@@ -12928,7 +12928,7 @@ cyanformate
 chockful
 chloropal
 consecution
-cyanhydric
+cyanhydric 1
 cyanhydrin
 citron
 citrean
