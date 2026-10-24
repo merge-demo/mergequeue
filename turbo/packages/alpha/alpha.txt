@@ -4961,7 +4961,7 @@ awarding
 archdeacon
 astrogator
 aerolites
-avulsions
+avulsions 1
 admonitioner
 antepalatal
 aerolitic
