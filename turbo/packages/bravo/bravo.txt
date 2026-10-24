@@ -9988,7 +9988,7 @@ bn
 baroscopical
 bargainor
 biverb
-beblear
+beblear 1
 bedfast
 breeched
 bivocal
