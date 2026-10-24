@@ -17384,7 +17384,7 @@ diduced
 dropmeal
 dipleurula
 droppers
-diurnalness
+diurnalness 1
 deathbed
 disframe
 declaims
