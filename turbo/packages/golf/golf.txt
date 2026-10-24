@@ -8708,7 +8708,7 @@ greedyguts 1
 gravediggers
 gibier
 greedless
-grecism
+grecism 1
 guemul
 guttled
 guttling
