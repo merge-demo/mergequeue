@@ -4697,7 +4697,7 @@ easter
 epacmaic
 epigean
 ensphering
-epilogize
+epilogize 1
 estre
 emplaced
 exponentiating
