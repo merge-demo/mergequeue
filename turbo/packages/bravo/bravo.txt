@@ -16866,7 +16866,7 @@ botchiness
 borderless
 buffeters
 bistros
-bubalises
+bubalises 1
 brendice
 bietle
 bengals
