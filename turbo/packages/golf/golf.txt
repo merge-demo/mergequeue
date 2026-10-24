@@ -7002,7 +7002,7 @@ guaconize
 glad
 gossipry
 garrat
-grantedly
+grantedly 1
 girding
 gladdener
 geothermally
