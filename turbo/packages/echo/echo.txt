@@ -7025,7 +7025,7 @@ equalist
 elastomer
 electricalize
 emication
-eglatere
+eglatere 1
 enepidermic
 eliquate
 excorticated
