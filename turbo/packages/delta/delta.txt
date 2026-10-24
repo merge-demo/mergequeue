@@ -7867,7 +7867,7 @@ diatoric
 depress
 defrayals
 dogtrots
-diverseness
+diverseness 1
 dewatered
 diffluence
 distemonous
