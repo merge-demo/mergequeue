@@ -16694,7 +16694,7 @@ carpetbeater
 clote
 chayota
 clomb
-cloth
+cloth 1
 clothe
 clothed
 confusional
