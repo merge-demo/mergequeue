@@ -100,7 +100,7 @@ dripper
 delater
 demibrute
 dictyoceratine
-dreadfulness
+dreadfulness 1
 daffery
 desertions
 dactylosymphysis
