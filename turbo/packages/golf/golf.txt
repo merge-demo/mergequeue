@@ -5394,7 +5394,7 @@ girdle
 gynandromorphic
 goodtemperedness
 glimmer
-generall
+generall 1
 glutinant
 glucosid
 gutwise
