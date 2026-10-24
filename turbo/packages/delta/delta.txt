@@ -3050,7 +3050,7 @@ deerstalkers
 detailist
 deerstalking
 dollyway
-detest
+detest 1
 deescalate
 dyehouse
 deeses
