@@ -14575,7 +14575,7 @@ cenobite
 cyath
 cystiform
 clockmutch
-cystigerous
+cystigerous 1
 cystignathidae
 cystignathine
 criminology
