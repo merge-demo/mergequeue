@@ -29397,7 +29397,7 @@ chanter
 chorographic
 cryptozoic
 cryptozoite
-cryophoric
+cryophoric 1
 corbeille
 crazedness
 crypturi
