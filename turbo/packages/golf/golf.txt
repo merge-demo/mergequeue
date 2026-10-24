@@ -3109,7 +3109,7 @@ geopotential
 gelosin
 grassplot
 georgemas
-gurgles
+gurgles 1
 georgics
 glycosyl 1
 gnathal
