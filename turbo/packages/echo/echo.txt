@@ -9921,7 +9921,7 @@ expiatoriness
 epigenic
 economizer
 etaballi
-epipterygoid
+epipterygoid 1
 exprimable
 euphuists
 embolisms
