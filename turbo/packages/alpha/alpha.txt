@@ -7137,7 +7137,7 @@ amanitas
 aerocartograph
 actuator
 anointers
-aknow
+aknow 1
 aggradation
 agglomerating
 awber
