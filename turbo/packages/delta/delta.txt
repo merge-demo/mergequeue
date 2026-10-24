@@ -12199,7 +12199,7 @@ deport
 disfurnished
 dangerless
 deathshot
-dervishes
+dervishes 1
 disfurniture
 disguised
 donax
