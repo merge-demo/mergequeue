@@ -9766,7 +9766,7 @@ exfoliatory
 epyllion
 estivating
 erythronium
-equid
+equid 1
 elamp
 eurhythmy
 exitious
