@@ -6404,7 +6404,7 @@ car
 cribbers
 cilantro
 cautery
-cauteries
+cauteries 1
 cauterisation
 cauterise
 collision
