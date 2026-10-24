@@ -6005,7 +6005,7 @@ felspars
 flacon
 fumattoria
 fidiculae
-ferroelectrically
+ferroelectrically 1
 fellowman
 fibrinoplastin
 forthrightness
