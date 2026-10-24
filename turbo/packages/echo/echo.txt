@@ -12012,7 +12012,7 @@ effectuality
 enforceability
 enamelled
 exclusivistic
-exclusivity
+exclusivity 1
 effluents
 excogitated
 emigrator
