@@ -9728,7 +9728,7 @@ gandurah
 gambades
 greyhounds
 grocerwise
-glossaries
+glossaries 1
 gelants
 gratiosolin
 gaelicism
