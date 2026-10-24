@@ -10941,7 +10941,7 @@ antipyretic
 anhydric
 adenophore
 aquicultural
-availably
+availably 1
 airtight
 amnions
 assurors
