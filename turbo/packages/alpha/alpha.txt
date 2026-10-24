@@ -18955,7 +18955,7 @@ alsatian
 anthropologist
 aesculapian
 auricle
-asphyxiated
+asphyxiated 1
 abedge
 archipelagian
 antigens
