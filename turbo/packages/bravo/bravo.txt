@@ -11243,7 +11243,7 @@ beatably
 bibliophilistic
 brancher
 bridgeable
-bescouring
+bescouring 1
 bullfight
 bewail
 burez
