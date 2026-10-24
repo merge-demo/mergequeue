@@ -6643,7 +6643,7 @@ fancify
 forevouched
 foehnlike
 faulted
-fumbling
+fumbling 1
 fulgurating
 forenotice
 foemanship
