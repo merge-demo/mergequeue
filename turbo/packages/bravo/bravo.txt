@@ -2323,7 +2323,7 @@ businessese
 bosquets
 bizet
 bromidic
-buffoons
+buffoons 1
 botryomyces
 betokened
 budgerygah
