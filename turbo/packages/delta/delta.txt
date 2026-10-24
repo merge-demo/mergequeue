@@ -15012,7 +15012,7 @@ desperate
 doggerelizing
 depots
 diphthongising
-disrout
+disrout 1
 durnedest
 decided
 deformer
