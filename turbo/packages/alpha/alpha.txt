@@ -22920,7 +22920,7 @@ atonicity
 ageusia
 alcelaphus
 academism
-atorai
+atorai 1
 arzun
 atour
 amitie
