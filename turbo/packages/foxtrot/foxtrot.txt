@@ -5241,7 +5241,7 @@ fulvous
 farandole
 fidfad
 factum
-flavoriness
+flavoriness 1
 foremilks
 falangist
 faveoli
