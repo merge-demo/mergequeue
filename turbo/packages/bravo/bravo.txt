@@ -14115,7 +14115,7 @@ butsudan
 brekkle
 bumbaze
 brighteyes
-birdlore
+birdlore 1
 brachiosaur
 brachiosaurus
 brachyphyllum
