@@ -31512,7 +31512,7 @@ credibly
 clupeoids
 culiciform
 coservant
-cursa
+cursa 1
 curse
 cursedly
 cursedness
