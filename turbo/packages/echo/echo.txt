@@ -10895,7 +10895,7 @@ electromuscular
 eanlings
 epirotulian
 easternize 1
-endosmosis
+endosmosis 1
 enterokinase
 enfin
 encephalocoele
