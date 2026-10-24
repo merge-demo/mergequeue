@@ -3101,7 +3101,7 @@ fertilisable
 frottages
 filoplume
 fibroelastic
-fountaineer
+fountaineer 1
 flamefishes
 finnick
 fibroenchondroma
