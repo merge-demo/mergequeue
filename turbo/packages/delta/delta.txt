@@ -8616,7 +8616,7 @@ dystaxia
 diapsida
 dyskinetic
 deathin
-dyarchy
+dyarchy 1
 deadbeat
 dehydrant
 drainless
