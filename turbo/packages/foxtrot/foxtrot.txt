@@ -10888,7 +10888,7 @@ flayer
 fullish
 foeman
 frigorifico
-fulgurated
+fulgurated 1
 forgathers
 fucused
 forthcoming
