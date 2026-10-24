@@ -4400,7 +4400,7 @@ centimes
 clothlike
 coleochaete
 coheartedness
-cusec
+cusec 1
 concrew
 cynara
 carinula
