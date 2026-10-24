@@ -5768,7 +5768,7 @@ geonim
 grapsoid
 genuine
 gymnoplast
-gypsoplast
+gypsoplast 1
 gunkholed
 gossypose 1
 gonotheca
