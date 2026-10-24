@@ -5072,7 +5072,7 @@ extraneously
 endocervical
 eccentrically
 endochorion
-endochorionic
+endochorionic 1
 engrains
 epodic
 enucleate
