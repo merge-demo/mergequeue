@@ -13014,7 +13014,7 @@ estafette
 electrocauteries
 engrapple
 enhazard
-entrusted
+entrusted 1
 epinaoi
 eraser
 escoba
