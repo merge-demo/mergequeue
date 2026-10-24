@@ -22541,7 +22541,7 @@ cedis
 chersonese
 chimbleys
 cheekful
-conjuncts
+conjuncts 1
 conjunctur
 conjunctures
 conjuration
