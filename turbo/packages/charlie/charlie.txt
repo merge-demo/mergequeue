@@ -8435,7 +8435,7 @@ cardiogenic
 champagnized
 cesurae
 champak
-chamfering
+chamfering 1
 characterstring
 crummed
 champaka
