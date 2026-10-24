@@ -10770,7 +10770,7 @@ ganoin
 gloam
 graminin
 gorhen
-gimbals
+gimbals 1
 garbline
 gallium
 glamourie
