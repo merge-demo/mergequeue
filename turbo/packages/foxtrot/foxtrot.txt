@@ -135,7 +135,7 @@ facsimiled
 falser
 fracturable
 fleabites
-frigidaria
+frigidaria 1
 flayers
 fellaheen
 futures
