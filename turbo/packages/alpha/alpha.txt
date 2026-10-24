@@ -11467,7 +11467,7 @@ aneroids
 arthogram
 apiphobia
 antholysis
-antisquama
+antisquama 1
 autolysis
 atrabilious
 antianaphylactogen
