@@ -4563,7 +4563,7 @@ carniferrin
 colorcast 1
 cartilaginoid
 carnifex
-carnifexes
+carnifexes 1
 cationic
 centillionth
 carnification
