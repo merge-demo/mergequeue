@@ -17197,7 +17197,7 @@ brisque
 beneficiaryship
 barkantine
 bullpen
-bullpoll
+bullpoll 1
 bemirror
 bullpup
 becher
