@@ -3209,7 +3209,7 @@ gephyrocercal
 gebur 1
 galoping
 giron
-girtonian
+girtonian 1
 gap
 ghosty
 gundelet

@@ -4011,7 +4011,7 @@ advect
 aphaeresis
 admerveylle
 allocate
-admi
+admi 1
 anhydrously
 apopemptic
 anticontagious
