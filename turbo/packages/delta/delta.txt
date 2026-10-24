@@ -10026,7 +10026,7 @@ dynactinometer
 deratize
 dazedly
 dissipater
-disinterested
+disinterested 1
 depair
 daughterling
 dissightly
