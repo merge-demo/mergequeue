@@ -4678,7 +4678,7 @@ filicinean
 fearsome
 flaunched
 flections
-flexibilities
+flexibilities 1
 frighten
 fragrantly
 foreallege
