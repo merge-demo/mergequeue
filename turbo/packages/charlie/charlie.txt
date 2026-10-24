@@ -26403,7 +26403,7 @@ cotenants
 cytozoon
 carbophilous
 chrismatories
-cotenure
+cotenure 1
 concaved
 cinderlike
 coterie
