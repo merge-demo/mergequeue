@@ -17743,7 +17743,7 @@ discriminateness
 disconsolacy
 derivate
 debugs
-dungeon
+dungeon 1
 dubiousness
 deportees
 dubitable
