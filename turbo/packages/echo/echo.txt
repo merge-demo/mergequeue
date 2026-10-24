@@ -9413,7 +9413,7 @@ expection
 electroretinographic
 enstool
 echeneid
-enantobiosis
+enantobiosis 1
 emulgens
 escaper
 embodied
