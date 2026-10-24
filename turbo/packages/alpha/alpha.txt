@@ -10564,7 +10564,7 @@ aniellidae
 aristides
 antihypnotic
 ameliorativ
-autota
+autota 1
 alison
 amidoplastid
 amidoxyl
