@@ -10119,7 +10119,7 @@ cheval
 chevalet
 chevalets
 chevalier
-centeredness
+centeredness 1
 cystencyte
 chevaliers
 chippewa
