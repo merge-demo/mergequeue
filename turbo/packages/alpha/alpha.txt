@@ -4771,7 +4771,7 @@ altitudes
 aequorins
 aerate
 ablactating
-aerating
+aerating 1
 adroop
 astrometeorological
 aerations
