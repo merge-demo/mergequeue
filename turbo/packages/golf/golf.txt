@@ -8565,7 +8565,7 @@ geodetical
 gadget
 gusla
 gilo
-germaneness
+germaneness 1
 geonoma
 gravicembalos
 gamphrel
