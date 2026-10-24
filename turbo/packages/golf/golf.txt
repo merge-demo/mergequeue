@@ -3394,7 +3394,7 @@ glaciable
 gipsyweed
 gyroscopic
 gainor
-gentiles
+gentiles 1
 gymnoceratous
 geosid
 gerontocrat
