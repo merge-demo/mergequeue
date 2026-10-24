@@ -8091,7 +8091,7 @@ decidable
 dinosaurs
 diabetometer
 demetallize
-demineralize
+demineralize 1
 denominative
 dwarfling
 diplopodic
