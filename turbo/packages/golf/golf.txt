@@ -2940,7 +2940,7 @@ guardingly
 gaddang
 gurkha
 guapilla
-gibes
+gibes 1
 geminorum
 grides
 gastroenterostomy
