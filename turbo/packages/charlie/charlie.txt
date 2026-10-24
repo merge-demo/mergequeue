@@ -22034,7 +22034,7 @@ canastas
 confirms
 confiscatable
 cynebot
-confiscate
+confiscate 1
 countertrend
 crois
 chookies
