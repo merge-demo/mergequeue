@@ -9952,7 +9952,7 @@ glycemic
 guarico
 gonidial
 graphostatic
-getaways
+getaways 1
 grievousness
 gigadoid
 gondoliers
