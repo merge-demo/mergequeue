@@ -14144,7 +14144,7 @@ diol
 desacralize
 diapason
 dentification
-doyst
+doyst 1
 disinfest
 disulfonic
 dispread
