@@ -6254,7 +6254,7 @@ centetidae
 countershout
 cabbalism
 cetological
-cavillers
+cavillers 1
 coconqueror
 codeword
 conically
