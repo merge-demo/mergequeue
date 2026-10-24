@@ -5803,7 +5803,7 @@ goniometer
 globoid
 geobotanically
 garblers
-granitize
+granitize 1
 gosling
 gratters
 gigamaree
