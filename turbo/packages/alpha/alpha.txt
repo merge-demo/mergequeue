@@ -4905,7 +4905,7 @@ amnesiac
 aerodontalgia
 algorithms
 antipedal
-adoors
+adoors 1
 archhost
 anticonservative
 arenite
