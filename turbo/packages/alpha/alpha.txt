@@ -4264,7 +4264,7 @@ acmispon
 azonium
 armorer
 autotomize
-alchornea
+alchornea 1
 aesculapius
 assubjugate
 annoyful
