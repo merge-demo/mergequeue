@@ -11510,7 +11510,7 @@ discandy
 defassa
 dynamometry
 disobligatory
-discommoned
+discommoned 1
 dextrinase
 dodrantal
 detective
