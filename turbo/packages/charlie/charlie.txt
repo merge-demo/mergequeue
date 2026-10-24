@@ -2930,7 +2930,7 @@ condylos
 crappy
 cantdog
 compensatively
-cantefable
+cantefable 1
 childlier
 currawong
 canter
