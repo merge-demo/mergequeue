@@ -3626,7 +3626,7 @@ guanylic
 granilla
 goglets
 glottalize
-grotesque
+grotesque 1
 gigantal
 glutinosity
 gld
