@@ -6497,7 +6497,7 @@ cavekeeper
 cavelet
 confiner
 cambodia
-cavelike
+cavelike 1
 cavemen
 cavernal
 cavernlike
