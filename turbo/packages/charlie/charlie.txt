@@ -13581,7 +13581,7 @@ chickens
 cryptoanalysis
 cimicifuga
 compressure
-cimicoid
+cimicoid 1
 cornix
 conformableness
 calcaneonavicular
