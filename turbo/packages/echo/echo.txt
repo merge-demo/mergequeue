@@ -3533,7 +3533,7 @@ estriols
 enfoeffment
 exanthematous
 ergographic
-entozoon
+entozoon 1
 emboweled
 epithecial
 eschewance
