@@ -3176,7 +3176,7 @@ grigs
 geotropy
 guardant
 glossolabiolaryngeal
-gametoid
+gametoid 1
 garridge
 ganglial
 gooier
