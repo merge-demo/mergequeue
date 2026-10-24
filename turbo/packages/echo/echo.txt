@@ -5165,7 +5165,7 @@ echeloning
 enchanter
 expedition
 endogenous
-enlistment
+enlistment 1
 electo
 emanatistic 1
 embroider
