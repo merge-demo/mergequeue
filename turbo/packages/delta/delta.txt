@@ -1487,7 +1487,7 @@ dazzlingness
 descale
 degames
 dbms
-degenerationist
+degenerationist 1
 dbridement
 decidual
 dracma
