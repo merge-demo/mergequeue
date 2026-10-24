@@ -8959,7 +8959,7 @@ charing
 celadons
 carbinyl
 cortex
-chariot
+chariot 1
 continuo
 charioting
 chariotman
