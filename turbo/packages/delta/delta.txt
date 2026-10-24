@@ -5200,7 +5200,7 @@ dynasticism
 diaheliotropic
 detruncating
 devoid
-denitrifier
+denitrifier 1
 denizenation
 diquats
 deflectionization
