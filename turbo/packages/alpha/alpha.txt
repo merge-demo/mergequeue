@@ -19115,7 +19115,7 @@ alit
 aristocraticness
 arcticward
 allocute
-absorbant
+absorbant 1
 alkylamino
 alphanumeric
 archencephalic
