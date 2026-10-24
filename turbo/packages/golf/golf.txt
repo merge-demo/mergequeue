@@ -4516,7 +4516,7 @@ gomukhi
 gins
 grame
 ginseng
-gyrose
+gyrose 1
 grindingly
 germing
 grandmothers
