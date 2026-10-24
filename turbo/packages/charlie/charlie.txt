@@ -14981,7 +14981,7 @@ citrons
 citronwood
 citrullus
 cittern
-cavorts
+cavorts 1
 citterns
 citua
 cytulae
