@@ -13902,7 +13902,7 @@ canonistic
 cyathos
 cleek
 cynography
-cirripeds
+cirripeds 1
 contributiveness
 casusistry
 calliopes
