@@ -7393,7 +7393,7 @@ edgings
 epentheses
 exotic
 eleotrid
-elvan
+elvan 1
 encolumn
 etruria 1
 exigences
