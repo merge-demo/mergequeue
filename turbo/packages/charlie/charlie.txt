@@ -21865,7 +21865,7 @@ confabs
 confabulate
 cimbal
 cronstedtite
-connivery
+connivery 1
 calcium
 claithes
 confabulator
