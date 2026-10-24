@@ -11632,7 +11632,7 @@ fibrous
 fylgja
 funestal
 forehew
-fumy
+fumy 1
 friendship
 foliaceous
 frizzled
