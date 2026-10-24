@@ -6501,7 +6501,7 @@ cavelike
 cavemen
 cavernal
 cavernlike
-cavernoma
+cavernoma 1
 cavernous
 cavernously
 cavernulous
