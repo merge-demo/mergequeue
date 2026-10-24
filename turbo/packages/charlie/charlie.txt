@@ -3653,7 +3653,7 @@ carlish
 cucumiform
 caraja
 carajas
-carambole
+carambole 1
 coextensively
 caramboling
 cardsharper
