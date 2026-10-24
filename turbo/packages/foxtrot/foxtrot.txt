@@ -6519,7 +6519,7 @@ forspread
 furcular
 foldskirt
 fortifying
-flexuousness
+flexuousness 1
 fulminant
 floggingly
 floodboard
