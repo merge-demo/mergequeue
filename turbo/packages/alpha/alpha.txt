@@ -16953,7 +16953,7 @@ apiole
 apyonin
 apiosoma
 apyrases
-apyrexial
+apyrexial 1
 apyrotype
 approbator
 ambrite
