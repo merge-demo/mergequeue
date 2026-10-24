@@ -2291,7 +2291,7 @@ folktale
 fragging
 fluorocarbons
 fibrochondrosteal
-floored
+floored 1
 form
 filator
 fraudlessly
