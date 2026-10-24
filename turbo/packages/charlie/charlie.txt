@@ -11701,7 +11701,7 @@ churlhood
 chondriomere
 chondriosphere
 connaturally
-chondrites
+chondrites 1
 chondritic
 chondroalbuminoid
 chondroangioma
