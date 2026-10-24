@@ -8280,7 +8280,7 @@ ecophobia
 erythrismal
 eschynite
 embosoms
-eurus
+eurus 1
 epithalamize
 evaporators
 ennobles
