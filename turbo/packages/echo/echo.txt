@@ -11639,7 +11639,7 @@ exacting
 electroirrigation
 eruca
 eburnian
-enfire
+enfire 1
 exactitude
 electrohydraulic
 eleusinian
