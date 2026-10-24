@@ -4794,7 +4794,7 @@ fauve
 filigrain
 fargoing
 flageolets
-flagfishes
+flagfishes 1
 fubsy
 forbiddenness
 figurately
