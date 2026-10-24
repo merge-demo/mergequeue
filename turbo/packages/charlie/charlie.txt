@@ -5378,7 +5378,7 @@ castellation
 cleruchies
 castellatus
 circumposition
-copulates
+copulates 1
 chamberfellow
 castellum
 caster
