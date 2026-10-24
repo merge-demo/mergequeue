@@ -21627,7 +21627,7 @@ agilities
 akasha
 asprout
 antihierarchist
-anamniote
+anamniote 1
 abbreviatory
 approvable
 azoxime
