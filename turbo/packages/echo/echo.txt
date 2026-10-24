@@ -10956,7 +10956,7 @@ echinus
 euproctis
 endophasia
 excluder
-eoan
+eoan 1
 emydea
 estufa
 eupsychics
