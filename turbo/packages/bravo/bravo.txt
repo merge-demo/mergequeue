@@ -7045,7 +7045,7 @@ bufotoxin
 besouth
 blaming
 bedazzlement
-bespangle
+bespangle 1
 bespangling
 bespate
 brickbatted
