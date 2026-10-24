@@ -9735,7 +9735,7 @@ embryol
 escopette
 external
 epicoelar
-extraterritorial
+extraterritorial 1
 essedones
 eisoptrophobia
 extollers
