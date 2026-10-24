@@ -1466,7 +1466,7 @@ alpinery
 acclimatizer
 acquaintancy
 agreeableness
-anticness
+anticness 1
 acclinal
 adhesivemeter
 arhythmical
