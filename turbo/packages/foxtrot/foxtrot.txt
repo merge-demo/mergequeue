@@ -10680,7 +10680,7 @@ fainting
 fylfot
 foxy
 felsophyre
-forescent
+forescent 1
 feralin
 fleshquake
 fivepenny
