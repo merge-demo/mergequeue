@@ -5815,7 +5815,7 @@ explanation
 epigenesis
 engouement
 engoument
-encounter
+encounter 1
 exanthema
 entification
 evade
