@@ -5872,7 +5872,7 @@ evirtuate
 enocyte
 electrotyping
 ergotize
-entangledly
+entangledly 1
 elb
 edificing
 electorial
