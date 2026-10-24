@@ -1547,7 +1547,7 @@ bulbiform
 bdl
 bouton
 backsword
-ballastic
+ballastic 1
 bashawship
 ballata
 brisked
