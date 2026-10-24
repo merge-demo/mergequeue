@@ -6894,7 +6894,7 @@ doffers
 dulling
 diabasic
 duniewassal
-desolation
+desolation 1
 darkness
 dryhouse
 dependents
