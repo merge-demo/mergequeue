@@ -5434,7 +5434,7 @@ allod
 attainers
 agenesic
 audiotypist
-aforetimes
+aforetimes 1
 adenoblast
 afortiori
 apocatastasis
