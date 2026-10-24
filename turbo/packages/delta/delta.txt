@@ -5570,7 +5570,7 @@ duodenal
 dolichopellic
 dependence
 desensitizes
-dependingly
+dependingly 1
 drouthiness
 dallack
 dispersed
