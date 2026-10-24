@@ -11779,7 +11779,7 @@ discriminativeness
 discriminator
 dirigibility
 diegueno
-disembrangle
+disembrangle 1
 deferrals
 discriminoid
 decemberly
