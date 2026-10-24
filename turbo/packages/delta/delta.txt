@@ -434,7 +434,7 @@ dais
 defog
 disinthrall
 disposal
-dibs
+dibs 1
 drenchers
 dimyaric
 diathermous
