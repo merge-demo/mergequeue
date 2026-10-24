@@ -9044,7 +9044,7 @@ epiphyll
 entria
 ephesine
 emlen
-eleoplast
+eleoplast 1
 exocyclic
 equiglacial 1
 empyreans
