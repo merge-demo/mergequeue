@@ -10929,7 +10929,7 @@ amniochorial
 arado
 aboardage
 aquaplaned
-adamellite
+adamellite 1
 amniomancy
 acephalan
 amnionata
