@@ -3352,7 +3352,7 @@ dropsically
 downweight
 dicot
 dayment
-distressfulness
+distressfulness 1
 dullery
 definitor
 dogmouth
