@@ -6063,7 +6063,7 @@ eupepsias
 emydinae
 ecumenicalism
 erotization
-exposer
+exposer 1
 evenhandedly
 eluant
 enfever
