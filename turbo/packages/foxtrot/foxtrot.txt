@@ -2320,7 +2320,7 @@ feaster
 fixities
 fixatifs
 frize
-flagitious
+flagitious 1
 felis
 feminizes
 friday
