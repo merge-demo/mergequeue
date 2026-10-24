@@ -7534,7 +7534,7 @@ gat
 gambeson
 governed
 graecizing
-gentlemanism
+gentlemanism 1
 governesses
 galvanotonic
 gully
