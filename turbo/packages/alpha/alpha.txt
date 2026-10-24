@@ -16636,7 +16636,7 @@ antlions
 apaturia
 augustness
 alp
-acknowledgeable
+acknowledgeable 1
 abstractions
 archeunuch
 acalculia
