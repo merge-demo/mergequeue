@@ -4340,7 +4340,7 @@ descrier
 disburden
 defatigable
 demandingly
-demands
+demands 1
 desyl
 dendrodic
 dysphagic
