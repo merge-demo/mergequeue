@@ -11380,7 +11380,7 @@ chloroprene
 creature
 chloroquine
 coronas
-camagon
+camagon 1
 cyclamates
 counterpillar
 cheekier
