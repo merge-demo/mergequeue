@@ -15654,7 +15654,7 @@ dopchick
 dopebook
 decemfid
 demonstrator
-discased
+discased 1
 distemperance
 dopey
 decrements
