@@ -15742,7 +15742,7 @@ dormette
 desolator
 dormeuse
 dormice
-dishpans
+dishpans 1
 dormilona
 dormitive
 dormitories
