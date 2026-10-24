@@ -82,7 +82,7 @@ earmuff
 earnable
 essayer
 ecclesiology
-extendable
+extendable 1
 eusporangiate
 eclecticize
 ephedraceae
