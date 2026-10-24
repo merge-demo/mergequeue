@@ -10457,7 +10457,7 @@ chilcat
 coprostanol
 cetaceum
 copulation
-chelophore
+chelophore 1
 child
 childbearing
 circumspatial
