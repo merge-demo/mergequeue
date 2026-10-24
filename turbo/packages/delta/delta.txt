@@ -18068,7 +18068,7 @@ divisionist
 disturbing
 deanimalize
 desiccates
-dullity
+dullity 1
 disgaveling
 damnifying
 digitaria
