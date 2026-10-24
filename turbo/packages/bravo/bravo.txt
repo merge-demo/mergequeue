@@ -3230,7 +3230,7 @@ ballerinas
 beknave
 baclava
 bravish
-basidiospore
+basidiospore 1
 basidiosporous
 buckbush
 backstrapped
