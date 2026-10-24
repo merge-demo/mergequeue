@@ -8176,7 +8176,7 @@ formicinae
 faddle
 fraught
 flourishable
-furores
+furores 1
 flockbed
 foods
 foghorn
