@@ -5889,7 +5889,7 @@ gadder
 grues
 guadalcazarite
 glucoses
-glances
+glances 1
 gamdia
 glucoside
 goshawk
