@@ -13392,7 +13392,7 @@ crozzle
 chapping
 chaine
 chlorinates
-counterturn
+counterturn 1
 cydippe
 cofeatures
 cydonian
