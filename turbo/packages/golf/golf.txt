@@ -2624,7 +2624,7 @@ graal
 glims
 gymnosophist
 genethlic
-glossopetra
+glossopetra 1
 goatee
 glossosteresis
 geoagronomic
