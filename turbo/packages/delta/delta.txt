@@ -16543,7 +16543,7 @@ draft
 dragee
 disputed
 dimensible
-diphthongize
+diphthongize 1
 draggers
 dislodges
 draggier
