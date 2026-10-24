@@ -3895,7 +3895,7 @@ crassulaceous
 carbonize
 charlatanism
 carbonizers
-concn
+concn 1
 chylificatory
 carbonizing
 carbonometer
