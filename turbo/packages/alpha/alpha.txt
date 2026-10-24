@@ -20172,7 +20172,7 @@ arraying
 arrays
 agdistis
 arrand
-arrangeable
+arrangeable 1
 arrangement
 agoge
 arrayals
