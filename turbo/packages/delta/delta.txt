@@ -6900,7 +6900,7 @@ dryhouse
 dependents
 dognap
 discolors
-descantist
+descantist 1
 dahabiyeh
 deadliest
 deficit
