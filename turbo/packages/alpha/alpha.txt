@@ -12838,7 +12838,7 @@ aecidioform
 anglish
 angioparesis
 ambassadorship
-awarder
+awarder 1
 agnosis
 aeneolithic
 angioplasty
