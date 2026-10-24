@@ -3711,7 +3711,7 @@ ephemerons
 echelette
 exhaustivity
 egoistry
-embrittle
+embrittle 1
 edgeshot
 enfranchised
 echinochrome
