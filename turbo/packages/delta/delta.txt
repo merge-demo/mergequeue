@@ -13638,7 +13638,7 @@ disciplinative
 disship
 denting
 disshiver
-deletory
+deletory 1
 dissiliency
 dissilient
 dolichurus
