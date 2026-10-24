@@ -27163,7 +27163,7 @@ counterstimulate
 counterstimulation
 counterstimulus
 counterstock
-counterstroke
+counterstroke 1
 cyclopoid
 clientless
 cellulate
