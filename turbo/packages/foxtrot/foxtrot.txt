@@ -10296,7 +10296,7 @@ fluormeter
 ferrates
 farnesses
 factor
-forleaving
+forleaving 1
 foundationless
 finfoot
 fervorlessness
