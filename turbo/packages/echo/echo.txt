@@ -5862,7 +5862,7 @@ extravagence
 engraver
 expalpate
 entree
-ethiops
+ethiops 1
 episyntheton
 estamp
 erasures
