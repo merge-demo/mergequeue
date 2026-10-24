@@ -13938,7 +13938,7 @@ bostonese
 bowsie
 bacteriuria
 boxful
-burette
+burette 1
 bleed
 brussels
 bullring
