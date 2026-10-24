@@ -3367,7 +3367,7 @@ envelopes
 encyclopaedial
 embannered
 emetine
-equivokes
+equivokes 1
 eremopteris
 ethanethiol
 ensealing
