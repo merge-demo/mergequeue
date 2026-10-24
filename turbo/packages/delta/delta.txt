@@ -18507,7 +18507,7 @@ disawa
 datch
 drongos
 durances
-downcast
+downcast 1
 delegative
 divorced
 duraspinalis
