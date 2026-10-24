@@ -11449,7 +11449,7 @@ chocks
 chocoan
 chocolatey
 chine
-chocolates
+chocolates 1
 chocolatiere
 concentred
 choctaw
