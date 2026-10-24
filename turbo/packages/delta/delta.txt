@@ -13540,7 +13540,7 @@ datelines
 doumas
 disseisee
 dortiship
-defterdar
+defterdar 1
 disaccharose
 dungeoner
 disperse
