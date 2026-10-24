@@ -10010,7 +10010,7 @@ flatwork
 franchiser
 flor
 fellagha
-fryer
+fryer 1
 flans
 fluorometric
 fringehead
