@@ -4378,7 +4378,7 @@ enbrave
 eggheadedness
 embar
 egotize
-eruptively
+eruptively 1
 experiential
 encadre
 ender
