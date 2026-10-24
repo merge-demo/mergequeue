@@ -5355,7 +5355,7 @@ displaced
 denticle 1
 dentiferous
 dentifrice
-dentil
+dentil 1
 discussional
 dentiled
 ditas
