@@ -13599,7 +13599,7 @@ blinded
 buffoonism
 boulimia
 berate
-bornyl
+bornyl 1
 biurate
 besand
 bowstrings
