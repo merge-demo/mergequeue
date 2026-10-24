@@ -2187,7 +2187,7 @@ assessionary
 achondritic
 antifanatic
 abatjours
-artificious
+artificious 1
 agrostology
 alure
 alqueire
