@@ -8472,7 +8472,7 @@ ergonomist 1
 epoxies
 employed
 evangelistaries
-easterlies
+easterlies 1
 eprise
 epimorpha
 endures
