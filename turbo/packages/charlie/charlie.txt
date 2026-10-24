@@ -5469,7 +5469,7 @@ chloramide
 civetlike
 cantraips
 casuarius
-chamaecyparis
+chamaecyparis 1
 coleoptile
 crunode
 casuistess
