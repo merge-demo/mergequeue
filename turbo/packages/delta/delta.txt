@@ -820,7 +820,7 @@ decile
 dopesters
 dalaga
 danglin
-docibility
+docibility 1
 demagogism
 directivity
 drunkenly
