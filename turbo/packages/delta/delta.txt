@@ -17376,7 +17376,7 @@ deficiencies
 drib
 doigt
 derivability
-delime
+delime 1
 deallocation
 delactation
 deviants
