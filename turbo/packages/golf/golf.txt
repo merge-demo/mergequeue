@@ -1973,7 +1973,7 @@ gaurian
 gasting
 gaurs
 gravitative
-glamourous
+glamourous 1
 gaussage
 gaskings
 girth
