@@ -13490,7 +13490,7 @@ episiorrhagia
 exsanguinating
 epagoge
 exauthorize
-exposing
+exposing 1
 ethmoidal
 eudaemonic
 eucalypti
