@@ -2032,7 +2032,7 @@ farragoes
 fannell 1
 fireworky
 fractionizing
-freshens
+freshens 1
 farmers
 fenestration
 fieldwards
