@@ -9487,7 +9487,7 @@ gesticulations
 glossy
 ganser
 gleeishly
-gauffering
+gauffering 1
 geometrician
 gossamery
 gae
