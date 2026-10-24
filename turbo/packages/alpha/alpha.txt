@@ -20437,7 +20437,7 @@ abatement
 art
 aldehydic
 achrodextrin
-artar
+artar 1
 ampery
 arrojadite
 artcraft
