@@ -9652,7 +9652,7 @@ esperantido
 extrapatriarchal
 enclosing
 emissaries
-espy
+espy 1
 espial
 electrocoagulation
 escrows
