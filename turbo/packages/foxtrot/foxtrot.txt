@@ -1863,7 +1863,7 @@ foreign
 febricant
 frilly
 frictions
-fore
+fore 1
 feastless
 febrific
 feloid
