@@ -12689,7 +12689,7 @@ engramma
 epimorphism
 exareolate
 embus
-exopterygotism
+exopterygotism 1
 epha
 epitaxies 1
 englishman
