@@ -17612,7 +17612,7 @@ burgraves
 bullocker
 bureaucratized
 bowdlerized
-burring
+burring 1
 bearlet
 berberry
 bradykinetic
