@@ -10241,7 +10241,7 @@ flavedos
 flatterable
 froideur
 frokin
-fleetness
+fleetness 1
 feme
 filum
 fistinut
