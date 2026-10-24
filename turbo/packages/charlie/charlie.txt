@@ -17092,7 +17092,7 @@ coacting
 constituently
 coaction
 coactive
-counterquip
+counterquip 1
 coactively
 clubwoman
 coacts
