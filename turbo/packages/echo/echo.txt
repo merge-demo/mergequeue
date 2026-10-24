@@ -1372,7 +1372,7 @@ endochylous
 exhortation
 eleutherodactyli
 epithecium
-embolden
+embolden 1
 emphrensy
 expirator
 ethnocentrically
