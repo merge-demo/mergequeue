@@ -1063,7 +1063,7 @@ forensically
 fixedness
 faro
 fluoridization
-floriken
+floriken 1
 floter
 foredestining
 furriery
