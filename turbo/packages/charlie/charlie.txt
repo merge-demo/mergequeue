@@ -26803,7 +26803,7 @@ counterdesire
 counterdevelopment
 calcareobituminous
 columnization
-counterdifficulty
+counterdifficulty 1
 commiserate
 coldest
 counterdigged
