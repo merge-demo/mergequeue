@@ -1273,7 +1273,7 @@ denari
 denaturing
 datives
 deplane
-desmids
+desmids 1
 dossil
 dermoptera
 deti
