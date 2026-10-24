@@ -1742,7 +1742,7 @@ golliwogs
 gallic
 gofer
 grx
-guanine
+guanine 1
 gentisein
 grouchiest
 gossypine
