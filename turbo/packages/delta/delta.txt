@@ -6646,7 +6646,7 @@ dianisidine
 deplump
 draughtswoman
 desertification
-dodecahedric
+dodecahedric 1
 deserting
 drabs
 diastimeter
