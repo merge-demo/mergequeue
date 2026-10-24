@@ -10984,7 +10984,7 @@ downbend
 doorframe
 disallow
 displaying
-dorneck
+dorneck 1
 desperately
 disconformably 1
 dramatised
