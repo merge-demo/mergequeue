@@ -6036,7 +6036,7 @@ estoque
 expromissor
 ephphatha
 endosarcs
-endemical
+endemical 1
 expire
 epiglottises
 enkindles
