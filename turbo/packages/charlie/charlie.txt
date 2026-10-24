@@ -12376,7 +12376,7 @@ chromes
 chromesthesia
 crabbers
 chromhidrosis
-chromy
+chromy 1
 cystostomy
 chromidae
 chromide
