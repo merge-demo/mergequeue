@@ -5524,7 +5524,7 @@ astrographer
 afterform
 actuarial
 aerolith
-aftergas
+aftergas 1
 abstractedness
 ablings
 articulatorily
