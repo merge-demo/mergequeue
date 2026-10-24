@@ -3606,7 +3606,7 @@ carabinier
 carabiniere
 carabinieri
 cotrespasser
-choosable
+choosable 1
 caaba
 cinques
 circle
