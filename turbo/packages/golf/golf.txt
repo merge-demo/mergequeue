@@ -3961,7 +3961,7 @@ gimping
 grubworms
 gigawatts
 glossoscopia
-geoty
+geoty 1
 gads
 gorgoneioneia
 gastrological
