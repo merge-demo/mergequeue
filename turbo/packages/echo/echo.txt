@@ -2074,7 +2074,7 @@ entraps
 enchainements 1
 ecphractic
 epi
-eugene
+eugene 1
 earwitness
 epispermic
 emu
