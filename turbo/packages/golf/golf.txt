@@ -6183,7 +6183,7 @@ gazetteers
 groveling
 goal
 griffithite
-galactophore
+galactophore 1
 gawney
 goniatite
 gigantolite
