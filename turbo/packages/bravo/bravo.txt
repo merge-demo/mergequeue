@@ -7574,7 +7574,7 @@ bifocals
 bedrivel
 breed
 bogglish
-bewhore
+bewhore 1
 bewidow
 bulldozers
 boke
