@@ -9982,7 +9982,7 @@ footprint
 footpaths
 followeth
 foreshroud
-framableness
+framableness 1
 fenceless
 fanga
 forerevelation
