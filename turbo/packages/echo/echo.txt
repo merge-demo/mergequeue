@@ -4918,7 +4918,7 @@ entropy
 exencephalic
 ectocoelic
 eyelight
-emporetic
+emporetic 1
 eurytomid
 emulsifiers
 ennomic
