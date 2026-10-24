@@ -16314,7 +16314,7 @@ amphigouris
 autoregenerator
 anthochlor
 antitobacconist
-auscultative
+auscultative 1
 ahura
 antitonic
 autoneurotoxin
