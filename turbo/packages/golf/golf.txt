@@ -2369,7 +2369,7 @@ gentianal
 gilver
 gote
 gaulish
-gambadoes
+gambadoes 1
 geminid
 geminous
 gratinating
