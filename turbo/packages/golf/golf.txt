@@ -503,7 +503,7 @@ gullably
 geminations
 gnomes
 geomorphology
-galloons
+galloons 1
 gisement
 gruffing
 graff
