@@ -8473,7 +8473,7 @@ faecal
 formica
 feedlot
 fasciculate
-fluxes
+fluxes 1
 furloughed
 fitty
 formicate
