@@ -5529,7 +5529,7 @@ gastropoda
 gustier
 genear
 globalizing
-gisants
+gisants 1
 growls
 groggeries
 gently
