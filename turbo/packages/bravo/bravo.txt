@@ -13721,7 +13721,7 @@ barytocalcite
 braccio
 billetwood
 backus
-balneatory
+balneatory 1
 balsawood
 boutefeu
 bouteria
