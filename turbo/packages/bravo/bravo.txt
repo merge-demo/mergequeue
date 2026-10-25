@@ -3789,7 +3789,7 @@ baboon
 bazzite
 browsing
 bescorched
-bristlecone
+bristlecone 1
 beerish
 benzole
 beauish
