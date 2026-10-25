@@ -7242,7 +7242,7 @@ filature
 fridays
 foreignize
 fleetings
-forel
+forel 1
 feudalising
 flanderkin
 fb
