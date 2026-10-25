@@ -744,7 +744,7 @@ characterical
 causations
 cleaning
 crimpiness
-corners
+corners 1
 chasselas
 cocoa
 colonelship
