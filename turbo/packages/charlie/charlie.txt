@@ -14259,7 +14259,7 @@ circumnavigation
 clefted
 chickaree
 coelia
-circumnavigator
+circumnavigator 1
 cyclometrical
 coitophobia
 costal
