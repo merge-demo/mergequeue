@@ -10749,7 +10749,7 @@ galloot
 gagers
 groggy
 gustiest
-geocentrically
+geocentrically 1
 galewort
 glyphograph
 gypsyry
