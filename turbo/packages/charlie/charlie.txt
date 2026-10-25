@@ -28839,7 +28839,7 @@ churchwards
 crestline
 creta
 counterorator
-chirographic
+chirographic 1
 commander
 comte
 cretaceously

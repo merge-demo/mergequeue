@@ -4502,7 +4502,7 @@ brickset
 bacchanalias
 bumptiously
 buffering
-bistratose
+bistratose 1
 buhrstone
 borocalcite
 bookkeeps
