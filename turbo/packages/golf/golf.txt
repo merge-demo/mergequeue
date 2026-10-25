@@ -3676,7 +3676,7 @@ gadgeteers
 gametes
 gory
 ghost
-genesic
+genesic 1
 gamble
 gnathonism
 glyceral
