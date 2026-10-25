@@ -9553,7 +9553,7 @@ empusa
 electroviscous
 evacuees
 eyesalve
-exannulate
+exannulate 1
 endosmotic
 enchytraeidae
 emigree
