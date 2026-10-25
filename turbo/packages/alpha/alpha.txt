@@ -1369,7 +1369,7 @@ acceptability
 amorality
 antistimulant
 acceptance
-axisymmetrical
+axisymmetrical 1
 absorbent
 athalline
 achylia
