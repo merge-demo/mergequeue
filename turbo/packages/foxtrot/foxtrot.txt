@@ -397,7 +397,7 @@ fairy
 foresettle
 fingerroot
 failings
-factors
+factors 1
 flabellate
 fallaway
 floozie
