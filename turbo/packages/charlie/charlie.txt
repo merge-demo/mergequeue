@@ -13537,7 +13537,7 @@ cymars
 cymatia
 cymation
 curtsies
-clarigate
+clarigate 1
 confricamenta
 compensation
 cedarn

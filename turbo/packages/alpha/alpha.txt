@@ -17005,7 +17005,7 @@ administrable
 ascidicolous
 alphabetization
 aventail
-attainably
+attainably 1
 aplotaxene
 aliened
 avascular
