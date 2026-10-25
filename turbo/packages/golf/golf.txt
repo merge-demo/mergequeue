@@ -5125,7 +5125,7 @@ gromatics
 grassland
 gubbo
 glycoside
-glossate
+glossate 1
 glali
 gnatflower
 gaumed
