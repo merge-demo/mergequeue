@@ -12491,7 +12491,7 @@ diaporthe
 dicotyledonary
 disinfectants
 drafter
-dreg
+dreg 1
 disinfected
 deceivers
 denaturizer
