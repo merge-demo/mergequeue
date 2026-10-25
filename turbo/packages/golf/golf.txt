@@ -5332,7 +5332,7 @@ guanidine
 glegly
 gunner
 galactosemia
-genuses
+genuses 1
 gulfier
 glyconic
 grandiloquently
