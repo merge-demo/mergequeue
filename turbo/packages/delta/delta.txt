@@ -3573,7 +3573,7 @@ drywall
 dawny
 depending
 drome
-disguise
+disguise 1
 debunker
 degassed
 disappears
