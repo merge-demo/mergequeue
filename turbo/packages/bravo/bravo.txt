@@ -5148,7 +5148,7 @@ bashment
 bazookas 1
 backhatch
 beroidae
-befoulment
+befoulment 1
 biacuminate
 bejazz
 befraught
