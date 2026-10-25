@@ -7845,7 +7845,7 @@ gaj
 geophone
 gegg
 groaners
-globs
+globs 1
 graphospasm
 gerents
 gulaman
