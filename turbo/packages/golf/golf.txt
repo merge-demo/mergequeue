@@ -10245,7 +10245,7 @@ geechee
 gonophore
 glacier
 gustiness
-galvanometry
+galvanometry 1
 garnisheeing
 galvanoplastically
 grownup
