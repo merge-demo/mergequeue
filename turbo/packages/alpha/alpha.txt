@@ -3746,7 +3746,7 @@ archmilitarist
 aburabozu
 adjiga
 alligator
-adfreezing
+adfreezing 1
 adhafera
 alligated
 aerosphere
