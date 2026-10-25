@@ -5165,7 +5165,7 @@ bordereau
 befretting
 blellum
 buoyage
-befriended
+befriended 1
 bellbind
 beardfish
 befriender
