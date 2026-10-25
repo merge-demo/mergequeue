@@ -6368,7 +6368,7 @@ expenseful
 earthward
 electrooptic
 empathized
-emulsor
+emulsor 1
 espagnole
 euskarian
 egested
