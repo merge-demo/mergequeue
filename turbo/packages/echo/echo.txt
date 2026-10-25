@@ -425,7 +425,7 @@ entocondyle
 elfish
 exposits
 exacerbation
-ebullioscopic
+ebullioscopic 1
 extendibility
 echappee
 epaxially
