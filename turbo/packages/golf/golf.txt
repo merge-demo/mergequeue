@@ -71,7 +71,7 @@ gonidiophore
 gd
 galeenies
 garoo
-gossiper
+gossiper 1
 gelasian
 gentlemanize
 greffe
