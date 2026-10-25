@@ -4575,7 +4575,7 @@ gilim 1
 gobbledygook
 glim
 galloper
-goobers
+goobers 1
 germane
 gagger
 grinter
