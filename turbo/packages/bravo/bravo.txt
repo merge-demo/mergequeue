@@ -16511,7 +16511,7 @@ bricker
 birdcatching
 bishoplet
 borasque
-bozal
+bozal 1
 breathableness
 bequote
 biasness
