@@ -12731,7 +12731,7 @@ etesians
 expurgator
 exorcistic
 erythroxylum
-euphonicalness
+euphonicalness 1
 eidetically
 exam
 eyesights
