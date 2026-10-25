@@ -6772,7 +6772,7 @@ enamor
 entitle
 elixed
 evangelistarion
-enculturating
+enculturating 1
 ecclesioclastic
 entoblastic
 entobronchium
