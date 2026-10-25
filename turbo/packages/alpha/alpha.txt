@@ -15779,7 +15779,7 @@ astute
 accostable
 antiperistalsis
 antiperistatic
-antiperspirant
+antiperspirant 1
 agileness
 antiperspirants
 acronycal
