@@ -3042,7 +3042,7 @@ flatcar
 foregone
 filate
 ferrimagnetism
-fractionalization
+fractionalization 1
 fibril
 fuzing
 filtratable
