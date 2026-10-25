@@ -17097,7 +17097,7 @@ dryfoot
 drift
 driftage
 dittology
-deficient
+deficient 1
 decatyl
 diaboleptic
 detenebrate
