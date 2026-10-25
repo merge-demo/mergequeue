@@ -11597,7 +11597,7 @@ empires
 ewes
 engraphia
 emphatically
-eucalypt
+eucalypt 1
 envenomous
 everywhereness
 expatiation
