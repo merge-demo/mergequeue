@@ -5074,7 +5074,7 @@ eccentrically
 endochorion
 endochorionic
 engrains
-epodic
+epodic 1
 enucleate
 estancieros
 extraditions
