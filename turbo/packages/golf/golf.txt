@@ -5676,7 +5676,7 @@ gentlefolks
 gnatlike
 grandmother
 garlics
-glissando
+glissando 1
 ginglymodian
 gry
 grandsons
