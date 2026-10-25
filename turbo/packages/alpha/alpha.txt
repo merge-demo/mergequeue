@@ -7746,7 +7746,7 @@ angustia
 ald
 aldane
 aldea
-antichresis
+antichresis 1
 adzooks
 ambiance
 autoplastic
