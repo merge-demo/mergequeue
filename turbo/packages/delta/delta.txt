@@ -17141,7 +17141,7 @@ dullish
 dematerialise
 divvers
 drunkenness
-dero
+dero 1
 decuries
 decine
 dipygi
