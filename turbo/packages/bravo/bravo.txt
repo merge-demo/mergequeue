@@ -13082,7 +13082,7 @@ baahling
 branders
 bedusk
 belfry
-boresight
+boresight 1
 bailiffs
 beblubber
 boresome
