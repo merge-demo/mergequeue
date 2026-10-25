@@ -1756,7 +1756,7 @@ filiality
 flyway
 featherbird
 feoffors
-focalises
+focalises 1
 forfare
 foreshore
 floriferous
