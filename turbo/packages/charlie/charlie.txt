@@ -5223,7 +5223,7 @@ carmine
 conflation
 cellulosed
 catchers
-cliftonite
+cliftonite 1
 casketed
 caskets
 credens
