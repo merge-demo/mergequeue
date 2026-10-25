@@ -6255,7 +6255,7 @@ enomotarch
 epicyte
 educate
 ethanes
-enrich
+enrich 1
 enrichener
 ectopias
 evenforth
