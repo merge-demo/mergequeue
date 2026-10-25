@@ -12189,7 +12189,7 @@ archpretender
 asepsis
 away
 antiworld
-antimagistratical
+antimagistratical 1
 agaonidae
 aneretic
 algebrization
