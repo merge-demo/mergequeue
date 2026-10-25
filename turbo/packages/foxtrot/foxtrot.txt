@@ -8759,7 +8759,7 @@ foreplace
 fraud
 frugality
 floroon
-fashionative
+fashionative 1
 fumbler
 forhooie
 face
