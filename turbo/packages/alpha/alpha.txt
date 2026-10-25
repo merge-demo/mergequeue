@@ -11896,7 +11896,7 @@ albescent
 alconde
 analogousness
 analogue
-analphabet
+analphabet 1
 analphabete
 amphibium
 angelus
