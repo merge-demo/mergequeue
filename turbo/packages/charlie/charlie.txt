@@ -4853,7 +4853,7 @@ clachans
 carriages
 crosstie
 carriagesmith
-cinchonicin
+cinchonicin 1
 carriageway
 carryall
 carrick
