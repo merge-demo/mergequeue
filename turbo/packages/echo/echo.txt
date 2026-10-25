@@ -179,7 +179,7 @@ exploration
 elaps
 electromotion
 electrolier
-equipoising
+equipoising 1
 extraformal
 estrogenic
 emeras
