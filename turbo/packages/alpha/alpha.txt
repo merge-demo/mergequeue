@@ -18454,7 +18454,7 @@ amaryllid
 arawak 1
 ankh
 arawakian
-anatomized
+anatomized 1
 antlion
 amboceptor
 actinistia
