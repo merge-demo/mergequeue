@@ -12998,7 +12998,7 @@ efflate
 expedience
 engrossment
 exotropism
-elopement
+elopement 1
 epopee
 endochondral
 espiegle
