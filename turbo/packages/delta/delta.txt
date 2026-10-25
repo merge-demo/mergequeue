@@ -12527,7 +12527,7 @@ depend
 defies
 divertible
 disingenuousness
-dicaryophase
+dicaryophase 1
 disinheritable
 diuturnity
 disinheritance
