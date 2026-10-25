@@ -542,7 +542,7 @@ beech
 bayok
 blasthole
 bafflingness
-barometrical
+barometrical 1
 bioscope
 backvelder
 blastodermic
