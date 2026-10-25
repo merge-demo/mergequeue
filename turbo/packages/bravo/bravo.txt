@@ -5832,7 +5832,7 @@ bribeworthy
 baigneuse
 bengaline
 bellyful
-boor
+boor 1
 beadier
 blacklisted
 boozily
