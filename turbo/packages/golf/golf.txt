@@ -1327,7 +1327,7 @@ gignate
 gride 1
 gra 1
 ganoine
-goanese
+goanese 1
 guslee
 garishly
 galligaskins
