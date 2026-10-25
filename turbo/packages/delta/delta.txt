@@ -940,7 +940,7 @@ directives
 diacoca
 dewed
 dures
-darb
+darb 1
 dorsoabdominal
 deserters
 darby
