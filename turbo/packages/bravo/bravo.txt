@@ -10760,7 +10760,7 @@ biorhythmic
 balao
 bargeboard
 bronchomotor
-beringed
+beringed 1
 bleo
 befuddlers
 bywords

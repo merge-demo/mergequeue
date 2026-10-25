@@ -7680,7 +7680,7 @@ foreturn
 flotter
 forspeak
 favourers
-forehoofs
+forehoofs 1
 fewter 1
 forehooves
 forpit
