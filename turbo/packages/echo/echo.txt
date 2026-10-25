@@ -8713,7 +8713,7 @@ equisetaceous
 epicondylar
 endothelia
 enchain
-erupting
+erupting 1
 enamorate
 eradications
 enjoyed
