@@ -24107,7 +24107,7 @@ antigenicity
 autofrettage
 angulation
 armament
-afreets
+afreets 1
 autolaryngoscopic
 approvedness
 aigrettes
