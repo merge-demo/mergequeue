@@ -346,7 +346,7 @@ fearsomely
 forkful
 fixers
 failingness
-facultative
+facultative 1
 foresound
 floss
 frogleg
