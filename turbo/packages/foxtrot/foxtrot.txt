@@ -10116,7 +10116,7 @@ foreknee
 fulciform
 fortuitus
 foreheaded
-fissiparously
+fissiparously 1
 frittering
 fuchi
 freakier
