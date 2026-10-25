@@ -10377,7 +10377,7 @@ gapingstock
 gullets
 generators
 giddied
-gasconaded
+gasconaded 1
 gargoyled
 gallflower
 garbanzos
