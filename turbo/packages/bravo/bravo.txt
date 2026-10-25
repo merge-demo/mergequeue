@@ -16552,7 +16552,7 @@ bishops
 budzat
 bandeaux
 broadpiece
-blamingly
+blamingly 1
 bisellium
 bisonant
 brutely

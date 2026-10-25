@@ -19868,7 +19868,7 @@ adeptest
 acquereur
 armies
 abthainry
-armiferous
+armiferous 1
 agnoetism
 agnoetae
 attributives
