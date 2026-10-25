@@ -2804,7 +2804,7 @@ decresc
 desalination
 delphinus
 duodecahedron
-decrescent
+decrescent 1
 deknight
 droller
 decretalist
