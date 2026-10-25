@@ -2034,7 +2034,7 @@ bedstand
 brachydiagonal
 baniya
 baning
-bandcutter
+bandcutter 1
 bhaiachara
 banisher
 banishing
