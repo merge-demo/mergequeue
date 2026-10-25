@@ -9183,7 +9183,7 @@ damascenes
 discase
 dermomuscular
 drawbench
-doeling
+doeling 1
 diminutively
 diedric
 deuteromorphic
