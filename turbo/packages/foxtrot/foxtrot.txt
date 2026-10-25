@@ -9360,7 +9360,7 @@ flocculant
 forbodes
 fleecier
 flatteress
-frankfurters
+frankfurters 1
 fivers
 frankish
 functionary
