@@ -3840,7 +3840,7 @@ filthifying
 forsado
 formin
 fairhead
-fisticuffer
+fisticuffer 1
 furthermore
 fineless
 fract
