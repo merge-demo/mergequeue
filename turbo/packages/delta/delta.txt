@@ -8014,7 +8014,7 @@ derbylite
 dietician
 duomi
 dispersion
-dhal
+dhal 1
 determinated
 dimension
 dorsointestinal
