@@ -16467,7 +16467,7 @@ clockmaking
 crewer
 clockwatcher
 cingulum
-clockwise
+clockwise 1
 clockworked
 clavigerous
 carthamin
