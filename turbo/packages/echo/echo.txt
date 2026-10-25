@@ -7688,7 +7688,7 @@ expoundable
 epideistic
 enthymematical
 enfeebler
-eriocaulaceous
+eriocaulaceous 1
 effluxion
 estrus
 esprise
