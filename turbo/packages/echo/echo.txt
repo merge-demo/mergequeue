@@ -4160,7 +4160,7 @@ enacted
 etuve
 epitheliolysin
 emanant
-encallow
+encallow 1
 euterpe
 extraessentially
 exchangeable
