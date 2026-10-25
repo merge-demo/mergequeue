@@ -15594,7 +15594,7 @@ cottiform
 choose
 clathrinidae
 clamant
-clathroid
+clathroid 1
 clathrose
 cranes
 camelkeeper
