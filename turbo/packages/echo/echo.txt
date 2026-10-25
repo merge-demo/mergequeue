@@ -2303,7 +2303,7 @@ escalatory
 epidemiologist
 exterminations
 eobionts
-ensepulchre
+ensepulchre 1
 evangelicalness
 electrizable
 electrization
