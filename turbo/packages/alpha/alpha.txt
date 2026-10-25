@@ -20756,7 +20756,7 @@ artifex
 activates
 aerobiology
 artificial
-addiction
+addiction 1
 alives
 adverted
 antipragmatically
