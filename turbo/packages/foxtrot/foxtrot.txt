@@ -3356,7 +3356,7 @@ fructescent
 fattener
 fibromatous
 fossores
-foveolate
+foveolate 1
 fascili
 flamines
 foulnesses
