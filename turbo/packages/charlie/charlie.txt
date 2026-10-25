@@ -19300,7 +19300,7 @@ colonies
 colonisability
 colonisable
 clinid
-consumingness
+consumingness 1
 colonisationist
 colonised
 colonising
