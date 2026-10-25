@@ -2790,7 +2790,7 @@ gazettal
 grigris
 gormless
 gloiopeltis
-gentiobiose
+gentiobiose 1
 guardianess
 gait
 gentlemanlikeness
