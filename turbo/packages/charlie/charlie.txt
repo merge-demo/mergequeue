@@ -21580,7 +21580,7 @@ conculcate
 concupy
 concupiscence
 concupiscible
-concupiscibleness
+concupiscibleness 1
 cuff
 cyprians
 concurrencies
