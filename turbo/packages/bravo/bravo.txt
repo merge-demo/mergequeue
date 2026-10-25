@@ -2350,7 +2350,7 @@ briber
 blomstrandine
 barbita
 barbital
-brighteners
+brighteners 1
 barbiton
 bloodworm
 barbituism
