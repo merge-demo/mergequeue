@@ -9581,7 +9581,7 @@ bicapsular
 bandlimits
 bisectors
 bisectrices
-busybodyness
+busybodyness 1
 bullheadedness
 bisects
 bottleflower
