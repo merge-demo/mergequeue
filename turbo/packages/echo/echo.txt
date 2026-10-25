@@ -7012,7 +7012,7 @@ etoile
 eundem
 emote
 eudemian
-entrapping
+entrapping 1
 entrustment
 eurygaea
 exchequers
