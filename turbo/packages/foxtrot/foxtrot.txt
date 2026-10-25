@@ -5723,7 +5723,7 @@ fundament
 floodwater
 fitroot
 flurry
-fere
+fere 1
 flippancies
 freshness
 ferrary
