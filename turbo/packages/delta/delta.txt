@@ -18137,7 +18137,7 @@ distinctionless
 dardic
 duppa
 domatophobia
-dumose
+dumose 1
 decoded
 dermoskeletal 1
 decamp
