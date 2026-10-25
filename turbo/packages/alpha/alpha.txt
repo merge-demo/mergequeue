@@ -18858,7 +18858,7 @@ archfoe
 ancestresses
 aedoeagus
 angloid
-acervose
+acervose 1
 ancientism
 alamodality
 ambush
