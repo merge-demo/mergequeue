@@ -469,7 +469,7 @@ endoplastule
 ecclesia
 enumerable
 ecclesiarchy
-ensnarls
+ensnarls 1
 extoll
 ecclesiast 1
 entrada
