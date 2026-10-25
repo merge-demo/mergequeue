@@ -15996,7 +15996,7 @@ doub
 downsize
 decrepitude
 decator
-direct
+direct 1
 double
 demos
 dotter
