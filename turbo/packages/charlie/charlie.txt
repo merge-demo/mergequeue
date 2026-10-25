@@ -9514,7 +9514,7 @@ courtesies
 checkless
 checklist
 checkman
-congruencies
+congruencies 1
 checkmate
 chirosophist
 cautioning
