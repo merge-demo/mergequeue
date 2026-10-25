@@ -4109,7 +4109,7 @@ endosarc
 epitonic
 electrorefine
 excerptible
-emplecton
+emplecton 1
 employability
 evenly
 electrovalence
