@@ -9202,7 +9202,7 @@ faucals
 fidalgo
 fuming
 forsakes
-flattener
+flattener 1
 feldspathose
 flosh
 fastigious
