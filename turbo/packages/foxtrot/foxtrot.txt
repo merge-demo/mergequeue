@@ -10432,7 +10432,7 @@ frontspieces
 fleet
 fisted
 flche
-frontstall
+frontstall 1
 forstall
 flockless
 frizes
