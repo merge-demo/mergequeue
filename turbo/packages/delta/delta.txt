@@ -513,7 +513,7 @@ dallier
 dup
 dextromanual
 diminishingturns
-discustom
+discustom 1
 dromotropic
 douse
 dalmania
