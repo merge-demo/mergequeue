@@ -4970,7 +4970,7 @@ columbia
 cartogram
 comminate
 cartography
-cypseli
+cypseli 1
 cartographic
 cartographical
 cartographically
