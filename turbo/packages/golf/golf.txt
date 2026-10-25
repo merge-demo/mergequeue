@@ -8690,7 +8690,7 @@ gatch
 gymnosoph
 garlands
 galerum
-gawkishly
+gawkishly 1
 goosing
 gree
 glossopathy
