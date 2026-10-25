@@ -4493,7 +4493,7 @@ gummed
 gypsywise
 guzzling
 grufted
-gangliitis
+gangliitis 1
 gorgio
 groovy
 goalkeeper
