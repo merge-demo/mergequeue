@@ -6294,7 +6294,7 @@ ejusd
 enrolls 1
 eumycetes
 equijacent
-embowed
+embowed 1
 enrut
 explainability
 experimentalize
