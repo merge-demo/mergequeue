@@ -7311,7 +7311,7 @@ fraternized
 foujdar
 fourgon
 fluttery
-fumitory
+fumitory 1
 favelloid
 fleeched
 foaminess
