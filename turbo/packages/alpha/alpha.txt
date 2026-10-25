@@ -10804,7 +10804,7 @@ ammelide
 apodemal
 arenaria
 apothecary
-adductor
+adductor 1
 ammeter
 ammeters
 amplexuses
