@@ -3222,7 +3222,7 @@ drunkards
 dissheathe
 demoniac
 defenceable
-dekle
+dekle 1
 doftberry
 disrelation
 defencive
