@@ -5658,7 +5658,7 @@ disaugment
 dragees
 discommodate
 dispiritedness
-depilating
+depilating 1
 depilatories
 deists
 discos
