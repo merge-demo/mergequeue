@@ -17591,7 +17591,7 @@ drumstick
 detoxicant
 drunk
 desuperheater
-dogbite
+dogbite 1
 drunkenwise
 dirtiest
 dryopteris
