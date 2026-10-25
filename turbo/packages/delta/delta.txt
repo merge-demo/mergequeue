@@ -2750,7 +2750,7 @@ decortication
 dematerialization
 decorticator
 dolichocephalous
-decorticosis
+decorticosis 1
 disoperation
 drawrod
 decortization
