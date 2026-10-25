@@ -11512,7 +11512,7 @@ fastest
 flammable
 flouncy
 fanfold
-fusariosis
+fusariosis 1
 firebirds
 forethoughtless
 floppiness
