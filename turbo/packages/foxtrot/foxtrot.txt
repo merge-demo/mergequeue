@@ -2066,7 +2066,7 @@ feisty
 farl
 fops
 foremessenger
-frothiness
+frothiness 1
 felahin
 factionalist
 fendillation
