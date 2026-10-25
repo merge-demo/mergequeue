@@ -7348,7 +7348,7 @@ diastral
 disunions
 detestation
 decomponent
-detestations
+detestations 1
 dethronement
 diminute
 dethronements
