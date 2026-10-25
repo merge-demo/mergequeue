@@ -8142,7 +8142,7 @@ fructuosity
 fossilology
 foretrace
 forecastleman
-fountful
+fountful 1
 frequentable
 forwake
 foreutter
