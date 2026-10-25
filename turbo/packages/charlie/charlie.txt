@@ -21678,7 +21678,7 @@ consternated
 condigness
 condignity
 chromatopathia
-condignly
+condignly 1
 comethers
 condylar
 chichis
