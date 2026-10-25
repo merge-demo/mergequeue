@@ -13875,7 +13875,7 @@ bitbrace
 boloball
 bowleg
 bowleggedness
-beedi
+beedi 1
 bowles
 balwarra
 bowlful
