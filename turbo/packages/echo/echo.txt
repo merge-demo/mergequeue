@@ -10810,7 +10810,7 @@ euodic
 entrepots
 euonymy
 epilogues
-electrophoretic
+electrophoretic 1
 exochorda
 exsibilate
 echinid
