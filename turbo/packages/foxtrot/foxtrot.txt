@@ -5631,7 +5631,7 @@ foster
 foetor
 fernery
 forepassed
-fireboot
+fireboot 1
 flyless
 forbearingly
 fuddle
