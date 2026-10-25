@@ -3830,7 +3830,7 @@ demagnetizable
 deficiency
 dermalgia
 dubitative
-dolose
+dolose 1
 discreate
 dimwit
 defoams
