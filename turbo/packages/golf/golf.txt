@@ -3135,7 +3135,7 @@ ginnings
 graduating
 gelechiidae
 guesswork
-geoscopy
+geoscopy 1
 gordonia
 germanophobe
 ghostship
