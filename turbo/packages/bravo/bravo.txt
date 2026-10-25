@@ -4278,7 +4278,7 @@ battledore
 bacterious
 bummery
 bebreech
-bigeminy
+bigeminy 1
 bebrother
 blouselike
 bebrush
