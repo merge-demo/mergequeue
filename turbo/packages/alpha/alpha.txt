@@ -21893,7 +21893,7 @@ assyroid
 agly
 abutted
 averrhoa
-aculeated
+aculeated 1
 adapted
 aplacophoran
 asbestous
