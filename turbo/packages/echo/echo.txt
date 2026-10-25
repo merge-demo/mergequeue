@@ -840,7 +840,7 @@ epop
 exulate
 epistolography
 ectiris
-etamines
+etamines 1
 eyewink
 eriophorum
 eosinophil
