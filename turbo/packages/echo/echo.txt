@@ -8178,7 +8178,7 @@ epitendineum
 exergual
 empowered
 excalfaction
-exists
+exists 1
 episiotomies
 enroots
 expirant
