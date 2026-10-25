@@ -8840,7 +8840,7 @@ frenzily
 flashers
 fot
 florideous
-foreshorten
+foreshorten 1
 fictious
 freeholder
 folia
