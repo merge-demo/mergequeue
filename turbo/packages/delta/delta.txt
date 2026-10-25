@@ -3521,7 +3521,7 @@ defrayable
 disembarrassment
 dismissable
 disring
-doom
+doom 1
 defraying
 desaturate
 desiccated
