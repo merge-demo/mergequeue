@@ -10002,7 +10002,7 @@ graveness
 gargled
 gleaner
 gelatinify
-galago
+galago 1
 gaslike
 gateau
 gudame
