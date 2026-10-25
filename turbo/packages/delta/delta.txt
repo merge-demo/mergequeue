@@ -4830,7 +4830,7 @@ delightsomely
 demonetise
 defenestrates
 demonetize
-dextrous
+dextrous 1
 dejecture
 dyscrasing
 dermatosis
