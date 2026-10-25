@@ -231,7 +231,7 @@ greys
 gooks
 gravelstone
 gags
-gonoecium
+gonoecium 1
 guarder
 greatens
 gradefinder
