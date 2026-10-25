@@ -10061,7 +10061,7 @@ export
 eyey
 enamellers
 envenoming
-enchainment
+enchainment 1
 exoneretur
 ebonies
 encephalographically
