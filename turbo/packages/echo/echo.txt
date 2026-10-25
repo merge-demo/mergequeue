@@ -3876,7 +3876,7 @@ emigrating
 excogitating
 enflagellate
 epidotic
-enfeebled
+enfeebled 1
 eclipsis
 executers
 egressive
