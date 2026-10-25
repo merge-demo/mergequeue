@@ -15810,7 +15810,7 @@ diascia
 dorsiflexion
 deuteron
 detects
-defreeze
+defreeze 1
 deluge
 demidome
 discomforting
