@@ -22303,7 +22303,7 @@ aponia
 aurated
 alcibiades
 antiquates
-astragalomancy
+astragalomancy 1
 addressees
 ail
 astragalotibial
