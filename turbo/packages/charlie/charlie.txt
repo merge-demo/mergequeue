@@ -9906,7 +9906,7 @@ chemotactic
 cresylene
 choochoo
 chemotaxy
-cyclohexyl
+cyclohexyl 1
 collocatory
 chemotaxonomy
 chemotaxonomic
