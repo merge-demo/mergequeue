@@ -16378,7 +16378,7 @@ domy
 denumerably
 downway
 drunkery
-downwardly
+downwardly 1
 devourment
 delocalized
 dispellable
