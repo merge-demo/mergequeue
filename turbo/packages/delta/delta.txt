@@ -14400,7 +14400,7 @@ dorsoapical
 droiturel
 dispireme
 divergement
-distensible
+distensible 1
 divergent
 dissentient
 decrials
