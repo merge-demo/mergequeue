@@ -13243,7 +13243,7 @@ anastatic
 antigraft
 aecium
 antisilverite
-alloplasmic
+alloplasmic 1
 animistic
 anabatic
 accretionary
