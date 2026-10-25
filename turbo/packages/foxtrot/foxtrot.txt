@@ -6712,7 +6712,7 @@ fogo
 frescoists
 fighters
 feast
-fellowships
+fellowships 1
 forelegs
 foray
 fogon
