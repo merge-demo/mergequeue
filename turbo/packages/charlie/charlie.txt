@@ -31529,7 +31529,7 @@ coelenteron
 cursitate
 creirgist
 coadjute
-cursive
+cursive 1
 complicating
 conveyal
 cursives
