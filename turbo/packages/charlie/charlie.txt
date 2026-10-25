@@ -4178,7 +4178,7 @@ cardionecrosis
 cannibal
 cardioneurosis
 cardiopath
-cardiopathic
+cardiopathic 1
 chloanthite
 cardiopulmonary
 cardiorenal
