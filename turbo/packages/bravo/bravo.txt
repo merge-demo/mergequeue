@@ -4814,7 +4814,7 @@ betread
 benedicite
 bollix
 brazenface
-bitake
+bitake 1
 bikh
 banners
 beshrouded
