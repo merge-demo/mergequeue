@@ -3253,7 +3253,7 @@ euphonize
 ethopoeia
 ellwand
 eludes
-expecters
+expecters 1
 ermitophobia
 empathizes
 empiriological
