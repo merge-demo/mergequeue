@@ -9366,7 +9366,7 @@ gallerygoer
 glamorize
 gwen
 glareola
-goutiness
+goutiness 1
 gustative
 gnomists
 glided
