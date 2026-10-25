@@ -8063,7 +8063,7 @@ glycerose
 glassier
 gratae
 granite
-gracy
+gracy 1
 gypsydoms
 guttulae
 geminiflorous
