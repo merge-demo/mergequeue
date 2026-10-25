@@ -2572,7 +2572,7 @@ gypsiferous
 gazetteerage
 gomerel
 giveaway
-gibbing
+gibbing 1
 guetare
 generative
 glabbella
