@@ -8235,7 +8235,7 @@ cadalene
 chalcocite
 compotatory
 christianomastix
-chalcogen
+chalcogen 1
 chalcogenide
 coenaculum
 comas
