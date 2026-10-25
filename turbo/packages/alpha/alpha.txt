@@ -7491,7 +7491,7 @@ anchoress
 albuginea
 archivist
 apometabolous
-amban
+amban 1
 album
 algedonic
 admittee
