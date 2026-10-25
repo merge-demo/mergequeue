@@ -7314,7 +7314,7 @@ fluttery
 fumitory
 favelloid
 fleeched
-foaminess
+foaminess 1
 fixation
 foraying
 frognose
