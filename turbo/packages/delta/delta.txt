@@ -16334,7 +16334,7 @@ downsizing
 discontinuable
 dichord
 dovetails
-daylight
+daylight 1
 deplumate
 disarmature
 dumbhead
