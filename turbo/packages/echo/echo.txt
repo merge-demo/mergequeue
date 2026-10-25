@@ -13611,7 +13611,7 @@ extemporary
 extemporisation
 ewing
 exucontian
-extraspinal
+extraspinal 1
 escallonia
 emendation
 excursive
