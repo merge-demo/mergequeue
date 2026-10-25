@@ -3477,7 +3477,7 @@ crunt
 coulage
 cabalistical
 capsizes
-capsizing
+capsizing 1
 capernaitish
 capsomere
 capstan
