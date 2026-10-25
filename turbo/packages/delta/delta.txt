@@ -8257,7 +8257,7 @@ dictyostele
 doubletree
 denude
 diagonals
-distancing
+distancing 1
 deducting
 diagonalwise
 denudate
