@@ -10636,7 +10636,7 @@ fewmand
 fatcake
 fictitious
 furane
-femininity
+femininity 1
 freezingly
 friandise
 fruitbearing
