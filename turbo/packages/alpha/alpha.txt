@@ -11632,7 +11632,7 @@ alsike
 asphalting
 anacid
 ambulacriform
-amal
+amal 1
 acronyc
 amarevole
 atomise
