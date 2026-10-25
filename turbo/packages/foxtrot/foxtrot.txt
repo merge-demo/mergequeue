@@ -10128,7 +10128,7 @@ feasibility 1
 falchions
 furore
 fluid
-frivolousness
+frivolousness 1
 faunula
 felled
 forgives
