@@ -4080,7 +4080,7 @@ ethmophysal
 eichhornia
 entoilment
 emplaster
-enantiomer
+enantiomer 1
 elevating
 equiponderated
 emplastic
