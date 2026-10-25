@@ -5136,7 +5136,7 @@ goblinesque
 gutturine
 gentlehearted
 grander
-goldylocks
+goldylocks 1
 gyps
 glaucophanite
 goldcrest

@@ -15664,7 +15664,7 @@ chastely
 candidature
 clausula
 chiffonnier
-chiasmodontid
+chiasmodontid 1
 cirrigrade
 clausule
 cheekily
