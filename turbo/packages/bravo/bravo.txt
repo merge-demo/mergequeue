@@ -1316,7 +1316,7 @@ blub
 bacao
 brochantite
 bury
-bedbug
+bedbug 1
 boleite
 bacterioprecipitin
 balearian
