@@ -216,7 +216,7 @@ bioassays
 bigwigged
 bradyesthesia
 brainpower
-biofog
+biofog 1
 bandicoot
 baccy
 banishments
