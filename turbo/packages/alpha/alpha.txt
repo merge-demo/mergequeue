@@ -3674,7 +3674,7 @@ abscissas 1
 avianizing
 archaize
 advisorily
-armeriaceae
+armeriaceae 1
 autodigestion
 abnegation
 abyssinian
