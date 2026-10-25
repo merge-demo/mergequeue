@@ -2752,7 +2752,7 @@ alfurese
 arrestant
 acrostolia
 aquaphobia
-amebian
+amebian 1
 amnion
 artarin
 acrobates
