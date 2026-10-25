@@ -1982,7 +1982,7 @@ gonadotrope
 granville
 glyconian
 gleefully
-goosewing
+goosewing 1
 gaspingly
 gastrograph
 galleass
