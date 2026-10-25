@@ -6555,7 +6555,7 @@ enterer
 eulogious
 estrangedness
 episcopant
-excusive
+excusive 1
 eccritic
 eightieths
 embattled
