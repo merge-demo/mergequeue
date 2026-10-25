@@ -3543,7 +3543,7 @@ astricts
 adduced
 aragonese
 adducer
-abjoint
+abjoint 1
 adduces
 auricles
 adducible
