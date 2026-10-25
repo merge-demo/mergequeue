@@ -12723,7 +12723,7 @@ defectoscope
 dislluminate
 dubbings
 difference
-dislocability
+dislocability 1
 dosimetry
 dustcloth
 dehydratase
