@@ -17074,7 +17074,7 @@ aflower
 alcid
 angulus
 archchemic
-addy
+addy 1
 arthrotropic
 apocopes
 apocrenic
