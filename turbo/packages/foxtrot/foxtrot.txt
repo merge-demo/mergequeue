@@ -6534,7 +6534,7 @@ floccose
 frailish
 flutist
 frenchman
-forecover
+forecover 1
 flutterboard 1
 faucal
 fluotantalate
