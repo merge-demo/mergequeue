@@ -14819,7 +14819,7 @@ doctorize
 distinctness
 diallage
 doctorless
-diffusibly
+diffusibly 1
 disorderly
 doctress
 due
