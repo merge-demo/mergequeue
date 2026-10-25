@@ -1815,7 +1815,7 @@ camaca
 corol
 collochromate
 circularizing
-camay
+camay 1
 camaieu
 camail
 camailed
