@@ -15507,7 +15507,7 @@ drams
 decomposite
 decrew
 doni
-deliquesced
+deliquesced 1
 disaffection
 disintegrationist
 duckies
