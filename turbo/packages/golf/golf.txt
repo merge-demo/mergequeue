@@ -5508,7 +5508,7 @@ garnishment
 gadaria
 gastroparietal
 geomorphologic
-gusts
+gusts 1
 gazingly
 garring
 gentian
