@@ -12729,7 +12729,7 @@ evictee
 endamageable
 etesians
 expurgator
-exorcistic
+exorcistic 1
 erythroxylum
 euphonicalness
 eidetically

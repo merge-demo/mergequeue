@@ -4634,7 +4634,7 @@ caroller
 carols
 carolus
 chemicocautery
-carom
+carom 1
 clubbily
 caromel
 caroming
