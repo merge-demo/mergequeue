@@ -3411,7 +3411,7 @@ farcie
 fungible
 floc
 flecker
-featherlike
+featherlike 1
 fellatory
 fenestella
 flawless
