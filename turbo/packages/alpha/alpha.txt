@@ -2605,7 +2605,7 @@ acquest
 armenite
 actutate
 arriswise
-acquiesce
+acquiesce 1
 acanthopterous
 alginates
 acquiescement
