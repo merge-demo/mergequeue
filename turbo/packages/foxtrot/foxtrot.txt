@@ -2542,7 +2542,7 @@ filamentule
 frangibility
 freebee
 freeboot
-fem
+fem 1
 functionalistic
 fennish
 foresightful
