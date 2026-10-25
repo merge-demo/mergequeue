@@ -7089,7 +7089,7 @@ foolish
 faintish
 ferryboats
 fascinating
-florivorous
+florivorous 1
 fleapit
 factious
 fusional
