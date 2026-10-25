@@ -6807,7 +6807,7 @@ gelsemin
 garbleable
 goniunia
 groceteria
-goitrogen
+goitrogen 1
 gonoblast
 girders
 glossodynamometer
