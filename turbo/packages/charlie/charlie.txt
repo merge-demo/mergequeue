@@ -30526,7 +30526,7 @@ chattering
 carotidal
 chitterlings
 corrumpable
-chayotes
+chayotes 1
 cubical
 catskinner
 catonic
