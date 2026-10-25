@@ -4545,7 +4545,7 @@ finickiest
 fissirostrate
 fusser
 fissura
-frugal
+frugal 1
 forwardsearch
 feuilletonism
 felinophile
