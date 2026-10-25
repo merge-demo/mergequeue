@@ -3515,7 +3515,7 @@ explementary
 endow
 esker
 embodiers
-embodies
+embodies 1
 essential
 exhibit
 eloquentness
