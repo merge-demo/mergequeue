@@ -957,7 +957,7 @@ armloads
 arctisca
 axogamy
 antisi
-absorptiveness
+absorptiveness 1
 alidades
 absquatulate
 anchorites
