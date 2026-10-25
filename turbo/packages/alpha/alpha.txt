@@ -9327,7 +9327,7 @@ androsphinxes
 alout
 acierate
 alliterations
-aloxite
+aloxite 1
 alpacas
 alpargata
 avertive
