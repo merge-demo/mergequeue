@@ -2474,7 +2474,7 @@ decisional
 decisions
 decisis
 declinature
-delays
+delays 1
 dixy
 decisively
 darkened
