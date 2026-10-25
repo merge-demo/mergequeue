@@ -10580,7 +10580,7 @@ earthiness
 expectance
 euchrome
 euclideanism
-euclidian
+euclidian 1
 epicoeliac
 exhalant
 eucone
