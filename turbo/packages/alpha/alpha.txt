@@ -17357,7 +17357,7 @@ aumail
 apostatize
 apostaxis
 apostem
-anticapital
+anticapital 1
 armigeral
 acetylsalicylic
 animalcules
