@@ -6641,7 +6641,7 @@ anthropoids
 aquiline
 antinuke
 agorae
-aikane
+aikane 1
 aldazin
 automatictacessing
 aikido
