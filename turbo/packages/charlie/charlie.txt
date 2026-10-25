@@ -27095,7 +27095,7 @@ cladocerous
 counterreplies
 counterreprisal
 counterrevolutionary
-cauterize
+cauterize 1
 chivaring
 codiaceous
 cwt
