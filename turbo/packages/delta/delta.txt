@@ -3056,7 +3056,7 @@ dyehouse
 deeses
 deepfrozen
 diester
-downward
+downward 1
 diuretic
 dehydrogenising
 durzada
