@@ -1758,7 +1758,7 @@ graecizes
 goutiest
 genealogizer
 gastroscopist
-gavelled
+gavelled 1
 gasterosteid
 gynandrism
 glossolaly
