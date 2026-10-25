@@ -2482,7 +2482,7 @@ amperemeter
 acnida
 arabizes
 airily
-antiperthite
+antiperthite 1
 apprehendingly
 auctors
 acoasm
