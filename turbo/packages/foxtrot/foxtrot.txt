@@ -10307,7 +10307,7 @@ fingerleaf
 fingering
 forecourt
 foss
-forewarning
+forewarning 1
 fiaunt
 fraenula
 floodlighted
