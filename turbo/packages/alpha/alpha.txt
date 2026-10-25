@@ -10280,7 +10280,7 @@ arcticize
 anemious
 amelanchier
 argus
-auxoblast
+auxoblast 1
 amelcorn
 alchemister
 amelet
