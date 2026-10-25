@@ -12864,7 +12864,7 @@ echafaudage
 escortment
 ende
 erosions
-expandingly
+expandingly 1
 exacts
 expansibility
 emusifies
