@@ -17405,7 +17405,7 @@ adiabatically
 airmobile
 apostrophus
 apotactic
-apotactici
+apotactici 1
 agriculturalist
 astuciously
 aginners
