@@ -19817,7 +19817,7 @@ attachable
 armangite
 adularia
 armarian 1
-auriculars
+auriculars 1
 adaptivity
 armariumaria
 armatoles
