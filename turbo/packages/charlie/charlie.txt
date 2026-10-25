@@ -16432,7 +16432,7 @@ castellanus
 circulable
 ceriferous
 cloacinal
-cordelled
+cordelled 1
 cloacitis
 crispature
 chervil
