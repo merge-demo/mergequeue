@@ -864,7 +864,7 @@ disorchard
 dankishness
 discardable
 delesseria
-developability
+developability 1
 dannebrog
 dyed
 detraque
