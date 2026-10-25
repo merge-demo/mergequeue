@@ -8862,7 +8862,7 @@ anglicist
 archaeol
 allocatur
 acanthocephalan
-astound
+astound 1
 albahaca
 assumable
 amethodical
