@@ -13606,7 +13606,7 @@ encyclopaedically
 electropyrometer
 expulsory
 ectad
-exiledom
+exiledom 1
 extemporary
 extemporisation
 ewing
