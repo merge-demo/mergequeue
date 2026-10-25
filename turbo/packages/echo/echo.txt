@@ -8023,7 +8023,7 @@ equuleus
 encoop
 electrodentistry
 ergs
-enterritoriality
+enterritoriality 1
 expilate
 eggar
 ease
