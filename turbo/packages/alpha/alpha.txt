@@ -14862,7 +14862,7 @@ antichronically
 amphibola
 antitragal
 associates
-antipoverty
+antipoverty 1
 aswough
 antineutron
 antichthon
