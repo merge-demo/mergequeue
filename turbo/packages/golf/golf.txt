@@ -2825,7 +2825,7 @@ glyoxaline
 genu
 grillers
 gastrosophy
-geogenous
+geogenous 1
 gater
 goutweed
 gapeseeds
