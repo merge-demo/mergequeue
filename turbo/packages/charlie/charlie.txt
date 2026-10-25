@@ -28424,7 +28424,7 @@ crystallized
 creak
 catalecticant
 caesarize
-creaky
+creaky 1
 cholestene
 creaking
 creameries
