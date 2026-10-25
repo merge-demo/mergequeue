@@ -17740,7 +17740,7 @@ antigrammaticalness
 adopts
 aestethic
 adaptationally
-adjacencies
+adjacencies 1
 amblycephalidae
 anthorine
 affinitatively
