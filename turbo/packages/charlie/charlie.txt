@@ -2475,7 +2475,7 @@ corelatively
 candelilla
 conductible
 choraguses
-certitude
+certitude 1
 clang
 cassidony
 cypselus
