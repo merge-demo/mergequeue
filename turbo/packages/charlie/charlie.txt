@@ -10602,7 +10602,7 @@ cosmopolis
 camise
 campanology
 colleterium
-chilomastix
+chilomastix 1
 chylopericardium
 chylophylly
 complexionally
