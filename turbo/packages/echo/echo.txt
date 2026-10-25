@@ -2251,7 +2251,7 @@ epauletted
 electragy
 excessive
 epitomist
-electret
+electret 1
 electrets
 exploitive
 extensometer
