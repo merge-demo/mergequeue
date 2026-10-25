@@ -25865,7 +25865,7 @@ cynghanedd
 conglutinative
 chapper
 corruptress
-corrupts
+corrupts 1
 corsac
 corsacs
 connarus
