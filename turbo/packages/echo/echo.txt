@@ -8913,7 +8913,7 @@ epistrophic
 embitter
 emeroids
 ergomaniac
-exhorters
+exhorters 1
 electrophori
 eyers
 ergostat
