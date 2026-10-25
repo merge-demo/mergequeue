@@ -25221,7 +25221,7 @@ atrocha
 abscisse
 amoralize
 axwise
-aurivorous
+aurivorous 1
 aeon
 antecessor
 antiliturgical
