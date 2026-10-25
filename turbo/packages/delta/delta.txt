@@ -4071,7 +4071,7 @@ disobeyed
 delieret
 degrain
 despicably
-divaricate
+divaricate 1
 dealerships
 domestication
 delightfulness
