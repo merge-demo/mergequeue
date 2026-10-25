@@ -31468,7 +31468,7 @@ contorta
 current
 celerity
 colorimetry
-currently
+currently 1
 camerieri
 cardicentesis
 currentness
