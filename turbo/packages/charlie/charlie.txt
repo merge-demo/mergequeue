@@ -20598,7 +20598,7 @@ compert
 competed
 competent
 crink
-competentness
+competentness 1
 cohorts
 competible
 cyclothem
