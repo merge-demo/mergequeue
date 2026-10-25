@@ -5734,7 +5734,7 @@ feculent
 flourishes
 frae
 ferulas
-fungous
+fungous 1
 fuzzball
 frontlessly
 furnage
