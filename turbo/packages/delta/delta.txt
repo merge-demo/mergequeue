@@ -16723,7 +16723,7 @@ disentomb 1
 drape
 disharmonized
 decourse
-dolichocephaly
+dolichocephaly 1
 displat
 disjoin
 dyscratic
