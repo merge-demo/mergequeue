@@ -11119,7 +11119,7 @@ dismask
 defectibility
 devvel
 dyeline
-disavower
+disavower 1
 derringers
 depletes
 dottily
