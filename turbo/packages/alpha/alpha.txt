@@ -5140,7 +5140,7 @@ aestivates
 azotite
 admonisher
 accosting
-acquainting
+acquainting 1
 amenia
 aestivating
 aestive
