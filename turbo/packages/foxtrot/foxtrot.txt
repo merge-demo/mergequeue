@@ -7330,7 +7330,7 @@ fanioned
 flickered
 forechamber
 foraminiferal
-fidgetingly
+fidgetingly 1
 foible
 felting
 frenchless
