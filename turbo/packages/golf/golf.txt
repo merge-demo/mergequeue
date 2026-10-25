@@ -7246,7 +7246,7 @@ grievously
 glabella
 gelatinisation
 goriness
-gaugeable
+gaugeable 1
 galvanometrically
 glucosone
 germanocentric
