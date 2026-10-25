@@ -3084,7 +3084,7 @@ emp
 educationable
 ergatocracy
 expropriates
-ellipsograph
+ellipsograph 1
 executiveness
 ellipticity
 extemporize
