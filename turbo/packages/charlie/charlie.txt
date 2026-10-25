@@ -16673,7 +16673,7 @@ campoo
 cartop
 criers
 closky
-clupeoid
+clupeoid 1
 chilopods
 cinnamonwood
 coembody
