@@ -15937,7 +15937,7 @@ corteise
 conics
 coadministration
 coryphylly
-cobelligerent
+cobelligerent 1
 cold
 cynology
 clerestoried
