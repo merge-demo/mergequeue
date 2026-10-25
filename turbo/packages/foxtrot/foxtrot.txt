@@ -9651,7 +9651,7 @@ floyt
 freezy
 fubbed
 fashed
-fromage
+fromage 1
 frocked
 fletcher
 furfures
