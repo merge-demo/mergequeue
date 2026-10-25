@@ -22035,7 +22035,7 @@ confirms
 confiscatable
 cynebot
 confiscate
-countertrend
+countertrend 1
 crois
 chookies
 count
