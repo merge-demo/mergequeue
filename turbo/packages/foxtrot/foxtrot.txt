@@ -1542,7 +1542,7 @@ fattenable
 fauntleroy
 foreworn
 filmdoms
-foretells
+foretells 1
 freely
 faurd
 foreseat
