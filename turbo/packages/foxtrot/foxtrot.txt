@@ -2706,7 +2706,7 @@ floodwall
 fishify
 foredivine
 fuminess
-flamant
+flamant 1
 flambe
 faithing
 fungused
