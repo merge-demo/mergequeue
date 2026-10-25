@@ -3951,7 +3951,7 @@ autotyphization
 acanthine
 absinthes
 adjust
-abdal
+abdal 1
 aht
 astre
 armozeen
