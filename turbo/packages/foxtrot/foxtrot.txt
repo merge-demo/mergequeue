@@ -5218,7 +5218,7 @@ flav
 flavanilin
 fiscals
 flavescence
-fumarolic
+fumarolic 1
 fingall
 flytrap
 flatnose
