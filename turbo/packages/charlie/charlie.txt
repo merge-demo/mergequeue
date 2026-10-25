@@ -10048,7 +10048,7 @@ chord
 composers
 cherubim
 cherubimic
-cherubimical
+cherubimical 1
 cherublike
 corkline
 crystalize
