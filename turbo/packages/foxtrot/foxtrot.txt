@@ -2382,7 +2382,7 @@ footganger
 fetial
 friendlier
 feriation
-formerly
+formerly 1
 flexors
 fricandeau
 folksiness
