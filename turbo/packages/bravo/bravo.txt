@@ -6948,7 +6948,7 @@ bushbashing
 bastillion
 bearherd
 bouchee
-bedsite
+bedsite 1
 bestrid
 beslimes
 backsheesh
