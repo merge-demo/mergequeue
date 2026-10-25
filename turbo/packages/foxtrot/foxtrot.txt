@@ -390,7 +390,7 @@ fearer
 filicauline
 forbid
 facets
-faceoff
+faceoff 1
 fancifully
 fairground
 fairy
