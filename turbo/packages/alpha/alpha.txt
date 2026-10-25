@@ -10071,7 +10071,7 @@ amission
 amerceable 1
 asquirm
 ambivalence
-ambiversion
+ambiversion 1
 arrect
 amble
 apanteles
