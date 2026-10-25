@@ -9690,7 +9690,7 @@ galeod
 glycoproteid
 gasp
 grassworm
-gregale
+gregale 1
 gratifying
 guachipilin
 gamahe
