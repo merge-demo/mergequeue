@@ -9965,7 +9965,7 @@ glyptic
 gonake
 googols
 gipsyfy
-goldi
+goldi 1
 gymnodinium
 gozell
 gazetted
