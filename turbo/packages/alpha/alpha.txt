@@ -13540,7 +13540,7 @@ athenian
 attributal
 anthropopathy
 antefact
-aster
+aster 1
 appeasing
 avenin
 acutenaculum
