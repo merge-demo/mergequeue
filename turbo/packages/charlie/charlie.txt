@@ -25127,7 +25127,7 @@ corequisite
 corer
 corers
 cores
-carbonates
+carbonates 1
 chlorospinel
 coresign
 coresonant
