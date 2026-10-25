@@ -12661,7 +12661,7 @@ diffrangibility
 deadmen
 disleaved
 decolorized
-disjointure
+disjointure 1
 demurringly
 disepalous
 dentalize
