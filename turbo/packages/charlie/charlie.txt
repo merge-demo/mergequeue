@@ -14383,7 +14383,7 @@ circumvolve
 circumvolved
 circulatable
 circumzenithal
-climb
+climb 1
 crosses
 circus
 circusy
