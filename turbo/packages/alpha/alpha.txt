@@ -25352,7 +25352,7 @@ azotemia
 arbiter
 azotemias
 ankylosis
-acinaceous
+acinaceous 1
 azotemic
 amphitheatered
 azotenesis
