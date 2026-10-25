@@ -7870,7 +7870,7 @@ cestodes
 copatron
 coronize
 capitulary
-carouses
+carouses 1
 cestoidean
 cestoids
 cestraction
