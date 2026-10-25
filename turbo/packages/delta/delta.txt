@@ -9744,7 +9744,7 @@ denaturiser
 dreamingly
 decence
 duct
-discapacitate
+discapacitate 1
 demiram
 decider
 danewort
