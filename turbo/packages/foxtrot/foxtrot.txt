@@ -11143,7 +11143,7 @@ fanega
 freeings
 faiences
 floatation
-fiats
+fiats 1
 frumperies
 flocculence
 fernlike
