@@ -9445,7 +9445,7 @@ gluttingly
 geonic
 gotchy
 greekery
-gallybeggar
+gallybeggar 1
 gradable
 gorgeous
 guacharos
