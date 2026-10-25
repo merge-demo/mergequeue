@@ -4931,7 +4931,7 @@ chondriosomes
 cesarean
 cartelist
 costars
-cartelistic
+cartelistic 1
 cupeling
 counterlode
 cassava
