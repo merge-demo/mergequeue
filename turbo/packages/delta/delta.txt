@@ -2468,7 +2468,7 @@ decipium
 diplodocus
 dipyre
 decision
-defeatists
+defeatists 1
 distinctly
 decisional
 decisions
