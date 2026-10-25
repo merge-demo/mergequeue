@@ -2279,7 +2279,7 @@ decemvirship
 decayer 1
 depurator
 decennial
-dislikeful
+dislikeful 1
 dingdongs
 decennium
 diagraphical
