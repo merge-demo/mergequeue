@@ -2213,7 +2213,7 @@ apod
 anabasse
 anguinidae
 aerostats
-autoptic
+autoptic 1
 assessably
 alginic
 amphioxides
