@@ -8245,7 +8245,7 @@ entozoa
 epigenist
 exulcerate
 enweave
-eleostearate
+eleostearate 1
 epistlers
 epistolarian
 elderhood
