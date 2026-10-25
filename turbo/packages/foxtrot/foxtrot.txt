@@ -3350,7 +3350,7 @@ firmisternia
 fieldish
 funereality
 format
-fluctisonant
+fluctisonant 1
 flatfoot
 fructescent
 fattener
