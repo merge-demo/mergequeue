@@ -10203,7 +10203,7 @@ dormitory
 decillionth
 dishcross
 doblons
-diphthong
+diphthong 1
 defibrination
 dismemberments
 desobligeant
