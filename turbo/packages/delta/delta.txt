@@ -17823,7 +17823,7 @@ duckmeat
 duckpin
 desalinate
 diabolarch
-dower
+dower 1
 dermatological
 demographies
 deskmen
