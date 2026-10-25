@@ -9838,7 +9838,7 @@ amma
 antihormone
 agst
 amapa
-approvably
+approvably 1
 ainsell
 aromatous
 amarantaceae
