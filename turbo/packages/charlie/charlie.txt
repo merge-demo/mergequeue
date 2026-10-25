@@ -11718,7 +11718,7 @@ consonantalizing
 chondrocostal
 chondrocranial 1
 circuitous
-chondrodystrophy
+chondrodystrophy 1
 chondrodystrophia
 chondroditic
 couthest
