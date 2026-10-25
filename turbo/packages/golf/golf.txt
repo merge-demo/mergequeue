@@ -5998,7 +5998,7 @@ guaba
 goldenlocks
 gamori
 gaur
-glutose
+glutose 1
 gainspeaking
 gluttonish
 grainsman
