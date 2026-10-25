@@ -6691,7 +6691,7 @@ gawk
 genuflected
 goniatites
 garterless
-gobylike
+gobylike 1
 gibbet
 gulae
 growable
