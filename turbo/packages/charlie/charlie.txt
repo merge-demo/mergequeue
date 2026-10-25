@@ -2270,7 +2270,7 @@ catchwords
 counterlathing
 centaurus
 canadine
-corresponds
+corresponds 1
 canadite
 conferva
 casbah
