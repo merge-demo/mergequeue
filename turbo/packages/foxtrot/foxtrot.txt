@@ -9852,7 +9852,7 @@ firebricks
 fadlike
 fricando 1
 fakement
-frouncing
+frouncing 1
 feminize
 forgetter
 funge
