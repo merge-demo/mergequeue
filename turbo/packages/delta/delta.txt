@@ -18519,7 +18519,7 @@ dustwoman
 desilicification
 diocesans
 decolonisation
-disownable
+disownable 1
 diaphanous
 distortional
 demisavage
