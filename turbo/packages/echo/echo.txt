@@ -10543,7 +10543,7 @@ euchology
 endocrinological
 environment
 evangelistarium
-equationist
+equationist 1
 endboard
 eclectical
 ensurers
