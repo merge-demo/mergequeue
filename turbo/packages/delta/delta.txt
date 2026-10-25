@@ -17888,7 +17888,7 @@ desentimentalize 1
 doctrine
 durationless
 dishmaking
-dueled
+dueled 1
 duelers
 duelistic
 dolentissimo
