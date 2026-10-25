@@ -7499,7 +7499,7 @@ gordon
 gonocytes
 greenleaf
 globulousness
-geostrategic
+geostrategic 1
 gaet
 galilean
 gelatinizable
