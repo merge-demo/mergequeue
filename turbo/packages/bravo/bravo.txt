@@ -1976,7 +1976,7 @@ broadly
 bisection
 bagnio
 balances
-bandstring
+bandstring 1
 bathymetric
 brandishes
 bigeye
