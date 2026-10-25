@@ -427,7 +427,7 @@ dustpoint
 dayrooms
 deities
 dorsad
-dhourra
+dhourra 1
 discoursers
 dairous
 dais
