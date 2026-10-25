@@ -9185,7 +9185,7 @@ footled
 fries
 fragileness
 forenames
-forbarred
+forbarred 1
 foreknown
 fontlet
 fucus
