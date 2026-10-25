@@ -21047,7 +21047,7 @@ caramelan
 cypsela
 compunct
 conjured
-crassilingual
+crassilingual 1
 compunction
 curvedness
 catenaries
