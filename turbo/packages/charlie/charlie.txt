@@ -4505,7 +4505,7 @@ corvetto
 chirruped
 colouristic
 controvertibly
-carn
+carn 1
 carnacian
 carnaged
 chortling
