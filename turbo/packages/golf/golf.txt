@@ -4318,7 +4318,7 @@ grubless
 gravidity
 gymnic
 gymnemic
-gloeosporiose
+gloeosporiose 1
 globosity
 gawks
 geodesist
