@@ -13570,7 +13570,7 @@ cyme
 cymelet
 cimelium
 cymenes
-coproite
+coproite 1
 crankest
 chiffer
 cimices
