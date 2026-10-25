@@ -2640,7 +2640,7 @@ bumpkinly
 broncs
 barkier
 buttonhook
-bravery
+bravery 1
 beduchess
 bantamweight
 berlinize
