@@ -3579,7 +3579,7 @@ gambolled
 goniaster
 grilse
 gnomelike
-gormandizing
+gormandizing 1
 gregarinaria
 gavial
 geopositive
