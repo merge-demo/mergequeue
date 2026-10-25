@@ -12932,7 +12932,7 @@ endotherm
 ephebea
 epistemophilia
 ecologist
-entotic
+entotic 1
 epitonion
 empurple
 enchafe
