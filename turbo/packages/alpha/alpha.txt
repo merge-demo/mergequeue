@@ -5451,7 +5451,7 @@ aureately
 afresca
 alkalizable
 anthomania
-anastomotic
+anastomotic 1
 antirestoration
 antiliquor
 anableps
