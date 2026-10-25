@@ -11082,7 +11082,7 @@ fulmineous
 flense
 footrace
 flew
-falconet
+falconet 1
 flangeless
 foreknowableness
 functionation
