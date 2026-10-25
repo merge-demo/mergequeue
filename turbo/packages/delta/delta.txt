@@ -510,7 +510,7 @@ dinkey
 droddum
 descended
 dallier
-dup
+dup 1
 dextromanual
 diminishingturns
 discustom
