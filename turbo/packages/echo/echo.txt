@@ -9958,7 +9958,7 @@ elk
 emblazon
 estrums
 extrospection
-englishize
+englishize 1
 estuarial
 epagogic
 estuosity
