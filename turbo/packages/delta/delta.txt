@@ -2928,7 +2928,7 @@ dingies
 dedicatorily
 doggoner
 dedicators
-deaconry
+deaconry 1
 dewar
 ducatus
 divagation

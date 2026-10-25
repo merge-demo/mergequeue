@@ -2486,7 +2486,7 @@ balaklava
 blitzkriegs
 baphomet
 bereason
-bearhound
+bearhound 1
 bibliophilism
 binotic
 bigram
