@@ -4701,7 +4701,7 @@ disheveling
 ducklar
 demivambrace
 dorsicollar
-darkling
+darkling 1
 drusean
 douzieme
 diminutivize
