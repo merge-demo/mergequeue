@@ -31717,7 +31717,7 @@ cuspis
 cusps
 cuspule
 crests
-coopery
+coopery 1
 cond
 cusser
 caselessly
