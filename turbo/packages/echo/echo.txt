@@ -13803,7 +13803,7 @@ exacuate
 encyclopedical 1
 egyptologist
 establishmentarianism
-extortive
+extortive 1
 earwigginess
 equiped
 epicheirema
