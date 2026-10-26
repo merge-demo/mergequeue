@@ -17818,7 +17818,7 @@ ducklings
 disculpation
 deputator
 drumlin
-dragging
+dragging 1
 duckmeat
 duckpin
 desalinate
