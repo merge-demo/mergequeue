@@ -1036,7 +1036,7 @@ gnarl
 geriatrics
 gentles
 gastrectomy
-gossamer
+gossamer 1
 gashed 1
 garvock
 gerardias
