@@ -1390,7 +1390,7 @@ eubranchipus
 epitympanic
 eugubium
 embellishes
-emissions
+emissions 1
 encycl
 expungeable
 extraterrestrial
