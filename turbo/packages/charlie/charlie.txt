@@ -8412,7 +8412,7 @@ chammy
 calabur
 citellus
 crookeder
-checkerboarded
+checkerboarded 1
 confiscator
 cuttable
 chamoisite
