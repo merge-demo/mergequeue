@@ -7066,7 +7066,7 @@ genericalness
 grayly
 gutturopalatal
 gelidity
-gallicole
+gallicole 1
 ganglioneure
 goosegog
 guignardia
