@@ -8937,7 +8937,7 @@ gobang
 grete
 grainage
 ganglier
-giddies
+giddies 1
 giros
 gemming
 ghess
