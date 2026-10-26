@@ -11017,7 +11017,7 @@ dysenteries
 disembay
 diagnosticating
 diplopterous
-disapparel
+disapparel 1
 descriptive
 dipt
 disappear
