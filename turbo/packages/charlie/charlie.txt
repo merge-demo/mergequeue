@@ -13014,7 +13014,7 @@ cyanoses
 chemitype
 cyanosite
 chatting
-cyanotype
+cyanotype 1
 cyanuramide
 coefficiently
 cyanuric
