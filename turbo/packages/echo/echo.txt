@@ -8265,7 +8265,7 @@ endplay
 equivoke
 enlaurel
 epitheliomatous
-epitaphian
+epitaphian 1
 ejection
 ectoplasmic
 ellagate
