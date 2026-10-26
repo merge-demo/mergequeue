@@ -8564,7 +8564,7 @@ discontiguous
 diaphones
 demilitarising
 dexterously
-drys
+drys 1
 deflex
 diaphony
 diaphysial
