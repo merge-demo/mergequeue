@@ -8819,7 +8819,7 @@ entempest
 empetraceous
 epistolize
 epilate
-ethoxy
+ethoxy 1
 exigently
 ethnobotanist
 effleurage
