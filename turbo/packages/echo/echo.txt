@@ -2055,7 +2055,7 @@ elanus
 enantiopathia
 extravenate
 encampments
-enthusiasm
+enthusiasm 1
 embalm
 excitedness
 enterocinesia
