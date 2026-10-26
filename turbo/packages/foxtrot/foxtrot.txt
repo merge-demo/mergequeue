@@ -7863,7 +7863,7 @@ fizz
 forbear
 foreran
 fascination
-foretalking
+foretalking 1
 funiculate
 forereckon
 foredates
