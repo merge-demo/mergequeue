@@ -17869,7 +17869,7 @@ denervate
 dabb
 defi
 desubstantialize
-dialogist
+dialogist 1
 dunst
 dezincing
 dudism
