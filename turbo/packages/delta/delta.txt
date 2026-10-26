@@ -4424,7 +4424,7 @@ dementing
 decayers
 demeore
 decap
-dependant
+dependant 1
 dokhma
 dird
 demerit
