@@ -9352,7 +9352,7 @@ dextrorsely
 disclosive
 duncify
 deprive
-difficileness
+difficileness 1
 difficilitate
 dignosle
 desertlike
