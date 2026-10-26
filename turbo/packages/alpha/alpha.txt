@@ -2380,7 +2380,7 @@ anaclinal
 arcana
 acyloxy
 adamances
-autosymbolic
+autosymbolic 1
 abortionist
 abator
 adjection
