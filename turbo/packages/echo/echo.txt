@@ -2673,7 +2673,7 @@ enfant
 eudaemonics
 engenderment
 exdelicto
-encephalocele
+encephalocele 1
 epispadia 1
 epigenesist
 electrotherapeutical
