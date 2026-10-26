@@ -2102,7 +2102,7 @@ counterassertion
 ceilingward
 chieftaincies
 circumnuclear
-captivator
+captivator 1
 campanular
 campanulariae
 campanularidae
