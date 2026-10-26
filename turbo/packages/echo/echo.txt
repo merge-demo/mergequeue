@@ -8401,7 +8401,7 @@ epitrope
 exclusionism
 embryous
 elatcha
-erodible
+erodible 1
 endodermic
 enchains
 enstamp 1
