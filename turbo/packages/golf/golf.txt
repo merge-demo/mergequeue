@@ -2760,7 +2760,7 @@ gippers
 grabbled
 garbs
 garnished
-gelotometer
+gelotometer 1
 gratiolin
 glottochronological
 gristly
