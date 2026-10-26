@@ -13376,7 +13376,7 @@ entobranchiate
 euscaro
 escapeway
 excambion
-equatorward
+equatorward 1
 exemplify
 epityphlon
 exposture
