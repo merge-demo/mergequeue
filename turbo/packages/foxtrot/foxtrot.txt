@@ -5073,7 +5073,7 @@ fiord
 fessely
 flumps
 fun
-fuligo
+fuligo 1
 fundless
 fumettes
 frsikets
