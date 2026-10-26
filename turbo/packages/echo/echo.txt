@@ -6884,7 +6884,7 @@ embelif
 eucalyn
 epiblema
 emphasis
-epitrchelia
+epitrchelia 1
 exudation
 errorless
 exarchal
