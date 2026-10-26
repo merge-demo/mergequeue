@@ -2546,7 +2546,7 @@ eatable
 ezra
 emptiable
 electrometer
-exstrophy
+exstrophy 1
 earthgrubber
 euphorbiaceous
 extremes
