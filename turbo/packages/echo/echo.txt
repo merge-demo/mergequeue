@@ -666,7 +666,7 @@ extimulate
 enshrouding
 extracondensed
 electrophysiology
-emaculate
+emaculate 1
 estheses
 endolymphic
 exudative
