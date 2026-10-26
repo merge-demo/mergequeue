@@ -11382,7 +11382,7 @@ ampholytic
 anobiidae
 acroteric
 autochrome
-amphora
+amphora 1
 amphorae
 acappella
 algors
