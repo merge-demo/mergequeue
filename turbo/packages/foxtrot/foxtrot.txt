@@ -3599,7 +3599,7 @@ flensers
 fableland
 fundal
 factories
-fogus
+fogus 1
 fanwort
 figurize
 filibusterers
