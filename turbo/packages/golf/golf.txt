@@ -1117,7 +1117,7 @@ gastrointestinal
 gruntled
 gashes
 gurnards
-globalization
+globalization 1
 gerip
 glossing
 ganoidian
