@@ -5760,7 +5760,7 @@ embossments
 esophagomalacia
 exodoi
 emaciation
-expective
+expective 1
 eddying
 enfief
 endozoic
