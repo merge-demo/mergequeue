@@ -4843,7 +4843,7 @@ bluebonnets
 brightened 1
 batfowled
 bustard
-berean
+berean 1
 bedunced
 bacchantes
 bourgeon
