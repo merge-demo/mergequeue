@@ -17501,7 +17501,7 @@ adsbud
 acinacifoliate
 audiogenic
 audients
-apsis
+apsis 1
 astrographic
 anglicisation
 antacids
