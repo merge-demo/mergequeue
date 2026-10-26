@@ -11300,7 +11300,7 @@ beerocracy
 blown
 bananas
 blowoff
-blowouts
+blowouts 1
 bedels
 blowproof
 bleachability
