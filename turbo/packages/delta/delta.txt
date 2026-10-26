@@ -4786,7 +4786,7 @@ dodecatylic
 deair
 daimiate
 dictyonema
-disseizor
+disseizor 1
 diagonalize
 dentalizing
 demography
