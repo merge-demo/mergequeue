@@ -1830,7 +1830,7 @@ federalizes
 fetisher
 fores
 ferninst
-forbesite
+forbesite 1
 flak
 flaithship
 frustules
