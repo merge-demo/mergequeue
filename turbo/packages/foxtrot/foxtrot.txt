@@ -8400,7 +8400,7 @@ felidae
 fullerboard 1
 folksy
 formalesque
-foistiness
+foistiness 1
 flatfootedly
 freshmanic
 formulize
