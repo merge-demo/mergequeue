@@ -9950,7 +9950,7 @@ frumentum
 flatlanders
 flanche
 frantic
-favor
+favor 1
 flowerfence
 frigidly
 faradomuscular
