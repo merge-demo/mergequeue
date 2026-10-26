@@ -15394,7 +15394,7 @@ descriptively
 djebel
 disanoint
 dolichoprosopic
-dimity
+dimity 1
 daisycutter
 diapophysial
 directing
