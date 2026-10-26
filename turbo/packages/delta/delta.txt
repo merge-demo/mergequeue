@@ -16761,7 +16761,7 @@ dictynid
 dextrocular
 diplasic
 dangersome
-diatomaceous
+diatomaceous 1
 dravidian
 damned
 dosology
