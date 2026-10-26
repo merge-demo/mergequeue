@@ -2448,7 +2448,7 @@ designs
 decyne
 drydenian
 diaeresis
-decipherability
+decipherability 1
 dooryards
 dand
 doctrinarily
