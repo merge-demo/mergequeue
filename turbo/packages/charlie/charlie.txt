@@ -8414,7 +8414,7 @@ citellus
 crookeder
 checkerboarded
 confiscator
-cuttable
+cuttable 1
 chamoisite
 cannonball
 chamoline 1
