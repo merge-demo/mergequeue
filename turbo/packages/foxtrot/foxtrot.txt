@@ -5143,7 +5143,7 @@ furless
 fastuousness
 foretooth
 floccular
-fellifluous
+fellifluous 1
 furbelows
 froom
 flatlands
