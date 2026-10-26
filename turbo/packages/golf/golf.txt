@@ -2898,7 +2898,7 @@ gonocyte
 gallinulelike
 greenside
 gombos
-gingerous
+gingerous 1
 gee
 gelose
 gaylussite
