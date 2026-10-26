@@ -3977,7 +3977,7 @@ exaltative
 enruin
 expiations
 embarrassingly
-edictum
+edictum 1
 enfolded
 epiparodos
 egalite
