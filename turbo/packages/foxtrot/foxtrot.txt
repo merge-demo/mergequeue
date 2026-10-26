@@ -6241,7 +6241,7 @@ farmerish
 felloes
 freewheelers
 filespec 1
-farmtown
+farmtown 1
 forgrow
 fiendlike
 fizzles
