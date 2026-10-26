@@ -7480,7 +7480,7 @@ grabbier
 grunerite
 grapplement
 gomerals
-gists
+gists 1
 geodesy
 gimleting
 gades
