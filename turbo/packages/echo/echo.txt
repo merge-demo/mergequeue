@@ -6415,7 +6415,7 @@ exothermic
 egestion
 exsanguinate
 eucryphiaceous
-eastern
+eastern 1
 equatorial
 epeirogenetic
 ecophene
