@@ -2585,7 +2585,7 @@ dreamlike
 declivity
 ducklingship
 deanthropomorphize
-dangled
+dangled 1
 detoured
 dermobranchia
 durable
