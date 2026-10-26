@@ -462,7 +462,7 @@ erf
 eunuchal
 eveners
 enanthesis
-equilibrize
+equilibrize 1
 expediteness
 evector
 endoplastule
