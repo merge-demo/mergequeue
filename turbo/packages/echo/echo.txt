@@ -1657,7 +1657,7 @@ eases
 eligent
 elboic
 evectional
-extinguishes
+extinguishes 1
 enlivening
 euphuized
 ethylenes
