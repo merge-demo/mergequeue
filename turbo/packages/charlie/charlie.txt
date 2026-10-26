@@ -14924,7 +14924,7 @@ cytotaxis
 cymballing
 creosols
 cytotaxonomy
-conky
+conky 1
 claudius
 curvaceous
 chilacavote
