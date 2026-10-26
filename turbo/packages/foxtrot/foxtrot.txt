@@ -2720,7 +2720,7 @@ flanks
 flamenco
 frondous
 fashions
-fruitive
+fruitive 1
 funnier
 figpecker
 ficche
