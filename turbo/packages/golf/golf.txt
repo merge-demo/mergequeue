@@ -1661,7 +1661,7 @@ gluts
 geitjie
 gelatination
 gastightness
-grudgefulness
+grudgefulness 1
 gryposis
 gentries
 gastrophilite
