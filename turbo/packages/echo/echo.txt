@@ -12546,7 +12546,7 @@ enterocolitis
 ethane
 eaglestone
 earthpeas
-embrawn
+embrawn 1
 epsomite
 etymologist
 euphon
