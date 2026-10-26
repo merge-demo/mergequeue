@@ -5216,7 +5216,7 @@ distortedness
 denominate
 decadent
 desmosis
-declination
+declination 1
 declaimers
 denunciations
 deputy
