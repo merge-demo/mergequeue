@@ -12465,7 +12465,7 @@ epicentral
 embosture
 executrixship
 expertize
-exine
+exine 1
 exies
 errantia
 electicism
