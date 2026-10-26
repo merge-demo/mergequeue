@@ -8943,7 +8943,7 @@ dioptrometry
 drifter 1
 dom
 daughtership
-duellize
+duellize 1
 desirably
 despraise
 demographic
