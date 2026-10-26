@@ -580,7 +580,7 @@ abn
 agrania
 alphameric
 abnegates
-anthropomancy
+anthropomancy 1
 abrotanum
 aneuria
 amphictyon
