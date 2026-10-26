@@ -12378,7 +12378,7 @@ deamidize
 deplantation
 drybrush
 degressive
-desecate
+desecate 1
 disheriting
 deforms
 declivate
