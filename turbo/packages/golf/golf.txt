@@ -1877,7 +1877,7 @@ golland
 grelot
 gaudiest
 guhr
-gestor
+gestor 1
 galop
 glochids
 glommox
