@@ -8846,7 +8846,7 @@ cuniform
 cleavers
 cumarone
 cowards
-characterism
+characterism 1
 cueing
 characteristically
 characteristicalness
