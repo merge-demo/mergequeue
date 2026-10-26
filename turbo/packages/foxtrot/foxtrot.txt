@@ -5717,7 +5717,7 @@ flavins
 flirt
 fixatif
 footed
-fortifies
+fortifies 1
 flirtatiously
 fundament
 floodwater
