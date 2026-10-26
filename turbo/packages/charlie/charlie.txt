@@ -25466,7 +25466,7 @@ copulas
 cornus
 concertstuck
 cornute
-cru
+cru 1
 catwort
 cambodians
 chaining
