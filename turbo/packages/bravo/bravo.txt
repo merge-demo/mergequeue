@@ -8041,7 +8041,7 @@ banyai
 backstay
 belleeks
 bacteriohemolysin
-bicostate
+bicostate 1
 billows
 bicrofarad
 bicrural
