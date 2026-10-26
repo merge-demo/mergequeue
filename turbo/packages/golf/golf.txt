@@ -1300,7 +1300,7 @@ gingilis
 garganey
 gastropancreatitis
 garget
-gibbousness
+gibbousness 1
 goodie
 gamekeeping
 ginglymoid
