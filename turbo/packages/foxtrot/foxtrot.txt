@@ -7008,7 +7008,7 @@ fraenulum
 fishworker
 foozled
 foreaccustom
-flexions
+flexions 1
 fichtean
 filla
 frison
