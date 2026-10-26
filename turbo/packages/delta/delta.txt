@@ -4912,7 +4912,7 @@ demonopolize
 demonry
 detractory
 dubiosities
-dispersive
+dispersive 1
 demonstrated
 dehiscing
 demonstrater

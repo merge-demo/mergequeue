@@ -10658,7 +10658,7 @@ aget
 archoptoma
 alcatras
 attend
-assinuate
+assinuate 1
 atone
 amylohydrolysis
 adossee

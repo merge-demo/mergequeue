@@ -2946,7 +2946,7 @@ endia
 endoplast
 etrogim
 encamped
-eliminant
+eliminant 1
 ennoblers
 ethid
 externalising

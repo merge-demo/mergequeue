@@ -4128,7 +4128,7 @@ bearm
 bagwigs
 baddishness
 bearward
-bearwort
+bearwort 1
 boanthropy
 bravadoing
 beasthood
