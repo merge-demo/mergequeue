@@ -12168,7 +12168,7 @@ exec
 epiphonemas
 eudemonist
 exacervation
-excogitation
+excogitation 1
 enflame
 entrechats
 emanated
