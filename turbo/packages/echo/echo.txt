@@ -9350,7 +9350,7 @@ endear
 eruptivity 1
 echinuliform
 esbatement
-enlock
+enlock 1
 ectomorphic
 exolution
 emotionally
