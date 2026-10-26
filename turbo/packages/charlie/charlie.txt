@@ -9655,7 +9655,7 @@ crees
 clyfaker
 cheesecloth
 cheesecloths
-crosiers
+crosiers 1
 cheesecutter
 cognizably
 concursus
