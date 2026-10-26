@@ -8562,7 +8562,7 @@ easts
 exclusively
 epichoristic
 equative
-electre
+electre 1
 eburneous
 etherial
 elucid
