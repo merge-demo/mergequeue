@@ -14193,7 +14193,7 @@ disuniting
 dysuria
 dysurias
 deals
-disusage
+disusage 1
 dynamoscope
 dibbles
 defeater
