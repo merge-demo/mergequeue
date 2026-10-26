@@ -6227,7 +6227,7 @@ futtocks
 ferrimagnetic
 ferryway
 folden
-fractionating
+fractionating 1
 fluffiness
 flexography
 foreuse
