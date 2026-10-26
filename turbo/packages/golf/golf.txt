@@ -9900,7 +9900,7 @@ guaque
 geometric
 genethliacon
 guarand
-gimlety
+gimlety 1
 gradiometer
 girleen
 golding
