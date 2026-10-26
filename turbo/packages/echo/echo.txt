@@ -4655,7 +4655,7 @@ embezzled
 electrophonically
 encyclics
 equisetum
-extroversive
+extroversive 1
 eucrites
 elbowing
 eyeopener
