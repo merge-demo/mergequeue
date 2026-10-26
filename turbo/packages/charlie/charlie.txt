@@ -20423,7 +20423,7 @@ curstfully
 compadres
 compage
 compagnies
-cresols
+cresols 1
 condonative
 concamerate
 companable
