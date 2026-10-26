@@ -1908,7 +1908,7 @@ fourdrinier
 flamboyantize
 faradizing
 frs
-fraidycat
+fraidycat 1
 flybrush
 fingerflower
 fontanelle
