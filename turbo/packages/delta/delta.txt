@@ -17058,7 +17058,7 @@ devilward
 despume
 dryades
 disorders
-distannic
+distannic 1
 dryadetum
 damners
 dentistic
