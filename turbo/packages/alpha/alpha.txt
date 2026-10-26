@@ -7988,7 +7988,7 @@ aggest
 amatungula
 alethopteroid
 archidium
-alethoscope
+alethoscope 1
 anthogenous
 anticombination
 augural
