@@ -4230,7 +4230,7 @@ gobbing
 gynaeconitis
 geysers
 gaillard
-glairiness
+glairiness 1
 grovelling
 geographized
 gumptionless
