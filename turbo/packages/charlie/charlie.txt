@@ -18376,7 +18376,7 @@ cognatic
 calorize
 cognatus
 cementum
-cognisable
+cognisable 1
 catholicized
 calpulli
 corporal
