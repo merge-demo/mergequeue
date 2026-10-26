@@ -3718,7 +3718,7 @@ fillmore
 forwear
 fiscally
 fosse
-fribblish
+fribblish 1
 foujdary
 fustigatory
 focalization
