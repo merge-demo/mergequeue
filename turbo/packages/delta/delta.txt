@@ -2342,7 +2342,7 @@ dextrotropic
 drinkably
 dustup
 dynode
-demeriting
+demeriting 1
 dummied
 dysodile
 decertation
