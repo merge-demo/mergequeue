@@ -7990,7 +7990,7 @@ gudok
 globing
 glottologies
 goldenmouthed
-gasifiable
+gasifiable 1
 gainer
 glouts
 goodhap
