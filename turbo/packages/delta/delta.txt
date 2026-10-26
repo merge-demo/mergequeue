@@ -10684,7 +10684,7 @@ dryworker
 dowcote
 dipodomys
 dipolar
-dingar
+dingar 1
 diaculum
 depit
 dormin
