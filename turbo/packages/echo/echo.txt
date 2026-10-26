@@ -142,7 +142,7 @@ episcopizing
 entrept
 empight
 exserting
-expurgations
+expurgations 1
 etymons
 examining
 enchylema
