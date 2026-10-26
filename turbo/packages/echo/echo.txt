@@ -11923,7 +11923,7 @@ electrotherapist
 exalter
 exocataphoria
 ese
-exairesis
+exairesis 1
 esthesis
 endemic
 electrooptical
