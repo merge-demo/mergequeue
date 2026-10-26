@@ -11877,7 +11877,7 @@ camata
 calculative
 culet
 crinkling
-choregus
+choregus 1
 clammiest
 choreguses
 choreic
