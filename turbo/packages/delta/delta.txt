@@ -2552,7 +2552,7 @@ disgout
 diplococcus
 declaring
 declasses
-dorn
+dorn 1
 disjudication
 declass
 dimorphs
