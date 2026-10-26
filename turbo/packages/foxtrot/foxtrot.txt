@@ -7570,7 +7570,7 @@ fifers
 forerecited
 felsite
 fanal
-felicitous
+felicitous 1
 folliful
 flawier
 flubs
