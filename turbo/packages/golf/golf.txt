@@ -1383,7 +1383,7 @@ ganodonta
 garnison
 greetingless
 garniture
-glycosemia
+glycosemia 1
 germanize
 grecize
 gaits
