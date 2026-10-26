@@ -11417,7 +11417,7 @@ discobolos
 disbelieving
 degassing
 downcomes
-dissuasive
+dissuasive 1
 dinomic
 discodactylous
 dispositive
