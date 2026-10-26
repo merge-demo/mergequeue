@@ -6474,7 +6474,7 @@ geyseric
 golder
 glimpse
 grower
-guardedness
+guardedness 1
 goldfinny
 guising
 gardenesque
