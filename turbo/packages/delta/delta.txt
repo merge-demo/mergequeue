@@ -11308,7 +11308,7 @@ discontinued
 dowset
 deambulatories
 davens
-deprivate
+deprivate 1
 discerpibleness
 downfield
 distrainee
