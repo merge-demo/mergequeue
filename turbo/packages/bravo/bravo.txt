@@ -8850,7 +8850,7 @@ biocenosis
 burgraviate
 basket
 branchiopodan
-belialist
+belialist 1
 biochemic
 bromvogel
 boeotian
