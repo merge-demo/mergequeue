@@ -13109,7 +13109,7 @@ encroaches
 empaestic 1
 esocidae
 electrocystoscope
-ejuration
+ejuration 1
 eternalization
 erymanthian
 euthyneurous
