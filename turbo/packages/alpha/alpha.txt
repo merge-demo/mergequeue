@@ -6220,7 +6220,7 @@ agoing
 anhingas
 alation
 aposepalous
-aplanobacter
+aplanobacter 1
 antecedency
 agonal
 athetize
