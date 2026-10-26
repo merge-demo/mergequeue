@@ -5455,7 +5455,7 @@ anastomotic
 antirestoration
 antiliquor
 anableps
-astylosternus
+astylosternus 1
 anterospinal
 africanize
 africanoid
