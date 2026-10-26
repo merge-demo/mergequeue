@@ -3233,7 +3233,7 @@ dolmenic
 demimondaine
 distrainor
 defendant
-dir
+dir 1
 decorativeness
 defenestrating
 danae
