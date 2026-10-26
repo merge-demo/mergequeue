@@ -2574,7 +2574,7 @@ driblets
 declinational
 dipneumones
 dimmed
-declinatory
+declinatory 1
 disentwined
 declines
 declining
