@@ -10268,7 +10268,7 @@ alloying
 analcitite
 ameiuridae
 absorbition
-astringently
+astringently 1
 ameiva
 ascidiae
 azygobranchia
