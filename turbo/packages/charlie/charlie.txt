@@ -571,7 +571,7 @@ counterbuff
 confort
 cuselite
 caduac
-cantabrize
+cantabrize 1
 cruiseway
 commilitant
 cataleptiform

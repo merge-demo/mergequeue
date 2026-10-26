@@ -15162,7 +15162,7 @@ dimna
 defunctness
 distributable
 dolabrate
-dialectalize
+dialectalize 1
 doli
 disulphide
 dolci
