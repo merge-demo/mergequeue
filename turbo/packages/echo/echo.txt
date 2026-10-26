@@ -579,7 +579,7 @@ eccentrical
 ecstatical
 epigynum
 excision
-esophagoscopy
+esophagoscopy 1
 eurypelma
 eurythermic
 ecclesiastes
