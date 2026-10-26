@@ -8561,7 +8561,7 @@ dracontiasis
 druggists
 diaphone
 discontiguous
-diaphones
+diaphones 1
 demilitarising
 dexterously
 drys
