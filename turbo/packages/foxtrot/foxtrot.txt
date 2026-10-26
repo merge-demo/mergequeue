@@ -1339,7 +1339,7 @@ fabulize
 fineleaf
 fyttes
 famose
-flyable
+flyable 1
 factionally
 frantically
 fatherly
