@@ -4051,7 +4051,7 @@ delicatessen
 dynam
 dustoor
 dominance
-delice
+delice 1
 dualistic
 dogcarts
 delicense
