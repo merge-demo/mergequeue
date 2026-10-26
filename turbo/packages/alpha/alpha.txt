@@ -13338,7 +13338,7 @@ agglutinability
 autosome
 abobra
 anthelminthic
-apoturmeric
+apoturmeric 1
 anisometric
 anaglyptics
 anamorphism

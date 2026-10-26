@@ -6869,7 +6869,7 @@ desmopathology
 desmopexia
 dreamer
 dentary
-desmorrhexis
+desmorrhexis 1
 deifies
 demilitarization
 desmoscolecidae
