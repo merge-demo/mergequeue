@@ -3780,7 +3780,7 @@ disseizoress
 defibrillation 1
 deicers
 defacingly
-deicides
+deicides 1
 dismutation
 deictical
 devilkin
