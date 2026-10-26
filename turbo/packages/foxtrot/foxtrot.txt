@@ -9420,7 +9420,7 @@ flouriness 1
 frolicly
 forlore
 frescoer
-fulsomeness
+fulsomeness 1
 fenman
 fireboats
 fraternally
