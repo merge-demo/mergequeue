@@ -2087,7 +2087,7 @@ campanini
 casseroled
 cuecas
 campanologer
-crucis
+crucis 1
 croaker
 coalmonger
 conjunctly
