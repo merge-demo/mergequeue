@@ -669,7 +669,7 @@ electrophysiology
 emaculate
 estheses
 endolymphic
-exudative
+exudative 1
 eclipsed
 equivocacy
 eclipses
