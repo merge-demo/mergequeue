@@ -6083,7 +6083,7 @@ dermatherm
 disarmers
 disgraded
 disannulling
-disintegrant
+disintegrant 1
 desserts
 dysmenorrhoea
 dream
