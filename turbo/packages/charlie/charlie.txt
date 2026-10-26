@@ -4135,7 +4135,7 @@ cardings
 cardioarterial
 cardiocarpum
 cardiocele
-chevronelly
+chevronelly 1
 cardiocirrhosis
 cacuminate
 consubsistency
