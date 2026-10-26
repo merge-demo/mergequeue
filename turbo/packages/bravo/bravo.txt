@@ -919,7 +919,7 @@ biacromial
 bechanced
 bagmaker
 bagnes
-bastnaesite
+bastnaesite 1
 breakaway
 burdies
 balmily
