@@ -28941,7 +28941,7 @@ criticist
 cribellum
 cribose
 cribrate
-cribriform
+cribriform 1
 cribriformity
 cribs
 conelike
