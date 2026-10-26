@@ -8237,7 +8237,7 @@ fossulate
 foresweat
 fabraea
 fast
-fesse
+fesse 1
 forgeable
 forwaked
 flashtubes
