@@ -11300,7 +11300,7 @@ exalbuminous
 epenthesize
 evaporimeter
 electrocute
-ecdysons
+ecdysons 1
 enwrap
 evaporitic
 enforcively
