@@ -2627,7 +2627,7 @@ dumbcow
 dispensaries
 displeaser
 discontinues
-decoloring
+decoloring 1
 disavowed
 diogenes
 deforce
