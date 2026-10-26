@@ -2307,7 +2307,7 @@ avgasses
 almagest
 aurigid
 adustiosis
-adjournments
+adjournments 1
 azerbaijanese
 avives
 acidly

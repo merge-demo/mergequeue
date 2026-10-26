@@ -12716,7 +12716,7 @@ durns
 developable
 dyslysin
 disoxidate
-dyester
+dyester 1
 duco
 diazotizing
 defectoscope
