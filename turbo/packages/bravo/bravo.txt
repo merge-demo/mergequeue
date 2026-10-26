@@ -12658,7 +12658,7 @@ blueth
 besqueeze
 boodled
 braccia
-bestowable
+bestowable 1
 boogeymen
 bellical
 buhrs
