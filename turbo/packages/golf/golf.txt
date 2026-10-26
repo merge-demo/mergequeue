@@ -457,7 +457,7 @@ gerodontia
 gaping
 glaciaria
 georgians
-galeid
+galeid 1
 genny
 gyms
 gemmation
