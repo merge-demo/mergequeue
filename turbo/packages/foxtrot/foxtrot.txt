@@ -1050,7 +1050,7 @@ familiarness
 flypaper
 formicarian
 favelidium
-frieda
+frieda 1
 fasciole
 felspathose
 foined
