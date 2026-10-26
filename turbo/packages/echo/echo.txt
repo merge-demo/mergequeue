@@ -3970,7 +3970,7 @@ earshots
 equilibrium
 empanelling
 empanels
-enfamish
+enfamish 1
 ecumene
 emparchment
 exaltative
