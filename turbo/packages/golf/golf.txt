@@ -2717,7 +2717,7 @@ grith
 gemmoid
 gnatho
 groundmass
-glozing
+glozing 1
 gryllidae
 gonopodium
 grided
