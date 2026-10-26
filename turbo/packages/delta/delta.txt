@@ -9859,7 +9859,7 @@ dinmont
 doctrinable
 doek
 dace
-dimensionally
+dimensionally 1
 dimensioning
 dimensum
 disangularize
