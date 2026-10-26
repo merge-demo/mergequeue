@@ -12613,7 +12613,7 @@ braccate
 bakshaish
 beshag
 beaproned
-bolos
+bolos 1
 bonspiel
 bookbind
 boruca
