@@ -5577,7 +5577,7 @@ auxofluor
 andiroba
 afters
 amphibrach
-allomerism
+allomerism 1
 attentat
 apholate
 aftershaft
