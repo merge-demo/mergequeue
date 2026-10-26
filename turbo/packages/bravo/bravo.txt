@@ -4734,7 +4734,7 @@ boottopping
 betitle
 butcherliness
 badmash
-bangs
+bangs 1
 bedlams
 bienseance
 bedlar
