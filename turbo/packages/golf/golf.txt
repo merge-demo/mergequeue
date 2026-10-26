@@ -1741,7 +1741,7 @@ goodless
 golliwogs
 gallic
 gofer
-grx
+grx 1
 guanine
 gentisein
 grouchiest

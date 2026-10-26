@@ -12914,7 +12914,7 @@ dummying
 disoccluded
 disoccluding
 dairy
-disimprovement
+disimprovement 1
 deutoplasmic
 desoxyribonucleic
 dilatableness
