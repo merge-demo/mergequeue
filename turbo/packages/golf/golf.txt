@@ -2984,7 +2984,7 @@ guatambu
 gastornis
 glitnir
 gibbering
-goldenknop
+goldenknop 1
 gaps
 goatherdess
 guildsmen
