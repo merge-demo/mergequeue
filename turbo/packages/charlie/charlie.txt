@@ -6025,7 +6025,7 @@ contratempo
 champs
 catholic
 courtesans
-cardinalated
+cardinalated 1
 cryptostomata
 catholicalness
 chalkography
