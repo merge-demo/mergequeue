@@ -8602,7 +8602,7 @@ fir
 fittings
 ferretto
 fuzzed
-flamencos
+flamencos 1
 finnochio
 functionate
 fingerfishes
