@@ -6245,7 +6245,7 @@ ecstatica
 enrapt
 eurygaean
 enrapted
-enrapts
+enrapts 1
 ethynyl
 evestar
 experimentative
