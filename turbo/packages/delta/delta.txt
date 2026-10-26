@@ -2796,7 +2796,7 @@ decremeter
 dicyemida
 demarches
 degass
-duodecahedral
+duodecahedral 1
 drypoints
 drivellingly
 dari
