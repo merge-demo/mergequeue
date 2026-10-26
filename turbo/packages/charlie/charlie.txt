@@ -18982,7 +18982,7 @@ ciseleur
 culbut
 collect
 collected
-cranberry
+cranberry 1
 ctenoidean
 constables
 collectibility
