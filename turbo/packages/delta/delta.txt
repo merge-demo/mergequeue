@@ -13895,7 +13895,7 @@ demisable
 diadelphia
 dephased
 dimerous
-derisive
+derisive 1
 distyle
 demiurgic
 disinhabit
