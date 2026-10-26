@@ -2410,7 +2410,7 @@ graphotypic
 geologian
 gesticulation
 goas
-gype
+gype 1
 grograms
 glutch
 gunship
