@@ -14815,7 +14815,7 @@ doctorial
 disadjust
 doctorially
 doctoring
-doctorize
+doctorize 1
 distinctness
 diallage
 doctorless
