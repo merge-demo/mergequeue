@@ -2987,7 +2987,7 @@ coyest
 canticle
 carne
 campesino
-canticles
+canticles 1
 conquerableness
 conceptualistically
 cantilating
