@@ -2522,7 +2522,7 @@ geotactically
 gallfly
 gael
 gilliver
-gweduc
+gweduc 1
 generalistic
 gaudier
 glen
