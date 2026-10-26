@@ -7558,7 +7558,7 @@ beneficent
 biblist
 beweeps
 bombilate
-bastardize
+bastardize 1
 bloodripe
 begiggle
 barnacle
