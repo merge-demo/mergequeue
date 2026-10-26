@@ -4524,7 +4524,7 @@ cephalogenesis
 carnallite
 chartaceous
 churchshot
-carnalness
+carnalness 1
 conidial
 carnaptious
 congratulate
