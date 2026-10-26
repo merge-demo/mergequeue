@@ -3582,7 +3582,7 @@ gnomelike
 gormandizing
 gregarinaria
 gavial
-geopositive
+geopositive 1
 guidon
 glutinose
 guilt
