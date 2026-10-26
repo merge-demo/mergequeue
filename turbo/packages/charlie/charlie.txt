@@ -6593,7 +6593,7 @@ cdf
 carid
 cheroot
 cdg
-cdr
+cdr 1
 cesspool
 cosmonaut
 celibates

@@ -12885,7 +12885,7 @@ eosaurus
 erne
 embosks
 enticingly
-expeditiousness
+expeditiousness 1
 electrotherapeutist
 ecchymose
 epithymetic
