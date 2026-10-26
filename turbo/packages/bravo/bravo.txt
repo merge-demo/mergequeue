@@ -7051,7 +7051,7 @@ bespate
 brickbatted
 best
 basset
-bezzant
+bezzant 1
 bennetweed
 bespattered
 batara
