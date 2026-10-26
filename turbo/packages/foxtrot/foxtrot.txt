@@ -10449,7 +10449,7 @@ fribblers
 ferruling
 farrant
 frontiersmen
-fanterie
+fanterie 1
 forelands
 flnerie
 foregoer
