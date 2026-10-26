@@ -20145,7 +20145,7 @@ ambassy
 arbalister
 approx
 array
-arrayal
+arrayal 1
 archmystagogue
 arraign
 agaricales
