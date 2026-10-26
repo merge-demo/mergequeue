@@ -16547,7 +16547,7 @@ diphthongize
 draggers
 dislodges
 draggier
-diacritics
+diacritics 1
 destinies
 dyotheletian
 disendows
