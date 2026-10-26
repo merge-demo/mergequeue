@@ -8172,7 +8172,7 @@ checkoff
 conficient
 chairmender
 cages
-chairpersons
+chairpersons 1
 chairway
 cryptogamian
 conjunctivae
