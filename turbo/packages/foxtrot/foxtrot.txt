@@ -5858,7 +5858,7 @@ fcs
 feminology
 funebre
 farding
-flabby
+flabby 1
 fastigia
 fdtype
 fowlers
