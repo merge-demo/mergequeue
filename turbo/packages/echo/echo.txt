@@ -821,7 +821,7 @@ efficiencies
 edaphically
 euglenidae
 echeneidoid
-ectypal
+ectypal 1
 ectype
 epicarpal
 enwrite
