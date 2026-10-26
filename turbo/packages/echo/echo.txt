@@ -8282,7 +8282,7 @@ eschynite
 embosoms
 eurus
 epithalamize
-evaporators
+evaporators 1
 ennobles
 exactions
 epithalline
