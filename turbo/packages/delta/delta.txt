@@ -601,7 +601,7 @@ divvies
 delated
 dutchman
 demoses
-discretiveness
+discretiveness 1
 dramamine
 deposes
 doff
