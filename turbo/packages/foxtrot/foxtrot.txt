@@ -7697,7 +7697,7 @@ fernier
 frayproof
 foreigneering
 friend
-foliiferous
+foliiferous 1
 faroff
 flexes
 firth
