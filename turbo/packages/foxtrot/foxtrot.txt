@@ -9859,7 +9859,7 @@ funge
 flanders
 fractionisation
 feria
-fundatorial
+fundatorial 1
 flavanthrone
 fouettee
 fogeys
