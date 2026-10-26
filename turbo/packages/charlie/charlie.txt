@@ -11220,7 +11220,7 @@ cardol
 conturb
 chloridated
 consuls
-chloride
+chloride 1
 carpometacarpus
 crocodiloid
 crackups
