@@ -5982,7 +5982,7 @@ forecasters
 footscald
 fulah
 fixures
-flashness
+flashness 1
 floorcloths
 frere
 fluidizing
