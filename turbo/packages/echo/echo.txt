@@ -6310,7 +6310,7 @@ emporium
 exanthemas
 ergotin
 eschar
-euchred
+euchred 1
 expiatory
 ensphered
 eyespot
