@@ -9195,7 +9195,7 @@ grimacers
 grypotherium
 gooral
 gridlock
-gamy
+gamy 1
 gliss
 greenstick
 glavering
