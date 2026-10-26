@@ -2335,7 +2335,7 @@ deceptive
 deceptively 1
 dermatologic
 disloign
-deceptiveness
+deceptiveness 1
 dinichthyid
 deafnesses
 dextrotropic
