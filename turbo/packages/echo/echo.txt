@@ -428,7 +428,7 @@ exacerbation
 ebullioscopic
 extendibility
 echappee
-epaxially
+epaxially 1
 excuse
 exarchies
 eburin
