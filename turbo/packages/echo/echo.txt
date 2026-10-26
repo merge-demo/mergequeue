@@ -8927,7 +8927,7 @@ ergotizing
 erichthoid
 ewder
 ergotoxine
-ergots
+ergots 1
 evap
 ecumenicism
 essive
