@@ -3039,7 +3039,7 @@ fishier
 fungicide
 fibreless
 flatcar
-foregone
+foregone 1
 filate
 ferrimagnetism
 fractionalization
