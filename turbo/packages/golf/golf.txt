@@ -5614,7 +5614,7 @@ girdlecake
 grabman
 gosport
 groundwall
-goldseed
+goldseed 1
 grisping
 gnomonologically
 guayroto
