@@ -713,7 +713,7 @@ gawn
 gladdest
 grounds
 gersdorffite
-gesticulate
+gesticulate 1
 gentianic
 gor
 gitonin
