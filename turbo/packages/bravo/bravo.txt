@@ -10488,7 +10488,7 @@ biologistic
 bepastured
 brocardic
 blastogenic
-bandfiled
+bandfiled 1
 bestowed
 bop
 brainy
