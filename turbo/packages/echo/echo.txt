@@ -12646,7 +12646,7 @@ echoisms
 epicotyledonary
 exonerate
 exonerating
-ephemerous
+ephemerous 1
 encephalotomies
 euclase
 episcopicide
