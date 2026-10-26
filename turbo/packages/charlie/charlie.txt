@@ -15879,7 +15879,7 @@ chamal
 cadaverize
 cleidocostal
 cleidoic
-chiromance
+chiromance 1
 cleidomancy
 cleidorrhexis
 chiripa
