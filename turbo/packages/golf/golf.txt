@@ -6200,7 +6200,7 @@ grayout
 gonophorous
 gipsyish
 gambodic
-gallotannate
+gallotannate 1
 grooves
 greenkeeping
 graphoanalytical
