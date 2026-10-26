@@ -15317,7 +15317,7 @@ coexist
 clangful
 clanging
 clangingly
-corticoefferent
+corticoefferent 1
 clangorous
 corridored
 cookish
