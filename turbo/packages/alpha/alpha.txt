@@ -5925,7 +5925,7 @@ agglutinize
 anathematization
 alibamu
 agglutinogen
-agglutinoscope
+agglutinoscope 1
 anorthoclase
 acclaiming
 amblygeusia

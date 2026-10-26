@@ -5807,7 +5807,7 @@ environing
 elephant
 electroencephalograms
 egyptologer
-embraces
+embraces 1
 engrammic
 estrangement
 epopees
