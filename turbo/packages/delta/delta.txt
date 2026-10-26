@@ -18491,7 +18491,7 @@ denat
 dirca
 draggingly
 dendroica
-deserted
+deserted 1
 durably
 duologs
 dissentiently
