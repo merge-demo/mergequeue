@@ -2678,7 +2678,7 @@ angiograph
 abrasiometer
 africa
 anticyclonic
-apex
+apex 1
 airpark
 acridiidae
 allochiral
