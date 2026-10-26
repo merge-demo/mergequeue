@@ -5220,7 +5220,7 @@ fiscals
 flavescence
 fumarolic
 fingall
-flytrap
+flytrap 1
 flatnose
 flavescent
 funguses
