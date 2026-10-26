@@ -10799,7 +10799,7 @@ desugared
 dryophyllum
 dysphrasia
 dapples
-deposable
+deposable 1
 deificatory
 direful
 direfully
