@@ -3636,7 +3636,7 @@ filigrained
 fibrillar
 freshed
 foretype
-filigrane
+filigrane 1
 furlana
 frangula
 fannier

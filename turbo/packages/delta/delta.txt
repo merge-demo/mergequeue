@@ -10697,7 +10697,7 @@ dippings
 draff
 dipppier
 doubtingly
-diprotic
+diprotic 1
 dianoialogy
 descriptions
 durions
