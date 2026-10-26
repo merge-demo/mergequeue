@@ -3938,7 +3938,7 @@ extemporiser
 evader
 exportation
 emory
-exopathic
+exopathic 1
 escapologist
 enchodontoid
 emirate
