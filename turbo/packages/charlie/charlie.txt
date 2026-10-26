@@ -18545,7 +18545,7 @@ contingents
 considerateness
 clypeole
 coif
-coiffe
+coiffe 1
 coiffed
 caustics
 clavers
