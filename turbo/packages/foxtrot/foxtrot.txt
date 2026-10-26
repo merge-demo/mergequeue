@@ -9638,7 +9638,7 @@ feliform
 fiscalized
 fulcrumage
 flabrum
-firmarius
+firmarius 1
 freewheelingness
 forfoughen
 facsimiles
