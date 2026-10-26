@@ -9442,7 +9442,7 @@ glittery
 garroted
 gymnodontes
 gluttingly
-geonic
+geonic 1
 gotchy
 greekery
 gallybeggar
