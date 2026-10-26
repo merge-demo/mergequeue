@@ -7768,7 +7768,7 @@ fettucine
 foremother
 frithbot
 flyblew
-faint
+faint 1
 fleabiting
 fraenum
 forgathering
