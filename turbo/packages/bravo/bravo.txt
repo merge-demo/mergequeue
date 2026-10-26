@@ -319,7 +319,7 @@ backblow
 backboard
 benthamic
 brieflessness
-bannerless
+bannerless 1
 backbone
 basal
 benzoid
