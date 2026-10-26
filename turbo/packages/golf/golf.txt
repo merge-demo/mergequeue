@@ -6801,7 +6801,7 @@ genros
 gondola
 goniums
 glanis
-gl
+gl 1
 galliardize
 gelsemin
 garbleable
