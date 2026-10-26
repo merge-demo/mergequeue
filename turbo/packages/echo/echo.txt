@@ -1425,7 +1425,7 @@ espoused
 ethnicon
 exaggeratory
 enols
-execratory
+execratory 1
 ebbing
 euskaldun
 electromassage
