@@ -11983,7 +11983,7 @@ anaphylactogenic
 amos
 anaphylatoxin
 apectomy
-anaphyte
+anaphyte 1
 alkoxide
 acron
 ampelite

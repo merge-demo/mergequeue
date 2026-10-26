@@ -2320,7 +2320,7 @@ embraceries
 enthetic
 exundation
 electroanesthesia
-electroballistics
+electroballistics 1
 emetatrophia
 evolvulus
 electrobath
