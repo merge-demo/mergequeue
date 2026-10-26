@@ -9359,7 +9359,7 @@ fascinates
 flocculant
 forbodes
 fleecier
-flatteress
+flatteress 1
 frankfurters
 fivers
 frankish
