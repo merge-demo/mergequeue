@@ -10320,7 +10320,7 @@ eclecticist
 extraquiz
 epibole
 ethnogeographic
-extirpator
+extirpator 1
 embillow
 externation
 electroplaque
