@@ -6501,7 +6501,7 @@ descendent
 dalesfolk 1
 douppioni
 dolichosoma
-dunged
+dunged 1
 diadromous
 dispositionally
 dissevering
