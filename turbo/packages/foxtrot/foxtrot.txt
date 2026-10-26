@@ -3959,7 +3959,7 @@ funneling 1
 feedbacks
 finest
 flakeless
-finew
+finew 1
 fermentor
 fruitcakey
 frenziedly
