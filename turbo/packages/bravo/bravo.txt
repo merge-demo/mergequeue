@@ -10579,7 +10579,7 @@ bransle
 blatting
 blattodea
 blattoid
-boresomely
+boresomely 1
 besayle
 blastomas
 bereft
