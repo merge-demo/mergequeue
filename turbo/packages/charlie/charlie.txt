@@ -25126,7 +25126,7 @@ coinstantaneous
 corequisite
 corer
 corers
-cores
+cores 1
 carbonates
 chlorospinel
 coresign
