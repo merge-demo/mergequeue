@@ -5978,7 +5978,7 @@ alepole
 ackman
 amatol
 antiroll
-anatman
+anatman 1
 aggrege
 allopathy
 amphigoric
