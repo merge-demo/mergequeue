@@ -1583,7 +1583,7 @@ entires
 enumerator
 eucaines
 eff
-evacuations
+evacuations 1
 estopped
 embay
 euphonetics
