@@ -3030,7 +3030,7 @@ actinolitic
 anthropogenesis
 antimeson
 aland
-actinomeric
+actinomeric 1
 apostolate
 apotheosise
 amtrac
