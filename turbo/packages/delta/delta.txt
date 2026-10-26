@@ -17557,7 +17557,7 @@ desisting
 drumline
 depolarised
 disinflationary
-disappeared
+disappeared 1
 drumlinoid
 diverter
 decelerated
