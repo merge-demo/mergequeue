@@ -5672,7 +5672,7 @@ freckles
 funeration
 finite
 friended
-fuzz
+fuzz 1
 fusariose
 firking
 fountains
