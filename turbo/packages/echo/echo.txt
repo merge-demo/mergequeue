@@ -6334,7 +6334,7 @@ enshade
 enshawl
 espace
 eaglelike
-ensheathe
+ensheathe 1
 excitomotion
 eburna
 ensheathing
