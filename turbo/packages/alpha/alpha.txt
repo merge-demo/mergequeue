@@ -20191,7 +20191,7 @@ arrastra
 aoli
 acidulation
 asclepieion
-apothem
+apothem 1
 arrau
 assiduously
 aromaticity

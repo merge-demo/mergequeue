@@ -9806,7 +9806,7 @@ goidelic
 globulinuria
 glycerolate
 glossemes
-glares
+glares 1
 gnathostoma
 ginglyni
 gonochorismal
