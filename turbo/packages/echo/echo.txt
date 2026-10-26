@@ -11296,7 +11296,7 @@ equisurface
 enrank
 entirety
 eagles
-exalbuminous
+exalbuminous 1
 epenthesize
 evaporimeter
 electrocute
