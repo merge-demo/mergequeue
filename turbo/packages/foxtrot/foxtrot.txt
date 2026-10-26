@@ -8933,7 +8933,7 @@ frisbee
 floit
 flywort
 fiacre
-footle
+footle 1
 feldspath
 feverwort
 filament
