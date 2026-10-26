@@ -13468,7 +13468,7 @@ cylindrella
 cylindrelloid
 cryptographic
 cylindrenchyma
-cylindric
+cylindric 1
 cylindrically
 cylindricity
 cylindricule
