@@ -1432,7 +1432,7 @@ gainward
 glossarial
 gidjee
 germiparity
-glottalized
+glottalized 1
 garnishee
 glovemaker
 geophagous
