@@ -3530,7 +3530,7 @@ hetbiosnjc
 hetcft
 hetcknnqp
 hetclsncr
-hetcopxyp
+hetcopxyp 1
 hetd
 hetdax
 hetdczqtalotzhz

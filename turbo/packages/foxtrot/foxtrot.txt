@@ -9450,7 +9450,7 @@ furculum
 fastwalk
 febricitant
 fidele
-fraternities
+fraternities 1
 fumarates
 figboy
 fritts

@@ -14691,7 +14691,7 @@ aetiotropic
 anthropomorphism
 alchemical
 antiarins
-actuate
+actuate 1
 aggressively
 aerothermodynamics
 antiaristocracies
