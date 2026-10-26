@@ -4873,7 +4873,7 @@ endoderm
 enculturation
 ergatandromorph
 epispastic
-extrapolates
+extrapolates 1
 essenis
 electrodialyzer
 englishly
