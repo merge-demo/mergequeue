@@ -1835,7 +1835,7 @@ graphemics
 grecizing
 gleir
 gasper
-gambles
+gambles 1
 gazehound
 growlery
 guffaw
