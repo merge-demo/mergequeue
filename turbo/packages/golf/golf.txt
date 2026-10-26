@@ -9518,7 +9518,7 @@ groupwise
 garvey
 glenn
 groomer
-generalizer
+generalizer 1
 gundelow
 grouser
 gorgeted
