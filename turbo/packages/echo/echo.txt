@@ -10511,7 +10511,7 @@ eucharistial
 eurylaimoid
 eudaemony
 eucharistic
-eucharistically
+eucharistically 1
 earthfall
 ephthalite
 empaper
