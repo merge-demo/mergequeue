@@ -8462,7 +8462,7 @@ epigrammatical
 eryops
 embroidering
 electroosmotically
-epos
+epos 1
 effluvious
 encinas
 epizootic
