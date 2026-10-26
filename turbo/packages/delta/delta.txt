@@ -3710,7 +3710,7 @@ daytale
 drabble
 drepanoid
 didact
-dehydrogenate
+dehydrogenate 1
 derogatory
 dawtet
 distillable

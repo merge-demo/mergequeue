@@ -10218,7 +10218,7 @@ grippers
 guzzled
 guile
 galluses
-groundsel
+groundsel 1
 gastradenitis
 geotonus
 glamourously
