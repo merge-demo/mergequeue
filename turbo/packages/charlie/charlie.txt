@@ -517,7 +517,7 @@ ceremoniary
 chainmaking
 cadet
 canonize
-cadets
+cadets 1
 cataleptoid
 cadetship
 counterstamp
