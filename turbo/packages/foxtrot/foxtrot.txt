@@ -1671,7 +1671,7 @@ fitly
 folkfree
 flamboyantly
 faultfinder
-feastly
+feastly 1
 furbelowed
 filmcards
 focally
