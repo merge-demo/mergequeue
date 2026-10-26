@@ -5893,7 +5893,7 @@ entocalcaneal
 euthyroid
 episcopalian
 excessman
-expend
+expend 1
 enhaemospore
 epiplastron
 explees
