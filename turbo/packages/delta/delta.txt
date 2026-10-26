@@ -11207,7 +11207,7 @@ deckers
 devitrifiable
 dysbulic
 duodecimo
-damnatory
+damnatory 1
 dunnaging
 denuder
 detectives
