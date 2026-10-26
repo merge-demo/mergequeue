@@ -211,7 +211,7 @@ bushrope
 bookiness
 bemoanable
 bloodmobile
-begary
+begary 1
 bioassays
 bigwigged
 bradyesthesia
