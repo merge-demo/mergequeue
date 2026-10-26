@@ -10587,7 +10587,7 @@ dronkelew
 drudger
 decremental
 deben
-decolorizing
+decolorizing 1
 diplomates
 diplomatically
 diethyl
