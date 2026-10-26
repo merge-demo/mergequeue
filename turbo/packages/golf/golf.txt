@@ -1028,7 +1028,7 @@ golp
 glanced
 greenuk
 glycohaemia
-groan
+groan 1
 glassfuls
 groundplot
 gabardine
