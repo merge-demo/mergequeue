@@ -11621,7 +11621,7 @@ embordering
 epulosis
 economics
 exacerbatingly
-expulses
+expulses 1
 enddamaged
 exactable
 exactas
