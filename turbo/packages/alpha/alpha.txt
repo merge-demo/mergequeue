@@ -17251,7 +17251,7 @@ apophatic
 akhrot
 anticrepuscule
 admonitively
-aseismicity
+aseismicity 1
 animalculine
 anticipators
 apophyllite
