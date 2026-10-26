@@ -20834,7 +20834,7 @@ archduchies
 artworks
 adeodatus
 antbird
-affeer
+affeer 1
 arugulas
 arui
 aroynt
