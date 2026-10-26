@@ -228,7 +228,7 @@ gaudsman
 goldcup
 glagolitsa
 greys
-gooks
+gooks 1
 gravelstone
 gags
 gonoecium
