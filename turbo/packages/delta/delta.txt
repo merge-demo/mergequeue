@@ -10281,7 +10281,7 @@ dionysiac
 dionysiacally
 dionysus
 dirigibles
-dionize
+dionize 1
 dependability
 diophysite
 dealates
