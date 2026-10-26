@@ -7480,7 +7480,7 @@ epidiascopic
 effluency
 ephor
 elaeosaccharum
-encounterer
+encounterer 1
 ekphory
 euda
 ephraimite
