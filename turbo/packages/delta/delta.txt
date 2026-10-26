@@ -8948,7 +8948,7 @@ desirably
 despraise
 demographic
 demonstrably
-dub
+dub 1
 dail
 dihydride
 dated
