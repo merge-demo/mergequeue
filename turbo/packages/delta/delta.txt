@@ -12089,7 +12089,7 @@ deutoscolex
 deescalates
 dorbie
 delusion
-dognaps
+dognaps 1
 dysesthesia
 disestimation
 deferential
