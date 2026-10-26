@@ -10794,7 +10794,7 @@ encumber
 engrafts
 embracer
 eucrystalline
-elastance
+elastance 1
 eurodollar
 expurgatory
 estivates
