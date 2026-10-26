@@ -966,7 +966,7 @@ fent
 fabrile
 fruitling
 farceuses
-flenched
+flenched 1
 fluorids
 frape
 fastigiums
