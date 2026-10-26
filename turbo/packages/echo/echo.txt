@@ -3519,7 +3519,7 @@ embodies
 essential
 exhibit
 eloquentness
-escorted
+escorted 1
 episioplasty
 enured
 epigonichthyidae
