@@ -2385,7 +2385,7 @@ deciders
 diphenylguanidine
 dubitante
 disownment
-diplontic
+diplontic 1
 deciduity
 daver
 discommendable

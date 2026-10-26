@@ -24286,7 +24286,7 @@ arethusa
 autonomasy
 afeard
 airmen
-alliteral
+alliteral 1
 alters
 asphaltlike
 autopepsia
