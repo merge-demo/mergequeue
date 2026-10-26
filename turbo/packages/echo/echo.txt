@@ -5192,7 +5192,7 @@ eretrian
 ethologies
 equipluve
 equilibrate
-endomitosis
+endomitosis 1
 endomorphy
 exta
 ekebergite
