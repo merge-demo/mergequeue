@@ -1952,7 +1952,7 @@ bandoleers
 bivalent
 birny
 blowers 1
-bandolerismo
+bandolerismo 1
 buckayros
 bandoleros
 bandor
