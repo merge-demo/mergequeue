@@ -11004,7 +11004,7 @@ excipuliform
 endosarcous
 eroses
 extravagant
-emolliate
+emolliate 1
 emption
 eclectism
 eurite
