@@ -8402,7 +8402,7 @@ folksy
 formalesque
 foistiness
 flatfootedly
-freshmanic
+freshmanic 1
 formulize
 fierier
 facetious
