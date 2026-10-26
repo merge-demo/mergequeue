@@ -3789,7 +3789,7 @@ giarre
 gastaldo
 governing
 geobios
-gallantry
+gallantry 1
 gibberellin
 gyromele
 gorgoniacean
