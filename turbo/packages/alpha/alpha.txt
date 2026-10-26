@@ -23773,7 +23773,7 @@ acetifier
 avowance
 alto
 auspice
-alacrity
+alacrity 1
 authenticated
 asouth
 aerohydroplane
