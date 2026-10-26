@@ -16560,7 +16560,7 @@ descensories
 dentical
 draggletailed
 deuteromycetes
-defensed
+defensed 1
 deepsome
 dissembly
 draghound
