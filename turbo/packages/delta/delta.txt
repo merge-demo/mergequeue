@@ -15439,7 +15439,7 @@ dermatoglyphic
 ductule
 domnei
 deoxyribonucleic
-duffing
+duffing 1
 dopehead
 demonstratory
 dope
