@@ -24390,7 +24390,7 @@ arksutite
 apothec
 autoscope
 autoscopic
-antivivisection
+antivivisection 1
 apparentation
 antagonise
 autosight
