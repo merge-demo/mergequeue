@@ -1320,7 +1320,7 @@ exterior
 effects
 enlarge
 edified
-effectuated
+effectuated 1
 encastage
 effectuating
 effervesced
