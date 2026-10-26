@@ -8013,7 +8013,7 @@ biconnected
 boildown
 butcherous
 bastonite
-biconsonantal
+biconsonantal 1
 barnburner
 biconvexity
 brawned
