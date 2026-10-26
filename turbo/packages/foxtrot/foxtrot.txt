@@ -6993,7 +6993,7 @@ flouncey
 flannels
 fineries
 furnacing
-freemason
+freemason 1
 forestate
 fondly
 fluorspar
