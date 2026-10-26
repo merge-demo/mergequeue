@@ -9051,7 +9051,7 @@ forenent
 folding
 friesish
 funnellike
-fenter
+fenter 1
 forbruise
 foxfires
 foederis
