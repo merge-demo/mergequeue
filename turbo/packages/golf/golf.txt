@@ -5923,7 +5923,7 @@ gewgawish
 grogshops
 goofs
 gambirs
-glamourizer
+glamourizer 1
 goclenian
 guttlers
 gluepot
