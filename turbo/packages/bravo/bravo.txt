@@ -5075,7 +5075,7 @@ blacklead
 bitubercular
 baselines
 bowellike
-bejuco
+bejuco 1
 blazoning
 boatmaster
 befittingness
