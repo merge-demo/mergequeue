@@ -22547,7 +22547,7 @@ antivirotic
 accessioned
 atavi
 anansi
-atavic
+atavic 1
 atmoclastic
 auxesis
 annihilation
