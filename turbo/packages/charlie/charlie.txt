@@ -8703,7 +8703,7 @@ caconym
 chape
 coelomatic
 cobriform
-chapeled
+chapeled 1
 concion
 convalescency
 capturable
