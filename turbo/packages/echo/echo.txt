@@ -12950,7 +12950,7 @@ equipartile
 epicyclical
 expected
 eucharises
-embathe
+embathe 1
 expectedness
 eumenidean
 explode
