@@ -8141,7 +8141,7 @@ beardie
 brontophobia
 bash
 beedged
-banishes
+banishes 1
 buffalos
 byeman
 ballote
