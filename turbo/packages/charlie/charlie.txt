@@ -19600,7 +19600,7 @@ columnate
 centimolar
 columnates
 columnation
-crinkleroot
+crinkleroot 1
 crystaled
 columner
 commonalties
