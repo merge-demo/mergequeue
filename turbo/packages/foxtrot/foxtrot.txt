@@ -5106,7 +5106,7 @@ falasha
 forebespeak
 fatherling
 fractionise
-forbidding
+forbidding 1
 ferromagnetic
 forthy
 fireweed
