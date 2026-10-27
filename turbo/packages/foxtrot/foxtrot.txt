@@ -2581,7 +2581,7 @@ feinting
 fumes
 forechase
 friscal
-fogramity
+fogramity 1
 flongs
 ferrocyanate
 ferroelectric
