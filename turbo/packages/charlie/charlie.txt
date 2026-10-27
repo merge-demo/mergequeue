@@ -25426,7 +25426,7 @@ chaft
 cornigerous
 conies
 cornin
-consignable
+consignable 1
 corning
 cornishman
 cornless
