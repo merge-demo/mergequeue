@@ -15896,7 +15896,7 @@ antipopes
 asplenium
 attributed
 awkward
-antiportable
+antiportable 1
 aclemon
 adenoid
 acrophony
