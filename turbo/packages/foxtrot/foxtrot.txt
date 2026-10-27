@@ -74,7 +74,7 @@ facellite
 felonious
 furthers
 flysch
-fordeal
+fordeal 1
 fullfaces
 facemark
 flunkeyhood
