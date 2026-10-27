@@ -8469,7 +8469,7 @@ epizootic
 externa
 epoxyed
 ergonomist 1
-epoxies
+epoxies 1
 employed
 evangelistaries
 easterlies
