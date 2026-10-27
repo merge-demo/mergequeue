@@ -12470,7 +12470,7 @@ apiarist
 adventists
 andronicus
 arborator
-adjective
+adjective 1
 aromal
 antipyryl
 amphigastrium
