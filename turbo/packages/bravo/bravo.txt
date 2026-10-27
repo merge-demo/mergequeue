@@ -13590,7 +13590,7 @@ boulangism
 bouldered
 bevatrons
 boulderhead
-bandanna
+bandanna 1
 bilskirnir
 brairo
 bahaism
