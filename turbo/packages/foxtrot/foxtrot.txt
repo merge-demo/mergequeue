@@ -2701,7 +2701,7 @@ fawner
 frizziness
 fervence
 ferventness
-frighteningness
+frighteningness 1
 floodwall
 fishify
 foredivine
