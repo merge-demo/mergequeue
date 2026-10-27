@@ -12214,7 +12214,7 @@ ellinge
 ecclesiolater
 equipment
 epanalepsis
-eclogue
+eclogue 1
 executress
 elshin
 exsurge
