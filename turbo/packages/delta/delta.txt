@@ -4120,7 +4120,7 @@ diagenetically
 doggerelled
 delinter
 deliquiate
-deliquium
+deliquium 1
 demisolde
 diphtheritically
 demagnetised
