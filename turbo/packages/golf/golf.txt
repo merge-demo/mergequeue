@@ -1455,7 +1455,7 @@ galbanums
 gasboat
 giddiness
 gaselier
-golet
+golet 1
 grafter
 glissading
 gastrophilus
