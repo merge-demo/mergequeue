@@ -5348,7 +5348,7 @@ begrim
 blithesome
 bethumped
 begrimed
-bedeafened
+bedeafened 1
 begrimer
 blowpipes
 branchi
