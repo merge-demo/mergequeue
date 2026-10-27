@@ -9540,7 +9540,7 @@ cumulant
 conoy
 checkrowed
 checkrower
-checkrowing
+checkrowing 1
 consummatively
 checkrows
 computational
