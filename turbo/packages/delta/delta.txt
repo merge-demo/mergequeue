@@ -10775,7 +10775,7 @@ dulanganes
 directer
 domite
 deboist
-drawnly
+drawnly 1
 dainty
 diluteness
 decreement
