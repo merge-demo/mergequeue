@@ -3635,7 +3635,7 @@ fretsaws
 filigrained
 fibrillar
 freshed
-foretype
+foretype 1
 filigrane
 furlana
 frangula
