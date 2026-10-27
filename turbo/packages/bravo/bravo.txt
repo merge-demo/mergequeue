@@ -18277,7 +18277,7 @@ boulimy
 buttgenbachite 1
 bolimba
 boomeranging
-borders
+borders 1
 butty
 biovulate
 buggane
