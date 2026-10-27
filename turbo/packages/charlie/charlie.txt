@@ -4009,7 +4009,7 @@ croquettes
 carcinogenesis
 carcinoid
 compartmental
-crystalloluminescence
+crystalloluminescence 1
 carcinolysin
 cycadiform
 carcinological
