@@ -8335,7 +8335,7 @@ chalons
 coronograph
 chalot
 chaloupe
-cowpunch
+cowpunch 1
 chaluka
 catacrotic
 chalumeau
