@@ -1019,7 +1019,7 @@ foglietto
 fascicles
 flexuose
 flatlong
-fren
+fren 1
 fumosity
 feverweed
 fluidities
