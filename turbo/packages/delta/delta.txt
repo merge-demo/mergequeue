@@ -7869,7 +7869,7 @@ defrayals
 dogtrots
 diverseness
 dewatered
-diffluence
+diffluence 1
 distemonous
 dewaters
 dermobranchiata
