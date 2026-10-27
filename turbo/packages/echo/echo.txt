@@ -9674,7 +9674,7 @@ elkhounds
 exsec
 explicability
 extortionist
-encounterers
+encounterers 1
 evangelicalism
 erectors
 eclipsable
