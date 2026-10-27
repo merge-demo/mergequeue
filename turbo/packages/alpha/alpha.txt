@@ -20832,7 +20832,7 @@ applicate
 aligners
 archduchies
 artworks
-adeodatus
+adeodatus 1
 antbird
 affeer
 arugulas
