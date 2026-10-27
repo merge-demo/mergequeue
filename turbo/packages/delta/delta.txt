@@ -2794,7 +2794,7 @@ dop
 dorsalward
 decremeter
 dicyemida
-demarches
+demarches 1
 degass
 duodecahedral
 drypoints
