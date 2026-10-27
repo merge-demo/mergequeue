@@ -9212,7 +9212,7 @@ bow
 bipinnatisect
 bobsledding
 betassel
-brighter
+brighter 1
 bipyramid
 brrr
 bring
