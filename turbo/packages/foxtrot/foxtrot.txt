@@ -3330,7 +3330,7 @@ furuncle
 fidge
 frogfoot
 fractionally
-fidgeted
+fidgeted 1
 formidability
 fractals
 faultage
