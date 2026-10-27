@@ -8012,7 +8012,7 @@ biconically
 biconnected
 boildown
 butcherous
-bastonite
+bastonite 1
 biconsonantal
 barnburner
 biconvexity
