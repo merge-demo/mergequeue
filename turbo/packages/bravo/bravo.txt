@@ -5070,7 +5070,7 @@ bespotted
 beneficiary
 befitted
 beyship
-befittingly
+befittingly 1
 blacklead
 bitubercular
 baselines
