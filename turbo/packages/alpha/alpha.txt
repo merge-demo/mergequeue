@@ -11905,7 +11905,7 @@ awink
 acceptedly
 ancerata
 adventurer
-anamnestic
+anamnestic 1
 arracacha
 anserinae
 anamniata
