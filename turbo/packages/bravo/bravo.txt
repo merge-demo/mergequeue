@@ -1702,7 +1702,7 @@ bathless
 byganging
 barchan
 buqsha
-brilliantness
+brilliantness 1
 bawdyhouse
 babbishly 1
 besottingly
