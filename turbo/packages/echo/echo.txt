@@ -4474,7 +4474,7 @@ ensilage
 endolithic
 encephalartos
 encephalasthenia
-effloresced
+effloresced 1
 endodermis
 escocheon
 encephalitic
