@@ -4136,7 +4136,7 @@ autobus
 antiphlogistin
 acylamino
 adnephrine
-affairs
+affairs 1
 apiologist
 alum
 anthracene
