@@ -8546,7 +8546,7 @@ eudaemons
 ecclesiasticize
 essentializing
 echinated
-embezzling
+embezzling 1
 etherify
 enviable
 enantiotropy
