@@ -27791,7 +27791,7 @@ coxalgias
 cholents
 curatorship
 convolutedness
-calceiform
+calceiform 1
 coxankylometer
 coxbones
 coxcomb
