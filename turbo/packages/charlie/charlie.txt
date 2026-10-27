@@ -21323,7 +21323,7 @@ conch
 concha
 cabuya
 corniches
-countenance
+countenance 1
 celiitis
 cogitated
 coterminously
