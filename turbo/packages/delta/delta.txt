@@ -11450,7 +11450,7 @@ doest
 defalcations
 deads
 drivellers
-discolorment
+discolorment 1
 discolouring
 discolourization
 discourt
