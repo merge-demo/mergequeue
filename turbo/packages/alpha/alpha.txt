@@ -10274,7 +10274,7 @@ ascidiae
 azygobranchia
 amel
 adj
-akkadist
+akkadist 1
 asyllabia
 arcticize
 anemious
