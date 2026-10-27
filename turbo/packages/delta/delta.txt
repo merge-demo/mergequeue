@@ -2713,7 +2713,7 @@ diopsides
 decor
 diplopic
 dappledness
-decurves
+decurves 1
 decorable
 deist
 delectable
