@@ -3789,7 +3789,7 @@ dunno
 deific
 dhobey
 deification
-dressiness
+dressiness 1
 drepanididae
 describes
 diarrhoea
