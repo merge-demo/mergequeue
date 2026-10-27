@@ -5175,7 +5175,7 @@ gemman
 guti
 gassiest
 greathearted
-gorgeable
+gorgeable 1
 guidwillie
 gainsay
 gunbright
