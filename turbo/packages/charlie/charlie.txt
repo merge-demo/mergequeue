@@ -25723,7 +25723,7 @@ cistophoric
 coppiced
 crepitate
 circumrotating
-cornutin
+cornutin 1
 corresponded
 correspondence
 correspondences
