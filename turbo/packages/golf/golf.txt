@@ -10748,7 +10748,7 @@ gavage
 galloot
 gagers
 groggy
-gustiest
+gustiest 1
 geocentrically
 galewort
 glyphograph
