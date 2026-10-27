@@ -14992,7 +14992,7 @@ carpetless
 carbonado
 civet
 caciocavallo
-coadjutrice
+coadjutrice 1
 carcasing
 curiomaniac
 converses
