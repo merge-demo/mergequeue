@@ -1412,7 +1412,7 @@ bajonado
 barwin
 backjoint
 balearica
-balebos
+balebos 1
 baled
 baleen
 bobance
