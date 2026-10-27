@@ -6439,7 +6439,7 @@ geostrophic
 gymnocladus
 grows
 geegaws
-gentlemanliness
+gentlemanliness 1
 gocart
 giddypate
 girnie
