@@ -692,7 +692,7 @@ brioche
 bicorne
 bombo
 bungey
-begall
+begall 1
 bronchiolitis
 bathyesthesia
 baculine
