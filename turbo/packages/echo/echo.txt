@@ -11272,7 +11272,7 @@ euphorbine
 enroller
 elbowboard
 evaporating
-eviscerating
+eviscerating 1
 endoarteritis
 esophagodynia
 excursing
