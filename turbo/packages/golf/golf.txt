@@ -9102,7 +9102,7 @@ guillemet
 gease
 graveyards
 greund
-glumal
+glumal 1
 girdling
 gt
 glires
