@@ -24441,7 +24441,7 @@ cooperate
 cooperated
 cooperates
 carapaxes
-caracals
+caracals 1
 crusadoes
 chupatti
 cooperation
