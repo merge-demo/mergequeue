@@ -12972,7 +12972,7 @@ entice
 electrodeposition 1
 expectorant
 espiglerie
-expectorated
+expectorated 1
 echinococcus
 enneahedria
 exculpate
