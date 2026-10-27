@@ -9419,7 +9419,7 @@ foreteeth
 flouriness 1
 frolicly
 forlore
-frescoer
+frescoer 1
 fulsomeness
 fenman
 fireboats
