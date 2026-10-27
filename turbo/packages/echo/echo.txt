@@ -13379,7 +13379,7 @@ excambion
 equatorward
 exemplify
 epityphlon
-exposture
+exposture 1
 epanaphoral
 exter
 expounder
