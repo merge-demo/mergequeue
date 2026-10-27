@@ -12865,7 +12865,7 @@ escortment
 ende
 erosions
 expandingly
-exacts
+exacts 1
 expansibility
 emusifies
 expansile
