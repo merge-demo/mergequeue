@@ -7755,7 +7755,7 @@ foremen
 fanbearer
 fadridden
 ferroprussic
-fractionize
+fractionize 1
 flyflower
 flawed
 forsloth
