@@ -2842,7 +2842,7 @@ europhium
 eagre
 elephantoid
 elephantoidal
-enantiopathy
+enantiopathy 1
 epididymodeferentectomy
 estrays
 elettaria
