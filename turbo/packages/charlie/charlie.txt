@@ -11808,7 +11808,7 @@ choregi
 chalazoidite
 cryptomonad
 concerto
-chopper
+chopper 1
 choppers
 choppier
 cados
