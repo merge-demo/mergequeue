@@ -2103,7 +2103,7 @@ ceilingward
 chieftaincies
 circumnuclear
 captivator
-campanular
+campanular 1
 campanulariae
 campanularidae
 campanulatae
