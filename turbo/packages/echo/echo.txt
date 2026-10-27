@@ -7074,7 +7074,7 @@ evejar
 estivage
 emulsible
 estuous
-edicule
+edicule 1
 evangelian
 equiprobability
 electrophoric
