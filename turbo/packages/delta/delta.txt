@@ -14302,7 +14302,7 @@ dict
 disbelievingly
 ditt
 desulfovibrio
-device
+device 1
 drogerman
 dunter
 diffidation 1
