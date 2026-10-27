@@ -6328,7 +6328,7 @@ fluidity
 fuzzy
 funicle
 flack
-futural
+futural 1
 fruitlets
 finessed
 fixtureless
