@@ -6105,7 +6105,7 @@ grisset
 grume
 gnaws
 gramineous
-gneiss
+gneiss 1
 glengarries
 gullibly
 gryphosaurus
