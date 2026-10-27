@@ -8554,7 +8554,7 @@ diaphanously
 douglas
 diphthongal
 deobstruent
-discommodious
+discommodious 1
 dermographia
 diaphysis
 dracontiasis
