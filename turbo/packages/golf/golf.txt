@@ -625,7 +625,7 @@ gigartina
 glide
 gestic
 gaudless
-gradatory
+gradatory 1
 guideline
 geodetic
 gweducs
