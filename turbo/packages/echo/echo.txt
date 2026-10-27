@@ -12779,7 +12779,7 @@ elementary
 exostrae
 exoteric
 estafet
-exoterica
+exoterica 1
 elementalistically
 excitomotor
 embryology
