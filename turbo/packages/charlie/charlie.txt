@@ -4677,7 +4677,7 @@ carousals
 cabmen
 coupleress
 carouse
-caroused
+caroused 1
 carousels
 carp
 carpalia
