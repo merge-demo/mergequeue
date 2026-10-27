@@ -17588,7 +17588,7 @@ drumrolls
 drums
 decalcifier
 drumstick
-detoxicant
+detoxicant 1
 drunk
 desuperheater
 dogbite
