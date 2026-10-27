@@ -15661,7 +15661,7 @@ decrements
 doper
 disbarring
 dopier
-directed
+directed 1
 dogstone
 docile
 dunce
