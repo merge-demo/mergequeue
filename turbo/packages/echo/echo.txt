@@ -8909,7 +8909,7 @@ evaporite
 entoderms
 euthermic
 ergograph
-epistrophic
+epistrophic 1
 embitter
 emeroids
 ergomaniac
