@@ -623,7 +623,7 @@ edgeways
 enchant
 enneaeteric
 escheatable
-empyreumatic
+empyreumatic 1
 epipaleolithic
 emblic
 evincement
