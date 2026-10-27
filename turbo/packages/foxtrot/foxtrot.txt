@@ -6002,7 +6002,7 @@ fastnesses
 fusty
 foolscaps
 felspars
-flacon
+flacon 1
 fumattoria
 fidiculae
 ferroelectrically
