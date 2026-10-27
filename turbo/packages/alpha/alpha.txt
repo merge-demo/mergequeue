@@ -11980,7 +11980,7 @@ anaemias
 apostrophal
 anaphylactin
 anaphylactogenic
-amos
+amos 1
 anaphylatoxin
 apectomy
 anaphyte
