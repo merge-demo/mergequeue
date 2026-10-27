@@ -11796,7 +11796,7 @@ anosphrasia
 ablepharon
 axhammer
 anchietea
-antarctica
+antarctica 1
 analcimite
 authigene
 aerophilic

@@ -27637,7 +27637,7 @@ coecum
 cowardly
 choloidinic
 culp
-cowardness
+cowardness 1
 cowbane
 collided
 coolheaded
