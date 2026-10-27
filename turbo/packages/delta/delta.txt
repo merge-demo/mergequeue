@@ -16186,7 +16186,7 @@ demideity
 disburse
 drupetum
 draconic
-dialector
+dialector 1
 deerskins
 dewy 1
 dizens
