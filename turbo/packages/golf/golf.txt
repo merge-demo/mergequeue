@@ -1808,7 +1808,7 @@ gentile
 groupage
 grasses
 glutenous
-generalcies
+generalcies 1
 gemmules
 gousty
 gammacism
