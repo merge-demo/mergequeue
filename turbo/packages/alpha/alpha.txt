@@ -2606,7 +2606,7 @@ armenite
 actutate
 arriswise
 acquiesce
-acanthopterous
+acanthopterous 1
 alginates
 acquiescement
 aureation
