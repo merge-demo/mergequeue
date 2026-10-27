@@ -18643,7 +18643,7 @@ coinmates
 churchgoer
 coins
 catallactics
-coinspire
+coinspire 1
 chesil
 cartonnier
 coadmitting
