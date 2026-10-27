@@ -5858,7 +5858,7 @@ engrasp
 emancipatory
 ephedrins
 extrasensible
-extravagence
+extravagence 1
 engraver
 expalpate
 entree
