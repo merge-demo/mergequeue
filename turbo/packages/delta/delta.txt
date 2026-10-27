@@ -4247,7 +4247,7 @@ destructible
 dineros
 deltohedron
 drepanis
-dogvanes
+dogvanes 1
 delubra
 deluce
 delude
