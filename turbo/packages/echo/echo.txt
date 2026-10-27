@@ -6657,7 +6657,7 @@ excusers
 enarthrodial
 enterorrhagia
 enterorrhaphy
-enhalo
+enhalo 1
 eutychianism
 enchelycephali
 enterosepsis
