@@ -6671,7 +6671,7 @@ crenellation
 cedriret
 cetologies
 cedrol
-corticiform
+corticiform 1
 cedrus
 crioceris
 cardiosymphysis
