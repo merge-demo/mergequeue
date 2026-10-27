@@ -3624,7 +3624,7 @@ gladen
 glottalite
 guanylic
 granilla
-goglets
+goglets 1
 glottalize
 grotesque
 gigantal
