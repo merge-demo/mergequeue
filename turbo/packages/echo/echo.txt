@@ -2826,7 +2826,7 @@ elan
 endoubt
 enseat
 enleen
-exorbitate
+exorbitate 1
 electroluminescent
 explicans
 evenhanded
