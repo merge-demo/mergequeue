@@ -11756,7 +11756,7 @@ eyelast
 esquireship
 ericetum
 excorticating
-exappendiculate
+exappendiculate 1
 empover
 electroacoustic
 exarate
