@@ -8686,7 +8686,7 @@ bottomry
 backlashed
 brule
 barhopping
-boteroll
+boteroll 1
 bimetals
 bolsters
 bullishness
