@@ -9462,7 +9462,7 @@ eam
 euryale
 eses
 erythron
-egests
+egests 1
 exegetes
 eschrufe
 escopeta
