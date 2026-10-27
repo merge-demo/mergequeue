@@ -7452,7 +7452,7 @@ dactylus
 detrude
 darbha
 diplegic
-defrosts
+defrosts 1
 dich
 dermoplasty
 diffide
