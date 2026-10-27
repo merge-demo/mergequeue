@@ -4601,7 +4601,7 @@ festing
 fesswise
 fringilliformes
 foliages
-feetage
+feetage 1
 fisheye
 fieldstone
 fistuca
