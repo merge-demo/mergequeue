@@ -5396,7 +5396,7 @@ goodtemperedness
 glimmer
 generall
 glutinant
-glucosid
+glucosid 1
 gutwise
 gasserian
 grimmer
