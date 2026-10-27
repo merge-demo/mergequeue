@@ -3770,7 +3770,7 @@ deia
 deadpanner
 dyostyle
 dor
-dwale
+dwale 1
 drillable
 dynamites
 distrain
