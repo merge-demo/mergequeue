@@ -8079,7 +8079,7 @@ geomagnetism
 ghain
 genteelish
 gesning
-gladiatorial
+gladiatorial 1
 gentlewoman
 granivore
 gybes
