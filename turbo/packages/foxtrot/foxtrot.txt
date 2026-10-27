@@ -5718,7 +5718,7 @@ flirt
 fixatif
 footed
 fortifies
-flirtatiously
+flirtatiously 1
 fundament
 floodwater
 fitroot
