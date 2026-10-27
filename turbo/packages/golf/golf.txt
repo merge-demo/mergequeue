@@ -9483,7 +9483,7 @@ gabled
 glandulosity
 genitalial
 gladiate
-gesticulations
+gesticulations 1
 glossy
 ganser
 gleeishly
