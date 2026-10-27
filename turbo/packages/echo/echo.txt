@@ -7567,7 +7567,7 @@ enciphers
 enmarbling
 enterocoelous
 ensnarled
-ensouls
+ensouls 1
 enticements
 elytropolypus
 embololalia
