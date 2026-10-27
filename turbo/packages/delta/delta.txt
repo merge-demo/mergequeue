@@ -6690,7 +6690,7 @@ deaconries
 dubonnets
 decalcification
 desiderable
-diascopy
+diascopy 1
 deadhead
 desiderata
 debagged
