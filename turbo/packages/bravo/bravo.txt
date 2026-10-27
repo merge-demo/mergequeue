@@ -14648,7 +14648,7 @@ braseros
 backspin
 brash
 begorry 1
-bluepoints
+bluepoints 1
 bucklering
 brasher
 brashiest
