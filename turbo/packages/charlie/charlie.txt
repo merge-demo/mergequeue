@@ -6245,7 +6245,7 @@ caudles
 caudocephalad
 ceile
 clappering
-covertness
+covertness 1
 caudofemoral
 caudolateral
 crossbones
