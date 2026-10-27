@@ -377,7 +377,7 @@ electrepeter
 eastings
 embrasured
 elachistaceae
-entelodont
+entelodont 1
 eighteenfold
 educ
 exoneural
