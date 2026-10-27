@@ -746,7 +746,7 @@ ephthianura
 enstyle
 ecospecific
 emblematised
-effaces
+effaces 1
 endermatic
 effascinate
 exuvium
