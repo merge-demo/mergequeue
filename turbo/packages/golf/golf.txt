@@ -3574,7 +3574,7 @@ galvanisation
 gausses
 gharnao
 gilbertian
-glossa
+glossa 1
 gambolled
 goniaster
 grilse
