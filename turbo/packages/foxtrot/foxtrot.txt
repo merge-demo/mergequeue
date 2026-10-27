@@ -4496,7 +4496,7 @@ fleshing
 foreloop
 fantocine
 fluffier
-fountainwise
+fountainwise 1
 frangulin
 fluctuant
 footnotes
