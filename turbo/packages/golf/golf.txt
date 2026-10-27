@@ -3231,7 +3231,7 @@ gesturer
 gutti
 gigantism
 gametophytic
-goodhearted
+goodhearted 1
 grainedness
 goldminer
 graywacke
