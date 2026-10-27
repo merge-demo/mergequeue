@@ -14685,7 +14685,7 @@ dk
 dkg
 dkl
 decasemic
-dks
+dks 1
 diademed
 deburse
 dm
