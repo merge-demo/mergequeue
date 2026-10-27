@@ -7562,7 +7562,7 @@ extemporal
 epichondrosis
 epichordal
 etiologically
-erosely
+erosely 1
 enciphers
 enmarbling
 enterocoelous
