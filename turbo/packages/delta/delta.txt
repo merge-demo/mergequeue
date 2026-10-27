@@ -1125,7 +1125,7 @@ dashier
 diaceturia
 decempennate
 disciplinability
-dullify
+dullify 1
 definitional
 diporpa
 dashmaker
