@@ -2267,7 +2267,7 @@ electricize
 electriferous
 energumen
 equivalve
-epilating
+epilating 1
 extortions
 encephalogram
 elongated
