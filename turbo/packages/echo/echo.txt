@@ -13827,7 +13827,7 @@ extendible
 extracerebral
 embolo
 elucidative
-effervescingly
+effervescingly 1
 electrophilic
 earworm
 extracystic
