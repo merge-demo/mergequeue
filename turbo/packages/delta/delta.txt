@@ -17643,7 +17643,7 @@ defeminization
 dromornis
 dtd
 dielectrical
-dyspneic
+dyspneic 1
 dilatate
 dicranterian
 discourteously
