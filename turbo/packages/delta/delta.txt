@@ -10492,7 +10492,7 @@ delaminate
 diphaser
 divinize
 dihydrocupreine
-devitalising
+devitalising 1
 dipyrenous
 dichter
 duper
