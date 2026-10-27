@@ -11635,7 +11635,7 @@ equianchorate
 euptelea
 elocutionary
 epitaphical
-exacting
+exacting 1
 electroirrigation
 eruca
 eburnian
