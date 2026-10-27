@@ -5702,7 +5702,7 @@ deploy
 desipramine
 despotic
 deltoids
-disusance
+disusance 1
 dispansive
 dermoossification
 discern
