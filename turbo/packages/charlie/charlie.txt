@@ -19006,7 +19006,7 @@ caloricity
 collectivize
 collectivized
 collectivizes
-collectivum
+collectivum 1
 cocrucify
 collectorate
 collectors
