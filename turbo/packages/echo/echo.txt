@@ -8286,7 +8286,7 @@ evaporators
 ennobles
 exactions
 epithalline
-exotism
+exotism 1
 elastase
 einstein
 earthwards
