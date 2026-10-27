@@ -10291,7 +10291,7 @@ gulfiest
 galvanomagnet
 gigantically
 gorges
-giants
+giants 1
 graying
 grather
 gridded
