@@ -10559,7 +10559,7 @@ ethmose
 ethrog
 endostyle
 erotomania
-ewry
+ewry 1
 epephragmal 1
 enthusing
 entomophily
