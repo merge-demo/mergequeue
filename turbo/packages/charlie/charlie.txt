@@ -27547,7 +27547,7 @@ containable
 coverages
 coverall
 coveralled
-coveralls
+coveralls 1
 coils
 coverchief
 cannulated
