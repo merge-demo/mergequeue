@@ -7810,7 +7810,7 @@ academias
 aphidicide
 albolith
 aldazine
-antithrombic
+antithrombic 1
 aldoheptose
 analecta
 antigalactic
