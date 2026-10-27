@@ -7840,7 +7840,7 @@ entomotaxy
 epigonic
 expletive
 excardination
-encrinoid
+encrinoid 1
 exoascus
 extirpationist
 essentialized
