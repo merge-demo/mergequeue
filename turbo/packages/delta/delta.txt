@@ -9790,7 +9790,7 @@ disrupture
 dillymen
 durangite
 doorstops
-disenfranchise
+disenfranchise 1
 diggings
 dills
 delusiveness
