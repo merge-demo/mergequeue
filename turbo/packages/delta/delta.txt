@@ -5718,7 +5718,7 @@ deplorability
 duals
 deplorableness
 disrepair
-deplore
+deplore 1
 deplumated
 disposes
 deemer
