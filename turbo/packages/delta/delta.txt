@@ -3389,7 +3389,7 @@ defleas
 downlinks
 deflect
 dichotomic
-disinhuming
+disinhuming 1
 deflecting
 deflectionize
 dampnesses
