@@ -5760,7 +5760,7 @@ frise
 flocking
 flited
 frontate
-frontal
+frontal 1
 foge 1
 freckliness
 foehns

@@ -4765,7 +4765,7 @@ disarticulate
 disenamour
 deemstership
 detachably
-deaved
+deaved 1
 diadochokinetic
 dromophobia
 dejected
