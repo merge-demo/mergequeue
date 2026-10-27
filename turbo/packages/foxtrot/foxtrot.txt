@@ -944,7 +944,7 @@ flyleaf
 ft
 fed
 fourchite
-fortunateness
+fortunateness 1
 forms
 fanfishes
 flightless
