@@ -7714,7 +7714,7 @@ density
 darshana
 displaceable
 devility
-deprotestantize
+deprotestantize 1
 devilize
 delative
 daryl
