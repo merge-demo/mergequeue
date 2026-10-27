@@ -573,7 +573,7 @@ halrvu
 halsal
 halsdprm
 halsm
-halt
+halt 1
 haltfhj
 haltnmgho
 haltydqovz
