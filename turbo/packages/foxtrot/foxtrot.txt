@@ -7988,7 +7988,7 @@ fempty
 floran
 fleying 1
 forecooler
-foreslow
+foreslow 1
 frumpled
 flatteur
 fowent
