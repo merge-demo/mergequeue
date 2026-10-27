@@ -11090,7 +11090,7 @@ fane
 factfinder
 fittiness
 flagellated
-fangled
+fangled 1
 functionnaire
 functors
 formational
