@@ -17916,7 +17916,7 @@ duer
 duessa
 delayingly
 duets
-diatonical
+diatonical 1
 demulce
 demeans
 dazzling
