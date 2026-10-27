@@ -7838,7 +7838,7 @@ atrickle
 anglicism
 aldrovanda
 achromaturia
-adequative
+adequative 1
 alchemically
 acrylyl
 auriculoid
