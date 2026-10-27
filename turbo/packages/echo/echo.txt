@@ -12751,7 +12751,7 @@ ecoles
 elsewise
 exortion
 endodontia
-exosmose
+exosmose 1
 exosmotic
 eclampsia
 explicative
