@@ -8145,7 +8145,7 @@ deferrization
 defacing
 diachronic
 doupioni
-dipleurule
+dipleurule 1
 daer
 darger
 diachronically
