@@ -8563,7 +8563,7 @@ diaphone
 discontiguous
 diaphones
 demilitarising
-dexterously
+dexterously 1
 drys
 deflex
 diaphony
