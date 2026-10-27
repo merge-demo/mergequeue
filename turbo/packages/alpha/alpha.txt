@@ -10973,7 +10973,7 @@ arched
 amoebaeum
 athogen
 amoebalike
-amoebas
+amoebas 1
 angiospermal
 antefix
 asmolder
