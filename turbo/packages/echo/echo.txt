@@ -6670,7 +6670,7 @@ enterotoxication
 enlight
 equestrianize
 eclipser
-enspirit
+enspirit 1
 equilibriria
 ecosystems
 enterozoon
