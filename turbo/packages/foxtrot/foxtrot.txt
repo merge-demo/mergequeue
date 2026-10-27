@@ -1139,7 +1139,7 @@ forint
 farthings
 forlornness
 fubs
-footprints
+footprints 1
 fitted
 foreguts
 flog
