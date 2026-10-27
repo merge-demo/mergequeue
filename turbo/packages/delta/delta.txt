@@ -16538,7 +16538,7 @@ denar
 drivebolt
 duos
 daza
-disingenuity
+disingenuity 1
 draft
 dragee
 disputed
