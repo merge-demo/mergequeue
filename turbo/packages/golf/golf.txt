@@ -2708,7 +2708,7 @@ gascoign
 geek
 gilbertese
 genyplasty
-globularness
+globularness 1
 glandule
 gravitons
 gamey
