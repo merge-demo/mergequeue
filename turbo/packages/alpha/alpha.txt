@@ -5294,7 +5294,7 @@ alemanni
 aggerate
 aphototropic
 affinities
-affinition
+affinition 1
 apostrophe
 affinitive
 affirmable
