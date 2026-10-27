@@ -4490,7 +4490,7 @@ dulnesses
 deception
 diaspora
 divulse
-dividingly
+dividingly 1
 demicircular
 decating
 divulsor
