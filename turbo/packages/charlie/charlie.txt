@@ -15027,7 +15027,7 @@ cipollino
 circuitable
 compunctive
 civilizable
-civilizationally
+civilizationally 1
 citola
 chevrons
 contemns
