@@ -9896,7 +9896,7 @@ freckly
 fibrillations
 floodlet 1
 ferreters
-friendlessness
+friendlessness 1
 fancier
 fructoside
 forepeaks
