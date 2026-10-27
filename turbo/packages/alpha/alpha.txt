@@ -11752,7 +11752,7 @@ anaglyph
 annulism
 anisopleural
 alkalamide
-anaglyphs
+anaglyphs 1
 anaglypta
 aldim
 azomethine
