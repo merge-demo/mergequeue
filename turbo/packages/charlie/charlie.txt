@@ -17696,7 +17696,7 @@ conquer
 charmeuse
 cockaigne
 cunjer
-carboloy
+carboloy 1
 counternoise
 cockpit
 couched
