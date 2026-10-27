@@ -15998,7 +15998,7 @@ decrepitude
 decator
 direct
 double
-demos
+demos 1
 dotter
 detrimentality
 doubleheartedness
