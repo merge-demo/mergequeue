@@ -15873,7 +15873,7 @@ advocation
 antiplurality
 antipodal
 antipode
-antimensia
+antimensia 1
 anchorwise
 antipodic
 autocoprophagous
