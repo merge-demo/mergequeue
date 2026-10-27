@@ -7712,7 +7712,7 @@ gerontism
 gest
 graduands
 glade
-geopolitic
+geopolitic 1
 girning
 geolatry
 galvanized

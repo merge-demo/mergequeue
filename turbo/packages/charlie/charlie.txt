@@ -2544,7 +2544,7 @@ candlenut
 candlepins
 cerevis
 candler
-candlerent 1
+candlerent 2
 concealed
 candlers
 casework
