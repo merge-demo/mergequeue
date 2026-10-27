@@ -8715,7 +8715,7 @@ chirpier
 cellarmen
 coccolithophorid
 chapellany
-chapelled
+chapelled 1
 cimnel
 conciliation
 carditic
