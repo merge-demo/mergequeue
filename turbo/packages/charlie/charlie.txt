@@ -2045,7 +2045,7 @@ camouflageable
 camouflager
 contradictorily
 camouflagers
-camouflagic
+camouflagic 1
 coincidence
 companionship
 cruddle
