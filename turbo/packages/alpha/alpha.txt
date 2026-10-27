@@ -23131,7 +23131,7 @@ anthroponym
 areopagy
 astonishingness
 antinode
-attitudinize
+attitudinize 1
 authoritarianisms
 antipapacy
 aortism
