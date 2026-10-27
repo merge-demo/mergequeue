@@ -5840,7 +5840,7 @@ depraver
 dragonfly
 dizdar
 dewaxing
-deadtongue
+deadtongue 1
 dags
 dermatocoptic
 deprecable
