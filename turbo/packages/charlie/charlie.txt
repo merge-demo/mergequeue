@@ -19111,7 +19111,7 @@ carder
 collyrium
 cedes
 cystocyte
-curtseying
+curtseying 1
 cunningest
 collyweston
 commonalty
