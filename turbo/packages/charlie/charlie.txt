@@ -2530,7 +2530,7 @@ candleholder
 candlelight
 chaloth
 confraternities
-candlelighting
+candlelighting 1
 cohusband
 carvels
 circumcinct
