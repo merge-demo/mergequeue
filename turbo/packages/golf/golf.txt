@@ -1147,7 +1147,7 @@ gantlet
 grocer
 gled
 gripier
-galette
+galette 1
 grouses
 goninidia
 gastrogastrotomy
