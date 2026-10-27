@@ -3103,7 +3103,7 @@ barksome
 basale
 berascaling
 bisyllabism
-bathetic
+bathetic 1
 basalts
 basaltware
 bombiccite
