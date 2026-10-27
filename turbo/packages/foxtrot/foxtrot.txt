@@ -407,7 +407,7 @@ fifties
 fronde
 farcy
 ficoes
-frislet
+frislet 1
 faq
 fibber
 firetrap
