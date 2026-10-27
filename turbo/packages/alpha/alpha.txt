@@ -12882,7 +12882,7 @@ angiotonic
 almoravide
 abjunction
 apinch
-angiotripsy
+angiotripsy 1
 angiotrophic
 antiepicenter
 angiport
