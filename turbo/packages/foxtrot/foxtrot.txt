@@ -10887,7 +10887,7 @@ freestone
 flayer
 fullish
 foeman
-frigorifico
+frigorifico 1
 fulgurated
 forgathers
 fucused
