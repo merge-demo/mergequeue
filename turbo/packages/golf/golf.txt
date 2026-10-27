@@ -1023,7 +1023,7 @@ galvanoscopy
 geodist
 gothicize
 grasp
-gravelled
+gravelled 1
 golp
 glanced
 greenuk
