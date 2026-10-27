@@ -4975,7 +4975,7 @@ foraminate
 fascet
 fact
 forestcraft
-fringiest
+fringiest 1
 focused
 frappeed
 flyswatter
