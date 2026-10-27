@@ -1018,7 +1018,7 @@ escargot
 eggars
 edemas
 exinite
-eldership
+eldership 1
 epilabra
 edemata
 equable
