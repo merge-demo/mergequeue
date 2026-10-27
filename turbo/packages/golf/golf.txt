@@ -10775,7 +10775,7 @@ garbline
 gallium
 glamourie
 geranyl
-glycyl
+glycyl 1
 glitter
 gutt
 gaia
