@@ -6440,7 +6440,7 @@ frogeye
 fluoaluminate
 femorocaudal
 flatcap
-fairs
+fairs 1
 finery
 flapjack
 floretty
