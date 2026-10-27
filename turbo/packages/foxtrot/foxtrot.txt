@@ -1694,7 +1694,7 @@ fearedness
 fluidizes
 flattie
 fathometer
-frypan
+frypan 1
 flunkeyish
 faucets
 fellest
