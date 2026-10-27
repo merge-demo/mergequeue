@@ -9115,7 +9115,7 @@ frusta
 fireroom
 fooner
 froisse
-fracid
+fracid 1
 frizzier
 foraminulous
 furioso
