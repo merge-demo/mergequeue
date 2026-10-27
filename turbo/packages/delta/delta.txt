@@ -6493,7 +6493,7 @@ desmarestiaceae
 descendable
 dimensioned
 dipeptid
-dentellated
+dentellated 1
 disqualification
 delignated
 disomatous
