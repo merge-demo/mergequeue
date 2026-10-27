@@ -10530,7 +10530,7 @@ faciend
 freq
 flags
 frowsily
-footslogging
+footslogging 1
 famishment
 fixable
 frictionless
