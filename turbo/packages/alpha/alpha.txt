@@ -14920,7 +14920,7 @@ anticyclically
 anticity
 anticytolysin
 accredits
-almsgiving
+almsgiving 1
 alphorn
 autohemolysin
 acceptilate
