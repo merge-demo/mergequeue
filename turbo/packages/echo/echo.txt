@@ -3228,7 +3228,7 @@ erects
 enclitical
 encephalotomy
 eyesore
-entrench
+entrench 1
 episcleral
 extralateral
 emancipates
