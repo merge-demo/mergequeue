@@ -4982,7 +4982,7 @@ autophone
 abluted
 agenizes
 aeronat
-aeronaut
+aeronaut 1
 alkalizing
 aeronautic
 argentose
