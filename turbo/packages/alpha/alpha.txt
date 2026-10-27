@@ -17436,7 +17436,7 @@ archdioceses
 arbitrement
 applot
 airship
-adiate
+adiate 1
 antiarchi
 apothegmatist
 acy
