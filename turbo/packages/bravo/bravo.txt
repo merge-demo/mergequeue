@@ -5076,7 +5076,7 @@ bitubercular
 baselines
 bowellike
 bejuco
-blazoning
+blazoning 1
 boatmaster
 befittingness
 behoof
