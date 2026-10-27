@@ -4324,7 +4324,7 @@ gawks
 geodesist
 galeopsis
 gingered
-goniostat
+goniostat 1
 glendover
 garrulity
 gingerline
