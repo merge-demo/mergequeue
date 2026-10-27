@@ -1955,7 +1955,7 @@ acetylphenylhydrazine
 aslope
 affinite
 acetylphenol
-agogic
+agogic 1
 acetyls
 acce
 acetyltropeine
