@@ -4304,7 +4304,7 @@ casebook
 cargoes
 carhop
 carhops
-contorted
+contorted 1
 continuing
 cary
 caryatid
