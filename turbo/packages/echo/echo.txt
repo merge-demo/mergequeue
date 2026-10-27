@@ -7785,7 +7785,7 @@ epipodiale
 emblematic
 electropneumatic
 expectably
-elementality
+elementality 1
 encyclopaedize
 engjateigur
 excircle
