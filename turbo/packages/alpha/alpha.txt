@@ -14945,7 +14945,7 @@ anticlimax
 attroupement
 abret
 anticlines
-anticlinoria
+anticlinoria 1
 anticlinorium
 axised
 anaphoral
