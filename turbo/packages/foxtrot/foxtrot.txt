@@ -2486,7 +2486,7 @@ foamlike
 fris
 flea
 fibrinoid
-fry
+fry 1
 fernyear
 funs
 fernshaw
