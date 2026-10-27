@@ -9570,7 +9570,7 @@ groveller
 gauteite
 gruels
 girgasite
-gemmiest
+gemmiest 1
 gesticularious
 gymnostomata
 galactopoiesis
