@@ -6473,7 +6473,7 @@ enswathement
 elementariness
 embowered
 exclusiveness
-evidently
+evidently 1
 ephelis
 envisaging
 epistropheal
