@@ -6473,7 +6473,7 @@ avoidance
 arrosion
 anviled
 arthromeningitis
-asterism
+asterism 1
 aha
 ahamkara
 autoclaves
