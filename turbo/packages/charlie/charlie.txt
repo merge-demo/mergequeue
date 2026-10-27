@@ -7815,7 +7815,7 @@ cervinae
 cosignatory 1
 cervixes
 cobewail
-cervoid
+cervoid 1
 cervuline
 cervus
 cesare

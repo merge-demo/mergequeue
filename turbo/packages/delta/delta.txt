@@ -2709,7 +2709,7 @@ decontrolled
 deconvolution
 deconvolve
 desmon
-diopsides
+diopsides 1
 decor
 diplopic
 dappledness
