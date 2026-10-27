@@ -15770,7 +15770,7 @@ autoinhibited
 apodeme
 algesimeter
 antipeduncular
-anthinae
+anthinae 1
 acoemetae
 algebra
 atlantica
