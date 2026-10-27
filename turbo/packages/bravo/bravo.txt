@@ -1514,7 +1514,7 @@ balladic
 balladised
 balladism
 bicorn
-bartree
+bartree 1
 battled
 burlers
 bronchopleurisy
