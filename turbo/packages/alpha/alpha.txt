@@ -6503,7 +6503,7 @@ adjuvate
 ahi
 azotometer
 algaesthesis
-amebula
+amebula 1
 ahir
 alternant
 autunian
