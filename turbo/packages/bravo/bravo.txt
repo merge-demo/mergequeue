@@ -6532,7 +6532,7 @@ berated
 bushful
 brahmsian
 berates
-boot
+boot 1
 blastospheric 1
 berattle
 bakehead
