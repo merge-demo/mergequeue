@@ -12985,7 +12985,7 @@ dottrel
 didric
 diminishableness
 diastematomyelia
-disorients
+disorients 1
 dysoxidation
 dollarfishes
 disoxygenation
