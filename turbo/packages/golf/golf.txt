@@ -3590,7 +3590,7 @@ galvanic
 gyrocar
 greg
 gustus
-gyrochrome
+gyrochrome 1
 gnathobdellae
 gargil
 gaelicize
