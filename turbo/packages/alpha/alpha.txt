@@ -9314,7 +9314,7 @@ autonetics
 alop
 axunge
 antitumor
-alopecia
+alopecia 1
 alopecias
 alopecoid 1
 antrectomy
