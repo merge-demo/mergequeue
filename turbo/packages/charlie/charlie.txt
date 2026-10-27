@@ -2583,7 +2583,7 @@ condom
 carangid
 chlorotrifluoromethane
 catalan
-ceraunograph
+ceraunograph 1
 carbona
 cracowe
 canduc
