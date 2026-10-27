@@ -10885,7 +10885,7 @@ feston
 fango
 freestone
 flayer
-fullish
+fullish 1
 foeman
 frigorifico
 fulgurated
