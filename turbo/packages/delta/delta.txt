@@ -2908,7 +2908,7 @@ deltoid
 divia
 dashel
 dedanite
-dedecorous
+dedecorous 1
 divide
 desmodont
 duodecimomos
