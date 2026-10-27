@@ -10932,7 +10932,7 @@ forge
 formalins
 factorizing
 ferreiro
-foreshadows
+foreshadows 1
 fub
 flintifying
 flexure
