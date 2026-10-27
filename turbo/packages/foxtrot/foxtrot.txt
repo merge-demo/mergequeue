@@ -7196,7 +7196,7 @@ flites
 forthteller
 footless
 footlights
-fratries
+fratries 1
 ficoides
 forearming
 farer
