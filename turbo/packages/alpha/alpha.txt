@@ -8163,7 +8163,7 @@ anight
 algorab
 antioptimism
 amaterialistic
-ambitendency
+ambitendency 1
 autobasidium
 alcapton
 algiomuscular
