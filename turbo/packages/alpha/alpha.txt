@@ -5668,7 +5668,7 @@ astore
 aquapuncture
 amylaceous
 asphalts
-againsay
+againsay 1
 against
 avellano
 ancillae
