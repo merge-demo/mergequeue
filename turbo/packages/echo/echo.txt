@@ -10367,7 +10367,7 @@ ethologists
 euphonical
 espinillo
 expediently
-eruct
+eruct 1
 edmond
 embrase
 epigeous
