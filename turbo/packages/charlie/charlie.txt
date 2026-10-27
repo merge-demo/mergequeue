@@ -9202,7 +9202,7 @@ corf
 chastity
 chockstone
 chasubled
-cooper
+cooper 1
 chataka
 chatchka
 croziers
