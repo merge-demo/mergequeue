@@ -5269,7 +5269,7 @@ garish
 galoubet
 gammers
 gratingly
-glooming
+glooming 1
 guaranies
 gorgelet
 glister
