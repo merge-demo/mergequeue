@@ -8832,7 +8832,7 @@ disjuncture
 dibenzoyl
 detriments
 dialyzable
-deg
+deg 1
 dichotomal
 dentatocillitate
 desirelessness
