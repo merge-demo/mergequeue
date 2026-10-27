@@ -12301,7 +12301,7 @@ asimen
 ancylopod
 acneiform
 acrider
-anatropous
+anatropous 1
 antiecclesiastic
 alnico
 acerra
