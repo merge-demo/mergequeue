@@ -18022,7 +18022,7 @@ cysteine
 compsilura
 cuit
 coemploying
-cosustain
+cosustain 1
 calmy
 cheesy
 coempting
