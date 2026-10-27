@@ -1000,7 +1000,7 @@ exorbital
 earthwork
 endothermic
 edaphosaurus
-edana
+edana 1
 explosibility
 encapsules
 euthanasic
