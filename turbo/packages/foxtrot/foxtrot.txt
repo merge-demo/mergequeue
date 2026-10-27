@@ -5274,7 +5274,7 @@ fameuse
 fabricable
 fomenter
 ferricyanate
-flavours
+flavours 1
 feelinglessly
 fibrilation
 furuncular
