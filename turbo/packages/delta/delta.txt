@@ -8929,7 +8929,7 @@ dogproof
 deceivable
 dichotically
 disklike
-dirigible
+dirigible 1
 denaturalization
 documenter
 diswit
