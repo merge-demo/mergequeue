@@ -9832,7 +9832,7 @@ exact
 estrich
 eikon
 egocentricity
-enthronising
+enthronising 1
 endoceras
 engin
 enslumber
