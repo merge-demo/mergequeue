@@ -1647,7 +1647,7 @@ balloted
 ballotist
 ballots
 ballottement
-backlotter
+backlotter 1
 bailiffship
 baronage
 bahamian
