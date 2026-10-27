@@ -2062,7 +2062,7 @@ bidactyl
 bethought
 banky
 banknote
-bergamo
+bergamo 1
 bristly
 biophysicist
 banknotes
