@@ -10833,7 +10833,7 @@ ferniest
 focometry
 fulciment
 fs
-failures
+failures 1
 frictionized
 fulcrumed
 formicarioid
