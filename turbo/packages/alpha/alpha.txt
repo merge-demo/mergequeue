@@ -12514,7 +12514,7 @@ adar
 anelasticity
 augurship
 antirationalism
-anelectrode
+anelectrode 1
 appui
 anelectrotonus
 ahmadiya
