@@ -13170,7 +13170,7 @@ excubitorium
 entailment
 embroil
 enties
-emanators
+emanators 1
 expiation
 ensilate
 expiational
