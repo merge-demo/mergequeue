@@ -11812,7 +11812,7 @@ deathwatch
 decrement
 dustbin
 dhourras
-discure
+discure 1
 discriminates
 disponee
 disgorger
