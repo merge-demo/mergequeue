@@ -10462,7 +10462,7 @@ absurdum
 aculeolus
 ametrope
 antshrike
-ametropia
+ametropia 1
 ametrous
 amhar
 afterbirths
