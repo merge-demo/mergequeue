@@ -10542,7 +10542,7 @@ forcipiform
 frowze
 franking
 fluky
-furnaces
+furnaces 1
 fossilised
 fauchard
 frizer
