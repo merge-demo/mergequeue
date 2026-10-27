@@ -6538,7 +6538,7 @@ forecover
 flutterboard 1
 faucal
 fluotantalate
-flutteriness
+flutteriness 1
 flagrate
 flinches
 fluttering

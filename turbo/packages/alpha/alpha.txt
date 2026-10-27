@@ -20329,7 +20329,7 @@ annoying
 arrowsmith
 arrowworm
 arroz
-acrobatics
+acrobatics 1
 arsenic
 arsenicism
 arsenicked
