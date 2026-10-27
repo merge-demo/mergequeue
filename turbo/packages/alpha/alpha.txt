@@ -3254,7 +3254,7 @@ astropectinidae
 acupuncturator
 acupuncture
 abonne
-acupunctured
+acupunctured 1
 armagnacs
 acupuncturing
 antivenomous
