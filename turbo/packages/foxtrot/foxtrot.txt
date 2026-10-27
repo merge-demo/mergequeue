@@ -8622,7 +8622,7 @@ freightless
 furaciousness
 filterability
 fourposters
-feet
+feet 1
 fuzes
 finites
 forborn
