@@ -17780,7 +17780,7 @@ ameiurus
 abutilons
 adumbration
 antispasis
-amentia
+amentia 1
 applique
 asuri
 antinarcotics
