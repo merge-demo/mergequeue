@@ -2060,7 +2060,7 @@ faucalize
 flindosa
 flatlander
 fascicule
-flaunting
+flaunting 1
 forfouchten
 feisty
 farl
