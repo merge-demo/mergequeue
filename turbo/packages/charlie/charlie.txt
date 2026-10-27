@@ -12577,7 +12577,7 @@ commeddle
 crom
 citolers
 chronometers
-chronometric
+chronometric 1
 chronometrically
 chronon
 choppily
