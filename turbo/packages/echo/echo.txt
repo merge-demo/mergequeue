@@ -6677,7 +6677,7 @@ enterozoon
 enterprise
 exploitations
 elongations
-enterprize
+enterprize 1
 expertising
 entosclerite
 eulogiser
