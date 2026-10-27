@@ -20673,7 +20673,7 @@ arthrotyphoid
 amputative
 azimide
 arthrotome
-ansi
+ansi 1
 accinged
 arthrous
 acrylaldehyde
