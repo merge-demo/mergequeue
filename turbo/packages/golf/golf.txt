@@ -499,7 +499,7 @@ gye
 glaucodot
 gluteus
 grama
-gullably
+gullably 1
 geminations
 gnomes
 geomorphology
