@@ -10106,7 +10106,7 @@ gossiped
 gasoscope
 glumaceous
 glottid
-gazetteer
+gazetteer 1
 gonystylus
 goldenfleece
 gnomic
