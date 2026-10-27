@@ -5984,7 +5984,7 @@ fulah
 fixures
 flashness
 floorcloths
-frere
+frere 1
 fluidizing
 folkways
 foreplays
