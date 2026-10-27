@@ -15752,7 +15752,7 @@ dormouse
 drawshave
 digallic
 dornic
-deletive
+deletive 1
 deterred
 dornick
 dornicks
