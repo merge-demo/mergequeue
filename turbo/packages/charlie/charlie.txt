@@ -6855,7 +6855,7 @@ conscientiousness
 curares
 cytologist
 cellulofibrous
-celluloid
+celluloid 1
 confabbing
 cellulosic
 contented
