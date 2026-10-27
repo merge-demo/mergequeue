@@ -9796,7 +9796,7 @@ fretten
 firedamps
 fragmentary
 fattens
-foredooming
+foredooming 1
 fleck
 foamy
 felicity

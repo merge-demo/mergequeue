@@ -11647,7 +11647,7 @@ claries
 corruptness
 caviars
 cholo
-chaver
+chaver 1
 cholocyanine
 cinematographic
 crossroading
