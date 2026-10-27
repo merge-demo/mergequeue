@@ -5805,7 +5805,7 @@ dartlike
 disgorgement
 derailleur
 dreiling
-deformism
+deformism 1
 deposito
 depositor
 daytime
