@@ -7833,7 +7833,7 @@ aldosteronism
 anacanth
 aldrins
 arba
-ausubos
+ausubos 1
 atrickle
 anglicism
 aldrovanda
