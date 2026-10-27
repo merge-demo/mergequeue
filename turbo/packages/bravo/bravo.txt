@@ -16973,7 +16973,7 @@ bugwort
 banca
 baganda
 blackbeard
-bkpr
+bkpr 1
 benzalaniline
 borax
 burdensomely
