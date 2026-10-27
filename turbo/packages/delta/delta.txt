@@ -5845,7 +5845,7 @@ dags
 dermatocoptic
 deprecable
 deprecating
-derotrema
+derotrema 1
 doorbrand
 desolations
 diachoresis
