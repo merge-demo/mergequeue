@@ -6275,7 +6275,7 @@ benthic
 barbar
 bagfuls
 bevors
-benthoscope
+benthoscope 1
 bemoat
 bulgar
 benthoses

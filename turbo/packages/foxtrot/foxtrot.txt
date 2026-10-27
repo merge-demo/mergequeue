@@ -7214,7 +7214,7 @@ flathe
 flaccid
 fertil
 forwarders
-forfeits
+forfeits 1
 frizzlers
 faenas
 footpaces
