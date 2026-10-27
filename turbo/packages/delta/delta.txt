@@ -8321,7 +8321,7 @@ diplogenetic
 datagram
 disenactment
 dialectal
-declaim
+declaim 1
 draftier
 darkishness
 damoclean
