@@ -22010,7 +22010,7 @@ anni
 aniseroot
 argentometrically
 achromatizable
-assumes
+assumes 1
 apothesis
 antiperiodic
 act
