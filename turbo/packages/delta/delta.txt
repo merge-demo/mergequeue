@@ -6545,7 +6545,7 @@ descries
 dagbamba
 dodgers
 decimates
-descript
+descript 1
 descriptionist
 dogsled
 descriptionless
