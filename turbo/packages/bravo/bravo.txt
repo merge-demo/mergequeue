@@ -3512,7 +3512,7 @@ batcher
 bargemen
 bogging
 bitterhearted
-bateau
+bateau 1
 bateleur
 barbered
 bowerwoman
