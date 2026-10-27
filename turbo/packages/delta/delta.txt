@@ -10149,7 +10149,7 @@ downy 1
 deuteranomal
 dasypaedes
 doater
-dinged
+dinged 1
 directorate
 diploids
 daddle

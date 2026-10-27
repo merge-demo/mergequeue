@@ -14099,7 +14099,7 @@ ectozoa
 extrasacerdotal
 exlex
 extricably
-egbo
+egbo 1
 ericad
 episodal
 exorcize
