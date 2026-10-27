@@ -9779,7 +9779,7 @@ dillesk
 detailedness
 daimones
 denumerable
-dolefish
+dolefish 1
 digesters
 dillydally
 dejectile
