@@ -1543,7 +1543,7 @@ explication
 empaling
 effigiation
 eggnog
-embrasures
+embrasures 1
 eggrolls
 eggs
 entothorax

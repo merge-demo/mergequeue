@@ -6103,7 +6103,7 @@ dispraiser
 diatheses
 disarmed
 decompound
-dizened
+dizened 1
 deraigning
 divest
 dispirits
