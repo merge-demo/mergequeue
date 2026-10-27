@@ -15425,7 +15425,7 @@ delocalising
 drongo
 doorway
 dominique
-despairingly
+despairingly 1
 dewanship
 disparaging
 deboners
