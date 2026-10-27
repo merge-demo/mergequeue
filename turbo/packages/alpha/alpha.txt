@@ -5609,7 +5609,7 @@ afterthoughts
 afterthrift
 apastron
 armil
-anchoritically
+anchoritically 1
 apii
 absorptivity
 aphototaxis
