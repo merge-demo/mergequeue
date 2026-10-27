@@ -10570,7 +10570,7 @@ esprits
 elpidite
 equiprobable 1
 euphroes
-ernesse
+ernesse 1
 enteria
 escallops
 eocarboniferous
