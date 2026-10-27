@@ -11214,7 +11214,7 @@ entrenchment
 epithetize
 endfile
 englyns
-eely
+eely 1
 exceptionably
 effulgently
 excisemanship
