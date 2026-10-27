@@ -2569,7 +2569,7 @@ generant
 generate
 guitars
 gypsiferous
-gazetteerage
+gazetteerage 1
 gomerel
 giveaway
 gibbing
