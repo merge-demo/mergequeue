@@ -7943,7 +7943,7 @@ expounds
 excudate
 epimanikion
 epimeres
-electrostenolysis
+electrostenolysis 1
 enterolithiasis
 exiting
 evangels
