@@ -2841,7 +2841,7 @@ bulkiest
 baudery
 barothermograph
 bowelling
-barotrauma
+barotrauma 1
 bulgurs
 behowling
 barotropic
