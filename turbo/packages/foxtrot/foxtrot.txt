@@ -4032,7 +4032,7 @@ fallible
 foredawn
 fissural
 frettiest
-feudalise
+feudalise 1
 fingram
 fossilisable
 feds
