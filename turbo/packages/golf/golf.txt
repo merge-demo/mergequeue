@@ -2370,7 +2370,7 @@ gilver
 gote
 gaulish
 gambadoes
-geminid
+geminid 1
 geminous
 gratinating
 gestating
