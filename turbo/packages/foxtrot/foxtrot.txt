@@ -10908,7 +10908,7 @@ fulleries 1
 fleets
 frowsty
 flivver
-fletched
+fletched 1
 firesafeness
 fullom
 flirtations
