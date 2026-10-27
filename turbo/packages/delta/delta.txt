@@ -3532,7 +3532,7 @@ dufoil
 drapery
 drowsiest
 defrauds
-defrocked
+defrocked 1
 dubbed
 derogately
 dispensational
