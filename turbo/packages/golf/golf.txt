@@ -1493,7 +1493,7 @@ gaolage
 groose
 guaxima
 glandless
-gorlin
+gorlin 1
 gregarinidal
 grisounite
 grote
