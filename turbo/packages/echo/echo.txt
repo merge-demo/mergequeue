@@ -4239,7 +4239,7 @@ elegancy
 eaux
 eumeristic
 elixate
-expendible
+expendible 1
 expressways
 equidiagonal
 enwrapment
