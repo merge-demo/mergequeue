@@ -1588,7 +1588,7 @@ daikering
 doryanthes
 disinfector
 deadwork
-deaerated
+deaerated 1
 dorsum
 documentarist
 duenna
