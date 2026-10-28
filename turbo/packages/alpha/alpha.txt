@@ -4627,7 +4627,7 @@ anahao
 afterspeech
 advocative
 antilobium
-acanthological
+acanthological 1
 aq
 abstrusion
 avicularian
