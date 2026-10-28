@@ -1951,7 +1951,7 @@ garnishments
 gnomonical
 gimbal
 geology
-geranic
+geranic 1
 gweduck
 goring
 grubroot
