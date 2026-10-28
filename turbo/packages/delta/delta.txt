@@ -2866,7 +2866,7 @@ disgenius
 disparish
 deepest
 dictyopteris
-decumbent
+decumbent 1
 disfurnishment
 deistically
 dugdug
