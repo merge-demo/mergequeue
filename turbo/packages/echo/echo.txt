@@ -780,7 +780,7 @@ echinops
 ecrase
 enclitic
 escort
-extense
+extense 1
 eremophilous 1
 experimental
 epitheliliums
