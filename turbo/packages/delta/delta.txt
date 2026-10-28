@@ -18493,7 +18493,7 @@ draggingly
 dendroica
 deserted
 durably
-duologs
+duologs 1
 dissentiently
 discussants
 dementi
