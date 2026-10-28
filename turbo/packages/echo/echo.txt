@@ -4438,7 +4438,7 @@ encarnalizing
 encarpa
 encarpus
 endrin
-enworthy
+enworthy 1
 eudemonistically
 ectorganism
 encases
