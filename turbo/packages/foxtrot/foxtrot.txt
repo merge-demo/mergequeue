@@ -2155,7 +2155,7 @@ fiat
 fumette
 fameful
 famously
-fires
+fires 1
 fornical
 fitch
 fawnier
