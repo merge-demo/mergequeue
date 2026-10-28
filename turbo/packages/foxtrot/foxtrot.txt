@@ -8624,7 +8624,7 @@ filterability
 fourposters
 feet
 fuzes
-finites
+finites 1
 forborn
 fytte
 farstepped
