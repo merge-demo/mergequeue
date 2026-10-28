@@ -5129,7 +5129,7 @@ ballota
 bloodthirstiness
 baubling
 banco
-befools
+befools 1
 bridgeport
 budworm
 before
