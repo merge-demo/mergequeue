@@ -6891,7 +6891,7 @@ exarchal
 elasticize
 escudos
 enlisted
-embonpoint
+embonpoint 1
 ephoric
 eighteenths
 establismentarian

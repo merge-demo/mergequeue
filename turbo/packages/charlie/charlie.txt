@@ -10049,7 +10049,7 @@ composers
 cherubim
 cherubimic
 cherubimical
-cherublike
+cherublike 1
 corkline
 crystalize
 calzone
