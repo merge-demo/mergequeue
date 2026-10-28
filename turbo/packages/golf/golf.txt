@@ -5640,7 +5640,7 @@ gravy
 gastly
 game
 gunstick
-glueman
+glueman 1
 gallinago
 gowkedness
 gasps
