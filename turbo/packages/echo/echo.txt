@@ -6875,7 +6875,7 @@ endangered
 electrum
 etiquettes
 esophagostomy
-epispore
+epispore 1
 ectocardia
 eisteddfods
 endometria
