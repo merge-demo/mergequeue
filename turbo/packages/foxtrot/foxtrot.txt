@@ -5681,7 +5681,7 @@ freeloader
 flingy
 funded
 fiddlestring
-freestyle
+freestyle 1
 fishwife
 flinkite
 fluffer
