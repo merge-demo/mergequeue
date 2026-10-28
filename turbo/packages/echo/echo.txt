@@ -7912,7 +7912,7 @@ entryway
 electrometric
 exarchic
 eidola
-enlargement
+enlargement 1
 ethonone
 euphemistic
 enclavement
