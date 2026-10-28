@@ -2800,7 +2800,7 @@ geode
 grenadines
 gallinule
 genuflection
-gallates
+gallates 1
 galactophlysis
 graminous
 gypseian
