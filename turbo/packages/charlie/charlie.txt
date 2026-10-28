@@ -1148,7 +1148,7 @@ calcsinter
 cranioclasis
 calcspars
 cotwal
-crunches
+crunches 1
 cherely
 coazervation
 calculability
