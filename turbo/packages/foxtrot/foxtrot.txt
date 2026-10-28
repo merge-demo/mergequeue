@@ -10395,7 +10395,7 @@ firstling
 forcaria
 feudalistic
 fringeflower
-fossified
+fossified 1
 featherwood
 fountainously
 firsts
