@@ -24867,7 +24867,7 @@ cookware
 consularity
 coracomorph
 coralwort
-curbash
+curbash 1
 coracomorphae
 chrysopoeia
 coracopectoral
