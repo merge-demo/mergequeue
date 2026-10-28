@@ -5888,7 +5888,7 @@ germfree
 gadder
 grues
 guadalcazarite
-glucoses
+glucoses 1
 glances
 gamdia
 glucoside
