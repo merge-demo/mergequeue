@@ -22176,7 +22176,7 @@ aristos
 asthenical
 arpeggiando
 arrowstone
-apetalousness
+apetalousness 1
 archeology 1
 asthenolith
 asthenology
