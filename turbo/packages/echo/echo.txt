@@ -4524,7 +4524,7 @@ egises
 ecclesiastic
 ejectamenta
 elevatedness
-externize
+externize 1
 encyclical
 enureses
 emplaned
