@@ -978,7 +978,7 @@ eastwards
 ethyl
 esoterics
 eyebalm
-exhumes
+exhumes 1
 excavatory
 eumitosis
 exocardia
