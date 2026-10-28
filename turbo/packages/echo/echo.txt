@@ -10151,7 +10151,7 @@ exsomatic
 edgier
 emmove
 earlyish
-exhausts
+exhausts 1
 embroideress
 electropotential
 emeraldine
