@@ -5889,7 +5889,7 @@ duplicity
 deprehend
 disprofit
 damsel
-diploptera
+diploptera 1
 dyscrasy
 depressed
 disaccustomed
