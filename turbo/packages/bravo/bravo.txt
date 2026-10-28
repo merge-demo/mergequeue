@@ -2840,7 +2840,7 @@ begalled
 bulkiest
 baudery
 barothermograph
-bowelling
+bowelling 1
 barotrauma
 bulgurs
 behowling
