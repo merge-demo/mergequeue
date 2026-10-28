@@ -12064,7 +12064,7 @@ enfolder
 excrescency
 eccentric
 eris
-excuseless
+excuseless 1
 extispex
 engrossingly
 endemisms
