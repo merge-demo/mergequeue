@@ -6363,7 +6363,7 @@ dermotropic
 dastardliness
 derms
 diacatholicon
-defined
+defined 1
 dioc
 ducula
 demurrable
