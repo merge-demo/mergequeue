@@ -18054,7 +18054,7 @@ dullardness
 dispauper
 dullards
 donatories
-dolerite
+dolerite 1
 downhills
 decreed
 delves 1
