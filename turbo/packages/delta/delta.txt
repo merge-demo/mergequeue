@@ -14401,7 +14401,7 @@ droiturel
 dispireme
 divergement
 distensible
-divergent
+divergent 1
 dissentient
 decrials
 diverse
