@@ -3691,7 +3691,7 @@ ghostfishes
 garrisonism
 gallinae
 gnathite
-goalmouth
+goalmouth 1
 gherkins
 gyrencephalic
 ghostier
