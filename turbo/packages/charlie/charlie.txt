@@ -15158,7 +15158,7 @@ construal
 covisit
 commanderies
 claye
-clayey
+clayey 1
 clayer
 contchar
 clayier
