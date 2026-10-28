@@ -11246,7 +11246,7 @@ bridgeable
 bescouring
 bullfight
 bewail
-burez
+burez 1
 brightening
 biod
 bertrand
