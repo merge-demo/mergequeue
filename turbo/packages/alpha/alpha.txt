@@ -14382,7 +14382,7 @@ antireaction
 aniseikonia
 antholite
 anthological
-anthologically
+anthologically 1
 anthologies
 autobiographies
 alberto
