@@ -6229,7 +6229,7 @@ glyptodontidae
 guilloche
 grimacier
 goatfishes
-gigmanic
+gigmanic 1
 gytrash
 gilbertine 1
 glissader
