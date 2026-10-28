@@ -6860,7 +6860,7 @@ dryobalanops
 dragnet
 diopside
 deadflat
-dynametric
+dynametric 1
 dhak
 deltic
 domesticative
