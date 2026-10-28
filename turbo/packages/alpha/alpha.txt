@@ -6625,7 +6625,7 @@ archsteward
 acc
 afterbeat
 astatizer
-assembles
+assembles 1
 anodynous
 apterous
 antivermicular
