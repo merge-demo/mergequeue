@@ -2363,7 +2363,7 @@ funerary
 floorward 1
 favel
 femineity
-frightener
+frightener 1
 futchell
 fanhouse
 feres
