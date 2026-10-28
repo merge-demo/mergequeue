@@ -19557,7 +19557,7 @@ clours
 cypraeiform
 columbate
 columbeion
-climath
+climath 1
 columbiad
 columbidae
 cobblestones
