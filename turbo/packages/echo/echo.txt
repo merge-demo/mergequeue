@@ -8377,7 +8377,7 @@ euphuist
 everylike
 epitomized
 epitomizes
-exhalable
+exhalable 1
 elytron
 electrohydraulically
 echiurus
