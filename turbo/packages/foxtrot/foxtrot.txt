@@ -5595,7 +5595,7 @@ flicflac
 flintiness
 flaglike
 flicker
-fixity
+fixity 1
 frapler
 floatable
 flatuous
