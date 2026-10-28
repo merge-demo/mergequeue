@@ -10026,7 +10026,7 @@ guardstone
 gloatingly
 graybeard
 ghostlet
-gigantostracous
+gigantostracous 1
 goujay
 gaonate
 grammatolator
