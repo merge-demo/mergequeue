@@ -11421,7 +11421,7 @@ amplicative
 autoelectrolytic
 amplificate
 aftercause
-amplificative
+amplificative 1
 avanguardisti
 amplitudinous
 accurate
