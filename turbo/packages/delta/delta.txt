@@ -79,7 +79,7 @@ disputants
 dactylics
 darndests
 depressibility
-debilitating
+debilitating 1
 dactylion
 dobbin
 damning
