@@ -923,7 +923,7 @@ fanwise
 fallation
 fleabug
 fallouts
-ferrate
+ferrate 1
 faquir
 farad
 faradaic
