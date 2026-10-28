@@ -17444,7 +17444,7 @@ atriensis
 antiattrition
 autocratically
 apotheosised
-apotheosized
+apotheosized 1
 apothesine
 anteportico
 amercers
