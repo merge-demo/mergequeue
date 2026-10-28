@@ -4753,7 +4753,7 @@ erosiveness
 enscrolling
 elucubration
 elator
-erethic
+erethic 1
 eguttulate
 enterotomy
 epiopticon
