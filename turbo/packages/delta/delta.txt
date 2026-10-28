@@ -2805,7 +2805,7 @@ desalination
 delphinus
 duodecahedron
 decrescent
-deknight
+deknight 1
 droller
 decretalist
 despumating
