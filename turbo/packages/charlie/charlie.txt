@@ -3732,7 +3732,7 @@ companeros
 caravel
 caravels
 carloading
-cosen
+cosen 1
 castelet
 caraway
 counterpoison
