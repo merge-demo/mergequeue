@@ -769,7 +769,7 @@ cuish
 cartouches
 centenionales
 caginess
-caginesses
+caginesses 1
 caesalpiniaceae
 cagit
 cagot
