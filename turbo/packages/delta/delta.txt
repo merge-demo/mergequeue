@@ -5482,7 +5482,7 @@ dorsiventrality
 doryphoros
 dews
 deoxygenated
-divestitures
+divestitures 1
 dilatation
 deoxyribonucleotide
 disportive
