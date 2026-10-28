@@ -12375,7 +12375,7 @@ counterstratagem
 chromes
 chromesthesia
 crabbers
-chromhidrosis
+chromhidrosis 1
 chromy
 cystostomy
 chromidae
