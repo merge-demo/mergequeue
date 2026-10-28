@@ -8391,7 +8391,7 @@ bilalo
 bacony
 beaverette
 bocage
-bonspell
+bonspell 1
 balolo
 bleareye
 bittium
