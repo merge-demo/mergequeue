@@ -19551,7 +19551,7 @@ czar
 cementin
 chlorazide
 capabilities
-columbaria
+columbaria 1
 columbaries
 clours
 cypraeiform
