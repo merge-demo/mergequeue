@@ -10440,7 +10440,7 @@ denaturate
 diphtheria
 diphtherian
 dogberrydom
-dewiest
+dewiest 1
 deda
 dotty
 diphtheric

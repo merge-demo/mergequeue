@@ -12405,7 +12405,7 @@ bonav
 bests
 bromelin
 bonbo
-bowerlike
+bowerlike 1
 bonbon
 betsimisaraka
 behap
