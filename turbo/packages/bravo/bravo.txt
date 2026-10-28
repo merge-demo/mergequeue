@@ -17188,7 +17188,7 @@ beewinged
 bullnoses
 bullnut
 beetroot
-bullock
+bullock 1
 brachialgia
 brachydodrome
 beduins
