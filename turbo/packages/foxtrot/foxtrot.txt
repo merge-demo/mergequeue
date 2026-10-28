@@ -11144,7 +11144,7 @@ freeings
 faiences
 floatation
 fiats
-frumperies
+frumperies 1
 flocculence
 fernlike
 foederal
