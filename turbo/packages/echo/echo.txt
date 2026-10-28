@@ -7828,7 +7828,7 @@ exsiccator
 elegiambic
 epicarps
 exoerythrocytic
-epigone
+epigone 1
 epithelium 1
 enterocoel
 exarchate
