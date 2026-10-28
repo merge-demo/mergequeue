@@ -8026,7 +8026,7 @@ ergs
 enterritoriality 1
 expilate
 eggar
-ease
+ease 1
 entoconid
 enstatitic
 easements
