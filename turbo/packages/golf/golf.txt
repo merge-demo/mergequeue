@@ -3233,7 +3233,7 @@ gigantism
 gametophytic
 goodhearted
 grainedness
-goldminer
+goldminer 1
 graywacke
 gruellers
 glucemia
