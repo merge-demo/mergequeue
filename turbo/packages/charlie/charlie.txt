@@ -12428,7 +12428,7 @@ chromogenesis
 cingulate
 chamaecrista
 cranemanship
-competently
+competently 1
 chromoisomer
 chromoisomeric
 chamaenerion
