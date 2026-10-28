@@ -4570,7 +4570,7 @@ benzylpenicillin
 bemingles
 bink
 betrunk
-buckteeth
+buckteeth 1
 bicellular
 backjaw
 bedarkening
