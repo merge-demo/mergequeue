@@ -1671,7 +1671,7 @@ braizes
 bambara
 bosnisch
 barbuts
-bestrews
+bestrews 1
 blandiloquious
 bogtrot
 boycotter
