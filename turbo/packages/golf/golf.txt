@@ -1062,7 +1062,7 @@ gambesons
 gentlewomanhood
 gipsology
 gomphiasis
-gradus
+gradus 1
 grays
 glossic
 gangplows
