@@ -5366,7 +5366,7 @@ existant
 embroidered
 embrighten
 ethylidene
-evicted
+evicted 1
 engorges
 envolupen
 evocatory
