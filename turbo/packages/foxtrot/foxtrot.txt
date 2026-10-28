@@ -616,7 +616,7 @@ forints
 feasted
 fogbank
 fourchette
-faddist
+faddist 1
 farrago
 flawy
 featherdom

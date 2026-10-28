@@ -15451,7 +15451,7 @@ diadumenus
 danker
 donaciform
 donack
-dowsed
+dowsed 1
 deduit
 dogless
 donat
