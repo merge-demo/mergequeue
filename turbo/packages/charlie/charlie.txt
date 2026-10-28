@@ -10784,7 +10784,7 @@ cleverality
 concameration
 carabaos
 chalkcutter
-chorisos
+chorisos 1
 castigatories
 cheeter
 chinners
