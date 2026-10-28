@@ -9471,7 +9471,7 @@ checkage
 capsulized
 cubited
 checkback
-checkbite
+checkbite 1
 checkbits
 checkbook
 chachalaca
