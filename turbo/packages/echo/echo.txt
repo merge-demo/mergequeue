@@ -14051,7 +14051,7 @@ extrathermodynamic
 emes
 economists
 excitonic
-extravagance
+extravagance 1
 extravagantly
 enchantingly
 euemerism
