@@ -231,7 +231,7 @@ anis
 anhungered
 antiritual
 antisensitizer
-allokinesis
+allokinesis 1
 alchemistical
 adipolytic
 ajourise
