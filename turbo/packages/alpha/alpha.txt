@@ -15420,7 +15420,7 @@ abrasion
 argonaut
 aggrandisement
 antilithic
-antilitter
+antilitter 1
 antiliturgy
 aspiculous
 amla
