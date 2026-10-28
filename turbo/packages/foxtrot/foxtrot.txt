@@ -991,7 +991,7 @@ financialist
 forethinking
 foresaid
 flywheel
-foldable
+foldable 1
 fervid
 fishing
 flustering
