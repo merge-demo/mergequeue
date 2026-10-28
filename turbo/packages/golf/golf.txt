@@ -4363,7 +4363,7 @@ gemstone
 galaxies
 greener
 gravestead
-glossata
+glossata 1
 globules
 gharries
 gumbotil
