@@ -24178,7 +24178,7 @@ autoindexing
 autoinfusion
 angel
 autoinoculable
-antiritualism
+antiritualism 1
 aldermanries
 abrus
 anquera
