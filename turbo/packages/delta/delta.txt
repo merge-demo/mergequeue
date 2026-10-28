@@ -14426,7 +14426,7 @@ depreciatory
 demeter
 diversory
 disfiguringly
-droops
+droops 1
 dimethylamine
 dioptrometer
 dasyphyllous
