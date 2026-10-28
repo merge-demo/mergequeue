@@ -10487,7 +10487,7 @@ depthless
 dacryocystorhinostomy
 decurvation
 discorder
-derangeable
+derangeable 1
 delaminate
 diphaser
 divinize
