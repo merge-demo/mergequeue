@@ -14702,7 +14702,7 @@ disexercise
 dotlike
 discarnation
 difflation
-diaristic
+diaristic 1
 debruise
 discommission
 dibrach
