@@ -5988,7 +5988,7 @@ greaten
 guerrillaship
 grossulariaceous
 gluemaker
-globalize
+globalize 1
 glutinative
 granuloadipose
 gingelies
