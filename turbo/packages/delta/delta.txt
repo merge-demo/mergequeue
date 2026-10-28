@@ -15396,7 +15396,7 @@ disanoint
 dolichoprosopic
 dimity 1
 daisycutter
-diapophysial
+diapophysial 1
 directing
 dilators
 diastema
