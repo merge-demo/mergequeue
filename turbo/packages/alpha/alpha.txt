@@ -19875,7 +19875,7 @@ attributives
 armiger
 aweto
 armigeros
-armigerous
+armigerous 1
 aeroneurosis
 autotomized
 ampullulae
