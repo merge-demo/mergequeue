@@ -3543,7 +3543,7 @@ epigonus
 embolize
 eupeptic
 epididymal
-entocone
+entocone 1
 enervator
 exceeder
 equoid
