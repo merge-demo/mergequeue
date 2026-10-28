@@ -10717,7 +10717,7 @@ euhyostylic
 eukairite
 enfavor
 eaver
-erasable
+erasable 1
 enwraps
 exhumate
 exedra
