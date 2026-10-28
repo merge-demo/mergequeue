@@ -14183,7 +14183,7 @@ achlamydate
 assonantly
 acinetarian
 aphtha
-artocarpaceae
+artocarpaceae 1
 amani
 antepectus
 anthropopsychic
