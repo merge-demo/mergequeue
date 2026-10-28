@@ -12603,7 +12603,7 @@ equipped
 encincturing
 emeralds
 essancia
-elateroid
+elateroid 1
 egurgitating
 excussio
 exoenzyme
