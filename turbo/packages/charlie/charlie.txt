@@ -12064,7 +12064,7 @@ chout
 culturist
 chowanoc
 chowchows
-clockwork
+clockwork 1
 chowhound
 coapprehend
 consume
