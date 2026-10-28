@@ -7045,7 +7045,7 @@ enzymolytic
 excitomuscular
 encompassed
 epris
-exemptile
+exemptile 1
 earthfast
 experiencer
 enumeration
