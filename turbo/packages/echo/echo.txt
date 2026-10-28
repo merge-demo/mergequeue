@@ -13840,7 +13840,7 @@ engenderer
 enscale
 euchroite
 emplaces
-effacing
+effacing 1
 erepsins
 encarditis
 elytrigerous
