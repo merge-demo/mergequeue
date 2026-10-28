@@ -2478,7 +2478,7 @@ electrohemostasis
 endearing
 eburnation
 ebony
-epicleses
+epicleses 1
 enterochromaffin
 endexines
 emotionalise
