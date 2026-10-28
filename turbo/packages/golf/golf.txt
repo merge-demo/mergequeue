@@ -2588,7 +2588,7 @@ gemmification
 gunpapers
 gyrohorizon
 greillade
-glaucine
+glaucine 1
 glamourization
 gesticular
 grisette
