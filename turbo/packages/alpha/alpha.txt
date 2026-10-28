@@ -17630,7 +17630,7 @@ appentice
 agrobiological
 adjudges
 attaining
-adjudgeable
+adjudgeable 1
 acetic
 antimask
 antiphonical
