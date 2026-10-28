@@ -549,7 +549,7 @@ debacle
 damars
 decoratory
 devocate
-doesnt
+doesnt 1
 delivers
 dromon
 disbursable
