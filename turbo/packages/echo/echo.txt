@@ -5646,7 +5646,7 @@ exquisitism
 enframed
 elaphebolion
 ethnarch
-ellipsonic
+ellipsonic 1
 enfranchisements
 epididymis
 estrif
