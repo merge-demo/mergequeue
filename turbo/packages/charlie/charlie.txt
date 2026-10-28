@@ -9348,7 +9348,7 @@ cartograph
 chauvin
 close
 catery
-coelacanth
+coelacanth 1
 chauvinism
 chauvinist
 chauvinistic
