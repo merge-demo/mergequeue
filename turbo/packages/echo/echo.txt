@@ -13439,7 +13439,7 @@ expressway
 existentialists
 exencephalous
 epoch
-endocranial
+endocranial 1
 euprepia
 embolomerous
 expropriable
