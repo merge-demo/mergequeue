@@ -22394,7 +22394,7 @@ coni
 counterjudging
 conia
 cosmogonal
-conic
+conic 1
 conical
 canajong
 cataloguish
