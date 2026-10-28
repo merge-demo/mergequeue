@@ -738,7 +738,7 @@ dice
 dealcoholization
 drabby 1
 dishabilitation
-dentosurgical
+dentosurgical 1
 dandie
 doubtless
 depeche
