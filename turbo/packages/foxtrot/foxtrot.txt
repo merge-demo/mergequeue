@@ -9182,7 +9182,7 @@ floaters
 fascinations
 foveoles
 footled
-fries
+fries 1
 fragileness
 forenames
 forbarred
