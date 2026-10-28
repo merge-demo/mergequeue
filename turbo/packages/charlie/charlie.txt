@@ -9056,7 +9056,7 @@ charnu
 colorfastness
 conglomeratic
 ceratostomella
-compartmentalized
+compartmentalized 1
 culturalist
 cardplayer
 coleophora
