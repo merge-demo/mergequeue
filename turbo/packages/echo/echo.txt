@@ -10339,7 +10339,7 @@ endorsement
 englacially
 excitability
 exhibitive
-encoder
+encoder 1
 ellagic
 eloign
 ethylamime
