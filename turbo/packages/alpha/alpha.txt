@@ -3710,7 +3710,7 @@ amies
 archidiaceae
 antilogarithmic
 alloted
-addibility
+addibility 1
 abrenounce
 alliteration
 antiquity
