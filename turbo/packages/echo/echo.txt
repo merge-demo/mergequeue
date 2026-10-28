@@ -7388,7 +7388,7 @@ explosion
 ensculpture
 entasia
 exsanguineous
-epenla
+epenla 1
 edgings
 epentheses
 exotic
