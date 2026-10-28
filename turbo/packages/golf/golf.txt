@@ -10040,7 +10040,7 @@ gleans
 geometrised
 gazebos
 glaistig
-gammation
+gammation 1
 gargoyles
 gnathonic
 greasing 1
