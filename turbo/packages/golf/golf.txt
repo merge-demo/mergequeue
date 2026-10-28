@@ -1040,7 +1040,7 @@ gossamer 1
 gashed 1
 garvock
 gerardias
-gorgonin
+gorgonin 1
 ganglioid
 ganglioma
 gangliomas
