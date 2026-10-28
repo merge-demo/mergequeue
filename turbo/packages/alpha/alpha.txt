@@ -10922,7 +10922,7 @@ alf
 affronter
 allamoth
 antiphilosophy
-amerindic
+amerindic 1
 allegorical
 amniocentesis
 amniochorial
