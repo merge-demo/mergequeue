@@ -11067,7 +11067,7 @@ expunging
 endosome
 edo 1
 egoity
-exulceratory
+exulceratory 1
 empower
 ekacaesium
 epaule
