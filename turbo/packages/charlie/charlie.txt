@@ -7012,7 +7012,7 @@ cuvette
 centaurea
 cyanus
 carretta
-cantoned
+cantoned 1
 clitellum
 centauress
 centaury

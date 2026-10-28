@@ -1124,7 +1124,7 @@ foes
 fluster
 forbade
 familiarizing
-fervidness
+fervidness 1
 fusileer
 frizzling
 farthing
