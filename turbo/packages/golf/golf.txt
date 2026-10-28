@@ -6378,7 +6378,7 @@ glimmered
 gunmetals
 granolithic
 geotectology
-gossaniferous
+gossaniferous 1
 gog
 gamin
 graymill

@@ -4010,7 +4010,7 @@ ankuses
 advect
 aphaeresis
 admerveylle
-allocate
+allocate 1
 admi
 anhydrously
 apopemptic
