@@ -10014,7 +10014,7 @@ encollar
 electrodiagnostically
 extrorsal
 electrodiagnostic
-expellable
+expellable 1
 ethanal
 esoterical
 eternalize
