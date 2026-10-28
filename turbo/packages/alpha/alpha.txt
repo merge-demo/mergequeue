@@ -20984,7 +20984,7 @@ ascelli
 ascellus
 ascend
 ascendable
-amortisseur
+amortisseur 1
 ahtena
 aeolharmonica
 antirust
