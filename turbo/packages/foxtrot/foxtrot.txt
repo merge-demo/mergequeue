@@ -4269,7 +4269,7 @@ floridians
 flaxbird
 fax
 feverish
-fungose
+fungose 1
 flatterers
 frenzying
 flossing
