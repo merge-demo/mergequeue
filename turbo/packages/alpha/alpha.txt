@@ -3545,7 +3545,7 @@ aragonese
 adducer
 abjoint
 adduces
-auricles
+auricles 1
 adducible
 apperceptively
 ampelideous
