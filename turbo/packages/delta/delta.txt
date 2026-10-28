@@ -9609,7 +9609,7 @@ dotation
 dupers
 dihydrochloride
 draconin
-duplicable
+duplicable 1
 devastations
 decolourizer
 dishonestly
