@@ -12598,7 +12598,7 @@ elephantidae
 epiphysitis
 equiaxial
 epexegeses
-exodic
+exodic 1
 equipped
 encincturing
 emeralds
