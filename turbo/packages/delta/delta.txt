@@ -9440,7 +9440,7 @@ doomfulness
 delaw
 doppelganger
 davidsonite
-dozener
+dozener 1
 digeneous
 decubitus
 dissert
