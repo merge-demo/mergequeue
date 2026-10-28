@@ -10884,7 +10884,7 @@ foreskins
 feston
 fango
 freestone
-flayer
+flayer 1
 fullish
 foeman
 frigorifico
