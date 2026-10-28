@@ -26389,7 +26389,7 @@ cling
 cans
 coteen
 cotele
-curlers
+curlers 1
 cotemporanean
 cotemporaneously
 cotemporaries
