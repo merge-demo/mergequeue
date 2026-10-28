@@ -10321,7 +10321,7 @@ dowsing
 dentata
 diurons
 derelictly
-degeneracy
+degeneracy 1
 dioramic
 diordinal
 disgregation
