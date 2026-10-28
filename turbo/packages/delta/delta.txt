@@ -3668,7 +3668,7 @@ dropworts
 degraduate
 digitinervate
 degravate
-demipike
+demipike 1
 degreaser
 dacryohemorrhea
 degreases
