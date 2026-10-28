@@ -9504,7 +9504,7 @@ digged
 deuterostome
 demonstrational
 dighted
-dighter
+dighter 1
 digraphic
 dynamogeny
 dialysers
