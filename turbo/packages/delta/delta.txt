@@ -153,7 +153,7 @@ dudler
 delapse
 deciduary
 daemonistic
-disconducive
+disconducive 1
 decarboxylated
 depopulates
 dewtry
