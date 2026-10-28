@@ -2902,7 +2902,7 @@ flaughts
 flutiest 1
 fanciable
 fumigations
-fortressing
+fortressing 1
 footmark
 frizzen
 factoring
