@@ -1297,7 +1297,7 @@ calgary
 caliban
 cunea
 calaverite
-caliber
+caliber 1
 compulsatory
 calibers
 colunar
