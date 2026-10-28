@@ -15533,7 +15533,7 @@ classable
 coplanarity
 classbook
 conquinine
-cyclicism
+cyclicism 1
 classers
 classfellow
 classy
