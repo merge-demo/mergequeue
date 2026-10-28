@@ -24650,7 +24650,7 @@ calliperer
 coplanarities
 cavern
 cozinesses
-copleased
+copleased 1
 coplot
 comoquer
 cauqui
