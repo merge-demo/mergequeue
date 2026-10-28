@@ -28741,7 +28741,7 @@ constringe
 coincides
 crepy
 crepiest
-crepine
+crepine 1
 creping
 crepis
 crepitated
