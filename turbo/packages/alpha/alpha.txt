@@ -12386,7 +12386,7 @@ alternateness
 apophysial
 abruptly
 andirin
-athletic
+athletic 1
 anopisthograph
 abscession
 alternativity
