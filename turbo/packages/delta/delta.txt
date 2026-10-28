@@ -2630,7 +2630,7 @@ discontinues
 decoloring
 disavowed
 diogenes
-deforce
+deforce 1
 dispose
 decolors
 duopsonies
