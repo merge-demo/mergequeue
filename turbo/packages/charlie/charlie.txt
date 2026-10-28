@@ -8507,7 +8507,7 @@ cid
 copybook
 chancellors
 califates
-chancellorship
+chancellorship 1
 chancellorships
 capillaire
 calathidium
