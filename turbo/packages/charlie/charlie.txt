@@ -12445,7 +12445,7 @@ clarioned
 chromolith
 colent
 chromolithic
-concanavalin
+concanavalin 1
 chromolithography
 chromolithographic
 chromomere
