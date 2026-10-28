@@ -2246,7 +2246,7 @@ endoplasma
 epigonos
 exhume
 encyclopedian
-encell
+encell 1
 epauletted
 electragy
 excessive
