@@ -25255,7 +25255,7 @@ azygobranchiate
 allemontite
 adjudicate
 azygote
-armfuls
+armfuls 1
 antimonopolization
 actuaries
 amenity
