@@ -799,7 +799,7 @@ earthmaking
 expiated
 exodus
 epeira
-eurytopic
+eurytopic 1
 encephalography
 enter
 euplotid
