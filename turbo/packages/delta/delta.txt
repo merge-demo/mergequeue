@@ -8654,7 +8654,7 @@ diffused
 dato
 doomlike
 delfs
-diascope
+diascope 1
 domed
 distracted
 didactyl
