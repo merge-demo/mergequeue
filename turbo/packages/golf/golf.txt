@@ -6223,7 +6223,7 @@ grivois 1
 gossipdom
 gamblesome
 gardener
-geomyidae
+geomyidae 1
 guahibo
 glyptodontidae
 guilloche
