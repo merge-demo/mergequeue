@@ -4322,7 +4322,7 @@ gloeosporiose
 globosity
 gawks
 geodesist
-galeopsis
+galeopsis 1
 gingered
 goniostat
 glendover
