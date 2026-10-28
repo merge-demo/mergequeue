@@ -10532,7 +10532,7 @@ ghillie
 goshawks
 guillemot
 griffinhood
-glob
+glob 1
 gossipingly
 gudesakes
 gentamicin
