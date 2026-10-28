@@ -16550,7 +16550,7 @@ draggier
 diacritics
 destinies
 dyotheletian
-disendows
+disendows 1
 dyscrased
 delomorphous
 dodecarchy
