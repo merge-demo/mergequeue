@@ -26053,7 +26053,7 @@ chestiness
 cupreine
 coshery
 coshers
-cholralosed
+cholralosed 1
 coshes
 coshing
 campine
