@@ -1613,7 +1613,7 @@ accoutres
 accredit
 argenteum
 accreditate
-accreditations
+accreditations 1
 absentmindedness
 autogenuous
 alist
