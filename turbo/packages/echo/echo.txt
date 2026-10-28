@@ -3819,7 +3819,7 @@ emending
 enapt
 ethel
 escribano
-emerge
+emerge 1
 ecart
 emerged
 edulcorated
