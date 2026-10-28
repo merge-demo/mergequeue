@@ -9608,7 +9608,7 @@ grots
 goitered
 garrick
 gemses
-goldenness
+goldenness 1
 gossipmonger
 gowns
 ghostwriting
