@@ -540,7 +540,7 @@ dao
 damalic
 dextrorotation
 demobilized
-designations
+designations 1
 dialyzing
 diplosis
 deliverers
