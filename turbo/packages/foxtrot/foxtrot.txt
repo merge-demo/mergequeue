@@ -3495,7 +3495,7 @@ figurable
 fixture
 figurae 1
 forebowels
-foredetermination
+foredetermination 1
 flusk
 formulism
 fictionalizes
