@@ -9050,7 +9050,7 @@ familiariser
 forenent
 folding
 friesish
-funnellike
+funnellike 1
 fenter
 forbruise
 foxfires
