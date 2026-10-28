@@ -8295,7 +8295,7 @@ chalkiness
 chalking
 chalklike
 chalkline
-columnated
+columnated 1
 chalkone
 chalkos
 chalkotheke
