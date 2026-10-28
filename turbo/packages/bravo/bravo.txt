@@ -9646,7 +9646,7 @@ brandyman
 bushily
 bisymmetrical
 borate
-bisync
+bisync 1
 boolies
 bicornute
 bisischiatic
