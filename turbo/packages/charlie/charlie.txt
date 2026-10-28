@@ -8249,7 +8249,7 @@ cappae
 coadunation
 chalcomenite
 chalcone
-chalcopyrite
+chalcopyrite 1
 chalcosine
 calyptrogyne
 crocodilite
