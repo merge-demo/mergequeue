@@ -10085,7 +10085,7 @@ gudgeon
 grobianism 1
 glycosidic
 gullage
-gauntest
+gauntest 1
 graecize
 gainings
 gymnoglossate
