@@ -8181,7 +8181,7 @@ flockbed
 foods
 foghorn
 forewings
-fichus
+fichus 1
 flossed
 frenate
 furtherances
