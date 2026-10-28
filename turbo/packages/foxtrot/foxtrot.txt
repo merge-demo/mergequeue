@@ -5920,7 +5920,7 @@ foeticidal 1
 flybane
 formose
 foveola
-firker
+firker 1
 freyr
 factitude
 familic
