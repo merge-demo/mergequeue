@@ -4156,7 +4156,7 @@ engraphy
 eyeroot
 escaloped
 echiurida
-enacted
+enacted 1
 etuve
 epitheliolysin
 emanant
