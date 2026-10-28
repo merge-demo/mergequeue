@@ -616,7 +616,7 @@ electrodialyze
 euro
 eciton
 eversions
-entertained
+entertained 1
 eclaircissement
 epeus
 edgeways
