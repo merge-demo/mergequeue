@@ -6791,7 +6791,7 @@ degenerations
 distruster
 desirer
 drachma
-daira
+daira 1
 dihedrons
 decomposable
 desirousness
