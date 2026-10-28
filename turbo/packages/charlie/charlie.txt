@@ -15080,7 +15080,7 @@ clack
 clackama
 chinsed
 clacker
-clackety
+clackety 1
 coexertion
 clacking
 contumacity
