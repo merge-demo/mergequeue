@@ -3050,7 +3050,7 @@ gizmos
 gaolbird
 gaga
 geadephagous
-glowworms
+glowworms 1
 greylags
 gucki
 geocline
