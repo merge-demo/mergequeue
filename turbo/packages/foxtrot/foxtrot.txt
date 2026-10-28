@@ -10676,7 +10676,7 @@ fibular
 feverfews
 facetted
 furcated
-fainting
+fainting 1
 fylfot
 foxy
 felsophyre
