@@ -1626,7 +1626,7 @@ cylindraceous
 centrobaric
 crureus
 calmest
-calmier
+calmier 1
 calmiest
 compiling
 coeducationally
