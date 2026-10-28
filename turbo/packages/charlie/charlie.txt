@@ -26291,7 +26291,7 @@ costiveness
 changeableness
 chumship
 calliper
-costlessness
+costlessness 1
 csk
 ceston
 cervicicardiac
