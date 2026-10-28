@@ -5820,7 +5820,7 @@ buqshas
 burnettizing
 bromometry
 biltong
-belligerents
+belligerents 1
 buildress
 boxcar
 bullsnake
