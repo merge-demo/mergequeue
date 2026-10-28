@@ -6771,7 +6771,7 @@ entitatively
 enamor
 entitle
 elixed
-evangelistarion
+evangelistarion 1
 enculturating
 ecclesioclastic
 entoblastic
