@@ -5823,7 +5823,7 @@ exion
 emulatory
 etherizing
 efficace
-electrovalency
+electrovalency 1
 exfoliation
 erlkings
 epicele
