@@ -9523,7 +9523,7 @@ escrow 1
 escrowing
 emancipatist
 esculents
-exocyclica
+exocyclica 1
 ethnog
 eightballs
 esculin
