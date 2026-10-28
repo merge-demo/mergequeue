@@ -7786,7 +7786,7 @@ granularly
 grumbletonian
 gnomish
 gralline
-goofer
+goofer 1
 gutnic
 gadman
 gondoliere
