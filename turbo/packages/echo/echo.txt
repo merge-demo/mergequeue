@@ -7936,7 +7936,7 @@ exordia
 epimandibular
 enthrone
 epimanikia
-equivocatory
+equivocatory 1
 estragol
 ensilation
 expounds
