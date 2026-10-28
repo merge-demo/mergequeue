@@ -15008,7 +15008,7 @@ distinctify
 determ
 doggerelism
 doggerelist
-desperate
+desperate 1
 doggerelizing
 depots
 diphthongising
