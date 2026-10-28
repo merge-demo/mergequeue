@@ -11821,7 +11821,7 @@ deuteroprism
 diamines
 discurre
 dioestrus
-dihalo
+dihalo 1
 dislikable
 deplumed
 dbl
