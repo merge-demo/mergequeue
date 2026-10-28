@@ -8378,7 +8378,7 @@ bias
 bikkurim
 biosynthetically
 brickyard
-balkier
+balkier 1
 biogenous
 blackwood
 biotherapy
