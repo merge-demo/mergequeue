@@ -1199,7 +1199,7 @@ gastroatrophia
 genesiacal
 griot
 gradations
-globular
+globular 1
 guestive
 guttate
 garfishes
