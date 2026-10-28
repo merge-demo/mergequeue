@@ -1844,7 +1844,7 @@ gilgai
 goofy
 geodic
 gourmandism
-galacturia
+galacturia 1
 gardenwise
 gentilesse
 grabber
