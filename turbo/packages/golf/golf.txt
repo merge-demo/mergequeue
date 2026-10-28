@@ -9998,7 +9998,7 @@ gubernatrix
 goodsome
 geophysically
 gogglier
-graveness
+graveness 1
 gargled
 gleaner
 gelatinify
