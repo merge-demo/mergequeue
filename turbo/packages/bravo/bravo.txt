@@ -17609,7 +17609,7 @@ beguine
 bottomlessly
 burghers
 burgraves
-bullocker
+bullocker 1
 bureaucratized
 bowdlerized
 burring
