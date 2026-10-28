@@ -6006,7 +6006,7 @@ drayages
 dulcarnon
 dicliny
 drabber
-depuratory
+depuratory 1
 decimalize
 depure
 distortedly
