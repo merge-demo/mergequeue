@@ -5457,7 +5457,7 @@ exospheres
 eigenstate
 entitledness
 edematous
-energical
+energical 1
 energid
 ensuing
 endoplasmic
