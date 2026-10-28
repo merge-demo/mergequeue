@@ -5635,7 +5635,7 @@ elicitable
 enform
 ergometric
 enfort
-embarrasses
+embarrasses 1
 epicritic
 enforth
 estrangle
