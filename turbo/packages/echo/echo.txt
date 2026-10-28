@@ -887,7 +887,7 @@ euphonies
 engineries
 elle
 ectoplastic
-elusiveness
+elusiveness 1
 enucleation
 endore
 evilspeaker
