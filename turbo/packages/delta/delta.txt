@@ -194,7 +194,7 @@ daedalous
 divulgated
 defilable
 decontamination
-daemony
+daemony 1
 deforesting
 debitumenize
 duplify
