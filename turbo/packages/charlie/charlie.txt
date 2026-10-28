@@ -15944,7 +15944,7 @@ clerestoried
 cliched
 cinchonizing
 clergy
-clergyable
+clergyable 1
 cotoneaster
 clergylike
 cyclos
