@@ -4738,7 +4738,7 @@ estranging
 endosmosic
 ebulliometry
 epistler
-entomophytous
+entomophytous 1
 establishments
 exploratory
 extracardial
