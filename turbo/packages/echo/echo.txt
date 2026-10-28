@@ -959,7 +959,7 @@ equilibristic
 escandalize
 expulser
 embalming
-euchrone
+euchrone 1
 effronteries
 erythroblastotic
 elixirs
