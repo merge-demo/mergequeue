@@ -1956,7 +1956,7 @@ gweduck
 goring
 grubroot
 glut
-gravelling
+gravelling 1
 gripes
 grudged
 gregarinous
