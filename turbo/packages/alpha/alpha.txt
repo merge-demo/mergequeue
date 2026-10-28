@@ -10093,7 +10093,7 @@ allergology
 amblygonite
 attractant
 absinthic
-amblyomma
+amblyomma 1
 abrupt
 adrenal
 arles
