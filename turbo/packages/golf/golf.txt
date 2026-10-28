@@ -4234,7 +4234,7 @@ glairiness
 grovelling
 geographized
 gumptionless
-galban
+galban 1
 gratitude
 gadaea
 grumph
