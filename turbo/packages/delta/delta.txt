@@ -2624,7 +2624,7 @@ decoke
 decoll
 deguelia
 dumbcow
-dispensaries
+dispensaries 1
 displeaser
 discontinues
 decoloring
