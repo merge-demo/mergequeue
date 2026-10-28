@@ -1490,7 +1490,7 @@ eclegme
 escadrille
 effusively
 entasias
-effuviate
+effuviate 1
 efl
 efph
 erringly
