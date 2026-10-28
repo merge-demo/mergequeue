@@ -6145,7 +6145,7 @@ easters
 enmity
 eparchean
 entracte
-embattles
+embattles 1
 ethicizes
 enmove
 ethnomusicological
