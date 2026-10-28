@@ -8039,7 +8039,7 @@ enteroscope
 ealdormen
 exogens
 epiphanous
-expansiveness
+expansiveness 1
 expiator
 encrinital
 embarred
