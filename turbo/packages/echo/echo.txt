@@ -6558,7 +6558,7 @@ episcopant
 excusive
 eccritic
 eightieths
-embattled
+embattled 1
 epimedium
 enorthotrope
 eohippuses
