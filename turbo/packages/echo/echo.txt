@@ -4887,7 +4887,7 @@ extrabureau
 extratorrid
 english
 erythroneocytosis
-encumbrous
+encumbrous 1
 evolves
 eyednesses
 enterocoelic
