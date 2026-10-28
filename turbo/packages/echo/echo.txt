@@ -6922,7 +6922,7 @@ erected
 entoptic
 entoptics
 evections
-expense
+expense 1
 embargoed
 ebullate
 evangelicality
