@@ -10856,7 +10856,7 @@ furoin
 fishpool
 fusarium
 forficate
-flaminian
+flaminian 1
 fortified
 fumblingly
 fontal
