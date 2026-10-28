@@ -20639,7 +20639,7 @@ aduncity
 arthroneuralgia
 articulite
 aetiology
-arthropathic
+arthropathic 1
 assamese
 anapnograph
 arthrophlogosis
