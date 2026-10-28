@@ -10616,7 +10616,7 @@ flaxwoman
 forerunner
 farceurs
 flative
-forseen
+forseen 1
 fractile
 franc 1
 frontalis
