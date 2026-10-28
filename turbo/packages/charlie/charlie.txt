@@ -2422,7 +2422,7 @@ cambeva
 corroborators
 convenes
 chetive
-chastize
+chastize 1
 cancerigenic
 catechol
 cancerism
