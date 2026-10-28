@@ -7595,7 +7595,7 @@ fgn
 fructuarius
 funiculus
 fanciers
-flintworker
+flintworker 1
 freezable
 fervors
 forril
