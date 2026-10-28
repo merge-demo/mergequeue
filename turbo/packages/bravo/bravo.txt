@@ -15652,7 +15652,7 @@ brits
 bridlewise
 belgic
 boza
-brittany
+brittany 1
 brittle
 begrime
 bunkos
