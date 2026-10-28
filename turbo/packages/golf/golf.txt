@@ -575,7 +575,7 @@ geohydrology
 gynaecocoenic
 globelet
 gladding
-gallicizer
+gallicizer 1
 galliform
 gomphrena
 gabfest
