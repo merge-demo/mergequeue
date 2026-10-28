@@ -10950,7 +10950,7 @@ bellhop
 batement
 benchmar
 blinkingly
-blinter
+blinter 1
 bathyorographical
 blintzes
 blacksmiths
