@@ -4403,7 +4403,7 @@ encapsuling
 endurability
 encaptivate
 essence
-expectorate
+expectorate 1
 ecgonine
 electrophotometry
 eternized
