@@ -10947,7 +10947,7 @@ envoy
 eggy
 eupotamic
 enterocentesis
-encoignure
+encoignure 1
 elevators
 equivocalness
 echiurid
