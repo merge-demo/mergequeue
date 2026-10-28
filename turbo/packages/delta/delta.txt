@@ -2781,7 +2781,7 @@ docudrama
 decreasingly
 dieresis
 dairymen
-deltoideus
+deltoideus 1
 decreer
 deordination
 decurrently
