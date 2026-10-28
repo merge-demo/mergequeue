@@ -18340,7 +18340,7 @@ detonate
 duodecastyle
 duodecennial 1
 duodecillions
-doxy
+doxy 1
 dreng
 dryas
 didachist
