@@ -7372,7 +7372,7 @@ glyoxime
 galline
 gomarite
 germanous
-gleamier
+gleamier 1
 gamotropism
 grumps
 globated
