@@ -8487,7 +8487,7 @@ enregiment
 enhemospore
 escarmouche 1
 everness
-epileptoid
+epileptoid 1
 ergatandrous
 exterminators
 enthronised
