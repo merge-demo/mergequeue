@@ -4786,7 +4786,7 @@ glorifies 1
 geisa
 governorship
 galgal
-gweducks
+gweducks 1
 gargoylishly
 gangliar
 gobiiform
