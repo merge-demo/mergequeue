@@ -929,7 +929,7 @@ extracorporeal
 exarillate
 eyelashes
 efreet
-ensisternal
+ensisternal 1
 equipping
 endowments
 endorsements
