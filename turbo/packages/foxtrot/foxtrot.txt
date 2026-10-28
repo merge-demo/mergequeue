@@ -6603,7 +6603,7 @@ fascioliasis
 flagrante
 frogfish
 forestless
-flapperism
+flapperism 1
 forestaffs
 flirtier
 forecondemn
