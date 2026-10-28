@@ -5774,7 +5774,7 @@ dowve
 disimitation
 demipuppet
 dicyanodiamide
-dovekeys
+dovekeys 1
 decaliter
 deportability
 deportations
