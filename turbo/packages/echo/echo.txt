@@ -2187,7 +2187,7 @@ elderliness
 editorship
 exponentiated
 expect
-enchurch
+enchurch 1
 eliminating
 epimyocardial
 eths
