@@ -14002,7 +14002,7 @@ cecca
 crimp
 comtes
 cleve
-confinement
+confinement 1
 cypraeoid
 cypre
 cypress
