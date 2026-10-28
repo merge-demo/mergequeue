@@ -9749,7 +9749,7 @@ buffered
 bistipulate 1
 bistort
 bedarkened
-bistorts
+bistorts 1
 beetlehead
 bistred
 balcony
