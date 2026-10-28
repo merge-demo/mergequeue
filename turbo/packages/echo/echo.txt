@@ -6859,7 +6859,7 @@ earwaxes
 esthesiography
 eucryptite
 epic
-exasperating
+exasperating 1
 electrochemical
 egoistically
 entomophthorales
