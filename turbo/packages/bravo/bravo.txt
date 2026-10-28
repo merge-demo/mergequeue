@@ -12274,7 +12274,7 @@ boltlike
 blindling
 beaupers
 boltmaker
-bunga
+bunga 1
 blee
 bombaster
 bowfront
