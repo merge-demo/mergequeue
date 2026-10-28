@@ -6669,7 +6669,7 @@ albedos
 accidential
 audible
 acarol
-autosign
+autosign 1
 anthropotoxin
 asteam
 ailuridae
