@@ -7229,7 +7229,7 @@ decemvirate
 duffels
 digitate
 decertify
-dolorous
+dolorous 1
 damnified
 detection
 diamantiferous
