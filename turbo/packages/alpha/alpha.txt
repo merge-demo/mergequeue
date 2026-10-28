@@ -10526,7 +10526,7 @@ adscript
 amidins
 archizoic
 anneal
-arret
+arret 1
 amidism
 acridid
 armenians
