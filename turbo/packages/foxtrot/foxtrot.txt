@@ -7011,7 +7011,7 @@ foreaccustom
 flexions
 fichtean
 filla
-frison
+frison 1
 fondues
 fictionistic
 fusees
