@@ -627,7 +627,7 @@ falsehood
 flosculet
 frazil
 fertility
-faintingly
+faintingly 1
 fluctiferous
 flavorless
 frighter
