@@ -11015,7 +11015,7 @@ elemol
 elapoid
 euhages
 enisle
-encurtain
+encurtain 1
 euangiotic
 epipial
 eyne
