@@ -10604,7 +10604,7 @@ finched
 fairfieldite
 fructuate
 flucan
-forcipulate
+forcipulate 1
 fishifying
 frostroot
 fontinalaceae
