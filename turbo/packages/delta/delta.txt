@@ -11882,7 +11882,7 @@ distinguished
 dalliance
 dedifferentiated
 dropsical
-defrosters
+defrosters 1
 dramm
 demibrigade
 dhunchi
