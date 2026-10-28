@@ -10498,7 +10498,7 @@ chiliadron
 chiliads
 calcaneocuboid
 capacitation
-connexity
+connexity 1
 chiliahedron
 chiliarchia
 chiliast
