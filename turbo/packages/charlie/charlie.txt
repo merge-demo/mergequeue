@@ -2829,7 +2829,7 @@ canon
 churlish
 canones
 cardooer
-canonesses
+canonesses 1
 canonicalization
 cinctures
 canonicalized
