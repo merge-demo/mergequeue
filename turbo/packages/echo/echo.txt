@@ -3075,7 +3075,7 @@ eardrop
 exor
 esthetes
 endarterium
-entwined
+entwined 1
 entellus
 escar 1
 et
