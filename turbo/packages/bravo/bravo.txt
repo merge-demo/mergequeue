@@ -10008,7 +10008,7 @@ bushranger
 bedeviled
 battuto
 becrusted
-boors
+boors 1
 benefiter
 bywalking
 bilateral
