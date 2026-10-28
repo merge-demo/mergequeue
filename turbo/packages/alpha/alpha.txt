@@ -9561,7 +9561,7 @@ arenig
 altimeters
 aspidomancy
 anthema
-alchemistry
+alchemistry 1
 ammocetes
 anoegenetic
 altimetrically
