@@ -1714,7 +1714,7 @@ embolon
 employ
 empressements
 epistilbite
-ejective
+ejective 1
 evang
 eyeground
 encephaloid
