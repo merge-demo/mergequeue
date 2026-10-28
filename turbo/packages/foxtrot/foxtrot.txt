@@ -9355,7 +9355,7 @@ foretimed
 fritillaria
 federator
 frigatoon
-fascinates
+fascinates 1
 flocculant
 forbodes
 fleecier
