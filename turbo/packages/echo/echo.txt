@@ -1666,7 +1666,7 @@ electromerism
 electrotaxis
 emigr
 ejusdem
-enchainments
+enchainments 1
 eyeish
 eisteddfodic
 eyeballed
