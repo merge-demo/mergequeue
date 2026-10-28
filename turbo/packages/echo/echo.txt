@@ -2804,7 +2804,7 @@ emergently
 elenchize
 ecthlipsis
 eath
-electrocutes
+electrocutes 1
 effeminately
 etymol
 epipubic
