@@ -22799,7 +22799,7 @@ consecrates
 clearage
 citrals
 coticular
-clovers
+clovers 1
 cabers
 consecrator
 consecratory
