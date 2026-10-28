@@ -13456,7 +13456,7 @@ evaluable
 epitomization
 enzymolysis
 extrusile
-exorate
+exorate 1
 expropriator
 eringo
 epenthetic
