@@ -8814,7 +8814,7 @@ ghostess
 gulfs
 gymnostomina
 gust
-genual
+genual 1
 gelatined
 glacious
 greet
