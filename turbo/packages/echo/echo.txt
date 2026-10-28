@@ -13358,7 +13358,7 @@ esthesiometry
 exsanguinity
 everydeal
 elytral
-erose
+erose 1
 expository
 expositorial
 ephererist
