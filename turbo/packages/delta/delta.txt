@@ -13591,7 +13591,7 @@ dubbeltje
 diplomacies
 dilambdodont
 disagreeably
-demicritic
+demicritic 1
 dishabituate
 dorsopleural
 drawnet
