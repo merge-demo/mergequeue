@@ -2178,7 +2178,7 @@ frontiers
 furfuration
 folkmoot
 falsities
-forane
+forane 1
 felonwort
 freenesses
 flatterdock
