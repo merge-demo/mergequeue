@@ -9151,7 +9151,7 @@ existences
 esrog
 ermanrich
 endotheca
-entailer
+entailer 1
 epizoarian 1
 equiponderancy
 ermiline
