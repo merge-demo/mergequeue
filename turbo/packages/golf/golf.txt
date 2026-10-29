@@ -9849,7 +9849,7 @@ gips
 grousy
 gametophagia
 guajiras
-guama
+guama 1
 garcinia
 glaniostomi
 glandiform
