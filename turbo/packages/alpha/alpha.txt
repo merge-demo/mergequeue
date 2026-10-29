@@ -4790,7 +4790,7 @@ aeriality
 angiasthenia
 acmaea
 aerials
-aeric
+aeric 1
 alligate
 aerifaction
 adenoses
