@@ -1818,7 +1818,7 @@ flabra
 fourteenthly
 fatherland
 flutina
-flaunts
+flaunts 1
 flannelet
 featherwise
 fjorded
