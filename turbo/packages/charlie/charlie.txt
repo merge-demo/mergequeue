@@ -6350,7 +6350,7 @@ compatient
 causator
 cuffing
 cuprosilicon
-cause
+cause 1
 caused
 cyllosis
 causey
