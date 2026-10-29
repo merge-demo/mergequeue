@@ -18451,7 +18451,7 @@ diagometer
 disulphuret
 degreased
 disodic
-debordment
+debordment 1
 damme
 downsman
 dints
