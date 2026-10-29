@@ -2535,7 +2535,7 @@ ferrelling
 fluorine
 fiatconfirmatio
 fanam
-feeler
+feeler 1
 frugivorous
 fibromembranous
 filamentule
