@@ -12174,7 +12174,7 @@ biggies
 byrled
 brabbler
 boleweed
-blandiloquence
+blandiloquence 1
 baklawas
 benzodiazine
 bridgeboard
