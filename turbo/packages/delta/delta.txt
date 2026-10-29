@@ -13340,7 +13340,7 @@ deflators
 disputatiously
 disputatiousness
 disputator
-disputeful
+disputeful 1
 dacrydium
 disfeature
 deceitful
