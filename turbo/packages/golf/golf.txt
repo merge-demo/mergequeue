@@ -8557,7 +8557,7 @@ googul
 gallwort
 gith
 gourmand
-guestimating
+guestimating 1
 grabbling
 generates
 geranomorph
