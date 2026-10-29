@@ -2459,7 +2459,7 @@ equivalence
 electrogenic
 eudemonia
 exhilarates
-enhearten
+enhearten 1
 electrogilt 1
 electrogram
 euahlayi
