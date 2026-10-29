@@ -4767,7 +4767,7 @@ encoding
 effectivity
 embrocate
 ergasterion
-enbusshe
+enbusshe 1
 epicrisis
 edwardsia
 enneahedra
