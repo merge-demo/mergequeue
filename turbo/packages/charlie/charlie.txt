@@ -23752,7 +23752,7 @@ contraoctave
 caste
 cacophonist
 coyote
-crimped
+crimped 1
 contraplete
 cataphoretically
 curtays
