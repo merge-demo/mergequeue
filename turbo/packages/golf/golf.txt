@@ -9248,7 +9248,7 @@ grisly
 glagolitic
 gravigrade
 grahamite
-geochronological
+geochronological 1
 grist
 guanase
 growthiness
