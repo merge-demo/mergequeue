@@ -5709,7 +5709,7 @@ geodynamics
 greedier
 grandnephews
 glossemic 1
-gibbously
+gibbously 1
 gepoun
 glaciometer
 gesundheit
