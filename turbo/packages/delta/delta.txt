@@ -7247,7 +7247,7 @@ detente
 dicotyl
 dimetric 1
 detenue
-decussorium
+decussorium 1
 desulfurize
 dumbbeller
 detenues
