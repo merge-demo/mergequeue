@@ -4734,7 +4734,7 @@ fulgor
 ferrugineous
 flabella
 flyweight
-frises
+frises 1
 factice
 frederic
 forbearances
