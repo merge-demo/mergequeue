@@ -3639,7 +3639,7 @@ foretype
 filigrane
 furlana
 frangula
-fannier
+fannier 1
 foregoneness
 fanes
 felons
