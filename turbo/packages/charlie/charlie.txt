@@ -19517,7 +19517,7 @@ colporrhagia
 colportage
 colporter
 colporteurs 1
-colposcopy
+colposcopy 1
 crocodiles
 cornstook
 colstaff
