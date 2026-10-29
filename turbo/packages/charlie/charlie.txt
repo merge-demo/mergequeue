@@ -21994,7 +21994,7 @@ configurative
 configure
 configures
 coxcombry
-confinable
+confinable 1
 coulterneb
 confine
 comports
