@@ -2600,7 +2600,7 @@ desistence
 diplocephalous
 decoat
 decoct
-demiquaver
+demiquaver 1
 dashes
 decoctive
 deaminizing
