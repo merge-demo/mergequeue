@@ -401,7 +401,7 @@ diarhemia
 daintified
 darkens
 daintifying
-desiccating
+desiccating 1
 diversity
 daintiness
 daiquiri
