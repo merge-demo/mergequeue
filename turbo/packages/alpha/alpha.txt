@@ -2037,7 +2037,7 @@ amplexus
 aveny
 awakeable
 amritas
-amidoxy
+amidoxy 1
 amoret
 apsychical
 achalasia
