@@ -3601,7 +3601,7 @@ amputating
 antimonite
 adelphian
 adelphic
-adelphous
+adelphous 1
 adipsous
 azole
 assedat
