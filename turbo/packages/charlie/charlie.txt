@@ -8283,7 +8283,7 @@ complexity
 corallet
 choyroot
 chalinitis
-chalkboard
+chalkboard 1
 chalked
 chalky
 chalkiest
