@@ -9086,7 +9086,7 @@ greffotome
 glassworking
 glasser
 genitive
-gigahertz
+gigahertz 1
 ghast
 grimme
 grillroom

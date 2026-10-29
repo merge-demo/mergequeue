@@ -2941,7 +2941,7 @@ equivalvular
 enricher
 exploiters
 epagomenal
-evolute
+evolute 1
 endia
 endoplast
 etrogim

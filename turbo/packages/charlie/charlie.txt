@@ -18598,7 +18598,7 @@ coinable
 coinage
 coinages
 coincide
-corpulently
+corpulently 1
 cobbler
 coincidently
 choicy
