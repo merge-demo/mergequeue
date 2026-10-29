@@ -11922,7 +11922,7 @@ disbloom
 disembarks
 degum
 dyable
-deliberation
+deliberation 1
 deutovum
 disembitter
 diplanetic
