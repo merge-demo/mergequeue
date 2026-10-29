@@ -5821,7 +5821,7 @@ entification
 evade
 exion
 emulatory
-etherizing
+etherizing 1
 efficace
 electrovalency
 exfoliation
