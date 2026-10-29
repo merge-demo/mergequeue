@@ -10631,7 +10631,7 @@ balanophoraceae
 bandspreading 1
 bernese
 bollies
-bishopscap
+bishopscap 1
 bleaky
 buist
 bleakness 1
