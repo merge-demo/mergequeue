@@ -7387,7 +7387,7 @@ everglade
 explosion
 ensculpture
 entasia
-exsanguineous
+exsanguineous 1
 epenla
 edgings
 epentheses
