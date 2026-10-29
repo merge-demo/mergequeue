@@ -4922,7 +4922,7 @@ emporetic
 eurytomid
 emulsifiers
 ennomic
-ephemerally
+ephemerally 1
 endearedness
 endearingness
 exactive
