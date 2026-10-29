@@ -7634,7 +7634,7 @@ bori
 burgling
 bewraps
 basilisks
-belesprit
+belesprit 1
 bewrapt
 bewreck
 besee
