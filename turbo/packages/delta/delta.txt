@@ -9793,7 +9793,7 @@ doorstops
 disenfranchise
 diggings
 dills
-delusiveness
+delusiveness 1
 deputations
 dimetria
 dier
