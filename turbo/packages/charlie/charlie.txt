@@ -3768,7 +3768,7 @@ cuttlebone
 carbaryls
 ciconia
 chloroethylene
-carbazylic
+carbazylic 1
 chlorpikrin
 cheerios
 civilist
