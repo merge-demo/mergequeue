@@ -6275,7 +6275,7 @@ guitarlike
 guttural
 ghostiest
 gconv
-gentle
+gentle 1
 gooding
 gulpin
 gynandrarchic
