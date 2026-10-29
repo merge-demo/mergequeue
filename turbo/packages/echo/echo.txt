@@ -1146,7 +1146,7 @@ equivalved
 eupatrid
 easefulness
 elasticness
-equatability
+equatability 1
 encrown
 enthrill
 eleostearic
