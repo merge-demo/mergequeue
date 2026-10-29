@@ -11711,7 +11711,7 @@ anaerobion
 apocrisiary
 anaerobiont
 anaerobiosis
-anaerobiotic
+anaerobiotic 1
 anaerobium
 avanti
 anaphylactic
