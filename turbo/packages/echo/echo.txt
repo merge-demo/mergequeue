@@ -5672,7 +5672,7 @@ euploid
 extrarenal
 endophasic
 erotism
-entrough
+entrough 1
 ergastic
 expectorants
 eustacies
