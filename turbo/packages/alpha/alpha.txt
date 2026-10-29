@@ -7314,7 +7314,7 @@ antihidrotic
 adai
 amphibion
 alaudine
-asters
+asters 1
 accessoriusorii
 adoptant
 aglauros
