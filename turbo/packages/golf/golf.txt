@@ -5362,7 +5362,7 @@ gutting
 guanajuatite
 gregos
 gonadial
-geckoid
+geckoid 1
 gruelings
 ganowanian
 gingal
