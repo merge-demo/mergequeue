@@ -15333,7 +15333,7 @@ antihelix
 aitiotropic
 archeol
 anthracite
-adapters
+adapters 1
 amperages
 antihero
 amphoriskos
