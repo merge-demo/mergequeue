@@ -4778,7 +4778,7 @@ glimmerings
 gal
 gizzern
 glycogenize
-gjedost
+gjedost 1
 gastropleuritis
 gyniatrics 1
 gravedo
