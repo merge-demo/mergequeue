@@ -3367,7 +3367,7 @@ folily
 feeless
 foreyards
 fusilades
-fastigate
+fastigate 1
 foollike
 fulmen
 forcut
