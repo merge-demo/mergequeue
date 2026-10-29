@@ -5643,7 +5643,7 @@ belderroot
 bodgie
 beleaguering
 badgeless
-beleapt
+beleapt 1
 belection
 brining
 burling
