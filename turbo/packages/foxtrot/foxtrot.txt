@@ -4915,7 +4915,7 @@ forged
 fixate
 fossilist
 finisher
-floreat
+floreat 1
 fustianish
 flauntiest
 forbidal
