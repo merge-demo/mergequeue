@@ -2915,7 +2915,7 @@ boxlike
 braked
 badinage
 barrater
-barratries
+barratries 1
 blabbermouth
 becrawls
 barratrously
