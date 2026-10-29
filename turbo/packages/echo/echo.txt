@@ -3039,7 +3039,7 @@ ensheathes
 epiphenomenal
 earthkin
 epigram
-eschalot
+eschalot 1
 exogamy
 epidermis
 experimentalists
