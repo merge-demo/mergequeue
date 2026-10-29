@@ -4401,7 +4401,7 @@ dichasium
 douper
 dispraised
 dimagnesic
-delegable
+delegable 1
 dualizing
 digenous
 demele
