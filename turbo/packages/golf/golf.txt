@@ -8120,7 +8120,7 @@ gastrostomize
 gristmill
 grantors
 granular
-girandole
+girandole 1
 granulary 1
 guidebooks
 gobs
