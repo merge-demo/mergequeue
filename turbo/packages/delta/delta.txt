@@ -8076,7 +8076,7 @@ dhritarashtra
 disables
 drawable
 dhurra
-detrimentalness
+detrimentalness 1
 doghole
 definienda
 di
