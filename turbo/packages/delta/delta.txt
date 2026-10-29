@@ -9256,7 +9256,7 @@ diestock
 diestrous
 drawbridge
 dogears
-diestrums
+diestrums 1
 discrepantly
 drupaceae
 disambiguations
