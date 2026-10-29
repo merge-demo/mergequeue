@@ -4147,7 +4147,7 @@ frillings
 fratriage
 fipples
 floscule
-foisted
+foisted 1
 forefeeling
 ferrosilicon
 fluorometry
