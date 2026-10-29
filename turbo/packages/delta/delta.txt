@@ -11537,7 +11537,7 @@ dosology
 deglamorize
 disconjure
 disconnectedness
-diphtheroidal
+diphtheroidal 1
 diphead
 disconnecting
 disconnection
