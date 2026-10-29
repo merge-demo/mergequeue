@@ -20195,7 +20195,7 @@ apothem
 arrau
 assiduously
 aromaticity
-aphanesite
+aphanesite 1
 argentometric
 arrenotoky
 arrentation

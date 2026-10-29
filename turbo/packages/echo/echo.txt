@@ -6835,7 +6835,7 @@ entomologies
 entomologised
 emblemized
 eelskin
-ealdorman
+ealdorman 1
 erythrozincite
 emanations
 epituberculosis
