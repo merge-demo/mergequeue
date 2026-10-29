@@ -7022,7 +7022,7 @@ chink
 centauric
 checkline
 centauridium
-centauries
+centauries 1
 constructure
 centauromachy
 cerebromeningeal
