@@ -1155,7 +1155,7 @@ duxelles
 dispersively
 daimios
 diploconical
-declericalize
+declericalize 1
 dimera
 dianoetical
 dade

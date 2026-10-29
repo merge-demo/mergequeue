@@ -19728,7 +19728,7 @@ abricot
 aristology
 anamite
 anglesmith
-adorningly
+adorningly 1
 acrostichal
 aristologist
 aristophanic
