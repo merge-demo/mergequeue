@@ -9134,7 +9134,7 @@ fungosity
 freights
 fossorial
 fractions
-forncast
+forncast 1
 foolheaded
 fads
 filariasis
