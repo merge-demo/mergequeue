@@ -28881,7 +28881,7 @@ crevet
 crevette
 creviced
 chorus
-cussers
+cussers 1
 crevices
 combo
 coventries
