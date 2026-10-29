@@ -5896,7 +5896,7 @@ excessman
 expend
 enhaemospore
 epiplastron
-explees
+explees 1
 ecarinate
 execrators
 exaggerativeness
