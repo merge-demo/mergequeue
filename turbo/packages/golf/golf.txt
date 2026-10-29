@@ -1460,7 +1460,7 @@ grafter
 glissading
 gastrophilus
 gastric
-gisarme
+gisarme 1
 greta
 gasolier
 gasped
