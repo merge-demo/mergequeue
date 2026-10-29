@@ -5085,7 +5085,7 @@ brachiofacial
 boundedness
 beflag
 bamboo
-binits
+binits 1
 basilicon
 beflagged
 broidering
