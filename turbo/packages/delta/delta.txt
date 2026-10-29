@@ -13239,7 +13239,7 @@ diacetate
 digynia
 disportment
 dangerfully
-defervescence
+defervescence 1
 decohesion
 disposedness
 disposement
