@@ -7390,7 +7390,7 @@ farfels
 fewnes
 flatworms
 frohlich
-floatplane
+floatplane 1
 frost
 fattened
 fierding
