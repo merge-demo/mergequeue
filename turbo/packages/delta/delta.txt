@@ -17680,7 +17680,7 @@ disaffiliates
 decare
 donsky
 desulphurating
-disapprovingly
+disapprovingly 1
 dystopia
 disanimal
 dimerisms
