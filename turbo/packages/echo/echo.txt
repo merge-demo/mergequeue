@@ -12134,7 +12134,7 @@ expt
 esclavage
 energise
 elasticin
-exuviating
+exuviating 1
 electroshock
 exploits
 ethnogeography
