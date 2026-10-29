@@ -10877,7 +10877,7 @@ diruption
 dereference
 deployed
 disable
-delusions
+delusions 1
 disabled
 doorplates
 defrayer
