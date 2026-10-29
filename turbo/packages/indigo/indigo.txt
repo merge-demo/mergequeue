@@ -11109,7 +11109,7 @@ issqtxpf
 issrvndx
 issvot
 issvx
-issy
+issy 1
 issymmwkmls
 issymxisz
 istalqlij
