@@ -3268,7 +3268,7 @@ daughterliness
 dockhead
 domesticate
 defiber
-deionized
+deionized 1
 duodecillionth
 desponder
 doublethought
