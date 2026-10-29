@@ -20516,7 +20516,7 @@ candidateship
 compassionateness
 catalepsy
 compassive
-coinhere
+coinhere 1
 compassivity
 cwrite
 compatibility
