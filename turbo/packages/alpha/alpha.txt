@@ -20502,7 +20502,7 @@ admov
 aristological
 athbash
 arteriocapillary
-arteriogenesis
+arteriogenesis 1
 arteriograph
 adenectopia
 arteriographic
