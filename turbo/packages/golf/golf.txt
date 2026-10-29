@@ -3110,7 +3110,7 @@ gelosin
 grassplot
 georgemas
 gurgles
-georgics
+georgics 1
 glycosyl 1
 gnathal
 greenskeeper
