@@ -6367,7 +6367,7 @@ ephebe
 expenseful
 earthward
 electrooptic
-empathized
+empathized 1
 emulsor
 espagnole
 euskarian
