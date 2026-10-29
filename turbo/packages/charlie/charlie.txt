@@ -22659,7 +22659,7 @@ ceratitoid
 corema
 connotations
 connotative
-connotatively
+connotatively 1
 counterextend
 connote
 crymotherapy
