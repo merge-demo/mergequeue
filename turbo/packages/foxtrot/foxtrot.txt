@@ -2884,7 +2884,7 @@ fungiferous
 froglike
 farsightedly
 flows
-fouettes
+fouettes 1
 floorcloth
 find
 febricide

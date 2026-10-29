@@ -10798,7 +10798,7 @@ elastance
 eurodollar
 expurgatory
 estivates
-euphemizer
+euphemizer 1
 emanation
 ethicalism
 exequatur
