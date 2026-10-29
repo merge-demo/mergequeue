@@ -12583,7 +12583,7 @@ chronon
 choppily
 chronons
 chefrinia
-chronophotography
+chronophotography 1
 chronoscopic
 chronoscopically
 cheesier
