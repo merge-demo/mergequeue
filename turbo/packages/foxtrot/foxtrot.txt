@@ -8113,7 +8113,7 @@ forewrought
 fractionate
 fanaticalness 1
 foretell
-figurehead
+figurehead 1
 filmiest
 fathogram
 fumigator
