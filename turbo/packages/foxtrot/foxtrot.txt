@@ -6558,7 +6558,7 @@ flysches
 flattened
 fluxile
 fluxionist
-fluxive
+fluxive 1
 fouett
 footcloth
 fetiales
