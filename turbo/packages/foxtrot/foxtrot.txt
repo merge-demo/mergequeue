@@ -6879,7 +6879,7 @@ failing
 frustratingly
 flaggings
 forjudges
-figurist
+figurist 1
 feline
 feretrum
 fatuous
