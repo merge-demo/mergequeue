@@ -1955,7 +1955,7 @@ geranic
 gweduck
 goring
 grubroot
-glut
+glut 1
 gravelling
 gripes
 grudged
