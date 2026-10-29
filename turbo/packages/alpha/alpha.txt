@@ -11395,7 +11395,7 @@ aquifers
 antiplatelet
 amphoteric
 antonina
-ampyxes
+ampyxes 1
 abies
 amphigaean
 amigas
