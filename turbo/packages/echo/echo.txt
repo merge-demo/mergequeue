@@ -13710,7 +13710,7 @@ extrajudicially
 externe
 excursionize
 epitaxy
-expiatist
+expiatist 1
 enfasten
 epinephelidae
 epiplasm
