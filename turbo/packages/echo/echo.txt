@@ -11425,7 +11425,7 @@ entheate
 expdt
 estuarine
 elided
-evetide
+evetide 1
 extirpating
 encipherment
 elucidation
