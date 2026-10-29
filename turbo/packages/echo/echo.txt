@@ -10533,7 +10533,7 @@ eluents
 ectrodactylia
 exogenae
 estates
-ergosterol
+ergosterol 1
 euchlorite
 erechtites
 eleutherodactylus
