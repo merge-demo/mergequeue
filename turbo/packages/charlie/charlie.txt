@@ -31158,7 +31158,7 @@ cupiuba
 cupless
 cupman
 cupolaed
-crushable
+crushable 1
 cupolaing
 cupolaman
 cupolar
