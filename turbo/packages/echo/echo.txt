@@ -9965,7 +9965,7 @@ estuosity
 edibleness
 endophagy
 esugarization
-endowers
+endowers 1
 embosk
 entonement
 entreatment
