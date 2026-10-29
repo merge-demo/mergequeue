@@ -2376,7 +2376,7 @@ excathedral
 echinopsine
 ectromelia
 exanguin
-epidotization
+epidotization 1
 exognathion
 etherealisation
 excentricity
