@@ -15974,7 +15974,7 @@ bankcards
 brontoscopy
 bronchioli
 bronchiospasm
-bronchitic
+bronchitic 1
 bronchitis
 bethrall
 birota
