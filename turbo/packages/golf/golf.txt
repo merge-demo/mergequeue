@@ -8546,7 +8546,7 @@ girliness
 grallatory
 gravette
 gallicization
-glance
+glance 1
 gaufrette
 garni
 grasscutter
