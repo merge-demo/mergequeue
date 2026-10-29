@@ -4694,7 +4694,7 @@ gettered
 gynomonecious
 gise
 granges
-gooder
+gooder 1
 gourmandise
 gyrene
 gibbsite
