@@ -9620,7 +9620,7 @@ despot
 dihydroergotamine
 destructs
 diplexer
-dissight
+dissight 1
 debunking
 dipoles
 dexterous
