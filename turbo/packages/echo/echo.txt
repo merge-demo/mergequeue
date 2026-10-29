@@ -8569,7 +8569,7 @@ elucid
 erase
 ejaculative
 eumorphic
-enunciative
+enunciative 1
 etheriform
 equatorwards
 excessmen
