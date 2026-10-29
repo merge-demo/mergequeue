@@ -9071,7 +9071,7 @@ bedecorate
 ballistocardiograph
 biosensor
 bilifuscin
-bearishness
+bearishness 1
 binominated
 biosynthesize
 benzonitrol
