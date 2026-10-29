@@ -18936,7 +18936,7 @@ collarette
 carnifices
 clouds
 clypeaster
-carpuspi
+carpuspi 1
 coupelet
 cochal
 conjugate
