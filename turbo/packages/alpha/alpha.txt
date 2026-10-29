@@ -7836,7 +7836,7 @@ arba
 ausubos
 atrickle
 anglicism
-aldrovanda
+aldrovanda 1
 achromaturia
 adequative
 alchemically
