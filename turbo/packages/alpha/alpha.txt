@@ -10719,7 +10719,7 @@ ambiences
 anthrachrysone
 antichrome
 aminobenzoic
-appetency
+appetency 1
 agrement
 aminoketone
 aminomalonic
