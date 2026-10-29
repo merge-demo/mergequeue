@@ -3013,7 +3013,7 @@ geoponics
 galvayning
 gaggler
 grammatical
-graspable
+graspable 1
 glitteringly
 gibbed
 gyrostatically
