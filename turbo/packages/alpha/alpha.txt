@@ -20983,7 +20983,7 @@ agog
 ascelli
 ascellus
 ascend
-ascendable
+ascendable 1
 amortisseur
 ahtena
 aeolharmonica
