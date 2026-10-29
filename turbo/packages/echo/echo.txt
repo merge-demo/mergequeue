@@ -8118,7 +8118,7 @@ earaches
 exhumator
 episclera
 ell
-expensilation
+expensilation 1
 ensanguined
 enaction
 enkolpia
