@@ -21474,7 +21474,7 @@ alantol
 anthelion
 aspergilli
 anatira
-anosmatic
+anosmatic 1
 aspergillin
 aspergillosis
 alabastra
