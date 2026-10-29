@@ -26413,7 +26413,7 @@ concavities
 centipoise
 chronically
 clergess
-cliffier
+cliffier 1
 coterminousness
 cotes
 cycloidian
