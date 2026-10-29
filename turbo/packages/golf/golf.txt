@@ -10332,7 +10332,7 @@ greenwax
 gadoids
 gelatinigerous
 globulicide
-gnattiest
+gnattiest 1
 grasslike 1
 guland
 grubstaking
