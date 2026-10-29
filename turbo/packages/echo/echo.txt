@@ -12622,7 +12622,7 @@ examplar
 exogyra
 enterogram
 effusion
-exognathite
+exognathite 1
 expunges
 exornate
 exogenetic

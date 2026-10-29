@@ -9212,7 +9212,7 @@ foresighted 1
 fishbed
 friarly
 foraneous
-facts
+facts 1
 frostfishes
 flagmaking
 flannelbush
