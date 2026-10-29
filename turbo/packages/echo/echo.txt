@@ -5947,7 +5947,7 @@ encrinoidea
 encoffin
 effate
 enhunger
-emissary
+emissary 1
 enoptromancy
 epitheliogenetic
 eruc
