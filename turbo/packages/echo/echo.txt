@@ -974,7 +974,7 @@ eddied
 eponymic
 enterococcus
 equidense
-eastwards
+eastwards 1
 ethyl
 esoterics
 eyebalm
