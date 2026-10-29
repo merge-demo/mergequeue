@@ -13084,7 +13084,7 @@ epopoean
 ecoclimate
 eschevin
 endarteteria
-encarpuspi
+encarpuspi 1
 entosarc
 extensionality
 ergology
