@@ -22447,7 +22447,7 @@ astromeda
 apophyges
 anthropomorphize
 aliments
-astrometeorology
+astrometeorology 1
 aforenamed
 apprend
 asterina
