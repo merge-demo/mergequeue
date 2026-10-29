@@ -10380,7 +10380,7 @@ focus
 feedable
 feared
 frangipanis
-fatalist
+fatalist 1
 friller
 forecatching
 flagmen
