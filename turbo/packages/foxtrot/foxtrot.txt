@@ -5950,7 +5950,7 @@ fiercest
 foolhardily
 faits
 falseface
-freer
+freer 1
 fraudlessness
 freehand
 feretories
