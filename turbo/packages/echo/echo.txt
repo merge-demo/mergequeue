@@ -5964,7 +5964,7 @@ enigma
 egotism 1
 enigmas
 enjambements
-enigmata
+enigmata 1
 eassel
 eluvial
 exquisite
