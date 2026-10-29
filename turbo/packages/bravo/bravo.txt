@@ -7502,7 +7502,7 @@ beveller
 byte
 bookbinder
 bardelle
-bedgery
+bedgery 1
 bevenom
 buffet
 bever
