@@ -7684,7 +7684,7 @@ ensures
 eboulement
 euphemiser
 extensionist
-expoundable
+expoundable 1
 epideistic
 enthymematical
 enfeebler
