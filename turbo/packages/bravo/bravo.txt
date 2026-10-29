@@ -1787,7 +1787,7 @@ buses
 bondstone
 biretta
 bedraggling
-bivvy
+bivvy 1
 bakshis
 bam
 bufonidae
