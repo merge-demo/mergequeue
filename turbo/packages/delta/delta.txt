@@ -15367,7 +15367,7 @@ domiciled
 domestic
 dissipator
 disobstruct
-dearn
+dearn 1
 dragginess
 domiciles
 domiciliate
