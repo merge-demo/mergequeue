@@ -8086,7 +8086,7 @@ foreswore
 flavouring
 feeble
 flasklet
-faints
+faints 1
 factorist
 fumacious
 farceur
