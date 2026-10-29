@@ -1781,7 +1781,7 @@ fusels
 fusobacterium
 fireworms 1
 fedn
-featherfew
+featherfew 1
 fluoridates
 fn
 furfuran
