@@ -8051,7 +8051,7 @@ bridecup
 bellypinch
 brogue
 breathing
-borshts
+borshts 1
 biculturalism 1
 billeters
 bicursal
