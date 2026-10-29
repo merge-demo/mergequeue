@@ -6305,7 +6305,7 @@ flumes
 foundationary
 fluminous
 freak
-fluxibility
+fluxibility 1
 flummer
 flickerproof
 fistnote
