@@ -3480,7 +3480,7 @@ envies
 evelight
 eurypterus
 evenwise
-emblazoned
+emblazoned 1
 emblazoner
 emblazonments
 elastic
