@@ -2609,7 +2609,7 @@ bulletined
 barytocelestite
 barytone
 barytons
-busing
+busing 1
 bowable
 bears
 brittlely
