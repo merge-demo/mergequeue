@@ -3458,7 +3458,7 @@ comprehends
 craniovertebral
 capsella
 calyptras
-capshore
+capshore 1
 collectress
 ceruses
 chullpa
