@@ -9754,7 +9754,7 @@ fishworm
 farfel
 flenches
 fluentness
-faerie
+faerie 1
 foresettled
 flyspeck
 flummoxed
