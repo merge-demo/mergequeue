@@ -8594,7 +8594,7 @@ electrotherapeutic
 epigrammatism
 endocrinopathy
 egall
-ergatomorph
+ergatomorph 1
 equidimensional
 equidist
 exrx
