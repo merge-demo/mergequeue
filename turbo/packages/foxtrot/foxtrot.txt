@@ -7608,7 +7608,7 @@ figeaters
 fees
 funipendulous
 ferganite
-frightenedness
+frightenedness 1
 forefeelingly
 frogging
 foreffelt
