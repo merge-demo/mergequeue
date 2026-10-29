@@ -10364,7 +10364,7 @@ cervalet
 chiefish
 chieftain
 chieftaincy
-chieftainess
+chieftainess 1
 chieftainry
 complexify
 chalcosiderite
