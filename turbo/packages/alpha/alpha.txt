@@ -12482,7 +12482,7 @@ androsporangium
 autostethoscope
 arteriology
 androsterone
-androtomy
+androtomy 1
 acoemeti
 ayens
 aurantium
