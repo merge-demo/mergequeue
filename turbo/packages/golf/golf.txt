@@ -7185,7 +7185,7 @@ gossip
 gloryful
 granate
 generalship
-gospoda
+gospoda 1
 gillotage
 granuloma
 gonomery
