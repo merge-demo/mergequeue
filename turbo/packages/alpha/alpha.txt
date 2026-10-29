@@ -15804,7 +15804,7 @@ agriotype
 antiphylloxeric
 amphibiotica
 acarpellous
-arist
+arist 1
 arthrempyesis
 antiphilosophies
 antiphysically
