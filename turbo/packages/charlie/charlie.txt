@@ -28042,7 +28042,7 @@ craisey
 consorts
 captivators
 celebret
-contemptuousness
+contemptuousness 1
 crakefeet
 concretizing
 cyphers
