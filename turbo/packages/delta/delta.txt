@@ -2149,7 +2149,7 @@ disturbs
 decantist
 decaffeinated
 decapitation
-deterrable
+deterrable 1
 decapitations
 disassemble
 distresses
