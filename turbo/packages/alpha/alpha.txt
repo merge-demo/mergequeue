@@ -1167,7 +1167,7 @@ acamar
 allocrotonic
 allethrin
 assumedly
-ammoniacal
+ammoniacal 1
 azimuths
 acana
 antilopine
