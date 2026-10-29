@@ -5114,7 +5114,7 @@ elatives
 extrema
 engirt
 endocrines
-endocrinic
+endocrinic 1
 existentialistic
 emergencies
 entogenous
