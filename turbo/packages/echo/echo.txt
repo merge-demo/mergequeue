@@ -9036,7 +9036,7 @@ evertor
 electromyographic
 eurychoric
 extrafoliaceous
-errancy
+errancy 1
 electrocardiographs
 evaginating
 euchring
