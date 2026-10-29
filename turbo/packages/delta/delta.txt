@@ -16194,7 +16194,7 @@ deallocates
 defats
 doweress
 daydreamlike
-dent
+dent 1
 dioestrous
 dowery
 diethanolamine
