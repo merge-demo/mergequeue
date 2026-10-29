@@ -3024,7 +3024,7 @@ aporobranchiata
 amboceptoid
 afterwar
 actinographic
-autotomy
+autotomy 1
 appriser
 actinolitic
 anthropogenesis
