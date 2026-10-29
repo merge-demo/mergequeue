@@ -17176,7 +17176,7 @@ apolar 1
 autarkies
 amphidiploid
 averin
-apolysis
+apolysis 1
 apolista
 alaunt
 aproctia
