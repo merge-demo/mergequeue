@@ -408,7 +408,7 @@ equivocator
 emotiveness
 ebonized
 enfolden
-epact
+epact 1
 eutrophic
 embayed
 excelsitude
