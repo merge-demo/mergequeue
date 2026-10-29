@@ -1373,7 +1373,7 @@ frock
 fidac
 fruticulose
 flaggish
-fanning
+fanning 1
 fatigue
 fossicks
 fatiguesome
