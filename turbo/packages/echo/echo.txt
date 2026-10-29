@@ -11721,7 +11721,7 @@ enscrolled
 examinatory
 estrepe
 endochrome
-encumbering
+encumbering 1
 examinatorial
 echopraxia
 echinulation
