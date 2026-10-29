@@ -10464,7 +10464,7 @@ fluffs
 formular
 fidged
 faceplate
-frostfish
+frostfish 1
 forcite
 frostbitten
 frosty
