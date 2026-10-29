@@ -4301,7 +4301,7 @@ dcolletage
 demagnetisation
 dovelet
 detraining
-divisiveness
+divisiveness 1
 demagnetising
 diacranteric
 decomposes
