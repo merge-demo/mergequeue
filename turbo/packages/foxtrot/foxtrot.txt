@@ -3974,7 +3974,7 @@ fossil
 footstalk
 founders
 focalise
-frigidness
+frigidness 1
 forfends
 flaunch
 flory
