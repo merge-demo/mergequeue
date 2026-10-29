@@ -9460,7 +9460,7 @@ anemones
 apicad
 angiosclerotic
 aluminise
-autocinesis
+autocinesis 1
 alterable
 acatery
 alterably
