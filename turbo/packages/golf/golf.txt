@@ -6846,7 +6846,7 @@ gremmie
 gobonee
 gnomonic
 gypsied
-glauconite
+glauconite 1
 granulomas
 gaffsman
 grisettish
