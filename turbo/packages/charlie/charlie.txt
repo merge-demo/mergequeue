@@ -2936,7 +2936,7 @@ currawong
 canter
 canterburian
 cladosporium
-curlpaper
+curlpaper 1
 cryptoprocta
 cantering
 canthal
