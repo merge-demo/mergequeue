@@ -10650,7 +10650,7 @@ amyloclastic
 assists
 aponogetonaceae
 antiredeposition
-annularly
+annularly 1
 anacoenosis
 aggregations
 amylogenic
