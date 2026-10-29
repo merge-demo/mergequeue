@@ -12205,7 +12205,7 @@ disguised
 donax
 disgarnish
 draftmanship
-deliberativeness
+deliberativeness 1
 dossiere
 demoniacism
 drubbing
