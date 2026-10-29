@@ -8258,7 +8258,7 @@ enforcive
 escapado
 epitoke
 epigones
-erratums
+erratums 1
 emulate
 endolaryngeal
 endplay
