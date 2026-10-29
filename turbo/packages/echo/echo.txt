@@ -10636,7 +10636,7 @@ enharmonical
 eoghanacht
 enchilada
 eudemonistic
-enfacement
+enfacement 1
 endoappendicitis
 equivalencies
 empurpling
