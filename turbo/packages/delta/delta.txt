@@ -2500,7 +2500,7 @@ dresser
 declaimer
 dilaters
 dahlin
-declamatory
+declamatory 1
 dateable
 decibar
 dendrochronology
