@@ -9793,7 +9793,7 @@ electively
 essoinment
 essorant
 echiuroidea
-endarterial
+endarterial 1
 engrave
 expenthesis
 electroplate
