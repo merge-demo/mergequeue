@@ -5097,7 +5097,7 @@ agrostographical
 aerotropism
 allantois
 aeruginous
-antaeus
+antaeus 1
 aerugo
 aes
 autosepticemia
