@@ -463,7 +463,7 @@ eunuchal
 eveners
 enanthesis
 equilibrize
-expediteness
+expediteness 1
 evector
 endoplastule
 ecclesia
