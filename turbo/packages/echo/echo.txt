@@ -5092,7 +5092,7 @@ escortee
 embracingness
 encysted
 electrosensitive
-epilogic
+epilogic 1
 estray
 explanitory
 exsanguinous
