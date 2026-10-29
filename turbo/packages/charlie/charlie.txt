@@ -4826,7 +4826,7 @@ carr
 carrack
 chirotherian
 cymulose
-cycling
+cycling 1
 corallita
 carracks
 conceitless
