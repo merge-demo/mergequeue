@@ -4632,7 +4632,7 @@ flavory
 fullams
 fitchered
 foolfish
-fitters
+fitters 1
 foxery
 fifo
 fogas
