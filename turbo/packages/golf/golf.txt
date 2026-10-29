@@ -3524,7 +3524,7 @@ gracile
 gawish
 gumbotils
 gapo
-grogginess
+grogginess 1
 gantangs
 guerdons
 gigtree
