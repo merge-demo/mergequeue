@@ -11483,7 +11483,7 @@ feminacies
 fairleader
 flays
 froggery
-fuzzle
+fuzzle 1
 foothill
 ferrite
 foredescribe
