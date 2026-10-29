@@ -6942,7 +6942,7 @@ dioptre 1
 digits
 desperados
 dorsointercostal
-dichasial
+dichasial 1
 didgeridoo
 disimmure
 decarbonylated
