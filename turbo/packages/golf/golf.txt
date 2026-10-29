@@ -4022,7 +4022,7 @@ gellert
 gastrogenous
 gilds
 grandness
-gutturals
+gutturals 1
 gerundive
 glossolabiopharyngeal
 gushingly
