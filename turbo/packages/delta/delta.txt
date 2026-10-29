@@ -12664,7 +12664,7 @@ decolorized
 disjointure
 demurringly
 disepalous
-dentalize
+dentalize 1
 dumpage
 demiheavenly
 dogger
