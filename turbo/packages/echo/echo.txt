@@ -2299,7 +2299,7 @@ euphuism
 endosteum
 eval
 etonian
-escalatory
+escalatory 1
 epidemiologist
 exterminations
 eobionts
