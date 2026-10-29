@@ -1085,7 +1085,7 @@ elective
 edification
 exfigure
 earock
-equipoised
+equipoised 1
 envined
 edificatory
 epimerize
