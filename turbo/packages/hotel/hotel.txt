@@ -3772,7 +3772,7 @@ hexm
 hexmmuxr
 hexmsx
 hexnavlfppmx
-hexojmp
+hexojmp 1
 hexpkzcsatz
 hexpmkmxdgsx
 hexq
