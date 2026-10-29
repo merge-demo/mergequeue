@@ -2880,7 +2880,7 @@ encyrtid
 ental
 elevable
 embraceor
-electrionic
+electrionic 1
 epergne
 escalators
 eleven
