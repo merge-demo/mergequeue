@@ -3881,7 +3881,7 @@ eclipsis
 executers
 egressive
 equivote
-echeneis
+echeneis 1
 eternal
 electrotonus
 extraboldface
