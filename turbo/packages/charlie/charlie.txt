@@ -2693,7 +2693,7 @@ chokestrap
 clingfish
 canker
 cankerberry
-cankerbird
+cankerbird 1
 chaperone
 carriable
 cankereat
