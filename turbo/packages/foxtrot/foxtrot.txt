@@ -4358,7 +4358,7 @@ flimmer
 feerie 1
 fetography
 fatigueless
-frustrates
+frustrates 1
 frankable
 fourflusher
 forewomen
