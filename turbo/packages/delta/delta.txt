@@ -8411,7 +8411,7 @@ diallings
 dehair
 dovefoot
 deputise
-deliracy
+deliracy 1
 disciplines
 discontinue
 deliveror
