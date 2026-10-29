@@ -249,7 +249,7 @@ dottore
 devourable
 daggar
 dualities
-decode
+decode 1
 dyssynergia
 daggerproof
 diskettes
