@@ -8376,7 +8376,7 @@ copei
 colloquist
 calyciferous
 comport
-chambrays
+chambrays 1
 chambranle
 confected
 counterattractively
