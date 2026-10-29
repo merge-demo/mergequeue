@@ -6703,7 +6703,7 @@ dahabiyas
 danaid
 desiderated
 demikindred
-diacoustics
+diacoustics 1
 dropforge
 desideration
 deoxidant
