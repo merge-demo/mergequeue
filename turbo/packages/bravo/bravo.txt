@@ -7076,7 +7076,7 @@ beetler
 bathyscaphes
 bespeckle
 bethylid
-bespeckled
+bespeckled 1
 benzoyls
 blindman
 beefless
