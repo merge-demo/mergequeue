@@ -12598,7 +12598,7 @@ bonorum
 bisector
 balaamite
 bagatelle
-basalt
+basalt 1
 bills
 brainchild
 blackballer
