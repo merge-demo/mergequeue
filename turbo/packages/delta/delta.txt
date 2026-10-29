@@ -15230,7 +15230,7 @@ disrupts
 dogies
 dialogized
 dollia
-deuteranopic
+deuteranopic 1
 dullification
 dissociate
 dingmaul
