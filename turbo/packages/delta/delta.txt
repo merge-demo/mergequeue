@@ -3341,7 +3341,7 @@ definitions
 dormant
 dilatant
 deliriate
-diastem
+diastem 1
 demitting
 duddery
 destiny
