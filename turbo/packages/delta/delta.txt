@@ -17108,7 +17108,7 @@ duller
 disgown
 debouching
 disintoxicate
-divestiture
+divestiture 1
 drawknot
 defectiveness
 deceleron
