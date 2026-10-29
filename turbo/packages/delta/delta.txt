@@ -1415,7 +1415,7 @@ dawdling
 dibbed
 dryster
 dichotomized
-dissimilitude
+dissimilitude 1
 damnit
 dasht
 dawk
