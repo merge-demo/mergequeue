@@ -1190,7 +1190,7 @@ ensue
 entitule
 education
 edulcorating
-enscroll
+enscroll 1
 educational
 ethnocentrism
 extratracheal
