@@ -17722,7 +17722,7 @@ cocobolas
 comeupance
 cocobolos
 cocoyam
-centralize
+centralize 1
 caesaropapacy
 coconnection
 coconscious
