@@ -12550,7 +12550,7 @@ chronogeneous
 combinedness
 chronogram
 celestially
-chronogrammatic
+chronogrammatic 1
 chronogrammatically
 cheetah
 cymatium
