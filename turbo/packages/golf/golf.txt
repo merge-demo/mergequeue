@@ -1078,7 +1078,7 @@ ghostliness
 groundway
 gypsums
 gegenion
-glares
+glares 1
 guarding
 graphicness
 gowdy

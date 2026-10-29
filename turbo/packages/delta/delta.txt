@@ -8716,7 +8716,7 @@ dumky
 diathermy
 demonstrate
 decorousness
-demoting
+demoting 1
 diathermies
 dendrophil
 dispensatrix
