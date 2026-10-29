@@ -7321,7 +7321,7 @@ frognose
 freudian
 fronds
 fearnaught
-favour
+favour 1
 fulcrum
 feathered
 filchers
