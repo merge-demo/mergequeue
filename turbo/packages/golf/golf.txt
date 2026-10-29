@@ -6575,7 +6575,7 @@ gpcd
 glaziest
 gemminess
 gnatty
-grovelingly
+grovelingly 1
 gleditsia
 gandoura
 goumier
