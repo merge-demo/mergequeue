@@ -11709,7 +11709,7 @@ anaerobation
 antiquist
 anaerobion
 apocrisiary
-anaerobiont
+anaerobiont 1
 anaerobiosis
 anaerobiotic
 anaerobium
