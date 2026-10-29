@@ -23918,7 +23918,7 @@ appositively
 alumbrado
 anzac
 authigenetic
-authigenous
+authigenous 1
 anodine
 amphithurons
 astrict
