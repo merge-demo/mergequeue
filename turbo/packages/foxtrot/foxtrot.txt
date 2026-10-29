@@ -5661,7 +5661,7 @@ flinch
 flagleaf
 fatted
 finedraw
-fumet
+fumet 1
 fermium
 fawe
 fragility
