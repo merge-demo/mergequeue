@@ -1617,7 +1617,7 @@ daks
 doe
 doweled
 diadrome
-dicecup
+dicecup 1
 disenrol
 decl
 dealcoholize
