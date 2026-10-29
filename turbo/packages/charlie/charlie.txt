@@ -5443,7 +5443,7 @@ castock
 clepes
 castoffs
 castoreum
-caftaned
+caftaned 1
 castorite
 castra
 castrates
