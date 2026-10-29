@@ -6417,7 +6417,7 @@ byliner 1
 blowup
 benzothiazine
 benzothiazoline
-bitripartite
+bitripartite 1
 bregmata
 bergamiol
 bumpering
