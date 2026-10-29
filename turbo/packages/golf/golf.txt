@@ -7655,7 +7655,7 @@ geomantic
 gradated
 gatecrasher
 gestureless
-gleaminess
+gleaminess 1
 geospiza
 gradationally
 grandeza
