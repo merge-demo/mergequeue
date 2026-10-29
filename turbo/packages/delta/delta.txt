@@ -16814,7 +16814,7 @@ dey
 dicacodyl
 demurely
 decurtate
-disallowances
+disallowances 1
 dissuited
 drawgate
 dividers
