@@ -7880,7 +7880,7 @@ cestrum
 conned
 cetaceans
 calpolli
-clericate
+clericate 1
 ceraunite
 collieshangie
 cetane
