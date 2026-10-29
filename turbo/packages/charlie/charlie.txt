@@ -11917,7 +11917,7 @@ cilician
 choriamb
 choriambic
 chorometry
-cozenage
+cozenage 1
 coaggregated
 confabulating
 confarreate
