@@ -11665,7 +11665,7 @@ disjunction
 dele
 discouraged
 discouragingly
-dangerful
+dangerful 1
 diastasis
 discourses
 diovular
