@@ -31638,7 +31638,7 @@ curviness
 curving
 curviserial
 curvital
-curvities
+curvities 1
 cracidae
 columbae
 circumambulating
