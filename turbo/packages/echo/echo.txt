@@ -6996,7 +6996,7 @@ extractors
 embladder
 electrotitration
 enamourment
-epiplectic 1
+epiplectic 2
 explorable
 effigiating
 estated
