@@ -3568,7 +3568,7 @@ emulsifications
 embossman
 esophagoplegia
 enchantery
-emanent
+emanent 1
 edifier
 extracellularly
 excelsin
