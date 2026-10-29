@@ -5682,7 +5682,7 @@ eppie
 extraventricular
 extras
 episcopalism
-egotisticalness
+egotisticalness 1
 emerson
 eagerest
 engallant
