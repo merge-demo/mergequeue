@@ -4760,7 +4760,7 @@ epiopticon
 excusatory
 endocarpic
 encode
-exitance
+exitance 1
 ethnolinguist
 ensnarements
 encoding
