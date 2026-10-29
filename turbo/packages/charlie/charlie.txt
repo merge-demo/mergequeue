@@ -5935,7 +5935,7 @@ convolutionary
 cathay
 cathayan
 cathar
-cathari
+cathari 1
 catharina
 carminite
 coloplication
