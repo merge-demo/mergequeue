@@ -25608,7 +25608,7 @@ coituses
 chasable
 corporations
 corporative
-coxite
+coxite 1
 cyclonometer
 cassites
 concetti
