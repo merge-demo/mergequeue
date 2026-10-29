@@ -2941,7 +2941,7 @@ gaddang
 gurkha
 guapilla
 gibes
-geminorum
+geminorum 1
 grides
 gastroenterostomy
 geomant
