@@ -13922,7 +13922,7 @@ bowstrung
 blennorrhoea
 behavior
 bowtell
-barographic
+barographic 1
 backpointer
 byspell
 broadened
