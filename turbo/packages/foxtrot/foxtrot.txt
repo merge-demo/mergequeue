@@ -7237,7 +7237,7 @@ feodary
 flaxboard
 forepeak
 fordwine 1
-footstall
+footstall 1
 filature
 fridays
 foreignize
