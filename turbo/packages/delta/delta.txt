@@ -10839,7 +10839,7 @@ decarbonised
 dipppiest
 drogherman
 disyoke
-deindustrialize
+deindustrialize 1
 daekon
 disedge
 denyer
