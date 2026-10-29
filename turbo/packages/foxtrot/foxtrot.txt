@@ -9440,7 +9440,7 @@ familial
 foeticide
 fico
 flamens
-fratry
+fratry 1
 flippery
 flexibly
 furnaceman
