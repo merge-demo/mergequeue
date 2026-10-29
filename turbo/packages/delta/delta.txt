@@ -4460,7 +4460,7 @@ deceits
 diceplay
 dpt
 damns
-duress
+duress 1
 demy
 decahydrated
 dovetailing
