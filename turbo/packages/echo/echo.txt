@@ -12687,7 +12687,7 @@ euonymus
 emboweling
 engramma
 epimorphism
-exareolate
+exareolate 1
 embus
 exopterygotism
 epha
