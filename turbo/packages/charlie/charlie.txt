@@ -28199,7 +28199,7 @@ cromfordite
 crankling
 crankpin
 cytolysin
-crankpins
+crankpins 1
 colipyuria
 cryptoperthite
 calthrop
