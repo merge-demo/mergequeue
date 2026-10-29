@@ -14809,7 +14809,7 @@ defensive
 deservingly
 doctorfishes
 decomponible
-demagogic
+demagogic 1
 doctorhood
 doctorial
 disadjust
