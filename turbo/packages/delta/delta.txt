@@ -11070,7 +11070,7 @@ downflow
 disarrays
 disarranges
 do
-disozonize
+disozonize 1
 discernibility
 dulled
 dorhawk
