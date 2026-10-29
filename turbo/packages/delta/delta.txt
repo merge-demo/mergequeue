@@ -7842,7 +7842,7 @@ dependently
 doers
 daylighting 1
 danziger
-devouringly
+devouringly 1
 dignification
 dipterology
 divesting
