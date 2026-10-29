@@ -6334,7 +6334,7 @@ finessed
 fixtureless
 fourb
 fasciculately
-flunkyish
+flunkyish 1
 flunkyize
 forefingers
 ferments
