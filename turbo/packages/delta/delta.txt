@@ -11729,7 +11729,7 @@ dioscorine
 discrepancies
 dimatis
 dedendum
-deactivates
+deactivates 1
 discrepancries
 deterger
 disbrain
