@@ -1731,7 +1731,7 @@ fasciolariidae
 flourless
 foodservices
 faviform
-feasibly
+feasibly 1
 fashionmonger
 flighted
 fascio
