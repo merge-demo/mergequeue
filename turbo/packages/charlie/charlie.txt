@@ -12523,7 +12523,7 @@ cultus
 ciders
 cajeputol
 chromoxylograph
-chron
+chron 1
 caplets
 cacothes
 concurrences
