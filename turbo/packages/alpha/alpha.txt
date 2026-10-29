@@ -15963,7 +15963,7 @@ arnut
 angloman
 appointor
 autorotate
-antiq
+antiq 1
 antiqua
 acetylated
 antelope
