@@ -9408,7 +9408,7 @@ dereling
 dowerless
 dredge
 dismountable
-dejunkerize
+dejunkerize 1
 diffusions
 doylt
 diffusive
