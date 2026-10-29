@@ -2195,7 +2195,7 @@ feltmaker
 fiducia
 fats
 fratercula
-flabellifoliate
+flabellifoliate 1
 farmhouse
 felts
 forthtell

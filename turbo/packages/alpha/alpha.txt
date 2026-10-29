@@ -20855,7 +20855,7 @@ allurers
 arupa
 armoried
 aruspicy
-amaas
+amaas 1
 atnah
 arteriography
 arval
