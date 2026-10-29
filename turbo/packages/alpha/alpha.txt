@@ -11666,7 +11666,7 @@ amba
 anacrogynous
 accents
 askapart
-anacrotic
+anacrotic 1
 altricial
 anacruses
 anaculture
