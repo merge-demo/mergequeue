@@ -3412,7 +3412,7 @@ gyromancy
 gentisate
 geometrized
 globularia
-gourmets
+gourmets 1
 gerrymander
 gorgons
 goldwater
