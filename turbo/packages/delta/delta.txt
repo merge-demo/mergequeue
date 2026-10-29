@@ -6547,7 +6547,7 @@ dodgers
 decimates
 descript
 descriptionist
-dogsled
+dogsled 1
 descriptionless
 dangleberry
 distensile
