@@ -6564,7 +6564,7 @@ enorthotrope
 eohippuses
 electricity
 emigrates
-enhuile
+enhuile 1
 exolemma
 execeptional
 eligenda
