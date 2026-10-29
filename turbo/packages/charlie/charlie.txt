@@ -29907,7 +29907,7 @@ cogwheel
 coadjutator
 crosshatching
 crosshauling
-chipper
+chipper 1
 crossings
 crossite
 contriteness
