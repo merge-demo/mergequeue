@@ -10935,7 +10935,7 @@ acephalan
 amnionata
 acclamation
 absolution
-amosite
+amosite 1
 armsful
 antipyretic
 anhydric
