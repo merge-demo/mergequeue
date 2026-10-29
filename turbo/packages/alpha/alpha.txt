@@ -15213,7 +15213,7 @@ amphimictical
 aberrometer
 amil
 arachnoidea
-arctocephalus
+arctocephalus 1
 airframe
 aseptically
 antifebrin
