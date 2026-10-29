@@ -8872,7 +8872,7 @@ englue
 ecphonesis
 eyedropper
 exiler
-encumbrancer
+encumbrancer 1
 epilegomenon
 eutaxic
 electrooptically
