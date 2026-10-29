@@ -10679,7 +10679,7 @@ geocentricism
 glyceryl
 grove
 goldin
-glyphographic
+glyphographic 1
 generalty
 glycerols
 gurnard
