@@ -30734,7 +30734,7 @@ cuiejo
 cuif
 cuifs
 cuing
-colourfast
+colourfast 1
 cuirassed
 catachrestical
 cuirasses
