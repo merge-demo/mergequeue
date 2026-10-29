@@ -6472,7 +6472,7 @@ equators
 enswathement
 elementariness
 embowered
-exclusiveness
+exclusiveness 1
 evidently
 ephelis
 envisaging
