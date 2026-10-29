@@ -5882,7 +5882,7 @@ belomancy
 bethwack
 belonephobia
 belonger
-bagonet
+bagonet 1
 biased
 bronchophonic
 bared

@@ -3240,7 +3240,7 @@ episomal
 esthesiometric
 enzymatically
 estocada
-effuso
+effuso 1
 exarchateship
 epigon
 embryoscope
