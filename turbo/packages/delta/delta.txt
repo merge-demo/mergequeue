@@ -7604,7 +7604,7 @@ deval
 devaloka
 drenched
 declinable
-devaluates
+devaluates 1
 droppingly
 durandarte
 devalues
