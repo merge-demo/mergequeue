@@ -6995,7 +6995,7 @@ censurably
 cutlips 1
 censure
 censureless
-coexecutant
+coexecutant 1
 coddling
 calcarium
 caecitis
