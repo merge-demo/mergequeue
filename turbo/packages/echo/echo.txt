@@ -9695,7 +9695,7 @@ extraperitoneal
 espouser
 espouses
 epicostal
-espousing
+espousing 1
 enterorrhexis
 esq
 existence
