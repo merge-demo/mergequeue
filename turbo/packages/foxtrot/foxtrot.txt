@@ -2259,7 +2259,7 @@ fanout
 feudalisation
 frolics
 filigerous
-fayalite
+fayalite 1
 funnymen
 fathering
 fyrdung
