@@ -11172,7 +11172,7 @@ bushgoat
 bugfish
 bloodworthy
 belched
-blearily
+blearily 1
 blooey
 bloomed
 booklice

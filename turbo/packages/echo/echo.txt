@@ -12444,7 +12444,7 @@ exility
 evened
 efformative
 exanthem
-educatory
+educatory 1
 enneadic
 electrifying
 electroosmosis
