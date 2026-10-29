@@ -16319,7 +16319,7 @@ dials
 decerned
 diaspores
 dumpiness
-downsized
+downsized 1
 druggeries
 dochmiac
 duchess
