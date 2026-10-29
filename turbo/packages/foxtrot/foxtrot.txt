@@ -6713,7 +6713,7 @@ frescoists
 fighters
 feast
 fellowships
-forelegs
+forelegs 1
 foray
 fogon
 forstand
