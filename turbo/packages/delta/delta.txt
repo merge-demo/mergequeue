@@ -3266,7 +3266,7 @@ dyeleaves
 deblocked
 daughterliness
 dockhead
-domesticate
+domesticate 1
 defiber
 deionized
 duodecillionth

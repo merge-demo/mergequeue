@@ -6808,7 +6808,7 @@ entombs
 excremental
 eviscerator
 entomere
-entomic
+entomic 1
 explorate
 emptins
 entrepreneuse
