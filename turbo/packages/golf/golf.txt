@@ -5252,7 +5252,7 @@ gawkier
 genial
 gullet
 gelsemiums
-glenohumeral
+glenohumeral 1
 genomes
 gadolinium
 girded
