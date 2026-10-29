@@ -7604,7 +7604,7 @@ butlery
 brownprint
 bewitchment
 bewizard
-bombycina
+bombycina 1
 blandished
 bimolecular
 baric
