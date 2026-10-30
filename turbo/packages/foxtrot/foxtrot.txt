@@ -963,7 +963,7 @@ frailness
 forceable
 fibrinogenetic
 fent
-fabrile
+fabrile 1
 fruitling
 farceuses
 flenched
