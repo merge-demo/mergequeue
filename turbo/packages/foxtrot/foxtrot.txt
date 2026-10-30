@@ -2900,7 +2900,7 @@ featherweights
 frumpiness
 flaughts
 flutiest 1
-fanciable
+fanciable 1
 fumigations
 fortressing
 footmark
