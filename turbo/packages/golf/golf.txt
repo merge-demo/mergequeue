@@ -4885,7 +4885,7 @@ guardee
 gladwin
 gauffred
 gymnotoka
-globularity
+globularity 1
 guest
 greensand
 grudge
