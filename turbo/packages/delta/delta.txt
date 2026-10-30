@@ -6061,7 +6061,7 @@ doughbelly
 doover
 diopsis
 disabuses
-diaconicon
+diaconicon 1
 dolous
 dells
 digitalization
