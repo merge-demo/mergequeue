@@ -4431,7 +4431,7 @@ boojum
 bethorning
 beclog
 becoiffed
-bulkiness
+bulkiness 1
 bludging
 bonspells
 bilabials
