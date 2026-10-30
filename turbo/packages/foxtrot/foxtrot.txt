@@ -6385,7 +6385,7 @@ fluoresceine
 factionism
 fashionability
 fimbriatum
-fragrantness
+fragrantness 1
 floreal
 funiliform
 fruited
