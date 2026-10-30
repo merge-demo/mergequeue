@@ -12564,7 +12564,7 @@ dogs 1
 disintegrity
 diagenetic
 disinterest
-disinterestedly
+disinterestedly 1
 disinterestedness
 disinterment
 depilous
