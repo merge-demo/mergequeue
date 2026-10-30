@@ -1234,7 +1234,7 @@ ardelia
 acarian
 ascidiate
 apothece
-acarid
+acarid 1
 accord
 addorsed
 anarthropod
