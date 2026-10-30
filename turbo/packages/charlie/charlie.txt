@@ -2088,7 +2088,7 @@ casseroled
 cuecas
 campanologer
 crucis
-croaker
+croaker 1
 coalmonger
 conjunctly
 campanologically

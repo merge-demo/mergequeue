@@ -4865,7 +4865,7 @@ exsect
 epitaxic
 encrustation
 elepaio
-excitoglandular
+excitoglandular 1
 empoisons
 ebulliometer
 exoperidium
