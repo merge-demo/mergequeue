@@ -11445,7 +11445,7 @@ decencies
 dionysiacal
 discolorations
 discolored
-dar
+dar 1
 doest
 defalcations
 deads
