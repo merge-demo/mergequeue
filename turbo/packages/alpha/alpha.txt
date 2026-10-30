@@ -3950,7 +3950,7 @@ adjures
 autotyphization
 acanthine
 absinthes
-adjust
+adjust 1
 abdal
 aht
 astre
