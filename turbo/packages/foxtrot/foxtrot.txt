@@ -683,7 +683,7 @@ fichu
 forerib
 frissons
 formism
-felanders
+felanders 1
 flan
 furtherly
 faunistical
