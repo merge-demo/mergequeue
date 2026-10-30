@@ -8117,7 +8117,7 @@ figurehead
 filmiest
 fathogram
 fumigator
-foretellers
+foretellers 1
 fondon
 farmland
 foison
