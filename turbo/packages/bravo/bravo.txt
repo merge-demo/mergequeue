@@ -6543,7 +6543,7 @@ benzothiazole
 berberi
 breastrope
 bout
-biohazard
+biohazard 1
 berberid
 bricked
 bundoc
