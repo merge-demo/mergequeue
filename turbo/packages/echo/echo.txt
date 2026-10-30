@@ -2005,7 +2005,7 @@ ektexine
 episternite
 evictees
 emulsic
-equisonant
+equisonant 1
 endodontist
 eradiculose
 elabrate
