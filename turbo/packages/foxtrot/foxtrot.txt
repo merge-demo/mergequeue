@@ -3698,7 +3698,7 @@ fillies
 families
 feetless
 firedogs 1
-foalfoot
+foalfoot 1
 flaccidities
 fillings
 footwarmers
