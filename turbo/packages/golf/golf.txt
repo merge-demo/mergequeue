@@ -9185,7 +9185,7 @@ grantsman
 gora
 geographically 1
 glared
-goosed
+goosed 1
 griphite
 gascoigny
 golee
