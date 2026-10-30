@@ -10876,7 +10876,7 @@ eyeful
 edea
 empair
 esclandre
-exsolve
+exsolve 1
 emmetropia
 eutectic
 embryoplastic

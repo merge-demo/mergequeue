@@ -8937,7 +8937,7 @@ footle
 feldspath
 feverwort
 filament
-favositoid
+favositoid 1
 forehammer
 formally
 frontiersman
