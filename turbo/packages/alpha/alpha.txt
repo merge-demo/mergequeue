@@ -24173,7 +24173,7 @@ aborticide
 autoimmunity
 alcantara
 appledrone
-autoimmunize
+autoimmunize 1
 autoindexing
 autoinfusion
 angel
