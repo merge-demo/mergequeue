@@ -8181,7 +8181,7 @@ adjuster
 antimark
 abscised
 anachronous
-afterchrome
+afterchrome 1
 algological
 algoman
 algometrical
