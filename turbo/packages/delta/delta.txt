@@ -6716,7 +6716,7 @@ depends
 diatribes
 desiderta
 diptycas
-duckmole
+duckmole 1
 detumescent
 dhutis
 dissolutions
