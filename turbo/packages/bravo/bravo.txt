@@ -5816,7 +5816,7 @@ bestorm
 bldg
 bellicism
 beyonds
-buqshas
+buqshas 1
 burnettizing
 bromometry
 biltong
