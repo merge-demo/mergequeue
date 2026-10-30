@@ -3035,7 +3035,7 @@ apostolate
 apotheosise
 amtrac
 amphinucleus
-algin
+algin 1
 actinometrical
 accidie
 apercu
