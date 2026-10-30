@@ -3959,7 +3959,7 @@ ganner
 graphis
 gimping
 grubworms
-gigawatts
+gigawatts 1
 glossoscopia
 geoty
 gads
