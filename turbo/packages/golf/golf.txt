@@ -6121,7 +6121,7 @@ guessworker
 gravities
 gapper
 goodby
-gordiacean
+gordiacean 1
 girja
 gyrous
 glabreity
