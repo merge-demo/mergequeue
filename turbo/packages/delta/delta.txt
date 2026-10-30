@@ -11091,7 +11091,7 @@ disassimilative
 disinherits
 disassociate
 disassociates
-dimerize
+dimerize 1
 dorlach
 disastrous
 drippy
