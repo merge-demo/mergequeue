@@ -19558,7 +19558,7 @@ asterinidae
 arguing
 admiration
 apnea
-argulus
+argulus 1
 argument
 arabidopsis
 argumental
