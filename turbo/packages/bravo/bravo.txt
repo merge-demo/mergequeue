@@ -8036,7 +8036,7 @@ bartend
 bagroom
 bicornuate
 beshadow
-bicorporate
+bicorporate 1
 banyai
 backstay
 belleeks
