@@ -5197,7 +5197,7 @@ endomorphy
 exta
 ekebergite
 either
-endoneurium
+endoneurium 1
 equestrianism
 equinely 1
 entier
