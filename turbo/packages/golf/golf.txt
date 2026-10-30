@@ -6864,7 +6864,7 @@ glucoprotein
 geaster
 glidewort
 gardinol
-galeas
+galeas 1
 genitival
 geed
 gaposises
