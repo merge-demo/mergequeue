@@ -27641,7 +27641,7 @@ cowardness
 cowbane
 collided
 coolheaded
-chamfered
+chamfered 1
 cowbanes
 corticosteroid
 cowberry
