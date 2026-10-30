@@ -6762,7 +6762,7 @@ epinephelus
 enjoys
 entireness
 ethologic
-encashed
+encashed 1
 evading
 entiris
 exasperate
