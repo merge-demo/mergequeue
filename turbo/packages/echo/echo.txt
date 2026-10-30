@@ -3857,7 +3857,7 @@ emesis
 entrapment
 easiness
 exemplarily
-effeminacy
+effeminacy 1
 exallotriote
 exclaves
 euryclea
