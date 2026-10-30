@@ -11399,7 +11399,7 @@ fleak
 furnishes
 fiddles
 flams
-functionlessness
+functionlessness 1
 floors
 frosk
 feater
