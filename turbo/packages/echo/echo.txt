@@ -3578,7 +3578,7 @@ exhibitable
 euclea
 exemplifies
 extravehicular
-emulable
+emulable 1
 egocentric
 esperantism
 exhibits
