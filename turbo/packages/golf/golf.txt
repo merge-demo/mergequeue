@@ -4785,7 +4785,7 @@ gravedo
 glorifies 1
 geisa
 governorship
-galgal
+galgal 1
 gweducks
 gargoylishly
 gangliar
