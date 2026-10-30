@@ -1365,7 +1365,7 @@ fatiferous
 flavorfully
 florentine
 fearfuller
-fatigable
+fatigable 1
 favorable
 fatigableness
 forfars
