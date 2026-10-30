@@ -14013,7 +14013,7 @@ defending
 degrease
 dumpling
 disappropriation
-disproportion
+disproportion 1
 disorb
 doa
 deterge
