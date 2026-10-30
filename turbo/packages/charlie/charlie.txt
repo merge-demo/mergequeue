@@ -12535,7 +12535,7 @@ chronica
 chronicle
 clattertrap
 chronicling
-chronicon
+chronicon 1
 chronics
 craddy
 chronique
