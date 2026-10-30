@@ -4277,7 +4277,7 @@ gantleting
 gramophones
 gnabble
 garnishing
-guncotton
+guncotton 1
 gantang
 gruelled
 gomorrhean
