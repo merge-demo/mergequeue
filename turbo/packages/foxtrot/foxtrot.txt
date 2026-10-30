@@ -6729,7 +6729,7 @@ fomalhaut
 fiscs
 fanny
 fuchsinophil
-featherbed
+featherbed 1
 fluorescent
 forspeaking
 flamming
