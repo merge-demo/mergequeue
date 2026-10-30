@@ -9985,7 +9985,7 @@ gospeler
 goodbys
 glycolide
 guillevat
-gunnery
+gunnery 1
 guggled
 gubbins
 geoethnic
