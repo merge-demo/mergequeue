@@ -16758,7 +16758,7 @@ drave
 danalite
 demiflouncing
 dictynid
-dextrocular
+dextrocular 1
 diplasic
 dangersome
 diatomaceous

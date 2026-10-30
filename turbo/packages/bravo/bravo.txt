@@ -8502,7 +8502,7 @@ burro
 brachiolarian
 bassanello
 baar
-bandos
+bandos 1
 bennis
 barih
 bejeweling
