@@ -11759,7 +11759,7 @@ forloin
 fullhearted
 fellowred
 femalist
-fulminatory
+fulminatory 1
 ferruginous
 fascines
 flocculi
