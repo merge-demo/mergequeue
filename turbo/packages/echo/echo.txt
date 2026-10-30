@@ -7481,7 +7481,7 @@ effluency
 ephor
 elaeosaccharum
 encounterer
-ekphory
+ekphory 1
 euda
 ephraimite
 exocoetidae
