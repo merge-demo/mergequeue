@@ -2649,7 +2649,7 @@ canfuls
 cangan
 charterist
 cruelhearted
-clumsiness
+clumsiness 1
 cangy
 crankdisk
 cangia
