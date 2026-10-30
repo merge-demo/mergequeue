@@ -11716,7 +11716,7 @@ flighty
 fawnskin
 folkland
 fados
-fritter
+fritter 1
 feudalised
 forecool
 fashionably
