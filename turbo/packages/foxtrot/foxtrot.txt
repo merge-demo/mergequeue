@@ -5914,7 +5914,7 @@ flocs
 facilely
 folliculosis
 frostbites
-flogs
+flogs 1
 fermis
 foeticidal 1
 flybane
