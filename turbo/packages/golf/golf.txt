@@ -401,7 +401,7 @@ galanthus
 guilery
 ganymedes
 gains
-goalposts
+goalposts 1
 gilsonite
 gorgon
 gunl
