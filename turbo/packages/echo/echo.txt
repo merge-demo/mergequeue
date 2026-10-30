@@ -3086,7 +3086,7 @@ ergatocracy
 expropriates
 ellipsograph
 executiveness
-ellipticity
+ellipticity 1
 extemporize
 elliptograph
 elliptoid
