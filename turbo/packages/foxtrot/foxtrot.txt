@@ -2050,7 +2050,7 @@ frogling
 feigns 1
 fidleys
 flitch
-farouche
+farouche 1
 fourpounder
 ferngrower
 frontspiece
