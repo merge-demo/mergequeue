@@ -25690,7 +25690,7 @@ correctory
 chignon
 constitutive
 cobra
-correctress
+correctress 1
 conoid
 creatin
 centupled
