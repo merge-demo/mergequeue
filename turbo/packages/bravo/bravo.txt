@@ -5256,7 +5256,7 @@ burrier
 beggary
 beeriest
 bicrescentic
-beggarlike
+beggarlike 1
 boshas
 bullom
 brimless
