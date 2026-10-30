@@ -2544,7 +2544,7 @@ dimers
 daphnioid
 dudgen
 drailing
-declaredly
+declaredly 1
 declares
 disquietudes
 dimaris
