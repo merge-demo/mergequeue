@@ -327,7 +327,7 @@ elfship
 euboic
 eastling
 embetter
-eruditionist
+eruditionist 1
 escots
 engaze
 eastman
