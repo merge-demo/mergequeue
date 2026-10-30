@@ -15021,7 +15021,7 @@ deposals
 dioptrics
 disbutton
 decnet
-doggers
+doggers 1
 dilogarithm
 dentonasal 1
 democratized
