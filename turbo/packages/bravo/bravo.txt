@@ -881,7 +881,7 @@ beflags
 boohoos
 bravura
 baroclinity
-burnished
+burnished 1
 bleachs
 blackboards
 backband
