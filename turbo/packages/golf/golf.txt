@@ -5686,7 +5686,7 @@ gant
 gothites
 grizzler
 gaultheria
-galvanographic
+galvanographic 1
 glandulous
 greenlandman
 gnomonia
