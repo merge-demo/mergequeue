@@ -6036,7 +6036,7 @@ dammit
 dolesomeness
 desterilize
 desmotrope
-deflates
+deflates 1
 dicephalism
 doug
 disserving
