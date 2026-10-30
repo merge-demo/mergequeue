@@ -1929,7 +1929,7 @@ dacryd
 dinophilus
 deferments
 desire
-durocs
+durocs 1
 dawsonite
 decenters
 deaccession
