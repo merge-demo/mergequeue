@@ -8735,7 +8735,7 @@ blandly
 birotatory
 bobbysoxers
 binderies
-barterer
+barterer 1
 beggars
 baptizers
 beheira
