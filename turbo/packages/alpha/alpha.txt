@@ -19996,7 +19996,7 @@ armseye
 abatjour
 apertured
 aals
-amasta
+amasta 1
 armure
 armures
 arn
