@@ -5570,7 +5570,7 @@ bristleless
 blimpishly
 bel
 burys
-bibasic
+bibasic 1
 behoovingly
 basinasal
 boulanger
