@@ -4400,7 +4400,7 @@ foamier
 floorshifts
 flagged
 frenums
-flintstone
+flintstone 1
 fishbowls
 flexive
 forky
