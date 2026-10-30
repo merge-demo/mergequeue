@@ -1335,7 +1335,7 @@ atom
 aiolis
 accelerate
 anilide
-arabize
+arabize 1
 acceleratedly
 assidean
 annealers
