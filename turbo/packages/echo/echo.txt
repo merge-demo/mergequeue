@@ -8762,7 +8762,7 @@ equivelocity
 exuberated
 exteriorized
 expatiator
-equivocal
+equivocal 1
 exuperable
 eulogising
 endangering
