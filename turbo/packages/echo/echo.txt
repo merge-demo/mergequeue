@@ -11172,7 +11172,7 @@ evolvement
 enterers
 evalue
 epigraphist
-evanesced
+evanesced 1
 ergatandromorphic
 eternalism
 exuberantly
