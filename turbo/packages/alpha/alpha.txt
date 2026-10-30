@@ -19098,7 +19098,7 @@ archpolitician
 archprelate
 archprelatic
 abelian
-adjudicator
+adjudicator 1
 askingly
 approvals
 archprelatical
