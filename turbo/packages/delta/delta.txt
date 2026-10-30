@@ -10206,7 +10206,7 @@ doblons
 diphthong
 defibrination
 dismemberments
-desobligeant
+desobligeant 1
 decoys
 dissolutionist
 dinophilea
