@@ -4974,7 +4974,7 @@ endship
 essentia
 exul
 ektenes
-effuses
+effuses 1
 evacuator
 enschedule
 exomphalous
