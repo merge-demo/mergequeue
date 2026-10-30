@@ -21828,7 +21828,7 @@ conduit
 conduplicate
 caterwauler
 crumped
-crunchable
+crunchable 1
 carrotier
 condurangin
 cone
