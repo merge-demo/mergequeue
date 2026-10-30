@@ -18131,7 +18131,7 @@ demythologizations
 duplicate
 devisors
 dictions
-debatable
+debatable 1
 dardistan
 distinctionless
 dardic
