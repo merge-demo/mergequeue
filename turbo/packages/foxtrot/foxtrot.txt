@@ -375,7 +375,7 @@ fibrolipoma
 facsim
 fluids
 flowerily
-fattiness
+fattiness 1
 forcedness
 franklandite
 from
