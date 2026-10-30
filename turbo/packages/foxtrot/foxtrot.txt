@@ -10506,7 +10506,7 @@ featherback
 flees
 flattered
 fum
-fumelike
+fumelike 1
 firetail
 farandman
 frouzy
