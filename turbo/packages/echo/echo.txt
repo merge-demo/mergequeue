@@ -11436,7 +11436,7 @@ expurgated
 eponyms
 evocated
 ectonephridium
-exes
+exes 1
 erinnic
 effectually
 eupatorium
