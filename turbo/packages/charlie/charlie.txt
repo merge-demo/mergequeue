@@ -24486,7 +24486,7 @@ coot
 cootch
 corticin
 cheeseburger
-cootfoot
+cootfoot 1
 crotyl
 cooty
 cootie
