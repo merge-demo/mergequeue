@@ -18161,7 +18161,7 @@ coercionary
 coercitive
 coercive
 coerciveness
-coercivity
+coercivity 1
 coerebidae
 coerected
 coerecting
