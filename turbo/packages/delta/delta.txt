@@ -3602,7 +3602,7 @@ diammonium
 degeneroos
 degerm
 dihalogen
-donnish
+donnish 1
 degerminate
 doated
 degerminator

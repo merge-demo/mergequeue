@@ -9073,7 +9073,7 @@ entergogenic
 extrality
 extravascular
 embank
-epenthesis
+epenthesis 1
 editorialist
 embryogony
 ectasia
