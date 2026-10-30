@@ -799,7 +799,7 @@ fourieristic 1
 fandoms
 frivolized
 fellowlike
-fermacy
+fermacy 1
 futilous
 fleaworts
 feil
