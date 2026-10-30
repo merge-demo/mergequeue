@@ -27332,7 +27332,7 @@ coupstick
 coupure
 cueca
 courage
-courageous
+courageous 1
 curacy
 connexionalism
 couranto
