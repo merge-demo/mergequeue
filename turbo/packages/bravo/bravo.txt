@@ -2221,7 +2221,7 @@ bertat
 bromocyanid
 backflash
 briscola
-blimpishness
+blimpishness 1
 bararite 1
 barathea
 barbellate
