@@ -5386,7 +5386,7 @@ flunkyistic
 forthset
 fleshliest
 fairtime
-frostlike
+frostlike 1
 flutists
 fleche
 folliculate

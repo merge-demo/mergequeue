@@ -6303,7 +6303,7 @@ dermatosiophobia
 diselder
 depurated
 dermatozoon
-deadens
+deadens 1
 dermatozoonosis
 deutzias
 dishelming
