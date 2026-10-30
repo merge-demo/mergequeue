@@ -5885,7 +5885,7 @@ belonger
 bagonet
 biased
 bronchophonic
-bared
+bared 1
 belonging
 basisphenoid
 believing
