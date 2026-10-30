@@ -4872,7 +4872,7 @@ exoperidium
 endoderm
 enculturation
 ergatandromorph
-epispastic
+epispastic 1
 extrapolates
 essenis
 electrodialyzer
