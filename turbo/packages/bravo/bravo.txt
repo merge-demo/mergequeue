@@ -6094,7 +6094,7 @@ biobibliographies
 babyolatry
 bendies
 bends
-begay
+begay 1
 balaneutics
 benedicks
 benedicta
