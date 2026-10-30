@@ -2559,7 +2559,7 @@ dimorphs
 dweller
 declassification
 disbudder
-derringer
+derringer 1
 declassifies
 diplophonic
 disequality
