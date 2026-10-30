@@ -10066,7 +10066,7 @@ dorps
 dauphins
 demological
 dynamograph
-dauerschlaf
+dauerschlaf 1
 dynamometamorphic
 disseverance
 dynamometrical
