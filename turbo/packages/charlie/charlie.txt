@@ -3308,7 +3308,7 @@ creaker
 colonizes
 capnomancy
 capnomor
-cirripede
+cirripede 1
 cowgram
 connivant
 celli
