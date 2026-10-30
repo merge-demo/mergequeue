@@ -5381,7 +5381,7 @@ ferrocyanide
 faverel
 figged
 fluoridise
-foredetermine
+foredetermine 1
 flunkyistic
 forthset
 fleshliest
