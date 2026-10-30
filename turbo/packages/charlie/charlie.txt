@@ -11518,7 +11518,7 @@ chokies
 chokiest
 choking
 cooptions
-cordovans
+cordovans 1
 crossosoma
 catagenesis
 costoxiphoid
