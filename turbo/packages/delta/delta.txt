@@ -17753,7 +17753,7 @@ deflagrates
 decapods
 descried
 drachmal
-desicate
+desicate 1
 devaluing
 dubitate
 doyenne
