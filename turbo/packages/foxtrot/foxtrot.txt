@@ -10618,7 +10618,7 @@ farceurs
 flative
 forseen
 fractile
-franc 1
+franc 2
 frontalis
 forswearing
 flumped
