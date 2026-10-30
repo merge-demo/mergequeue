@@ -12230,7 +12230,7 @@ bedsore
 broos
 brailling
 bolographic
-broggerite
+broggerite 1
 baluchitherium
 bookshelf 1
 biseptate
