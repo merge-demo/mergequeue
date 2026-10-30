@@ -1534,7 +1534,7 @@ foulards
 filibeg
 flauntiness
 forepiece
-faunish
+faunish 1
 fleecing
 foamers
 franklinite
