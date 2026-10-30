@@ -16903,7 +16903,7 @@ burhead
 bichromatic
 bathysophic
 buffoonish
-bungle
+bungle 1
 baret
 betorn
 baronages
