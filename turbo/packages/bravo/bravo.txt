@@ -2299,7 +2299,7 @@ bathochromy
 bellman
 brownly
 barbastelle
-barbate
+barbate 1
 beblister
 boiled
 bucculatrix
