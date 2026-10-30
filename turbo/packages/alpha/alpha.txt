@@ -8473,7 +8473,7 @@ alkaliser
 adjoint
 angustate
 abdomens
-adaptable
+adaptable 1
 alacreatinine
 alkalizer
 afforested
