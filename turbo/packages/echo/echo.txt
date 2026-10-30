@@ -1248,7 +1248,7 @@ enjoyable
 enroot
 efficiently
 earthshock
-enchair
+enchair 1
 ethylidyne
 epigrammatise
 eelcake
