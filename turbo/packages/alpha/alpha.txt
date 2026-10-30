@@ -23693,7 +23693,7 @@ auriculocranial
 apios
 amphisile
 auriculotemporal
-auriferous
+auriferous 1
 appreciational
 auxograph
 autorhythmic
