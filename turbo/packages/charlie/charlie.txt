@@ -14131,7 +14131,7 @@ circularly
 circularness
 circulars
 caravaneer
-cabbalize
+cabbalize 1
 chaetosomatidae
 cyanhydrate
 circulation
