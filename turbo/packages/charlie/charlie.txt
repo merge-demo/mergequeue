@@ -20612,7 +20612,7 @@ congreve
 competitive
 competitiveness
 competitor
-competitory
+competitory 1
 conjugal
 cradock
 cascol
