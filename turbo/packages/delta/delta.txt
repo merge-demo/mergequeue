@@ -11309,7 +11309,7 @@ dowset
 deambulatories
 davens
 deprivate
-discerpibleness
+discerpibleness 1
 downfield
 distrainee
 dorsolum
