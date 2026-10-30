@@ -9715,7 +9715,7 @@ anglicans
 alvar
 anecdotist
 asmack
-anaemic
+anaemic 1
 alveary
 advent
 alvearium
