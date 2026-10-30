@@ -9934,7 +9934,7 @@ freckled
 frigates
 flocculated
 flavin
-frightable
+frightable 1
 frightens
 frighting
 fumiduct
