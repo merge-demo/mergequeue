@@ -15847,7 +15847,7 @@ dorsoscapular
 dozen
 dorsothoracic
 diablotin
-ddt
+ddt 1
 discoursed
 dialdehyde
 devilship
