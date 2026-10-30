@@ -1392,7 +1392,7 @@ dysesthetic
 davies
 duotriode
 dayless
-decephalize
+decephalize 1
 diorites
 daviesite
 deleted
