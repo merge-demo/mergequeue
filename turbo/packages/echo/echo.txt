@@ -6924,7 +6924,7 @@ entoptics
 evections
 expense
 embargoed
-ebullate
+ebullate 1
 evangelicality
 enjoyableness
 entosternal
