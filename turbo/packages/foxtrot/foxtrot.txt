@@ -10014,7 +10014,7 @@ fryer
 flans
 fluorometric
 fringehead
-fringelet 1
+fringelet 2
 fruitier
 fringent
 frizzer
