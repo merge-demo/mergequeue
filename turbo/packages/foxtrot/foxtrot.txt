@@ -8070,7 +8070,7 @@ ferrochromium
 forests
 fissuriform
 fumer
-flusterated
+flusterated 1
 frippet
 forejudged
 forenews
