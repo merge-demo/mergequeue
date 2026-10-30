@@ -8092,7 +8092,7 @@ actinopraxis
 attriutively
 alrune
 airworthy
-acidotic
+acidotic 1
 anacletica
 arithmetically
 amphide
