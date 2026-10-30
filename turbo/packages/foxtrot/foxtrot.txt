@@ -4799,7 +4799,7 @@ fubsy
 forbiddenness
 figurately
 fasciculus
-feuillants
+feuillants 1
 fortunetelling
 flocculable
 fluviovolcanic
