@@ -14437,7 +14437,7 @@ biontic
 brow
 brachygraphy
 birdshots
-beaconwise
+beaconwise 1
 bowldery
 blackbeetle
 blowpoint
