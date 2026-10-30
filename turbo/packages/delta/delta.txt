@@ -8692,7 +8692,7 @@ dichastasis
 deathrate
 depolarizing
 diethylethanolamine
-diastereoisomerism
+diastereoisomerism 1
 dodges
 druid
 deoxyribose
