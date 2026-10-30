@@ -5459,7 +5459,7 @@ deregister
 donation
 disenablement
 deorsum
-dasturi
+dasturi 1
 deossification
 deuterostomatous
 dissipates
