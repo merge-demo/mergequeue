@@ -13453,7 +13453,7 @@ asiatize 1
 artiste
 alibies
 annabergite
-antiminsion
+antiminsion 1
 antimnemonic
 annaly
 annaline
