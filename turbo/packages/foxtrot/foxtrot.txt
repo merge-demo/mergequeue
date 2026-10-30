@@ -2550,7 +2550,7 @@ falerno
 fairyhood
 funduck
 ferryboat
-fatties
+fatties 1
 fratery
 fitchews
 fibrocytic
