@@ -1340,7 +1340,7 @@ benzaldiphenyl
 blatchang
 boser
 bermudian
-bernoullian
+bernoullian 1
 bingy
 burelage
 bedways
