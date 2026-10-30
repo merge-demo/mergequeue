@@ -6623,7 +6623,7 @@ bordar
 boneshave
 binal
 bodegon
-beribanded
+beribanded 1
 birdy
 barbarious
 beriberis
