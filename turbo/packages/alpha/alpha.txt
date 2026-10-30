@@ -23943,7 +23943,7 @@ antisplasher
 archvestryman
 authorizer
 agostadero
-authorizes
+authorizes 1
 authorless
 authors
 aeries
