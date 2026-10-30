@@ -9182,7 +9182,7 @@ glauconitization
 gripgrass
 grouchily
 grantsman
-gora
+gora 1
 geographically 1
 glared
 goosed
