@@ -2498,7 +2498,7 @@ genderless
 gamogeny 1
 graven
 gradatim
-gastroenterocolitis
+gastroenterocolitis 1
 gliriformia
 gladite
 guttifer
