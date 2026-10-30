@@ -5967,7 +5967,7 @@ enjambements
 enigmata
 eassel
 eluvial
-exquisite
+exquisite 1
 etourderie
 enigmatist
 enigmatographer
