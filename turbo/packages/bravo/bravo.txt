@@ -12731,7 +12731,7 @@ brackened
 boxty
 breviate
 barrenwort
-beaux
+beaux 1
 barging
 bimetallist
 ballant
