@@ -4790,7 +4790,7 @@ gweducks
 gargoylishly
 gangliar
 gobiiform
-glucogenic
+glucogenic 1
 glassware
 gravidly
 gainfulness
