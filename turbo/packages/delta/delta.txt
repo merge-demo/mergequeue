@@ -5375,7 +5375,7 @@ duotype
 dentirostral
 drumbeating
 deceptory
-displeasure
+displeasure 1
 dribbler
 downless
 decorative
