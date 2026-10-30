@@ -12343,7 +12343,7 @@ deathweed
 dishcloth
 dishcloths
 disparkle
-desulfured
+desulfured 1
 distraint
 dupable
 diel
