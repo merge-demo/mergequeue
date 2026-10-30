@@ -10504,7 +10504,7 @@ fortuities
 feodality
 featherback
 flees
-flattered
+flattered 1
 fum
 fumelike
 firetail
