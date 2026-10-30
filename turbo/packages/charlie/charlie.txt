@@ -9427,7 +9427,7 @@ commendatory
 cheapest
 cheapish
 cheaply
-cheapness
+cheapness 1
 cladoselachea
 cheapos
 clovene
