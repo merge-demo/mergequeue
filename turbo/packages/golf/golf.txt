@@ -4221,7 +4221,7 @@ grovel
 goloka
 gois
 gaetuli
-gyromagnetic
+gyromagnetic 1
 galvanomagnetism
 gyron
 gynaecological
