@@ -9966,7 +9966,7 @@ bunkmate
 ballottine
 blairmorite
 bivalents
-bivalvia
+bivalvia 1
 bivalvian
 bivariant
 baddock
