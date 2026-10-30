@@ -2532,7 +2532,7 @@ bassetite
 bottonhook
 buckler
 baldish
-barguest
+barguest 1
 barguests
 buzylene
 baria
