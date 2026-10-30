@@ -10417,7 +10417,7 @@ axe
 androgen 1
 anatomisable
 aviararies
-amerinds
+amerinds 1
 ailuromania
 amerveil
 acanthophis
