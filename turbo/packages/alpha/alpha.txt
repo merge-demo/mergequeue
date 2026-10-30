@@ -17152,7 +17152,7 @@ anisochromia
 apogeotropism
 apogon
 afterfuture
-apogonid
+apogonid 1
 afterdrain
 acquirement
 apographic
