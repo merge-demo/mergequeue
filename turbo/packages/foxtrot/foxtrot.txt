@@ -6273,7 +6273,7 @@ festers
 fluidized
 ferroconcrete
 firers
-flared
+flared 1
 fissiparation 1
 fortissimos
 footlock
