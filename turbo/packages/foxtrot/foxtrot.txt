@@ -6863,7 +6863,7 @@ fattiest
 farewell
 fiery
 flasks
-friability
+friability 1
 flourished
 fossilise
 frecked 1
