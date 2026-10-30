@@ -4564,7 +4564,7 @@ gressible
 girdles
 grids
 girella
-gracefully
+gracefully 1
 girellidae
 geometricism
 gurts

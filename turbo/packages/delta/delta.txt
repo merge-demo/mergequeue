@@ -18558,7 +18558,7 @@ deviltries
 denuding
 dourahs
 debars
-duros
+duros 1
 drouks 1
 distil
 despaired
