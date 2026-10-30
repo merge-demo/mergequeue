@@ -2927,7 +2927,7 @@ freezed
 foxberries
 fac
 furloughs
-fungological
+fungological 1
 froths
 fevered
 foraminiferan
