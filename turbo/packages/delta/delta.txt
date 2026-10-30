@@ -4313,7 +4313,7 @@ devilbird
 djins
 devoutness
 durning
-delimit
+delimit 1
 duckhood
 dequeue
 dunderpate
