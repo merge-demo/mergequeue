@@ -3275,7 +3275,7 @@ fieldpieces
 feudovassalism
 fremt
 fungilliform
-furfuryl
+furfuryl 1
 filopodium
 fiddlestick
 frambesia
