@@ -4493,7 +4493,7 @@ fashioned
 factorize
 furthermost
 fleshing
-foreloop
+foreloop 1
 fantocine
 fluffier
 fountainwise
