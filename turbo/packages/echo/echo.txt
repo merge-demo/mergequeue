@@ -11705,7 +11705,7 @@ elands
 exaltment
 essayism
 epinard
-enclasped
+enclasped 1
 endmatcher
 examen
 elementals
