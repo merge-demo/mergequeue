@@ -20618,7 +20618,7 @@ cradock
 cascol
 competitors
 challengee
-competitrix
+competitrix 1
 cofounded
 curvilinearly
 compilations
