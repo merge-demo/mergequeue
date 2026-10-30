@@ -7659,7 +7659,7 @@ gleaminess
 geospiza
 gradationally
 grandeza
-goals
+goals 1
 germinancy
 gassier
 gramarye
