@@ -23288,7 +23288,7 @@ culmen
 consubstantive
 consuetudinal
 consul
-consulage
+consulage 1
 coloclysis
 chirurgical
 concertizes
