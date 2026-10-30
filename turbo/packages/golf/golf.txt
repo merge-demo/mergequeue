@@ -6139,7 +6139,7 @@ greit
 greatly
 gnathostomous
 gustoes
-gnathostome
+gnathostome 1
 gjetosts
 gallivants
 gammarus
