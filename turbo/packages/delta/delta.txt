@@ -14586,7 +14586,7 @@ duckeries
 deoxyribonucleoprotein 1
 dismemberment
 dayakker
-demureness
+demureness 1
 denotive
 demiurgically
 disastrousness
