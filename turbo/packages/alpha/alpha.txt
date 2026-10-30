@@ -19695,7 +19695,7 @@ alfarga
 aristate
 ascesis
 alertness
-aristeia
+aristeia 1
 acetanilide
 aristocracy
 aristocraticalness
