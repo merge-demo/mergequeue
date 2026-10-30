@@ -6565,7 +6565,7 @@ fetiales
 fissions
 fo
 fireproofed
-fuciphagous
+fuciphagous 1
 foalfoots
 flavorers
 ficula
