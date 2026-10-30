@@ -5291,7 +5291,7 @@ arthron
 anthomedusae
 atonement
 alemanni
-aggerate
+aggerate 1
 aphototropic
 affinities
 affinition 1
