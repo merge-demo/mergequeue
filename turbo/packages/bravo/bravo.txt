@@ -6368,7 +6368,7 @@ benzofuran
 biozone
 benzoglycolic
 benzoglyoxaline 1
-binominal
+binominal 1
 bastioned
 benzohydrol
 benzoylated
