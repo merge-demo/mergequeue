@@ -6036,7 +6036,7 @@ butyral
 botaniser
 bemurmure
 bemurmuring
-bittier
+bittier 1
 bemuses
 bol
 ballmine
