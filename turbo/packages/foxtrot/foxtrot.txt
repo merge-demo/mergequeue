@@ -8089,7 +8089,7 @@ flasklet
 faints
 factorist
 fumacious
-farceur
+farceur 1
 forme
 fragilaria
 formalized
