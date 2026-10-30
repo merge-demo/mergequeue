@@ -17153,7 +17153,7 @@ chummer
 cryptogenetic
 coadunite
 coadventure
-coadventured
+coadventured 1
 coadventuring
 coadvice
 coaffirmation
