@@ -4249,7 +4249,7 @@ deltohedron
 drepanis
 dogvanes
 delubra
-deluce
+deluce 1
 delude
 dishonored
 dipperful
