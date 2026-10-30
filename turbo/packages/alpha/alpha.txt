@@ -24195,7 +24195,7 @@ autokinesy
 abastard
 arratel
 allentiacan
-autokinesis
+autokinesis 1
 arythmia
 apteryxes
 assuage

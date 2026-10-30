@@ -2391,7 +2391,7 @@ daver
 discommendable
 disdain
 deciduously
-dessertspoonful
+dessertspoonful 1
 dimercuric
 decyl
 deciles
