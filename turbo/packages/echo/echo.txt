@@ -3980,7 +3980,7 @@ embarrassingly
 edictum
 enfolded
 epiparodos
-egalite
+egalite 1
 extramodal
 empatron
 epithecicia
