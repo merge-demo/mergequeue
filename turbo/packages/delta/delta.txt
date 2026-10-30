@@ -2897,7 +2897,7 @@ dracunculus
 duello
 doblones
 decarbonizing
-decuss
+decuss 1
 decussate
 decussatively
 desideratum
