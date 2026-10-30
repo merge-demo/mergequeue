@@ -704,7 +704,7 @@ fireman
 filemot
 floccing
 funkier
-flannelmouths
+flannelmouths 1
 fungoids
 feathercut
 fairish
