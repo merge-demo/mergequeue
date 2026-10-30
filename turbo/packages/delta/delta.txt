@@ -7344,7 +7344,7 @@ disprejudice
 deterrent
 dodunk
 detersiveness
-diastral
+diastral 1
 disunions
 detestation
 decomponent
