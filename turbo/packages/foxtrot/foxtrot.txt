@@ -10218,7 +10218,7 @@ formalisms
 finespun
 formolit
 frabous
-fortuitousness
+fortuitousness 1
 fluorescigenous
 fruticant
 fadedness
