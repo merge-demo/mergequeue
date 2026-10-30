@@ -2235,7 +2235,7 @@ awestruck
 aerosolizing
 anent
 achromatope
-autodecrement
+autodecrement 1
 achromatophile 1
 achromatophilia
 atmospherology
