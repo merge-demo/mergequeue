@@ -10910,7 +10910,7 @@ frowsty
 flivver
 fletched
 firesafeness
-fullom
+fullom 1
 flirtations
 finagler
 foremastmen
