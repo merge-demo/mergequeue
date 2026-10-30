@@ -4933,7 +4933,7 @@ eucaine
 emulatress
 eversion
 endeavour
-endamaging
+endamaging 1
 estreated
 ericeticolous
 exilable
