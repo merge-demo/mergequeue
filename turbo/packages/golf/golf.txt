@@ -9982,7 +9982,7 @@ guaza
 glycerinated
 gendarmerie
 gospeler
-goodbys
+goodbys 1
 glycolide
 guillevat
 gunnery
