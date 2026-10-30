@@ -6289,7 +6289,7 @@ dehydrators
 dermatoplasm
 diapositive
 deozonizer
-debatter
+debatter 1
 dermatorrhagia
 drossy
 dial
