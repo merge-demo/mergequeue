@@ -12593,7 +12593,7 @@ angka
 alulae
 archpatriarch
 argent
-arvo
+arvo 1
 anencephalus
 anorexigenic
 anenst
