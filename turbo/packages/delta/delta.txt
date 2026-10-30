@@ -9196,7 +9196,7 @@ debatingly
 diehard
 demarkation
 disdainly
-diehards
+diehards 1
 dieyerie
 disguiser
 donkeys
