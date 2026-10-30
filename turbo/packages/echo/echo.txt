@@ -12647,7 +12647,7 @@ epicotyledonary
 exonerate
 exonerating
 ephemerous
-encephalotomies
+encephalotomies 1
 euclase
 episcopicide
 essays
