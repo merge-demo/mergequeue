@@ -8579,7 +8579,7 @@ exceptant
 eskimauan
 extraparenchymal
 equiaxed
-edificable
+edificable 1
 equate
 eburnification
 enharmonic
