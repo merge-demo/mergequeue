@@ -3352,7 +3352,7 @@ funereality
 format
 fluctisonant
 flatfoot
-fructescent
+fructescent 1
 fattener
 fibromatous
 fossores
