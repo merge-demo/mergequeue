@@ -12311,7 +12311,7 @@ cantred
 chrysomonadine
 chromatically
 chromatician
-chromaticness
+chromaticness 1
 conuses
 chromatin
 caucasoids
