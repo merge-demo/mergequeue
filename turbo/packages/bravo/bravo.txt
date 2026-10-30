@@ -3860,7 +3860,7 @@ butterers
 barnacles
 bullpouts
 babus
-bawdrics
+bawdrics 1
 bawdries
 boreal
 bawl
