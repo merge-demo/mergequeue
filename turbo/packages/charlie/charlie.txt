@@ -18229,7 +18229,7 @@ catacumba
 chalchuite
 cohosting
 concessionary
-chartings
+chartings 1
 coffeegrower
 cantinas
 carbonari
