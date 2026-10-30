@@ -5797,7 +5797,7 @@ fossiliferous
 fructicultural
 fumeroot
 fallage
-fastigium
+fastigium 1
 foreswearing
 filmer
 flamingly
