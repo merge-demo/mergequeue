@@ -2861,7 +2861,7 @@ eleutherios
 estuarian
 elytriferous
 enterotoxin
-ectosteally
+ectosteally 1
 endomorphic 1
 elder
 epitympa

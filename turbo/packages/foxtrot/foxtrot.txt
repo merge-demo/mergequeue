@@ -6202,7 +6202,7 @@ fakeries
 fairest
 flaring
 foragement
-frumpishness
+frumpishness 1
 foe
 festooneries
 forecatharping
