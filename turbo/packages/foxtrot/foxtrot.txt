@@ -49,7 +49,7 @@ flusterer
 factorability
 foolhardihood
 foreshowing
-few
+few 1
 feedway
 frab
 flavonoid
