@@ -17820,7 +17820,7 @@ deputator
 drumlin
 dragging
 duckmeat
-duckpin
+duckpin 1
 desalinate
 diabolarch
 dower
