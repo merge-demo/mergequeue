@@ -17051,7 +17051,7 @@ breakables
 bondmaid
 buggess
 bethinks
-bulimy
+bulimy 1
 bulimias
 bronchiostenosis
 broomtail
