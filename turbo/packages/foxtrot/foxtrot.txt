@@ -2409,7 +2409,7 @@ fistularia
 flavous
 filipuncture
 frenchness
-ferities
+ferities 1
 fulgoridae
 floodless
 formalizable
