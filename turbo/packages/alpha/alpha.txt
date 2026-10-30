@@ -8448,7 +8448,7 @@ aludel
 alkaligenous
 alkaline
 ankylostoma
-alkalinity
+alkalinity 1
 alkalinities
 abactor
 aesthesics
