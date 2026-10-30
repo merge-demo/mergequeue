@@ -7014,7 +7014,7 @@ gamostely
 gavel
 gummer
 goofily
-goops
+goops 1
 gamelote
 gladioli
 greenboard

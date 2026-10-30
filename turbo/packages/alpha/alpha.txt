@@ -24678,7 +24678,7 @@ anastrophia
 archimage
 autostylic
 averagely
-averageness
+averageness 1
 averaging
 ackeys
 adenemphractic
