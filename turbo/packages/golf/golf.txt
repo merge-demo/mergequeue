@@ -10838,7 +10838,7 @@ greengrocery
 grayhead
 gyrofrequency
 girderage
-gyrograph
+gyrograph 1
 guttar
 guaiacum
 grudgefully
