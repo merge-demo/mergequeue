@@ -3270,7 +3270,7 @@ compenetrate
 corns
 capito
 chanfrin
-canulated
+canulated 1
 capitol
 clingier
 crayfishing
