@@ -2421,7 +2421,7 @@ espinel
 eucalyptography
 erythematous
 euphausid
-epitaxial
+epitaxial 1
 etherate
 earthnut
 earmarked
