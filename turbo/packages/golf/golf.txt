@@ -1689,7 +1689,7 @@ gambado
 glossoscopy
 glycerinate
 gorkhali
-gynocracy
+gynocracy 1
 gympie
 goldstone
 genotypes
