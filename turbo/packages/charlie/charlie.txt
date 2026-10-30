@@ -16639,7 +16639,7 @@ curiologic
 caprificate
 closable
 closeable
-closecross 1
+closecross 2
 closed
 chloroplatinic
 closefistedly
