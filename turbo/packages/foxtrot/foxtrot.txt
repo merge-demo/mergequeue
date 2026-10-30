@@ -10008,7 +10008,7 @@ foralite
 flee
 flatwork
 franchiser
-flor
+flor 1
 fellagha
 fryer
 flans
