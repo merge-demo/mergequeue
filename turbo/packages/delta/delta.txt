@@ -10075,7 +10075,7 @@ dirls
 dilatable
 dynamomorphic
 dislustring
-disciplinary
+disciplinary 1
 dynamophone
 decentralised
 dynamos
