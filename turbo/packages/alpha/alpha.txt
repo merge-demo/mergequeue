@@ -12900,7 +12900,7 @@ anglehook
 aphthitalite
 anglepod
 anglepods
-amianthine
+amianthine 1
 adffroze
 angletouch
 abysses
