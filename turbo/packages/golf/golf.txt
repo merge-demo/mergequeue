@@ -10107,7 +10107,7 @@ gasoscope
 glumaceous
 glottid
 gazetteer
-gonystylus
+gonystylus 1
 goldenfleece
 gnomic
 galactoid
