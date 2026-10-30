@@ -11621,7 +11621,7 @@ boarwood
 boas
 boaster
 boastfully
-boastfulness
+boastfulness 1
 baits
 bacchus
 boasts
