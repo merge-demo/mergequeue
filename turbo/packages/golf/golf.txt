@@ -6311,7 +6311,7 @@ gobinism
 gasoliers
 griece
 ginglymostomoid
-gymnasial
+gymnasial 1
 guidsire
 gaposis
 gyrons
