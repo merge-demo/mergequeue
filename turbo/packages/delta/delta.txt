@@ -11692,7 +11692,7 @@ deplume
 discradle
 delfts
 dockhands
-detectable
+detectable 1
 dantonesque
 dyscrasic
 discussions
