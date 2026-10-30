@@ -8229,7 +8229,7 @@ gerontotherapies
 gedanken
 grisard
 gonof
-graphitize
+graphitize 1
 glacioaqueous
 goldbug
 gutturalising
