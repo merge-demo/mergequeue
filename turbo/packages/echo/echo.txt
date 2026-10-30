@@ -5963,7 +5963,7 @@ enframing
 enigma
 egotism 1
 enigmas
-enjambements
+enjambements 1
 enigmata
 eassel
 eluvial
