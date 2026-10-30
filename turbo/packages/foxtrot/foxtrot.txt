@@ -10844,7 +10844,7 @@ fulfiller
 flambeaux
 fumose
 fulfillment
-flus
+flus 1
 flavorous
 ferule
 fulfillments
