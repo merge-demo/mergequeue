@@ -8303,7 +8303,7 @@ chalkpit
 chalkrail
 circumflect
 catechizable
-chalkworker
+chalkworker 1
 centriciput
 challas
 chamicuro
