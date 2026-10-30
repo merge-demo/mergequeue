@@ -15377,7 +15377,7 @@ detectivism
 distoma
 dissemblance
 decempedate
-dynamize
+dynamize 1
 dedications
 dominae
 decarburization
