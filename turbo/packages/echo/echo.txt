@@ -12039,7 +12039,7 @@ eltrot
 enlivenment
 enwwove
 expolish
-excoriations
+excoriations 1
 exumbrella
 epiclike
 enforcible
