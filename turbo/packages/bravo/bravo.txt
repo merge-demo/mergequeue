@@ -3752,7 +3752,7 @@ bowstringed
 beachwear
 battues
 bourdis
-batture
+batture 1
 bielded
 barasingha
 blackening
