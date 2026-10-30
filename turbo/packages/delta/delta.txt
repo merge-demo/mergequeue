@@ -17906,7 +17906,7 @@ durance
 dejectedly
 donate
 duenas
-duenesses
+duenesses 1
 disserted
 diddles
 datable
