@@ -5301,7 +5301,7 @@ decultivate
 droitsman
 dysmorphism
 diancecht
-dentality
+dentality 1
 dentaliums
 dakoit
 delphinapterus
