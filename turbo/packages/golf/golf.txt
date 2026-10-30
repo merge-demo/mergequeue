@@ -8799,7 +8799,7 @@ generic
 giantesses
 greensickness
 greenstone
-gimballing
+gimballing 1
 gange
 golems
 greenswarded
