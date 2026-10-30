@@ -4316,7 +4316,7 @@ eloquence
 exclaustration
 enamelist
 enamelless
-eluder
+eluder 1
 edibles
 enami
 elephancy
