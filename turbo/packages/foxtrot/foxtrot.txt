@@ -10215,7 +10215,7 @@ frighted
 fibrose
 franconian
 formalisms
-finespun
+finespun 1
 formolit
 frabous
 fortuitousness
