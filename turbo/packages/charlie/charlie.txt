@@ -8278,7 +8278,7 @@ cephalohumeralis
 chantress
 courtyard
 chalina
-coonskin
+coonskin 1
 complexity
 corallet
 choyroot
