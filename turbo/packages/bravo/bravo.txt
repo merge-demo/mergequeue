@@ -8127,7 +8127,7 @@ bateaux
 bieldy
 brawlier
 bossa
-bellicoseness
+bellicoseness 1
 bielding
 brunts
 bewinter
