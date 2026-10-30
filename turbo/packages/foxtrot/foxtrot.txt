@@ -5495,7 +5495,7 @@ feus
 farouk
 ferrymen
 fribbles
-foolscap
+foolscap 1
 flesh
 forbids
 footsoreness

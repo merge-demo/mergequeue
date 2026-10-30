@@ -8067,7 +8067,7 @@ dhooties
 dhootis
 denaturant
 domesticated
-dysgenetic
+dysgenetic 1
 disendowment
 desugar
 durzi
