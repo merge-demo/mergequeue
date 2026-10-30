@@ -10078,7 +10078,7 @@ blabbered
 barytic
 bewhiskered
 blabbermouths
-blabbing
+blabbing 1
 blabmouth
 bludgeoneer
 beamish
