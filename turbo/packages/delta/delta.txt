@@ -8256,7 +8256,7 @@ duel
 dictyostele
 doubletree
 denude
-diagonals
+diagonals 1
 distancing
 deducting
 diagonalwise
