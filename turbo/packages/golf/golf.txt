@@ -5109,7 +5109,7 @@ goldeneye
 gte
 glathsheimr
 ginnel
-gourmander
+gourmander 1
 geyan
 glycocholic
 glaga
