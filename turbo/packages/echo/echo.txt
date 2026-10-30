@@ -10918,7 +10918,7 @@ epilogizing
 entomologising
 epipteric
 eulogies
-euphuize
+euphuize 1
 eupyrion
 eupittone
 entomolegist
