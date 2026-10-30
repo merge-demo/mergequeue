@@ -3231,7 +3231,7 @@ fictioner
 frontis
 furbisher
 foci
-forestay
+forestay 1
 fictionized
 frankheartness
 fictionizing
