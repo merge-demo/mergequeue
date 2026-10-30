@@ -1599,7 +1599,7 @@ deafened
 doorjambs
 dummered
 dawe
-dicyanid
+dicyanid 1
 destruct
 dunkirker
 dhyana
