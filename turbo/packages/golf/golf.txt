@@ -2227,7 +2227,7 @@ galactase
 gastrotome
 grifts
 gefulltefish
-galley
+galley 1
 gaumy
 galax
 gonidiogenous
