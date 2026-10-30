@@ -3792,7 +3792,7 @@ geobios
 gallantry
 gibberellin
 gyromele
-gorgoniacean
+gorgoniacean 1
 grandmotherhood
 gaffing
 greenhew
