@@ -7885,7 +7885,7 @@ fusillades
 froeman
 fictionalizing
 foresail
-feuilletonistic
+feuilletonistic 1
 fasten
 fork
 floes
