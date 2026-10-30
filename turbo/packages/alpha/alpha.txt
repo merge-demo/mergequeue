@@ -24467,7 +24467,7 @@ arbitrable
 autotimer
 autotypography
 autotomise
-armbands
+armbands 1
 adoptively
 archaeologists
 ambitiously
