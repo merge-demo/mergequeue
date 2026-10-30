@@ -6029,7 +6029,7 @@ flabbiness
 fresco
 fermorite
 flightiness
-finger
+finger 1
 fontange
 forespeech
 frontooccipital
