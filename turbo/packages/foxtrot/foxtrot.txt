@@ -2316,7 +2316,7 @@ foreruns
 fondness
 fellowess
 featherheaded
-feaster
+feaster 1
 fixities
 fixatifs
 frize
