@@ -8238,7 +8238,7 @@ foresweat
 fabraea
 fast
 fesse
-forgeable
+forgeable 1
 forwaked
 flashtubes
 fillingness
