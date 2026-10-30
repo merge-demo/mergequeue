@@ -5164,7 +5164,7 @@ bluebead 1
 bordereau
 befretting
 blellum
-buoyage
+buoyage 1
 befriended
 bellbind
 beardfish
