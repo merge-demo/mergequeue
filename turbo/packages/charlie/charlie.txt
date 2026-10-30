@@ -1509,7 +1509,7 @@ calles
 callet
 caramelen
 cedulas
-curraghs
+curraghs 1
 calligrapha
 colleens
 calligraphers
