@@ -4059,7 +4059,7 @@ gumchewer
 galbulus
 gileno
 gaddingly
-goodnaturedness
+goodnaturedness 1
 gape
 groomsman
 gigaton
