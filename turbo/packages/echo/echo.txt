@@ -14118,7 +14118,7 @@ extroitive
 extremist
 extrorse
 extrospect
-endarch
+endarch 1
 evokes
 equivorous
 existentialize
