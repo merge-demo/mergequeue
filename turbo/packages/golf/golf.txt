@@ -8294,7 +8294,7 @@ gruff
 grapples
 grappling
 gammas
-graptolitha
+graptolitha 1
 gheraoed
 gambits
 graspingly
