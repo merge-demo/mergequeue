@@ -1684,7 +1684,7 @@ ellan
 esophagi
 eddoes
 elaioleucite
-eyebright
+eyebright 1
 eyliad
 electrotheraputics
 extemporaneous
