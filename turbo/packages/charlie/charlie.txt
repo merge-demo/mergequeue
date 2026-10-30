@@ -27242,7 +27242,7 @@ catbird
 coetus
 counterweigh
 counterweight
-counterweighted
+counterweighted 1
 counterweights
 counterwheel
 counterwilling
