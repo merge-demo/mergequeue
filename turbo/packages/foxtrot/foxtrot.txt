@@ -10624,7 +10624,7 @@ forswearing
 flumped
 forwaste
 fractostratus
-fleeting
+fleeting 1
 frugalities
 farrandly
 frugalness
