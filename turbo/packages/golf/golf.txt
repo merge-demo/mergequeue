@@ -3348,7 +3348,7 @@ germin
 gasteropod
 gravispheric
 gobemouche
-guitermanite
+guitermanite 1
 gneu
 gadbush
 gessamine
