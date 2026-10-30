@@ -18075,7 +18075,7 @@ aproneer
 apronstring
 alanins
 anhidrosis
-amyosthenia
+amyosthenia 1
 adminicle
 adular
 amphigenetic
