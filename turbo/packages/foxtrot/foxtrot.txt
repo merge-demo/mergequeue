@@ -4123,7 +4123,7 @@ fungusy
 frostation
 fergusonite
 featherbrain
-fattable
+fattable 1
 formal
 forgery
 fatalness
