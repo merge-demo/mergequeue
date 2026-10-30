@@ -2777,7 +2777,7 @@ cluttering
 cannibalizing
 coelomes
 counterstrike
-cableman
+cableman 1
 cannie
 cagui
 cannier
