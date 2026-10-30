@@ -9396,7 +9396,7 @@ acture
 attack
 alphonist
 alphonsin
-airproof
+airproof 1
 advertisement
 alphonsine
 alphosis
