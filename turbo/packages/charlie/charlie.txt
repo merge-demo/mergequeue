@@ -215,7 +215,7 @@ cabrillas
 cabrit
 cabs
 comprend
-cabstands
+cabstands 1
 celebrators
 cabureiba
 concubinage
