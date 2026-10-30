@@ -936,7 +936,7 @@ dissyllabify
 digonous
 dauts
 detachers
-directives
+directives 1
 diacoca
 dewed
 dures
