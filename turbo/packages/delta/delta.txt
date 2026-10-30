@@ -13765,7 +13765,7 @@ desugaring
 duennas
 degression
 damndests
-deemphasize
+deemphasize 1
 dangering
 downlooker
 disbarments
