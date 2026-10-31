@@ -5116,7 +5116,7 @@ flashgun
 fifteenth
 factitive
 fict
-furnishment
+furnishment 1
 fretfulness
 furculae
 flashiness
