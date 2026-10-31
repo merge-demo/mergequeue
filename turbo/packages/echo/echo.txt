@@ -3357,7 +3357,7 @@ ethylenediamine
 eulachons
 essentialities
 equus
-energeticalness
+energeticalness 1
 eternising
 esquirearchy
 enregistration
