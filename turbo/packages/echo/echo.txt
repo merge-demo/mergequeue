@@ -695,7 +695,7 @@ ebriated
 esteros
 epithelial
 escheve
-ecol
+ecol 1
 ethnogeny
 enchronicle
 endomictic
