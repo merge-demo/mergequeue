@@ -526,7 +526,7 @@ falbelo
 flavone
 fixedly
 fioretti
-firerooms
+firerooms 1
 frowny
 foresense
 falco
