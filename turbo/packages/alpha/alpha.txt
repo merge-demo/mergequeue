@@ -602,7 +602,7 @@ archbishoprics
 autoeducation
 arisen
 algonquians
-antarctic
+antarctic 1
 aphasic
 alexic
 antelopine
