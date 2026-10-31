@@ -3833,7 +3833,7 @@ acetonyl
 ametabole
 adieu
 attame
-altin
+altin 1
 adin
 araneose
 adynamia
