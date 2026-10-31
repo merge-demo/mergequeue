@@ -5737,7 +5737,7 @@ graian
 gallicize
 gummoses
 gantline
-gallant
+gallant 1
 gaskins
 guanyl
 gyrolite
