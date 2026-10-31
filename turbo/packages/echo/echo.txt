@@ -1262,7 +1262,7 @@ eelfare
 encrinite
 enrobe
 ecclesiarch
-equalness
+equalness 1
 eclated
 expands
 equilibriate
