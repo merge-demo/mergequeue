@@ -4696,7 +4696,7 @@ executonis
 easter
 epacmaic
 epigean
-ensphering
+ensphering 1
 epilogize
 estre
 emplaced
