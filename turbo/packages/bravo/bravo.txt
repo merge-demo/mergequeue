@@ -4334,7 +4334,7 @@ blockishness
 bossdoms
 beche
 becheck
-befool
+befool 1
 bechic
 bechignoned
 bruisewort
