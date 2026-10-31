@@ -1044,7 +1044,7 @@ gorgonin
 ganglioid 1
 ganglioma
 gangliomas
-gigahertzes
+gigahertzes 1
 ganglionate
 ganglionated
 gymnoconia

@@ -8598,7 +8598,7 @@ cuissard
 changeovers
 chiefs
 changer
-columbic
+columbic 1
 crudwort
 changers
 clypei
