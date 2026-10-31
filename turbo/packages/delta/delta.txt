@@ -2549,7 +2549,7 @@ declares
 disquietudes
 dimaris
 disgout
-diplococcus
+diplococcus 1
 declaring
 declasses
 dorn
