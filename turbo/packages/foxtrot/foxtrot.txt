@@ -10486,7 +10486,7 @@ finises
 fervencies
 faussebraye
 floggable
-felsosphaerite
+felsosphaerite 1
 floe
 freshment
 frillery
