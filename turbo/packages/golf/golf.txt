@@ -8085,7 +8085,7 @@ granivore
 gybes
 gribane
 goniotropous
-gamone
+gamone 1
 gaiters
 garnetter
 gairfish
