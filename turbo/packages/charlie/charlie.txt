@@ -24590,7 +24590,7 @@ contagiously
 circulariser
 copybooks
 cognomen
-chook
+chook 1
 copycat
 copycats
 citywide
