@@ -8084,7 +8084,7 @@ fundi
 furify
 foreswore
 flavouring
-feeble
+feeble 1
 flasklet
 faints
 factorist

@@ -14505,7 +14505,7 @@ dad
 disembowelled
 demurest
 diformin
-detruncated
+detruncated 1
 divinability
 defiles
 diviner
