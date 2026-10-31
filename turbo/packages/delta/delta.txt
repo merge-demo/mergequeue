@@ -6008,7 +6008,7 @@ dicliny
 drabber
 depuratory
 decimalize
-depure
+depure 1
 distortedly
 diagonally
 daffadowndillies

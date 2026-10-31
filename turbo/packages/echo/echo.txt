@@ -10584,7 +10584,7 @@ euclidian
 epicoeliac
 exhalant
 eucone
-escapology
+escapology 1
 electrotechnic
 ecstasis
 expensing
