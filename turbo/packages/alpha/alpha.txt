@@ -2330,7 +2330,7 @@ afternoon
 acidosteophyte
 arecuna
 acids
-acidulate
+acidulate 1
 acidulated
 azuline
 acephalism
