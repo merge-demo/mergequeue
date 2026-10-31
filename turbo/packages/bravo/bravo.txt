@@ -8100,7 +8100,7 @@ bidiagonal
 bidimensional
 binucleate
 barble
-befouls
+befouls 1
 biding
 bidirectional 1
 biophagy
