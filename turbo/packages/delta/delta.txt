@@ -13724,7 +13724,7 @@ defends
 doorplate
 decrease
 drinkables
-divalent
+divalent 1
 dejecta
 demulsion
 dissociations
