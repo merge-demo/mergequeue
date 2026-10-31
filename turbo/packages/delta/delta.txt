@@ -17461,7 +17461,7 @@ delphacid
 desectionalize
 drouthier
 defame
-datums
+datums 1
 delegatee
 drove
 drovers
