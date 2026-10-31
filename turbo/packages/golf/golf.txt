@@ -821,7 +821,7 @@ gudge
 goldenrods 1
 gletty
 galoots
-granose
+granose 1
 gnarring
 gramp
 gramary
