@@ -1318,7 +1318,7 @@ encapsulate
 elengeness
 exterior
 effects
-enlarge
+enlarge 1
 edified
 effectuated
 encastage
