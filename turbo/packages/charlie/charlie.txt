@@ -16222,7 +16222,7 @@ condensations 1
 clinicopathological
 clinkant
 clinkerer
-clinkery
+clinkery 1
 chao
 clinkering
 clinking
