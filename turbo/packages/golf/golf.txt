@@ -4538,7 +4538,7 @@ gerbille
 gawp
 guerrillaism
 galliums
-globoids
+globoids 1
 gmelinite
 grazes
 gingering
