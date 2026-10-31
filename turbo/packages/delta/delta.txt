@@ -16607,7 +16607,7 @@ dwellers
 decorates
 dragonish
 drunkeness
-dandruffy
+dandruffy 1
 dragonroot
 depreciate
 dilutant
