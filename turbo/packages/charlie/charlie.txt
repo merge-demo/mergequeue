@@ -21587,7 +21587,7 @@ concurrencies
 concurrently
 cellarets
 corsepresent
-concrescible
+concrescible 1
 calyceraceous 1
 cofinal
 concurring
