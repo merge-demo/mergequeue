@@ -6548,7 +6548,7 @@ grannom
 glaucic
 graceless
 galls
-goma
+goma 1
 glossoplegia
 grins
 granduncles
