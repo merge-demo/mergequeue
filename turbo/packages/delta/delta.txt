@@ -860,7 +860,7 @@ dubiosity
 devoicing
 dowered
 deaerates
-disorchard
+disorchard 1
 dankishness
 discardable 1
 delesseria
