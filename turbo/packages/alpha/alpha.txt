@@ -18188,7 +18188,7 @@ astint
 anacusia
 adequately
 asqueal
-alltud
+alltud 1
 ashberry
 aquate
 astalk
