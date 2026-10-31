@@ -4227,7 +4227,7 @@ escrol
 emulant
 earwiggy
 elucidator
-ergonomically
+ergonomically 1
 ewhow
 emulations
 echograph
