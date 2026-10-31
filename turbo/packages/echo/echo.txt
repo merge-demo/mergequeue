@@ -2367,7 +2367,7 @@ edulcoration
 exhaustable
 empoisonment
 engorged
-exocone
+exocone 1
 egoistic
 eurytomidae
 electrocutional
