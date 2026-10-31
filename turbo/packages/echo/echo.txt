@@ -265,7 +265,7 @@ electroplated
 expiries
 easterling
 exhumers
-epigoneion
+epigoneion 1
 enqueue
 enantioblastic
 epupillate
