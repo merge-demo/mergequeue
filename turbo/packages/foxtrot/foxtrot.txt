@@ -5810,7 +5810,7 @@ froggiest
 frivolize
 ferfet
 fluoridations
-fritted
+fritted 1
 figgery
 furbishes
 flintlocks
