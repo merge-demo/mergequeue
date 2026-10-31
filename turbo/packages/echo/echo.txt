@@ -13842,7 +13842,7 @@ euchroite
 emplaces
 effacing
 erepsins
-encarditis
+encarditis 1
 elytrigerous
 embrake
 euvrou
