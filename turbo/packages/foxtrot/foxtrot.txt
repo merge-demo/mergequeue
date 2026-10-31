@@ -11557,7 +11557,7 @@ floeberg
 famulary 1
 fledgy
 folio
-fretfully
+fretfully 1
 ferociousness
 footlessly
 fluidizer
