@@ -6040,7 +6040,7 @@ endemical
 expire
 epiglottises
 enkindles
-edginess
+edginess 1
 epiphytotic
 entrepreneuses
 epistolical
