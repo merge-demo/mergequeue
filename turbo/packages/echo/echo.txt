@@ -4656,7 +4656,7 @@ electrophonically
 encyclics
 equisetum
 extroversive
-eucrites
+eucrites 1
 elbowing
 eyeopener
 extraterritorially
