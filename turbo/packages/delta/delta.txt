@@ -3040,7 +3040,7 @@ deservings
 dragonfish
 disestablishment
 diphthongs
-deucedly
+deucedly 1
 dowress
 decarbonized
 desegregation
