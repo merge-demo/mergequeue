@@ -18155,7 +18155,7 @@ administering
 allyls
 aquamarines
 angdistis
-anteversion
+anteversion 1
 apachette
 aquanauts
 auklet
