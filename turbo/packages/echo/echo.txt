@@ -11297,7 +11297,7 @@ enrank
 entirety
 eagles
 exalbuminous
-epenthesize
+epenthesize 1
 evaporimeter
 electrocute
 ecdysons
