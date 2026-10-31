@@ -6683,7 +6683,7 @@ berme
 bossiest
 bathe
 bologna
-bermensch
+bermensch 1
 bermes
 bourgeoisify
 bagaudae
