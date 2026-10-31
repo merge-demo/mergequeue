@@ -9906,7 +9906,7 @@ fogeater
 fevercup
 fenestrone
 formalizes
-fungistatic
+fungistatic 1
 fistfuls
 fade
 forehand
