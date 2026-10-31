@@ -8042,7 +8042,7 @@ gettering
 gasbags
 gustable
 greekess
-gentilize
+gentilize 1
 gabby
 grayer
 goatbeard
