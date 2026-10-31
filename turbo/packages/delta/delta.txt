@@ -15235,7 +15235,7 @@ dullification
 dissociate
 dingmaul
 disbursal
-demipriest
+demipriest 1
 dogsleep
 derotremate
 domicile
