@@ -16826,7 +16826,7 @@ duplicando
 deliquescent
 dissociable
 dendrodus
-diaphanoscopy
+diaphanoscopy 1
 deprecatingly
 drumbeat
 darbukka
