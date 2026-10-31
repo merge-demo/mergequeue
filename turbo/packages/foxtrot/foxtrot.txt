@@ -3774,7 +3774,7 @@ fissurella
 firnification
 flannelling
 frugivora
-formativeness
+formativeness 1
 fortranh
 fiberware
 forebridge
