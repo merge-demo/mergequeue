@@ -2287,7 +2287,7 @@ domification
 denouncing
 dohter
 dedicating
-definable
+definable 1
 decennoval
 deflux
 decentering

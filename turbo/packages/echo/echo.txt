@@ -5398,7 +5398,7 @@ empathetic
 eightsman
 example
 elsewhither
-electronvolt
+electronvolt 1
 ergotization
 endowment
 ectene
