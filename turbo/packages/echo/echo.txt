@@ -7933,7 +7933,7 @@ eurystomatous
 emitter
 exudates
 exordia
-epimandibular
+epimandibular 1
 enthrone
 epimanikia
 equivocatory 1
