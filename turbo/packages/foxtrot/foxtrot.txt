@@ -9853,7 +9853,7 @@ fadlike
 fricando 1
 fakement
 frouncing
-feminize
+feminize 1
 forgetter
 funge
 flanders
