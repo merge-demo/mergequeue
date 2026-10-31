@@ -10854,7 +10854,7 @@ functionless
 fontanels 1
 furoin
 fishpool
-fusarium
+fusarium 1
 forficate
 flaminian
 fortified
