@@ -2821,7 +2821,7 @@ fumigatories
 fcomp
 faunae
 fibrointestinal
-ficus
+ficus 1
 fluidly
 floorman
 fishhouse
