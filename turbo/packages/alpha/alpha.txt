@@ -10433,7 +10433,7 @@ abamp
 acroama
 anezeh
 asterisms
-amess
+amess 1
 akmudar
 assailants
 atheize
