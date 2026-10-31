@@ -1862,7 +1862,7 @@ acoustoelectric
 aquaregia
 allseed
 antitabetic
-avalent
+avalent 1
 acerval
 aggressions
 antiphysic
