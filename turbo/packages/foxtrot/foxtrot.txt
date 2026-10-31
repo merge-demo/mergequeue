@@ -5612,7 +5612,7 @@ formulary
 flyer
 forfar
 fingerwise
-fucuses
+fucuses 1
 frontonasal
 flageolet
 fascicled
