@@ -16664,7 +16664,7 @@ aperients
 autonomies
 aperiodically
 ambulanced
-average
+average 1
 aperiodicity
 acaroid
 apert
