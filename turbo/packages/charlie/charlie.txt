@@ -24880,7 +24880,7 @@ cardecu
 corial
 catenary
 comous
-cointersecting
+cointersecting 1
 counterprotest
 coffeecakes
 coalified
