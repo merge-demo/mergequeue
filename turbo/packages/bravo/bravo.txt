@@ -5830,7 +5830,7 @@ bittock
 buyers
 bribeworthy
 baigneuse
-bengaline
+bengaline 1
 bellyful
 boor
 beadier
