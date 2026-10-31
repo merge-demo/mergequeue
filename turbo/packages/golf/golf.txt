@@ -3105,7 +3105,7 @@ gainage
 girlhoods
 guaniferous
 glucina
-geopotential
+geopotential 1
 gelosin
 grassplot
 georgemas
