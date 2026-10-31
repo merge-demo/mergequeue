@@ -2540,7 +2540,7 @@ frugivorous
 fibromembranous
 filamentule
 frangibility
-freebee
+freebee 1
 freeboot
 fem
 functionalistic
