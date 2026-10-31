@@ -7669,7 +7669,7 @@ divesture
 deunam
 dovened
 donable
-deviance
+deviance 1
 dimples
 deviancy
 dogcatcher
