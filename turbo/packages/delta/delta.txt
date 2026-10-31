@@ -1108,7 +1108,7 @@ doctorization
 denticles
 dashed
 dicentra
-dipnoid
+dipnoid 1
 dermopathy
 dompteuse
 dumpfile
