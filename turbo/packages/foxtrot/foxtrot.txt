@@ -190,7 +190,7 @@ flier
 factorable
 flimsies
 finitary
-fortunel
+fortunel 1
 factoryship
 floatiness
 fusinite
