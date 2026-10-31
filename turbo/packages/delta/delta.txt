@@ -3844,7 +3844,7 @@ depayse
 dyspnoea
 deionize
 degraduation
-dopatta
+dopatta 1
 delighting
 deposer
 decastyle
