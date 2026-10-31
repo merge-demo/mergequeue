@@ -7175,7 +7175,7 @@ ethal
 ecumenic
 elvishly
 endplate
-enneasyllabic
+enneasyllabic 1
 epoxying
 etheostoma
 equalizer
