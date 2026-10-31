@@ -6568,7 +6568,7 @@ guaiacs
 gabbier
 gentianin
 gentianales
-glandarious
+glandarious 1
 grandaddy
 genesiac
 gpcd
