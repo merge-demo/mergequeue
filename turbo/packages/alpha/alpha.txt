@@ -12411,7 +12411,7 @@ allumine
 atheroma
 armoniac
 auscultation
-amebiasis
+amebiasis 1
 aortolith
 absistos
 antiecclesiasticism
