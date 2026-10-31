@@ -3194,7 +3194,7 @@ ahems
 antipathogen
 allocability
 aminoazo
-aminic
+aminic 1
 arachide
 anagrammatising
 affrighting
