@@ -4177,7 +4177,7 @@ delocalize
 dermoreaction
 decrustation
 dretch
-dextrorotatary
+dextrorotatary 1
 determinateness
 denigrators
 dicyclica
