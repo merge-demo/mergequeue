@@ -13195,7 +13195,7 @@ cyclitic
 commesso
 conscribe
 cyclization
-cyclizes
+cyclizes 1
 cauld
 cistrons
 coulometric
