@@ -4784,7 +4784,7 @@ ethanim
 equilibrator
 entypies
 enduro
-epidosite
+epidosite 1
 easterner
 eccoproticophoric
 escape
