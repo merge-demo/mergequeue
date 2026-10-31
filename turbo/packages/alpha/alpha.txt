@@ -25319,7 +25319,7 @@ azoles
 aleph
 azon
 analysands
-azonaphthalene
+azonaphthalene 1
 azons
 antisplitting
 ampoule
