@@ -5275,7 +5275,7 @@ apery
 anagenetical
 antagonizer
 attackable
-anapterygotous
+anapterygotous 1
 alingual
 anticlinal
 anapophysial
