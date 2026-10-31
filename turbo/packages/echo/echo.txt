@@ -6039,7 +6039,7 @@ endosarcs
 endemical
 expire
 epiglottises
-enkindles
+enkindles 1
 edginess
 epiphytotic
 entrepreneuses
