@@ -17350,7 +17350,7 @@ dismays
 dates
 doggerels
 dichotomies
-drawcard
+drawcard 1
 druggier
 droopier
 despicableness

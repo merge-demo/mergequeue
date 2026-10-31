@@ -2862,7 +2862,7 @@ churchreeve
 canonry
 canons
 canonship
-canoodles
+canoodles 1
 counsinhood
 canopy
 canopid
