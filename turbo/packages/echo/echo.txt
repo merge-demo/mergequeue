@@ -2796,7 +2796,7 @@ engarble
 ethylene
 egyptological
 excalate
-ensnarling
+ensnarling 1
 elenchi
 elenchic
 elves
