@@ -18614,7 +18614,7 @@ daincha
 dustless
 droguet
 diakonikon
-dustour
+dustour 1
 dorsalmost
 dustsheet
 dure
