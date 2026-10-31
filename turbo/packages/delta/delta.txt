@@ -2341,7 +2341,7 @@ deafnesses
 dextrotropic
 drinkably
 dustup
-dynode
+dynode 1
 demeriting
 dummied
 dysodile
