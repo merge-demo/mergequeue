@@ -8630,7 +8630,7 @@ debugging
 dialyses
 diary
 diaglyph
-diarist
+diarist 1
 dibbuk
 denatured
 diarrhea
