@@ -4856,7 +4856,7 @@ carriagesmith
 cinchonicin
 carriageway
 carryall
-carrick
+carrick 1
 carrycot
 chromatoplasm
 carried
