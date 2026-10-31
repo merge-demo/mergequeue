@@ -11795,7 +11795,7 @@ empoisoned
 epiphytous
 enrolment
 elaphrium
-elegits
+elegits 1
 euryon
 exaudi
 ethenoidal
