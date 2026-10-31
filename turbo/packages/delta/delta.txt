@@ -6500,7 +6500,7 @@ disomatous
 descendent
 dalesfolk 1
 douppioni
-dolichosoma
+dolichosoma 1
 dunged
 diadromous
 dispositionally
