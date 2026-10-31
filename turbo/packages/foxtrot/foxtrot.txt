@@ -9286,7 +9286,7 @@ fairkeeper
 fertil
 flagons
 fordull
-foregoers
+foregoers 1
 foremost
 fabrikoid
 fruticeta
