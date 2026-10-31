@@ -5161,7 +5161,7 @@ formicidae
 funambulism
 flatness
 fadged
-faceting
+faceting 1
 flatted
 flatteringness
 flustered
