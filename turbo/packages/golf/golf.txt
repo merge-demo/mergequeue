@@ -1100,7 +1100,7 @@ gregorianize
 ganja
 genically
 genecologically
-generatively
+generatively 1
 gashouses
 gearshifts
 gravitate
