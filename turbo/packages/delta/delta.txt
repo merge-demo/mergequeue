@@ -6373,7 +6373,7 @@ dysidrosis
 dosinia
 destoolment
 dustmen
-deplaceable
+deplaceable 1
 diplotene
 disassociation
 dorsiventral
