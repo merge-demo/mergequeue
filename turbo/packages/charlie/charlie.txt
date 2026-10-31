@@ -4523,7 +4523,7 @@ carbine
 cephalogenesis
 carnallite
 chartaceous
-churchshot
+churchshot 1
 carnalness
 conidial
 carnaptious
