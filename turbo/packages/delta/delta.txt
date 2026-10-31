@@ -6854,7 +6854,7 @@ drawgear
 dupla
 diagnosticians
 desmoncus
-decolonize
+decolonize 1
 dissention
 dryobalanops
 dragnet
