@@ -1268,7 +1268,7 @@ gyrophora
 gigasecond
 ged
 gavall
-goethites
+goethites 1
 gromatical
 galvayned
 gyrator
