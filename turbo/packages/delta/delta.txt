@@ -11535,7 +11535,7 @@ defrocks
 disconectae
 dosology
 deglamorize
-disconjure
+disconjure 1
 disconnectedness
 diphtheroidal
 diphead
