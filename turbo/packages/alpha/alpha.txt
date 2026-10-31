@@ -12664,7 +12664,7 @@ aesopic
 archbeadle
 anisopteran
 advene
-allochroite
+allochroite 1
 algosis
 antiopelmous
 aneurisms
