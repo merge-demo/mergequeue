@@ -17408,7 +17408,7 @@ diffraction 1
 didascaly
 direction
 disjoinable
-dropsies
+dropsies 1
 distomatidae
 dropwise
 despairer
