@@ -286,7 +286,7 @@ foreshortening
 ford
 febrifacient
 fortalice
-footpounds
+footpounds 1
 firbolg
 flagarie
 fideism
