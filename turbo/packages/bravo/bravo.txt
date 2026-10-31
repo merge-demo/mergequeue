@@ -3946,7 +3946,7 @@ borborygm
 beachcombers
 beachdrops
 biliment
-bowed
+bowed 1
 bumpiest
 bisulphate
 burny
