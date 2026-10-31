@@ -10689,7 +10689,7 @@ eva
 euglenaceae
 extrasyllabic
 ensigning
-embraced
+embraced 1
 endopleural
 euripus
 erebus
