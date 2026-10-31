@@ -6947,7 +6947,7 @@ aquavit
 armless
 airwards
 allene
-abstruseness
+abstruseness 1
 allicins
 ays
 antipneumococcic
