@@ -7541,7 +7541,7 @@ gully
 guideless
 gatelike
 goliardery 1
-greenbone
+greenbone 1
 gunny
 gymnast
 garageman
