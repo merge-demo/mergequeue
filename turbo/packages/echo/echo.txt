@@ -2097,7 +2097,7 @@ episcope
 ensuance
 ebullioscope
 emulge
-excretory
+excretory 1
 extrapolator
 effuse
 elastically
