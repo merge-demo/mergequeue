@@ -234,7 +234,7 @@ antisensitizer
 allokinesis 1
 alchemistical
 adipolytic
-ajourise
+ajourise 1
 aeroliths
 acroamatics
 absorptiometric
