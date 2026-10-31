@@ -10072,7 +10072,7 @@ feudatary
 firster
 foredecree
 formalise
-fearfulness
+fearfulness 1
 footwear
 finfishes
 flightshot
