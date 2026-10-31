@@ -7127,7 +7127,7 @@ blowy
 betongue
 blenk
 besprinkle
-bandhor
+bandhor 1
 biaxial
 bonduc
 backless
