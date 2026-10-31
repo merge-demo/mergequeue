@@ -14978,7 +14978,7 @@ antozone
 arara
 anticonfederative
 anticonformity
-annulled
+annulled 1
 amidohexose
 antilogy
 avyayibhava
