@@ -8548,7 +8548,7 @@ essentializing
 echinated
 embezzling
 etherify
-enviable
+enviable 1
 enantiotropy
 epizoa
 eupatridae
