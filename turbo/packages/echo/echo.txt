@@ -6208,7 +6208,7 @@ erasure
 exodist
 enophthalmus
 enorm
-explorement
+explorement 1
 exhalations
 endopericarditis
 exhortator
