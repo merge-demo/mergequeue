@@ -5447,7 +5447,7 @@ caftaned
 castorite
 castra
 castrates
-covertical
+covertical 1
 classic
 counterflory
 capillitia
