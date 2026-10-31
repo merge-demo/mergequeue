@@ -12760,7 +12760,7 @@ determents
 diplomatism
 dotardly
 drawfiling
-donative
+donative 1
 disloyalist
 decliner
 disloyally
