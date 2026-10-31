@@ -9702,7 +9702,7 @@ decenary
 ditrochean
 dehydromucic
 disablers
-demur
+demur 1
 detin
 devolute
 dilatedly
