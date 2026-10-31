@@ -7250,7 +7250,7 @@ detenue
 decussorium
 desulfurize
 dumbbeller
-detenues
+detenues 1
 dephlegmator
 deactivators
 dilettantship
