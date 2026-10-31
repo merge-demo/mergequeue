@@ -14675,7 +14675,7 @@ disrespondency
 dissected
 describe
 doxies
-dieselize
+dieselize 1
 decurrency
 debauchee
 dolent
