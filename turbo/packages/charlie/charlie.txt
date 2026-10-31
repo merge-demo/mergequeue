@@ -17617,7 +17617,7 @@ coccogoneae
 concyclically
 coccoidal
 coccolite
-counterresolution
+counterresolution 1
 calabashes
 cardiodysneuria
 cavilingness
