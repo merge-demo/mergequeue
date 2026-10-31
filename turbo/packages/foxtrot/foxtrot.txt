@@ -6221,7 +6221,7 @@ fatlings
 freyja
 floccules
 focusable
-fascinative
+fascinative 1
 formwork
 futtocks
 ferrimagnetic
