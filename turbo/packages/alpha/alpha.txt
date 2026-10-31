@@ -10064,7 +10064,7 @@ anisole
 arteriococcygeal
 acondylous
 analysability
-ambition
+ambition 1
 acorned
 anisoin
 amission
