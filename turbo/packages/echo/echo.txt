@@ -7900,7 +7900,7 @@ encheson
 econ
 endorsation
 epeirid
-exquisitive
+exquisitive 1
 experimentation
 epileny
 exotospore
