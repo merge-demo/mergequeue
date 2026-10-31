@@ -21363,7 +21363,7 @@ adaptometer
 asynchronism
 asynchronisms
 asyndetic
-androphore
+androphore 1
 amyloses
 analectic
 amphoras
