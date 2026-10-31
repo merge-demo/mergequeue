@@ -4163,7 +4163,7 @@ gilding
 gypsum
 guarapo
 globuloid
-gelinotte
+gelinotte 1
 graphemic
 gastroarthritis
 goodly
