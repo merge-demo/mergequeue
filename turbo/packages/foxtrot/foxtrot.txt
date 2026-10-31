@@ -10115,7 +10115,7 @@ fare
 foreknee
 fulciform
 fortuitus
-foreheaded
+foreheaded 1
 fissiparously
 frittering
 fuchi
