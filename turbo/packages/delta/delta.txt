@@ -16456,7 +16456,7 @@ dollhouse
 darken
 degradations 1
 detinuit
-doubtance
+doubtance 1
 dirhinous
 disjointness
 dishonourable
