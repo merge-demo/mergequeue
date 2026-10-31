@@ -760,7 +760,7 @@ featherweed
 fluorination
 forepart
 frankalmoigne
-frostiness
+frostiness 1
 foulmart
 fruitful
 fanaticizing
