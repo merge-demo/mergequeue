@@ -8553,7 +8553,7 @@ desiredly
 diaphanously
 douglas
 diphthongal
-deobstruent
+deobstruent 1
 discommodious
 dermographia
 diaphysis
