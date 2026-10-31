@@ -3103,7 +3103,7 @@ deaths
 defamation
 duckwife
 dingling
-detachableness
+detachableness 1
 decantation
 deterrers
 disslander
