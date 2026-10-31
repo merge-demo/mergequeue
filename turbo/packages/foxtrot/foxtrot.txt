@@ -142,7 +142,7 @@ futures
 fights
 facks
 forefront
-fumitories
+fumitories 1
 favus
 falls
 fulfillers
