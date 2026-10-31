@@ -10800,7 +10800,7 @@ flue
 fubbery
 filamentoid
 fullering
-footpads
+footpads 1
 farmerette
 fuchsian
 footsteps
