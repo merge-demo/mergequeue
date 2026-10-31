@@ -10654,7 +10654,7 @@ eudist
 eudoxian
 exogenic
 extentions
-euergetes
+euergetes 1
 epimyth
 embryotrophe
 eunuchs
