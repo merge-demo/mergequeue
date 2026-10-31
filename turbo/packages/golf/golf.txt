@@ -9201,7 +9201,7 @@ greenstick
 glavering
 glaucomas 1
 glaucosuria
-gastrodiaphanoscopy
+gastrodiaphanoscopy 1
 gradine
 goniometrically
 grippiest
