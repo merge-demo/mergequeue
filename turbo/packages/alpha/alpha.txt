@@ -17428,7 +17428,7 @@ archosyrinx
 afret
 archenemy
 apothecium
-antozonite
+antozonite 1
 adonized
 antitrope
 aphidophagous
