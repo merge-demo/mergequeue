@@ -4912,7 +4912,7 @@ chromolithograph
 caviteno
 ceilinged
 carrottop
-carstone
+carstone 1
 cart
 counterpoising
 cartable
