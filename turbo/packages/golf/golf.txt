@@ -1949,7 +1949,7 @@ glairs
 glowering
 garnishments
 gnomonical
-gimbal
+gimbal 1
 geology
 geranic
 gweduck
