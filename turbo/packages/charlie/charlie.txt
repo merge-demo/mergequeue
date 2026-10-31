@@ -15183,7 +15183,7 @@ clair
 clairaudience
 countertug
 claire
-coloristic
+coloristic 1
 citromyces
 conditionalities
 cornicle
