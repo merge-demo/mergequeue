@@ -7707,7 +7707,7 @@ fellmonger
 fleawort
 fidessa
 flinchingly
-foreignly
+foreignly 1
 fishy
 foreignness
 foreimpressed
