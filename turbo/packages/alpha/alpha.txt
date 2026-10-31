@@ -8697,7 +8697,7 @@ anoxidative
 allocution
 anemology
 alleleu
-allelic
+allelic 1
 allelism
 axonemal
 argyrite
