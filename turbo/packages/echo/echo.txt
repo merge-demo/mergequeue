@@ -7020,7 +7020,7 @@ enterocoela
 exocoetus
 eyeglass
 eggfruit
-enpia
+enpia 1
 equalist
 elastomer
 electricalize
