@@ -9866,7 +9866,7 @@ chemophysiology
 chemoprophyalctic
 cycle
 chemoprophylactic
-cruiser
+cruiser 1
 coaxer
 candent
 chemoreceptive
