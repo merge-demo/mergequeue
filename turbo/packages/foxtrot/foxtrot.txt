@@ -2756,7 +2756,7 @@ festally
 fe
 festellae
 ficary
-faliscan
+faliscan 1
 foreparts
 freddo
 fibroserous
