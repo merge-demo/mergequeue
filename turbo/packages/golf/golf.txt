@@ -10148,7 +10148,7 @@ goodmanship
 grazers
 giddyish
 gloried
-glideness
+glideness 1
 goosefoot
 guardianly
 git
