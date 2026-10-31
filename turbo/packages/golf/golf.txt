@@ -6537,7 +6537,7 @@ gallivat
 glycogenosis
 ghis
 gunster
-gamopetalous
+gamopetalous 1
 goldsmithry 1
 gutsiness
 graciles
