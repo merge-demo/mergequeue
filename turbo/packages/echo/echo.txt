@@ -9641,7 +9641,7 @@ entia
 epacris
 elaeagnus
 enfrai
-esparsette
+esparsette 1
 emphases
 encloud
 embost
