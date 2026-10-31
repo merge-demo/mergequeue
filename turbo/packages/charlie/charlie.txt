@@ -4351,7 +4351,7 @@ caricaturist
 contaminator
 chimeras
 centaur
-casuists
+casuists 1
 consecrated
 caricology
 crisper
