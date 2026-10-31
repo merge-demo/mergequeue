@@ -18300,7 +18300,7 @@ demiourgoi
 dingledangle
 disintegration
 dunner
-delicts
+delicts 1
 davenports
 desultorily
 draftproof
