@@ -214,7 +214,7 @@ factorials
 fanons
 forborne
 futurist
-figuline
+figuline 1
 fordoing
 faire
 flatway
