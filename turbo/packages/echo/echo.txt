@@ -11986,7 +11986,7 @@ exclaiming
 exclaims
 epitenon
 exclamative
-epithermally
+epithermally 1
 exclamatory
 excavational
 expensed
