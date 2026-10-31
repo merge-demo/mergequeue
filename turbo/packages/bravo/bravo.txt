@@ -2153,7 +2153,7 @@ barriers
 banter
 banterers
 bantery
-boxfishes
+boxfishes 1
 bantering
 banteringly
 banty
