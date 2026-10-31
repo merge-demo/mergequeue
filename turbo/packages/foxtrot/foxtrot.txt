@@ -5365,7 +5365,7 @@ feedbin
 farrier
 fettles
 flanken
-feebleness
+feebleness 1
 fullmouth
 fascia 1
 flitterbat
