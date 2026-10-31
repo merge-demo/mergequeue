@@ -1351,7 +1351,7 @@ efferents
 effervescency 1
 eights
 epode
-encloser
+encloser 1
 essentialness
 exomis
 evasional
