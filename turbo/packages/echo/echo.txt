@@ -5902,7 +5902,7 @@ execrators
 exaggerativeness
 earsplitting
 epitomise
-edeitis
+edeitis 1
 externalise
 enhancing
 enharbour
