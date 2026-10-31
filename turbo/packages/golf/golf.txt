@@ -6644,7 +6644,7 @@ gyrodyne
 gateman
 gropes
 gambusias
-gondolas
+gondolas 1
 guidons
 gondoletta
 goniatitoid
