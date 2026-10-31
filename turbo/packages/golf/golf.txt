@@ -2499,7 +2499,7 @@ gamogeny 1
 graven
 gradatim
 gastroenterocolitis
-gliriformia
+gliriformia 1
 gladite
 guttifer
 grint
