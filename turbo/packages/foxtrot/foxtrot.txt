@@ -11225,7 +11225,7 @@ foreday
 farsang
 furzed
 funiculars
-funiform
+funiform 1
 fount
 false
 flashcubes
