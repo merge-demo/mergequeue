@@ -1402,7 +1402,7 @@ expandedness
 emetins
 epidote
 exterous
-endowing
+endowing 1
 ericoid
 entosterna
 erythromelalgia
