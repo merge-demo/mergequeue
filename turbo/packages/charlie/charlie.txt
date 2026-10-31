@@ -5766,7 +5766,7 @@ catchwork
 cabasset
 counterinsurgents
 catclaw
-cate
+cate 1
 cocitizen
 catechesis
 catechetic
