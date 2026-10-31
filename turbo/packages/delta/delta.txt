@@ -8717,7 +8717,7 @@ diathermy
 demonstrate
 decorousness
 demoting
-diathermies
+diathermies 1
 dendrophil
 dispensatrix
 demisacrilege
