@@ -8622,7 +8622,7 @@ embouchures
 electrovital
 echowise
 espavel
-equielliptical
+equielliptical 1
 equigranular
 ecocide
 equilateral
