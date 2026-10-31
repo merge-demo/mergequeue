@@ -1554,7 +1554,7 @@ deadlier
 deaden
 docked
 diadelphian
-drippings
+drippings 1
 dices
 deputising
 dyssodia
