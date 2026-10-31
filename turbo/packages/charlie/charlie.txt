@@ -19729,7 +19729,7 @@ cloots
 combinations
 corallike
 cells
-combinative
+combinative 1
 counterrotating
 combinator
 combinatory
