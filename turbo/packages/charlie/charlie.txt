@@ -8718,7 +8718,7 @@ chapellany
 chapelled
 cimnel
 conciliation
-carditic
+carditic 1
 cobnut
 capitaliser
 chapelling
