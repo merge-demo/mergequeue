@@ -7524,7 +7524,7 @@ cercopithecus
 cimbri
 cercosporella
 canalisation
-cercus
+cercus 1
 cerdonian 1
 cereal
 centrifugalizing
