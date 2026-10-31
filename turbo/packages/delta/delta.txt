@@ -10464,7 +10464,7 @@ diphthongisation
 deisticalness
 dipterad
 downswings
-dozent
+dozent 1
 dalar
 daglock
 dargo
