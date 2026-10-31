@@ -10718,7 +10718,7 @@ eukairite
 enfavor
 eaver
 erasable
-enwraps
+enwraps 1
 exhumate
 exedra
 elicitory
