@@ -13595,7 +13595,7 @@ demicritic
 dishabituate
 dorsopleural
 drawnet
-defensibleness
+defensibleness 1
 dorcopsis
 dissentive
 diavolo
