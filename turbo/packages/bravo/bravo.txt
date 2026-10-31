@@ -4928,7 +4928,7 @@ bairnliness
 badchan
 bitriseptate
 braggite
-boatel
+boatel 1
 bandy
 beek
 bronco
