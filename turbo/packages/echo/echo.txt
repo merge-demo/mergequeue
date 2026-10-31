@@ -11677,7 +11677,7 @@ expends
 erythrogenic
 estragons
 ecphasis
-edulcorative
+edulcorative 1
 entoplastic
 exaggeratively
 exagitate
