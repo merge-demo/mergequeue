@@ -1862,7 +1862,7 @@ deblock
 disedification
 disappointer
 dijudicate
-distensibilities
+distensibilities 1
 dispunge
 dissimulation
 desmectasia

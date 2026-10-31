@@ -4490,7 +4490,7 @@ gowk
 glossokinesthetic
 graeculus
 gummed
-gypsywise
+gypsywise 1
 guzzling
 grufted
 gangliitis
