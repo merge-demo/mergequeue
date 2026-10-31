@@ -595,7 +595,7 @@ funerate
 fenugreek
 flamless
 flagstaff
-frighteningly
+frighteningly 1
 furmety
 forelocks
 faufel
