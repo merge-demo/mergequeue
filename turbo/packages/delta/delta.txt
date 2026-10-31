@@ -6889,7 +6889,7 @@ desolateness
 desiccate
 deadheading
 desolates
-desolating
+desolating 1
 doffers
 dulling
 diabasic
