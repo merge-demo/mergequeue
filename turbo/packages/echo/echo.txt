@@ -4402,7 +4402,7 @@ enure
 encapsuling
 endurability
 encaptivate
-essence
+essence 1
 expectorate
 ecgonine
 electrophotometry
