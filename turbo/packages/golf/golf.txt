@@ -5224,7 +5224,7 @@ glottidean
 glottiscope
 gangland
 gastriloquist
-gatherum
+gatherum 1
 gibbals
 gourding
 guardianships
