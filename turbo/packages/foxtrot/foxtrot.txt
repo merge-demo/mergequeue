@@ -1236,7 +1236,7 @@ firmitude
 frigidity
 fenders
 forewarner
-flexural
+flexural 1
 flinched
 feodatory
 funkias
