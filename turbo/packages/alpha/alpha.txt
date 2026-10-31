@@ -22385,7 +22385,7 @@ appendorontgenography
 abigeus
 animableness
 antilia
-autoscopy
+autoscopy 1
 accreting
 astrodome
 apikorsim
