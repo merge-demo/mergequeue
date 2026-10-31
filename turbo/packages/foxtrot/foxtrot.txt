@@ -10379,7 +10379,7 @@ fizzle
 focus
 feedable
 feared
-frangipanis
+frangipanis 1
 fatalist
 friller
 forecatching
