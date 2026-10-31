@@ -2564,7 +2564,7 @@ grassed
 gallamine
 gargling
 gametogeny
-globiferous
+globiferous 1
 generant
 generate
 guitars
