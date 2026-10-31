@@ -2783,7 +2783,7 @@ cagui
 cannier
 creolization
 canning
-cannings
+cannings 1
 cannister
 cannisters
 crystallographically
