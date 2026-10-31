@@ -5286,7 +5286,7 @@ gossoons
 glacialism
 granitical
 graveling
-geometries
+geometries 1
 gamelan
 gromil
 glycerite
