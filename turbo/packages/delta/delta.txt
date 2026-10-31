@@ -4614,7 +4614,7 @@ demipomada
 deproceduring
 doughfoot
 drabbest
-deponer
+deponer 1
 deaconship
 disfranchised
 deaness
