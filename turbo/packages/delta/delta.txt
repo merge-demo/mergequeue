@@ -6756,7 +6756,7 @@ doubly
 disuniters
 documentize
 delate
-deceased
+deceased 1
 desilt
 disregular
 deerweeds
