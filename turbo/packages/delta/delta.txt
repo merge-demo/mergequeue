@@ -16841,7 +16841,7 @@ dorestane
 discontinual
 determinativeness
 discharity
-dozes
+dozes 1
 depreciations
 downgrowth
 dissyllabise
