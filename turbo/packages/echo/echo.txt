@@ -4127,7 +4127,7 @@ entangler
 excursus
 envisaged
 endives
-exedral
+exedral 1
 extradite
 epirote
 eiffel
