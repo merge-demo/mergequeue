@@ -8442,7 +8442,7 @@ champaka
 consequent
 conducts
 clubridden
-champaks
+champaks 1
 cholines
 commensalistic
 champart
