@@ -8823,7 +8823,7 @@ boxtops
 bedchamber
 bible
 binotonous
-baltimorean
+baltimorean 1
 bedeck
 baetzner
 brachystaphylic
