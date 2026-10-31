@@ -1451,7 +1451,7 @@ environic
 ergonomic
 ethiopian
 epanorthotic
-emunct
+emunct 1
 exenteritis
 envelop
 enfarce
