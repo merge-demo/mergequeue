@@ -14528,7 +14528,7 @@ cubicontravariant
 cystalgia
 cystamine
 commatism
-cysteamine
+cysteamine 1
 cystectasia
 contestate
 campout
