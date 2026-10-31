@@ -7952,7 +7952,7 @@ diathermal
 decimeters
 dextroaural
 dismes
-drupiferous
+drupiferous 1
 dartos
 dithyrambically 1
 durenol
