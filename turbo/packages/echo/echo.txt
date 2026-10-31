@@ -8287,7 +8287,7 @@ ennobles
 exactions
 epithalline
 exotism
-elastase
+elastase 1
 einstein
 earthwards
 electropuncturation
