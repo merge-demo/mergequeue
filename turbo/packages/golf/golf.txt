@@ -6286,7 +6286,7 @@ gainable
 gobble
 gierfalcon
 gobbled
-gothicizer
+gothicizer 1
 gelatinised
 graecian
 gyroidal
