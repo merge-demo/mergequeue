@@ -294,7 +294,7 @@ foxfire
 fledges
 fraenums
 forebar
-fistnotes
+fistnotes 1
 flambeed
 floosies
 felicitations
