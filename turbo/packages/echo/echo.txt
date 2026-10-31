@@ -10663,7 +10663,7 @@ easeless
 echolocation
 enarbor
 emboliform
-excrements
+excrements 1
 ecrasite
 expeditate
 entwine
