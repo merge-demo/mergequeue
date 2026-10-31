@@ -1850,7 +1850,7 @@ figureheadship
 fellahin
 firebreaks
 feudalize
-fractured
+fractured 1
 flabellum
 fating
 feedbags
