@@ -4963,7 +4963,7 @@ coulometry
 cartist
 cartloads
 clicket
-colory
+colory 1
 cartmaking
 cartobibliography
 columbia
