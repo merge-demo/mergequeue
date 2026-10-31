@@ -1853,7 +1853,7 @@ cysticle
 camaxtli
 clabularia
 camball
-cambered
+cambered 1
 cohabiter
 croc
 chamfrain
