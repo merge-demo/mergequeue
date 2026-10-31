@@ -13640,7 +13640,7 @@ denting
 disshiver
 deletory
 dissiliency
-dissilient
+dissilient 1
 dolichurus
 dermatobia
 dissyllabic
