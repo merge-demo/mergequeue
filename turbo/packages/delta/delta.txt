@@ -11120,7 +11120,7 @@ defectibility
 devvel
 dyeline
 disavower
-derringers
+derringers 1
 depletes
 dottily
 devicefulness
