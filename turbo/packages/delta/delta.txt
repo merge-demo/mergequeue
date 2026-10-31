@@ -511,7 +511,7 @@ droddum
 descended
 dallier
 dup
-dextromanual
+dextromanual 1
 diminishingturns
 discustom
 dromotropic
