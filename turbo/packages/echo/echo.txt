@@ -12412,7 +12412,7 @@ esquire
 euphemized
 eighteen
 enlimn
-exhumatory
+exhumatory 1
 emancipations
 exfiltrate
 equilibrial
