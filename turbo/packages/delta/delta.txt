@@ -14148,7 +14148,7 @@ doyst
 disinfest
 disulfonic
 dispread
-dirgelike
+dirgelike 1
 dhobi
 defective
 demandingness
