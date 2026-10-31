@@ -4788,7 +4788,7 @@ daimiate
 dictyonema
 disseizor
 diagonalize
-dentalizing
+dentalizing 1
 demography
 denigrations
 dichotomically
