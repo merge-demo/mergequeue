@@ -1845,7 +1845,7 @@ goofy
 geodic
 gourmandism
 galacturia
-gardenwise
+gardenwise 1
 gentilesse
 grabber
 gemlike
