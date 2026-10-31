@@ -6109,7 +6109,7 @@ cli
 catoptric
 canaan
 clippable
-catoptrically
+catoptrically 1
 curtise
 catoptrite
 catoptromantic
