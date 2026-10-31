@@ -361,7 +361,7 @@ flaggelate
 fivish
 factions
 forfeiture
-flyingly
+flyingly 1
 fellers
 flattering
 fiercening
