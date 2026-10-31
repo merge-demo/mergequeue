@@ -8174,7 +8174,7 @@ dermalith
 diaconal
 disenorm
 diaconica
-depotentiation
+depotentiation 1
 dragooning
 deputable
 dactylic
