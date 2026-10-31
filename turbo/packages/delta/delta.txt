@@ -16318,7 +16318,7 @@ daffled
 dials
 decerned
 diaspores
-dumpiness
+dumpiness 1
 downsized 1
 druggeries
 dochmiac
