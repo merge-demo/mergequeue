@@ -2435,7 +2435,7 @@ freemasons
 fractur
 frizzle
 frisco
-farandola
+farandola 1
 flutterable
 frazer
 fulgourous
