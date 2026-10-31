@@ -3287,7 +3287,7 @@ glancer
 glycosin
 gelotoscopy
 glent
-grabbable
+grabbable 1
 glosseme
 gula
 gabback
