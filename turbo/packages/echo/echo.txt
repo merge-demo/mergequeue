@@ -11529,7 +11529,7 @@ emigrate
 edital
 evocating
 ensign
-engendered
+engendered 1
 enkerchief
 esterlin
 encia
