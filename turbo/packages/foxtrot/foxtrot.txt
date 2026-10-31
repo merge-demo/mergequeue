@@ -10373,7 +10373,7 @@ fonctionnaire
 fecundities
 fertilizable
 frontignan
-fucate
+fucate 1
 fronting
 fizzle
 focus
