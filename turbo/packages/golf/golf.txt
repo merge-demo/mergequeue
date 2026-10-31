@@ -5756,7 +5756,7 @@ goldweed
 grecizes
 geometrical
 gunfighter
-glossoptosis
+glossoptosis 1
 gloomth
 gradin
 goings
