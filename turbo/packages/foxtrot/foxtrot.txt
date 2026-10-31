@@ -6566,7 +6566,7 @@ fissions
 fo
 fireproofed
 fuciphagous
-foalfoots
+foalfoots 1
 flavorers
 ficula
 futurism
