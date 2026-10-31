@@ -9198,7 +9198,7 @@ gridlock
 gamy
 gliss
 greenstick
-glavering
+glavering 1
 glaucomas 1
 glaucosuria
 gastrodiaphanoscopy
