@@ -14008,7 +14008,7 @@ exoskeleton
 extraprofessional
 extrapunitive
 endogen
-extraregularly
+extraregularly 1
 equestrian
 expirers
 exiling
