@@ -27483,7 +27483,7 @@ couxia
 citrous
 chronicity
 covalences
-covalency
+covalency 1
 carpoptosis
 coriander
 covalent
