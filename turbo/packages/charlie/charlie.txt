@@ -2149,7 +2149,7 @@ corduroy
 campho
 castrations
 camphocarboxylic
-camphoid
+camphoid 1
 choryos
 camphol
 campholic
