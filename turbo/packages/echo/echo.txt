@@ -13538,7 +13538,7 @@ exscriptural
 execrating
 extemporarily
 exscutellate
-extravagancy
+extravagancy 1
 emotioned
 elflock
 eutaxie
