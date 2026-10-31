@@ -1934,7 +1934,7 @@ argyria
 acetylhydrazine 1
 anacardiaceous
 aotus
-acetylid
+acetylid 1
 acetylizable
 aversive
 anamirtin
