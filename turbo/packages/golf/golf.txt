@@ -5947,7 +5947,7 @@ glumnesses
 gemeinschaft
 gallomania
 glossocoma
-gibbers
+gibbers 1
 gauzier
 grayhair
 gnomist
