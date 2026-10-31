@@ -26920,7 +26920,7 @@ credentialism
 counterjumper
 corvets
 crosne
-contraflexure
+contraflexure 1
 compradore
 colliquativeness
 copperleaf
