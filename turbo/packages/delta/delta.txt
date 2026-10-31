@@ -9789,7 +9789,7 @@ debcle
 disrupture
 dillymen
 durangite
-doorstops
+doorstops 1
 disenfranchise
 diggings
 dills
