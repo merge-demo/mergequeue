@@ -5605,7 +5605,7 @@ flannelmouthed
 flowery
 furbearer
 froebelist
-fanaticized
+fanaticized 1
 forefeel
 fossilation
 formulary
