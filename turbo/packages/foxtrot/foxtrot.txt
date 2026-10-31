@@ -8180,7 +8180,7 @@ furores
 flockbed
 foods
 foghorn
-forewings
+forewings 1
 fichus
 flossed
 frenate
