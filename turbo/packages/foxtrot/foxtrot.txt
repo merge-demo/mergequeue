@@ -6035,7 +6035,7 @@ forespeech
 frontooccipital
 flanker
 fictionise
-fluoresce
+fluoresce 1
 fleam
 fisting
 finking 1
