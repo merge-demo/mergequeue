@@ -12061,7 +12061,7 @@ epacridaceae
 excrementive
 extrasensory
 enfolder
-excrescency
+excrescency 1
 eccentric
 eris
 excuseless

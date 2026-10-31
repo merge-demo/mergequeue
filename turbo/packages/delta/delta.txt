@@ -9664,7 +9664,7 @@ demission 1
 dikaryophytic
 disfiguration
 deliquesces
-defamatory
+defamatory 1
 doorcase
 dipneusti
 digonoporous
