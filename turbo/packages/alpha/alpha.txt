@@ -13060,7 +13060,7 @@ artefacts
 agglomeratic
 anhedral
 anhelation
-anhelose
+anhelose 1
 anhemitonic
 aborting
 amulla
