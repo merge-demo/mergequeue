@@ -6978,7 +6978,7 @@ gushiest
 genevoise
 gynosporangium
 geason
-goofiness
+goofiness 1
 grutching
 grassflat
 goodies
