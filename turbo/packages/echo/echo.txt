@@ -7695,7 +7695,7 @@ esprise
 extruder
 ellipticalness
 epidemically
-evicting
+evicting 1
 exalt
 escurialize
 evidentiary
