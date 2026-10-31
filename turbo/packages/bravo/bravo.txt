@@ -11836,7 +11836,7 @@ budgerigar
 bodice
 brainwashers
 brushlike
-bestowals
+bestowals 1
 bodicemaking
 becrowding
 begartered
