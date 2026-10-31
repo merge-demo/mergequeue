@@ -4662,7 +4662,7 @@ geobiology
 gematrical
 galli
 gastroplenic
-getmjlkost
+getmjlkost 1
 guttery
 gyrovagues
 gloy
