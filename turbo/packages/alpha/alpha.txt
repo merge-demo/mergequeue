@@ -19761,7 +19761,7 @@ anteprandial
 allelopathy
 ascriptive
 arithmocratic
-arithmograph
+arithmograph 1
 arithmography
 azulejos
 aggressiveness
