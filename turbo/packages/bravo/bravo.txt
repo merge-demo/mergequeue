@@ -14264,7 +14264,7 @@ butyne
 byword
 boarding
 buglosses
-beclart
+beclart 1
 braehead
 bulblet
 bronchiogenic
