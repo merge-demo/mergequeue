@@ -4214,7 +4214,7 @@ federals
 forebitten
 foofaraw
 ferfathmur
-felonries
+felonries 1
 featherstitch
 foothold
 flittermmice
