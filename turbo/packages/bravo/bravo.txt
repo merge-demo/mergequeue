@@ -4924,7 +4924,7 @@ beeftongue
 biers
 beegerite
 bootlick
-bairnliness
+bairnliness 1
 badchan
 bitriseptate
 braggite
