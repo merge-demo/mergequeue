@@ -9837,7 +9837,7 @@ endoceras
 engin
 enslumber
 esterified
-eclipsation
+eclipsation 1
 eatage
 esterization
 esterize
