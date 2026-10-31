@@ -8653,7 +8653,7 @@ fistuliform
 floured
 ferroprint
 forth
-freesia
+freesia 1
 flatfooted
 flaunters
 fossilify
