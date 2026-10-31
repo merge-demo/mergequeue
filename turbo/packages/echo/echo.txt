@@ -3999,7 +3999,7 @@ epilamellar
 etymologise
 estrapade
 enage
-extirpated
+extirpated 1
 empexa
 emphasized
 embargos
