@@ -1276,7 +1276,7 @@ extraditable
 ecorche
 eblis
 eucairite
-eleonorite
+eleonorite 1
 epinephrin
 epigramme
 eq
