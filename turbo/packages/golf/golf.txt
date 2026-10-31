@@ -7217,7 +7217,7 @@ gorgosaurus
 galenism
 gorillalike
 grimliness
-gloze
+gloze 1
 grater
 greed
 gonial
