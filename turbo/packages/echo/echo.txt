@@ -2878,7 +2878,7 @@ empark
 eleutherozoan
 encyrtid
 ental
-elevable
+elevable 1
 embraceor
 electrionic
 epergne
