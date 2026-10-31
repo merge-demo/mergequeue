@@ -11893,7 +11893,7 @@ expectations
 eyr
 eugranitic
 enhypostatic
-entrepreneurship
+entrepreneurship 1
 epiphytes
 emissivity 1
 emends
