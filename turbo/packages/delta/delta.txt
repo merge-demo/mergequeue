@@ -9341,7 +9341,7 @@ differentiator
 defalcates
 decreasing
 deneb
-dewax
+dewax 1
 downhill
 diplopia
 differently
