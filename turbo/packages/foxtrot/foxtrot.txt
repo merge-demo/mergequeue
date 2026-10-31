@@ -679,7 +679,7 @@ farnesol
 fluotitanic
 fames
 fuddled
-fichu
+fichu 1
 forerib
 frissons
 formism
