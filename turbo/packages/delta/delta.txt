@@ -15627,7 +15627,7 @@ directable
 doorstop
 devotionality
 diapasonal
-disulfate
+disulfate 1
 diverge
 dockman
 diodes
