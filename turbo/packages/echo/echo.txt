@@ -649,7 +649,7 @@ extraction
 elocute
 eclegma
 ehrman
-etatism
+etatism 1
 establishment
 equisufficiency
 etherialise
