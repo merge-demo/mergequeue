@@ -3299,7 +3299,7 @@ facewise
 foveae
 ferrohydrocyanic
 fractionization
-fossilologist
+fossilologist 1
 folklorist
 featherlessness
 fioritura
