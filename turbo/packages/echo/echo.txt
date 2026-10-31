@@ -8030,7 +8030,7 @@ ease
 entoconid
 enstatitic
 easements
-evident
+evident 1
 expound
 entertaining
 escallop 1
