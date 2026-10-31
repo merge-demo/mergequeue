@@ -3452,7 +3452,7 @@ dictyoxylon
 doigte
 defluvium
 demimark
-dang
+dang 1
 defoamed
 diacetylmorphine
 damozels
