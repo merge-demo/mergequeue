@@ -8561,7 +8561,7 @@ guestimating
 grabbling
 generates
 geranomorph
-geodetical
+geodetical 1
 gadget
 gusla
 gilo
