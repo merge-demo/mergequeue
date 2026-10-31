@@ -31019,7 +31019,7 @@ clead
 ceriops
 clairaudiently
 cuminal
-capitalize
+capitalize 1
 carbaryl
 cuminic
 classes
