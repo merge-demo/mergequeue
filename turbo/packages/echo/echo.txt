@@ -5048,7 +5048,7 @@ economization
 emerited
 endoauscultation
 effervescently
-equiradial
+equiradial 1
 etchant
 euthenasia
 echoes 1
