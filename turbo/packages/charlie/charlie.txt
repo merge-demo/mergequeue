@@ -14292,7 +14292,7 @@ circumpose
 condite
 circumquaque
 circumradius
-circumradiuses
+circumradiuses 1
 charitable
 claver
 conferring
