@@ -15374,7 +15374,7 @@ blisterwort
 bohorok
 boisterously
 brieflessly
-briefness
+briefness 1
 bleeds
 bedstaves
 barblet
