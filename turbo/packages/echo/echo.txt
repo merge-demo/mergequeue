@@ -12773,7 +12773,7 @@ epidendric
 exostosis
 exarchist
 exostra 1
-ebullition
+ebullition 1
 engraves
 elementary
 exostrae
