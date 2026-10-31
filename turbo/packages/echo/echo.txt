@@ -14139,7 +14139,7 @@ evaporometer
 excussion
 endearment
 entrails
-epitaphic
+epitaphic 1
 evensongs
 extrachromosomal
 encomium
