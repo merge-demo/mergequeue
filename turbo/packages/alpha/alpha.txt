@@ -10570,7 +10570,7 @@ amidoplastid
 amidoxyl
 australopithecinae
 anagrammatize
-apolarity
+apolarity 1
 aphids
 ascaris
 anotia
