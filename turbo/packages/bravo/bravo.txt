@@ -1877,7 +1877,7 @@ banderma
 banderol
 banderole
 bicolors
-bindings
+bindings 1
 brigading
 banders
 broadlings
