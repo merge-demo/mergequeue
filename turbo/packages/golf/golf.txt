@@ -5861,7 +5861,7 @@ gadger
 gate
 gymnosporangium
 gynoecium
-glucate
+glucate 1
 gorevan
 gibelite
 gastrostomies
