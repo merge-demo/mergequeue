@@ -11774,7 +11774,7 @@ epimerise
 extrospective
 exorcises
 exister
-electoral
+electoral 1
 elusion
 ensignship
 eurymus
