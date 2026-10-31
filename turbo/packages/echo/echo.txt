@@ -5850,7 +5850,7 @@ engrandize
 ebrillade
 endothecate
 ectogeneous
-ecesis
+ecesis 1
 engrandizement
 epidermatous
 enodate
