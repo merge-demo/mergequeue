@@ -529,7 +529,7 @@ bicentennial
 backstromite
 boart
 bu
-backtenter
+backtenter 1
 beggingwise
 blennioid
 backtracking
