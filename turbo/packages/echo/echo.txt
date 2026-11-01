@@ -5625,7 +5625,7 @@ enforces
 endent
 ectropion
 electivity
-endocentric
+endocentric 1
 edenic
 encouraging
 epilogation
