@@ -3172,7 +3172,7 @@ aweather
 apostrophized
 actives
 apparency
-attunely
+attunely 1
 activin
 activism
 aetiologically
