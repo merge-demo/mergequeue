@@ -9447,7 +9447,7 @@ furnaceman
 fistful
 fulcrate
 furculum
-fastwalk
+fastwalk 1
 febricitant
 fidele
 fraternities
