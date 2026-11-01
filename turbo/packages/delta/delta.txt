@@ -4318,7 +4318,7 @@ duckhood
 dequeue
 dunderpate
 dronel
-diversicolored
+diversicolored 1
 daubster
 diamondiferous
 diacritical
