@@ -13395,7 +13395,7 @@ effront
 earlship
 expressage
 edgily
-edacities
+edacities 1
 escalates
 excitatory
 evilmouthed
