@@ -11638,7 +11638,7 @@ foliaceous
 frizzled
 fructoses
 ferren
-fustiness
+fustiness 1
 fustoc
 fussily
 fusulae
