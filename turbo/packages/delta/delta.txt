@@ -5800,7 +5800,7 @@ dissuade
 deposit
 divine
 depositation
-decry
+decry 1
 dartlike
 disgorgement
 derailleur
