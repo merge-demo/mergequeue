@@ -4052,7 +4052,7 @@ cicada
 catechism
 cardamom
 cicatrise
-cardamon
+cardamon 1
 centenary
 cardamum
 cardanol
