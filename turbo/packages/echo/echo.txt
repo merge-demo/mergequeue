@@ -2583,7 +2583,7 @@ entertainable
 etua
 enantioblastous
 eruginous
-evaporativity
+evaporativity 1
 eighteenthly
 ensnarl
 exudatory
