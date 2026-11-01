@@ -18017,7 +18017,7 @@ chuse
 cordaitales
 coembrace
 calcaneal
-coeminency
+coeminency 1
 cysteine
 compsilura
 cuit
