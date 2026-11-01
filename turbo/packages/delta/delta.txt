@@ -16024,7 +16024,7 @@ doublethink
 driveline
 drainboard
 dockers
-diacoelosis
+diacoelosis 1
 dekagrams
 doublette
 decursively
