@@ -604,7 +604,7 @@ fullback
 fallowist
 foretasted
 fricasseed
-fardh
+fardh 1
 forerunners
 fivefold
 floorless
