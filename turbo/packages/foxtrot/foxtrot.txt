@@ -1793,7 +1793,7 @@ farfet
 farsalah
 forlorn
 foundery
-frivolously
+frivolously 1
 fetid
 fackings
 fosslfying
