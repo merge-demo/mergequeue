@@ -1336,7 +1336,7 @@ daunt
 disfellowship
 daunted
 dhobies
-daunters
+daunters 1
 daffy
 dipentine
 demissive
