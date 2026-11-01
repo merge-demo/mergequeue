@@ -7967,7 +7967,7 @@ drawpoint
 dextroglucose
 detainable
 distensive
-dextrolactic
+dextrolactic 1
 despotes
 diphenylthiourea
 dorosternal
