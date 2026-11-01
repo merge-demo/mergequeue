@@ -2602,7 +2602,7 @@ adffrozen
 annunciable
 adjacent
 acquest
-armenite
+armenite 1
 actutate
 arriswise
 acquiesce
