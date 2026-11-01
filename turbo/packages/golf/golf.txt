@@ -7160,7 +7160,7 @@ giggler
 gastrotaxis
 gabbros
 gabelle
-glistering
+glistering 1
 geometrise
 glycuronid
 guans
