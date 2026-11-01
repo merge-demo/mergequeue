@@ -5969,7 +5969,7 @@ eassel
 eluvial
 exquisite
 etourderie
-enigmatist
+enigmatist 1
 enigmatographer
 exempts
 encoronet
