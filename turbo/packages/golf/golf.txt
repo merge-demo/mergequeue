@@ -3692,7 +3692,7 @@ garrisonism
 gallinae
 gnathite
 goalmouth
-gherkins
+gherkins 1
 gyrencephalic
 ghostier
 galah
