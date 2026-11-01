@@ -9161,7 +9161,7 @@ fracturing
 flock
 filicide
 flyaway
-furunculosis
+furunculosis 1
 frenchiness
 foolify
 formicaria
