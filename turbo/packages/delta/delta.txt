@@ -5755,7 +5755,7 @@ descriptor
 decasualizing
 depolymerize
 deadpay
-disaffirmation
+disaffirmation 1
 davened
 deaconed
 depolishes
