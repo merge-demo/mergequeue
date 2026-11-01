@@ -7849,7 +7849,7 @@ globs
 graphospasm
 gerents
 gulaman
-goosander
+goosander 1
 gooroo
 grumble
 gurlet
