@@ -4010,7 +4010,7 @@ gteau
 geared
 girlishness
 gildable
-gentrification
+gentrification 1
 gesticulated
 grotzen
 gymnorhinal
