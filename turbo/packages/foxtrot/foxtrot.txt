@@ -6335,7 +6335,7 @@ fixtureless
 fourb
 fasciculately
 flunkyish
-flunkyize
+flunkyize 1
 forefingers
 ferments
 fumigatorium
