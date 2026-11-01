@@ -18296,7 +18296,7 @@ agush
 archont
 arachnomorphae
 arabiyeh
-apparel
+apparel 1
 acquisitum
 adjunct
 awshar
