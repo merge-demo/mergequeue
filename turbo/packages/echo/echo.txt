@@ -10509,7 +10509,7 @@ estop
 exencephalia
 eucharistial
 eurylaimoid
-eudaemony
+eudaemony 1
 eucharistic
 eucharistically 1
 earthfall
