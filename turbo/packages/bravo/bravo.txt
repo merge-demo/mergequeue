@@ -10566,7 +10566,7 @@ boltheader
 bachelorship
 bespake
 buduma
-blattid
+blattid 1
 bulwand
 brockish
 basilard
