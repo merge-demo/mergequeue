@@ -7142,7 +7142,7 @@ gagtooth 1
 gastrotubotomy
 gorble
 gorblin
-gorcocks
+gorcocks 1
 gypsylike
 ghostweed
 gladiatorship
