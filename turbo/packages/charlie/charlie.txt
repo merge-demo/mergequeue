@@ -15694,7 +15694,7 @@ cerithioid
 chirres
 clavy
 clavicembalist
-clavicembalo
+clavicembalo 1
 claviceps
 caiarara
 cartage
