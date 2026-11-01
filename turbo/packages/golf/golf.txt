@@ -3172,7 +3172,7 @@ glossiness
 governmentalist
 glottological
 geotilla
-grigs
+grigs 1
 geotropy
 guardant
 glossolabiolaryngeal
