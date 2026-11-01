@@ -2252,7 +2252,7 @@ deceiving
 definitized
 defuzes
 distractibility
-dustbox
+dustbox 1
 determinative
 decelerates
 dentolabial
