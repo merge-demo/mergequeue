@@ -10614,7 +10614,7 @@ gallow
 glumose
 gallinules
 graveolence
-gemmiform
+gemmiform 1
 goy
 guildite
 gunpoints
