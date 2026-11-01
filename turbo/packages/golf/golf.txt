@@ -6740,7 +6740,7 @@ gagaku
 gurdfish
 gruine
 guiltlessness
-gastralgia
+gastralgia 1
 goniocraniometry
 grouters
 gaveller

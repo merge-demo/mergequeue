@@ -4901,7 +4901,7 @@ endameba
 endamebae
 equiv
 eveck
-eudemons
+eudemons 1
 extradictable
 endamoebas
 endamoebidae
