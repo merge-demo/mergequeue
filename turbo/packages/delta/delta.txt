@@ -12046,7 +12046,7 @@ disenthrone
 denizened 1
 demerits
 disentitled
-deceptitious
+deceptitious 1
 didelphine
 disjune
 diurnals
