@@ -6529,7 +6529,7 @@ decoyed
 dirtbird
 dreggily
 distomiasis
-descort
+descort 1
 dosa
 dolorimetry
 deraign
