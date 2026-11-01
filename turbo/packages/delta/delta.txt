@@ -11632,7 +11632,7 @@ disentanglements
 deprecated
 discost
 dimorphite
-digitally
+digitally 1
 dulcity
 discotheque
 discothque
