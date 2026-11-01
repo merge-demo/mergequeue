@@ -14092,7 +14092,7 @@ baring
 balaenidae
 blusterously
 brachygnathia
-brachygnathism
+brachygnathism 1
 bailieries
 baleful
 blackberries
