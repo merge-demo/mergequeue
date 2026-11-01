@@ -6471,7 +6471,7 @@ foulness
 fliting
 fictor
 fruitages
-fissilingual
+fissilingual 1
 farriery
 flatboat
 fording
