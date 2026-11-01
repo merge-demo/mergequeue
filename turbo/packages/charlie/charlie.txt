@@ -18432,7 +18432,7 @@ cognovits
 coherent
 chondromata
 conspiratorially
-cogonal
+cogonal 1
 cogovernor
 cattalos
 cellularity
