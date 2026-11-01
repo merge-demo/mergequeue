@@ -6590,7 +6590,7 @@ echinorhynchus
 egyptianism
 expulsatory
 eructed
-execrate
+execrate 1
 endlichite
 easterliness
 enteroepiplocele
