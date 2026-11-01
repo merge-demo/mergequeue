@@ -6795,7 +6795,7 @@ beachy
 broadsided
 ber
 beruffed
-brusqueness
+brusqueness 1
 blimp
 boy 1
 bilic
