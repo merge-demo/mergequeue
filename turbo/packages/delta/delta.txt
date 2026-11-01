@@ -6937,7 +6937,7 @@ despecialize
 despecificate
 despecification
 desperado
-darky
+darky 1
 dioptre 1
 digits
 desperados
