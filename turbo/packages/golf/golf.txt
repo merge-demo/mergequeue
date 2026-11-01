@@ -5229,7 +5229,7 @@ gibbals
 gourding
 guardianships
 girouette
-grandiosity
+grandiosity 1
 gleys
 giganticidal
 grindery
