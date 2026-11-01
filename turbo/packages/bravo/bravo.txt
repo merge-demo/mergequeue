@@ -3380,7 +3380,7 @@ besilver
 buccheros
 branchiopulmonate
 bassalia
-bootable
+bootable 1
 baculum
 benzilic
 bassanite
