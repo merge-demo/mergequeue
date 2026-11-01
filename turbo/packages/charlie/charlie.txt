@@ -9167,7 +9167,7 @@ commandeering
 constipating
 chass
 chasse
-chassed
+chassed 1
 chasseing
 chassepot
 chassepots
