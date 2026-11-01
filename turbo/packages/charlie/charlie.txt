@@ -7048,7 +7048,7 @@ centerable
 cutup
 chumpivilca
 centerboard
-centerer
+centerer 1
 centerfold
 coofs
 chelators
