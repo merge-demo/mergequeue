@@ -11328,7 +11328,7 @@ decorement
 delimiter
 dischevel
 dissimulator
-disci
+disci 1
 diabases
 dermatocele
 disciflorae
