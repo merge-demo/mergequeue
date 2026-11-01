@@ -8181,7 +8181,7 @@ excalfaction
 exists
 episiotomies
 enroots
-expirant
+expirant 1
 episodical
 earsh
 episodically
