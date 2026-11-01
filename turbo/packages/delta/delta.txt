@@ -12348,7 +12348,7 @@ distraint
 dupable
 diel
 dishclout
-disassembly
+disassembly 1
 disheartenedly
 doubles
 doveflower
