@@ -10973,7 +10973,7 @@ eventuation
 eoside
 escobita
 ecologically
-ennuye
+ennuye 1
 electrokinematics
 excavates
 eurybenthic
