@@ -11427,7 +11427,7 @@ estuarine
 elided
 evetide
 extirpating
-encipherment
+encipherment 1
 elucidation
 emasculated
 engraving
