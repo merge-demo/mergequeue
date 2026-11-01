@@ -5033,7 +5033,7 @@ eucosmid
 excipulaceae
 emboweller
 escobedo
-ensuer
+ensuer 1
 emphaticalness
 ectoproct
 endmost
