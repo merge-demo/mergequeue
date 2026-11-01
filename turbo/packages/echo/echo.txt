@@ -3066,7 +3066,7 @@ expurgational
 elijah
 eremital
 ellenyard
-enshrine
+enshrine 1
 equilater
 emetia
 exhaustible
