@@ -19147,7 +19147,7 @@ archturncoat
 appulses
 archvampire
 archvillainy
-adjutrix
+adjutrix 1
 assuages
 algorithm
 anisylidene
