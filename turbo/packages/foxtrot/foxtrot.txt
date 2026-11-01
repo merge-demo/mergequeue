@@ -5061,7 +5061,7 @@ fosses
 fetialis
 foveated 1
 fezes
-freir
+freir 1
 frsiket
 fowler
 fitches
