@@ -5352,7 +5352,7 @@ gormands
 ganoses
 gipsyism
 geotechnics
-gadgetry
+gadgetry 1
 glycosidically
 granulite
 gitter
