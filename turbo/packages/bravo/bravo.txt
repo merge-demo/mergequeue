@@ -6033,7 +6033,7 @@ bemuddling
 bemurmur
 bondwoman
 butyral
-botaniser
+botaniser 1
 bemurmure
 bemurmuring
 bittier
