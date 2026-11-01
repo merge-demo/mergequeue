@@ -2534,7 +2534,7 @@ buckler
 baldish
 barguest
 barguests
-buzylene
+buzylene 1
 baria
 bedouse
 blameful
