@@ -4070,7 +4070,7 @@ emboil
 equitant
 enjambement
 erotophobia
-exteriorize
+exteriorize 1
 epiphonemae
 eugenical
 electrotonize
