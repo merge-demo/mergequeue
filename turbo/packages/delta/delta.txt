@@ -1461,7 +1461,7 @@ damages
 disbarred
 dedicatedly
 doublehanded
-daze
+daze 1
 discerptibility
 disinherison
 dipropellant
