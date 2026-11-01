@@ -10186,7 +10186,7 @@ chianti
 chiao
 capsicum
 chiapanec
-chiapanecan
+chiapanecan 1
 chlorochrous
 compurgatory
 carps
