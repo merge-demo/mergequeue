@@ -5684,7 +5684,7 @@ birefracting
 backwasher
 belialic
 belibel
-belie
+belie 1
 belied
 bridalty
 blatancy
