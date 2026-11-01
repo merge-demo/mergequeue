@@ -4762,7 +4762,7 @@ countersinking
 cimier
 convecting
 choriocarcinoma
-cubicalness
+cubicalness 1
 crystall
 carpocephala
 canicular
