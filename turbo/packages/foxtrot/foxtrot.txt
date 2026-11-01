@@ -6069,7 +6069,7 @@ floridity
 floriscope
 fetterbush
 faba
-funicule
+funicule 1
 flavoring
 filmgoing
 feringhee
