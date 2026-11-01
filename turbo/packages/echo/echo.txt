@@ -7057,7 +7057,7 @@ enshell
 entoiling
 enunciability
 etymologer
-euphemous
+euphemous 1
 eer
 ebonising
 eleemosynar
