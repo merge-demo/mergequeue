@@ -21851,7 +21851,7 @@ alaki
 advowson
 assiege
 auricula
-assify
+assify 1
 adventurement
 alpen
 addax
