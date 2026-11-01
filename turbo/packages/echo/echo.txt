@@ -7940,7 +7940,7 @@ equivocatory 1
 estragol
 ensilation
 expounds
-excudate
+excudate 1
 epimanikion
 epimeres
 electrostenolysis
