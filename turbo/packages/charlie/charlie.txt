@@ -2634,7 +2634,7 @@ conversationalist
 composes 1
 cobbers
 chimp
-canework
+canework 1
 chuckling
 compliably
 chalet
