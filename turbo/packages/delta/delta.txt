@@ -1495,7 +1495,7 @@ dc
 dcb
 depressure 1
 deaccessioning
-drawbolt
+drawbolt 1
 delftware
 dermatorrhea
 definiendum
