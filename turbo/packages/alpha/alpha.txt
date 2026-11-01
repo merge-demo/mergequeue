@@ -20856,7 +20856,7 @@ arupa
 armoried
 aruspicy
 amaas
-atnah
+atnah 1
 arteriography
 arval
 arvejon
