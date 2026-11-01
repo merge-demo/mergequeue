@@ -15003,7 +15003,7 @@ carbonizable
 crockeryware
 civically
 civicism
-civicisms
+civicisms 1
 civics
 civie
 contractively
