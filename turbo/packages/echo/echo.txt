@@ -7945,7 +7945,7 @@ epimanikion
 epimeres
 electrostenolysis
 enterolithiasis
-exiting
+exiting 1
 evangels
 encephalonarcosis
 equisetic
