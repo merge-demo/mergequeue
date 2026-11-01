@@ -9029,7 +9029,7 @@ dermatoplast
 dicoumarol
 distantness
 dicranaceous
-dextrinous
+dextrinous 1
 decatholicize
 dicrotal
 dicrotous
