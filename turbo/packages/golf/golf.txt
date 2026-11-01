@@ -10703,7 +10703,7 @@ guaiacolize
 gurshes
 gibbus
 garbler
-gobbler
+gobbler 1
 gonadectomies
 gyascutus
 germanophobic
