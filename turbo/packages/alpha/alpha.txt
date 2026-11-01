@@ -7708,7 +7708,7 @@ abelicea
 adaw
 alcoholize
 alcoholmeter
-airmass
+airmass 1
 anemogram
 alcoholmetric
 abaissed
