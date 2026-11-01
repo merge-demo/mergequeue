@@ -12962,7 +12962,7 @@ calenturish
 cyano
 crystallogenesis
 cyanoacetate
-cyclops
+cyclops 1
 cobenignity
 currencies
 cyanoaurate
