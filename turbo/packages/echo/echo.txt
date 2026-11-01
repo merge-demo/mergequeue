@@ -11900,7 +11900,7 @@ emends
 eightfoil
 engore
 euploeinae
-emotionalist
+emotionalist 1
 enragement
 expurgation
 ephidrosis
