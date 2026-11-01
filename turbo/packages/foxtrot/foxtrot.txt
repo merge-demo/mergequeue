@@ -7719,7 +7719,7 @@ flyeater
 foreknew
 farcically
 florian
-freeish
+freeish 1
 fretty
 furs
 forsaken
