@@ -10415,7 +10415,7 @@ diphenyls
 dispowder
 doglegging
 disfigurative
-deticking
+deticking 1
 diphenoxylate
 diphysite
 dosimeters
