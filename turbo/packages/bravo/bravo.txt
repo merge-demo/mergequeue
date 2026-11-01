@@ -587,7 +587,7 @@ boffola
 baubee
 balisaur
 baconian
-bishopric
+bishopric 1
 breaths
 bistro
 baconism
