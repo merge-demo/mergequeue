@@ -6520,7 +6520,7 @@ dereligion
 descensionist
 descensive
 donor
-descent
+descent 1
 despert
 dekameter
 diffracting
