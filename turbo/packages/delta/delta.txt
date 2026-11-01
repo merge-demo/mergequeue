@@ -13796,7 +13796,7 @@ determinations
 docoglossa
 defections
 disturbedly
-disenchants
+disenchants 1
 dion
 dissuasion
 decolonization
