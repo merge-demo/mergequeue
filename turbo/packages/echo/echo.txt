@@ -4116,7 +4116,7 @@ electrovalence
 employe
 estado
 etamin
-empestic
+empestic 1
 epicanthus
 earthwall
 eudaimonism
