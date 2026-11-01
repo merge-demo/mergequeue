@@ -10712,7 +10712,7 @@ gu
 grams
 gumma
 gastrolytic
-gallused
+gallused 1
 gears
 gracioso
 guywire
