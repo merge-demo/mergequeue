@@ -17180,7 +17180,7 @@ dimensions
 dryopithecus
 diander
 dryopteroid
-dripolator
+dripolator 1
 deaves
 dribbing
 drippage
