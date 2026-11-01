@@ -15255,7 +15255,7 @@ dissectible
 durante
 disconcerted
 devant
-decelerate
+decelerate 1
 decalcomania
 didelphyidae
 dolmans
