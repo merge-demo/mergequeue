@@ -16667,7 +16667,7 @@ diplarthrous
 davenport
 draintile
 debouchure
-duodiode
+duodiode 1
 detach
 darnel
 drinking
