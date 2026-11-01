@@ -16450,7 +16450,7 @@ antonymies
 antoniniani
 antoninianus
 acidophil
-aurei
+aurei 1
 antonomastic
 antonomastical
 aminopurine
