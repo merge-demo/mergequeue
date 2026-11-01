@@ -4345,7 +4345,7 @@ cotemporaneous
 cattleya
 caricatura
 caricature
-chud
+chud 1
 caricaturing
 caricaturist
 contaminator
