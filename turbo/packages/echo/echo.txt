@@ -11441,7 +11441,7 @@ erinnic
 effectually
 eupatorium
 enteropexy
-electrotypist
+electrotypist 1
 escapades
 empyreumatize
 eductions
