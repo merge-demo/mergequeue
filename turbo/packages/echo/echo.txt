@@ -12677,7 +12677,7 @@ eloquent
 energizing
 exophasic
 etchers
-exalted
+exalted 1
 exophthalmia
 embloom
 epibolism
