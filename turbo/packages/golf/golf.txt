@@ -9220,7 +9220,7 @@ goffered
 greenyard
 gripping
 guayule
-goshawful
+goshawful 1
 grayfish
 guiled
 guaka
