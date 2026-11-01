@@ -17252,7 +17252,7 @@ coalification
 cephalostyle
 clinopinacoidal
 coalifies
-coalifying
+coalifying 1
 coalite
 cephalacanthidae
 counterbalances
