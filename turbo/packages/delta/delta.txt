@@ -7249,7 +7249,7 @@ dimetric 1
 detenue
 decussorium
 desulfurize
-dumbbeller
+dumbbeller 1
 detenues
 dephlegmator
 deactivators
