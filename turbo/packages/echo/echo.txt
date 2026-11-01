@@ -5569,7 +5569,7 @@ epistasy
 ethologist
 enflaming 1
 epiklesis
-embryulcus
+embryulcus 1
 enflower
 essexite
 evaporate
