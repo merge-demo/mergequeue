@@ -9788,7 +9788,7 @@ discanonize
 debcle
 disrupture
 dillymen
-durangite
+durangite 1
 doorstops
 disenfranchise
 diggings
