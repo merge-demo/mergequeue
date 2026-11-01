@@ -3381,7 +3381,7 @@ gethsemanic
 greeks
 gerocomical
 gerodontic
-geobiont
+geobiont 1
 gothicist
 gerontic
 generalships
