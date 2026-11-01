@@ -6544,7 +6544,7 @@ disaffectionate
 descries
 dagbamba
 dodgers
-decimates
+decimates 1
 descript
 descriptionist
 dogsled
