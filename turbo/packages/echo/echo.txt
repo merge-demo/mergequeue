@@ -7705,7 +7705,7 @@ epidemiography
 elytroplastic
 explainingly
 epeirogeny
-equilibration
+equilibration 1
 ecostate
 expendability
 extrapopular
