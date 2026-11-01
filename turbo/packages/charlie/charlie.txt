@@ -31339,7 +31339,7 @@ cawk
 consolitorily
 cruziero
 curfew
-curfewed
+curfewed 1
 curiality
 clerete
 curfews
