@@ -1262,7 +1262,7 @@ dative
 dorking
 datively
 dambose
-discerpible
+discerpible 1
 dreamlore
 dendrologist
 dimouts
