@@ -1709,7 +1709,7 @@ gloeal
 graced
 goric
 glass
-guesses
+guesses 1
 guernseys
 gaullism
 gastropexy
