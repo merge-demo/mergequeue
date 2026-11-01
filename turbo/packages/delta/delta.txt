@@ -9119,7 +9119,7 @@ disweapon
 didelphoid
 disinclines
 derisory
-doffs
+doffs 1
 desexualized
 detriment
 disdiaclasis
