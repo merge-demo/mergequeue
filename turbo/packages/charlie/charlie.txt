@@ -11450,7 +11450,7 @@ chocoan
 chocolatey
 chine
 chocolates 1
-chocolatiere
+chocolatiere 1
 concentred
 choctaw
 choga
