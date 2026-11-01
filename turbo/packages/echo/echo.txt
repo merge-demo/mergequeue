@@ -7811,7 +7811,7 @@ extenuation
 echolalia
 edmund
 endopoditic
-epiploic
+epiploic 1
 equivocators
 enumerability
 extrudes
