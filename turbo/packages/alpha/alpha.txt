@@ -10491,7 +10491,7 @@ amic
 amicability
 antiadiaphorist
 appredicate
-amicably
+amicably 1
 amical
 amarettos
 attachments
