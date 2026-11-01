@@ -19700,7 +19700,7 @@ combatant
 cimbalom
 candlelighter
 combater
-combaters
+combaters 1
 combating
 combative
 combativeness
