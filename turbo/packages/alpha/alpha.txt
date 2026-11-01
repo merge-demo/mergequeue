@@ -22596,7 +22596,7 @@ atelomyelia
 ateloprosopia
 axifera
 acquisitiveness
-averrable
+averrable 1
 appius
 apoaconitine 1
 advertent
