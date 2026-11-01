@@ -2263,7 +2263,7 @@ extremely
 evenhand
 ethnarchies
 endothys
-electricize
+electricize 1
 electriferous
 energumen
 equivalve
