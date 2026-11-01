@@ -1880,7 +1880,7 @@ debonair
 debonairness
 deboned
 dioxin
-deafening
+deafening 1
 dumetose
 dobies
 disablement
