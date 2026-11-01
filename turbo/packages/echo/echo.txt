@@ -6357,7 +6357,7 @@ epirot
 eavesdrip
 episcopize
 eprouvette
-enshrined
+enshrined 1
 enshrinement
 embars
 enshrinements
