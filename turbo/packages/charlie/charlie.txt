@@ -5313,7 +5313,7 @@ cassiopeium
 cladrastis
 cramps
 cassis
-cumbha
+cumbha 1
 crampy
 courtling
 cassiterite
