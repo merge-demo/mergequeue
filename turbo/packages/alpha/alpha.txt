@@ -19580,7 +19580,7 @@ auriculated
 argusianus
 arguslike
 alexipharmic
-abends
+abends 1
 aegyrite
 anchorable
 autointoxicant
