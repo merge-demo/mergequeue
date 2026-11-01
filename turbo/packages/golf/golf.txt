@@ -6792,7 +6792,7 @@ gossiping
 geront
 gymnogyps
 gringo
-gentilitial
+gentilitial 1
 geologically
 gazania
 gyrostatics
