@@ -12456,7 +12456,7 @@ eximidus
 ense
 etiogenic
 eluviates
-exaggeration
+exaggeration 1
 epithetician
 enteropneusta
 erythrophage
