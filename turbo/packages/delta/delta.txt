@@ -8175,7 +8175,7 @@ diaconal
 disenorm
 diaconica
 depotentiation
-dragooning
+dragooning 1
 deputable
 dactylic
 dart
