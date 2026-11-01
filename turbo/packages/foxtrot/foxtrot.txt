@@ -7215,7 +7215,7 @@ flaccid
 fertil
 forwarders
 forfeits
-frizzlers
+frizzlers 1
 faenas
 footpaces
 fluencies
