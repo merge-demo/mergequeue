@@ -5513,7 +5513,7 @@ catachreses
 catachresis
 catachrestic
 chalices
-condemner
+condemner 1
 catachthonic
 consummation
 cataclastic
