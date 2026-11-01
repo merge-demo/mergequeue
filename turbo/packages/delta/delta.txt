@@ -18511,7 +18511,7 @@ downcast
 delegative
 divorced
 duraspinalis
-diacritic
+diacritic 1
 duration
 durations
 durbachite
