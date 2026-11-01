@@ -9007,7 +9007,7 @@ biopsychology
 bidental
 boulevardier
 bringal
-bitentaculate
+bitentaculate 1
 busheler
 barbershop
 burnouts
