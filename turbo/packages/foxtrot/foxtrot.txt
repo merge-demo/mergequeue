@@ -2081,7 +2081,7 @@ filibuster
 famishes
 foremasthand
 fructidor
-fusibleness
+fusibleness 1
 freeform
 fideistic 1
 fogle
