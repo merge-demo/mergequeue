@@ -12931,7 +12931,7 @@ consecution
 cyanhydric 1
 cyanhydrin
 citron
-citrean
+citrean 1
 cyanid
 collects
 casel
