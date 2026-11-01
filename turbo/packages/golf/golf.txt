@@ -6372,7 +6372,7 @@ gastrotrich
 grenado
 given
 galere
-getspace
+getspace 1
 goldspink
 glimmered
 gunmetals
