@@ -12943,7 +12943,7 @@ enfeeble
 evacuative
 erythrol
 expectantly
-expectation
+expectation 1
 emictory
 exclusion
 equipartile
