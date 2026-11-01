@@ -10558,7 +10558,7 @@ fliping
 foughty
 foreloper
 favose
-feudalist
+feudalist 1
 funambulation
 fruchtschiefer
 flumadiddle
