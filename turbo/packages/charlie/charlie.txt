@@ -12658,7 +12658,7 @@ corta
 chucklesome
 chiavetta
 cymblin
-chucklingly
+chucklingly 1
 cirrocumular
 counterchanging
 chuckwalla
