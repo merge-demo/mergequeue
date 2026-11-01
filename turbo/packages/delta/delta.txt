@@ -5996,7 +5996,7 @@ demonetization
 dacite
 delimiting
 decohere
-disapprove
+disapprove 1
 dermatonosus
 depthways
 disoccupy
