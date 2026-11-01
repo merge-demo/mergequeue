@@ -15094,7 +15094,7 @@ cladding
 couplet
 conducta
 chlorophyceous
-churned
+churned 1
 conidia
 clade
 cornucopia
