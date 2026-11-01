@@ -8282,7 +8282,7 @@ coonskin
 complexity
 corallet
 choyroot
-chalinitis
+chalinitis 1
 chalkboard
 chalked
 chalky
