@@ -10878,7 +10878,7 @@ empair
 esclandre
 exsolve
 emmetropia
-eutectic
+eutectic 1
 embryoplastic
 esthetic
 enchaser
