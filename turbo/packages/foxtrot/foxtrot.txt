@@ -5028,7 +5028,7 @@ flipping
 fallows
 flatbeds
 flanneling
-fungoidal
+fungoidal 1
 fellatios
 forepaw
 ferries
