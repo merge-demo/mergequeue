@@ -8547,7 +8547,7 @@ ecclesiasticize
 essentializing
 echinated
 embezzling
-etherify
+etherify 1
 enviable
 enantiotropy
 epizoa
