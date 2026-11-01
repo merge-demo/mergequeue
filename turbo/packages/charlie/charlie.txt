@@ -15954,7 +15954,7 @@ clergion
 clergywoman
 clementine
 culverfoot
-clerical
+clerical 1
 clericalists
 crumbum
 clericality
