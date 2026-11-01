@@ -17996,7 +17996,7 @@ deseasonalize
 dukkeripen
 dehydrase
 dukuma
-dulat
+dulat 1
 dulcamara
 disagree
 diverticulum
