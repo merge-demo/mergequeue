@@ -11494,7 +11494,7 @@ dovewood
 discommendation
 dheneb
 dedanim
-deaner
+deaner 1
 dallyingly
 discommode
 discommoding
