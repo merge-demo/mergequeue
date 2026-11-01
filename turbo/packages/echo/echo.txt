@@ -5380,7 +5380,7 @@ eophyte
 encashment
 eccentrometer
 endothermal
-endothermy
+endothermy 1
 ectopatagia
 erthling
 echinocactus
