@@ -16762,7 +16762,7 @@ cloudology
 comptrollership
 cloudship
 creameryman
-cursedest
+cursedest 1
 chalcophile
 cloudward
 cloudwards
