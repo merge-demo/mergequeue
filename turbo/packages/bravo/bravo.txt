@@ -2308,7 +2308,7 @@ branchiosaurian
 bewearies
 barbellula
 belabor
-barbellulate
+barbellulate 1
 boozing
 blunderings
 blossombill
