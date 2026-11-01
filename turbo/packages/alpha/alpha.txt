@@ -25330,7 +25330,7 @@ antireactionaries
 azophenine
 apraxic
 azoprotein
-adjustage
+adjustage 1
 abeyances
 amygdaline
 avahi
