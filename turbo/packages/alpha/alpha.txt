@@ -15270,7 +15270,7 @@ arthrolite
 adapa
 amalgamates
 antifreeze
-antifriction
+antifriction 1
 antifrost
 antifungal
 apoenzyme
