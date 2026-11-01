@@ -9961,7 +9961,7 @@ besauce
 baresma
 blattidae
 brevirostral
-bawdy
+bawdy 1
 bunkmate
 ballottine
 blairmorite
