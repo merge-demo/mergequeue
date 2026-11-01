@@ -5769,7 +5769,7 @@ catclaw
 cate
 cocitizen
 catechesis
-catechetic
+catechetic 1
 congenator
 chapatti
 cottony
