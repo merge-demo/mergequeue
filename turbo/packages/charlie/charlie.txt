@@ -22397,7 +22397,7 @@ cosmogonal
 conic
 conical
 canajong
-cataloguish
+cataloguish 1
 corrupable
 conicality
 chordally
