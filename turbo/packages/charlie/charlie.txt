@@ -10072,7 +10072,7 @@ chimney
 chemise
 counterfugue
 collab
-coalbox
+coalbox 1
 chipchap
 chessdom
 coffins
