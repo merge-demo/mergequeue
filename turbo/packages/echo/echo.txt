@@ -6124,7 +6124,7 @@ embelia
 ereptic
 espringal
 enlodge
-excepable
+excepable 1
 episkotister
 estuary
 enforced
