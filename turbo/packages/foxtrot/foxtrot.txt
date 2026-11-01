@@ -11226,7 +11226,7 @@ farsang
 furzed
 funiculars
 funiform
-fount
+fount 1
 false
 flashcubes
 formful
