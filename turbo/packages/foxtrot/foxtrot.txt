@@ -8982,7 +8982,7 @@ firethorn
 fled
 fourther
 fouter
-felspathic
+felspathic 1
 foliator
 foretops
 fustie
