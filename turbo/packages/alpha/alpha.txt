@@ -24468,7 +24468,7 @@ autotimer
 autotypography
 autotomise
 armbands
-adoptively
+adoptively 1
 archaeologists
 ambitiously
 avidous
