@@ -4767,7 +4767,7 @@ baldling
 blast
 bed
 bedribble
-burglarizes
+burglarizes 1
 bibracteate
 billfold
 barbarize
