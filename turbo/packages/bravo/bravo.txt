@@ -17630,7 +17630,7 @@ blay
 blaeberry
 bunchflower
 bonapartean
-burgoyne
+burgoyne 1
 burgomasters
 bullfighting
 burgomastership
