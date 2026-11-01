@@ -2593,7 +2593,7 @@ glamourization
 gesticular
 grisette
 gowf
-gasometrical
+gasometrical 1
 glossolabial
 geiger
 goutte
