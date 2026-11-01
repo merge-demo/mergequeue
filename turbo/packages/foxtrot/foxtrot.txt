@@ -4159,7 +4159,7 @@ fusilading 1
 fulk
 frostnipped
 fatling
-fenchyl
+fenchyl 1
 fiscalization
 feezed
 fireboy
