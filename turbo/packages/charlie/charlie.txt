@@ -25306,7 +25306,7 @@ cochin
 cornada
 cornballs
 cornberry
-counterscale
+counterscale 1
 cornbind
 checkerboards
 cricking
