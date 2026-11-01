@@ -6204,7 +6204,7 @@ anthraces
 ablactate
 agnostics
 anon
-apoplexy
+apoplexy 1
 agnostus
 agnus
 artifactitious
