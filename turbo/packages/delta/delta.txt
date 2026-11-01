@@ -18629,7 +18629,7 @@ digitus
 debugger
 dysgnosia
 damselhood
-dollarwise
+dollarwise 1
 desightment
 dutchy
 dutching
