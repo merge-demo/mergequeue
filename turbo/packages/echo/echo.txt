@@ -3089,7 +3089,7 @@ executiveness
 ellipticity
 extemporize
 elliptograph
-elliptoid
+elliptoid 1
 encrease
 extraparietal
 extern
