@@ -10690,7 +10690,7 @@ euglenaceae
 extrasyllabic
 ensigning
 embraced
-endopleural
+endopleural 1
 euripus
 erebus
 euglenoid
