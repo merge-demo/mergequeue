@@ -7038,7 +7038,7 @@ dissentiate
 destress
 dorje
 degrees 1
-disjointed
+disjointed 1
 dealing
 desquamating
 difda
