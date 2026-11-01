@@ -14905,7 +14905,7 @@ dichromat
 disponing
 digammas
 dominates
-dev
+dev 1
 dumbbells
 defendants
 dragsmen
