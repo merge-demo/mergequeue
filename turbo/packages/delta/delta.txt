@@ -10080,7 +10080,7 @@ dynamophone
 decentralised
 dynamos
 dadoing
-dynamostatic
+dynamostatic 1
 dynamotor
 dinanderie
 disfrocks
