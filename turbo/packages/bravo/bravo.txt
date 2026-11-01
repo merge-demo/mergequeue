@@ -7372,7 +7372,7 @@ boluses
 bowing
 beatific
 blindfolds
-betime
+betime 1
 bastionet
 blotching
 bridgeward
