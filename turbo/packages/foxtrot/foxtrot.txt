@@ -10935,7 +10935,7 @@ ferreiro
 foreshadows
 fub
 flintifying
-flexure
+flexure 1
 field
 fetal
 floorage

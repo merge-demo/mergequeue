@@ -4506,7 +4506,7 @@ drinkableness
 drumloidal
 disagreeables
 destruction
-dialyzer
+dialyzer 1
 demiculverin
 dodgiest
 demidistance
