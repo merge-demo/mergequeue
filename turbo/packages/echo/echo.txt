@@ -5245,7 +5245,7 @@ extract
 exfiguration
 embryotrophy
 emanator
-epitomatory
+epitomatory 1
 etaerio
 excommunicated
 exactor
