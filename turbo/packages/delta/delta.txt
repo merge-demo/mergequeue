@@ -1270,7 +1270,7 @@ danthonia
 dusted
 diazoic
 denari
-denaturing
+denaturing 1
 datives
 deplane
 desmids
