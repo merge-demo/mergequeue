@@ -6702,7 +6702,7 @@ flingers
 flaggily
 faintheartedly
 frontrunner
-frustrations
+frustrations 1
 folksily
 flame
 felted
