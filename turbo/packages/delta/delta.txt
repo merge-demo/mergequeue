@@ -5564,7 +5564,7 @@ depeinct
 dwarfing
 dependabilities
 dustfall
-depended
+depended 1
 darker
 duodenal
 dolichopellic
