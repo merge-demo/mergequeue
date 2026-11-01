@@ -15318,7 +15318,7 @@ clangful
 clanging
 clangingly
 corticoefferent
-clangorous
+clangorous 1
 corridored
 cookish
 clangors
