@@ -15162,7 +15162,7 @@ apsidal
 acrothoracica
 antiemetic
 antiempiric
-amphitruo
+amphitruo 1
 apothecia
 aggrandiser
 absents
