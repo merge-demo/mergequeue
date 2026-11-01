@@ -7596,7 +7596,7 @@ doublewidth
 diddikai
 darking
 darwinistic
-deva
+deva 1
 dequeuing
 dactylonomy
 devadasi
