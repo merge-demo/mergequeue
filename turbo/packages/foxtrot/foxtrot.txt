@@ -9756,7 +9756,7 @@ flenches
 fluentness
 faerie
 foresettled
-flyspeck
+flyspeck 1
 flummoxed
 fastiia
 fascists
