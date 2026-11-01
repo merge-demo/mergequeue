@@ -5367,7 +5367,7 @@ disemburden
 diazenithal
 dragman
 disco
-disgruntle
+disgruntle 1
 dawned
 defrayal
 demagogically
