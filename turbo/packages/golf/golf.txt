@@ -10636,7 +10636,7 @@ gremlins
 grillades
 gambette
 greenly
-gossipries
+gossipries 1
 gland
 golfs
 gnomide
