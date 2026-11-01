@@ -3159,7 +3159,7 @@ eau
 edict
 extortionists
 epiplastral
-exhaustiveness
+exhaustiveness 1
 eom
 epitra
 emmarble
