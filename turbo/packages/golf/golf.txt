@@ -5655,7 +5655,7 @@ graveward
 gunyang
 grimoire
 germanics
-gubernacular
+gubernacular 1
 geyserine
 gingalls
 gastralgic
