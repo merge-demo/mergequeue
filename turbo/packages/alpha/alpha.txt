@@ -25106,7 +25106,7 @@ armorplated
 axiate
 atmos
 archeress
-amphicondyla
+amphicondyla 1
 axiferous
 argumentation
 apothegms
