@@ -7268,7 +7268,7 @@ euonymuses
 empolder
 establisher
 epa
-equiatomic
+equiatomic 1
 expeditating
 explodent
 exoascaceae
