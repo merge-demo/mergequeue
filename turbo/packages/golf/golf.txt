@@ -10353,7 +10353,7 @@ gigabytes
 geum
 goadlike
 gels
-gallivorous
+gallivorous 1
 glaur
 grouseberry
 gelate
