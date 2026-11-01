@@ -11999,7 +11999,7 @@ diadelphic
 defail
 durdum
 disengaged
-defiable
+defiable 1
 disengaging
 disenjoyment
 discourteous
