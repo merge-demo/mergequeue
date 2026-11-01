@@ -3969,7 +3969,7 @@ anesthetic
 adjutator
 adjute
 aqueity
-apologer
+apologer 1
 arrestive
 adjutrice
 ambassage
