@@ -2598,7 +2598,7 @@ asymmetrocarpous
 archbishop
 aspiratory
 altaid
-adffrozen
+adffrozen 1
 annunciable
 adjacent
 acquest
