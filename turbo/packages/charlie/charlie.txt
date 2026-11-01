@@ -22414,7 +22414,7 @@ curacies
 conidioid
 coproducer
 conidiophorous
-conidiospore
+conidiospore 1
 copy
 conifer
 coniferae
