@@ -5138,7 +5138,7 @@ boomorah
 blende
 broadside
 beggarer
-boorishness 1
+boorishness 2
 buccinatory
 bagpod
 beforeness
