@@ -2424,7 +2424,7 @@ blinkering
 barouche
 bromoiodide
 besmirch
-birefringent
+birefringent 1
 brotherhood
 bards
 bardship
