@@ -10543,7 +10543,7 @@ frowze
 franking
 fluky
 furnaces
-fossilised
+fossilised 1
 fauchard
 frizer
 fieldpiece
