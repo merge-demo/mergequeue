@@ -23146,7 +23146,7 @@ constat
 caretaken
 chuddahs
 chamberletted
-constate
+constate 1
 curettement
 confers
 celtically
