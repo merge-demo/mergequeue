@@ -17912,7 +17912,7 @@ diddles
 datable
 dissonous
 duennaship
-duer
+duer 1
 duessa
 delayingly
 duets
