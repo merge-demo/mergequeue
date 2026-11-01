@@ -388,7 +388,7 @@ gynobasic
 galangin
 grond
 golundauze
-gavot
+gavot 1
 gaoled
 glaive
 goto
