@@ -13547,7 +13547,7 @@ crapshooting
 cymbalists
 cymballed
 cymbalom
-cimbaloms
+cimbaloms 1
 cymbalon
 cymbel
 cymbid
