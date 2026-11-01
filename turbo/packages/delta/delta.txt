@@ -7708,7 +7708,7 @@ decelerators
 devily
 detail
 deviling
-deeded
+deeded 1
 devilishness
 density
 darshana
