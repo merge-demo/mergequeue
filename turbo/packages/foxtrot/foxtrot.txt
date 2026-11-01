@@ -10476,7 +10476,7 @@ fluorate
 forwearying
 fordid
 flegm 1
-forereading
+forereading 1
 fluitant
 fatness
 frutescent
