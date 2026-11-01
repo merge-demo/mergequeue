@@ -3467,7 +3467,7 @@ gourdlike
 gallous
 gentling
 gellant
-griefful
+griefful 1
 glathsheim
 gimper
 girny
