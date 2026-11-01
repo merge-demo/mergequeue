@@ -3717,7 +3717,7 @@ battler
 battleships
 barrace
 blushiness
-battlesome
+battlesome 1
 brigantes
 battlestead
 battlewagon
