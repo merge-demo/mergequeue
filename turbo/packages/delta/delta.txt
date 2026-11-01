@@ -3051,7 +3051,7 @@ detailist
 deerstalking
 dollyway
 detest
-deescalate
+deescalate 1
 dyehouse
 deeses
 deepfrozen
