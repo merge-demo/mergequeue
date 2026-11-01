@@ -15278,7 +15278,7 @@ bourses
 blooddrop
 bulgarophil
 blackfire
-bumpsy
+bumpsy 1
 beveler
 bridelope
 boardman
