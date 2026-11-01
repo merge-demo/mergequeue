@@ -5218,7 +5218,7 @@ affected
 adorners
 affectibility
 affecting 1
-aerophore
+aerophore 1
 archinformer
 antitangent
 autopoint
