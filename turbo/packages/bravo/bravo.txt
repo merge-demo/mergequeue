@@ -2829,7 +2829,7 @@ blithefully
 buffaloback
 bedarken
 bruta
-burrows
+burrows 1
 beisa
 biquadrate
 baroswitch
