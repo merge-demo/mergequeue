@@ -5335,7 +5335,7 @@ agnathostomata
 autoboat
 anophthalmia
 actinocarp
-afflated
+afflated 1
 anilao
 accra
 afflicter
