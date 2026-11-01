@@ -14315,7 +14315,7 @@ anthem
 anthemas
 anthemata
 agavose
-amugis
+amugis 1
 anthemia
 archebiosis
 archflatterer
