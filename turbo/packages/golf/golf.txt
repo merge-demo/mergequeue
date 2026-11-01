@@ -6171,7 +6171,7 @@ grommet
 gadfly
 geelbec
 goa
-gasterozooid
+gasterozooid 1
 gadsbud
 gauche
 gilet
