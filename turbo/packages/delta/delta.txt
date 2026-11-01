@@ -538,7 +538,7 @@ dovyalis
 deliber
 dao
 damalic
-dextrorotation
+dextrorotation 1
 demobilized
 designations
 dialyzing
