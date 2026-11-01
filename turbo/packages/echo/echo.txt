@@ -5021,7 +5021,7 @@ enrolled
 econometer
 entreasure
 encaenia
-evens
+evens 1
 endophragmal
 equimolal
 entomb
