@@ -5706,7 +5706,7 @@ gumflower
 glycosuric
 gushes
 geodynamics
-greedier
+greedier 1
 grandnephews
 glossemic 1
 gibbously
