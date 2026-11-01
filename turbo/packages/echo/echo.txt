@@ -4832,7 +4832,7 @@ epigne
 ephydriad
 expertise
 encourages
-embusy
+embusy 1
 escapable
 exorciser
 episcopable
