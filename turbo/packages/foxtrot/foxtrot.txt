@@ -5633,7 +5633,7 @@ fernery
 forepassed
 fireboot 1
 flyless
-forbearingly
+forbearingly 1
 fuddle
 fulgurata
 firetop
