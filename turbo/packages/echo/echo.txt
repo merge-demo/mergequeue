@@ -9797,7 +9797,7 @@ endarterial
 engrave
 expenthesis
 electroplate
-estable
+estable 1
 enchalice
 ervils
 establishable
