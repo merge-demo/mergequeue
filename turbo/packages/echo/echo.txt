@@ -7685,7 +7685,7 @@ eboulement
 euphemiser
 extensionist
 expoundable
-epideistic
+epideistic 1
 enthymematical
 enfeebler
 eriocaulaceous
