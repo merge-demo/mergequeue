@@ -10104,7 +10104,7 @@ gekkonoid
 gonfaloniership
 gossiped
 gasoscope
-glumaceous
+glumaceous 1
 glottid
 gazetteer
 gonystylus
