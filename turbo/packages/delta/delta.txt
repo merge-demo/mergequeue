@@ -3805,7 +3805,7 @@ donkey
 dienes
 dicier
 disjecting
-duplexed
+duplexed 1
 despatched
 discommender
 deimos
