@@ -559,7 +559,7 @@ galempong
 getfd
 gableended
 gallowglass
-gravamem
+gravamem 1
 gadinine
 glucosazone
 gallian
