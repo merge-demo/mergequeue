@@ -787,7 +787,7 @@ dandler
 defs 1
 daidle
 dispurpose
-devolatilize
+devolatilize 1
 dacryocystotomy
 dandles
 discute
