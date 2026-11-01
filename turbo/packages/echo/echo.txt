@@ -4785,7 +4785,7 @@ equilibrator
 entypies
 enduro
 epidosite
-easterner
+easterner 1
 eccoproticophoric
 escape
 estrogenicity
