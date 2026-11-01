@@ -1817,7 +1817,7 @@ ergatogyny
 ectepicondylar
 elbow
 exopodite
-eigenvalues
+eigenvalues 1
 evaluates
 evaginated
 effervescive
