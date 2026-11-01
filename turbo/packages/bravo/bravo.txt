@@ -6318,7 +6318,7 @@ benzanthracene
 boxboard
 bai
 bibs
-benzanthrone
+benzanthrone 1
 bifarious
 bipolarize
 begalling
