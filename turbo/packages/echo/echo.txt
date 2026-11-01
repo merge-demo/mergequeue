@@ -12710,7 +12710,7 @@ epidemiologically
 episodic
 emulatively
 epilogism
-explorativeness
+explorativeness 1
 empurpled
 ethers
 emmenagogic
