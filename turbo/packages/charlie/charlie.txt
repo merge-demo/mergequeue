@@ -9564,7 +9564,7 @@ cosmologist
 checkwriter
 concurrence
 cascading
-cheddites
+cheddites 1
 crooked
 cheders
 chedite
