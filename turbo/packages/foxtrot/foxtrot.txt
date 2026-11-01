@@ -995,7 +995,7 @@ foldable
 fervid
 fishing
 flustering
-frivoller
+frivoller 1
 formyl
 fondlings
 forritsome
