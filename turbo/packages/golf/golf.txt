@@ -9080,7 +9080,7 @@ gloaters
 gulose
 genoese
 gis
-gunpowdery
+gunpowdery 1
 gryllid
 greffotome
 glassworking
