@@ -8318,7 +8318,7 @@ eriocaulaceae
 electrodeposit
 elev
 expressibly
-endured
+endured 1
 enchannel
 exercised
 emulating
