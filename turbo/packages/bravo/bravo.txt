@@ -5451,7 +5451,7 @@ baronets
 behoovefulness
 barrier
 behooves
-behooving
+behooving 1
 bacterioprotein
 brine
 backiebird
