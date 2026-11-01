@@ -11901,7 +11901,7 @@ analphabete
 amphibium
 angelus
 acyanopsia
-awink
+awink 1
 acceptedly
 ancerata
 adventurer
