@@ -15516,7 +15516,7 @@ dispassionateness
 dement
 dewanny
 disuniformity
-doloriferous
+doloriferous 1
 dedicatee
 donkeyman
 draffman
