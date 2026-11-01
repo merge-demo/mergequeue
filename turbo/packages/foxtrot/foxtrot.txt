@@ -5492,7 +5492,7 @@ frillers
 federal
 fidelities
 feus
-farouk
+farouk 1
 ferrymen
 fribbles
 foolscap
