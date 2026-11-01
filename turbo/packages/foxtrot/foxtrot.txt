@@ -10939,7 +10939,7 @@ flexure
 field
 fetal
 floorage
-francs
+francs 1
 firedamp
 fulminurate
 fulness
