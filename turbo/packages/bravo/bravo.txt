@@ -6210,7 +6210,7 @@ benitier
 benjamin
 benjaminite
 bound
-boletus
+boletus 1
 berley
 bypass
 beakful
