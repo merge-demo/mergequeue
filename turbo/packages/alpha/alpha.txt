@@ -14590,7 +14590,7 @@ amoebous
 allophonic
 auric
 amandine
-anthropoidean
+anthropoidean 1
 anthropophilous
 afterdated
 anthropophobia
