@@ -8589,7 +8589,7 @@ gavotted
 governess
 growths
 gastrocnemius
-glabriety
+glabriety 1
 griqua
 gravity
 germinal
