@@ -17731,7 +17731,7 @@ durables
 dedifferentiation
 disclike
 decanonization
-dubbins
+dubbins 1
 dicarbonate
 demutization
 doegling
