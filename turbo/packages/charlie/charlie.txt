@@ -9886,7 +9886,7 @@ chemoserotherapy
 chemosynthesis
 chemosynthetic
 chemosmotic
-consumptible
+consumptible 1
 choora
 corticoafferent
 crenate
