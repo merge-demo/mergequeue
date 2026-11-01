@@ -4700,7 +4700,7 @@ gyrene
 gibbsite
 gauping
 glazen
-geisothermal
+geisothermal 1
 glycerate
 gigged
 galchic
