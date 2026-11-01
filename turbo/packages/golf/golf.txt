@@ -5592,7 +5592,7 @@ glucaemia
 gumming
 gaysome
 gripless
-geophysical
+geophysical 1
 gefilte
 grandame
 gownlet
