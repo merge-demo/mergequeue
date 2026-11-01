@@ -7701,7 +7701,7 @@ devilet
 duits
 dismembrate
 defuse
-downby
+downby 1
 darwinism
 devilfish
 decelerators
