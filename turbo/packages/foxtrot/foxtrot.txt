@@ -8739,7 +8739,7 @@ forbiddable
 flogged
 followership
 forester
-foeless
+foeless 1
 fossule
 fiddlers
 forwardal
