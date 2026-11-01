@@ -4215,7 +4215,7 @@ beaumont
 bromol
 blanketeer
 beaupere
-beausire
+beausire 1
 batetela
 beanstalks
 bilharziasis
