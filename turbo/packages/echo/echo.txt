@@ -6886,7 +6886,7 @@ epiblema
 emphasis
 epitrchelia
 exudation
-errorless
+errorless 1
 exarchal
 elasticize
 escudos
