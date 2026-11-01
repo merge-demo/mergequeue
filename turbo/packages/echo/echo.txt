@@ -11127,7 +11127,7 @@ enjambments
 encomy
 evacuant
 eighteenmos
-episome
+episome 1
 extipulate
 experiencing
 executing
