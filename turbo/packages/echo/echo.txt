@@ -7907,7 +7907,7 @@ exotospore
 emblematized
 ersar
 entomeric
-exuccous
+exuccous 1
 entryway
 electrometric
 exarchic
