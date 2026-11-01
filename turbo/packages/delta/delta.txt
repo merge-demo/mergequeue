@@ -3671,7 +3671,7 @@ degravate
 demipike
 degreaser
 dacryohemorrhea
-degreases
+degreases 1
 dilatometry
 daffadowndilly
 dorsers
