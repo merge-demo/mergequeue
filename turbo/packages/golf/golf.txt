@@ -5932,7 +5932,7 @@ gemitorial
 globuliform
 gaylussacia
 greathead
-gluishness
+gluishness 1
 germy
 gitanos
 globosite
