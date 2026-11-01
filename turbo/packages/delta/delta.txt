@@ -2154,7 +2154,7 @@ decapitations
 disassemble
 distresses
 downfall
-decalcomanias
+decalcomanias 1
 decapodal
 dawn
 draggletailedly
