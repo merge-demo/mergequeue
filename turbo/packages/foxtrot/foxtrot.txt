@@ -4590,7 +4590,7 @@ fiftieths
 fossilized
 fool
 feigned
-frenchily
+frenchily 1
 fingery
 forestwards
 fibrinokinase
