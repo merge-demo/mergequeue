@@ -12083,7 +12083,7 @@ erepsin
 eunuchize
 escuage
 embryectomies
-enflames
+enflames 1
 exploit
 editress
 echinologist
