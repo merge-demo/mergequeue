@@ -9964,7 +9964,7 @@ glegness
 glyptic
 gonake
 googols
-gipsyfy
+gipsyfy 1
 goldi
 gymnodinium
 gozell
