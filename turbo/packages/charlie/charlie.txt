@@ -16210,7 +16210,7 @@ clines
 caudexes
 clinger
 crankness
-clingfishes
+clingfishes 1
 contravenes
 clingy
 clinginess
