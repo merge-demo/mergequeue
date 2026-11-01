@@ -5411,7 +5411,7 @@ formable
 flecking
 firehouses
 fennel
-friending
+friending 1
 frigefact
 futurity
 fledgeling
