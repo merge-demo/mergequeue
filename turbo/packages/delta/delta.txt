@@ -15178,7 +15178,7 @@ dolefully
 detainment
 drawlier
 desertedness
-deathfulness
+deathfulness 1
 dolefuls
 dotate
 diaminogene
