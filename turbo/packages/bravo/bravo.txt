@@ -13559,7 +13559,7 @@ bite
 bitangential
 bougar
 buckie
-bouge
+bouge 1
 bochur
 brogued
 brighella
