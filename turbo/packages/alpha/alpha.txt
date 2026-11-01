@@ -2013,7 +2013,7 @@ acetophenone
 amphodiplopia
 autecy
 anticipatory
-arterial
+arterial 1
 acetosoluble
 acetostearin
 acetothienone
