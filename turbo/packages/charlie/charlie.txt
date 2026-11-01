@@ -2055,7 +2055,7 @@ chandlery
 collapsar
 camoufleur
 chests
-cosherer
+cosherer 1
 camp
 campagi
 chiccories
