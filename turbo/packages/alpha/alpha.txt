@@ -20773,7 +20773,7 @@ aruac
 aplodontia
 amphicrania
 austenitic
-autotherapy
+autotherapy 1
 artillerist
 aetosaur
 apocarpy
