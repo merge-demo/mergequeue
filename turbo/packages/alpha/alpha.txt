@@ -15605,7 +15605,7 @@ assumpt
 antimoralistic
 accrescence
 amalgamations
-armory
+armory 1
 atmolyze
 antimusically
 animalculous
