@@ -10470,7 +10470,7 @@ goosy
 guimpe
 glossarially
 goatbrush
-gagor
+gagor 1
 gonium
 glutei
 graylings
