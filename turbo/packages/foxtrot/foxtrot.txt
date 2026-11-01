@@ -2229,7 +2229,7 @@ foals
 freon
 feminineness
 feudee
-freshmanhood
+freshmanhood 1
 fiscus
 firebombs
 fulgurate

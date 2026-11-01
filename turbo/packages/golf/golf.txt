@@ -5290,7 +5290,7 @@ geometries
 gamelan
 gromil
 glycerite
-gigmanism
+gigmanism 1
 gymnadeniopsis
 grouping
 glyceroxide
