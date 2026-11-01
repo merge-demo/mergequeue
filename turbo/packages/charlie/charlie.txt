@@ -16547,7 +16547,7 @@ cloisonne
 convival
 cloisonnism
 cockaded
-cloistered
+cloistered 1
 cloisterer
 columellate
 clappermaclaw
