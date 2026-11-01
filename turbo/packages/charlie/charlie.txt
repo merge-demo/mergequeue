@@ -26997,7 +26997,7 @@ chevet
 cerograph
 counteroffer
 counteropening
-counteropponent
+counteropponent 1
 culotte
 carbethoxyl
 chiococcine
