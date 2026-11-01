@@ -9770,7 +9770,7 @@ equid
 elamp
 eurhythmy
 exitious
-enthusiast
+enthusiast 1
 expressure
 essentially
 exigencies
