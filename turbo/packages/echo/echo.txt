@@ -2142,7 +2142,7 @@ eisteddfodism
 epoxy
 esophagostenosis
 eyestring
-explicandum
+explicandum 1
 electropult
 erotica
 elation
