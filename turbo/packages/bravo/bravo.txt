@@ -17708,7 +17708,7 @@ banbury
 behove
 bracteolate
 bismosol
-biont
+biont 1
 braconid
 bankeress
 broach
