@@ -11309,7 +11309,7 @@ collarinos
 chalcophanite
 chloroformic
 conged
-cubica
+cubica 1
 chromicizing
 chloroforms
 caducary
