@@ -2874,7 +2874,7 @@ cours
 cloughs
 cyeses
 canopus
-canos
+canos 1
 canossa
 canotier
 canreply
