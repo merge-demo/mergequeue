@@ -31711,7 +31711,7 @@ cotyloid
 cuspidor
 cephalopodan
 counterapse
-cusping
+cusping 1
 cur
 cuspis
 cusps
