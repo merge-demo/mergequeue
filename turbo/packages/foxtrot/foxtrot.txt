@@ -3376,7 +3376,7 @@ fossilification
 flappering
 fishermen
 frampold
-frivols
+frivols 1
 fibrospongiae
 filipinos
 follicles
