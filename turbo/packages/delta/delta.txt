@@ -866,7 +866,7 @@ discardable 1
 delesseria
 developability
 dannebrog
-dyed
+dyed 1
 detraque
 dieback
 deuteronomistic
