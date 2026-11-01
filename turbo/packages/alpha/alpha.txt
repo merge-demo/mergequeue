@@ -17490,7 +17490,7 @@ appallment
 aerodyne
 availability
 anamorphic
-armers
+armers 1
 amplifying
 autobasidia
 arthrostraca
