@@ -3140,7 +3140,7 @@ defaults
 decked
 defaulture
 dayworker
-dialings
+dialings 1
 doat
 defeasibility
 dacryohelcosis
