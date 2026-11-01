@@ -1933,7 +1933,7 @@ epiphylaxis
 eluants
 eyeleted
 echinulate
-estoppal
+estoppal 1
 eurypterid
 essenical
 ejected
