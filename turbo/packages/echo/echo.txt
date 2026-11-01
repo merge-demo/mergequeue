@@ -4990,7 +4990,7 @@ ecarte
 escritorial
 equipollentness 1
 ensilaged
-eumoirous
+eumoirous 1
 endenize
 executional
 escalop
