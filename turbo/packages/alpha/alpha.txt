@@ -18721,7 +18721,7 @@ archbishopry
 airmail
 archbishopric
 acroamata
-awhet
+awhet 1
 archbotcher
 aretes
 alerts
