@@ -5300,7 +5300,7 @@ gangmaster
 glusid
 garters
 glycyrrhizin
-gimps
+gimps 1
 glycogenolytic
 gangsters
 gonidiferous
