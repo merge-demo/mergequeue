@@ -11630,7 +11630,7 @@ fortissimi
 farci
 fibrous
 fylgja
-funestal
+funestal 1
 forehew
 fumy
 friendship
