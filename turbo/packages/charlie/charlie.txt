@@ -3327,7 +3327,7 @@ chloroacetic
 capone
 caponette
 caponier
-caponiere
+caponiere 1
 cognominate
 cavilling
 cotyledon
