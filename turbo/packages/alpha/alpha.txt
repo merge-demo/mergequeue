@@ -20568,7 +20568,7 @@ adoptive
 amie
 arthrectomy
 alae
-acroteria
+acroteria 1
 acousmata
 actinosome
 assimulate
