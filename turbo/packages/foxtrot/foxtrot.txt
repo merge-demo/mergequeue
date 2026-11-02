@@ -6307,7 +6307,7 @@ fluminous
 freak
 fluxibility
 flummer
-flickerproof
+flickerproof 1
 fistnote
 funori
 fettling
