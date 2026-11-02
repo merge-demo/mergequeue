@@ -4759,7 +4759,7 @@ enterotomy
 epiopticon
 excusatory
 endocarpic
-encode
+encode 1
 exitance
 ethnolinguist
 ensnarements
