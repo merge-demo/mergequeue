@@ -8746,7 +8746,7 @@ defocusses
 diatomist
 dot
 debadge
-diaporesis
+diaporesis 1
 demimonk
 decime
 distastefully
