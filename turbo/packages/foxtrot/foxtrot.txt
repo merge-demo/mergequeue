@@ -9613,7 +9613,7 @@ findability
 finalities
 flukier
 foamer
-frons
+frons 1
 freezer
 freeloaded
 flammivomous
