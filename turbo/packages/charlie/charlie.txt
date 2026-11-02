@@ -22405,7 +22405,7 @@ crookfingered
 coastwards
 calandrinae
 coniceine
-compressible
+compressible 1
 contaminating
 conicle
 chessman
