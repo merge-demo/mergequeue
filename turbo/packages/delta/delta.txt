@@ -15364,7 +15364,7 @@ deipara
 dorical
 demoralisation
 domiciled
-domestic
+domestic 1
 dissipator
 disobstruct
 dearn
