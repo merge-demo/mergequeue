@@ -7703,7 +7703,7 @@ dismembrate
 defuse
 downby
 darwinism
-devilfish
+devilfish 1
 decelerators
 devily
 detail
