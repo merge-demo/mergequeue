@@ -7394,7 +7394,7 @@ epentheses
 exotic
 eleotrid
 elvan
-encolumn
+encolumn 1
 etruria 1
 exigences
 etalon
