@@ -13340,7 +13340,7 @@ abobra
 anthelminthic
 apoturmeric
 anisometric
-anaglyptics
+anaglyptics 1
 anamorphism
 antimerger
 abcess
