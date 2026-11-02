@@ -3976,7 +3976,7 @@ founders
 focalise
 frigidness
 forfends
-flaunch
+flaunch 1
 flory
 fingerers
 feed
