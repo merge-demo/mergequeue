@@ -10011,7 +10011,7 @@ afraidness
 adirondack
 albinuria
 aerogeology
-amberoid
+amberoid 1
 ambers
 arthropodous
 acinotubular
