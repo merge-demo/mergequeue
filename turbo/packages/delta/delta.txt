@@ -9723,7 +9723,7 @@ dab
 dodonaean
 dodona
 deodaras
-delouse
+delouse 1
 dilater
 deforcement
 decussated
