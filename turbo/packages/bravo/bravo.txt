@@ -11944,7 +11944,7 @@ babakoto
 blastemas
 boggler
 beballed
-bannerol
+bannerol 1
 buffeted
 bombing
 bogglers
