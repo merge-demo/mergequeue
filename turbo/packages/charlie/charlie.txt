@@ -8494,7 +8494,7 @@ chemosterilants
 chanced
 categorical
 chanceful
-chancefulness
+chancefulness 1
 chancey
 chanceled
 cardiacea
