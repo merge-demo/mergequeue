@@ -4903,7 +4903,7 @@ flakage
 floggings
 flotsen
 flamboyantism
-funiculi
+funiculi 1
 fascial
 fireworkless
 fairies
