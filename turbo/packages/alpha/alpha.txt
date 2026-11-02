@@ -603,7 +603,7 @@ autoeducation
 arisen
 algonquians
 antarctic
-aphasic
+aphasic 1
 alexic
 antelopine
 autoeducative
