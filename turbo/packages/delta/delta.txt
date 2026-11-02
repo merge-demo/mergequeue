@@ -9759,7 +9759,7 @@ disulfoxide
 dogfishes
 domino
 dclass
-dilettanti
+dilettanti 1
 decriminalizing
 dilettantism
 diligence
