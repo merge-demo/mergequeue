@@ -3923,7 +3923,7 @@ explicitly
 emmy
 epilabrum
 emodins
-efflorescent
+efflorescent 1
 emollience
 escharotic
 estruate
