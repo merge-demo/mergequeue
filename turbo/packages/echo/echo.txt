@@ -9599,7 +9599,7 @@ epihippus
 enterohemorrhage
 esophagalgia
 esophagean
-elasticity
+elasticity 1
 esophago
 esophagogastroscopy
 esophagometer
