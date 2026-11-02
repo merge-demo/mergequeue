@@ -11003,7 +11003,7 @@ amoebogeniae
 amoebula
 amoy
 apinoid
-ampelitic
+ampelitic 1
 amok
 amoke
 azure
