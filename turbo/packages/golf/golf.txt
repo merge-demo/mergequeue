@@ -9799,7 +9799,7 @@ guacacoa
 grimacer
 gorce
 grantor
-gue
+gue 1
 goury
 glashan
 goidelic
