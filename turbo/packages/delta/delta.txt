@@ -3226,7 +3226,7 @@ dekle 1
 doftberry
 disrelation
 defencive
-dents
+dents 1
 defend
 dikast
 dolmenic
