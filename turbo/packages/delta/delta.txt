@@ -10845,7 +10845,7 @@ disedge
 denyer
 dirity
 daised
-dirked
+dirked 1
 dhabb
 desilicate
 drawbored
