@@ -9300,7 +9300,7 @@ cerris
 custos
 chauk
 calodaemon
-catagmatic
+catagmatic 1
 chaukidari
 castrate
 chullo
