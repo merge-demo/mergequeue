@@ -2943,7 +2943,7 @@ acrux
 acta
 acediamin
 affrighted
-ankus
+ankus 1
 ascocarps
 actaea
 aphanes
