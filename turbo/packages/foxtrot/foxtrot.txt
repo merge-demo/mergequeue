@@ -7652,7 +7652,7 @@ forgiveless
 feyness
 foregleam
 forst
-feudatory
+feudatory 1
 fables
 factualism
 foreguess
