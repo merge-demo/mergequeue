@@ -28612,7 +28612,7 @@ creepmouse
 creeps
 creeses
 cinchonine
-cogitos
+cogitos 1
 castrators
 chiefship
 camphines
