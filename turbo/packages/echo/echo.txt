@@ -13191,7 +13191,7 @@ elapinae
 embale
 expires
 esteemable
-eastertide
+eastertide 1
 encephala
 echinite
 empyreal
