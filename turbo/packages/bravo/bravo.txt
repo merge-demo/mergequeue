@@ -17946,7 +17946,7 @@ boothian
 bagwoman
 bushongo
 boe
-bangle
+bangle 1
 bedsides
 breezes
 bowwows
