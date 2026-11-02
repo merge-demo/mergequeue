@@ -8365,7 +8365,7 @@ gedecktwork
 giftling
 gheraoes
 geast
-globulysis
+globulysis 1
 gulfing
 geoblast
 grignet
