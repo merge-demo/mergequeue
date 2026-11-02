@@ -7907,7 +7907,7 @@ flashtube
 fonder
 forespeak
 foreseize
-flatteries
+flatteries 1
 fike
 firy
 fantasticness

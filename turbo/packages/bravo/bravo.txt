@@ -14900,7 +14900,7 @@ bastard
 breakfronts 1
 beavers
 butlerage
-breaking
+breaking 1
 barkeep
 breakings
 bovicide

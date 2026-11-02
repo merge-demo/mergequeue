@@ -30094,7 +30094,7 @@ crowdies
 confecture
 crowding
 crowdle
-chromatrope
+chromatrope 1
 cingulated
 crowed
 crower

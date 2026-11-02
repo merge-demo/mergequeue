@@ -9059,7 +9059,7 @@ dictyogen
 diction
 dilutee
 disparage
-defang
+defang 1
 denaturalize
 diss
 dermatophobia
