@@ -364,7 +364,7 @@ excentral
 eurytus
 eyestone
 erethistic
-eeler
+eeler 1
 enthroned
 eavesdropping
 equimolar
