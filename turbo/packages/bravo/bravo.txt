@@ -2128,7 +2128,7 @@ bulker
 bombarded
 billbeetle
 botoyan
-bloodbeat
+bloodbeat 1
 banshies
 bornan
 betrough
