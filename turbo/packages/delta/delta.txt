@@ -6179,7 +6179,7 @@ derfly
 deric
 disbosomed
 deady
-doppler
+doppler 1
 deriders
 detractress
 dittograph
