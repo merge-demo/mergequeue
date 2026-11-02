@@ -11898,7 +11898,7 @@ epiphytes
 emissivity 1
 emends
 eightfoil
-engore
+engore 1
 euploeinae
 emotionalist
 enragement
