@@ -10086,7 +10086,7 @@ chessner
 chessom
 claves
 chesstree
-cerias
+cerias 1
 chest
 curing
 chesterfield
