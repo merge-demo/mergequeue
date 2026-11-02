@@ -9090,7 +9090,7 @@ ennobled
 ether
 eschalots
 eyrer
-equitangential
+equitangential 1
 expulse
 endoscopic
 exponential
