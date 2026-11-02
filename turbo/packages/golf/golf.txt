@@ -4767,7 +4767,7 @@ genarch
 glar
 gypsy
 givingness
-globes
+globes 1
 grifter 1
 garrnishable
 giddyhead
