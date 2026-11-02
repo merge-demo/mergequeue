@@ -16543,7 +16543,7 @@ chancering
 cupseed
 clammish
 cloisonn
-cloisonne
+cloisonne 1
 convival
 cloisonnism
 cockaded
