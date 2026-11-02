@@ -1892,7 +1892,7 @@ explicating
 eurythmy
 erasability
 equiseta
-extrovert
+extrovert 1
 errata
 eximiousness
 exacta
