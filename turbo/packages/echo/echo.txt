@@ -9260,7 +9260,7 @@ ejido
 errancies
 endospermous
 enc
-entrapments
+entrapments 1
 egressing
 electra
 exonerative 1
