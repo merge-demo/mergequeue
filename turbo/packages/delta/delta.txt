@@ -13905,7 +13905,7 @@ deles
 danebrog
 distillatory
 draggiest
-deflagrations
+deflagrations 1
 distillery
 dynamogeneses
 deodand
