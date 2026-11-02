@@ -11704,7 +11704,7 @@ fernsick
 fasciated
 frameless
 flaw
-fanfish
+fanfish 1
 fiancailles
 frowns
 furriered
