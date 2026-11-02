@@ -2089,7 +2089,7 @@ emma
 enfeoffment
 emblematist
 enclosable
-enterolysis
+enterolysis 1
 elasmothere
 empyocele
 euphoniously
