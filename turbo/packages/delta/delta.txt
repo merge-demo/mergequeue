@@ -18358,7 +18358,7 @@ doubleton
 duodenate
 duodenation
 depurge
-degelation
+degelation 1
 deus
 dyestuff
 diallelon
