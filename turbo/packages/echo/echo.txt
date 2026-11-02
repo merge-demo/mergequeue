@@ -13509,7 +13509,7 @@ eristic
 endangeitis
 epigrapher
 elinor
-equipollence
+equipollence 1
 ectosteal
 examine
 elephantous
