@@ -2272,7 +2272,7 @@ centaurus
 canadine
 corresponds
 canadite
-conferva
+conferva 1
 casbah
 celtdom
 coquina
