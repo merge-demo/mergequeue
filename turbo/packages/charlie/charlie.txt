@@ -18772,7 +18772,7 @@ coldhearted
 coldnesses
 coldong
 cloddishness
-coldproof
+coldproof 1
 curchy
 controversies
 cleistogamy
