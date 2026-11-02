@@ -7325,7 +7325,7 @@ dextropedal
 diphenylenimide
 detorsion
 deashed
-disvulnerability
+disvulnerability 1
 determiner
 diameters
 didine
