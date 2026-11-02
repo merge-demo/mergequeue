@@ -311,7 +311,7 @@ frescoist
 forthputting
 foaming
 freethinker
-flexuosity
+flexuosity 1
 fraternation
 feints
 feint

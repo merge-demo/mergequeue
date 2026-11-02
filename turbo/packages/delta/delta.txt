@@ -17266,7 +17266,7 @@ debt
 disseizee
 droghlin
 discrepant
-diathermance
+diathermance 1
 didactic
 dacryadenalgia
 discountenancing
