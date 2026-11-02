@@ -3349,7 +3349,7 @@ gasteropod
 gravispheric
 gobemouche
 guitermanite
-gneu
+gneu 1
 gadbush
 gessamine
 gonfanons
