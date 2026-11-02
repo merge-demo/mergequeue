@@ -11196,7 +11196,7 @@ alpinely
 antiatonement
 adsorb
 amphiboles
-affliction
+affliction 1
 axometric
 airiest
 agynous
