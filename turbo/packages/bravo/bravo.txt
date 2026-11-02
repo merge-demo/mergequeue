@@ -2488,7 +2488,7 @@ baphomet
 bereason
 bearhound
 bibliophilism
-binotic
+binotic 1
 bigram
 baresthesia
 beworming
