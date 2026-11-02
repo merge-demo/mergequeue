@@ -11622,7 +11622,7 @@ fulgour
 formulizer
 fragilely
 fermata
-fustics
+fustics 1
 feinschmecker
 fussbudget
 facsimile
