@@ -4242,7 +4242,7 @@ adorn
 adornation
 amphibalus
 apartado
-apologizers
+apologizers 1
 affy
 argentation
 assiduity
