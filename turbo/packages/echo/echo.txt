@@ -3499,7 +3499,7 @@ encarnalising
 epineuria
 extrascientific
 eldress
-earmuffs
+earmuffs 1
 expellee
 endemically
 erraticism
