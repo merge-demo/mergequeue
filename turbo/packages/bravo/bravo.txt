@@ -9798,7 +9798,7 @@ bitartrate
 beneplacito
 blackballing
 bandonion
-biteable
+biteable 1
 begin
 bongo
 burgherhood
