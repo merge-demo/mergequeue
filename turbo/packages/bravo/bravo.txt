@@ -4492,7 +4492,7 @@ beira
 bedplate
 bronchiectatic
 bluenose
-bedead
+bedead 1
 becross
 bureaucratism
 becrowded

@@ -1838,7 +1838,7 @@ gasper
 gambles
 gazehound
 growlery
-guffaw
+guffaw 1
 gigantostracan
 gilgai
 goofy
