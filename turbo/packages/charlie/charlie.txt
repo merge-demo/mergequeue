@@ -18729,7 +18729,7 @@ colate 1
 canaliculation
 comprehensibility
 conquistador
-colatitude
+colatitude 1
 colazione
 colberter
 colbertine
