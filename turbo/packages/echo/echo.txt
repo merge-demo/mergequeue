@@ -6273,7 +6273,7 @@ embolectomies 1
 enrive
 eyeholes
 enroll
-epicyclic
+epicyclic 1
 enrollee
 euplectella
 extraorbitally
