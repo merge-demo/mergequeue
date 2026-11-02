@@ -2925,7 +2925,7 @@ duodecimals
 dedicatory
 despitous
 dingies
-dedicatorily
+dedicatorily 1
 doggoner
 dedicators
 deaconry
