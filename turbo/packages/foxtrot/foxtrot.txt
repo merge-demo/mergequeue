@@ -11313,7 +11313,7 @@ fatwa
 firedog
 feverfew
 filippi
-fraternize
+fraternize 1
 fleabite
 faultfinding
 fluoroscopic
