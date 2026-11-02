@@ -6786,7 +6786,7 @@ farfal
 foreigns
 furriness
 formaldoxime
-forethink
+forethink 1
 furcation
 foldcourse
 fiberless
