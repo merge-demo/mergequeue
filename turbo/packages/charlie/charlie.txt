@@ -13188,7 +13188,7 @@ cyclide
 cubeb
 cyclindroid
 characterized
-cupelled
+cupelled 1
 cyclism
 choanoflagellida
 cyclitic
