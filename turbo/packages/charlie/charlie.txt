@@ -15717,7 +15717,7 @@ clavicular
 clavicularium
 claviculate
 chrysohermidin
-chirotype
+chirotype 1
 clima
 consilient
 chrysograph
