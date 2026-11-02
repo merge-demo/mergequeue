@@ -4949,7 +4949,7 @@ barmier
 basifier
 biglenoid
 boulles
-bactritoid
+bactritoid 1
 bonaveria
 boltless
 bolases
