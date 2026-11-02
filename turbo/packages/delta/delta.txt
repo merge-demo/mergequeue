@@ -14676,7 +14676,7 @@ dissected
 describe
 doxies
 dieselize
-decurrency
+decurrency 1
 debauchee
 dolent
 djuka
