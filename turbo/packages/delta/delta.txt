@@ -930,7 +930,7 @@ dishouse
 decourt
 demivierge
 diachrony
-dereferences
+dereferences 1
 duskiest
 dissyllabify
 digonous

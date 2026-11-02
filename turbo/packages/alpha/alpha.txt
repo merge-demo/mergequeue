@@ -1456,7 +1456,7 @@ affixable
 archaisms
 amortize
 acclimatise
-acclimatising
+acclimatising 1
 aegagrus
 applewood
 aborsive
