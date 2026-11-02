@@ -3030,7 +3030,7 @@ eggfish
 earthenware
 elixir
 enwall
-epinephrine
+epinephrine 1
 ecblastesis
 exhortatory
 elixiviate
