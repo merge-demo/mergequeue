@@ -10487,7 +10487,7 @@ amianthus
 arcform
 avolation
 amyatonic
-amic
+amic 1
 amicability
 antiadiaphorist
 appredicate
