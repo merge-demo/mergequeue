@@ -5872,7 +5872,7 @@ glucocorticoid
 gardenless
 gardon
 griddled
-gasfiring
+gasfiring 1
 glycogenous
 gravimetric
 guerrila
