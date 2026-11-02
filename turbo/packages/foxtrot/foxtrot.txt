@@ -11193,7 +11193,7 @@ fireplugs
 frenzelite
 forepaling
 flinter
-fullgrownness
+fullgrownness 1
 fusobacteria
 foetalization
 fungoes
