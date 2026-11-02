@@ -18869,7 +18869,7 @@ choroid
 chaines
 colinear
 chadars
-colinearity
+colinearity 1
 churchified
 colinus
 carolina
