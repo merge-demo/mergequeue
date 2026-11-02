@@ -260,7 +260,7 @@ decameters
 daggles
 dochmiasis
 duckweeds
-daggling
+daggling 1
 daghesh
 deoxyribonuclease
 duplicative
