@@ -3800,7 +3800,7 @@ expendables
 extracolumella
 endodontically
 ensindon
-exclam
+exclam 1
 emplume
 electrized
 ekerite
