@@ -5997,7 +5997,7 @@ foundership
 feldsher
 floorwise
 fissate
-featishness
+featishness 1
 fastnesses
 fusty
 foolscaps
