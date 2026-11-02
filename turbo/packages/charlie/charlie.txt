@@ -26087,7 +26087,7 @@ cosily
 countermanifestoes
 coupled
 chasuble
-cosymmedian
+cosymmedian 1
 compurgator
 cosinage
 cosine

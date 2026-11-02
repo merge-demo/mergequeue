@@ -6799,7 +6799,7 @@ eumenes
 ectosarcs
 elix
 eikonogen
-enl
+enl 1
 enlargements
 ethnogenic
 emmenology
