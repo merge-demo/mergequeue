@@ -623,7 +623,7 @@ caelometer
 cresson
 caenogenetic
 costume
-crimpers
+crimpers 1
 circumscript
 coralline
 caenostyly
