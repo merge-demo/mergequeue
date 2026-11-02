@@ -12120,7 +12120,7 @@ empierce
 excellencies
 ejam
 enfeoffing
-eloper
+eloper 1
 ebonite 1
 ensorcerize
 eyelike
