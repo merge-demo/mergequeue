@@ -13076,7 +13076,7 @@ expergefaction
 embedding
 epistolographic
 eyeshine
-effeminatize
+effeminatize 1
 executive
 excide
 expediency
