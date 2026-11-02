@@ -2092,7 +2092,7 @@ achy
 absconds
 anthologion
 aphagia
-antenniferous
+antenniferous 1
 apout
 auditor
 ammonionitrate
