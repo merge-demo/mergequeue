@@ -4450,7 +4450,7 @@ billard
 bromizer
 bebopper
 blackrag
-batteler
+batteler 1
 bakie
 behinds
 bailment
