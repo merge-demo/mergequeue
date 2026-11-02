@@ -9136,7 +9136,7 @@ fossorial
 fractions
 forncast
 foolheaded
-fads
+fads 1
 filariasis
 fiaschi
 florification
