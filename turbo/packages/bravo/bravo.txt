@@ -12435,7 +12435,7 @@ boii
 bacillicidal
 bogum
 bowyang
-bedriddenness
+bedriddenness 1
 bz
 bajoire
 biphenyl
