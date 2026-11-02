@@ -3865,7 +3865,7 @@ dannemorite
 deathfully
 doer
 deirid
-deis
+deis 1
 deisidaimonia
 disquieting
 decentred
