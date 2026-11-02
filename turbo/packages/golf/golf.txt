@@ -7301,7 +7301,7 @@ gortonite
 gauffer
 graphiologist
 glutaric
-gubernator
+gubernator 1
 glitches
 goldsinny
 gynics
