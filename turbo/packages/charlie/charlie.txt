@@ -6807,7 +6807,7 @@ chamoix
 cellaress
 chanceable
 cellars
-chirologies
+chirologies 1
 cellarwoman
 cellblock
 coelom
