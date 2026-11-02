@@ -17377,7 +17377,7 @@ drib
 doigt
 derivability
 delime
-deallocation
+deallocation 1
 delactation
 deviants
 diduced
