@@ -5805,7 +5805,7 @@ flittermouse
 fellowship
 flitters
 frequents
-flankwise
+flankwise 1
 froggiest
 frivolize
 ferfet

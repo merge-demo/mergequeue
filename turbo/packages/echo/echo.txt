@@ -3885,7 +3885,7 @@ echeneis
 eternal
 electrotonus
 extraboldface
-eminencies
+eminencies 1
 evendown
 exodermis
 exterminating
