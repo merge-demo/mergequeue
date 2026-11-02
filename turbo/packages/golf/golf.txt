@@ -4373,7 +4373,7 @@ gnathion
 graphicalness
 grylli
 gunky
-guz
+guz 1
 glottochronology
 gardened
 galvanoscope
