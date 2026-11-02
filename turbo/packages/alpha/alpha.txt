@@ -18224,7 +18224,7 @@ anasarca
 amphiprotic
 assassination
 ammonocarbonous
-anapneic
+anapneic 1
 aquiclude
 animable
 alumnol
