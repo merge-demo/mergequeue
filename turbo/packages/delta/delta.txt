@@ -10546,7 +10546,7 @@ diplococcemia
 disleaf
 davach
 digammate
-denote
+denote 1
 dislikes
 disequilibrium
 duteously
