@@ -1303,7 +1303,7 @@ calibers
 colunar
 calibrated
 calibrater
-calibrates
+calibrates 1
 cloison
 cryological
 catchwater
