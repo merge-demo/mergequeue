@@ -4645,7 +4645,7 @@ demisecond
 demised
 depas
 deskbound
-didynamia
+didynamia 1
 diploglossate
 drysalter
 decem
