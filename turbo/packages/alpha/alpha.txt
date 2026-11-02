@@ -7974,7 +7974,7 @@ alkalis
 acetphenetidin
 aletap
 actos
-autarchy
+autarchy 1
 arabin
 angie
 alethiologist
