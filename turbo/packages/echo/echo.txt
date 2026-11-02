@@ -12633,7 +12633,7 @@ endeavors
 emotionless
 echo
 erotized
-emerse
+emerse 1
 elzevir
 extrapolation
 exomphalos
