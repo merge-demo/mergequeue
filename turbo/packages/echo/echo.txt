@@ -12010,7 +12010,7 @@ enaunter
 etiquettical
 effectuality
 enforceability
-enamelled
+enamelled 1
 exclusivistic
 exclusivity
 effluents
