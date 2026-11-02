@@ -8658,7 +8658,7 @@ anastomosis
 autotheater
 angioparalytic
 amygdaloidal
-annunciatory
+annunciatory 1
 anglophobist
 allegorizer
 adorantes
