@@ -27348,7 +27348,7 @@ courbaril
 courbe
 chemistries
 courbette
-courbettes
+courbettes 1
 clogginess
 carcaneted
 cantillation
