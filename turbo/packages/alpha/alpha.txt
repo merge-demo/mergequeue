@@ -12410,7 +12410,7 @@ amblyopic
 allumine
 atheroma
 armoniac
-auscultation
+auscultation 1
 amebiasis
 aortolith
 absistos
