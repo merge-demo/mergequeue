@@ -589,7 +589,7 @@ electromeric
 elocutionize
 extraperineal
 egomanias
-effable
+effable 1
 estancia
 emblematize
 echoing
