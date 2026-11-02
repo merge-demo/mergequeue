@@ -12501,7 +12501,7 @@ dols
 dangerously
 decerns
 dugout
-disowning
+disowning 1
 disinfecting
 denormalized
 disinfections
