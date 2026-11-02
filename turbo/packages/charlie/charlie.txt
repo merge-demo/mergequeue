@@ -146,7 +146,7 @@ cablegram
 cablegrams
 cruors
 clinopyroxene
-cablelaid
+cablelaid 1
 cableless
 cablelike
 cerberic
