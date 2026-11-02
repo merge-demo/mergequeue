@@ -11005,7 +11005,7 @@ amoy
 apinoid
 ampelitic
 amok
-amoke
+amoke 1
 azure
 antidepressive
 anabaptizing
