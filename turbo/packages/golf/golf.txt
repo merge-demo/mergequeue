@@ -5024,7 +5024,7 @@ gamekeepers
 glariness
 gregarinae
 grutched
-gelechia
+gelechia 1
 granules
 guanabana
 guards
