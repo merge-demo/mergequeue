@@ -15562,7 +15562,7 @@ almondlike
 ancoral
 angiocarp
 alcotate
-allocating
+allocating 1
 annulli
 alectoromorphae
 antimony
