@@ -18305,7 +18305,7 @@ biotopes
 buttonbush
 bivalve 1
 buttoner
-bernicles
+bernicles 1
 buttoners
 bedel
 bilirubinemia
