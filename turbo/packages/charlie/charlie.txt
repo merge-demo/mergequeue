@@ -11551,7 +11551,7 @@ cholecystectomy
 clammier
 chimachima
 countermeasure
-cholecystenterorrhaphy
+cholecystenterorrhaphy 1
 cholecystenterostomy
 cholecystgastrostomy
 carburisation 1
