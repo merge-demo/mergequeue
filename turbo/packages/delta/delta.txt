@@ -9171,7 +9171,7 @@ denazification
 demilance
 devilman
 ditriglyph
-dieb
+dieb 1
 dusterman
 delaine
 diebacks
