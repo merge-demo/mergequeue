@@ -60,7 +60,7 @@ earldoms
 earless
 eyn
 excuss
-ecotypes
+ecotypes 1
 elf
 empaneling
 earliest
