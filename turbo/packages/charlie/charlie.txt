@@ -18416,7 +18416,7 @@ crescive
 cognizor
 cognomens
 carnally
-cathedral
+cathedral 1
 cognominated
 cognomination
 cognoscent
