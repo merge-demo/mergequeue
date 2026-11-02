@@ -2899,7 +2899,7 @@ gallinulelike
 greenside
 gombos
 gingerous
-gee
+gee 1
 gelose
 gaylussite
 glycose
