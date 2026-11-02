@@ -7639,7 +7639,7 @@ deflocculation
 digamous
 didinium
 developer
-diswarn
+diswarn 1
 developing
 didelphis
 developmentally

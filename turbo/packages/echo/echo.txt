@@ -10247,7 +10247,7 @@ exactingly
 eudorina
 epicurish
 evectic
-economical
+economical 1
 elucidatory
 electrocution
 endoscopist
