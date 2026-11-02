@@ -17656,7 +17656,7 @@ demilitarise
 difluence
 duads
 dentalmen
-disembarked
+disembarked 1
 dygogram
 diversifies
 diffusimeter
