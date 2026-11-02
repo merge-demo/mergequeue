@@ -7504,7 +7504,7 @@ bookbinder
 bardelle
 bedgery
 bevenom
-buffet
+buffet 1
 bever
 barleducs
 blemishment
