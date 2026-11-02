@@ -11711,7 +11711,7 @@ examen
 elementals
 enregistry
 exurban
-exobiology
+exobiology 1
 entreat
 examinable
 eglateres
