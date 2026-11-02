@@ -5488,7 +5488,7 @@ deoxyribonucleotide
 disportive
 dumbledore
 diaphragm
-dogtrot
+dogtrot 1
 dudishness
 dolichos
 digamist
