@@ -31471,7 +31471,7 @@ colorimetry
 currently
 camerieri
 cardicentesis
-currentness
+currentness 1
 currentwise
 calalu
 curry
