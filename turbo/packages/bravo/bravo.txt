@@ -11653,7 +11653,7 @@ boats
 boatsetter
 bisymmetric
 bellacoola
-badju
+badju 1
 boatsteerer
 broomstraw
 biracialism
