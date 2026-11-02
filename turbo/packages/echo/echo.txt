@@ -1580,7 +1580,7 @@ episkeletal
 errite
 eurasia
 entires
-enumerator
+enumerator 1
 eucaines
 eff
 evacuations
