@@ -8208,7 +8208,7 @@ gladlier
 gujar
 glycerolyses
 gelatinise
-geometricize
+geometricize 1
 grandfatherless
 gestative
 gooseneck
