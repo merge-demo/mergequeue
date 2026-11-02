@@ -4531,7 +4531,7 @@ forestalling
 farmlands
 feer
 forheed
-foreigner
+foreigner 1
 forslake
 flooded
 feazes
