@@ -5180,7 +5180,7 @@ expanses
 euryalida
 endorser
 endolymphatic
-ectobatic
+ectobatic 1
 electromagnetic
 eluviums
 exitus
