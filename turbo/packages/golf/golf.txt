@@ -3914,7 +3914,7 @@ grippier
 glarily
 galeoid
 gravidae
-goral
+goral 1
 goslet
 glossem
 geminated
