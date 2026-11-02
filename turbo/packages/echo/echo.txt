@@ -2384,7 +2384,7 @@ electroscopes
 ethnotechnics
 epicaridan
 ectogenetic
-energist
+energist 1
 ebriosity
 epitrochlea
 electrodes
