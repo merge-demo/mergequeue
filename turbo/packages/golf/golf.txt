@@ -6772,7 +6772,7 @@ gaolers
 gnawn
 graybeards
 ganev
-garvanzo
+garvanzo 1
 gadinic
 gastronomics
 ganocephala
