@@ -10971,7 +10971,7 @@ firmless
 fisc
 freesias
 frigidaire
-furors
+furors 1
 forgettable
 fink
 fumaroidal
