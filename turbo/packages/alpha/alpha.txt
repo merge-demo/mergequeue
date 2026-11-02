@@ -22414,7 +22414,7 @@ armourers
 astrogony
 aspartyl
 adequation
-abohm
+abohm 1
 autoaspiration
 astrograph
 assemblywomen
