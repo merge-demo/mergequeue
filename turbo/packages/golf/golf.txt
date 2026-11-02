@@ -1850,7 +1850,7 @@ gentilesse
 grabber
 gemlike
 galumph
-gooma
+gooma 1
 gamenesses
 grecale
 grubstake
