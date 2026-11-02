@@ -2471,7 +2471,7 @@ decision
 defeatists
 distinctly
 decisional
-decisions
+decisions 1
 decisis
 declinature
 delays
