@@ -13678,7 +13678,7 @@ eject
 enramada
 endorsors
 erratum
-epistolizable
+epistolizable 1
 exteriorness
 espec
 emotionlessness
