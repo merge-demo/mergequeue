@@ -15493,7 +15493,7 @@ done
 dogmas
 diaries
 dacryostenosis
-dispendious
+dispendious 1
 duopolies
 dilemmic
 dismalness
