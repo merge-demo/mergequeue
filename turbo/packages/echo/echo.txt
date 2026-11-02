@@ -13586,7 +13586,7 @@ exsufflate
 exsufflation
 epithymetical
 extracutaneous
-evasions
+evasions 1
 echidnas
 electrophilically
 escheating

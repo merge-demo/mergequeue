@@ -8665,7 +8665,7 @@ forthgaze
 forthgo
 forwarding
 ferreling
-footcandle
+footcandle 1
 foxings
 furlong
 flutemouth
