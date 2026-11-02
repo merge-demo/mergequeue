@@ -7169,7 +7169,7 @@ drawboring
 deerkill
 desulphurize
 depauperate
-depullulation
+depullulation 1
 diplospondylism
 deedbox
 dosshouse
