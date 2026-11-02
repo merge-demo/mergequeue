@@ -12785,7 +12785,7 @@ excitomotor
 embryology
 epicystotomy
 equine
-exoterical
+exoterical 1
 espials
 exotericism
 extenuated
