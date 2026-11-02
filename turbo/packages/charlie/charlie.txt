@@ -12940,7 +12940,7 @@ continentality
 cyanides
 cyanidrosis
 clothes
-cyanids
+cyanids 1
 cyanimide
 cyanine
 commemorators
