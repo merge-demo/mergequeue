@@ -7706,7 +7706,7 @@ darwinism
 devilfish
 decelerators
 devily
-detail
+detail 1
 deviling
 deeded
 devilishness
