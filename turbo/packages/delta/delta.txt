@@ -4997,7 +4997,7 @@ durability
 dunne
 dueness
 diversionary
-distinguish
+distinguish 1
 derk
 demultiplexer
 deicing
