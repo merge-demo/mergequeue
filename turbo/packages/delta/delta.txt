@@ -14372,7 +14372,7 @@ doled
 divagated
 divagates
 drillmaster
-divagationally
+divagationally 1
 dicer
 divan
 dipolsphene
