@@ -1558,7 +1558,7 @@ gismos
 globicephala
 gymnura
 gauntlet
-gutteral
+gutteral 1
 gulanganes
 gunlock
 gasterotheca

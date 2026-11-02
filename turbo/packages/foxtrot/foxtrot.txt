@@ -3220,7 +3220,7 @@ friers
 frostwort
 flexionless
 fuchsone
-forefend
+forefend 1
 foodlessness
 festered
 falern
