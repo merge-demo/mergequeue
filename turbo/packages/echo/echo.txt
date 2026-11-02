@@ -6988,7 +6988,7 @@ escalops
 eneas
 eustyle 1
 entrepreneur
-enrobers
+enrobers 1
 entrer
 entresols
 endocardial
