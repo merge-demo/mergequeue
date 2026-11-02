@@ -25600,7 +25600,7 @@ corporas
 corporate
 christenmas
 corporately
-corporateness
+corporateness 1
 corporationer
 corporationism
 countergift
