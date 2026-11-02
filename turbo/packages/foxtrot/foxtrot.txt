@@ -6660,7 +6660,7 @@ frontad
 felonous
 figurism
 foeti
-fumigatory
+fumigatory 1
 fica
 ferbams
 finewed
