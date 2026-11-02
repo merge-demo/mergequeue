@@ -596,7 +596,7 @@ echoing
 echoism
 epigeal
 enhydros
-echometer
+echometer 1
 echopractic
 epidictic
 elitisms
