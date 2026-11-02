@@ -8859,7 +8859,7 @@ foul
 frotted
 fogger
 finesse
-franticness
+franticness 1
 fervorless
 foulder
 fiberizer
