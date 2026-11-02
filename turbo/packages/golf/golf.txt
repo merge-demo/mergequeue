@@ -7137,7 +7137,7 @@ goran
 gynecoid
 guested
 gremio
-geanticlinal
+geanticlinal 1
 gagtooth 1
 gastrotubotomy
 gorble
