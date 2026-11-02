@@ -10697,7 +10697,7 @@ euglenoid
 exolve
 evenworthy
 ecossaise
-egosyntonic
+egosyntonic 1
 etiquet
 excusable
 eugonic
