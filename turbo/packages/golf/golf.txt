@@ -9954,7 +9954,7 @@ gonidial
 graphostatic
 getaways
 grievousness
-gigadoid
+gigadoid 1
 gondoliers
 gritless
 geocratic
