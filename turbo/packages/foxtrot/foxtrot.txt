@@ -2854,7 +2854,7 @@ figworm
 fiedlerite
 fettered
 frowstiness
-foozle
+foozle 1
 flouter
 flatlets
 forestair
