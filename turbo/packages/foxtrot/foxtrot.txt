@@ -5775,7 +5775,7 @@ fpsps
 fictile
 flutteration
 farmage
-furyl
+furyl 1
 fulfilling
 flurriedly
 fluorocarbon
