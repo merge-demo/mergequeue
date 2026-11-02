@@ -4312,7 +4312,7 @@ albuminosis
 adrenocorticotropic
 amids
 anthracolithic
-astructive
+astructive 1
 adstipulate
 antrophore
 adrenotropic
