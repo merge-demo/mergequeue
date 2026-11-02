@@ -3041,7 +3041,7 @@ fibreless
 flatcar
 foregone
 filate
-ferrimagnetism
+ferrimagnetism 1
 fractionalization
 fibril
 fuzing
