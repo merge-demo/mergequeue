@@ -5686,7 +5686,7 @@ demigods
 desterilized
 dialysed
 disposit
-deplenish
+deplenish 1
 dialup
 depleteable
 ducape
