@@ -5195,7 +5195,7 @@ debone
 dyings
 daemon
 decephalization
-deathly
+deathly 1
 dynasticism
 diaheliotropic
 detruncating
