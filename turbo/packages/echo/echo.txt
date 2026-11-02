@@ -4867,7 +4867,7 @@ encrustation
 elepaio
 excitoglandular
 empoisons
-ebulliometer
+ebulliometer 1
 exoperidium
 endoderm
 enculturation
