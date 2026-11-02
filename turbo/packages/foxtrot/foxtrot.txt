@@ -8334,7 +8334,7 @@ furriner
 fawning
 flagellata
 forerequest
-forkedness
+forkedness 1
 folderol
 fossa
 foliobranch
