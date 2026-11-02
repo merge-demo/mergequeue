@@ -21355,7 +21355,7 @@ countermissile
 counterblow
 concho
 conchoids
-communicableness
+communicableness 1
 conchol
 conchometer
 conchospiral
