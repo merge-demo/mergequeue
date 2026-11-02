@@ -877,7 +877,7 @@ dori
 dimerized
 dermotherm
 daguerrean
-dripproof
+dripproof 1
 dieting
 demency
 disincrustant
