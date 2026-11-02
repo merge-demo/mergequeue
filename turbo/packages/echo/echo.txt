@@ -10763,7 +10763,7 @@ eucalypteol
 epipolize
 exercitant
 extemporaneity
-elasticate
+elasticate 1
 examiners
 egling
 epichilia
