@@ -2519,7 +2519,7 @@ candle
 coehorn
 candleball
 candleberries
-candlebomb
+candlebomb 1
 candlefish
 corporeal
 chaldaical
