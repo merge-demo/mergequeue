@@ -11249,7 +11249,7 @@ bewail
 burez
 brightening
 biod 1
-bertrand
+bertrand 1
 bertha
 blotto
 blottto
