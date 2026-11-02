@@ -10527,7 +10527,7 @@ fierily
 frowners
 fatlike
 faciend
-freq
+freq 1
 flags
 frowsily
 footslogging
