@@ -7065,7 +7065,7 @@ galyaks
 genericalness
 grayly
 gutturopalatal
-gelidity
+gelidity 1
 gallicole
 ganglioneure
 goosegog
