@@ -3558,7 +3558,7 @@ deformalize
 dingles
 dermatotome
 dehwar
-defuze
+defuze 1
 dakoities
 dissociative
 degage
