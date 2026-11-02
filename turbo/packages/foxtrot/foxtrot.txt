@@ -6300,7 +6300,7 @@ flukeworm
 follicle
 ferryhouse
 fratcher
-falerian
+falerian 1
 flumes
 foundationary
 fluminous
