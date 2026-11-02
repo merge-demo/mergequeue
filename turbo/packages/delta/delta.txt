@@ -15301,7 +15301,7 @@ dismit
 demonolatry
 deafforestation
 dolphus 1
-dexterity
+dexterity 1
 dryfat
 displeasured
 doating
