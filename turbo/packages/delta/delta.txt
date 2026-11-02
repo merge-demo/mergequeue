@@ -10779,7 +10779,7 @@ drawnly
 dainty
 diluteness
 decreement
-diseur
+diseur 1
 directionalize
 directionally
 deckles

@@ -4019,7 +4019,7 @@ episporium
 empyemata
 empyemic
 empiercement
-enwind
+enwind 1
 evirato
 exaggerator
 extensibleness

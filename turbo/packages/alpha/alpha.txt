@@ -2591,7 +2591,7 @@ acquaint
 acquaintanceship
 antilift
 acidophilus
-acquisible
+acquisible 1
 aggeration
 acquaintanceships
 asymmetrocarpous
