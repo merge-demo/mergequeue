@@ -4744,7 +4744,7 @@ exploratory
 extracardial
 encloister
 easternizing
-extend
+extend 1
 emeried
 epencephalon
 emboite
