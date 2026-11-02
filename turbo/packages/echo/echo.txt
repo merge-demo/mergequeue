@@ -9621,7 +9621,7 @@ expertism
 eventlessness
 exceptionary
 ensearch
-esoterize
+esoterize 1
 esotropia
 elatha
 eparchial

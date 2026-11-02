@@ -25304,7 +25304,7 @@ acetylrosaniline
 acholuria
 aceta
 antidiphtheric
-antithermin
+antithermin 1
 azofication
 azoformamide
 anodization
