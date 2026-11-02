@@ -20974,7 +20974,7 @@ cultuses
 comprizing
 chorioallantoid
 cresol
-cosmometry
+cosmometry 1
 comprobation
 comproduce
 cookless
