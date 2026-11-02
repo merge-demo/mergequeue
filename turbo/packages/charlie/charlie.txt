@@ -16242,7 +16242,7 @@ charlatanically
 cobrother
 clinoclasite
 citifies
-clinodiagonal
+clinodiagonal 1
 culeus
 clinodomatic
 canzonas
