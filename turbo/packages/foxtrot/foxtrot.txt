@@ -2836,7 +2836,7 @@ fishnet
 feticide
 flossie
 freeways
-fizzy
+fizzy 1
 fatigating
 fortyfives
 faithed
