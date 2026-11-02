@@ -18402,7 +18402,7 @@ cognitional
 classed
 cognitive
 cognitively
-cokelike
+cokelike 1
 cognitivity
 cognizable
 cognizant
