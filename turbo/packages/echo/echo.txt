@@ -11552,7 +11552,7 @@ epivalve
 erethizon
 estrange
 endites
-evernia
+evernia 1
 equipartisan
 evoking
 embrute
