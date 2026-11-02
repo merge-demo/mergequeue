@@ -11364,7 +11364,7 @@ ethnomusicologist 1
 endodontics
 enneasemic
 exuvia
-encompass
+encompass 1
 eponymist
 electrodeless
 ensweeten
