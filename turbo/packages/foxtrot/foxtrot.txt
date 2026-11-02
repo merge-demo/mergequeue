@@ -10137,7 +10137,7 @@ fenite
 fissile
 frontlet
 fitter
-fabricant
+fabricant 1
 falcidian
 foresing
 fief
