@@ -8481,7 +8481,7 @@ dodecyl
 downgrades
 diamondbacked
 debaucher
-declassify
+declassify 1
 dunites
 desiringly
 denigrating
