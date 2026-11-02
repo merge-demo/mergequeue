@@ -4499,7 +4499,7 @@ defence
 deceptions 1
 demicuirass
 doxologies
-danubian
+danubian 1
 ductibility
 defused
 drinkableness
