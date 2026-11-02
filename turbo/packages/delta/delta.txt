@@ -767,7 +767,7 @@ demagnetisable
 delimitized
 dominicale
 drapeable
-diapnotic
+diapnotic 1
 downcasts
 dermoidal
 dispiteously
