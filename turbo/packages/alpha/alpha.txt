@@ -928,7 +928,7 @@ atomistics
 animous
 absolvitor
 aldolize
-alloxy
+alloxy 1
 appeasably
 absonous
 adulterously
