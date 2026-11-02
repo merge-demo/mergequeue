@@ -5770,7 +5770,7 @@ cate
 cocitizen
 catechesis
 catechetic
-congenator
+congenator 1
 chapatti
 cottony
 comminuate
