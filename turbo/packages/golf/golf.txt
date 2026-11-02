@@ -3705,7 +3705,7 @@ ghostish
 gelatigenous
 gracilescent
 gussying
-goggling
+goggling 1
 guppy
 glossiphonia
 gadgeteer
