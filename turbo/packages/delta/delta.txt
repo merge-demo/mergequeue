@@ -16622,7 +16622,7 @@ dragrope
 decades
 dexterousness
 debiteuse
-deathbeds
+deathbeds 1
 dragstaff
 drone
 dreadness
