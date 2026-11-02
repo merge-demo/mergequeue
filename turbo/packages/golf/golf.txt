@@ -9731,7 +9731,7 @@ grocerwise
 glossaries
 gelants
 gratiosolin
-gaelicism
+gaelicism 1
 guying
 grummet
 grittiness
