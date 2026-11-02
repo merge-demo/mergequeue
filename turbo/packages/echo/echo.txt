@@ -7719,7 +7719,7 @@ embreathe
 equidensity
 ephebic
 enforcer
-execrably
+execrably 1
 epipleurae
 etiological
 ephapse
