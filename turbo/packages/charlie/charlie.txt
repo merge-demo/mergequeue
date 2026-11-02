@@ -2898,7 +2898,7 @@ chloralum
 clothesmonger
 chalcis
 cantabrian
-cantabrigian
+cantabrigian 1
 cantalever
 cantaliver
 catacombs
