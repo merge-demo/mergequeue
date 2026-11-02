@@ -1332,7 +1332,7 @@ departure
 daitya
 derelinquish
 didappers
-daunt
+daunt 1
 disfellowship
 daunted
 dhobies
