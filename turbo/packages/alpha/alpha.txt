@@ -5207,7 +5207,7 @@ antiquartan
 antichlor
 achen
 affaite
-affect
+affect 1
 australia
 anaxonia
 aflicker
