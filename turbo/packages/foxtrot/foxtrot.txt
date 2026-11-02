@@ -11255,7 +11255,7 @@ flit
 falangism
 famble
 featherwork
-funnels
+funnels 1
 fourer
 fundamentality
 flagellants
