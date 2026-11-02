@@ -2585,7 +2585,7 @@ acousticon
 allotriognathi
 aegagropile
 assist
-acpt
+acpt 1
 acridinic
 acquaint
 acquaintanceship
