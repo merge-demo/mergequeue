@@ -1798,7 +1798,7 @@ gobleted
 guinean
 gullah
 gatekeeper
-grizel
+grizel 1
 grassy
 glummer
 glyptology
