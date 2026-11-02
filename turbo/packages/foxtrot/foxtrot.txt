@@ -1018,7 +1018,7 @@ forehook
 foglietto
 fascicles
 flexuose
-flatlong
+flatlong 1
 fren
 fumosity
 feverweed
