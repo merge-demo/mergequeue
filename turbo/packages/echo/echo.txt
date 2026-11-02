@@ -6424,7 +6424,7 @@ endangerments
 electromyography
 espave
 espousal
-expandibility
+expandibility 1
 ensnared
 ensnarer
 elementish
