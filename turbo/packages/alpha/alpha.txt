@@ -16713,7 +16713,7 @@ adamantean
 apexed
 aortoclasia
 antichurch
-arefaction
+arefaction 1
 avie
 aph
 aggers
