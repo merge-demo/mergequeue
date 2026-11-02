@@ -12043,7 +12043,7 @@ amphithalmi
 amara
 antigravitation
 apostrophize
-arc
+arc 1
 asymtotes
 aerogenically
 antisepticizing
