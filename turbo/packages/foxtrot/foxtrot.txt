@@ -4111,7 +4111,7 @@ foreprovided
 fabulosity
 fylgjur
 foolship
-finnicize
+finnicize 1
 foresightedness
 fenestellid
 frush
