@@ -382,7 +382,7 @@ galactosis
 grimsire
 gauric
 galactotrophy
-goodhumoredness
+goodhumoredness 1
 glutamates
 gynobasic
 galangin
