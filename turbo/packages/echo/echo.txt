@@ -10389,7 +10389,7 @@ exorbitance
 entresalle
 excreted
 exposit
-ecb
+ecb 1
 emeute
 ectocranial 1
 excruciator
