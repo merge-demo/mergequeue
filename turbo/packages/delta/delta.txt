@@ -4312,7 +4312,7 @@ demagnetizing
 devilbird
 djins
 devoutness
-durning
+durning 1
 delimit
 duckhood
 dequeue
