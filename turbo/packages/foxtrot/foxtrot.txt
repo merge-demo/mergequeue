@@ -636,7 +636,7 @@ fiorin
 floodways
 fleshes
 folly
-farrantly
+farrantly 1
 forelimb
 funnies
 frame
