@@ -14962,7 +14962,7 @@ ampliate
 acosmistic
 argental
 anticolic
-adiathermic
+adiathermic 1
 associe
 appetizers
 albopruinose
