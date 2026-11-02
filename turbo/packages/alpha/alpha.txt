@@ -12823,7 +12823,7 @@ angioma
 anomalonomy
 angiomalacia
 acquits
-anoestrous
+anoestrous 1
 angiomyosarcoma
 adfluxion
 airbrushed
