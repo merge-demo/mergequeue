@@ -5376,7 +5376,7 @@ chaufer
 castellate
 castellation
 cleruchies
-castellatus
+castellatus 1
 circumposition
 copulates
 chamberfellow
