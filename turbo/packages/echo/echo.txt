@@ -10474,7 +10474,7 @@ equation
 envyingly
 embouchure
 ettercap
-escalan
+escalan 1
 equaller
 ettle
 ecclesiolatry
