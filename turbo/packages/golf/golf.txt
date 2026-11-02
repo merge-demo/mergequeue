@@ -6109,7 +6109,7 @@ gneiss
 glengarries
 gullibly
 gryphosaurus
-gnessic
+gnessic 1
 gastromancy
 golcondas
 grogging
