@@ -6598,7 +6598,7 @@ cesspool
 cosmonaut
 celibates
 cearin
-chatoyancy
+chatoyancy 1
 ceaselessness
 cryogenically
 ceases
