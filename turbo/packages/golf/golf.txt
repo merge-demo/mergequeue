@@ -4076,7 +4076,7 @@ gendarmery
 gim
 gambolling
 groining
-gletscher
+gletscher 1
 grifted
 gastrectomies
 gimcrack
