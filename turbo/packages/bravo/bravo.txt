@@ -11539,7 +11539,7 @@ bestows
 blup
 barbs
 blurbist
-bananist
+bananist 1
 balladries
 bracings
 budless
