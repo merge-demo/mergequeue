@@ -2348,7 +2348,7 @@ feoffs
 fra
 fiftyfold
 formalizing
-firecoat
+firecoat 1
 featherstitching
 ferae
 fatal
