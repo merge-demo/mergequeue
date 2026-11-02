@@ -5726,7 +5726,7 @@ deplumes
 dentation
 dewanee
 doliolum
-divergenge
+divergenge 1
 deoxidiser
 drawspring
 demonland
