@@ -7218,7 +7218,7 @@ forfeits
 frizzlers
 faenas
 footpaces
-fluencies
+fluencies 1
 fifer
 foolocracy
 factionaries
