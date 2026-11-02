@@ -8752,7 +8752,7 @@ evulgation
 extempore
 effs
 ektexines
-extrusive
+extrusive 1
 emmergoose
 evitate
 entombing
