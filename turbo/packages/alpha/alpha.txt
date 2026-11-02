@@ -12861,7 +12861,7 @@ angiostrophy
 aphanozygous
 angiotasis
 aramaic
-angiotelectasia
+angiotelectasia 1
 administerd
 angiotenosis
 acetopyrin
