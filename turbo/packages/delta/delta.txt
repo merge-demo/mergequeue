@@ -5397,7 +5397,7 @@ dish
 disappointingness
 diamonds
 drown
-duodecimality
+duodecimality 1
 desegregating
 disseminated
 deyhouse

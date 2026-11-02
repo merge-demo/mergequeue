@@ -20393,7 +20393,7 @@ compact
 coutures
 compactability
 communisteries
-compactable
+compactable 1
 compacted
 countervailed
 cephalalgy
