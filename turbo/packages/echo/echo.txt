@@ -12506,7 +12506,7 @@ existlessness
 emeses
 epistemological
 edulcorator
-embezzle
+embezzle 1
 exit
 encrypted
 exite
