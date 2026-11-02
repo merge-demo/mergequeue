@@ -8964,7 +8964,7 @@ annelids
 allopathetic
 achievers
 allopathic
-autoicous
+autoicous 1
 anticoagulan
 actiniaria
 adlerian
