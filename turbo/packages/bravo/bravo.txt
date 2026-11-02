@@ -8331,7 +8331,7 @@ bignou
 betask
 bygo
 bygone
-bist
+bist 1
 blousiest
 bastant
 biddableness
