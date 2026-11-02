@@ -17628,7 +17628,7 @@ astroid
 adjoining
 appentice
 agrobiological
-adjudges
+adjudges 1
 attaining
 adjudgeable
 acetic

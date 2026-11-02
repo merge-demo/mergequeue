@@ -7124,7 +7124,7 @@ echar
 estanciero
 eudaemonism
 everyday
-esotrope
+esotrope 1
 endocolitis
 engrossed
 established
