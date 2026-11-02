@@ -3658,7 +3658,7 @@ adenomycosis
 adenomyofibroma
 alvite
 adenomyoma
-adenomyxosarcoma
+adenomyxosarcoma 1
 adenoneural
 avarice
 aerophysical
