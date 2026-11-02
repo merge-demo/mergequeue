@@ -6796,7 +6796,7 @@ gentilitial
 geologically
 gazania
 gyrostatics
-genal
+genal 1
 genros
 gondola
 goniums
