@@ -7162,7 +7162,7 @@ centref
 centrepiece
 canephoroe
 centrer
-closely
+closely 1
 crazily
 chol
 chatterbox
