@@ -10724,7 +10724,7 @@ begging
 baiters
 brushup
 bandore
-beefiness
+beefiness 1
 bharata
 botherment
 bossship
