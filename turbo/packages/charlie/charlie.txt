@@ -6444,7 +6444,7 @@ cavalcaded
 cotylophorous
 cardinalist
 cavalier
-choregic
+choregic 1
 cation
 cyanometric
 clinandria
