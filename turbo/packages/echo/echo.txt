@@ -9856,7 +9856,7 @@ ecbatic
 esthesiogen
 entophyte
 epoophoron
-envelopments
+envelopments 1
 enphytotic
 esthesiogeny
 enragedly
