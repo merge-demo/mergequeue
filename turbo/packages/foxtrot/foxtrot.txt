@@ -5597,7 +5597,7 @@ flaglike
 flicker
 fixity
 frapler
-floatable
+floatable 1
 flatuous
 fiords
 flickermouse
