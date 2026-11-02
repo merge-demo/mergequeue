@@ -11471,7 +11471,7 @@ choir
 choirboys
 choired
 choirlike
-conoidally
+conoidally 1
 choristoma
 coheads
 circularizer
