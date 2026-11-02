@@ -10194,7 +10194,7 @@ apanage
 ambulatories
 ambulatorium
 ahepatokla
-anthropogenic
+anthropogenic 1
 avo
 acmaesthesia
 amburbial
