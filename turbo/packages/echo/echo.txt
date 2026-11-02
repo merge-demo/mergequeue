@@ -2407,7 +2407,7 @@ events
 engracing
 entrail 1
 ecraseur
-essayical
+essayical 1
 epistle
 empiristic
 esloign
