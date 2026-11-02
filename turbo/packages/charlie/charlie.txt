@@ -3991,7 +3991,7 @@ cowquake
 commodation
 carcels
 chuumnapm
-cosmosphere
+cosmosphere 1
 corniculate
 coassisted
 cajoleries
