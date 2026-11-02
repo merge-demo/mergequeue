@@ -29505,7 +29505,7 @@ checkerboard
 coevality
 crystallurgy
 ceruminiferous
-companion
+companion 1
 coroniform
 crushed
 chithe
