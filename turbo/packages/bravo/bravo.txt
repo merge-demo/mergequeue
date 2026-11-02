@@ -2072,7 +2072,7 @@ bicollaterality
 bankrolled
 babelism
 bankrolling
-bankrupt
+bankrupt 1
 bosporan
 burl
 bankruptism
