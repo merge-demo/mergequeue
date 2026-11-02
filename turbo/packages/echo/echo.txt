@@ -6705,7 +6705,7 @@ erythristic
 entete
 eurytherm
 epistrophy
-enthelminthic
+enthelminthic 1
 exungulate
 effume
 ectosomal
