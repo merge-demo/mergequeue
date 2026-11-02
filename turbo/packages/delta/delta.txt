@@ -10139,7 +10139,7 @@ dislip
 devulgarize
 diluvian
 duckbills
-deadly
+deadly 1
 dingdonged
 deltidia
 diverticulate
