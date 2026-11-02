@@ -12526,7 +12526,7 @@ doping
 depend
 defies
 divertible
-disingenuousness
+disingenuousness 1
 dicaryophase
 disinheritable
 diuturnity
