@@ -8723,7 +8723,7 @@ ecartes
 electroencephalograph
 equisided
 equisignal
-erethitic
+erethitic 1
 epigaeous
 extradicting
 esthesias
