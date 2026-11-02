@@ -15618,7 +15618,7 @@ digitizes
 dowl
 doghouses
 derth
-deponent
+deponent 1
 doorstone
 daggers
 dissembler
