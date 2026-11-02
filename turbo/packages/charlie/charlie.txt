@@ -4535,7 +4535,7 @@ ctimo
 corupay
 cymlin
 cyanohermidin
-cordialize
+cordialize 1
 carnation
 carnationist
 carnauba
