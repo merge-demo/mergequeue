@@ -19112,7 +19112,7 @@ collyrium
 cedes
 cystocyte
 curtseying
-cunningest
+cunningest 1
 collyweston
 commonalty
 collywobbles
