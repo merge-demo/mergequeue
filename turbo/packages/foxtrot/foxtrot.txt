@@ -1260,7 +1260,7 @@ fama 1
 favella
 forevouch
 femalize
-footwall
+footwall 1
 fatuate
 fearful
 flatten
