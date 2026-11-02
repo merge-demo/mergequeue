@@ -5627,7 +5627,7 @@ forehock
 funicular
 faddiest
 flightier
-foster
+foster 1
 foetor
 fernery
 forepassed
