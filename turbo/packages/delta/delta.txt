@@ -2355,7 +2355,7 @@ decadally
 devocalising
 decessit
 daikon
-doctorfish
+doctorfish 1
 dechloridation
 dechloridize
 dendrites
