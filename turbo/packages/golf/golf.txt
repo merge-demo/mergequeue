@@ -4162,7 +4162,7 @@ gratewise
 gilding
 gypsum
 guarapo
-globuloid
+globuloid 1
 gelinotte
 graphemic
 gastroarthritis
