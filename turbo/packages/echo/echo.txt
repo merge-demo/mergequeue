@@ -8968,7 +8968,7 @@ europeanly
 essex
 enhort
 eon
-extraspherical
+extraspherical 1
 evenings
 encephalin
 eleaticism
