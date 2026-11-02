@@ -7320,7 +7320,7 @@ genet
 geochemical 1
 graves
 gutturally
-gangly
+gangly 1
 gappier
 goar
 gymnosophy
