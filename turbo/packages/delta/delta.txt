@@ -2153,7 +2153,7 @@ deterrable
 decapitations
 disassemble
 distresses
-downfall
+downfall 1
 decalcomanias
 decapodal
 dawn
