@@ -2825,7 +2825,7 @@ armorproof
 atonics
 autocamping
 acromicria
-antimeres
+antimeres 1
 aspersers
 athonite
 autodiagnosis
