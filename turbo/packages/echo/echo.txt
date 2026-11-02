@@ -12967,7 +12967,7 @@ electromotiv
 erminette
 evicke
 exposals
-emotion
+emotion 1
 entice
 electrodeposition 1
 expectorant
