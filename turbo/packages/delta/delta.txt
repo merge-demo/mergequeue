@@ -16165,7 +16165,7 @@ dits
 demospongiae
 dinnerware
 dispersions
-degas
+degas 1
 droplet
 desalinized
 deweylite
