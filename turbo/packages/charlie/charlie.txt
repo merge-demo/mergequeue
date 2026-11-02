@@ -31219,7 +31219,7 @@ cupule
 ceratophyte
 ceramicists
 cupules
-curvatures
+curvatures 1
 convulsible
 chickenhood
 covetousness
