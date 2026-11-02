@@ -1540,7 +1540,7 @@ dallies
 dalk
 dartman
 delphinium
-disciplinarity
+disciplinarity 1
 dextrously
 dicranoid
 doubtfulness
