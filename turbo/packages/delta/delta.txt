@@ -2561,7 +2561,7 @@ declassification
 disbudder
 derringer
 declassifies
-diplophonic
+diplophonic 1
 disequality
 dematerialize
 dorsocephalic
