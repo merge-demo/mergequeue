@@ -9677,7 +9677,7 @@ chevre
 convocate
 cheetahs
 cheetul
-casse
+casse 1
 cheewink
 commutant
 cheezit
