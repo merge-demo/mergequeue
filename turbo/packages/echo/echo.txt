@@ -1260,7 +1260,7 @@ efflation
 enmanche
 eelfare
 encrinite
-enrobe
+enrobe 1
 ecclesiarch
 equalness
 eclated
