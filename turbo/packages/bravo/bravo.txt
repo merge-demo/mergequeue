@@ -5306,7 +5306,7 @@ buroo
 beglide
 batekes
 burkers
-bor
+bor 1
 beglooms
 begloze
 busti
