@@ -18513,7 +18513,7 @@ divorced
 duraspinalis
 diacritic
 duration
-durations
+durations 1
 durbachite
 dustwoman
 desilicification
