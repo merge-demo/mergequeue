@@ -7618,7 +7618,7 @@ disabler
 disquiparant
 drapping
 devata
-devaul
+devaul 1
 deoxygenating
 degaussed
 diamant
