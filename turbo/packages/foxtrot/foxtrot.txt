@@ -8582,7 +8582,7 @@ flocculus
 farfara
 floodmark
 farmplace
-flammigerous
+flammigerous 1
 forswore
 funje
 familiarism
