@@ -3622,7 +3622,7 @@ genevieve
 ghees
 gladen
 glottalite
-guanylic
+guanylic 1
 granilla
 goglets
 glottalize
