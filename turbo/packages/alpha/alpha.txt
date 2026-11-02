@@ -6989,7 +6989,7 @@ angioscope
 acetanisidine
 apedom
 antineutrally
-accipitral
+accipitral 1
 arsenite
 allomorphism
 apochromat

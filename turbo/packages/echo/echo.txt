@@ -7424,7 +7424,7 @@ ebulliate
 endogenously
 extraperiodic
 extracurricular
-elohimic
+elohimic 1
 enfile
 erratical
 ecchondrotome
