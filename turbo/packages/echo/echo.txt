@@ -1853,7 +1853,7 @@ eurygnathism
 epexegesis
 epicentra
 expletives
-executant
+executant 1
 executrix
 eimak
 exulted
