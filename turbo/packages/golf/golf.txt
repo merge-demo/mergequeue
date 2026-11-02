@@ -820,7 +820,7 @@ guetar
 gudge
 goldenrods 1
 gletty
-galoots
+galoots 1
 granose
 gnarring
 gramp
