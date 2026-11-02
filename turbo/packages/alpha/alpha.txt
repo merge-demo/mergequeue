@@ -2839,7 +2839,7 @@ areometer
 arianrhod
 acclimatised
 acromiohumeral
-accrete
+accrete 1
 actuals
 adinida
 acromphalus
