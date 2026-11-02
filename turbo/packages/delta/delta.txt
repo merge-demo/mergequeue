@@ -15472,7 +15472,7 @@ donator
 detergence
 discodactyl
 deceivableness
-dispell
+dispell 1
 desist
 depredator
 deflagrated
