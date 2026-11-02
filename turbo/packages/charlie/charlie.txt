@@ -17251,7 +17251,7 @@ caperer
 coalification
 cephalostyle
 clinopinacoidal
-coalifies
+coalifies 1
 coalifying
 coalite
 cephalacanthidae
