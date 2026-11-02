@@ -3755,7 +3755,7 @@ adhaka
 atticized
 advisership
 anantherate
-adhere
+adhere 1
 atticists
 adhered
 adherency
