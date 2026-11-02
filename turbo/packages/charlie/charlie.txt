@@ -1293,7 +1293,7 @@ calflike
 calfling
 calfskin
 creatural
-calgary
+calgary 1
 caliban
 cunea
 calaverite

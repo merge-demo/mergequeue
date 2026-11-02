@@ -6534,7 +6534,7 @@ brahmsian
 berates
 boot 1
 blastospheric 1
-berattle
+berattle 1
 bakehead
 boatside
 borickite
