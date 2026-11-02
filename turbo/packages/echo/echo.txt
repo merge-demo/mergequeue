@@ -3196,7 +3196,7 @@ everything
 extruding
 embioptera
 efficaciousness
-errability
+errability 1
 epiparasite
 ethanedial
 else
