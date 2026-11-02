@@ -9139,7 +9139,7 @@ evite
 escapement
 edgemaking
 endosiphuncle
-eggbeaters
+eggbeaters 1
 elegise
 exograph
 endothermism
