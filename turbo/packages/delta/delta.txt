@@ -8860,7 +8860,7 @@ dibstone
 degustation
 doziness
 depthwise
-diffeomorphism
+diffeomorphism 1
 debituminize
 deflexure
 domiciliating
