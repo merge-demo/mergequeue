@@ -5284,7 +5284,7 @@ guatemala
 gemitores
 gossoons
 glacialism
-granitical
+granitical 1
 graveling
 geometries
 gamelan
