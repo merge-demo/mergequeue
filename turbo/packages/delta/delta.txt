@@ -9560,7 +9560,7 @@ departisanize
 diastrophically
 deglazes
 dignitary
-dignitarian
+dignitarian 1
 demophoon
 doubloons
 drunks
