@@ -1189,7 +1189,7 @@ glabrescent
 grinned
 gezerah
 guejarite
-gutturalize
+gutturalize 1
 galipine
 guestless
 gaplessness
