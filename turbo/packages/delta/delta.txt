@@ -16326,7 +16326,7 @@ duchess
 discobolus
 dismasts
 daven
-dismount
+dismount 1
 divergently
 discinoid
 decorum
