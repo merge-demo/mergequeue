@@ -11640,7 +11640,7 @@ disengirdle
 diagramed
 discountable
 discountenances
-distastes
+distastes 1
 dendrolite
 drunkometer
 daishiki

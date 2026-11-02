@@ -2491,7 +2491,7 @@ epicanthic
 exterminative
 electrokinetics
 elasticum
-exsecants
+exsecants 1
 educables
 expansivity
 embryopathology
