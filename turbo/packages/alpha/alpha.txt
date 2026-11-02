@@ -16614,7 +16614,7 @@ apartness
 apass
 antimaterialistic
 apast
-absolutive
+absolutive 1
 abiogenesis
 acolytes
 avifaunally
