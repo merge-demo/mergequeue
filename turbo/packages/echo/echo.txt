@@ -10046,7 +10046,7 @@ encastered
 egrets
 ethambutol
 ethmovomerine
-exitial
+exitial 1
 entamoebiasis
 epopoeist
 etceteras
