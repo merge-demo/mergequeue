@@ -10326,7 +10326,7 @@ blamefulness
 beamsman 1
 boston
 battlefield
-bespirit
+bespirit 1
 blamelessly
 bedplates
 blamers
