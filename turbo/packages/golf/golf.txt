@@ -4812,7 +4812,7 @@ guardo
 glacieret
 garookuh
 glaciers
-gymnothorax
+gymnothorax 1
 gladhearted
 gadflies
 gillyflower
