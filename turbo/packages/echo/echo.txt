@@ -1664,7 +1664,7 @@ ethylenes
 epiphloedal
 electromerism
 electrotaxis
-emigr
+emigr 1
 ejusdem
 enchainments
 eyeish
