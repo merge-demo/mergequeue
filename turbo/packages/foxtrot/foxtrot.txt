@@ -6073,7 +6073,7 @@ funicule
 flavoring
 filmgoing
 feringhee
-ferrivorous
+ferrivorous 1
 funker
 fizzling
 frecken
