@@ -19519,7 +19519,7 @@ assaults
 adenotomy
 aitchpiece
 acad
-arsonic
+arsonic 1
 anecdotal
 argonautid
 argonne
