@@ -3270,7 +3270,7 @@ domesticate
 defiber
 deionized
 duodecillionth
-desponder
+desponder 1
 doublethought
 dominie
 departs
