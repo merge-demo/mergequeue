@@ -17462,7 +17462,7 @@ desectionalize
 drouthier
 defame
 datums
-delegatee
+delegatee 1
 drove
 drovers
 dereism
