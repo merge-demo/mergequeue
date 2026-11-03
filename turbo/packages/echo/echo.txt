@@ -2573,7 +2573,7 @@ ecad
 encyclopaedian
 electrodiagnoses
 etch
-entrenched
+entrenched 1
 eximious
 ethylhydrocupreine
 euphausia
