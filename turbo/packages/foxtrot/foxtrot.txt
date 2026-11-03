@@ -9737,7 +9737,7 @@ friends
 fraicheur
 folklorists
 frenzy
-figurability
+figurability 1
 factored
 frequenters
 ferijee
