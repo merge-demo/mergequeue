@@ -25214,7 +25214,7 @@ creakingly
 chalastic
 corindon
 continually
-coexpanded
+coexpanded 1
 corynebacteria
 coryneform
 corineus
