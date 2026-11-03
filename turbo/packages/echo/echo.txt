@@ -14196,7 +14196,7 @@ epicycles
 elong
 extraliminal
 equidistance
-exuscitate
+exuscitate 1
 enlists
 effecters
 enow
