@@ -4472,7 +4472,7 @@ encephalomyelopathy
 encenter
 ensilage
 endolithic
-encephalartos
+encephalartos 1
 encephalasthenia
 effloresced
 endodermis
