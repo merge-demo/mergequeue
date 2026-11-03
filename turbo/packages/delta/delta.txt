@@ -2946,7 +2946,7 @@ dediticiancy
 dedogmatize
 discounted
 dedolation
-disturbance
+disturbance 1
 deseret
 destinal
 dotingness
