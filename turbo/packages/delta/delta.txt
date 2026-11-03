@@ -9353,7 +9353,7 @@ disclosive
 duncify
 deprive
 difficileness
-difficilitate
+difficilitate 1
 dignosle
 desertlike
 dewinesses
