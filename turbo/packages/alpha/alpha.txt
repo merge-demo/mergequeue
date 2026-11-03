@@ -3915,7 +3915,7 @@ adjoints
 apieces
 akiskemikinik
 adjourn
-austerities
+austerities 1
 allurance
 adjournal
 adjoust
