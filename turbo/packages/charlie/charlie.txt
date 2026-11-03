@@ -21633,7 +21633,7 @@ condensator
 corbeled
 condense
 condensed
-condensedness
+condensedness 1
 condensers
 condenses
 cypraeidae
