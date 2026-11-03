@@ -29066,7 +29066,7 @@ creosoter
 crimping
 chattable
 cheeped
-crimpness
+crimpness 1
 crimps
 cantatory
 corbans
