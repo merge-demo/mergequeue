@@ -2585,7 +2585,7 @@ globulariaceae
 glottis
 geodete
 gemmification
-gunpapers
+gunpapers 1
 gyrohorizon
 greillade
 glaucine
