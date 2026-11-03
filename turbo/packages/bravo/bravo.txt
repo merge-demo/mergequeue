@@ -1323,7 +1323,7 @@ balearian
 beltings
 binational
 balanta
-bescorn
+bescorn 1
 bisymmetry
 bottine
 balantidic

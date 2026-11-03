@@ -9338,7 +9338,7 @@ eurythmic
 endosiphon
 encrusted
 erugos
-escapage
+escapage 1
 eruptible
 eruption
 eruptional
