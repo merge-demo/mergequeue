@@ -10552,7 +10552,7 @@ disequilibrium
 duteously
 discoblastula
 dignifiedness
-deafens
+deafens 1
 dafla
 diploe
 disbalancement
