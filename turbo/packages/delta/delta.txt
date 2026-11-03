@@ -12545,7 +12545,7 @@ dorsoventral
 disinsure 1
 dotonidae
 donk
-diamonding
+diamonding 1
 daffed
 disintegrated
 dipterological
