@@ -11624,7 +11624,7 @@ fragilely
 fermata
 fustics
 feinschmecker
-fussbudget
+fussbudget 1
 facsimile
 fortissimi
 farci
