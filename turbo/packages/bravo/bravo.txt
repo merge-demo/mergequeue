@@ -18412,4 +18412,4 @@ banned
 bloodwort
 bxs
 bached
-bewest
+bewest 1
