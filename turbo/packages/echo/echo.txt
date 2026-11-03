@@ -8756,7 +8756,7 @@ extrusive
 emmergoose
 evitate
 entombing
-extrovertedness
+extrovertedness 1
 embryotrophic
 equivelocity
 exuberated
