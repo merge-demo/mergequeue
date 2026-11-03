@@ -9905,7 +9905,7 @@ chemosurgery
 chemotactic
 cresylene
 choochoo
-chemotaxy
+chemotaxy 1
 cyclohexyl
 collocatory
 chemotaxonomy
