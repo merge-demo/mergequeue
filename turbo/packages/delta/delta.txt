@@ -6953,7 +6953,7 @@ dioptases
 dicaryon
 discouragedly
 dysuric
-despisable
+despisable 1
 draggles
 dispatcher
 despisableness
