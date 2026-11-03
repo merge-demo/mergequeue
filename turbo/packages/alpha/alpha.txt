@@ -8539,7 +8539,7 @@ astronautics
 actinotrocha
 atabal
 antichurchian
-aborts
+aborts 1
 aphthae
 anabolin
 acheilia
