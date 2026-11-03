@@ -8525,7 +8525,7 @@ flapped
 foreanswer
 forehatchway
 flusterate
-figs
+figs 1
 fumaroles
 fortification
 flatweed
