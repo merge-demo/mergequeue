@@ -9024,7 +9024,7 @@ dicots
 dicoumarin
 disembed
 depravate
-deaconhood
+deaconhood 1
 dermatoplast
 dicoumarol
 distantness
