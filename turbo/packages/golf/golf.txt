@@ -5555,7 +5555,7 @@ gourd
 glutition
 gaminish
 gemutlichkeit
-gorses
+gorses 1
 ganophyllite
 graysbies
 grammel

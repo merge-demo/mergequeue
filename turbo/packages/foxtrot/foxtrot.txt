@@ -5628,7 +5628,7 @@ funicular
 faddiest
 flightier
 foster
-foetor
+foetor 1
 fernery
 forepassed
 fireboot 1
