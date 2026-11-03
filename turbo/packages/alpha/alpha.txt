@@ -1266,7 +1266,7 @@ aerognosy
 australopithecine
 ails
 antifoggant
-antitropic
+antitropic 1
 acarpelous
 augitic
 antisceptic
