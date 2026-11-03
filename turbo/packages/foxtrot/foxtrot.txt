@@ -1445,7 +1445,7 @@ fanwork
 fall
 fiddled
 funis
-fattishness
+fattishness 1
 fother
 frimitts
 freewheel
