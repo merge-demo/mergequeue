@@ -11792,7 +11792,7 @@ erraticness
 exasperatingly
 exauctorate
 empoisoned
-epiphytous
+epiphytous 1
 enrolment
 elaphrium
 elegits
