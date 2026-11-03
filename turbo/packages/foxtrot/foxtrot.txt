@@ -2586,7 +2586,7 @@ flongs
 ferrocyanate
 ferroelectric
 fingerbreadth
-fattier
+fattier 1
 forcet
 franked
 foud
