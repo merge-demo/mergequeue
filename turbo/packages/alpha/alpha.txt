@@ -23463,7 +23463,7 @@ antidictionary
 apomict
 augend
 adversity
-antiantidote
+antiantidote 1
 aquiform
 antihygienically
 arsenillo
