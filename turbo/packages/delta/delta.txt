@@ -11739,7 +11739,7 @@ decaudation
 demasts
 discrepated
 dioptometry
-diskless
+diskless 1
 discrepation
 dullardism
 dehydrogenize
