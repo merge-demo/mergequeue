@@ -3470,7 +3470,7 @@ befogged
 barkpeeler
 boobook
 bolloxed
-batable
+batable 1
 bespatter
 bernicia
 bracket
