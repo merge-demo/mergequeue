@@ -13556,7 +13556,7 @@ amoebida
 amputated
 annotative
 amaurotic
-accuses
+accuses 1
 alembics
 ablate
 apply
