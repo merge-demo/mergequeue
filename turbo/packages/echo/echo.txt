@@ -10604,7 +10604,7 @@ ergatandry
 electroendosmose
 excavationist
 electrotherapies
-enteral
+enteral 1
 endorse
 eucritic
 eudaemon
