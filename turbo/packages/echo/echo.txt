@@ -12244,7 +12244,7 @@ expiate
 entrochus
 efflorescency
 enteromegaly
-els
+els 1
 everduring
 exemplarism
 exempli

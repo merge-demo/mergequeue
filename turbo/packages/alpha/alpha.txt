@@ -13573,7 +13573,7 @@ atwain
 allo
 announce
 anthropophagical
-announced
+announced 1
 agronomial
 astrophyllite 1
 announcing
