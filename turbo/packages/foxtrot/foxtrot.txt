@@ -4977,7 +4977,7 @@ fact
 forestcraft
 fringiest
 focused
-frappeed
+frappeed 1
 flyswatter
 flibbertigibbety
 figbird
