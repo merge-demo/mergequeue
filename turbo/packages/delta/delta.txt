@@ -4976,7 +4976,7 @@ demotists
 duncedom
 deportee
 dragontail
-dephosphorize
+dephosphorize 1
 draggled
 diamb
 demountable
