@@ -22791,7 +22791,7 @@ clambering
 conscriptions
 characterological
 cismarine
-consecrate
+consecrate 1
 consecrater
 chieftess
 contramarque
