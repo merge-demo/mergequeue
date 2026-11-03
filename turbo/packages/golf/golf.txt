@@ -3621,7 +3621,7 @@ gogos
 genevieve
 ghees
 gladen
-glottalite
+glottalite 1
 guanylic
 granilla
 goglets
