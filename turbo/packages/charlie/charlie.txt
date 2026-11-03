@@ -31342,7 +31342,7 @@ curfew
 curfewed
 curiality
 clerete
-curfews
+curfews 1
 concordats
 curfs
 colophany
