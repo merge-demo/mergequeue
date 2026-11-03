@@ -8935,7 +8935,7 @@ flywort
 fiacre
 footle
 feldspath
-feverwort
+feverwort 1
 filament
 favositoid
 forehammer
