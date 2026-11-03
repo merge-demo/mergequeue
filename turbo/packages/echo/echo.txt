@@ -11291,7 +11291,7 @@ excoriator
 earthbred
 ensate
 eir
-ecurie
+ecurie 1
 equisurface
 enrank
 entirety
