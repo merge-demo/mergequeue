@@ -10443,7 +10443,7 @@ dogberrydom
 dewiest
 deda
 dotty
-diphtheric
+diphtheric 1
 denticeti
 disarraying
 dourly
