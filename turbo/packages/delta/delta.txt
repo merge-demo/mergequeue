@@ -8044,7 +8044,7 @@ devilment
 defeasible
 daftardar
 dhobie
-dervishhood
+dervishhood 1
 densher
 dealcoholist 1
 diaclase
