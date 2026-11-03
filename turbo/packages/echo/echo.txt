@@ -2487,7 +2487,7 @@ eluviate
 entrefer
 elaeometer
 ecosphere
-epicanthic
+epicanthic 1
 exterminative
 electrokinetics
 elasticum

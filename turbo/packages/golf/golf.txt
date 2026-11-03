@@ -549,7 +549,7 @@ gilravager
 gudgeoning
 gup
 geotropic
-galleryite
+galleryite 1
 gravidness
 garde
 goolah
