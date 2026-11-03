@@ -6228,7 +6228,7 @@ ferrimagnetic
 ferryway
 folden
 fractionating
-fluffiness
+fluffiness 1
 flexography
 foreuse
 flugel
