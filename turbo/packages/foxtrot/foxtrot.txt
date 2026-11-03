@@ -8419,7 +8419,7 @@ fades
 formalist
 fallibilist
 foreboded
-floweriness
+floweriness 1
 forpine
 freethink
 fictitiously
