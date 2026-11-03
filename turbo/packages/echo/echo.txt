@@ -13164,7 +13164,7 @@ expertness
 equiconvex
 erythea
 erotisms
-enfeature
+enfeature 1
 episcotister
 excubitorium
 entailment
