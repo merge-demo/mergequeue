@@ -8191,7 +8191,7 @@ diadelphous
 diadema
 depart
 diaderm
-decolletage
+decolletage 1
 diadic
 disabusing
 demurrer
