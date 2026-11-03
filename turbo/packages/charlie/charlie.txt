@@ -10783,7 +10783,7 @@ constricts
 cleverality
 concameration
 carabaos
-chalkcutter
+chalkcutter 1
 chorisos
 castigatories
 cheeter
