@@ -6878,7 +6878,7 @@ finance
 failing
 frustratingly
 flaggings
-forjudges
+forjudges 1
 figurist
 feline
 feretrum
