@@ -9413,7 +9413,7 @@ glissandi
 gymel
 glycerolize
 grottoes
-gelatose
+gelatose 1
 grandeeism
 gaywings
 geryonidae
