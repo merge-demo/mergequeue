@@ -11140,7 +11140,7 @@ eadi 1
 evacuated
 endeavored
 elephantic
-evulse
+evulse 1
 entropionize
 entocarotid
 egocerus
