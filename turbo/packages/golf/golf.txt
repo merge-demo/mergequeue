@@ -1777,7 +1777,7 @@ gastrotomic
 gregarinida
 gulsach
 glycine
-gastrocolostomy
+gastrocolostomy 1
 geodesia
 gastrovascular
 goala
