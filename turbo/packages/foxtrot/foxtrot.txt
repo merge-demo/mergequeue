@@ -1061,7 +1061,7 @@ foraging
 fastigiately
 forensically
 fixedness
-faro
+faro 1
 fluoridization
 floriken
 floter
