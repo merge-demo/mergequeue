@@ -1748,7 +1748,7 @@ belorussian
 baronial
 baloskion
 bulbels
-bv
+bv 1
 billeter
 brownistical 1
 baladine
