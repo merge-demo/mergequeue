@@ -5212,7 +5212,7 @@ groundsheet
 gale
 gleed 1
 greasiness
-gramophone
+gramophone 1
 germinant
 glyptologist
 goldarnedest
