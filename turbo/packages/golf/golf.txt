@@ -9555,7 +9555,7 @@ glycans
 glume
 groved
 gaulter
-gur
+gur 1
 gridiron
 gouaree
 giustina
