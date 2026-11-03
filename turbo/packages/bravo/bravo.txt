@@ -14898,7 +14898,7 @@ breakfast
 buffetings
 bastard
 breakfronts 1
-beavers
+beavers 1
 butlerage
 breaking
 barkeep
