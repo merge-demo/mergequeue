@@ -15229,7 +15229,7 @@ battened
 brickbat
 buttonholed
 blackstrap
-bombyx
+bombyx 1
 borish
 bemajesty
 branchiosauria
