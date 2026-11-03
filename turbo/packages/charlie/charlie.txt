@@ -12886,7 +12886,7 @@ churrus
 cooeeing
 copiers
 clavus
-colorblindness
+colorblindness 1
 carroming
 cucullus
 clodpolls
