@@ -10806,7 +10806,7 @@ fuchsian
 footsteps
 fructificative
 floundered
-faintful
+faintful 1
 fuchsine
 furmint
 flustra
