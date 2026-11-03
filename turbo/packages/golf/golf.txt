@@ -10202,7 +10202,7 @@ gtd
 giustamente
 gingko
 gargles
-getspa
+getspa 1
 guyers
 gobet
 grindstone
