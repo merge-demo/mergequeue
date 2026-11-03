@@ -7748,7 +7748,7 @@ edelweisses
 ethinamate
 empasma
 eggshells
-executable
+executable 1
 engraff
 ecce
 eyebree
