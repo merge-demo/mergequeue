@@ -270,7 +270,7 @@ enqueue
 enantioblastic
 epupillate
 endognath
-ectocuniform
+ectocuniform 1
 enounces
 esquired
 ephebeia
