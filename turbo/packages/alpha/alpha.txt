@@ -2881,7 +2881,7 @@ achromatin
 amygdales
 abbogada
 acrophonic
-astrol
+astrol 1
 aubrite
 antiendowment
 acropoleis
