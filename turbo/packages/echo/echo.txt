@@ -9518,7 +9518,7 @@ emballonuridae
 exorcisers
 electromotivity
 eruptives
-eternalness
+eternalness 1
 escrow 1
 escrowing
 emancipatist
