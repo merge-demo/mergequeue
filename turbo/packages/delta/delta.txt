@@ -3847,7 +3847,7 @@ degraduation
 dopatta
 delighting
 deposer
-decastyle
+decastyle 1
 dephlegm
 distruss
 diomedeidae
