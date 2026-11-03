@@ -8687,7 +8687,7 @@ gateado
 gritty
 gres 1
 gatch
-gymnosoph
+gymnosoph 1
 garlands
 galerum
 gawkishly
