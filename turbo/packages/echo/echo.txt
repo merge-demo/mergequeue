@@ -5525,7 +5525,7 @@ epilimnetic
 euhemerizing
 etherlike
 exestuate
-exhaustedly
+exhaustedly 1
 ethions
 epiglottal
 endosomes
