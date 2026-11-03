@@ -12942,7 +12942,7 @@ examines
 enfeeble
 evacuative
 erythrol
-expectantly
+expectantly 1
 expectation
 emictory
 exclusion
