@@ -2421,7 +2421,7 @@ gimels
 grillage
 gemmulation
 graniferous
-gustativeness
+gustativeness 1
 glycohemia
 gainsayer
 ghoulish
