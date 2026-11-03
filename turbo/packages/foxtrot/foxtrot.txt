@@ -6384,7 +6384,7 @@ fluvio
 fluoresceine
 factionism
 fashionability
-fimbriatum
+fimbriatum 1
 fragrantness
 floreal
 funiliform
