@@ -10352,7 +10352,7 @@ diasystem
 dyewood
 debutantes
 dagga
-deoccidentalize
+deoccidentalize 1
 dioxan
 drabbing
 dfault
