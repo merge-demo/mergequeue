@@ -8734,7 +8734,7 @@ allergin
 allergists
 allerion
 adsmith
-assurable
+assurable 1
 alliaceae
 annuities
 alleve
