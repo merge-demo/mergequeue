@@ -7507,7 +7507,7 @@ escarteled
 ephedras
 epiboulangerite
 episomes
-efficacity
+efficacity 1
 efficience
 entelechial
 epidermically
