@@ -4943,7 +4943,7 @@ gamines
 gladioluses
 ginney
 groundwards
-glamors
+glamors 1
 geldable
 granddada
 granita

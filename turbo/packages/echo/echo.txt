@@ -2099,7 +2099,7 @@ ebullioscope
 emulge
 excretory
 extrapolator
-effuse
+effuse 1
 elastically
 eurycephalous
 exudes
