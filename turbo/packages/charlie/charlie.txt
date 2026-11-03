@@ -6974,7 +6974,7 @@ caresser
 cenotes
 ceremonially
 cuerda
-counterimitation
+counterimitation 1
 censitaire
 champion
 curiosity
