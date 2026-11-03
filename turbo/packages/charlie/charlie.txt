@@ -6537,7 +6537,7 @@ cavitary
 closeup
 cystophthisis
 cauliculi
-cavitated
+cavitated 1
 consulter
 changefulness
 cavity
