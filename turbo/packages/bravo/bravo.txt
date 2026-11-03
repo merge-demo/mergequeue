@@ -12472,7 +12472,7 @@ bonify
 bruscha
 bdls
 burnewin
-betaines
+betaines 1
 brimborion
 burntness
 bather
