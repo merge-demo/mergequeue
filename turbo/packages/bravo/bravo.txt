@@ -16798,7 +16798,7 @@ brandisher
 bethunder
 buddie
 boswell
-batteuse
+batteuse 1
 buddleia
 bunkhouses
 blockhole
