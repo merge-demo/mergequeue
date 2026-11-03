@@ -6637,7 +6637,7 @@ enterology 1
 epactal
 enterologic
 epanastrophe
-ergophile
+ergophile 1
 ethionamide
 exhaled
 enteromegalia
