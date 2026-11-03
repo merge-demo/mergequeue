@@ -1977,7 +1977,7 @@ glamourous
 gaussage 1
 gaskings
 girth
-gageite
+gageite 1
 gonadotrope
 granville
 glyconian
