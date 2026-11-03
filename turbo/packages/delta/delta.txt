@@ -8189,7 +8189,7 @@ diacromyodi
 deemphasizing
 diadelphous
 diadema
-depart
+depart 1
 diaderm
 decolletage
 diadic
