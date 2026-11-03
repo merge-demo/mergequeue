@@ -11426,7 +11426,7 @@ expdt
 estuarine
 elided
 evetide
-extirpating
+extirpating 1
 encipherment
 elucidation
 emasculated
