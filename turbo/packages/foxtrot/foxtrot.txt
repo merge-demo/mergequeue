@@ -561,7 +561,7 @@ filicites
 froggy
 fatstock
 falters
-fronts
+fronts 1
 formamidoxime
 foresays
 flosculose
