@@ -15248,7 +15248,7 @@ dolcian
 dieses
 damnonii
 dassies
-dix
+dix 1
 drawoff
 dealbuminize
 dissectible
