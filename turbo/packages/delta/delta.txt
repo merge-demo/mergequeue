@@ -5935,7 +5935,7 @@ dool
 deprivable
 degrader
 dyslogy
-dyeable
+dyeable 1
 departements
 dampener
 dimethylnitrosamine
