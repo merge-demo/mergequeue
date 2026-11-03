@@ -22011,7 +22011,7 @@ aniseroot
 argentometrically
 achromatizable
 assumes
-apothesis
+apothesis 1
 antiperiodic
 act
 assuming

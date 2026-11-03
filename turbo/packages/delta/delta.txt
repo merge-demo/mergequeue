@@ -14868,7 +14868,7 @@ deglute
 doand
 dodder
 differingly
-dormancy
+dormancy 1
 dodderers
 dago
 doddie
