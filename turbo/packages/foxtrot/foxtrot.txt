@@ -4436,7 +4436,7 @@ fishily
 fatigues
 fauna
 farinaceously
-fishiness
+fishiness 1
 fraxin
 fluigramme
 frogwort
