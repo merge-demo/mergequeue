@@ -10251,7 +10251,7 @@ aquariist
 amebobacter
 analgesidae
 ameboid
-ameboidism
+ameboidism 1
 amedeo
 arytenoid
 ameed
