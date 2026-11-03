@@ -2844,7 +2844,7 @@ gustfulness
 geol
 guilefulness
 ganglionic
-gyrate
+gyrate 1
 gustavus
 guardsman
 gipser
