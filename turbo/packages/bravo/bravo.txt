@@ -10764,7 +10764,7 @@ beringed
 bleo
 befuddlers
 bywords
-butterroot
+butterroot 1
 befrill
 blepharadenitis
 blepharanthracosis
