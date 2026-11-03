@@ -8049,7 +8049,7 @@ fluidisation
 frustrate
 flammably
 formentation
-facetting
+facetting 1
 folial
 forestful
 fellable
