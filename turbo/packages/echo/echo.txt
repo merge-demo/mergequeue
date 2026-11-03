@@ -12033,7 +12033,7 @@ extrication
 excoriated
 everwho
 electroanalysis
-excoriating
+excoriating 1
 egestions
 eltrot
 enlivenment
