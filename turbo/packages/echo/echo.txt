@@ -6844,7 +6844,7 @@ exults
 epidermoidal
 educability
 entomologist
-entomologize
+entomologize 1
 entrap
 entomologized
 enstatolite
