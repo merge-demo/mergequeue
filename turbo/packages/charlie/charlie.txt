@@ -2697,7 +2697,7 @@ cankerbird
 chaperone
 carriable
 cankereat
-cankered
+cankered 1
 codders
 cephalosporium
 cording 1
