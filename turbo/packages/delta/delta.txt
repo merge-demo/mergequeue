@@ -15290,7 +15290,7 @@ dirling
 diospyros
 dolphinfish
 dolphinlike
-decadescent
+decadescent 1
 dolphins
 discountenance
 diagnostics
