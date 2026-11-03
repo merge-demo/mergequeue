@@ -8882,7 +8882,7 @@ gyrosyn
 guardfully
 greylag
 groundout
-gyrated
+gyrated 1
 gynandromorphy
 gyte
 girouettism
