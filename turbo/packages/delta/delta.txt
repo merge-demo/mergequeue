@@ -13658,7 +13658,7 @@ dolce
 def
 dissimilars
 dentaries
-dequantitate
+dequantitate 1
 diedral
 dissimilate
 depletion
