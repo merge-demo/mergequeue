@@ -763,7 +763,7 @@ groupings
 gladsomer
 gire
 gawkily
-gorget
+gorget 1
 geometrically 1
 graywether
 glome
