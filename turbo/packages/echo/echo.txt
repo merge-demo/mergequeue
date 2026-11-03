@@ -9795,7 +9795,7 @@ essorant
 echiuroidea
 endarterial
 engrave
-expenthesis
+expenthesis 1
 electroplate
 estable
 enchalice
