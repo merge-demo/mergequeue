@@ -3874,7 +3874,7 @@ eschatocol
 exotheca
 emigrating
 excogitating
-enflagellate
+enflagellate 1
 epidotic
 enfeebled
 eclipsis
