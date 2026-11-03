@@ -11567,7 +11567,7 @@ asparagyl
 albification
 anabibazon
 autochthons
-anabiotic
+anabiotic 1
 autosauria
 antihypertensive
 androdioecism
