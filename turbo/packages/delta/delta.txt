@@ -14216,7 +14216,7 @@ doublet 1
 destroyable
 disvisor
 dungs
-dynamoelectric
+dynamoelectric 1
 donatism
 depopulated
 dangerous
