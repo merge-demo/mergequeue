@@ -17062,7 +17062,7 @@ albus
 ascitic
 auriscalp
 apocynthion
-auriculoparietal
+auriculoparietal 1
 apocynthions
 apocyte
 apocopate
