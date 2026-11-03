@@ -5870,7 +5870,7 @@ blackman
 begaudy
 basified
 bellweed
-beggardom
+beggardom 1
 bretons
 butterbur
 bellwether
