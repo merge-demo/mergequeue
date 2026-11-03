@@ -5357,7 +5357,7 @@ egers
 emeroid
 elateridae
 encorbellment
-elamitic
+elamitic 1
 extuberant
 erstwhiles
 epicurishly
