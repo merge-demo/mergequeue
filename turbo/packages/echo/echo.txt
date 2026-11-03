@@ -12386,7 +12386,7 @@ epistyle
 erythrocytometry
 experient
 eyer
-elocutioner
+elocutioner 1
 ergometer
 extinctions
 effude
