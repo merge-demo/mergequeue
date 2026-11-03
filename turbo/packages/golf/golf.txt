@@ -6660,7 +6660,7 @@ geotectonics
 gonidangium
 guttula
 graver 1
-gonepoiesis
+gonepoiesis 1
 gingivectomy
 gash
 grandioso
