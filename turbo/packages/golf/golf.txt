@@ -7715,7 +7715,7 @@ glade
 geopolitic
 girning
 geolatry
-galvanized
+galvanized 1
 gunpowderous
 gauzy
 globus
