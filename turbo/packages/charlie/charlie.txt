@@ -9349,7 +9349,7 @@ chauvin
 close
 catery
 coelacanth
-chauvinism
+chauvinism 1
 chauvinist
 chauvinistic
 cumbrance
