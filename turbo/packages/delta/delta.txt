@@ -3769,7 +3769,7 @@ disimbitter
 deia
 deadpanner
 dyostyle
-dor
+dor 1
 dwale
 drillable
 dynamites
