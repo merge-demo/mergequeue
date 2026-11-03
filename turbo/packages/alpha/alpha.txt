@@ -20695,7 +20695,7 @@ afghani
 aspirates
 acanthial
 aulostomid
-anywise
+anywise 1
 amphorous
 arefy
 acetometer
