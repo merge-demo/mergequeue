@@ -2593,7 +2593,7 @@ antilift
 acidophilus
 acquisible
 aggeration
-acquaintanceships
+acquaintanceships 1
 asymmetrocarpous
 archbishop
 aspiratory
