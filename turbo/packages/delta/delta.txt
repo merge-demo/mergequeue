@@ -2501,7 +2501,7 @@ declaimer
 dilaters
 dahlin
 declamatory
-dateable
+dateable 1
 decibar
 dendrochronology
 drysaltery
