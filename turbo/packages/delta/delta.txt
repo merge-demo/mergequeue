@@ -8852,7 +8852,7 @@ dibothriocephalus
 daughterless
 dibranch
 duftery
-defiguration
+defiguration 1
 dozinesses
 draglines
 dovens
