@@ -10156,7 +10156,7 @@ bosker
 blackfigured
 biochemical
 breechcloth
-bas
+bas 1
 banak
 biddie
 bloodfins
