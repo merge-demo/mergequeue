@@ -3596,7 +3596,7 @@ cappy
 colorist
 chauri
 carabine
-carabiner
+carabiner 1
 carabineros
 centrospermae
 claik
