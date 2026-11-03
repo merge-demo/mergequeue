@@ -5024,7 +5024,7 @@ appease
 assumptions
 abnormalist
 awaft
-accentuable
+accentuable 1
 avigate
 abv
 aerophysics
