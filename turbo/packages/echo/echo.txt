@@ -3211,7 +3211,7 @@ elt
 elaters
 engendure
 eluating
-enambush
+enambush 1
 esotery
 extraschool
 eluctate
