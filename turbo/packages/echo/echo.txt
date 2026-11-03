@@ -3812,7 +3812,7 @@ exla
 emparl
 extolled
 engrain
-expletory
+expletory 1
 emended
 ecu
 emending
