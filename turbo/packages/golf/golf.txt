@@ -2566,7 +2566,7 @@ gargling
 gametogeny
 globiferous
 generant
-generate
+generate 1
 guitars
 gypsiferous
 gazetteerage
