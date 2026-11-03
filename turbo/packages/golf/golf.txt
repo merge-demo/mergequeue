@@ -1942,7 +1942,7 @@ gaunch
 gangers
 gruelly
 gledes
-gypsite
+gypsite 1
 genealogically
 greywacke
 glairs
