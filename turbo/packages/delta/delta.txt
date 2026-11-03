@@ -4714,7 +4714,7 @@ demivirgin
 demivol
 deutencephalic
 dendrolene
-deflexionize
+deflexionize 1
 disputatively
 datatypes
 dunt
