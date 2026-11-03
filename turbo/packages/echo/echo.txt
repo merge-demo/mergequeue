@@ -3340,7 +3340,7 @@ entitative
 eyry
 eulogic
 expresses
-environed
+environed 1
 elegies
 encheer
 ermit
