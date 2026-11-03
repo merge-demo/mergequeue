@@ -19137,7 +19137,7 @@ collocative
 collock
 cowfish
 compartmentalizes
-cogitations
+cogitations 1
 collodion
 collodionization
 collogen
