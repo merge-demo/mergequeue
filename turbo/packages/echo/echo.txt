@@ -1316,7 +1316,7 @@ effectors
 effectress
 encapsulate
 elengeness
-exterior
+exterior 1
 effects
 enlarge
 edified
