@@ -5606,7 +5606,7 @@ catalo
 cataloes
 cataloged
 character
-cariousness
+cariousness 1
 centi
 crochet
 catalogia
