@@ -6293,7 +6293,7 @@ embrocation
 ejusd 1
 enrolls 1
 eumycetes
-equijacent
+equijacent 1
 embowed
 enrut
 explainability
