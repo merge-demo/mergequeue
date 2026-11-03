@@ -5920,7 +5920,7 @@ ablute
 agglutinative
 adamantine
 aarrghh
-agamobium
+agamobium 1
 agglutinize
 anathematization
 alibamu
