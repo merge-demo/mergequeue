@@ -4842,7 +4842,7 @@ gladfulness
 goombay
 galaxian
 geck
-glaiks
+glaiks 1
 glaciates
 gladiator
 grabbiest
