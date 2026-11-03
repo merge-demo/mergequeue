@@ -24401,7 +24401,7 @@ airplaning
 antiquarianism
 anthracometer
 ambushing
-autosyn
+autosyn 1
 alluded
 auksinai
 autosyndesis
