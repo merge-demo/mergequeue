@@ -15917,7 +15917,7 @@ clencher
 contravariant
 clenchers
 clarshech
-clenches
+clenches 1
 cleoid
 cleomes
 chimbs
