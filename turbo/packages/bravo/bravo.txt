@@ -10939,7 +10939,7 @@ brooms
 beadroll
 blinker
 balancewise
-bitterful
+bitterful 1
 bovld
 barretors
 blowhards
