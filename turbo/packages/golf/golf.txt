@@ -5543,7 +5543,7 @@ germinally
 gangplanks
 glycidol
 gorsier
-gowning
+gowning 1
 gad
 gamecocks
 guardlike
