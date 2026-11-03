@@ -1912,7 +1912,7 @@ fraidycat
 flybrush
 fingerflower
 fontanelle
-fustilarian
+fustilarian 1
 frouze
 foism 1
 fruitless
