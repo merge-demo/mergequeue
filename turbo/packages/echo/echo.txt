@@ -4482,7 +4482,7 @@ executively
 emulators
 embryophyta
 encephalographic
-ekphorize
+ekphorize 1
 esiphonal
 elinguate
 episematic
