@@ -3363,7 +3363,7 @@ esquirearchy
 enregistration
 egal
 excursioner
-envelopes
+envelopes 1
 encyclopaedial
 embannered
 emetine
