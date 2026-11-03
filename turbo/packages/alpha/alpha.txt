@@ -17801,7 +17801,7 @@ asphyxiate
 avoke
 antipole
 arthrosclerosis
-astrier
+astrier 1
 anchoring
 appals
 afterhours
