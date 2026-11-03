@@ -281,7 +281,7 @@ grenada
 glauconiferous
 gifblaar
 groser
-gigavolt
+gigavolt 1
 gummata
 galiongee
 gainliness
