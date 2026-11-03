@@ -15839,7 +15839,7 @@ abiogenist
 alloisomeric
 antiphrases
 antiphthisic
-amberiferous
+amberiferous 1
 antiepileptic 1
 atonements
 anagogical
