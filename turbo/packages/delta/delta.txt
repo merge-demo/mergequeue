@@ -5926,7 +5926,7 @@ deaconate
 disentraced
 defeatee
 depreter
-depriment
+depriment 1
 deprint
 depriorize
 desmotropy
