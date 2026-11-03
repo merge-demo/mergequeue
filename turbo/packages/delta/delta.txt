@@ -637,7 +637,7 @@ dominick
 damnify
 dearth
 disoccupation
-decadence
+decadence 1
 debarration
 damnifies
 damningly
