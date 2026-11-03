@@ -27031,7 +27031,7 @@ counterplotter
 curatage
 conjure
 contoid
-chimneypot
+chimneypot 1
 counterpoints
 contestable
 chronical
