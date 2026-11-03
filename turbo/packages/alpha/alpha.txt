@@ -14454,7 +14454,7 @@ anthracosis
 abox
 anthracothere
 anthracotherium
-anthracotic
+anthracotic 1
 anthradiol
 anthraflavic
 aerographics
