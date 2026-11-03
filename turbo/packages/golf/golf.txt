@@ -8135,7 +8135,7 @@ gaspergous
 gynaeolater
 gulfed
 gloat
-glowflies
+glowflies 1
 granulators
 gynaecocracy
 guanidins
