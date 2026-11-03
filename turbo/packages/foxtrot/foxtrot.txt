@@ -5032,7 +5032,7 @@ fungoidal
 fellatios
 forepaw
 ferries
-foments
+foments 1
 fumatory
 forekeel
 faithbreaker
