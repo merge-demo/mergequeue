@@ -22580,7 +22580,7 @@ ateles
 antidromy
 abiston
 atelestite
-asemasia
+asemasia 1
 atelier
 archetypical
 affeeror
