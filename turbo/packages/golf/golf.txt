@@ -5991,7 +5991,7 @@ gluemaker
 globalize
 glutinative
 granuloadipose
-gingelies
+gingelies 1
 giftedness
 gradgrindism
 guaba
