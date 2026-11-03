@@ -27631,7 +27631,7 @@ chrobat
 cowardish
 cannibalistic
 chionophobia
-chuffiest
+chuffiest 1
 coverable
 coecum
 cowardly

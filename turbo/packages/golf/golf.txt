@@ -8548,7 +8548,7 @@ gravette
 gallicization
 glance
 gaufrette
-garni
+garni 1
 grasscutter
 goniatitidae
 gametophyte
