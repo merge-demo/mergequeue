@@ -10735,7 +10735,7 @@ fascistize
 filagree 1
 fringelike
 faenus
-flam
+flam 1
 flotsams
 fideisms
 frumps
