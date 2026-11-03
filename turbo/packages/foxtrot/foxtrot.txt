@@ -4833,7 +4833,7 @@ fumish
 flume
 fracticipita
 faunus
-fish
+fish 1
 fishberries
 flinthead
 fleay
