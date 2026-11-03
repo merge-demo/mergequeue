@@ -23855,7 +23855,7 @@ autarch
 alispheno
 ataraxy
 atalantis
-amices
+amices 1
 autoerotic
 achromatopsy
 ascanian
