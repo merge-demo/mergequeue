@@ -4085,7 +4085,7 @@ flushable
 fluking
 follying
 frijoles
-frontage
+frontage 1
 fondish
 fanaticised
 fusibly
