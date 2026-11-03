@@ -232,7 +232,7 @@ anhungered
 antiritual
 antisensitizer
 allokinesis 1
-alchemistical
+alchemistical 1
 adipolytic
 ajourise
 aeroliths
