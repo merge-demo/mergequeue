@@ -29235,7 +29235,7 @@ characetum
 capybara
 cryptanalyzing
 cryptarch
-cryptarchy
+cryptarchy 1
 caracols
 crypteroniaceae
 cryptical
