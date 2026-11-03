@@ -12105,7 +12105,7 @@ chrysalida
 cascarilla
 cheloniidae
 chrysaline
-chrysalis
+chrysalis 1
 chrysalises
 cardiaplegia
 chrysaloid
