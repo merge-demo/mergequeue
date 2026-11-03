@@ -1192,7 +1192,7 @@ guejarite
 gutturalize
 galipine
 guestless
-gaplessness
+gaplessness 1
 granulocytopoiesis
 greenfishes
 gastroatrophia
