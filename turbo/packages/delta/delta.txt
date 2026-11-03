@@ -7642,7 +7642,7 @@ developer
 diswarn
 developing
 didelphis
-developmentally
+developmentally 1
 decompressions
 decolouring
 disavowment
