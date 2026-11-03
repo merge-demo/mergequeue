@@ -7934,7 +7934,7 @@ emitter
 exudates
 exordia
 epimandibular
-enthrone
+enthrone 1
 epimanikia
 equivocatory 1
 estragol
