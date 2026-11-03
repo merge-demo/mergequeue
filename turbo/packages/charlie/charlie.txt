@@ -27994,7 +27994,7 @@ cottoner
 craftworker
 crag
 craggan
-captress
+captress 1
 craggy
 chromoscopic
 cataphylla
