@@ -9115,7 +9115,7 @@ allumette
 acipenser
 alsweill
 animastic
-asterolepis
+asterolepis 1
 afternight
 allurement
 aerosat
