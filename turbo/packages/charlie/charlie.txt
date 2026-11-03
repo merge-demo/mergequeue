@@ -28386,7 +28386,7 @@ crawlier
 crawliest
 crawlspace
 cliented
-cannibalistically
+cannibalistically 1
 chiave
 crawm
 cartridge
