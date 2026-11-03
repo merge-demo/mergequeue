@@ -16593,7 +16593,7 @@ dispromise
 dragonesque
 daphnis
 dorados
-deregulatory
+deregulatory 1
 distr
 dragonfishes
 dragonflies
