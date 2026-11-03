@@ -5504,7 +5504,7 @@ formes
 feculae
 friezy
 fiduciarily
-fasts
+fasts 1
 forehear
 fiant
 friseurs
