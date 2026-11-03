@@ -4259,7 +4259,7 @@ earjewel
 encephaloscopy
 emulsions
 erythrocytes
-equidistantial
+equidistantial 1
 effluxes
 emphasise
 extoller
