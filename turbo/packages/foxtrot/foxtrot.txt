@@ -9210,7 +9210,7 @@ fusing
 fragments
 foresighted 1
 fishbed
-friarly
+friarly 1
 foraneous
 facts
 frostfishes
