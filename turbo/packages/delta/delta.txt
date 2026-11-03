@@ -11768,7 +11768,7 @@ diplococcoid
 dollarleaf
 delabialize
 demot
-dosserets
+dosserets 1
 deinodon
 discriminating
 dacryuria
