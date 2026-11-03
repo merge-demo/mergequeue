@@ -9043,7 +9043,7 @@ ghent
 gneissose
 geog
 gobletful
-gnathophorous
+gnathophorous 1
 gymnure
 gastropore
 gallbladders
