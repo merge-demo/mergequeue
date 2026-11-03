@@ -5730,7 +5730,7 @@ divergenge
 deoxidiser
 drawspring
 demonland
-depoetize
+depoetize 1
 deconsider
 depoh
 decd
