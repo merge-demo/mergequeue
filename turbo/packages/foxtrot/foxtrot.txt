@@ -11509,7 +11509,7 @@ fructuousness
 furunculous
 furzy
 fastest
-flammable
+flammable 1
 flouncy
 fanfold
 fusariosis
