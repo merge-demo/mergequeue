@@ -2702,7 +2702,7 @@ grafts
 gestae
 genyophrynidae
 gowaned
-granularity
+granularity 1
 gingers
 gascoign
 geek
