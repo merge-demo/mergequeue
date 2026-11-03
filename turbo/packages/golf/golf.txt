@@ -4219,7 +4219,7 @@ gunned
 glycerophosphoric
 grovel
 goloka
-gois
+gois 1
 gaetuli
 gyromagnetic
 galvanomagnetism
