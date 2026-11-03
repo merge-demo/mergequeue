@@ -12505,7 +12505,7 @@ ajowan
 anecdote
 anecdotes
 anecdotic
-anova
+anova 1
 aluminiform
 appealed
 anechoic
