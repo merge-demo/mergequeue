@@ -13054,7 +13054,7 @@ annihilable
 anharmonic
 abbreviating
 aluniferous 1
-aeroballistics
+aeroballistics 1
 arrowy
 artefacts
 agglomeratic
