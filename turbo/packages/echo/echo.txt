@@ -6765,7 +6765,7 @@ ethologic
 encashed
 evading
 entiris
-exasperate
+exasperate 1
 embryoniform
 entitatively
 enamor
