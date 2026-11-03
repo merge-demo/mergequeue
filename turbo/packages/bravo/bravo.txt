@@ -8801,7 +8801,7 @@ banalities
 battery
 bedrivels
 bummalos
-bakelize
+bakelize 1
 briary
 barfed
 benzol
