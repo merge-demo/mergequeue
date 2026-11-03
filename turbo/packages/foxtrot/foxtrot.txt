@@ -7441,7 +7441,7 @@ firstship
 forcibility 1
 forcibleness
 futurologist
-furnacite
+furnacite 1
 fishgarth
 francophone
 freckliest
