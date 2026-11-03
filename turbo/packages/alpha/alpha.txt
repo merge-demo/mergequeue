@@ -17797,7 +17797,7 @@ applosive
 ataxia
 antiguan
 azoxybenzene
-asphyxiate
+asphyxiate 1
 avoke
 antipole
 arthrosclerosis
