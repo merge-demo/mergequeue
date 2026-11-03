@@ -2744,7 +2744,7 @@ framing
 feedy
 fedity 1
 fascis
-fiercer
+fiercer 1
 fragmentarily
 fellinic
 felineness
