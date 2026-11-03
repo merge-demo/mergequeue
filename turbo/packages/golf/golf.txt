@@ -10189,7 +10189,7 @@ glaucium
 goalies
 gladiolar
 guids
-guidwife
+guidwife 1
 groundly
 geladas
 grimy 1
