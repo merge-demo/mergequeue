@@ -18267,7 +18267,7 @@ copper
 cacodemonize
 coffing
 claspt
-colpoplastic
+colpoplastic 1
 coffinless
 consoled
 chalcographer
