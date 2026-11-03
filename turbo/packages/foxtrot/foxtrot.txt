@@ -9909,7 +9909,7 @@ formalizes
 fungistatic
 fistfuls
 fade
-forehand
+forehand 1
 falconry
 forkbeard
 fleabane
