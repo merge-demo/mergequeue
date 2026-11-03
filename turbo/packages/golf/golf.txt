@@ -4192,7 +4192,7 @@ glotum
 greying
 ges
 gristbite
-geod
+geod 1
 gleesome
 ganef
 gulflike
