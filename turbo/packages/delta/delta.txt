@@ -5067,7 +5067,7 @@ denaturization
 desensitizers
 dendraspis
 doomwatcher
-daler
+daler 1
 dibbukim
 disilicide
 dendraxon
