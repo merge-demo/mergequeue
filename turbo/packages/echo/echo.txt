@@ -12970,7 +12970,7 @@ exposals
 emotion
 entice
 electrodeposition 1
-expectorant
+expectorant 1
 espiglerie
 expectorated
 echinococcus
