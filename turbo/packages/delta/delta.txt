@@ -1787,7 +1787,7 @@ dissociated
 dalradian
 debamboozle
 dinitril
-disimprison
+disimprison 1
 debarbarization
 dilation
 desmoscolex
