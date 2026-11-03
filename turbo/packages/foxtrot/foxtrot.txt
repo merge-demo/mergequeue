@@ -9175,7 +9175,7 @@ frija
 fixive
 fanaloka 1
 fruiterer
-fasciotomy
+fasciotomy 1
 finitudes
 feebleminded
 floaters
