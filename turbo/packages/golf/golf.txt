@@ -3594,7 +3594,7 @@ gyrochrome
 gnathobdellae
 gargil
 gaelicize
-galany
+galany 1
 guttiform
 gananciales
 gantries
