@@ -4021,7 +4021,7 @@ fabricated
 filmlike
 fadmongery
 flyball
-flounce
+flounce 1
 festin
 forehorse
 fluoaluminic
