@@ -10606,7 +10606,7 @@ gourmetism
 gillion
 glandaceous
 gowned
-goldenmouth
+goldenmouth 1
 goldsmith
 glossologist
 greenockite
