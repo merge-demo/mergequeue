@@ -7248,7 +7248,7 @@ eopalaeozoic
 egocentrically
 erysipelothrix
 eorhyolite
-extinguishable
+extinguishable 1
 eos
 earshot
 ectozoon
