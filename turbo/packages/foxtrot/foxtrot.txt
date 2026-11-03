@@ -9193,7 +9193,7 @@ fumously
 firebugs
 fertilising
 fascinatress
-freeborn
+freeborn 1
 fragmentariness
 forgab
 fragmentist
