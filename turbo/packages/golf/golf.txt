@@ -8177,7 +8177,7 @@ grab
 groomsmen
 grapeflower
 grapefruit
-goos
+goos 1
 gazers
 grapelike
 gazingstock
