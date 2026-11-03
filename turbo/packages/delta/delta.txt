@@ -2655,7 +2655,7 @@ delinquents 1
 decenniad
 decompensations
 dasylirion
-doorkeeper
+doorkeeper 1
 decompiler
 deviceful
 decomposer
