@@ -9849,7 +9849,7 @@ abumbral
 antigraph
 aloes
 amaranth
-anchylosing
+anchylosing 1
 amaranthaceae
 argonon
 acrobatically
