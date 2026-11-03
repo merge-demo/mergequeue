@@ -11240,7 +11240,7 @@ eyepoints
 electrochemist
 extracts
 entomologically
-episcopacy
+episcopacy 1
 endanger
 economies
 emblematical
