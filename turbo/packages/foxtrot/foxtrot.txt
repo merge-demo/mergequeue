@@ -9706,7 +9706,7 @@ frenchify
 fido
 freakful
 fremd
-fastigiated
+fastigiated 1
 frenchly
 fafaronade
 fissionability
