@@ -14071,7 +14071,7 @@ entablature
 epilobiaceae
 enfect
 effortfulness
-errantry
+errantry 1
 entoplastral
 epigastral
 embryoscopic
