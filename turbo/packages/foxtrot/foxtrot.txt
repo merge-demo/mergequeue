@@ -11419,7 +11419,7 @@ feasor
 flocculose
 furniture
 flummoxing
-frustrable
+frustrable 1
 footlicking
 flattop
 furl
