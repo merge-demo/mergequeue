@@ -4764,7 +4764,7 @@ exitance
 ethnolinguist
 ensnarements
 encoding
-effectivity
+effectivity 1
 embrocate
 ergasterion
 enbusshe
