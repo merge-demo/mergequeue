@@ -5117,7 +5117,7 @@ endocrines
 endocrinic
 existentialistic
 emergencies
-entogenous
+entogenous 1
 enteroptotic
 extrudability
 eisell
