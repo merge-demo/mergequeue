@@ -9446,7 +9446,7 @@ flexibly
 furnaceman
 fistful
 fulcrate
-furculum
+furculum 1
 fastwalk
 febricitant
 fidele
