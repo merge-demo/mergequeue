@@ -2016,7 +2016,7 @@ erythrosine
 epitrophy
 encurl
 exophasia
-emersion
+emersion 1
 etherish
 ethiopic
 examinational
