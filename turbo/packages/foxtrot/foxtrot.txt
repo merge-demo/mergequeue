@@ -4699,7 +4699,7 @@ fangs
 fummel
 furtherer
 flamboyancy
-fistlike
+fistlike 1
 fizgig
 fizgigs
 figaro
