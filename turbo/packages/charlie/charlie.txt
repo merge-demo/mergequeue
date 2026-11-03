@@ -26650,7 +26650,7 @@ coronobasilar
 counseled
 champagned
 counselee
-counsellable
+counsellable 1
 curer
 counsellor
 chilopodan
