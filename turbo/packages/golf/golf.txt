@@ -7714,7 +7714,7 @@ graduands
 glade
 geopolitic
 girning
-geolatry
+geolatry 1
 galvanized
 gunpowderous
 gauzy
