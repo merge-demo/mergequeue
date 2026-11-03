@@ -9843,7 +9843,7 @@ grousers
 geckotidae
 grands
 guajillo
-gallicism
+gallicism 1
 gongoresque
 gips
 grousy
