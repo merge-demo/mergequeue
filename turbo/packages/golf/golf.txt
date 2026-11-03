@@ -1961,7 +1961,7 @@ gripes
 grudged
 gregarinous
 ghastlier
-guttable
+guttable 1
 gonif
 galician
 gallweed
