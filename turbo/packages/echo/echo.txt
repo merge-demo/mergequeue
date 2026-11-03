@@ -11578,7 +11578,7 @@ encephalosepsis
 elegize
 enchiridion
 eschew
-entablatured
+entablatured 1
 electroretinogram
 engregge
 eternalising
