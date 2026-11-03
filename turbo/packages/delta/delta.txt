@@ -2353,7 +2353,7 @@ databases
 dissociant
 decadally
 devocalising
-decessit
+decessit 1
 daikon
 doctorfish
 dechloridation
