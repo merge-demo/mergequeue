@@ -908,7 +908,7 @@ emperies
 exsanguine
 extrastate
 electromechanical
-episedia
+episedia 1
 encomiastic
 endosporous
 eriodictyon
