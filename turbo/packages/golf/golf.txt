@@ -3099,7 +3099,7 @@ goan
 gooseherd
 germinative
 geopolitical
-gayer
+gayer 1
 grangers
 gainage
 girlhoods
