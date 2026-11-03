@@ -5833,7 +5833,7 @@ disestablishes
 desistance
 dasyure
 dictating
-deprave
+deprave 1
 disanagrammatize
 doxologizing
 depraver
