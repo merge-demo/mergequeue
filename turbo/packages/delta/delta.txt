@@ -1742,7 +1742,7 @@ deathless
 decad
 decumaria
 delineable
-deathlessness
+deathlessness 1
 deathlikeness
 deathliness
 deathrates
