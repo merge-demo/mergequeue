@@ -507,7 +507,7 @@ galloons
 gisement
 gruffing
 graff
-galivants
+galivants 1
 geneticism
 gleamiest
 glissandos
