@@ -16905,7 +16905,7 @@ bathysophic
 buffoonish
 bungle
 baret
-betorn
+betorn 1
 baronages
 balneographer
 bedimpling
