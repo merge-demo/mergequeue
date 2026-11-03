@@ -3452,7 +3452,7 @@ endocarpal
 epees
 elaeothesium
 enginemen
-excusative
+excusative 1
 esophoric
 epistemologist
 evinces
