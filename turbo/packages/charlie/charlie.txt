@@ -27496,7 +27496,7 @@ covarecas
 covary
 chelicerae
 curtailer
-covariable
+covariable 1
 chumpiness
 cathartical
 cheongsam
