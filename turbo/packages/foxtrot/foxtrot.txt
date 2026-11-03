@@ -6752,7 +6752,7 @@ ferity
 foresworn
 felonweed
 fainly
-foiter
+foiter 1
 felloe
 frayed
 fried 1
