@@ -13545,7 +13545,7 @@ appeasing
 avenin
 acutenaculum
 autostandardization
-annoyer
+annoyer 1
 annoyingly
 authigenic
 annates
