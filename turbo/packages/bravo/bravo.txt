@@ -2253,7 +2253,7 @@ barbary
 baculiferous
 blastier
 bast
-ballism
+ballism 1
 brierberry
 bridgebote
 barbarianizing
