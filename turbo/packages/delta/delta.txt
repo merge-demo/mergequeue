@@ -14496,7 +14496,7 @@ divident
 dromograph
 dividivis
 diaphanometer
-diwani
+diwani 1
 drugge
 dividually
 disports
