@@ -12137,7 +12137,7 @@ anathematical
 anathematisation
 anathematise
 anathematised
-administer
+administer 1
 alchemize
 antambulacral
 accepter
