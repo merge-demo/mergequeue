@@ -7816,7 +7816,7 @@ cosignatory 1
 cervixes
 cobewail
 cervoid
-cervuline
+cervuline 1
 cervus
 cesare
 cesareans
