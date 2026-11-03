@@ -4232,7 +4232,7 @@ geysers
 gaillard
 glairiness
 grovelling
-geographized
+geographized 1
 gumptionless
 galban
 gratitude
