@@ -2096,7 +2096,7 @@ euphoniously
 episcope
 ensuance
 ebullioscope
-emulge
+emulge 1
 excretory
 extrapolator
 effuse
