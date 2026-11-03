@@ -1858,7 +1858,7 @@ footwalk
 flexographic
 firefly
 farcicality
-funambulate
+funambulate 1
 foreign
 febricant
 frilly
