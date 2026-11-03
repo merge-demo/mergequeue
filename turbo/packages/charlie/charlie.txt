@@ -15769,7 +15769,7 @@ coiffeuse
 cerebellar
 chainlet
 couma
-cleanliest
+cleanliest 1
 clumpier
 conclavist
 cleanout
