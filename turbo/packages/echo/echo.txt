@@ -3853,7 +3853,7 @@ elops
 effigiate
 epalpate
 ethnobotanical
-emesis
+emesis 1
 entrapment
 easiness
 exemplarily
