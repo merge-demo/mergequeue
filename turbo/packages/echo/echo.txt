@@ -4881,7 +4881,7 @@ eggers
 ensured
 entablements
 excisions
-ef
+ef 1
 encumbrance
 extrabureau
 extratorrid
