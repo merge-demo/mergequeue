@@ -7351,7 +7351,7 @@ decomponent
 detestations
 dethronement
 diminute
-dethronements
+dethronements 1
 dethrones
 discommodes
 dwight
