@@ -4668,7 +4668,7 @@ faeroe
 fells
 ferrotungsten
 farced
-fulica
+fulica 1
 flewit
 floyd
 freety
