@@ -5166,7 +5166,7 @@ enchanter
 expedition
 endogenous
 enlistment
-electo
+electo 1
 emanatistic 1
 embroider
 endoglobular
