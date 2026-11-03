@@ -4942,7 +4942,7 @@ gynaecol 2
 gamines
 gladioluses
 ginney
-groundwards
+groundwards 1
 glamors
 geldable
 granddada
