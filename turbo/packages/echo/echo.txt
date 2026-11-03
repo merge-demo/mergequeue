@@ -2644,7 +2644,7 @@ entad
 exemplarity
 electrosmosis
 excelling
-exegetist
+exegetist 1
 enquiries
 electrosteel
 epispadiac
