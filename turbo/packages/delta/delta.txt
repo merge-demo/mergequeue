@@ -14656,7 +14656,7 @@ diagnose
 djagoong
 darioles
 disemboguement
-djave
+djave 1
 drill
 djebels
 djehad
