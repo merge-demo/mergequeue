@@ -9380,7 +9380,7 @@ diffractiveness
 dist
 diffranchise
 dely
-decrete
+decrete 1
 durabilities
 decadic
 discontentive
