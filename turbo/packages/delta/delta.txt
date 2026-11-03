@@ -2066,7 +2066,7 @@ dermatotomy
 daikered
 devotion
 dimedon
-downgate
+downgate 1
 debilities
 decaying
 diopsimeter
