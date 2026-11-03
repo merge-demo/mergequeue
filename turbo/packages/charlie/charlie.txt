@@ -19698,7 +19698,7 @@ chroma
 chrismale
 combatant
 cimbalom
-candlelighter
+candlelighter 1
 combater
 combaters
 combating
