@@ -3559,7 +3559,7 @@ agcy
 aerothermodynamic
 anarthric
 archer
-asperses
+asperses 1
 alcoholic
 anesthyl
 autodidacts
