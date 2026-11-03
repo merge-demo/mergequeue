@@ -11196,7 +11196,7 @@ flinter
 fullgrownness
 fusobacteria
 foetalization
-fungoes
+fungoes 1
 fluoroborate
 flotorial
 fidgetily
