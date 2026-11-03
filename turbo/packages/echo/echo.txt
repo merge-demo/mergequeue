@@ -4651,7 +4651,7 @@ exuberance
 entablement
 energico
 euphoniad
-embezzled
+embezzled 1
 electrophonically
 encyclics
 equisetum
