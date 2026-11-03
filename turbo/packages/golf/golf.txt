@@ -8706,7 +8706,7 @@ gasteromycete
 gunsmith
 greedyguts 1
 gravediggers
-gibier
+gibier 1
 greedless
 grecism
 guemul
