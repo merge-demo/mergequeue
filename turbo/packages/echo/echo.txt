@@ -6817,7 +6817,7 @@ examiningly
 entomical
 empoisoning
 electroimpulse
-entomol
+entomol 1
 enneahedron
 erses
 eyepopper
