@@ -19595,7 +19595,7 @@ camphors
 colitoxemia
 columnarian
 crafted
-calamaries
+calamaries 1
 columnate
 centimolar
 columnates
