@@ -6592,7 +6592,7 @@ fullness
 fettled
 fidgetation
 fertilized
-freemanship
+freemanship 1
 firmer
 frothily
 floodway
