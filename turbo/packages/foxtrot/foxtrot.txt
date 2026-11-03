@@ -11639,7 +11639,7 @@ frizzled
 fructoses
 ferren
 fustiness
-fustoc
+fustoc 1
 fussily
 fusulae
 feathery
