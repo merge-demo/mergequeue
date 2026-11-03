@@ -14832,7 +14832,7 @@ almemars
 ascribes
 antichance
 animatograph
-amperes
+amperes 1
 antichlorine
 aminoplastic
 avowers
