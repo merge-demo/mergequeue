@@ -8625,7 +8625,7 @@ espavel
 equielliptical
 equigranular
 ecocide
-equilateral
+equilateral 1
 eriogonum
 exposes
 extispicy
