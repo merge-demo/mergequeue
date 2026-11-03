@@ -3295,7 +3295,7 @@ autosoteric
 assassin
 atomizes
 acutograve
-analogist
+analogist 1
 acutonodose
 aurene
 aminity
