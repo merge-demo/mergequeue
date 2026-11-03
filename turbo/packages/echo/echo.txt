@@ -5284,7 +5284,7 @@ eustachium
 ernest
 embracingly
 estocs
-ergodicity
+ergodicity 1
 elegiast
 eliminability
 endosclerite
