@@ -470,7 +470,7 @@ bibliographic
 borrel
 backspaced
 backspacer
-bundist
+bundist 1
 berakot
 bacillogenic
 burree
