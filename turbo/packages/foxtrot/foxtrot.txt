@@ -10678,7 +10678,7 @@ facetted
 furcated
 fainting
 fylfot
-foxy
+foxy 1
 felsophyre
 forescent
 feralin
