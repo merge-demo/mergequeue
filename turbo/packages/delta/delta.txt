@@ -2429,7 +2429,7 @@ decimetre
 decimolar
 drainpipe
 diplacusis
-dynamited
+dynamited 1
 deluminize
 daker
 decimole
