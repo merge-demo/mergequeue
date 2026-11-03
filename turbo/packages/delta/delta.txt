@@ -6314,7 +6314,7 @@ disgrade
 dephlegmatory
 dermenchysis
 delacrimation
-dermestid
+dermestid 1
 dermatoneural
 dextrogyration
 deject
