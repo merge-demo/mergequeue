@@ -5105,7 +5105,7 @@ fitout
 falasha
 forebespeak
 fatherling
-fractionise
+fractionise 1
 forbidding
 ferromagnetic
 forthy
