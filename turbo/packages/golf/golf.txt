@@ -9118,7 +9118,7 @@ gherkin
 gentlehood
 grinch
 goldwork
-geoid
+geoid 1
 garotte
 governableness
 grumose
