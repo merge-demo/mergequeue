@@ -12511,7 +12511,7 @@ exit
 encrypted
 exite
 eranist
-extinction
+extinction 1
 envied
 enherit
 epistolist
