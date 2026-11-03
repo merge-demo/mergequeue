@@ -18949,7 +18949,7 @@ collaterality
 curari
 chuchona
 chaperon
-collateralized
+collateralized 1
 converts
 chromonemata
 collateralizing
