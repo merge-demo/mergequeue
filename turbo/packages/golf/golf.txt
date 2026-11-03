@@ -8713,7 +8713,7 @@ guemul
 guttled
 guttling
 germiniparous
-greekize
+greekize 1
 gavelling
 grammars
 gearing
