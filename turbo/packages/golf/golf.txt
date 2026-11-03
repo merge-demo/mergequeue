@@ -5449,7 +5449,7 @@ gingivitis
 gaea
 graphitized
 glyptolith
-galvanocontractility
+galvanocontractility 1
 grotesques
 girsle
 gonfanon
