@@ -9337,7 +9337,7 @@ erinys
 eurythmic
 endosiphon
 encrusted
-erugos
+erugos 1
 escapage
 eruptible
 eruption
