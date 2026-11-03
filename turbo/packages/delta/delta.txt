@@ -4239,7 +4239,7 @@ deltas
 dukeling
 disconfirmation
 dook
-desipiency
+desipiency 1
 dopaminergic
 deuteragonist
 delthyrial
