@@ -2623,7 +2623,7 @@ execrations
 etymologisable
 executer
 electrophrenic
-electropower
+electropower 1
 embodying
 evolvers
 excitably
