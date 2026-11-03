@@ -3445,7 +3445,7 @@ discomfortably
 deprecation
 donnot
 defluent
-debyes
+debyes 1
 disassociating
 doffed
 dictyoxylon
