@@ -10749,7 +10749,7 @@ deinodontidae
 dipterocarp
 dipterocarpaceae
 dartingly
-dipterocarpaceous
+dipterocarpaceous 1
 devolve
 dipterocarpous
 dipterocarpus
