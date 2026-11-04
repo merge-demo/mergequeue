@@ -2987,7 +2987,7 @@ ergotamine
 epitomes
 enallage
 enfield
-eleatic
+eleatic 1
 eleoblast
 expositing
 evaluate
