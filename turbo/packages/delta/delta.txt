@@ -10746,7 +10746,7 @@ dipteraceae
 dipterygian
 dipteryx
 deinodontidae
-dipterocarp
+dipterocarp 1
 dipterocarpaceae
 dartingly
 dipterocarpaceous
