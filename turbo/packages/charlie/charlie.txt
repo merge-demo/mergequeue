@@ -5489,7 +5489,7 @@ cat
 catabaptist
 contos
 catabases
-capoc
+capoc 1
 catabasion
 catabasis
 calico
