@@ -3375,7 +3375,7 @@ adterminal
 antiphlogistic
 asternal
 adamsia
-adiathermanous
+adiathermanous 1
 absinthismic
 adamsites
 appeasableness
