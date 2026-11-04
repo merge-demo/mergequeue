@@ -3000,7 +3000,7 @@ barrios
 balistarii
 bumkin
 boulevard
-barrister
+barrister 1
 bootless
 banda
 brocatels
