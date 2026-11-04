@@ -2863,7 +2863,7 @@ glyptal
 gynaeceum
 groggier
 gallerylike
-gigmanhood
+gigmanhood 1
 guddled
 gynospore
 gyromitra
