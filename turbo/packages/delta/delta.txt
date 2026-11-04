@@ -11402,7 +11402,7 @@ documentation
 diallages
 deedeed
 drungar
-devaluations
+devaluations 1
 deadeye
 duodenogram
 dehaites
