@@ -1705,7 +1705,7 @@ glibber
 grainsick
 gerontology
 gave
-gloeal
+gloeal 1
 graced
 goric
 glass
