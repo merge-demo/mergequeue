@@ -584,7 +584,7 @@ anthropomancy
 abrotanum
 aneuria
 amphictyon
-amanitins
+amanitins 1
 aesthophysiology
 arytenoidal
 ampleness
