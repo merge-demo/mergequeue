@@ -25913,7 +25913,7 @@ chokered
 circumscribes
 corsite
 corsos
-cancrivorous
+cancrivorous 1
 corteges
 congas
 coeternally
