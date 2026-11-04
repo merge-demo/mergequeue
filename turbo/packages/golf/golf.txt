@@ -6549,7 +6549,7 @@ glaucic
 graceless
 galls 1
 goma
-glossoplegia
+glossoplegia 1
 grins
 granduncles
 gromwell
