@@ -7274,7 +7274,7 @@ graduators
 grace
 gormandize
 glomi 1
-gormandizes
+gormandizes 1
 gundeck
 gangsa
 galbulae
