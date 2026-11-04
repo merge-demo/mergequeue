@@ -8071,7 +8071,7 @@ gruffness
 gravels
 gasify
 glenoidal
-granitiform
+granitiform 1
 geomancer
 gastrostomus
 gaslightness
