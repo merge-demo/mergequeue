@@ -7543,7 +7543,7 @@ gatelike
 goliardery 1
 greenbone
 gunny
-gymnast
+gymnast 1
 garageman
 gladify
 gangman
