@@ -16533,7 +16533,7 @@ complexions
 centralized
 cloyless
 cloyment
-coronale
+coronale 1
 compensations
 cleistothecia
 chondrolipoma
