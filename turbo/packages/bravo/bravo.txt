@@ -6808,7 +6808,7 @@ boaedon
 bivouac
 battalia
 bertholletia
-bitulithic
+bitulithic 1
 besagne
 bisexually
 bishopless
