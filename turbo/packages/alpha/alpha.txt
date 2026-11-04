@@ -12255,7 +12255,7 @@ afacing
 andrewsite
 anchimonomineral
 aetiogenic
-aegirite
+aegirite 1
 anchorages
 anchorlike
 archradical
