@@ -1863,7 +1863,7 @@ germ
 garbure
 glycogenic
 gaussmeter
-gatteridge
+gatteridge 1
 gammaridae
 guayabo 1
 gaucho

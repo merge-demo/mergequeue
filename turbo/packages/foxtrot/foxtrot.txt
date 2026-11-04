@@ -1969,7 +1969,7 @@ formulization
 fishlet 1
 fretted
 flagellantism
-fowlery
+fowlery 1
 fatherhood
 foreknower
 familiarizingly
