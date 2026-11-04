@@ -5931,7 +5931,7 @@ deprint
 depriorize
 desmotropy
 disorderedness
-dool
+dool 1
 deprivable
 degrader
 dyslogy
