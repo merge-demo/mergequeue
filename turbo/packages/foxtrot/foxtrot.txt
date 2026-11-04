@@ -7331,7 +7331,7 @@ flickered
 forechamber
 foraminiferal
 fidgetingly
-foible
+foible 1
 felting
 frenchless
 friendliest
