@@ -18829,7 +18829,7 @@ antipollution
 archeries
 acoustically
 armida
-abjuring
+abjuring 1
 allomerization
 agoniatite
 archers
