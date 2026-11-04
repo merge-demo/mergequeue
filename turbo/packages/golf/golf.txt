@@ -3593,7 +3593,7 @@ gustus
 gyrochrome
 gnathobdellae
 gargil
-gaelicize
+gaelicize 1
 galany
 guttiform
 gananciales
