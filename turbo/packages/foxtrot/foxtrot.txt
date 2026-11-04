@@ -10541,7 +10541,7 @@ falltime
 forcipiform
 frowze
 franking
-fluky
+fluky 1
 furnaces
 fossilised
 fauchard
