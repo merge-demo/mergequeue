@@ -3201,7 +3201,7 @@ fetlow
 fadaise
 flavourer
 flotages
-fringiness
+fringiness 1
 fogman
 feloness
 floorshift
