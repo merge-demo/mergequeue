@@ -1359,7 +1359,7 @@ green
 garments
 gerodermia
 gingerberry
-gauss
+gauss 1
 ginners
 garglers
 glamorizer
