@@ -3940,7 +3940,7 @@ gastroschisis
 gastrosoph
 genetical
 geoduck
-geminates
+geminates 1
 gemmily
 gyroceras
 gleeting
