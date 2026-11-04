@@ -15526,7 +15526,7 @@ armguard
 antimystic
 antimystical
 antimystically
-apathic
+apathic 1
 antimysticalness
 aeroduct
 antimysticism
