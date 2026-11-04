@@ -11910,7 +11910,7 @@ downrange
 domes
 digestion
 demephitize
-dunches
+dunches 1
 duskish
 dearsenicate
 dietetical
