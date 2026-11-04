@@ -8779,7 +8779,7 @@ euphyllite
 eradicable
 enticement
 epineolithic
-equilibrity
+equilibrity 1
 enround
 electrodepositable
 elegist
