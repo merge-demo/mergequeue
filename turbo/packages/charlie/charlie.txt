@@ -18993,7 +18993,7 @@ cinnamon
 collectivise
 collectivism 1
 collectivist
-circumcircle
+circumcircle 1
 collectivistically
 cocainization
 contraflow
