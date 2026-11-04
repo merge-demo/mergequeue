@@ -11586,7 +11586,7 @@ expatiate
 enmeshing
 evolver
 equiponderating
-ectolecithal
+ectolecithal 1
 evonymuses
 electroencephalographically 1
 exportations
