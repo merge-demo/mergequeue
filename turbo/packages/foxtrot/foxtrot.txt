@@ -1900,7 +1900,7 @@ fimbrial
 fuligula
 fallow
 fewer
-flintier
+flintier 1
 footingly
 foredoom
 footstep
