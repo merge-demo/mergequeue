@@ -17556,7 +17556,7 @@ apteroid
 apophthegmatist
 amalings
 appeasements
-arrogantness
+arrogantness 1
 advantages
 adelomorphous
 agraphias
