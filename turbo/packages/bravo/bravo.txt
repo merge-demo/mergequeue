@@ -16554,7 +16554,7 @@ bandeaux
 broadpiece
 blamingly
 bisellium
-bisonant
+bisonant 1
 brutely
 blindstitch
 basils
