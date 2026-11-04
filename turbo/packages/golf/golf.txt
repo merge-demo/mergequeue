@@ -694,7 +694,7 @@ gimmals
 goldney
 genteelness
 grass
-gals
+gals 1
 galtrap
 gianthood
 gastroenterologically
