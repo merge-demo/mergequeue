@@ -10435,7 +10435,7 @@ flche
 frontstall
 forstall
 flockless
-frizes
+frizes 1
 fellah
 ferocity
 februarius
