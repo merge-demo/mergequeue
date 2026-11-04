@@ -3383,7 +3383,7 @@ exacters
 eggplants
 epiploon
 equiparate
-embargoes
+embargoes 1
 endocrinologist
 eavedropper
 embark
