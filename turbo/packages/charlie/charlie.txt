@@ -7115,7 +7115,7 @@ centner
 carunculate
 centners
 centones
-centonism
+centonism 1
 capitals
 centonization
 centos
