@@ -11399,7 +11399,7 @@ deadnesses
 designlessness
 dollar
 documentation
-diallages
+diallages 1
 deedeed
 drungar
 devaluations
