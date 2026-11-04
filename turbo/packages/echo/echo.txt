@@ -9879,7 +9879,7 @@ eden
 enstatite
 equivalency
 encodes
-enodally
+enodally 1
 encave
 electrotelethermometer
 editorial
