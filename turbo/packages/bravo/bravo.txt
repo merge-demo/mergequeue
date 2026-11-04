@@ -16513,7 +16513,7 @@ bishoplet
 borasque
 bozal
 breathableness
-bequote
+bequote 1
 biasness
 bursattee
 bugle
