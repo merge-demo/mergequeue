@@ -6825,7 +6825,7 @@ diallagoid
 disleafing
 decayed
 discoidal
-desmidiology
+desmidiology 1
 deterging
 dandyishy
 dethroner
