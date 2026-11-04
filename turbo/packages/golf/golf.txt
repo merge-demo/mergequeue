@@ -1373,7 +1373,7 @@ grabbles
 greenhide
 gorb
 gorki
-gastrostegal
+gastrostegal 1
 gravitometer
 glyconeogenetic
 guttular
