@@ -6052,7 +6052,7 @@ drumlike
 deputed
 demanding
 deselecting
-dlvy
+dlvy 1
 demolitionary
 deputes
 damiana
