@@ -2380,7 +2380,7 @@ fluther
 forgoes
 footganger
 fetial
-friendlier
+friendlier 1
 feriation
 formerly
 flexors
