@@ -12379,7 +12379,7 @@ boonk
 backtack
 bombonne
 bombora
-beswarmed
+beswarmed 1
 bombus
 bombardelle
 bon
