@@ -16753,7 +16753,7 @@ allegiances
 auburn
 annunciated
 arrestee
-aphasiacs
+aphasiacs 1
 aphasics
 ambience
 anabaptized
