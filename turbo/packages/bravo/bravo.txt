@@ -4588,7 +4588,7 @@ biddelian
 blocker
 beats
 bedazement
-bigeminate
+bigeminate 1
 bedazzle
 blared
 bylina
