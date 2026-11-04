@@ -17239,7 +17239,7 @@ degged
 duikerbok
 drivewell
 driving
-disclamatory
+disclamatory 1
 drizzles
 drunkeries
 demulsifier
