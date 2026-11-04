@@ -4932,7 +4932,7 @@ boatel
 bandy
 beek
 bronco
-balkers
+balkers 1
 bioclimatologies
 beekeepers
 beekeeping
