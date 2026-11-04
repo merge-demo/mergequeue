@@ -12495,7 +12495,7 @@ approval
 animalia
 admensuration
 algesis
-armchairs
+armchairs 1
 abarambo
 anthramine
 anecdotage
