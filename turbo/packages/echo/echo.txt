@@ -477,7 +477,7 @@ empasm
 extended
 endoconidium
 extorsion
-extrasensorial
+extrasensorial 1
 ecclesiastics
 encup 1
 expenditure
