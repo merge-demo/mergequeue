@@ -1953,7 +1953,7 @@ furling
 fidicula
 fileable
 figure
-friable
+friable 1
 fangot
 frenal
 froze
