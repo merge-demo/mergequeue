@@ -7318,7 +7318,7 @@ foaminess
 fixation
 foraying
 frognose
-freudian
+freudian 1
 fronds
 fearnaught
 favour
