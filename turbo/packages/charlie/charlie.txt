@@ -17697,7 +17697,7 @@ charmeuse
 cockaigne
 cunjer
 carboloy
-counternoise
+counternoise 1
 cockpit
 couched
 cinchonin
