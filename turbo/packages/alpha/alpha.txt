@@ -7456,7 +7456,7 @@ archaeopteryx
 assessor
 apertly
 atypicality
-adventitiously
+adventitiously 1
 aestivator
 albitic
 apts
