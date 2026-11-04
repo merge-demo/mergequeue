@@ -3143,7 +3143,7 @@ gnomon
 gutturalizing
 gramoches
 gypsywort
-gallophile
+gallophile 1
 geoscopic
 geosphere
 ginorite
