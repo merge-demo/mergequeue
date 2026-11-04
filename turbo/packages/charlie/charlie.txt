@@ -4063,7 +4063,7 @@ cardel
 crucianella 1
 ceroid
 creaminess
-cardiac
+cardiac 1
 cardiacal
 cestui
 cleronomy
