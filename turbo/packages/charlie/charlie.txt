@@ -14648,7 +14648,7 @@ cragged
 cairo
 cistori
 conforbably
-chayote
+chayote 1
 cowbyre
 cyanogenetic
 colorimeter
