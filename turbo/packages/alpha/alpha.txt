@@ -3091,7 +3091,7 @@ apocryphalist
 actinophrys
 aspics
 archimorphic
-actinopteran
+actinopteran 1
 ascidian
 aardwolves
 autorail
