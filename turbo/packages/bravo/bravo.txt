@@ -12729,7 +12729,7 @@ breadthriders
 bookishness
 brackened
 boxty
-breviate
+breviate 1
 barrenwort
 beaux
 barging
