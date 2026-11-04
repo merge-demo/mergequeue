@@ -8557,7 +8557,7 @@ fasciation
 ferules
 footrope
 favourless
-fetter
+fetter 1
 foxhole
 fornication
 forest
