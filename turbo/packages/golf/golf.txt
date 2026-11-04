@@ -8067,7 +8067,7 @@ gracy
 gypsydoms
 guttulae
 geminiflorous
-gruffness
+gruffness 1
 gravels
 gasify
 glenoidal
