@@ -14740,7 +14740,7 @@ diaphyseal
 direx
 demiwivern
 denticular
-decrepitating
+decrepitating 1
 deceptional
 delimitative
 diazide
