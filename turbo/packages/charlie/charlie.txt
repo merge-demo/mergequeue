@@ -27195,7 +27195,7 @@ counterthreat
 countertime
 candidating
 calcines
-countertype
+countertype 1
 cooter
 classisms
 countertouch
