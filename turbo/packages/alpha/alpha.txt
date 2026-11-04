@@ -11447,7 +11447,7 @@ amphioxus
 ampulliform
 affrightfully
 ampullula
-amputate
+amputate 1
 anuresis
 amputates
 amputation
