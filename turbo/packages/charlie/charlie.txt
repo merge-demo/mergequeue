@@ -23335,7 +23335,7 @@ corkiness
 consumer
 consumerist
 consumes
-catamnestic
+catamnestic 1
 cardioblast
 consuming
 connubial
