@@ -27124,7 +27124,7 @@ chasms
 configurable
 cormoid
 countershine
-chemosorptive
+chemosorptive 1
 copaiye
 countershock
 counterside
