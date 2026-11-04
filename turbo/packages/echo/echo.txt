@@ -5091,7 +5091,7 @@ emuls
 escortee
 embracingness
 encysted
-electrosensitive
+electrosensitive 1
 epilogic
 estray
 explanitory
