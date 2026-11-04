@@ -11551,7 +11551,7 @@ frettingly
 frugging
 furlable
 fabling
-fictionize
+fictionize 1
 fards
 floeberg
 famulary 1
