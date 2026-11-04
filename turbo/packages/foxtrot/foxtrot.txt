@@ -3852,7 +3852,7 @@ forgiveable
 fungistat
 forjudging
 favous
-fimbriating
+fimbriating 1
 farcer
 frizette
 forewarm
