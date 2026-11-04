@@ -19186,7 +19186,7 @@ cymbaeform
 commodatary
 collothun
 collotype
-cardiospasm
+cardiospasm 1
 corporally
 collotyped
 cousinry
