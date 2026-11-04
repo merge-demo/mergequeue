@@ -1020,7 +1020,7 @@ geologer
 ginnle
 gloriette
 galvanoscopy
-geodist
+geodist 1
 gothicize
 grasp
 gravelled
