@@ -5532,7 +5532,7 @@ globalizing
 gisants
 growls 1
 groggeries
-gently
+gently 1
 gump
 grassfinch
 griefs
