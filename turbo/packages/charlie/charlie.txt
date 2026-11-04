@@ -15308,7 +15308,7 @@ clancularly
 clandestine
 clandestinely
 clandestineness
-clanfellow
+clanfellow 1
 caddo
 compatriot
 crowdie
