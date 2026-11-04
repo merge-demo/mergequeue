@@ -11177,7 +11177,7 @@ farmer
 fungicidal
 fungicidally
 fungicides
-fungicolous
+fungicolous 1
 frampler
 fridila
 fraughted
