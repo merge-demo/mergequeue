@@ -11150,7 +11150,7 @@ exiguousness
 engroove
 ensiform
 extractibility
-ectatic
+ectatic 1
 evaded
 echinoidea
 earthlier
