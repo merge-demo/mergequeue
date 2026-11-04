@@ -6492,7 +6492,7 @@ englishes
 ephemeris
 egomaniacal
 erythrin
-enrollment
+enrollment 1
 ectosphenoid
 essayists
 entrenchments
