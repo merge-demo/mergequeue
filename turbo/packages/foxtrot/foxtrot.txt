@@ -11673,7 +11673,7 @@ futurama
 floodometer
 flibustier
 furcates
-fez
+fez 1
 frailties
 festoons
 fadable
