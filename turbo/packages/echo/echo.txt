@@ -2141,7 +2141,7 @@ enanthematous
 eisteddfodism
 epoxy
 esophagostenosis
-eyestring
+eyestring 1
 explicandum
 electropult
 erotica
