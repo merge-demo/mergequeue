@@ -2057,7 +2057,7 @@ gader
 gaulin
 geleem
 grandbaby
-gyrocompasses
+gyrocompasses 1
 glottology
 guilefully
 gawgaw
