@@ -2887,7 +2887,7 @@ geocentric
 gadwell
 gutterlike
 grandnieces
-gerontocracy
+gerontocracy 1
 gigots
 glycollic
 garotters
