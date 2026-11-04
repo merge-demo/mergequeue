@@ -11958,7 +11958,7 @@ epistemophilic
 everlastingly
 evaporation
 epitaphist
-excitations
+excitations 1
 eccl
 escapes
 eastbound
