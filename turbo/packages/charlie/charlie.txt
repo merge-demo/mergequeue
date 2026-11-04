@@ -31222,7 +31222,7 @@ cupules
 curvatures
 convulsible
 chickenhood
-covetousness
+covetousness 1
 cantharidate
 coque
 cupuliferous
