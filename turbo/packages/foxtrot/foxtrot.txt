@@ -1364,7 +1364,7 @@ forwardation
 fatiferous
 flavorfully
 florentine
-fearfuller
+fearfuller 1
 fatigable
 favorable
 fatigableness
