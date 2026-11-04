@@ -2994,7 +2994,7 @@ foothook
 flirts
 flaggelation
 forbs
-furiousness
+furiousness 1
 fossiform
 facsimiling
 faintheartedness
