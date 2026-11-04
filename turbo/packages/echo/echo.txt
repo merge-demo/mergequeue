@@ -1455,7 +1455,7 @@ emunct
 exenteritis
 envelop
 enfarce
-euxanthate
+euxanthate 1
 efforts
 extracranial
 effraction
