@@ -5822,7 +5822,7 @@ evade
 exion
 emulatory
 etherizing
-efficace
+efficace 1
 electrovalency
 exfoliation 1
 erlkings
