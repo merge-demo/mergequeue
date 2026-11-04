@@ -16002,7 +16002,7 @@ compromises
 covado
 cleromancy
 canniness
-clerstory
+clerstory 1
 clansmen
 cyamelid
 coolheadedness
