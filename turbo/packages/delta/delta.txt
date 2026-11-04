@@ -6418,7 +6418,7 @@ dephlegmedness
 discriminatory
 decree
 drung
-decenter
+decenter 1
 disencumbered
 denizening
 debellation
