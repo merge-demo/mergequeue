@@ -4370,7 +4370,7 @@ gumbotil
 ginglymostoma
 gigmania
 gnathion
-graphicalness
+graphicalness 1
 grylli
 gunky
 guz
