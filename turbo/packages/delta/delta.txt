@@ -14587,7 +14587,7 @@ deoxyribonucleoprotein 1
 dismemberment
 dayakker
 demureness
-denotive
+denotive 1
 demiurgically
 disastrousness
 dysfunction
