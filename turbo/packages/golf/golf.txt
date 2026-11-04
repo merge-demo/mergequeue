@@ -8525,7 +8525,7 @@ go
 goshdarn
 gramaphone
 ganglioblast
-gyrophoric
+gyrophoric 1
 gulden
 grecian
 gressorious
