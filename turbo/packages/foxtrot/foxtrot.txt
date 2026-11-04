@@ -1867,7 +1867,7 @@ fore
 feastless
 febrific
 feloid
-febrile
+febrile 1
 forrue
 farthermore
 fruiterers 1
