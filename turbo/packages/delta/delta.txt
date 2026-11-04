@@ -18147,7 +18147,7 @@ dock
 diplocardia
 domiciliation
 dumosity
-divaricately
+divaricately 1
 destructionism
 driveaway
 dehydrochlorination
