@@ -24460,7 +24460,7 @@ coops
 caragana
 coparty
 catchpole
-cooptate
+cooptate 1
 coopting
 coopts
 coordinal
