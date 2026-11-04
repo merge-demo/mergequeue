@@ -11700,7 +11700,7 @@ far
 foretellableness
 flugelhorn
 fasciola
-fernsick
+fernsick 1
 fasciated
 frameless
 flaw
