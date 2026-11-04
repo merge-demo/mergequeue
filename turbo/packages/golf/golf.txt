@@ -4716,7 +4716,7 @@ gentilities
 gumshoe
 glucosuria
 grudgingly
-genista
+genista 1
 galeae
 glucic
 gowland
