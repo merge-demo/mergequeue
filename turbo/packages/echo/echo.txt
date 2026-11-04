@@ -9290,7 +9290,7 @@ euchologia
 eugeosynclinal
 epitaphize
 elytrin
-errors
+errors 1
 escapingly
 estramazone
 ecrustaceous
