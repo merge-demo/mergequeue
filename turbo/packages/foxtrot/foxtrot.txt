@@ -5764,7 +5764,7 @@ frontal
 foge 1
 freckliness
 foehns
-finebent
+finebent 1
 finings
 fulth
 ferrochrome
