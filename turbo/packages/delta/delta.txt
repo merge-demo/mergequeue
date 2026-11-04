@@ -18475,7 +18475,7 @@ delator
 dispersant
 diapers
 dermatophony
-devastavit
+devastavit 1
 dipterous
 diose
 dacoiting
