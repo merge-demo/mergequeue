@@ -10262,7 +10262,7 @@ epilogist
 enspangle
 effodientia
 elasticizer
-ergal
+ergal 1
 eulogium
 excipulum
 experimentize
