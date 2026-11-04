@@ -2723,7 +2723,7 @@ estadal
 euphrates
 electrostenolytic
 enceint
-equipotent
+equipotent 1
 electees
 edentate
 envoi
