@@ -9857,7 +9857,7 @@ esthesiogen
 entophyte
 epoophoron
 envelopments
-enphytotic
+enphytotic 1
 esthesiogeny
 enragedly
 exuberation
