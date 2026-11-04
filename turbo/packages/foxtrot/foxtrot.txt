@@ -1554,7 +1554,7 @@ foulish
 foreshift
 foetuses
 fauterer
-fauteuil
+fauteuil 1
 fussy
 foreteach
 farrow
