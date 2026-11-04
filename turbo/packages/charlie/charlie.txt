@@ -24581,7 +24581,7 @@ cantate
 cophosis
 copia
 clapped
-copiapite
+copiapite 1
 copyboys
 cod
 cakehouse
