@@ -8703,7 +8703,7 @@ dehumanized
 diastomatic
 davyne
 davits
-decors
+decors 1
 delicioso
 demagnetise
 distort
