@@ -2709,7 +2709,7 @@ fuminess
 flamant
 flambe
 faithing
-fungused
+fungused 1
 firebird
 feigher
 formalazine
