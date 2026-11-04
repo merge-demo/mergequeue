@@ -1034,7 +1034,7 @@ groundplot
 gabardine
 gnarl
 geriatrics
-gentles
+gentles 1
 gastrectomy
 gossamer 1
 gashed 1
