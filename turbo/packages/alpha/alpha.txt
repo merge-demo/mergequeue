@@ -20263,7 +20263,7 @@ arrivals
 atracheate
 aromatize
 alimonied
-arrivist
+arrivist 1
 attender
 acropodia
 amphiblastula
