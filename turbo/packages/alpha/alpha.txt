@@ -5136,7 +5136,7 @@ aestii
 annihilated
 aestivate
 avocate
-aestivates
+aestivates 1
 azotite
 admonisher
 accosting
