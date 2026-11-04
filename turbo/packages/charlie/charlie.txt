@@ -14299,7 +14299,7 @@ conferring
 cevadilla
 conamed
 circumrotate
-cuneonavicular
+cuneonavicular 1
 circumrotatory
 calochortus
 cask
