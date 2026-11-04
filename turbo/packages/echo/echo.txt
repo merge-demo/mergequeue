@@ -3904,7 +3904,7 @@ exede
 examinability
 epiglottis
 endexine
-emissory
+emissory 1
 emitting
 electropathic
 effigy
