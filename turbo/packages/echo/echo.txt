@@ -12897,7 +12897,7 @@ ervenholder
 earstones
 electropuncturing
 evzone
-extinguishing
+extinguishing 1
 epinine
 enteradenographic
 extraprostatic
