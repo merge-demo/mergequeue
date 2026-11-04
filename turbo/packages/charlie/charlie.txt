@@ -27642,7 +27642,7 @@ cowbane
 collided
 coolheaded
 chamfered
-cowbanes
+cowbanes 1
 corticosteroid
 cowberry
 cardiology
