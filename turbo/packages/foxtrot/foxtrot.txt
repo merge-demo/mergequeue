@@ -9631,7 +9631,7 @@ foreleader
 flotations
 freers
 farthest
-foresign
+foresign 1
 freespace
 fecklessly
 feliform
