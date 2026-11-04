@@ -4790,7 +4790,7 @@ eccoproticophoric
 escape
 estrogenicity
 embrangle
-extols
+extols 1
 exflagellation
 eequinoctium
 emulously
