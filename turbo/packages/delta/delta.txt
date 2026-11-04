@@ -10520,7 +10520,7 @@ disbowels
 dialyzate
 demipagan
 disserviceableness
-ddname
+ddname 1
 derate
 doorsills
 deliciate
