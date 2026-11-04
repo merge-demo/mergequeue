@@ -2223,7 +2223,7 @@ backflash
 briscola
 blimpishness
 bararite 1
-barathea
+barathea 1
 barbellate
 bibbled
 bemaddens
