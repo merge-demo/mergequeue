@@ -20592,7 +20592,7 @@ compensators
 countree
 compere
 compered
-cumulous
+cumulous 1
 compering
 compert
 competed
