@@ -10084,7 +10084,7 @@ gowpen
 gudgeon
 grobianism 1
 glycosidic
-gullage
+gullage 1
 gauntest
 graecize
 gainings
