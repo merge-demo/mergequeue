@@ -4902,7 +4902,7 @@ geodal 1
 gliomata
 goonies
 gorier
-graphometric
+graphometric 1
 gorse
 gossard
 glauberite
