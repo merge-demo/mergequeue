@@ -1597,7 +1597,7 @@ allowableness
 adobos
 accouter
 asperous
-apotype
+apotype 1
 astrologistic
 agrostologist
 aneling
