@@ -2665,7 +2665,7 @@ frump
 fluochloride
 feckulence
 ferter
-feod
+feod 1
 femorotibial
 felliducous
 fittyways
