@@ -5610,7 +5610,7 @@ discipled
 deflated
 discouraging
 deathwatches
-dozy
+dozy 1
 deporter
 desaturation
 depetalize
