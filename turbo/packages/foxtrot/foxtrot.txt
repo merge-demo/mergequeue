@@ -11507,7 +11507,7 @@ fleshlily
 flotant
 fructuousness
 furunculous
-furzy
+furzy 1
 fastest
 flammable
 flouncy
