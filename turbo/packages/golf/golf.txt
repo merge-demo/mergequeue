@@ -9425,7 +9425,7 @@ gramps
 gingerliness
 glycollide
 gabionage
-groupies
+groupies 1
 ghastfully
 geminally
 gitksan
