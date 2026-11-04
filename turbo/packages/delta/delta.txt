@@ -2714,7 +2714,7 @@ decor
 diplopic
 dappledness
 decurves
-decorable
+decorable 1
 deist
 delectable
 duetto
