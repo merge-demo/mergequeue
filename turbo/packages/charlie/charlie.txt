@@ -2032,7 +2032,7 @@ commandants
 camorrism
 corrections
 complementally
-cropper
+cropper 1
 capitalizer
 chicomecoatl
 cypresses
