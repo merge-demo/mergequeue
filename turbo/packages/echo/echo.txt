@@ -10902,7 +10902,7 @@ encephalocoele
 epibaterium
 euktolite
 endosporously
-evolutoid
+evolutoid 1
 euphory
 enchondrosis
 euphoriant
