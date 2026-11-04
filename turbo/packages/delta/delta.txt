@@ -14721,7 +14721,7 @@ drumlier
 damaging
 dactyloscopic
 detained
-decahedral
+decahedral 1
 doctorbird
 dekametre
 declinedness
