@@ -5395,7 +5395,7 @@ gynandromorphic
 goodtemperedness
 glimmer
 generall
-glutinant
+glutinant 1
 glucosid
 gutwise
 gasserian
