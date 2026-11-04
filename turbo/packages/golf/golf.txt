@@ -2011,7 +2011,7 @@ giggly
 gelatiniform
 gaveled
 gebanga
-gibbosities
+gibbosities 1
 gangrenes
 gnomologic
 greiges
