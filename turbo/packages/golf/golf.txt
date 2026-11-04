@@ -6090,7 +6090,7 @@ grizelin
 guly
 gigawatt
 gonzo
-gallature
+gallature 1
 grinding
 gnathostomata
 gastrocnemial
