@@ -12663,7 +12663,7 @@ erie
 emparadise
 electromyographical
 exodontics
-estrogenically
+estrogenically 1
 exonian
 exonerator
 eudiometer
