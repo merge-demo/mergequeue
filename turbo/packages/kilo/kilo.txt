@@ -9423,7 +9423,7 @@ kotktmi
 kotlanpihr
 kotlrd
 kotmdoram
-kotoig
+kotoig 1
 koton
 kotozaz
 kotpgs
