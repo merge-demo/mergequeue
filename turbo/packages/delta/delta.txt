@@ -12660,7 +12660,7 @@ dermatophone
 diffrangibility
 deadmen
 disleaved
-decolorized
+decolorized 1
 disjointure
 demurringly
 disepalous
