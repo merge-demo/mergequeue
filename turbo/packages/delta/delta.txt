@@ -14132,7 +14132,7 @@ darter
 defeating 1
 diswarrening
 daisy
-ducker
+ducker 1
 disulfid
 derris
 diazotizable
