@@ -9724,7 +9724,7 @@ backslapped
 buildingless
 boatie
 byssoid
-buckskin
+buckskin 1
 bedragglement
 bissonata
 besing
