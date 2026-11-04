@@ -16084,7 +16084,7 @@ doughiness
 dwindle
 denshire
 daimonistic
-doughty
+doughty 1
 duomo
 diphthonged
 ditherer
