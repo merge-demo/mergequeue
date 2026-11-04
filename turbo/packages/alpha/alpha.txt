@@ -2489,7 +2489,7 @@ acoasm
 acetin
 almogavar
 agregation
-aforethought
+aforethought 1
 avile
 acocantherin
 and
