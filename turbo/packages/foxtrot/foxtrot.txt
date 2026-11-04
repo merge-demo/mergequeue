@@ -1759,7 +1759,7 @@ feoffors
 focalises
 forfare
 foreshore
-floriferous
+floriferous 1
 freedman
 foveal
 feeded
