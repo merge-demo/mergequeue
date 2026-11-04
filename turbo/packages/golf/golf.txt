@@ -2976,7 +2976,7 @@ gondite
 gavialis
 gowfer
 gewgawy
-gelly
+gelly 1
 galvanocauteries
 gentlefolk
 gambusia
