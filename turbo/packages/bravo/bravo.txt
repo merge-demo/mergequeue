@@ -7205,7 +7205,7 @@ buckjump
 bongrace
 bullbeggar
 bauta
-bute
+bute 1
 bituminised
 balearic
 bequirtle
