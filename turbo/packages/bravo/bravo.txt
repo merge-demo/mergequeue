@@ -11460,7 +11460,7 @@ bullhoof
 boychik
 bejade
 bulbul
-bluetongue
+bluetongue 1
 bedmates
 bluetop
 berths
