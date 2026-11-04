@@ -7677,7 +7677,7 @@ exptl
 embrued
 enukki
 effumability
-epideictic
+epideictic 1
 endomesoderm
 endotheliomata
 ensures
