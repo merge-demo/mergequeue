@@ -10309,7 +10309,7 @@ forecourt
 foss
 forewarning
 fiaunt
-fraenula
+fraenula 1
 floodlighted
 fluoridized
 fortiori
