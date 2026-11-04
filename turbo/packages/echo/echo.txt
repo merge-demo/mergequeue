@@ -8772,7 +8772,7 @@ equivoluminal
 explainers
 electrostatics
 enfume
-elementarist
+elementarist 1
 equoidean
 exhedra
 euphyllite
