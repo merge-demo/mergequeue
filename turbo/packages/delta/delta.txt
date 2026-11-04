@@ -17205,7 +17205,7 @@ director
 diaphoresis
 decursive
 dovecote
-depletory
+depletory 1
 drive
 diastrophism
 direst
