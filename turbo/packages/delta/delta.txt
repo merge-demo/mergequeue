@@ -8075,7 +8075,7 @@ dispersedye
 dhritarashtra
 disables
 drawable
-dhurra
+dhurra 1
 detrimentalness
 doghole
 definienda
