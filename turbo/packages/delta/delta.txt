@@ -15741,7 +15741,7 @@ dormers
 dormette
 desolator
 dormeuse
-dormice
+dormice 1
 dishpans
 dormilona
 dormitive
