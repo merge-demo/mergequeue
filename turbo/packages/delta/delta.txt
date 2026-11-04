@@ -11674,7 +11674,7 @@ decomplex
 decoagulate
 distritbute
 dehumidification
-disclaim
+disclaim 1
 declinator
 disprobabilization
 dashy
