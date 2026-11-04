@@ -4372,7 +4372,7 @@ foreconceive
 forb
 furosemide
 focuser
-forfeitable
+forfeitable 1
 formicarium
 frate
 fibroplastic
