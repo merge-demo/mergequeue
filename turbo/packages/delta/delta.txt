@@ -12541,7 +12541,7 @@ disinheriting
 demyship
 disinhume
 djagatay
-dorsoventral
+dorsoventral 1
 disinsure 1
 dotonidae
 donk
