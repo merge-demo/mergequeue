@@ -1444,7 +1444,7 @@ atocha
 anagignoskomena
 acclaimer
 afterwrist
-acclamator
+acclamator 1
 arrowheaded
 acclimatable
 acclimatement
