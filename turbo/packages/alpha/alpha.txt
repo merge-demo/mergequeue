@@ -6706,7 +6706,7 @@ amorphophyte
 aimless
 acropolis
 authorise
-antes
+antes 1
 aimlessly
 amaut
 aimore
