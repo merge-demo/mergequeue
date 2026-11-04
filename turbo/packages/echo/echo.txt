@@ -4235,7 +4235,7 @@ exporters
 expiree
 escarping
 escambio
-elegancy
+elegancy 1
 eaux
 eumeristic
 elixate
