@@ -4573,7 +4573,7 @@ gluelike
 gutturalized
 gilim 1
 gobbledygook
-glim
+glim 1
 galloper
 goobers
 germane
