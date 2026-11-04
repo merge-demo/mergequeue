@@ -2232,7 +2232,7 @@ feudee
 freshmanhood
 fiscus
 firebombs
-fulgurate
+fulgurate 1
 fuliguline
 flatcars
 fructosan
