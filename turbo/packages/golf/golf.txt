@@ -3281,7 +3281,7 @@ germanification
 gadso
 gorgonian
 grimmia
-graduses
+graduses 1
 gregaritic
 glancer
 glycosin
