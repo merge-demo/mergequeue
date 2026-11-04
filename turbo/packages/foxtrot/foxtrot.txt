@@ -7240,7 +7240,7 @@ fordwine 1
 footstall
 filature
 fridays
-foreignize
+foreignize 1
 fleetings
 forel
 feudalising
