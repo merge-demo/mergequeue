@@ -4023,7 +4023,7 @@ gastrogenous
 gilds
 grandness
 gutturals
-gerundive
+gerundive 1
 glossolabiopharyngeal
 gushingly
 graybacks
