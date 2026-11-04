@@ -2724,7 +2724,7 @@ euphrates
 electrostenolytic
 enceint
 equipotent
-electees
+electees 1
 edentate
 envoi
 eleemosynary
