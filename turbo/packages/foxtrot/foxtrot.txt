@@ -4114,7 +4114,7 @@ foolship
 finnicize
 foresightedness
 fenestellid
-frush
+frush 1
 fartherer
 felicitously
 ferd
