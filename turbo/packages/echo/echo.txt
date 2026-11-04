@@ -10632,7 +10632,7 @@ enmoss
 excavate
 endozoa
 eques
-enharmonical
+enharmonical 1
 eoghanacht
 enchilada
 eudemonistic
