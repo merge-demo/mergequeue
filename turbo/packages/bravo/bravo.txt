@@ -6370,7 +6370,7 @@ benzoglycolic
 benzoglyoxaline 1
 binominal
 bastioned
-benzohydrol
+benzohydrol 1
 benzoylated
 becuna
 benzene
