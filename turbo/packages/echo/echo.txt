@@ -2052,7 +2052,7 @@ electrophorese
 evilly
 eudialyte
 elanus
-enantiopathia
+enantiopathia 1
 extravenate
 encampments
 enthusiasm
