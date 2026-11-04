@@ -777,7 +777,7 @@ galvanotropism
 globulolysis
 ganymede
 glossolalist
-gluck
+gluck 1
 gutturize
 galvanothermometer
 glint
