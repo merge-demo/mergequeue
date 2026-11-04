@@ -7552,7 +7552,7 @@ anoopsias
 albuminorrhea
 albuminoscope
 azalea
-acari
+acari 1
 anonyms
 anisodont
 albumins
