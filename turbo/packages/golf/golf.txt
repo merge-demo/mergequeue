@@ -8355,7 +8355,7 @@ gopherroot
 gripy
 guamachil
 gulling
-ginzo
+ginzo 1
 globeflower
 gravest
 graminaceae
