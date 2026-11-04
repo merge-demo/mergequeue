@@ -2825,7 +2825,7 @@ exostracize
 elan
 endoubt
 enseat
-enleen
+enleen 1
 exorbitate
 electroluminescent
 explicans
