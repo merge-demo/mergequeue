@@ -9456,7 +9456,7 @@ demiplate
 despondently
 digenite
 didymium
-digerent
+digerent 1
 dereistically
 doedicurus
 dustiest
