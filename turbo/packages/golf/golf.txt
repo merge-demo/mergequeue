@@ -3024,7 +3024,7 @@ gorra
 globulins
 gastromyces
 gangshag
-geometriform
+geometriform 1
 graminicolous
 gemmipares
 glyptotheca
