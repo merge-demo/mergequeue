@@ -2611,7 +2611,7 @@ cuttlefish
 canellas
 codified
 chittak
-craftswoman
+craftswoman 1
 carbylamine
 caneology
 canephora
