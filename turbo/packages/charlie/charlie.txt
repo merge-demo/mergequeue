@@ -29149,7 +29149,7 @@ cacodorous
 crioceras
 crioceratite
 cinefaction
-crioceratitic
+crioceratitic 1
 companionably
 chirruping
 committedly
