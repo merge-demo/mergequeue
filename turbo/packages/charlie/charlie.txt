@@ -4352,7 +4352,7 @@ contaminator
 chimeras
 centaur
 casuists
-consecrated
+consecrated 1
 caricology
 crisper
 counterslope
