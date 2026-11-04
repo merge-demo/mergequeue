@@ -9597,7 +9597,7 @@ autoionization
 amuse
 antecommunion
 aspersors
-altruists
+altruists 1
 altun
 alimentary
 autoharp
