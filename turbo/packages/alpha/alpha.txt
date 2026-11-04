@@ -11202,7 +11202,7 @@ airiest
 agynous
 aerologists
 accoutrement
-authority
+authority 1
 alienists
 attesting
 attainability
