@@ -12876,7 +12876,7 @@ dromond
 dismissal
 dismissed
 distemperate
-dismisses
+dismisses 1
 dismissing
 dismissory
 dother
