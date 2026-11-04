@@ -3998,7 +3998,7 @@ cajoleries
 crotalinae
 carcharias
 cerotene
-clerisy
+clerisy 1
 carchariidae
 carcharioid
 congredient
