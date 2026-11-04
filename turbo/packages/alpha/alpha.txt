@@ -9642,7 +9642,7 @@ abridges
 aluminate
 archicontinent
 absfarad
-abacaxi
+abacaxi 1
 aluminide
 aluminiferous
 amarvel
