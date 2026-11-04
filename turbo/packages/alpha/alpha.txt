@@ -22616,7 +22616,7 @@ acclaimers
 archhouse
 athabasca
 acetylcholine
-athamantid
+athamantid 1
 acontium
 aliased
 acuate
