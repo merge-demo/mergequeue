@@ -6652,7 +6652,7 @@ drabs
 diastimeter
 dungaree
 deserts
-deserve
+deserve 1
 dotingly
 depreciatoriness
 disembodiments
