@@ -15709,7 +15709,7 @@ diadermic
 devoted
 doucet
 doria
-demiturned
+demiturned 1
 disgig
 dacryocystocele
 doricism
