@@ -14044,7 +14044,7 @@ distressed
 disfigured
 denominable
 distressing
-deglamorization
+deglamorization 1
 distressingly
 devast
 dunlap
