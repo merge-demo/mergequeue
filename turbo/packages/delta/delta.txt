@@ -15992,7 +15992,7 @@ dimanganous
 dewani
 dispetal
 douane
-doub
+doub 1
 downsize
 decrepitude
 decator
