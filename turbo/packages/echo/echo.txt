@@ -13607,7 +13607,7 @@ electropyrometer
 expulsory
 ectad
 exiledom
-extemporary
+extemporary 1
 extemporisation
 ewing
 exucontian
