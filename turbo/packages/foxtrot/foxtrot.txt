@@ -8132,7 +8132,7 @@ fuchsias
 fanegadas
 fundmonger
 forcepses
-forevers
+forevers 1
 fingerberry
 foregate
 forthwith
