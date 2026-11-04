@@ -5155,7 +5155,7 @@ dulbert
 disburdened
 denes
 deices
-defer
+defer 1
 daughterlike
 deading
 densitometric
