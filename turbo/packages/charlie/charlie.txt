@@ -10640,7 +10640,7 @@ callaloos
 chimb
 culicide
 cuts
-claustrophobe
+claustrophobe 1
 cryptesthetic
 conenchyma
 conglomerated
