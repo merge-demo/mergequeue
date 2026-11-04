@@ -365,7 +365,7 @@ eurytus
 eyestone
 erethistic
 eeler
-enthroned
+enthroned 1
 eavesdropping
 equimolar
 enkindler
