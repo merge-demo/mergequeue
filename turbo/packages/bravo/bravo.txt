@@ -1483,7 +1483,7 @@ brink
 bastardise
 balkiest
 balking
-budgy
+budgy 1
 backbiter
 belve
 blighter
