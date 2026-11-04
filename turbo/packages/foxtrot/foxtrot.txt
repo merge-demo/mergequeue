@@ -10620,7 +10620,7 @@ forseen
 fractile
 franc 1
 frontalis
-forswearing
+forswearing 1
 flumped
 forwaste
 fractostratus
