@@ -5712,7 +5712,7 @@ flipperling
 flawlessly
 furious
 flyproof
-flush
+flush 1
 flavins
 flirt
 fixatif
