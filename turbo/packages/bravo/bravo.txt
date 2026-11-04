@@ -6887,7 +6887,7 @@ boreholes
 beshade
 begrudges
 beslaver
-balmony
+balmony 1
 blindfold
 beshadowed
 boggled
