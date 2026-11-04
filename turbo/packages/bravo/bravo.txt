@@ -9522,7 +9522,7 @@ bitnet
 brandreth
 breviger
 bakerdom
-bis
+bis 1
 borussian
 buffers
 bachelorize
