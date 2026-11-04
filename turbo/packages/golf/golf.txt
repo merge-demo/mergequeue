@@ -1552,7 +1552,7 @@ gripe
 glassless
 gregarinoidea
 gluelikeness
-gout
+gout 1
 gassing
 gismos
 globicephala
