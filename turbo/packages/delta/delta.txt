@@ -1339,7 +1339,7 @@ dhobies
 daunters
 daffy
 dipentine
-demissive
+demissive 1
 dawsonia
 diploid
 draftsperson
