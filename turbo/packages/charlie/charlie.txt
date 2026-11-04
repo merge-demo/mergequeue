@@ -7365,7 +7365,7 @@ cephalopharyngeal
 cephalophyma
 cephalophine
 cryostats
-cervisia
+cervisia 1
 cryoprobe
 cephalopoda
 clodded
