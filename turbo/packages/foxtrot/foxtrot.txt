@@ -6726,7 +6726,7 @@ foramens
 fictive
 filipina
 fomalhaut
-fiscs
+fiscs 1
 fanny
 fuchsinophil
 featherbed
