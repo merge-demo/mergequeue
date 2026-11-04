@@ -2245,7 +2245,7 @@ achromatopsia
 achromatosis
 acyrological
 achromoderma
-abovesaid
+abovesaid 1
 amygdalolith
 articulability
 allows
