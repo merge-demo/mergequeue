@@ -7426,7 +7426,7 @@ extraperiodic
 extracurricular
 elohimic
 enfile
-erratical
+erratical 1
 ecchondrotome
 escargots
 ephestia
