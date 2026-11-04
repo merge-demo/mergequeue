@@ -6366,7 +6366,7 @@ electrotyper
 ephebe
 expenseful
 earthward
-electrooptic
+electrooptic 1
 empathized
 emulsor
 espagnole
