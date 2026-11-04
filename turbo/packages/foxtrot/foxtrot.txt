@@ -4433,7 +4433,7 @@ feulamort
 farand
 footpick
 fishily
-fatigues
+fatigues 1
 fauna
 farinaceously
 fishiness
