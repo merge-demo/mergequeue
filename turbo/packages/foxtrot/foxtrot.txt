@@ -9587,7 +9587,7 @@ fothering
 flanger
 flagellant
 finalism
-faqir
+faqir 1
 filipinize
 formless
 fleeceable
