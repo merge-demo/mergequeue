@@ -8737,7 +8737,7 @@ electrican
 eloine
 emotionality
 experimentator
-equitemporaneous
+equitemporaneous 1
 eluted
 euphemisms
 ethysulphuric
