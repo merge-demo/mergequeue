@@ -9490,7 +9490,7 @@ checkerberry
 checkerberries
 chorological
 checkerbloom
-calyciform
+calyciform 1
 cleaner
 chromatid
 checkery
