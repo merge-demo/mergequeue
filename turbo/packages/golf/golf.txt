@@ -5876,7 +5876,7 @@ gasfiring
 glycogenous
 gravimetric
 guerrila
-goliards
+goliards 1
 gallinaceous
 graphometrist
 ganglionary
