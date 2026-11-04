@@ -5555,7 +5555,7 @@ bekissed
 bekisses
 boletes
 bouleuterion
-borons
+borons 1
 busket
 beknighted
 ballistite

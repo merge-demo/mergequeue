@@ -384,7 +384,7 @@ froes
 fluorides
 faintly
 fiercen
-furoid
+furoid 1
 finesses
 fearer
 filicauline
