@@ -6124,7 +6124,7 @@ dropout
 durgen
 dissolvable
 deckedout
-derated
+derated 1
 diphtheroid
 derater
 dijudicant
