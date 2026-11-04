@@ -28957,7 +28957,7 @@ crimmy
 cricetids
 cricetus
 cricked
-crickey
+crickey 1
 cricket
 converso
 cricketers
