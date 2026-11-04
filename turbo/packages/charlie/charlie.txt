@@ -11200,7 +11200,7 @@ costotransversal
 canoodle
 chlorellaceous
 chloremia
-corrupt
+corrupt 1
 chuffier
 curtail
 confix
