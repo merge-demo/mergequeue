@@ -2170,7 +2170,7 @@ guardians
 gecarcinian
 greasepaint
 gecarcinidae
-greedily
+greedily 1
 grough
 glycerinating
 gunyeh
