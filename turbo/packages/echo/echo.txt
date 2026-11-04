@@ -7585,7 +7585,7 @@ eolithic
 euglena
 earnestness
 eschatologically
-exterminate
+exterminate 1
 eikonology
 enamelware
 essling
