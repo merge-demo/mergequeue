@@ -5360,7 +5360,7 @@ bot
 bathometer
 baileys
 brachycardia
-biweekly
+biweekly 1
 berglet
 ballogan
 begrown
