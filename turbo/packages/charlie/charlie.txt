@@ -31213,7 +31213,7 @@ cupulae
 crossopterygii
 cupular
 carlines
-cupulate
+cupulate 1
 crosslets
 cupule
 ceratophyte
