@@ -7440,7 +7440,7 @@ forevalue
 firstship
 forcibility 1
 forcibleness
-futurologist
+futurologist 1
 furnacite
 fishgarth
 francophone
