@@ -3353,7 +3353,7 @@ actinochemical
 aphthongia
 adamantoblast
 amintor
-archery
+archery 1
 amblystoma
 absentee
 atresic
