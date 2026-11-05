@@ -12602,7 +12602,7 @@ exodic
 equipped
 encincturing
 emeralds
-essancia
+essancia 1
 elateroid
 egurgitating
 excussio
