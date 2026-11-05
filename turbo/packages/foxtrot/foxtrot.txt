@@ -6989,7 +6989,7 @@ fondled
 fondles
 fainter
 fumant
-flouncey
+flouncey 1
 flannels
 fineries
 furnacing
