@@ -1809,7 +1809,7 @@ exoclinal
 een
 erodium
 effetely
-eroding
+eroding 1
 encroached
 egotheism
 epithalamy

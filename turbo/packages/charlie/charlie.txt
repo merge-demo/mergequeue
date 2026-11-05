@@ -6176,7 +6176,7 @@ cattlemen
 cattleship
 carbines
 catullian
-clamshells
+clamshells 1
 coburghership
 commercials
 completedness
