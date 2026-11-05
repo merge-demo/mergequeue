@@ -9625,7 +9625,7 @@ goiter
 grizzlier
 guarish
 gummite
-goof
+goof 1
 grandma
 guisarme
 goodsire
