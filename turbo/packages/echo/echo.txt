@@ -435,7 +435,7 @@ eburin
 ec
 ecardines
 embryologically
-extravagate
+extravagate 1
 ernest
 ecballium
 expugnable
