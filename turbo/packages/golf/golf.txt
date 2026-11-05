@@ -1362,7 +1362,7 @@ gingerberry
 gauss
 ginners
 garglers
-glamorizer
+glamorizer 1
 glyoxylic
 garrotte
 grind
