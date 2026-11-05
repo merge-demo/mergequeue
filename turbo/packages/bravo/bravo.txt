@@ -13751,7 +13751,7 @@ bureaucratization
 bescurf
 burga
 bufflehorn
-bovaristic
+bovaristic 1
 burgout
 bovate
 bonniness
