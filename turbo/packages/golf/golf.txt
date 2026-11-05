@@ -5890,7 +5890,7 @@ grues
 guadalcazarite
 glucoses 1
 glances
-gamdia
+gamdia 1
 glucoside
 goshawk
 grandparents
