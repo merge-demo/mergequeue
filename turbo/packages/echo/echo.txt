@@ -11404,7 +11404,7 @@ expenditor
 encephalosis
 edgebone
 encolour
-everted
+everted 1
 euouae
 eli
 exhaustion
