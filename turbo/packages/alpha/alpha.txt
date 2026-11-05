@@ -621,7 +621,7 @@ aves
 acacetin
 amatols
 atelomitic
-astigmatism
+astigmatism 1
 alastrim
 astrologic
 acetoamidophenol
