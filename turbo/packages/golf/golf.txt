@@ -4704,7 +4704,7 @@ geisothermal
 glycerate
 gigged
 galchic
-gifting
+gifting 1
 giraffes
 generis
 gastraeas
