@@ -17492,7 +17492,7 @@ citropsis
 curculionid
 coble
 cuttings
-campanist
+campanist 1
 coblentzian
 cobleskill
 cobloaf
