@@ -7901,7 +7901,7 @@ futchel
 footeite
 footslog
 fletching
-foreseer
+foreseer 1
 foresees
 flashtube
 fonder
