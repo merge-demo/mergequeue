@@ -1009,7 +1009,7 @@ daneball
 disruptions
 deformeter
 dumbed
-digest
+digest 1
 descrying
 daffling
 dolorimetric
