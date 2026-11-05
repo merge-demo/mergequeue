@@ -4469,7 +4469,7 @@ greffier
 graveyard
 gipsydom
 gugu
-galtonian
+galtonian 1
 gypsyfy
 ganoblast
 gunshot
