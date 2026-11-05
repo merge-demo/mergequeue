@@ -8284,7 +8284,7 @@ eurus
 epithalamize
 evaporators
 ennobles
-exactions
+exactions 1
 epithalline
 exotism
 elastase
