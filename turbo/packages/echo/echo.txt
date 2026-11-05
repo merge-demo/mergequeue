@@ -4349,7 +4349,7 @@ eritrean
 eremacausis
 esoenteritis
 exotically
-encamp
+encamp 1
 embrasure
 enantiomorph
 encratic
