@@ -19582,7 +19582,7 @@ arguslike
 alexipharmic
 abends
 aegyrite
-anchorable
+anchorable 1
 autointoxicant
 aglisten
 argutation
