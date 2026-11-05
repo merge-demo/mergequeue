@@ -1121,7 +1121,7 @@ allegros
 abwab
 anthropomorph
 aureateness
-ac
+ac 1
 anguliferous
 acacatechol
 acacia
