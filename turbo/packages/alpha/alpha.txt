@@ -582,7 +582,7 @@ alphameric
 abnegates
 anthropomancy
 abrotanum
-aneuria
+aneuria 1
 amphictyon
 amanitins
 aesthophysiology
