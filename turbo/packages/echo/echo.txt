@@ -3040,7 +3040,7 @@ epiphenomenal
 earthkin
 epigram
 eschalot
-exogamy
+exogamy 1
 epidermis
 experimentalists
 exocline
