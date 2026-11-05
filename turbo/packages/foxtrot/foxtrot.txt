@@ -10801,7 +10801,7 @@ fubbery
 filamentoid
 fullering
 footpads
-farmerette
+farmerette 1
 fuchsian
 footsteps
 fructificative
