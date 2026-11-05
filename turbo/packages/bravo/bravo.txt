@@ -3231,7 +3231,7 @@ beknave
 baclava
 bravish
 basidiospore
-basidiosporous 1
+basidiosporous 2
 buckbush
 backstrapped
 batiked
