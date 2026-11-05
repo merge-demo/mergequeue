@@ -12880,7 +12880,7 @@ awardable
 antefuture
 angiotonic
 almoravide
-abjunction
+abjunction 1
 apinch
 angiotripsy
 angiotrophic
