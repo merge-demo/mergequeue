@@ -3435,7 +3435,7 @@ eoanthropus
 enteropneustan
 embed
 electrosynthetic
-equaled
+equaled 1
 engrail
 evacuate
 eirene
