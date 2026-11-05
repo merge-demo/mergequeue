@@ -623,7 +623,7 @@ amatols
 atelomitic
 astigmatism
 alastrim
-astrologic
+astrologic 1
 acetoamidophenol
 affranchisement
 angulate

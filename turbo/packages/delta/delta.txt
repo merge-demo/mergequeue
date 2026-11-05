@@ -4889,7 +4889,7 @@ determinants
 denature
 dramseller
 deactivator
-drupose
+drupose 1
 dismality
 dissimilation
 dissecting
