@@ -2610,7 +2610,7 @@ acanthopterous
 alginates
 acquiescement
 aureation
-acquiescency
+acquiescency 1
 abacli
 amygdalotomy
 accrescent
