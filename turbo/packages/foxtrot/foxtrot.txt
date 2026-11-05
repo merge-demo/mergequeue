@@ -6826,7 +6826,7 @@ foretold
 fasces
 fructifier
 foliaged
-fustigator
+fustigator 1
 fussify
 flipjack
 fourhanded
