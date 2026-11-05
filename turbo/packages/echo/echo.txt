@@ -3390,7 +3390,7 @@ embark
 epichorial
 embarkations
 euconic
-epitomize
+epitomize 1
 eucharistized
 embarkment
 embarks
