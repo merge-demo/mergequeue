@@ -15975,7 +15975,7 @@ andantes
 antiquarianize
 anachronism
 antiquaries
-americas
+americas 1
 amylase
 arach
 acquital
