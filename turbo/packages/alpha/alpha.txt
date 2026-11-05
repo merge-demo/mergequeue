@@ -22009,7 +22009,7 @@ aircrewmen
 anni
 aniseroot
 argentometrically
-achromatizable
+achromatizable 1
 assumes
 apothesis
 antiperiodic
