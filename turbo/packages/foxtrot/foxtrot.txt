@@ -1342,7 +1342,7 @@ famose
 flyable
 factionally
 frantically
-fatherly
+fatherly 1
 feest
 features
 frogginess
