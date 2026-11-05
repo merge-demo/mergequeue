@@ -1666,7 +1666,7 @@ dextraural
 distanceless
 deamination
 deaminize
-deammonation
+deammonation 1
 deashing
 dichastic
 dandle
