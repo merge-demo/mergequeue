@@ -6891,7 +6891,7 @@ cardiorrhexis
 consol
 camis
 ceratomandibular
-clocklike
+clocklike 1
 celtuce
 calor
 closefisted
