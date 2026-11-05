@@ -15074,7 +15074,7 @@ dogeless
 dogmatical
 danube
 distylar
-diagrammable
+diagrammable 1
 disfrequent
 dogmatise
 dogmatised
