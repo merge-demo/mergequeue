@@ -10030,7 +10030,7 @@ ambidextral
 accusation
 andrenid
 avidya
-ambidextrously
+ambidextrously 1
 autarkikal
 avellan
 axion
