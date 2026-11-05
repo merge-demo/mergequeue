@@ -196,7 +196,7 @@ defilable
 decontamination
 daemony 1
 deforesting
-debitumenize
+debitumenize 1
 duplify
 dealfish
 daemons
