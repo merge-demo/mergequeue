@@ -10602,7 +10602,7 @@ dissatisfying
 diplomats
 dysporomorph
 drawfile
-diphtheritic
+diphtheritic 1
 deceptivity
 diplonema
 deuteric
