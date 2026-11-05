@@ -5425,7 +5425,7 @@ glyoxalic
 galliwasp
 guniter
 glyphic
-gambist
+gambist 1
 guran
 girlhood
 gus
