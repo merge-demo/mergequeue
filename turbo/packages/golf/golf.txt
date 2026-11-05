@@ -10359,7 +10359,7 @@ grouseberry
 gelate
 garretmaster
 gynic
-gallops
+gallops 1
 gonidiospore
 gastrothecal
 gnashing

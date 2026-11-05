@@ -7552,7 +7552,7 @@ eructing
 epicheiremata
 ependyma
 endomysium
-endovenous
+endovenous 1
 electrocapillarity
 equivalently
 equalling
