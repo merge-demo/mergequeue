@@ -10727,7 +10727,7 @@ forbare
 forecount
 forbore
 frumpishly
-fanciness
+fanciness 1
 foreyear
 follyer
 fructified
