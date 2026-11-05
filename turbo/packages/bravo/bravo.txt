@@ -10465,7 +10465,7 @@ bopyrid
 brookite
 blaster
 blastid
-blart
+blart 1
 blasting
 borolanite
 blastings
