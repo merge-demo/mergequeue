@@ -13421,7 +13421,7 @@ auditress
 ankylopodia
 alamiqui
 acridest
-ankyloses
+ankyloses 1
 accoll
 aminoglutaric
 antihumbuggist
