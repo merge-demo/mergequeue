@@ -8560,7 +8560,7 @@ diaphysis
 dracontiasis
 druggists
 diaphone
-discontiguous
+discontiguous 1
 diaphones
 demilitarising
 dexterously
