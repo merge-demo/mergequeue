@@ -7527,7 +7527,7 @@ graypate
 gemstones
 giggling
 gloomfully
-glitch
+glitch 1
 gemmer
 guessable
 gat
