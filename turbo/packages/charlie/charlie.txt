@@ -14402,7 +14402,7 @@ charquis
 cannot
 cyriologic
 concord
-connotively
+connotively 1
 continuity
 cirques
 cirrate
