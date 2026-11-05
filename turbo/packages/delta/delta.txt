@@ -11977,7 +11977,7 @@ disenclose
 daint
 diammine
 decimus
-domicella
+domicella 1
 distichous
 dagoes
 desmodus
