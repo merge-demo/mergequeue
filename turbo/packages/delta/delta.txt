@@ -15216,7 +15216,7 @@ dioritic
 depreciated
 dromedarist
 downing
-defamers
+defamers 1
 dolisie
 deny
 dolite
