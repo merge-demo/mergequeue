@@ -7064,7 +7064,7 @@ bushing
 bedswerver
 bespeaking
 bullalaria
-bespeaks
+bespeaks 1
 banderoling
 bespecked
 backrun
