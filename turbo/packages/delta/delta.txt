@@ -12770,7 +12770,7 @@ downcomer
 doored
 disloyalties
 dislove
-dandlingly
+dandlingly 1
 delimiters
 desirously
 decompressive
