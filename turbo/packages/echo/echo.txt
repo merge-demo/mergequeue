@@ -7558,7 +7558,7 @@ equivalently
 equalling
 embalmer
 electrocoating
-extemporal
+extemporal 1
 epichondrosis
 epichordal
 etiologically
