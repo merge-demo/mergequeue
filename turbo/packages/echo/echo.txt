@@ -9962,7 +9962,7 @@ englishize
 estuarial
 epagogic
 estuosity
-edibleness
+edibleness 1
 endophagy
 esugarization
 endowers
