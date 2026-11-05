@@ -4164,7 +4164,7 @@ beastlings
 bulgy
 beastman
 barracoutas
-beastship
+beastship 1
 beat
 benches
 beatee
