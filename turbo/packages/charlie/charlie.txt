@@ -4014,7 +4014,7 @@ carcinolysin
 cycadiform
 carcinological
 carbocyclic
-curtesy
+curtesy 1
 carcinomata
 corroborees
 cutcheries
