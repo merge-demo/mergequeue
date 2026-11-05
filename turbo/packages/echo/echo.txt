@@ -4949,7 +4949,7 @@ exigenter
 entoplastron
 endeavourer
 encouragement
-endeavouring
+endeavouring 1
 egression
 endeictic
 entropium
