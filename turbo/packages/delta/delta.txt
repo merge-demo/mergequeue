@@ -8804,7 +8804,7 @@ dipala
 diazoma
 diazonium
 demethylation
-diazotype
+diazotype 1
 dromicia
 disadvise
 deratization
