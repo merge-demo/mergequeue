@@ -753,7 +753,7 @@ gansa
 gastrohysterorrhaphy
 gravitater
 gestapos
-gerim
+gerim 1
 gunbearer
 gerkin
 galvanopuncture
