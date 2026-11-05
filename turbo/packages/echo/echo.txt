@@ -2202,7 +2202,7 @@ electrics
 electrographic
 exedrae
 esthesia
-epistome
+epistome 1
 endodontology
 esophagoplication
 eldermen
