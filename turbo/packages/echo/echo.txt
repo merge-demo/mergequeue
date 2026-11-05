@@ -6242,7 +6242,7 @@ evasively
 electrofishing
 extraepiphyseal
 ecstatica
-enrapt
+enrapt 1
 eurygaean
 enrapted
 enrapts
