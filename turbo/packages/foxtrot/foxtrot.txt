@@ -1994,7 +1994,7 @@ fothergilla
 fancy
 feebless
 fillock
-fernticle
+fernticle 1
 fouty
 functionalize
 frigiferous
