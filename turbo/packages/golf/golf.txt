@@ -5261,7 +5261,7 @@ guitarfish
 gliadine
 galvanism
 geomedicine
-gymnogenous
+gymnogenous 1
 gurish
 girondist
 glaucophane
