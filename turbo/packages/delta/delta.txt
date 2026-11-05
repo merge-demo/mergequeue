@@ -4456,7 +4456,7 @@ definitize
 disauthorize
 demetricize
 draughtmanship
-deceits
+deceits 1
 diceplay
 dpt
 damns
