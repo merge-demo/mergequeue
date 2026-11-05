@@ -19629,7 +19629,7 @@ aridian
 analogy
 aridity
 admonishes
-aridities
+aridities 1
 anaxagorean
 afghanis
 alchemilla
