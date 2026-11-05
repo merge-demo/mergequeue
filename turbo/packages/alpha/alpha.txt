@@ -9138,7 +9138,7 @@ asonant
 antifatigue
 autism
 allhallow
-abhorring
+abhorring 1
 alky
 aristogenetic
 antroversion
