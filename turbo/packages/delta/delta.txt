@@ -3217,7 +3217,7 @@ dysmerism
 dryth
 drool
 dens
-dolichocnemic
+dolichocnemic 1
 drunkards
 dissheathe
 demoniac
