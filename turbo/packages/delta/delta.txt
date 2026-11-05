@@ -11878,7 +11878,7 @@ disdenominationalize
 dishonorableness
 disdiapason
 delegatus
-distinguished
+distinguished 1
 dalliance
 dedifferentiated
 dropsical
