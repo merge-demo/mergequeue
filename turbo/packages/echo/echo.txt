@@ -10018,7 +10018,7 @@ expellable
 ethanal
 esoterical
 eternalize
-eternally
+eternally 1
 extill
 embarking
 exempting
