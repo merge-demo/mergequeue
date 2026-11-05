@@ -1219,7 +1219,7 @@ gonfalonier
 galapago
 grottos
 garapato
-getatableness
+getatableness 1
 gadded
 grocerymen
 gleetier

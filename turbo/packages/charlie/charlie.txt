@@ -7997,7 +7997,7 @@ chaconnes
 caudatolenticular
 countermovement
 cytozoa
-codirectional
+codirectional 1
 chacte
 catholicity
 chad
