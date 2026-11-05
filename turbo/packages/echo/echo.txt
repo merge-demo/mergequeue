@@ -1164,7 +1164,7 @@ entrochite
 edplot
 emplore
 edrioasteroidea
-epipany
+epipany 1
 electrotyped
 epaulette
 ejaculators
