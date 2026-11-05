@@ -4672,7 +4672,7 @@ fulica
 flewit
 floyd
 freety
-fullmouthed
+fullmouthed 1
 factable
 filicinean
 fearsome
