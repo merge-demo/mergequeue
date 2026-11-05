@@ -3101,7 +3101,7 @@ badminton
 boneblack
 barksome
 basale
-berascaling
+berascaling 1
 bisyllabism
 bathetic
 basalts
