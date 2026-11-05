@@ -8419,7 +8419,7 @@ ditties
 dialogers
 dexies
 deflater
-devide
+devide 1
 deconcentrator
 deported
 deliver

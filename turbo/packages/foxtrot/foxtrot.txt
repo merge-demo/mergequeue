@@ -5430,7 +5430,7 @@ floatless
 flirtigig
 foisonless
 fabian
-feasten
+feasten 1
 forefigure
 furor
 flurt
