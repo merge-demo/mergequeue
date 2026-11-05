@@ -30903,7 +30903,7 @@ checkerbreast
 cactaceous
 csc
 cenozoic
-cultivate
+cultivate 1
 cultivates
 cultivating
 cooeed
