@@ -6258,7 +6258,7 @@ ferromagnet
 fedoras
 flatfooting
 fustigation
-fearing
+fearing 1
 febronianism
 fewtrils
 fanteague
