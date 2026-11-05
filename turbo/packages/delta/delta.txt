@@ -1431,7 +1431,7 @@ debunks
 diploidy
 digresses
 demiurgical
-dawning
+dawning 1
 desocialize
 dawnlike
 demimetope
