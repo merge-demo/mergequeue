@@ -1574,7 +1574,7 @@ disposition
 deadlines
 desitive
 disembody
-decipolar
+decipolar 1
 duplicia 1
 direfulness
 disenthralled
