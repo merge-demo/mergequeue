@@ -10572,7 +10572,7 @@ equiprobable 1
 euphroes
 ernesse
 enteria
-escallops
+escallops 1
 eocarboniferous
 elixation
 enologies
