@@ -434,7 +434,7 @@ fauchards
 fur
 frockmaker
 fumigated
-fairship
+fairship 1
 feal
 flitting
 fogmen
