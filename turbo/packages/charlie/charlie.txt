@@ -24195,7 +24195,7 @@ crestless
 collocutory
 counterrecoil
 crepeiest
-comedial
+comedial 1
 cleaverwort
 contemplamen
 coxwain
