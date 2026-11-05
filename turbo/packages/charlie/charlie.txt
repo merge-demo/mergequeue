@@ -27123,7 +27123,7 @@ countershade
 chasms
 configurable
 cormoid
-countershine
+countershine 1
 chemosorptive
 copaiye
 countershock
