@@ -5006,7 +5006,7 @@ familiarly
 fissive
 filmcard
 fila
-feracity
+feracity 1
 flaneur
 flatbottom
 frescoes
