@@ -4889,7 +4889,7 @@ english
 erythroneocytosis
 encumbrous
 evolves
-eyednesses
+eyednesses 1
 enterocoelic
 exsanguination
 electrodialysis
