@@ -26795,7 +26795,7 @@ capelocracy
 countercurrentwise
 conversant 1
 counterdance
-counterdeclaration
+counterdeclaration 1
 cucumis
 counterdemonstrate
 counterdeputation
