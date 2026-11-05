@@ -5294,7 +5294,7 @@ gigmanism
 gymnadeniopsis
 grouping
 glyceroxide
-glycide
+glycide 1
 glabrous
 gangmaster
 glusid
