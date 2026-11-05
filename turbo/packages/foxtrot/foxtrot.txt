@@ -6224,7 +6224,7 @@ focusable
 fascinative
 formwork
 futtocks
-ferrimagnetic
+ferrimagnetic 1
 ferryway
 folden
 fractionating
