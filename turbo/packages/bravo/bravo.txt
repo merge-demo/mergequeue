@@ -12042,7 +12042,7 @@ beking
 barbascos
 boyhoods
 bebloom
-bagnios
+bagnios 1
 balisaurs
 boilable
 bromocresol
