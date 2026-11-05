@@ -5712,7 +5712,7 @@ budge
 bencite
 believingly
 brerd
-burials
+burials 1
 backsight
 bandlimit
 belight
