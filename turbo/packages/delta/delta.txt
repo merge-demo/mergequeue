@@ -7230,7 +7230,7 @@ duffels
 digitate
 decertify
 dolorous
-damnified
+damnified 1
 detection
 diamantiferous
 deadlight
