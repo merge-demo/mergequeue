@@ -26922,7 +26922,7 @@ corvets
 crosne
 contraflexure
 compradore
-colliquativeness
+colliquativeness 1
 copperleaf
 counterlath
 corticospinal
