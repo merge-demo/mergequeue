@@ -24920,7 +24920,7 @@ amminolysis
 algometer
 alopekai
 awakeners
-agravic
+agravic 1
 attractability
 awakening
 awakeningly
