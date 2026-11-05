@@ -6685,7 +6685,7 @@ bathe
 bologna
 bermensch
 bermes
-bourgeoisify
+bourgeoisify 1
 bagaudae
 biked
 blurted
