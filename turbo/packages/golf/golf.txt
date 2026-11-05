@@ -2667,7 +2667,7 @@ gonozooid
 gratefullest
 geodiferous
 gabardines
-gravelous
+gravelous 1
 girdler
 guaican
 glyconean
