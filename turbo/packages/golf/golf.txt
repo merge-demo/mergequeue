@@ -9045,7 +9045,7 @@ geog
 gobletful
 gnathophorous
 gymnure
-gastropore
+gastropore 1
 gallbladders
 galvanothermy
 guiles
