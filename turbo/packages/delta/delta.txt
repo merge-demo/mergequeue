@@ -10850,7 +10850,7 @@ dhabb
 desilicate
 drawbored
 dwayne
-disguisable
+disguisable 1
 dicaryophyte
 desmarestia
 drudging

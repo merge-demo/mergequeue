@@ -12499,7 +12499,7 @@ enzymology
 exculpative
 extoolitic
 esonarthex
-enameler
+enameler 1
 electrofusion
 extant 1
 existlessness
