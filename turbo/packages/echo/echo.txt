@@ -13725,7 +13725,7 @@ ecologies
 eliciting
 elementarity
 epicarid
-excorticate
+excorticate 1
 elatine
 endnote
 extratemporal
