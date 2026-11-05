@@ -10895,7 +10895,7 @@ forthcoming
 fractural
 foreseers
 ferrum
-ferris
+ferris 1
 fulled
 feeing
 fieldwort
