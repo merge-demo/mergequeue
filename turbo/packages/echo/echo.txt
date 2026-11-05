@@ -6259,7 +6259,7 @@ enrich
 enrichener
 ectopias
 evenforth
-errant
+errant 1
 edaphic
 enows
 electrotechnology
