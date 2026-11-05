@@ -18014,7 +18014,7 @@ dulcify
 dulcification
 dropforging
 dislodgeable
-deporture
+deporture 1
 dentelle
 dyers
 dulcified

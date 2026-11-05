@@ -10157,7 +10157,7 @@ antiempiricist
 alluminor
 ardilla
 allopelagic
-ambroid
+ambroid 1
 arboraceous
 ambrosiaceae
 adoptabilities
