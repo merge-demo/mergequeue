@@ -4225,7 +4225,7 @@ dels
 dystomic
 djelfa
 dumpy
-disconformities
+disconformities 1
 delsartian
 downplayed
 dislocate
