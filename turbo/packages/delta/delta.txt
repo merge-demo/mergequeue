@@ -4618,7 +4618,7 @@ deponer
 deaconship
 disfranchised
 deaness
-divaricating
+divaricating 1
 dawsoniaceae
 disagglomeration
 disfunction
