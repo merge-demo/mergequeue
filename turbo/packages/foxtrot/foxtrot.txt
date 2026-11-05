@@ -2489,7 +2489,7 @@ fibrinoid
 fry
 fernyear
 funs
-fernshaw
+fernshaw 1
 fordo
 forehatch
 feck
