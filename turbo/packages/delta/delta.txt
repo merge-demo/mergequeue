@@ -4739,7 +4739,7 @@ douar
 depender
 dogbody
 depraves
-dsnames
+dsnames 1
 democratic
 dividedness
 democratisation
