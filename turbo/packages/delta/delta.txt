@@ -2789,7 +2789,7 @@ diamondized
 decreet
 demarchy
 desmogen
-dugal
+dugal 1
 dop
 dorsalward
 decremeter
