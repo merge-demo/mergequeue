@@ -9490,7 +9490,7 @@ emperor
 eogaean
 euryalean
 enghosted
-excurved
+excurved 1
 eupneas
 essayistic
 esca
