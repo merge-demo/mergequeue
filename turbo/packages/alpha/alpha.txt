@@ -191,7 +191,7 @@ abbasi
 abbasside
 alleviater
 altostratus
-ashtray
+ashtray 1
 arctogaea
 aerologist
 anilins
