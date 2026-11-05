@@ -6123,7 +6123,7 @@ frowardness
 faraway
 faciata
 flourish
-foully
+foully 1
 freudians
 formamide
 fruitarianism
