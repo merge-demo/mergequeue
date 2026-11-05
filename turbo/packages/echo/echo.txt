@@ -10898,7 +10898,7 @@ easternize 1
 endosmosis
 enterokinase
 enfin
-encephalocoele
+encephalocoele 1
 epibaterium
 euktolite
 endosporously
