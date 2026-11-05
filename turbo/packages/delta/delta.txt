@@ -14720,7 +14720,7 @@ dobos
 drumlier
 damaging
 dactyloscopic
-detained
+detained 1
 decahedral
 doctorbird
 dekametre
