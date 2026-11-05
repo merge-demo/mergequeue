@@ -17341,7 +17341,7 @@ auguste
 actors
 apeirophobia
 autocollimator
-algaecide
+algaecide 1
 antiforeign
 apostatically
 apostatise
