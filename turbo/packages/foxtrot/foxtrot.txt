@@ -5765,7 +5765,7 @@ foge 1
 freckliness
 foehns
 finebent
-finings
+finings 1
 fulth
 ferrochrome
 flitfold
