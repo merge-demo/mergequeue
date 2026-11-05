@@ -6831,7 +6831,7 @@ embarque
 enameloma
 extractive
 eleusinion
-entomologies
+entomologies 1
 entomologised
 emblemized
 eelskin
