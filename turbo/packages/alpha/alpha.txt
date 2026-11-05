@@ -3618,7 +3618,7 @@ adenitis
 alces
 anomaloscope
 adenoacanthoma
-adenocarcinomas
+adenocarcinomas 1
 antipellagric
 adenochrome
 abnumerable
