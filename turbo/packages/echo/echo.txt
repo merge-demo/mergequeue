@@ -9786,7 +9786,7 @@ eachwhere
 exfoliated
 equalisation
 extenuator
-envermeil
+envermeil 1
 emplanement
 extracellular
 electively
