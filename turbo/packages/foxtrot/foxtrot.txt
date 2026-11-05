@@ -3222,7 +3222,7 @@ flexionless
 fuchsone
 forefend
 foodlessness
-festered
+festered 1
 falern
 forewarnings
 flinthearted
