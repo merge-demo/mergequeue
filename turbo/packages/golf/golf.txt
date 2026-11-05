@@ -2784,7 +2784,7 @@ gramophonist
 gyne
 gershon
 guzzledom
-gyges
+gyges 1
 glovelike
 gazettal
 grigris
