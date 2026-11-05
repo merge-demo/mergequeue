@@ -10413,7 +10413,7 @@ greenstuff
 gyracanthus
 gourdhead
 granitelike
-gigot
+gigot 1
 geejee
 glareworm
 gimirrai
