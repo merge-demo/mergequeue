@@ -10337,7 +10337,7 @@ elvers
 ecumenistic
 endorsement
 englacially
-excitability
+excitability 1
 exhibitive
 encoder
 ellagic
