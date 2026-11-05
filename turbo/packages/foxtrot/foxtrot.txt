@@ -4006,7 +4006,7 @@ furcula
 friese 1
 flattish
 fireplace
-forfeited
+forfeited 1
 forlay
 flunk
 ferric
