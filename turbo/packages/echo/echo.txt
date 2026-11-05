@@ -4106,7 +4106,7 @@ eighthes
 earlships
 ecardinal
 endosarc
-epitonic
+epitonic 1
 electrorefine
 excerptible
 emplecton
