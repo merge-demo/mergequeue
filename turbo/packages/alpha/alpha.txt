@@ -254,7 +254,7 @@ atmiatry
 abbreviation
 abc
 angiohypotonia
-abcoulomb
+abcoulomb 1
 abietineous
 automative
 aba
