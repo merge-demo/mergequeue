@@ -3073,7 +3073,7 @@ gleanable
 gali
 gubat
 ghouls
-gibbol
+gibbol 1
 glossarist
 garo
 groaned
