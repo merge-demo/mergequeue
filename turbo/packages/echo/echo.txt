@@ -11655,7 +11655,7 @@ espousals
 elasmobranch
 electromechanics
 eriophyid
-ethnical
+ethnical 1
 exaestuate
 eyeball
 erept
