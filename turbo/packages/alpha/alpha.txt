@@ -22696,7 +22696,7 @@ acerbic
 absent
 aeronomic
 abjuratory
-acumen
+acumen 1
 amphibolostylous
 apoise
 atherurus
