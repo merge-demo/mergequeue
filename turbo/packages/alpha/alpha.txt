@@ -17371,7 +17371,7 @@ aerogun
 arithmometer
 apostille
 argos
-antagonist
+antagonist 1
 aglycosuric
 anatiferous
 apostleship
