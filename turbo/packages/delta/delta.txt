@@ -12504,7 +12504,7 @@ dugout
 disowning
 disinfecting
 denormalized
-disinfections
+disinfections 1
 decrowned
 decani
 diffeomorphic
