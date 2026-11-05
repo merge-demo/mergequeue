@@ -16826,7 +16826,7 @@ aphorismos
 avatars
 asyndesis
 autopore
-aphorist
+aphorist 1
 ailuropus
 autoportraiture
 aphorize
