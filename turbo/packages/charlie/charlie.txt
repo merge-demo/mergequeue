@@ -31710,7 +31710,7 @@ carbuncled
 cotyloid
 cuspidor
 cephalopodan
-counterapse
+counterapse 1
 cusping
 cur
 cuspis
