@@ -3612,7 +3612,7 @@ fumblers
 ferroinclave
 fence
 forehalf
-finfish
+finfish 1
 fimbristylis
 fuchsines
 foreordination
