@@ -10880,7 +10880,7 @@ disable
 delusions
 disabled
 doorplates
-defrayer
+defrayer 1
 deterges
 demersion
 divulgement
