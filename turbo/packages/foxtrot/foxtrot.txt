@@ -7506,7 +7506,7 @@ fellatah
 foisting
 floppily
 fastly
-fullface
+fullface 1
 forebode
 fauld
 frictionlessness
