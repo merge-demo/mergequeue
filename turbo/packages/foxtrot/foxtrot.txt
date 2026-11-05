@@ -4958,7 +4958,7 @@ flamy
 fan
 facepiece
 floorages
-flamingant
+flamingant 1
 foremarch
 flaminical
 fomenters
