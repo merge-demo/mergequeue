@@ -7336,7 +7336,7 @@ gildship
 greyflies
 glumpiness
 guildhall
-gowl
+gowl 1
 gosports
 gentianose
 gossamered
