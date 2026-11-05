@@ -4025,7 +4025,7 @@ grandness
 gutturals
 gerundive
 glossolabiopharyngeal
-gushingly
+gushingly 1
 graybacks
 grossierete
 giliak
