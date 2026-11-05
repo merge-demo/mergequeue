@@ -10328,7 +10328,7 @@ ethnographer
 equinox
 elephantine
 enquired
-explain
+explain 1
 etwite
 electrometallurgical
 evadne
