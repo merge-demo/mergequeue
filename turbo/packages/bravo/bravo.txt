@@ -6218,7 +6218,7 @@ benne 1
 bennes
 beveling
 bungalow
-bennets
+bennets 1
 bootlace
 bearleap
 bookism
