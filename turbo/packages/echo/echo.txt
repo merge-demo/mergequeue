@@ -8988,7 +8988,7 @@ exhausted
 expletively
 erysipeloid
 endothoracic
-extrinsicate
+extrinsicate 1
 exhaustive
 embiotocid
 extinctionist

@@ -8345,7 +8345,7 @@ glenoid
 gasket
 geophytic
 gnarling
-gnar
+gnar 1
 glunimie
 genitalia
 greeniest
