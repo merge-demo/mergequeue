@@ -6788,7 +6788,7 @@ declarative
 dojo
 dietzeite
 degenerations
-distruster
+distruster 1
 desirer
 drachma
 daira
