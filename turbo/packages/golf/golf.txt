@@ -4909,7 +4909,7 @@ glauberite
 glair
 glaire
 glosses
-gigger
+gigger 1
 growliness
 glaired
 geomaly
