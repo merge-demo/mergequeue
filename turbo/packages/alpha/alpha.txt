@@ -4080,7 +4080,7 @@ areometric
 admit
 allowanced
 anisosthenic
-aldrin
+aldrin 1
 admits
 admittance
 admitted
