@@ -12593,7 +12593,7 @@ electrophore
 eranthemum
 extramurally
 emeus
-entorganism
+entorganism 1
 elephantidae
 epiphysitis
 equiaxial
