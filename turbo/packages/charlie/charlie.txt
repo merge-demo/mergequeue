@@ -31352,7 +31352,7 @@ chauldron
 countertrespass
 curia
 clodpoles
-curiae
+curiae 1
 cobwebbing
 curiage
 clasher
