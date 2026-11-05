@@ -30499,7 +30499,7 @@ cubicovariant
 corozos
 cubane
 cubanite
-cubatory
+cubatory 1
 contraclockwise
 counterweighed
 cubby
