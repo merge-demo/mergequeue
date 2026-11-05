@@ -10164,7 +10164,7 @@ deutoxide
 drillability
 dispassioned
 deripia
-declarable
+declarable 1
 dehonestate
 demirevetment
 distillation
