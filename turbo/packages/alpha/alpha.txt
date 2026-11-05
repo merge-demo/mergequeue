@@ -2642,7 +2642,7 @@ ashkenazim
 acquitter
 agnates
 acrab
-anacleticum
+anacleticum 1
 acrania
 arius
 actresses
