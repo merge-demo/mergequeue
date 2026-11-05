@@ -3466,7 +3466,7 @@ bovarism
 basuto
 bancos
 buphaga
-befogged
+befogged 1
 barkpeeler
 boobook
 bolloxed
