@@ -5982,7 +5982,7 @@ anatman
 aggrege
 allopathy
 amphigoric
-appraisable
+appraisable 1
 anergia
 angulosplenial
 alimenter
