@@ -2445,7 +2445,7 @@ bareca
 briar
 barefaced
 bombacaceous
-bonete
+bonete 1
 bradenhead
 byres
 brassic
