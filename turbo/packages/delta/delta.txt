@@ -17712,7 +17712,7 @@ dhauri
 dubb
 deferentitis
 demidevil
-dullhearted
+dullhearted 1
 dynamometer
 dotal
 dwarves
