@@ -7827,7 +7827,7 @@ cruisers
 calcinable
 chinned
 cesious
-cesium
+cesium 1
 cesiums
 cespititious
 cespititous
