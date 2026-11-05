@@ -23650,7 +23650,7 @@ alleles
 aphrodisiacs
 arables
 amylodextrin
-aureole
+aureole 1
 autosomatognostic
 aureoled
 anemograph
