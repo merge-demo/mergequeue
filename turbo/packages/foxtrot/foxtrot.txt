@@ -6475,7 +6475,7 @@ fissilingual
 farriery
 flatboat
 fording
-fetishists
+fetishists 1
 frosted
 foughten
 flourlike
