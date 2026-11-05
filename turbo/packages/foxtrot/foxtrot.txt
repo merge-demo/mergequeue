@@ -7596,7 +7596,7 @@ fructuarius
 funiculus
 fanciers
 flintworker
-freezable
+freezable 1
 fervors
 forril
 festino
