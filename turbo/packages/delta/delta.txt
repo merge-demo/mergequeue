@@ -3942,7 +3942,7 @@ distensibility
 doorknobs
 delayable
 depersonalised
-demes
+demes 1
 delayer
 delayful
 dooli
