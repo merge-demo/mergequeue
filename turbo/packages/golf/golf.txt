@@ -2665,7 +2665,7 @@ gribbles
 grudgingness
 gonozooid
 gratefullest
-geodiferous
+geodiferous 1
 gabardines
 gravelous
 girdler
