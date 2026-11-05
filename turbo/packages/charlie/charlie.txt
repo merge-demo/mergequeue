@@ -29150,7 +29150,7 @@ crioceras
 crioceratite
 cinefaction
 crioceratitic
-companionably
+companionably 1
 chirruping
 committedly
 cheque
