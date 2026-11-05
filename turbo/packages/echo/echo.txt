@@ -2527,7 +2527,7 @@ extratribal 1
 excepting
 epithelilia
 echoist
-electromagnetism
+electromagnetism 1
 edgestone
 euomphalus
 elaborations
