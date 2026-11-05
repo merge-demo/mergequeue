@@ -22224,7 +22224,7 @@ antiphon
 astigmometer
 aglossa
 astigmometry
-alluviate
+alluviate 1
 algologist
 aegritude
 apprecate
