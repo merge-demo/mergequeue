@@ -4592,7 +4592,7 @@ fool
 feigned
 frenchily
 fingery
-forestwards
+forestwards 1
 fibrinokinase
 fooldom
 flirtishness
