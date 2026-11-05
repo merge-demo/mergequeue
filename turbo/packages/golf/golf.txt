@@ -10488,7 +10488,7 @@ glairier
 galangals
 gumweeds
 gramenite
-gouldian
+gouldian 1
 gregal
 gluiest
 gimballed
