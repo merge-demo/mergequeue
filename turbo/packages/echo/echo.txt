@@ -6200,7 +6200,7 @@ enolic
 explicableness
 etiologic
 enological
-enterclose
+enterclose 1
 execs
 etagre
 ellipsoid
