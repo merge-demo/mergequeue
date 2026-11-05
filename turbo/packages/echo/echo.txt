@@ -6854,7 +6854,7 @@ engle
 econometrically
 extramarginal
 entomophila
-entomophobia
+entomophobia 1
 earwaxes
 esthesiography
 eucryptite
