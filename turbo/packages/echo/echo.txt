@@ -10372,7 +10372,7 @@ edmond
 embrase
 epigeous
 earwigging
-epiphanize
+epiphanize 1
 electropositive
 enfranchisable
 exodromic
