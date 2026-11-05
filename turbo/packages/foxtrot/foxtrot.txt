@@ -9963,7 +9963,7 @@ fragment
 formularizer
 forcers
 frigolabile
-fumigate
+fumigate 1
 feloniousness
 frigoric
 futureless
