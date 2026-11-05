@@ -18377,7 +18377,7 @@ amphiploid
 antrotome
 albuginaceae
 adcraft
-anosognosia
+anosognosia 1
 araire
 amphigory
 appendage
