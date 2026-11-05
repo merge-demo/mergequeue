@@ -8782,7 +8782,7 @@ defeat
 defrocking
 dictaphone
 dequeen
-depeter
+depeter 1
 dragonkind
 diestruses
 deftness
