@@ -4227,7 +4227,7 @@ gyron
 gynaecological
 gabbiness
 gobbing
-gynaeconitis
+gynaeconitis 1
 geysers
 gaillard
 glairiness
