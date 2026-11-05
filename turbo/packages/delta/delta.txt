@@ -10506,7 +10506,7 @@ dilapidator
 decentest
 depressants
 defoggers
-depectible
+depectible 1
 diplacuses
 diple
 dechemicalize
