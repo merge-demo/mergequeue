@@ -11989,7 +11989,7 @@ disintertwine
 divinest
 diapsid
 driest
-duckfoot
+duckfoot 1
 dwarfy
 dromaeus
 daverdy

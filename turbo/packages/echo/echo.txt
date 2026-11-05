@@ -6090,7 +6090,7 @@ eugenic
 eulachon
 elasmosaur
 ebullience
-evanesce
+evanesce 1
 embryologies
 epifauna
 epirrhema
