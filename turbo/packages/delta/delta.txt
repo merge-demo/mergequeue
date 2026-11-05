@@ -2115,7 +2115,7 @@ duddies
 despoilment
 decameron
 digraph
-decamethonium
+decamethonium 1
 decametric
 deerhound
 decanal
