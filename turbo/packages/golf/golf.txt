@@ -10438,7 +10438,7 @@ gutweed
 groundsill
 gilia
 gesneraceous
-gradative
+gradative 1
 glycaemic
 gomphodont
 geobiologic
