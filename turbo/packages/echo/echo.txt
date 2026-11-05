@@ -4406,7 +4406,7 @@ essence
 expectorate
 ecgonine
 electrophotometry
-eternized
+eternized 1
 electrophysiologic
 electroencephalogram
 excentrical
