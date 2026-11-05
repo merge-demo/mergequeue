@@ -2368,7 +2368,7 @@ exhaustable
 empoisonment
 engorged
 exocone
-egoistic
+egoistic 1
 eurytomidae
 electrocutional
 enfleurage
