@@ -18377,7 +18377,7 @@ calorize
 cognatus
 cementum
 cognisable
-catholicized
+catholicized 1
 calpulli
 corporal
 coenosarcal
