@@ -4203,7 +4203,7 @@ egoize
 enwound
 emptiers
 emptio
-exuberantness
+exuberantness 1
 emptor
 eccyclema
 eggeater
