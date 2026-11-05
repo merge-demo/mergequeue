@@ -8117,7 +8117,7 @@ chainless
 counteractions
 crosscheck
 coelodont
-chlortetracycline
+chlortetracycline 1
 chumping
 craspedon
 chainlike
