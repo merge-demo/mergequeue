@@ -12245,7 +12245,7 @@ entrochus
 efflorescency
 enteromegaly
 els
-everduring
+everduring 1
 exemplarism
 exempli
 embodier
