@@ -1246,7 +1246,7 @@ beshiver
 beeswaxes 1
 bakshishes
 bediaper
-beylics
+beylics 1
 barkers
 beleve
 bala
