@@ -11547,7 +11547,7 @@ demicannon
 denotable
 dollarfish
 drawnwork
-devillike
+devillike 1
 disconsent
 diphthongised
 dithering
