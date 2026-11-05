@@ -2788,7 +2788,7 @@ gyges
 glovelike
 gazettal
 grigris
-gormless
+gormless 1
 gloiopeltis
 gentiobiose
 guardianess
