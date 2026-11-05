@@ -2703,7 +2703,7 @@ evertile
 electiveness
 enchodontid
 exogastritis
-electrotype
+electrotype 1
 entosphenoid
 electrotypy
 enolase
