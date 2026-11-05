@@ -6707,7 +6707,7 @@ eurytherm
 epistrophy
 enthelminthic
 exungulate
-effume
+effume 1
 ectosomal
 executionist
 extratarsal
