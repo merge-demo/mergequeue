@@ -1717,7 +1717,7 @@ accusants
 advowsons
 aerical
 accusatively
-accusatives
+accusatives 1
 avidly
 auricomous
 anglicanum
