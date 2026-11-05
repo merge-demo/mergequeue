@@ -6236,7 +6236,7 @@ braceleted
 bimodulus
 benni
 bennies
-benomyl
+benomyl 1
 benightedness
 benorth
 benefact
