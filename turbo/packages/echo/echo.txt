@@ -12863,7 +12863,7 @@ envenoms
 echafaudage
 escortment
 ende
-erosions
+erosions 1
 expandingly
 exacts
 expansibility
