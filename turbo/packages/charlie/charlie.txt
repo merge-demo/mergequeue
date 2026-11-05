@@ -19519,7 +19519,7 @@ colporter
 colporteurs 1
 colposcopy
 crocodiles
-cornstook
+cornstook 1
 colstaff
 cnidogenous
 chasid
