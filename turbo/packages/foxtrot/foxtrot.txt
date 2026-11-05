@@ -5600,7 +5600,7 @@ frapler
 floatable 1
 flatuous
 fiords
-flickermouse
+flickermouse 1
 flannelmouthed
 flowery
 furbearer
