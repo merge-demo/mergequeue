@@ -6504,7 +6504,7 @@ felonry
 featherbedded
 forbearers
 frenzied
-floozy
+floozy 1
 filmlands
 frills
 falter
