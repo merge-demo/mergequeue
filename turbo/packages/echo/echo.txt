@@ -4787,7 +4787,7 @@ enduro
 epidosite
 easterner
 eccoproticophoric
-escape
+escape 1
 estrogenicity
 embrangle
 extols
