@@ -6711,7 +6711,7 @@ desiderative
 drunkard
 disorderliness
 delirament
-darnex
+darnex 1
 depends
 diatribes
 desiderta
