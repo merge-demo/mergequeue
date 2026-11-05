@@ -26670,7 +26670,7 @@ chargeableness
 countdown
 counted
 colourfully
-countenanced
+countenanced 1
 cyrenian
 countenancer
 carbazine
