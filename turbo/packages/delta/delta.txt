@@ -15848,7 +15848,7 @@ dozen
 dorsothoracic
 diablotin
 ddt
-discoursed
+discoursed 1
 dialdehyde
 devilship
 deiced
