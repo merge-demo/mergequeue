@@ -6331,7 +6331,7 @@ exuberant
 enserfed
 ekamanganese
 enshade
-enshawl
+enshawl 1
 espace
 eaglelike
 ensheathe
