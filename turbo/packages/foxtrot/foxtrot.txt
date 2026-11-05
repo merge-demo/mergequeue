@@ -6048,7 +6048,7 @@ flet
 foun
 farandine
 forethoughted
-flewed
+flewed 1
 fateful
 freath
 floriation
