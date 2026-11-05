@@ -15174,7 +15174,7 @@ discloak
 disbalance
 doleance
 delectably
-dolefully
+dolefully 1
 detainment
 drawlier
 desertedness
