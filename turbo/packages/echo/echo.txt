@@ -13179,7 +13179,7 @@ elderlies
 endostracal
 eyrar
 expiration
-exponentiation
+exponentiation 1
 epaxial
 exotica
 emmantle
