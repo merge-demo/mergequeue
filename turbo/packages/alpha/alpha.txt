@@ -17736,7 +17736,7 @@ analogice
 amidogen
 antidotism
 applewoman
-antigrammaticalness
+antigrammaticalness 1
 adopts
 aestethic
 adaptationally
