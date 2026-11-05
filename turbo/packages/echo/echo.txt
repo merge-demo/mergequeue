@@ -13511,7 +13511,7 @@ epigrapher
 elinor
 equipollence
 ectosteal
-examine
+examine 1
 elephantous
 erotology
 exteriorization
