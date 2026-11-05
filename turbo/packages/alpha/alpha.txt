@@ -24509,7 +24509,7 @@ antimoniated
 autoxidation
 autoxidator
 autoxidizability
-autoxidizable
+autoxidizable 1
 autoxidize
 accloy
 antepenultimate
