@@ -9978,7 +9978,7 @@ fairness
 fossilising
 frijole
 fourcher
-footprint
+footprint 1
 footpaths
 followeth
 foreshroud
