@@ -2239,7 +2239,7 @@ electioneer
 elaphurine
 eyre
 extramoral
-elevatory
+elevatory 1
 exocolitis
 effluve
 endoplasma
