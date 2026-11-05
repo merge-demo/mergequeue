@@ -13298,7 +13298,7 @@ englishmen
 exorcisms
 explosively
 enolization
-explosiveness
+explosiveness 1
 equipt
 electromyograph
 elusively
