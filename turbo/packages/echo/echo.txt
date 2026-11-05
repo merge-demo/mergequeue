@@ -10668,7 +10668,7 @@ ecrasite
 expeditate
 entwine
 excitory
-euchlorhydria
+euchlorhydria 1
 endocytosis
 estragon
 ethidene
