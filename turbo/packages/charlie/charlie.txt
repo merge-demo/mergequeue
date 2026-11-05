@@ -9050,7 +9050,7 @@ charms
 charneco
 charnockite
 covarecan
-charnockites
+charnockites 1
 cluniacensian
 charnu
 colorfastness
