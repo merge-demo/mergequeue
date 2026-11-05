@@ -5304,7 +5304,7 @@ gimps
 glycogenolytic
 gangsters
 gonidiferous
-gammaroid
+gammaroid 1
 goodman
 gentilhomme
 globularly
