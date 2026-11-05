@@ -14023,7 +14023,7 @@ cypriniform
 cauline
 cyprinin
 copyhold
-clerklier
+clerklier 1
 condimental
 caecal
 clerics
