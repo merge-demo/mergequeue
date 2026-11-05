@@ -7453,7 +7453,7 @@ detrude
 darbha
 diplegic
 defrosts
-dich
+dich 1
 dermoplasty
 diffide
 djellab
