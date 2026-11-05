@@ -15263,7 +15263,7 @@ diamylose
 diluviums
 dolmas
 dolmen
-desubstantiate
+desubstantiate 1
 densimetry
 dolomedes
 discovery
