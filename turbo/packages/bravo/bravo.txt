@@ -5459,7 +5459,7 @@ beatless
 behoved
 behoves
 behoving
-battements
+battements 1
 babbitts
 behowled
 broken
