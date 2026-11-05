@@ -22894,7 +22894,7 @@ applicabilities
 atomology
 auras
 afb
-atonable
+atonable 1
 atonalistic
 amhran
 astringed
