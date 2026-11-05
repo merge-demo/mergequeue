@@ -19648,7 +19648,7 @@ coma
 comprobate
 carillon
 comacine
-comade
+comade 1
 comagmatic
 comake
 comaker
