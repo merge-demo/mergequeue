@@ -6778,7 +6778,7 @@ frosteds
 fledgeless
 foredevised
 floridean
-foldaway
+foldaway 1
 feretory
 fourling
 ferryman

@@ -11542,7 +11542,7 @@ diphead 1
 disconnecting
 disconnection
 dibber
-diplococcic
+diplococcic 1
 demicannon
 denotable
 dollarfish
