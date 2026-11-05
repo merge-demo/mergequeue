@@ -26312,7 +26312,7 @@ cyclostomate
 cheung
 costochondral
 costogenic
-costoinferior
+costoinferior 1
 cephaloconic
 clinandrium
 clutter

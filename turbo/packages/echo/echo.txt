@@ -5565,7 +5565,7 @@ enduringness
 estimably
 enrichment
 endogens
-epistasy
+epistasy 1
 ethologist
 enflaming 1
 epiklesis
