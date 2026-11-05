@@ -10523,7 +10523,7 @@ disserviceableness
 ddname
 derate
 doorsills
-deliciate
+deliciate 1
 diceratidae
 diazotate
 deipotent
