@@ -3440,7 +3440,7 @@ goutily
 glaucosis
 glorioles
 gavialoid
-glyptics
+glyptics 1
 gamont
 gesling
 gymkhanas
