@@ -9879,7 +9879,7 @@ bittered
 beyerite
 bitterender
 boulevardize
-ballooning
+ballooning 1
 bapt
 bemingling
 baffed
