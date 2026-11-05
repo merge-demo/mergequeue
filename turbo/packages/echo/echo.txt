@@ -3032,7 +3032,7 @@ elixir
 enwall
 epinephrine 1
 ecblastesis
-exhortatory
+exhortatory 1
 elixiviate
 excerptor
 ensheathes
