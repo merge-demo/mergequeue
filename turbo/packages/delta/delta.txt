@@ -3411,7 +3411,7 @@ diversely
 deflocculant
 dragsman
 dimethylhydrazine
-downrightness
+downrightness 1
 denationalization
 dissatisfy
 dowly
