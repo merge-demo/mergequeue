@@ -2226,7 +2226,7 @@ frecklish
 fondlesome 1
 fluorinates
 foals
-freon
+freon 1
 feminineness
 feudee
 freshmanhood
