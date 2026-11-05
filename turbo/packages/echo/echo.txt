@@ -8321,7 +8321,7 @@ expressibly
 endured
 enchannel
 exercised
-emulating
+emulating 1
 eagling
 epitheme
 eudemony
