@@ -5698,7 +5698,7 @@ depletive
 disparities
 dishearteningly
 delthyrium
-deploy
+deploy 1
 desipramine
 despotic
 deltoids
