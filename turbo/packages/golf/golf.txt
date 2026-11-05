@@ -5836,7 +5836,7 @@ gynecia
 greggle
 gather
 greekish
-gedrite
+gedrite 1
 glutetei
 golliwog
 geocarpic
