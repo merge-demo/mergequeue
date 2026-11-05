@@ -6332,7 +6332,7 @@ goblins
 goldenpert
 gallivanters
 gebang
-gardevisure
+gardevisure 1
 gobo
 globins
 gaybine
