@@ -1773,7 +1773,7 @@ calvaire
 cordage
 calvary
 countergarrison
-curagh
+curagh 1
 calvarial
 calvaries
 calvarium
