@@ -11642,7 +11642,7 @@ fustiness
 fustoc
 fussily
 fusulae
-feathery
+feathery 1
 fusure
 foining
 fibroses
