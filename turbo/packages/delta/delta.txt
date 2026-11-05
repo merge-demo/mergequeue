@@ -18600,7 +18600,7 @@ dustcart
 devocalisation
 distance
 decrepitly
-dustcover
+dustcover 1
 diplacanthidae
 diatonicism
 distent
