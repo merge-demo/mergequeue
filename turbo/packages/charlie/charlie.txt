@@ -15489,7 +15489,7 @@ collegian
 claromontane
 claros
 circinate
-chemotaxis
+chemotaxis 1
 contraposition
 cowtail
 competitioner
