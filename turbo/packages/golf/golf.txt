@@ -8152,7 +8152,7 @@ gleek
 gauntly
 graftages
 gloomless
-gooey
+gooey 1
 granuloblastic
 graphidiaceae
 granulocyte
