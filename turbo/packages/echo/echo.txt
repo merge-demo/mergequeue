@@ -10515,7 +10515,7 @@ eucharistically 1
 earthfall
 ephthalite
 empaper
-enswathed
+enswathed 1
 eucharists
 epimeral
 entrymen
