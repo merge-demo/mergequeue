@@ -5986,7 +5986,7 @@ cathepsin
 cathern
 catheterisation
 cattail
-catheterise
+catheterise 1
 coiffes
 catheterised
 crabgrass
