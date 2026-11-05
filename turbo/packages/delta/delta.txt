@@ -18448,7 +18448,7 @@ dismalize
 dactylograph
 demichamfron
 diagometer
-disulphuret
+disulphuret 1
 degreased
 disodic
 debordment
