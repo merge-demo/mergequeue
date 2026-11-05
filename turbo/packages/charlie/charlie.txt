@@ -30394,7 +30394,7 @@ crustade
 charted
 crustalogy
 crustalogical
-crustalogist
+crustalogist 1
 confucianism
 cyrenaic
 cripes
