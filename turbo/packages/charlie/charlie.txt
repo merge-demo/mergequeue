@@ -8641,7 +8641,7 @@ chanterelle
 chondroseptum
 chanters
 cutters
-chantership
+chantership 1
 chanteur
 chanteuse
 cisrhenane
