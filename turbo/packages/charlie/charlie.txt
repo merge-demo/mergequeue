@@ -18129,7 +18129,7 @@ coteful
 carpe
 coequalness
 chopping
-coequals
+coequals 1
 coequate
 chiotilla
 centerward
