@@ -4429,7 +4429,7 @@ dokhma
 dird
 demerit
 demiluster
-damoetas
+damoetas 1
 drones
 despairfulness
 desultory
