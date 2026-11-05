@@ -4934,7 +4934,7 @@ emulatress
 eversion
 endeavour
 endamaging
-estreated
+estreated 1
 ericeticolous
 exilable
 effacer
