@@ -16615,7 +16615,7 @@ detesting
 dragonwort
 dedolent
 desoxyribonuclease
-dragoonable
+dragoonable 1
 denunciable
 dragoonage
 dragrope
