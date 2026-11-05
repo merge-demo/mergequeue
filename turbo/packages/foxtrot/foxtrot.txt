@@ -5366,7 +5366,7 @@ farrier
 fettles
 flanken
 feebleness
-fullmouth
+fullmouth 1
 fascia 1
 flitterbat
 formalin
