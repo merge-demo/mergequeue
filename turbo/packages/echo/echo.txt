@@ -9011,7 +9011,7 @@ erythemas
 earing
 ensnarement
 eunuchized
-etiolize
+etiolize 1
 equiponderous
 ebcasc
 effund
