@@ -1364,7 +1364,7 @@ dauting
 delta
 decurionate
 duodecillion
-denierage
+denierage 1
 diatomin
 doyennes
 derry
