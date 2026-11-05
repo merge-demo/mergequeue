@@ -7637,7 +7637,7 @@ exhumations
 eccentricities
 elapse
 eoliths
-enterohelcosis
+enterohelcosis 1
 epicortical
 enterostomy
 esere
