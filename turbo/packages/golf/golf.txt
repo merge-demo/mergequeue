@@ -8594,7 +8594,7 @@ griqua
 gravity
 germinal
 gradually
-gawsy
+gawsy 1
 gravitic
 gurgeons
 griped
