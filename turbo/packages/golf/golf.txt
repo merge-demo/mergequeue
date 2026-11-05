@@ -5054,7 +5054,7 @@ grapplers
 gloxinia
 glasshouses
 granulitization
-gateaux
+gateaux 1
 glued
 gnarr
 griecep
