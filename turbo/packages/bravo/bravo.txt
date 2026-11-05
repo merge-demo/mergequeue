@@ -10856,7 +10856,7 @@ belauds
 blastomycetic
 blowgun
 blighters
-bestowing
+bestowing 1
 bluish
 bribetaker
 burroughs
