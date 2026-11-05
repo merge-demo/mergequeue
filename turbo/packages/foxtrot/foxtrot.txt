@@ -10516,7 +10516,7 @@ fiefs
 frouziest
 flite
 firmisternial
-foldstool
+foldstool 1
 floristry
 fusiliers
 fetichmonger

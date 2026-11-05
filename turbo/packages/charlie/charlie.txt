@@ -17951,7 +17951,7 @@ centrist
 ciborium
 clubwood
 circumvolving
-coelentera
+coelentera 1
 complacentially
 cubicle
 cookshack
