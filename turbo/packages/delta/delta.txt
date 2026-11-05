@@ -14820,7 +14820,7 @@ distinctness
 diallage
 doctorless
 diffusibly
-disorderly
+disorderly 1
 doctress
 due
 discombobulation
