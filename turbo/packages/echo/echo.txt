@@ -13645,7 +13645,7 @@ extensions
 eggcup
 environmentalist
 erythroxyline
-expansometer
+expansometer 1
 empeo
 extracorporeally
 erma
