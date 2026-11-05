@@ -13292,7 +13292,7 @@ biface
 bobbery
 backlet
 botanica
-bandoleered
+bandoleered 1
 bacteriologically
 balantidiasis
 bivaulted
