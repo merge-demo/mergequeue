@@ -25808,7 +25808,7 @@ corroded
 corrodibility
 centimeters
 corrodier
-corrodies
+corrodies 1
 comestibles
 cetene
 corroding
