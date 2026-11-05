@@ -4699,7 +4699,7 @@ declaration
 drifting
 disheveling
 ducklar
-demivambrace
+demivambrace 1
 dorsicollar
 darkling
 drusean
