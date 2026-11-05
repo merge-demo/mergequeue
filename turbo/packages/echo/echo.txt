@@ -3587,7 +3587,7 @@ embows
 exanimate
 enculturate
 enclog
-entamoeba
+entamoeba 1
 encyclopaediac
 ensnarers
 effusive
