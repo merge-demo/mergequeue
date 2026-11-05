@@ -7254,7 +7254,7 @@ ganch
 getah
 gangion
 garlicmonger
-governorate
+governorate 1
 gourmands
 glassmaker
 generosity
