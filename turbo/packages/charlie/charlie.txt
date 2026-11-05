@@ -9140,7 +9140,7 @@ chartulary
 cypris
 cartoned
 coalface
-chartularies
+chartularies 1
 chartulas
 charwoman
 centipedes
