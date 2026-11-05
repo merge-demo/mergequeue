@@ -7280,7 +7280,7 @@ dasya
 dimmy
 disquiet
 dazzled
-discompt
+discompt 1
 deglutinated
 dentines
 dowage
