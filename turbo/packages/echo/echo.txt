@@ -7774,7 +7774,7 @@ etymologies
 endophytal
 etherizer
 ergate
-explorator
+explorator 1
 epiproct
 electrologists
 expropriating
