@@ -3786,7 +3786,7 @@ fibrinolyses
 fixated
 firefangs
 fibrosity
-freya
+freya 1
 flawiest
 fluorochrome
 ferroconcretor
