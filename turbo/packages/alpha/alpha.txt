@@ -23813,7 +23813,7 @@ australian
 anorthographically
 australioid
 anticonservatively
-allicit
+allicit 1
 amatorious
 allelomorphism
 acicular
