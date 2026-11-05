@@ -8716,7 +8716,7 @@ cellarmen
 coccolithophorid
 chapellany
 chapelled
-cimnel
+cimnel 1
 conciliation
 carditic
 cobnut
