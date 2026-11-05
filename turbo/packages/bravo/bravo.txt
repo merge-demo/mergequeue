@@ -16604,7 +16604,7 @@ bourreau
 bubales
 bandwork
 beefish
-bubals
+bubals 1
 bumblekite
 belling
 bubastid
