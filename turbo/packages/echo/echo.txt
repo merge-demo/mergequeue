@@ -10214,7 +10214,7 @@ ensporia
 externalisation
 exoticity
 eavesdropped
-equisized
+equisized 1
 eastlander
 eclair
 emotionalistic
