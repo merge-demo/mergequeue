@@ -8216,7 +8216,7 @@ fairyologist
 furlanas
 felines
 festering
-fluidize
+fluidize 1
 floroscope 1
 fiercened
 fluidally
