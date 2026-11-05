@@ -18388,7 +18388,7 @@ beholder
 biaxal
 buzzing
 beglerbegluc
-bogard
+bogard 1
 brachials
 brachygrapher
 buzzingly
