@@ -6240,7 +6240,7 @@ dermatagra
 dermatophagus
 dihybrid
 dermatotropic
-diaphragmatically
+diaphragmatically 1
 desiccator
 dizaine
 dermatatrophia
