@@ -7094,7 +7094,7 @@ annectant
 aperture
 abnerval
 acajous
-abantes
+abantes 1
 akia
 acetylene
 amphiarthrodial
