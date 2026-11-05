@@ -9722,7 +9722,7 @@ alvearium
 alveolariform
 alveolate
 alveolation
-alveole
+alveole 1
 alveolectomy
 alveoli
 alveoliform
