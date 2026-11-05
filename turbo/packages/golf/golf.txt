@@ -1368,7 +1368,7 @@ garrotte
 grind
 ghastly
 glugglug
-garnetlike
+garnetlike 1
 grabbles
 greenhide
 gorb
