@@ -3965,7 +3965,7 @@ carburiser
 cerulescent
 carburizer
 carburizes
-chattelize
+chattelize 1
 caecilian
 cruster
 carburometer
