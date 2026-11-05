@@ -1607,7 +1607,7 @@ falsettist
 fibrinogen
 floristic
 falsify
-favorites
+favorites 1
 furstone
 fadges
 flavobacterium
