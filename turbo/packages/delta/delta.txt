@@ -8110,7 +8110,7 @@ denitrificator
 detrusive
 du
 diabolization
-depilates
+depilates 1
 disambiguate
 disventure
 delineate
