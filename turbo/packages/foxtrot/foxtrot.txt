@@ -5141,7 +5141,7 @@ fawns
 fructure
 furless
 fastuousness
-foretooth
+foretooth 1
 floccular
 fellifluous
 furbelows
