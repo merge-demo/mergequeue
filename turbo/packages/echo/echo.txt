@@ -8910,7 +8910,7 @@ entoderms
 euthermic
 ergograph
 epistrophic
-embitter
+embitter 1
 emeroids
 ergomaniac
 exhorters
