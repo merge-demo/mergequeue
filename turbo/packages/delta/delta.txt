@@ -2829,7 +2829,7 @@ decrying
 depolarizers
 danegelt
 dielectrically
-demonic
+demonic 1
 decriminalization
 disequalization
 decastellate
