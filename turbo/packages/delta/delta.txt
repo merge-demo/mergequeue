@@ -15599,7 +15599,7 @@ doorhead
 dooring
 doorknob
 doorless
-destinate
+destinate 1
 doormaid
 declasse
 distichlis
