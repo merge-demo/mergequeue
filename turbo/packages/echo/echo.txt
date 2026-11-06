@@ -13775,7 +13775,7 @@ encloak
 exosperm
 evermo
 entea
-extispicious
+extispicious 1
 extoling
 epitympanum
 edingtonite
