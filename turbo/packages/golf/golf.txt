@@ -8750,7 +8750,7 @@ groundenell
 grubby
 glassite
 gambit
-glucosuric
+glucosuric 1
 garrets
 games
 glom
