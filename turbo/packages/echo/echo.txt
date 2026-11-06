@@ -6989,7 +6989,7 @@ eneas
 eustyle 1
 entrepreneur
 enrobers
-entrer
+entrer 1
 entresols
 endocardial
 extractors
