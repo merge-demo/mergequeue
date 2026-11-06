@@ -4335,7 +4335,7 @@ diode
 dysacousia
 demanded
 dissyllabized
-dilos
+dilos 1
 descrier
 disburden
 defatigable
