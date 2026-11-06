@@ -11384,7 +11384,7 @@ feteless
 furnariides
 flect
 facies
-furnish
+furnish 1
 fluorindine
 furnishable
 fluoroformol
