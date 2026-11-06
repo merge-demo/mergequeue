@@ -398,7 +398,7 @@ foresettle
 fingerroot
 failings
 factors
-flabellate
+flabellate 1
 fallaway
 floozie
 fairishly
