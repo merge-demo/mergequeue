@@ -3602,7 +3602,7 @@ antimonite
 adelphian
 adelphic
 adelphous
-adipsous
+adipsous 1
 azole
 assedat
 annotatively
