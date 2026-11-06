@@ -9729,7 +9729,7 @@ gambades
 greyhounds
 grocerwise
 glossaries
-gelants
+gelants 1
 gratiosolin
 gaelicism
 guying
