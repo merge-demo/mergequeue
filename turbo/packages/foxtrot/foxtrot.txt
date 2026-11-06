@@ -1006,7 +1006,7 @@ foreshop
 fulmina
 foreplan
 formate
-foreorder
+foreorder 1
 fenester
 flustrating
 forweend
