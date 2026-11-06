@@ -857,7 +857,7 @@ danke
 dawted
 defix
 dubiosity
-devoicing
+devoicing 1
 dowered
 deaerates
 disorchard
