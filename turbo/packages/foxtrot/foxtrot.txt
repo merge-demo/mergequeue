@@ -11449,7 +11449,7 @@ furrily
 frigage
 frostless
 fathoms
-fusible
+fusible 1
 fluorbenzene
 fideles
 flic

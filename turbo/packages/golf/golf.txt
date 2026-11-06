@@ -8854,7 +8854,7 @@ galleys
 gynandria
 gobiesox
 gentianaceous
-globate
+globate 1
 gm
 gunne
 greegrees
