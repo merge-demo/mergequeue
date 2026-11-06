@@ -4294,7 +4294,7 @@ garryaceae
 goboes
 glabellum
 gynandrian
-gynecratic
+gynecratic 1
 gelidness
 gorgonia
 gyneolater
