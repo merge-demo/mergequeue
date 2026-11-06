@@ -10836,7 +10836,7 @@ guntub
 grammatic
 greengrocery
 grayhead
-gyrofrequency
+gyrofrequency 1
 girderage
 gyrograph
 guttar
