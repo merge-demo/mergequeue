@@ -1073,7 +1073,7 @@ ead
 ensanguining
 edhs
 esculic
-exostotic
+exostotic 1
 edible
 expeditive
 embase
