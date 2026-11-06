@@ -1300,7 +1300,7 @@ effacers
 ellipsis
 exhilarated
 exumbrellar
-effect
+effect 1
 endocardiac
 exopeptidase
 effective
