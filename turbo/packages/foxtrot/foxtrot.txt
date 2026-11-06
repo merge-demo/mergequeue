@@ -11202,7 +11202,7 @@ flotorial
 fidgetily
 freechurchism
 futilely
-fixating
+fixating 1
 foremanship
 futuric
 fasciolae
