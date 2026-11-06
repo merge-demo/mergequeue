@@ -1249,7 +1249,7 @@ enroot
 efficiently
 earthshock
 enchair
-ethylidyne
+ethylidyne 1
 epigrammatise
 eelcake
 elsewheres
