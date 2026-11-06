@@ -5091,7 +5091,7 @@ antirationally
 adularescent
 aporrhiegma
 albruna
-allantoidal
+allantoidal 1
 aerotonometric
 agrostographical
 aerotropism
