@@ -13541,7 +13541,7 @@ attributal
 anthropopathy
 antefact
 aster
-appeasing
+appeasing 1
 avenin
 acutenaculum
 autostandardization
