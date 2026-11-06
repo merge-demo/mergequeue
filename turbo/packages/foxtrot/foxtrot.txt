@@ -334,7 +334,7 @@ fail
 fireplough 1
 faineancy
 fayles
-fimbricated
+fimbricated 1
 furcal
 forebackwardly
 fayumic
