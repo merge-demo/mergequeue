@@ -21094,7 +21094,7 @@ chargfaires
 coms
 comsat
 clostridial
-comsomol
+comsomol 1
 competingly
 cray
 countertheory
