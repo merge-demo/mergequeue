@@ -25730,7 +25730,7 @@ correspondences
 correspondency
 correspondent
 composedness
-correspondently
+correspondently 1
 citators
 carpets
 chlormethylic
