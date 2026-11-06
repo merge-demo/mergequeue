@@ -3332,7 +3332,7 @@ elaeodendron
 executions
 euphroe
 equiangular
-emphemeralness
+emphemeralness 1
 expensefully
 ecdyses
 enthused
