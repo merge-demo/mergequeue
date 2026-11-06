@@ -6881,7 +6881,7 @@ flaggings
 forjudges
 figurist
 feline
-feretrum
+feretrum 1
 fatuous
 farmout
 farris
