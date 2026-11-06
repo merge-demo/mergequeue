@@ -804,7 +804,7 @@ diuretical
 danegelds
 deckhead
 daneweed
-daneweeds
+daneweeds 1
 dozened
 detections
 dactyliomancy
