@@ -5134,7 +5134,7 @@ garance
 glomera
 goblinesque
 gutturine
-gentlehearted
+gentlehearted 1
 grander
 goldylocks
 gyps
