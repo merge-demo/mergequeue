@@ -11266,7 +11266,7 @@ felly
 forrit
 funster
 furans
-furacious
+furacious 1
 fireplaces
 flabel
 file
