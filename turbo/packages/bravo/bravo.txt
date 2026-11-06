@@ -8975,7 +8975,7 @@ bremsstrahlung
 bacterioagglutinin
 biomathematics
 bets
-byp
+byp 1
 biomechanical
 begrims
 biomedicine
