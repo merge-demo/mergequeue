@@ -8346,7 +8346,7 @@ forkier
 fumewort
 forcy
 familiars
-foveolated
+foveolated 1
 faveoluli
 frumentation
 faradmeter
