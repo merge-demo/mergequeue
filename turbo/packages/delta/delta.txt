@@ -2793,7 +2793,7 @@ dugal
 dop
 dorsalward
 decremeter
-dicyemida
+dicyemida 1
 demarches
 degass
 duodecahedral
