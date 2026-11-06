@@ -28210,7 +28210,7 @@ crannage
 communalisation
 cobblerfish
 caesar
-crannel
+crannel 1
 crannequin
 crannia
 colliquefaction
