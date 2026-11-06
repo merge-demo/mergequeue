@@ -8648,7 +8648,7 @@ fortaxed
 foederati
 fanlike
 freelance
-flexuous
+flexuous 1
 fistuliform
 floured
 ferroprint
