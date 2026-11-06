@@ -5813,7 +5813,7 @@ fluoridations
 fritted
 figgery
 furbishes
-flintlocks
+flintlocks 1
 filemark
 farts
 ferr
