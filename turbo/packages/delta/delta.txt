@@ -15023,7 +15023,7 @@ disbutton
 decnet
 doggers 1
 dilogarithm
-dentonasal 1
+dentonasal 2
 democratized
 doggy
 doughboy
