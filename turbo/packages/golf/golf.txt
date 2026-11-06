@@ -1382,7 +1382,7 @@ governs
 ganodonta
 garnison
 greetingless
-garniture
+garniture 1
 glycosemia
 germanize
 grecize
