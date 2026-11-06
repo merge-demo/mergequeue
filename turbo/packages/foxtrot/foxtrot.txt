@@ -9964,7 +9964,7 @@ formularizer
 forcers
 frigolabile
 fumigate
-feloniousness
+feloniousness 1
 frigoric
 futureless
 fibroid
