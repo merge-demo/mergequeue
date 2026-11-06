@@ -1471,7 +1471,7 @@ fireside
 faubourgs
 fingerlike
 focussing
-fistulose
+fistulose 1
 forestial
 featly
 faulds
