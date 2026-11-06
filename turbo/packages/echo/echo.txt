@@ -3352,7 +3352,7 @@ encroaching
 egglike
 embays
 exhalent
-evangelistic
+evangelistic 1
 ethylenediamine
 eulachons
 essentialities
