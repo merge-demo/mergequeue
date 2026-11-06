@@ -655,7 +655,7 @@ galeated
 gunkhole
 grihyasutra
 gallantries
-grindstones
+grindstones 1
 gilour
 geropiga
 gravelish
