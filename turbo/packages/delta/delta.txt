@@ -7674,7 +7674,7 @@ dimples
 deviancy
 dogcatcher
 deinosauria
-disquantity
+disquantity 1
 difform
 deviated
 dramatical
