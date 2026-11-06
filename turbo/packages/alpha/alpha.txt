@@ -1194,7 +1194,7 @@ attendance
 avellaneous
 afforest
 autogravure
-antimedically
+antimedically 1
 acanthodes
 alcoholise
 aspirations
