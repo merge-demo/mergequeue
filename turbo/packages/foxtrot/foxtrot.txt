@@ -4011,7 +4011,7 @@ forlay
 flunk
 ferric
 furazolidone
-fluorosis
+fluorosis 1
 foramina
 fishery
 forleft
