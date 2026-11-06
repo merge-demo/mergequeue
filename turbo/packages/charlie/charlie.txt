@@ -3292,7 +3292,7 @@ colourability
 calcino
 capitulate
 capitulates
-capitulator
+capitulator 1
 capituliform
 cystolithic
 crotchwood
