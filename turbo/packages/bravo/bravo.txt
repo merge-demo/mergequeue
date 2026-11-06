@@ -95,7 +95,7 @@ bulwarks
 baldachins
 babhan
 balafo
-bestraddling
+bestraddling 1
 barkened
 beastliest
 bespout
