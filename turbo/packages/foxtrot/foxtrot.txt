@@ -1355,7 +1355,7 @@ fathomlessness
 funniment
 flichtered
 forkable
-faticableness
+faticableness 1
 fortifys
 felspath
 firestop
