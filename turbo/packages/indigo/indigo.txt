@@ -11111,7 +11111,7 @@ issvot
 issvx
 issy
 issymmwkmls
-issymxisz
+issymxisz 1
 istalqlij
 istdwpigvmlsz
 istdyavlnoofb
