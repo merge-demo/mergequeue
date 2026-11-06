@@ -7282,7 +7282,7 @@ encharnel
 emigres
 eristics
 etherealize
-excursiveness
+excursiveness 1
 emulous 1
 eimeria
 eurypygae
