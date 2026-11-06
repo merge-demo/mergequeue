@@ -6990,7 +6990,7 @@ eustyle 1
 entrepreneur
 enrobers
 entrer
-entresols
+entresols 1
 endocardial
 extractors
 embladder
