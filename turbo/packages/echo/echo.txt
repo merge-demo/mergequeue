@@ -11985,7 +11985,7 @@ esexual
 exclaiming
 exclaims
 epitenon
-exclamative
+exclamative 1
 epithermally
 exclamatory
 excavational
