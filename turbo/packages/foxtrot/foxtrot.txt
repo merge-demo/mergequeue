@@ -580,7 +580,7 @@ ferny
 falling
 flichtering 1
 faradized
-famine
+famine 1
 fll
 fussed
 faucitis
