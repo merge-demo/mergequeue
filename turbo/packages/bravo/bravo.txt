@@ -3298,7 +3298,7 @@ babbler
 bloodiest
 basions
 backstabbed
-bronzes
+bronzes 1
 beadlery
 backpacking
 balche
