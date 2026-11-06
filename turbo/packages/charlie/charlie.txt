@@ -2904,7 +2904,7 @@ cantaliver
 catacombs
 cackled
 cantaloup
-cantaloupes
+cantaloupes 1
 catboat
 cantando
 cantankerous
