@@ -10039,7 +10039,7 @@ gangliac
 gleans
 geometrised
 gazebos
-glaistig
+glaistig 1
 gammation
 gargoyles
 gnathonic
