@@ -6827,7 +6827,7 @@ fasces
 fructifier
 foliaged
 fustigator
-fussify
+fussify 1
 flipjack
 fourhanded
 fabled
