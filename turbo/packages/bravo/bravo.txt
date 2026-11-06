@@ -6890,7 +6890,7 @@ beslaver
 balmony
 blindfold
 beshadowed
-boggled
+boggled 1
 briolette
 biplosive
 breediness
