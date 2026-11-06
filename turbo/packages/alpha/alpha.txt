@@ -13012,7 +13012,7 @@ amphizoidae
 arccosine
 angulately
 appearance 1
-autodigestive
+autodigestive 1
 adulterator
 aquilinity
 assimilable
