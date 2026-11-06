@@ -7530,7 +7530,7 @@ decapper
 deuterium
 deinocephalia
 dominators
-deuterocanonical
+deuterocanonical 1
 deuterocasease
 dendroeca
 decemplicate
