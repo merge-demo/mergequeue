@@ -13532,7 +13532,7 @@ duchesses
 domage
 dissuadable
 disseason
-disseat
+disseat 1
 disgood
 diphyodont
 donnism
