@@ -3982,7 +3982,7 @@ delaware
 deleaded
 dampang
 decides
-disintensify
+disintensify 1
 duplex 1
 devitalise
 deputized
