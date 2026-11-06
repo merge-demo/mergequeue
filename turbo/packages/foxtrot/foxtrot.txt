@@ -230,7 +230,7 @@ facultatively
 fixtures
 faculties
 faunistically
-fringy
+fringy 1
 functionaries
 fulimart
 frostbound
