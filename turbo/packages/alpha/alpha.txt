@@ -14446,7 +14446,7 @@ anthracomancy
 ambulancing
 analepsis
 albuminone
-antagonizable
+antagonizable 1
 antiprelatism
 abecedarium
 anthracosaurus
