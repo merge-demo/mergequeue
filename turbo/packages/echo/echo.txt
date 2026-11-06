@@ -5522,7 +5522,7 @@ edessan
 enfeeblish
 effectful 1
 epilimnetic
-euhemerizing
+euhemerizing 1
 etherlike
 exestuate
 exhaustedly
