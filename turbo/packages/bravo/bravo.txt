@@ -15836,7 +15836,7 @@ binder
 becoming
 buddha
 beggarwise
-bibacious
+bibacious 1
 bullied
 balas
 bagsful
