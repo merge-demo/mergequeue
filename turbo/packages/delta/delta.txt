@@ -15768,7 +15768,7 @@ dorpers
 dorr
 doomage
 dorsa
-dentiparous
+dentiparous 1
 demountability 1
 dramatizer
 diallela
