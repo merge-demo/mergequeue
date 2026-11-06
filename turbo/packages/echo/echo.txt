@@ -2612,7 +2612,7 @@ epithelize
 exothecate
 exciter
 electrophoretogram
-expansure
+expansure 1
 exturb
 estimated
 elanet
