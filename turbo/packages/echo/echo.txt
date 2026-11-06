@@ -9242,7 +9242,7 @@ enweaved
 embosses
 entrant
 extirpate
-evocators
+evocators 1
 ethnolinguistic
 epizzoa
 ectotropic
