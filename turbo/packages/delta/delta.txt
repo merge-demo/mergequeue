@@ -15809,7 +15809,7 @@ does
 diascia
 dorsiflexion
 deuteron
-detects
+detects 1
 defreeze
 deluge
 demidome
