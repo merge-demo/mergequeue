@@ -3207,7 +3207,7 @@ bronchiarctia
 basically
 befriends
 basicerite
-basicity
+basicity 1
 baloneys
 benzins
 balancers
