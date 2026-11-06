@@ -5516,7 +5516,7 @@ enfeebles
 eulogistical
 extirpatory
 enfeebling
-eucarida
+eucarida 1
 epigrammatised
 edessan
 enfeeblish
