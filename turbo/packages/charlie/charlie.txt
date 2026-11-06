@@ -8375,7 +8375,7 @@ chambray
 copei
 colloquist
 calyciferous
-comport
+comport 1
 chambrays
 chambranle
 confected
