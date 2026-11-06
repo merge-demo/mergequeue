@@ -10391,7 +10391,7 @@ blanketlike 1
 blankets
 bhoot
 brisement
-blankish
+blankish 1
 blankly
 boneless
 bagmen
