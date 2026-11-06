@@ -3053,7 +3053,7 @@ elkuma
 elkwood
 etherean
 epicenter
-elasticities
+elasticities 1
 ethicizing
 evolvements
 entocuniform
