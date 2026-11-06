@@ -10594,7 +10594,7 @@ fulgent
 fuddler
 fenderless
 foiling
-foilsman
+foilsman 1
 filaceous
 fringillaceous
 fusht
