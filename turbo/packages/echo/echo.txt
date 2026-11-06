@@ -5332,7 +5332,7 @@ evilspeaking
 expatriations
 epitaphless
 evzones
-endocline
+endocline 1
 epicrystalline
 encoring
 endosteomata
