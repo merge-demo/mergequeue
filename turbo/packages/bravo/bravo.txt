@@ -13132,7 +13132,7 @@ bornite
 bagasses
 baksheesh
 bestirs
-bornites
+bornites 1
 bornitic
 berob
 borofluohydric
