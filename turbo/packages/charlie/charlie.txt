@@ -2508,7 +2508,7 @@ chrismatine
 crawlie
 countermands
 coasters
-candies
+candies 1
 candymaker
 cardiophobe
 candymaking
