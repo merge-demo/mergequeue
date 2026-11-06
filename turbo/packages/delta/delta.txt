@@ -9696,7 +9696,7 @@ dilatative
 dodecahedron
 distillations
 durometer
-duffles
+duffles 1
 depositee
 decenary
 ditrochean
