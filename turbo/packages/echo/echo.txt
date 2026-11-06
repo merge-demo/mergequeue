@@ -2598,7 +2598,7 @@ electropathy 1
 electropathology
 electrophysiological
 eunectes
-electrocutioner
+electrocutioner 1
 ebulus
 exportability
 etherical
