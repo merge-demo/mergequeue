@@ -12700,7 +12700,7 @@ bidialectalism
 blowholes
 bear
 bungarus
-beautifier
+beautifier 1
 boroughmongering
 benchless
 baldachini
