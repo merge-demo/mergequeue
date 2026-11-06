@@ -5246,7 +5246,7 @@ almendron
 ampulated
 agrias
 ameloblastic
-artifactual
+artifactual 1
 applotment
 almsman
 affiance
