@@ -13652,7 +13652,7 @@ dunes
 dissyllabizing
 dissyllable
 dialecticism
-dignitarial
+dignitarial 1
 distractedness
 dolce
 def
