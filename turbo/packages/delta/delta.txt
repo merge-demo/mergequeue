@@ -6695,7 +6695,7 @@ deadhead
 desiderata
 debagged
 digamists
-declivitously
+declivitously 1
 disagreement
 dreyfusist
 dissentiously
