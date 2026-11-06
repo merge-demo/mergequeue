@@ -6105,7 +6105,7 @@ ferrer
 frondeur
 fortnights
 figurations
-fervidity
+fervidity 1
 freighter
 frettation
 filical
