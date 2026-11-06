@@ -9291,7 +9291,7 @@ foremost
 fabrikoid
 fruticeta
 funfairs
-flukey
+flukey 1
 fluidise
 faulting
 flappers
