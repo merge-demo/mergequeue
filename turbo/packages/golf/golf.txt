@@ -10006,7 +10006,7 @@ galago
 gaslike
 gateau
 gudame
-gibberose
+gibberose 1
 gone
 gentlemanship
 gorgonised
