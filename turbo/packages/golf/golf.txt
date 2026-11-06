@@ -5259,7 +5259,7 @@ girded
 garnets
 guitarfish
 gliadine
-galvanism
+galvanism 1
 geomedicine
 gymnogenous
 gurish
