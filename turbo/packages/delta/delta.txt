@@ -17171,7 +17171,7 @@ diswont
 drinks
 dynamics
 dansants
-dinnerly
+dinnerly 1
 decachord
 dreary
 decorums
