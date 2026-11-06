@@ -3940,7 +3940,7 @@ denigration
 delabializing
 distensibility
 doorknobs
-delayable
+delayable 1
 depersonalised
 demes 1
 delayer
