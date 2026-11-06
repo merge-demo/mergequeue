@@ -23160,7 +23160,7 @@ attendress
 asteriscus
 attends
 acquittance
-agitate
+agitate 1
 almshouses
 araucano
 abstruser
