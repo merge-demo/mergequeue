@@ -13232,7 +13232,7 @@ buzzers
 breatheableness
 binocle
 bosque
-beanos
+beanos 1
 bosques
 bilked
 brythonic
