@@ -2135,7 +2135,7 @@ foreprize
 fulsome
 faculous
 flunks
-favours
+favours 1
 foddered
 fellatrice
 frigate
