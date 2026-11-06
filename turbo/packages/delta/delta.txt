@@ -11539,7 +11539,7 @@ disconjure
 disconnectedness
 diphtheroidal
 diphead 1
-disconnecting
+disconnecting 1
 disconnection
 dibber
 diplococcic
