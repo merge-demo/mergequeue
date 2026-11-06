@@ -2247,7 +2247,7 @@ badineur
 bawties
 bushers
 bung
-bandgap
+bandgap 1
 barbara
 barbary
 baculiferous
