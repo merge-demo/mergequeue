@@ -19344,7 +19344,7 @@ adjutor
 alaite
 astacus
 amplexation
-areostyle
+areostyle 1
 areotectonics
 acetnaphthalide
 ambrein
