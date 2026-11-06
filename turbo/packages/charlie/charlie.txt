@@ -6299,7 +6299,7 @@ countertree
 caulks
 chymists
 conferrer
-capuchins
+capuchins 1
 catalases
 cofermentation
 colourize
