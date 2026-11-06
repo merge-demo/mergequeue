@@ -7787,7 +7787,7 @@ depopulative
 devoir
 destabilizing
 dholes
-devolatilised
+devolatilised 1
 dosimetries
 dryrot
 diplospondyli
