@@ -19680,7 +19680,7 @@ copintank
 clathrina
 catogene
 compendiousness
-claptrap
+claptrap 1
 chemisorption
 clefts
 comatiks
