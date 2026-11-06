@@ -10254,7 +10254,7 @@ benevolist
 blacksnake
 baneful
 bliaut
-ballsy
+ballsy 1
 blacktongue
 betafite
 byroniana
