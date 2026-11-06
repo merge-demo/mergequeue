@@ -11465,7 +11465,7 @@ emit
 evidencing
 eonian
 exorcise
-eventuates
+eventuates 1
 epizooties
 evidential
 evidentially
