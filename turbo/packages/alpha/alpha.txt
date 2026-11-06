@@ -23416,7 +23416,7 @@ aliquid
 anconitis
 aphaeretic
 acoenaesthesia
-audiometrically
+audiometrically 1
 antitwilight
 annonaceous
 audiophile
