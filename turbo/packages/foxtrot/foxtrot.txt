@@ -1563,7 +1563,7 @@ festival
 flowcontrol
 fishbowl
 fauvism
-funk
+funk 1
 fuselage
 freeloving
 fauvisms
