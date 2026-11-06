@@ -1049,7 +1049,7 @@ dishes
 diacodium
 disobliging
 dutra
-darner
+darner 1
 darners
 darning
 dewooled
