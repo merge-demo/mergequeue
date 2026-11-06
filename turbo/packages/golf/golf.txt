@@ -7988,7 +7988,7 @@ gynecologic
 grippy
 gudok
 globing
-glottologies
+glottologies 1
 goldenmouthed
 gasifiable
 gainer
