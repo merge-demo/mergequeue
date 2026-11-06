@@ -6466,7 +6466,7 @@ diploes
 decadenza
 dactylioglyph
 disbark
-desamidase
+desamidase 1
 dirian
 desands
 demobs
