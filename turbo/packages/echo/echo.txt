@@ -3882,7 +3882,7 @@ executers
 egressive
 equivote
 echeneis
-eternal
+eternal 1
 electrotonus
 extraboldface
 eminencies
