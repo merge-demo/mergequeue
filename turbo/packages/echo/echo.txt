@@ -8317,7 +8317,7 @@ enolized
 eriocaulaceae
 electrodeposit
 elev
-expressibly
+expressibly 1
 endured
 enchannel
 exercised
