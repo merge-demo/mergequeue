@@ -2130,7 +2130,7 @@ aerobically
 affusions
 agave
 aptness
-anematize
+anematize 1
 acrostolion
 atticize
 acroteral
