@@ -18951,7 +18951,7 @@ archines
 apio
 angili
 arteriostosis
-alsatian
+alsatian 1
 anthropologist
 aesculapian
 auricle
