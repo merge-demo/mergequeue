@@ -24743,7 +24743,7 @@ admission
 antemural
 addling
 authoress
-alumniate
+alumniate 1
 aniline
 appleberry
 approximated
