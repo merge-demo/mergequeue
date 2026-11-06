@@ -8056,7 +8056,7 @@ biculturalism 1
 billeters
 bicursal
 bailments
-bicuspid
+bicuspid 1
 bruxism
 brast
 biddability
