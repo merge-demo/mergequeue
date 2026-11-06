@@ -8223,7 +8223,7 @@ diaeretic 1
 dartsman
 detoxicated
 diageotropic
-diaglyphic
+diaglyphic 1
 diiambus
 desmopelmous
 davainea
