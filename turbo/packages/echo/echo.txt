@@ -9041,7 +9041,7 @@ electrocardiographs
 evaginating
 euchring
 epiphyll
-entria
+entria 1
 ephesine
 emlen
 eleoplast
