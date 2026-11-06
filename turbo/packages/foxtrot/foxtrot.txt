@@ -1379,7 +1379,7 @@ fossicks
 fatiguesome
 fjeld
 fishbones
-fulminuric
+fulminuric 1
 fidate
 fella
 fatima
