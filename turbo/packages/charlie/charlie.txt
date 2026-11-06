@@ -25125,7 +25125,7 @@ chirotherium
 coinstantaneous
 corequisite
 corer
-corers
+corers 1
 cores
 carbonates
 chlorospinel
