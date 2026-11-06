@@ -10366,7 +10366,7 @@ dioxy
 defecate
 discourtship
 dioxid
-disfavors
+disfavors 1
 dihydronaphthalene
 devoured
 dioxides
