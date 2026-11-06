@@ -9122,7 +9122,7 @@ furioso
 flopover
 fuzee
 fruitarian
-fractionalized
+fractionalized 1
 fodient
 forbearer
 feoffees
