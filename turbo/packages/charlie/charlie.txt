@@ -17351,7 +17351,7 @@ chemigraph
 coreceiver
 cimline
 coassist
-coassistant
+coassistant 1
 cupola
 coassume
 crystallic
