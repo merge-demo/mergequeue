@@ -9420,7 +9420,7 @@ diether
 demythologising
 disenroll
 disheathing
-dehematize
+dehematize 1
 digamy
 disobeyal
 digamies
