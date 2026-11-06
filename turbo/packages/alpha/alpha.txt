@@ -17366,7 +17366,7 @@ anaesthetic
 autothermy
 aposteme
 amidosulphonal 1
-aposteriori
+aposteriori 1
 aerogun
 arithmometer
 apostille
