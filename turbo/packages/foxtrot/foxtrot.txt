@@ -8972,7 +8972,7 @@ foelike
 fluorin
 feature
 foursquareness
-faustian
+faustian 1
 fourteener
 frangibleness
 froren
