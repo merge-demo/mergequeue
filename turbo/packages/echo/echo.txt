@@ -12599,7 +12599,7 @@ epiphysitis
 equiaxial
 epexegeses
 exodic
-equipped
+equipped 1
 encincturing
 emeralds
 essancia
