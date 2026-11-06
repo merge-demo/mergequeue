@@ -4078,7 +4078,7 @@ freefd
 finitism
 finitive
 felapton
-formants
+formants 1
 foppishness
 finitude
 flushable
