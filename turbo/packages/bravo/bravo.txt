@@ -8603,7 +8603,7 @@ bebization
 brochette
 bewig
 balcone
-bubalis
+bubalis 1
 blockheaded
 behear
 basins
