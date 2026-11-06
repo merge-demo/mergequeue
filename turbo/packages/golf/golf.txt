@@ -6277,7 +6277,7 @@ ghostiest
 gconv
 gentle
 gooding
-gulpin
+gulpin 1
 gynandrarchic
 glucolipin
 galoch
