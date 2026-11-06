@@ -980,7 +980,7 @@ esoterics
 eyebalm
 exhumes
 excavatory
-eumitosis
+eumitosis 1
 exocardia
 emasculating
 emblements
