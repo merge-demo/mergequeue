@@ -9265,7 +9265,7 @@ frangipani
 frizers
 framea
 framer
-frames
+frames 1
 forename
 footmenfootpad
 fungologist
