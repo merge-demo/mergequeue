@@ -11908,7 +11908,7 @@ discompose
 dramatizes
 downrange
 domes
-digestion
+digestion 1
 demephitize
 dunches
 duskish
