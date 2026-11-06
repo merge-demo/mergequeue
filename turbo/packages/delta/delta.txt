@@ -7676,7 +7676,7 @@ dogcatcher
 deinosauria
 disquantity
 difform
-deviated
+deviated 1
 dramatical
 dioecism
 daddock
