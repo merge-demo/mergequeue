@@ -2071,7 +2071,7 @@ felahin
 factionalist
 fendillation
 favissae
-fusulas
+fusulas 1
 fieldfare
 foys
 fwelling
