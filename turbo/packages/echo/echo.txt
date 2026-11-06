@@ -9642,7 +9642,7 @@ epacris
 elaeagnus
 enfrai
 esparsette
-emphases
+emphases 1
 encloud
 embost
 espartos
