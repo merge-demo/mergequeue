@@ -497,7 +497,7 @@ fireflies
 foin
 foremisgiving
 fracturs
-faker
+faker 1
 flaneries
 fungi
 fohns
