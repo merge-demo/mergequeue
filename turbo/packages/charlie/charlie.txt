@@ -13227,7 +13227,7 @@ cerises
 coadapt
 cyclohexadienyl
 crossrow
-cyclohexanol
+cyclohexanol 1
 crass
 cyclohexanone
 cycloheximide
