@@ -11314,7 +11314,7 @@ downfield
 distrainee
 dorsolum
 discerption
-difficulties
+difficulties 1
 diggers
 dischargeable
 dispirited
