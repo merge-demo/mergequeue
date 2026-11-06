@@ -7491,7 +7491,7 @@ cypridinidae
 clergyman
 coolhouse
 cambrian
-ceraunoscopy
+ceraunoscopy 1
 cyathophyllidae
 cercal
 calelectricity
