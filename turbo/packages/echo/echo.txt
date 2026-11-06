@@ -5723,7 +5723,7 @@ engineman
 envergure
 epitheliolysis
 eudidymite
-egalites
+egalites 1
 elector
 embrace
 educabilia
