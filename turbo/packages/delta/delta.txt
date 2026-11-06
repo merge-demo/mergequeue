@@ -6220,7 +6220,7 @@ disvaluation
 discontentment
 dawed
 depleted
-digametic
+digametic 1
 dermabrasion
 dithyramb
 degrades
