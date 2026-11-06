@@ -12673,7 +12673,7 @@ diviners
 diacids
 duane
 derogations
-dint
+dint 1
 dyslexics
 disentrancement
 dreadfully
