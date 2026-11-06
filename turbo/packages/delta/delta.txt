@@ -9737,7 +9737,7 @@ descender
 decolourization
 dilatometer
 dilatometrically
-dynamometers
+dynamometers 1
 dcbname
 daypeep
 denaturiser
