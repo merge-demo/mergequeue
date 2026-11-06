@@ -8712,7 +8712,7 @@ grecism
 guemul
 guttled
 guttling
-germiniparous
+germiniparous 1
 greekize
 gavelling
 grammars
