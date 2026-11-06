@@ -13488,7 +13488,7 @@ enterparlance
 epidural
 episiorrhagia
 exsanguinating
-epagoge
+epagoge 1
 exauthorize
 exposing
 ethmoidal
