@@ -10358,7 +10358,7 @@ glaur
 grouseberry
 gelate
 garretmaster
-gynic
+gynic 1
 gallops
 gonidiospore
 gastrothecal
