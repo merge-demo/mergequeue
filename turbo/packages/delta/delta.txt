@@ -4775,7 +4775,7 @@ darwin
 dangs
 devoirs
 dilated
-detours
+detours 1
 dismisser
 demodulating
 designless
