@@ -2999,7 +2999,7 @@ encorpore
 economy
 eliot
 eliphalet 1
-elbowroom
+elbowroom 1
 excrementize
 endometrial
 eviscerate
