@@ -3546,7 +3546,7 @@ descendence
 discredence
 derivably
 dawcock
-defunction
+defunction 1
 deul
 disfrock
 disseminate
