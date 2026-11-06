@@ -30527,7 +30527,7 @@ carotidal
 chitterlings
 corrumpable
 chayotes
-cubical
+cubical 1
 catskinner
 catonic
 cubicities
