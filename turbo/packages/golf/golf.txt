@@ -6518,7 +6518,7 @@ glaikitness 1
 gariba
 galvanocautery
 ghostlike
-golly
+golly 1
 gleanings
 glucolipine
 gamete
