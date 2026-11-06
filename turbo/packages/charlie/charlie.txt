@@ -5872,7 +5872,7 @@ catena
 catenae
 catenane
 catenarian
-catenas
+catenas 1
 caudaite
 catenate
 crooisite
