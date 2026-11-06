@@ -6538,7 +6538,7 @@ eclectic
 entelechies
 electroacoustics
 entomologic
-engorging
+engorging 1
 elegises
 entendre
 extravagating
