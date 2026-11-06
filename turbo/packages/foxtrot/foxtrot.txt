@@ -6748,7 +6748,7 @@ feedwater
 frized
 fleece
 feering
-ferity
+ferity 1
 foresworn
 felonweed
 fainly
