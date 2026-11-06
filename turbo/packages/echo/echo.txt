@@ -10698,7 +10698,7 @@ exolve
 evenworthy
 ecossaise
 egosyntonic
-etiquet
+etiquet 1
 excusable
 eugonic
 eggheaded
