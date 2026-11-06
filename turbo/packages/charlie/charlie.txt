@@ -11810,7 +11810,7 @@ cryptomonad
 concerto
 chopper
 choppers
-choppier
+choppier 1
 cados
 choppiest
 choppiness
