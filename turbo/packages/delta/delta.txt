@@ -923,7 +923,7 @@ draughtsmanship
 demising
 dibbers
 dapperling
-dapperness
+dapperness 1
 dapping
 divorcers
 dishouse
