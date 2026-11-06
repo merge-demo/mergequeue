@@ -25493,7 +25493,7 @@ cephaelis
 coroll
 cartooning
 corollary
-centrosymmetric
+centrosymmetric 1
 chastens
 contradictions
 corollarial
