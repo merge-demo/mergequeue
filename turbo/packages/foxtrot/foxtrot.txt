@@ -1463,7 +1463,7 @@ fringing
 fadmongering
 fetched
 fatuoid
-fatuus
+fatuus 1
 frankly
 fractureproof
 filago
