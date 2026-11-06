@@ -9348,7 +9348,7 @@ extortioner
 essoinee
 endear
 eruptivity 1
-echinuliform
+echinuliform 1
 esbatement
 enlock
 ectomorphic
