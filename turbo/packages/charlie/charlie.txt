@@ -28507,7 +28507,7 @@ creatures
 coruscant
 carapo
 creatureship
-conversibility
+conversibility 1
 coxcombess
 creaturize
 churchanity
