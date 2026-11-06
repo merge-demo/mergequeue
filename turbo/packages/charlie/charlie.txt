@@ -7840,7 +7840,7 @@ cessative
 cessavit
 cessed
 cesser
-cesses
+cesses 1
 criticism
 cuttle
 cipolin
