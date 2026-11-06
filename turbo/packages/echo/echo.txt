@@ -5922,7 +5922,7 @@ esophagogastrostomy
 eftest
 ethmonasal
 enheart
-exantlation
+exantlation 1
 endobronchially
 ergoism
 extol
