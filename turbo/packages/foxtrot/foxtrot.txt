@@ -11000,7 +11000,7 @@ foreproffer
 foreweep
 furfurol
 feign
-fumbles
+fumbles 1
 fumblingness
 fumed
 fluidiser
