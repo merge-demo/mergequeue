@@ -11463,7 +11463,7 @@ escargatoire
 eucharis
 emit
 evidencing
-eonian
+eonian 1
 exorcise
 eventuates
 epizooties
