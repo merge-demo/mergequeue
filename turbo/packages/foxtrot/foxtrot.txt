@@ -8770,7 +8770,7 @@ faradization
 fiberglass
 floret
 forechurch
-flunking
+flunking 1
 fjerding
 falcopern
 fetologist
