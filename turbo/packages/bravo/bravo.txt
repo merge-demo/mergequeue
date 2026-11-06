@@ -1814,7 +1814,7 @@ boswellized
 bowmen
 backset
 balloonet
-bedsprings
+bedsprings 1
 bambute
 blackheart
 baserunning
