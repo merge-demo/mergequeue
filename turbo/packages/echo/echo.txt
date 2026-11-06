@@ -10713,7 +10713,7 @@ erichthus
 emacerate
 enarthrodia
 ecologic
-euhyostylic
+euhyostylic 1
 eukairite
 enfavor
 eaver
