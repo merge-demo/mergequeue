@@ -4728,7 +4728,7 @@ gecks
 grege
 garshuni
 goniale
-graphitizable
+graphitizable 1
 gratinate
 grandiflora
 gaoler
