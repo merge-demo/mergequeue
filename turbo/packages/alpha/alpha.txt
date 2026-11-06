@@ -14195,7 +14195,7 @@ antlia
 angelo
 algonquian
 antepenult
-allergic
+allergic 1
 amphithere
 abcissa
 antepirrhema
