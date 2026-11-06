@@ -9595,7 +9595,7 @@ atheism
 algorithmic
 autoionization
 amuse
-antecommunion
+antecommunion 1
 aspersors
 altruists
 altun
