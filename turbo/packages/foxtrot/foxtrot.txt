@@ -7679,7 +7679,7 @@ fruition
 foreturn
 flotter
 forspeak
-favourers
+favourers 1
 forehoofs
 fewter 1
 forehooves
