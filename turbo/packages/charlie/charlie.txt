@@ -22048,7 +22048,7 @@ churnable
 chromocytometer
 clairschacher
 confit
-caesalpiniaceous
+caesalpiniaceous 1
 confiteor 1
 comparts
 confixing
