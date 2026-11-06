@@ -7455,7 +7455,7 @@ grewt
 garlopa
 goujat
 grampuses
-garrulous
+garrulous 1
 googlies
 grangerized
 genotype
