@@ -2058,7 +2058,7 @@ encampments
 enthusiasm
 embalm
 excitedness
-enterocinesia
+enterocinesia 1
 elaphurus
 enology
 expedites
