@@ -8440,7 +8440,7 @@ characterstring
 crummed
 champaka
 consequent
-conducts
+conducts 1
 clubridden
 champaks
 cholines
