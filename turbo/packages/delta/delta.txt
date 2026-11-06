@@ -4641,7 +4641,7 @@ diswench
 demiscible
 dicebox
 denticulate
-demisecond
+demisecond 1
 demised
 depas
 deskbound
