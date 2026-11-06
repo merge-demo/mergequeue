@@ -8405,7 +8405,7 @@ erodible
 endodermic
 enchains
 enstamp 1
-extents
+extents 1
 epizoic
 ensigncy
 equals
