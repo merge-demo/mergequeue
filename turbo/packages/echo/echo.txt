@@ -3175,7 +3175,7 @@ emblemize
 exculpations
 eidetic
 endocone
-ejaculum
+ejaculum 1
 extraserous
 entomophagous
 episcopation
