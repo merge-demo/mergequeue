@@ -3654,7 +3654,7 @@ cucumiform
 caraja
 carajas
 carambole
-coextensively
+coextensively 1
 caramboling
 cardsharper
 condemningly
