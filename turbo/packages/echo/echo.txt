@@ -7938,7 +7938,7 @@ enthrone
 epimanikia
 equivocatory 1
 estragol
-ensilation
+ensilation 1
 expounds
 excudate
 epimanikion
