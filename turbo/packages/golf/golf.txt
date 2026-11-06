@@ -1886,7 +1886,7 @@ glaikit
 gonadotrophic
 globulet
 gymnasts
-givers
+givers 1
 glottologic
 gunboat
 ganglia
