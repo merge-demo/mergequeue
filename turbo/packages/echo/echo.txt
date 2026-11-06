@@ -7508,7 +7508,7 @@ ephedras
 epiboulangerite
 episomes
 efficacity
-efficience
+efficience 1
 entelechial
 epidermically
 extractant
