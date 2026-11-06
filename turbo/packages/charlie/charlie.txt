@@ -26752,7 +26752,7 @@ counterbattery
 counterbend
 calamitously
 cubicles
-counterblast
+counterblast 1
 counterborder
 caldrons
 counterbored

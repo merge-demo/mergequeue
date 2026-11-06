@@ -4792,7 +4792,7 @@ gangliar
 gobiiform
 glucogenic
 glassware
-gravidly
+gravidly 1
 gainfulness
 glaciered
 gages
