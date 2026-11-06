@@ -8150,7 +8150,7 @@ aciduric
 algernon
 assassinator
 algesiometer
-algidity
+algidity 1
 algidities
 algidness
 agriologist
