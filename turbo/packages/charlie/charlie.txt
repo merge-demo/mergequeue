@@ -27573,7 +27573,7 @@ calmness
 colloquialist
 cadency
 cupmaker
-coves
+coves 1
 censured
 covet
 cerealin
