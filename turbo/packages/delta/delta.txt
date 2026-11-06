@@ -2586,7 +2586,7 @@ declivity
 ducklingship
 deanthropomorphize
 dangled
-detoured
+detoured 1
 dermobranchia
 durable
 decartelized
