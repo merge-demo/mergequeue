@@ -11085,7 +11085,7 @@ escopet
 espies
 esquiredom
 encage
-entune
+entune 1
 ewery
 emulated
 emblemish
