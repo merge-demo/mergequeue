@@ -4289,7 +4289,7 @@ freudism
 fatiguability
 fulsomely
 ferdwit
-foreshortens
+foreshortens 1
 foiblesse
 foreordains
 fendable
