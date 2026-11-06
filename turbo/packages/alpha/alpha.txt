@@ -15336,7 +15336,7 @@ anthracite
 adapters
 amperages
 antihero
-amphoriskos
+amphoriskos 1
 azulejo
 antihierarchy
 akimbo
