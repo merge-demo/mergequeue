@@ -12501,7 +12501,7 @@ anthramine
 anecdotage
 antiprimer
 astart
-ajowan
+ajowan 1
 anecdote
 anecdotes
 anecdotic
