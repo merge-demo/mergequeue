@@ -7195,7 +7195,7 @@ amole
 anadromous
 advertized
 automatic
-ameloblast
+ameloblast 1
 adnouns
 abettals
 alacrious
