@@ -14518,7 +14518,7 @@ dyadic
 divinister
 deallocating 1
 denudant
-dissimuler
+dissimuler 1
 discoverers
 divinized
 divinizes
