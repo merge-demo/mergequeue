@@ -2040,7 +2040,7 @@ grapheme
 gaynesses
 grippit
 girsh
-gleeked
+gleeked 1
 glyptodont
 guideboard
 gunbuilder
