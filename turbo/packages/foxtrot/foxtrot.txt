@@ -8757,7 +8757,7 @@ faithworthiness
 facelifts
 foreplace
 fraud
-frugality
+frugality 1
 floroon
 fashionative
 fumbler
