@@ -12644,7 +12644,7 @@ betided
 belluine
 bushgoats
 bewrite
-beaklike
+beaklike 1
 bloodlessly
 batoon
 bewrayed
