@@ -1006,7 +1006,7 @@ gotraja
 gilse
 gurnetty
 granitizing
-grimacing
+grimacing 1
 gnomons
 geophilous
 guttle
