@@ -10435,7 +10435,7 @@ duumvirs
 deglutitive
 distortion
 dister
-droits
+droits 1
 denaturate
 diphtheria
 diphtherian
