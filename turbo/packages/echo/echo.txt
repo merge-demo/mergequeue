@@ -2727,7 +2727,7 @@ equipotent
 electees
 edentate
 envoi
-eleemosynary
+eleemosynary 1
 entranceway
 etymology
 emetic
