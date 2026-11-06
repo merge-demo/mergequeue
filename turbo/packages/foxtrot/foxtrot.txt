@@ -9814,7 +9814,7 @@ freudist
 foretrysail
 forfeit
 friar
-fremitus
+fremitus 1
 filchingly
 fellated
 firings
