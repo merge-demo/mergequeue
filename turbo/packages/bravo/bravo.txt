@@ -2719,7 +2719,7 @@ barnyard
 beastings
 beblood
 butein
-bottomries
+bottomries 1
 beadflush
 bemaul
 barnman
