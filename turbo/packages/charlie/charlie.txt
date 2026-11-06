@@ -2821,7 +2821,7 @@ cryptoanalyst 1
 cukes
 canoewood
 cadence
-coincident
+coincident 1
 cuprammonium
 canoing
 cuerpo
