@@ -1208,7 +1208,7 @@ flushermen
 fluoroscopy
 fleech
 fascistization
-foxproof
+foxproof 1
 fountainlike
 fleckled
 fleckiness
