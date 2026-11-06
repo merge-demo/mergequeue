@@ -279,7 +279,7 @@ dagomba
 daguerreotype
 downspout
 dolichopodous
-degermed
+degermed 1
 doradilla
 daguerreotyped 1
 daguerreotyping
