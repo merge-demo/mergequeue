@@ -5517,7 +5517,7 @@ denotement
 dynatron
 directionality
 drought
-dyvour
+dyvour 1
 disilicate
 disattire
 debunked
