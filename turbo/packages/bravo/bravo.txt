@@ -17309,7 +17309,7 @@ bibbs
 bummler
 barberite
 bumped
-burrowed
+burrowed 1
 blobber
 beechier
 bumpers
