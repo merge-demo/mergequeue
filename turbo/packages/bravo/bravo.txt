@@ -1674,7 +1674,7 @@ barbuts
 bestrews
 blandiloquious
 bogtrot
-boycotter
+boycotter 1
 ballsiest
 bengali
 befur
