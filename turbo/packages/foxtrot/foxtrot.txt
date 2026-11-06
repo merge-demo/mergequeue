@@ -5212,7 +5212,7 @@ fisherman
 foulmouthedness
 focoids
 flautist
-fuse
+fuse 1
 forgeability
 flav
 flavanilin
