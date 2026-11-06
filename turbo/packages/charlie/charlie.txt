@@ -11681,7 +11681,7 @@ cointer
 commissionary
 chondral
 chondrarsenite
-cholesteric
+cholesteric 1
 chondre
 chondrenchyma
 cadmium
