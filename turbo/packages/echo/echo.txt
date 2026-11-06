@@ -684,7 +684,7 @@ enhance
 envier
 eclogic
 egressor
-eclogite
+eclogite 1
 eclosion
 emasculative
 eclosions
