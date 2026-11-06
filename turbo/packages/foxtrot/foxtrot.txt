@@ -4174,7 +4174,7 @@ fractionlet
 faithwise
 figments
 figuredly
-fag
+fag 1
 firebox
 farkleberries 1
 fellowcraft
