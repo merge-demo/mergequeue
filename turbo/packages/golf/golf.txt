@@ -8070,7 +8070,7 @@ geminiflorous
 gruffness 1
 gravels
 gasify
-glenoidal
+glenoidal 1
 granitiform
 geomancer
 gastrostomus
