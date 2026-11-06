@@ -9652,7 +9652,7 @@ freezy
 fubbed
 fashed
 fromage
-frocked
+frocked 1
 fletcher
 furfures
 fregata
