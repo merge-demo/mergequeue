@@ -16800,7 +16800,7 @@ adepts
 aphydrotropism
 aphilanthropy
 aphylly
-abidi
+abidi 1
 astrictiveness
 apparens
 aerification
