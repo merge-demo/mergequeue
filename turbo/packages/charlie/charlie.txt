@@ -25077,7 +25077,7 @@ cleptobiosis
 counterbalancing
 coregnant
 coregonid
-coregonoid
+coregonoid 1
 chlorinate
 coreidae
 caeciform
