@@ -10421,7 +10421,7 @@ embryoniferous
 etymon
 economiser
 ectocondyle
-equalities
+equalities 1
 endothelium
 etiolated
 etiology
