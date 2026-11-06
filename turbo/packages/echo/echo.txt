@@ -1976,7 +1976,7 @@ ecstatically
 ekasilicon
 euthamia
 earthen
-etherialize
+etherialize 1
 exteriorate
 elastics
 eluviated
