@@ -1962,7 +1962,7 @@ acetyltropeine
 acetylurea
 atheromata
 analyse
-armorial
+armorial 1
 acetins
 acardite
 almeries
