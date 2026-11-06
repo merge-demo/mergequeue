@@ -5231,7 +5231,7 @@ guardianships
 girouette
 grandiosity
 gleys
-giganticidal
+giganticidal 1
 grindery
 gothicness
 grissons
