@@ -11063,7 +11063,7 @@ coappears
 chitinoid
 chitinous
 chitins
-chitlin
+chitlin 1
 chitling
 chitlings
 cowbirds
