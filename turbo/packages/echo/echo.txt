@@ -12750,7 +12750,7 @@ earlike
 ecoles
 elsewise
 exortion
-endodontia
+endodontia 1
 exosmose
 exosmotic
 eclampsia
