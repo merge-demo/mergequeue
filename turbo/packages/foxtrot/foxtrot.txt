@@ -10970,7 +10970,7 @@ fallfish
 firmless
 fisc
 freesias
-frigidaire
+frigidaire 1
 furors
 forgettable
 fink
