@@ -10091,7 +10091,7 @@ chest
 curing
 chesterfield
 chesterfieldian
-copulatively
+copulatively 1
 chestfuls
 chesty
 chestier
