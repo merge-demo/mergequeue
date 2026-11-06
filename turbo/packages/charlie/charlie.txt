@@ -20734,7 +20734,7 @@ cryotron
 carvy
 complexing
 complexion
-chromos
+chromos 1
 carioling
 clavuvi
 complexionary
