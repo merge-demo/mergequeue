@@ -10295,7 +10295,7 @@ giants
 graying
 grather
 gridded
-galliard
+galliard 1
 gulpier
 galactosidase
 girasol
