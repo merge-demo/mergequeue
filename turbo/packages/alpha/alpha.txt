@@ -7943,7 +7943,7 @@ axiologist
 aeolia
 acidoproteolytic
 abiogenesist
-austromancy
+austromancy 1
 abasio
 alen
 alkaloidal
