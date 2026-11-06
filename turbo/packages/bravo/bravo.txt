@@ -15800,7 +15800,7 @@ bedecks
 beauing
 bitterroot
 billethead
-backstrokes
+backstrokes 1
 backhandedly
 besonio
 bimester
