@@ -28007,7 +28007,7 @@ celtic
 cragwork
 craichy
 crayer
-cloisterliness
+cloisterliness 1
 commendator
 crayfishes
 conditory
