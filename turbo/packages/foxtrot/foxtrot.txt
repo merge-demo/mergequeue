@@ -657,7 +657,7 @@ fulgurite
 falsity
 faltboat
 flugelmen
-faltere
+faltere 1
 flavored
 funky
 frequenter
