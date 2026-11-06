@@ -27625,7 +27625,7 @@ cow
 cyanidin
 clientry
 caesuras
-cowages
+cowages 1
 cowardice
 chrobat
 cowardish
