@@ -4907,7 +4907,7 @@ funiculi
 fascial
 fireworkless
 fairies
-fulgural
+fulgural 1
 fino
 fourscore
 flakiest
