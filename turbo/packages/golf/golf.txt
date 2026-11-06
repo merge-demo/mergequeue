@@ -915,7 +915,7 @@ garnishable
 gemeinschaften
 guidership
 gelsemiumia
-gametophoric
+gametophoric 1
 gorbet
 gated
 gnashes
