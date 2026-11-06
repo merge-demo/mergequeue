@@ -8027,7 +8027,7 @@ bluntness
 bicornate
 befetished
 bowery
-brutal
+brutal 1
 bicorned
 booby
 bicornous
