@@ -3465,7 +3465,7 @@ glasgow
 gallophobia
 gourdlike
 gallous
-gentling
+gentling 1
 gellant
 griefful
 glathsheim
