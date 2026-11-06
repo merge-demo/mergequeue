@@ -18609,7 +18609,7 @@ assalto
 aulos
 adlegation
 arcading
-atomical
+atomical 1
 arctogaean
 antipatriarchally
 allurer
