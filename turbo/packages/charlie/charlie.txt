@@ -25722,7 +25722,7 @@ cleanhandedness
 cistophoric
 coppiced
 crepitate
-circumrotating
+circumrotating 1
 cornutin
 corresponded
 correspondence
