@@ -11959,7 +11959,7 @@ everlastingly
 evaporation
 epitaphist
 excitations
-eccl
+eccl 1
 escapes
 eastbound
 eulogists
