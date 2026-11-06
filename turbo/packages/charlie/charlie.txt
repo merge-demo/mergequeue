@@ -22645,7 +22645,7 @@ clinker
 crevice
 connived
 chromochalcography
-connives
+connives 1
 captance
 connivingly
 connochaetes
