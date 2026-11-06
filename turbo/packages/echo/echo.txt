@@ -6230,7 +6230,7 @@ eidology
 enplane
 electromotor
 ecorticate
-embryonary
+embryonary 1
 ethnogeographical
 entered
 erecter
