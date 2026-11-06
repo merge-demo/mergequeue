@@ -4581,7 +4581,7 @@ deadhouse
 demineralizing
 demiorbit
 disbarment
-dendrolagus
+dendrolagus 1
 decodings
 discharging
 dustlike
