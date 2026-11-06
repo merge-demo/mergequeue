@@ -5069,7 +5069,7 @@ guddler
 glassines
 galloping
 glenlike
-glasslikeness
+glasslikeness 1
 goosefoots
 gelatiniser
 glassful
