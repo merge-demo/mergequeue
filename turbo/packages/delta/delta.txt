@@ -3866,7 +3866,7 @@ deathfully
 doer
 deirid
 deis
-deisidaimonia
+deisidaimonia 1
 disquieting
 decentred
 deistical
