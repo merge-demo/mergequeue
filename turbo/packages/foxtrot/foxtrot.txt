@@ -10858,7 +10858,7 @@ fusarium
 forficate
 flaminian
 fortified
-fumblingly
+fumblingly 1
 fontal
 frisky
 forwore
