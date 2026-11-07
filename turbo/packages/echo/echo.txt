@@ -1895,7 +1895,7 @@ equiseta
 extrovert
 errata
 eximiousness
-exacta
+exacta 1
 effectively
 encashes
 evanescency
