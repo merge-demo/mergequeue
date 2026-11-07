@@ -18153,7 +18153,7 @@ boweling
 bullyboy
 boschvark
 boogie
-bunco
+bunco 1
 boracic
 bryon
 butyn
