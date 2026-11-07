@@ -17396,7 +17396,7 @@ avoirdupois
 andouillet
 apologia
 aways 1
-amplification
+amplification 1
 apophysate
 autumn
 apostrophising
