@@ -3610,7 +3610,7 @@ choosable
 caaba
 cinques
 circle
-caraboid
+caraboid 1
 carabus
 caracara
 carack
