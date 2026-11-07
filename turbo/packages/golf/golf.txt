@@ -3898,7 +3898,7 @@ gyroplane
 gatherings
 geomorphogenic
 globeholder
-garnetiferous
+garnetiferous 1
 gulosities
 geckotid
 gobian
