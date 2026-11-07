@@ -5142,7 +5142,7 @@ admonisher
 accosting
 acquainting
 amenia
-aestivating
+aestivating 1
 aestive
 aestuate
 ahchoo
