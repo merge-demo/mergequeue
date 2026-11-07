@@ -2124,7 +2124,7 @@ dominator
 decancellated
 disciplinarian
 debaser
-decipher
+decipher 1
 didst
 decandrous
 discrepate
