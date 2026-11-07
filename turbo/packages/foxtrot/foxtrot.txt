@@ -5671,7 +5671,7 @@ fibrine
 freckles
 funeration
 finite
-friended
+friended 1
 fuzz
 fusariose
 firking
