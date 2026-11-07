@@ -2422,7 +2422,7 @@ farmsteads
 fenmen
 ferlying
 foiler
-ferling
+ferling 1
 flemishes
 furls
 fortnightly
