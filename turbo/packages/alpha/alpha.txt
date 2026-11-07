@@ -18737,7 +18737,7 @@ archconfraternity
 agalite
 anticonventionally
 archcritic
-amblyopia
+amblyopia 1
 argonautic
 appmt
 archcrown
