@@ -11553,7 +11553,7 @@ erethizon
 estrange
 endites
 evernia
-equipartisan
+equipartisan 1
 evoking
 embrute
 enlighten
