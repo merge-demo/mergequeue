@@ -29778,7 +29778,7 @@ counterambush
 croon
 crooned
 cankeredness
-creakiness
+creakiness 1
 cullible
 citable
 caliperer
