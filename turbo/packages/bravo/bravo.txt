@@ -1879,7 +1879,7 @@ banderole
 bicolors
 bindings
 brigading
-banders
+banders 1
 broadlings
 befogging
 barkinji
