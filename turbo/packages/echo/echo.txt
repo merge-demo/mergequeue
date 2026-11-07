@@ -7373,7 +7373,7 @@ exonship
 epithetical
 everywhither
 earthmoving
-equipollency
+equipollency 1
 eyres
 epencephala
 embittering
