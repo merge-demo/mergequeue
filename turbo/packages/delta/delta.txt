@@ -6239,7 +6239,7 @@ dedolomitization
 dermatagra
 dermatophagus
 dihybrid
-dermatotropic
+dermatotropic 1
 diaphragmatically
 desiccator
 dizaine
