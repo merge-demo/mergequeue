@@ -7509,7 +7509,7 @@ fastly
 fullface
 forebode
 fauld
-frictionlessness
+frictionlessness 1
 fest
 forebodes
 firebed
