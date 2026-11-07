@@ -8711,7 +8711,7 @@ greedless
 grecism
 guemul
 guttled
-guttling
+guttling 1
 germiniparous
 greekize
 gavelling
