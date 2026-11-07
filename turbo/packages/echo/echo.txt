@@ -13925,7 +13925,7 @@ extorter
 ectoderm
 eburnated
 electee
-epimerizing
+epimerizing 1
 exorcized
 errordump
 euphenic
