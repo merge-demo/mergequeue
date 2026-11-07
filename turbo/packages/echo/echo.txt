@@ -2930,7 +2930,7 @@ epistomal
 egyptian
 etchings
 eelshop
-evaporatively
+evaporatively 1
 erythrasma
 elliptical
 embarrassments
