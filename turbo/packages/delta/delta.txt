@@ -10881,7 +10881,7 @@ delusions
 disabled
 doorplates
 defrayer
-deterges
+deterges 1
 demersion
 divulgement
 diapensiaceous
