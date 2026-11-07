@@ -5100,7 +5100,7 @@ exprobratory
 endocoele
 enaliosaurian
 exploiter
-effaced
+effaced 1
 expositoriness
 elfins
 evanishment
