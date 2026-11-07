@@ -6860,7 +6860,7 @@ guardless
 gymsia 1
 gluteoinguinal
 gauntlets
-glucoprotein
+glucoprotein 1
 geaster
 glidewort
 gardinol
