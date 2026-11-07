@@ -8588,7 +8588,7 @@ afterings
 analyzer
 awfullest
 allantoinase
-ampullosity
+ampullosity 1
 acetoxim
 allantoxaidin
 anthropoclimatology
