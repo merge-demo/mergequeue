@@ -16516,7 +16516,7 @@ concentring
 cloghead
 carboxyl
 cowsharn
-cosmos
+cosmos 1
 calendar
 coinheritance
 correlative
