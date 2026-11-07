@@ -2936,7 +2936,7 @@ gosh
 gastroscopic
 gooseflower 1
 gunks
-guardingly
+guardingly 1
 gaddang
 gurkha
 guapilla
