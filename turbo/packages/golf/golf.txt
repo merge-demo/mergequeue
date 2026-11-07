@@ -2712,7 +2712,7 @@ globularness
 glandule
 gravitons
 gamey
-gusle
+gusle 1
 grith
 gemmoid
 gnatho
