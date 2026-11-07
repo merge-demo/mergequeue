@@ -1046,7 +1046,7 @@ calcannea
 calcannei
 chloroplastid
 channellers
-calcareous
+calcareous 1
 calcareousness
 capitalise
 chiliaedron
