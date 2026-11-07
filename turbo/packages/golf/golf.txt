@@ -4265,7 +4265,7 @@ gynecocracies
 goby
 gynecocrat
 gunshots
-gleamed
+gleamed 1
 gastroscope
 gangliated
 gibeonite
