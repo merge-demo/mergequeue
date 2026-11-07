@@ -10758,7 +10758,7 @@ eigenvector
 emer
 endogalvanism
 eucnemidae
-excursions
+excursions 1
 eucalypteol
 epipolize
 exercitant
