@@ -7906,7 +7906,7 @@ epileny
 exotospore
 emblematized
 ersar
-entomeric
+entomeric 1
 exuccous
 entryway
 electrometric
