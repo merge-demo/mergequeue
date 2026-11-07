@@ -19480,7 +19480,7 @@ amphipodiform
 armgaunt
 archwife
 argillic
-aspalathus
+aspalathus 1
 assessing
 aelurophobe
 adrenocorticosteroid

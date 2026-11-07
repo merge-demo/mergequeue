@@ -6760,7 +6760,7 @@ deceased
 desilt
 disregular
 deerweeds
-dihedral
+dihedral 1
 depraving
 dodecatyl
 disally
