@@ -22327,7 +22327,7 @@ antal
 astride
 averah
 antefixal
-antalkaline
+antalkaline 1
 argentoproteinum
 argents
 alamedas
