@@ -13825,7 +13825,7 @@ anchylosed
 accessions
 anorectal
 arizonan
-anorectic
+anorectic 1
 anagallis
 africanism
 antonovics
