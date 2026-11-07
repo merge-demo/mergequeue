@@ -8676,7 +8676,7 @@ diastalses
 dum
 dovekey
 diastalsis
-diglossia
+diglossia 1
 dimer
 disgustedness
 dryads
