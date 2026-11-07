@@ -16586,7 +16586,7 @@ derout
 denotations
 disassiduity
 delatinize
-dialuric
+dialuric 1
 decorations
 deionization
 dispromise

@@ -21996,7 +21996,7 @@ arterin
 aquameter
 aminize
 assuetude
-annualist
+annualist 1
 avantgarde
 antireligiosity
 assume
