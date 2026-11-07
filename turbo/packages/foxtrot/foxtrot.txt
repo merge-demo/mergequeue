@@ -4374,7 +4374,7 @@ furosemide
 focuser
 forfeitable
 formicarium
-frate
+frate 1
 fibroplastic
 flyte
 figureheads
