@@ -13849,7 +13849,7 @@ barleybird
 brooch
 biduous
 boathook
-bang
+bang 1
 bowheads
 bowie
 balr
