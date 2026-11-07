@@ -11523,7 +11523,7 @@ agglomerant
 anisettes
 acetoin
 ascospore
-anapnoeic
+anapnoeic 1
 alenu
 amusers
 abbatical
