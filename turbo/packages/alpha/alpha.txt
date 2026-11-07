@@ -13081,7 +13081,7 @@ acetylation
 aslop
 anhydridization
 asocial
-almight
+almight 1
 afterroll
 anhydroglocose
 anhidrotic
