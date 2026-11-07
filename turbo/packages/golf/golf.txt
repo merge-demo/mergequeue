@@ -1810,7 +1810,7 @@ grasses
 glutenous
 generalcies
 gemmules
-gousty
+gousty 1
 gammacism
 gadabout
 goloshes
