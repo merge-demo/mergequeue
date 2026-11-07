@@ -7476,7 +7476,7 @@ besant
 burtree
 berhymed
 beamer
-burd
+burd 1
 bistre
 bramantesque
 bullragged
