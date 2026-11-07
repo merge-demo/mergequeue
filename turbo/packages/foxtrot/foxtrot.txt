@@ -8671,7 +8671,7 @@ furlong
 flutemouth
 febrifuge
 frankhearted
-favoress
+favoress 1
 flattens
 fame
 faciendum
