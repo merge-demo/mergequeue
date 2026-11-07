@@ -1444,7 +1444,7 @@ bifid
 balibago
 baline
 bundahish
-bugler
+bugler 1
 bloodthirstiest
 banshie
 bowsprit
