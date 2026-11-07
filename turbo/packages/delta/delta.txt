@@ -16756,7 +16756,7 @@ darg
 disseminule
 drave
 danalite
-demiflouncing
+demiflouncing 1
 dictynid
 dextrocular
 diplasic
