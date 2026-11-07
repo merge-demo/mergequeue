@@ -6932,7 +6932,7 @@ eleganter
 extrapolations
 endarteria
 election 1
-entourage
+entourage 1
 empt
 entozoologically
 entrain
