@@ -9063,7 +9063,7 @@ defang
 denaturalize
 diss
 dermatophobia
-defigure
+defigure 1
 dictionarian
 dropsywort
 discommodity
