@@ -8642,7 +8642,7 @@ bimanous
 bradsot
 bodysurf
 bournless
-bimanually
+bimanually 1
 blok
 breechloading
 basaltes
