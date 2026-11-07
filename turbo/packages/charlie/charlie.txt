@@ -24348,7 +24348,7 @@ cookhouses
 cowry
 cooky
 cookie
-cookishly
+cookishly 1
 colloquia
 clodpates 1
 convert
