@@ -9576,7 +9576,7 @@ familia
 floreta
 frontopontine
 fizzed
-friableness 1
+friableness 2
 fusteric
 frizzing
 fraternality
