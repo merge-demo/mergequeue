@@ -11482,7 +11482,7 @@ farse
 feminacies
 fairleader
 flays
-froggery
+froggery 1
 fuzzle
 foothill
 ferrite
