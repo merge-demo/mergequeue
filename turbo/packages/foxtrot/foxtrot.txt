@@ -9718,7 +9718,7 @@ fluviograph
 flabs
 flycaster
 fanworts
-fuchsins
+fuchsins 1
 fevery
 fretworks
 flexile
