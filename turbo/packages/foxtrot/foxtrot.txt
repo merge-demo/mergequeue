@@ -7739,7 +7739,7 @@ flower
 flanes
 firearms
 foremast
-fritters
+fritters 1
 franciscanism
 fisticuffery
 favillous

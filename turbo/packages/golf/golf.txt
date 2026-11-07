@@ -1891,7 +1891,7 @@ glottologic
 gunboat
 ganglia
 gulped
-gastromycosis
+gastromycosis 1
 ghalva
 geal
 garnetwork
