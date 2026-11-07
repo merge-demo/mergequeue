@@ -61,7 +61,7 @@ friskily
 faster
 fibrolite
 flimflam
-flannelmouth
+flannelmouth 1
 fconv
 fabulously
 facebar
