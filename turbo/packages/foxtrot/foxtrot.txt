@@ -4138,7 +4138,7 @@ fiorite
 flamberg
 foreseen 1
 futuramic
-falsehoods
+falsehoods 1
 fornenst
 faff
 fontanel
