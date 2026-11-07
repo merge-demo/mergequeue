@@ -19781,7 +19781,7 @@ combustive
 combusts
 captained
 combwise
-catapulting
+catapulting 1
 centurion
 castlewards
 ceraunics
