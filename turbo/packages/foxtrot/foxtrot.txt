@@ -3463,7 +3463,7 @@ figgiest
 fraternisation
 fecundity
 fleeches
-fingerable 1
+fingerable 2
 foreseason
 foreconsider
 fallback
