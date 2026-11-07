@@ -2674,7 +2674,7 @@ desmoma
 decompress
 decompresses
 decolourisation
-detectaphone
+detectaphone 1
 demiplacate
 dcollet
 dhurnas
