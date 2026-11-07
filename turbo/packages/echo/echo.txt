@@ -12132,7 +12132,7 @@ extrados
 emphysematous
 expt
 esclavage
-energise
+energise 1
 elasticin
 exuviating
 electroshock
