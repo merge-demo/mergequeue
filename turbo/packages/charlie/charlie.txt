@@ -29029,7 +29029,7 @@ coppling
 criminaloid
 criminate
 criminating
-crush
+crush 1
 crimination
 criminator
 criminis
