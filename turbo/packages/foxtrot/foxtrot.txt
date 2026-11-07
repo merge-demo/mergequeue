@@ -7659,7 +7659,7 @@ foreguess
 flammant
 flambant
 foretopsail
-fittywise
+fittywise 1
 fiefdom
 forsteal
 forecasting
