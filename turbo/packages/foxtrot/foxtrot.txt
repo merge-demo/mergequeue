@@ -6641,7 +6641,7 @@ frontes
 formaldehydesulphoxylate
 fancify
 forevouched
-foehnlike
+foehnlike 1
 faulted
 fumbling
 fulgurating
