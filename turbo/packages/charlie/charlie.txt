@@ -2871,7 +2871,7 @@ canopies
 corticated
 canopying
 cours
-cloughs
+cloughs 1
 cyeses
 canopus
 canos
