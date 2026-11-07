@@ -294,7 +294,7 @@ gaslock
 gaddish
 groundliness
 guebucu
-grubstaked
+grubstaked 1
 guahivo
 gummier
 glossophora
