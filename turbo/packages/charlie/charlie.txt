@@ -17292,7 +17292,7 @@ cephalemia
 coannexed
 coannexes
 coannihilate
-cobol
+cobol 1
 clarions
 corresol
 churrigueresque
