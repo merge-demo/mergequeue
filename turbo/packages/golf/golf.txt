@@ -8754,7 +8754,7 @@ glucosuric
 garrets
 games
 glom
-goustrous
+goustrous 1
 galeus
 gobbin
 germling
