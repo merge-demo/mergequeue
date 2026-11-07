@@ -21177,7 +21177,7 @@ aselar
 associator
 asellate
 andabata
-apostates
+apostates 1
 anthracitiferous
 agnathic
 autospore
