@@ -1151,7 +1151,7 @@ filberts
 forefends
 futuristic
 flockling
-fimbriodentate
+fimbriodentate 1
 flagrance
 florulas
 fiberization

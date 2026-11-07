@@ -4609,7 +4609,7 @@ alkalemia
 androcentric
 angolar
 acetylic
-avidnesses
+avidnesses 1
 advising
 antechapel
 altercate
