@@ -16316,7 +16316,7 @@ anthochlor
 antitobacconist
 auscultative
 ahura
-antitonic
+antitonic 1
 autoneurotoxin
 annuity
 antiroyal
