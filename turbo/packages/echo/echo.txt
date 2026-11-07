@@ -8408,7 +8408,7 @@ enstamp 1
 extents
 epizoic
 ensigncy
-equals
+equals 1
 epizoon
 edemic
 emblossom
