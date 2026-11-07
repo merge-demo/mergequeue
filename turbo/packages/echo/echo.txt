@@ -1304,7 +1304,7 @@ effect
 endocardiac
 exopeptidase
 effective
-euryphagous
+euryphagous 1
 epimachinae
 establishes
 entomologists
