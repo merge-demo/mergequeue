@@ -8111,7 +8111,7 @@ fretsaw
 falisci
 forewrought
 fractionate
-fanaticalness 1
+fanaticalness 2
 foretell
 figurehead
 filmiest
