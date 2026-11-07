@@ -797,7 +797,7 @@ glycosidase
 gonydeal
 graf
 gimlet
-gambade
+gambade 1
 garrotting
 gastroenteritic
 gastrular
