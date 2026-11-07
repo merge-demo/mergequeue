@@ -5063,7 +5063,7 @@ duplicand
 denaturise
 disfigures
 dextrogyrate
-denaturization
+denaturization 1
 desensitizers
 dendraspis
 doomwatcher

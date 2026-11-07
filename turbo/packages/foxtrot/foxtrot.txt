@@ -9892,7 +9892,7 @@ flitching
 frits
 friskier
 fibrofatty
-freckly
+freckly 1
 fibrillations
 floodlet 1
 ferreters
