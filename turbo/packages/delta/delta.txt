@@ -6379,7 +6379,7 @@ disassociation
 dorsiventral
 derodidymus
 daleth
-derog
+derog 1
 demeanour
 doronicum
 despond

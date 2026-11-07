@@ -10744,7 +10744,7 @@ bebatter
 bootlessly 1
 blennorrhagia
 busied
-binormal
+binormal 1
 bollworms
 brags
 blennosis
