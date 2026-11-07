@@ -9742,7 +9742,7 @@ gambir
 gordiidae
 gagroot
 gambes
-gorged
+gorged 1
 gastrodynia
 glutens
 geophagies
