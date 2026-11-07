@@ -5047,7 +5047,7 @@ denationalize
 dedicator
 decaesarize
 diblastula
-densification
+densification 1
 dayal
 drivingly
 denaturalised

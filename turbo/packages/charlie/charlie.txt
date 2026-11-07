@@ -26410,7 +26410,7 @@ coterie
 ciminite
 cryptoglioma
 concavities
-centipoise
+centipoise 1
 chronically
 clergess
 cliffier
