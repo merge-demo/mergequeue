@@ -6697,7 +6697,7 @@ gulae
 growable
 geotherm
 gromatic
-geochronometry
+geochronometry 1
 grattage
 gewgawed
 gradual
