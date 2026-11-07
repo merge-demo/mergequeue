@@ -10500,7 +10500,7 @@ calcaneocuboid
 capacitation
 connexity
 chiliahedron
-chiliarchia
+chiliarchia 1
 chiliast
 commuting
 comprehend
