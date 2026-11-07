@@ -8081,7 +8081,7 @@ exosporium
 extraprovincial
 epiphragm
 enlargedness
-encover
+encover 1
 extrasyphilitic
 extraordinaries
 expressable
