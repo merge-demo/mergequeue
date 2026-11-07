@@ -705,7 +705,7 @@ electrotrephine
 ecraseurs
 esocyclic
 ened
-emic
+emic 1
 ecology
 euhemeristically
 eromania
