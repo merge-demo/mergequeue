@@ -17886,7 +17886,7 @@ chiliad
 codirector
 conycatcher
 codirects
-codist
+codist 1
 codivine
 codline
 calcigerous
