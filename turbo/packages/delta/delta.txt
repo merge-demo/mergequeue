@@ -15384,7 +15384,7 @@ decarburization
 dittany
 disserviceably
 derisions
-desperacy
+desperacy 1
 digestedness
 decametre
 deforestation
