@@ -4660,7 +4660,7 @@ demystify
 diphysitism
 demystification
 demurring
-dismantle
+dismantle 1
 demisuit
 dumminess
 dithyrambos
