@@ -22058,7 +22058,7 @@ anteprostate
 anthems
 astable
 aedeagus
-astay
+astay 1
 anisometropic
 aegithognathism
 anaphylaxis
