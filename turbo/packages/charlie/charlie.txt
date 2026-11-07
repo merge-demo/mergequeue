@@ -29210,7 +29210,7 @@ cyclospermous
 cryotherapies
 crip
 crippied
-cripple
+cripple 1
 cogboat
 characid
 crippleness
