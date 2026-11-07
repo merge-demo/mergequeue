@@ -1578,7 +1578,7 @@ ballhooter
 backslash
 balli
 burmanniaceous
-burlesques
+burlesques 1
 befiddle
 bacchanal
 brahminism
