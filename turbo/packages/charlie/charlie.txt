@@ -2833,7 +2833,7 @@ canonesses
 canonicalization
 cinctures
 canonicalized
-canonicalizes
+canonicalizes 1
 croaked
 circumventive
 cremor
