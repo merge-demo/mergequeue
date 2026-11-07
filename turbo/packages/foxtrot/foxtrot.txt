@@ -5055,7 +5055,7 @@ fibrocrystalline
 flappable
 frankalmoin
 fermions
-figlike
+figlike 1
 fishline
 fosses
 fetialis
