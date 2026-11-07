@@ -6522,7 +6522,7 @@ descensive
 donor
 descent
 despert
-dekameter
+dekameter 1
 diffracting
 deschool
 decoyed
