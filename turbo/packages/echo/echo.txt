@@ -269,7 +269,7 @@ epigoneion
 enqueue
 enantioblastic
 epupillate
-endognath
+endognath 1
 ectocuniform
 enounces
 esquired
