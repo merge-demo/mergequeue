@@ -4872,7 +4872,7 @@ frabbit
 forearm
 froglet
 flagellatory
-ferocities
+ferocities 1
 formalness
 followable
 flails
