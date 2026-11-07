@@ -280,7 +280,7 @@ daguerreotype
 downspout
 dolichopodous
 degermed
-doradilla
+doradilla 1
 daguerreotyped 1
 daguerreotyping
 digitonin
