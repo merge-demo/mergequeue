@@ -6820,7 +6820,7 @@ dodgeries
 dockworker
 distributive
 dictyoceratina
-desmanthus
+desmanthus 1
 diallagoid
 disleafing
 decayed
