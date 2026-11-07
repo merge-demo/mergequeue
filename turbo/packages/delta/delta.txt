@@ -12932,7 +12932,7 @@ dermostosis
 degreeing
 defaultant
 docilities
-discolor
+discolor 1
 disaffectedness
 differed
 disoperculate
