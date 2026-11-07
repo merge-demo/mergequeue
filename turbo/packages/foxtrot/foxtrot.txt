@@ -646,7 +646,7 @@ falsifier
 frogmouths
 foll
 foveolet
-floaty
+floaty 1
 falunian
 fertilisation
 fanum
