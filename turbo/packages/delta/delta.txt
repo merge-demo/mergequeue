@@ -634,7 +634,7 @@ dextroversion
 dinoflagellata 1
 deploitation
 dominick
-damnify
+damnify 1
 dearth
 disoccupation
 decadence
