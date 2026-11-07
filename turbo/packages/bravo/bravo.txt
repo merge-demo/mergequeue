@@ -4178,7 +4178,7 @@ beatification
 beatified
 ballonet
 blacktop
-beatifies
+beatifies 1
 bigbloom
 batholite
 bouchees
