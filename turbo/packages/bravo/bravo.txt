@@ -373,7 +373,7 @@ backframe
 backfriend
 bottegas
 backgame
-backgammon
+backgammon 1
 board
 barbarical
 barwares
