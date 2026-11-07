@@ -9334,7 +9334,7 @@ estop
 expressible
 erudition
 erinys
-eurythmic
+eurythmic 1
 endosiphon
 encrusted
 erugos
