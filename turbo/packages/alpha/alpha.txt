@@ -11187,7 +11187,7 @@ azimuthally
 artifices
 aquatinting
 anthropology
-aliform
+aliform 1
 amphibole
 alkide
 addictive
