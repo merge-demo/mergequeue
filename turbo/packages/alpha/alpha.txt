@@ -8695,7 +8695,7 @@ argyrythrose
 aeroelastics
 anoxidative
 allocution
-anemology
+anemology 1
 alleleu
 allelic
 allelism
