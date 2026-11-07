@@ -2010,7 +2010,7 @@ furile
 fishgig
 feedstock
 floccosely
-firespout
+firespout 1
 forerake
 fitched
 floative
