@@ -9336,7 +9336,7 @@ gauffre
 gallipot
 gromia
 grinder
-geomagnetically
+geomagnetically 1
 gront
 gorbellies
 gahnites
