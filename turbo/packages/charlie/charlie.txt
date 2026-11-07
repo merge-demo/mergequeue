@@ -11416,7 +11416,7 @@ cystopyelography
 choanocyte
 choanoflagellate
 cotta
-choanophorous
+choanophorous 1
 cataplasm
 choanosome
 cautioned
