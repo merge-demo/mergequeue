@@ -14826,7 +14826,7 @@ checkbird
 cytokinesis
 cytokinetic
 captan
-coradical
+coradical 1
 cytokinin
 cytol
 coziest
