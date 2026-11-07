@@ -14067,7 +14067,7 @@ echelonment
 exclude
 enquarter
 extracurriculum
-entablature
+entablature 1
 epilobiaceae
 enfect
 effortfulness
