@@ -29233,7 +29233,7 @@ cryptanalyze
 cothamore
 characetum
 capybara
-cryptanalyzing
+cryptanalyzing 1
 cryptarch
 cryptarchy
 caracols
