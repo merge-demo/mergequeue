@@ -24250,7 +24250,7 @@ anthelices
 aluminoferric
 ameliorableness
 automatous
-automechanical
+automechanical 1
 almoner
 actinically
 automechanism
