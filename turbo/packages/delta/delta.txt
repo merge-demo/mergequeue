@@ -9109,7 +9109,7 @@ decagons
 derma
 didelphid
 dhoty
-dispunct
+dispunct 1
 dichoptic
 dyslexias
 didelphidae
