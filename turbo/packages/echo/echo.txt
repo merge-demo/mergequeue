@@ -7416,7 +7416,7 @@ etherealized
 ephas
 erythrolytic
 enchaining
-excepts
+excepts 1
 employes
 elenctic
 entanglement
