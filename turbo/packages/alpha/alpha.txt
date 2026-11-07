@@ -9752,7 +9752,7 @@ amabel
 atbash
 amable
 anchorer
-allegatum
+allegatum 1
 amacrinal
 amadelphous
 aggrading
