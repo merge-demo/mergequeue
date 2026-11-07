@@ -4764,7 +4764,7 @@ aequi
 ausgespielt
 aranein
 albuminimetry
-allogamy
+allogamy 1
 attemperation
 aequor
 altitudes
