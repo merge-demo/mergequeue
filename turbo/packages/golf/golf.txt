@@ -2224,7 +2224,7 @@ gibers
 gristle
 gossipmongering 1
 galactase
-gastrotome
+gastrotome 1
 grifts
 gefulltefish
 galley
