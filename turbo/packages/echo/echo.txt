@@ -7760,7 +7760,7 @@ ethnologist
 exchanger
 epidymides
 extrafine
-eosine
+eosine 1
 extractiform
 equispatial
 exotisms
