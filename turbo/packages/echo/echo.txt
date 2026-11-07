@@ -11673,7 +11673,7 @@ electrocautery
 epididymectomy
 exaggeratingly
 extralinguistically
-expends
+expends 1
 erythrogenic
 estragons
 ecphasis
