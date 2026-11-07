@@ -1282,7 +1282,7 @@ epigramme
 eq
 eeriness
 epithalamion
-encircler
+encircler 1
 endogenesis
 enteroid
 epyllia
