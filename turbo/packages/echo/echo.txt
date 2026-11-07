@@ -5673,7 +5673,7 @@ extrarenal
 endophasic
 erotism
 entrough
-ergastic
+ergastic 1
 expectorants
 eustacies
 emendator
