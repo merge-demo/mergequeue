@@ -2159,7 +2159,7 @@ genteelly
 glout
 gastrotrichan
 guacos
-galea
+galea 1
 goldfinches
 galliards
 glistening
