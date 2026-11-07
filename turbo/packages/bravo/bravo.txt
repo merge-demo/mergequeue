@@ -12865,7 +12865,7 @@ boondoggling
 banishers
 boonfellow
 betrayers
-bondslave
+bondslave 1
 behorror
 bifoil
 birthplace
