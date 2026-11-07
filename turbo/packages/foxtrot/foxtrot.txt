@@ -143,7 +143,7 @@ fights
 facks
 forefront
 fumitories
-favus
+favus 1
 falls
 fulfillers
 fibbery
