@@ -4639,7 +4639,7 @@ gentility
 gunlocks
 gaudy 1
 guerinet
-glossitic
+glossitic 1
 guttersnipish
 gyppers
 griggles
