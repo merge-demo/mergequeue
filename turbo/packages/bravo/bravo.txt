@@ -39,7 +39,7 @@ biplosion
 bodleian
 begowned
 brutalizes
-bracketwise
+bracketwise 1
 babblers
 buzzbomb
 brimse
