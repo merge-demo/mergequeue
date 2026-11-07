@@ -6117,7 +6117,7 @@ duplexs
 december
 desilicating
 derays
-deranges
+deranges 1
 dualin
 detrimental
 dropout
