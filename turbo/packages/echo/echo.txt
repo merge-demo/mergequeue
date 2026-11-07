@@ -592,7 +592,7 @@ egomanias
 effable
 estancia
 emblematize
-echoing
+echoing 1
 echoism
 epigeal
 enhydros
