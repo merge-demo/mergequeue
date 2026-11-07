@@ -9446,7 +9446,7 @@ exiture
 enfierce
 enamber 1
 eschel
-eschele
+eschele 1
 effulging
 ecod
 ectrogenic
