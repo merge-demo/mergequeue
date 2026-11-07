@@ -4476,7 +4476,7 @@ gunshot
 generically
 guacimo
 gypsyhead
-gloeocapsoid
+gloeocapsoid 1
 girlie 1
 grantiidae
 grammontine
