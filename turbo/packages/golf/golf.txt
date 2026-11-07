@@ -1971,7 +1971,7 @@ gams
 glyptical
 gaurian
 gasting
-gaurs
+gaurs 1
 gravitative
 glamourous
 gaussage 1
