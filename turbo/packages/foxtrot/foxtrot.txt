@@ -7546,7 +7546,7 @@ fungivorous
 fuzils
 flattops
 foretake
-funebrial
+funebrial 1
 formers
 falconries
 fragor
