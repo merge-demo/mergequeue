@@ -12607,7 +12607,7 @@ apodoses
 affectability
 anubis
 algae
-amorists
+amorists 1
 anepithymia
 awnlike
 ardennite
