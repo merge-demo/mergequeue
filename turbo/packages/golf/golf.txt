@@ -899,7 +899,7 @@ gusseted
 glyoxilin
 goosebird
 gez
-gelatinizability
+gelatinizability 1
 genome
 gravata
 gaverick
