@@ -2115,7 +2115,7 @@ enchondroma
 effortlessly
 equably
 euxenite
-elastivity
+elastivity 1
 eleusine
 exuberancy
 externat
