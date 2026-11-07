@@ -15595,7 +15595,7 @@ choose
 clathrinidae
 clamant
 clathroid
-clathrose
+clathrose 1
 cranes
 camelkeeper
 clathrulate
