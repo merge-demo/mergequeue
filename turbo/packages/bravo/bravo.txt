@@ -3063,7 +3063,7 @@ bookbinderies
 bubba
 bogeys
 bartramian
-banish
+banish 1
 bliest
 burlesks
 balsaming
