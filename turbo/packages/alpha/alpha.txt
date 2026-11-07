@@ -11404,7 +11404,7 @@ answerably
 amplectant
 argyrocephalous
 adempt
-arcuses
+arcuses 1
 ampler
 amplexicaul
 amphictyonic
