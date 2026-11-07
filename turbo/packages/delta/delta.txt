@@ -11248,7 +11248,7 @@ deadeyes
 dimmable
 discarded
 dulceness
-dalliers
+dalliers 1
 difluoride
 discarding
 discardment
