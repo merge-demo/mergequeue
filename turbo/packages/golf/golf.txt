@@ -1207,7 +1207,7 @@ glaux
 gimcrackery
 gimmicking
 glanders
-garrisonian
+garrisonian 1
 glossectomies
 galegine
 gratulate
