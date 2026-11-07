@@ -8105,7 +8105,7 @@ biding
 bidirectional 1
 biophagy
 bendsome
-bhumij
+bhumij 1
 beliefs
 bania
 boltonias
