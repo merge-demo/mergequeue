@@ -12868,7 +12868,7 @@ diodia
 descensory
 disminion
 doomsters
-decreeable
+decreeable 1
 driftway
 dyebeck
 demerited
