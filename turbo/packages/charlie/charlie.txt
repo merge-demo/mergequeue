@@ -6118,7 +6118,7 @@ chelonidae
 cats
 catskill
 catso
-catsos
+catsos 1
 carloadings
 catspaw
 catstep
