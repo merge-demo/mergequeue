@@ -11509,7 +11509,7 @@ disubstituted
 discandy
 defassa
 dynamometry
-disobligatory
+disobligatory 1
 discommoned
 dextrinase
 dodrantal
