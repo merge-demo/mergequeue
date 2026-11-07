@@ -4647,7 +4647,7 @@ graphometer
 gastrodialysis
 gaonic
 gasconade
-gummosis
+gummosis 1
 gentrice
 graphophobia
 gyronny
