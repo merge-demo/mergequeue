@@ -8172,7 +8172,7 @@ disbind
 deywoman
 dermalith
 diaconal
-disenorm
+disenorm 1
 diaconica
 depotentiation
 dragooning
