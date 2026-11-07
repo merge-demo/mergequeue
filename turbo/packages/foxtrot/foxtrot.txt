@@ -1715,7 +1715,7 @@ frangible
 fractable
 ferrament
 fingertip
-foreordaining
+foreordaining 1
 forehandsel
 fanfares
 fearsomeness
