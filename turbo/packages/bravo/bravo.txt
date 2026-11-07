@@ -16351,7 +16351,7 @@ brownwort
 bonito
 biovular
 beflower
-bowels
+bowels 1
 broadswords
 bicarb
 bdft
