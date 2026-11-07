@@ -5151,7 +5151,7 @@ beroidae
 befoulment
 biacuminate
 bejazz
-befraught
+befraught 1
 befreight
 befountained
 borosilicic
