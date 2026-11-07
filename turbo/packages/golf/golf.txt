@@ -7787,7 +7787,7 @@ grumbletonian
 gnomish
 gralline
 goofer
-gutnic
+gutnic 1
 gadman
 gondoliere
 gray
