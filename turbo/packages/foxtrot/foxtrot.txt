@@ -8230,7 +8230,7 @@ finestra
 faltering
 forgat
 flavines
-footwork
+footwork 1
 forgather
 falsifications
 fossulate
