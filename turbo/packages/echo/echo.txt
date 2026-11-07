@@ -8055,7 +8055,7 @@ ego
 ektodynamorphic
 endamebic
 earthworks
-epineural
+epineural 1
 euphrasy
 exosporal
 empeopled
