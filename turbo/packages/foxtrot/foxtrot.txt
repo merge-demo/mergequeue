@@ -240,7 +240,7 @@ facultize
 florizine
 fulgur
 finify
-flouters
+flouters 1
 fetials
 fopship
 fannel
