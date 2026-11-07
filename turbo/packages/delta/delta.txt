@@ -9703,7 +9703,7 @@ ditrochean
 dehydromucic
 disablers
 demur
-detin
+detin 1
 devolute
 dilatedly
 demythologized
