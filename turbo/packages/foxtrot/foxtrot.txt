@@ -1714,7 +1714,7 @@ fondlike
 frangible
 fractable
 ferrament
-fingertip
+fingertip 1
 foreordaining
 forehandsel
 fanfares
