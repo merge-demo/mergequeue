@@ -5788,7 +5788,7 @@ extirp
 englut
 emhpasizing
 encored
-excedent
+excedent 1
 ependymitis
 ectropionizing
 epistolised
