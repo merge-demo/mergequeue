@@ -5911,7 +5911,7 @@ greenbacks
 gassiness
 guereba
 gymnospermous
-goitrous
+goitrous 1
 gasogene
 goliardeys
 gravitational
