@@ -64,7 +64,7 @@ ecotypes 1
 elf
 empaneling
 earliest
-emarginate
+emarginate 1
 enfilading
 eastness
 etiam
