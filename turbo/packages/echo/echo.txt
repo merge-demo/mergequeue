@@ -8578,7 +8578,7 @@ ecalcarate
 exceptant
 eskimauan
 extraparenchymal
-equiaxed
+equiaxed 1
 edificable
 equate
 eburnification
