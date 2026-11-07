@@ -155,7 +155,7 @@ gaelic
 gynostegia 1
 gs
 guy
-gentisin
+gentisin 1
 gratelike
 ghats
 geryon
