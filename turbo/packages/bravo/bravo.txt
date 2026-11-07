@@ -7636,7 +7636,7 @@ bewraps
 basilisks
 belesprit
 bewrapt
-bewreck
+bewreck 1
 besee
 brighten
 befreckle
