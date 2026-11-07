@@ -11141,7 +11141,7 @@ foreallot
 fibroligamentous
 fanega
 freeings
-faiences
+faiences 1
 floatation
 fiats
 frumperies
