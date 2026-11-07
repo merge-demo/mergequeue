@@ -13082,7 +13082,7 @@ aslop
 anhydridization
 asocial
 almight
-afterroll
+afterroll 1
 anhydroglocose
 anhidrotic
 accompt
