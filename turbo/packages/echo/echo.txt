@@ -1186,7 +1186,7 @@ ethoxyls
 educates
 engrainedly
 egrimony
-ensue
+ensue 1
 entitule
 education
 edulcorating
