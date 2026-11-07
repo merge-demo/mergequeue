@@ -5917,7 +5917,7 @@ frostbites
 flogs
 fermis
 foeticidal 1
-flybane
+flybane 1
 formose
 foveola
 firker
