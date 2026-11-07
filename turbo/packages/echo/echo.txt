@@ -2554,7 +2554,7 @@ exploitatively
 enchanters
 etrogs
 electron
-extensor
+extensor 1
 elastins
 exenteration
 escapeful
