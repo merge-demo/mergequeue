@@ -15320,7 +15320,7 @@ antigravitational
 angiemphraxis
 automobiling
 antigravity
-antigrowth
+antigrowth 1
 affectible
 anatomizes
 aminosis
