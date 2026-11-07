@@ -12848,7 +12848,7 @@ endamoeba
 exteroceptive
 electrogild
 expandedly
-explicable
+explicable 1
 euryaleae
 engrace
 endsheet
