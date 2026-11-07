@@ -3952,7 +3952,7 @@ encephalic
 emotionize
 epimeron
 emolument
-elevator
+elevator 1
 extoled
 emotivity
 epileptology
