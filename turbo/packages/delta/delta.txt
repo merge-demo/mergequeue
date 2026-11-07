@@ -6389,7 +6389,7 @@ derogates
 diglyceride
 dillseed
 derogating
-derogative
+derogative 1
 derogator
 dooja
 dischurch
