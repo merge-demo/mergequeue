@@ -1627,7 +1627,7 @@ centrobaric
 crureus
 calmest
 calmier
-calmiest
+calmiest 1
 compiling
 coeducationally
 calming
