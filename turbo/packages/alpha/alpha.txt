@@ -8197,7 +8197,7 @@ algophilist
 albuminolysis
 acetonylacetone
 algophobia
-algor
+algor 1
 alienor
 adynamias
 absorptive
