@@ -3710,7 +3710,7 @@ endecha
 ephemerons
 echelette
 exhaustivity
-egoistry
+egoistry 1
 embrittle
 edgeshot
 enfranchised
