@@ -11699,7 +11699,7 @@ fas 1
 far
 foretellableness
 flugelhorn
-fasciola
+fasciola 1
 fernsick
 fasciated
 frameless
