@@ -8319,7 +8319,7 @@ demoded
 disequalize
 diplogenetic
 datagram
-disenactment
+disenactment 1
 dialectal
 declaim
 draftier
