@@ -1670,7 +1670,7 @@ gliosis
 gamebag
 gazetteerish 1
 gordioidea
-glories
+glories 1
 gane
 grassquit
 grooved
