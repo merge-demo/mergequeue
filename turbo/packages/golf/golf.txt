@@ -5804,7 +5804,7 @@ globoid
 geobotanically
 garblers
 granitize
-gosling
+gosling 1
 gratters
 gigamaree
 gauchos
