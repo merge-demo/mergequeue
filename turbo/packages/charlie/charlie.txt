@@ -1947,7 +1947,7 @@ capitols
 cumulose
 cyprinodont
 camerae
-curbless
+curbless 1
 cameral
 citizenship
 cameralism

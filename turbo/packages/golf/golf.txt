@@ -7590,7 +7590,7 @@ geothlypis
 grando
 ganglioplexus
 guideway
-gleaning
+gleaning 1
 generousness
 gruffer
 gownsmen
