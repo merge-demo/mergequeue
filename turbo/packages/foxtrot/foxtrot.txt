@@ -6232,7 +6232,7 @@ fluffiness
 flexography
 foreuse
 flugel
-foreleg
+foreleg 1
 footwears
 flatlet
 fiji
