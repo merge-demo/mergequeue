@@ -7546,7 +7546,7 @@ enddamage
 ettirone
 ebenaceous
 endoscopically
-embranglement
+embranglement 1
 exponence
 eructing
 epicheiremata
