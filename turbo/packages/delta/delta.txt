@@ -4740,7 +4740,7 @@ depender
 dogbody
 depraves
 dsnames
-democratic
+democratic 1
 dividedness
 democratisation
 democratise
