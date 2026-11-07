@@ -5228,7 +5228,7 @@ flews
 fulfil
 fleas
 fluxroot
-frugally
+frugally 1
 fratcheous
 flavid
 fluctuosity
