@@ -3616,7 +3616,7 @@ avichi
 adatom
 adenitis
 alces
-anomaloscope
+anomaloscope 1
 adenoacanthoma
 adenocarcinomas
 antipellagric
