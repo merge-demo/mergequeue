@@ -15087,7 +15087,7 @@ darkeners
 dowdiness
 doctorship
 dadaist
-dogmatize
+dogmatize 1
 dogplate
 dacryoblenorrhea
 dreamwise
