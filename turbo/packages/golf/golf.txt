@@ -8850,7 +8850,7 @@ germain
 guttler
 generalize
 griddler
-galleys
+galleys 1
 gynandria
 gobiesox
 gentianaceous
