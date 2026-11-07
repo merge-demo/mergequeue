@@ -5479,7 +5479,7 @@ dissolubility
 deadest
 devoiced
 dorsiventrality
-doryphoros
+doryphoros 1
 dews
 deoxygenated
 divestitures
