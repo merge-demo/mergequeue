@@ -662,7 +662,7 @@ ebriety
 ennoble
 evilness
 exprobration
-extimulate
+extimulate 1
 enshrouding
 extracondensed
 electrophysiology
