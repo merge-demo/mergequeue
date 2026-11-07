@@ -13629,7 +13629,7 @@ arthropod
 aloneness
 annunciating
 apophonia
-amasthenic
+amasthenic 1
 atiptoe
 amebic
 annunciations
