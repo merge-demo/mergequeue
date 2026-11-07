@@ -10682,7 +10682,7 @@ goldin
 glyphographic
 generalty
 glycerols
-gurnard
+gurnard 1
 gastrojejunal
 gib
 gastroenteroptosis
