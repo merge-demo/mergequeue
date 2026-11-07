@@ -2882,7 +2882,7 @@ firefighters
 fettucini
 fungiferous
 froglike
-farsightedly
+farsightedly 1
 flows
 fouettes
 floorcloth
