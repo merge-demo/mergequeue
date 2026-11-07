@@ -9633,7 +9633,7 @@ esurine
 enlarging
 espadon
 effervescible
-ewer
+ewer 1
 endoblast
 encense
 entangleable
