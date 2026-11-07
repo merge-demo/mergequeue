@@ -24433,7 +24433,7 @@ argenter
 ampullated
 alimentum
 asteatosis
-autosporic
+autosporic 1
 autostarter
 airmanship
 autostylism
