@@ -18882,7 +18882,7 @@ chancelor
 colossus
 charlatanship
 cestoid
-colistin
+colistin 1
 coypou
 colitic
 colitises
