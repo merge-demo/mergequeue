@@ -2619,7 +2619,7 @@ agapeic
 allocated
 auxoflore
 abutters
-acquire
+acquire 1
 asiden
 acquisite
 arricciati
