@@ -2309,7 +2309,7 @@ daphne
 defensory
 decream
 dishwash
-duchies
+duchies 1
 dismounted
 diagraphs
 dekaparsec

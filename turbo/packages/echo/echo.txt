@@ -6753,7 +6753,7 @@ electrocutions
 estatesman
 eyeletting
 enemied
-ergon
+ergon 1
 educator
 extramural
 entire
