@@ -10850,7 +10850,7 @@ augmentor
 asphodelaceae
 antiquate
 antithenar
-animoso
+animoso 1
 anisogamete
 amphibryous
 arm
