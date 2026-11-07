@@ -12078,7 +12078,7 @@ easels
 emblazonry
 ekphoria
 expostulation
-extollingly
+extollingly 1
 erepsin
 eunuchize
 escuage
