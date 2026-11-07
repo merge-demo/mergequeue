@@ -18441,7 +18441,7 @@ arauan
 antidromous
 araucanian
 araucaria
-anarchize
+anarchize 1
 assoluto
 araucariaceae
 actions
