@@ -391,7 +391,7 @@ filicauline
 forbid
 facets
 faceoff
-fancifully
+fancifully 1
 fairground
 fairy
 foresettle
