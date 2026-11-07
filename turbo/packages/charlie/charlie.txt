@@ -13013,7 +13013,7 @@ cyanose
 cyanoses
 chemitype
 cyanosite
-chatting
+chatting 1
 cyanotype
 cyanuramide
 coefficiently
