@@ -1344,7 +1344,7 @@ dawsonia
 diploid
 draftsperson
 doggerelize 1
-dompt
+dompt 1
 damagement
 discerners 1
 duelli
