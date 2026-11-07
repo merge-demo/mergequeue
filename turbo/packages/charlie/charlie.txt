@@ -28367,7 +28367,7 @@ counteragent
 colaphize
 clanned
 crawberry
-crawdad
+crawdad 1
 crawdads
 crawfishing
 crawfoots
