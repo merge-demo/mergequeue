@@ -8329,7 +8329,7 @@ gau
 geographic
 graculus
 gravicembalo
-glucuronidase
+glucuronidase 1
 giansar
 glaciated
 ghostwritten
