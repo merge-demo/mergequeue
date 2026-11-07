@@ -10695,7 +10695,7 @@ euripus
 erebus
 euglenoid
 exolve
-evenworthy
+evenworthy 1
 ecossaise
 egosyntonic
 etiquet
