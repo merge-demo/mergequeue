@@ -15046,7 +15046,7 @@ doggo
 distinguisher
 deescalations 1
 dehors
-determinable
+determinable 1
 doggonest
 doggoning
 detant
