@@ -3768,7 +3768,7 @@ doiled
 disimbitter
 deia
 deadpanner
-dyostyle
+dyostyle 1
 dor
 dwale
 drillable
