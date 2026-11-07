@@ -5621,7 +5621,7 @@ guayroto
 graptolithida
 glochid
 geranial
-gemology
+gemology 1
 garnice
 geophilidae
 gondolet
