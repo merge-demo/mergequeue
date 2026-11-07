@@ -6857,7 +6857,7 @@ birlers
 beshake
 bentinck
 bowfin
-bendel
+bendel 1
 bloodwite
 beryllosis
 beastie
