@@ -1216,7 +1216,7 @@ emmies
 endogenies
 epimorphosis
 erosionist
-educible
+educible 1
 epimeric
 encyclopedically
 eductors
