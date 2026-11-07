@@ -8899,7 +8899,7 @@ counterattacking
 coyotero
 chrysophanus
 crenelet
-carbamoyl
+carbamoyl 1
 concisest
 cystose
 concyclic
