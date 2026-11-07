@@ -4936,7 +4936,7 @@ demophobia
 decolonise
 disbursed
 dissentious
-dictators
+dictators 1
 demoraliser
 demoralising
 defecter
