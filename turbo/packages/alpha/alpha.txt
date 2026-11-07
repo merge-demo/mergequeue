@@ -22880,7 +22880,7 @@ anatomies
 ataxaphasia
 accubation 1
 adventism
-anorthic
+anorthic 1
 atomised
 archtreasurership
 atomism
