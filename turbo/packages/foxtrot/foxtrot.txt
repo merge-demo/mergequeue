@@ -8264,7 +8264,7 @@ fractionalizing 1
 friction
 forging
 furacity
-formous
+formous 1
 forgings
 figgy
 fluidism
