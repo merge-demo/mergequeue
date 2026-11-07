@@ -9489,7 +9489,7 @@ caffiso
 checkerberry
 checkerberries
 chorological
-checkerbloom
+checkerbloom 1
 calyciform
 cleaner
 chromatid
