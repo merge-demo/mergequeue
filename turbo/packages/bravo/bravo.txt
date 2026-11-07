@@ -6769,7 +6769,7 @@ boeotia
 berserks
 barnumize
 berhyme
-banjore
+banjore 1
 bert
 blowhole
 berteroa
