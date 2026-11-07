@@ -5521,7 +5521,7 @@ gangling
 gestured
 gnetum
 graduand
-glucinum
+glucinum 1
 grumblers 1
 grummest
 gastrorrhaphy
