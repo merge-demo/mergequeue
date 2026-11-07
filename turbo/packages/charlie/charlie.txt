@@ -2875,7 +2875,7 @@ cloughs
 cyeses
 canopus
 canos
-canossa
+canossa 1
 canotier
 canreply
 cubi
