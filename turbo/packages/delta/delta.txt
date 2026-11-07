@@ -6159,7 +6159,7 @@ deregulations
 dichromatism
 drumloid
 ducatoon
-dowsabels
+dowsabels 1
 destructivism
 dereistic
 derelicts
