@@ -4652,7 +4652,7 @@ entablement
 energico
 euphoniad
 embezzled
-electrophonically
+electrophonically 1
 encyclics
 equisetum
 extroversive
