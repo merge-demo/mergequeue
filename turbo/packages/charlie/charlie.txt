@@ -7312,7 +7312,7 @@ chequering
 cephalina
 cephaline
 cephalins
-cephalism
+cephalism 1
 caprine
 cephalitis
 cephalization
