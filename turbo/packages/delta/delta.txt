@@ -5810,7 +5810,7 @@ deposito
 depositor
 daytime
 deleatur
-dichronous
+dichronous 1
 dishful
 defeise
 dysraphia
