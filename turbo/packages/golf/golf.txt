@@ -2214,7 +2214,7 @@ gibby
 galactohemia
 gleit
 grounders
-globetrotting
+globetrotting 1
 grieced
 ghazies
 grisled
