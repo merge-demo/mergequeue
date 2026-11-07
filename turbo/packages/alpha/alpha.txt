@@ -12269,7 +12269,7 @@ anchorite
 arraignable
 amylopsin
 archinfamy
-arbalests
+arbalests 1
 acetoveratrone
 alignment
 auriculae
