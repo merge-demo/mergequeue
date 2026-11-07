@@ -12737,7 +12737,7 @@ bimetallist
 ballant
 booklear
 brandishing
-booklore
+booklore 1
 bhavan
 birdliming
 busters
