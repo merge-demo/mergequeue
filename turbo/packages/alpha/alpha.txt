@@ -9560,7 +9560,7 @@ advehent
 arenig
 altimeters
 aspidomancy
-anthema
+anthema 1
 alchemistry
 ammocetes
 anoegenetic

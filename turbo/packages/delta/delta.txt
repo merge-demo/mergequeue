@@ -16609,7 +16609,7 @@ dragonish
 drunkeness
 dandruffy
 dragonroot
-depreciate
+depreciate 1
 dilutant
 detesting
 dragonwort
