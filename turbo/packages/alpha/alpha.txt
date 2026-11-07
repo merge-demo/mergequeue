@@ -757,7 +757,7 @@ aeromechanics
 autogyro
 agnition
 accordatura
-asperation
+asperation 1
 abrasively
 abrazite
 antirevolutionaries
