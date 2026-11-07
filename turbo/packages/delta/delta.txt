@@ -588,7 +588,7 @@ develin
 drawboy
 dispence
 devotionalism
-designfully
+designfully 1
 dextrose
 dvigu
 damine
