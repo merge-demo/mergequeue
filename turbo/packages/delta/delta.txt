@@ -6471,7 +6471,7 @@ dirian
 desands
 demobs
 desc
-downrightly
+downrightly 1
 dequeues
 descant
 dentinoblast
