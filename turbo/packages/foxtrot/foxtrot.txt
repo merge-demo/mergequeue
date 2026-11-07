@@ -6028,7 +6028,7 @@ folletto
 flabbiness
 fresco
 fermorite
-flightiness
+flightiness 1
 finger
 fontange
 forespeech
