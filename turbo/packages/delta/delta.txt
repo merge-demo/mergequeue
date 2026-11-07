@@ -2751,7 +2751,7 @@ dematerialization
 decorticator
 dolichocephalous
 decorticosis
-disoperation
+disoperation 1
 drawrod
 decortization
 dactylorhiza
