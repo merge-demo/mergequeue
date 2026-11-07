@@ -5849,7 +5849,7 @@ derotrema
 doorbrand
 desolations
 diachoresis
-domal
+domal 1
 demeaning
 disconcert
 deprecative
