@@ -8913,7 +8913,7 @@ flu
 fritillaries
 fountain
 fragged
-fossicker
+fossicker 1
 flueman
 filosus
 funambulist
