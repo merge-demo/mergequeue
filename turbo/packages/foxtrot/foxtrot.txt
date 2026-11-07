@@ -6753,7 +6753,7 @@ foresworn
 felonweed
 fainly
 foiter
-felloe
+felloe 1
 frayed
 fried 1
 formative
