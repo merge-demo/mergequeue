@@ -8974,7 +8974,7 @@ feature
 foursquareness
 faustian
 fourteener
-frangibleness
+frangibleness 1
 froren
 flatirons
 forra
