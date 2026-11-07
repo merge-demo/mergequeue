@@ -3467,7 +3467,7 @@ fingerable 2
 foreseason
 foreconsider
 fallback
-fighteress
+fighteress 1
 fatigation
 fighting
 formboard

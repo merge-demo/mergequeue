@@ -10585,7 +10585,7 @@ gymnogene
 geologic
 gelds
 gammons
-gens
+gens 1
 greaser
 grandisonian
 gowany
