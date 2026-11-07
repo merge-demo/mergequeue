@@ -4722,7 +4722,7 @@ fantasticate
 frettage
 fictation
 frumentarious
-folkmots
+folkmots 1
 flabbergast
 forkfuls
 fossicking
