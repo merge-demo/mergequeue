@@ -1157,7 +1157,7 @@ estuaries
 enterobiasis 1
 edomitish
 eutomous
-enterograph
+enterograph 1
 edoni
 excisemen
 entrochite
