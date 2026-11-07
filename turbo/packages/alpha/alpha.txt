@@ -12098,7 +12098,7 @@ amblyopsis
 autostability
 aerogen
 anhalamine
-airspeed
+airspeed 1
 anastasimon
 anastasius
 anemosis
