@@ -2258,7 +2258,7 @@ extensometer
 enciente
 embryony
 embraceable
-encoach
+encoach 1
 extremely
 evenhand
 ethnarchies
