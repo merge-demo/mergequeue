@@ -12922,7 +12922,7 @@ disodium
 daunii
 decreation
 disdiazo
-downswing
+downswing 1
 dowment
 deniability
 dimensionless
