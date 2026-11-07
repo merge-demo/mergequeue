@@ -6804,7 +6804,7 @@ enlargements
 ethnogenic
 emmenology
 exoticism
-entombs
+entombs 1
 excremental
 eviscerator
 entomere
