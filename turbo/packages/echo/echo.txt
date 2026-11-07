@@ -9809,7 +9809,7 @@ ebracteolate
 enhanced
 erythrophore
 estaminet
-emittance
+emittance 1
 exergue
 emunctories
 exprobrate
