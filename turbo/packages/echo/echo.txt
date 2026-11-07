@@ -11612,7 +11612,7 @@ ethnocentricity
 empoison
 exclosure
 emollition
-exacerbates
+exacerbates 1
 empaneled
 enhances
 enforcibility
