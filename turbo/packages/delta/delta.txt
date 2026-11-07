@@ -7885,7 +7885,7 @@ driveways
 dewclaws
 diaphonia
 dites
-dewdamp
+dewdamp 1
 dapson
 dewdrop
 dewdropper
