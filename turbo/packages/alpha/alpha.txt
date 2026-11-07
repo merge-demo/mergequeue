@@ -24575,7 +24575,7 @@ abamperes
 auxology
 ammonea
 argentarius
-anachorism
+anachorism 1
 auxotonic
 annihilator
 auxotox
