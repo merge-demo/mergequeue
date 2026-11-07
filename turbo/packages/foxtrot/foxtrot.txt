@@ -1886,7 +1886,7 @@ fight
 floruit
 feelingly
 formaliter
-fecundate
+fecundate 1
 formatted
 fanback
 frisson
