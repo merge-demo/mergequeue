@@ -2293,7 +2293,7 @@ commonwealth
 cubitoplantar
 cytopahgous
 canakin
-canakins
+canakins 1
 canal
 clerks
 cookeys

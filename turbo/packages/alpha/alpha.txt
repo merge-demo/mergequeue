@@ -19394,7 +19394,7 @@ allaying
 anoplothere
 accountability
 accusations
-adjuror
+adjuror 1
 accidentalness
 argel
 admissable

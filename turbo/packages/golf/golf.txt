@@ -6695,7 +6695,7 @@ gobylike
 gibbet
 gulae
 growable
-geotherm
+geotherm 1
 gromatic
 geochronometry
 grattage
