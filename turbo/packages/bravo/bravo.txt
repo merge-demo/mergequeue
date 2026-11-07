@@ -8776,7 +8776,7 @@ binh
 bounden
 besets 1
 bini
-beraking
+beraking 1
 beguess
 berakoth
 biniou
