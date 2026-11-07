@@ -8500,7 +8500,7 @@ gult
 gibaro
 gregarinina
 garum
-glisteningly
+glisteningly 1
 glossotype
 gurgle
 gravely
