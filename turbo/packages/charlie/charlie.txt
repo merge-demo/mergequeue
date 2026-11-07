@@ -5802,7 +5802,7 @@ catechization
 catechizer
 calamondin
 cojoin
-cheveys
+cheveys 1
 callicarpa
 coeldership
 coyotillo
