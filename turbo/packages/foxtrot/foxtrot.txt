@@ -10359,7 +10359,7 @@ fructus
 folkmote
 fragrances
 foreboard
-flashcube
+flashcube 1
 fletcherite
 formatting
 frontierless
