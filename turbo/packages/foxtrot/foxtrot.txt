@@ -1801,7 +1801,7 @@ fermion
 fakofo
 featherpate
 fetlocks
-forconceit
+forconceit 1
 foghorns
 foehn
 futurology
