@@ -17473,7 +17473,7 @@ corollated
 chokeweed
 cobbling
 cobbs
-characterize
+characterize 1
 calixtin
 categorematically
 crowning
