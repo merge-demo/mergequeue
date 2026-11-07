@@ -12509,7 +12509,7 @@ edulcorator
 embezzle
 exit
 encrypted
-exite
+exite 1
 eranist
 extinction
 envied
