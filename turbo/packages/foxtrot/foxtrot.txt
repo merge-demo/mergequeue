@@ -5963,7 +5963,7 @@ fivepins
 futileness
 frightening
 fallibility
-fortunite
+fortunite 1
 floodlit
 fibromembrane
 floods

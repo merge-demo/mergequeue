@@ -12193,7 +12193,7 @@ eras
 epitrichium
 epigraph
 elderbrotherhood
-epilachna
+epilachna 1
 executioneering
 enneahedrons
 engarb
