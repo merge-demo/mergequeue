@@ -18827,7 +18827,7 @@ antideflation 1
 ananaplas
 antipollution
 archeries
-acoustically
+acoustically 1
 armida
 abjuring
 allomerization
