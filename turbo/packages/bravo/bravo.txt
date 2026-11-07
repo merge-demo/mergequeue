@@ -7194,7 +7194,7 @@ blastomeric
 bur
 bestiarian
 biathlon
-bestock
+bestock 1
 bestow
 bestowment
 burgee
