@@ -18077,7 +18077,7 @@ alanins
 anhidrosis
 amyosthenia
 adminicle
-adular
+adular 1
 amphigenetic
 aim
 arthrosynovitis
