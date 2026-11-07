@@ -28819,7 +28819,7 @@ concumbency
 cress
 cleanable
 cassena
-countertail
+countertail 1
 cresselle
 cringingness
 cresset
