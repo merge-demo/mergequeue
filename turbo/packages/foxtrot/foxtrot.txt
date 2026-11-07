@@ -6680,7 +6680,7 @@ fogdom
 fogfruit
 fibrins
 fruiteress
-flintlock
+flintlock 1
 flexura
 flouts
 feudary
