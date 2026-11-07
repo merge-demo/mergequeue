@@ -12530,7 +12530,7 @@ concurrences
 carpogonium
 concubitus
 chronaxie
-chronic
+chronic 1
 chronica
 chronicle
 clattertrap
