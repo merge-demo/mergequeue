@@ -5848,7 +5848,7 @@ endless
 esophagoscope
 engrandize
 ebrillade
-endothecate
+endothecate 1
 ectogeneous
 ecesis
 engrandizement
