@@ -11525,7 +11525,7 @@ eviting
 evangeline
 emprize
 endosteitis
-emigrate
+emigrate 1
 edital
 evocating
 ensign
