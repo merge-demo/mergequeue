@@ -5196,7 +5196,7 @@ fanion
 foxiness
 frontierlike
 frivolers
-foreclaw
+foreclaw 1
 fuchsia
 finished
 familarity
