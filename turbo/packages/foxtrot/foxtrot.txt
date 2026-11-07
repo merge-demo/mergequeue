@@ -10619,7 +10619,7 @@ flative
 forseen
 fractile
 franc 1
-frontalis
+frontalis 1
 forswearing
 flumped
 forwaste
