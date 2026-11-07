@@ -7274,7 +7274,7 @@ apollos
 alarm
 assumably
 alarmclock
-abamps
+abamps 1
 alarmedly
 audivise
 alarmingly
