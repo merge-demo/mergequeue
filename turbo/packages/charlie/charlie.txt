@@ -29531,7 +29531,7 @@ creolin
 cerealist
 crith
 crithidia
-crithomancy
+crithomancy 1
 critic
 coheir
 criticalness
