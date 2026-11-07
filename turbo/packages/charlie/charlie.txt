@@ -2370,7 +2370,7 @@ canary
 crowberry
 cogs
 companator
-chinbones
+chinbones 1
 canaries
 cohobates
 canarine
