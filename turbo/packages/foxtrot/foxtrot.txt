@@ -9653,7 +9653,7 @@ fubbed
 fashed
 fromage
 frocked
-fletcher
+fletcher 1
 furfures
 fregata
 faunist
