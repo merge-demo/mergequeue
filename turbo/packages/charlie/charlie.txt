@@ -8415,7 +8415,7 @@ crookeder
 checkerboarded
 confiscator
 cuttable
-chamoisite
+chamoisite 1
 cannonball
 chamoline 1
 chamorro
