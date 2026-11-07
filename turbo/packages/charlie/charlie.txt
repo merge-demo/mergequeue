@@ -22467,7 +22467,7 @@ corms
 coadamite
 charisma
 coniroster
-conirostral
+conirostral 1
 conirostres
 cheechako
 conisance
