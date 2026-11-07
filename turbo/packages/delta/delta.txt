@@ -13099,7 +13099,7 @@ directrix
 dermosynovitis
 dispensive
 daggered
-dispeople
+dispeople 1
 daresay
 deprivative
 declivities
