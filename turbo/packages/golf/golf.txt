@@ -1384,7 +1384,7 @@ garnison
 greetingless
 garniture
 glycosemia
-germanize
+germanize 1
 grecize
 gaits
 ganyie
