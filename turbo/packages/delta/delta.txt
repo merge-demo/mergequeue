@@ -16585,7 +16585,7 @@ dactylopius
 derout
 denotations
 disassiduity
-delatinize
+delatinize 1
 dialuric
 decorations
 deionization
