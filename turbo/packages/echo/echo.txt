@@ -11339,7 +11339,7 @@ emergers 1
 extenders
 exigency
 ethnohistory
-exotropic
+exotropic 1
 electrodesiccation
 eryopid
 embarrel
