@@ -2314,7 +2314,7 @@ escalate
 encrypting
 eyras
 elfkin
-entirely
+entirely 1
 exradius
 embraceries
 enthetic
