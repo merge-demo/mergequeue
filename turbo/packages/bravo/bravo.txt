@@ -6070,7 +6070,7 @@ benchful
 benchman
 benchmark
 baryecoia
-burnout
+burnout 1
 briggsian
 behooveful
 beans
