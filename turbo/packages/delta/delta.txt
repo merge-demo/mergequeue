@@ -6793,7 +6793,7 @@ desirer
 drachma
 daira
 dihedrons
-decomposable
+decomposable 1
 desirousness
 drily
 dropsonde
