@@ -2795,7 +2795,7 @@ dorsalward
 decremeter
 dicyemida
 demarches
-degass
+degass 1
 duodecahedral
 drypoints
 drivellingly
