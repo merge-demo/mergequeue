@@ -2281,7 +2281,7 @@ galante
 gumihan
 gestant
 grosse
-gelded
+gelded 1
 gripmen
 grallatorial
 gelable
