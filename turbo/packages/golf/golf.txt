@@ -782,7 +782,7 @@ gutturize
 galvanothermometer
 glint
 ggr
-goldfinch
+goldfinch 1
 galliformes
 ginneries
 goose
