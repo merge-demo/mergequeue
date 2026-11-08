@@ -12620,7 +12620,7 @@ duplicidentate
 dechemicalization
 disjunctive
 disjunctively
-dentagra
+dentagra 1
 deseed
 dibble
 disembodying
