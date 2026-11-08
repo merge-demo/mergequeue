@@ -7355,7 +7355,7 @@ gossep
 graphs
 gaberlunzie
 gunation
-galactin
+galactin 1
 gymnospermic
 germanite
 gluon
