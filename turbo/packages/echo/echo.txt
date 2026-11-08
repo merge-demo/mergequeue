@@ -11630,7 +11630,7 @@ elaterite
 epileptogenic
 elephanticide
 exacter
-elapid
+elapid 1
 equianchorate
 euptelea
 elocutionary
