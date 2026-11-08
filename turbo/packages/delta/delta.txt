@@ -7364,7 +7364,7 @@ deticker
 dipode
 dogtoothing
 drumheads
-decanery
+decanery 1
 dueful
 dematerialisation
 divestment
