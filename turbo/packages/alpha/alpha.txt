@@ -780,7 +780,7 @@ acetate
 autostrada
 abridgable
 anticlassicalist
-anisotropical
+anisotropical 1
 abitibi
 abridgement
 abridger
