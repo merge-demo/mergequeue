@@ -1494,7 +1494,7 @@ effuviate
 efl
 efph
 erringly
-entocondylar
+entocondylar 1
 experimentarian
 empyesis
 endophytous
