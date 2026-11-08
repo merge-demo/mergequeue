@@ -5870,7 +5870,7 @@ erg
 engreaten
 evirtuate
 enocyte
-electrotyping
+electrotyping 1
 ergotize
 entangledly
 elb
