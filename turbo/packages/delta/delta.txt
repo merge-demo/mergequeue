@@ -438,7 +438,7 @@ dibs
 drenchers
 dimyaric
 diathermous
-dimercaprol
+dimercaprol 1
 daises
 defiance
 dangleberries
