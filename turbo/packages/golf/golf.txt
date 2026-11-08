@@ -6175,7 +6175,7 @@ gasterozooid
 gadsbud
 gauche
 gilet
-goadsman
+goadsman 1
 grihastha
 genovino
 gamesters

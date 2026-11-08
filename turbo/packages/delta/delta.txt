@@ -282,7 +282,7 @@ dolichopodous
 degermed
 doradilla
 daguerreotyped 1
-daguerreotyping
+daguerreotyping 1
 digitonin
 dreadnaught
 docken
