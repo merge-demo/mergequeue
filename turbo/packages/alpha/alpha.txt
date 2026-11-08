@@ -21125,7 +21125,7 @@ air
 ascophore
 alfas
 aclydes
-arkoses
+arkoses 1
 anax
 ascothoracica
 acritude
