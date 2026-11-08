@@ -11716,7 +11716,7 @@ entreat
 examinable
 eglateres
 examinant
-eschewer
+eschewer 1
 enscrolled
 examinatory
 estrepe
