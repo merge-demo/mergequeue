@@ -8669,7 +8669,7 @@ footcandle
 foxings
 furlong
 flutemouth
-febrifuge
+febrifuge 1
 frankhearted
 favoress
 flattens
