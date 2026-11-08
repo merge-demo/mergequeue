@@ -10715,7 +10715,7 @@ dips
 dipsacaceous
 deipnosophist
 disavow
-deployment
+deployment 1
 drad
 dun
 delocalisation

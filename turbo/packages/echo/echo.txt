@@ -6510,7 +6510,7 @@ encarpium
 endostosis
 ephyra
 exactly
-extratension
+extratension 1
 entail
 entomophthora
 eyewash
