@@ -2797,7 +2797,7 @@ adequateness
 acrogamous 1
 acrogen
 aspirated
-ashthroat
+ashthroat 1
 acrolein
 amylenes
 awaits
