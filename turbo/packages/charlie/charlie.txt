@@ -19362,7 +19362,7 @@ collies
 colorado
 chagrin
 celestinian
-chorioretinitis
+chorioretinitis 1
 coloradoite
 connectionism
 captainships
