@@ -13918,7 +13918,7 @@ burial
 bacteriotropic
 binoculate
 birdlike
-bowstrung
+bowstrung 1
 blennorrhoea
 behavior
 bowtell
