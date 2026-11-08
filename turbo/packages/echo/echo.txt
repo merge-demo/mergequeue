@@ -8509,7 +8509,7 @@ erases
 elongates
 epuration
 exculpable
-euchloric
+euchloric 1
 effectual
 englisher
 enwombs
