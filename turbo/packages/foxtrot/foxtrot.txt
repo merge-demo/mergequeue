@@ -4509,7 +4509,7 @@ forsay
 ferrovanadium
 flour
 fisnoga
-felinae
+felinae 1
 figurer
 forblow
 feebleheartedness
