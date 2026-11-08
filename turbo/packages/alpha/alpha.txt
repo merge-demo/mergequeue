@@ -18593,7 +18593,7 @@ arbusta
 ask
 analytics 1
 arbutean
-anthropomorphite
+anthropomorphite 1
 abrogates
 abbotship
 alarmisms
