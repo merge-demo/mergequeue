@@ -2892,7 +2892,7 @@ enthrall
 erzahler
 epitheliomuscular
 eyewear
-elevenses
+elevenses 1
 eleventeenth
 eleventh
 evicts
