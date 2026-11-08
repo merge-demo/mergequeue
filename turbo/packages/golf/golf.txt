@@ -3312,7 +3312,7 @@ gauderies 1
 geostrophically
 gullion
 genethliacism
-gang
+gang 1
 glossologies
 granitiferous
 gentians
