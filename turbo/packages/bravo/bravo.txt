@@ -18331,7 +18331,7 @@ breviaries
 befleaing
 baragouin
 bunkums
-buttressed
+buttressed 1
 bradypodidae
 breviped
 buttresslike
