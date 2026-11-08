@@ -8073,7 +8073,7 @@ gasify
 glenoidal
 granitiform
 geomancer
-gastrostomus
+gastrostomus 1
 gaslightness
 geomagnetism
 ghain
