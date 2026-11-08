@@ -2495,7 +2495,7 @@ exsecants
 educables
 expansivity
 embryopathology
-emender
+emender 1
 enervators
 endostylar
 epilepsia
