@@ -5921,7 +5921,7 @@ diversifications
 densifier
 drew
 distn
-depressurize
+depressurize 1
 deaconate
 disentraced
 defeatee
