@@ -9928,7 +9928,7 @@ geoparallelotropic
 gateway
 gery
 grisailles
-guaranties
+guaranties 1
 gymnite
 giddea
 gulleting
