@@ -12999,7 +12999,7 @@ authoriser
 angular
 angularia
 assistors
-angularities
+angularities 1
 analgesist
 atomistical
 affirming
