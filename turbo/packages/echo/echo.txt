@@ -8342,7 +8342,7 @@ excurvature
 epithets
 enterocolostomy
 exuvial
-eyetooth
+eyetooth 1
 enthrallments
 ebonised
 educative
