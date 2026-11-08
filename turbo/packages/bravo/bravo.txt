@@ -5066,7 +5066,7 @@ bergall
 braised
 brooked
 berberia
-bespotted
+bespotted 1
 beneficiary
 befitted
 beyship
