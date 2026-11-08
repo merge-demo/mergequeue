@@ -8656,7 +8656,7 @@ forth
 freesia
 flatfooted
 flaunters
-fossilify
+fossilify 1
 fryers
 furicane
 flapless
