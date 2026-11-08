@@ -6483,7 +6483,7 @@ euphratean
 exstruct
 entocyst
 erubescence
-excludable
+excludable 1
 englerophoenix
 estimative
 esperantidist
