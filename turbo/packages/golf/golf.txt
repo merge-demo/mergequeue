@@ -1183,7 +1183,7 @@ glues
 gynaecomasty
 gaped
 genitory
-gig
+gig 1
 gothic
 glabrescent
 grinned
