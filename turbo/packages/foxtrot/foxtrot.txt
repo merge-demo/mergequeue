@@ -8046,7 +8046,7 @@ falconnoid
 foredevote
 felicitates 1
 fluidisation
-frustrate
+frustrate 1
 flammably
 formentation
 facetting
