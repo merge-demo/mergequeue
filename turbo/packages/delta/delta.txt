@@ -16406,7 +16406,7 @@ doxastic
 doxasticon
 doxie
 distad
-dhoora
+dhoora 1
 doxography
 decolourise
 deadishness
