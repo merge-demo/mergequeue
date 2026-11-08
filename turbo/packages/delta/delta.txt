@@ -3946,7 +3946,7 @@ demes 1
 delayer
 delayful
 dooli
-decanate
+decanate 1
 devitalisation
 delaminated
 dibranchia
