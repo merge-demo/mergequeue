@@ -10053,7 +10053,7 @@ backwatered
 boarhound
 bokos
 basidiolichen
-burglarious
+burglarious 1
 bizones
 bergeret
 biblos

@@ -11877,7 +11877,7 @@ dephlegmate
 disdenominationalize
 dishonorableness
 disdiapason
-delegatus
+delegatus 1
 distinguished
 dalliance
 dedifferentiated
