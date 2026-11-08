@@ -837,7 +837,7 @@ faucial
 faun
 ferrimagnetically
 fenny
-frogeyes
+frogeyes 1
 formfitting
 fixatives
 fluctuations
