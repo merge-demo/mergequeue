@@ -12692,7 +12692,7 @@ desecrater
 disliked
 disliken
 duma
-disdar
+disdar 1
 dikage
 disliker
 dioicously
