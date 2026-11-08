@@ -2092,7 +2092,7 @@ gipsy
 galga
 grecomania
 gipsied
-geranials
+geranials 1
 gawm
 guider
 gaining
