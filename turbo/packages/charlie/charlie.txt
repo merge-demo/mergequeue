@@ -1266,7 +1266,7 @@ calenderer
 cheeping
 confessionist
 calenders
-calendric
+calendric 1
 calendrical
 calendula
 calendulas
