@@ -10699,7 +10699,7 @@ evenworthy
 ecossaise
 egosyntonic
 etiquet
-excusable
+excusable 1
 eugonic
 eggheaded
 embrangled
