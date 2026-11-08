@@ -17255,7 +17255,7 @@ aseismicity 1
 animalculine
 anticipators
 apophyllite
-appreciant
+appreciant 1
 archicarp
 acoma
 amorous
