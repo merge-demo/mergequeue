@@ -23003,7 +23003,7 @@ corniculum
 chili
 cive
 cryptic
-compline
+compline 1
 consocies
 claying
 caustified
