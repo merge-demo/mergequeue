@@ -9760,7 +9760,7 @@ everyplace
 eddo
 euhedral
 ectogenesis
-enrobing
+enrobing 1
 eucharist
 exfoliatory
 epyllion
