@@ -699,7 +699,7 @@ ecol
 ethnogeny
 enchronicle
 endomictic
-exclusivist
+exclusivist 1
 earthsets
 electrotrephine
 ecraseurs
