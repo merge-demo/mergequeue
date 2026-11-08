@@ -12971,7 +12971,7 @@ emotion
 entice
 electrodeposition 1
 expectorant
-espiglerie
+espiglerie 1
 expectorated
 echinococcus
 enneahedria
