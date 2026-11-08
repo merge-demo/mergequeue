@@ -7768,7 +7768,7 @@ aldermanate
 aldermancy
 aldermaness
 archisphere
-aldermanical
+aldermanical 1
 assistency
 aration
 aldermanity

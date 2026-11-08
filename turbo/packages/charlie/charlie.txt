@@ -11195,7 +11195,7 @@ charquid
 chloranthus
 chlorate
 chlorcosane
-chlordans
+chlordans 1
 costotransversal
 canoodle
 chlorellaceous
