@@ -3523,7 +3523,7 @@ dismissable
 disring
 doom
 defraying
-desaturate
+desaturate 1
 desiccated
 decorate
 dagobas
