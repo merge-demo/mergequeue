@@ -4149,7 +4149,7 @@ bowl
 beastlike
 bodywise
 bengalic
-bumpkinish
+bumpkinish 1
 buoyantness
 brinsell
 bracteal 1
