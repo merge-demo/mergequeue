@@ -25080,7 +25080,7 @@ ax
 abasia
 ascochyta
 axebreaker
-afterglide
+afterglide 1
 appallingly
 animalism
 aggregated
