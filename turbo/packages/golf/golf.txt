@@ -4701,7 +4701,7 @@ gibbsite
 gauping
 glazen
 geisothermal
-glycerate
+glycerate 1
 gigged
 galchic
 gifting
