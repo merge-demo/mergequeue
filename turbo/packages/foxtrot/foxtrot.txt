@@ -2084,7 +2084,7 @@ fructidor
 fusibleness
 freeform
 fideistic 1
-fogle
+fogle 1
 federalist
 foreseeability
 floriculture

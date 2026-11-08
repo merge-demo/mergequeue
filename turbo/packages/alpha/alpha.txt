@@ -14459,7 +14459,7 @@ anthradiol
 anthraflavic
 aerographics
 acetochloral
-abandonable
+abandonable 1
 amyloid
 aequiculi
 anthrahydroquinone
