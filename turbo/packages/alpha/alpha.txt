@@ -2601,7 +2601,7 @@ altaid
 adffrozen
 annunciable
 adjacent
-acquest
+acquest 1
 armenite
 actutate
 arriswise
