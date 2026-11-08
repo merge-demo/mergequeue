@@ -9816,7 +9816,7 @@ exprobrate
 englyn
 estampage
 empiric
-evolving
+evolving 1
 estampede
 estang
 ethnographist
