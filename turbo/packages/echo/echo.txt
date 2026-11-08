@@ -1469,7 +1469,7 @@ eurythermous
 electivism
 emphyteusis
 electroshocks
-exposal
+exposal 1
 embolium
 embarrased
 empathic
