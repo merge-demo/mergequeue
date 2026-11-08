@@ -4139,7 +4139,7 @@ entombments
 emundation
 eniac
 emplunge
-eccentring
+eccentring 1
 empodia
 eclegm
 embouchement
