@@ -13152,7 +13152,7 @@ boroughmonger
 bugged
 blaspheme
 basileis
-bankrupts
+bankrupts 1
 borowolframic
 barometrograph
 borrachio

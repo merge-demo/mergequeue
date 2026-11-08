@@ -15249,7 +15249,7 @@ atomies
 antifire
 anacoenoses
 amylogens
-antiflattering
+antiflattering 1
 accordantly 1
 antiflux
 anticlergy
