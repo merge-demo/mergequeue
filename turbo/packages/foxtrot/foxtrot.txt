@@ -2680,7 +2680,7 @@ fertilise
 foremostly
 fistular
 fertilizational
-funeral
+funeral 1
 fallowed
 fume
 fantoccini
