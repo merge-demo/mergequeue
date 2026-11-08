@@ -6689,7 +6689,7 @@ celestine
 ceilers
 ceilidhe
 ceiling
-ceilings
+ceilings 1
 ceilingwards
 copiability
 celtophobia
