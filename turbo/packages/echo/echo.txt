@@ -6410,7 +6410,7 @@ ecotypic
 exceptioner
 exhalants
 eastering
-enactors
+enactors 1
 exothermic
 egestion
 exsanguinate
