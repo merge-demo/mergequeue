@@ -447,7 +447,7 @@ enemyship
 extraembryonal
 emmer
 eremitical
-eftsoons
+eftsoons 1
 ecchondroma
 esprit
 exurbia
