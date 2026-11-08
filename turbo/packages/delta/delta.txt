@@ -8627,7 +8627,7 @@ disbelieve
 davis
 dinge
 debugging
-dialyses
+dialyses 1
 diary
 diaglyph
 diarist
