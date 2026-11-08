@@ -6520,7 +6520,7 @@ furcular
 foldskirt
 fortifying
 flexuousness
-fulminant
+fulminant 1
 floggingly
 floodboard
 fierabras
