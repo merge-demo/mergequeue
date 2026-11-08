@@ -7676,7 +7676,7 @@ eugenol
 exptl
 embrued
 enukki
-effumability
+effumability 1
 epideictic
 endomesoderm
 endotheliomata
