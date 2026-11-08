@@ -5365,7 +5365,7 @@ berglet
 ballogan
 begrown
 begrudge
-boggishness
+boggishness 1
 branchiopodous
 biographical
 begrutten

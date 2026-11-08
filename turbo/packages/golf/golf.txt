@@ -3081,7 +3081,7 @@ geophilid
 galvanoscopic
 gainset
 granula
-gymnasisia
+gymnasisia 1
 groined
 glucosine
 gelatinity
