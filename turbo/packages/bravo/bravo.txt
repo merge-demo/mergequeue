@@ -1561,7 +1561,7 @@ blazer
 balldom
 bodyweight
 balled
-batterer
+batterer 1
 blauboks
 beclowning
 ballerina
