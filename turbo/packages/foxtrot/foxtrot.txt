@@ -5364,7 +5364,7 @@ fraughting
 feedbin
 farrier
 fettles
-flanken
+flanken 1
 feebleness
 fullmouth
 fascia 1
