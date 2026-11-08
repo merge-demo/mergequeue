@@ -13219,7 +13219,7 @@ exertive
 ety
 explement
 envine
-edacity
+edacity 1
 equalitarianism 1
 endocranium
 ephebeum
