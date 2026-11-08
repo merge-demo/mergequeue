@@ -5047,7 +5047,7 @@ beeswax
 bodger
 biloculine
 beferned
-bandoline
+bandoline 1
 bilingual
 balefire
 biocatalyst
