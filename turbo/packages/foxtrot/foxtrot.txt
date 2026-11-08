@@ -8486,7 +8486,7 @@ formicine
 fayettism
 floormen
 fungibility
-fashiousness
+fashiousness 1
 fondler
 fluidal
 farnovian
