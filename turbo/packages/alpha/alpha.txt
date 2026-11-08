@@ -9754,7 +9754,7 @@ amable
 anchorer
 allegatum 1
 amacrinal
-amadelphous
+amadelphous 1
 aggrading
 amadous
 androkinin
