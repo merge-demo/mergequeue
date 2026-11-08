@@ -9602,7 +9602,7 @@ esophagean
 elasticity
 esophago
 esophagogastroscopy
-esophagometer
+esophagometer 1
 emotionalized
 enticeable
 evoked
