@@ -10427,7 +10427,7 @@ etiolated
 etiology
 europeanism
 epigeic
-enlacing
+enlacing 1
 etiologist
 entocoelic
 emetology
