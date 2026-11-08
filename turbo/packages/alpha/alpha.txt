@@ -1282,7 +1282,7 @@ autocorrelate
 autosomally
 advectitious
 affusion
-affrontee
+affrontee 1
 acatamathesia
 artinskian
 azurean
