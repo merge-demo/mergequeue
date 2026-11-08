@@ -3392,7 +3392,7 @@ faculative
 finmarks
 filename
 flighting
-foxish
+foxish 1
 foresters
 firmation
 farthermost
