@@ -384,7 +384,7 @@ daimyos
 drinkers
 diluents
 daimiote
-defension
+defension 1
 deployable
 didunculus
 dimmet
