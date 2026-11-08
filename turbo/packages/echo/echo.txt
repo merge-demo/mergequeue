@@ -6436,7 +6436,7 @@ earphone
 eskars
 exorbitancy
 encroachment
-extensionless
+extensionless 1
 embroideries
 elvira
 ensorceled
