@@ -10105,7 +10105,7 @@ euphausiacea
 ethereality
 epiboly
 etherealization
-extrusible
+extrusible 1
 electrochemistry
 endorses
 ethereally
