@@ -10611,7 +10611,7 @@ goldsmith
 glossologist
 greenockite
 gallow
-glumose
+glumose 1
 gallinules
 graveolence
 gemmiform
