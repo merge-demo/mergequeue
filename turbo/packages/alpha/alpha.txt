@@ -23676,7 +23676,7 @@ allotropicity
 antiexpressively
 alms
 aerosolized
-auriculare
+auriculare 1
 anticreativeness
 andaste
 acridin
