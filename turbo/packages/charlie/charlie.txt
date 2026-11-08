@@ -25709,7 +25709,7 @@ correlates
 chimbe
 champa
 crabapple
-cumquat
+cumquat 1
 correlatives
 contiguate
 convertibly
