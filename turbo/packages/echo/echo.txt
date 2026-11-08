@@ -457,7 +457,7 @@ exponentials
 explicated
 engager
 exody
-escapements
+escapements 1
 erf
 eunuchal
 eveners
