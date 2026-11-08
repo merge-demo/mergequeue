@@ -6119,7 +6119,7 @@ frightenedly
 fenster
 flounced
 flounder
-frowardness
+frowardness 1
 faraway
 faciata
 flourish
