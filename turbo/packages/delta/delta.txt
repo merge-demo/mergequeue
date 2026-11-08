@@ -16210,7 +16210,7 @@ densitometer
 dowitchers
 determinedness
 demagogs
-decanters
+decanters 1
 derange
 darneder
 defusing
