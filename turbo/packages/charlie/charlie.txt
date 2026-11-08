@@ -23616,7 +23616,7 @@ continuer
 cytostome
 continuers
 corseleted
-columns
+columns 1
 continuingly
 cassiaceae
 capfuls
