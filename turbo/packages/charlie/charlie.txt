@@ -17227,7 +17227,7 @@ crucifer
 coalescence
 cellarless
 coitions
-coalescency
+coalescency 1
 candlesnuffer
 coalescent
 combustibility
