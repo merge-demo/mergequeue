@@ -21157,7 +21157,7 @@ ase
 americanize
 asearch
 asecretory
-amenableness
+amenableness 1
 appositeness
 airth
 amniorrhea
