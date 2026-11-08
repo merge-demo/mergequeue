@@ -10747,7 +10747,7 @@ epicycloidal
 excystation
 euphonic
 englacial
-enid
+enid 1
 ephemerae
 enclaret
 endorsee
