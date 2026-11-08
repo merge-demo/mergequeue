@@ -6681,7 +6681,7 @@ ailurophilic
 achromatise
 affirmation
 ailuropoda
-acoustic
+acoustic 1
 ailurus
 ailweed
 appassionatamente
