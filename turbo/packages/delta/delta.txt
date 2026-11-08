@@ -13182,7 +13182,7 @@ dongolas
 diazole
 duoviri
 dovetailed
-demoralize
+demoralize 1
 dysplasia
 demonish
 determination
