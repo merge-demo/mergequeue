@@ -3965,7 +3965,7 @@ fruitcakey
 frenziedly
 frightfulness
 feelers
-foreshown
+foreshown 1
 freighting
 funneled
 farcical
