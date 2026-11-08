@@ -12277,7 +12277,7 @@ boltmaker
 bunga
 blee
 bombaster
-bowfront
+bowfront 1
 biquartz
 brogans
 biflected
