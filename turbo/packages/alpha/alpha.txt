@@ -22746,7 +22746,7 @@ annumerate
 abhorson
 artamus
 allomerous
-acclimatizing
+acclimatizing 1
 aggies
 atonia
 athort
