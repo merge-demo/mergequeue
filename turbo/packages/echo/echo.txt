@@ -5523,7 +5523,7 @@ enfeeblish
 effectful 1
 epilimnetic
 euhemerizing
-etherlike
+etherlike 1
 exestuate
 exhaustedly
 ethions
