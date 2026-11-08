@@ -7780,7 +7780,7 @@ chemoautotrophy
 charabancer
 clorinator
 cerussite
-centaurid
+centaurid 1
 cervantic
 chaffiest
 choosing
