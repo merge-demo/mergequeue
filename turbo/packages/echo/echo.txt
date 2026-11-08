@@ -2201,7 +2201,7 @@ ethmolith
 electrics
 electrographic
 exedrae
-esthesia
+esthesia 1
 epistome
 endodontology 1
 esophagoplication
