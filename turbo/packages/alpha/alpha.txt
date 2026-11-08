@@ -14548,7 +14548,7 @@ avowed
 amphrysian
 anthropomorphidae
 armature
-anthropomorphised
+anthropomorphised 1
 arimaspian
 admirability
 arborean

@@ -403,7 +403,7 @@ ganymedes
 gains
 goalposts
 gilsonite
-gorgon
+gorgon 1
 gunl
 geostrategy
 germinogony
