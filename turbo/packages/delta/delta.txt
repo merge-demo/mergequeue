@@ -18649,7 +18649,7 @@ dummyism 1
 dutymonger
 deactivations
 disalignment
-decury
+decury 1
 definiteness
 drowsily
 disubstitution
