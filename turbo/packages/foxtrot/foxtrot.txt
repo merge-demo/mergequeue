@@ -32,7 +32,7 @@ feaked
 fibrocyst
 fabricates
 fabricator
-flintless
+flintless 1
 furies
 farmscape
 forbearant

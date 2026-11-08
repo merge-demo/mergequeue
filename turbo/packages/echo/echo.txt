@@ -14050,7 +14050,7 @@ embellishments
 extrathermodynamic
 emes
 economists
-excitonic
+excitonic 1
 extravagance
 extravagantly
 enchantingly
