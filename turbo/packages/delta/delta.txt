@@ -2731,7 +2731,7 @@ diogenic
 decorator
 deliberated
 disaffiliate
-devonshire
+devonshire 1
 dictates
 dissembling
 decore
