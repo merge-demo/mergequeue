@@ -1627,7 +1627,7 @@ accrescendo
 accretal
 accretions
 awag
-assapanic
+assapanic 1
 amphoricity
 achate
 artificialize
