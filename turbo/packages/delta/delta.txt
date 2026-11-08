@@ -4459,7 +4459,7 @@ draughtmanship
 deceits
 diceplay
 dpt
-damns
+damns 1
 duress
 demy
 decahydrated
