@@ -8681,7 +8681,7 @@ graphitizing
 growthless
 goopy
 geyser
-glossless
+glossless 1
 gobmouthed
 gateado
 gritty
