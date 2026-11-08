@@ -6377,7 +6377,7 @@ benzene
 benzoylation
 benzoinated
 borize
-blas
+blas 1
 brinishness
 burely
 barfy
