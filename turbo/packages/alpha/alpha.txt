@@ -24326,7 +24326,7 @@ acetonate
 autopoisonous
 acclimatize
 anteverting
-autopolar
+autopolar 1
 autopolyploid
 autopolo
 anomalous
