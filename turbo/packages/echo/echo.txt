@@ -3888,7 +3888,7 @@ extraboldface
 eminencies
 evendown
 exodermis
-exterminating
+exterminating 1
 endorsor
 easternized
 esperance
