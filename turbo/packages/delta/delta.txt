@@ -5490,7 +5490,7 @@ dumbledore
 diaphragm
 dogtrot
 dudishness
-dolichos
+dolichos 1
 digamist
 darlingly
 davening
