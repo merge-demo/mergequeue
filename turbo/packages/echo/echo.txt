@@ -7527,7 +7527,7 @@ exstemporaneous
 exocarp
 experienceable
 epicede
-eroticomaniac
+eroticomaniac 1
 epicedia
 encephalopathic
 ebriose
