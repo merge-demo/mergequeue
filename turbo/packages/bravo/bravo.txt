@@ -8678,7 +8678,7 @@ beseeching
 beaverite
 bulldoggish
 beefaloes
-blackly
+blackly 1
 bullethead
 betoss
 brachycephalies
