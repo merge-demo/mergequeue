@@ -10940,7 +10940,7 @@ field
 fetal
 floorage
 francs
-firedamp
+firedamp 1
 fulminurate
 fulness
 fess
