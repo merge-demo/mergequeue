@@ -12614,7 +12614,7 @@ daredevils
 drate
 delegant
 dertrotheca
-descendentalist
+descendentalist 1
 descrial
 duplicidentate
 dechemicalization
