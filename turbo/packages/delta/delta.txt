@@ -10027,7 +10027,7 @@ deratize
 dazedly
 dissipater
 disinterested
-depair
+depair 1
 daughterling
 dissightly
 dynamically
