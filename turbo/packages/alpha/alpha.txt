@@ -2508,7 +2508,7 @@ apogean
 accuser
 attemperance
 alexin
-amoebicidal
+amoebicidal 1
 acolyth
 aculei
 acolythate
