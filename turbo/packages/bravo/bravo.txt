@@ -17417,7 +17417,7 @@ boppers
 bander
 bunk
 begrudged
-bipersonal
+bipersonal 1
 byerite
 bushbaby
 blindest
