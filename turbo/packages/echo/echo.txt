@@ -10785,7 +10785,7 @@ eumycete
 eulogiums
 endogenicity
 elaborating
-emoting
+emoting 1
 euskera
 esterases
 eluviation
