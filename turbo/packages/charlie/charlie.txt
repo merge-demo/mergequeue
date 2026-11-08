@@ -12532,7 +12532,7 @@ concubitus
 chronaxie
 chronic 1
 chronica
-chronicle
+chronicle 1
 clattertrap
 chronicling
 chronicon
