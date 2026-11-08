@@ -17095,7 +17095,7 @@ drierman
 deconcentrated
 dryfoot
 drift
-driftage
+driftage 1
 dittology
 deficient
 decatyl
