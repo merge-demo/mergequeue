@@ -5556,7 +5556,7 @@ catafalco
 civilisation
 catagenetic
 catakinetic
-catakinomeric
+catakinomeric 1
 corkscrewy
 catalanganes
 conceptionist
