@@ -13608,7 +13608,7 @@ expulsory
 ectad
 exiledom
 extemporary
-extemporisation
+extemporisation 1
 ewing
 exucontian
 extraspinal
