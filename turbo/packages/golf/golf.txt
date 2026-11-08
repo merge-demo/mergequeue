@@ -9245,7 +9245,7 @@ genethlialogic
 goliard
 graphitoid
 grisly
-glagolitic
+glagolitic 1
 gravigrade
 grahamite
 geochronological
