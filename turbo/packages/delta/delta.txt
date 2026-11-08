@@ -2598,7 +2598,7 @@ discouragements
 docetist
 desistence
 diplocephalous
-decoat
+decoat 1
 decoct
 demiquaver
 dashes
