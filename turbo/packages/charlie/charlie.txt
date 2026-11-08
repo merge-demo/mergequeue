@@ -1070,7 +1070,7 @@ challengable
 costoclavicular
 calchas 1
 calche
-cordials
+cordials 1
 combs
 creeling
 calcicolous
