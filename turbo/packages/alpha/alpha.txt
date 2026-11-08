@@ -16770,7 +16770,7 @@ athenaeum
 aphemic
 aphengoscope
 apheresis
-apheses
+apheses 1
 asclepius
 aggresses
 admirer
