@@ -3370,7 +3370,7 @@ fusilades
 fastigate
 foollike
 fulmen
-forcut
+forcut 1
 fopling
 fossilification
 flappering
