@@ -13845,7 +13845,7 @@ anthropologies
 airthing
 anorth
 atacamite
-anorthite
+anorthite 1
 adriana
 abatable
 antiparalytic
