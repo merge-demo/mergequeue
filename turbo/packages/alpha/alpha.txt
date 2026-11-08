@@ -21366,7 +21366,7 @@ asyndetic
 androphore
 amyloses
 analectic
-amphoras
+amphoras 1
 alloys
 azobacter
 acroter
