@@ -16847,7 +16847,7 @@ antiunion
 annule
 aphrodisiomania
 aphrodisiomaniac
-arrivism
+arrivism 1
 annotinous
 anagalactic
 adlay
