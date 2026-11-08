@@ -2470,7 +2470,7 @@ guttersnipes
 gibbetwise
 gearcase
 gangrened
-genitalic
+genitalic 1
 grandity
 glossier
 groundline
