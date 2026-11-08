@@ -10723,7 +10723,7 @@ flavedo
 flocks
 frutescence
 fragmentisation
-forbare
+forbare 1
 forecount
 forbore
 frumpishly
