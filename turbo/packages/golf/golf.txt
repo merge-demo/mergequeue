@@ -2900,7 +2900,7 @@ greenside
 gombos
 gingerous
 gee
-gelose
+gelose 1
 gaylussite
 glycose
 gobiiformes
