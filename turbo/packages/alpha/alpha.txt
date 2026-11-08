@@ -12440,7 +12440,7 @@ agendums
 addulce
 amberina
 anticomplex
-arrivance
+arrivance 1
 afflictions
 androgynal
 alterity
