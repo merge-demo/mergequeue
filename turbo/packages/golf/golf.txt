@@ -2843,7 +2843,7 @@ glossiphonidae
 gustfulness
 geol
 guilefulness
-ganglionic
+ganglionic 1
 gyrate
 gustavus
 guardsman
