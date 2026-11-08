@@ -4410,7 +4410,7 @@ demembre
 dastur
 disassembled
 dementation
-dementedly
+dementedly 1
 dementholize
 disseated
 demiatheism
