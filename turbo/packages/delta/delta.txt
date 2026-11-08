@@ -15750,7 +15750,7 @@ dissenting
 dimwits
 dormouse
 drawshave
-digallic
+digallic 1
 dornic
 deletive
 deterred
