@@ -5677,7 +5677,7 @@ dentelliere
 dolorousness
 deicer
 drumler
-deplant
+deplant 1
 disvertebrate
 denominational
 deozonize
