@@ -813,7 +813,7 @@ deduced
 dangerousness
 distention
 deniable
-dearths
+dearths 1
 dulcorate
 della
 decile
