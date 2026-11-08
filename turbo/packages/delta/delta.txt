@@ -3919,7 +3919,7 @@ dearomatize
 dogfoot
 deference
 dittay
-dekes
+dekes 1
 derivationally
 drisheen
 douser
