@@ -12588,7 +12588,7 @@ driftfish
 deadhearted
 deodorise
 departing
-definitise
+definitise 1
 dephase
 disinvagination
 deepfroze
