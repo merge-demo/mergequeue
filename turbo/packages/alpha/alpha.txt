@@ -17340,7 +17340,7 @@ audiometer
 auguste
 actors
 apeirophobia
-autocollimator
+autocollimator 1
 algaecide
 antiforeign
 apostatically
