@@ -10217,7 +10217,7 @@ generaliser
 grippers
 guzzled
 guile
-galluses
+galluses 1
 groundsel
 gastradenitis
 geotonus
