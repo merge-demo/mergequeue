@@ -4272,7 +4272,7 @@ akhlame
 alumen
 abime
 abaka
-anencephaly
+anencephaly 1
 atavism
 adreamed
 amulae
