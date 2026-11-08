@@ -5935,7 +5935,7 @@ greathead
 gluishness
 germy
 gitanos
-globosite
+globosite 1
 glumes
 gorman
 gritting
