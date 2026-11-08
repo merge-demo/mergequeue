@@ -4655,7 +4655,7 @@ demiss
 dryopithecid
 demivolt
 disprobative
-demissory
+demissory 1
 demystify
 diphysitism
 demystification
