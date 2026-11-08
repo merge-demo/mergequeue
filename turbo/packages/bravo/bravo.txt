@@ -6380,7 +6380,7 @@ borize
 blas
 brinishness
 burely
-barfy
+barfy 1
 benzonaphthol
 benzonitrile
 behedge
