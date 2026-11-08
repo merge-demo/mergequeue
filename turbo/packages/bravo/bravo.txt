@@ -8785,7 +8785,7 @@ beworm
 bubonic
 buffaloed
 bowering
-brilliants
+brilliants 1
 binny
 bumpered
 beanbags
