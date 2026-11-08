@@ -2599,7 +2599,7 @@ docetist
 desistence
 diplocephalous
 decoat
-decoct
+decoct 1
 demiquaver
 dashes
 decoctive
