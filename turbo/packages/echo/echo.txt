@@ -13679,7 +13679,7 @@ enramada
 endorsors
 erratum
 epistolizable
-exteriorness
+exteriorness 1
 espec
 emotionlessness
 etiotropic
