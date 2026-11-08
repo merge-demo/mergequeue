@@ -24074,7 +24074,7 @@ chemoceptor
 converges
 converging
 conversable
-conversableness
+conversableness 1
 conversancy
 camarillas
 cosmonautic
