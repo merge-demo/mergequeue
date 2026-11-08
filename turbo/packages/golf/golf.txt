@@ -3178,7 +3178,7 @@ guardant
 glossolabiolaryngeal
 gametoid
 garridge
-ganglial
+ganglial 1
 gooier
 gie
 geologers
