@@ -10459,7 +10459,7 @@ cetaceum
 copulation
 chelophore
 child 1
-childbearing
+childbearing 1
 circumspatial
 childcrowing
 childed
