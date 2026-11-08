@@ -11713,7 +11713,7 @@ contestant
 chondroblastoma
 chondrocyte
 coniomycetes
-chondrocoracoid
+chondrocoracoid 1
 consonantalizing
 chondrocostal
 chondrocranial 1
