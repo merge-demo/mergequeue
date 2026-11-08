@@ -3072,7 +3072,7 @@ emetia
 exhaustible
 excreters
 eardrop
-exor
+exor 1
 esthetes
 endarterium
 entwined
