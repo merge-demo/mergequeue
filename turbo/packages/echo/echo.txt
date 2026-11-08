@@ -12891,7 +12891,7 @@ ecchymose
 epithymetic
 encarpi
 evangeliary
-eigenfrequency
+eigenfrequency 1
 ethnographical
 ervenholder
 earstones
