@@ -14547,7 +14547,7 @@ branner
 bovista
 baktun
 bonding
-belugite
+belugite 1
 bedumbed
 branchiostoma
 biosociology
