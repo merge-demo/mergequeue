@@ -8008,7 +8008,7 @@ aleurodes 1
 aleurometer
 aleuronat
 absi
-arachidic
+arachidic 1
 antimicrobic
 argynnis
 annotto
