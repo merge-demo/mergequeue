@@ -4012,7 +4012,7 @@ flunk
 ferric
 furazolidone
 fluorosis
-foramina
+foramina 1
 fishery
 forleft
 ferison
