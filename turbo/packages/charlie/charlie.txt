@@ -11566,7 +11566,7 @@ cupellation
 cognisability
 colonialization
 cholecystogastrostomy
-cholecystogram
+cholecystogram 1
 cholecystography
 cholecystokinin
 cholecystolithiasis
