@@ -22507,7 +22507,7 @@ conjointness
 chorwat
 creepages
 conjoints
-chorism
+chorism 1
 conjon
 conjubilant
 conjuctiva
