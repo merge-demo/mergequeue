@@ -2047,7 +2047,7 @@ encouragingly
 enteroplegia
 elaioplast
 elamite
-elamitish
+elamitish 1
 electrophorese
 evilly
 eudialyte
