@@ -17907,7 +17907,7 @@ brimstony
 boopis
 busher
 bernoo
-bushfighting
+bushfighting 1
 bushfires
 backslider
 blamed
