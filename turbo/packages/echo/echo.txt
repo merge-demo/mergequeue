@@ -5879,7 +5879,7 @@ electorial
 epigeum
 ewest
 extrazodiacal
-exacerbescence
+exacerbescence 1
 epidendral
 exsiccate
 engrossedly
