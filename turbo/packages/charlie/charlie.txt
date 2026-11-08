@@ -26544,7 +26544,7 @@ cottonocracy
 cottonseed
 clotheshorse
 chalcedonies
-cottonseeds
+cottonseeds 1
 camomile
 cymarose
 cottontails

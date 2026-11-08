@@ -13367,7 +13367,7 @@ enfevers
 exits
 expositorially
 expostulating
-elachistaceous
+elachistaceous 1
 ecophysiological
 expanders
 empodium
