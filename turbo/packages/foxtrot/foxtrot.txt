@@ -2859,7 +2859,7 @@ flouter
 flatlets
 forestair
 fibrillose
-faeries
+faeries 1
 fetwa 1
 ferlies
 fetterlock
