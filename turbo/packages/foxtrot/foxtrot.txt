@@ -11012,7 +11012,7 @@ fortilage
 faailk
 fordable
 feuillemorte
-famelessness
+famelessness 1
 funkia
 floodlight 1
 fabliaux
