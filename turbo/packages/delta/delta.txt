@@ -4427,7 +4427,7 @@ decap
 dependant
 dokhma
 dird
-demerit
+demerit 1
 demiluster
 damoetas
 drones
