@@ -17295,7 +17295,7 @@ adamantoid
 anemometrographic
 aporhyolite
 allanites
-apnoeas
+apnoeas 1
 autobiographal
 actinidiaceae
 asserting
