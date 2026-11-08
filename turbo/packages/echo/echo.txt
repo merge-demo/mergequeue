@@ -10897,7 +10897,7 @@ epirotulian
 easternize 1
 endosmosis
 enterokinase
-enfin
+enfin 1
 encephalocoele
 epibaterium
 euktolite
