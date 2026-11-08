@@ -7639,7 +7639,7 @@ bewrapt
 bewreck
 besee
 brighten
-befreckle
+befreckle 1
 biodynamic
 bewry
 bankroller
