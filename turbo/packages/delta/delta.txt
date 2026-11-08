@@ -12590,7 +12590,7 @@ deodorise
 departing
 definitise
 dephase
-disinvagination
+disinvagination 1
 deepfroze
 debeak
 directs
