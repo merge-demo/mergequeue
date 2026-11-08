@@ -9380,7 +9380,7 @@ flector
 frenchmen
 faffy
 footgears
-firkins
+firkins 1
 flatways
 fecal
 farcinoma
