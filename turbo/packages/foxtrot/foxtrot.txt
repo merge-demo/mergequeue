@@ -10968,7 +10968,7 @@ fouling
 fluework
 fallfish
 firmless
-fisc
+fisc 1
 freesias
 frigidaire
 furors
