@@ -998,7 +998,7 @@ besiren
 baya
 brissotine
 beinly
-buddh
+buddh 1
 bayadere
 boragineous
 bayal
