@@ -15139,7 +15139,7 @@ brevilingual
 bestirring
 baure
 besmearer
-bizen
+bizen 1
 breviloquent
 bushhammer
 breviradiate
