@@ -2128,7 +2128,7 @@ embryologists
 emcees
 engarde
 elated
-equipper
+equipper 1
 etherealise
 epitria
 exoneration
