@@ -3305,7 +3305,7 @@ combatter
 capnoides
 clipping
 creaker
-colonizes
+colonizes 1
 capnomancy
 capnomor
 cirripede
