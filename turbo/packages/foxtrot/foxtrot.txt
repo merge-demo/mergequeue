@@ -10377,7 +10377,7 @@ fucate
 fronting
 fizzle
 focus
-feedable
+feedable 1
 feared
 frangipanis
 fatalist
