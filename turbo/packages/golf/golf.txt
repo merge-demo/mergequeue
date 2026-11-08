@@ -4212,7 +4212,7 @@ galactolytic
 gliosa
 gigantosaurus
 gravelliness
-gonidiose
+gonidiose 1
 ghibelline
 gynaecium
 gunned
