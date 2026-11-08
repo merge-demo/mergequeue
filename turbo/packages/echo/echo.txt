@@ -11135,7 +11135,7 @@ evacuants
 earthdrake
 exophagous
 epaulet
-entity
+entity 1
 eadi 1
 evacuated
 endeavored
