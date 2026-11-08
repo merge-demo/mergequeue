@@ -12022,7 +12022,7 @@ enquere
 excommunication
 episcias
 extra
-entackle
+entackle 1
 enginehouse
 ervum
 excommunicative
