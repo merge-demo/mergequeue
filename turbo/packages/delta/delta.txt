@@ -6996,7 +6996,7 @@ dript
 despoil
 despoiled
 destroyers
-despoiler
+despoiler 1
 disabilities
 despoilers
 decongest
