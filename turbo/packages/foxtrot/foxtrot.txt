@@ -2204,7 +2204,7 @@ faintness
 felwort
 fathearted
 faciobrachial
-fairsome
+fairsome 1
 forestery
 filius
 flounciest
