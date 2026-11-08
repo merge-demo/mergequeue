@@ -9315,7 +9315,7 @@ alop
 axunge
 antitumor
 alopecia
-alopecias
+alopecias 1
 alopecoid 1
 antrectomy
 alophas
