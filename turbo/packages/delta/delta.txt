@@ -18472,7 +18472,7 @@ duplone
 disruptiveness
 deutschemark
 delator
-dispersant
+dispersant 1
 diapers
 dermatophony
 devastavit

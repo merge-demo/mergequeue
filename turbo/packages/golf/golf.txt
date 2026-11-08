@@ -9820,7 +9820,7 @@ garpikes 1
 greasewood
 generous
 gesticulatively
-gibbets
+gibbets 1
 guayabi
 goitcho
 gymnotid
