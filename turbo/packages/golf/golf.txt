@@ -9130,7 +9130,7 @@ gibbose
 galagos
 gorillas
 grissel
-gingerol
+gingerol 1
 gadite
 gelseminic
 growing
