@@ -3662,7 +3662,7 @@ entangling
 eunomy
 extravert
 encolpion
-exomion
+exomion 1
 excogitates
 engarment
 emaciated

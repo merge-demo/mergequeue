@@ -11109,7 +11109,7 @@ dayroom
 discomforted
 dissaves
 despect
-deploredly
+deploredly 1
 dishabituating
 dyslectic
 doeg
