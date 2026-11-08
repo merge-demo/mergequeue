@@ -13523,7 +13523,7 @@ decollation
 dissceptered
 dislike
 dogie
-dissceptre
+dissceptre 1
 deceivance
 denaturized
 dolesome
