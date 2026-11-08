@@ -8462,7 +8462,7 @@ gnathopodous
 guinea
 glottises
 gastaldite
-gadzooks
+gadzooks 1
 gushet
 gibus
 gomphosis 1
