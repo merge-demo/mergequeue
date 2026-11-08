@@ -1385,7 +1385,7 @@ enneastylos
 excipula
 epeidia 1
 epilaryngeal
-enneandrous
+enneandrous 1
 eubranchipus
 epitympanic
 eugubium
