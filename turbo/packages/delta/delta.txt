@@ -16614,7 +16614,7 @@ dilutant
 detesting
 dragonwort
 dedolent
-desoxyribonuclease
+desoxyribonuclease 1
 dragoonable
 denunciable
 dragoonage
