@@ -3230,7 +3230,7 @@ flameholder
 fictioner
 frontis
 furbisher
-foci
+foci 1
 forestay
 fictionized
 frankheartness
