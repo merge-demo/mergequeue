@@ -2265,7 +2265,7 @@ bourage
 barricos
 buddler
 bassoons
-barbarise
+barbarise 1
 benzazimide
 bragless
 barbarities
