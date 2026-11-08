@@ -4432,7 +4432,7 @@ ambulators 1
 adulterousness
 angiotonin
 ads
-adulthood
+adulthood 1
 acerbitude
 adulticidal
 adulticide
