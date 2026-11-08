@@ -10231,7 +10231,7 @@ bebump
 bilged
 broomwort
 blackpatch
-belongings
+belongings 1
 beavering
 bilobiate
 boolean
