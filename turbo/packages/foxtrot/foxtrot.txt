@@ -2493,7 +2493,7 @@ fernshaw
 fordo
 forehatch
 feck
-flavic
+flavic 1
 freightage
 fawningness
 fortunize
