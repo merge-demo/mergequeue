@@ -8421,7 +8421,7 @@ dexies
 deflater
 devide
 deconcentrator
-deported
+deported 1
 deliver
 dolia
 defiledness
