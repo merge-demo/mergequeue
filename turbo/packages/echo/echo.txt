@@ -11455,7 +11455,7 @@ eleocharis
 evictor
 evidence
 edeagra
-earned
+earned 1
 evidences 1
 ethereous
 eutechnics
