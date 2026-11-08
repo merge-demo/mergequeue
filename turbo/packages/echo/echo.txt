@@ -5972,7 +5972,7 @@ etourderie
 enigmatist
 enigmatographer
 exempts
-encoronet
+encoronet 1
 enisled
 enisles
 echinoderidae
