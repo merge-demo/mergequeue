@@ -1477,7 +1477,7 @@ etui
 emeraude
 epizootically
 effused
-elasmobranchii
+elasmobranchii 1
 explanatorily
 exonarthex
 epics
