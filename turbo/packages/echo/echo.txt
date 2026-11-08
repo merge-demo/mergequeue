@@ -10628,7 +10628,7 @@ epappose
 electroneutrality
 evilproof
 eisodic
-enmoss
+enmoss 1
 excavate
 endozoa
 eques
