@@ -8523,7 +8523,7 @@ assessable
 airplane
 accelerograph
 alkylarylsulfonate
-anallergic
+anallergic 1
 agnate
 alkylate
 atremate

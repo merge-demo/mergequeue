@@ -15408,7 +15408,7 @@ claque
 cte
 candescently
 calipering
-chaffering
+chaffering 1
 claques
 claqueur
 conducement
