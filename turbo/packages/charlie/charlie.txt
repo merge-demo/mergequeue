@@ -17372,7 +17372,7 @@ curtails
 couscouses
 coastlines
 cutleress
-channeled
+channeled 1
 condensible
 churchmaster
 coatdress
