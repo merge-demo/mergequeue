@@ -1789,7 +1789,7 @@ featheriness 1
 frogface
 foreslack
 forsterite
-farfet
+farfet 1
 farsalah
 forlorn
 foundery
