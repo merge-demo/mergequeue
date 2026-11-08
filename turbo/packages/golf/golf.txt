@@ -8920,7 +8920,7 @@ ghostfish
 grizzle
 gressorial
 grieving
-gambas
+gambas 1
 gienah
 glauconitic
 ghostified
