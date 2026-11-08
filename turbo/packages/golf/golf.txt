@@ -10685,7 +10685,7 @@ glycerols
 gurnard
 gastrojejunal
 gib
-gastroenteroptosis
+gastroenteroptosis 1
 glaucomatous
 googol
 grippotoxin
