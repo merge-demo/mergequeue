@@ -2703,7 +2703,7 @@ fervence
 ferventness
 frighteningness
 floodwall
-fishify
+fishify 1
 foredivine
 fuminess
 flamant
