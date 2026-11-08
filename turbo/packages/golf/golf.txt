@@ -1740,7 +1740,7 @@ germinance
 goodless
 golliwogs
 gallic
-gofer
+gofer 1
 grx
 guanine
 gentisein
