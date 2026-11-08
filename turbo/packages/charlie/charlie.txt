@@ -4922,7 +4922,7 @@ candlestickward
 cowherbs
 carte
 carted
-curtalax
+curtalax 1
 cartel
 clione 1
 chobdar
