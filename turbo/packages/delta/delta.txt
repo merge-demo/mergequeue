@@ -5884,7 +5884,7 @@ depredatory
 deontic
 disembargoed
 deodars
-duffy
+duffy 1
 duplicity
 deprehend
 disprofit
