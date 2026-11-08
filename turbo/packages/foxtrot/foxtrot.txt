@@ -189,7 +189,7 @@ furnarius
 flier
 factorable
 flimsies
-finitary
+finitary 1
 fortunel
 factoryship
 floatiness
