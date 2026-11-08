@@ -5039,7 +5039,7 @@ ectoproct
 endmost
 enrage
 enamellar
-exemplum
+exemplum 1
 eyelid
 editorialized
 endoaortitis
