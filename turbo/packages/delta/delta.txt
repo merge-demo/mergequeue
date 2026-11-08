@@ -15254,7 +15254,7 @@ dealbuminize
 dissectible
 durante
 disconcerted
-devant
+devant 1
 decelerate
 decalcomania
 didelphyidae
