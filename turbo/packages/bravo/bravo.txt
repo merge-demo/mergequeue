@@ -10513,7 +10513,7 @@ blueprinter
 bradyuria
 bashlik
 blastoporal
-blastosphere
+blastosphere 1
 balanus
 bromal
 belligerent
