@@ -6380,7 +6380,7 @@ dorsiventral
 derodidymus
 daleth
 derog
-demeanour
+demeanour 1
 doronicum
 despond
 derogate
