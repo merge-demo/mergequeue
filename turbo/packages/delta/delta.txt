@@ -5979,7 +5979,7 @@ deed
 dayfly
 durezza
 dropped
-depsides
+depsides 1
 dilettantist
 disseminator
 discommoded
