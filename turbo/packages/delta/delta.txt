@@ -9549,7 +9549,7 @@ disenchantment
 diglottist
 duumvir
 diallists
-disgruntled
+disgruntled 1
 dischargers
 dignifiedly
 decoying 1
