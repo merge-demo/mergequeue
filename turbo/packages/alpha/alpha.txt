@@ -12265,7 +12265,7 @@ aminish
 anchorets
 altruism
 almach
-anchorite
+anchorite 1
 arraignable
 amylopsin
 archinfamy
