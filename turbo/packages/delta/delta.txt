@@ -10776,7 +10776,7 @@ directer
 domite
 deboist
 drawnly
-dainty
+dainty 1
 diluteness
 decreement
 diseur
