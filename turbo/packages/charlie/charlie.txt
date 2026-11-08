@@ -19949,7 +19949,7 @@ corbeling
 commandeers
 chromolithographer
 crosstoes
-commandery
+commandery 1
 commanding
 changeover
 corolitic
