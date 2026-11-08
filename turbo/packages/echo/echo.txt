@@ -671,7 +671,7 @@ estheses
 endolymphic
 exudative
 eclipsed
-equivocacy
+equivocacy 1
 eclipses
 efts
 eudaemonistic
