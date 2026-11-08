@@ -12630,7 +12630,7 @@ enkolpion
 exometritis
 excogitate
 endeavors
-emotionless
+emotionless 1
 echo
 erotized
 emerse
