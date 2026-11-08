@@ -14534,7 +14534,7 @@ anthropometry
 anuloma
 anthropometric
 acrocarpi
-allan
+allan 1
 anthropometrist
 anthropomophitism
 antiphrastic
