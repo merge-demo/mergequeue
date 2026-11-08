@@ -13478,7 +13478,7 @@ baronethood
 bottoming
 betweenness
 balderdash
-benefic
+benefic 1
 bradyseismism
 basementward
 bioxide
