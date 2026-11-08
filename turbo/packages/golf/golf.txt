@@ -1371,7 +1371,7 @@ glugglug
 garnetlike
 grabbles
 greenhide
-gorb
+gorb 1
 gorki
 gastrostegal
 gravitometer
