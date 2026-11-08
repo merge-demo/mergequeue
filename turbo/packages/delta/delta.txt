@@ -5923,7 +5923,7 @@ drew
 distn
 depressurize
 deaconate
-disentraced
+disentraced 1
 defeatee
 depreter
 depriment
