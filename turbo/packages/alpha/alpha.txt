@@ -5224,7 +5224,7 @@ antitangent
 autopoint
 aratinga
 affection
-apostasies
+apostasies 1
 arbutinase
 atoneness
 affectional
