@@ -10263,7 +10263,7 @@ dioecia
 dioecian
 dioeciopolygamous
 disclout
-dustpans
+dustpans 1
 demonograph
 dioicousness
 dipleura
