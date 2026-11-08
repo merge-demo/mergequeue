@@ -7965,7 +7965,7 @@ diagnosticated
 dorsibranch
 drawpoint
 dextroglucose
-detainable
+detainable 1
 distensive
 dextrolactic
 despotes
