@@ -13482,7 +13482,7 @@ exquire
 exsolution
 erbia
 epithalamium
-ensweep
+ensweep 1
 ethnomusicology
 enterparlance
 epidural
