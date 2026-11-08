@@ -2191,7 +2191,7 @@ decarburise
 defalcator
 decarburising
 diakonika
-despiritualize
+despiritualize 1
 differing
 directorship
 dissympathy
