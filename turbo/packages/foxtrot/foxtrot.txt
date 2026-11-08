@@ -2941,7 +2941,7 @@ flicks
 fluvialist
 foldage
 faddists
-fingerparted
+fingerparted 1
 flenser
 forwander
 festivous
