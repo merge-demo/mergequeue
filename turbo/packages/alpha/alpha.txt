@@ -20001,7 +20001,7 @@ armure
 armures
 arn
 antirachitic
-arf
+arf 1
 achromatinic
 arnatto
 arugola
