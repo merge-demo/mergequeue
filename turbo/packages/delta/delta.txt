@@ -7396,7 +7396,7 @@ detonations
 dusking
 demean
 detonative
-detonize
+detonize 1
 detour
 duncifying
 detectability
