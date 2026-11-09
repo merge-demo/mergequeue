@@ -1146,7 +1146,7 @@ calcography
 culturology
 calcsinter
 cranioclasis
-calcspars
+calcspars 1
 cotwal
 crunches
 cherely
