@@ -4596,7 +4596,7 @@ banters
 bilker 1
 baloskionaceae
 ballbuster
-bedazzles
+bedazzles 1
 bedazzlingly
 bibliopolery
 beckon
