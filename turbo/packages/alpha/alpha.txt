@@ -24540,7 +24540,7 @@ abhor
 aerophile
 abstrude
 aglaos
-athwart
+athwart 1
 abbreviatable
 auxiliaries
 abigailship
