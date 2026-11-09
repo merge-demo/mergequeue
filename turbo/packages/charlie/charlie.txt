@@ -10396,7 +10396,7 @@ cochlear
 cooncan
 cementing
 cryptometer
-chiffonnieres
+chiffonnieres 1
 conchinin
 chiffons
 continuable

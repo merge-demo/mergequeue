@@ -11714,7 +11714,7 @@ exurban
 exobiology
 entreat
 examinable
-eglateres
+eglateres 1
 examinant
 eschewer
 enscrolled
