@@ -6863,7 +6863,7 @@ gauntlets
 glucoprotein
 geaster
 glidewort
-gardinol
+gardinol 1
 galeas
 genitival
 geed
