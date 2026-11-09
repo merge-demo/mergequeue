@@ -524,7 +524,7 @@ counterstamp
 cadettes
 colorists
 coprecipitating
-competence
+competence 1
 clogmaker
 chattertonian
 carbuilder
