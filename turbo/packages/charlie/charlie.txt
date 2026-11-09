@@ -5504,7 +5504,7 @@ commorancy
 catabolin
 contrariousness
 catabolism
-catabolite
+catabolite 1
 catabolized
 claim
 counterwrite
