@@ -4573,7 +4573,7 @@ foolable
 fourth
 feudists
 frit
-forespoken
+forespoken 1
 frapped
 fisticuff
 fouldre
