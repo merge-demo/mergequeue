@@ -1411,7 +1411,7 @@ baleare
 bajonado
 barwin
 backjoint
-balearica
+balearica 1
 balebos
 baled
 baleen
