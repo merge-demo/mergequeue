@@ -4798,7 +4798,7 @@ carpopedal
 cladoniaceous
 coassignee
 carpophyte
-covariables
+covariables 1
 carpopoditic
 coordinating
 carved
