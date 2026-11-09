@@ -9988,7 +9988,7 @@ guillevat
 gunnery
 guggled
 gubbins
-geoethnic
+geoethnic 1
 galictis
 glutamic
 gubernative
