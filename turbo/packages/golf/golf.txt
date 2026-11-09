@@ -660,7 +660,7 @@ gilour
 geropiga
 gravelish
 gamely
-gregariousness
+gregariousness 1
 galinsoga
 gonitis
 guilds
