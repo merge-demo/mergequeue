@@ -2150,7 +2150,7 @@ bantamize
 banteng
 beglerbegship
 barriers
-banter
+banter 1
 banterers
 bantery
 boxfishes
