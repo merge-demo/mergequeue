@@ -8543,7 +8543,7 @@ deas
 dewbeam
 didacts
 diaphanometric
-dampishness
+dampishness 1
 discommoning
 dharani
 debateful
