@@ -4270,7 +4270,7 @@ gastroscope
 gangliated
 gibeonite
 gasconism
-gramineousness
+gramineousness 1
 gaunty
 goon
 gantleting
