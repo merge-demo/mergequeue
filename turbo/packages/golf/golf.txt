@@ -7474,7 +7474,7 @@ geomyid
 gospelist
 granuliferous
 gabbler
-ghettoizes
+ghettoizes 1
 glossist
 grabbier
 grunerite
