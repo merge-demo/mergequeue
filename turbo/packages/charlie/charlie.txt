@@ -19297,7 +19297,7 @@ colonical
 critically
 configurationism
 colonies
-colonisability
+colonisability 1
 colonisable
 clinid
 consumingness
