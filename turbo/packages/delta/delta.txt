@@ -6810,7 +6810,7 @@ dere
 dosadh
 dragade
 destined
-deslime
+deslime 1
 dissoconch
 drowsihood
 desmachyme
