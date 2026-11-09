@@ -5244,7 +5244,7 @@ endoradiosonde
 extract
 exfiguration
 embryotrophy
-emanator
+emanator 1
 epitomatory
 etaerio
 excommunicated
