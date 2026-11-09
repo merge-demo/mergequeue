@@ -2275,7 +2275,7 @@ downcut
 derby
 decemviral
 deepish
-decemvirship
+decemvirship 1
 decayer 1
 depurator
 decennial
