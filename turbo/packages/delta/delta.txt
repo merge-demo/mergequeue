@@ -8949,7 +8949,7 @@ despraise
 demographic
 demonstrably
 dub
-dail
+dail 1
 dihydride
 dated
 dichroitic
