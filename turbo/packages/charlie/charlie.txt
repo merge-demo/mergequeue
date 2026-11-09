@@ -2223,7 +2223,7 @@ camptosorus
 cabaan
 campus
 chromatic
-campusses
+campusses 1
 campward
 charet
 chametz
