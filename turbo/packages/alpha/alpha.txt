@@ -5363,7 +5363,7 @@ afforesting
 autophotometry
 abristle
 anticogitative
-afformative
+afformative 1
 abuseful
 affrayers
 affraying
