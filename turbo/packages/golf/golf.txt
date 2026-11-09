@@ -7264,7 +7264,7 @@ gemination
 gorgoneion
 gromyl
 gutter
-gormand
+gormand 1
 gemmingia
 glycerine
 grazioso
