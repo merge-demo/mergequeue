@@ -2656,7 +2656,7 @@ decenniad
 decompensations
 dasylirion
 doorkeeper
-decompiler
+decompiler 1
 deviceful
 decomposer
 debrief
