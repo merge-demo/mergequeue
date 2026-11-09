@@ -11633,7 +11633,7 @@ exacter
 elapid
 equianchorate
 euptelea
-elocutionary
+elocutionary 1
 epitaphical
 exacting
 electroirrigation
