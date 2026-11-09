@@ -8510,7 +8510,7 @@ formosity
 flailing
 firehall
 falsie
-flatwise
+flatwise 1
 foramen 1
 forinsec
 fream
