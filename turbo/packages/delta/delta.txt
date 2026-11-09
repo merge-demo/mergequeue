@@ -10319,7 +10319,7 @@ diophantine
 driftpiece
 dowsing
 dentata
-diurons
+diurons 1
 derelictly
 degeneracy
 dioramic
