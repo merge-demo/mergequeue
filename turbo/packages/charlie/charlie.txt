@@ -18242,7 +18242,7 @@ coffeehouse
 catchline
 coffeehouses
 coffeeman
-classico
+classico 1
 coffeepots
 colloidize
 coffeeroom
