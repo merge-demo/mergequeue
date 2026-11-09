@@ -9805,7 +9805,7 @@ eddyroot
 elegiacal
 exponentiate
 eustace
-ebracteolate
+ebracteolate 1
 enhanced
 erythrophore
 estaminet
