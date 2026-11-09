@@ -5089,7 +5089,7 @@ drapetomania
 dearborn
 dessicate
 describing
-disenabling
+disenabling 1
 deadrise
 dendrocygna
 discomfit
