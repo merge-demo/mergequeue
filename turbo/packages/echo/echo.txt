@@ -9455,7 +9455,7 @@ epigastraeum
 euphonon
 exteriorizing
 eschewed
-expand
+expand 1
 ecbolics
 embedment
 eam
