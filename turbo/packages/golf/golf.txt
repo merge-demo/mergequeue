@@ -10362,7 +10362,7 @@ gynic
 gallops
 gonidiospore
 gastrothecal
-gnashing
+gnashing 1
 gothonic
 galactosamine
 gardenly
