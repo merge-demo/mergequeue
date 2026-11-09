@@ -3906,7 +3906,7 @@ disherits
 dichroscope
 dekameters
 decumani
-dekapode
+dekapode 1
 disinter
 duo
 diospyraceae
