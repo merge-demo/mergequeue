@@ -10250,7 +10250,7 @@ deconcentrating
 disaccustom
 doornail
 deifiers
-defunctive
+defunctive 1
 dioctahedral
 dextroses
 dioctophyme
