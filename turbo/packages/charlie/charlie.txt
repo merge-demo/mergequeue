@@ -9536,7 +9536,7 @@ checkrein
 checkroll
 compathy
 checkrope
-cumulant
+cumulant 1
 conoy
 checkrowed
 checkrower
