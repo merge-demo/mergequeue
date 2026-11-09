@@ -6194,7 +6194,7 @@ fairgoing
 flaxes
 feebling
 frequency
-furbished
+furbished 1
 fibroareolar
 flisked
 formicating 1
