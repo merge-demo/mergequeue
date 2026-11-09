@@ -8229,7 +8229,7 @@ brakehead
 bedsteads
 bovarysm
 broilers
-bigamies
+bigamies 1
 brewages
 bigamist
 boyars
