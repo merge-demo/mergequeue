@@ -24903,7 +24903,7 @@ awayness
 awaynesses
 accommodatively
 angeronalia
-afforestable
+afforestable 1
 abeyancies
 accoladed
 atavisms
