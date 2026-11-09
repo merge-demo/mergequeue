@@ -14219,7 +14219,7 @@ achaetous
 ancor
 adipogenic
 alismoid
-alexiterical
+alexiterical 1
 antergic
 aspic
 autodetector
