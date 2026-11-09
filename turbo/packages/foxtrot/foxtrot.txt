@@ -3004,7 +3004,7 @@ ferricyanogen
 ferrotype
 fortepiano
 flukily
-forasmuch
+forasmuch 1
 foreman
 floodage
 flogster
