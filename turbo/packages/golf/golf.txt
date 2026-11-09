@@ -10701,7 +10701,7 @@ goldbrickers
 grabs
 guaiacolize
 gurshes
-gibbus
+gibbus 1
 garbler
 gobbler
 gonadectomies
