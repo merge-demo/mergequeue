@@ -8399,7 +8399,7 @@ aliso
 adpress
 andy
 aristolochia
-amphitheater
+amphitheater 1
 anticomet
 aerodromics
 alisp
