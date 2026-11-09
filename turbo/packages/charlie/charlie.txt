@@ -2474,7 +2474,7 @@ candelabrum
 corelatively
 candelilla
 conductible
-choraguses
+choraguses 1
 certitude
 clang
 cassidony

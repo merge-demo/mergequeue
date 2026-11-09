@@ -7305,7 +7305,7 @@ eternises
 enolize
 exemplariness
 ephah
-enact
+enact 1
 each
 electrooptics
 escaping
