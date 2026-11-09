@@ -11470,7 +11470,7 @@ bravos
 bandsmen
 basophilia
 begemming
-bedoctor
+bedoctor 1
 baccalaurean
 bezzled
 bluewoods
