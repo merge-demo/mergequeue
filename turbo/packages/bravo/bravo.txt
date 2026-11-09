@@ -8688,7 +8688,7 @@ brule
 barhopping
 boteroll
 bimetals
-bolsters
+bolsters 1
 bullishness
 babyfied
 brauneria
