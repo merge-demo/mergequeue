@@ -8980,7 +8980,7 @@ discriminators
 diolefin
 dicyclies
 dovekies
-dentalized
+dentalized 1
 disqualifies
 distortions
 diaphonies
