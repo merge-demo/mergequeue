@@ -10863,7 +10863,7 @@ fontal
 frisky
 forwore
 frondosely
-frousy
+frousy 1
 fabledom
 faddism
 functionally
