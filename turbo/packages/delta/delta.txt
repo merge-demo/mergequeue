@@ -938,7 +938,7 @@ dauts
 detachers
 directives
 diacoca
-dewed
+dewed 1
 dures
 darb
 dorsoabdominal
