@@ -235,7 +235,7 @@ allokinesis 1
 alchemistical
 adipolytic
 ajourise
-aeroliths
+aeroliths 1
 acroamatics
 absorptiometric
 abbott
