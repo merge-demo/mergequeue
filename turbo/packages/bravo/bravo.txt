@@ -2855,7 +2855,7 @@ bawrel
 bioscopies
 bullionist
 buttonmold
-barbery
+barbery 1
 barrabora
 barrack
 briguer
