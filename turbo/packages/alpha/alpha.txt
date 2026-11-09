@@ -871,7 +871,7 @@ antisensuousness
 aflatus
 absentminded
 aerobics
-absentness
+absentness 1
 avicennism
 applemonger
 aiver
