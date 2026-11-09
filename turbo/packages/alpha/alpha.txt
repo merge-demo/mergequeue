@@ -3298,7 +3298,7 @@ acutograve
 analogist
 acutonodose
 aurene
-aminity
+aminity 1
 anthropomorphist
 avigator
 acxoyatl
