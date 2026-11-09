@@ -8257,7 +8257,7 @@ ginglyform
 giardiasis
 gre
 garamond
-gaseosity
+gaseosity 1
 gurries
 gara
 geeks
