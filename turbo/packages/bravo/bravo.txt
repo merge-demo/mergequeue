@@ -3234,7 +3234,7 @@ basidiospore
 basidiosporous 1
 buckbush
 backstrapped
-batiked
+batiked 1
 bodiless
 bedights
 bathtub
