@@ -8326,7 +8326,7 @@ fatherlike
 flapperish
 flatulentness
 fittiest
-fair
+fair 1
 foundling
 florulae
 fils
