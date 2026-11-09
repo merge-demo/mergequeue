@@ -9628,7 +9628,7 @@ featherfoil
 flowerer
 forwardly
 foreleader
-flotations
+flotations 1
 freers
 farthest
 foresign 1
