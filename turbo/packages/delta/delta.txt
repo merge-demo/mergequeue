@@ -11056,7 +11056,7 @@ dirt
 deink
 disbursals
 dandyling
-decentness
+decentness 1
 drakes
 dundreary
 drollness
