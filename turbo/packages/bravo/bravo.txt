@@ -2517,7 +2517,7 @@ bergere
 bult
 bargelike
 beet
-bargellos
+bargellos 1
 beswinge
 begroans
 barger
