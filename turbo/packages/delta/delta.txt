@@ -2329,7 +2329,7 @@ determinists
 decke
 diethylstilbestrol
 demidolmen
-downwash
+downwash 1
 diazoaminobenzene
 deceptive
 deceptively 1
