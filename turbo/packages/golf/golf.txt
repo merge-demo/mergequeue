@@ -987,7 +987,7 @@ goldhammer
 ganderess
 genethlialogy
 grimace
-geanticline
+geanticline 1
 gubernia
 gemmed
 grumblingly
