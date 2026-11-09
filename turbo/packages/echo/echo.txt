@@ -5094,7 +5094,7 @@ encysted
 electrosensitive
 epilogic
 estray
-explanitory
+explanitory 1
 exsanguinous
 exprobratory
 endocoele
