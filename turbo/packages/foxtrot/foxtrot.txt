@@ -7422,7 +7422,7 @@ florists
 fasciculation
 fey
 freezing
-fasti
+fasti 1
 figgum
 fille
 fawnlike
