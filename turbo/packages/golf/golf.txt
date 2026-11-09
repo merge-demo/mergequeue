@@ -2897,7 +2897,7 @@ glittering
 gonocyte
 gallinulelike
 greenside
-gombos
+gombos 1
 gingerous
 gee
 gelose
