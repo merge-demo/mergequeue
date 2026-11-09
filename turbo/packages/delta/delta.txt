@@ -9184,7 +9184,7 @@ discase
 dermomuscular
 drawbench
 doeling
-diminutively
+diminutively 1
 diedric
 deuteromorphic
 diego
