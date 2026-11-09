@@ -7350,7 +7350,7 @@ alcoved
 animalise
 anapanapa
 africander
-afford
+afford 1
 architectural
 albe
 allegedly
