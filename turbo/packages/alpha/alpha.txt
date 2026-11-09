@@ -11790,7 +11790,7 @@ abseil
 aquariums
 apaise
 anagep
-analcimic
+analcimic 1
 antar
 anosphrasia
 ablepharon
