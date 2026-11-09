@@ -8408,7 +8408,7 @@ fierier
 facetious
 flushers
 fatheadedly
-foppery
+foppery 1
 fickler
 formaliser
 fozinesses
