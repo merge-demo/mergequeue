@@ -8426,7 +8426,7 @@ blameableness
 bilection
 bileve
 bilewhit
-bavardage
+bavardage 1
 berbery
 bootjack
 bouteloua
