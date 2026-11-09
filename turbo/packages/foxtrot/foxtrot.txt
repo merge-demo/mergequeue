@@ -9443,7 +9443,7 @@ flamens
 fratry
 flippery
 flexibly
-furnaceman
+furnaceman 1
 fistful
 fulcrate
 furculum
