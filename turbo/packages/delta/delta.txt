@@ -8192,7 +8192,7 @@ diadema
 depart
 diaderm
 decolletage
-diadic
+diadic 1
 disabusing
 demurrer
 distends
