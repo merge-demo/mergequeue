@@ -9963,7 +9963,7 @@ gogglers
 glegness
 glyptic
 gonake
-googols
+googols 1
 gipsyfy
 goldi
 gymnodinium
