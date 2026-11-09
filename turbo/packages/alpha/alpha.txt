@@ -1649,7 +1649,7 @@ accrual
 actualities
 accrued
 accruement
-accruer
+accruer 1
 anatta
 adiabatic
 accrues
