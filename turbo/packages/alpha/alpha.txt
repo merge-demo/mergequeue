@@ -12888,7 +12888,7 @@ antiepicenter
 angiport
 autoinductive
 ammoniticone
-aeroscopically
+aeroscopically 1
 angle
 arenarious
 annalism
