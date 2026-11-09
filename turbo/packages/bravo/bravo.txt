@@ -4101,7 +4101,7 @@ beardy
 blanchimeter
 bearding
 bonita
-balminess
+balminess 1
 beards
 barbers
 birthroot
