@@ -17513,7 +17513,7 @@ apparat
 antidiabetic
 antigonus
 apparats
-apparatus
+apparatus 1
 appareling
 apparentements
 airify
