@@ -18546,7 +18546,7 @@ considerateness
 clypeole
 coif
 coiffe
-coiffed
+coiffed 1
 caustics
 clavers
 coiffeur
