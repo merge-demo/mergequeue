@@ -6955,7 +6955,7 @@ cenobies
 cenobites
 cenobitic
 canistel
-caseworkers
+caseworkers 1
 cenobitically
 cenobitism
 cretion
