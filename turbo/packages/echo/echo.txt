@@ -3671,7 +3671,7 @@ enwheel
 everse
 evangelistically
 enchytrae
-entrancer
+entrancer 1
 envenom
 eternised
 exergues
