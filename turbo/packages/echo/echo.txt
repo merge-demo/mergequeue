@@ -4293,7 +4293,7 @@ echiniform
 exospores
 ers
 englander
-exercisers
+exercisers 1
 electrothermal
 ethanolysis
 embryocardia
