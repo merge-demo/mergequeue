@@ -5828,7 +5828,7 @@ guanidin
 gastrodisk
 gurjara
 glowingly
-glows
+glows 1
 grinny
 gaupus
 glissades
