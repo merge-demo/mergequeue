@@ -6949,7 +6949,7 @@ bastillion
 bearherd
 bouchee
 bedsite
-bestrid
+bestrid 1
 beslimes
 backsheesh
 breme
