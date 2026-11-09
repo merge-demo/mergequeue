@@ -18313,7 +18313,7 @@ bowlegs
 buttony
 bluenosed
 buttoning
-banked
+banked 1
 beths
 bioelectricities
 blennuria

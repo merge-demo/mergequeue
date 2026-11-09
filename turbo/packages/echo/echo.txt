@@ -7372,7 +7372,7 @@ encloses 1
 exonship
 epithetical
 everywhither
-earthmoving
+earthmoving 1
 equipollency
 eyres
 epencephala
