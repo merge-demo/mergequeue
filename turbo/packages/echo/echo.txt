@@ -8484,7 +8484,7 @@ entrants
 emda
 exhaustlessly
 enregiment
-enhemospore
+enhemospore 1
 escarmouche 1
 everness
 epileptoid
