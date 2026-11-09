@@ -11948,7 +11948,7 @@ excystment
 emirs 1
 ensilages
 exothermicity
-endurance
+endurance 1
 enlist
 epithecate
 exactress
