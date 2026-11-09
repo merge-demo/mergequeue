@@ -11223,7 +11223,7 @@ beaker
 boder
 burkes
 besmutted
-batterfang
+batterfang 1
 brazenness
 bulkin
 bracts
