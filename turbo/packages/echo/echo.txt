@@ -9157,7 +9157,7 @@ equiponderancy
 ermiline
 enamellist
 epidemy
-excarnation
+excarnation 1
 ermined
 erminee 1
 enleague
