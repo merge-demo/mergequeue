@@ -12597,7 +12597,7 @@ entorganism
 elephantidae
 epiphysitis
 equiaxial
-epexegeses
+epexegeses 1
 exodic
 equipped
 encincturing
