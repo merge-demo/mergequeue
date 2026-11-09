@@ -10779,7 +10779,7 @@ eumenides
 emblema
 encrinus
 electrogilding
-exflagellate
+exflagellate 1
 endosporic
 eumycete
 eulogiums
