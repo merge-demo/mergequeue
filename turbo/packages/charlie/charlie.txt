@@ -28509,7 +28509,7 @@ carapo
 creatureship
 conversibility
 coxcombess
-creaturize
+creaturize 1
 churchanity
 creaze
 crebricostate
