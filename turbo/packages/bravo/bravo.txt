@@ -12423,7 +12423,7 @@ bond
 bipinnatifid
 bless
 blunger
-bondar
+bondar 1
 bockerel
 bastardly
 bonderize
