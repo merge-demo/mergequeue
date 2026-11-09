@@ -11413,7 +11413,7 @@ desertless
 drawn
 dubiety
 diverted
-discobolos
+discobolos 1
 disbelieving
 degassing
 downcomes
