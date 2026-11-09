@@ -5037,7 +5037,7 @@ fumatory 1
 forekeel
 faithbreaker
 fragrance
-faconne
+faconne 1
 fulmarus 1
 flapdock
 familiarized
