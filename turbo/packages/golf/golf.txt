@@ -1978,7 +1978,7 @@ gaussage 1
 gaskings
 girth
 gageite
-gonadotrope
+gonadotrope 1
 granville
 glyconian
 gleefully
