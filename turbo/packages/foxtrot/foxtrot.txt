@@ -2546,7 +2546,7 @@ fem
 functionalistic
 fennish
 foresightful
-falerno
+falerno 1
 fairyhood
 funduck
 ferryboat
