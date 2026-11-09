@@ -8866,7 +8866,7 @@ esthesiometer
 eremuri
 ethnoflora
 elaphodus
-enerve
+enerve 1
 escharoid
 englue
 ecphonesis
