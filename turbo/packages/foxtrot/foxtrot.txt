@@ -5881,7 +5881,7 @@ flexity
 feague
 fangas
 fogbows
-flinted
+flinted 1
 ferrichloride
 furnishings
 featurely
