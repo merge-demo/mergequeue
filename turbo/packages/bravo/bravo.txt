@@ -7508,7 +7508,7 @@ buffet
 bever
 barleducs
 blemishment
-burses
+burses 1
 barbets
 bluebirds
 blastocolla
