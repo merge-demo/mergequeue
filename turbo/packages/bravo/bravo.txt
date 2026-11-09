@@ -15256,7 +15256,7 @@ beglerbeg
 backslide
 bumpology
 brickle
-bulbospinal
+bulbospinal 1
 bricklike
 blennoid
 byroads
