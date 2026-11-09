@@ -10758,7 +10758,7 @@ doughtily
 divas
 dependent
 dipterus
-dotterel
+dotterel 1
 diptychs 1
 differencing
 diver
