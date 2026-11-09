@@ -9274,7 +9274,7 @@ foldwards
 fasinite
 fogrum
 fillingly
-foggily
+foggily 1
 foldboats
 fistulization
 frowsiness
