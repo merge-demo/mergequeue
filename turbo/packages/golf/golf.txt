@@ -2777,7 +2777,7 @@ gurr
 gemeinde
 gaunt
 growling
-gimmor
+gimmor 1
 greatcoat
 gyro 1
 gramophonist
