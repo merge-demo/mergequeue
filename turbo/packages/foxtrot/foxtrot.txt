@@ -4677,7 +4677,7 @@ factable
 filicinean
 fearsome
 flaunched
-flections
+flections 1
 flexibilities
 frighten
 fragrantly
