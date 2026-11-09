@@ -3097,7 +3097,7 @@ frenzies
 fustians
 fieulamort
 formulas
-fertilisable
+fertilisable 1
 frottages
 filoplume
 fibroelastic
