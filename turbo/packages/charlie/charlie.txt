@@ -8757,7 +8757,7 @@ cognitives
 chapless
 chapleted
 counties
-countersmile
+countersmile 1
 clothesbasket
 chapon
 cestodaria
