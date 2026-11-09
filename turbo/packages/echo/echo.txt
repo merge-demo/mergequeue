@@ -12796,7 +12796,7 @@ evangelicity
 ensepulchered
 ecanda
 excavation
-enterocyst
+enterocyst 1
 empacket
 elinguated
 eroticization
