@@ -940,7 +940,7 @@ cornices
 collared
 colpotomy
 calorically
-canterburies
+canterburies 1
 calaboose
 canelle
 calabrian
