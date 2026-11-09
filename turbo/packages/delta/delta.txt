@@ -8637,7 +8637,7 @@ diarrhea
 dows
 deathtime
 decarchy
-diarrhoeal
+diarrhoeal 1
 downbeard
 dephysicalize
 diarrhoetic
