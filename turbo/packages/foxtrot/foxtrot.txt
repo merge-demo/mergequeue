@@ -10832,7 +10832,7 @@ florimania
 ferniest
 focometry
 fulciment
-fs
+fs 1
 failures
 frictionized
 fulcrumed

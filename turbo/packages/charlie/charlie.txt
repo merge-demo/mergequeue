@@ -4549,7 +4549,7 @@ convulsed
 carnelian
 carneole
 coroner
-chartula
+chartula 1
 coacervating
 citoler
 carnets
