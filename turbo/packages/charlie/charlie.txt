@@ -4012,7 +4012,7 @@ compartmental
 crystalloluminescence
 carcinolysin
 cycadiform
-carcinological
+carcinological 1
 carbocyclic
 curtesy
 carcinomata
