@@ -2006,7 +2006,7 @@ depaysee
 demagnify
 dynapolis
 documentalist
-denehole
+denehole 1
 dentello
 dimble
 defaecate
