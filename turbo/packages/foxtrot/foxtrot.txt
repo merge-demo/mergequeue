@@ -6822,7 +6822,7 @@ featherier
 feuille
 florula 1
 fragmentizer
-foretold
+foretold 1
 fasces
 fructifier
 foliaged
