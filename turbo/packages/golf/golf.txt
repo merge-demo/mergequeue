@@ -9607,7 +9607,7 @@ gangerel
 grots
 goitered
 garrick
-gemses
+gemses 1
 goldenness
 gossipmonger
 gowns
