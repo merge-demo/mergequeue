@@ -8762,7 +8762,7 @@ clothesbasket
 chapon
 cestodaria
 corrugators
-cuppa
+cuppa 1
 crips
 chapote
 cave
