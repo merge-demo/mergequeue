@@ -8142,7 +8142,7 @@ brontophobia
 bash
 beedged
 banishes
-buffalos
+buffalos 1
 byeman
 ballote
 bluntie
