@@ -511,7 +511,7 @@ explorer
 exceptionally
 epigrammatarian
 ethnographies
-efoliose
+efoliose 1
 effeminated
 ecesic
 ectropometer

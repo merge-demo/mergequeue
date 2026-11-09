@@ -3597,7 +3597,7 @@ gaelicize
 galany
 guttiform
 gananciales
-gantries
+gantries 1
 glack
 goudy
 gawkiness
