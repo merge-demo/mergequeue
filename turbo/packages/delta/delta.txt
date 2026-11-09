@@ -12385,7 +12385,7 @@ declivate
 dishevelled
 dishevelling
 delomorphic
-dismissingly
+dismissingly 1
 doeskins
 diakineses
 dishley
