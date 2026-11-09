@@ -11680,7 +11680,7 @@ ecphasis
 edulcorative
 entoplastic
 exaggeratively
-exagitate
+exagitate 1
 effluence 1
 electromer
 epiphragmal
