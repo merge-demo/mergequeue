@@ -10842,7 +10842,7 @@ feeable
 fanatical
 fulfiller
 flambeaux
-fumose
+fumose 1
 fulfillment
 flus
 flavorous
