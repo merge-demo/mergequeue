@@ -13816,7 +13816,7 @@ boilers
 beefwoods
 bowelled
 beardedness
-balatte
+balatte 1
 bashilange
 bulbuls
 bulbophyllum
