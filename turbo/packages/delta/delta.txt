@@ -7312,7 +7312,7 @@ demifarthing
 decarbonating
 deckings
 durene
-dampproof
+dampproof 1
 depilate
 dairies
 dialogically
