@@ -18573,7 +18573,7 @@ durukuli
 disanimated 1
 dyslexic
 defortify
-decentration
+decentration 1
 dush
 dusked
 ditchdigger
