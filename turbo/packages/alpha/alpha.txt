@@ -14424,7 +14424,7 @@ anthotaxis
 andries
 aranga
 allocations
-assortatively
+assortatively 1
 anisocycle
 abnegate
 apselaphesis
