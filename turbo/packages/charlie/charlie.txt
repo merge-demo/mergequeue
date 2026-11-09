@@ -2633,7 +2633,7 @@ chaetetes
 conversationalist
 composes 1
 cobbers
-chimp
+chimp 1
 canework
 chuckling
 compliably
