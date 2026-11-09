@@ -10833,7 +10833,7 @@ abides
 apparentement
 abatements
 activizing
-assized
+assized 1
 aits
 antifoam
 apprised
