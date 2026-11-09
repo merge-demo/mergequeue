@@ -2964,7 +2964,7 @@ depositional
 diaphanotype
 describers
 deductio
-deductions
+deductions 1
 dwarfism
 distrainment
 deductive
