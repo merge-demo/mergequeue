@@ -10839,7 +10839,7 @@ candlepower
 cuittikin
 circumcising
 chiopin
-churnability
+churnability 1
 centropomus
 cinnoline
 chip
