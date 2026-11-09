@@ -2564,7 +2564,7 @@ declassifies
 diplophonic
 disequality
 dematerialize
-dorsocephalic
+dorsocephalic 1
 distiller
 declensionally
 declensions
