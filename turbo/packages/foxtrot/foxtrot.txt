@@ -4026,7 +4026,7 @@ festin
 forehorse
 fluoaluminic
 felicific
-forwean
+forwean 1
 forefaces
 fallible
 foredawn
