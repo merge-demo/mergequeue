@@ -20532,7 +20532,7 @@ compatriots
 compd
 contritely
 cusparia
-carnose
+carnose 1
 codon
 crapon
 commistion
