@@ -807,7 +807,7 @@ gonia
 goldbeater 1
 gambe
 gourmanderie
-glauke
+glauke 1
 greenlandite
 gastrostenosis
 glucosane
