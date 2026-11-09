@@ -14204,7 +14204,7 @@ disbranching
 disuses
 disutility
 disutilize
-doldrum
+doldrum 1
 dramatists
 damage
 daboia

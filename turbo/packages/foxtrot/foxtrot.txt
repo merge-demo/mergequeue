@@ -1792,7 +1792,7 @@ forsterite
 farfet
 farsalah
 forlorn
-foundery
+foundery 1
 frivolously
 fetid
 fackings
