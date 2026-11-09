@@ -18276,7 +18276,7 @@ broadaxe
 boulimy
 buttgenbachite 1
 bolimba
-boomeranging
+boomeranging 1
 borders
 butty
 biovulate
