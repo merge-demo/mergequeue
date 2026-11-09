@@ -9873,7 +9873,7 @@ bitstock
 butene
 beasties
 besmirches
-bitter
+bitter 1
 bitterbloom
 bittered
 beyerite
