@@ -9558,7 +9558,7 @@ endosmotic
 enchytraeidae
 emigree
 euchromatic
-embarrassed
+embarrassed 1
 eskimoized
 electrolysed
 embeam
