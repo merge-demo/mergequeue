@@ -6100,7 +6100,7 @@ deracination
 divinising
 decurring
 dispraiser
-diatheses
+diatheses 1
 disarmed
 decompound
 dizened
