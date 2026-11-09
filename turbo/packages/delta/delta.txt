@@ -10252,7 +10252,7 @@ doornail
 deifiers
 defunctive
 dioctahedral
-dextroses
+dextroses 1
 dioctophyme
 deave
 defaulting

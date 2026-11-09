@@ -10112,7 +10112,7 @@ fains
 frithstool
 fritniency
 fare
-foreknee
+foreknee 1
 fulciform
 fortuitus
 foreheaded
