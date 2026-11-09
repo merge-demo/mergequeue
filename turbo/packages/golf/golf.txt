@@ -3571,7 +3571,7 @@ guiders
 generalizers
 gab
 galvanisation
-gausses
+gausses 1
 gharnao
 gilbertian
 glossa
