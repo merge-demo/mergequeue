@@ -10073,7 +10073,7 @@ excretion
 ensepulcher
 ersatz
 exode
-endoparasitism
+endoparasitism 1
 epinglette
 escharine 1
 enforcers
