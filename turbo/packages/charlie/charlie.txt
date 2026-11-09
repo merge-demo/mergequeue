@@ -3384,7 +3384,7 @@ cappings
 coagencies
 capple
 cappuccino
-chandu
+chandu 1
 coercibly
 calycozoan
 credos
