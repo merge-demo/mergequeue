@@ -5376,7 +5376,7 @@ affret
 aptotic
 agnosticism
 agglutinable
-apneustic
+apneustic 1
 affriended
 applying
 aggrandizable
