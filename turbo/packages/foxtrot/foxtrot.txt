@@ -2689,7 +2689,7 @@ feasing
 ferulaceous
 ferular
 foreimpression
-fireshaft
+fireshaft 1
 feruled
 ferulic 1
 fitzclarence
