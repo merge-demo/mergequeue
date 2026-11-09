@@ -4233,7 +4233,7 @@ gaillard
 glairiness
 grovelling
 geographized
-gumptionless
+gumptionless 1
 galban
 gratitude
 gadaea
