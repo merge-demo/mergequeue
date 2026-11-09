@@ -4857,7 +4857,7 @@ demonise
 dactyliotheca
 dodlet
 dimissorial
-deaneries
+deaneries 1
 ductile
 declive
 durrie
