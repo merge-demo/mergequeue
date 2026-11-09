@@ -16405,7 +16405,7 @@ doxa
 doxastic
 doxasticon
 doxie
-distad
+distad 1
 dhoora
 doxography
 decolourise
