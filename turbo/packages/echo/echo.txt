@@ -9281,7 +9281,7 @@ encyclopedize
 erron
 empathies 1
 electrotellurograph
-externalist
+externalist 1
 exogamous
 enliveningly
 expositional
