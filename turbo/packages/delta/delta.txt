@@ -14048,7 +14048,7 @@ deglamorization
 distressingly
 devast
 dunlap
-depravation
+depravation 1
 dextrotropous
 decommissioning
 dietarily
