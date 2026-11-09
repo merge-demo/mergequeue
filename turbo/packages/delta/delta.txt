@@ -14805,7 +14805,7 @@ docs
 doctor
 doctorally
 dumontite
-defensive
+defensive 1
 deservingly
 doctorfishes
 decomponible
