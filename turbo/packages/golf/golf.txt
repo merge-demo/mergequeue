@@ -2533,7 +2533,7 @@ generations
 ghylls
 growleries
 gastrula
-gobangs
+gobangs 1
 generalities
 grig
 grubbies
