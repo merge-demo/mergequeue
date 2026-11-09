@@ -7214,7 +7214,7 @@ give
 gerfalcon
 gynecol
 gorgosaurus
-galenism
+galenism 1
 gorillalike
 grimliness
 gloze
