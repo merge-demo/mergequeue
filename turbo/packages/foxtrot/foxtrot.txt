@@ -3474,7 +3474,7 @@ formboard
 figo
 foraminifer
 favillae
-fumaroid
+fumaroid 1
 figshell
 flankard
 fury
