@@ -17742,7 +17742,7 @@ discoloredness
 discriminateness
 disconsolacy
 derivate
-debugs
+debugs 1
 dungeon
 dubiousness
 deportees
