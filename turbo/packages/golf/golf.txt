@@ -2916,7 +2916,7 @@ gulley
 growlier
 glumpish
 gobblers
-gavelkind
+gavelkind 1
 gaeldom
 geocyclic
 geraldine
