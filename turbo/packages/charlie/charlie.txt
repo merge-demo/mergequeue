@@ -18662,7 +18662,7 @@ corporales
 cointensity
 cointerest
 cointerred
-cointerring
+cointerring 1
 cantrips
 chiselling
 coinvolve
