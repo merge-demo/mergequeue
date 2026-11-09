@@ -2358,7 +2358,7 @@ acyetic
 apprehend
 albeit
 autocrat
-aciform
+aciform 1
 audubonistic
 abp
 abet
