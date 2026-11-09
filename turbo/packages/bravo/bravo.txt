@@ -14263,7 +14263,7 @@ brainsickness
 butyne
 byword
 boarding
-buglosses
+buglosses 1
 beclart
 braehead
 bulblet
