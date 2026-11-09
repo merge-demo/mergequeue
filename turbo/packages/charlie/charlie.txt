@@ -22691,7 +22691,7 @@ coderiving
 conodont
 contractiveness
 chrysatropic
-craftier
+craftier 1
 calmato
 conoidic
 chessboard
