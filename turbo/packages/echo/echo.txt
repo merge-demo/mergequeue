@@ -4937,7 +4937,7 @@ endamaging
 estreated
 ericeticolous
 exilable
-effacer
+effacer 1
 emulsifiable
 embole
 endowed
