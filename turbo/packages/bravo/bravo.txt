@@ -1862,7 +1862,7 @@ bandaging
 berylloid
 bowlin
 bushranging
-bandanaed
+bandanaed 1
 battlepiece
 bilboes
 bollito
