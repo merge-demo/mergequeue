@@ -932,7 +932,7 @@ efreet
 ensisternal
 equipping
 endowments
-endorsements
+endorsements 1
 ectropium
 eluvia
 erogenesis
