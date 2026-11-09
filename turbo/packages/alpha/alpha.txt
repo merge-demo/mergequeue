@@ -4760,7 +4760,7 @@ alycompaine
 aeq
 agrypniai
 abaris
-aequi
+aequi 1
 ausgespielt
 aranein
 albuminimetry
