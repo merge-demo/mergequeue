@@ -24623,7 +24623,7 @@ chiggak
 cypripedium
 copingstone
 chaplainry
-copiosity
+copiosity 1
 copious
 copiousness
 conidae
