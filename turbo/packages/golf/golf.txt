@@ -10418,7 +10418,7 @@ geejee
 glareworm
 gimirrai
 guidecraft
-gutturalness
+gutturalness 1
 guttier
 gatecrashers
 gurgulation
