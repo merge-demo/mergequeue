@@ -8654,7 +8654,7 @@ antibishop
 agametes
 autistic
 anotropia
-anastomosis
+anastomosis 1
 autotheater
 angioparalytic
 amygdaloidal
