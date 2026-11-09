@@ -1324,7 +1324,7 @@ acetomorphine
 acauline
 accable
 accel
-accelerable
+accelerable 1
 animalizing
 accelerando
 analgize
