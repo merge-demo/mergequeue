@@ -11683,7 +11683,7 @@ felids
 finikin
 flare
 flyleaves
-fagaceous
+fagaceous 1
 faced
 fibrinogenically
 flippancy
