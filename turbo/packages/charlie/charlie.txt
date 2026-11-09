@@ -6802,7 +6802,7 @@ celioscope
 cella
 colporrhaphy
 cellarage
-cellared
+cellared 1
 chamoix
 cellaress
 chanceable
