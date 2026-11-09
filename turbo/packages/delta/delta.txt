@@ -8343,7 +8343,7 @@ dioestrum
 disincline
 depredation
 disvouch
-decalobate
+decalobate 1
 dromed
 decigrams
 doricize
