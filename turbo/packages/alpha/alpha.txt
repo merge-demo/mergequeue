@@ -15469,7 +15469,7 @@ argenton
 adjurations
 alogical
 apocopic
-aureolae
+aureolae 1
 antimechanistically
 aircrew
 antimechanization
