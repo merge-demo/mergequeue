@@ -2443,7 +2443,7 @@ darghin
 denizenize
 disimprisonment
 dissipable
-dietetist
+dietetist 1
 designs
 decyne
 drydenian
