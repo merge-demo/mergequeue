@@ -11531,7 +11531,7 @@ dements
 dyspnoi
 drees
 dispassionately
-defrocks
+defrocks 1
 disconectae
 dosology
 deglamorize
