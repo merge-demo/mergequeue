@@ -12388,7 +12388,7 @@ experient
 eyer
 elocutioner
 ergometer
-extinctions
+extinctions 1
 effude
 epapillate
 enjoyments
