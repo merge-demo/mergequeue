@@ -11971,7 +11971,7 @@ disenchantments
 disenchantress
 derned
 depluming
-disencharm
+disencharm 1
 doctrix
 disenclose
 daint
