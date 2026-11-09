@@ -8675,7 +8675,7 @@ favoress
 flattens
 fame
 faciendum
-forgive
+forgive 1
 flotage
 fizzing
 filii
