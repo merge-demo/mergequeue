@@ -12707,7 +12707,7 @@ arsenicize
 abroad
 angelate
 angeleen
-airsick
+airsick 1
 angelet
 angelfishes
 arreptitious
