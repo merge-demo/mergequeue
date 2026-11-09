@@ -8255,7 +8255,7 @@ forgett
 feldspars
 foreboding
 fistulated
-fulltime
+fulltime 1
 feckly
 fructuose
 forgettably
