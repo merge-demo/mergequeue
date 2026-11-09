@@ -4073,7 +4073,7 @@ gentleman
 gratifications
 gibboseness
 gendarmery
-gim
+gim 1
 gambolling
 groining
 gletscher
