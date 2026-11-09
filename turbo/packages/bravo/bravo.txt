@@ -13598,7 +13598,7 @@ boulework
 blinded
 buffoonism
 boulimia
-berate
+berate 1
 bornyl
 biurate
 besand
