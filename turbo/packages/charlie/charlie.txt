@@ -19979,7 +19979,7 @@ canfieldite
 canoodled
 commandos
 colove
-cofferlike
+cofferlike 1
 commandry
 cachinnated 1
 caudata
