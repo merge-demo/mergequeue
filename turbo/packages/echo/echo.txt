@@ -1500,7 +1500,7 @@ empyesis
 endophytous
 egad
 encyclopediac
-entomophilous
+entomophilous 1
 egalitarians
 evected
 egality
