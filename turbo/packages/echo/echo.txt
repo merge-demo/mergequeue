@@ -4617,7 +4617,7 @@ endoabdominal
 eulogical
 empyreumatical
 ectostosis
-epileptiform
+epileptiform 1
 epithalamiums
 enajim
 exercite
