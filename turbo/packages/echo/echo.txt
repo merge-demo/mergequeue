@@ -631,7 +631,7 @@ eclamptic
 efficacious
 extuberate
 epizoites
-egest
+egest 1
 ecstatics
 eclating
 excitancy
