@@ -4744,7 +4744,7 @@ fashery
 fife
 forerank 1
 faldfee
-forthink
+forthink 1
 fablemongering
 forestry
 flo
