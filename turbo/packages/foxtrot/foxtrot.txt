@@ -9264,7 +9264,7 @@ fungate
 frangipani
 frizers
 framea
-framer
+framer 1
 frames
 forename
 footmenfootpad
