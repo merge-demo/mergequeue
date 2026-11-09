@@ -12617,7 +12617,7 @@ embassage
 exogen
 earldom
 encratism
-exogenously
+exogenously 1
 examplar
 exogyra
 enterogram
