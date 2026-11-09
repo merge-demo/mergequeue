@@ -502,7 +502,7 @@ flaneries
 fungi
 fohns
 formicariidae
-foretokens
+foretokens 1
 frieseite
 fiumara
 forcleave
