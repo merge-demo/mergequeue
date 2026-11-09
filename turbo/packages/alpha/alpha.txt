@@ -1322,7 +1322,7 @@ amidships
 acaulescent
 acetomorphine
 acauline
-accable
+accable 1
 accel
 accelerable
 animalizing
