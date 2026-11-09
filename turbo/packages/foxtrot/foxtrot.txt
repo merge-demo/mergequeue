@@ -5988,7 +5988,7 @@ frere
 fluidizing
 folkways
 foreplays
-frenzic
+frenzic 1
 fluidrachm
 fireproof
 foliole
