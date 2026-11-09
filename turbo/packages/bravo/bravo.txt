@@ -4080,7 +4080,7 @@ bestiaries
 bearbaiter
 bedmaking
 blearedness
-beriberi
+beriberi 1
 bioclimatology
 betoil
 boyishness
