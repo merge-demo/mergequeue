@@ -13489,7 +13489,7 @@ epidural
 episiorrhagia
 exsanguinating
 epagoge
-exauthorize
+exauthorize 1
 exposing
 ethmoidal
 eudaemonic
