@@ -15582,7 +15582,7 @@ doomer
 danakil
 decerning
 disconnections
-dissentaneousness
+dissentaneousness 1
 digor
 doomsayer
 dictaen
