@@ -10465,7 +10465,7 @@ formular
 fidged
 faceplate
 frostfish
-forcite
+forcite 1
 frostbitten
 frosty
 frictionable
