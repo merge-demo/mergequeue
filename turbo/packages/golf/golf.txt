@@ -1022,7 +1022,7 @@ gloriette
 galvanoscopy
 geodist
 gothicize
-grasp
+grasp 1
 gravelled
 golp
 glanced
