@@ -4680,7 +4680,7 @@ flaunched
 flections
 flexibilities
 frighten
-fragrantly
+fragrantly 1
 foreallege
 foreby
 fructescence
