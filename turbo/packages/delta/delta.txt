@@ -14349,7 +14349,7 @@ diureses
 diuresis
 difficile
 democratical
-divagatory
+divagatory 1
 diureticalness
 dialyzed
 dodger
