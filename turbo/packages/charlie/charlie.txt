@@ -10665,7 +10665,7 @@ chymes
 caseoses
 ctenophorous
 coprolite
-chymia
+chymia 1
 chymics
 calic
 chymify
