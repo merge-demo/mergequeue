@@ -4405,7 +4405,7 @@ delegable
 dualizing
 digenous
 demele
-dirled
+dirled 1
 demembre
 dastur
 disassembled
