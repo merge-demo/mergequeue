@@ -28835,7 +28835,7 @@ confiserie
 carvacrol
 clinostat
 congrue
-churchwards
+churchwards 1
 crestline
 creta
 counterorator
