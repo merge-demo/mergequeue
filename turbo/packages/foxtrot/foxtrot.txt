@@ -8297,7 +8297,7 @@ fishling
 futilize
 freestyler
 fusspots
-forepole
+forepole 1
 foregame
 fountaining
 foursome
