@@ -8083,7 +8083,7 @@ gladiatorial
 gentlewoman
 granivore
 gybes
-gribane
+gribane 1
 goniotropous
 gamone 1
 gaiters
