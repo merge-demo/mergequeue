@@ -21126,7 +21126,7 @@ ascophore
 alfas
 aclydes
 arkoses
-anax
+anax 1
 ascothoracica
 acritude
 aerographer
