@@ -1205,7 +1205,7 @@ educationist
 eurypyga
 embolum
 excommune
-endogamic
+endogamic 1
 eatche
 ephesians
 educatress
