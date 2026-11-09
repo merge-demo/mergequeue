@@ -11224,7 +11224,7 @@ fennecs
 foreday
 farsang
 furzed
-funiculars
+funiculars 1
 funiform
 fount
 false

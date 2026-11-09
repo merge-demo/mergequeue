@@ -16350,7 +16350,7 @@ douras
 dispersal
 derelictions
 drainable
-downstate
+downstate 1
 dolmens
 dissimulating
 duplation

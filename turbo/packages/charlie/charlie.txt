@@ -6897,7 +6897,7 @@ calor
 closefisted
 cembalo
 cembalon
-curiousnesses
+curiousnesses 1
 chrome
 caecostomy
 cement
