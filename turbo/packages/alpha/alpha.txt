@@ -15205,7 +15205,7 @@ antifascist
 achromatised
 antifascists
 advertizable
-antifat
+antifat 1
 assyrian
 arabesques
 archontic
