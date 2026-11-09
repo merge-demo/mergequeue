@@ -10629,7 +10629,7 @@ doon
 discoveries
 dithionous
 diplopod
-diplopoda
+diplopoda 1
 discorrespondent
 delocalization
 dissociates
