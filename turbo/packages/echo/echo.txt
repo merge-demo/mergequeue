@@ -12684,7 +12684,7 @@ epibolism
 exenterating
 exophthalmus
 euonymus
-emboweling
+emboweling 1
 engramma
 epimorphism
 exareolate
