@@ -8295,7 +8295,7 @@ fosterage
 faultiness
 fishling
 futilize
-freestyler
+freestyler 1
 fusspots
 forepole
 foregame
