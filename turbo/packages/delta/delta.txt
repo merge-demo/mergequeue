@@ -12762,7 +12762,7 @@ dotardly
 drawfiling
 donative
 disloyalist
-decliner
+decliner 1
 disloyally
 disloyalty
 decrepity
