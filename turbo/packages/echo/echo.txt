@@ -1144,7 +1144,7 @@ eponymism
 encipherer
 equivalved
 eupatrid
-easefulness
+easefulness 1
 elasticness
 equatability
 encrown
