@@ -509,7 +509,7 @@ forcleave
 fakery
 funbre
 frisch
-friz
+friz 1
 fertilizing
 foreshock
 frenne
