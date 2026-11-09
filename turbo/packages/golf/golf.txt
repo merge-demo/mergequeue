@@ -4682,7 +4682,7 @@ gradely
 graecism
 grosbeaks
 girted
-galactoside
+galactoside 1
 guarapucu
 grego
 guaranteeship
