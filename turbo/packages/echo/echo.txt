@@ -7141,7 +7141,7 @@ embarment
 epistemonic
 eucaryote
 eglandulose
-extraequilibrium
+extraequilibrium 1
 enwallow
 excandescence
 earthshine
