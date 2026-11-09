@@ -1778,7 +1778,7 @@ eyesight
 enormities
 eparchs
 erinose
-entericoid
+entericoid 1
 epigraphical
 engravers
 entera
