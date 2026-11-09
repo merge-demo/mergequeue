@@ -5188,7 +5188,7 @@ elusive
 endolysin
 eparchy
 endurable
-eretrian
+eretrian 1
 ethologies
 equipluve
 equilibrate
