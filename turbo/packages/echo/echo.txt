@@ -4743,7 +4743,7 @@ establishments
 exploratory
 extracardial
 encloister
-easternizing
+easternizing 1
 extend
 emeried
 epencephalon
