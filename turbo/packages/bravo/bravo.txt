@@ -6597,7 +6597,7 @@ berets
 berewick
 banquettes
 bergamasche
-bergamask
+bergamask 1
 blastoma
 bronchia
 breathingly
