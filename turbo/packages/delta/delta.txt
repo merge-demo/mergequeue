@@ -2905,7 +2905,7 @@ disyllabizing
 decussoria
 decwriter
 deltoid
-divia
+divia 1
 dashel
 dedanite
 dedecorous
