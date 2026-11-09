@@ -1238,7 +1238,7 @@ fenders
 forewarner
 flexural
 flinched
-feodatory
+feodatory 1
 funkias
 formene
 furbishment

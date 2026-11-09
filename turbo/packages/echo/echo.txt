@@ -1471,7 +1471,7 @@ emphyteusis
 electroshocks
 exposal
 embolium
-embarrased
+embarrased 1
 empathic
 etui
 emeraude
