@@ -1585,7 +1585,7 @@ funning
 froufrous 1
 fopperies
 fortyfold
-flights
+flights 1
 feltwort
 farcelike
 frisca
