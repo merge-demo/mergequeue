@@ -17181,7 +17181,7 @@ apolista
 alaunt
 aproctia
 apollo
-apollonian
+apollonian 1
 author
 apollonic
 apology
