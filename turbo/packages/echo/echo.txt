@@ -681,7 +681,7 @@ embowment
 eubasidii
 elmiest
 enhance
-envier
+envier 1
 eclogic
 egressor
 eclogite
