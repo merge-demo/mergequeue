@@ -3586,7 +3586,7 @@ geopositive
 guidon
 glutinose
 guilt
-galvanic
+galvanic 1
 gyrocar
 greg
 gustus
