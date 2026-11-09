@@ -12907,7 +12907,7 @@ abysses
 antiquarianly
 angletwitch
 allays
-anglewise
+anglewise 1
 avenger
 asteraceous
 anglian
