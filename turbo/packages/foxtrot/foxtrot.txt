@@ -3156,7 +3156,7 @@ foreright
 fibrositis
 ferrugo
 furriest
-frenum
+frenum 1
 failingly
 fingerpost
 ferment

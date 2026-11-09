@@ -11987,7 +11987,7 @@ exclaims
 epitenon
 exclamative
 epithermally
-exclamatory
+exclamatory 1
 excavational
 expensed
 eryngium
