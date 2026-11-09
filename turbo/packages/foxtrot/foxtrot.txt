@@ -81,7 +81,7 @@ flunkeyhood
 flocklike
 filching
 faces
-folkright
+folkright 1
 flattening
 funny
 fiendish
