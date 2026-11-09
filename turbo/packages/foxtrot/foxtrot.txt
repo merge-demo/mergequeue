@@ -8439,7 +8439,7 @@ freethinking
 faintling
 fulminous
 fuliginousness
-francomania
+francomania 1
 fuze
 foredeserved
 formating
