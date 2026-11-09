@@ -12377,7 +12377,7 @@ andevo
 asphyxiant
 assisi
 andian
-automatable
+automatable 1
 andine
 angakut
 anding
