@@ -15025,7 +15025,7 @@ bungholes
 billitonite
 brechtian
 bunchberries
-bennettites
+bennettites 1
 burnut
 bredbergite
 bredes
