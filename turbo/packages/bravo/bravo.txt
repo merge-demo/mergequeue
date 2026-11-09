@@ -10518,7 +10518,7 @@ balanus
 bromal
 belligerent
 blastula
-boswellia
+boswellia 1
 blastulation
 blachong
 briton
