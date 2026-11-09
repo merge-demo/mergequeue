@@ -23703,7 +23703,7 @@ aurific
 aceology
 algorism
 auriflamme
-authorize
+authorize 1
 aurigerous
 aurigraphy
 aurotellurite
