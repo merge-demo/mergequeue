@@ -6421,7 +6421,7 @@ geostationary
 groundswell
 grieshoch
 girlchild
-goitral
+goitral 1
 guam
 gamboges
 galuth
