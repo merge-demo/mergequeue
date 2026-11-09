@@ -9115,7 +9115,7 @@ dyslexias
 didelphidae
 discursive
 dingdong
-disweapon
+disweapon 1
 didelphoid
 disinclines
 derisory
