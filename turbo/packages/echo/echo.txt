@@ -11184,7 +11184,7 @@ extrajudicial
 elver 1
 evanescible
 evanescing
-expilation
+expilation 1
 exostracism
 endover
 electrotonicity
