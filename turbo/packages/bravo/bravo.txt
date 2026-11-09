@@ -4144,7 +4144,7 @@ bowbells
 beastlier
 barkening
 brawled
-bartlemy
+bartlemy 1
 bowl
 beastlike
 bodywise
