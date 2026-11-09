@@ -11294,7 +11294,7 @@ eir
 ecurie
 equisurface
 enrank
-entirety
+entirety 1
 eagles
 exalbuminous
 epenthesize
