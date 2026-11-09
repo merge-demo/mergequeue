@@ -10371,7 +10371,7 @@ foundlings
 furrings
 fonctionnaire
 fecundities
-fertilizable
+fertilizable 1
 frontignan
 fucate
 fronting
