@@ -9860,7 +9860,7 @@ flanders
 fractionisation
 feria
 fundatorial
-flavanthrone
+flavanthrone 1
 fouettee
 fogeys
 forepointer
