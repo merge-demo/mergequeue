@@ -6214,7 +6214,7 @@ derivativeness
 dacoit
 derivedness
 dawks
-deriver
+deriver 1
 devotees
 disvaluation
 discontentment
