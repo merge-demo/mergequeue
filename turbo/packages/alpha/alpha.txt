@@ -4959,7 +4959,7 @@ apterygogenea
 acetometric
 awarding
 archdeacon
-astrogator
+astrogator 1
 aerolites
 avulsions
 admonitioner
