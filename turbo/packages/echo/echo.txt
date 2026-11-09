@@ -615,7 +615,7 @@ eurypharynx
 electrodialyze
 euro
 eciton
-eversions
+eversions 1
 entertained
 eclaircissement
 epeus
