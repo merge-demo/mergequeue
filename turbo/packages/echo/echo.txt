@@ -905,7 +905,7 @@ eschewing
 expeditionary
 enures
 emperies
-exsanguine
+exsanguine 1
 extrastate
 electromechanical
 episedia
