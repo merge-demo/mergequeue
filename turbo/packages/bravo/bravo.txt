@@ -314,7 +314,7 @@ backbite
 burgeon
 baize
 backbitingly
-bother
+bother 1
 backblow
 backboard
 benthamic
