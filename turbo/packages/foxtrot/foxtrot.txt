@@ -9105,7 +9105,7 @@ frauder
 fr
 flintlike 1
 furdle
-funambulated
+funambulated 1
 foo
 faulkner
 frizzers
