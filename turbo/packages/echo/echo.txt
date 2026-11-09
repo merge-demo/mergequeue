@@ -12424,7 +12424,7 @@ elegiac
 elevenths
 enclosure
 exchequer 1
-entreaty
+entreaty 1
 emotionalism
 ependyme
 existing
