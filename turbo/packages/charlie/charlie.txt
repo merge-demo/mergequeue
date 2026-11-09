@@ -21585,7 +21585,7 @@ cuff
 cyprians
 concurrencies
 concurrently
-cellarets
+cellarets 1
 corsepresent
 concrescible
 calyceraceous 1
