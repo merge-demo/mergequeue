@@ -2532,7 +2532,7 @@ amphikaryon 1
 abolitionists
 anchoretic
 aconative
-acondylose
+acondylose 1
 artisan
 abeyant
 aconelline
