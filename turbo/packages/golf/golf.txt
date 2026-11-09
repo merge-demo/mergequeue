@@ -2272,7 +2272,7 @@ genecologic
 glimpses
 geitonogamy
 gushy
-gonostyle
+gonostyle 1
 geomoroi
 grange
 granulosa
