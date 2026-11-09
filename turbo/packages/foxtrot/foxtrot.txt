@@ -10164,7 +10164,7 @@ friulian
 fibroadenia
 frizzy
 fastings
-fleishig
+fleishig 1
 formalism
 flint
 feebly
