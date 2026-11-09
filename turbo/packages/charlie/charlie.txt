@@ -9889,7 +9889,7 @@ chemosmotic
 consumptible
 choora
 corticoafferent
-crenate
+crenate 1
 calpacks
 caleches
 clays
