@@ -9310,7 +9310,7 @@ guidebook
 geodynamicist 1
 grapeline
 girnel
-gaure
+gaure 1
 guttera
 grudgingness
 generale
