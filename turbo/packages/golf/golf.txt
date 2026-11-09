@@ -1446,7 +1446,7 @@ generated
 gasalier
 gowks
 gamma
-gerousia
+gerousia 1
 garran
 gove
 gynocardia
