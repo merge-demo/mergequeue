@@ -6550,7 +6550,7 @@ graceless
 galls 1
 goma
 glossoplegia
-grins
+grins 1
 granduncles
 gromwell
 gleeman
