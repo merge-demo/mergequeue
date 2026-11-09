@@ -951,7 +951,7 @@ flightless
 faxing 1
 fosterer
 fleecers
-flueric
+flueric 1
 fumidity
 findal
 fibroadenoma
