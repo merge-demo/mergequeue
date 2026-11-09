@@ -6329,7 +6329,7 @@ fuzzy
 funicle
 flack
 futural
-fruitlets
+fruitlets 1
 finessed
 fixtureless
 fourb
