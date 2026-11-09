@@ -13399,7 +13399,7 @@ anywhen
 advertize
 ascill
 anywhence
-appurtenance
+appurtenance 1
 anywhither
 anywither
 anhalonium
