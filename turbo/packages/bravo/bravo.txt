@@ -141,7 +141,7 @@ boolian
 bacin
 byronize
 bourne
-banister
+banister 1
 basidiocarp
 biocoenosis
 beeheaded
