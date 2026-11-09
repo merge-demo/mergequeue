@@ -8228,7 +8228,7 @@ exonerates
 epilimnionia
 epistatic
 empyrosis
-epistaxis
+epistaxis 1
 epistemically
 extemporising
 enjoyingly
