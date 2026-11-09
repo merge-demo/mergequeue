@@ -11914,7 +11914,7 @@ epikeia
 epithelia
 equestrienne
 ericineous
-excessively
+excessively 1
 ecole
 endamebas 1
 exchanges
