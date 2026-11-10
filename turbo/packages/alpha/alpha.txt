@@ -1612,7 +1612,7 @@ albanian
 accoutres
 accredit
 argenteum
-accreditate
+accreditate 1
 accreditations
 absentmindedness
 autogenuous
