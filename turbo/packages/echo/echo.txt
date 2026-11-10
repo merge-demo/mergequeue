@@ -7197,7 +7197,7 @@ enderon
 erythropoietic
 electrotropic
 eupnoeas
-enthronize
+enthronize 1
 estradiot
 eyalet
 enzootics
