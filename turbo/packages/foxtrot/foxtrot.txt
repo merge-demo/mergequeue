@@ -10984,7 +10984,7 @@ filly
 foremilk
 firstborn
 finland
-firebolt
+firebolt 1
 fleshlier
 furmities
 floricin
