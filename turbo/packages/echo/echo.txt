@@ -5800,7 +5800,7 @@ exoplasm
 enterons
 encrinal
 episode
-enray
+enray 1
 ephoi
 effluvia
 environing
