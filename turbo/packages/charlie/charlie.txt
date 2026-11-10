@@ -16723,7 +16723,7 @@ clothiers
 clothings
 catharpin
 crimpling
-clots
+clots 1
 clottage
 chaconne
 clotted
