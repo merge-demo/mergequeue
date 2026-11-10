@@ -1648,7 +1648,7 @@ daunter
 discontinuance
 dicephalus
 darkhaired
-deerhair
+deerhair 1
 deallocations
 deprival
 decapsulation
