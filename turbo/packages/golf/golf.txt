@@ -1594,7 +1594,7 @@ gametogenesis
 gaunted
 giblet
 gastreas
-gyrinid
+gyrinid 1
 glassteel
 grimly
 grimines
