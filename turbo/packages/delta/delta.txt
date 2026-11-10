@@ -9894,7 +9894,7 @@ decretorial
 debarred
 dimethylsulphoxide
 dibatis
-dislock
+dislock 1
 dimethoxy
 donatistical
 dacelo
