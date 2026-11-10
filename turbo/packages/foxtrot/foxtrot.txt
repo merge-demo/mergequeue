@@ -1232,7 +1232,7 @@ fixator
 fissure
 foredoing
 frustrately
-firmitude
+firmitude 1
 frigidity
 fenders
 forewarner
