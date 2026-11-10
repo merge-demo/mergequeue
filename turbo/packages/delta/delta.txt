@@ -10455,7 +10455,7 @@ dipneust
 dismortgaged
 dimyarian
 dispost
-diphthongation
+diphthongation 1
 dilutedness
 dendrodra
 disordeine
