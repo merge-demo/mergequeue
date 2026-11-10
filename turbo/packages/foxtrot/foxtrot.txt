@@ -9665,7 +9665,7 @@ fulgorous
 fruit
 flipflop 1
 finalize
-foretoken
+foretoken 1
 faldstool
 fouquieria
 foldouts
