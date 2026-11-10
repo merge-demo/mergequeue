@@ -12030,7 +12030,7 @@ anthology
 aluminium
 anarchies
 analyzation
-affrights
+affrights 1
 adela
 astromancy
 anarchist
