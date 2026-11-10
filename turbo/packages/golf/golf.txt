@@ -9097,7 +9097,7 @@ gripper
 ganglionectomies
 girthline
 glutination
-gyres
+gyres 1
 guillemet
 gease
 graveyards
