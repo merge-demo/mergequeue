@@ -9530,7 +9530,7 @@ disemboweled
 disinfestation
 digitising
 desulphurise
-digitizing
+digitizing 1
 desorbed
 decimosexto
 downthrow 1
