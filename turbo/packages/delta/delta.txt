@@ -15373,7 +15373,7 @@ domiciles
 domiciliate
 domiciliated
 demineralizer
-detectivism
+detectivism 1
 distoma
 dissemblance
 decempedate
