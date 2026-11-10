@@ -7253,7 +7253,7 @@ eos
 earshot
 ectozoon
 eosate
-endurableness
+endurableness 1
 effigial
 eosinic
 ergatogynous
