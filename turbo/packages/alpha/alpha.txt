@@ -5849,7 +5849,7 @@ aphicidal
 adradial
 achaque
 agen
-asperness
+asperness 1
 achiote
 acculturizing
 archfelon
