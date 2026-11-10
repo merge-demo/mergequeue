@@ -512,7 +512,7 @@ frisch
 friz
 fertilizing
 foreshock
-frenne
+frenne 1
 filicite
 faking
 fumify
