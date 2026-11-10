@@ -9513,7 +9513,7 @@ cacochymia
 courtesies
 checkless
 checklist
-checkman
+checkman 1
 congruencies
 checkmate
 chirosophist
