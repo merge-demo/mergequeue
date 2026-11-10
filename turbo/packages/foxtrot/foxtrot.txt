@@ -6825,7 +6825,7 @@ fragmentizer
 foretold
 fasces
 fructifier
-foliaged
+foliaged 1
 fustigator
 fussify
 flipjack

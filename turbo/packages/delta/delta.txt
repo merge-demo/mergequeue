@@ -677,7 +677,7 @@ dampness
 dextrosuria
 diacetylene
 digestory
-deans
+deans 1
 dampproofing
 dyspepsy
 determinist
