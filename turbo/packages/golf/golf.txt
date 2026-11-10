@@ -9504,7 +9504,7 @@ gammoner
 gynophoric
 grandrelle
 goaves
-gravitations
+gravitations 1
 grouper
 garnisheing
 grisbet
