@@ -8277,7 +8277,7 @@ decempunctate
 disadvantageously
 dependancy
 dynamiting
-dispells
+dispells 1
 dagesh
 diplomas
 desonation
