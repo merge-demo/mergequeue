@@ -11193,7 +11193,7 @@ codomain
 cliquishness
 charquid
 chloranthus
-chlorate
+chlorate 1
 chlorcosane
 chlordans
 costotransversal
