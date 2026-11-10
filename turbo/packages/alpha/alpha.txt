@@ -5468,7 +5468,7 @@ amalgams
 atharvan
 arrange
 abstractionism
-assegai
+assegai 1
 ascher
 afrit
 attacher
