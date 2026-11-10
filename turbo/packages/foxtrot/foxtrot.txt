@@ -6990,7 +6990,7 @@ fondles
 fainter
 fumant
 flouncey
-flannels
+flannels 1
 fineries
 furnacing
 freemason
