@@ -1707,7 +1707,7 @@ enamel
 elephanta
 electrolyses
 earpieces
-echolocate
+echolocate 1
 enterosyphilis
 esthesiogenic
 embolon
