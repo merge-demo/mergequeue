@@ -7319,7 +7319,7 @@ blunter
 backage
 boletaceous
 bannet
-bigly
+bigly 1
 bugi
 bronzelike
 beneplacit
