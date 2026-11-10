@@ -14161,7 +14161,7 @@ encinctured
 eriobotrya
 emersonian
 eidoptometry
-extensive
+extensive 1
 enjoyer
 epiloia
 escamoteur
