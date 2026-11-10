@@ -4912,7 +4912,7 @@ glosses
 gigger
 growliness
 glaired
-geomaly
+geomaly 1
 gangway
 guvacoline 1
 gynecological
