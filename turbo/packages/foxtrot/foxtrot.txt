@@ -2462,7 +2462,7 @@ fornax
 ferruginated
 flowable
 fungal
-foliocellosis
+foliocellosis 1
 fairnesses
 firelocks
 fascinatedly
