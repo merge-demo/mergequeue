@@ -15361,7 +15361,7 @@ dikaryotic
 disencumbrance
 demicivilized
 deipara
-dorical
+dorical 1
 demoralisation
 domiciled
 domestic
