@@ -6203,7 +6203,7 @@ enological
 enterclose
 execs
 etagre
-ellipsoid
+ellipsoid 1
 erasure
 exodist
 enophthalmus
