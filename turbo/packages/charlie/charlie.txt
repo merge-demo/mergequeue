@@ -29609,7 +29609,7 @@ croche
 crocheter
 crocheteur
 codebook
-commutableness
+commutableness 1
 columbanian
 crociate
 crocidura
