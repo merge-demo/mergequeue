@@ -4188,7 +4188,7 @@ fumago
 filanders
 frier
 forecloses
-franchisor
+franchisor 1
 fining
 filaria
 fucaceae
