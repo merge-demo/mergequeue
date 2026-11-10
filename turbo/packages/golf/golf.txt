@@ -3787,7 +3787,7 @@ gelder
 geotactic
 giarre
 gastaldo
-governing
+governing 1
 geobios
 gallantry
 gibberellin
