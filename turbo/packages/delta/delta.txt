@@ -2808,7 +2808,7 @@ decrescent
 deknight
 droller
 decretalist
-despumating
+despumating 1
 debility
 dulcitude
 desalinization
