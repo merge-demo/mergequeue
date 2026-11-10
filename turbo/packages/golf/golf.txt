@@ -10746,7 +10746,7 @@ gangism
 graille
 gavage
 galloot
-gagers
+gagers 1
 groggy
 gustiest
 geocentrically
