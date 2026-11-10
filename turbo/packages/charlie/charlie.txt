@@ -7527,7 +7527,7 @@ canalisation
 cercus
 cerdonian 1
 cereal
-centrifugalizing
+centrifugalizing 1
 carrus
 changeability
 cervices
