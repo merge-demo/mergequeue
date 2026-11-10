@@ -30158,7 +30158,7 @@ crubeen
 cruce
 curs
 crucethouse
-canonise
+canonise 1
 crucial
 contraceptionist
 cruciality
