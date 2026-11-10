@@ -1891,7 +1891,7 @@ formatted
 fanback
 frisson
 fallacious
-flexional
+flexional 1
 falsifies
 fizzwater
 fecundator
