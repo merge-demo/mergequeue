@@ -6926,7 +6926,7 @@ cementoblast
 cementoma
 cements
 cementwork
-cemetaries
+cemetaries 1
 comate
 cemetery
 copesettic
