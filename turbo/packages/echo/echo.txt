@@ -5071,7 +5071,7 @@ endoceratidae
 extraneously
 endocervical
 eccentrically
-endochorion
+endochorion 1
 endochorionic
 engrains
 epodic
