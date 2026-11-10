@@ -1021,7 +1021,7 @@ ginnle
 gloriette
 galvanoscopy
 geodist
-gothicize
+gothicize 1
 grasp
 gravelled
 golp
