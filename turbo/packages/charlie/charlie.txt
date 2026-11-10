@@ -15267,7 +15267,7 @@ clarets
 clamming
 colpotomies
 clammyweed
-clamored
+clamored 1
 clamorer
 clamorers
 clamorist
