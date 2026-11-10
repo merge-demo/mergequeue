@@ -9436,7 +9436,7 @@ fitfulness
 faux
 furcae
 falconbill
-familial
+familial 1
 foeticide
 fico
 flamens
