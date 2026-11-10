@@ -1274,7 +1274,7 @@ eelworm
 epichlorohydrin
 extraditable
 ecorche
-eblis
+eblis 1
 eucairite
 eleonorite
 epinephrin
