@@ -6311,7 +6311,7 @@ flickerproof
 fistnote
 funori
 fettling
-fusionism
+fusionism 1
 futurable
 flumping
 fellows
