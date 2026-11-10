@@ -7594,7 +7594,7 @@ codewords
 cerebrose
 cryptozonate
 campanula
-chargers
+chargers 1
 calathisci
 calcarated
 cerebrospinal
