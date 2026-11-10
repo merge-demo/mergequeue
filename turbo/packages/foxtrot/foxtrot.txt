@@ -3533,7 +3533,7 @@ formant
 frightful
 foulsome
 fielding
-filamentary
+filamentary 1
 flannelleaves
 fishfall
 flagrancy
