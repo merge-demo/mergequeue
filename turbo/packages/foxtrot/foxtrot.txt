@@ -1659,7 +1659,7 @@ fied
 foreannounce
 fellowless
 forebush
-fipenny
+fipenny 1
 four
 fdnames
 farmhands
