@@ -5836,7 +5836,7 @@ aerugos
 ageing
 ardass
 albuminising
-assumptive
+assumptive 1
 archiannelida
 ageisms
 antiturnpikeism
