@@ -1233,7 +1233,7 @@ gambler
 gladys
 gonakie
 grackles
-gloominess
+gloominess 1
 guana
 gammadia
 glittered
