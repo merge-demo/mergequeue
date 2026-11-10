@@ -2537,7 +2537,7 @@ gobangs
 generalities
 grig
 grubbies
-gain
+gain 1
 genizero
 guilder
 gymnastic
