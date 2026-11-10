@@ -2988,7 +2988,7 @@ distriction
 deediness
 disengage
 diabolos
-deeding
+deeding 1
 directorates
 deedless
 depreciant
