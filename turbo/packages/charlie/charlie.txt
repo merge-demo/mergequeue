@@ -10323,7 +10323,7 @@ coprosterol
 chickories
 cowpoke
 cycloidei
-chickpea
+chickpea 1
 conspirator
 chickpeas
 cerer
