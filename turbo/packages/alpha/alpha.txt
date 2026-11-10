@@ -19860,7 +19860,7 @@ animalization 1
 aginner
 archthief
 araguato
-armhole
+armhole 1
 agnomen
 allotropes
 acapsular
