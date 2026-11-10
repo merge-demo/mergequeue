@@ -4525,7 +4525,7 @@ flammule
 filleul
 fuddles
 francophobia
-flagging
+flagging 1
 favissa
 forestalling
 farmlands
