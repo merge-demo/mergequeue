@@ -18757,7 +18757,7 @@ ammonobasic
 archdiplomatist
 archdivine
 azymous
-autonomy
+autonomy 1
 alginuresis
 appliqued
 agy
