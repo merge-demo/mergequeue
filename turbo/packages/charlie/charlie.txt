@@ -21045,7 +21045,7 @@ compulsitor
 coremiumia
 caramelan
 cypsela
-compunct
+compunct 1
 conjured
 crassilingual
 compunction
