@@ -7287,7 +7287,7 @@ emulous 1
 eimeria
 eurypygae
 enterpillar
-eat
+eat 1
 enigmatize
 encushion 1
 epagomenae
