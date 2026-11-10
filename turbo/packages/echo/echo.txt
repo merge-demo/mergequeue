@@ -100,7 +100,7 @@ earpick
 earpiece
 ectrogeny
 enchisel
-equiperiodic
+equiperiodic 1
 enmarble
 earreach
 engineership
