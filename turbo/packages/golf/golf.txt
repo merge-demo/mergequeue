@@ -3392,7 +3392,7 @@ gorkun
 galbe
 glaciable
 gipsyweed
-gyroscopic
+gyroscopic 1
 gainor
 gentiles
 gymnoceratous
