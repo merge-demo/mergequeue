@@ -3235,7 +3235,7 @@ distrainor
 defendant
 dir
 decorativeness
-defenestrating
+defenestrating 1
 danae
 dayside
 derricking
