@@ -1354,7 +1354,7 @@ cytodieresis
 calycles
 calycli
 cormophytic
-configurate
+configurate 1
 calycocarpum
 calicoes
 concur
