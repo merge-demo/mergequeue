@@ -3345,7 +3345,7 @@ commissariat
 coderives
 caponize
 crispate
-caponized
+caponized 1
 caponizer
 copyfitter
 caponizing
