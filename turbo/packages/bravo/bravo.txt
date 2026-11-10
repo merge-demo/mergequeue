@@ -17859,7 +17859,7 @@ balanites
 ballistocardiogram
 bus
 busaos
-bawsunt
+bawsunt 1
 bine
 busbar
 bedbugs
