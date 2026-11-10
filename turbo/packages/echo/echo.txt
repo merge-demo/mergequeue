@@ -6795,7 +6795,7 @@ entom
 extender
 episternalia
 evocativeness
-eumenes
+eumenes 1
 ectosarcs
 elix
 eikonogen
