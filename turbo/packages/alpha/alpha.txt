@@ -2734,7 +2734,7 @@ astringent
 arthrobranchia
 arriba
 antidysenteric
-arctiid
+arctiid 1
 any
 ambosexual
 ancistrodon
