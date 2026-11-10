@@ -2481,7 +2481,7 @@ ebony
 epicleses
 enterochromaffin
 endexines
-emotionalise
+emotionalise 1
 electroing
 eluviate
 entrefer
