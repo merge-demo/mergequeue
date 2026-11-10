@@ -71,7 +71,7 @@ fenchone
 flagships
 flecken
 facellite
-felonious
+felonious 1
 furthers
 flysch
 fordeal
