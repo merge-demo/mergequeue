@@ -9554,7 +9554,7 @@ electroviscous
 evacuees
 eyesalve
 exannulate
-endosmotic
+endosmotic 1
 enchytraeidae
 emigree
 euchromatic
