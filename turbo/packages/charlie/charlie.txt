@@ -11920,7 +11920,7 @@ chorometry
 cozenage
 coaggregated
 confabulating
-confarreate
+confarreate 1
 choriambus
 choric
 chorines
