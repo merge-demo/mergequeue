@@ -2273,7 +2273,7 @@ barbarization
 boucle
 begoggled
 blocky
-brigid
+brigid 1
 bijective
 bioecology
 birdclapper
