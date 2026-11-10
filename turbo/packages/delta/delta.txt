@@ -8278,7 +8278,7 @@ disadvantageously
 dependancy
 dynamiting
 dispells
-dagesh
+dagesh 1
 diplomas
 desonation
 digitation
