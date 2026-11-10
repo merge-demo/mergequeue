@@ -7925,7 +7925,7 @@ geophagia
 generalist
 gouged
 geochemistry
-graphitoidal
+graphitoidal 1
 granary
 greases
 glecoma
