@@ -11812,7 +11812,7 @@ epileptics
 eplot
 externization
 enviably
-ejectives
+ejectives 1
 electromagnetically
 equibalance
 epirrhematic
