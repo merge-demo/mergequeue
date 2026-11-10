@@ -13683,7 +13683,7 @@ exteriorness
 espec
 emotionlessness
 etiotropic
-eurygnathic
+eurygnathic 1
 exterminatrix
 extraconscious
 edaphosauria
