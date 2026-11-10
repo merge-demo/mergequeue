@@ -2392,7 +2392,7 @@ discommendable
 disdain
 deciduously
 dessertspoonful
-dimercuric
+dimercuric 1
 decyl
 deciles
 decylic
