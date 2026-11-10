@@ -958,7 +958,7 @@ departed
 dizzardly
 dinarchy
 dardan
-desists
+desists 1
 dodecastyle
 doctors
 dreidel
