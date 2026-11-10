@@ -6251,7 +6251,7 @@ galactosan
 goatsbeard
 guestimate
 gavotting
-galloway
+galloway 1
 glue
 glucosidase
 gonne
