@@ -13192,7 +13192,7 @@ embale
 expires
 esteemable
 eastertide
-encephala
+encephala 1
 echinite
 empyreal
 expressibility
