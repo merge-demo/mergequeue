@@ -7760,7 +7760,7 @@ cerulean
 ceruleans
 cerulein
 cache
-ceruleite
+ceruleite 1
 contg
 ceruleolactite
 cravenette
