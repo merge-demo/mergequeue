@@ -10012,7 +10012,7 @@ electrode
 eurhythmical
 encollar
 electrodiagnostically
-extrorsal
+extrorsal 1
 electrodiagnostic
 expellable
 ethanal
