@@ -14913,7 +14913,7 @@ anticipative 1
 attensity
 activeness
 antinepotic
-abnormality
+abnormality 1
 antliate
 angeles
 anticyclically
