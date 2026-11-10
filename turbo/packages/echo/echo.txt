@@ -3975,7 +3975,7 @@ ecumene
 emparchment
 exaltative
 enruin
-expiations
+expiations 1
 embarrassingly
 edictum
 enfolded
