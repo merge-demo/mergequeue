@@ -19799,7 +19799,7 @@ armadas
 agrologies
 acetylide
 anhydridize
-adjudger
+adjudger 1
 archplotter
 armadillos
 astrocyte
