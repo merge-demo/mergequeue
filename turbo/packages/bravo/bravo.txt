@@ -4528,7 +4528,7 @@ bosons
 bilixanthin
 bakongo
 becuiba
-becurl
+becurl 1
 bondland
 betokenment
 bogatyr
