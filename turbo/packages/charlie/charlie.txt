@@ -25959,7 +25959,7 @@ cacoeconomy
 convolute
 colley
 coruco
-circuitousness
+circuitousness 1
 chlamydoselachus
 corve
 cousiny
