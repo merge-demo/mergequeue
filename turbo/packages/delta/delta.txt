@@ -15270,7 +15270,7 @@ discovery
 dolomite
 derries
 dose
-dolomitic
+dolomitic 1
 disgracing
 descriptives
 dorididae
