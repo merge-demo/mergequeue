@@ -11663,7 +11663,7 @@ dimethylanthranilate
 daubiest
 disjunction
 dele
-discouraged
+discouraged 1
 discouragingly
 dangerful
 diastasis
