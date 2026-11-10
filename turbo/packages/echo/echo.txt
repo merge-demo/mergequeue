@@ -5212,7 +5212,7 @@ endopelvic
 encyclopaedist
 endoperidium
 epoptes
-endophagous
+endophagous 1
 ephebeion
 ethnicity
 episiocele
