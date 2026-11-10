@@ -25068,7 +25068,7 @@ coredeems
 coree
 coreflexed
 chinked
-coregency
+coregency 1
 coregent
 courtlet
 coregnancy
