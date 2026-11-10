@@ -116,7 +116,7 @@ goldthread 1
 glassily
 gladsomely
 greengill
-gofferer
+gofferer 1
 geezer
 gluers
 gujerat
