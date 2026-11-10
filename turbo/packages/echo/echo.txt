@@ -11638,7 +11638,7 @@ epitaphical
 exacting
 electroirrigation
 eruca
-eburnian
+eburnian 1
 enfire
 exactitude
 electrohydraulic
