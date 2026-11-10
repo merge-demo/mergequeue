@@ -2402,7 +2402,7 @@ druidry
 destituent
 doodads
 dodecane
-dispelled
+dispelled 1
 donny
 dripstick
 disaffects
