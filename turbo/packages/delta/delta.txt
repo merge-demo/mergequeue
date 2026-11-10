@@ -18146,7 +18146,7 @@ dietic
 dock
 diplocardia
 domiciliation
-dumosity
+dumosity 1
 divaricately
 destructionism
 driveaway
