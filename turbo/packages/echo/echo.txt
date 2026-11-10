@@ -9055,7 +9055,7 @@ epifaunae
 erythrocytoblast
 explanate
 epizooty
-ebbets
+ebbets 1
 equalize
 emptier
 erythrocytolysis
