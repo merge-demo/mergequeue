@@ -12235,7 +12235,7 @@ disgorged
 disendowed
 drawing
 distrusting
-degreasing
+degreasing 1
 diazomethane
 disgospel
 diminuendos
