@@ -15902,7 +15902,7 @@ deoculate
 dormition
 devilwood
 derecho
-dims
+dims 1
 distileries
 dossmen
 dissemblies
