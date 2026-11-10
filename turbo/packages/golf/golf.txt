@@ -6371,7 +6371,7 @@ gorilline
 gastrotrich
 grenado
 given
-galere
+galere 1
 getspace
 goldspink
 glimmered
