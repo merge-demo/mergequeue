@@ -861,7 +861,7 @@ devoicing
 dowered
 deaerates
 disorchard
-dankishness
+dankishness 1
 discardable 1
 delesseria
 developability
