@@ -9952,7 +9952,7 @@ climactically
 chenfish
 chenille
 cascado
-consumable
+consumable 1
 chenopod
 colocasia
 catacombic
