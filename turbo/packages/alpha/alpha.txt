@@ -22389,7 +22389,7 @@ autoscopy
 accreting
 astrodome
 apikorsim
-astrogating
+astrogating 1
 agreeing
 admitter
 anna
