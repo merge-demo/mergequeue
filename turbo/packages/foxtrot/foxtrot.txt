@@ -2849,7 +2849,7 @@ formol
 feltyfare
 fisty
 finable
-foresails
+foresails 1
 figworm
 fiedlerite
 fettered
