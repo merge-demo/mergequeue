@@ -14018,7 +14018,7 @@ elderbrotherly
 extrasocial
 ectophyte
 enripen
-escars
+escars 1
 embittered
 emulsin
 emmet
