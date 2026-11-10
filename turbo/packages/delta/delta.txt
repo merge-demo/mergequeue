@@ -11115,7 +11115,7 @@ dyslectic
 doeg
 decciare
 danite
-dismask
+dismask 1
 defectibility
 devvel
 dyeline
