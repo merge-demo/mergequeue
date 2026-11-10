@@ -4099,7 +4099,7 @@ goosemouth
 gaulic
 graduals 1
 gamekeeper
-gaufer
+gaufer 1
 gudget 1
 glorification
 goneoclinic
