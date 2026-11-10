@@ -2571,7 +2571,7 @@ declensions
 decretist
 declimatize
 driblets
-declinational
+declinational 1
 dipneumones
 dimmed
 declinatory
