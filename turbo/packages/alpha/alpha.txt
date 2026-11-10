@@ -11444,7 +11444,7 @@ ampullary
 ampullate
 aqueoigneous
 amphioxus
-ampulliform
+ampulliform 1
 affrightfully
 ampullula
 amputate
