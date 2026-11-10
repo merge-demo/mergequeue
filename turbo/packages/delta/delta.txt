@@ -1895,7 +1895,7 @@ debouche
 dupery
 disbench
 disconcertingness
-digladiator
+digladiator 1
 discourse
 debouchment
 diarial
