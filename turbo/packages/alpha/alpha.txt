@@ -20166,7 +20166,7 @@ arraignment
 aurophobia
 allolalia
 atomy
-arraigns
+arraigns 1
 apharsathacites
 arraying
 arrays
