@@ -30406,7 +30406,7 @@ crustier
 centaurial
 crustific
 crustily
-chemosorption
+chemosorption 1
 crustose
 choloid
 coroutine
