@@ -3151,7 +3151,7 @@ caper
 caperbush
 capercaillie
 chaulmoogric
-colored
+colored 1
 capercut
 combustibles
 citify
