@@ -7371,7 +7371,7 @@ divestment
 demeritorious
 detinet
 daising
-decriminalizes
+decriminalizes 1
 deflagration
 dislive
 detinues
