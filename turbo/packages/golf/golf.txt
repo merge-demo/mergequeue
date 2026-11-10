@@ -2562,7 +2562,7 @@ gibber
 guillotined
 grassed
 gallamine
-gargling
+gargling 1
 gametogeny
 globiferous
 generant
