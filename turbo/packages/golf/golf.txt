@@ -5045,7 +5045,7 @@ groused
 golconda
 gecarcinus
 gastrogenital
-gustful
+gustful 1
 gularis
 garland
 ganged
