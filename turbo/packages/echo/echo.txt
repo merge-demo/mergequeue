@@ -5405,7 +5405,7 @@ ectene
 excantation
 endpoints
 endrudge
-extrabulbar
+extrabulbar 1
 eyewort
 ecderonic
 endseal
