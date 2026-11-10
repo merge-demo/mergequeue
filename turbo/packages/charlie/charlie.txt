@@ -14309,7 +14309,7 @@ condescend
 circumscribed
 collapsed
 circumsession
-cardinally
+cardinally 1
 circumsinous
 circumsolar
 collow
