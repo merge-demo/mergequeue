@@ -2253,7 +2253,7 @@ definitized
 defuzes
 distractibility
 dustbox
-determinative
+determinative 1
 decelerates
 dentolabial
 decembrist
