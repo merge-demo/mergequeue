@@ -1547,7 +1547,7 @@ freely
 faurd
 foreseat
 feedbox
-flippant
+flippant 1
 fer
 fanfaron
 foulish
