@@ -1410,7 +1410,7 @@ diligentia 1
 disintegrable
 dulcid
 dechoralize
-deportation
+deportation 1
 dawdling
 dibbed
 dryster
