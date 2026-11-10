@@ -19057,7 +19057,7 @@ collidin
 cetacea
 cepous
 collier
-cordel
+cordel 1
 circuli
 cuprite
 chariots
