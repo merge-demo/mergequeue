@@ -3303,7 +3303,7 @@ coherald
 capmaking
 combatter
 capnoides
-clipping
+clipping 1
 creaker
 colonizes
 capnomancy
