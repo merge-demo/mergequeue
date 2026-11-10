@@ -7423,7 +7423,7 @@ entanglement
 ebulliate
 endogenously
 extraperiodic
-extracurricular
+extracurricular 1
 elohimic
 enfile
 erratical
