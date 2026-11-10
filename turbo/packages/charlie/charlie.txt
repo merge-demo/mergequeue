@@ -17040,7 +17040,7 @@ coabode
 colliquative
 cynogale
 coabound
-coabsume
+coabsume 1
 cytodieretic
 coacceptor
 coacervate
