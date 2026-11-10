@@ -23480,7 +23480,7 @@ contemptibleness
 contemptibly
 contempts
 cygnet
-contemptuous
+contemptuous 1
 contemptuously
 cruelty
 cholecystocolotomy
