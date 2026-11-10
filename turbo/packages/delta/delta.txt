@@ -8454,7 +8454,7 @@ diamat
 dermochrome
 dorbug
 diambic
-devex
+devex 1
 diamegnetism
 diazepam
 diamesogamous
