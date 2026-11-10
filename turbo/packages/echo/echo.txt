@@ -13510,7 +13510,7 @@ endangeitis
 epigrapher
 elinor
 equipollence
-ectosteal
+ectosteal 1
 examine
 elephantous
 erotology
