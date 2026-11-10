@@ -3843,7 +3843,7 @@ fairhead
 fisticuffer
 furthermore
 fineless
-fract
+fract 1
 fiberglas
 formicary
 fiberscope
