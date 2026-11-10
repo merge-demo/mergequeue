@@ -7516,7 +7516,7 @@ dehgan
 deuteranope
 deuteration
 denucleate
-demarcator
+demarcator 1
 derogatorily
 desulfurized
 digitalizing
