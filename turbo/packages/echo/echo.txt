@@ -8226,7 +8226,7 @@ elephantiasic
 epipharyngeal
 exonerates
 epilimnionia
-epistatic
+epistatic 1
 empyrosis
 epistaxis
 epistemically
