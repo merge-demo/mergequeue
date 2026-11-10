@@ -5536,7 +5536,7 @@ gently
 gump
 grassfinch
 griefs
-gauffers
+gauffers 1
 grenat
 guttiferous
 germinally
