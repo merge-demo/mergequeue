@@ -7369,7 +7369,7 @@ erythrina
 electrolytical
 exuviate
 encloses 1
-exonship
+exonship 1
 epithetical
 everywhither
 earthmoving
