@@ -3885,7 +3885,7 @@ breadline
 baxtone
 baumhauerite
 brachyskelic
-boughten
+boughten 1
 begray
 bazars
 bint
