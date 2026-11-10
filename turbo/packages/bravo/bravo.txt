@@ -4586,7 +4586,7 @@ bloodstone
 belial
 biddelian
 blocker
-beats
+beats 1
 bedazement
 bigeminate
 bedazzle
