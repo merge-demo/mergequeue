@@ -1529,7 +1529,7 @@ egoisticalness
 evoke
 embow
 engloom
-emarginately
+emarginately 1
 epistolographer
 easies
 exhale
