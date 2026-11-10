@@ -2641,7 +2641,7 @@ epigastrial
 esoterica
 eiry
 entad
-exemplarity
+exemplarity 1
 electrosmosis
 excelling
 exegetist
