@@ -6435,7 +6435,7 @@ glassman
 glossotherium
 glutter
 gobiesocid
-geostrophic
+geostrophic 1
 gymnocladus
 grows
 geegaws
