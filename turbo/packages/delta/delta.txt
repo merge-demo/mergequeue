@@ -2524,7 +2524,7 @@ deligation
 demieagle
 discomorula
 drinkproof
-deconsecration
+deconsecration 1
 doglegged
 druith
 ditheism
