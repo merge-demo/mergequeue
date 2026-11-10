@@ -10786,7 +10786,7 @@ bienvenu
 boul
 bavin
 baulkier
-betokener
+betokener 1
 birthrate
 blocks
 bromiodide
