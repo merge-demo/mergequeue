@@ -7947,7 +7947,7 @@ fluidifier
 formoxime
 facundity
 filicidal
-foreshortened
+foreshortened 1
 fenerate
 fozier
 foolishly
