@@ -14422,7 +14422,7 @@ deindividuate
 damper
 doctus
 datedness
-depreciatory
+depreciatory 1
 demeter
 diversory
 disfiguringly
