@@ -18550,7 +18550,7 @@ durity
 dekalitre
 durmast
 dirging
-durndest
+durndest 1
 dorsales
 duny
 deraignment
