@@ -10466,7 +10466,7 @@ brookite
 blaster
 blastid
 blart
-blasting
+blasting 1
 borolanite
 blastings
 blastocele
