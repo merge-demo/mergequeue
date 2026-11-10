@@ -10187,7 +10187,7 @@ gearwheels 1
 gizzen
 glaucium
 goalies
-gladiolar
+gladiolar 1
 guids
 guidwife
 groundly
