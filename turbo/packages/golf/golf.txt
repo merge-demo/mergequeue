@@ -6687,7 +6687,7 @@ garce
 guarnieri
 gumboils 1
 gastropancreatic
-gawk
+gawk 1
 genuflected
 goniatites
 garterless
