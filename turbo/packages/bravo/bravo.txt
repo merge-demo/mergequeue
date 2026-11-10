@@ -6669,7 +6669,7 @@ berkelium
 berkovtsi
 bisected
 buckraming
-bedull
+bedull 1
 bayesian
 browsability
 bismuthine
