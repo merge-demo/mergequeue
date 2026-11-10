@@ -25237,7 +25237,7 @@ azelaic
 antical
 aciduria
 azeotrope
-attenuates
+attenuates 1
 alveoloclasia
 abstrict
 azeotropic
