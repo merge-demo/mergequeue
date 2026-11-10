@@ -1564,7 +1564,7 @@ antidrag
 accorporation
 antilogism
 anglicizes
-accost
+accost 1
 arbuscule
 aecidium
 autogeneses
