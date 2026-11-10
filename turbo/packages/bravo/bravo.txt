@@ -12871,7 +12871,7 @@ bifoil
 birthplace
 bg
 besieges
-befanned
+befanned 1
 bacchiac
 bangster
 butterfly
