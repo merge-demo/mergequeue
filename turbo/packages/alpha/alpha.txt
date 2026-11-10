@@ -13056,7 +13056,7 @@ abbreviating
 aluniferous 1
 aeroballistics
 arrowy
-artefacts
+artefacts 1
 agglomeratic
 anhedral
 anhelation
