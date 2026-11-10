@@ -8944,7 +8944,7 @@ drifter 1
 dom
 daughtership
 duellize
-desirably
+desirably 1
 despraise
 demographic
 demonstrably
