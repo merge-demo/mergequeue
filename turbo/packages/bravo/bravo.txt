@@ -3788,7 +3788,7 @@ bauch
 baboon
 bazzite
 browsing
-bescorched
+bescorched 1
 bristlecone
 beerish
 benzole
