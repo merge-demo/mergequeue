@@ -19946,7 +19946,7 @@ commandedness
 coelacanthine
 commandeer
 corbeling
-commandeers
+commandeers 1
 chromolithographer
 crosstoes
 commandery
