@@ -7492,7 +7492,7 @@ fillip
 fogou
 forgivably
 fends
-foreassurance
+foreassurance 1
 forecabin
 feedingstuff
 forebay
