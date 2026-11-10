@@ -8026,7 +8026,7 @@ aprilis
 argan
 ampheclexis
 alew
-acrimoniousness
+acrimoniousness 1
 apatite
 acromiothoracic
 anemometry
