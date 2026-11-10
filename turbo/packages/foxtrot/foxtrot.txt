@@ -1470,7 +1470,7 @@ filago
 fireside
 faubourgs
 fingerlike
-focussing
+focussing 1
 fistulose
 forestial
 featly
