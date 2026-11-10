@@ -1735,7 +1735,7 @@ feasibly
 fashionmonger
 flighted
 fascio
-floats
+floats 1
 filicin
 fortravail
 fibrocyte
