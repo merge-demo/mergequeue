@@ -1766,7 +1766,7 @@ gutterblood
 guttee
 gelatinotype
 grippelike
-ghyll
+ghyll 1
 glutinate
 gestalten
 granodioritic
