@@ -8631,7 +8631,7 @@ farstepped
 furthering
 frictionproof
 faintest
-frousty
+frousty 1
 forgivable
 footing
 flaunt
