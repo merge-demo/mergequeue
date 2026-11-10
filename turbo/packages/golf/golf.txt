@@ -5260,7 +5260,7 @@ garnets
 guitarfish
 gliadine
 galvanism
-geomedicine
+geomedicine 1
 gymnogenous
 gurish
 girondist
