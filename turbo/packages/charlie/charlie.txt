@@ -13067,7 +13067,7 @@ conjugacy
 curtailments
 cibola
 cibolero
-cibols
+cibols 1
 cimicidae
 columnea
 ciboney
