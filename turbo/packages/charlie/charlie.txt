@@ -2907,7 +2907,7 @@ cantaloup
 cantaloupes
 catboat
 cantando
-cantankerous
+cantankerous 1
 copatain
 chapelries
 capsizable
