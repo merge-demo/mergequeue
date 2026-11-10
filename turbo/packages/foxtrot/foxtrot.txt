@@ -6055,7 +6055,7 @@ floriation
 freet
 fertilize
 frizz
-farting
+farting 1
 flavorfulness
 fractionated
 fungiform
