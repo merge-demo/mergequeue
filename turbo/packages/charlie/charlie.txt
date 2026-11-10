@@ -4988,7 +4988,7 @@ cartouche
 curmudgeon
 cust
 costrel
-chiclero
+chiclero 1
 canalman
 cryptovolcanic
 conceptuality
