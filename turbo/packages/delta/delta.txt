@@ -6378,7 +6378,7 @@ diplotene
 disassociation
 dorsiventral
 derodidymus
-daleth
+daleth 1
 derog
 demeanour
 doronicum
