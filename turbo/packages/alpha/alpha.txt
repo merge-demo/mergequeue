@@ -21745,7 +21745,7 @@ abridgments
 altitude
 anniv
 antrocele
-assembler
+assembler 1
 assemblyman
 aerohydrotherapy
 antiperistatical
