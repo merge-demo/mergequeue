@@ -11144,7 +11144,7 @@ chlamyd
 chlamydate
 cantion
 chlamydobacteriales
-clamours
+clamours 1
 chlamydosaurus
 chlamydozoan
 chlamyphore
