@@ -11322,7 +11322,7 @@ aperitifs
 actuated
 administratorship
 acropodium
-amphisbaenas
+amphisbaenas 1
 accordable
 amphisbaenoid
 abri
