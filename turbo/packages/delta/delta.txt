@@ -15652,7 +15652,7 @@ drossed
 determine
 dopchick 1
 dopebook
-decemfid
+decemfid 1
 demonstrator
 discased
 distemperance
