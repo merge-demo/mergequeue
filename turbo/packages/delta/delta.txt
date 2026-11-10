@@ -11063,7 +11063,7 @@ drollness
 daturas
 disennui
 disarms
-dishonouring
+dishonouring 1
 disarray
 dictatorial
 downflow
