@@ -6547,7 +6547,7 @@ ganglioneural
 grannom
 glaucic
 graceless
-galls 1
+galls 2
 goma
 glossoplegia
 grins
