@@ -12345,7 +12345,7 @@ dishcloths
 disparkle
 desulfured
 distraint
-dupable
+dupable 1
 diel
 dishclout
 disassembly
