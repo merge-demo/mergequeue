@@ -611,7 +611,7 @@ eciliate
 extemporized
 emporia
 emetics
-eurypharynx
+eurypharynx 1
 electrodialyze
 euro
 eciton
