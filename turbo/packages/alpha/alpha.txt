@@ -10181,7 +10181,7 @@ ambulancer
 ambulated
 atropinism
 alkalimetrically
-anisogamy
+anisogamy 1
 aminded
 avulsion
 artotyrite
