@@ -5130,7 +5130,7 @@ counterenamel
 compeller
 chondrectomy
 careys
-caseharden
+caseharden 1
 colostric
 capsaicin
 callosity
