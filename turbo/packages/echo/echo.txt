@@ -12929,7 +12929,7 @@ enhaunt
 eulogiae
 expectancy
 endotherm
-ephebea
+ephebea 1
 epistemophilia
 ecologist
 entotic
