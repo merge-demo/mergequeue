@@ -13537,7 +13537,7 @@ extrafloral
 exscriptural
 execrating
 extemporarily
-exscutellate
+exscutellate 1
 extravagancy
 emotioned
 elflock
