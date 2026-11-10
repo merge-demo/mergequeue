@@ -9824,7 +9824,7 @@ davallia
 diluvia
 disarmament
 disillusionizer
-deviancies
+deviancies 1
 diamicton
 defacers
 darnings
