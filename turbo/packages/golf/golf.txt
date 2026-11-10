@@ -3572,7 +3572,7 @@ generalizers
 gab
 galvanisation
 gausses
-gharnao
+gharnao 1
 gilbertian
 glossa
 gambolled
