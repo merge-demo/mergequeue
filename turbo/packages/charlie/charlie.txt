@@ -2817,7 +2817,7 @@ canoeist
 canoeload
 canoes
 cardiogenesis
-cryptoanalyst 1
+cryptoanalyst 2
 cukes
 canoewood
 cadence
