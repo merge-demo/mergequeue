@@ -9249,7 +9249,7 @@ bannerette
 bipods
 botches
 bipolarity
-bipolarization
+bipolarization 1
 besmear
 bedivere
 bloodlusting
