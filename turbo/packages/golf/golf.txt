@@ -9735,7 +9735,7 @@ gaelicism
 guying
 grummet
 grittiness
-genuflector
+genuflector 1
 gambeered
 gournard
 gambir
