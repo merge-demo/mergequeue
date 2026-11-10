@@ -10525,7 +10525,7 @@ derate
 doorsills
 deliciate
 diceratidae
-diazotate
+diazotate 1
 deipotent
 dimpling
 dyemaker
