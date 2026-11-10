@@ -1423,7 +1423,7 @@ diapering
 dioptrate
 dogly
 dehydrogenates
-disassimilated
+disassimilated 1
 dicarbonic
 deflationist
 dawkin
