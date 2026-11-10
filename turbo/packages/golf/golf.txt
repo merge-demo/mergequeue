@@ -9468,7 +9468,7 @@ garniec
 grapple
 gaggery
 glorified
-gasolinic
+gasolinic 1
 gauntness
 grassiest 1
 gluish
