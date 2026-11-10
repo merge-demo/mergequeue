@@ -10437,7 +10437,7 @@ distortion
 dister
 droits
 denaturate
-diphtheria
+diphtheria 1
 diphtherian
 dogberrydom
 dewiest
