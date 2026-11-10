@@ -551,7 +551,7 @@ fawnery
 fortune
 falcunculus
 falderals
-fussier
+fussier 1
 fibrobronchitis
 familiarity
 forewarn
