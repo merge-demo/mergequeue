@@ -1433,7 +1433,7 @@ fatbacks
 foretimes
 fishway
 fountainlet
-fallibly
+fallibly 1
 firewood
 forbar
 ferreted
