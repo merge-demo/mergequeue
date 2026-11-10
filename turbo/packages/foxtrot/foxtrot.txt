@@ -10850,7 +10850,7 @@ ferule
 fulfillments
 fennici
 fulfullment
-functionless
+functionless 1
 fontanels 1
 furoin
 fishpool
