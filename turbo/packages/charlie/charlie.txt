@@ -28740,7 +28740,7 @@ chiru
 constringe
 coincides
 crepy
-crepiest
+crepiest 1
 crepine
 creping
 crepis
