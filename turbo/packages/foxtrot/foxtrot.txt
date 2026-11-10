@@ -1981,7 +1981,7 @@ flagmaker
 fone
 feeb
 feeblemindedly 1
-federarie
+federarie 1
 femaleness
 flowerlike
 festshrifts
