@@ -9484,7 +9484,7 @@ calculated
 checker
 checkerbelly
 centrolepidaceous
-checkerbellies
+checkerbellies 1
 caffiso
 checkerberry
 checkerberries
