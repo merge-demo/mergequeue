@@ -17118,7 +17118,7 @@ abstinence
 apodiabolosis
 arsenyl
 arithmetize
-apodictive
+apodictive 1
 apodyteria
 adverb
 apodyterium
