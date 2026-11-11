@@ -3368,7 +3368,7 @@ feeless
 foreyards
 fusilades
 fastigate
-foollike
+foollike 1
 fulmen
 forcut
 fopling
