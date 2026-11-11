@@ -10279,7 +10279,7 @@ dames
 dionysia
 dionysiac
 dionysiacally
-dionysus
+dionysus 1
 dirigibles
 dionize
 dependability
