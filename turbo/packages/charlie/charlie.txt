@@ -9277,7 +9277,7 @@ cephalaspis
 cuspidors
 confragose
 chatties
-chattiest
+chattiest 1
 chattiness
 colorably
 chromotherapy
