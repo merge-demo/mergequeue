@@ -14688,7 +14688,7 @@ decasemic
 dks
 diademed
 deburse
-dm
+dm 1
 dystectic
 divid
 dioecisms
