@@ -1354,7 +1354,7 @@ epode
 encloser
 essentialness
 exomis
-evasional
+evasional 1
 ebcdic
 excludability
 earlocks
