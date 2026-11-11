@@ -5713,7 +5713,7 @@ decastich
 dysthymia
 drepanid
 decasyllabic
-demit
+demit 1
 deplorability
 duals
 deplorableness
