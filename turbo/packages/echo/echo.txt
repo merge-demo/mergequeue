@@ -2012,7 +2012,7 @@ elabrate
 endocrinotherapy
 epigaea
 eta
-erythrosine
+erythrosine 1
 epitrophy
 encurl
 exophasia
