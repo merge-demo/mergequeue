@@ -2641,7 +2641,7 @@ genetika
 gurgeon
 gathering
 greatest
-gonotocont
+gonotocont 1
 gyrostabilized
 guaraguao
 gospodipoda
