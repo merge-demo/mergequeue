@@ -4243,7 +4243,7 @@ expendible
 expressways
 equidiagonal
 enwrapment
-escutcheons
+escutcheons 1
 experiment
 endometrium
 electrodispersive
