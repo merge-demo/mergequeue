@@ -342,7 +342,7 @@ festoon
 fricandelle
 fructification
 francisc
-fearsomely
+fearsomely 1
 forkful
 fixers
 failingness
