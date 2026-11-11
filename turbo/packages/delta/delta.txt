@@ -12524,7 +12524,7 @@ dortour
 droitural
 doping
 depend
-defies
+defies 1
 divertible
 disingenuousness
 dicaryophase
