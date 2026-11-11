@@ -5328,7 +5328,7 @@ flutey
 foregather
 fifteen
 fumarole
-feasts
+feasts 1
 fraternalism
 filial
 fant
