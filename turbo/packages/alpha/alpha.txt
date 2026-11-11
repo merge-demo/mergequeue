@@ -14145,7 +14145,7 @@ amyelencephalic
 anukit
 antemetallic
 afoot
-anestrus
+anestrus 1
 arkansans
 antemillennial
 aurorally
