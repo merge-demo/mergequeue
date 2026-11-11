@@ -4009,7 +4009,7 @@ elucidations
 emphysema
 endobronchitis
 entomostracous
-emphyteutic
+emphyteutic 1
 emolumentary
 explantation
 endhand
