@@ -16871,7 +16871,7 @@ clubmate
 corosif
 chiccory
 coexists
-crosswort
+crosswort 1
 clubroom
 casebooks
 clubroots
