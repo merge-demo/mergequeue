@@ -5686,7 +5686,7 @@ belialic
 belibel
 belie
 belied
-bridalty
+bridalty 1
 blatancy
 brawniness
 branle
