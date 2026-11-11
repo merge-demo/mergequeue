@@ -3148,7 +3148,7 @@ geoscopic
 geosphere
 ginorite
 gapless
-gunnership
+gunnership 1
 guerilla
 germina
 grusian
