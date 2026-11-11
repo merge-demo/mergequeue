@@ -13339,7 +13339,7 @@ denunciate
 deflators
 disputatiously
 disputatiousness
-disputator
+disputator 1
 disputeful
 dacrydium
 disfeature
