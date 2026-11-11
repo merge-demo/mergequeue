@@ -3992,7 +3992,7 @@ eyestalks
 empearl
 electroretinography
 exultancy
-esothyropexy
+esothyropexy 1
 estus
 effloresce
 epilamellar
