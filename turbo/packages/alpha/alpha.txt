@@ -548,7 +548,7 @@ adore
 acetolysis
 ataraxies
 amidophosphoric
-amyotrophia
+amyotrophia 1
 actualize
 anba
 antiradiation
