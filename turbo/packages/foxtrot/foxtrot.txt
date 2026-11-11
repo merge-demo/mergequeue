@@ -3203,7 +3203,7 @@ flavourer
 flotages
 fringiness
 fogman
-feloness
+feloness 1
 floorshift
 firmisternous
 fougade
