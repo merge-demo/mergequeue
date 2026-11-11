@@ -389,7 +389,7 @@ finesses
 fearer
 filicauline
 forbid
-facets
+facets 1
 faceoff
 fancifully
 fairground
