@@ -9412,7 +9412,7 @@ flagpoles
 furacana 1
 flammed
 franz
-furled
+furled 1
 fliers
 foodstuff
 foreteeth
