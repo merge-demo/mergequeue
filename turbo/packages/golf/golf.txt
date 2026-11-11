@@ -5616,7 +5616,7 @@ gosport
 groundwall
 goldseed
 grisping
-gnomonologically
+gnomonologically 1
 guayroto
 graptolithida
 glochid
