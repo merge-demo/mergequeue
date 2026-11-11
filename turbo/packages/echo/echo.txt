@@ -6524,7 +6524,7 @@ enwrapt
 earsore
 epaenetic
 entanglements
-extraplanetary
+extraplanetary 1
 egophonic
 entangles
 empanel
