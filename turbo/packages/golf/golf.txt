@@ -3087,7 +3087,7 @@ glucosine
 gelatinity
 gemels
 grassie
-gumdrops
+gumdrops 1
 gomuti
 gymnocidium
 gastful
