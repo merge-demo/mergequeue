@@ -8448,7 +8448,7 @@ grapestone
 gravelroot
 gaussbergite
 gallstones
-gentisic
+gentisic 1
 goldbricks
 guardhouse
 glaciarium
