@@ -12592,7 +12592,7 @@ columnize
 cyperaceous
 chronothermal
 chronotropic
-countable
+countable 1
 collocution
 cheney
 churchiest
