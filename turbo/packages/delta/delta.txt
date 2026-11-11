@@ -5369,7 +5369,7 @@ dragman
 disco
 disgruntle
 dawned
-defrayal
+defrayal 1
 demagogically
 duotype
 dentirostral
