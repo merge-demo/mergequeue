@@ -5087,7 +5087,7 @@ endocoelar
 eupanorthidae
 ectozoan
 epitomical
-emuls
+emuls 1
 escortee
 embracingness
 encysted
