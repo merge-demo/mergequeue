@@ -2319,7 +2319,7 @@ featherheaded
 feaster
 fixities
 fixatifs
-frize
+frize 1
 flagitious
 felis
 feminizes
