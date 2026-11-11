@@ -2626,7 +2626,7 @@ electrophrenic
 electropower
 embodying
 evolvers
-excitably
+excitably 1
 euphemiously
 eximiously
 electroreduction
