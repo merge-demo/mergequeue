@@ -8084,7 +8084,7 @@ enlargedness
 encover
 extrasyphilitic
 extraordinaries
-expressable
+expressable 1
 er
 enhedge
 epiplasmic
