@@ -1212,7 +1212,7 @@ defogs
 dendrium
 dorsomedial
 datasetname
-dithers
+dithers 1
 datcha
 disparison
 disclamation
