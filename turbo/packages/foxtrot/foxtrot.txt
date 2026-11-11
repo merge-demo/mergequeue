@@ -4403,7 +4403,7 @@ frenums
 flintstone
 fishbowls
 flexive 1
-forky
+forky 1
 fisheyes
 forecomingness
 fistify
