@@ -23759,7 +23759,7 @@ curtays
 cherogril
 carbure
 carbonometry
-contrapolarization
+contrapolarization 1
 cytopenia
 contrapose
 contraposed
