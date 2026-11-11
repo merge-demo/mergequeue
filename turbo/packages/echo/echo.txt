@@ -14059,7 +14059,7 @@ exemplars
 emulsibility
 extravaganza
 extravaginal
-electrify
+electrify 1
 exteroceptist
 exorcists
 endocrin
