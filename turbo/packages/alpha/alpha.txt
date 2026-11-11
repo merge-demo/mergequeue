@@ -14275,7 +14275,7 @@ afflatuses
 acerathere
 asepticize
 argilliferous
-aptitudinal
+aptitudinal 1
 anterosuperior
 antesternal
 antesuperior
