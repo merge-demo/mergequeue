@@ -18212,7 +18212,7 @@ amantillo
 asseverating
 aberuncator
 aporphin
-allocatable
+allocatable 1
 antescript
 aconitic
 althea
