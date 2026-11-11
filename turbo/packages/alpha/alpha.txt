@@ -16864,7 +16864,7 @@ albacores
 administrators
 allodialist
 apositic
-almeriite
+almeriite 1
 agname
 acritol
 aphrodisiomaniacal
