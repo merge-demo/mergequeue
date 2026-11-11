@@ -24683,7 +24683,7 @@ averaging
 ackeys
 adenemphractic
 accordant
-averment
+averment 1
 anopheline
 averments
 admove
