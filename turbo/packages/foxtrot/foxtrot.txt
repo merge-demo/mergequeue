@@ -10016,7 +10016,7 @@ fluorometric
 fringehead
 fringelet 1
 fruitier
-fringent
+fringent 1
 frizzer
 feminacy
 fretless
