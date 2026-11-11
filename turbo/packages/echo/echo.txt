@@ -13753,7 +13753,7 @@ enzyme
 extinguished
 extinguisher
 extinguishers
-entoptically
+entoptically 1
 ectoplasm
 eryngoes
 enouncing
