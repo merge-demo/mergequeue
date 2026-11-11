@@ -4590,7 +4590,7 @@ desperance
 depths
 disusing
 detected
-digitigrade
+digitigrade 1
 decretal
 demiox
 dharmasmriti
