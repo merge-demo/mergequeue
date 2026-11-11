@@ -7029,7 +7029,7 @@ divinisation
 duckboards
 despose
 desiccant
-deformed
+deformed 1
 diarthric
 despotat
 demographer
