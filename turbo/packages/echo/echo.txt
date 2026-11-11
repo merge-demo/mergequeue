@@ -5530,7 +5530,7 @@ ethions
 epiglottal
 endosomes
 enfettering
-enophthalmos
+enophthalmos 1
 expandability
 episcopality
 ecphrasis
