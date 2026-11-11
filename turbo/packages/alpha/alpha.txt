@@ -2012,7 +2012,7 @@ acerin
 acetophenone
 amphodiplopia
 autecy
-anticipatory
+anticipatory 1
 arterial
 acetosoluble
 acetostearin
