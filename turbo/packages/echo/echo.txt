@@ -11233,7 +11233,7 @@ exserts
 earthquake
 exundate
 ectoloph
-entelluses
+entelluses 1
 ethnologic
 eeling
 eyepoints
