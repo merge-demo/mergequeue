@@ -2818,7 +2818,7 @@ folacins
 finlander
 fossulet
 fumigatories
-fcomp
+fcomp 1
 faunae
 fibrointestinal
 ficus
