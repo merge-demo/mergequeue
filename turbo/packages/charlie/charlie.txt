@@ -31551,7 +31551,7 @@ culled
 conjobble
 cyriological
 cycliae
-curt
+curt 1
 curtailed
 chlamydobacteriaceous
 curtailedly
