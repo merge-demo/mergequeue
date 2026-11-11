@@ -3874,7 +3874,7 @@ farleu
 fimbrillate 1
 fany
 fig
-fluorophosphate
+fluorophosphate 1
 flowerlet
 frary
 figurante
