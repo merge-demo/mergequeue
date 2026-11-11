@@ -5897,7 +5897,7 @@ dispender
 danicism
 depressibilities
 deozonization
-depressingly
+depressingly 1
 denuders
 desecrator
 decompression
