@@ -29310,7 +29310,7 @@ cryptogam
 chilitis
 cryptogame
 cryptogamy
-cryptogamic
+cryptogamic 1
 cryptogamical
 citigrade
 cryptogamist
