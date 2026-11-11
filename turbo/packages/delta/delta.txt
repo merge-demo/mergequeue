@@ -10626,7 +10626,7 @@ drawbacks
 degarnish
 dolomize
 doon
-discoveries
+discoveries 1
 dithionous
 diplopod
 diplopoda
