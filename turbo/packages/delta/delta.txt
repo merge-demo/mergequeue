@@ -6495,7 +6495,7 @@ dimensioned
 dipeptid
 dentellated
 disqualification
-delignated
+delignated 1
 disomatous
 descendent
 dalesfolk 1
