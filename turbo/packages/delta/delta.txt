@@ -6472,7 +6472,7 @@ desands
 demobs
 desc
 downrightly
-dequeues
+dequeues 1
 descant
 dentinoblast
 disencumber
