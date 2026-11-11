@@ -11793,7 +11793,7 @@ dormitary
 discrowns
 daydreamed
 depilated
-devitalised
+devitalised 1
 dogma
 defiler
 discruciate
