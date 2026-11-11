@@ -2266,7 +2266,7 @@ endothys
 electricize
 electriferous
 energumen
-equivalve
+equivalve 1
 epilating
 extortions
 encephalogram
