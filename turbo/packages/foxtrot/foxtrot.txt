@@ -9924,7 +9924,7 @@ friesian
 fittable
 forceps
 friezer
-fiercely
+fiercely 1
 feazing
 fossilated
 fudge
