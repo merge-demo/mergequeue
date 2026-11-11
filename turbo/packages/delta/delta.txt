@@ -12179,7 +12179,7 @@ deride
 discoursiveness
 deliquesce
 doolees
-dwarfish
+dwarfish 1
 dovecots
 disfrocking
 dysfunctional
