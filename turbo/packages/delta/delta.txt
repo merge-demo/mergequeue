@@ -2397,7 +2397,7 @@ decyl
 deciles
 decylic
 dorsiparous
-deciliter
+deciliter 1
 druidry
 destituent
 doodads
