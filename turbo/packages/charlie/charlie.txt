@@ -15650,7 +15650,7 @@ clauses
 coattends
 craniotympanic
 cartilaginification
-clausthalite
+clausthalite 1
 claustral
 claustration
 characinoid
