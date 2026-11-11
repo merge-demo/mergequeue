@@ -2150,7 +2150,7 @@ glareous
 gdinfo
 gasping
 golfings
-gds
+gds 1
 gaycat
 gastrotomy
 grainer
