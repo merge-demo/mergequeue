@@ -3420,7 +3420,7 @@ deflocculating
 dermatoptera
 doubting
 diffractive
-defloration
+defloration 1
 decapitating
 dumbwaiters
 deliberandum
