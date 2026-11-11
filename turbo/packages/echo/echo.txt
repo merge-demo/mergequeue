@@ -12389,7 +12389,7 @@ eyer
 elocutioner
 ergometer
 extinctions
-effude
+effude 1
 epapillate
 enjoyments
 elengely
