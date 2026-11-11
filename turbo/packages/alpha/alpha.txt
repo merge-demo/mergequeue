@@ -24329,7 +24329,7 @@ anteverting
 autopolar
 autopolyploid
 autopolo
-anomalous
+anomalous 1
 autopoloist
 animalculae
 ambles
