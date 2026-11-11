@@ -18494,7 +18494,7 @@ arbitraments
 argeers
 autodials
 arbitrariness
-arbitrate
+arbitrate 1
 aquamanile
 arbitration
 arbitrative
