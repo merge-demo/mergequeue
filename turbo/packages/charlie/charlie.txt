@@ -2236,7 +2236,7 @@ camshafts
 camstane
 coneine
 caval
-companionability
+companionability 1
 camstone
 canaliculization
 camuning
