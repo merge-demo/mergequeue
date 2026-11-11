@@ -4884,7 +4884,7 @@ excisions
 ef
 encumbrance
 extrabureau
-extratorrid
+extratorrid 1
 english
 erythroneocytosis
 encumbrous
