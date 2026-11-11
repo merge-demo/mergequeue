@@ -4001,7 +4001,7 @@ delegates
 delegateship
 dermographism
 darst
-digressiveness
+digressiveness 1
 dibasicity
 dialing
 dipteros
