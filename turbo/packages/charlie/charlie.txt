@@ -8902,7 +8902,7 @@ crenelet
 carbamoyl
 concisest
 cystose
-concyclic
+concyclic 1
 charco
 charcoal
 crutches
