@@ -24220,7 +24220,7 @@ antiatheist
 alalite
 autoluminescent
 ahistoric
-axseeds
+axseeds 1
 azyme
 automata
 apidae
