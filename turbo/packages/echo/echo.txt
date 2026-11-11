@@ -12892,7 +12892,7 @@ epithymetic
 encarpi
 evangeliary
 eigenfrequency
-ethnographical
+ethnographical 1
 ervenholder
 earstones
 electropuncturing
