@@ -5735,7 +5735,7 @@ greasily
 glossocele
 graian
 gallicize
-gummoses
+gummoses 1
 gantline
 gallant
 gaskins
