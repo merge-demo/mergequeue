@@ -16874,7 +16874,7 @@ coexists
 crosswort
 clubroom
 casebooks
-clubroots
+clubroots 1
 clubs
 clubstart
 clubster
