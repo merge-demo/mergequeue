@@ -13831,7 +13831,7 @@ devolatilized
 denumeration
 diatomic 1
 dryers
-doable
+doable 1
 delphinin
 distancy
 diabolarchy
