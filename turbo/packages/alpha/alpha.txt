@@ -25298,7 +25298,7 @@ atmospheric
 antiseptically
 anesthetist
 alfonso
-acategorical
+acategorical 1
 agrarians
 acetylrosaniline
 acholuria
