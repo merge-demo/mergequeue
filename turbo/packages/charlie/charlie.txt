@@ -8293,7 +8293,7 @@ canapes
 chacker
 chalkiness
 chalking
-chalklike
+chalklike 1
 chalkline
 columnated
 chalkone
