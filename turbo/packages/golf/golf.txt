@@ -207,7 +207,7 @@ gastronomic
 greenage
 greengrocer
 gambone
-gloxinias
+gloxinias 1
 goldsmiths
 goaler
 genuinely
