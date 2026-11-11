@@ -2668,7 +2668,7 @@ emmanuel
 earhead
 emborder
 electrotechnician
-exports
+exports 1
 enfant
 eudaemonics
 engenderment
