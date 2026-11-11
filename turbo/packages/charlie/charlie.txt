@@ -9073,7 +9073,7 @@ capacitates
 crataegus
 cordia
 charpit
-canape
+canape 1
 charpoys
 costing
 canewares
