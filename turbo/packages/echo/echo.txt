@@ -6998,7 +6998,7 @@ electrotitration
 enamourment
 epiplectic 1
 explorable
-effigiating
+effigiating 1
 estated
 emetines
 escutellate
