@@ -13603,7 +13603,7 @@ elkanah
 eisegesis
 edriophthalmian
 encyclopaedically
-electropyrometer
+electropyrometer 1
 expulsory
 ectad
 exiledom
