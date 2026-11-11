@@ -7031,7 +7031,7 @@ despose
 desiccant
 deformed
 diarthric
-despotat
+despotat 1
 demographer
 decede
 dissentiate
