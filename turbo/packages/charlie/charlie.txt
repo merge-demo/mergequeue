@@ -22944,7 +22944,7 @@ consign
 consignatary
 caddice
 consignataries
-counterretreat
+counterretreat 1
 comforting
 clarifiable
 chromosomic
