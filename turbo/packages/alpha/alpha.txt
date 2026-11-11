@@ -15115,7 +15115,7 @@ ascetics
 async
 aruke
 antidote
-anteroventrally
+anteroventrally 1
 appraise
 agnosias
 antidoted
