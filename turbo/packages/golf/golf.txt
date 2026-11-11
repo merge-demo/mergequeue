@@ -2796,7 +2796,7 @@ gait
 gentlemanlikeness 1
 gossan
 gybing
-geode
+geode 1
 grenadines
 gallinule
 genuflection
