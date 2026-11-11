@@ -23300,7 +23300,7 @@ attributively
 attributor
 ammonias
 attrite
-attrited
+attrited 1
 abscission
 aplenty
 apparitor
