@@ -16336,7 +16336,7 @@ dichord 1
 dovetails
 daylight
 deplumate
-disarmature
+disarmature 1
 dumbhead
 downslide
 describent
