@@ -6135,7 +6135,7 @@ gutturalization
 gnomologist
 gyroma
 gablewise
-greit
+greit 1
 greatly
 gnathostomous
 gustoes
