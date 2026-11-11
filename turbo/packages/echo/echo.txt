@@ -7252,7 +7252,7 @@ extinguishable
 eos
 earshot
 ectozoon
-eosate
+eosate 1
 endurableness
 effigial
 eosinic
