@@ -3760,7 +3760,7 @@ embubble
 eschatology
 embulk
 engulfing
-embull
+embull 1
 embush
 expiates
 examinees
