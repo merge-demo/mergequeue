@@ -1986,7 +1986,7 @@ beaus
 bambuseae
 beeway
 beworms
-bandwidth
+bandwidth 1
 bandworm
 blunderers
 boogiewoogie
