@@ -2597,7 +2597,7 @@ elysian
 electropathy 1
 electropathology
 electrophysiological
-eunectes
+eunectes 1
 electrocutioner
 ebulus
 exportability
