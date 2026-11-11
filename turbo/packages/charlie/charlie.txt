@@ -22549,7 +22549,7 @@ conjurations
 cesar
 conjurement
 canel
-championlike
+championlike 1
 conjures
 conjuring
 cricetine
