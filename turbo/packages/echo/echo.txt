@@ -3925,7 +3925,7 @@ epilabrum
 emodins
 efflorescent
 emollience
-escharotic
+escharotic 1
 estruate
 earthbound
 emollients
