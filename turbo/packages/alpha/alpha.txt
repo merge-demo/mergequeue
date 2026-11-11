@@ -22074,7 +22074,7 @@ astartidae
 alterability
 actings
 archaicism
-asyngamic
+asyngamic 1
 anaplasmosis
 astatines
 astatize
