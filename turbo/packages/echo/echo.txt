@@ -11271,7 +11271,7 @@ emblazons
 euphorbine
 enroller
 elbowboard
-evaporating
+evaporating 1
 eviscerating
 endoarteritis
 esophagodynia
