@@ -5066,7 +5066,7 @@ exemptible
 evertebrata
 emotiovascular
 egma
-egoistical
+egoistical 1
 endoceratidae
 extraneously
 endocervical
