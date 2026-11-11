@@ -1931,7 +1931,7 @@ deferments
 desire
 durocs
 dawsonite
-decenters
+decenters 1
 deaccession
 darat
 dissatisfyingly
