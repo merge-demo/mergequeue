@@ -16601,7 +16601,7 @@ coadmire
 clonking
 clonorchiasis
 crypt
-clonorchis
+clonorchis 1
 cardinality
 chapeaus
 catacomb
