@@ -3336,7 +3336,7 @@ fractals
 faultage
 foveiform
 foilsmen
-floorers
+floorers 1
 frowsiest
 flotsam
 fluorescer
