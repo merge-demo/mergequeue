@@ -16574,7 +16574,7 @@ blackplate
 besin
 brachypinacoid
 bleary
-brutishness
+brutishness 1
 brewed
 blockheadism
 backlit
