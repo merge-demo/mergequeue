@@ -16276,7 +16276,7 @@ dorsoventrality
 detestably
 downiest
 dictator
-downiness
+downiness 1
 downingia
 digestif
 diabrosis
