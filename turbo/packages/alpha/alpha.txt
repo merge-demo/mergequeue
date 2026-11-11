@@ -148,7 +148,7 @@ apocrustic
 abater
 alanyl
 alcumy
-abating
+abating 1
 afterpains
 abatis
 animatistic
