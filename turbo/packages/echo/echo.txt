@@ -9275,7 +9275,7 @@ explosible
 eulogist
 endosmos
 electropism
-esdras
+esdras 1
 errhines
 encyclopedize
 erron
