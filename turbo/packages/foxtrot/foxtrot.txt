@@ -613,7 +613,7 @@ foreknows
 forpet
 fossilisation
 forints
-feasted
+feasted 1
 fogbank
 fourchette
 faddist 1
