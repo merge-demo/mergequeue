@@ -10721,7 +10721,7 @@ fil
 fellmongering
 flavedo
 flocks
-frutescence
+frutescence 1
 fragmentisation
 forbare
 forecount
