@@ -4686,7 +4686,7 @@ egomania
 enmuffle
 entrammel
 economic
-enciphering
+enciphering 1
 extradited
 enrapture
 eulogism
