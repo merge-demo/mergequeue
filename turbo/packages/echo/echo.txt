@@ -4276,7 +4276,7 @@ engs
 enhydra
 equiponderate 1
 excerpts
-effectible
+effectible 1
 en
 enjoined
 extirpation
