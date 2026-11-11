@@ -1333,7 +1333,7 @@ belar
 benzamino
 barbed
 balases
-balat
+balat 1
 basellaceous
 balatron
 benzaldiphenyl
