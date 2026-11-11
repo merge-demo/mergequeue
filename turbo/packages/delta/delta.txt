@@ -10450,7 +10450,7 @@ dourly
 dishonesties
 delphically
 diphthongally
-disenable
+disenable 1
 dipneust
 dismortgaged
 dimyarian
