@@ -4298,7 +4298,7 @@ electrothermal
 ethanolysis
 embryocardia
 enacture
-exfodiation
+exfodiation 1
 egranulose
 empowering
 extraterritoriality
