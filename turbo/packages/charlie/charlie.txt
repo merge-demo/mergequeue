@@ -2089,7 +2089,7 @@ cuecas
 campanologer
 crucis
 croaker
-coalmonger
+coalmonger 1
 conjunctly
 campanologically
 coniology
