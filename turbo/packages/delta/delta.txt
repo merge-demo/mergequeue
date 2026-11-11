@@ -10753,7 +10753,7 @@ dipterocarpaceous
 devolve
 dipterocarpous
 dipterocarpus
-delay
+delay 1
 doughtily
 divas
 dependent
