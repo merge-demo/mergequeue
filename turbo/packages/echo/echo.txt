@@ -5852,7 +5852,7 @@ endothecate
 ectogeneous
 ecesis
 engrandizement
-epidermatous
+epidermatous 1
 enodate
 engrasp
 emancipatory
