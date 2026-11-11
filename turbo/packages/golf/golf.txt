@@ -9067,7 +9067,7 @@ gomasta
 galliambic
 gramophonical
 grateful
-gyrates
+gyrates 1
 girasole
 girlism
 geobotany
