@@ -18529,7 +18529,7 @@ diau
 dured
 decollated
 disparting
-dapperly
+dapperly 1
 discepting
 disorganizers
 decriers
