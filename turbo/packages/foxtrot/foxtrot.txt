@@ -2403,7 +2403,7 @@ fondlers
 fleer
 fad
 fleshlessness
-frizettes
+frizettes 1
 flakelet
 fistularia
 flavous
