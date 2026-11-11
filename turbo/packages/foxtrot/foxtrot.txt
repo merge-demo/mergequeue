@@ -10951,7 +10951,7 @@ forgetness
 fusoid
 forewit
 fld
-foreseing
+foreseing 1
 fooled
 fireproofing
 fulzie
