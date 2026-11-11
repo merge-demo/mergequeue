@@ -10461,7 +10461,7 @@ etna
 effortful
 elisabeth
 etrenne
-exsurgent
+exsurgent 1
 event
 etrog
 equatoreal
