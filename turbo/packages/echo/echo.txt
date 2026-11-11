@@ -2680,7 +2680,7 @@ electrotherapeutical
 entrep
 estampie
 expectorating
-excitors
+excitors 1
 enmesh
 esox
 enduros
