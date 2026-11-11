@@ -12694,7 +12694,7 @@ epha
 epitaxies 1
 englishman
 exorable
-exactingness
+exactingness 1
 etiolin
 eradication
 elderberry
