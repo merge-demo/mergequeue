@@ -6427,7 +6427,7 @@ biternate
 benzothiofuran
 burs
 benzothiophene
-bolection
+bolection 1
 benzoxyacetic
 blanchers
 ballast
