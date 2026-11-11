@@ -14814,7 +14814,7 @@ doctorhood
 doctorial
 disadjust
 doctorially
-doctoring
+doctoring 1
 doctorize
 distinctness
 diallage
