@@ -14339,7 +14339,7 @@ bounciness
 brahmanism 1
 brahmanist
 brachistochronous
-brahmanize
+brahmanize 1
 benched
 bracers
 brahmapootra
