@@ -4668,7 +4668,7 @@ adject
 aediles
 aknee
 airbursts
-aedileship
+aedileship 1
 anthropomorphitism
 asidehand
 accessorii
