@@ -11645,7 +11645,7 @@ dendrolite
 drunkometer
 daishiki
 docimasy
-denize
+denize 1
 disulfoton
 daffodowndillies
 discounters
