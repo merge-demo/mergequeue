@@ -14997,7 +14997,7 @@ blennophlogisma 1
 breathes
 boarstaff
 beverages
-breathiness
+breathiness 1
 bookishly
 barbastel
 bepaper
