@@ -5268,7 +5268,7 @@ glaucophane
 garish
 galoubet
 gammers
-gratingly
+gratingly 1
 glooming
 guaranies
 gorgelet
