@@ -9526,7 +9526,7 @@ foveate
 fermenter
 filthiest
 freckle
-furnace
+furnace 1
 fieldmouse
 fruitfullness
 favouress
