@@ -4008,7 +4008,7 @@ expresser
 elucidations
 emphysema
 endobronchitis
-entomostracous
+entomostracous 1
 emphyteutic
 emolumentary
 explantation
