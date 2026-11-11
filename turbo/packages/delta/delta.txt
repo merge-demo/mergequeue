@@ -10249,7 +10249,7 @@ dusts
 deconcentrating
 disaccustom
 doornail
-deifiers
+deifiers 1
 defunctive
 dioctahedral
 dextroses
