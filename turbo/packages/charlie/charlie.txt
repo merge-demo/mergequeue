@@ -28091,7 +28091,7 @@ crampits
 crampon
 crampons
 crampoon
-carefree
+carefree 1
 cran 1
 cranage
 catholics
