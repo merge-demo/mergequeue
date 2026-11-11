@@ -1441,7 +1441,7 @@ ghenting
 grossart
 grillages
 griffinish
-glamouring
+glamouring 1
 generated
 gasalier
 gowks
