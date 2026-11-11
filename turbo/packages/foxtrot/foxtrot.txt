@@ -9907,7 +9907,7 @@ fevercup
 fenestrone
 formalizes
 fungistatic
-fistfuls
+fistfuls 1
 fade
 forehand
 falconry
