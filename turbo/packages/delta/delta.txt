@@ -932,7 +932,7 @@ demivierge
 diachrony
 dereferences
 duskiest
-dissyllabify
+dissyllabify 1
 digonous
 dauts
 detachers
