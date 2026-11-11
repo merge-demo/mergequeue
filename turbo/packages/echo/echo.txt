@@ -7863,7 +7863,7 @@ epigamic
 ephod
 enterolith
 elbowed
-elbower
+elbower 1
 epigrammatizing
 enactory
 endonuclease
