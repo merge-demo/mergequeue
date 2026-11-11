@@ -6818,7 +6818,7 @@ glycosyls
 geryonia
 garle
 glutimate
-gonococci
+gonococci 1
 glossopharyngeus
 gratuitous
 gonococcocci
