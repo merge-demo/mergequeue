@@ -8799,7 +8799,7 @@ chapwoman
 circumradii
 caddying
 chaqueta
-counterdefender
+counterdefender 1
 commanders
 char
 conveyability
