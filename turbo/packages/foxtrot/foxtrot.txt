@@ -7359,7 +7359,7 @@ forbad
 faeces
 fat
 forbborne
-flexion
+flexion 1
 freshen
 feudalism
 forby
