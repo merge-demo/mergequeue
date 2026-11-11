@@ -12034,7 +12034,7 @@ affrights
 adela
 astromancy
 anarchist
-anarchists
+anarchists 1
 anarcho
 antisophistry
 atrium
