@@ -8916,7 +8916,7 @@ divinyl
 dichloramine
 dichloride
 dichloroacetic
-dentalization
+dentalization 1
 dichlorodifluoromethane
 domiciling
 deticked
