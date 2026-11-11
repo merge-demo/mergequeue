@@ -2265,7 +2265,7 @@ decempedal
 dousers
 dominiums
 decemplex
-dissocialize
+dissocialize 1
 doused
 decemstriate
 dowsers
