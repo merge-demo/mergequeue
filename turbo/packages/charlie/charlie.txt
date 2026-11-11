@@ -14278,7 +14278,7 @@ circumpallial
 constrained
 crosspieces
 circumparallelogram
-circumpentagon
+circumpentagon 1
 convexed
 circumplanetary
 chrysazin
