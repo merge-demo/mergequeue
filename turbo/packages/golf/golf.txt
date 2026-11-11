@@ -6995,7 +6995,7 @@ guldengroschen
 gestalts
 geir
 glossopode
-gallerian
+gallerian 1
 gapes
 gaditan
 guaconize
