@@ -17449,7 +17449,7 @@ apothesine
 anteportico
 amercers
 aeromedical
-apotome
+apotome 1
 apyretic
 apotropaically
 asciferous
