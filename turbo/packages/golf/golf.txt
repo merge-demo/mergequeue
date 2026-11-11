@@ -627,7 +627,7 @@ gestic
 gaudless
 gradatory
 guideline
-geodetic
+geodetic 1
 gweducs
 grottowork
 gallomaniac
