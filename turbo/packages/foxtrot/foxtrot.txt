@@ -6854,7 +6854,7 @@ fathmur
 foliose
 flachery
 flittingly
-foliot
+foliot 1
 fling
 floribunda
 forthby
