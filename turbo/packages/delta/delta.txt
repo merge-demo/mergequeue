@@ -5741,7 +5741,7 @@ dernly
 depolarize
 dextrorsal
 decouple
-downstroke
+downstroke 1
 diaphany
 downloads
 diazotizability
