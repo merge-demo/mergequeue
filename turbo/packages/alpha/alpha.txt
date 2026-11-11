@@ -6112,7 +6112,7 @@ aromaticness
 astrosphere
 albuminoidal
 antifeudalism
-awn
+awn 1
 agitators
 apteral
 autoclaving
