@@ -3177,7 +3177,7 @@ defecting
 dezincified 1
 distaff
 doltishness
-depolarizes
+depolarizes 1
 dimitting
 defectless
 declaratives
