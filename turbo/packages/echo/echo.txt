@@ -13792,7 +13792,7 @@ extorters
 extortion
 embroiling
 endopterygotism
-earthliness
+earthliness 1
 euchite
 emirship
 embargoing
