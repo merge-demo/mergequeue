@@ -6027,7 +6027,7 @@ gallows
 gusting
 glossoplasty
 gnarly
-gourdes
+gourdes 1
 gnarliest
 gnarliness
 grassiness
