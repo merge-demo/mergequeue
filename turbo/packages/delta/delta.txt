@@ -5491,7 +5491,7 @@ diaphragm
 dogtrot
 dudishness
 dolichos
-digamist
+digamist 1
 darlingly
 davening
 dermamyiasis
