@@ -8710,7 +8710,7 @@ capturable
 crenelle
 chapelgoing
 cockpits
-chapelize
+chapelize 1
 chirpier
 cellarmen
 coccolithophorid
