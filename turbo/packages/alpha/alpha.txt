@@ -13186,7 +13186,7 @@ angustura
 attemperator
 aphrodistic
 androgynous
-animalivora
+animalivora 1
 amnioclepsis
 agenesias
 archplagiary
