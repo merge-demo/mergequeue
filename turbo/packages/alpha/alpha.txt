@@ -3924,7 +3924,7 @@ adjudging
 aquascope
 apocarps
 autarkik
-adjudicated
+adjudicated 1
 apostrophied
 adjudication
 agglutinin
