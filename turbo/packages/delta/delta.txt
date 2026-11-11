@@ -13315,7 +13315,7 @@ disprovide
 dispurse
 distillate
 destuffing
-daintier
+daintier 1
 dispurvey
 disputability
 dotters
