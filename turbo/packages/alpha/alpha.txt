@@ -2247,7 +2247,7 @@ acyrological
 achromoderma
 abovesaid
 amygdalolith
-articulability
+articulability 1
 allows
 achronism
 atmograph
