@@ -11416,7 +11416,7 @@ autocephaly
 absorptance
 againward
 amplication
-austerer
+austerer 1
 amplicative
 autoelectrolytic
 amplificate
