@@ -17272,7 +17272,7 @@ autopsying
 aspersoria
 apophlegm
 albuminiform
-apophlegmatic
+apophlegmatic 1
 akazgin
 atop
 arthroclisis
