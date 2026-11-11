@@ -28950,7 +28950,7 @@ cardinalate
 convocated
 cricetidae
 chrysal
-chaityas
+chaityas 1
 curtseyed
 crancelin
 crimmy
