@@ -1267,7 +1267,7 @@ australopithecine
 ails
 antifoggant
 antitropic
-acarpelous
+acarpelous 1
 augitic
 antisceptic
 ais
