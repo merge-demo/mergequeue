@@ -10685,7 +10685,7 @@ feralin
 fleshquake
 fivepenny
 fairstead
-fruitstalk
+fruitstalk 1
 fg
 foreset
 foresheets
