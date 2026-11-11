@@ -24706,7 +24706,7 @@ copperskin
 ciderist
 coppersmith
 comenic
-coppersmithing
+coppersmithing 1
 copperware
 copperwing
 cladodes
