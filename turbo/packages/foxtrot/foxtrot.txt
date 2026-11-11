@@ -5517,7 +5517,7 @@ fillet
 ferally
 fettuccine
 formatters
-fanjets
+fanjets 1
 fiddlies
 faroelite
 fleshliness
