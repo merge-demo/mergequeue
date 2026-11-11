@@ -6223,7 +6223,7 @@ floccules
 focusable
 fascinative
 formwork
-futtocks
+futtocks 1
 ferrimagnetic
 ferryway
 folden
