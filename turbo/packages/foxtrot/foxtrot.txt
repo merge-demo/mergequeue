@@ -11086,7 +11086,7 @@ falconet
 flangeless
 foreknowableness
 functionation
-fane
+fane 1
 factfinder
 fittiness
 flagellated
