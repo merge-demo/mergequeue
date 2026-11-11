@@ -391,7 +391,7 @@ golundauze
 gavot
 gaoled
 glaive
-goto
+goto 1
 goatskins
 grandmamma
 guisian
