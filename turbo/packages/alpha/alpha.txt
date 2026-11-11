@@ -1660,7 +1660,7 @@ agonists
 accts
 acleidian
 airted
-amphicentric
+amphicentric 1
 accubitum
 antitank
 aphonias
