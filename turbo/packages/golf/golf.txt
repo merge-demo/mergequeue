@@ -477,7 +477,7 @@ guardedly
 gymnospore
 gyrostabilizer
 genyoplasty
-goneness
+goneness 1
 glossoncus
 gospelize
 gravitationally
