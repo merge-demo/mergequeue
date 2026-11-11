@@ -2960,7 +2960,7 @@ epihydrinic
 elides
 electrotropism
 epistoler
-ekronite
+ekronite 1
 ethenic
 entomology
 elidible
