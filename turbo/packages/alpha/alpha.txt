@@ -4967,7 +4967,7 @@ antepalatal
 aerolitic
 aerological
 antepartum
-aeromancer
+aeromancer 1
 anthonomus
 aerometer
 aspen
