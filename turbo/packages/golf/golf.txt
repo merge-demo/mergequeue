@@ -8790,7 +8790,7 @@ greenling
 grogram
 galactoscope
 glaserite
-gatherable
+gatherable 1
 gentilism 1
 glyceryls
 gravel
