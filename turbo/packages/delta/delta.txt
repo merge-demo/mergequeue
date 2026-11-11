@@ -18606,7 +18606,7 @@ diatonicism
 distent
 dustee
 dusters
-desperadoism
+desperadoism 1
 dustheap
 depersonalization
 dedo
