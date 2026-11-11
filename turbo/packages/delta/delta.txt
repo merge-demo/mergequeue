@@ -18436,7 +18436,7 @@ disendowing
 downrush
 dukkha
 duplexers
-duplication
+duplication 1
 dogsbody
 dogey
 duplicators
