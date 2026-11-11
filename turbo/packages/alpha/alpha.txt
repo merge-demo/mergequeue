@@ -2830,7 +2830,7 @@ aspersers
 athonite
 autodiagnosis
 acromiocoracoid
-amateurishly
+amateurishly 1
 alite
 abominability
 antenniform
