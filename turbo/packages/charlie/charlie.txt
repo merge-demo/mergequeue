@@ -30051,7 +30051,7 @@ cognising
 crone
 croupiers
 croupiest
-cordwain
+cordwain 1
 croupon
 croupous
 croups
