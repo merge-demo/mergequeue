@@ -3231,7 +3231,7 @@ defend
 dikast
 dolmenic
 demimondaine
-distrainor
+distrainor 1
 defendant
 dir
 decorativeness
