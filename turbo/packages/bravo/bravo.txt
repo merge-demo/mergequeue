@@ -13597,7 +13597,7 @@ bahaism
 boulework
 blinded
 buffoonism
-boulimia
+boulimia 1
 berate
 bornyl
 biurate
