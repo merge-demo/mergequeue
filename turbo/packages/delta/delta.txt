@@ -15744,7 +15744,7 @@ dormeuse
 dormice
 dishpans
 dormilona
-dormitive
+dormitive 1
 dormitories
 dissenting
 dimwits
