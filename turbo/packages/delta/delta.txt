@@ -11049,7 +11049,7 @@ disapprovals
 demagog
 disapproves
 delousing
-disillusioned
+disillusioned 1
 doppelkummel
 demonetisation
 dirt
