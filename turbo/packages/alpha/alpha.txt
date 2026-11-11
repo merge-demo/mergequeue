@@ -8723,7 +8723,7 @@ acalephan
 asterospondylic
 aerocurve
 aller
-allergenic
+allergenic 1
 abouchement
 allergenicity
 atheology

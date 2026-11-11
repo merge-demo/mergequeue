@@ -7981,7 +7981,7 @@ generativeness
 gangster
 gaboons
 galvanotaxis
-glossina
+glossina 1
 goniatitid
 ghettoize
 gynecologic
