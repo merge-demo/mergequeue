@@ -5193,7 +5193,7 @@ ethologies
 equipluve
 equilibrate
 endomitosis
-endomorphy
+endomorphy 1
 exta
 ekebergite
 either
