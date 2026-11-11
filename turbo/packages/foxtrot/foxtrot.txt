@@ -4667,7 +4667,7 @@ fulani
 faeroe
 fells
 ferrotungsten
-farced
+farced 1
 fulica
 flewit
 floyd
