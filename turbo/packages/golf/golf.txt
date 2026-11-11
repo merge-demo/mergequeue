@@ -6290,7 +6290,7 @@ gothicizer
 gelatinised
 graecian
 gyroidal
-grundyist
+grundyist 1
 genion
 governessy
 gid
