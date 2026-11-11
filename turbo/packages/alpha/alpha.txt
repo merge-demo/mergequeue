@@ -19889,7 +19889,7 @@ armillae
 armillary
 atonies
 antigone
-annist
+annist 1
 ahorse
 achaemenidian
 adenopharyngitis
