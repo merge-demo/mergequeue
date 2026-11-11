@@ -12311,7 +12311,7 @@ betrayer 1
 bombardments
 bombline
 bowdrill
-bombast
+bombast 1
 buglers
 blepharotomy
 bezzi
