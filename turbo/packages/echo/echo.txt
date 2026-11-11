@@ -7682,7 +7682,7 @@ endomesoderm
 endotheliomata
 ensures 1
 eboulement
-euphemiser
+euphemiser 1
 extensionist
 expoundable
 epideistic
