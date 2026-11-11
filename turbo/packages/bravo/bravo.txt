@@ -6978,7 +6978,7 @@ bactris
 bankfull
 besmooth
 besmooths
-betrust
+betrust 1
 bleeders
 basilian
 besmouch
