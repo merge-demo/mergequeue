@@ -2542,7 +2542,7 @@ genizero
 guilder
 gymnastic
 gynecium
-gurle
+gurle 1
 gomeisa
 gonochorism
 galenites
