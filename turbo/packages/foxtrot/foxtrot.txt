@@ -9580,7 +9580,7 @@ friableness 1
 fusteric
 frizzing
 fraternality
-fivestones
+fivestones 1
 ferrotyper
 forhooy
 fothering
