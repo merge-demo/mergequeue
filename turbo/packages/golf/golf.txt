@@ -2893,7 +2893,7 @@ glycollic
 garotters
 goosebeak
 gallipots
-glittering
+glittering 1
 gonocyte
 gallinulelike
 greenside
