@@ -17642,7 +17642,7 @@ dsri
 defeminization
 dromornis
 dtd
-dielectrical
+dielectrical 1
 dyspneic
 dilatate
 dicranterian
