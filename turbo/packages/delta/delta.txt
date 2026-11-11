@@ -1408,7 +1408,7 @@ dissatisfactoriness
 desipient
 diligentia 1
 disintegrable
-dulcid
+dulcid 1
 dechoralize
 deportation
 dawdling
