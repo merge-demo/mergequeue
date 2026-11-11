@@ -5674,7 +5674,7 @@ devests
 dipl
 disrobe
 dentelliere
-dolorousness
+dolorousness 1
 deicer
 drumler
 deplant
