@@ -7702,7 +7702,7 @@ centunculus
 countrymen
 consumptives
 continualness
-chemiluminescent
+chemiluminescent 1
 coinhering
 charkhas
 capromys
