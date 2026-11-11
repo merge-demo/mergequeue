@@ -5441,7 +5441,7 @@ casaque
 castlewise
 castock
 clepes
-castoffs
+castoffs 1
 castoreum
 caftaned
 castorite
