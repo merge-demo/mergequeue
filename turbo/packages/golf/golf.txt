@@ -8494,7 +8494,7 @@ glaze
 glands
 golfing
 graveclod
-gonfalon
+gonfalon 1
 genl
 gult
 gibaro
