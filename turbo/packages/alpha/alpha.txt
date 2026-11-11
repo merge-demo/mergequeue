@@ -16498,7 +16498,7 @@ anusim
 awelessness
 amphiboliferous
 argyrosomus
-asthenics
+asthenics 1
 abietinic
 assailers
 almacantar
