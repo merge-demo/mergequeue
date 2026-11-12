@@ -5878,7 +5878,7 @@ edificing
 electorial
 epigeum
 ewest
-extrazodiacal
+extrazodiacal 1
 exacerbescence
 epidendral
 exsiccate
