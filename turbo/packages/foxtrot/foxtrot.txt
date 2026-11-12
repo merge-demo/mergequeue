@@ -1340,7 +1340,7 @@ fineleaf
 fyttes
 famose
 flyable
-factionally
+factionally 1
 frantically
 fatherly
 feest
