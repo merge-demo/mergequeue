@@ -17727,7 +17727,7 @@ disused
 demipauldron
 discriminable
 demonologic
-durables
+durables 1
 dedifferentiation
 disclike
 decanonization
