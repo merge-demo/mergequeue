@@ -2929,7 +2929,7 @@ fac
 furloughs
 fungological
 froths
-fevered
+fevered 1
 foraminiferan
 flitchen
 franklinian
