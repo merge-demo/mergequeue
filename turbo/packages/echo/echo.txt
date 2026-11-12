@@ -12153,7 +12153,7 @@ exostome
 embergoose
 excuser
 endpoint
-exposure
+exposure 1
 econometrical
 ethmoturbinate
 excussed
