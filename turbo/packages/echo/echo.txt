@@ -6355,7 +6355,7 @@ eloquently
 ebbed
 epirot
 eavesdrip
-episcopize
+episcopize 1
 eprouvette
 enshrined
 enshrinement
