@@ -2077,7 +2077,7 @@ devolution
 disproportionally
 decal
 dodecylic
-dilatory
+dilatory 1
 decalage
 dinghy
 disworship
