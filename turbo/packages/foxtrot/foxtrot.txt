@@ -2257,7 +2257,7 @@ forkiest
 fengite
 fanout
 feudalisation
-frolics
+frolics 1
 filigerous
 fayalite
 funnymen
