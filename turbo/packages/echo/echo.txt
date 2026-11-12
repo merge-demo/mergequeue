@@ -12435,7 +12435,7 @@ eczematosis
 entomophthorous
 exiguously
 exilarchate
-extemporariness
+extemporariness 1
 ethicality
 exilement
 electrobiological
