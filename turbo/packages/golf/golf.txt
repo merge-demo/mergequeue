@@ -3057,7 +3057,7 @@ geocline
 grits
 gipping
 geophagism
-gopura
+gopura 1
 grubhood
 gashliness
 ghorkhar
