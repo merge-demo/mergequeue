@@ -3980,7 +3980,7 @@ buoyancy
 beadeye
 beader
 bellmaker
-barnhardtite
+barnhardtite 1
 beerothite
 binges
 brookside
