@@ -12936,7 +12936,7 @@ cyanid
 collects
 casel
 circumhorizontal
-continentality
+continentality 1
 cyanides
 cyanidrosis
 clothes
