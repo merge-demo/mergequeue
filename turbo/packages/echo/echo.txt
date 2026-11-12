@@ -4277,7 +4277,7 @@ enhydra
 equiponderate 1
 excerpts
 effectible
-en
+en 1
 enjoined
 extirpation
 epicarides
