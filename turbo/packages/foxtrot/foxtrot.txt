@@ -7216,7 +7216,7 @@ fertil
 forwarders
 forfeits
 frizzlers
-faenas
+faenas 1
 footpaces
 fluencies
 fifer
