@@ -11438,7 +11438,7 @@ febrility
 forebemoaned
 founte
 fluorenes
-fortunetell
+fortunetell 1
 fallibleness
 formfeed
 frigidarium
