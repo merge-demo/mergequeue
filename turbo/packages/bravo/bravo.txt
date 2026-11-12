@@ -5487,7 +5487,7 @@ briefly
 boort
 bringdown
 bawty
-beingness
+beingness 1
 brandade
 biparietal
 beethovian
