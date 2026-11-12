@@ -8389,7 +8389,7 @@ futhorcs
 forlive
 foreking
 fictively
-fuseboard
+fuseboard 1
 fm
 filcher
 futhark

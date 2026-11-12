@@ -2899,7 +2899,7 @@ doblones
 decarbonizing
 decuss
 decussate
-decussatively
+decussatively 1
 desideratum
 disyllabizing
 decussoria
