@@ -3393,7 +3393,7 @@ euconic
 epitomize
 eucharistized
 embarkment
-embarks
+embarks 1
 equipage
 embosked
 exteroceptor
