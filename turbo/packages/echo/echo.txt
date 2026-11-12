@@ -2435,7 +2435,7 @@ electionary
 evoker
 electroendosmosis
 encipher
-epoist
+epoist 1
 enslavements
 exterminist
 euchological
