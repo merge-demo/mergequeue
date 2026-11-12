@@ -9116,7 +9116,7 @@ acipenser
 alsweill
 animastic
 asterolepis
-afternight
+afternight 1
 allurement
 aerosat
 anemonin
