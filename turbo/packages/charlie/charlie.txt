@@ -158,7 +158,7 @@ cablet
 cabling
 contentiousness
 campmaster
-copellidine
+copellidine 1
 cabob
 countervails
 cashable
