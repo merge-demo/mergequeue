@@ -7237,7 +7237,7 @@ gambeering
 gamond
 gesticulative
 gratuitousness
-glamourousness
+glamourousness 1
 guarani
 gimblet
 guarneri
