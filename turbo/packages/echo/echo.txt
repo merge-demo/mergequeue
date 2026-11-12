@@ -9503,7 +9503,7 @@ escout
 enstore
 es
 equipondious
-evolutility
+evolutility 1
 escry
 escrime
 ephyrula
