@@ -1872,7 +1872,7 @@ bandeau
 betula
 bancus
 backstabber
-bandelette
+bandelette 1
 banderma
 banderol
 banderole
