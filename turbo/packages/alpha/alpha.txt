@@ -9980,7 +9980,7 @@ ambaris
 afshah
 ambas
 attestation
-ambassade
+ambassade 1
 appreciatively
 alkynes 1
 adactylia
