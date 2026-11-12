@@ -6072,7 +6072,7 @@ cheapo
 catkin
 catkinate
 catkins
-curatory
+curatory 1
 candify
 catlike
 crowns
