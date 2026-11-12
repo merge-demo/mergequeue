@@ -9218,7 +9218,7 @@ embound
 episcopes
 epikleses
 empannel
-excoriates
+excoriates 1
 epiderm
 erotylidae
 enlarges
