@@ -808,7 +808,7 @@ extravisceral 1
 evincibly
 electrophotography
 ectasis
-endothia
+endothia 1
 enoil
 exequies
 expulsed
