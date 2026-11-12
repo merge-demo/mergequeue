@@ -12918,7 +12918,7 @@ cyan
 cyanamid
 conspires
 coextension 1
-coaxially
+coaxially 1
 cyanate
 cyanates
 cyaneous
