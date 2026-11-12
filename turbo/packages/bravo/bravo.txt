@@ -9127,7 +9127,7 @@ bespreads
 booklouse 1
 bruted
 banksides
-beefing
+beefing 1
 biotins
 basics
 beefhead
