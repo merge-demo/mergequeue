@@ -3355,7 +3355,7 @@ boller
 bronchobuster
 basoid
 baraithas
-beltine
+beltine 1
 banus
 breast
 blowfish
