@@ -7095,7 +7095,7 @@ descriptiveness
 disorient
 desto
 disvalues
-darted
+darted 1
 damselfish
 destour
 demonial
