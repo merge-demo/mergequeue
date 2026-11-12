@@ -11007,7 +11007,7 @@ disanalogy
 disanchor
 deliberations
 disanimation
-disannuller
+disannuller 1
 dialogues
 dichroic
 dyophysite 1
