@@ -3769,7 +3769,7 @@ carbaryls
 ciconia
 chloroethylene
 carbazylic
-chlorpikrin
+chlorpikrin 1
 cheerios
 civilist
 carbazole
