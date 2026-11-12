@@ -3219,7 +3219,7 @@ elude
 equant
 educive
 extroversively
-eludible
+eludible 1
 enswathes
 enfollow
 elul
