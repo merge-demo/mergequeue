@@ -6203,7 +6203,7 @@ fairest
 flaring
 foragement
 frumpishness
-foe
+foe 1
 festooneries
 forecatharping
 fudder
