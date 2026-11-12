@@ -16168,7 +16168,7 @@ dispersions
 degas
 droplet
 desalinized
-deweylite
+deweylite 1
 dowdy
 downsliding
 doughnuts
