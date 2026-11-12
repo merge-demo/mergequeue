@@ -17829,7 +17829,7 @@ demographies
 deskmen
 deassimilation
 diemaker
-ducs
+ducs 1
 disaggregate
 depolarising
 dhunchee
