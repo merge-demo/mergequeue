@@ -7202,7 +7202,7 @@ forearming
 farer
 frockless
 frisesomorum
-fimbriate
+fimbriate 1
 filthless
 fortnight
 falseheartedly
