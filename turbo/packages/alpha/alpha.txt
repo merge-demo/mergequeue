@@ -21572,7 +21572,7 @@ asphodel
 aspy
 abilities
 aspidiaria
-aspidinol
+aspidinol 1
 aspidiske
 autotypies
 aspidistra
