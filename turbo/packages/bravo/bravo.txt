@@ -13935,7 +13935,7 @@ boxcars
 barwing 1
 billete
 bostonese
-bowsie
+bowsie 1
 bacteriuria
 boxful
 burette
