@@ -14033,7 +14033,7 @@ depasturation
 dehydrocorticosterone
 distraite
 door
-distraught
+distraught 1
 defensiveness
 distraughtly
 disappearances
