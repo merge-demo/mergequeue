@@ -1646,7 +1646,7 @@ emendandum
 exsecting
 ernst
 enshielding
-exanthine
+exanthine 1
 exhilaration
 eiders
 epilemmal
