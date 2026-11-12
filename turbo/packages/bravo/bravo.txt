@@ -12869,7 +12869,7 @@ bondslave
 behorror
 bifoil
 birthplace
-bg
+bg 1
 besieges
 befanned
 bacchiac
