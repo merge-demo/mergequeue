@@ -2856,7 +2856,7 @@ dramatizations
 donors
 decumanus
 daphnin
-diskos
+diskos 1
 discretively
 disposure
 dangle
