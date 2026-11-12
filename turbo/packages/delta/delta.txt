@@ -7864,7 +7864,7 @@ dogbodies
 dew
 degentilize
 diatoric
-depress
+depress 1
 defrayals
 dogtrots
 diverseness
