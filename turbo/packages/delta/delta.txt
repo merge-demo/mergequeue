@@ -14408,7 +14408,7 @@ diverse
 diversify
 diversification
 disporous
-diarch
+diarch 1
 diamondizing
 diversified
 devils
