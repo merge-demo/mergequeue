@@ -12130,7 +12130,7 @@ anat
 anatase
 ardebs
 anatases
-ancestress
+ancestress 1
 apogamically
 aspartate
 anathematical
