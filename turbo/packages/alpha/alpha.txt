@@ -24973,7 +24973,7 @@ awedness
 ashstone
 annullate
 awee
-aweek
+aweek 1
 acanthology
 aweel
 anaerobism
