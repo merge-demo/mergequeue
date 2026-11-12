@@ -6893,7 +6893,7 @@ escudos
 enlisted
 embonpoint
 ephoric
-eighteenths
+eighteenths 1
 establismentarian
 exuviable
 educabilian
