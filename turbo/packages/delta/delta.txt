@@ -4530,7 +4530,7 @@ dignosce
 decussis
 dendrite
 decern
-dorsilumbar
+dorsilumbar 1
 devocation
 drabbled
 demigroat
