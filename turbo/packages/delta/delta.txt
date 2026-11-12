@@ -4686,7 +4686,7 @@ deteriorated
 demitranslucence
 demits
 demitted
-denticulately
+denticulately 1
 dilutive
 duties
 dipterologist
