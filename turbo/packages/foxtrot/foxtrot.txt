@@ -4350,7 +4350,7 @@ ficiform
 fermi
 fieriest
 fibromatoid
-fosslify
+fosslify 1
 finific
 fibromyxoma
 frankify
