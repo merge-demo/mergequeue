@@ -15262,7 +15262,7 @@ cardiagraph
 confederate
 coreciprocal
 colters
-clamminess
+clamminess 1
 clarets
 clamming
 colpotomies
