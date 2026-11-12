@@ -3505,7 +3505,7 @@ fraternity
 fleches
 falcones
 fastigiate
-fulgorid
+fulgorid 1
 fusicladium
 filamentar
 fute
