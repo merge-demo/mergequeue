@@ -14825,7 +14825,7 @@ cyclope
 checkbird
 cytokinesis
 cytokinetic
-captan
+captan 1
 coradical
 cytokinin
 cytol
