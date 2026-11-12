@@ -13949,7 +13949,7 @@ answerability
 answered
 aphasia
 answerers
-answeringly
+answeringly 1
 archmachine
 amish
 abstrusely
