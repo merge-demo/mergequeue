@@ -9881,7 +9881,7 @@ gerygone
 garble
 gustless
 guanin
-gagate
+gagate 1
 ghoom
 guanize
 gamasid
