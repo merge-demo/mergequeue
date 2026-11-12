@@ -17022,7 +17022,7 @@ dressier
 diva
 dullest
 donned
-dipsosis
+dipsosis 1
 depressively
 dressed
 disgarrison
