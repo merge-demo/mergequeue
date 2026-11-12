@@ -5453,7 +5453,7 @@ femur
 filterable
 flexuosely
 flibbertigibbet
-floatative
+floatative 1
 fleering
 faunal
 forcibly
