@@ -1757,7 +1757,7 @@ embattle
 exhbn
 epigraphic
 eutony
-eyes
+eyes 1
 encasing
 eyeseed
 entophytically
