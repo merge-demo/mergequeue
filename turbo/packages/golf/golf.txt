@@ -4060,7 +4060,7 @@ galbulus
 gileno
 gaddingly
 goodnaturedness
-gape
+gape 1
 groomsman
 gigaton
 geogonical
