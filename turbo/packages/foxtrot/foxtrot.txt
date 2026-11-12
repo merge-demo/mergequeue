@@ -5721,7 +5721,7 @@ fortifies
 flirtatiously
 fundament
 floodwater
-fitroot
+fitroot 1
 flurry
 fere
 flippancies
