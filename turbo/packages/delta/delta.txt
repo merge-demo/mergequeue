@@ -11966,7 +11966,7 @@ disenabled
 duplicates
 differen
 disenchant
-dowd
+dowd 1
 disenchantments
 disenchantress
 derned
