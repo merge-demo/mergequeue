@@ -10793,7 +10793,7 @@ fissipeds
 fth
 feuars
 footsoldiers
-fanned
+fanned 1
 freinage
 factualistic
 flue
