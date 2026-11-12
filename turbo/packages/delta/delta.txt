@@ -8781,7 +8781,7 @@ declarators
 defeat
 defrocking
 dictaphone
-dequeen
+dequeen 1
 depeter
 dragonkind
 diestruses
