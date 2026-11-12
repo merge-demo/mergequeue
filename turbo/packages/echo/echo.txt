@@ -826,7 +826,7 @@ ectype
 epicarpal
 enwrite
 erythrinidae
-eral
+eral 1
 endocyst
 excrescent
 extremest
