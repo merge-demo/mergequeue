@@ -8236,7 +8236,7 @@ falsifications
 fossulate
 foresweat
 fabraea
-fast
+fast 1
 fesse
 forgeable
 forwaked
