@@ -3889,7 +3889,7 @@ eminencies
 evendown
 exodermis
 exterminating
-endorsor
+endorsor 1
 easternized
 esperance
 eminently
