@@ -3016,7 +3016,7 @@ colander
 cantonal
 cantonalism
 crapelike
-chinse
+chinse 1
 cantoner
 cowleeching
 cellocut
