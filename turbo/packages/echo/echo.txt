@@ -5261,7 +5261,7 @@ earthshakingly
 esterellite
 efik
 enchest
-emulsionize
+emulsionize 1
 engrafting
 effectuate
 ecmnesia
