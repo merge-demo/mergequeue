@@ -5178,7 +5178,7 @@ greathearted
 gorgeable
 guidwillie
 gainsay
-gunbright
+gunbright 1
 grandioseness
 gleamy
 gorer
