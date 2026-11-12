@@ -5471,7 +5471,7 @@ energizers
 eyrant
 eosinophilia
 elasmosaurus
-esterifiable
+esterifiable 1
 erythrocytolysin
 energizes
 electroscopic
