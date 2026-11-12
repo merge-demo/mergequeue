@@ -9625,7 +9625,7 @@ bipedism
 biol
 bishopstool
 bishopweed
-bigfoot
+bigfoot 1
 bobbinets
 benison
 barterers
