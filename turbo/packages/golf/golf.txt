@@ -8283,7 +8283,7 @@ grapier
 garrisons
 grainless
 gusseting
-glossographer
+glossographer 1
 globule
 graping
 grappa
