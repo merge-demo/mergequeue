@@ -6035,7 +6035,7 @@ exocrinology
 estoque
 expromissor
 ephphatha
-endosarcs
+endosarcs 1
 endemical
 expire
 epiglottises
