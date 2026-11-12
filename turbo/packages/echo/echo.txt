@@ -13212,7 +13212,7 @@ eldred
 exheredate
 exoarteritis
 enlightenedness
-explanted
+explanted 1
 explat
 empurples
 exertive
