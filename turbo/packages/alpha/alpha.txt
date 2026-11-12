@@ -5290,7 +5290,7 @@ affines
 arthron
 anthomedusae
 atonement
-alemanni
+alemanni 1
 aggerate
 aphototropic
 affinities
