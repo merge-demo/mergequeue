@@ -6571,7 +6571,7 @@ caxtonian
 caza
 cazimi
 crossability
-confusticate
+confusticate 1
 chondrofetal
 cazique
 cyanhidrosis
