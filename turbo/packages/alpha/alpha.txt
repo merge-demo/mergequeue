@@ -12367,7 +12367,7 @@ anders
 autoirrigation
 adipocerite
 americanism
-alkenna
+alkenna 1
 apolytikion
 assiduous
 andesites
