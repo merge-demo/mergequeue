@@ -10950,7 +10950,7 @@ enterocentesis
 encoignure
 elevators
 equivocalness
-echiurid
+echiurid 1
 embrittlement
 echinus
 euproctis
