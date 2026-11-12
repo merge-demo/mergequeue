@@ -6704,7 +6704,7 @@ gradual
 gastrotheca
 growse
 groovier
-gardenize
+gardenize 1
 goosey
 gorsedd
 goup
