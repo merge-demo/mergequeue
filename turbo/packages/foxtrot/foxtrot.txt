@@ -9512,7 +9512,7 @@ footling
 finiteness
 finiglacial
 fiador
-flavonol
+flavonol 1
 furcilia
 flitches
 flawn
