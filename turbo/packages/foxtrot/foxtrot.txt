@@ -1237,7 +1237,7 @@ frigidity
 fenders
 forewarner
 flexural
-flinched
+flinched 1
 feodatory
 funkias
 formene
