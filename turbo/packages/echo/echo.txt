@@ -10579,7 +10579,7 @@ enologies
 earthiness
 expectance
 euchrome
-euclideanism
+euclideanism 1
 euclidian
 epicoeliac
 exhalant
