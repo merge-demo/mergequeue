@@ -4704,7 +4704,7 @@ dorsicollar
 darkling
 drusean
 douzieme
-diminutivize
+diminutivize 1
 defoliates
 dermonecrotic
 designingly
