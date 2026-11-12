@@ -6681,7 +6681,7 @@ brontosaurus
 berm
 berme
 bossiest
-bathe
+bathe 1
 bologna
 bermensch
 bermes
