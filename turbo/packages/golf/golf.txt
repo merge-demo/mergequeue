@@ -2714,7 +2714,7 @@ gravitons
 gamey
 gusle
 grith
-gemmoid
+gemmoid 1
 gnatho
 groundmass
 glozing
