@@ -5877,7 +5877,7 @@ fecund
 fistfight
 facsimilize
 fates
-flexity
+flexity 1
 feague
 fangas
 fogbows
