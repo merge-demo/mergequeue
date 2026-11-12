@@ -10914,7 +10914,7 @@ excommunicate
 esd
 euphues
 epipedometry
-epilogizing
+epilogizing 1
 entomologising
 epipteric
 eulogies
