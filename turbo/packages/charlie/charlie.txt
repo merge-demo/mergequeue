@@ -7362,7 +7362,7 @@ clysis
 cephalonasal
 cephalopathy
 cephalopharyngeal
-cephalophyma
+cephalophyma 1
 cephalophine
 cryostats
 cervisia
