@@ -776,7 +776,7 @@ emotes
 echinal
 euomphalid
 egger
-echinops
+echinops 1
 ecrase
 enclitic
 escort
