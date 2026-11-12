@@ -11301,7 +11301,7 @@ blown
 bananas
 blowoff
 blowouts
-bedels
+bedels 1
 blowproof
 bleachability
 barograms
