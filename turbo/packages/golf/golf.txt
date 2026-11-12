@@ -6826,7 +6826,7 @@ gonocoele
 gudesire
 gonophs
 galloflavine
-gallowsness
+gallowsness 1
 gladiolus
 gatewright
 gaberdines
