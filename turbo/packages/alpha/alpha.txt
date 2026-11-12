@@ -5373,7 +5373,7 @@ affranchise
 autocarist
 adiadokokinesi 1
 affret
-aptotic
+aptotic 1
 agnosticism
 agglutinable
 apneustic
