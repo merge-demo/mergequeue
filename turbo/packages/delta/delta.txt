@@ -3166,7 +3166,7 @@ defenestration
 dipsas
 defecator
 daneflower
-defect
+defect 1
 duction
 degusting
 douched
