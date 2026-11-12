@@ -7437,7 +7437,7 @@ fillemot
 faience
 firefall
 forevalue
-firstship
+firstship 1
 forcibility 1
 forcibleness
 futurologist
