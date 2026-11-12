@@ -12826,7 +12826,7 @@ exoticness
 epicoelian
 enantioses
 ensile
-exotics
+exotics 1
 exotoxic
 exacerbate
 ecomomist
