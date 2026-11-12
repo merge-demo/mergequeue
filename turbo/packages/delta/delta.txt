@@ -13809,7 +13809,7 @@ dengues
 dissuit
 dispauperize
 duhat
-dignifies
+dignifies 1
 dilemmatically
 dissunder
 deflexible
