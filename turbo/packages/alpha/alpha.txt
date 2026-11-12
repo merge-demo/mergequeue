@@ -2477,7 +2477,7 @@ acnemia
 argumentum
 adiaphoral
 acnes
-aphrasia
+aphrasia 1
 amperemeter
 acnida
 arabizes
