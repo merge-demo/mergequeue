@@ -7577,7 +7577,7 @@ bogglish
 bewhore
 bewidow
 bulldozers
-boke
+boke 1
 breaming
 bemad
 barbudos
