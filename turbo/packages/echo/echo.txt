@@ -8755,7 +8755,7 @@ ektexines
 extrusive
 emmergoose
 evitate
-entombing
+entombing 1
 extrovertedness
 embryotrophic
 equivelocity
