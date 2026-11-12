@@ -17514,7 +17514,7 @@ antidiabetic
 antigonus
 apparats
 apparatus 1
-appareling
+appareling 1
 apparentements
 airify
 anoxyscope
