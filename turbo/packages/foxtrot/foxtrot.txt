@@ -5418,7 +5418,7 @@ fledgeling
 fiendhead
 foxfinger
 firs
-freed
+freed 1
 fetis
 fragmentize
 forbled
