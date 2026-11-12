@@ -6130,7 +6130,7 @@ estuary
 enforced
 epiphanise
 enlodgement
-enlumine
+enlumine 1
 entheos
 elites
 ergoplasm
