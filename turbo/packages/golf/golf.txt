@@ -4296,7 +4296,7 @@ glabellum
 gynandrian
 gynecratic
 gelidness
-gorgonia
+gorgonia 1
 gyneolater
 grasseye
 guinfo
