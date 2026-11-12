@@ -70,7 +70,7 @@ facebow
 fenchone
 flagships
 flecken
-facellite
+facellite 1
 felonious
 furthers
 flysch
