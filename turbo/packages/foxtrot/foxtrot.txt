@@ -1315,7 +1315,7 @@ flutework
 fructivorous
 fatbird
 fatefully
-fanaticise
+fanaticise 1
 ferfel
 fernambuck
 finality
