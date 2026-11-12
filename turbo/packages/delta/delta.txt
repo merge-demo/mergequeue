@@ -8324,7 +8324,7 @@ dialectal
 declaim
 draftier
 darkishness
-damoclean
+damoclean 1
 ditrigonally
 dresses
 dockmaster
