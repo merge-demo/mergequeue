@@ -1693,7 +1693,7 @@ calorimetry
 calorimetrically
 calorimotor
 cossyrite
-calorist
+calorist 1
 calorizing
 cawing
 calosoma
