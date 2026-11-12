@@ -19112,7 +19112,7 @@ arabine
 abderian
 antivenine
 alit
-aristocraticness
+aristocraticness 1
 arcticward
 allocute
 absorbant
