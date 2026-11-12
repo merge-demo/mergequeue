@@ -839,7 +839,7 @@ allergy
 assertors
 astringents
 aerosols
-artinesses
+artinesses 1
 acesodyne
 alnitak
 anam
