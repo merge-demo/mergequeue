@@ -15721,7 +15721,7 @@ chirotype
 clima
 consilient
 chrysograph
-claviger
+claviger 1
 carshops
 coy
 carlisle
