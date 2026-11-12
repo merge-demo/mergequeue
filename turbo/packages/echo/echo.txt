@@ -11263,7 +11263,7 @@ enwrapped 1
 ectoplasy
 extraversive
 eutaxy
-evaporates
+evaporates 1
 edp
 eimer
 extrascholastic
