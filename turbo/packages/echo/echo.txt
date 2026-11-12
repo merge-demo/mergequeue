@@ -7249,7 +7249,7 @@ egocentrically
 erysipelothrix
 eorhyolite
 extinguishable
-eos
+eos 1
 earshot
 ectozoon
 eosate
