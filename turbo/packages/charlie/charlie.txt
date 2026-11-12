@@ -4532,7 +4532,7 @@ carnaria
 carnassial
 carnate
 ctimo
-corupay
+corupay 1
 cymlin
 cyanohermidin
 cordialize
