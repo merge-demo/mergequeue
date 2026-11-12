@@ -25584,7 +25584,7 @@ corpn
 corpora
 corporacies
 calcic
-corporalcy
+corporalcy 1
 corporale
 corporalism
 calippic
