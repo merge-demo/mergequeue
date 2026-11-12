@@ -7675,7 +7675,7 @@ eustele
 eugenol
 exptl
 embrued
-enukki
+enukki 1
 effumability
 epideictic
 endomesoderm
