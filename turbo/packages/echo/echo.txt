@@ -1457,7 +1457,7 @@ envelop
 enfarce
 euxanthate
 efforts
-extracranial
+extracranial 1
 effraction
 eighths
 etymologised
