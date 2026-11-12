@@ -28577,7 +28577,7 @@ crustaceans
 curliness
 coelelminthic
 credulity
-cardiosclerosis
+cardiosclerosis 1
 credulities
 carabin
 creed
