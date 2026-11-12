@@ -10949,7 +10949,7 @@ fulnesses
 flanconade
 forgetness
 fusoid
-forewit
+forewit 1
 fld
 foreseing
 fooled
