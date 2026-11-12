@@ -1542,7 +1542,7 @@ dartman
 delphinium
 disciplinarity
 dextrously
-dicranoid
+dicranoid 1
 doubtfulness
 deactivation
 dandelion
