@@ -7948,7 +7948,7 @@ enterolithiasis 1
 exiting
 evangels
 encephalonarcosis
-equisetic
+equisetic 1
 evaniidae
 epimerized
 ephebus
