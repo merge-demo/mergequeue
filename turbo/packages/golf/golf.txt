@@ -6693,7 +6693,7 @@ goniatites
 garterless
 gobylike
 gibbet
-gulae
+gulae 1
 growable
 geotherm
 gromatic
