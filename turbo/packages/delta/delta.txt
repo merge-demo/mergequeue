@@ -1669,7 +1669,7 @@ deaminize
 deammonation
 deashing
 dichastic
-dandle
+dandle 1
 deanships
 dothiorella
 dehull
