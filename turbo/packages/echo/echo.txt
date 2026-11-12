@@ -5470,7 +5470,7 @@ egging
 energizers
 eyrant
 eosinophilia
-elasmosaurus
+elasmosaurus 1
 esterifiable
 erythrocytolysin
 energizes
