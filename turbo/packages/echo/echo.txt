@@ -771,7 +771,7 @@ equilibrist
 ecoute
 exscinding
 eurypylous
-ecphonema
+ecphonema 1
 emotes
 echinal
 euomphalid
