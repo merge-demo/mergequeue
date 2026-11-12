@@ -23692,7 +23692,7 @@ amioidei
 auriculocranial
 apios
 amphisile
-auriculotemporal
+auriculotemporal 1
 auriferous
 appreciational
 auxograph
