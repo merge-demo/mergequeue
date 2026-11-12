@@ -15414,7 +15414,7 @@ buglewort
 bekick
 burgensic
 bloodbath
-brevete
+brevete 1
 barghests
 biotelemetry
 bowsed
