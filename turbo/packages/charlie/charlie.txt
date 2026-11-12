@@ -18663,7 +18663,7 @@ cointensity
 cointerest
 cointerred
 cointerring
-cantrips
+cantrips 1
 chiselling
 coinvolve
 coyo
