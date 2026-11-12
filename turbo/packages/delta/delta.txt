@@ -2558,7 +2558,7 @@ declass
 dimorphs
 dweller
 declassification
-disbudder
+disbudder 1
 derringer
 declassifies
 diplophonic
