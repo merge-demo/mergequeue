@@ -7075,7 +7075,7 @@ brescian
 beetler
 bathyscaphes
 bespeckle
-bethylid
+bethylid 1
 bespeckled
 benzoyls
 blindman
