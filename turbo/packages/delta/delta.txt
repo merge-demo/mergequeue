@@ -8290,7 +8290,7 @@ dispossess
 droob
 dissimile
 disinvigorate
-defocus
+defocus 1
 dermatopathia
 disfavouring
 dhoni
