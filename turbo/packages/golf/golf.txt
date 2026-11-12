@@ -4774,7 +4774,7 @@ giddyhead
 gizz
 gorgoniaceous
 gizzard
-glimmerings
+glimmerings 1
 gal
 gizzern
 glycogenize
