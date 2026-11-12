@@ -15299,7 +15299,7 @@ distilleries
 dudman
 dismit
 demonolatry
-deafforestation
+deafforestation 1
 dolphus 1
 dexterity
 dryfat
