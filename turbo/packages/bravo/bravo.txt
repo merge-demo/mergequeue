@@ -16852,7 +16852,7 @@ buffalofish
 begets
 burglarised
 bonnyvis
-buffaloing
+buffaloing 1
 biarcuated
 biflagellate
 buffball
