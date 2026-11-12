@@ -12822,7 +12822,7 @@ churchyards
 chuckholes
 churching
 crabbedly
-cognisance
+cognisance 1
 chauth
 churchite
 cirrhopod
