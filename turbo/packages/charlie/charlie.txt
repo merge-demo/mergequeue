@@ -11963,7 +11963,7 @@ chlorins
 chorist
 cyanuret
 choristate
-chorister
+chorister 1
 coenacting
 congeals
 choristership
