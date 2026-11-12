@@ -4813,7 +4813,7 @@ demolisher
 demolishing
 deviative
 daily 1
-discide
+discide 1
 discharge
 demolition
 demolitionist
