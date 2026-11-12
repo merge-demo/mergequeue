@@ -12431,7 +12431,7 @@ cranemanship
 competently
 chromoisomer
 chromoisomeric
-chamaenerion
+chamaenerion 1
 candelabra
 cerebralize
 corrody
