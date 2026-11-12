@@ -20528,7 +20528,7 @@ chlorider 1
 compatriotic
 chilicote
 chays
-compatriots
+compatriots 1
 compd
 contritely
 cusparia
