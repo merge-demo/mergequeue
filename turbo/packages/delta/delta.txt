@@ -8550,7 +8550,7 @@ debateful
 daimonion
 dewfall
 desiredly
-diaphanously
+diaphanously 1
 douglas
 diphthongal
 deobstruent
