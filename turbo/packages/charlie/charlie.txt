@@ -13236,7 +13236,7 @@ communicants
 cataloguer
 chemiatry
 cycloid
-coalternation
+coalternation 1
 cycloidean
 coalshed
 culmicolous
