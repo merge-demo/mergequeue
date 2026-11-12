@@ -11680,7 +11680,7 @@ fadable
 frigorific
 feru
 felids
-finikin
+finikin 1
 flare
 flyleaves
 fagaceous
