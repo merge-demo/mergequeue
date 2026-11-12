@@ -6318,7 +6318,7 @@ dermestid
 dermatoneural
 dextrogyration
 deject
-debit
+debit 1
 defibrillate
 disseminating
 depressions
