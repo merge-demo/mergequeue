@@ -10103,7 +10103,7 @@ eumolpus
 eutopia
 euphausiacea
 ethereality
-epiboly
+epiboly 1
 etherealization
 extrusible
 electrochemistry
