@@ -12264,7 +12264,7 @@ disgrading
 driblet 1
 denitration
 demigrate
-desynchronize
+desynchronize 1
 diphosphate
 diaconia
 delineates
