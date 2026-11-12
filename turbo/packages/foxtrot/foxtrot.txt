@@ -1921,7 +1921,7 @@ feta
 fineness
 fleeceless
 fremescent
-flitched
+flitched 1
 forfalt
 filicologist
 flowerlessness
