@@ -8598,7 +8598,7 @@ fumarases
 fluotantalic
 foredid
 flecks
-fir
+fir 1
 fittings
 ferretto
 fuzzed
