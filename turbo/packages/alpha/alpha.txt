@@ -6391,7 +6391,7 @@ agriological
 antiochene
 animate 1
 allotypical
-agrypnia
+agrypnia 1
 agrypnotic
 agroan
 agrobacterium
