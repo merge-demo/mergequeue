@@ -8583,7 +8583,7 @@ grave
 gravisphere
 guiltlessly
 gliderport
-glomeli
+glomeli 1
 gainliest
 gavotted
 governess
