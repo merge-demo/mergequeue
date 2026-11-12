@@ -2345,7 +2345,7 @@ excrete
 espaliering
 encore
 endophragm
-encomia
+encomia 1
 evenlong
 electrocataphoresis
 equison
