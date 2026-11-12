@@ -11945,7 +11945,7 @@ blastemas
 boggler
 beballed
 bannerol
-buffeted
+buffeted 1
 bombing
 bogglers
 boggling
