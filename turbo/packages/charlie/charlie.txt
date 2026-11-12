@@ -25650,7 +25650,7 @@ clankum
 corsair
 cannula
 closestool
-corpulentness
+corpulentness 1
 converginerved
 corpuscularian
 colombian
