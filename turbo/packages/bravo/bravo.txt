@@ -9183,7 +9183,7 @@ bogo
 bourbonesque
 bipedality
 bipeds
-bipeltate
+bipeltate 1
 benettle
 brunches
 befouling
