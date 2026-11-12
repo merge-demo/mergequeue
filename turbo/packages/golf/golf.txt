@@ -6072,7 +6072,7 @@ glovemen 1
 glycemia
 griddle
 gownsman
-gullishly
+gullishly 1
 guttiest
 gyttja
 gairfowl
