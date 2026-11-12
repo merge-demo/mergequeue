@@ -747,7 +747,7 @@ enstyle
 ecospecific
 emblematised
 effaces
-endermatic
+endermatic 1
 effascinate
 exuvium
 ecotype
