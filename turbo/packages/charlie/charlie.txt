@@ -6877,7 +6877,7 @@ celt
 cofaster
 celtiberian
 celticize
-celtidaceae
+celtidaceae 1
 celtiform
 consortiums
 celtism
