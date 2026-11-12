@@ -20533,7 +20533,7 @@ arteriospasm
 arteriostenosis
 aetheogamic
 admix
-arteriotrepsis
+arteriotrepsis 1
 amman
 antilytic
 acculturating
