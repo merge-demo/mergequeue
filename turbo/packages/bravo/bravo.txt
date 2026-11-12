@@ -2677,7 +2677,7 @@ bellying
 bable
 bribeable
 barling
-birdwise
+birdwise 1
 barghest
 breechloader
 basiliscus
