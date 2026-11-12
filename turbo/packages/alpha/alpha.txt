@@ -8712,7 +8712,7 @@ alleluia
 applesauce
 alleluiah
 agers
-amnesiacs
+amnesiacs 1
 appareled
 allemand
 alleniate
