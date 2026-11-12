@@ -15355,7 +15355,7 @@ domesticator
 decylene
 dehumidifies
 diobolon
-deciliters
+deciliters 1
 difformity
 dikaryotic
 disencumbrance
