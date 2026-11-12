@@ -1579,7 +1579,7 @@ eglomise
 episkeletal
 errite
 eurasia
-entires
+entires 1
 enumerator
 eucaines
 eff
