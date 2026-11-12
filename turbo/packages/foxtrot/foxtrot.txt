@@ -9244,7 +9244,7 @@ fack 1
 fraises
 fausant
 fishable
-fretwise
+fretwise 1
 fascinery
 frontispieced
 fraktur
