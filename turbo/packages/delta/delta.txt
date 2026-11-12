@@ -716,7 +716,7 @@ diatom
 dyspnoeas
 deadmelt
 danceability
-danceable
+danceable 1
 demoniacs
 danced
 diddled 1
