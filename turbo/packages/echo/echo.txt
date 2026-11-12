@@ -61,7 +61,7 @@ earless
 eyn
 excuss
 ecotypes 1
-elf
+elf 1
 empaneling
 earliest
 emarginate
