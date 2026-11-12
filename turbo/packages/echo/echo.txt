@@ -2816,7 +2816,7 @@ epipolic
 entoptical
 equivalencing
 externalness
-eater
+eater 1
 epiclesis
 embden
 endomastoiditis
