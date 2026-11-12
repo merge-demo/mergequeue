@@ -8384,7 +8384,7 @@ iobbnnyy
 iobcc
 iobcsl
 iobcz
-iobdvu
+iobdvu 1
 iobe
 iobegp
 iobeov
