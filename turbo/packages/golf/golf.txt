@@ -6551,7 +6551,7 @@ galls 1
 goma
 glossoplegia
 grins
-granduncles
+granduncles 1
 gromwell
 gleeman
 gastrologists
