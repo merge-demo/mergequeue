@@ -4523,7 +4523,7 @@ enshroud
 egises
 ecclesiastic
 ejectamenta
-elevatedness
+elevatedness 1
 externize
 encyclical
 enureses
