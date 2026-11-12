@@ -15373,7 +15373,7 @@ bandylegged
 blisterwort
 bohorok
 boisterously
-brieflessly
+brieflessly 1
 briefness
 bleeds
 bedstaves
