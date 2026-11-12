@@ -21631,7 +21631,7 @@ anamniote
 abbreviatory
 approvable
 azoxime
-asquint
+asquint 1
 anallagmatis
 authorising
 agriotypus
