@@ -6329,7 +6329,7 @@ diagonial
 destrer
 dermis
 drawbores
-diaplasis
+diaplasis 1
 devchar
 dermobranchiate
 deflorations
