@@ -17560,7 +17560,7 @@ disinflationary
 disappeared
 drumlinoid
 diverter
-decelerated
+decelerated 1
 dipsomaniacal
 demimentoniere
 directrices
