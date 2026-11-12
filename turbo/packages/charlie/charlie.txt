@@ -13232,7 +13232,7 @@ crass
 cyclohexanone
 cycloheximide
 chetverik
-communicants
+communicants 1
 cataloguer
 chemiatry
 cycloid
