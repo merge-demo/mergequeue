@@ -8983,7 +8983,7 @@ bondieuserie
 bashing
 baginda
 biomes
-beanlike
+beanlike 1
 beavery
 babelike
 brontephobia
