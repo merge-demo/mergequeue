@@ -11116,7 +11116,7 @@ doeg
 decciare
 danite
 dismask
-defectibility
+defectibility 1
 devvel
 dyeline
 disavower
