@@ -4657,7 +4657,7 @@ encyclics
 equisetum
 extroversive
 eucrites
-elbowing
+elbowing 1
 eyeopener
 extraterritorially
 encyclopedia
