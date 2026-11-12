@@ -10225,7 +10225,7 @@ glamourously
 galusha
 geissospermin
 gainsays
-glaucous
+glaucous 1
 gobbet
 gunless
 guillotinist
