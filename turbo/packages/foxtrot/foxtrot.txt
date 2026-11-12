@@ -3559,7 +3559,7 @@ fairylands
 fulgence
 filched
 frenchism
-fogie
+fogie 1
 flamboyance
 funmaker
 fencelet
