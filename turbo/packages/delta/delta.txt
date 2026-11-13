@@ -349,7 +349,7 @@ daydreams
 dilligrout
 disinsection
 dropling
-detentive
+detentive 1
 daybreaks
 dreamt
 dermathemia
