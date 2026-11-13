@@ -926,7 +926,7 @@ galleylike
 gawkishness
 gatewise
 guelphism
-greedy
+greedy 1
 grantees
 germal
 gelototherapy
