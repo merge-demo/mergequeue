@@ -21009,7 +21009,7 @@ cany
 cancerroot
 chipmuck
 choosier
-compsoa
+compsoa 1
 canoncito
 comique
 clockkeeper
