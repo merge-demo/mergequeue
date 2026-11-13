@@ -12801,7 +12801,7 @@ anaunter
 apardon 1
 aubergine
 angiodiascopy
-allegiare
+allegiare 1
 angiogeny
 anyway
 angiohemophilia
