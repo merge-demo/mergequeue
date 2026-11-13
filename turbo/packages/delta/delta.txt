@@ -5874,7 +5874,7 @@ dioscuri
 deoxygenization 1
 dryopians
 deforceor
-depredate
+depredate 1
 depredated
 definitiveness
 diagnoses
