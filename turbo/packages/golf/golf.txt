@@ -6647,7 +6647,7 @@ gambusias
 gondolas
 guidons
 gondoletta
-goniatitoid
+goniatitoid 1
 guffs
 gamboller
 gordius
