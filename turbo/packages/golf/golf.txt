@@ -780,7 +780,7 @@ glossolalist
 gluck
 gutturize
 galvanothermometer
-glint
+glint 1
 ggr
 goldfinch
 galliformes
