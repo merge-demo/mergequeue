@@ -10015,7 +10015,7 @@ flans
 fluorometric
 fringehead
 fringelet 1
-fruitier
+fruitier 1
 fringent
 frizzer
 feminacy
