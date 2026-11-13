@@ -10798,7 +10798,7 @@ gutterspout
 grandfatherhood
 gadoidea
 geochronologic
-gynomonoecious
+gynomonoecious 1
 gilbert
 gnomonics
 glyptography
