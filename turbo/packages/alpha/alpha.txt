@@ -18639,7 +18639,7 @@ agropyron
 automats
 alethiology
 antisepsis
-acarophilous
+acarophilous 1
 acini
 asterisking
 acinous
