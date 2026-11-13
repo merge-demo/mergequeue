@@ -3898,7 +3898,7 @@ foreschooling
 fortuitously
 fluidness
 financer
-fripperies
+fripperies 1
 followers
 fudged
 fevertrap
