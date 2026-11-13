@@ -5850,7 +5850,7 @@ germanism
 gendarmes 1
 gruiformes
 geroderma
-graffito
+graffito 1
 glycolaldehyde
 gedact
 greenland
