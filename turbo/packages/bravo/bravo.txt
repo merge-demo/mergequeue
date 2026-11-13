@@ -8399,7 +8399,7 @@ bilaminar
 burblier
 bemusement
 behaviors
-badgerer
+badgerer 1
 bilaterally
 belabouring
 boggart
