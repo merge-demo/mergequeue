@@ -2102,7 +2102,7 @@ extrapolator
 effuse
 elastically
 eurycephalous
-exudes
+exudes 1
 emberiza
 effete
 eberthella
