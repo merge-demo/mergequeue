@@ -16386,7 +16386,7 @@ dogtrotted
 deducive
 dultie
 drawtube
-deltal
+deltal 1
 doeuvre
 donet
 downwind
