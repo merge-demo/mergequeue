@@ -3478,7 +3478,7 @@ fumaroid
 figshell
 flankard
 fury
-foam
+foam 1
 ficins
 fordays
 floorhead
