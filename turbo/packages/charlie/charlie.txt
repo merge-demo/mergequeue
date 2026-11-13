@@ -4287,7 +4287,7 @@ cottages
 carfare
 carfares
 carfloat
-crenic
+crenic 1
 coater
 carfuffle
 capiteaux
