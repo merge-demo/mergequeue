@@ -31199,7 +31199,7 @@ corrosive
 cuproiodargyrite
 cloysome
 chalque
-cuproplumbite
+cuproplumbite 1
 cuproscheelite
 cytoplastic
 chromaticity
