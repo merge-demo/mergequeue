@@ -6911,7 +6911,7 @@ dichromasy
 decanter
 dialled
 despair
-delirous
+delirous 1
 drunken
 dirgeful
 despairful
