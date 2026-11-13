@@ -13751,7 +13751,7 @@ covenanter
 cinemas
 cinematheque
 carsmith
-cheeringly
+cheeringly 1
 consumers
 comakers
 catallactically
