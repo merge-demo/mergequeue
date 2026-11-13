@@ -638,7 +638,7 @@ excitancy
 etymonic
 ellipses
 earful
-excruciatingness
+excruciatingness 1
 empiricist
 empetrum
 embryogeny
