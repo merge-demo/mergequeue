@@ -15730,7 +15730,7 @@ broadspread
 broadsword
 bamangwato
 bromethyl
-betorcin
+betorcin 1
 bolder
 blithesomeness
 biaxially
