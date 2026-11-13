@@ -5109,7 +5109,7 @@ dendrocoelan
 dasypygal 1
 dendrocoele
 dendrocolaptine
-dendroctonus
+dendroctonus 1
 degrade
 duplicating
 dendrohyrax
