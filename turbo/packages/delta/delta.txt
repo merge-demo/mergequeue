@@ -16502,7 +16502,7 @@ despatcher
 darii
 dilucidate
 disdainable
-downcurved
+downcurved 1
 diomedes
 dictated
 dehydrofreezing
