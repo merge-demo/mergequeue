@@ -12528,7 +12528,7 @@ bonhomies
 bulbs
 boni
 bony
-burtonize 1
+burtonize 2
 bloodshot
 barnage
 balsamroot
