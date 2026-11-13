@@ -5507,7 +5507,7 @@ australasian
 acrostichic
 alt
 aftercooler
-autocollimate
+autocollimate 1
 ack
 apological
 almoning
