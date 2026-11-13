@@ -4572,7 +4572,7 @@ greenhorns 1
 gluelike
 gutturalized
 gilim 1
-gobbledygook
+gobbledygook 1
 glim
 galloper
 goobers
