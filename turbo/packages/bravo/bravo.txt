@@ -8137,7 +8137,7 @@ beloeilite
 busybodied
 bes
 breakage
-beardie
+beardie 1
 brontophobia
 bash
 beedged
