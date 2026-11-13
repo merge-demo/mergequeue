@@ -1996,7 +1996,7 @@ feebless
 fillock
 fernticle
 fouty
-functionalize
+functionalize 1
 frigiferous
 flchette
 flushed
