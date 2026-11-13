@@ -22012,7 +22012,7 @@ argentometrically
 achromatizable
 assumes
 apothesis
-antiperiodic
+antiperiodic 1
 act
 assuming
 automatonlike
