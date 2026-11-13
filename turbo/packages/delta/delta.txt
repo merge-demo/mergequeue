@@ -3680,7 +3680,7 @@ daunting
 dictamnus
 dasnt
 degusted
-disbowelled
+disbowelled 1
 dregginess
 dewlaps
 dehache
