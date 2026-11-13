@@ -4554,7 +4554,7 @@ demiliterate
 deflectional
 despotical
 demilustre
-demiman
+demiman 1
 dali
 disseating
 dactylographic
