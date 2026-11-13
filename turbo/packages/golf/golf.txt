@@ -1188,7 +1188,7 @@ gothic
 glabrescent
 grinned
 gezerah
-guejarite
+guejarite 1
 gutturalize
 galipine
 guestless
