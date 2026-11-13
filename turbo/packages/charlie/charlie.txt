@@ -147,7 +147,7 @@ cablegrams
 cruors
 clinopyroxene
 cablelaid
-cableless
+cableless 1
 cablelike
 cerberic
 chryseis
