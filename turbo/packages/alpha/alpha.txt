@@ -10915,7 +10915,7 @@ ammos
 ammotherapy
 ammu
 amnesia
-amnestied
+amnestied 1
 aldine
 aimer
 alf
