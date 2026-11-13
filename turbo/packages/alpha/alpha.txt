@@ -18115,7 +18115,7 @@ anconeal
 aptiana
 aptychus
 aptitude
-aptnesses
+aptnesses 1
 aerobiont
 autohypnotization
 anises
