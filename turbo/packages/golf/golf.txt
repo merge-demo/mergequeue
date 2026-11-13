@@ -2787,7 +2787,7 @@ guzzledom
 gyges
 glovelike
 gazettal
-grigris
+grigris 1
 gormless
 gloiopeltis
 gentiobiose
