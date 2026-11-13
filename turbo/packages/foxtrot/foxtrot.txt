@@ -1117,7 +1117,7 @@ farsightedness
 flooring 1
 forkedly
 faciocervical
-filoplumaceous
+filoplumaceous 1
 flatwoods
 febris
 foes
