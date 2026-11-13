@@ -2962,7 +2962,7 @@ fluke
 fading
 fewterer
 francophil
-francium
+francium 1
 flanned
 ferrels
 fezzed
