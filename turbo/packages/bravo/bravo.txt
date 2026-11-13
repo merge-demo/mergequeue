@@ -2848,7 +2848,7 @@ barotropic
 barouchette
 bioecologic
 baroxyton
-benignantly
+benignantly 1
 beebread
 binaurally
 bawrel
