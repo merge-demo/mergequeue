@@ -4908,7 +4908,7 @@ gossard
 glauberite
 glair
 glaire
-glosses
+glosses 1
 gigger
 growliness
 glaired
