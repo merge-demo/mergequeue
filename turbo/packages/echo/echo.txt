@@ -426,7 +426,7 @@ elfish
 exposits
 exacerbation
 ebullioscopic
-extendibility
+extendibility 1
 echappee
 epaxially
 excuse
