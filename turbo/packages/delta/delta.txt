@@ -8176,7 +8176,7 @@ disenorm
 diaconica
 depotentiation
 dragooning
-deputable
+deputable 1
 dactylic
 dart
 drabbets
