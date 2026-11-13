@@ -3886,7 +3886,7 @@ baxtone
 baumhauerite
 brachyskelic
 boughten
-begray
+begray 1
 bazars
 bint
 brockage
