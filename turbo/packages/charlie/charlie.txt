@@ -2953,7 +2953,7 @@ carcan
 cantharidize
 cantharidized
 cantharus
-clotter
+clotter 1
 chank
 cleverest
 caustic
