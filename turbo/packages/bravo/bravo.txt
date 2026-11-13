@@ -3232,7 +3232,7 @@ baclava
 bravish
 basidiospore
 basidiosporous 1
-buckbush
+buckbush 1
 backstrapped
 batiked
 bodiless
