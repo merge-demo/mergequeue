@@ -7481,7 +7481,7 @@ grunerite
 grapplement
 gomerals
 gists
-geodesy
+geodesy 1
 gimleting
 gades
 gonorrhoea
