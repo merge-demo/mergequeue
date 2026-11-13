@@ -4504,7 +4504,7 @@ ductibility
 defused
 drinkableness
 drumloidal
-disagreeables
+disagreeables 1
 destruction
 dialyzer
 demiculverin
