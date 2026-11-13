@@ -17353,7 +17353,7 @@ cimline
 coassist
 coassistant
 cupola
-coassume
+coassume 1
 crystallic
 coassuming
 chrysolite
