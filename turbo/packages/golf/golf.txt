@@ -5740,7 +5740,7 @@ gantline
 gallant
 gaskins
 guanyl
-gyrolite
+gyrolite 1
 gurus
 geologize
 gratia
