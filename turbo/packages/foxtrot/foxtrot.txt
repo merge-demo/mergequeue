@@ -3814,7 +3814,7 @@ facette
 fairyism
 fluoridisation
 flebotomy
-flippantness
+flippantness 1
 forestaves
 forthfare
 faut
