@@ -7298,7 +7298,7 @@ gambreled
 gassendist
 gastraea
 gortonite
-gauffer
+gauffer 1
 graphiologist
 glutaric
 gubernator
