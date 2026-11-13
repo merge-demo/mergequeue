@@ -1020,7 +1020,7 @@ fascicles
 flexuose
 flatlong
 fren
-fumosity
+fumosity 1
 feverweed
 fluidities
 fretful
