@@ -5088,7 +5088,7 @@ glycan
 guilders
 gravery 1
 glassmaking
-gunfought
+gunfought 1
 gud
 gibsons
 galactophygous
