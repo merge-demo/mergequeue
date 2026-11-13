@@ -5323,7 +5323,7 @@ cassius
 cassock
 cleanser
 ctenophora
-cassocked
+cassocked 1
 cultures
 cassocks
 chamberlain
