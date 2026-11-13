@@ -8261,7 +8261,7 @@ epigones
 erratums
 emulate
 endolaryngeal
-endplay
+endplay 1
 equivoke
 enlaurel
 epitheliomatous
