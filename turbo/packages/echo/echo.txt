@@ -12131,7 +12131,7 @@ emaciate
 extrados
 emphysematous
 expt
-esclavage
+esclavage 1
 energise
 elasticin
 exuviating
