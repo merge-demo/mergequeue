@@ -6970,7 +6970,7 @@ geswarp
 gablewindowed
 galvanoplastical
 gwantus
-goofah
+goofah 1
 guaiac
 greystone
 gauntries
