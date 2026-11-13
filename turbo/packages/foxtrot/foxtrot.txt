@@ -1074,7 +1074,7 @@ ferriages
 frontons
 farrage
 ferroelectricity
-furziest
+furziest 1
 franchisement
 frizer
 fumulus
