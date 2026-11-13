@@ -8623,7 +8623,7 @@ furaciousness
 filterability
 fourposters
 feet
-fuzes
+fuzes 1
 finites
 forborn
 fytte
