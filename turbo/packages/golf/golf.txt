@@ -5225,7 +5225,7 @@ glottiscope
 gangland
 gastriloquist
 gatherum
-gibbals
+gibbals 1
 gourding
 guardianships
 girouette
