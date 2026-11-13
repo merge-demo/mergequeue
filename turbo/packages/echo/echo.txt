@@ -7880,7 +7880,7 @@ executioner
 epihyal
 exogonium
 entogastric
-egis
+egis 1
 excitor
 epihydric
 elaeagnaceae
