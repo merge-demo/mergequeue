@@ -1521,7 +1521,7 @@ excrementitious
 epimeride
 egg
 ethmoid
-endosternum
+endosternum 1
 exradio
 eucosmidae
 episcopised
