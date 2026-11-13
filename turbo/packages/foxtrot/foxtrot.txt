@@ -3773,7 +3773,7 @@ facials
 fissurella
 firnification
 flannelling
-frugivora
+frugivora 1
 formativeness
 fortranh
 fiberware
