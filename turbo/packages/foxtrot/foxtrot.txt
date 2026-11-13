@@ -3963,7 +3963,7 @@ finew
 fermentor
 fruitcakey
 frenziedly
-frightfulness
+frightfulness 1
 feelers
 foreshown
 freighting
