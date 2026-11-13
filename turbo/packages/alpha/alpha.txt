@@ -19527,7 +19527,7 @@ argons
 argosy
 archaizes
 acanthuses
-antimediaeval
+antimediaeval 1
 argots
 allianced 1
 arguable
