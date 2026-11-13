@@ -8330,7 +8330,7 @@ evangelise
 enscrolls
 eland
 eucarpic
-enslaved
+enslaved 1
 ethylbenzene
 endocyemate
 epithetic
