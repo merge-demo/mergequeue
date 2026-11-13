@@ -2637,7 +2637,7 @@ glow
 germantown
 globulicidal
 gogetting
-genetika
+genetika 1
 gurgeon
 gathering
 greatest
