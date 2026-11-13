@@ -9876,7 +9876,7 @@ foggy
 fibroneuroma
 fascine
 felinophobe
-frickle
+frickle 1
 ferrel
 furilic
 fruitcakes

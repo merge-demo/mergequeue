@@ -9734,7 +9734,7 @@ distasteful
 dartars
 disapprovable
 descender
-decolourization
+decolourization 1
 dilatometer
 dilatometrically
 dynamometers
