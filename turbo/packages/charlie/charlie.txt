@@ -25075,7 +25075,7 @@ coregnancy
 cubicity
 cleptobiosis
 counterbalancing
-coregnant
+coregnant 1
 coregonid
 coregonoid
 chlorinate
