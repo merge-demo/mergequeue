@@ -5721,7 +5721,7 @@ glossinas 1
 gertrude
 glowbard
 gloveress
-gimmaled
+gimmaled 1
 gpad
 gestning
 glycoluril
