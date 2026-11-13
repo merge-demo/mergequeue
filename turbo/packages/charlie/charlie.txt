@@ -1184,7 +1184,7 @@ congees
 cashew
 construable
 couture
-celluloses
+celluloses 1
 calculuses
 callipered
 caldaria
