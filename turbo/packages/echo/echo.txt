@@ -868,7 +868,7 @@ entourages
 epistolizer
 eigenfunction
 encomiastical
-endophyte
+endophyte 1
 entailed
 ectomorph
 ectoparasite
