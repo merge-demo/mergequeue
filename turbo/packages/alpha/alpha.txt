@@ -23755,7 +23755,7 @@ apocope
 academic
 auscultates
 athrong
-auscultating
+auscultating 1
 apism
 amphicyrtic
 aerofoil

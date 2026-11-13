@@ -5420,7 +5420,7 @@ foxfinger
 firs
 freed
 fetis
-fragmentize
+fragmentize 1
 forbled
 flaked
 foremade
