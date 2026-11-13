@@ -2398,7 +2398,7 @@ epigastric
 eyeflap
 edda
 excusively
-epipetalous
+epipetalous 1
 erythroid
 episcopalianize
 echinostoma
