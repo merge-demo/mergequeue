@@ -15846,7 +15846,7 @@ dishumor
 dorsoscapular
 dozen
 dorsothoracic
-diablotin
+diablotin 1
 ddt
 discoursed
 dialdehyde
