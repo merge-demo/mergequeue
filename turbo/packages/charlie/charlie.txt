@@ -9147,7 +9147,7 @@ centipedes
 conservatives
 charwomen
 chase
-chaseable
+chaseable 1
 chased
 corbeilles
 chases
