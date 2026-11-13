@@ -13659,7 +13659,7 @@ def
 dissimilars
 dentaries
 dequantitate
-diedral
+diedral 1
 dissimilate
 depletion
 disacquaintance

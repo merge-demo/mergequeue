@@ -9616,7 +9616,7 @@ guzerat
 greeny
 glaucophanization
 gallize
-gallera
+gallera 1
 goniodorididae
 gobinist
 grumium
