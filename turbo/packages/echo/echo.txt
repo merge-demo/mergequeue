@@ -10864,7 +10864,7 @@ euphemisation 1
 enarme
 euphemise
 elected
-euphemising
+euphemising 1
 euphemistically
 euphemize
 eyebeam
