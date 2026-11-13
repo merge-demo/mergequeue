@@ -5869,7 +5869,7 @@ bluer
 blackman
 begaudy
 basified
-bellweed
+bellweed 1
 beggardom
 bretons
 butterbur

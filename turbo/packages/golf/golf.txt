@@ -10792,7 +10792,7 @@ gaincall
 guttated
 galeage
 gazelles
-gawky
+gawky 1
 gesellschaften
 gutterspout
 grandfatherhood
