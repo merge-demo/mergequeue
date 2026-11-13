@@ -10058,7 +10058,7 @@ antagonizes
 ambisinister
 amblypodous
 ambit
-apriority
+apriority 1
 ambital
 anisole
 arteriococcygeal
