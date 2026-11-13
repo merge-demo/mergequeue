@@ -17662,7 +17662,7 @@ belady
 brews
 blowier
 barrelfish
-bellipotent
+bellipotent 1
 burked
 bonnetman
 belletrists
