@@ -572,7 +572,7 @@ confort
 cuselite
 caduac
 cantabrize
-cruiseway
+cruiseway 1
 commilitant
 cataleptiform
 comitium
