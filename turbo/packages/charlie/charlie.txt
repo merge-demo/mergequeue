@@ -6817,7 +6817,7 @@ cellepore
 cellfalcicula
 concaveness
 celliform
-cellist
+cellist 1
 cellite
 currs
 continua
