@@ -2903,7 +2903,7 @@ cantalever
 cantaliver
 catacombs
 cackled
-cantaloup
+cantaloup 1
 cantaloupes
 catboat
 cantando
