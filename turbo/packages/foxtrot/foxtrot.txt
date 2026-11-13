@@ -6428,7 +6428,7 @@ freshish
 farmed
 facsimileing
 foppish
-farset
+farset 1
 fluorimetric
 fluorobenzene
 fructifies
