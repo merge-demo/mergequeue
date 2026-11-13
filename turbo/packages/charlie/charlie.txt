@@ -27198,7 +27198,7 @@ calcines
 countertype
 cooter
 classisms
-countertouch
+countertouch 1
 chait
 circumgyration
 cystonectous
