@@ -6886,7 +6886,7 @@ fatuous
 farmout
 farris
 foresey
-febriferous
+febriferous 1
 flammeous
 freith
 fidepromission
