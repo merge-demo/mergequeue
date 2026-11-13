@@ -2643,7 +2643,7 @@ eiry
 entad
 exemplarity
 electrosmosis
-excelling
+excelling 1
 exegetist
 enquiries 1
 electrosteel
