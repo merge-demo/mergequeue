@@ -2700,7 +2700,7 @@ filaze
 fawner
 frizziness
 fervence
-ferventness
+ferventness 1
 frighteningness
 floodwall
 fishify
