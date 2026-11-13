@@ -13746,7 +13746,7 @@ cinema
 cinemactic
 cinemagoer
 caxiri
-cinemagoers
+cinemagoers 1
 covenanter
 cinemas
 cinematheque
