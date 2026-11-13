@@ -2429,7 +2429,7 @@ globally
 gastraeum 1
 galravage
 ghettoed
-ganglioside
+ganglioside 1
 glycocoll
 geographers
 gemologist
