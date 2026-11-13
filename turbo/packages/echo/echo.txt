@@ -10047,7 +10047,7 @@ egrets
 ethambutol
 ethmovomerine
 exitial
-entamoebiasis
+entamoebiasis 1
 epopoeist
 etceteras
 ethanediol
