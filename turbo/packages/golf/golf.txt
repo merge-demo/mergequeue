@@ -10729,7 +10729,7 @@ grandeur
 gubernatorial
 gox
 gussets
-grovels
+grovels 1
 gloms
 glimmeringly
 gassers
