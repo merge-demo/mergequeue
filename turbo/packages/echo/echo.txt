@@ -9714,7 +9714,7 @@ entoptoscopic 1
 eschaufe
 essay
 epistomata
-embargo
+embargo 1
 erethism
 empyrical
 envapor
