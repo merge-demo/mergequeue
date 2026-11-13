@@ -2470,7 +2470,7 @@ dipyre
 decision
 defeatists
 distinctly
-decisional
+decisional 1
 decisions
 decisis
 declinature
