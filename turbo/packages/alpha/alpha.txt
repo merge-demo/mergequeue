@@ -5276,7 +5276,7 @@ anagenetical
 antagonizer
 attackable
 anapterygotous
-alingual
+alingual 1
 anticlinal
 anapophysial
 ammonifier
