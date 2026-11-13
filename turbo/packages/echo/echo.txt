@@ -12144,7 +12144,7 @@ embastioned
 elasmobranchian
 exiguity
 excusably
-enswathing
+enswathing 1
 emblazes
 entertainments
 estrado
