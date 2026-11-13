@@ -3540,7 +3540,7 @@ eschewance
 extortionary
 extreme
 epigonus
-embolize
+embolize 1
 eupeptic
 epididymal
 entocone
