@@ -581,7 +581,7 @@ falling
 flichtering 1
 faradized
 famine
-fll
+fll 1
 fussed
 faucitis
 folklorism
