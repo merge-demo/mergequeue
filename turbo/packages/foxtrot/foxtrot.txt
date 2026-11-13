@@ -290,7 +290,7 @@ footpounds
 firbolg
 flagarie
 fideism
-foxfire
+foxfire 1
 fledges
 fraenums
 forebar
