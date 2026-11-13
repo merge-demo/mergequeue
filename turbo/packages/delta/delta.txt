@@ -12418,7 +12418,7 @@ dishrags
 dishtowels
 deciduate
 detrital
-dishumanize
+dishumanize 1
 deipnodiplomatic
 darkled
 doffer
