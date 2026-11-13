@@ -10160,7 +10160,7 @@ allopelagic
 ambroid
 arboraceous
 ambrosiaceae
-adoptabilities
+adoptabilities 1
 ambrosias
 argine
 ambrosiate
