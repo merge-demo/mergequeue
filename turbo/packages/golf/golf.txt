@@ -9615,7 +9615,7 @@ ghostwriting
 guzerat
 greeny
 glaucophanization
-gallize
+gallize 1
 gallera
 goniodorididae
 gobinist
