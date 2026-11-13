@@ -6051,7 +6051,7 @@ escroll
 eolith
 exhusband
 elastin
-evittate
+evittate 1
 eddaic
 enlargeable
 eigenvectors
