@@ -1694,7 +1694,7 @@ gympie
 goldstone
 genotypes
 gastriloquous
-gunsmiths
+gunsmiths 1
 guldens
 garotting
 gastronosus
