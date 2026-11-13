@@ -28768,7 +28768,7 @@ cres
 counteraffirmation
 cresc
 comparativeness
-cordelier
+cordelier 1
 crescendoing
 crescendos
 crescentade
