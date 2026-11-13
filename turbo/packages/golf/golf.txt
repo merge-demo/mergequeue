@@ -3628,7 +3628,7 @@ goglets
 glottalize
 grotesque
 gigantal
-glutinosity
+glutinosity 1
 gld
 gasworks
 grouching
