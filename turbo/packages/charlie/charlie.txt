@@ -12568,7 +12568,7 @@ chronologer
 circularize
 coalternative
 chantecler
-cercle
+cercle 1
 cafetiere
 chronologizing
 chronomantic
