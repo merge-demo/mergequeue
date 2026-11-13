@@ -4936,7 +4936,7 @@ forsooth
 fourteens
 flamen
 flamandization
-firefanged
+firefanged 1
 frisker
 firepan
 firmware
