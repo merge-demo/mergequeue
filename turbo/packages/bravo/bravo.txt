@@ -4158,7 +4158,7 @@ balmiest
 beclown
 barrow
 boylas
-beastling
+beastling 1
 bullswool
 beastlings
 bulgy
