@@ -6431,7 +6431,7 @@ foppish
 farset
 fluorimetric
 fluorobenzene
-fructifies
+fructifies 1
 frizing
 flasker
 foreship
