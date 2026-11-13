@@ -16886,7 +16886,7 @@ descriptory
 dreadly
 dreadlocks
 dreadnought
-disport
+disport 1
 dreamful
 demobilizations
 dossman
