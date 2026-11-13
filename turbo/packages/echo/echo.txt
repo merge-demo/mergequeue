@@ -9043,7 +9043,7 @@ euchring
 epiphyll
 entria
 ephesine
-emlen
+emlen 1
 eleoplast
 exocyclic
 equiglacial 1
