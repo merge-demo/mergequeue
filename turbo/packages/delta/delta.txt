@@ -15927,7 +15927,7 @@ dictate
 digammic
 discoid
 dotchin
-dote
+dote 1
 dynamitic
 distasting
 deprivers
