@@ -2188,7 +2188,7 @@ conches
 configuring
 cetologist
 camping
-campions
+campions 1
 contemporaneously
 calcaneus
 cample
