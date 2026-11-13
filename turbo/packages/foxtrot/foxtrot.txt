@@ -7217,7 +7217,7 @@ forwarders
 forfeits
 frizzlers
 faenas
-footpaces
+footpaces 1
 fluencies
 fifer
 foolocracy
