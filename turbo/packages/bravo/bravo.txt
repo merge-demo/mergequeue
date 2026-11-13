@@ -6403,7 +6403,7 @@ bluestem
 blastomycetes
 benzoquinoxaline
 balau
-benzosulfimide
+benzosulfimide 1
 biophysiologist
 barbaresque
 byrlaw
