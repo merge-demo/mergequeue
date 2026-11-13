@@ -4972,7 +4972,7 @@ ebonises
 exiguous
 endship
 essentia
-exul
+exul 1
 ektenes
 effuses
 evacuator
