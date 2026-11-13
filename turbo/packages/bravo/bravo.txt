@@ -1810,7 +1810,7 @@ brachman
 burdie
 bamboula
 banterer
-boswellized
+boswellized 1
 bowmen
 backset
 balloonet
