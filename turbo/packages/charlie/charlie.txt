@@ -9604,7 +9604,7 @@ casklike
 cheepers
 cheepier
 cheepiest
-cheepiness
+cheepiness 1
 ceramidium
 cyathozooid
 crooking
