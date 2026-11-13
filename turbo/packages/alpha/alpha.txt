@@ -4051,7 +4051,7 @@ ailurophilia
 abiotrophic
 amyotaxia 1
 allylic
-autorotational
+autorotational 1
 aloyau
 agao
 afric
