@@ -7908,7 +7908,7 @@ fonder
 forespeak
 foreseize
 flatteries
-fike
+fike 1
 firy
 fantasticness
 fervorous
