@@ -11730,7 +11730,7 @@ envision
 esc
 eveque
 episcopise
-ensurer
+ensurer 1
 easier
 entoptoscopy
 examinee
