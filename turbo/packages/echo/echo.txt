@@ -8770,7 +8770,7 @@ emphractic
 enstrengthen
 equivoluminal
 explainers
-electrostatics
+electrostatics 1
 enfume
 elementarist
 equoidean
