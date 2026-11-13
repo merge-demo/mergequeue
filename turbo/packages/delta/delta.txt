@@ -3583,7 +3583,7 @@ diatonous
 degener
 declaredness
 depredations
-delusterant
+delusterant 1
 dripping
 dextrogyre
 dinosauric
