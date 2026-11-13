@@ -1595,7 +1595,7 @@ duenna
 deaf
 dynamogenous
 disacidified
-deafened
+deafened 1
 doorjambs
 dummered
 dawe
