@@ -16712,7 +16712,7 @@ armisonant 1
 adamantean
 apexed
 aortoclasia
-antichurch
+antichurch 1
 arefaction
 avie
 aph

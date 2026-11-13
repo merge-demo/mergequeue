@@ -6473,7 +6473,7 @@ demobs
 desc
 downrightly
 dequeues
-descant
+descant 1
 dentinoblast
 disencumber
 diffusedly
