@@ -18401,7 +18401,7 @@ componentry
 cognitional
 classed
 cognitive
-cognitively
+cognitively 1
 cokelike
 cognitivity
 cognizable
