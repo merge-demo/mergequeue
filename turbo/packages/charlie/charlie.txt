@@ -5580,7 +5580,7 @@ catalinite
 catalyse
 craterellus
 classified
-copr
+copr 1
 censused
 cofactor
 catalyses
