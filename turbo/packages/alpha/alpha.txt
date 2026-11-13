@@ -7536,7 +7536,7 @@ aldebaran
 anfracture
 alnitham
 albuminize
-arrested
+arrested 1
 anchovies
 adaptor
 albuminofibrin
