@@ -11873,7 +11873,7 @@ bodonid
 bromic
 barming
 bodrage
-bodiliness
+bodiliness 1
 baalite
 bortzes
 battleplane
