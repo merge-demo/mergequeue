@@ -9565,7 +9565,7 @@ demophoon
 doubloons
 drunks
 dignotion
-dependants
+dependants 1
 desmitis
 deuterons
 digonal
