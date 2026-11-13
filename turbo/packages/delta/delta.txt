@@ -2943,7 +2943,7 @@ disalicylide
 displayer
 dedit
 dediticiancy
-dedogmatize
+dedogmatize 1
 discounted
 dedolation
 disturbance
