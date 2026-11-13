@@ -6022,7 +6022,7 @@ critics
 centraliser
 collatress
 contratempo
-champs
+champs 1
 catholic
 courtesans
 cardinalated
