@@ -20193,7 +20193,7 @@ acidulation
 asclepieion
 apothem
 arrau
-assiduously
+assiduously 1
 aromaticity
 aphanesite
 argentometric
