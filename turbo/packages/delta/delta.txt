@@ -3945,7 +3945,7 @@ depersonalised
 demes 1
 delayer
 delayful
-dooli
+dooli 1
 decanate
 devitalisation
 delaminated
