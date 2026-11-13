@@ -1675,7 +1675,7 @@ dothiorella
 dehull
 deanthropomorphism
 dwarfness
-deanthropomorphization
+deanthropomorphization 1
 diadrom
 docksides
 dumortierite
