@@ -17158,7 +17158,7 @@ acquirement
 apographic
 apographical
 antibreakage
-autosensitization
+autosensitization 1
 apoidea
 astucity
 agricultural
