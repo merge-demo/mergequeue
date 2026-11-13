@@ -12974,7 +12974,7 @@ designers
 despisal
 dimout
 drossel
-dauntless
+dauntless 1
 depredicate
 dinoceratidae
 disorganization
