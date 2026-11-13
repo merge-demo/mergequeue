@@ -510,7 +510,7 @@ fakery
 funbre
 frisch
 friz
-fertilizing
+fertilizing 1
 foreshock
 frenne
 filicite
