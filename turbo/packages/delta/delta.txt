@@ -12350,7 +12350,7 @@ diel
 dishclout
 disassembly
 disheartenedly
-doubles
+doubles 1
 doveflower
 devachan
 dissemilative
