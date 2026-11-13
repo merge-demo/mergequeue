@@ -3520,7 +3520,7 @@ disapproving
 defrayable
 disembarrassment
 dismissable
-disring
+disring 1
 doom
 defraying
 desaturate
