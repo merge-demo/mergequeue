@@ -4569,7 +4569,7 @@ foredoes
 flagellation
 fruitcake
 forethinker
-foolable
+foolable 1
 fourth
 feudists
 frit

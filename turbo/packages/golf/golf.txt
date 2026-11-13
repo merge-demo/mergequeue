@@ -2946,7 +2946,7 @@ grides
 gastroenterostomy
 geomant
 gasaliers
-goluptious
+goluptious 1
 glutinousness
 gigantomachy
 glueing
