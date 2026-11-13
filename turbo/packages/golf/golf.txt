@@ -5511,7 +5511,7 @@ geomorphologic
 gusts
 gazingly
 garring
-gentian
+gentian 1
 gloams
 granadillo
 glutinously
