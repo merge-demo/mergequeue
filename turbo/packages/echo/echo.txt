@@ -11766,7 +11766,7 @@ exorcista
 exaration
 enstatitite
 epithelioid
-extracorpuscular
+extracorpuscular 1
 euripidean
 ekphore
 eversive
