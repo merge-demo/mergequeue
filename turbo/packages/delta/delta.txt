@@ -1261,7 +1261,7 @@ datisi
 dative
 dorking
 datively
-dambose
+dambose 1
 discerpible
 dreamlore
 dendrologist
