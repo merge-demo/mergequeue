@@ -9087,7 +9087,7 @@ enteromorpha
 electrothermostatic
 epigraphs
 ennobled
-ether
+ether 1
 eschalots
 eyrer
 equitangential
