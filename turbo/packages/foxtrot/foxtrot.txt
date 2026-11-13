@@ -4584,7 +4584,7 @@ faithfulness
 flattest
 fatiscence
 frictionize
-flaunted
+flaunted 1
 futurition
 fiftieths
 fossilized
