@@ -16548,7 +16548,7 @@ buddling
 bangtailed
 bequeathal
 birr
-bishops
+bishops 1
 budzat
 bandeaux
 broadpiece
