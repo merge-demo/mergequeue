@@ -5723,7 +5723,7 @@ deplumated
 disposes
 deemer
 deplumes
-dentation
+dentation 1
 dewanee
 doliolum
 divergenge

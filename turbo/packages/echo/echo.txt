@@ -12165,7 +12165,7 @@ enlistee
 empory
 exeat
 exec
-epiphonemas
+epiphonemas 1
 eudemonist
 exacervation
 excogitation
