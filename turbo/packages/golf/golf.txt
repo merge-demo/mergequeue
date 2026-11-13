@@ -7165,7 +7165,7 @@ geometrise
 glycuronid
 guans
 gaffs
-glycid
+glycid 1
 gross
 glycolylurea
 genecor
