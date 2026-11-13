@@ -7108,7 +7108,7 @@ birdsong
 boldnesses
 basso
 bespotting
-bespouse
+bespouse 1
 bannerwise
 backstick
 backsets
