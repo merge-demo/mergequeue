@@ -4632,7 +4632,7 @@ dinic
 demisang
 dulcite
 diselenid
-demisangue
+demisangue 1
 douzaines
 dereliction
 demipectinate
