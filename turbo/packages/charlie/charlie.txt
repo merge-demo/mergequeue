@@ -2703,7 +2703,7 @@ cephalosporium
 cording 1
 congeed
 cubitopalmar
-cankerfret
+cankerfret 1
 compiles
 calcemia
 cankery
