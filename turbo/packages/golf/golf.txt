@@ -8123,7 +8123,7 @@ granular
 girandole 1
 granulary 1
 guidebooks
-gobs
+gobs 1
 grimed
 gastrolavage
 gudebrother
