@@ -6733,7 +6733,7 @@ featherbed
 fluorescent
 forspeaking
 flamming
-foiningly
+foiningly 1
 feasant
 forjudged
 flashboard
