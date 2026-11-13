@@ -6954,7 +6954,7 @@ beslimes
 backsheesh
 breme
 bepaid
-beslobber
+beslobber 1
 besluit
 basenjis
 bespread 1
