@@ -3154,7 +3154,7 @@ dissimulated
 devein
 drouths
 dryness
-defeats
+defeats 1
 deathroot
 defeature
 debted
