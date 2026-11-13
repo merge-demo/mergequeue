@@ -4647,7 +4647,7 @@ depas
 deskbound
 didynamia
 diploglossate
-drysalter
+drysalter 1
 decem
 dualisms
 deliming
