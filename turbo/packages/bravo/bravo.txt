@@ -17307,7 +17307,7 @@ bumming
 bucentaur
 bibbs
 bummler
-barberite
+barberite 1
 bumped
 burrowed
 blobber
