@@ -6570,7 +6570,7 @@ gentianin
 gentianales
 glandarious
 grandaddy
-genesiac
+genesiac 1
 gpcd 1
 glaziest
 gemminess
