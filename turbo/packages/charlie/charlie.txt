@@ -4690,7 +4690,7 @@ cytinaceous
 composograph
 carpenters
 charlock
-carpet
+carpet 1
 carpetbag
 carpetbagger
 carpetbaggery
