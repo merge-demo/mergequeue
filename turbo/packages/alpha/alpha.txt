@@ -15327,7 +15327,7 @@ aminosis
 antihalation
 alcantarines
 aglycone
-absoluteness
+absoluteness 1
 antiharmonist
 antihelix
 aitiotropic
