@@ -6007,7 +6007,7 @@ beautifulness
 bellow
 bemoan
 bookie
-bemoaned
+bemoaned 1
 butle
 bauxitic
 bowenite
