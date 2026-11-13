@@ -3461,7 +3461,7 @@ bathylite
 bovine
 basts
 banuyo
-basural
+basural 1
 bovarism
 basuto
 bancos
