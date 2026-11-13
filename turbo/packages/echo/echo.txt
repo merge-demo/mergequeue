@@ -5552,7 +5552,7 @@ encasement
 enucleator
 electrophobia
 erroneousness
-essentiality
+essentiality 1
 endostome
 eugenists
 enfants
