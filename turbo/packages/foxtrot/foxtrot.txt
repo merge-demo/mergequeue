@@ -1113,7 +1113,7 @@ farsighted
 fulvid
 flatiron
 foretime
-farsightedness
+farsightedness 1
 flooring 1
 forkedly
 faciocervical
