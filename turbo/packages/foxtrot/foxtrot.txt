@@ -10883,7 +10883,7 @@ fusain
 foreskins
 feston
 fango
-freestone
+freestone 1
 flayer
 fullish
 foeman
