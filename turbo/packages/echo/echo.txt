@@ -8283,7 +8283,7 @@ embosoms
 eurus
 epithalamize
 evaporators
-ennobles
+ennobles 1
 exactions
 epithalline
 exotism
