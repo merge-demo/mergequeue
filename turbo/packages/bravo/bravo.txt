@@ -13900,7 +13900,7 @@ benzopyran
 bankroll
 bodkinwise
 bacteriotherapy
-bowshot
+bowshot 1
 brined
 bulbaceous
 boatswains
