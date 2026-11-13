@@ -17095,7 +17095,7 @@ coactive
 counterquip
 coactively
 clubwoman
-coacts
+coacts 1
 companionized
 cavings
 coadaptations
