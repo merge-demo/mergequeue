@@ -7354,7 +7354,7 @@ cephalomant
 chalcedonian
 cephalomeningitis
 catlin
-compute
+compute 1
 cleansing
 cephalomere
 cephalometric
