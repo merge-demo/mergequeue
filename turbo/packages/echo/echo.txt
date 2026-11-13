@@ -1595,7 +1595,7 @@ emblems
 egomism
 eumenorrhea
 ephorship
-epibiotic
+epibiotic 1
 embroilment
 egotistic
 exscind
