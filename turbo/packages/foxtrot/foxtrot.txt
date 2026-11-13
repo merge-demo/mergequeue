@@ -3229,7 +3229,7 @@ flinthearted
 flameholder
 fictioner
 frontis
-furbisher
+furbisher 1
 foci
 forestay
 fictionized
