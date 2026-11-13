@@ -24722,7 +24722,7 @@ aristida
 artisans
 amalfian
 aveugle
-avg
+avg 1
 assenting
 avians
 abreactions
