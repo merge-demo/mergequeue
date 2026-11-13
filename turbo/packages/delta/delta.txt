@@ -14782,7 +14782,7 @@ dyphone
 departmentalizing
 dockhand
 dockhouse
-deringers
+deringers 1
 deepwatermen
 dockyards
 docking
