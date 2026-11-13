@@ -9793,7 +9793,7 @@ biblioklept
 bocca
 bidialectal
 bytalks
-bitanhol
+bitanhol 1
 bitartrate
 beneplacito
 blackballing
