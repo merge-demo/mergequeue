@@ -7548,7 +7548,7 @@ bandwagons
 beloam
 begirding
 bewary
-bewaste
+bewaste 1
 beweary
 besottedness
 brainworker
