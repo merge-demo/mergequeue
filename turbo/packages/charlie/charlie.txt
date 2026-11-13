@@ -10692,7 +10692,7 @@ chimneypiece
 chimopelagic
 chymotrypsinogen
 creedalism
-coilsmith
+coilsmith 1
 canthari
 cisgangetic
 companionless
