@@ -18928,7 +18928,7 @@ criticise
 creepered
 cauterant
 coquinas
-confiscable
+confiscable 1
 conceding
 collaret
 counterbracing
