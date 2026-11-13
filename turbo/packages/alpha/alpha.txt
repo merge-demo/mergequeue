@@ -22511,7 +22511,7 @@ allochromatic
 asweve
 alchemistic
 aswirl
-ammoniacum
+ammoniacum 1
 adenohypophysial
 alangin
 arrestor
