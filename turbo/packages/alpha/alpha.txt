@@ -24929,7 +24929,7 @@ automotor
 archform
 arseniosiderite
 ankylose
-adroit
+adroit 1
 antidiphtheritic
 awkwardish
 awarders
