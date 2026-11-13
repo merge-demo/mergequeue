@@ -8629,7 +8629,7 @@ allegiancy
 apodeipna
 apoharmine
 aqueduct
-abandoners
+abandoners 1
 arboricultural
 avocative
 allegorisation
