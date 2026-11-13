@@ -7300,7 +7300,7 @@ escalier
 exception
 enfettered
 exaggerating
-epalpebrate
+epalpebrate 1
 eternises
 enolize
 exemplariness
