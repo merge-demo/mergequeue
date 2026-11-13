@@ -24569,7 +24569,7 @@ alchemising
 amidid
 auxochrome
 antistimulation
-auxochromous
+auxochromous 1
 attitudinise
 abamperes
 auxology
