@@ -4990,7 +4990,7 @@ greatmouthed
 greensward
 glebeless
 grippe
-gammed
+gammed 1
 gonangia
 giulio
 gunhouse
