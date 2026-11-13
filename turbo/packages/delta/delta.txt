@@ -15555,7 +15555,7 @@ doubt 1
 diathermize
 donzels
 doob
-deverbative
+deverbative 1
 diazobenzene
 diphenylchloroarsine
 doodab
