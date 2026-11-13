@@ -22001,7 +22001,7 @@ comports
 confined
 cadging
 confinedly
-confiners
+confiners 1
 confinity
 chivying
 californicus
