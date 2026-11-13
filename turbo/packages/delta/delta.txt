@@ -3719,7 +3719,7 @@ devisable
 dehydrogenisation
 daddling
 delustrant
-deprivation
+deprivation 1
 dehisce
 dasymeter
 dichromism
