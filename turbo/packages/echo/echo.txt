@@ -6509,7 +6509,7 @@ entamoebic
 encarpium
 endostosis
 ephyra
-exactly
+exactly 1
 extratension
 entail
 entomophthora
