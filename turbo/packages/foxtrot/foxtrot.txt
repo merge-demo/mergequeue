@@ -2105,7 +2105,7 @@ forebodies
 facture
 fatsos
 finetop
-favorless
+favorless 1
 fleshen
 frument
 fayence
