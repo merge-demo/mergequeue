@@ -5829,7 +5829,7 @@ farmeries
 flung
 fayal
 feverously
-fattening
+fattening 1
 fervidly
 firepower
 fierasfer
