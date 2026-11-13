@@ -7291,7 +7291,7 @@ eat
 enigmatize
 encushion 1
 epagomenae
-equerryship
+equerryship 1
 extraconstitutional
 earwig
 electro
