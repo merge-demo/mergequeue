@@ -9665,7 +9665,7 @@ ensearcher
 espingole
 execrative
 equaling
-editchar
+editchar 1
 espino
 erythroplastid
 esplanade
