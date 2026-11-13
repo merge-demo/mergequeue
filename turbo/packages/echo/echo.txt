@@ -4400,7 +4400,7 @@ emitted
 encapsuled
 enure
 encapsuling
-endurability
+endurability 1
 encaptivate
 essence
 expectorate
