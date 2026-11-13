@@ -20975,7 +20975,7 @@ arseno
 ascaridiasis
 archeologian
 antimethod
-affects
+affects 1
 ascarids
 adjectivism
 alpinist
