@@ -11440,7 +11440,7 @@ ampul
 admonitory
 anhydremia
 apodosis
-ampullary
+ampullary 1
 ampullate
 aqueoigneous
 amphioxus
