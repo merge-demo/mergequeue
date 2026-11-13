@@ -6193,7 +6193,7 @@ feloniously
 fairgoing
 flaxes
 feebling
-frequency
+frequency 1
 furbished
 fibroareolar
 flisked
