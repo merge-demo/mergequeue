@@ -1132,7 +1132,7 @@ foresay
 fluffing
 feverishness
 fractional
-frothi
+frothi 1
 fibrillary
 filiates
 forint
