@@ -8081,7 +8081,7 @@ camelion
 chaffman
 culicines
 codiniac
-curries
+curries 1
 coracosteon
 continent
 convocating
