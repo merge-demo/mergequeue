@@ -14213,7 +14213,7 @@ defenselessly
 derotrematous
 disyoked
 doublet 1
-destroyable
+destroyable 1
 disvisor
 dungs
 dynamoelectric
