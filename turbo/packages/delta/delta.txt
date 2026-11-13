@@ -18430,7 +18430,7 @@ diphthongise
 duping
 diabolic
 dipsticks
-dupion
+dupion 1
 depressanth
 disendowing
 downrush
