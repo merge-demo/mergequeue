@@ -13012,7 +13012,7 @@ cyanoplatinous
 cyanose
 cyanoses
 chemitype
-cyanosite
+cyanosite 1
 chatting
 cyanotype
 cyanuramide
