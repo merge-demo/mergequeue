@@ -3547,7 +3547,7 @@ entocone
 enervator
 exceeder
 equoid
-epicureanism
+epicureanism 1
 exothermally
 excerpting
 epidesmine
