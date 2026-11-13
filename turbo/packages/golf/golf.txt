@@ -3674,7 +3674,7 @@ glops
 gurgly
 gadgeteers
 gametes
-gory
+gory 1
 ghost
 genesic
 gamble
