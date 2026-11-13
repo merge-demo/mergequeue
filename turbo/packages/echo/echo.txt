@@ -3276,7 +3276,7 @@ exacerbating
 ensnaring
 enrages
 eluates
-explicit
+explicit 1
 equitist
 etymologising
 endoproct
