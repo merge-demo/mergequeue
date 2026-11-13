@@ -8079,7 +8079,7 @@ equicrural
 electrooculogram
 exosporium
 extraprovincial
-epiphragm
+epiphragm 1
 enlargedness
 encover
 extrasyphilitic
