@@ -1563,7 +1563,7 @@ exogeny
 enterate
 exaggeratedness
 euosmite
-enterokinetic
+enterokinetic 1
 eglamore
 eglandular
 electrosynthetically
