@@ -341,7 +341,7 @@ abelia
 autograph
 allophylian
 auletris
-ascarid
+ascarid 1
 apodia
 afright
 acetonemia
