@@ -9083,7 +9083,7 @@ gis
 gunpowdery
 gryllid
 greffotome
-glassworking
+glassworking 1
 glasser
 genitive
 gigahertz
