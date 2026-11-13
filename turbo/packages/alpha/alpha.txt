@@ -2922,7 +2922,7 @@ aerobatics
 albugineous
 acrostichum
 adoptianism
-acrosticism
+acrosticism 1
 axiomatized
 areawide
 antiliberalist
