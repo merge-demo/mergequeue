@@ -10581,7 +10581,7 @@ countermove
 chouka
 chemolytic
 chillumchee
-countersubject
+countersubject 1
 copaibas
 conflating
 coruscating
