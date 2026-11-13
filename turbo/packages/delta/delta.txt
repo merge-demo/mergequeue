@@ -4231,7 +4231,7 @@ downplayed
 dislocate
 dismaler
 diactinism
-deltalike
+deltalike 1
 downcry
 diluvial
 disacknowledge
