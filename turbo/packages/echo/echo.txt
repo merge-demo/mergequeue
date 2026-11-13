@@ -9317,7 +9317,7 @@ estriate
 ericaceous
 espieglerie
 erubescent
-entelechy
+entelechy 1
 ecus
 electroori
 erucivorous
