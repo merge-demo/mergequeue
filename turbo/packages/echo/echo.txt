@@ -4927,7 +4927,7 @@ endearedness
 endearingness
 exactive
 eglestonite
-ecliptics
+ecliptics 1
 estrada
 eucaine
 emulatress
