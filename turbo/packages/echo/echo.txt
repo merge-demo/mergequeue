@@ -10545,7 +10545,7 @@ environment
 evangelistarium
 equationist
 endboard
-eclectical
+eclectical 1
 ensurers
 eumeromorphic
 enteropexia
