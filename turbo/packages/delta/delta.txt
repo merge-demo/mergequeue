@@ -9991,7 +9991,7 @@ dukker
 dissatisfactorily 1
 dally
 desirous
-disparted
+disparted 1
 desophisticate
 deforests
 duim
