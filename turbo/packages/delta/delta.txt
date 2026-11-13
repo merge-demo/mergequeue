@@ -8279,7 +8279,7 @@ dependancy
 dynamiting
 dispells
 dagesh
-diplomas
+diplomas 1
 desonation
 digitation
 doombook
