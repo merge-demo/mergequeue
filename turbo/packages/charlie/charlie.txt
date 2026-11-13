@@ -10951,7 +10951,7 @@ chirometer
 chiromys
 cryostase
 chalcioecus
-chironym
+chironym 1
 caecum
 chironomid
 chastised
