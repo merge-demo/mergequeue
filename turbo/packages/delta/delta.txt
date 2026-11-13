@@ -5787,7 +5787,7 @@ disoxygenate
 declinations
 dainties
 dialog
-datableness
+datableness 1
 diaxial
 deceit
 distalwards
