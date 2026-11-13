@@ -12358,7 +12358,7 @@ cnidophobia
 culebra
 chromatopsia
 chromatoptometer
-chromatoptometry
+chromatoptometry 1
 couch
 chromatoscopy
 chromatosis
