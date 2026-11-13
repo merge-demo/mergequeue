@@ -21987,7 +21987,7 @@ canteens
 coinsurable
 coexclusive
 configurating
-configuration
+configuration 1
 configurationally
 configurations
 configurative
