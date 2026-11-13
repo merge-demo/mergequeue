@@ -5820,7 +5820,7 @@ exanthema
 entification
 evade
 exion
-emulatory
+emulatory 1
 etherizing
 efficace
 electrovalency
