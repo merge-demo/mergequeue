@@ -7989,7 +7989,7 @@ floran
 fleying 1
 forecooler
 foreslow
-frumpled
+frumpled 1
 flatteur
 fowent
 fixgig
