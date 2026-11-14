@@ -5736,7 +5736,7 @@ glossocele
 graian
 gallicize
 gummoses
-gantline
+gantline 1
 gallant
 gaskins
 guanyl
