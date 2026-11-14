@@ -3669,7 +3669,7 @@ emaciated
 erythrons
 enwheel
 everse
-evangelistically
+evangelistically 1
 enchytrae
 entrancer
 envenom
