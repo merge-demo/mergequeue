@@ -2807,7 +2807,7 @@ festucine
 fidibus
 forelady
 flaxiest
-frightfully
+frightfully 1
 funli
 fantod
 fumigation
