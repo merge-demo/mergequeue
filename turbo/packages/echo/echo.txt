@@ -3886,7 +3886,7 @@ eternal
 electrotonus
 extraboldface
 eminencies
-evendown
+evendown 1
 exodermis
 exterminating
 endorsor
