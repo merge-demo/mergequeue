@@ -539,7 +539,7 @@ deliber
 dao
 damalic
 dextrorotation
-demobilized
+demobilized 1
 designations
 dialyzing
 diplosis
