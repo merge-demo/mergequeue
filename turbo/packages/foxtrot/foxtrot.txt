@@ -6143,7 +6143,7 @@ flouted
 fulminations
 fretish
 frondigerous
-foxfish
+foxfish 1
 frustration
 fetidity
 fantom
