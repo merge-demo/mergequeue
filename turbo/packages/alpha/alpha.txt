@@ -22507,7 +22507,7 @@ aisling
 aswash
 adyton
 aristarchy
-allochromatic
+allochromatic 1
 asweve
 alchemistic
 aswirl
