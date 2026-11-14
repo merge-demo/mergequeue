@@ -5615,7 +5615,7 @@ enfigure
 excitable
 egalitarianism
 ensconcing
-eremitic
+eremitic 1
 elevational
 epitritic
 excesses
