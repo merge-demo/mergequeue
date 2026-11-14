@@ -17595,7 +17595,7 @@ appendant
 androspore
 antixerophthalmic
 appendency
-alienate
+alienate 1
 aquacultural
 appendicalgia
 ausonian
