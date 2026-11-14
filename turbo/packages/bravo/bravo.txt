@@ -7556,7 +7556,7 @@ banagos
 beweeper
 beneficent
 biblist
-beweeps 1
+beweeps 2
 bombilate
 bastardize
 bloodripe
