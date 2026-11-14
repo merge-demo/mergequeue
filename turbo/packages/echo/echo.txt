@@ -5741,7 +5741,7 @@ engirds
 electroblasting
 eyeglance
 extraverted
-extemporised
+extemporised 1
 endofaradism
 enolases
 ethicize
