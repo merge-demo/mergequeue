@@ -10778,7 +10778,7 @@ geranyl
 glycyl
 glitter
 gutt
-gaia
+gaia 1
 gerenuk
 gunnels
 ghole
