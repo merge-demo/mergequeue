@@ -10320,7 +10320,7 @@ driftpiece
 dowsing
 dentata
 diurons
-derelictly
+derelictly 1
 degeneracy
 dioramic
 diordinal
