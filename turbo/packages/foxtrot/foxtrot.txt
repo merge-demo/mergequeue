@@ -8009,7 +8009,7 @@ fontina
 fellmongered
 frontless
 forestage
-frivolled
+frivolled 1
 fae
 ferie
 flashbulb
