@@ -15392,7 +15392,7 @@ detoxify
 dragonet
 descriptively
 djebel
-disanoint
+disanoint 1
 dolichoprosopic
 dimity 1
 daisycutter
