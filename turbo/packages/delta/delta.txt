@@ -17699,7 +17699,7 @@ declamatoriness
 diecase
 dichotomistic
 downlying
-democratifiable
+democratifiable 1
 desmonosology
 duarch
 decarburizing
