@@ -7752,7 +7752,7 @@ defeasance
 devised
 diphosphoric
 denicotinized
-devisees
+devisees 1
 deoxygenate
 disastimeter
 dogmatization
