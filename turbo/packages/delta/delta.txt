@@ -14635,7 +14635,7 @@ depressing
 diallel
 docmac
 dixain
-decentre
+decentre 1
 diplococcocci
 decameter
 draftees
