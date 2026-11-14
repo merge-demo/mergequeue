@@ -14242,7 +14242,7 @@ drygoodsman
 dumbly
 disembargo
 ditchers
-deathwards
+deathwards 1
 disproportionably
 derivatist
 diluendo
