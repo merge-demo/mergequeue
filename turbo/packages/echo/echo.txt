@@ -13826,7 +13826,7 @@ extratropical
 extendible
 extracerebral
 embolo
-elucidative
+elucidative 1
 effervescingly
 electrophilic
 earworm
