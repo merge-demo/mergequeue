@@ -5552,7 +5552,7 @@ diffusionism
 dihydrogen
 disproven
 depascent
-debilitation
+debilitation 1
 disrepute
 depatriate
 dispergation
