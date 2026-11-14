@@ -5972,7 +5972,7 @@ fortifiable
 fantaisie
 fisk
 filleter
-fets
+fets 1
 fanwright
 fomites
 favism
