@@ -10885,7 +10885,7 @@ arctiidae
 ammonion
 ammonitess
 ammonitic
-ammonitoidea
+ammonitoidea 1
 affording
 ammocoetiform
 antischolastic
