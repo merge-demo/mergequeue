@@ -1469,7 +1469,7 @@ fractureproof
 filago
 fireside
 faubourgs
-fingerlike
+fingerlike 1
 focussing
 fistulose
 forestial
