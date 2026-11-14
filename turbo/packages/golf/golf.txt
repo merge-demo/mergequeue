@@ -1746,7 +1746,7 @@ guanine
 gentisein
 grouchiest
 gossypine
-gastropulmonic
+gastropulmonic 1
 granitic
 globously
 gambados
