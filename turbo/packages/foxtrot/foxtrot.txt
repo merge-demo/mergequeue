@@ -5519,7 +5519,7 @@ fettuccine
 formatters
 fanjets
 fiddlies
-faroelite
+faroelite 1
 fleshliness
 faceteness
 fw
