@@ -1366,7 +1366,7 @@ agapanthus
 accept
 approximating
 acceptability
-amorality
+amorality 1
 antistimulant
 acceptance
 axisymmetrical
