@@ -5996,7 +5996,7 @@ fictioneering
 foundership
 feldsher
 floorwise
-fissate
+fissate 1
 featishness
 fastnesses
 fusty
