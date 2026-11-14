@@ -5571,7 +5571,7 @@ dolichopellic
 dependence
 desensitizes
 dependingly
-drouthiness
+drouthiness 1
 dallack
 dispersed
 dramatizable
