@@ -14014,7 +14014,7 @@ degrease
 dumpling
 disappropriation
 disproportion
-disorb
+disorb 1
 doa
 deterge
 distractively
