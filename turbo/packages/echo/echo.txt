@@ -2652,7 +2652,7 @@ ectocornea
 expansum
 enthymematic
 evil
-exciples
+exciples 1
 embiidina
 electrostriction
 ejurate
