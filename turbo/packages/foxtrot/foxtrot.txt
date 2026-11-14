@@ -1761,7 +1761,7 @@ forfare
 foreshore
 floriferous
 freedman
-foveal
+foveal 1
 feeded
 forecastlemen
 foresaddle
