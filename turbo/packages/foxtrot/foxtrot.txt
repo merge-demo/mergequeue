@@ -3253,7 +3253,7 @@ forthrightly
 filosa
 faradizer
 flaught
-fingered
+fingered 1
 filbert
 freit
 furciferine
