@@ -6791,7 +6791,7 @@ elaphine
 enrooted
 entoil
 eggler
-entom
+entom 1
 extender
 episternalia
 evocativeness
