@@ -8092,7 +8092,7 @@ dinosaurs
 diabetometer
 demetallize
 demineralize
-denominative
+denominative 1
 dwarfling
 diplopodic
 deidealize
