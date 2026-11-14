@@ -4096,7 +4096,7 @@ genus
 gratten
 gelechiid
 goosemouth
-gaulic
+gaulic 1
 graduals 1
 gamekeeper
 gaufer
