@@ -8440,7 +8440,7 @@ faintling
 fulminous
 fuliginousness
 francomania
-fuze
+fuze 1
 foredeserved
 formating
 formation
