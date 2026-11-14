@@ -2228,7 +2228,7 @@ gastrotome
 grifts
 gefulltefish
 galley
-gaumy
+gaumy 1
 galax
 gonidiogenous
 gehlenite
