@@ -12980,7 +12980,7 @@ ardors
 awry
 approaches
 antistatic
-addictively
+addictively 1
 archdiocesan
 anguineal
 anguiped
