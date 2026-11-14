@@ -3560,7 +3560,7 @@ fulgence
 filched
 frenchism
 fogie
-flamboyance
+flamboyance 1
 funmaker
 fencelet
 faradises
