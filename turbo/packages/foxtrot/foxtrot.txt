@@ -11508,7 +11508,7 @@ flotant
 fructuousness
 furunculous
 furzy
-fastest
+fastest 1
 flammable
 flouncy
 fanfold
