@@ -4966,7 +4966,7 @@ extirpative
 equinia
 engraphic
 endoskeleton
-excreation
+excreation 1
 earthgall
 ebonises
 exiguous
