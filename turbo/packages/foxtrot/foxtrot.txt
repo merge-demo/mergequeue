@@ -2449,7 +2449,7 @@ femicide
 foh
 fingu
 frontwise
-foreproduct
+foreproduct 1
 fermentable
 fermentativeness
 faradize
