@@ -3920,7 +3920,7 @@ feats
 ferrogoslarite
 frostproof
 frolicsomely
-fustianize
+fustianize 1
 fang
 formalised
 filopodia
