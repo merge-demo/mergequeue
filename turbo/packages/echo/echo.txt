@@ -4560,7 +4560,7 @@ euthycomic
 extraregular
 encephalola
 esoterism
-enlightened
+enlightened 1
 exploited
 enchanting
 englante
