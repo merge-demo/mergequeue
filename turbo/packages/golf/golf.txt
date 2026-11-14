@@ -7145,7 +7145,7 @@ gorblin
 gorcocks
 gypsylike
 ghostweed
-gladiatorship
+gladiatorship 1
 grasscut
 greenfly
 gile
