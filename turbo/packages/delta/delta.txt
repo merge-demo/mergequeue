@@ -8891,7 +8891,7 @@ dipyramid
 defiatory
 diceras
 dmod
-deriving
+deriving 1
 dioptidae
 disconnect
 dissolvability
