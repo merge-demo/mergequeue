@@ -10572,7 +10572,7 @@ australopithecinae
 anagrammatize
 apolarity
 aphids
-ascaris
+ascaris 1
 anotia
 abnegating
 absinthiating
