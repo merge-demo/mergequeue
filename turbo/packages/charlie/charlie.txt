@@ -14457,7 +14457,7 @@ charnel
 cuttanee
 celiectasia
 cirrostratus
-chaliced
+chaliced 1
 cappagh
 conscription
 cassatas
