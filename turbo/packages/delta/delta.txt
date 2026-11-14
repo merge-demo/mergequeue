@@ -10876,7 +10876,7 @@ decerebrize
 diruption
 dereference
 deployed
-disable
+disable 1
 delusions
 disabled
 doorplates
