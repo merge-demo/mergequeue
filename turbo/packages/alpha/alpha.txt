@@ -15092,7 +15092,7 @@ allothigenous
 antidisestablishmentarianism
 abelmosk
 antiexporting
-affability
+affability 1
 antidiuretic
 ashtoreth
 adephagan
