@@ -9661,7 +9661,7 @@ freyalite
 frondent
 forfairn
 freibergite
-fulgorous
+fulgorous 1
 fruit
 flipflop 1
 finalize
