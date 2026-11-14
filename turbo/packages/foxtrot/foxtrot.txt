@@ -10290,7 +10290,7 @@ forcipes
 finary
 folksongs
 fanged
-fingerings
+fingerings 1
 frazed
 fluormeter
 ferrates
