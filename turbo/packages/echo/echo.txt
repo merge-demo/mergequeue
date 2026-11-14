@@ -5079,7 +5079,7 @@ enucleate
 estancieros
 extraditions
 eclogites
-eardrums
+eardrums 1
 exited
 endoclinal
 eternals
