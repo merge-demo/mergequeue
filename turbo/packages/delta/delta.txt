@@ -10917,7 +10917,7 @@ deuterocone
 dispenses
 doublethinking
 dorsoradial
-digressions
+digressions 1
 disadvance
 disadvancing
 disadvantageousness
