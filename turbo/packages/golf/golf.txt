@@ -10826,7 +10826,7 @@ gargol
 gillying
 glucocorticord
 grazings
-gelatinizing
+gelatinizing 1
 gyved
 gloss
 gigunu
