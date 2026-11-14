@@ -7788,7 +7788,7 @@ expectably
 elementality
 encyclopaedize
 engjateigur
-excircle
+excircle 1
 evanescence
 epigastria
 engagement
