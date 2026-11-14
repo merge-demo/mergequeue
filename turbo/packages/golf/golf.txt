@@ -2271,7 +2271,7 @@ glamor
 genecologic
 glimpses
 geitonogamy
-gushy
+gushy 1
 gonostyle
 geomoroi
 grange
