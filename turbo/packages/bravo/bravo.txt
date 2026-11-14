@@ -17392,7 +17392,7 @@ bichromic
 bamboozler
 baetylic
 bungtown
-bosun
+bosun 1
 blithered
 bungwall
 bagre
