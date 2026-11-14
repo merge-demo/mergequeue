@@ -21876,7 +21876,7 @@ aerophobia
 assimilationist
 afterattack
 assinego
-arousable
+arousable 1
 allotrylic
 assiniboin
 assyntite
