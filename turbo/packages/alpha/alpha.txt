@@ -18291,7 +18291,7 @@ andarko
 amity
 aerogel
 accentuator
-achromous
+achromous 1
 agush
 archont
 arachnomorphae
