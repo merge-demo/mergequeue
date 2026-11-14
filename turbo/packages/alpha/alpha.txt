@@ -23977,7 +23977,7 @@ anethole
 atheologically
 abattage
 autobasidiomycetous
-autokinetic
+autokinetic 1
 autobasisii
 abjurations
 autobiographers
