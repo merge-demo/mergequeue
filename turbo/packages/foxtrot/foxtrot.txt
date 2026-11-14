@@ -9178,7 +9178,7 @@ fruiterer
 fasciotomy 1
 finitudes
 feebleminded
-floaters
+floaters 1
 fascinations
 foveoles
 footled
