@@ -12176,7 +12176,7 @@ drosophilae
 depel
 dudgeon
 deride
-discoursiveness
+discoursiveness 1
 deliquesce
 doolees
 dwarfish
