@@ -1774,7 +1774,7 @@ ammonitiferous
 agoniada
 aceldamas
 aquake
-absorptively
+absorptively 1
 amassable
 adulce
 acemila
