@@ -976,7 +976,7 @@ enterococcus
 equidense
 eastwards
 ethyl
-esoterics
+esoterics 1
 eyebalm
 exhumes
 excavatory
