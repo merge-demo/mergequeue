@@ -9259,7 +9259,7 @@ flang
 fourchet
 friesic
 fayalites
-freckling
+freckling 1
 fungate
 frangipani
 frizers
