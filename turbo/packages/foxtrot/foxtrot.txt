@@ -1855,7 +1855,7 @@ flabellum
 fating
 feedbags
 footwalk
-flexographic
+flexographic 1
 firefly
 farcicality
 funambulate
