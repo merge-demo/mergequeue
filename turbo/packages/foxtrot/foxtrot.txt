@@ -2085,7 +2085,7 @@ fusibleness
 freeform
 fideistic 1
 fogle
-federalist
+federalist 1
 foreseeability
 floriculture
 felicitator
