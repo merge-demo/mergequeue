@@ -25612,7 +25612,7 @@ coxite
 cyclonometer
 cassites
 concetti
-corporativism
+corporativism 1
 corporealization
 coagule
 corporeally
