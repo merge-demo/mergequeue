@@ -7621,7 +7621,7 @@ exactest
 extrafascicular
 extratelluric
 epicondylic
-epoptist
+epoptist 1
 equichangeable
 enviousness
 encephalous
