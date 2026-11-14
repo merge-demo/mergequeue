@@ -16650,7 +16650,7 @@ blackarm
 battleship
 beanpole
 bejewelled
-brawls
+brawls 1
 bavius
 booty
 bachelors
