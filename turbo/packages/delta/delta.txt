@@ -1069,7 +1069,7 @@ deontology
 disbanding
 dartagnan
 darters
-dearticulation
+dearticulation 1
 dartled
 dedecorate
 defuses
