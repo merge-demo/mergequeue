@@ -2633,7 +2633,7 @@ diogenes
 deforce
 dispose
 decolors
-duopsonies
+duopsonies 1
 decolouration
 daedalean
 denunciated
