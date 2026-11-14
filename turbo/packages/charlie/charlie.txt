@@ -31272,7 +31272,7 @@ charkha
 curatrices
 carabid
 coagula
-curatrix
+curatrix 1
 curb
 citronellal
 calycanthine
