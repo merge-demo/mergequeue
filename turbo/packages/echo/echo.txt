@@ -9532,7 +9532,7 @@ epidermolysis
 essences
 eugenesis
 extrasolar
-exempt
+exempt 1
 envois
 enneateric
 esebrias
