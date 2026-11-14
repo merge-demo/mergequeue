@@ -2013,7 +2013,7 @@ floccosely
 firespout
 forerake
 fitched
-floative
+floative 1
 fayed
 fogging
 fedora
