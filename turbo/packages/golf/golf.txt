@@ -4472,7 +4472,7 @@ gugu
 galtonian
 gypsyfy
 ganoblast
-gunshot
+gunshot 1
 generically
 guacimo
 gypsyhead
