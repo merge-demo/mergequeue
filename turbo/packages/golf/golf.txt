@@ -1818,7 +1818,7 @@ geographize
 gossypium
 gatemaker
 gladfully
-glyconics
+glyconics 1
 gerhardtite
 gregory
 grandfer
