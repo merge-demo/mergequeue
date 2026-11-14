@@ -5937,7 +5937,7 @@ flyting
 flooder
 fowlpoxes
 freakiness
-foggers
+foggers 1
 finestiller
 foreshadowing
 fatefulness
