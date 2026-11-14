@@ -3220,7 +3220,7 @@ equant
 educive
 extroversively
 eludible
-enswathes
+enswathes 1
 enfollow
 elul
 epidemic
