@@ -7924,7 +7924,7 @@ distilery
 duffadar
 dowitch
 didapper
-doublets
+doublets 1
 delawarean
 dex
 dignify
