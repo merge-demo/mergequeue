@@ -5960,7 +5960,7 @@ anhaematopoiesis
 amphithecial
 adit
 amazonstone
-apostacies
+apostacies 1
 aneurism
 ashily
 ardeidae
