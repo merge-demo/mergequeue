@@ -5147,7 +5147,7 @@ epicarp
 encyclic
 erava
 exceedingness
-endothermically
+endothermically 1
 enounced
 elephants
 electrology
