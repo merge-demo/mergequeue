@@ -445,7 +445,7 @@ explained
 ellipsone
 enemyship
 extraembryonal
-emmer
+emmer 1
 eremitical
 eftsoons
 ecchondroma
