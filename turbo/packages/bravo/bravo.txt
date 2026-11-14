@@ -6739,7 +6739,7 @@ barracudina
 bufonid
 bushiest
 berry
-buchnerite
+buchnerite 1
 burglarizing
 binturong
 banshee
