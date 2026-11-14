@@ -831,7 +831,7 @@ endocyst
 excrescent
 extremest
 electroengrave
-extradecretal
+extradecretal 1
 encrust
 ectypography
 epitheton
