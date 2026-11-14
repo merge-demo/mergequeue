@@ -3200,7 +3200,7 @@ flutterers
 fetlow
 fadaise
 flavourer
-flotages
+flotages 1
 fringiness
 fogman
 feloness
