@@ -949,7 +949,7 @@ forms
 fanfishes
 flightless
 faxing 1
-fosterer
+fosterer 1
 fleecers
 flueric
 fumidity
