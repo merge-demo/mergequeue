@@ -7013,7 +7013,7 @@ centaurea
 cyanus
 carretta
 cantoned
-clitellum
+clitellum 1
 centauress
 centaury
 carburetted
