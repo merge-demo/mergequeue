@@ -12458,7 +12458,7 @@ etiogenic
 eluviates
 exaggeration
 epithetician
-enteropneusta
+enteropneusta 1
 erythrophage
 envisages
 epicentral
