@@ -11743,7 +11743,7 @@ chondromyxosarcoma
 chondromucoid
 chondropharyngeus
 carpale
-chondroplast
+chondroplast 1
 chondroplasty
 consonantally
 chondroprotein
