@@ -7683,7 +7683,7 @@ cern
 cavaliership
 cityward
 copplecrown
-croquet
+croquet 1
 cerniture
 cernuous
 cerographer
