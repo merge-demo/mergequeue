@@ -19100,7 +19100,7 @@ archprelatic
 abelian
 adjudicator
 askingly
-approvals
+approvals 1
 archprelatical
 armenize
 aholt
