@@ -6705,7 +6705,7 @@ ambrology
 amorphophyte
 aimless
 acropolis
-authorise
+authorise 1
 antes
 aimlessly
 amaut
