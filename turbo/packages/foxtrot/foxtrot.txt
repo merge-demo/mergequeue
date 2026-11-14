@@ -9206,7 +9206,7 @@ flattener 1
 feldspathose
 flosh
 fastigious
-fusing
+fusing 1
 fragments
 foresighted 1
 fishbed
