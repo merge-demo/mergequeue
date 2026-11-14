@@ -987,7 +987,7 @@ amphigastrula
 abstersiveness 1
 aggregable
 abstertion
-anthropopathic
+anthropopathic 1
 abstinential
 abstinently
 abstractable
