@@ -15008,7 +15008,7 @@ anakrousis
 aljama
 anticonventional
 assonance
-anticor
+anticor 1
 anticorona
 anticorrosiveness
 animose
