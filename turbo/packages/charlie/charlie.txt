@@ -16264,7 +16264,7 @@ clinoid
 clinology
 clinometer
 clinometry
-clinometric
+clinometric 1
 cantos
 condylura
 canisters
