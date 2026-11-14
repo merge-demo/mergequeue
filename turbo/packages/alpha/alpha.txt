@@ -9006,7 +9006,7 @@ appleroot
 ataghan
 arsnicker
 allose
-allosyndetic
+allosyndetic 1
 autoregulatory
 aureolas
 allosome
