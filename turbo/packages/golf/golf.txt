@@ -1309,7 +1309,7 @@ gibbered
 groomers
 gas 1
 groundberry
-glottogonic
+glottogonic 1
 geullah
 gargler
 greeting
