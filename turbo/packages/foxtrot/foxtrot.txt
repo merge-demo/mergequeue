@@ -1218,7 +1218,7 @@ fash
 friborgh
 fasherie
 fusilier
-foolishness
+foolishness 1
 fashing
 fleeted
 fritt
