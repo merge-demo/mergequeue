@@ -15393,7 +15393,7 @@ dragonet
 descriptively
 djebel
 disanoint
-dolichoprosopic
+dolichoprosopic 1
 dimity 1
 daisycutter
 diapophysial
