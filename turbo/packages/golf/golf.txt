@@ -7526,7 +7526,7 @@ germanical
 graypate 1
 gemstones
 giggling
-gloomfully
+gloomfully 1
 glitch
 gemmer
 guessable
