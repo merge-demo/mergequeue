@@ -4768,7 +4768,7 @@ blast
 bed
 bedribble
 burglarizes
-bibracteate
+bibracteate 1
 billfold
 barbarize
 bucktails
