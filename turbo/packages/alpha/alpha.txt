@@ -129,7 +129,7 @@ aspidoganoidei
 aulostoma
 abasic
 anachueta
-amurcosity
+amurcosity 1
 alcarraza
 amused
 apetaloid
