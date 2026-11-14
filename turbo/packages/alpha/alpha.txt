@@ -9664,7 +9664,7 @@ asserted
 aluminizes
 anticardium
 archantiquary
-adobe
+adobe 1
 aition
 aluminose
 aluminothermy
