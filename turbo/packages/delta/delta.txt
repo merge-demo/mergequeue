@@ -9052,7 +9052,7 @@ distichiasis
 dictational
 dictatory
 dihexahedral
-dorsals
+dorsals 1
 dictyodromous
 deafest
 dictyogen

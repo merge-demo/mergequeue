@@ -555,7 +555,7 @@ excursuses
 echinodorus
 est
 endotheliotoxin
-echinoid
+echinoid 1
 ethiopians
 eavesdropper
 equatorially
