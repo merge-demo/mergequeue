@@ -15837,7 +15837,7 @@ dandyisms
 detent
 deputyship
 derationalization
-disincrease
+disincrease 1
 decatoic
 despiting
 debonairity
