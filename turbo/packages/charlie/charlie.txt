@@ -15313,7 +15313,7 @@ caddo
 compatriot
 crowdie
 critturs
-coexist
+coexist 1
 clangful
 clanging
 clangingly
