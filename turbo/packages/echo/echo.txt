@@ -7093,7 +7093,7 @@ extemporaneously
 endpaper
 envelops
 enduing
-encarnalise
+encarnalise 1
 eightfold
 enmarbled
 enverdure
