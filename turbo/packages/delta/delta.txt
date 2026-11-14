@@ -17379,7 +17379,7 @@ derivability
 delime
 deallocation
 delactation
-deviants
+deviants 1
 diduced
 dropmeal
 dipleurula
