@@ -581,7 +581,7 @@ agrania
 alphameric
 abnegates
 anthropomancy
-abrotanum
+abrotanum 1
 aneuria
 amphictyon
 amanitins
