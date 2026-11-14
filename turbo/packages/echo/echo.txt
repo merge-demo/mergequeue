@@ -9697,7 +9697,7 @@ espouses
 epicostal
 espousing
 enterorrhexis
-esq
+esq 1
 existence
 exurbs
 evacue
