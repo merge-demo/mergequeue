@@ -5863,7 +5863,7 @@ fastigia
 fdtype
 fowlers
 flocced
-frustulose
+frustulose 1
 footsoldier
 filariae
 film
