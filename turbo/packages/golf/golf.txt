@@ -8593,7 +8593,7 @@ glabriety
 griqua
 gravity
 germinal
-gradually
+gradually 1
 gawsy
 gravitic
 gurgeons
