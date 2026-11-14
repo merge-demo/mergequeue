@@ -20628,7 +20628,7 @@ adulators
 arthromeric
 actiniferous
 afterplay
-adamantoma
+adamantoma 1
 arthrometry
 atsara
 alvine
