@@ -11989,7 +11989,7 @@ criticizable
 cyanacetic
 chinless
 coronene
-choroidoretinitis
+choroidoretinitis 1
 choroids
 commonplace
 chorology
