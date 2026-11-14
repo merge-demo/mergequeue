@@ -19589,7 +19589,7 @@ coextensiveness
 capanne
 coregence
 columellia
-columelliaceae
+columelliaceae 1
 columnal
 camphors
 colitoxemia
