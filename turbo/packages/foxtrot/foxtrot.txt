@@ -3810,7 +3810,7 @@ ferrier
 furnitureless
 foreflap
 filterableness
-facette
+facette 1
 fairyism
 fluoridisation
 flebotomy
