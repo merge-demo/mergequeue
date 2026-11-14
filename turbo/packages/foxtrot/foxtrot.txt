@@ -4612,7 +4612,7 @@ fighter 1
 footnoting
 fistwise
 fontally
-fringilliform
+fringilliform 1
 fitchee
 flavoursome
 fibrocalcareous
