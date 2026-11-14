@@ -23801,7 +23801,7 @@ conjunctival
 centrifugal
 contrascriptural
 contrast
-cosec
+cosec 1
 costocolic
 colessee
 contraste
