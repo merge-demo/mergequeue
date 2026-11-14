@@ -10226,7 +10226,7 @@ dins
 defenestrate
 dinted
 dintless
-ducal
+ducal 1
 degradedly
 dermoskeleton
 distaste
