@@ -6685,7 +6685,7 @@ deshabille 1
 diachylon
 dinitrophenol
 diplohedron
-desyatin
+desyatin 1
 deaconries
 dubonnets
 decalcification
