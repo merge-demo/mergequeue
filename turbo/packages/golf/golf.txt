@@ -10444,7 +10444,7 @@ gomphodont
 geobiologic
 glaives
 gumdrop
-gelseminine
+gelseminine 1
 gumly
 gruffs
 gelees
