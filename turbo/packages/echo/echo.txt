@@ -1156,7 +1156,7 @@ economizers
 estuaries
 enterobiasis 1
 edomitish
-eutomous
+eutomous 1
 enterograph
 edoni
 excisemen
