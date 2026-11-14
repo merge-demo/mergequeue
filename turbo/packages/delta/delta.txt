@@ -3750,7 +3750,7 @@ disour
 dehorns
 decaudate
 doughlike
-depolarized
+depolarized 1
 dehorted
 damaskine
 defatigate
