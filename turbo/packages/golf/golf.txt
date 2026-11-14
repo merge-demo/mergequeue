@@ -904,7 +904,7 @@ genome
 gravata
 gaverick
 geld
-guna
+guna 1
 gelatinate
 genealogic
 gambia
