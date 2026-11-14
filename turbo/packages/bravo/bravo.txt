@@ -16847,7 +16847,7 @@ brassware
 bicolligate
 buffable
 bahamas
-buffalo
+buffalo 1
 buffalofish
 begets
 burglarised
