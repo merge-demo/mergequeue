@@ -9756,7 +9756,7 @@ eradiates
 enodal
 epitomisation 1
 equisonance
-everyplace
+everyplace 1
 eddo
 euhedral
 ectogenesis
