@@ -8726,7 +8726,7 @@ dirl
 decima
 dimps
 diatoma
-diapase
+diapase 1
 displacement
 deems
 diastase
