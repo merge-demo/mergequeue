@@ -2079,7 +2079,7 @@ decal
 dodecylic
 dilatory
 decalage
-dinghy
+dinghy 1
 disworship
 dartle
 dendrography 1
