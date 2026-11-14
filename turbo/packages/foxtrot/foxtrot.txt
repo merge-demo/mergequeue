@@ -5047,7 +5047,7 @@ fissures
 forecourse
 fatteners
 flirtationless
-flaperon
+flaperon 1
 flippantly
 forthgoing
 flagellulae
