@@ -11712,7 +11712,7 @@ dahabiya
 delist 1
 damianist
 dynodes
-darkening
+darkening 1
 discard
 disasinate
 discreeter
