@@ -4292,7 +4292,7 @@ ferdwit
 foreshortens
 foiblesse
 foreordains
-fendable
+fendable 1
 flunkyism
 fastuous
 firk
