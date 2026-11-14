@@ -470,7 +470,7 @@ fringeless
 folkmoter
 foliosity
 facticity
-faitours
+faitours 1
 fomented
 fainant
 fawningly
