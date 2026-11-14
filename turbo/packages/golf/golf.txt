@@ -10300,7 +10300,7 @@ gulpier
 galactosidase
 girasol
 gault
-getsul
+getsul 1
 gullygut
 gonorrheal
 gilling
