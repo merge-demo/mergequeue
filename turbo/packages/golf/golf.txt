@@ -7882,7 +7882,7 @@ galvanometrical 1
 grammarless
 grammaticaster
 goff
-garlandlike
+garlandlike 1
 gabbais
 gurdle
 ghostlikeness
