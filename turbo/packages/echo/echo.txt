@@ -6127,7 +6127,7 @@ enlodge
 excepable
 episkotister
 estuary
-enforced
+enforced 1
 epiphanise
 enlodgement
 enlumine
