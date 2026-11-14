@@ -488,7 +488,7 @@ fissiparism
 fretting
 featherleaf
 fetiferous
-fullbacks
+fullbacks 1
 frogmouth
 foremastman
 finalisms
