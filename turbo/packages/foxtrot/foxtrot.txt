@@ -5759,7 +5759,7 @@ folksay
 frise
 flocking
 flited
-frontate
+frontate 1
 frontal
 foge 1
 freckliness
