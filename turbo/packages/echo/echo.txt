@@ -5932,7 +5932,7 @@ espalier
 effluviography
 extrameridian
 educatee
-eudaemonia
+eudaemonia 1
 enjoyably
 enhypostasia
 estmark
