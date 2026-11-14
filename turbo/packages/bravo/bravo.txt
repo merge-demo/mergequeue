@@ -3716,7 +3716,7 @@ barnstorms
 battler
 battleships
 barrace
-blushiness
+blushiness 1
 battlesome
 brigantes
 battlestead
