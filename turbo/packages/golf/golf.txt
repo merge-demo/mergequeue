@@ -3434,7 +3434,7 @@ greyware
 gesturist
 geothermic
 girdingly
-goaled
+goaled 1
 gynecic
 goutily
 glaucosis
