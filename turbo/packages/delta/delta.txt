@@ -17372,7 +17372,7 @@ dropforger
 drophead
 ditchbur
 darksomeness
-deficiencies
+deficiencies 1
 drib
 doigt
 derivability
