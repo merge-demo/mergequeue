@@ -11422,7 +11422,7 @@ enrace
 evese
 entomostraca
 entheate
-expdt
+expdt 1
 estuarine
 elided
 evetide
