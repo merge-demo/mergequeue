@@ -5486,7 +5486,7 @@ flora
 funniness 1
 frequentness
 forensic
-flensed 1
+flensed 2
 flashover
 frillers
 federal
