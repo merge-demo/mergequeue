@@ -1552,7 +1552,7 @@ callirrhoe
 callisaurus
 callisteia
 callistephus
-callisthenic
+callisthenic 1
 cossid
 cenotaphic
 communising
