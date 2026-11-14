@@ -11260,7 +11260,7 @@ exterrestrial
 evaporability
 emanating
 enwrapped 1
-ectoplasy
+ectoplasy 1
 extraversive
 eutaxy
 evaporates
