@@ -3723,7 +3723,7 @@ deprivation
 dehisce
 dasymeter
 dichromism
-deglutinate
+deglutinate 1
 depot
 domitic
 delegated
