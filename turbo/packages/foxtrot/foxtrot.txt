@@ -5058,7 +5058,7 @@ fermions
 figlike
 fishline
 fosses
-fetialis
+fetialis 1
 foveated 1
 fezes
 freir

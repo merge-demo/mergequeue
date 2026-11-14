@@ -8484,7 +8484,7 @@ gelada
 glossingly
 guajira
 glossopalatinus
-gov
+gov 1
 ginglymoarthrodial
 ginnet
 gleyde
