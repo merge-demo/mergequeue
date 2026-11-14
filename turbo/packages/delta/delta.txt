@@ -11447,7 +11447,7 @@ discolorations
 discolored
 dar
 doest
-defalcations
+defalcations 1
 deads
 drivellers
 discolorment

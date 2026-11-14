@@ -8140,7 +8140,7 @@ breakage
 beardie
 brontophobia
 bash
-beedged
+beedged 1
 banishes
 buffalos
 byeman
