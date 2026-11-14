@@ -219,7 +219,7 @@ discussing
 defection
 dissympathize
 daffiness
-daffing
+daffing 1
 daffodilly
 drifted
 daringly
