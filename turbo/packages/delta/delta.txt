@@ -16599,7 +16599,7 @@ dragonfishes
 dragonflies
 didelphian
 dragonhood
-degreewise
+degreewise 1
 downily
 deveins
 dissent
