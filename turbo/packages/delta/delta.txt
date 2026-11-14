@@ -11973,7 +11973,7 @@ derned
 depluming
 disencharm
 doctrix
-disenclose
+disenclose 1
 daint
 diammine
 decimus

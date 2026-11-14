@@ -3004,7 +3004,7 @@ actinocrinite 1
 actinodielectric
 actinodromous
 actinoelectrically
-antigenic
+antigenic 1
 aerogeography
 axemaster
 ambicolorate
