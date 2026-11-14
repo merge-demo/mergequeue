@@ -4697,7 +4697,7 @@ decking
 derealization
 declaration
 drifting
-disheveling
+disheveling 1
 ducklar
 demivambrace
 dorsicollar
