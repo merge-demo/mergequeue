@@ -148,7 +148,7 @@ cruors
 clinopyroxene
 cablelaid
 cableless
-cablelike
+cablelike 1
 cerberic
 chryseis
 cables
