@@ -18926,7 +18926,7 @@ autotomising
 addoom
 aphelian
 aldohexose
-ausu
+ausu 1
 aposafranine
 archilute
 archimagus
