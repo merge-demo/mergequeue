@@ -2812,7 +2812,7 @@ exampleless
 ecodeme
 eleomargaric
 encephalon
-epipolic
+epipolic 1
 entoptical
 equivalencing
 externalness
