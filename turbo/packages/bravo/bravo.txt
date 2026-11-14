@@ -3862,7 +3862,7 @@ bullpouts
 babus
 bawdrics
 bawdries
-boreal
+boreal 1
 bawl
 bawled
 bawler
