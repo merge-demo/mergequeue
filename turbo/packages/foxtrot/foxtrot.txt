@@ -8474,7 +8474,7 @@ formica
 feedlot
 fasciculate
 fluxes
-furloughed
+furloughed 1
 fitty
 formicate
 filix
