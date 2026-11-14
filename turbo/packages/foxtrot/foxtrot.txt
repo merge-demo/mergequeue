@@ -2620,7 +2620,7 @@ formalistic
 fountainless 1
 frivol
 filigreed
-ferio
+ferio 1
 farandmen
 foregoing
 falutin
