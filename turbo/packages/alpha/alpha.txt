@@ -1182,7 +1182,7 @@ apocryphally
 acanthion
 atrosanguineous
 acanthodean
-abbots
+abbots 1
 alabastoi
 agonothetic
 acanthodei
