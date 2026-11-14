@@ -1691,7 +1691,7 @@ ceraunia
 calorifier
 calorimetry
 calorimetrically
-calorimotor
+calorimotor 1
 cossyrite
 calorist
 calorizing
