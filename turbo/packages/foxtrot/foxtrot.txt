@@ -7721,7 +7721,7 @@ farcically
 florian
 freeish 1
 fretty
-furs
+furs 1
 forsaken
 forger
 flamelike
