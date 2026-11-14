@@ -7288,7 +7288,7 @@ eimeria
 eurypygae
 enterpillar
 eat
-enigmatize
+enigmatize 1
 encushion 1
 epagomenae
 equerryship 1
