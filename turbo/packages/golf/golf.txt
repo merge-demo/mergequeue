@@ -6272,7 +6272,7 @@ gobber
 gazettes
 goateed
 guitarlike
-guttural
+guttural 1
 ghostiest
 gconv
 gentle
