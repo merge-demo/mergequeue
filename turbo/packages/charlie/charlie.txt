@@ -10088,7 +10088,7 @@ claves
 chesstree
 cerias
 chest
-curing
+curing 1
 chesterfield
 chesterfieldian
 copulatively
