@@ -9948,7 +9948,7 @@ guardianship
 garb
 gumptions
 grilladed
-glycemic
+glycemic 1
 guarico
 gonidial
 graphostatic
