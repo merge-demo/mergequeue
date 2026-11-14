@@ -19693,7 +19693,7 @@ combaron
 combasou
 combat
 criminal
-combatable
+combatable 1
 chroma
 chrismale
 combatant
