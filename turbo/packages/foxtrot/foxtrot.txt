@@ -10163,7 +10163,7 @@ falcer
 friulian
 fibroadenia
 frizzy
-fastings
+fastings 1
 fleishig
 formalism
 flint
