@@ -778,7 +778,7 @@ badigeon
 beadsman
 bechatter
 boric
-badinages
+badinages 1
 bilocation
 beblotch
 bearcoot
