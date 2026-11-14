@@ -14370,7 +14370,7 @@ demeaned
 dielec
 doled
 divagated
-divagates
+divagates 1
 drillmaster
 divagationally
 dicer
