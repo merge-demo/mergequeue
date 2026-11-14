@@ -9490,7 +9490,7 @@ daintrel
 digestment
 dittography
 debussyanize
-debenzolize
+debenzolize 1
 dicentrin
 desiliconize
 discussable
