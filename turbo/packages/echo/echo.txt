@@ -13462,7 +13462,7 @@ eringo
 epenthetic
 electrolyse
 ensuingly
-encopresis
+encopresis 1
 eatanswill
 emf
 elizabethanize
