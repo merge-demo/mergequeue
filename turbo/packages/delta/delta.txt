@@ -12349,7 +12349,7 @@ dupable
 diel
 dishclout
 disassembly
-disheartenedly
+disheartenedly 1
 doubles
 doveflower
 devachan
