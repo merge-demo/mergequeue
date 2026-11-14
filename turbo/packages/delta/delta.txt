@@ -8710,7 +8710,7 @@ distort
 dichrooscopic
 dodecylene
 disenfranchisements
-devastator
+devastator 1
 dorsonuchal
 dumky
 diathermy
