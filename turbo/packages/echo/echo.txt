@@ -9097,7 +9097,7 @@ exponential
 equipollent
 epicolic
 euryalae
-encanker
+encanker 1
 electroencephalographic
 ethinyl
 exsection
