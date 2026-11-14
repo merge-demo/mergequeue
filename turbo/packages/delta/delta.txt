@@ -12203,7 +12203,7 @@ dervishes
 disfurniture
 disguised
 donax
-disgarnish
+disgarnish 1
 draftmanship
 deliberativeness
 dossiere
