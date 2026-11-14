@@ -2911,7 +2911,7 @@ alvus 1
 allege
 ameristic
 alice
-assaultive
+assaultive 1
 autotuberculin
 acrostic
 accidentiality
