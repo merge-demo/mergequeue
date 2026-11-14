@@ -5864,7 +5864,7 @@ gynoecium
 glucate
 gorevan
 gibelite
-gastrostomies
+gastrostomies 1
 glucinums
 gangflower
 giggle
