@@ -1070,7 +1070,7 @@ albertustaler
 abuna
 askew
 abundance
-accurtation
+accurtation 1
 alcelaphine
 ammoniojarosite
 apparelled
