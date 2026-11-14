@@ -7182,7 +7182,7 @@ grabbers
 geobotanical 1
 gnawable
 gossip
-gloryful
+gloryful 1
 granate
 generalship
 gospoda
