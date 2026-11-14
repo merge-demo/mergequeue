@@ -10595,7 +10595,7 @@ affectate
 amygdala
 antirobin
 amygdalaceous
-animated
+animated 1
 amygdalase
 aglyphodonta
 amygdalate
