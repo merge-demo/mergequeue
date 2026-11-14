@@ -5609,7 +5609,7 @@ enclosures
 embosomed
 ectocarpous 1
 encitadel
-encryption
+encryption 1
 enlisters
 enfigure
 excitable
