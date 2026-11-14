@@ -11510,7 +11510,7 @@ furunculous
 furzy
 fastest
 flammable
-flouncy
+flouncy 1
 fanfold
 fusariosis
 firebirds
