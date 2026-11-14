@@ -1436,7 +1436,7 @@ fountainlet
 fallibly
 firewood
 forbar
-ferreted
+ferreted 1
 fattest
 finickin
 floorer
