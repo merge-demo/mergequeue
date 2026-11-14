@@ -13381,7 +13381,7 @@ exemplify
 epityphlon
 exposture
 epanaphoral
-exter
+exter 1
 expounder
 eulogised
 ems

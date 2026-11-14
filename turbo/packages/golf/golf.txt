@@ -500,7 +500,7 @@ glaucodot
 gluteus
 grama
 gullably
-geminations
+geminations 1
 gnomes
 geomorphology
 galloons
