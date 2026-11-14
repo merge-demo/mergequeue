@@ -11707,7 +11707,7 @@ flaw
 fanfish
 fiancailles
 frowns
-furriered
+furriered 1
 ferruled
 foredesign
 friars
