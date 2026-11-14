@@ -6838,7 +6838,7 @@ eelskin
 ealdorman
 erythrozincite
 emanations
-epituberculosis
+epituberculosis 1
 ermine
 exults
 epidermoidal
