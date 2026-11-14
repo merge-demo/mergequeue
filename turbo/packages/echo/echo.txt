@@ -12968,7 +12968,7 @@ erminette
 evicke
 exposals
 emotion
-entice
+entice 1
 electrodeposition 1
 expectorant
 espiglerie
