@@ -3216,7 +3216,7 @@ esotery
 extraschool
 eluctate
 elude
-equant
+equant 1
 educive
 extroversively
 eludible
