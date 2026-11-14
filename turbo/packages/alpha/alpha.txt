@@ -14427,7 +14427,7 @@ allocations
 assortatively
 anisocycle
 abnegate
-apselaphesis
+apselaphesis 1
 anthracia
 alcazars
 amnemonic
