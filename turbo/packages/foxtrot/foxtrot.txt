@@ -9132,7 +9132,7 @@ fabrications
 fearfullest
 fungosity
 freights
-fossorial
+fossorial 1
 fractions
 forncast
 foolheaded
