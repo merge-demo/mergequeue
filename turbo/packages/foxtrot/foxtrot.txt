@@ -8930,7 +8930,7 @@ foolfishes
 favorers
 frenchy
 frisbee
-floit
+floit 1
 flywort
 fiacre
 footle
