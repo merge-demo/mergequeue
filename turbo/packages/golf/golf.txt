@@ -5874,7 +5874,7 @@ gardon
 griddled
 gasfiring
 glycogenous
-gravimetric
+gravimetric 1
 guerrila
 goliards
 gallinaceous
