@@ -11620,7 +11620,7 @@ electrolytes
 embordering
 epulosis
 economics
-exacerbatingly
+exacerbatingly 1
 expulses 1
 enddamaged
 exactable
