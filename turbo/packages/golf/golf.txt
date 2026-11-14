@@ -9991,7 +9991,7 @@ gubbins
 geoethnic
 galictis
 glutamic
-gubernative
+gubernative 1
 gunwale
 glazer
 gubernatrix
