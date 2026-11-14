@@ -2994,7 +2994,7 @@ glosser
 gushingness
 gauchest
 gravipause
-glorias
+glorias 1
 groped
 guaiacol
 gaulding
