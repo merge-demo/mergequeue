@@ -24211,7 +24211,7 @@ antherless
 autoinfection
 alnein
 anhydraemia
-autolyzes
+autolyzes 1
 autoloader
 autology
 aporosa
