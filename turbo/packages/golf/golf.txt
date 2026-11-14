@@ -1803,7 +1803,7 @@ grassy
 glummer
 glyptology
 gatekeepers
-glos
+glos 1
 gentile
 groupage
 grasses
