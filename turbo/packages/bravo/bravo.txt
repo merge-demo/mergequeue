@@ -2069,7 +2069,7 @@ banknotes
 brasserie
 buffoonesque
 bicollaterality
-bankrolled
+bankrolled 1
 babelism
 bankrolling
 bankrupt
