@@ -10139,7 +10139,7 @@ frontlet
 fitter
 fabricant
 falcidian
-foresing
+foresing 1
 fief
 freycinetia
 flaxen
