@@ -18218,7 +18218,7 @@ didascalar
 downfallen
 depersonalize
 delights
-dentatocostate
+dentatocostate 1
 diamagnetometer
 detonatability
 deadlocks
