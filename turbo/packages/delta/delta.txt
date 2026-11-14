@@ -6566,7 +6566,7 @@ dezincs
 duet
 dermol
 danburite
-desdemona
+desdemona 1
 disinvest
 desecrated
 dilemmatical
