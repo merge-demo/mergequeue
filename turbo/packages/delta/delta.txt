@@ -7514,7 +7514,7 @@ dumfounding
 dorcas
 dehgan
 deuteranope
-deuteration
+deuteration 1
 denucleate
 demarcator
 derogatorily
