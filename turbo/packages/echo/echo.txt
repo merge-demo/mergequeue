@@ -1596,7 +1596,7 @@ egomism
 eumenorrhea
 ephorship
 epibiotic 1
-embroilment
+embroilment 1
 egotistic
 exscind
 egotized
