@@ -10966,7 +10966,7 @@ dutifulness 1
 disagreeing
 disagreements
 dissevered
-deodorised
+deodorised 1
 divinations
 disagreing
 dethronable
