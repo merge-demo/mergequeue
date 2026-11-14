@@ -1194,7 +1194,7 @@ enscroll 1
 educational
 ethnocentrism
 extratracheal
-estipulate
+estipulate 1
 estimation
 eroded
 elenge
