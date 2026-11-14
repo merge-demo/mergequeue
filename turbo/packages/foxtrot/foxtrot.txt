@@ -732,7 +732,7 @@ flunkies 1
 fingerboard
 flair
 frettier
-favourably
+favourably 1
 foraminulose
 fisherwoman
 faming
