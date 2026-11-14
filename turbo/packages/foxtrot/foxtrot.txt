@@ -2222,7 +2222,7 @@ fragrancy
 fmt
 feminility
 feminin
-frecklish
+frecklish 1
 fondlesome 1
 fluorinates
 foals
