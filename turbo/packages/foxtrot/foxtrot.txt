@@ -6500,7 +6500,7 @@ fotui
 filches
 figurally
 fluted
-felonry
+felonry 1
 featherbedded
 forbearers
 frenzied
