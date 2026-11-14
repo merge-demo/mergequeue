@@ -2831,7 +2831,7 @@ bedarken
 bruta
 burrows
 beisa
-biquadrate
+biquadrate 1
 baroswitch
 bld
 bitis
