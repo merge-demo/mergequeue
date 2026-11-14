@@ -5932,7 +5932,7 @@ depriorize
 desmotropy
 disorderedness
 dool
-deprivable
+deprivable 1
 degrader
 dyslogy
 dyeable
