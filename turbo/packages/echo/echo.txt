@@ -8768,7 +8768,7 @@ eulogising
 endangering
 emphractic
 enstrengthen
-equivoluminal
+equivoluminal 1
 explainers
 electrostatics
 enfume
