@@ -12585,7 +12585,7 @@ encirclement
 excoriate
 exoculate
 expostulates
-ecclesiasticalness
+ecclesiasticalness 1
 exoculation
 exoderm
 elohistic
