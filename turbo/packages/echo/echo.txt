@@ -12217,7 +12217,7 @@ epanalepsis
 eclogue
 executress
 elshin
-exsurge
+exsurge 1
 exch
 endosteal
 enchases
