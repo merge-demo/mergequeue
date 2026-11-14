@@ -1840,7 +1840,7 @@ downwarp
 declinograph
 dewberry
 doorstead
-doughnut
+doughnut 1
 debellator
 darapti
 drugmaker
