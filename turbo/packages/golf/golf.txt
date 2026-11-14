@@ -8614,7 +8614,7 @@ gibbeting
 gaudeamuses 1
 geothermometer
 gaufrettes
-glucose
+glucose 1
 geometrizing
 graziers
 gravidate
