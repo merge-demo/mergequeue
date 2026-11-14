@@ -5321,7 +5321,7 @@ barbola
 biharmonic
 borderlines
 balmy
-begone
+begone 1
 baryte
 begonia
 begoniales
