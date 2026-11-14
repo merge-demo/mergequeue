@@ -9104,7 +9104,7 @@ graveyards
 greund
 glumal
 girdling
-gt
+gt 1
 glires
 gladiatorism
 goatherds
