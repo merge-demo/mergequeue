@@ -662,7 +662,7 @@ flavored
 funky
 frequenter
 frithsoken
-falx
+falx 1
 further
 fallbacks
 fluocarbonate
