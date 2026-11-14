@@ -24350,7 +24350,7 @@ aeromancy
 attractionally
 alpinists
 arangoes
-adjurors
+adjurors 1
 autoracemization
 acetophenetide
 autoradiogram
