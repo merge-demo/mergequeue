@@ -8639,7 +8639,7 @@ elinguating
 ectal
 escapee
 equilibrates
-exonerators
+exonerators 1
 ethylamide
 egol
 equilibria
