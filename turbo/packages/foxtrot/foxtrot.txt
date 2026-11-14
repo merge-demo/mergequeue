@@ -2026,7 +2026,7 @@ feeze
 fimicolous 1
 furmity
 feezes
-forejudge
+forejudge 1
 fefnicute
 farragoes
 fannell 1
