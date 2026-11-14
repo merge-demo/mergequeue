@@ -10947,7 +10947,7 @@ fess
 fragmentised
 fulnesses
 flanconade
-forgetness
+forgetness 1
 fusoid
 forewit
 fld
