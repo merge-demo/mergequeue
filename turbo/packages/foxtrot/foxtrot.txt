@@ -5357,7 +5357,7 @@ flinger
 fimbrilla
 finiking
 flouncier
-fuzzines
+fuzzines 1
 fleams
 fittier
 fraughting
