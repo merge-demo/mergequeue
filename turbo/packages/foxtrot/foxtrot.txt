@@ -5710,7 +5710,7 @@ frasse
 fracturableness
 flipperling
 flawlessly
-furious
+furious 1
 flyproof
 flush
 flavins
