@@ -1945,7 +1945,7 @@ enthelmintha
 endict
 elementalist
 ejaculatory
-erdvark
+erdvark 1
 entitling
 elishah
 ejectively
