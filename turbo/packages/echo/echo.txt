@@ -3546,7 +3546,7 @@ epididymal
 entocone
 enervator
 exceeder
-equoid
+equoid 1
 epicureanism
 exothermally
 excerpting
