@@ -8855,7 +8855,7 @@ duftery
 defiguration
 dozinesses
 draglines
-dovens
+dovens 1
 dibstone
 degustation
 doziness
