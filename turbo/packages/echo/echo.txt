@@ -11261,7 +11261,7 @@ evaporability
 emanating
 enwrapped 1
 ectoplasy
-extraversive
+extraversive 1
 eutaxy
 evaporates
 edp
