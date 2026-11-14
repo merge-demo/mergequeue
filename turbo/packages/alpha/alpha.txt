@@ -19199,7 +19199,7 @@ abusable
 antepretonic
 antiparliamenteer
 alemannic
-anatomically
+anatomically 1
 arcticized
 arcticizing
 arista
