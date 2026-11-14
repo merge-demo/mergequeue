@@ -8181,7 +8181,7 @@ biflabellate
 blowtorch
 biflagelate
 bewaring
-borrow
+borrow 1
 bass
 biflex
 benchfellow
