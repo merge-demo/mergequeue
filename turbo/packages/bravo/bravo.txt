@@ -7240,7 +7240,7 @@ bestud
 boninite
 bipont
 barrancas
-bandora
+bandora 1
 bulwarking
 blowsier
 bleariness 1
