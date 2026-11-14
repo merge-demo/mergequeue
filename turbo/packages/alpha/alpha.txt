@@ -4920,7 +4920,7 @@ acetary
 adonean
 aeroelastic
 aucupate
-aeroelasticity
+aeroelasticity 1
 arraigning
 aerofoils
 atmidometry
