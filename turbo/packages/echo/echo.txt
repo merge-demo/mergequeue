@@ -10261,7 +10261,7 @@ excides
 epilogist
 enspangle
 effodientia
-elasticizer
+elasticizer 1
 ergal
 eulogium
 excipulum
