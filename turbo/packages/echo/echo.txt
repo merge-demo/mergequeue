@@ -6731,7 +6731,7 @@ eyelids
 erythraemia
 enthronizing
 emerit
-evacuation
+evacuation 1
 ellfish
 ediface
 eupnea
