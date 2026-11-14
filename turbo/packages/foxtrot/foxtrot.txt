@@ -2541,7 +2541,7 @@ fibromembranous
 filamentule
 frangibility
 freebee
-freeboot
+freeboot 1
 fem
 functionalistic
 fennish
