@@ -9687,7 +9687,7 @@ gruellings
 gelts
 gruesome
 galeod
-glycoproteid
+glycoproteid 1
 gasp
 grassworm
 gregale
