@@ -5795,7 +5795,7 @@ fussiest
 forebear
 fossiliferous
 fructicultural
-fumeroot
+fumeroot 1
 fallage
 fastigium
 foreswearing
