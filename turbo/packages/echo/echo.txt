@@ -13009,7 +13009,7 @@ entastic
 existentially
 esophagectomy
 ergotic
-epiphytal
+epiphytal 1
 estafette
 electrocauteries
 engrapple
