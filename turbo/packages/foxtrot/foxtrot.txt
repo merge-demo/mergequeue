@@ -85,7 +85,7 @@ folkright
 flattening
 funny
 fiendish
-flagrantness
+flagrantness 1
 funambulating
 facetely
 falsest
