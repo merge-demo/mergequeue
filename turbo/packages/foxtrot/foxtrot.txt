@@ -56,7 +56,7 @@ flavonoid
 flagellist
 flauntier
 forebless
-foresight
+foresight 1
 friskily
 faster
 fibrolite
