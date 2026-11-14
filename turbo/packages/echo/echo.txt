@@ -11106,7 +11106,7 @@ eiderdown
 erotetic
 euthycomi
 equerries
-exploitable
+exploitable 1
 enol
 emprises
 exsiliency
