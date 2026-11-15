@@ -12133,7 +12133,7 @@ dialogised
 dumbwaiter
 declensional
 decertifying
-depressible
+depressible 1
 dejections
 disfigure
 defencelessness
