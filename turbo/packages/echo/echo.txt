@@ -12325,7 +12325,7 @@ exflect
 endower
 enteromyiasis
 epicleidium
-emerod
+emerod 1
 expoliate
 eurasian
 exfoliative
