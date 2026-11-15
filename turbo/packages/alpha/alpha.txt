@@ -23640,7 +23640,7 @@ auramine
 aurang
 aborters
 allogeneous
-atomists
+atomists 1
 articulable 1
 aurate
 aureate
