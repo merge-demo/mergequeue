@@ -4968,7 +4968,7 @@ forehinting
 feebleheartedly
 flanch
 farcemeat
-formalize
+formalize 1
 ferrugination
 fictionalized
 foraminate
