@@ -4341,7 +4341,7 @@ disburden
 defatigable
 demandingly
 demands
-desyl
+desyl 1
 dendrodic
 dysphagic
 delead
