@@ -11757,7 +11757,7 @@ esquireship
 ericetum
 excorticating
 exappendiculate
-empover
+empover 1
 electroacoustic
 exarate
 egyptianization
