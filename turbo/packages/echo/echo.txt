@@ -7916,7 +7916,7 @@ enlargement
 ethonone
 euphemistic
 enclavement
-excoriable
+excoriable 1
 enneastylar
 engender
 enframes
