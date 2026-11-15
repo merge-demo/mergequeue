@@ -3088,7 +3088,7 @@ ellipsograph
 executiveness
 ellipticity
 extemporize
-elliptograph
+elliptograph 1
 elliptoid
 encrease
 extraparietal
