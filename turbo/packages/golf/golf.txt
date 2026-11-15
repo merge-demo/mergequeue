@@ -9381,7 +9381,7 @@ gloved
 galenobismutite
 gobelin
 glaymore
-gorgonize
+gorgonize 1
 gastroenterologists
 gelatinized
 glutamine
