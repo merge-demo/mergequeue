@@ -7233,7 +7233,7 @@ dolorous
 damnified
 detection
 diamantiferous
-deadlight
+deadlight 1
 disparatum
 daguilla
 darklings
