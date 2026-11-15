@@ -12533,7 +12533,7 @@ etc
 exclaim
 ergonovine
 exobasidium
-eupathy
+eupathy 1
 enlure
 echuca
 eating
