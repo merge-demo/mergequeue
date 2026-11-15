@@ -4677,7 +4677,7 @@ genotypicity
 glassin
 guisard
 glycuronic
-glary
+glary 1
 gradely
 graecism
 grosbeaks
