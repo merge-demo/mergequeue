@@ -4781,7 +4781,7 @@ cowlings
 carpoidea
 chalcidid
 carpolith
-confides
+confides 1
 clitellus
 carpology
 corrosibility
