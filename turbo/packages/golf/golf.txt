@@ -3076,7 +3076,7 @@ ghouls
 gibbol
 glossarist
 garo
-groaned
+groaned 1
 geophilid
 galvanoscopic
 gainset
