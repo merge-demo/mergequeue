@@ -8492,7 +8492,7 @@ chance
 clow
 chemosterilants
 chanced
-categorical
+categorical 1
 chanceful
 chancefulness
 chancey
