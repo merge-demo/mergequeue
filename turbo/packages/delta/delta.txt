@@ -3479,7 +3479,7 @@ defoliate
 defoliations
 descending
 disjunct
-dispendiously
+dispendiously 1
 debilitant
 decelerating
 decompressed
