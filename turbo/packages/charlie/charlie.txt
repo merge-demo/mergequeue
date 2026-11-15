@@ -8919,7 +8919,7 @@ consultation
 crinivorous 1
 crowds
 catholicizing
-chareter
+chareter 1
 comparatives
 charette
 censers
