@@ -1565,7 +1565,7 @@ exaggeratedness
 euosmite
 enterokinetic
 eglamore
-eglandular
+eglandular 1
 electrosynthetically
 eglantines
 endocardia
