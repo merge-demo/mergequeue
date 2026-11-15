@@ -19591,7 +19591,7 @@ coregence
 columellia
 columelliaceae
 columnal
-camphors
+camphors 1
 colitoxemia
 columnarian
 crafted
