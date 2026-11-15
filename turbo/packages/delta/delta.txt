@@ -429,7 +429,7 @@ deities
 dorsad
 dhourra
 discoursers
-dairous
+dairous 1
 dais
 defog
 disinthrall
