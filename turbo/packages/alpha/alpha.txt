@@ -24032,7 +24032,7 @@ autocombustion
 autoconduction
 archive
 axmaster
-anthracnosis
+anthracnosis 1
 antimellin
 ansate
 alemite
