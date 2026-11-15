@@ -3748,7 +3748,7 @@ glinse
 goonie
 guydom
 graveldiver
-getatable
+getatable 1
 gazoz
 googolplex
 goldfield
