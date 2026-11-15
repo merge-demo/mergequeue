@@ -15979,7 +15979,7 @@ carryovers
 citharas
 cobstone
 clerkdom
-chloralose
+chloralose 1
 clerkery
 clerkess
 caligated
