@@ -838,7 +838,7 @@ faun
 ferrimagnetically
 fenny
 frogeyes
-formfitting
+formfitting 1
 fixatives
 fluctuations
 fanjet
