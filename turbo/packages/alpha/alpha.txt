@@ -21837,7 +21837,7 @@ apotheose
 antiquarium
 asseveration
 apaesthetic
-asseveratory
+asseveratory 1
 asshead
 assi
 archiblastula
