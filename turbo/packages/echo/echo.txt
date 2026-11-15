@@ -6708,7 +6708,7 @@ epistrophy
 enthelminthic
 exungulate
 effume
-ectosomal
+ectosomal 1
 executionist
 extratarsal
 esthesioneurosis
