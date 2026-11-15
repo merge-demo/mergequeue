@@ -2861,7 +2861,7 @@ forestair
 fibrillose
 faeries
 fetwa 1
-ferlies
+ferlies 1
 fetterlock
 faroeish
 flatfish
