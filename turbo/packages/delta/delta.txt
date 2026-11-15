@@ -16355,7 +16355,7 @@ dolmens
 dissimulating
 duplation
 defilade
-defrost
+defrost 1
 devirginator
 downstrokes
 downtake
