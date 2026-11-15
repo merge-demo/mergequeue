@@ -2591,7 +2591,7 @@ crepier
 camphires
 censuses
 cyclotrons
-cheesing
+cheesing 1
 canebrake
 cardioschisis
 cementmaking
