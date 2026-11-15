@@ -12052,7 +12052,7 @@ agba
 ascribed
 armagnac
 alkylated
-anarthrosis
+anarthrosis 1
 algous
 anarthrously
 anarthrousness
