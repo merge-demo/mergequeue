@@ -8793,7 +8793,7 @@ cymbalaria
 chapter
 canonries
 chapteral
-chapterhouse
+chapterhouse 1
 cardinalates
 chapwoman
 circumradii
