@@ -25030,7 +25030,7 @@ cordinar
 cordlessly
 crucifyfied
 cordlike
-configured
+configured 1
 cordobas
 cordon
 cordonazos
