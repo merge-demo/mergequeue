@@ -16308,7 +16308,7 @@ dephlegmatize
 dibbler
 dragonism
 dainteth
-deplored
+deplored 1
 dedolency
 diarchy
 drubs
