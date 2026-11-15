@@ -4007,7 +4007,7 @@ dialing
 dipteros
 dirten
 delegations
-delegator
+delegator 1
 discomposedly
 drenchingly
 delesseriaceous
