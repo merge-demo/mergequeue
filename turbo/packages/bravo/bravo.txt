@@ -13068,7 +13068,7 @@ borsches
 balmlike
 boehmenist
 boreen
-bowerly
+bowerly 1
 bimestrial
 burdash
 bugseeds
