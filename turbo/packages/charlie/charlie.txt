@@ -7710,7 +7710,7 @@ ceroplasty
 ceroplastic
 ceroplastics
 cyanocrystallin
-cerosin
+cerosin 1
 cerote
 chastises
 cerotin
