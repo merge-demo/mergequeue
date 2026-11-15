@@ -10817,7 +10817,7 @@ drier
 diletant
 dashwheel
 diadematoida
-digit
+digit 1
 dynameter
 darkest
 distant
