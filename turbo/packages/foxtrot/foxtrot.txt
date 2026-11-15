@@ -3069,7 +3069,7 @@ feringi
 fibro
 fantasia
 fiercehearted
-fortifications
+fortifications 1
 flintily 1
 frontispiece
 frozen
