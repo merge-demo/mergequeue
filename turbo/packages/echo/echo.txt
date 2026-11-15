@@ -6868,7 +6868,7 @@ enfeoffed
 extremism
 ergotoxin
 epaulets
-evitable
+evitable 1
 entomosporium
 ellipsoidal
 endangered
