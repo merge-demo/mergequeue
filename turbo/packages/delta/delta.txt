@@ -9622,7 +9622,7 @@ destructs
 diplexer
 dissight
 debunking
-dipoles
+dipoles 1
 dexterous
 dihydrostreptomycin
 dihydrotachysterol
