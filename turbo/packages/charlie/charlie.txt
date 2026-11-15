@@ -3135,7 +3135,7 @@ craterid
 cristatella
 carbogelatin
 cape
-chequerboard
+chequerboard 1
 capeadores
 capelan
 chromid
