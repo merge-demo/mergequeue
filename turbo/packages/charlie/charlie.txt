@@ -8751,7 +8751,7 @@ chaplain
 chaplaincies
 chaplains
 curiboca
-crackup
+crackup 1
 carpocapsa
 cognitives
 chapless
