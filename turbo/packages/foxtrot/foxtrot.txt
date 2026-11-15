@@ -11636,7 +11636,7 @@ fumy
 friendship
 foliaceous
 frizzled
-fructoses
+fructoses 1
 ferren
 fustiness
 fustoc
