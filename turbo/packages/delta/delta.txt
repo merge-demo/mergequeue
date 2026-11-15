@@ -16209,7 +16209,7 @@ dowsets
 densitometer
 dowitchers
 determinedness
-demagogs
+demagogs 1
 decanters
 derange
 darneder
