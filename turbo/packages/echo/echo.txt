@@ -13419,7 +13419,7 @@ eikones
 ebionitic
 externship
 ectogenic
-excitingly
+excitingly 1
 expressionists
 eventuality
 existently
