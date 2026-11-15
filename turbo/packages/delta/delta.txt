@@ -8557,7 +8557,7 @@ deobstruent
 discommodious
 dermographia
 diaphysis
-dracontiasis
+dracontiasis 1
 druggists
 diaphone
 discontiguous
