@@ -21991,7 +21991,7 @@ configuration
 configurationally
 configurations
 configurative
-configure
+configure 1
 configures
 coxcombry
 confinable
