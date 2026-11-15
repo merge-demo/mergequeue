@@ -6010,7 +6010,7 @@ depuratory
 decimalize
 depure
 distortedly
-diagonally
+diagonally 1
 daffadowndillies
 dermitis
 depe
