@@ -6229,7 +6229,7 @@ endamaged
 eidology
 enplane
 electromotor
-ecorticate
+ecorticate 1
 embryonary
 ethnogeographical
 entered
