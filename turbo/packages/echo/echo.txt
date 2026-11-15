@@ -8423,7 +8423,7 @@ ephymnium
 enjoyment
 eglogue
 ethicosocial
-equitemporal
+equitemporal 1
 epizootology
 enwrought
 equilibrious
