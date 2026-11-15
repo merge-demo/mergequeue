@@ -1422,7 +1422,7 @@ epipodialia
 entoretina
 erythrocytolytic
 espoused
-ethnicon
+ethnicon 1
 exaggeratory
 enols
 execratory
