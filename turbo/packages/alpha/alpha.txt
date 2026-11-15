@@ -1360,7 +1360,7 @@ anticnemion
 airtightly
 awingly
 accentual
-accension
+accension 1
 annulately
 agapanthus
 accept
