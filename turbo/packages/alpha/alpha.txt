@@ -11701,7 +11701,7 @@ assuror
 anaemotropy
 adrad
 anaeretic
-ambulacrum
+ambulacrum 1
 acerbity
 astrometeorologist
 adages
