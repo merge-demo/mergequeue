@@ -17480,7 +17480,7 @@ dhundia
 discarder
 decuplet
 dimwitted
-dilatoriness
+dilatoriness 1
 drowsihead
 drowte
 dreads
