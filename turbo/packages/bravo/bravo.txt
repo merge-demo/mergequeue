@@ -4888,7 +4888,7 @@ bloomage
 backspeer 1
 bomarea
 beechwood
-bright
+bright 1
 bourbons
 belaud
 blackeyes
