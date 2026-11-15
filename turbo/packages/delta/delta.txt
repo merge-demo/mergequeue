@@ -18561,7 +18561,7 @@ debars
 duros
 drouks 1
 distil
-despaired
+despaired 1
 detailing
 derri
 durry
