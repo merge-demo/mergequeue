@@ -8622,7 +8622,7 @@ chibol
 channelled
 channelling
 commiseratingly
-channelure
+channelure 1
 cestus
 clanged
 chronoscope
