@@ -12042,7 +12042,7 @@ dehisces
 disgorging
 discoplacentalia
 dult
-disenthrone
+disenthrone 1
 denizened 1
 demerits
 disentitled
