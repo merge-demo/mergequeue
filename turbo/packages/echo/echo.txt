@@ -2739,7 +2739,7 @@ erythrocyte
 evangelary
 elegy
 emblematicize
-elegiacally
+elegiacally 1
 eighthly
 exprobate
 encoil
