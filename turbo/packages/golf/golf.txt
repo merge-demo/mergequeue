@@ -4340,7 +4340,7 @@ gerontine
 gurgulio
 graphy
 gingerspice
-greenable
+greenable 1
 gleefulness
 girthed
 gingivae
