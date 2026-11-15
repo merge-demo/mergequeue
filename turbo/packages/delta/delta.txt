@@ -426,7 +426,7 @@ descanting
 dustpoint
 dayrooms
 deities
-dorsad
+dorsad 1
 dhourra
 discoursers
 dairous
