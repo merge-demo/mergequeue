@@ -17966,7 +17966,7 @@ alcoholist 1
 accubitus
 anticynic
 approaching
-anemometer
+anemometer 1
 approbated
 anachronist
 adorner
