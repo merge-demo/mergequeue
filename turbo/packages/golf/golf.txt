@@ -34,7 +34,7 @@ gnomical
 gieaways
 goatroot
 geoselenic
-globose
+globose 1
 gouty
 goodlike
 gabioned
