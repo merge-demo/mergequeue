@@ -10081,7 +10081,7 @@ gigman
 galivanting
 glore
 gowpen
-gudgeon
+gudgeon 1
 grobianism 1
 glycosidic
 gullage
