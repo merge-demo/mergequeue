@@ -3970,7 +3970,7 @@ freighting
 funneled
 farcical
 follyproof
-fossil
+fossil 1
 footstalk
 founders
 focalise
