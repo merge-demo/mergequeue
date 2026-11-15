@@ -11227,7 +11227,7 @@ furzed
 funiculars
 funiform
 fount
-false
+false 1
 flashcubes
 formful
 fabricative
