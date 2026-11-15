@@ -12710,7 +12710,7 @@ daut
 depreciating
 diphenol
 dishonesty
-deindividualization
+deindividualization 1
 domicilement
 durns
 developable
