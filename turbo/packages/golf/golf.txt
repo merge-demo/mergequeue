@@ -4372,7 +4372,7 @@ gigmania
 gnathion
 graphicalness
 grylli
-gunky
+gunky 1
 guz
 glottochronology
 gardened
