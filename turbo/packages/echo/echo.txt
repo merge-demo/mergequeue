@@ -8478,7 +8478,7 @@ epimorpha
 endures
 epsilons
 extravasate
-expressionistic
+expressionistic 1
 entryways
 entrants
 emda
