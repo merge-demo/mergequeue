@@ -11513,7 +11513,7 @@ disobligatory
 discommoned
 dextrinase
 dodrantal 1
-detective
+detective 1
 downland
 desorbs
 discompanied
