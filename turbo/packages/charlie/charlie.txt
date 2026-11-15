@@ -10117,7 +10117,7 @@ careened
 columnwise
 cheval
 chevalet
-chevalets
+chevalets 1
 chevalier
 centeredness
 cystencyte
