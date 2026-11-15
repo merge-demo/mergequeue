@@ -8099,7 +8099,7 @@ bloodhound
 bidiagonal
 bidimensional
 binucleate
-barble
+barble 1
 befouls
 biding
 bidirectional 1
