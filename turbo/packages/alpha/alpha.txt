@@ -22056,7 +22056,7 @@ atrebates
 asepticism
 anteprostate
 anthems
-astable
+astable 1
 aedeagus
 astay
 anisometropic
