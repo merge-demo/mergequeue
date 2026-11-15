@@ -8748,7 +8748,7 @@ geraniaceous
 gismo
 groundenell
 grubby
-glassite
+glassite 1
 gambit
 glucosuric
 garrets
