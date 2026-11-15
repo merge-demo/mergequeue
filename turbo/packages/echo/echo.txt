@@ -6010,7 +6010,7 @@ exhortative
 estampedero
 erosion
 ejects
-earns
+earns 1
 eluding
 extrapituitary
 emptily
