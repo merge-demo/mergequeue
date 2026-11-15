@@ -3913,7 +3913,7 @@ echocardiogram
 engreen
 exogamic
 electrogalvanize
-emmetropy
+emmetropy 1
 equationally
 endplates
 enanthem
