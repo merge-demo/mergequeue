@@ -12842,7 +12842,7 @@ awarder
 agnosis
 aeneolithic
 angioplasty
-androgyn
+androgyn 1
 asseize
 angiopressure
 acquaintance
