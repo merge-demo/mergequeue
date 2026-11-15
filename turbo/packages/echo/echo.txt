@@ -1453,7 +1453,7 @@ ethiopian
 epanorthotic
 emunct
 exenteritis
-envelop
+envelop 1
 enfarce
 euxanthate
 efforts
