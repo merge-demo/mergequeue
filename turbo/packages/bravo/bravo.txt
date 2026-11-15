@@ -17712,7 +17712,7 @@ biont
 braconid
 bankeress
 broach
-bicornes
+bicornes 1
 buyer
 burma
 begazed
