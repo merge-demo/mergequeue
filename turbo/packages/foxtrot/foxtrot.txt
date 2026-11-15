@@ -6579,7 +6579,7 @@ fortuitist
 flyboats
 falconiform
 foaling
-friary
+friary 1
 flunkeyism
 feltness
 frounce
