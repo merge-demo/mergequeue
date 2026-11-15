@@ -9881,7 +9881,7 @@ crystallisation
 chemoreflex
 cariyo
 contrabassoon
-chemoresistance
+chemoresistance 1
 chemoserotherapy
 chemosynthesis
 chemosynthetic
