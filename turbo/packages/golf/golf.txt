@@ -6848,7 +6848,7 @@ gnomonic
 gypsied
 glauconite
 granulomas
-gaffsman
+gaffsman 1
 grisettish
 graphics
 gorbal
