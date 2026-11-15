@@ -18374,7 +18374,7 @@ cardinalic
 cuinage
 cognatic
 calorize
-cognatus
+cognatus 1
 cementum
 cognisable
 catholicized
