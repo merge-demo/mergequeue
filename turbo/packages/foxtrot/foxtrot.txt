@@ -2758,7 +2758,7 @@ festellae
 ficary
 faliscan
 foreparts
-freddo
+freddo 1
 fibroserous
 festerment
 footway
