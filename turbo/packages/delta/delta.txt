@@ -6121,7 +6121,7 @@ deranges
 dualin
 detrimental
 dropout
-durgen
+durgen 1
 dissolvable
 deckedout
 derated
