@@ -14170,7 +14170,7 @@ dinky
 disencrease 1
 dammish
 daywork
-deringer
+deringer 1
 dunair
 disunify
 disorientates
