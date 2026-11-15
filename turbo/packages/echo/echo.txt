@@ -10934,7 +10934,7 @@ excess
 equability
 eggbeater
 epipelagic 1
-ends
+ends 1
 ecbolic
 eupnoea
 emboweler
