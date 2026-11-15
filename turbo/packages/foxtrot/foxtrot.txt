@@ -31,7 +31,7 @@ fibrolitic
 feaked
 fibrocyst
 fabricates
-fabricator
+fabricator 1
 flintless
 furies
 farmscape
