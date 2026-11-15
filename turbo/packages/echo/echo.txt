@@ -181,7 +181,7 @@ electromotion
 electrolier
 equipoising
 extraformal
-estrogenic
+estrogenic 1
 emeras
 exclamatively
 earthquaken
