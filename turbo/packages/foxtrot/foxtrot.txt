@@ -152,7 +152,7 @@ factionalism
 fatuously
 factualness 1
 fullbodied
-freezers
+freezers 1
 farinha
 fabes
 faradopalpation
