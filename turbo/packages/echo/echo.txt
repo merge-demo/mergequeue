@@ -12618,7 +12618,7 @@ exogen
 earldom
 encratism
 exogenously
-examplar
+examplar 1
 exogyra
 enterogram
 effusion
