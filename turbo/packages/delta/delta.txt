@@ -9704,7 +9704,7 @@ dehydromucic
 disablers
 demur
 detin 1
-devolute
+devolute 1
 dilatedly
 demythologized
 dimethyl
