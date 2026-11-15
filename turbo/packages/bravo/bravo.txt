@@ -4774,7 +4774,7 @@ barbarize
 bucktails
 bronchially
 benet
-burking
+burking 1
 barrener
 brecciating
 bracker
