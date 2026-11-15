@@ -10045,7 +10045,7 @@ fibrosis
 fablemonger
 faddish
 fait 1
-foreappointment
+foreappointment 1
 featherhead
 flabbiest
 feloniously
