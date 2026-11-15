@@ -6993,7 +6993,7 @@ douter
 diets
 dandlers
 dript
-despoil
+despoil 1
 despoiled
 destroyers
 despoiler
