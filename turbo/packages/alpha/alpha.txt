@@ -22439,7 +22439,7 @@ antidetonant
 astrologist
 anagrammatise
 antiluetin
-astrologize
+astrologize 1
 advancers
 astromancer
 astromantic
