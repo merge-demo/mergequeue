@@ -6072,7 +6072,7 @@ dramaticism
 depressiveness
 deputizing
 degraders
-deonerate
+deonerate 1
 debriefed
 deaconal
 dilutent
