@@ -237,7 +237,7 @@ adipolytic
 ajourise
 aeroliths
 acroamatics
-absorptiometric
+absorptiometric 1
 abbott
 adenomyxoma
 actable
