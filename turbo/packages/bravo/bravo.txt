@@ -18367,7 +18367,7 @@ buzane
 blawort
 bortsch
 bepaint
-buzz
+buzz 1
 bedew
 buzzard
 beylical
