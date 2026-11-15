@@ -1698,7 +1698,7 @@ frypan
 flunkeyish
 faucets
 fellest
-firesafety
+firesafety 1
 flatworm
 fieldmice
 fleshless
