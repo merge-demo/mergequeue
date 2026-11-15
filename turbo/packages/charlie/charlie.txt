@@ -26763,7 +26763,7 @@ curbstones
 counterbrand
 confutable
 countercathexis
-counterchanged
+counterchanged 1
 countercharm
 counterclaim
 cirriform 1
