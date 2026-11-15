@@ -9243,7 +9243,7 @@ fertilities
 fack 1
 fraises
 fausant
-fishable
+fishable 1
 fretwise
 fascinery
 frontispieced
