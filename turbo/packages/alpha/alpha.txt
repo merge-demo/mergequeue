@@ -20014,7 +20014,7 @@ adenotome
 alkanol
 archikaryon
 aulu
-avianize
+avianize 1
 address
 antiscientifically
 announcements 1
