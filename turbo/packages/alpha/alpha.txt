@@ -24833,7 +24833,7 @@ avocet
 autoed
 appendicial
 acheck
-avogadrite
+avogadrite 1
 amberjacks
 accupy
 alcoholization
