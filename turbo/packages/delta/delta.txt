@@ -12562,7 +12562,7 @@ disintegrators
 dextrer
 dogs 1
 disintegrity
-diagenetic
+diagenetic 1
 disinterest
 disinterestedly
 disinterestedness
