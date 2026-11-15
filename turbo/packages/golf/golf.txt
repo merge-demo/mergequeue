@@ -10863,7 +10863,7 @@ girds
 geomagnetician
 gush
 gonidium
-gyri
+gyri 1
 grozet
 guideress
 graduation
