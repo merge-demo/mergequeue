@@ -2059,7 +2059,7 @@ bank
 bankalachi
 beshivers
 bidactyl
-bethought
+bethought 1
 banky
 banknote
 bergamo
