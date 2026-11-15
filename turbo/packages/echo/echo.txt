@@ -1493,7 +1493,7 @@ entasias
 effuviate
 efl
 efph
-erringly
+erringly 1
 entocondylar
 experimentarian
 empyesis
