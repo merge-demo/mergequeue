@@ -4367,7 +4367,7 @@ finagle
 feebler
 foraramina
 fylfots
-foreacquaint
+foreacquaint 1
 foreconceive
 forb
 furosemide
