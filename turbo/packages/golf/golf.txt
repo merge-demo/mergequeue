@@ -10004,7 +10004,7 @@ gleaner
 gelatinify
 galago
 gaslike
-gateau
+gateau 1
 gudame
 gibberose
 gone
