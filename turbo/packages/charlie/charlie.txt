@@ -17714,7 +17714,7 @@ campuses
 cashier
 cocoanut
 chasing
-centigrade
+centigrade 1
 cocoawood
 churchgoing
 cocobola
