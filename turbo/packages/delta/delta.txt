@@ -18648,7 +18648,7 @@ dipaschal
 dummyism 1
 dutymonger
 deactivations
-disalignment
+disalignment 1
 decury
 definiteness
 drowsily
