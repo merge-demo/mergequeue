@@ -2492,7 +2492,7 @@ binotic
 bigram
 baresthesia
 beworming
-bottom
+bottom 1
 busies
 bifunctional
 benzoiodohydrin
