@@ -6606,7 +6606,7 @@ guerillas
 galeass
 gashly
 gel
-grenadiers
+grenadiers 1
 gigolos
 graphalloy
 good
