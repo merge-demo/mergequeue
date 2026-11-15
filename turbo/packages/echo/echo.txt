@@ -8986,7 +8986,7 @@ erysipelatous
 erraticalness
 exhausted
 expletively
-erysipeloid
+erysipeloid 1
 endothoracic
 extrinsicate
 exhaustive
