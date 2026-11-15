@@ -8497,7 +8497,7 @@ graveclod
 gonfalon
 genl
 gult
-gibaro
+gibaro 1
 gregarinina
 garum
 glisteningly
