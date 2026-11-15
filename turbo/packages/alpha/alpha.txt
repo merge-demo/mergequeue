@@ -16115,7 +16115,7 @@ antiscientific
 ande
 armorica
 auto
-antiscolic
+antiscolic 1
 antiscorbutical
 acrosphacelus
 antiscrofulous
