@@ -10666,7 +10666,7 @@ caseoses
 ctenophorous
 coprolite
 chymia
-chymics
+chymics 1
 calic
 chymify
 cobnuts
