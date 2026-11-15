@@ -15978,7 +15978,7 @@ antiquaries
 americas
 amylase
 arach
-acquital
+acquital 1
 aliasing
 anticreational
 anacreontic
