@@ -5857,7 +5857,7 @@ anisocarpic
 aponeurosis
 ankylosaur
 agendum
-amovability
+amovability 1
 agene
 anticonscription
 ageneses
