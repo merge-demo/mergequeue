@@ -16401,7 +16401,7 @@ define
 dulc
 drawcansir
 draggletailedness
-doxa
+doxa 1
 doxastic
 doxasticon
 doxie
