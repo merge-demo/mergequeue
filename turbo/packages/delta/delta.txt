@@ -11899,7 +11899,7 @@ dandiacal
 defeasive
 debonaire
 diseases
-diastemata
+diastemata 1
 dicetyl
 diplostemonous
 depthing
