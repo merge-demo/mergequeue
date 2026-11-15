@@ -11790,7 +11790,7 @@ chop
 certificates
 consentant
 chopa
-chalcids
+chalcids 1
 colpeurysis
 contradictories
 catechisms
