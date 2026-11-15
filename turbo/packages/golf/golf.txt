@@ -8674,7 +8674,7 @@ gisel
 greaved
 grossulaceous
 gigartinales
-gummic
+gummic 1
 gonocalycine 1
 gliders
 graphitizing
