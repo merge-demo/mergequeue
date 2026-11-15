@@ -3233,7 +3233,7 @@ episcleral
 extralateral
 emancipates
 esophagospasm
-embuia
+embuia 1
 elution
 embourgeoisement
 episomal

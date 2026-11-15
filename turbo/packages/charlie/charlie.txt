@@ -4539,7 +4539,7 @@ cordialize
 carnation
 carnationist
 carnauba
-carnaubas
+carnaubas 1
 carneau
 carnegie
 carnegiea
