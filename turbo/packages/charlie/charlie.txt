@@ -19308,7 +19308,7 @@ colonist
 colonizable
 colonize
 chemoreception
-comminating
+comminating 1
 courted
 colonnade
 coughwort
