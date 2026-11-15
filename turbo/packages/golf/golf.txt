@@ -4554,7 +4554,7 @@ girder
 gil
 generalate
 greens 1
-goosebill
+goosebill 1
 geometrid
 grating
 goupen
