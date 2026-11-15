@@ -4090,7 +4090,7 @@ boagane
 besleeve
 baroclinicity 1
 blamableness
-bicompact
+bicompact 1
 balanoglossus
 brachiopode
 bodysurfs
