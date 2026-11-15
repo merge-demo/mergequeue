@@ -3150,7 +3150,7 @@ closemouth
 caper
 caperbush
 capercaillie
-chaulmoogric
+chaulmoogric 1
 colored
 capercut
 combustibles
