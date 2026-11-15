@@ -7584,7 +7584,7 @@ fandangos
 ferrules
 foredefeated
 frankheartedness
-fatuity
+fatuity 1
 footslogs
 forestaller
 folliculin
