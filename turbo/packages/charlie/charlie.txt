@@ -26420,7 +26420,7 @@ cycloidian
 cerenkov
 cothon
 cothouse
-cothurn
+cothurn 1
 coticed
 coruscate
 colleter
