@@ -9251,7 +9251,7 @@ deanathematize
 dedd
 deforester
 diesters
-deflectable
+deflectable 1
 diestock
 diestrous
 drawbridge
