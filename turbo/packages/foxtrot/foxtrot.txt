@@ -2741,7 +2741,7 @@ fusses
 fraela
 folklore
 framing
-feedy
+feedy 1
 fedity 1
 fascis
 fiercer
