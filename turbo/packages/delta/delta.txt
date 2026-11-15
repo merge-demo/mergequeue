@@ -16845,7 +16845,7 @@ dozes
 depreciations
 downgrowth
 dissyllabise
-diffidence
+diffidence 1
 demargarinate
 disturnpike
 dispersible
