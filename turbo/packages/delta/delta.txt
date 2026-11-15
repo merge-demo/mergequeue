@@ -2107,7 +2107,7 @@ dissyllabism
 defenseman
 decameral
 doline
-diapasm
+diapasm 1
 daunts
 doab
 disinheritances
