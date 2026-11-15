@@ -5249,7 +5249,7 @@ epitomatory
 etaerio
 excommunicated
 exactor
-entreatable
+entreatable 1
 educt
 embryotegae
 editors
