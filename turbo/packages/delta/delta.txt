@@ -17886,7 +17886,7 @@ destituteness
 dysmenorrhagia
 desentimentalize 1
 doctrine
-durationless
+durationless 1
 dishmaking
 dueled
 duelers
