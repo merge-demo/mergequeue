@@ -2654,7 +2654,7 @@ enthymematic
 evil
 exciples
 embiidina
-electrostriction
+electrostriction 1
 ejurate
 epitomizing
 emong
