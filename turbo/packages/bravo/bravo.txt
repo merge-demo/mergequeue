@@ -16565,7 +16565,7 @@ brutify
 basic
 bathorse
 bargeese
-barbarianize
+barbarianize 1
 brownish
 bushmen
 botrydium
