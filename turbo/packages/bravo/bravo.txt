@@ -5295,7 +5295,7 @@ beglerbeglic
 bakalai
 burka
 brahmaic
-biannulate
+biannulate 1
 becurry
 blueheads
 bethesdas
