@@ -7906,7 +7906,7 @@ defrock
 droughty
 diminuting
 dewlapped
-deuniting
+deuniting 1
 dewless
 dactyloscopy
 daggled
