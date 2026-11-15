@@ -6034,7 +6034,7 @@ decomposability
 discommendably
 dammit
 dolesomeness
-desterilize
+desterilize 1
 desmotrope
 deflates
 dicephalism
