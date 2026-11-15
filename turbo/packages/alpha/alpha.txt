@@ -5520,7 +5520,7 @@ agronomies
 afterdeal
 afterdeck
 aerial
-astrographer
+astrographer 1
 afterform
 actuarial
 aerolith
