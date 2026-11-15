@@ -9875,7 +9875,7 @@ coteller
 chapelgoer
 chemoreceptor
 cryptographers
-childes
+childes 1
 curtailing
 crystallisation
 chemoreflex
