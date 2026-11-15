@@ -4071,7 +4071,7 @@ equitant
 enjambement
 erotophobia
 exteriorize
-epiphonemae
+epiphonemae 1
 eugenical
 electrotonize
 emil
