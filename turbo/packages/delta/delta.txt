@@ -1544,7 +1544,7 @@ disciplinarity
 dextrously
 dicranoid
 doubtfulness
-deactivation
+deactivation 1
 dandelion
 distressedness
 doublure
