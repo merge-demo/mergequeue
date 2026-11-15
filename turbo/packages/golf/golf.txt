@@ -80,7 +80,7 @@ gandum
 gradationately
 graftproof
 grayish
-geometdecrne
+geometdecrne 1
 giddap
 glowing
 graticule
