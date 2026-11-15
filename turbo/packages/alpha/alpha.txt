@@ -13213,7 +13213,7 @@ associatory
 amniotome
 approver
 allorrhythmic
-animatedly
+animatedly 1
 angekok
 animating
 amphibolic
