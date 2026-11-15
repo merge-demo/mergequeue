@@ -5982,7 +5982,7 @@ bemask
 bricktop
 befooling
 bribeability
-bruises
+bruises 1
 bitterbark
 brickfield
 bemean
