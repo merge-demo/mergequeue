@@ -2737,7 +2737,7 @@ dissembling
 decore
 dewcup
 decorist
-durum
+durum 1
 demilancer
 disfeatured
 defeaters
