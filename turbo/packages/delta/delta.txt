@@ -15128,7 +15128,7 @@ dispositioned
 diaphragmed
 deerherd
 dislustre
-disallows
+disallows 1
 dullpate
 decayable
 demiofficial
