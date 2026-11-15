@@ -5027,7 +5027,7 @@ forepad
 flipping
 fallows
 flatbeds
-flanneling
+flanneling 1
 fungoidal
 fellatios
 forepaw
