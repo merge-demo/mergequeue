@@ -1019,7 +1019,7 @@ germination
 geologer
 ginnle
 gloriette
-galvanoscopy
+galvanoscopy 1
 geodist
 gothicize
 grasp
