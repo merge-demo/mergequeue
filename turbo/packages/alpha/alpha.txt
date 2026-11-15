@@ -4018,7 +4018,7 @@ anticontagious
 apokatastasis
 adminicula
 akolouthia
-anergy
+anergy 1
 adminicular
 accounted
 adminiculation
