@@ -5293,7 +5293,7 @@ eurybathic
 eucopepoda
 endogamy
 endoscope
-endoscopes
+endoscopes 1
 equivocalities
 eradicators
 egeran
