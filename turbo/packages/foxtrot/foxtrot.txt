@@ -7594,7 +7594,7 @@ fatimid
 fgn
 fructuarius
 funiculus
-fanciers
+fanciers 1
 flintworker
 freezable
 fervors
