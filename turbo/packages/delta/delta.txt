@@ -12162,7 +12162,7 @@ disfoliaged
 demobilization
 distich
 descendibility
-disherent
+disherent 1
 disfortune
 dramatism
 diomedea
