@@ -6737,7 +6737,7 @@ ediface
 eupnea
 extrinsical
 elaborator
-entrechat
+entrechat 1
 epitomic
 endoceratitic
 enthusiastically
