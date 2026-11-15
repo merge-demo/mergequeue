@@ -6164,7 +6164,7 @@ gnapweed
 gallification
 grammar
 gowiddie
-goblinry
+goblinry 1
 generalizing
 gyre 1
 grommet
