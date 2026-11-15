@@ -7196,7 +7196,7 @@ ejidos
 enderon
 erythropoietic
 electrotropic
-eupnoeas
+eupnoeas 1
 enthronize
 estradiot
 eyalet
