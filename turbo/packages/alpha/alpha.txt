@@ -14246,7 +14246,7 @@ alcove
 actiniarian
 anteroexternal
 anterofixation
-autobahns
+autobahns 1
 anastaltic
 allectory
 allomorph
