@@ -28762,7 +28762,7 @@ compendiary
 cavitate
 cornutine
 chafer
-crepusculine
+crepusculine 1
 costliness
 cres
 counteraffirmation
