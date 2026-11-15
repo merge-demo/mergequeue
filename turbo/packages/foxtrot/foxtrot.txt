@@ -9798,7 +9798,7 @@ fragmentary
 fattens
 foredooming
 fleck
-foamy
+foamy 1
 felicity
 fretum
 fidget
