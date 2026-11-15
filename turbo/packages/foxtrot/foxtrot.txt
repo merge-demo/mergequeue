@@ -8048,7 +8048,7 @@ felicitates 1
 fluidisation
 frustrate
 flammably
-formentation
+formentation 1
 facetting
 folial
 forestful
