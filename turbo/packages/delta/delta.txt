@@ -6518,7 +6518,7 @@ dynel
 descension
 dereligion
 descensionist
-descensive
+descensive 1
 donor
 descent
 despert
