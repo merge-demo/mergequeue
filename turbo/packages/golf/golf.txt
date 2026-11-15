@@ -2959,7 +2959,7 @@ gullability
 grogger
 gardenias
 geognosy
-geognostically
+geognostically 1
 gigliato
 guayules
 gaolering
