@@ -1233,7 +1233,7 @@ drivehead
 disembarkation
 defecating
 disemplane
-disobligation
+disobligation 1
 dateless
 datelessness
 denizate
