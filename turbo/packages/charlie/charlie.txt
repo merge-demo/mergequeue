@@ -15277,7 +15277,7 @@ clamorous
 coquita
 cfs
 caimito
-chathamite
+chathamite 1
 cupmaking
 clamorousness
 corallite
