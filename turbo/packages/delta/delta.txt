@@ -12216,7 +12216,7 @@ dispeoplement
 deking
 delphinine
 ditone
-deorsumvergence
+deorsumvergence 1
 dingeys
 damndest
 deresinate
