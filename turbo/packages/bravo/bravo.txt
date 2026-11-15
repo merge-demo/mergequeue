@@ -9549,7 +9549,7 @@ budgets
 bothridium
 burucha
 bogue
-bluejack
+bluejack 1
 battlements
 brewage
 ballhawk
