@@ -9871,7 +9871,7 @@ gettableness
 gasholder
 grasshoppers
 gastropathic
-gemmae
+gemmae 1
 goodliest
 growth
 gastrochaena

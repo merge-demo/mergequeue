@@ -16513,7 +16513,7 @@ disobeyer
 diakinetic 1
 dodderer
 dithiol
-distrix
+distrix 1
 diagrammatic
 demoralise
 draftings
