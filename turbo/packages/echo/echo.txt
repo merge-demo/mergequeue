@@ -5030,7 +5030,7 @@ excuses
 encumbrances
 emollescence
 eucosmid
-excipulaceae
+excipulaceae 1
 emboweller
 escobedo
 ensuer
