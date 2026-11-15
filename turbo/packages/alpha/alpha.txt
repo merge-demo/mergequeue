@@ -17258,7 +17258,7 @@ apophyllite
 appreciant
 archicarp
 acoma
-amorous
+amorous 1
 averruncate
 apophysary
 apophyseal
