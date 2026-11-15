@@ -18656,7 +18656,7 @@ disubstitution
 discountenanced
 disseisor
 devitrification
-decolorize
+decolorize 1
 duvetynes
 devaporation
 deflagrability
