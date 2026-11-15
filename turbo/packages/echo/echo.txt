@@ -2818,7 +2818,7 @@ equivalencing
 externalness
 eater
 epiclesis
-embden
+embden 1
 endomastoiditis
 erratuta
 exostracize

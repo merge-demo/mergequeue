@@ -14622,7 +14622,7 @@ drivelling
 despite
 divulger
 dianodal
-derisible
+derisible 1
 doomstead
 despicable
 discipliner
