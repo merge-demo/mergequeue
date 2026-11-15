@@ -9922,7 +9922,7 @@ epigenic
 economizer
 etaballi
 epipterygoid
-exprimable
+exprimable 1
 euphuists
 embolisms
 estovers
