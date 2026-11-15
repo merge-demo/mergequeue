@@ -9692,7 +9692,7 @@ elms
 ectoblast
 enshielded
 extraperitoneal
-espouser
+espouser 1
 espouses
 epicostal
 espousing
