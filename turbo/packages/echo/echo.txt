@@ -4680,7 +4680,7 @@ everybody
 epilog
 ecstrophy
 esthematology
-epanaphora
+epanaphora 1
 electroencephalographs
 egomania
 enmuffle
