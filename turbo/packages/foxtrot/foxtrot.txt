@@ -10663,7 +10663,7 @@ fundamental
 fidicinal
 flatulent
 foodstuffs
-fruitiness
+fruitiness 1
 fieldworker
 flagless
 fist
