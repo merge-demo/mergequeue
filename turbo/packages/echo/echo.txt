@@ -12675,7 +12675,7 @@ eelback
 earcockle
 eloquent
 energizing
-exophasic
+exophasic 1
 etchers
 exalted
 exophthalmia
