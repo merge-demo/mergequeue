@@ -13044,7 +13044,7 @@ embankment
 ergates
 enslave
 embassador 1
-eutaxite
+eutaxite 1
 explications
 ergotisms
 egotizing
