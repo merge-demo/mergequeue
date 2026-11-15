@@ -4337,7 +4337,7 @@ aerator
 algesireceptor
 adrogate
 antialbumid
-anthranilic
+anthranilic 1
 antihygienic
 ascript
 acetmethylanilide
