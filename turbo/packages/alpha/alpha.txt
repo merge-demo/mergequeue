@@ -3023,7 +3023,7 @@ attenuate
 aporobranchiata
 amboceptoid
 afterwar
-actinographic
+actinographic 1
 autotomy
 appriser
 actinolitic
