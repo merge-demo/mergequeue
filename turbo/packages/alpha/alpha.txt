@@ -2350,7 +2350,7 @@ arcocentrum
 athetoid
 absorbed
 acieration
-apiary
+apiary 1
 acies
 altometer
 acanthopod
