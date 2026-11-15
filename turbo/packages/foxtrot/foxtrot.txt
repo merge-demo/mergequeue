@@ -9460,7 +9460,7 @@ farming
 felid
 femininism
 frameable
-frequenting
+frequenting 1
 fraudfully
 flamelet
 fyces
