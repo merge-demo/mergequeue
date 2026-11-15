@@ -843,7 +843,7 @@ ectiris
 etamines
 eyewink
 eriophorum
-eosinophil
+eosinophil 1
 ectocommensal
 endophytic
 electrolyser
