@@ -10606,7 +10606,7 @@ archduchy
 aequian
 anophele
 amygdalin
-antepenuit
+antepenuit 1
 antiderivative
 anachromasis
 amygdalinic
