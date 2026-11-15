@@ -9751,7 +9751,7 @@ arabica
 amabel
 atbash
 amable
-anchorer
+anchorer 1
 allegatum 1
 amacrinal
 amadelphous
