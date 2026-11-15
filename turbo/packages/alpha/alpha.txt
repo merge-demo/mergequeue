@@ -5228,7 +5228,7 @@ apostasies
 arbutinase
 atoneness
 affectional
-affectionateness
+affectionateness 1
 affectioned
 anemographic
 affections
