@@ -8128,7 +8128,7 @@ disembodied
 duodenoscopy
 decommissions
 diacetin
-damager
+damager 1
 descenders
 diaplexal
 dromiacea
