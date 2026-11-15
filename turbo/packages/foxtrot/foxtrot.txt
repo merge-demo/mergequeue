@@ -10529,7 +10529,7 @@ fatlike
 faciend
 freq
 flags
-frowsily
+frowsily 1
 footslogging
 famishment
 fixable
