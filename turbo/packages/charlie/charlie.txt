@@ -6240,7 +6240,7 @@ caudices
 cassolette
 cystiferous
 calanthe
-caudle
+caudle 1
 caudles
 caudocephalad
 ceile
