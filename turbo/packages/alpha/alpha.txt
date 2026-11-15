@@ -9795,7 +9795,7 @@ anamesite
 ampelopsin
 alvearies
 amalgamationist
-amalgamative
+amalgamative 1
 amalgamatize
 amicabilities
 amperage
