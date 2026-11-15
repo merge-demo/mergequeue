@@ -1945,7 +1945,7 @@ furtherance
 fraik
 finback
 feteritas
-federalistic
+federalistic 1
 flagpole
 forksful
 freight
