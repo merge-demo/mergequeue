@@ -4161,7 +4161,7 @@ frostnipped
 fatling
 fenchyl
 fiscalization
-feezed
+feezed 1
 fireboy
 flying
 fiendishly
