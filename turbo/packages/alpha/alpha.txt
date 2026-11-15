@@ -6207,7 +6207,7 @@ anon
 apoplexy
 agnostus
 agnus
-artifactitious
+artifactitious 1
 androphobia
 approvers
 arbitrates
