@@ -8985,7 +8985,7 @@ fouter
 felspathic
 foliator
 foretops
-fustie
+fustie 1
 facade
 fondling
 fasc
