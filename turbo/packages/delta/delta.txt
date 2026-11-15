@@ -5850,7 +5850,7 @@ doorbrand
 desolations
 diachoresis
 domal
-demeaning
+demeaning 1
 disconcert
 deprecative
 deprecator
