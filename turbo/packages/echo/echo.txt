@@ -1359,7 +1359,7 @@ ebcdic
 excludability
 earlocks
 ethylated
-elks
+elks 1
 enopla
 eucalyptol
 echelon
