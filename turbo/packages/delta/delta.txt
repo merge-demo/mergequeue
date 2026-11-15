@@ -14620,7 +14620,7 @@ divulge
 divulged
 drivelling
 despite
-divulger
+divulger 1
 dianodal
 derisible
 doomstead
