@@ -5417,7 +5417,7 @@ groceress 1
 groupageness
 gobony
 gastromenia
-geared
+geared 1
 gastroesophageal
 gulfside
 ghilzai
