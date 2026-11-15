@@ -377,7 +377,7 @@ backgammon
 board
 barbarical
 barwares
-breaststroke
+breaststroke 1
 background
 befrets
 backhandedness
