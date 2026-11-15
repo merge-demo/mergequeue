@@ -9840,7 +9840,7 @@ gallivant
 gospellike
 gnathopoda
 grousers
-geckotidae
+geckotidae 1
 grands
 guajillo
 gallicism
