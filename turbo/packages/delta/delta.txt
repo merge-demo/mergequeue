@@ -12478,7 +12478,7 @@ diopsidae 1
 daube
 dysmerogenetic
 delphinoid
-disincarnate
+disincarnate 1
 dudes
 defiled
 disinclination
