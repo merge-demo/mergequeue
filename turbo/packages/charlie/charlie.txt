@@ -3262,7 +3262,7 @@ cystenchyme
 capite
 christianized
 capitellate
-canteen
+canteen 1
 capitellum
 capitle
 cerebrum
