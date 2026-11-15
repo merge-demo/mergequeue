@@ -5635,7 +5635,7 @@ boraciferous
 benjoin
 bloodstones
 besped
-beldams
+beldams 1
 bacchar
 bauble
 bilify
