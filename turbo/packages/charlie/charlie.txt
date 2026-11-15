@@ -29372,7 +29372,7 @@ cryptoproselyte
 cadrans
 cryptorchis
 curara
-corebox
+corebox 1
 candroy
 cryptorchism
 cryptorrhetic
