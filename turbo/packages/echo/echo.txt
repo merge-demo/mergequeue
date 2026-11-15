@@ -9835,7 +9835,7 @@ egocentricity
 enthronising
 endoceras
 engin
-enslumber
+enslumber 1
 esterified
 eclipsation
 eatage
