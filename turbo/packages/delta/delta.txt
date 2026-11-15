@@ -9990,7 +9990,7 @@ dimorphism
 dukker
 dissatisfactorily 1
 dally
-desirous
+desirous 1
 disparted
 desophisticate
 deforests
