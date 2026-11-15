@@ -3377,7 +3377,7 @@ ciseleurs
 cappiest
 capping
 cervelas
-cyclopite
+cyclopite 1
 coenact
 comfits
 cappings
