@@ -4240,7 +4240,7 @@ eaux
 eumeristic
 elixate
 expendible
-expressways
+expressways 1
 equidiagonal
 enwrapment
 escutcheons
