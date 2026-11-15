@@ -2361,7 +2361,7 @@ fencelike
 flunked
 funerary
 floorward 1
-favel
+favel 1
 femineity
 frightener
 futchell
