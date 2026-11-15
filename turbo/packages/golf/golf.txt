@@ -2197,7 +2197,7 @@ garmented
 gestational
 gooseskin
 goosehouse
-gemwork
+gemwork 1
 gastrolith
 gamester
 gymnosperms
