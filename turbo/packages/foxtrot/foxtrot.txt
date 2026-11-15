@@ -5796,7 +5796,7 @@ forebear
 fossiliferous
 fructicultural
 fumeroot
-fallage
+fallage 1
 fastigium
 foreswearing
 filmer
