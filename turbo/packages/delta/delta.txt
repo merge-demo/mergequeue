@@ -10486,7 +10486,7 @@ delapsion
 depthless
 dacryocystorhinostomy
 decurvation
-discorder
+discorder 1
 derangeable
 delaminate
 diphaser
