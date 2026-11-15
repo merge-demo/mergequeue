@@ -7741,7 +7741,7 @@ firearms
 foremast
 fritters
 franciscanism
-fisticuffery
+fisticuffery 1
 favillous
 flabelliform
 forsaker
