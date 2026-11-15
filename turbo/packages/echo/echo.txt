@@ -3463,7 +3463,7 @@ ensepulchering 1
 enamels
 elench
 enthronement
-emperors
+emperors 1
 ebionism
 ekhimi
 evocable
