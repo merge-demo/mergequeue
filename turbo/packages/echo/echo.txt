@@ -12686,7 +12686,7 @@ exophthalmus
 euonymus
 emboweling
 engramma
-epimorphism
+epimorphism 1
 exareolate
 embus
 exopterygotism
