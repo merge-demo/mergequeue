@@ -7319,7 +7319,7 @@ ganglion
 genet
 geochemical 1
 graves
-gutturally
+gutturally 1
 gangly
 gappier
 goar
