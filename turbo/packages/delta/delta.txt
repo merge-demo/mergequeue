@@ -1489,7 +1489,7 @@ degames
 dbms
 degenerationist
 dbridement
-decidual
+decidual 1
 dracma
 dc
 dcb
