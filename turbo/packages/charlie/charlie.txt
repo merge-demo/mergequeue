@@ -10047,7 +10047,7 @@ caribisi
 chord
 composers
 cherubim
-cherubimic
+cherubimic 1
 cherubimical
 cherublike
 corkline
