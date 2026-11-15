@@ -1192,7 +1192,7 @@ antemortem
 admissibly
 attendance
 avellaneous
-afforest
+afforest 1
 autogravure
 antimedically
 acanthodes
