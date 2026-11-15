@@ -6575,7 +6575,7 @@ dockize
 disematism
 deavely
 dendrologic
-decalcifies
+decalcifies 1
 danda
 dioicous
 desecrates
