@@ -17913,7 +17913,7 @@ backslider
 blamed
 bekiss
 bushgrass
-bubbled
+bubbled 1
 botan
 bushy
 barton
