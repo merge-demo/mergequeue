@@ -2746,7 +2746,7 @@ fedity 1
 fascis
 fiercer
 fragmentarily
-fellinic
+fellinic 1
 felineness
 fesses
 flaunche
