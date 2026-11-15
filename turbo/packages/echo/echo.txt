@@ -10937,7 +10937,7 @@ epipelagic 1
 ends
 ecbolic
 eupnoea
-emboweler
+emboweler 1
 excreting
 ectrodactyly
 embrowns
