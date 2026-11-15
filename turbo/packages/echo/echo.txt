@@ -7706,7 +7706,7 @@ elytroplastic
 explainingly
 epeirogeny
 equilibration
-ecostate
+ecostate 1
 expendability
 extrapopular
 epidemiologic
