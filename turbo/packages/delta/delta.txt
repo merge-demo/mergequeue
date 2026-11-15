@@ -4812,7 +4812,7 @@ deparliament
 demolisher
 demolishing
 deviative
-daily 1
+daily 2
 discide
 discharge
 demolition
