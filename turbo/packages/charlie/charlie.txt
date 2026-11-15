@@ -12938,7 +12938,7 @@ casel
 circumhorizontal
 continentality 1
 cyanides
-cyanidrosis
+cyanidrosis 1
 clothes
 cyanids
 cyanimide
