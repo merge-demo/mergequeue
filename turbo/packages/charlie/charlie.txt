@@ -24826,7 +24826,7 @@ coquette
 cleome
 coquettishly
 curlycue
-coquicken
+coquicken 1
 cartload
 contumax
 coquille
