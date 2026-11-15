@@ -4991,7 +4991,7 @@ escritorial
 equipollentness 1
 ensilaged
 eumoirous
-endenize
+endenize 1
 executional
 escalop
 encapsule
