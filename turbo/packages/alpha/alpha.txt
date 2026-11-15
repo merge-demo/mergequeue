@@ -10378,7 +10378,7 @@ americanisms
 appellees
 aboriginals
 americanistic
-aftertax
+aftertax 1
 astigmatizer
 approachless
 accredited 1
