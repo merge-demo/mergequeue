@@ -3403,7 +3403,7 @@ decolorisation
 disadorn
 deflector
 dichlorvos
-devitrifying
+devitrifying 1
 deflesh
 deflexibility
 dysgenics
