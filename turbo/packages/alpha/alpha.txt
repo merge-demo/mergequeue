@@ -7336,7 +7336,7 @@ ashake
 albarco
 appliably
 albarelli
-autotriploidy
+autotriploidy 1
 ah
 anagogies
 alveolus
