@@ -20438,7 +20438,7 @@ art
 aldehydic
 achrodextrin
 artar
-ampery
+ampery 1
 arrojadite
 artcraft
 antitypes
