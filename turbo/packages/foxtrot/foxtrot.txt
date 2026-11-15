@@ -1131,7 +1131,7 @@ farthing
 foresay
 fluffing
 feverishness
-fractional
+fractional 1
 frothi
 fibrillary
 filiates
