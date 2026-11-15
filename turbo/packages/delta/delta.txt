@@ -1536,7 +1536,7 @@ diphygenic
 deactivate
 discoglossid
 distractedly
-dallies
+dallies 1
 dalk
 dartman
 delphinium
