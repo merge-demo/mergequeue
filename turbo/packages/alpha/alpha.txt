@@ -7487,7 +7487,7 @@ albricias
 arable
 achromic
 agma
-anchoress
+anchoress 1
 albuginea
 archivist
 apometabolous
