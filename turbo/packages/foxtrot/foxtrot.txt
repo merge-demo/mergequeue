@@ -2747,7 +2747,7 @@ fascis
 fiercer
 fragmentarily
 fellinic 1
-felineness
+felineness 1
 fesses
 flaunche
 facetiation
