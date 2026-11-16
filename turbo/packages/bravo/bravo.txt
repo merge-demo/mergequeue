@@ -4276,7 +4276,7 @@ boggish
 bathyscaph
 battledore
 bacterious
-bummery
+bummery 1
 bebreech
 bigeminy
 bebrother
