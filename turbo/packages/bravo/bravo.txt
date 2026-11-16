@@ -6071,7 +6071,7 @@ benchman
 benchmark
 baryecoia
 burnout
-briggsian
+briggsian 1
 behooveful
 beans
 balneologic
