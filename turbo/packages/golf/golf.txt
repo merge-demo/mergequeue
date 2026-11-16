@@ -2208,7 +2208,7 @@ galas
 gaster
 gonfalonierate
 gastrocatarrhal
-goodbyes
+goodbyes 1
 generosities
 gibby
 galactohemia
