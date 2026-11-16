@@ -19513,7 +19513,7 @@ antiracemate
 anobing
 afforestational
 antimodernization
-alphabetize
+alphabetize 1
 accessoriness
 assaults
 adenotomy
