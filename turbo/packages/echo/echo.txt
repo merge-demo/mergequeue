@@ -3614,7 +3614,7 @@ empowers
 exactiveness
 ellick
 enriching
-expositive
+expositive 1
 emotionalised
 eudaemonize
 executrices
