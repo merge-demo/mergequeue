@@ -1005,7 +1005,7 @@ explosibility
 encapsules
 euthanasic
 enterocinetic
-epoxide
+epoxide 1
 endearments
 equisetales
 emblazing
