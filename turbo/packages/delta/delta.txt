@@ -14519,7 +14519,7 @@ divinister
 deallocating 1
 denudant
 dissimuler
-discoverers
+discoverers 1
 divinized
 divinizes
 demarche
