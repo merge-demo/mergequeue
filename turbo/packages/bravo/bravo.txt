@@ -17308,7 +17308,7 @@ bucentaur
 bibbs
 bummler
 barberite
-bumped
+bumped 1
 burrowed
 blobber
 beechier
