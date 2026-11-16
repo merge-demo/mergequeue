@@ -5301,7 +5301,7 @@ glusid
 garters
 glycyrrhizin
 gimps
-glycogenolytic
+glycogenolytic 1
 gangsters
 gonidiferous
 gammaroid
