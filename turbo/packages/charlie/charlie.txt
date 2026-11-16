@@ -28469,7 +28469,7 @@ consistory
 creasot
 cholecystostomies
 coffeebush
-cognizability
+cognizability 1
 crosier
 create
 coarcting 1
