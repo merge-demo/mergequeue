@@ -5567,7 +5567,7 @@ dustfall
 depended
 darker
 duodenal
-dolichopellic
+dolichopellic 1
 dependence
 desensitizes
 dependingly
