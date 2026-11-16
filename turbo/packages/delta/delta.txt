@@ -11924,7 +11924,7 @@ degum
 dyable
 deliberation
 deutovum
-disembitter
+disembitter 1
 diplanetic
 disembocation
 domicils
