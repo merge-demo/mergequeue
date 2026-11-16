@@ -6726,7 +6726,7 @@ geer
 graphitic
 gigs
 gastronephritis
-gonidic
+gonidic 1
 genes
 gauges
 gametangia

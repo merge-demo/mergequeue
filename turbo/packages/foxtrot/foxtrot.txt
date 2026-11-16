@@ -8011,7 +8011,7 @@ frontless
 forestage
 frivolled
 fae
-ferie
+ferie 1
 flashbulb
 federally
 fungaceous

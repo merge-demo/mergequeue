@@ -8659,7 +8659,7 @@ autotheater
 angioparalytic
 amygdaloidal
 annunciatory
-anglophobist
+anglophobist 1
 allegorizer
 adorantes
 antidinic
