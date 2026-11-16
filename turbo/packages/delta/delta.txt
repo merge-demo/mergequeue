@@ -15942,7 +15942,7 @@ dipterist
 deglutination
 dl
 debacles
-dauntlessness
+dauntlessness 1
 denaturational
 desuete
 dendrobatinae
