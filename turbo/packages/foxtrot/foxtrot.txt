@@ -4883,7 +4883,7 @@ fady
 fixes
 fortunetellers
 firmhearted
-frondiferous
+frondiferous 1
 factuality
 fabricational
 funks
