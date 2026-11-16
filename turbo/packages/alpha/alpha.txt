@@ -15720,7 +15720,7 @@ algieba
 anomer
 amphitokous
 antiparallelogram
-anisomeric
+anisomeric 1
 arylamine
 ablet
 annection
