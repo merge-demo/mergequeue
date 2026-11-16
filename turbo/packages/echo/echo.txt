@@ -12866,7 +12866,7 @@ ende
 erosions
 expandingly
 exacts
-expansibility
+expansibility 1
 emusifies
 expansile
 expansionism
