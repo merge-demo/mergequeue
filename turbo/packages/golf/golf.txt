@@ -6301,7 +6301,7 @@ ginzoes
 geometridae
 gerahs
 genistein
-gullable
+gullable 1
 gasogenes
 gobiid
 granadilla
