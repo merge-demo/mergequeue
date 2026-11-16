@@ -2122,7 +2122,7 @@ campcraft
 centimetres
 campe
 cumbers
-cryal
+cryal 1
 camped
 campephagine
 camper
