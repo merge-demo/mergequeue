@@ -12926,7 +12926,7 @@ downswing
 dowment
 deniability
 dimensionless
-disomatic
+disomatic 1
 doubtmonger
 dermostosis
 degreeing
