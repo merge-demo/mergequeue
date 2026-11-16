@@ -18653,7 +18653,7 @@ decury
 definiteness
 drowsily
 disubstitution
-discountenanced
+discountenanced 1
 disseisor
 devitrification
 decolorize
