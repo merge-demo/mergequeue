@@ -1312,7 +1312,7 @@ extrapolating
 episynaloephe
 evangelicals
 eclectics
-effectors
+effectors 1
 effectress
 encapsulate
 elengeness
