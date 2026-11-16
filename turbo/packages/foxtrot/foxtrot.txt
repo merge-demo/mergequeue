@@ -8858,7 +8858,7 @@ fibrousness 1
 foul
 frotted
 fogger
-finesse
+finesse 1
 franticness
 fervorless
 foulder
