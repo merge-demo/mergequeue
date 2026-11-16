@@ -11032,7 +11032,7 @@ chiseler
 cheapens
 chiselers
 cantdogs
-calorify
+calorify 1
 chiseling
 chiseller
 chiselly
