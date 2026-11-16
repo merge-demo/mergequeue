@@ -3915,7 +3915,7 @@ fineableness
 fumigators
 fusinist
 fluoridated
-fullage 1
+fullage 2
 feats
 ferrogoslarite
 frostproof
