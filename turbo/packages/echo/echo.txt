@@ -1818,7 +1818,7 @@ ectepicondylar
 elbow
 exopodite
 eigenvalues
-evaluates
+evaluates 1
 evaginated
 effervescive
 ensouling
