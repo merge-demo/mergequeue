@@ -14628,7 +14628,7 @@ bitterns
 brantails
 bamboche
 barricado
-bedcord
+bedcord 1
 brantle
 bacteriologic
 bibliomanism
