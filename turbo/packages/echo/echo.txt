@@ -9269,7 +9269,7 @@ espinette
 erratas
 erratic
 erratically
-enantiomorphic
+enantiomorphic 1
 elite
 explosible
 eulogist
