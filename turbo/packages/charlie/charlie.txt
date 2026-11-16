@@ -16212,7 +16212,7 @@ clinger
 crankness
 clingfishes
 contravenes
-clingy
+clingy 1
 clinginess
 craniopagus
 clingingly
