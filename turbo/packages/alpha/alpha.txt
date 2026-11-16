@@ -17060,7 +17060,7 @@ archimorula
 astrophotometry
 albus
 ascitic
-auriscalp
+auriscalp 1
 apocynthion
 auriculoparietal 1
 apocynthions
