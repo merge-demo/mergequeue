@@ -12707,7 +12707,7 @@ ceylonese
 chugging
 centilitre
 chuje
-clockmaker
+clockmaker 1
 cajava
 chukchi
 chukka
