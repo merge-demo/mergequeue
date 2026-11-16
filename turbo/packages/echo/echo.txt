@@ -11776,7 +11776,7 @@ exorcises 1
 exister
 electoral
 elusion
-ensignship
+ensignship 1
 eurymus
 endorsingly
 exasperatedly
