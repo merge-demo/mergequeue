@@ -781,7 +781,7 @@ gluck
 gutturize
 galvanothermometer
 glint
-ggr
+ggr 1
 goldfinch
 galliformes
 ginneries
