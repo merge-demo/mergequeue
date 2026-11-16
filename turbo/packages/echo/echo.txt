@@ -1786,7 +1786,7 @@ embankments
 electrification
 epiblemata
 encompasser
-enable
+enable 1
 estimates
 elmy
 entresse
