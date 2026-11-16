@@ -11078,7 +11078,7 @@ assais
 amorphus
 amort
 amortizable
-algic
+algic 1
 assibilation
 abnormalcy
 amortizes
