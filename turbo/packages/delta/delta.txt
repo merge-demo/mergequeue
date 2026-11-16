@@ -1876,7 +1876,7 @@ docimasies
 douc
 decoy
 daleswoman
-debonair
+debonair 1
 debonairness
 deboned
 dioxin

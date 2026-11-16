@@ -1960,7 +1960,7 @@ gravelling
 gripes
 grudged
 gregarinous
-ghastlier
+ghastlier 1
 guttable
 gonif
 galician 1
