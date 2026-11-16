@@ -9640,7 +9640,7 @@ anaglyptography
 atonalist 1
 abridges
 aluminate
-archicontinent
+archicontinent 1
 absfarad
 abacaxi
 aluminide
