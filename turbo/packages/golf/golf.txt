@@ -6333,7 +6333,7 @@ goldenpert
 gallivanters
 gebang
 gardevisure
-gobo
+gobo 1
 globins
 gaybine
 gaily

@@ -1884,7 +1884,7 @@ frutify
 fec
 fight
 floruit
-feelingly
+feelingly 1
 formaliter
 fecundate
 formatted
