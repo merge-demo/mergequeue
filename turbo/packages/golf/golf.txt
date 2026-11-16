@@ -872,7 +872,7 @@ garrooka
 goldfields
 glycerinize
 gazi
-gameness
+gameness 1
 galvanizes
 gallowsward
 geegaw
