@@ -4220,7 +4220,7 @@ glycerophosphoric
 grovel
 goloka
 gois
-gaetuli
+gaetuli 1
 gyromagnetic
 galvanomagnetism
 gyron
