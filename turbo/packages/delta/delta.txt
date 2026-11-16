@@ -4528,7 +4528,7 @@ doting
 disclosing
 dignosce
 decussis
-dendrite
+dendrite 1
 decern
 dorsilumbar
 devocation
