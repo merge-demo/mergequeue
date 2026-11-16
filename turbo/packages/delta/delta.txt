@@ -2671,7 +2671,7 @@ decompoundly
 delinquent
 downstairs
 desmoma
-decompress
+decompress 1
 decompresses
 decolourisation
 detectaphone
