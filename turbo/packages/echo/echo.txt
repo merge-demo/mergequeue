@@ -6792,7 +6792,7 @@ enrooted
 entoil
 eggler
 entom
-extender
+extender 1
 episternalia
 evocativeness
 eumenes
