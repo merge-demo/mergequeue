@@ -2711,7 +2711,7 @@ flambe
 faithing
 fungused
 firebird
-feigher
+feigher 1
 formalazine
 factorization
 fouette
