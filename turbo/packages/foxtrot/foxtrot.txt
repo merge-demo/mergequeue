@@ -9923,7 +9923,7 @@ furze
 friesian
 fittable
 forceps
-friezer
+friezer 1
 fiercely
 feazing
 fossilated
