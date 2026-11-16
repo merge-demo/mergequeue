@@ -6802,7 +6802,7 @@ gondola
 goniums
 glanis
 gl
-galliardize
+galliardize 1
 gelsemin
 garbleable
 goniunia
