@@ -7007,7 +7007,7 @@ centals
 coolies
 cariocas
 chock
-centaurdom
+centaurdom 1
 cuvette
 centaurea
 cyanus

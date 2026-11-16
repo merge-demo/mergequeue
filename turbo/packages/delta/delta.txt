@@ -10686,7 +10686,7 @@ dipodomys
 dipolar
 dingar
 diaculum
-depit
+depit 1
 dormin
 demurs
 dippier
