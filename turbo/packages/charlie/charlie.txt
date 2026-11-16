@@ -12323,7 +12323,7 @@ cholent
 crack
 chloroanaemia
 caudiform
-coroplasty
+coroplasty 1
 carpophyll
 coulters
 chromatium
