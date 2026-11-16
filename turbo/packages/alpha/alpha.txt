@@ -9164,7 +9164,7 @@ alman
 adenovirus
 arrowplate
 almander
-anthracyl
+anthracyl 1
 aeginetic
 almandines
 aldime
