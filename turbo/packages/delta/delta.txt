@@ -11809,7 +11809,7 @@ discolichen
 disculpatory
 deashes
 deathwatch
-decrement
+decrement 1
 dustbin
 dhourras
 discure
