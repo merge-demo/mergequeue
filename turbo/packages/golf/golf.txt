@@ -1366,7 +1366,7 @@ glamorizer
 glyoxylic
 garrotte
 grind
-ghastly
+ghastly 1
 glugglug
 garnetlike
 grabbles
