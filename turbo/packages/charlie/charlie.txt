@@ -31448,7 +31448,7 @@ cushioncraft
 collarino
 calcites
 curragh
-clearminded
+clearminded 1
 centavo
 currajong
 currans
