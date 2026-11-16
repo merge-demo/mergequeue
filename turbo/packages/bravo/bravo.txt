@@ -1863,7 +1863,7 @@ berylloid
 bowlin
 bushranging
 bandanaed
-battlepiece
+battlepiece 1
 bilboes
 bollito
 bescribble
