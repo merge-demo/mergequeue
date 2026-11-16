@@ -7181,7 +7181,7 @@ galvayne
 grabbers
 geobotanical 1
 gnawable
-gossip
+gossip 1
 gloryful
 granate
 generalship
