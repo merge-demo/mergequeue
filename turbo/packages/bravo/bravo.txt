@@ -10394,7 +10394,7 @@ brisement
 blankish
 blankly
 boneless
-bagmen
+bagmen 1
 baidya 1
 bullfinch
 blankness
