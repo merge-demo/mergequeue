@@ -6885,7 +6885,7 @@ feretrum
 fatuous
 farmout
 farris
-foresey
+foresey 1
 febriferous
 flammeous
 freith
