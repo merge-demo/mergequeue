@@ -8795,7 +8795,7 @@ bepill
 binocularly
 binoculars
 binodose
-buckbean
+buckbean 1
 bari
 banalities
 battery
