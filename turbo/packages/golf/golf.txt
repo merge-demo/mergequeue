@@ -5211,7 +5211,7 @@ grana
 groundsheet
 gale 1
 gleed 1
-greasiness
+greasiness 1
 gramophone
 germinant
 glyptologist
