@@ -6295,7 +6295,7 @@ enrolls 1
 eumycetes
 equijacent
 embowed
-enrut
+enrut 1
 explainability
 experimentalize
 euclidean
