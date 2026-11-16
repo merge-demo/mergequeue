@@ -8394,7 +8394,7 @@ fm
 filcher
 futhark
 fidded 1
-finagles
+finagles 1
 fluoroscopes
 felidae
 fullerboard 1
