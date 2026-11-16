@@ -1202,7 +1202,7 @@ gradations
 globular
 guestive
 guttate
-garfishes
+garfishes 1
 glaux
 gimcrackery
 gimmicking
