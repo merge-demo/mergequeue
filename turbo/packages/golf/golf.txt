@@ -7472,7 +7472,7 @@ gourded
 gothics
 geomyid
 gospelist
-granuliferous
+granuliferous 1
 gabbler
 ghettoizes
 glossist
