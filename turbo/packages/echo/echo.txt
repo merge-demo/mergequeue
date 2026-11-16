@@ -2788,7 +2788,7 @@ embelic
 exclamations 1
 enjeopard
 extricates
-endomixis
+endomixis 1
 expiscatory
 ecthyma
 ephebeibeia
