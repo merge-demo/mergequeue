@@ -4586,7 +4586,7 @@ decodings
 discharging
 dustlike
 dolichocrany
-desperance
+desperance 1
 depths
 disusing
 detected
