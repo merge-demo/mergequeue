@@ -11626,7 +11626,7 @@ enddamaged
 exactable
 exactas
 ergastoplasm
-elaterite
+elaterite 1
 epileptogenic
 elephanticide
 exacter
