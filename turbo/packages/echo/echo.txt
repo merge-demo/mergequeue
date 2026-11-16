@@ -13742,7 +13742,7 @@ exerting
 enemata
 epitrochoidal
 ectosphere
-extincted
+extincted 1
 enterostomies
 editable
 encephalomeningitis
