@@ -11341,7 +11341,7 @@ exigency
 ethnohistory
 exotropic
 electrodesiccation
-eryopid
+eryopid 1
 embarrel
 edificator
 eruciform
