@@ -17166,7 +17166,7 @@ damselfly
 dossers
 diminutiveness
 dromedaries
-diaphaneity
+diaphaneity 1
 diswont
 drinks
 dynamics
