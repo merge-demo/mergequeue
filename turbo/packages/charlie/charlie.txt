@@ -447,7 +447,7 @@ crocodilean
 chesteine
 cactus
 copying
-civilisable
+civilisable 1
 chancered
 cactuslike
 cinclidotus
