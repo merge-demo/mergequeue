@@ -3823,7 +3823,7 @@ carbolising
 carbolize
 carbolized
 catamount
-carbolizes
+carbolizes 1
 carbolizing
 carmelite
 caladium
