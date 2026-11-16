@@ -8084,7 +8084,7 @@ diabetes
 diaphyses
 debeaker
 duodial
-dentex
+dentex 1
 developpes
 distributions
 decidable
