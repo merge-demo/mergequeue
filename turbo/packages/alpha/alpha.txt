@@ -10937,7 +10937,7 @@ acclamation
 absolution
 amosite
 armsful
-antipyretic
+antipyretic 1
 anhydric
 adenophore
 aquicultural
