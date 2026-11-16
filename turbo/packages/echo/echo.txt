@@ -6841,7 +6841,7 @@ emanations
 epituberculosis
 ermine
 exults
-epidermoidal
+epidermoidal 1
 educability
 entomologist
 entomologize
