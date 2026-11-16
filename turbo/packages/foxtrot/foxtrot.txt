@@ -5999,7 +5999,7 @@ floorwise
 fissate 1
 featishness
 fastnesses
-fusty
+fusty 1
 foolscaps
 felspars
 flacon
