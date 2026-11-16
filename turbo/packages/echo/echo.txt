@@ -10691,7 +10691,7 @@ extrasyllabic
 ensigning
 embraced
 endopleural
-euripus
+euripus 1
 erebus
 euglenoid
 exolve
