@@ -3274,7 +3274,7 @@ forkless
 fieldpieces
 feudovassalism
 fremt
-fungilliform
+fungilliform 1
 furfuryl
 filopodium
 fiddlestick
