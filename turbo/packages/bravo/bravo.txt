@@ -16845,7 +16845,7 @@ brumbee
 bacterioid
 brassware
 bicolligate
-buffable
+buffable 1
 bahamas
 buffalo
 buffalofish
