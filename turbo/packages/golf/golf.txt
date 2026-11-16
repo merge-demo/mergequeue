@@ -7987,7 +7987,7 @@ ghettoize
 gynecologic
 grippy
 gudok
-globing
+globing 1
 glottologies
 goldenmouthed
 gasifiable
