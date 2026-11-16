@@ -1844,7 +1844,7 @@ furphy
 featured
 fluidify
 featurelessness
-featureliness
+featureliness 1
 furrows
 figureheadship
 fellahin
