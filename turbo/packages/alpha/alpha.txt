@@ -3070,7 +3070,7 @@ alienable
 antiamusement
 actinonema
 autacoid
-amphibolia
+amphibolia 1
 aswing
 allantoinuria
 anhydrous
