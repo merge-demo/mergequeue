@@ -7057,7 +7057,7 @@ functioning
 frotton
 foodful
 fulfilled
-fribby
+fribby 1
 fatalities
 foreknow
 flowk
