@@ -5450,7 +5450,7 @@ deceives
 detectably
 deoppilate
 dep
-doss
+doss 1
 deorganization
 decolouriser
 doubtfully
