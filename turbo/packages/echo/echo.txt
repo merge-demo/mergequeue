@@ -3482,7 +3482,7 @@ eurypterus
 evenwise
 emblazoned
 emblazoner
-emblazonments
+emblazonments 1
 elastic
 etherialising
 enfeoffs
