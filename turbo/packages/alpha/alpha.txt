@@ -21960,7 +21960,7 @@ armoring
 associativity
 adicity
 articulating
-anathemata
+anathemata 1
 apodictical
 aportoise
 anoxias
