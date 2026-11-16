@@ -3395,7 +3395,7 @@ eucharistized
 embarkment
 embarks
 equipage
-embosked
+embosked 1
 exteroceptor
 elohist
 estadel
