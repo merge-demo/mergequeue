@@ -15649,7 +15649,7 @@ doozies
 dopa
 demobilisation
 drossed
-determine
+determine 1
 dopchick 1
 dopebook
 decemfid
