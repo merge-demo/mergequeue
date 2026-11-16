@@ -10651,7 +10651,7 @@ calcaemia 1
 chime
 chimer
 chimeral
-chimeric
+chimeric 1
 coptic
 calci
 cussword

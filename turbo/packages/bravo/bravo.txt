@@ -1509,7 +1509,7 @@ bathyhyperesthesia
 bemadamed
 borstal
 booked
-bedsick
+bedsick 1
 balladic
 balladised
 balladism
