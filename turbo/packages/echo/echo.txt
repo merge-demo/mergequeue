@@ -4977,7 +4977,7 @@ ektenes
 effuses
 evacuator
 enschedule
-exomphalous
+exomphalous 1
 endemicity
 epichirema
 enantiopathic
