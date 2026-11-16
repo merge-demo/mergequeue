@@ -1734,7 +1734,7 @@ faviform
 feasibly
 fashionmonger
 flighted
-fascio
+fascio 1
 floats
 filicin
 fortravail
