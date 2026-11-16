@@ -3022,7 +3022,7 @@ friendlies
 fibbers
 fustin
 fiberizes
-fritillary
+fritillary 1
 formolite
 federalists
 franchising
