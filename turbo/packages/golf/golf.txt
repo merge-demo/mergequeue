@@ -10631,7 +10631,7 @@ grank
 gunstocker
 geronto
 girns
-glimmerous
+glimmerous 1
 gremlins
 grillades
 gambette
