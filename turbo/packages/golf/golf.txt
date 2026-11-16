@@ -8510,7 +8510,7 @@ gayal
 grata
 galleon
 guv
-geomorphological
+geomorphological 1
 geotectonically
 guardian
 gulpers
