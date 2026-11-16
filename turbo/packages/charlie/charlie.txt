@@ -14382,7 +14382,7 @@ curdler
 circumvolve
 circumvolved
 circulatable
-circumzenithal
+circumzenithal 1
 climb
 crosses
 circus
