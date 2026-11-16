@@ -9827,7 +9827,7 @@ bites
 bebat
 bytes
 bitewing
-beryx
+beryx 1
 based
 backswording
 bolelia
