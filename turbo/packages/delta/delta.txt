@@ -6316,7 +6316,7 @@ dermenchysis
 delacrimation
 dermestid
 dermatoneural
-dextrogyration
+dextrogyration 1
 deject
 debit
 defibrillate
