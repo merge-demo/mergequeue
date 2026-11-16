@@ -15966,7 +15966,7 @@ colloquialize
 clericism
 conglomerator
 centares
-clerid
+clerid 1
 chicaning
 ceder
 comfrey
