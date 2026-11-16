@@ -6823,7 +6823,7 @@ dictyoceratina
 desmanthus
 diallagoid
 disleafing
-decayed
+decayed 1
 discoidal
 desmidiology
 deterging
