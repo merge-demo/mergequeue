@@ -13429,7 +13429,7 @@ etchimin
 expresso
 enode
 embitterer
-erogate
+erogate 1
 ethnodicy
 eponymous
 electrotechnical
