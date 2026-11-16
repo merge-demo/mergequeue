@@ -7183,7 +7183,7 @@ geobotanical 1
 gnawable
 gossip
 gloryful
-granate
+granate 1
 generalship
 gospoda
 gillotage
