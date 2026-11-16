@@ -3412,7 +3412,7 @@ auxil
 acreak
 abridgeable
 adarme
-adatis
+adatis 1
 afterpain
 antiecclesiastical
 ascitical
