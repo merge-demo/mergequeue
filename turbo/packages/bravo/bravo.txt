@@ -17623,7 +17623,7 @@ barricadoing
 bruin
 bobcoat
 burglarproofs
-burglars
+burglars 1
 basote
 breath
 blay
