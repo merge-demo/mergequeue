@@ -2216,7 +2216,7 @@ compasser
 campsites
 coronofacial
 cretinizing
-campstool
+campstool 1
 camptonite
 cubicone
 camptosorus
