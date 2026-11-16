@@ -6565,7 +6565,7 @@ glutting
 greyskin
 grammarian
 guaiacs
-gabbier
+gabbier 1
 gentianin
 gentianales
 glandarious
