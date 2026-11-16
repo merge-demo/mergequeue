@@ -8011,7 +8011,7 @@ dysthymic
 dialects
 defences
 derbylite
-dietician
+dietician 1
 duomi
 dispersion
 dhal
