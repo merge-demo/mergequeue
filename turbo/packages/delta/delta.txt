@@ -7105,7 +7105,7 @@ degras
 dorsocaudal
 desynchronizing
 demonstratable
-destroy
+destroy 1
 divisionally 1
 dollops
 dietical
