@@ -3550,7 +3550,7 @@ bathycolpic
 berseems
 belatticed
 baroscopic
-binode
+binode 1
 blonds
 bathylithic
 bathymetrical
