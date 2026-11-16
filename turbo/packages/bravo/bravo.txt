@@ -8034,7 +8034,7 @@ bicornous
 booklift
 bartend
 bagroom
-bicornuate
+bicornuate 1
 beshadow
 bicorporate
 banyai
