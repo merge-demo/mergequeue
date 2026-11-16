@@ -4740,7 +4740,7 @@ ebulliometry
 epistler
 entomophytous
 establishments
-exploratory
+exploratory 1
 extracardial
 encloister
 easternizing
