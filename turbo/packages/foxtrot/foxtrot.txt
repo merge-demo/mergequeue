@@ -5323,7 +5323,7 @@ fingerprinting
 ferry
 faitery
 flb
-fantasque
+fantasque 1
 flutey
 foregather
 fifteen
