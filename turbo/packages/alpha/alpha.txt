@@ -18005,7 +18005,7 @@ anthropophysiography
 allothigene
 authenticate
 archostenosis
-amphidesmous
+amphidesmous 1
 azoformic
 alternariose
 aziethane
