@@ -6492,7 +6492,7 @@ canell
 cupholder
 cavefish
 cavey
-chromoscope
+chromoscope 1
 cavekeeper
 cavelet
 confiner
