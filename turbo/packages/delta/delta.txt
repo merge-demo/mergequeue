@@ -11152,7 +11152,7 @@ disbelievers
 diphosphid
 diascordium
 droich
-devocalise
+devocalise 1
 dazingly
 dratted
 disbelieves
