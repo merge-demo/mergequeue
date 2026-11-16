@@ -10827,7 +10827,7 @@ etherealising
 eupepticity
 eelfish
 equipartition
-eloigners
+eloigners 1
 entosternum
 earache 1
 educes
