@@ -13215,7 +13215,7 @@ approver
 allorrhythmic
 animatedly
 angekok
-animating
+animating 1
 amphibolic
 amoks
 anagraph
