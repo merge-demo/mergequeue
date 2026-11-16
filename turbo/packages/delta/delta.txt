@@ -7094,7 +7094,7 @@ demesmerize
 descriptiveness
 disorient
 desto
-disvalues
+disvalues 1
 darted
 damselfish
 destour
