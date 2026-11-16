@@ -1825,7 +1825,7 @@ acequia
 assignable
 aethered
 aceraceous
-acerae
+acerae 1
 arcual
 angling
 acerate

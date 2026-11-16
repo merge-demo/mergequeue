@@ -11542,7 +11542,7 @@ extraburghal
 elenchus
 encodement
 epiblastema
-embrittled
+embrittled 1
 errantness
 ennoy
 evocator
