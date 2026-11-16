@@ -26162,7 +26162,7 @@ cosmoline 1
 consociative
 cloudlet
 cheesecurd
-cosmologically
+cosmologically 1
 convocant
 caudatum
 compages
