@@ -7628,7 +7628,7 @@ asop
 antisteapsin
 atrocity
 abrico
-arabite
+arabite 1
 agau
 asylum 1
 arrhythmical
