@@ -4984,7 +4984,7 @@ agenizes
 aeronat
 aeronaut
 alkalizing
-aeronautic
+aeronautic 1
 argentose
 absorb
 agama
