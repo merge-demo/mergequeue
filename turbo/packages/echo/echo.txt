@@ -5624,7 +5624,7 @@ exiguities
 enforces
 endent
 ectropion
-electivity
+electivity 1
 endocentric
 edenic
 encouraging
