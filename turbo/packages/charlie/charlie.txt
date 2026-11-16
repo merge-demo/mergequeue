@@ -14266,7 +14266,7 @@ costal
 cardioids
 canalside
 circumnutated
-circumnutation
+circumnutation 1
 cooperatively
 circumorbital
 circumpacific
