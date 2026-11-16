@@ -5759,7 +5759,7 @@ expose
 embossments
 esophagomalacia
 exodoi
-emaciation
+emaciation 1
 expective
 eddying
 enfief
