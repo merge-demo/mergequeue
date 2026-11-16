@@ -94,7 +94,7 @@ gabunese
 grader
 governeress
 goop
-gluey
+gluey 1
 guidelines
 groupoid
 grutten
