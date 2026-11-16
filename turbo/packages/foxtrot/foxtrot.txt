@@ -2865,7 +2865,7 @@ ferlies 1
 fetterlock
 faroeish
 flatfish
-forewing
+forewing 1
 foxship
 frisettes
 fantasize
