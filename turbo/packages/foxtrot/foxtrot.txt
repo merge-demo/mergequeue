@@ -10817,7 +10817,7 @@ fleeten
 fucinita
 freesilverite
 flauntily
-featliness
+featliness 1
 forclose
 ferntickled
 fluxure
