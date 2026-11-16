@@ -7654,7 +7654,7 @@ antrums
 achoke
 archership
 alchemizing
-alchimy
+alchimy 1
 antisepticist
 alcidine
 abstracter
