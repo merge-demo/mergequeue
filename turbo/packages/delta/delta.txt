@@ -664,7 +664,7 @@ damosel
 drachms
 divorcement
 decapitalize
-damped
+damped 1
 desquamated
 deafen
 dudgeons
