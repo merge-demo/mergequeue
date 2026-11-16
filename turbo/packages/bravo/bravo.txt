@@ -18202,7 +18202,7 @@ bibliothecary
 bremely
 busycon
 botflies
-butsu
+butsu 1
 binately
 brigbote
 boredness
