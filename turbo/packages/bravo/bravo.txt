@@ -16926,7 +16926,7 @@ bufotalin
 biconcavity
 burglar
 buzukia
-bugaboo
+bugaboo 1
 bugan
 brahm
 bugbane
