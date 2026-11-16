@@ -6774,7 +6774,7 @@ fold
 fantasy
 fleechment
 frosts
-frosteds
+frosteds 1
 fledgeless
 foredevised
 floridean
