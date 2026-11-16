@@ -3733,7 +3733,7 @@ decimate
 dehonestation
 disoccupied
 delineations
-dehorn
+dehorn 1
 dolcan
 desmose
 demain
