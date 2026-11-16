@@ -5239,7 +5239,7 @@ coriariaceous
 casque
 casqued
 cushat
-casquetel
+casquetel 1
 colemouse
 cassabas
 cassabully
