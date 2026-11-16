@@ -8802,7 +8802,7 @@ greenstone
 gimballing
 gange 1
 golems
-greenswarded
+greenswarded 1
 greenware
 giveth
 gigabit
