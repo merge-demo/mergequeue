@@ -18656,7 +18656,7 @@ adiathermal
 artemisic
 adoral
 archaeologic
-amylases
+amylases 1
 archaeological
 anilinophile
 abyssa
