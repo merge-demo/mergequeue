@@ -3348,7 +3348,7 @@ emasculators
 erythrorrhexis
 eats
 embain
-encroaching
+encroaching 1
 egglike
 embays
 exhalent
