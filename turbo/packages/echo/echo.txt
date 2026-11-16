@@ -11665,7 +11665,7 @@ exogenism
 electrotactic
 eadish
 exaggerate
-explainable
+explainable 1
 electrize
 exaggerated
 eccentricity
