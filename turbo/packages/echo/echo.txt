@@ -13928,7 +13928,7 @@ electee
 epimerizing
 exorcized
 errordump
-euphenic
+euphenic 1
 euphoniousness
 emigrative
 encapsulates
