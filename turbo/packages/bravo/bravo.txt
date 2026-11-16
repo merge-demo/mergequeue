@@ -56,7 +56,7 @@ brushable
 babbit
 baton
 botrytises
-barberish
+barberish 1
 babblings
 beauclerk
 bigoted
