@@ -3918,7 +3918,7 @@ fluoridated
 fullage 1
 feats
 ferrogoslarite
-frostproof
+frostproof 1
 frolicsomely
 fustianize
 fang
