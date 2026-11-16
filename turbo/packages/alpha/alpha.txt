@@ -1186,7 +1186,7 @@ abbots
 alabastoi
 agonothetic
 acanthodei
-acoasma
+acoasma 1
 associationism
 antemortem
 admissibly
