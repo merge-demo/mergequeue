@@ -10807,7 +10807,7 @@ apothecary
 adductor
 ammeter
 ammeters
-amplexuses
+amplexuses 1
 alboin
 aminogen
 anticonstitutionalist
