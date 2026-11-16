@@ -5200,7 +5200,7 @@ either
 endoneurium
 equestrianism
 equinely 1
-entier
+entier 1
 erythrogen
 encinder
 endoparasitica
