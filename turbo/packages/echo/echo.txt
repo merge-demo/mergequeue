@@ -3043,7 +3043,7 @@ eschalot
 exogamy
 epidermis
 experimentalists
-exocline
+exocline 1
 elaidin
 embryotroph
 eumycetic
