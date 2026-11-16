@@ -4026,7 +4026,7 @@ extensibleness
 epirogenetic
 evaporative
 exercise
-exedent
+exedent 1
 evidenced
 esuriency
 evangelize
