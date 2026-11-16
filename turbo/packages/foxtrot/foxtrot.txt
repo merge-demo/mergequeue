@@ -1712,7 +1712,7 @@ ferineness
 fearless
 fondlike
 frangible
-fractable
+fractable 1
 ferrament
 fingertip
 foreordaining
