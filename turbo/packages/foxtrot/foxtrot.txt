@@ -548,7 +548,7 @@ falcons
 flabbergasts
 falculate
 fawnery
-fortune
+fortune 1
 falcunculus
 falderals
 fussier
