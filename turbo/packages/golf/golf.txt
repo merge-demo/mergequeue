@@ -6694,7 +6694,7 @@ garterless
 gobylike
 gibbet
 gulae
-growable
+growable 1
 geotherm
 gromatic
 geochronometry
