@@ -15134,7 +15134,7 @@ astronomical
 anemotropic
 applied
 archcheater
-analcimes
+analcimes 1
 alluvions
 abaci
 adjectivitis
