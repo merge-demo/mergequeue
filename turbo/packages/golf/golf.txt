@@ -1878,7 +1878,7 @@ grelot
 gaudiest
 guhr
 gestor
-galop
+galop 1
 glochids
 glommox
 gastrozooid
