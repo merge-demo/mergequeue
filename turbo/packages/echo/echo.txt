@@ -3877,7 +3877,7 @@ excogitating
 enflagellate
 epidotic
 enfeebled
-eclipsis
+eclipsis 1
 executers
 egressive
 equivote
