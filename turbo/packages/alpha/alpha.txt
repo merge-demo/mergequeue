@@ -21613,7 +21613,7 @@ anthesterion
 arthrosia
 adjudgment
 automolite
-allegement
+allegement 1
 antiphonaries
 angary
 allegorist
