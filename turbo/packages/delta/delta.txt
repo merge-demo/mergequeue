@@ -13441,7 +13441,7 @@ disreport
 disreputability
 desolater
 deposing 1
-dumpily
+dumpily 1
 disengagements
 dardanium
 disreputableness
