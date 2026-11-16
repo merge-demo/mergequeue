@@ -9206,7 +9206,7 @@ balanoid
 bipinnarias
 bribe
 bipinnated
-bipinnatipartite
+bipinnatipartite 1
 butyrals
 bow
 bipinnatisect

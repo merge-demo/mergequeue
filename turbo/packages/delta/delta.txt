@@ -10979,7 +10979,7 @@ defiers
 deboistness
 disaligned
 disalliege
-deoxidization
+deoxidization 1
 downbend
 doorframe
 disallow
