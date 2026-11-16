@@ -14557,7 +14557,7 @@ divisions
 divisive
 divisively
 disrobed
-diners
+diners 1
 develope
 decomposition
 divisor
