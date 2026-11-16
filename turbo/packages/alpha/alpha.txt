@@ -22593,7 +22593,7 @@ alternativo
 ateloglossia
 abacist
 atelomyelia
-ateloprosopia
+ateloprosopia 1
 axifera
 acquisitiveness
 averrable
