@@ -3139,7 +3139,7 @@ escheat
 eloiner
 essentiate
 eburated
-ethnarchs
+ethnarchs 1
 eskimoes
 euryphage
 expurgators
