@@ -15738,7 +15738,7 @@ doggoneder
 dormancies
 dizygotic
 dormers
-dormette
+dormette 1
 desolator
 dormeuse
 dormice
