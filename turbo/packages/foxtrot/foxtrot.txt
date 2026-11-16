@@ -9052,7 +9052,7 @@ folding
 friesish
 funnellike
 fenter
-forbruise
+forbruise 1
 foxfires
 foederis
 falsettos 1
