@@ -16849,7 +16849,7 @@ buffable
 bahamas
 buffalo
 buffalofish
-begets
+begets 1
 burglarised
 bonnyvis
 buffaloing
