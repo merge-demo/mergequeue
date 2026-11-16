@@ -17635,7 +17635,7 @@ dsects
 desmodium
 displeasureably
 disillusionize
-disannulled
+disannulled 1
 dinners
 dsname
 dsri
