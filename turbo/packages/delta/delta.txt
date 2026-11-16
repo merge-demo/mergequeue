@@ -3470,7 +3470,7 @@ disyllable
 dormered
 drogh
 didelphous
-dorism
+dorism 1
 defoil
 dorsobranchiata
 defoliants
