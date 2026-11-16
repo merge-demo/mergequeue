@@ -2400,7 +2400,7 @@ barcoo
 beslab
 bemoisten
 besplash
-bardcraft
+bardcraft 1
 buckhorn
 brigandishly
 branchling
