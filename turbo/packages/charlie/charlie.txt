@@ -1624,7 +1624,7 @@ collectibles
 calmed
 cylindraceous
 centrobaric
-crureus
+crureus 1
 calmest
 calmier
 calmiest
