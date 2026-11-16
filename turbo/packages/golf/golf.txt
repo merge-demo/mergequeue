@@ -9559,7 +9559,7 @@ gur
 gridiron
 gouaree
 giustina
-geodesies
+geodesies 1
 ghostism
 goster
 graphical
