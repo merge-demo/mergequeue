@@ -8596,7 +8596,7 @@ changelings
 changement
 cuissard
 changeovers
-chiefs
+chiefs 1
 changer 1
 columbic
 crudwort
