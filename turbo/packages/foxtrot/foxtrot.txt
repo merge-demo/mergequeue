@@ -11708,7 +11708,7 @@ fanfish
 fiancailles
 frowns
 furriered
-ferruled
+ferruled 1
 foredesign
 friars
 fosslology 1

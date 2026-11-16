@@ -14158,7 +14158,7 @@ circumanal
 circumantarctic
 circumaviate
 circumaviator
-cowlike
+cowlike 1
 circumaxial
 cobles
 circumaxillary
