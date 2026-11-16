@@ -6516,7 +6516,7 @@ gardenia
 genetic
 glaikitness 1
 gariba
-galvanocautery
+galvanocautery 1
 ghostlike
 golly
 gleanings
