@@ -16149,7 +16149,7 @@ antiseptize
 aerospace
 acerb 1
 abets
-arbitraries
+arbitraries 1
 autolyzing
 acrididae
 argumentatious
