@@ -2344,7 +2344,7 @@ feoffer
 fiberous
 faultier
 falsetto
-feoffs
+feoffs 1
 fra
 fiftyfold
 formalizing
