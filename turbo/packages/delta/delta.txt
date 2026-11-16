@@ -16254,7 +16254,7 @@ downface
 downstair
 duodenocystostomy
 deadlocking
-dacryolite
+dacryolite 1
 dipsaceous
 denominationalist
 desiderant
