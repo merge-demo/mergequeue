@@ -2120,7 +2120,7 @@ decametric
 deerhound
 decanal
 decancellate
-dominator
+dominator 1
 decancellated
 disciplinarian
 debaser
