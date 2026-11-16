@@ -5368,7 +5368,7 @@ flanken
 feebleness
 fullmouth
 fascia 1
-flitterbat
+flitterbat 1
 formalin
 fruiteries
 ferulaic
