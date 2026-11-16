@@ -8393,7 +8393,7 @@ cckw
 cultrirostral
 chamfer
 cabirean
-chamfers
+chamfers 1
 calvaria
 carilloneur
 cranching
