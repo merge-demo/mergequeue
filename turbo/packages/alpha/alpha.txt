@@ -24856,7 +24856,7 @@ avouchable
 atmosphere
 anaptyxis
 alands
-animates
+animates 1
 artisanal
 aberrations
 aggrandizements
