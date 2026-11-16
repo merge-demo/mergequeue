@@ -11906,7 +11906,7 @@ expurgation
 ephidrosis
 eustatically
 excerebration
-extraphysical
+extraphysical 1
 eudaemonistically
 excursory
 epagomenous
