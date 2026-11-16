@@ -14800,7 +14800,7 @@ audiometry
 altiscope
 anticaustic
 amulet
-affreighter
+affreighter 1
 anticensorial
 atomically
 amusee
