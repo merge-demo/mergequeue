@@ -10414,7 +10414,7 @@ estruation
 etymologization
 edentalous
 eurypteroid
-endopolyploidy
+endopolyploidy 1
 eviscerated
 eloinment
 embryoniferous
