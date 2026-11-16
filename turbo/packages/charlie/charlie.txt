@@ -6702,7 +6702,7 @@ counterquestion
 coathangers
 colligation
 ceinture
-ceyx
+ceyx 1
 ceja
 configural
 clovery

@@ -12809,7 +12809,7 @@ dehydrogenized
 downhaul
 dyemaking
 daubs
-devolutive
+devolutive 1
 deliquiesce
 demiparadise
 dismals
