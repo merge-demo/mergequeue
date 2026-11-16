@@ -10766,7 +10766,7 @@ amyrol
 amyroot
 allodiaries
 alodiary
-amirs
+amirs 1
 appalled
 amirship
 archegay
