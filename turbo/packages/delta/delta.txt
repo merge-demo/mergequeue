@@ -15658,7 +15658,7 @@ discased
 distemperance
 dopey
 decrements
-doper
+doper 1
 disbarring
 dopier
 directed

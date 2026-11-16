@@ -2840,7 +2840,7 @@ electrodissolution
 exrupeal
 europhium
 eagre
-elephantoid
+elephantoid 1
 elephantoidal
 enantiopathy
 epididymodeferentectomy
