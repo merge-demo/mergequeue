@@ -1791,7 +1791,7 @@ foreslack
 forsterite
 farfet
 farsalah
-forlorn
+forlorn 1
 foundery
 frivolously
 fetid
