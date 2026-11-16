@@ -7548,7 +7548,7 @@ dextrogyratory
 dialed
 demidoctor
 dolichocranic
-dilettanteism
+dilettanteism 1
 disciferous
 deuteronomic
 demotics
