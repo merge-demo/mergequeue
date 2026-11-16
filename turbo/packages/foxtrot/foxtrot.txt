@@ -8047,7 +8047,7 @@ foredevote
 felicitates 1
 fluidisation
 frustrate
-flammably
+flammably 1
 formentation
 facetting
 folial
