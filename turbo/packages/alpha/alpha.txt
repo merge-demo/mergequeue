@@ -1447,7 +1447,7 @@ afterwrist
 acclamator
 arrowheaded
 acclimatable
-acclimatement
+acclimatement 1
 attires
 alewhap
 acclimates
