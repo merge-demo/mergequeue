@@ -10008,7 +10008,7 @@ deputised
 dessertspoonfuls
 disobliger
 dorosoma
-derelictness
+derelictness 1
 dermatopnagic
 dummkopfs
 dimplier
