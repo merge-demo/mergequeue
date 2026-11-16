@@ -308,7 +308,7 @@ ealderman
 endark
 electroless
 espousage
-extensible
+extensible 1
 enamoured
 extortionate
 expedient
