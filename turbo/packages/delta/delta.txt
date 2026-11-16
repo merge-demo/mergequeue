@@ -11642,7 +11642,7 @@ discountable
 discountenances
 distastes
 dendrolite
-drunkometer
+drunkometer 1
 daishiki
 docimasy
 denize 1
