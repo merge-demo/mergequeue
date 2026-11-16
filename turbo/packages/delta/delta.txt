@@ -9212,7 +9212,7 @@ derelict
 decahedrodra
 dieldrins
 deferred
-dielectric
+dielectric 1
 doziest
 disparately
 dismerit
