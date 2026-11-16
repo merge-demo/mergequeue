@@ -4116,7 +4116,7 @@ delineature
 delineavit
 decimalise
 despeche
-diagenetically
+diagenetically 1
 doggerelled
 delinter
 deliquiate

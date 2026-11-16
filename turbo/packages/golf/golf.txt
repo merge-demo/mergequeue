@@ -4826,7 +4826,7 @@ gynecidal
 genseng
 garlicwort
 glades
-gynarchies
+gynarchies 1
 graupels
 grush
 geoffroyin
