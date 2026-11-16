@@ -3130,7 +3130,7 @@ euphonetic
 emissive
 esteriferous
 earthsmoke
-eloigning
+eloigning 1
 enactment
 euryte
 eloigns
