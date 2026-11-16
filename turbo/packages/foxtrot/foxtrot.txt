@@ -8054,7 +8054,7 @@ folial
 forestful
 fellable
 freezes
-frigger
+frigger 1
 forepost
 fessing
 forestral
