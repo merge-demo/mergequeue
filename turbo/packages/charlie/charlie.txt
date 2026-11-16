@@ -1856,7 +1856,7 @@ camball
 cambered
 cohabiter
 croc
-chamfrain
+chamfrain 1
 consociate
 cambia
 cambiata
