@@ -7607,7 +7607,7 @@ alcazaba
 apophonic
 anisomeles
 agrafe
-adamance 1
+adamance 2
 agrostographer
 asymptotical
 alce
