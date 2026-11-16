@@ -9535,7 +9535,7 @@ calaththi
 checkrein
 checkroll
 compathy
-checkrope
+checkrope 1
 cumulant
 conoy
 checkrowed
