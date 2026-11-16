@@ -17330,7 +17330,7 @@ bore
 bathochromatism
 bahutu
 bopyrus
-bucoliast
+bucoliast 1
 bunchy
 bunchier
 bunchily
