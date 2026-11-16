@@ -17905,7 +17905,7 @@ bonytail
 buginese
 brimstony
 boopis
-busher
+busher 1
 bernoo
 bushfighting
 bushfires

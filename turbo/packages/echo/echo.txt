@@ -2962,7 +2962,7 @@ electrotropism
 epistoler
 ekronite
 ethenic
-entomology
+entomology 1
 elidible
 etagere
 entrecotes
