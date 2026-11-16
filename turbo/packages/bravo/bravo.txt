@@ -1422,7 +1422,7 @@ battable
 balefires
 bewreak
 barmbrack
-baleys
+baleys 1
 baleise
 batty
 beslave
