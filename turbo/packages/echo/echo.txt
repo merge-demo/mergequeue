@@ -4594,7 +4594,7 @@ epistolean
 erethizontidae
 epilimnion
 echevin
-exeunt
+exeunt 1
 elucubrate
 excellent
 exarchs
