@@ -8694,7 +8694,7 @@ autochthon
 argyrythrose
 aeroelastics
 anoxidative
-allocution
+allocution 1
 anemology
 alleleu
 allelic
