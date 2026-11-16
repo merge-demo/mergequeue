@@ -2640,7 +2640,7 @@ denunciated
 dogmatism
 dryasdust
 dumpcarts
-dinglebird
+dinglebird 1
 decreers
 decolours
 decommission
