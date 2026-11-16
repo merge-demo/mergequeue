@@ -28761,7 +28761,7 @@ circaetus
 compendiary
 cavitate
 cornutine
-chafer
+chafer 1
 crepusculine
 costliness
 cres
