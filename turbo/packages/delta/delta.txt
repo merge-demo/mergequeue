@@ -13327,7 +13327,7 @@ disputacity
 dahabiehs
 disfen
 delayers
-defender
+defender 1
 display
 disputation
 disconnected
