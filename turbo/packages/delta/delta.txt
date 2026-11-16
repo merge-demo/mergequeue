@@ -7067,7 +7067,7 @@ desterilization
 dilucid
 dayak
 dolts
-deposits
+deposits 1
 destigmatization
 destigmatizing
 destination
