@@ -4461,7 +4461,7 @@ diceplay
 dpt
 damns
 duress
-demy
+demy 1
 decahydrated
 dovetailing
 diazotization
