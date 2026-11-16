@@ -9961,7 +9961,7 @@ extrospection
 englishize
 estuarial
 epagogic
-estuosity
+estuosity 1
 edibleness
 endophagy
 esugarization
