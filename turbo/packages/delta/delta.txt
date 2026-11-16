@@ -3241,7 +3241,7 @@ dayside
 derricking
 defenseless
 disproofs
-defenselessness
+defenselessness 1
 dolichostylous
 dogrib
 dapicho
