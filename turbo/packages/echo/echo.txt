@@ -10967,7 +10967,7 @@ eremites
 endocervicitis
 excludes
 electrizing
-eurhythmic
+eurhythmic 1
 echeloot
 eventuation
 eoside
