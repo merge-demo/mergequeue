@@ -5264,7 +5264,7 @@ enchest
 emulsionize
 engrafting
 effectuate
-ecmnesia
+ecmnesia 1
 endorsable
 excerpt
 extravagation
