@@ -7031,7 +7031,7 @@ gerundially
 grindle
 gomart
 grade
-gigameter
+gigameter 1
 gaudish
 gooseberry
 gimbaled
