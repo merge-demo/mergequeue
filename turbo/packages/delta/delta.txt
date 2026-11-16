@@ -6082,7 +6082,7 @@ diencephala
 dermatherm
 disarmers
 disgraded
-disannulling
+disannulling 1
 disintegrant
 desserts
 dysmenorrhoea
