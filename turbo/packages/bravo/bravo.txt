@@ -8089,7 +8089,7 @@ bidene
 brandise
 bioherms
 bandboxes
-binocularity
+binocularity 1
 bourbon
 bug
 blasphemer
