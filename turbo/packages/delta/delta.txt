@@ -11047,7 +11047,7 @@ diabolisation
 drakonite
 disapprovals
 demagog
-disapproves
+disapproves 1
 delousing
 disillusioned
 doppelkummel
