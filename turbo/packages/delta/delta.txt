@@ -6666,7 +6666,7 @@ decadianome
 drawarm
 dipneedle
 danders
-detonator
+detonator 1
 deregulates
 deserving
 diabetics
