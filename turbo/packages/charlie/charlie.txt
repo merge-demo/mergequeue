@@ -18092,7 +18092,7 @@ conicoid
 contentless
 conjugable
 cardinalism
-compactile
+compactile 1
 coenobitical
 carbinol
 coannexing
