@@ -1328,7 +1328,7 @@ gride 1
 gra 1
 ganoine
 goanese
-guslee
+guslee 1
 garishly
 galligaskins
 glycosine
