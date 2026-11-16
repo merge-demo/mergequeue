@@ -10220,7 +10220,7 @@ guile
 galluses
 groundsel
 gastradenitis
-geotonus
+geotonus 1
 glamourously
 galusha
 geissospermin
