@@ -24064,7 +24064,7 @@ codfisheries
 convergence
 coiling
 convergences
-comps
+comps 1
 cerebronic
 convergency
 columbary
