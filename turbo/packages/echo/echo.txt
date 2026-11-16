@@ -6444,7 +6444,7 @@ encephalometer
 earfuls
 encheck
 environments
-exercisable
+exercisable 1
 ensorcellment
 ensorrow
 encumberment
