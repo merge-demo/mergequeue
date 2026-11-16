@@ -2358,7 +2358,7 @@ fetations
 filmable
 flanneled
 fencelike
-flunked
+flunked 1
 funerary
 floorward 1
 favel
