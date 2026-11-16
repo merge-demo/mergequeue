@@ -18576,7 +18576,7 @@ defortify
 decentration
 dush
 dusked
-ditchdigger
+ditchdigger 1
 dusky
 dozer
 derivatively
