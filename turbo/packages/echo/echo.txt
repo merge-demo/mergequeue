@@ -10753,7 +10753,7 @@ enclaret
 endorsee
 extort
 ephemeran
-extramoralist
+extramoralist 1
 eigenvector
 emer
 endogalvanism
