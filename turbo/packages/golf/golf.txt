@@ -9824,7 +9824,7 @@ gibbets
 guayabi
 goitcho
 gymnotid
-gesturing
+gesturing 1
 gumdigging
 glebous
 guesstimated
