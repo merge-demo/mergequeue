@@ -12663,7 +12663,7 @@ boogeymen
 bellical
 buhrs
 bec
-burst
+burst 1
 bolivares
 bunion
 booger
