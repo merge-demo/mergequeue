@@ -10700,7 +10700,7 @@ ecossaise
 egosyntonic
 etiquet
 excusable
-eugonic
+eugonic 1
 eggheaded
 embrangled
 eugubine
