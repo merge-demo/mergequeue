@@ -3678,7 +3678,7 @@ booklover
 burnies
 brigantinebrigantines
 basiophthalmite
-baste
+baste 1
 bucketful
 bally
 belage
