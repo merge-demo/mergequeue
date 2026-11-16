@@ -1039,7 +1039,7 @@ fireling
 flerrying
 farmerly
 foreknowledge
-forrel
+forrel 1
 ferash
 freshening
 forensics
