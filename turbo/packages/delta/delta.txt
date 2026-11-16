@@ -2806,7 +2806,7 @@ delphinus
 duodecahedron
 decrescent
 deknight
-droller
+droller 1
 decretalist
 despumating
 debility
