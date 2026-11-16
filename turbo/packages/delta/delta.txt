@@ -9076,7 +9076,7 @@ drinkability
 devow
 disimprove
 drubbed
-devance
+devance 1
 discernable
 devotedly
 depickle

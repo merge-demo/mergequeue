@@ -19343,7 +19343,7 @@ chrimsel
 coloproctitis
 coloptosis
 colopuncture
-coloquintid
+coloquintid 1
 craniotabes
 carousing
 cerotic
