@@ -5767,7 +5767,7 @@ depones
 deponing
 distributee 1
 doodler
-dewormed
+dewormed 1
 depopulation
 denitrize
 dowve
