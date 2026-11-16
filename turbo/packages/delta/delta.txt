@@ -13104,7 +13104,7 @@ daresay
 deprivative
 declivities
 diversifying
-distribute
+distribute 1
 doozer
 directionless
 dispergate
