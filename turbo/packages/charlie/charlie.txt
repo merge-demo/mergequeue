@@ -5160,7 +5160,7 @@ copolar
 caseolysis
 caseose
 caseous
-caserios
+caserios 1
 cyphering
 catawamptious
 caserne
