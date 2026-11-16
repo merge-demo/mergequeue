@@ -4243,7 +4243,7 @@ fridge
 figurative
 fallotomy
 firelight
-flab
+flab 1
 feistier
 felicide
 footsies
