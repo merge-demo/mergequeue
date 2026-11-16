@@ -4156,7 +4156,7 @@ fireback
 fumeuses
 frogleaf
 fusilading 1
-fulk
+fulk 1
 frostnipped
 fatling
 fenchyl
