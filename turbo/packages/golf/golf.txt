@@ -5397,7 +5397,7 @@ glimmer
 generall
 glutinant
 glucosid
-gutwise
+gutwise 1
 gasserian
 grimmer
 gremmy
