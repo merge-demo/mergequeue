@@ -11210,7 +11210,7 @@ erector
 eviler
 ethmosphenoidal
 endocrinologic
-entrenchment
+entrenchment 1
 epithetize
 endfile
 englyns
