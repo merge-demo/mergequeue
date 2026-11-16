@@ -8043,7 +8043,7 @@ fellahs
 flash
 fluidises
 falconnoid
-foredevote
+foredevote 1
 felicitates 1
 fluidisation
 frustrate
