@@ -4108,7 +4108,7 @@ ecardinal
 endosarc
 epitonic
 electrorefine
-excerptible
+excerptible 1
 emplecton
 employability
 evenly
