@@ -6790,7 +6790,7 @@ dietzeite
 degenerations
 distruster
 desirer
-drachma
+drachma 1
 daira
 dihedrons
 decomposable
