@@ -6505,7 +6505,7 @@ goaltenders
 georgiadesite
 growly
 glaciologist
-goatishly
+goatishly 1
 germinatively
 greese
 gonapophysial
