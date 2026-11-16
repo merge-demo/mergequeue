@@ -9905,7 +9905,7 @@ envelopers
 emmensite
 earthnuts
 elaterium
-ephedrin
+ephedrin 1
 executes
 eduskunta
 ectrodactylous
