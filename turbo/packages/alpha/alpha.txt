@@ -847,7 +847,7 @@ athrogenic 1
 absconce
 abscond
 amenorrheal
-absconded
+absconded 1
 apperceptive
 absconder
 agonizes
