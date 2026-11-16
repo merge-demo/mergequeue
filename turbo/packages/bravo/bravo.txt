@@ -10886,7 +10886,7 @@ bibbling
 blindball
 bindable
 bangers
-boxball
+boxball 1
 barracker
 blooddrops
 buttals

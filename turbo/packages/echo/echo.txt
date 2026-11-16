@@ -2137,7 +2137,7 @@ endleaf
 enfoil
 exterminatress
 emasculates
-enanthematous
+enanthematous 1
 eisteddfodism
 epoxy
 esophagostenosis
