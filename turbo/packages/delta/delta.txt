@@ -6580,7 +6580,7 @@ danda
 dioicous
 desecrates
 demythologizes
-dampen
+dampen 1
 dowfart
 dyschroa
 discubation
