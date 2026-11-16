@@ -2965,7 +2965,7 @@ ethenic
 entomology
 elidible
 etagere
-entrecotes
+entrecotes 1
 equipede
 elbowchair
 enjoining
