@@ -18592,7 +18592,7 @@ driftfishes
 dogtrotting
 didrachm
 dewool
-duskness
+duskness 1
 dust
 delphian
 dustbins
