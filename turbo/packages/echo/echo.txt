@@ -2822,7 +2822,7 @@ embden
 endomastoiditis
 erratuta
 exostracize
-elan
+elan 1
 endoubt
 enseat
 enleen

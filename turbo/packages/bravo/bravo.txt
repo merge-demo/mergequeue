@@ -12332,7 +12332,7 @@ bombesins
 brightsomeness
 beeregar
 brandle
-bantered
+bantered 1
 bagpiper
 blacky
 bombilation

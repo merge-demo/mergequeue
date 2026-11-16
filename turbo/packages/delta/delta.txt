@@ -1283,7 +1283,7 @@ dandyism
 disking
 datsuns
 disband
-demigardebras
+demigardebras 1
 dissyllabize
 dysodyle
 dardanarius
