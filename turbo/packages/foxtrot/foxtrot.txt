@@ -7197,7 +7197,7 @@ forthteller
 footless
 footlights
 fratries
-ficoides
+ficoides 1
 forearming
 farer
 frockless
