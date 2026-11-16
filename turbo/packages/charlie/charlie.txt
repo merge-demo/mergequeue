@@ -18360,7 +18360,7 @@ chenevixite
 cognac
 curdier
 crookeries
-corallic
+corallic 1
 centime
 calamiferious
 cognacs
