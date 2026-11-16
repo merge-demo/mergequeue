@@ -5821,7 +5821,7 @@ ahoy
 auxetics
 atlatl
 achromobacter
-aligner
+aligner 1
 agatized
 anuric
 agatizes
