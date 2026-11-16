@@ -4071,7 +4071,7 @@ gilttail
 gibbosity
 gentleman
 gratifications
-gibboseness
+gibboseness 1
 gendarmery
 gim
 gambolling
