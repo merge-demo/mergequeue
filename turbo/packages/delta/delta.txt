@@ -17485,7 +17485,7 @@ drowsihead
 drowte
 dreads
 diphyllous
-discrete
+discrete 1
 daffle
 doubleheaders
 destructed
