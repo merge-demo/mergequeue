@@ -9486,7 +9486,7 @@ gladiate
 gesticulations
 glossy
 ganser
-gleeishly
+gleeishly 1
 gauffering
 geometrician
 gossamery
