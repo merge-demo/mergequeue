@@ -5338,7 +5338,7 @@ focusses
 fldxt
 foolhardier
 frugalism
-featherweight
+featherweight 1
 flayflint
 fleabag
 fornicators
