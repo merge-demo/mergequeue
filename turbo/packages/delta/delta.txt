@@ -85,7 +85,7 @@ dobbin
 damning
 direcly
 deescalating
-dumb
+dumb 1
 deploying
 disqualifiable
 dactylology
