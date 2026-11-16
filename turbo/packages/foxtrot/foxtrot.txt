@@ -3508,7 +3508,7 @@ fastigiate
 fulgorid
 fusicladium
 filamentar
-fute
+fute 1
 fleetingly
 figures
 feelingless
