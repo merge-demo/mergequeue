@@ -8936,7 +8936,7 @@ agnathostomatous
 allantoid
 admired
 alloyage
-athermancy
+athermancy 1
 alloiogenesis
 assizer
 alloiometric
