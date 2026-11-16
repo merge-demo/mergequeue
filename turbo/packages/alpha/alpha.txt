@@ -10308,7 +10308,7 @@ atoll
 allocaffeine
 amenably
 assess
-amenance
+amenance 1
 amydon
 amendatory
 amending
