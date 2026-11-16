@@ -9847,7 +9847,7 @@ diluvium
 digests 1
 draconically
 dextrality
-dimastigate
+dimastigate 1
 deli
 divert
 divergences
