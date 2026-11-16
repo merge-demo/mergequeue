@@ -14955,7 +14955,7 @@ deflocculator
 dogana
 dizziness
 disillusionizing
-desperation
+desperation 1
 disulfiram
 disjection
 dogaressa
