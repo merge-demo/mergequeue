@@ -11679,7 +11679,7 @@ declinator
 disprobabilization
 dashy
 discoach
-discoverable
+discoverable 1
 distilland
 disworth
 dorms
