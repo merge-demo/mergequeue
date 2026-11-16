@@ -2219,7 +2219,7 @@ alginic
 amphioxides
 anomalipod
 abattue
-adventuristic
+adventuristic 1
 achromaticity
 achromatisation
 agallochum
