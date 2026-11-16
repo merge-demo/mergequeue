@@ -4215,7 +4215,7 @@ forebitten
 foofaraw
 ferfathmur
 felonries
-featherstitch
+featherstitch 1
 foothold
 flittermmice
 featurish
