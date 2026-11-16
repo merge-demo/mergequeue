@@ -13159,7 +13159,7 @@ borrachio
 borrasca
 bandoliered
 bonanzas
-bubo
+bubo 1
 borrowable
 barocyclonometer
 borrower
