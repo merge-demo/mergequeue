@@ -3078,7 +3078,7 @@ baruria
 barvel
 bunnell
 beduin
-botel
+botel 1
 brainwashing
 braza
 bimetal
