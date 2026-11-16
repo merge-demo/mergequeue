@@ -8708,7 +8708,7 @@ concion
 convalescency
 capturable
 crenelle
-chapelgoing
+chapelgoing 1
 cockpits
 chapelize
 chirpier
