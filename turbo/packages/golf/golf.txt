@@ -6488,7 +6488,7 @@ gannister
 gastraead
 guarded
 guanare
-gangrenate
+gangrenate 1
 giglio
 gapeworms
 gurry
