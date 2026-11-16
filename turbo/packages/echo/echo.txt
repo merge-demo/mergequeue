@@ -1447,7 +1447,7 @@ electrophoresis
 eelpout
 effort
 ethmovomer
-environic
+environic 1
 ergonomic
 ethiopian
 epanorthotic
