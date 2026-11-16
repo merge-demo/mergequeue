@@ -823,7 +823,7 @@ gletty
 galoots
 granose
 gnarring
-gramp
+gramp 1
 gramary
 gamblesomeness
 greenback
