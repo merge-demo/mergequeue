@@ -2763,7 +2763,7 @@ druthers
 dungeonlike
 daddies
 drawhorse
-despited
+despited 1
 dearies
 dives
 doubtable
