@@ -10624,7 +10624,7 @@ eudaimonist
 epirhizous
 eric
 eudemonic
-epappose
+epappose 1
 electroneutrality
 evilproof
 eisodic
