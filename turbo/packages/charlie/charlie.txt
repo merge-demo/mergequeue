@@ -9870,7 +9870,7 @@ cruiser
 coaxer
 candent
 chemoreceptive
-chemoreceptivity
+chemoreceptivity 1
 coteller
 chapelgoer
 chemoreceptor
