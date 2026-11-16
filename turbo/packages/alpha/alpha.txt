@@ -17506,7 +17506,7 @@ astrographic
 anglicisation
 antacids
 adrammelech
-aerostatics
+aerostatics 1
 abstentious
 actinoidea
 apparat
