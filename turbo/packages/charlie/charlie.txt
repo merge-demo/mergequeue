@@ -22980,7 +22980,7 @@ consistences
 consistency
 catalytic
 chemotherapies
-companioning
+companioning 1
 clinodome
 consistencies
 choriambi

@@ -4118,7 +4118,7 @@ frush
 fartherer
 felicitously
 ferd
-foresightless
+foresightless 1
 fungusy
 frostation
 fergusonite
