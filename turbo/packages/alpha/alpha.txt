@@ -4081,7 +4081,7 @@ admit
 allowanced
 anisosthenic
 aldrin
-admits
+admits 1
 admittance
 admitted
 agitpunkt
