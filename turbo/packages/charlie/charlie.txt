@@ -1472,7 +1472,7 @@ coecal
 continents
 careening
 calkers
-chequy
+chequy 1
 chowse
 calkin
 calkins
