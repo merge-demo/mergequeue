@@ -4668,7 +4668,7 @@ exceptionability
 evolutionize
 endemics
 electromagnets
-encyclopedic
+encyclopedic 1
 ebauche
 erpetology
 egence
