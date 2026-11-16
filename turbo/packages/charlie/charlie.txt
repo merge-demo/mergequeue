@@ -5126,7 +5126,7 @@ cisatlantic
 convulsionism
 casefy
 corneter
-counterenamel
+counterenamel 1
 compeller
 chondrectomy
 careys
