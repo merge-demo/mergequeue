@@ -10340,7 +10340,7 @@ gules
 gown
 grot 1
 gooseflesh
-glebal
+glebal 1
 guarana
 gomerils
 gaums
