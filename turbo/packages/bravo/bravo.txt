@@ -15497,7 +15497,7 @@ banding
 burgh
 babyish
 batzen
-burnoose
+burnoose 1
 brannerite
 bereaved
 batonnier
