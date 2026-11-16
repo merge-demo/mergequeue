@@ -4317,7 +4317,7 @@ exclaustration
 enamelist
 enamelless
 eluder
-edibles
+edibles 1
 enami
 elephancy
 eleut
