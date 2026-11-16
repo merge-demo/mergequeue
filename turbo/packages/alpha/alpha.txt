@@ -17550,7 +17550,7 @@ alclad
 anhydrize
 anacoluthically
 acerbest
-abeyancy
+abeyancy 1
 anthracaemia
 apteroid
 apophthegmatist
