@@ -6024,7 +6024,7 @@ gibetting
 grin
 gentry
 gallows
-gusting
+gusting 1
 glossoplasty
 gnarly
 gourdes
