@@ -3386,7 +3386,7 @@ equiparate
 embargoes
 endocrinologist 1
 eavedropper
-embark
+embark 1
 epichorial
 embarkations
 euconic
