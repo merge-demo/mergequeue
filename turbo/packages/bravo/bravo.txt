@@ -689,7 +689,7 @@ basos
 briars
 barren
 brioche
-bicorne
+bicorne 1
 bombo
 bungey
 begall
