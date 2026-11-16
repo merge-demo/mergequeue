@@ -5930,7 +5930,7 @@ gluepot
 garrison
 gemitorial
 globuliform
-gaylussacia
+gaylussacia 1
 greathead
 gluishness
 germy

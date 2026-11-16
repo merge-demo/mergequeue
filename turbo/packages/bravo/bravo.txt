@@ -6837,7 +6837,7 @@ bioluminescent
 bescourge
 bellicosity
 buckeroos
-bust
+bust 1
 bescramble
 bescreen
 barit

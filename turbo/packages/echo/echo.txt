@@ -1482,7 +1482,7 @@ explanatorily
 exonarthex
 epics
 ethicalness
-endosiphonate
+endosiphonate 1
 equippers
 estivate
 ebbs
