@@ -1353,7 +1353,7 @@ eights
 epode
 encloser
 essentialness
-exomis
+exomis 1
 evasional
 ebcdic
 excludability
