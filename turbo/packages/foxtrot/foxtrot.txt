@@ -10525,7 +10525,7 @@ firemen
 frowl
 fierily
 frowners
-fatlike
+fatlike 1
 faciend
 freq
 flags
