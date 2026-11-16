@@ -10445,7 +10445,7 @@ deda
 dotty
 diphtheric
 denticeti
-disarraying
+disarraying 1
 dourly
 dishonesties
 delphically
