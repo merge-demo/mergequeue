@@ -18859,7 +18859,7 @@ ancestresses
 aedoeagus
 angloid
 acervose
-ancientism
+ancientism 1
 alamodality
 ambush
 achromatophil
