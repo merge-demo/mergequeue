@@ -18274,7 +18274,7 @@ bencher
 butterworker
 broadaxe
 boulimy
-buttgenbachite 1
+buttgenbachite 2
 bolimba
 boomeranging
 borders
