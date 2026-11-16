@@ -6548,7 +6548,7 @@ decimates
 descript
 descriptionist
 dogsled
-descriptionless
+descriptionless 1
 dangleberry
 distensile
 dysnomy
