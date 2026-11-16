@@ -4643,7 +4643,7 @@ fullnesses
 fanging
 frigidities
 fireboard
-fluctuate
+fluctuate 1
 fossane 1
 fitzroya
 federatively
