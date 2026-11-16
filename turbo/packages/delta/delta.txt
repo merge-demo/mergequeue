@@ -7533,7 +7533,7 @@ dominators
 deuterocanonical
 deuterocasease
 dendroeca
-decemplicate
+decemplicate 1
 dakhma
 drivels
 decatizer
