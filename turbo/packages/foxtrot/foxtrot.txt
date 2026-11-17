@@ -413,7 +413,7 @@ fibber 1
 firetrap
 fenestrae
 frustraneous
-fribbled
+fribbled 1
 fasciae
 fibrocartilaginous
 forthon
