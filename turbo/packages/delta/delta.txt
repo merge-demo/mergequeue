@@ -14530,7 +14530,7 @@ depicters
 duodenary
 detribalization
 divisa
-demode
+demode 1
 dimethylketol
 directrixes
 downpouring
