@@ -21643,7 +21643,7 @@ antilogical
 alkalizes
 acetometrically
 anisomerous
-atomicism
+atomicism 1
 assayable
 afterpotential
 assayed
