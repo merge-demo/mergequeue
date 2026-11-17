@@ -424,7 +424,7 @@ frows
 factful
 foredesk
 fusetron
-friendliwise
+friendliwise 1
 festive
 flints
 falsedad
