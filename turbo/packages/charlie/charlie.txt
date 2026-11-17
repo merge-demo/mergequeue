@@ -21040,7 +21040,7 @@ compulsed
 calciphobe
 culex
 compulsion
-cereuses
+cereuses 1
 compulsitor
 coremiumia
 caramelan
