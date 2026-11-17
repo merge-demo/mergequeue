@@ -6434,7 +6434,7 @@ fluorobenzene
 fructifies
 frizing
 flasker
-foreship
+foreship 1
 frivoled
 frogeye
 fluoaluminate
