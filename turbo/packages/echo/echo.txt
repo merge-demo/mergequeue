@@ -10826,7 +10826,7 @@ execrates
 etherealising
 eupepticity
 eelfish
-equipartition
+equipartition 1
 eloigners
 entosternum
 earache 1
