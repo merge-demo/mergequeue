@@ -5657,7 +5657,7 @@ grimoire
 germanics
 gubernacular
 geyserine
-gingalls
+gingalls 1
 gastralgic
 gobbling
 growsome
