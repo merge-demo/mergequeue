@@ -21513,7 +21513,7 @@ concordance
 concordancer
 commands
 colons
-curliewurly
+curliewurly 1
 cardiophobia
 concordances
 cantalas
