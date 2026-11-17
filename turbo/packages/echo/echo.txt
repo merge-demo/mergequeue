@@ -5276,7 +5276,7 @@ endorsed
 enchantress
 emendating
 effector
-endorsees
+endorsees 1
 emeriti
 epicoracoidal
 elkoshite
