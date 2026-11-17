@@ -2087,7 +2087,7 @@ aches
 achesoun
 acheulean
 accustoms
-acumens
+acumens 1
 achy
 absconds
 anthologion
