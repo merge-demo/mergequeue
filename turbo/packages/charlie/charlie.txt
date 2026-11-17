@@ -7728,7 +7728,7 @@ cormorant
 cetin
 certainty
 caryatidic
-cfi
+cfi 1
 certifiability
 categorematic
 cellarway
