@@ -10917,7 +10917,7 @@ foremastmen
 fulgoroidea
 fruitist
 forgeful
-footgrip
+footgrip 1
 fi
 foilable
 federacy
