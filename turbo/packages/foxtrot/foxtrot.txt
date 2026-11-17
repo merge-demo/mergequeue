@@ -1253,7 +1253,7 @@ folds
 fassalite
 fastbacks
 frigor
-flatdom
+flatdom 1
 faradism
 futteret
 fama 1
