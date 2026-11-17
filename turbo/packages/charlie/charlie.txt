@@ -26992,7 +26992,7 @@ ciceronianism
 counternecromancy
 counterobjection
 counterobligation
-counteroffensive
+counteroffensive 1
 chevet
 cerograph
 counteroffer
