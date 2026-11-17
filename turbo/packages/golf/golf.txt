@@ -1559,7 +1559,7 @@ globicephala
 gymnura
 gauntlet
 gutteral
-gulanganes
+gulanganes 1
 gunlock
 gasterotheca
 gandermooner
