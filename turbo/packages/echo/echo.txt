@@ -2483,7 +2483,7 @@ enterochromaffin
 endexines
 emotionalise
 electroing
-eluviate
+eluviate 1
 entrefer
 elaeometer
 ecosphere
