@@ -7513,7 +7513,7 @@ deutencephalon
 dumfounding
 dorcas
 dehgan
-deuteranope
+deuteranope 1
 deuteration
 denucleate
 demarcator
