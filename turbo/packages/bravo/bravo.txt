@@ -987,7 +987,7 @@ bahoe
 biotype
 bycoket
 bridgemaster
-burnie
+burnie 1
 bradytely
 berberins
 baldaquin
