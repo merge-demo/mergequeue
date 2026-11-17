@@ -6448,7 +6448,7 @@ glucidic
 gregorian
 grandeeship
 geneses
-gallivanted
+gallivanted 1
 gouger
 guineapig
 golden
