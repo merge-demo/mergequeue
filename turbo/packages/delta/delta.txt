@@ -12045,7 +12045,7 @@ dult
 disenthrone
 denizened 1
 demerits
-disentitled
+disentitled 1
 deceptitious
 didelphine
 disjune
