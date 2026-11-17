@@ -17490,7 +17490,7 @@ daffle
 doubleheaders
 destructed
 dolcemente
-disorientation
+disorientation 1
 devoices
 densities
 drubbers
