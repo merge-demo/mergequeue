@@ -2007,7 +2007,7 @@ anurias
 abrogations
 astel
 alfoncino
-autopilot
+autopilot 1
 acerin
 acetophenone
 amphodiplopia
