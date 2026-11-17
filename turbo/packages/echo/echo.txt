@@ -2728,7 +2728,7 @@ electees
 edentate
 envoi
 eleemosynary
-entranceway
+entranceway 1
 etymology
 emetic
 engorge
