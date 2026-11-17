@@ -1902,7 +1902,7 @@ diarial
 debout
 deervetch
 donging
-denticulated
+denticulated 1
 delicateness
 denuclearized
 debowel
