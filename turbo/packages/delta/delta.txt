@@ -9344,7 +9344,7 @@ deneb
 dewax
 downhill
 diplopia
-differently
+differently 1
 dinarchies
 differer
 differs
