@@ -23830,7 +23830,7 @@ chaui
 contravindication
 circumvascular
 capitalizable
-contrawise
+contrawise 1
 contrecoup
 contreface
 coryphees
