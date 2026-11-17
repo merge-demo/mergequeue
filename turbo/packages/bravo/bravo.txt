@@ -4159,7 +4159,7 @@ beclown
 barrow
 boylas
 beastling
-bullswool
+bullswool 1
 beastlings
 bulgy
 beastman
