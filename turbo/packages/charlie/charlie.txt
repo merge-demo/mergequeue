@@ -9804,7 +9804,7 @@ corrugates
 cowardliness
 clubroot
 combattants
-calanid
+calanid 1
 chemicker
 chemicoastrological
 chokra
