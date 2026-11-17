@@ -1596,7 +1596,7 @@ deaf
 dynamogenous
 disacidified
 deafened
-doorjambs
+doorjambs 1
 dummered
 dawe
 dicyanid
