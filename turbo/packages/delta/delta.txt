@@ -10820,7 +10820,7 @@ diadematoida
 digit
 dynameter
 darkest
-distant
+distant 1
 doketism
 desilverize
 dipleurobranchiate

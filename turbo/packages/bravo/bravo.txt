@@ -6503,7 +6503,7 @@ boson
 bartramiaceae
 bactericidin
 buckeyes
-bequests
+bequests 1
 buster
 bushelful
 blenniiformes
