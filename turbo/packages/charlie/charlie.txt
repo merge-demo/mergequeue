@@ -28926,7 +28926,7 @@ crybaby
 cooperant
 coarse
 centrolecithal
-conductility
+conductility 1
 crybabies
 celtium
 cacodaemon
