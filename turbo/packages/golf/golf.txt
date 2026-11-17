@@ -4164,7 +4164,7 @@ gypsum
 guarapo
 globuloid
 gelinotte
-graphemic
+graphemic 1
 gastroarthritis
 goodly
 guaranin
