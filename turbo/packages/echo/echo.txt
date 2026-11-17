@@ -7946,7 +7946,7 @@ epimeres
 electrostenolysis
 enterolithiasis 1
 exiting
-evangels
+evangels 1
 encephalonarcosis
 equisetic
 evaniidae
