@@ -8010,7 +8010,7 @@ aleuronat
 absi
 arachidic
 antimicrobic
-argynnis
+argynnis 1
 annotto
 aurigo
 aleuronic

@@ -1758,7 +1758,7 @@ featherbird
 feoffors
 focalises
 forfare
-foreshore
+foreshore 1
 floriferous
 freedman
 foveal
