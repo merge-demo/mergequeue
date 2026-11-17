@@ -1307,7 +1307,7 @@ ginglymoid
 gateward
 gibbered
 groomers
-gas 1
+gas 2
 groundberry
 glottogonic
 geullah
