@@ -18207,7 +18207,7 @@ coexperiencer
 coextend
 clubbiness
 coextends
-creep
+creep 1
 cofactors
 castrating
 cofane
