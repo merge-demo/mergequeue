@@ -1332,7 +1332,7 @@ flookan
 flout
 functionality
 fallowness
-frictionally
+frictionally 1
 fragmentized
 feltmonger
 fabulize
