@@ -7640,7 +7640,7 @@ eoliths
 enterohelcosis
 epicortical
 enterostomy
-esere
+esere 1
 educed
 enterogastritis
 exponents
