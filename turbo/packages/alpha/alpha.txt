@@ -7715,7 +7715,7 @@ abaissed
 alcoholometer
 acidic
 archpractice
-apterygial
+apterygial 1
 averroistic
 actualise
 arthrolith
