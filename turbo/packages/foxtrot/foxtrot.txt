@@ -3652,7 +3652,7 @@ floorings
 fuzzing
 funnelling
 fertilised
-foreglow
+foreglow 1
 finedrawing
 fluxweed
 federalize
