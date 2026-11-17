@@ -5842,7 +5842,7 @@ dizdar
 dewaxing
 deadtongue
 dags
-dermatocoptic
+dermatocoptic 1
 deprecable
 deprecating
 derotrema
