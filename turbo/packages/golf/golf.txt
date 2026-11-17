@@ -2229,7 +2229,7 @@ grifts
 gefulltefish
 galley
 gaumy
-galax
+galax 1
 gonidiogenous
 gehlenite
 goblet
