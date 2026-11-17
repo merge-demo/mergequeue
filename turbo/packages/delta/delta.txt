@@ -11003,7 +11003,7 @@ disambiguating
 derah
 defamingly
 dogmatising
-disanalogy
+disanalogy 1
 disanchor
 deliberations
 disanimation
