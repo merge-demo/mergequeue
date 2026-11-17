@@ -10193,7 +10193,7 @@ delitescency
 despise
 deemed
 dinkier
-dinkiest
+dinkiest 1
 departments
 dinking
 defatting
