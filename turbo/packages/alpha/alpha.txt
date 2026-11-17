@@ -20510,7 +20510,7 @@ auriculidae
 arterioloscleroses
 anoxybiosis
 arteriolosclerosis
-afaint
+afaint 1
 acrid
 arteriomalacia
 autoagglutinin
