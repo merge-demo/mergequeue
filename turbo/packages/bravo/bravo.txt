@@ -13070,7 +13070,7 @@ boehmenist
 boreen
 bowerly
 bimestrial
-burdash
+burdash 1
 bugseeds
 boodleism
 borel
