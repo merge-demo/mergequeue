@@ -9273,7 +9273,7 @@ enantiomorphic
 elite
 explosible
 eulogist
-endosmos
+endosmos 1
 electropism
 esdras
 errhines
