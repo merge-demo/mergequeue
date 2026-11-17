@@ -13792,7 +13792,7 @@ delayed
 dalteen
 debunk
 dissuading
-determinations
+determinations 1
 docoglossa
 defections
 disturbedly
