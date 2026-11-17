@@ -9622,7 +9622,7 @@ eventlessness
 exceptionary
 ensearch
 esoterize
-esotropia
+esotropia 1
 elatha
 eparchial
 eventless
