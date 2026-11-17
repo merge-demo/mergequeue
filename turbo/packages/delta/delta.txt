@@ -9418,7 +9418,7 @@ diner
 destructors
 diether
 demythologising
-disenroll
+disenroll 1
 disheathing
 dehematize
 digamy
