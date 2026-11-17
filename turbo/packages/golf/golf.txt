@@ -3552,7 +3552,7 @@ geo
 gloats 1
 glunched
 gymkhana
-grudgery
+grudgery 1
 ghaffir
 ginniest
 garnishes
