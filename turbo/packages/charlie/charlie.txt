@@ -2067,7 +2067,7 @@ conli
 campaign
 clotheshorses
 campaigners
-campaigns
+campaigns 1
 campana
 campane
 campanella

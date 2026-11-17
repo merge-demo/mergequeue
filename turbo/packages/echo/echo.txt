@@ -9051,7 +9051,7 @@ empyreans
 epibranchial
 encrinitical
 ectocyst
-epifaunae
+epifaunae 1
 erythrocytoblast
 explanate
 epizooty
