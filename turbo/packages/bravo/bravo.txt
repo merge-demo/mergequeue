@@ -4148,7 +4148,7 @@ bartlemy
 bowl
 beastlike
 bodywise
-bengalic
+bengalic 1
 bumpkinish
 buoyantness
 brinsell
