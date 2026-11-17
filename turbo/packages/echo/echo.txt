@@ -10375,7 +10375,7 @@ earwigging
 epiphanize
 electropositive
 enfranchisable
-exodromic
+exodromic 1
 exchanged
 ethnohistoric
 ethoxide
