@@ -6326,7 +6326,7 @@ fissipeda
 frags
 fluidity
 fuzzy
-funicle
+funicle 1
 flack
 futural
 fruitlets
