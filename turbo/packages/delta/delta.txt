@@ -1763,7 +1763,7 @@ devocalization
 drof
 deathward
 ductility
-docent
+docent 1
 downlier
 dispersonify
 deminudity
