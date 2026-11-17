@@ -16996,7 +16996,7 @@ defrication
 dampeners
 disemplaned
 dreidels
-dreikanter
+dreikanter 1
 deutomalar
 douricouli
 dreynt
