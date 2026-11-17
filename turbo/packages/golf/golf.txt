@@ -5336,7 +5336,7 @@ genuses
 gulfier
 glyconic
 grandiloquently 1
-glycopeptide
+glycopeptide 1
 galivant
 gynecomastism
 grandevity
