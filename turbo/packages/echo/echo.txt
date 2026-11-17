@@ -6298,7 +6298,7 @@ embowed
 enrut
 explainability
 experimentalize
-euclidean
+euclidean 1
 ens
 elastica
 emmenagogue
