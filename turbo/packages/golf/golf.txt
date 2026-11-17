@@ -10750,7 +10750,7 @@ gagers
 groggy
 gustiest
 geocentrically
-galewort
+galewort 1
 glyphograph
 gypsyry
 gedackt
