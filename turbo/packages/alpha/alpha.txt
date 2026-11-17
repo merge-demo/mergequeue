@@ -19863,7 +19863,7 @@ araguato
 armhole
 agnomen
 allotropes
-acapsular
+acapsular 1
 adeptest
 acquereur
 armies
