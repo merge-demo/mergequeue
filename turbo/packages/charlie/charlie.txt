@@ -11267,7 +11267,7 @@ childe
 conservation
 chloroamide
 chloroamine
-chloroaurate
+chloroaurate 1
 chloroaurite
 chlorobenzene
 centripetency
