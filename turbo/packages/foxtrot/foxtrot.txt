@@ -8325,7 +8325,7 @@ firmament
 fatherlike 1
 flapperish
 flatulentness
-fittiest
+fittiest 1
 fair
 foundling
 florulae
