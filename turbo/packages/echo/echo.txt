@@ -8497,7 +8497,7 @@ externally
 extramarital
 endball
 exculpation
-eleemosynariness
+eleemosynariness 1
 evolutive
 eupyrene
 empties
