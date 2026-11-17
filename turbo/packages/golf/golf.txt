@@ -4793,7 +4793,7 @@ gobiiform
 glucogenic
 glassware
 gravidly
-gainfulness
+gainfulness 1
 glaciered
 gages
 gifted
