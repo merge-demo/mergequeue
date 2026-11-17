@@ -11800,7 +11800,7 @@ euryon
 exaudi
 ethenoidal
 exaun 1
-earthrise
+earthrise 1
 euglenida
 ectothermic
 enwoven
