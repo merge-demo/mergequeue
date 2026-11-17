@@ -5875,7 +5875,7 @@ bretons
 butterbur 1
 bellwether
 bradmaker
-bellwort
+bellwort 1
 belock
 basimesostasis
 belomancy
