@@ -1282,7 +1282,7 @@ desulfurating
 dandyism
 disking
 datsuns
-disband
+disband 1
 demigardebras
 dissyllabize
 dysodyle
