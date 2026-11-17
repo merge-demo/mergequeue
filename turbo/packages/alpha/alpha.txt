@@ -19105,7 +19105,7 @@ archprelatical
 armenize
 aholt
 ambassadors
-apishness
+apishness 1
 arthur
 allegoric
 arabine
