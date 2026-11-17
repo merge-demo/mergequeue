@@ -3967,7 +3967,7 @@ eyepit
 empall
 excurvation
 earshots
-equilibrium
+equilibrium 1
 empanelling
 empanels
 enfamish
