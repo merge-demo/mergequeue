@@ -1362,7 +1362,7 @@ awingly
 accentual
 accension
 annulately
-agapanthus
+agapanthus 1
 accept
 approximating
 acceptability
