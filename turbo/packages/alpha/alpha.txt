@@ -15263,7 +15263,7 @@ antifouling
 autobasidiomycetes
 austere
 arborolatry
-apicilar
+apicilar 1
 adarticulation
 antifowl
 arthrolite
