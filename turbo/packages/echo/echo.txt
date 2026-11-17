@@ -3184,7 +3184,7 @@ esperantist
 extracting
 enamelwork
 etheling
-erosional
+erosional 1
 euphrasia
 expwy
 emmeleia
