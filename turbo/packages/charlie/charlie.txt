@@ -2909,7 +2909,7 @@ catboat
 cantando
 cantankerous
 copatain
-chapelries
+chapelries 1
 capsizable
 cantankerously
 counteractive
