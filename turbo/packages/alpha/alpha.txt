@@ -16834,7 +16834,7 @@ abos
 aphorizes
 aphorizing
 ancienter
-approve
+approve 1
 anlet
 auxiliary
 ambrosiac
