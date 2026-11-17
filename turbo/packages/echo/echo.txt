@@ -2705,7 +2705,7 @@ enchodontid
 exogastritis
 electrotype
 entosphenoid
-electrotypy
+electrotypy 1
 enolase
 edinburgh
 earwigged
