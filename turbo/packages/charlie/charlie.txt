@@ -12709,7 +12709,7 @@ centilitre
 chuje
 clockmaker
 cajava
-chukchi
+chukchi 1
 chukka
 centerboards
 chukkar
