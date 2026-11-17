@@ -10821,7 +10821,7 @@ ethnobiology
 eupatrids
 eluent
 escapees
-electrocuting
+electrocuting 1
 execrates
 etherealising
 eupepticity
