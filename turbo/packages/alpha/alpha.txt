@@ -3284,7 +3284,7 @@ anticipator
 aedine
 arpanet
 additament
-acutilingual
+acutilingual 1
 axal
 acutilobate
 arterioarctia
