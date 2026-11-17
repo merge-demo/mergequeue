@@ -13681,7 +13681,7 @@ erratum
 epistolizable
 exteriorness
 espec
-emotionlessness
+emotionlessness 1
 etiotropic
 eurygnathic
 exterminatrix
