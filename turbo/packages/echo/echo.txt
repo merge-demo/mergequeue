@@ -9767,7 +9767,7 @@ epyllion
 estivating
 erythronium
 equid
-elamp
+elamp 1
 eurhythmy
 exitious
 enthusiast
