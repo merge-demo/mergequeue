@@ -10841,7 +10841,7 @@ elaeoblastic
 enchase
 eisteddfodau
 euphotic
-entailable
+entailable 1
 eradicatory
 eulamellibranchiate
 equitability
