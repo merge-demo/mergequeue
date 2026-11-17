@@ -18073,7 +18073,7 @@ appraisement
 aproctous
 aproneer
 apronstring
-alanins
+alanins 1
 anhidrosis
 amyosthenia
 adminicle
