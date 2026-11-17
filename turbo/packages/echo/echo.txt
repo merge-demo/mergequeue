@@ -11331,7 +11331,7 @@ epitrochlear
 evenfall
 ennerve
 electroscission
-eupnoeic
+eupnoeic 1
 enervative
 exhaustibility
 evaluating
