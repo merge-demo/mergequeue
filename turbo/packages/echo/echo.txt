@@ -6819,7 +6819,7 @@ empoisoning
 electroimpulse
 entomol
 enneahedron
-erses
+erses 1
 eyepopper
 exocentric
 eupolyzoan
