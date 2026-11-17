@@ -8262,7 +8262,7 @@ erratums
 emulate
 endolaryngeal
 endplay
-equivoke
+equivoke 1
 enlaurel
 epitheliomatous
 epitaphian
