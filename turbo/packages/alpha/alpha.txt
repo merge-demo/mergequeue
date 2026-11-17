@@ -5211,7 +5211,7 @@ affect
 australia
 anaxonia
 aflicker
-authoritarianism
+authoritarianism 1
 amores
 affectations
 affected
