@@ -1002,7 +1002,7 @@ dithematic
 darius
 doubleprecision
 dark
-dinkeys 1
+dinkeys 2
 darked
 darkeys
 daneball
