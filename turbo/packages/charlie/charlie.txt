@@ -1688,7 +1688,7 @@ curelessly
 calorifics
 caricography
 ceraunia
-calorifier
+calorifier 1
 calorimetry
 calorimetrically
 calorimotor
