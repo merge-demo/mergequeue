@@ -5520,7 +5520,7 @@ cataclastic
 cataclinal
 cataclysmal
 coumbite
-cratometer
+cratometer 1
 cataclysmatist
 cataclysmic
 cataclysmically
