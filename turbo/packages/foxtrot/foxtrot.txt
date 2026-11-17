@@ -6429,7 +6429,7 @@ farmed
 facsimileing
 foppish
 farset
-fluorimetric
+fluorimetric 1
 fluorobenzene
 fructifies
 frizing
