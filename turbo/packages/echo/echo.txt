@@ -6220,7 +6220,7 @@ epitapher
 eradiation
 enostosis
 elisions
-erugatory
+erugatory 1
 editorialize
 enforcedly
 egrid
