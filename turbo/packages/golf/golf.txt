@@ -3856,7 +3856,7 @@ galleriies
 geometer
 greensick
 gastroptosis
-glossophorous
+glossophorous 1
 gonococcic
 gigelira
 gaolerness
