@@ -10749,7 +10749,7 @@ euphonic
 englacial
 enid
 ephemerae
-enclaret
+enclaret 1
 endorsee
 extort
 ephemeran
