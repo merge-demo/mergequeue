@@ -3520,7 +3520,7 @@ frubbish
 femoropopliteal
 fodderless
 fly
-flexuoseness
+flexuoseness 1
 figurers
 feud
 fitchets
