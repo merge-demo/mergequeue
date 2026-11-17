@@ -9477,7 +9477,7 @@ checkbook
 chachalaca
 cableways
 cirrigerous
-climatically
+climatically 1
 chaetites
 checkbooks
 calculated
