@@ -10152,7 +10152,7 @@ glideness
 goosefoot
 guardianly
 git
-gingely
+gingely 1
 gerund
 grown
 gabbiest
