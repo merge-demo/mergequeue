@@ -10585,7 +10585,7 @@ epicoeliac
 exhalant
 eucone
 escapology
-electrotechnic
+electrotechnic 1
 ecstasis
 expensing
 englobing
