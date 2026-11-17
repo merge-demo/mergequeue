@@ -13997,7 +13997,7 @@ embryo
 ecchymosis
 emboitement
 epitoniidae
-embargoist
+embargoist 1
 epicoracohumeral
 extralimital
 extrapolatory
