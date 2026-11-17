@@ -11837,7 +11837,7 @@ axfetch
 aparavidya
 analysers
 arcticologist
-abstentions
+abstentions 1
 aerides
 analyses
 acquisited
