@@ -7372,7 +7372,7 @@ footplate
 flakiness 1
 fortunous
 faujasite
-feedlots
+feedlots 1
 flyness
 findy
 forbidals
