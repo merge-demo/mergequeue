@@ -5506,7 +5506,7 @@ experimentalism
 edentulate
 episporangium
 enfatico
-enfeeblements
+enfeeblements 1
 experimenting
 evertors
 extraocular
