@@ -1395,7 +1395,7 @@ dayless
 decephalize
 diorites
 daviesite
-deleted
+deleted 1
 demilitarize
 dispel
 downdale
