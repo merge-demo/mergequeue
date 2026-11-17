@@ -3978,7 +3978,7 @@ enruin
 expiations 1
 embarrassingly
 edictum
-enfolded
+enfolded 1
 epiparodos
 egalite
 extramodal
