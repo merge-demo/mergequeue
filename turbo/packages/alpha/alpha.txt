@@ -21090,7 +21090,7 @@ acromyotonus
 ascocarp
 anticeremonialist
 airports
-autophony
+autophony 1
 apohyal
 anteposthumous
 architectures
