@@ -4688,7 +4688,7 @@ demits
 demitted
 denticulately
 dilutive
-duties
+duties 1
 dipterologist
 demiurgeous
 dropkicker
