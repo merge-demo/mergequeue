@@ -9213,7 +9213,7 @@ fishbed
 friarly
 foraneous
 facts
-frostfishes
+frostfishes 1
 flagmaking
 flannelbush
 flashier
