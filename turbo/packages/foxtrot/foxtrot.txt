@@ -8999,7 +8999,7 @@ fragile
 furiously
 frotting
 fregatidae
-freelances
+freelances 1
 fooder
 fissiparity
 fluffed
