@@ -20561,7 +20561,7 @@ compellingly
 curblike
 cosines
 checks
-compendency
+compendency 1
 compendia
 correlativity
 celtophobe
