@@ -3082,7 +3082,7 @@ botel
 brainwashing
 braza
 bimetal
-bedspreads
+bedspreads 1
 bakerite
 bestials
 brahman
