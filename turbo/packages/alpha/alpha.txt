@@ -3047,7 +3047,7 @@ agonia
 anura
 actinomycete
 allogeneity
-analcime
+analcime 1
 actinomycosistic
 auxillary
 alacrify
