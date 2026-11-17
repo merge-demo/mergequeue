@@ -9247,7 +9247,7 @@ fishable
 fretwise
 fascinery
 frontispieced
-fraktur
+fraktur 1
 fasciolet
 fresnel
 flavoury
