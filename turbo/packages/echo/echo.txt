@@ -12595,7 +12595,7 @@ extramurally
 emeus
 entorganism
 elephantidae
-epiphysitis
+epiphysitis 1
 equiaxial
 epexegeses
 exodic
