@@ -8995,7 +8995,7 @@ feeling
 freakery
 flimflammer
 fistle
-fragile
+fragile 1
 furiously
 frotting
 fregatidae
