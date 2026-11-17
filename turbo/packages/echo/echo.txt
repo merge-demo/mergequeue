@@ -12065,7 +12065,7 @@ excrescency
 eccentric
 eris
 excuseless
-extispex
+extispex 1
 engrossingly
 endemisms
 excreta
