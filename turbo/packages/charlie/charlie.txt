@@ -6884,7 +6884,7 @@ celtism
 cotyla
 clockroom
 contingencies
-compaction
+compaction 1
 caffein
 celtization
 cardiorrhexis
