@@ -13403,7 +13403,7 @@ cie
 cierge
 cierzo
 certificator
-comeuppance
+comeuppance 1
 courb
 cyesis
 cif
