@@ -15197,7 +15197,7 @@ conforms
 cade
 clairseach
 caplan
-cloisteral
+cloisteral 1
 cardiemphraxia
 compresses
 choosableness
