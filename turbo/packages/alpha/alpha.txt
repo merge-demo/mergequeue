@@ -3600,7 +3600,7 @@ adamhood
 amputating
 antimonite
 adelphian
-adelphic
+adelphic 1
 adelphous
 adipsous
 azole
