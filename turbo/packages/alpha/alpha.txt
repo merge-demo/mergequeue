@@ -9363,7 +9363,7 @@ alphabetizer 1
 auditioned
 antineoplastic
 adamancies
-angulatogibbous
+angulatogibbous 1
 anastomoses
 amidating
 antisudoral
