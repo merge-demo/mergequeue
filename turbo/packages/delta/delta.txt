@@ -5688,7 +5688,7 @@ dialysed
 disposit
 deplenish
 dialup
-depleteable
+depleteable 1
 ducape
 dichroite
 daftlike
