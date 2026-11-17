@@ -5707,7 +5707,7 @@ catathymic
 catatony
 catatonic
 coeloglossum
-countersignal
+countersignal 1
 catawampous
 catawamptiously
 cenogenetically
