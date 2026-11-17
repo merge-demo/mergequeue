@@ -6056,7 +6056,7 @@ bumfeg 1
 bituminization
 bequeathable
 blueball
-berat
+berat 1
 basketful
 benasty
 beholdable
