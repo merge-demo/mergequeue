@@ -3969,7 +3969,7 @@ excurvation
 earshots
 equilibrium
 empanelling
-empanels
+empanels 1
 enfamish
 ecumene
 emparchment
