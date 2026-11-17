@@ -9430,7 +9430,7 @@ displume
 deglut
 destructively
 digamma
-demilegato
+demilegato 1
 digammated
 dodgier
 disworkmanship
