@@ -3417,7 +3417,7 @@ episyllogism
 edeotomy
 eucirripedia
 examinate
-embogue
+embogue 1
 ennuyant
 ecalcavate
 errand
