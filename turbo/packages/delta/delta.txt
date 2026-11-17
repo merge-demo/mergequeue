@@ -9544,7 +9544,7 @@ digladiating
 decken
 denotate
 duellos
-diglots
+diglots 1
 disenchantment
 diglottist
 duumvir
