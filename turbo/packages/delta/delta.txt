@@ -11976,7 +11976,7 @@ doctrix
 disenclose
 daint
 diammine
-decimus
+decimus 1
 domicella
 distichous
 dagoes
