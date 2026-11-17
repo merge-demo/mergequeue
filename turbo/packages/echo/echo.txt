@@ -4266,7 +4266,7 @@ extoller
 emulsoids
 enteropathogenic
 exfiltration
-epidiascope
+epidiascope 1
 elohim
 enlay
 epicenes

@@ -1378,7 +1378,7 @@ gravitometer
 glyconeogenetic
 guttular
 gamily
-governs
+governs 1
 ganodonta
 garnison
 greetingless
