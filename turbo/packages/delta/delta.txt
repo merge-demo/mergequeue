@@ -2316,7 +2316,7 @@ dekaparsec
 dermatropic
 dactylioglyphic
 diagraphics
-danglement
+danglement 1
 drat
 didymus
 diacetyls 1
