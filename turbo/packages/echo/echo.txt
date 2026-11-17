@@ -3571,7 +3571,7 @@ enchantery
 emanent
 edifier
 extracellularly
-excelsin
+excelsin 1
 emydes
 eventerate
 exhibitable
