@@ -13972,7 +13972,7 @@ auscultator
 antiprestidigitation
 anamniota
 aquarians
-anergic
+anergic 1
 amzel
 antagonism
 alef

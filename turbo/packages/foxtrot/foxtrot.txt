@@ -10227,7 +10227,7 @@ franchisee
 fluxmeter
 finickingness
 flaxy
-frust
+frust 1
 fgrid
 fjarding
 firiness
