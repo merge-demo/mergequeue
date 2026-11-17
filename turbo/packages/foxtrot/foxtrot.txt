@@ -3638,7 +3638,7 @@ freshed
 foretype
 filigrane
 furlana
-frangula
+frangula 1
 fannier 1
 foregoneness
 fanes
