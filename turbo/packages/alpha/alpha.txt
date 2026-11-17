@@ -22408,7 +22408,7 @@ actify
 arcturia
 ananas
 agenda
-asteriskless
+asteriskless 1
 ans
 armourers
 astrogony
