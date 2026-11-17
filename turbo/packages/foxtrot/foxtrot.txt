@@ -11362,7 +11362,7 @@ flustrine
 fuchsin
 forfended
 furmenty
-foreassign
+foreassign 1
 fizzes
 flayed
 fornicated
