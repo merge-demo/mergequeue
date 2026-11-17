@@ -9932,7 +9932,7 @@ fantoms
 fumatorium
 freckled
 frigates
-flocculated
+flocculated 1
 flavin
 frightable
 frightens
