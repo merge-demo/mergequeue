@@ -3018,7 +3018,7 @@ fissioned
 forensical
 fawny
 felstones
-friendlies
+friendlies 1
 fibbers
 fustin
 fiberizes
