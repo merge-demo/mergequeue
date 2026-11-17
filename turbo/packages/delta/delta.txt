@@ -14439,7 +14439,7 @@ daltonian
 diverters
 disillusionized
 defaulter
-disjointing
+disjointing 1
 duopolist
 denies
 deindividualize
