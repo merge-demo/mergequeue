@@ -8613,7 +8613,7 @@ guerdonless
 gibbeting
 gaudeamuses 1
 geothermometer
-gaufrettes
+gaufrettes 1
 glucose
 geometrizing
 graziers
