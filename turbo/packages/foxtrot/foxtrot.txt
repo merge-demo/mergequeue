@@ -10593,7 +10593,7 @@ fuzzes
 fulgent
 fuddler
 fenderless
-foiling
+foiling 1
 foilsman
 filaceous
 fringillaceous
