@@ -16472,7 +16472,7 @@ bouffage
 balbriggan
 batitinan
 bellwine
-bebless
+bebless 1
 brushful
 barbouillage
 bluenoser

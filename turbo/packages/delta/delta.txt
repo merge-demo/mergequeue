@@ -1151,7 +1151,7 @@ detick
 digitogenin
 dasypus
 defencelessly
-duxelles
+duxelles 1
 dispersively
 daimios
 diploconical
