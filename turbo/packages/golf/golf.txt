@@ -6130,7 +6130,7 @@ genuflections
 gastroid
 geissorhiza
 griege
-geitonogamous
+geitonogamous 1
 gutturalization
 gnomologist
 gyroma
