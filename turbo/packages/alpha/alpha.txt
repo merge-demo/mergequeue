@@ -6816,7 +6816,7 @@ airflow
 antimoralist
 aglipayan
 airfoil
-airfoils
+airfoils 1
 airglows
 airgraphics
 anisometropia
