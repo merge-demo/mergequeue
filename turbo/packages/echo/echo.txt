@@ -5246,7 +5246,7 @@ exfiguration
 embryotrophy
 emanator
 epitomatory
-etaerio
+etaerio 1
 excommunicated
 exactor
 entreatable
