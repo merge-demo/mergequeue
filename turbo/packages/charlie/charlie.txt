@@ -14198,7 +14198,7 @@ coastguard
 circumesophageal
 circumfer
 circumferential
-circumferentially
+circumferentially 1
 circinately
 cawnie
 circumfluence
