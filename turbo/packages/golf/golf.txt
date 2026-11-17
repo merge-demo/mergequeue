@@ -10771,7 +10771,7 @@ gloam
 graminin 1
 gorhen
 gimbals
-garbline
+garbline 1
 gallium
 glamourie
 geranyl
