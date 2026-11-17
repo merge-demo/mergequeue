@@ -12585,7 +12585,7 @@ chronons
 chefrinia
 chronophotography
 chronoscopic
-chronoscopically
+chronoscopically 1
 cheesier
 catechisation
 columnize
