@@ -14559,7 +14559,7 @@ cysticercosis
 cysticerus
 cysticolous
 cystid
-cohogs
+cohogs 1
 cystidea
 cystinosis
 cotehardie
