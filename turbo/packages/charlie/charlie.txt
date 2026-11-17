@@ -2387,7 +2387,7 @@ canavalia
 cremerie
 crambly
 correlatively
-canc
+canc 1
 coffined
 canceled
 charlemagne

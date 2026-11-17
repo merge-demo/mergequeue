@@ -19140,7 +19140,7 @@ akenes
 archspirit
 aquadag
 arachnites
-ashiness
+ashiness 1
 aphidozer
 availers
 archturncoat
