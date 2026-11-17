@@ -2521,7 +2521,7 @@ fuzzily
 faldworth
 foremeant
 footsore
-feudal
+feudal 1
 functionize
 faired
 fastballs
