@@ -11241,7 +11241,7 @@ forbearable
 feuilleton
 filter
 functional
-flowerets
+flowerets 1
 fornent
 fabiform
 fatherkin
