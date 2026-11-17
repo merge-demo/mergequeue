@@ -4929,7 +4929,7 @@ fuster
 fergusite
 frenetic
 formly
-fchar
+fchar 1
 fluidised
 fluoresced
 forsooth
