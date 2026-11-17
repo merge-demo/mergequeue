@@ -18426,7 +18426,7 @@ castelli
 cognoscente
 cognoscing
 cognoscitive
-cognovit
+cognovit 1
 coude
 cognovits
 coherent
