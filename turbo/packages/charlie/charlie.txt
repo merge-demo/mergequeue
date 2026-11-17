@@ -9896,7 +9896,7 @@ clays
 calentural
 cameograph
 caffle
-catalogic
+catalogic 1
 chronobiology
 chemosphere
 collateral
