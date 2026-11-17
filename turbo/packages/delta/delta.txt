@@ -11718,7 +11718,7 @@ disasinate
 discreeter
 dispensation 1
 drawled
-dermography
+dermography 1
 dethrone
 desoxymorphine
 debtor
