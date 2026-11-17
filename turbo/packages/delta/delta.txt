@@ -2857,7 +2857,7 @@ donors
 decumanus
 daphnin
 diskos
-discretively
+discretively 1
 disposure
 dangle
 disjointedness
