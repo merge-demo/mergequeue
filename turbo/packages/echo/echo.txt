@@ -2244,7 +2244,7 @@ exocolitis
 effluve
 endoplasma
 epigonos
-exhume
+exhume 1
 encyclopedian
 encell
 epauletted
