@@ -1489,7 +1489,7 @@ ebbs
 eclegme
 escadrille
 effusively
-entasias
+entasias 1
 effuviate
 efl
 efph
