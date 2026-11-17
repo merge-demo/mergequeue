@@ -8002,7 +8002,7 @@ apprizer
 acutilinguae
 argasid
 assapan
-auscultations
+auscultations 1
 alternates
 aleurodes 1
 aleurometer
