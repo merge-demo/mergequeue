@@ -1884,7 +1884,7 @@ endamage
 eightball
 eclat
 earthstar
-ecuelle
+ecuelle 1
 epurate
 eptatretidae
 entrepeneur
