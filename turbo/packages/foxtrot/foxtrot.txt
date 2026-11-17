@@ -1508,7 +1508,7 @@ fetcher
 furibund
 furanose
 foundering
-flavanthrene
+flavanthrene 1
 fient
 forebodingness
 forestology
