@@ -7528,7 +7528,7 @@ gemstones
 giggling
 gloomfully
 glitch
-gemmer
+gemmer 1
 guessable
 gat
 gambeson

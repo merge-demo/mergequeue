@@ -3553,7 +3553,7 @@ captive
 caucus
 calvarias
 captives
-cocooned
+cocooned 1
 comatulae
 captor
 catechized
