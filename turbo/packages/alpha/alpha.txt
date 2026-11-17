@@ -5350,7 +5350,7 @@ applanate
 adenophthalmia
 aluminosity
 authorizations
-allmouth
+allmouth 1
 aspheterism
 avadavats
 albedograph
