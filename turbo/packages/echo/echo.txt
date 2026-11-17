@@ -910,7 +910,7 @@ extrastate
 electromechanical
 episedia
 encomiastic
-endosporous
+endosporous 1
 eriodictyon
 ectotoxin
 exampled
