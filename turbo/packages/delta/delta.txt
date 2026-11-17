@@ -12592,7 +12592,7 @@ definitise
 dephase
 disinvagination
 deepfroze
-debeak
+debeak 1
 directs
 distritbutes
 dargsman
