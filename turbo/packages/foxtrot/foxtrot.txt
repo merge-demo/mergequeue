@@ -5886,7 +5886,7 @@ ferrichloride
 furnishings
 featurely
 foresignify
-flocculent
+flocculent 1
 flushes
 flaxier
 flocker
