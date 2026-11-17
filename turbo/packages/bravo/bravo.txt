@@ -11604,7 +11604,7 @@ boardmen
 boardwalks
 battledored
 benefactrix
-bolis
+bolis 1
 brachyural
 biunivocal
 barche
