@@ -11957,7 +11957,7 @@ ancientness
 ataraxic
 anew
 amenism
-aricin
+aricin 1
 anapaite
 arterious
 acquiesence
