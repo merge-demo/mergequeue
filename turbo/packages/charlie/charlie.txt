@@ -1905,7 +1905,7 @@ catostomidae
 chaumer
 cambuca
 came
-camel
+camel 1
 comforted
 cameleer
 culverins
