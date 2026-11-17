@@ -2339,7 +2339,7 @@ arteriole
 annihil
 aulacodus
 archdukes
-ambrosterol
+ambrosterol 1
 androcles
 acierated
 acierates
