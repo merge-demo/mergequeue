@@ -686,7 +686,7 @@ eclogic
 egressor
 eclogite
 eclosion
-emasculative
+emasculative 1
 eclosions
 engaging
 excursionism
