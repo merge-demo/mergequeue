@@ -9080,7 +9080,7 @@ fenlander
 familiarization
 forespeaker
 featy
-flourisher
+flourisher 1
 firmance
 furbishable
 foxly
