@@ -422,7 +422,7 @@ flouting
 freeboard
 frows
 factful
-foredesk
+foredesk 1
 fusetron
 friendliwise
 festive
