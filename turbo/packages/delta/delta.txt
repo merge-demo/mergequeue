@@ -11740,7 +11740,7 @@ demasts
 discrepated
 dioptometry
 diskless
-discrepation
+discrepation 1
 dullardism
 dehydrogenize
 drawplate
