@@ -15765,7 +15765,7 @@ dumka
 dorp
 diphthongalize
 dorpers
-dorr
+dorr 1
 doomage
 dorsa
 dentiparous
