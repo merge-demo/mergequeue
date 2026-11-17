@@ -4225,7 +4225,7 @@ fetus
 fructose
 fadding
 fruitlessness
-finialed
+finialed 1
 fragmentally
 flagrant
 fibrilliform
