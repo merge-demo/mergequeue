@@ -8072,7 +8072,7 @@ embroiderers
 epiphloeum
 etherize
 essoign
-ergo
+ergo 1
 emotional
 exceptive
 equicrural
