@@ -10604,7 +10604,7 @@ dysporomorph
 drawfile
 diphtheritic
 deceptivity
-diplonema
+diplonema 1
 deuteric
 detritus 1
 dunnaged

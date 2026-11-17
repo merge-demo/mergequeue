@@ -16193,7 +16193,7 @@ balklines
 brotheler
 bragget
 bulla
-bristletail
+bristletail 1
 bayonetted
 bred
 brazilians
