@@ -8958,7 +8958,7 @@ erikite
 ephebes
 esrogs
 eclairissement
-ectotherm
+ectotherm 1
 expropriation
 entrepreneurial
 eryngos
