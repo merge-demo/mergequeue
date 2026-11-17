@@ -14937,7 +14937,7 @@ breaster
 breastfast
 bura
 bearing
-balantidium
+balantidium 1
 bolshevize
 breastheight
 baldie
