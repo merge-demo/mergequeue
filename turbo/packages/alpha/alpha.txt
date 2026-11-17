@@ -16956,7 +16956,7 @@ apyrases
 apyrexial
 apyrotype
 approbator
-ambrite
+ambrite 1
 animotheism
 apishamore
 aceturic
