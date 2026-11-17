@@ -13550,7 +13550,7 @@ drollist
 dissentment 1
 dissemination
 dantonist
-distributival
+distributival 1
 devaluation
 darlings
 divergence
