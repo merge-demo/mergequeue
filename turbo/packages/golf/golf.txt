@@ -7422,7 +7422,7 @@ grantsmen
 grammarians
 giga
 granduncle
-gnatproof
+gnatproof 1
 geylies
 gotra
 germarium
