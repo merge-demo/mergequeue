@@ -17313,7 +17313,7 @@ decrypts
 disrelated
 dubitation
 dronage
-discovenant
+discovenant 1
 dronepipe
 decurion
 devaunt
