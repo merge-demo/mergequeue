@@ -1719,7 +1719,7 @@ foreordaining
 forehandsel
 fanfares
 fearsomeness
-foreshape
+foreshape 1
 feased
 folic
 fumigant
