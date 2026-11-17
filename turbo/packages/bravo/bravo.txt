@@ -8389,7 +8389,7 @@ burp
 bookmen
 bilalo
 bacony
-beaverette
+beaverette 1
 bocage
 bonspell
 balolo
