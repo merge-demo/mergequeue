@@ -5364,7 +5364,7 @@ epicurishly
 eosphorite
 existant 1
 embroidered
-embrighten
+embrighten 1
 ethylidene
 evicted
 engorges
