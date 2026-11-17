@@ -9214,7 +9214,7 @@ dieldrins
 deferred
 dielectric 1
 doziest
-disparately
+disparately 1
 dismerit
 deputing
 discontinuor
