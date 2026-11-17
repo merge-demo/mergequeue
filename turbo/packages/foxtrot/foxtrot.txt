@@ -9162,7 +9162,7 @@ flock
 filicide
 flyaway
 furunculosis
-frenchiness
+frenchiness 1
 foolify
 formicaria
 fraena
