@@ -2587,7 +2587,7 @@ ferrocyanate
 ferroelectric
 fingerbreadth
 fattier
-forcet
+forcet 1
 franked
 foud
 fossicked
