@@ -1104,7 +1104,7 @@ generatively
 gashouses
 gearshifts
 gravitate
-graptolitic
+graptolitic 1
 gallants
 guillotining
 gwyniad
