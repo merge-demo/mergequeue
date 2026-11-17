@@ -15817,7 +15817,7 @@ agujon
 asport
 antiphona
 aminobarbituric
-antiphonally
+antiphonally 1
 antiphonary
 adulterize
 amathophobia
