@@ -5720,7 +5720,7 @@ gybed
 glossinas 1
 gertrude
 glowbard
-gloveress
+gloveress 1
 gimmaled
 gpad
 gestning
