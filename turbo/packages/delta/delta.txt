@@ -3415,7 +3415,7 @@ downrightness
 denationalization
 dissatisfy
 dowly
-deflocculate
+deflocculate 1
 deflocculating
 dermatoptera
 doubting
