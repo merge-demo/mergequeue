@@ -6884,7 +6884,7 @@ gannet
 glibly
 goodenia
 gestated
-gatling
+gatling 1
 gotten
 guyed
 gitterns
