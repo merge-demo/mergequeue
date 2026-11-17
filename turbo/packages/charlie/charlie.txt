@@ -9557,7 +9557,7 @@ chromogenous
 catechize
 cubiculum
 capacitively
-checkweighmen
+checkweighmen 1
 closeted
 checkwork
 cosmologist
