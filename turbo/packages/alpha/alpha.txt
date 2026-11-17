@@ -1260,7 +1260,7 @@ archminister
 antemask
 androlepsia
 amay
-acarophobia
+acarophobia 1
 acarotoxic
 aerognosy
 australopithecine
