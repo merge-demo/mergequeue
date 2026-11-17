@@ -10920,7 +10920,7 @@ aldine
 aimer
 alf
 affronter
-allamoth
+allamoth 1
 antiphilosophy
 amerindic
 allegorical
