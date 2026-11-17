@@ -6214,7 +6214,7 @@ geadephaga
 goaltender
 goanna
 grandmontine
-gushiness
+gushiness 1
 graddan
 grabbings
 glyptographic
