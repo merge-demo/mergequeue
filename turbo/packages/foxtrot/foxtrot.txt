@@ -4638,7 +4638,7 @@ fifo
 fogas
 formazyl
 francophilism
-factorizations
+factorizations 1
 fullnesses
 fanging
 frigidities
