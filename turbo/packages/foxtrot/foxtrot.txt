@@ -1026,7 +1026,7 @@ fluidities
 fretful
 filicornia
 flatboats
-finalists
+finalists 1
 farinometer
 farinose
 founce
