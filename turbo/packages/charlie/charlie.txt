@@ -926,7 +926,7 @@ cakewalker
 caressant
 carnotite
 caky
-clientelage
+clientelage 1
 cols
 caking
 collagist
