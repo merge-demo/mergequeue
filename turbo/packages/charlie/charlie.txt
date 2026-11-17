@@ -8862,7 +8862,7 @@ coffle
 crosshead
 cassinette
 ctenostomata
-cerned
+cerned 1
 characters
 chasmogamy
 companiable
