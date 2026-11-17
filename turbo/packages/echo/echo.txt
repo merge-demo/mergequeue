@@ -8093,7 +8093,7 @@ epiploce
 exacum
 epiplocele
 enthuse
-encircles
+encircles 1
 epiprecoracoid
 extrude
 elegant
