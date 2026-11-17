@@ -5502,7 +5502,7 @@ aminoquinoline
 amethystine
 aftercast
 aftercataract
-afterclause
+afterclause 1
 australasian
 acrostichic
 alt
