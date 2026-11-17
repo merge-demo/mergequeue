@@ -22458,7 +22458,7 @@ animalising
 astrometric
 astronaut
 apollinian
-asmodeus
+asmodeus 1
 astronavigator
 anodynic
 astronomy
