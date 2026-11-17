@@ -5476,7 +5476,7 @@ firearmed
 falsifiable
 fatalisms
 fley
-foxed
+foxed 1
 figless
 flem
 farkleberry
