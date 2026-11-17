@@ -14520,7 +14520,7 @@ adnoun 1
 allylate
 anthropographic
 ascenseur
-anthropol
+anthropol 1
 anthropolatry
 antigraphy
 askesis
