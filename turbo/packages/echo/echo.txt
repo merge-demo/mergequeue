@@ -9504,7 +9504,7 @@ enstore
 es
 equipondious
 evolutility
-escry
+escry 1
 escrime
 ephyrula
 embryoferous
