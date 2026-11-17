@@ -25988,7 +25988,7 @@ corvo
 chapel
 chemosensitive
 chamade
-corvoid
+corvoid 1
 corvorant
 cantiga
 corvus
