@@ -7593,7 +7593,7 @@ forjudgment
 fatimid
 fgn
 fructuarius
-funiculus
+funiculus 1
 fanciers
 flintworker
 freezable
