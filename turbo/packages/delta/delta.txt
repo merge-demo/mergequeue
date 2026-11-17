@@ -5817,7 +5817,7 @@ dysraphia
 drengh
 deploration
 dismarshall
-disauthentic
+disauthentic 1
 dextrocerebral
 depositors
 dowel
