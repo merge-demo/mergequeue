@@ -2624,7 +2624,7 @@ asiden
 acquisite
 arricciati
 appraiser
-alferes
+alferes 1
 amidase
 acquisitive
 acquisitively
