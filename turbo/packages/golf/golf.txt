@@ -10864,7 +10864,7 @@ geomagnetician
 gush
 gonidium
 gyri
-grozet
+grozet 1
 guideress
 graduation
 guaranteer
