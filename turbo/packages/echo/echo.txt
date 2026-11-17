@@ -5670,7 +5670,7 @@ esurience
 exomorphism
 euploid
 extrarenal
-endophasic
+endophasic 1
 erotism
 entrough
 ergastic
