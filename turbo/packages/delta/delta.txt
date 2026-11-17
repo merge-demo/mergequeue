@@ -3741,7 +3741,7 @@ dreadful
 dytiscidae
 dehorner
 diplography
-dehorners
+dehorners 1
 desiredness
 dehorning
 disconcertingly
