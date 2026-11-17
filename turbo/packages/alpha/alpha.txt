@@ -3354,7 +3354,7 @@ aphthongia
 adamantoblast
 amintor
 archery
-amblystoma
+amblystoma 1
 absentee
 atresic
 atelets
