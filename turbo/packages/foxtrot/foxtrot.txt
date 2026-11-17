@@ -1227,7 +1227,7 @@ fiddley
 floatmen
 forediscern
 futiley
-fascinate
+fascinate 1
 fixator
 fissure
 foredoing
