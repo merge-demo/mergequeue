@@ -1088,7 +1088,7 @@ earock
 equipoised
 envined
 edificatory
-epimerize
+epimerize 1
 expostulatively
 elliptic
 ephahs
