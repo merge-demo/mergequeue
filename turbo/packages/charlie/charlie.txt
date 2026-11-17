@@ -11215,7 +11215,7 @@ chlorhydric
 chloriamb
 chloriambus
 chlorid
-chloridate
+chloridate 1
 cardol
 conturb
 chloridated
