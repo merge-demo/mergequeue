@@ -7474,7 +7474,7 @@ biomicroscope
 bowne
 besant
 burtree
-berhymed
+berhymed 1
 beamer
 burd
 bistre
