@@ -10171,7 +10171,7 @@ distillation
 dinging
 dingleberry
 dreidl
-denuclearize
+denuclearize 1
 doven
 dings
 despises
