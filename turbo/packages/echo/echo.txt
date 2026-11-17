@@ -6789,7 +6789,7 @@ eutrophies
 exostema
 elaphine
 enrooted
-entoil
+entoil 1
 eggler
 entom
 extender
