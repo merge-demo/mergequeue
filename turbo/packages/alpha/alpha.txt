@@ -23509,7 +23509,7 @@ augure
 alliteratively
 augured
 abeigh
-anteroposteriorly
+anteroposteriorly 1
 anarcotin
 astasia
 algaeology
