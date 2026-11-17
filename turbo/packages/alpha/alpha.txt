@@ -989,7 +989,7 @@ aggregable
 abstertion
 anthropopathic
 abstinential
-abstinently
+abstinently 1
 abstractable
 alsikes
 acceptavit

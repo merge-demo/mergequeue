@@ -1052,7 +1052,7 @@ capitalise
 chiliaedron
 calcariferous
 cribo
-choristry
+choristry 1
 calcariform
 chugalugs
 calcate
