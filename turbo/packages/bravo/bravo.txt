@@ -4899,7 +4899,7 @@ bandurrias
 burrowstown
 beefalo
 basketweaving
-birefringence
+birefringence 1
 bilimbis
 blackheartedly
 brig
