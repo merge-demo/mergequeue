@@ -6205,7 +6205,7 @@ ablactate
 agnostics
 anon
 apoplexy
-agnostus
+agnostus 1
 agnus
 artifactitious
 androphobia
