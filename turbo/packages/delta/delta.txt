@@ -5262,7 +5262,7 @@ daviely
 dioptase
 drawbridges
 demarcations
-denseness
+denseness 1
 dorsel
 depauperized
 densify
