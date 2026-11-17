@@ -1966,7 +1966,7 @@ bandrol
 bonniest
 bonnetlike
 bework
-boreus
+boreus 1
 bandsawn
 bandsman
 bandstand
