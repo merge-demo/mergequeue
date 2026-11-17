@@ -19161,7 +19161,7 @@ arcifera
 arcifinious
 alluvion
 arciform
-archoptosis
+archoptosis 1
 asexualise
 arcite
 adance
