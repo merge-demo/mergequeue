@@ -18407,7 +18407,7 @@ duolog
 duologues
 doubtedly
 disembarkment
-demilune
+demilune 1
 deluster
 duopsonistic
 devota
