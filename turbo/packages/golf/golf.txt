@@ -8139,7 +8139,7 @@ glowflies
 granulators
 gynaecocracy
 guanidins
-gnatsnap
+gnatsnap 1
 goatling
 granulet
 gorgonising
