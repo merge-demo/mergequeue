@@ -4052,7 +4052,7 @@ fungoid
 finishable
 fluocerine
 flemer
-fruitery
+fruitery 1
 fabrication
 femininely
 feaze
