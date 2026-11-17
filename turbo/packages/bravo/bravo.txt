@@ -4417,7 +4417,7 @@ barrators
 bitstone
 bkcy
 blubberer
-batis
+batis 1
 befleas
 belchers
 bypassing
