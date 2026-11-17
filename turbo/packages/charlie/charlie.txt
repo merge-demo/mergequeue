@@ -24281,7 +24281,7 @@ conjugates
 conjuncture
 const
 cerebritis
-crescendi
+crescendi 1
 chirographer
 confessing
 chaka
