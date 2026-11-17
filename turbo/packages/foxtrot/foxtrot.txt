@@ -9721,7 +9721,7 @@ fanworts
 fuchsins
 fevery
 fretworks
-flexile
+flexile 1
 flaccidness
 frenchwomen
 frenetical
