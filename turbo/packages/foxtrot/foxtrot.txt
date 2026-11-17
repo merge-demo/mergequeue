@@ -8921,7 +8921,7 @@ frustule
 fanmaking
 fourre
 friedelite
-feverishly
+feverishly 1
 frigiddaria
 folktales
 fanatico
