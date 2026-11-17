@@ -2375,7 +2375,7 @@ drugget
 deciceronize
 dino
 decidedly
-dewclaw
+dewclaw 1
 dystonia
 decidence
 destabilized
