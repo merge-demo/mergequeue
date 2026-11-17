@@ -8440,7 +8440,7 @@ degreed
 diamagnet
 diamagnetic
 diamagnetism
-dredging
+dredging 1
 ditrochee
 deflexed
 dooxidize

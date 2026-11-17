@@ -3726,7 +3726,7 @@ extravagantness
 enfranchise
 erodability
 expedited
-enslaving
+enslaving 1
 encumbers
 enfetter
 embrocates

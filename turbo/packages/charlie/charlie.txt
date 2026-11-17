@@ -9101,7 +9101,7 @@ charshaf
 charsingha
 container
 charta
-curialities
+curialities 1
 chartable
 charter
 charterers
