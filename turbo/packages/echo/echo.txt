@@ -6979,7 +6979,7 @@ entrec
 escalin
 effecting
 eneugh
-excisor
+excisor 1
 encauma
 entrelac
 emetically
