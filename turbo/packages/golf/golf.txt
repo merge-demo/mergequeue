@@ -7623,7 +7623,7 @@ gerenda
 garpike
 gilbertite
 gathic
-gubernacula
+gubernacula 1
 guanases
 glacialist
 gracefuller
