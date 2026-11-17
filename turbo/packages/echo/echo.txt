@@ -1942,7 +1942,7 @@ eupatorine
 epinette
 empathically
 enthelmintha
-endict
+endict 1
 elementalist
 ejaculatory
 erdvark
