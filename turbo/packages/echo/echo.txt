@@ -5950,7 +5950,7 @@ enhunger
 emissary
 enoptromancy
 epitheliogenetic
-eruc
+eruc 1
 equestriennes
 exemplupla
 erythrose
