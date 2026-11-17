@@ -1795,7 +1795,7 @@ dilemma
 debark
 dropseed
 drawknife
-debarking
+debarking 1
 dishpanful
 discede
 dwelled
