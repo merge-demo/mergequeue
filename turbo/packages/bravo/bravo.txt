@@ -3706,7 +3706,7 @@ beild
 baddest
 batting
 battings
-battledores
+battledores 1
 bagheli
 bronteon
 battlefronts
