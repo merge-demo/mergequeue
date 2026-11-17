@@ -16052,7 +16052,7 @@ absolvable
 archprince
 antipot
 architectonica
-amusing
+amusing 1
 antirennin
 armatured
 antirenter
