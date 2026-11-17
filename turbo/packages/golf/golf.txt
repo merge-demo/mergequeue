@@ -8446,7 +8446,7 @@ gandul
 gyring
 grapestone
 gravelroot
-gaussbergite
+gaussbergite 1
 gallstones
 gentisic
 goldbricks
