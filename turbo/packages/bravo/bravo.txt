@@ -12597,7 +12597,7 @@ bionomist
 bonorum
 bisector
 balaamite
-bagatelle
+bagatelle 1
 basalt
 bills
 brainchild
