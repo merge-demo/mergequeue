@@ -24877,7 +24877,7 @@ crepitation
 cheilion
 conveyers
 cardecu
-corial
+corial 1
 catenary
 comous
 cointersecting
