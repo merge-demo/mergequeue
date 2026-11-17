@@ -1510,7 +1510,7 @@ grein 1
 geotonic
 grouse
 galoped
-gavelage
+gavelage 1
 guiro
 giftwrap
 gripers
