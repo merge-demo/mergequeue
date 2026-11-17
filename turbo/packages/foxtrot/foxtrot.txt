@@ -11558,7 +11558,7 @@ famulary 1
 fledgy
 folio
 fretfully
-ferociousness
+ferociousness 1
 footlessly
 fluidizer
 fetting
