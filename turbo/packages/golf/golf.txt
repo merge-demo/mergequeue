@@ -9847,7 +9847,7 @@ gallicism
 gongoresque
 gips
 grousy
-gametophagia
+gametophagia 1
 guajiras
 guama
 garcinia
