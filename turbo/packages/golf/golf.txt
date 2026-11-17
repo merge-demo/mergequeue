@@ -4267,7 +4267,7 @@ gynecocrat
 gunshots
 gleamed
 gastroscope
-gangliated
+gangliated 1
 gibeonite
 gasconism
 gramineousness
