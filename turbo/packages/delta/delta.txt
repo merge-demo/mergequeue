@@ -10386,7 +10386,7 @@ dipartite
 dipartition
 dominicks
 dekkos
-dictyostelic
+dictyostelic 1
 disreputable
 dismayingness
 diphasic
