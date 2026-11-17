@@ -2645,7 +2645,7 @@ farmyardy
 fabric
 falanaka
 freshes
-frenched
+frenched 1
 fluocerite
 frumpling
 ferrumination
