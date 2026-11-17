@@ -13734,7 +13734,7 @@ esteemed
 educating
 elfhood
 euphemised
-expunction
+expunction 1
 emblazoning
 extersive
 encatarrhaphy
