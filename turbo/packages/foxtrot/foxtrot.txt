@@ -1043,7 +1043,7 @@ forrel
 ferash
 freshening
 forensics
-fletcherize
+fletcherize 1
 folates
 farmership
 familiarness
