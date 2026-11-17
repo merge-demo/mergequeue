@@ -18266,7 +18266,7 @@ dippy
 deuterogamist
 draffs
 discordia
-divot
+divot 1
 distream
 dorsimedian
 dunitic
