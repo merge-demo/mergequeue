@@ -1372,7 +1372,7 @@ garnetlike
 grabbles
 greenhide
 gorb
-gorki
+gorki 1
 gastrostegal
 gravitometer
 glyconeogenetic
