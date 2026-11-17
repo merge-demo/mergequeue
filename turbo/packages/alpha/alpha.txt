@@ -24684,7 +24684,7 @@ ackeys
 adenemphractic
 accordant
 averment
-anopheline
+anopheline 1
 averments
 admove
 aeneid
