@@ -13475,7 +13475,7 @@ cylindricule
 cylindriform
 calpack
 cylindrocylindric
-choleric
+choleric 1
 curiatii
 counterfeiter
 coughroot
