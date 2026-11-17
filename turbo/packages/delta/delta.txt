@@ -15767,7 +15767,7 @@ diphthongalize
 dorpers
 dorr
 doomage
-dorsa
+dorsa 1
 dentiparous
 demountability 1
 dramatizer
