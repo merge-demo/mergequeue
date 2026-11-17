@@ -8700,7 +8700,7 @@ ejecta
 equipotential
 exconjugant
 epulotic
-equiprobably
+equiprobably 1
 eldfather
 equiproportional
 ebulliently
