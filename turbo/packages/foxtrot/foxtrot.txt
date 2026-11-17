@@ -3936,7 +3936,7 @@ fraple
 french
 ferrocyanogen
 falsehearted
-furrowed
+furrowed 1
 folioing
 fireboxes
 flemish
