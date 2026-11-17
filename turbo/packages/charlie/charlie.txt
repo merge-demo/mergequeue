@@ -13306,7 +13306,7 @@ cycloplegic
 chrysolitic
 cyclopteridae
 centerwise
-cyclopteroid
+cyclopteroid 1
 compactification
 czarist
 cyclorama
