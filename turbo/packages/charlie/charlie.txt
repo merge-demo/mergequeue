@@ -18881,7 +18881,7 @@ coliseum
 chancelor
 colossus
 charlatanship
-cestoid
+cestoid 1
 colistin
 coypou
 colitic
