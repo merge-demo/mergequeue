@@ -9005,7 +9005,7 @@ fissiparity
 fluffed
 filmier
 flaxwort
-fustian
+fustian 1
 fractus
 forwork
 fricassee
