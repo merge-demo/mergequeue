@@ -11518,7 +11518,7 @@ bullae
 bemurmurs
 blunged
 bourrasque
-blunk
+blunk 1
 berrypicker
 bdellid
 blameworthiness
