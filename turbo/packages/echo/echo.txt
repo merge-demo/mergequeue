@@ -12507,7 +12507,7 @@ emeses
 epistemological
 edulcorator
 embezzle
-exit
+exit 1
 encrypted
 exite
 eranist
