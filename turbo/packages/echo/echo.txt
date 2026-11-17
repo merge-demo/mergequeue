@@ -3113,7 +3113,7 @@ etheriidae
 entombed 1
 epitomised
 elodeas
-enfaced
+enfaced 1
 esthetically
 elodes
 eloge
