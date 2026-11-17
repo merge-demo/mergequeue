@@ -1403,7 +1403,7 @@ emetins
 epidote
 exterous
 endowing
-ericoid
+ericoid 1
 entosterna
 erythromelalgia
 excoct
