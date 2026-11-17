@@ -7504,7 +7504,7 @@ degger
 dibase
 denitrify
 disentwine
-desolatingly
+desolatingly 1
 denda
 deusan
 drosera 1
