@@ -5228,7 +5228,7 @@ gatherum
 gibbals
 gourding
 guardianships
-girouette
+girouette 1
 grandiosity
 gleys
 giganticidal
