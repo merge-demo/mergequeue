@@ -16555,7 +16555,7 @@ cloistering
 comal
 croupes
 chirm
-cloisterly
+cloisterly 1
 cloisterlike
 cowinners
 carburization
