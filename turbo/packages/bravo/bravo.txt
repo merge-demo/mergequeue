@@ -9890,7 +9890,7 @@ bewhisper
 bassinets
 bonnocks
 biffin
-bitterer
+bitterer 1
 bradburya
 baygall
 babasco
