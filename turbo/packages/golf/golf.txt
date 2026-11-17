@@ -5221,7 +5221,7 @@ garnisheed
 gleeks
 gleety
 glottidean
-glottiscope
+glottiscope 1
 gangland
 gastriloquist
 gatherum
