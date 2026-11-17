@@ -7703,7 +7703,7 @@ erythrine
 enfevered
 epidemiography
 elytroplastic
-explainingly
+explainingly 1
 epeirogeny
 equilibration
 ecostate
