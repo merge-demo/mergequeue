@@ -2350,7 +2350,7 @@ fiftyfold
 formalizing
 firecoat
 featherstitching
-ferae
+ferae 1
 fatal
 fairyship
 fronton
