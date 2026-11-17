@@ -9459,7 +9459,7 @@ expand
 ecbolics
 embedment
 eam
-euryale
+euryale 1
 eses
 erythron
 egests
