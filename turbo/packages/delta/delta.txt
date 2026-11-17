@@ -16321,7 +16321,7 @@ diaspores
 dumpiness
 downsized 1
 druggeries
-dochmiac
+dochmiac 1
 duchess
 discobolus
 dismasts
