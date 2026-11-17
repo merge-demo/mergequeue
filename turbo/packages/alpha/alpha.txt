@@ -2382,7 +2382,7 @@ acyloxy
 adamances
 autosymbolic
 abortionist
-abator
+abator 1
 adjection
 acrospired
 anticritically
