@@ -1747,7 +1747,7 @@ engler
 eulogisation
 extendedly
 epanorthoses
-enswathe
+enswathe 1
 evan
 eyepiece
 enrapturer
