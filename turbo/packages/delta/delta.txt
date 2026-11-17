@@ -2959,7 +2959,7 @@ deducibility
 deducted
 disseisoress
 doxycycline
-deductible
+deductible 1
 depositional
 diaphanotype
 describers
