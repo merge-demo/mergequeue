@@ -838,7 +838,7 @@ albright
 allergy
 assertors
 astringents
-aerosols
+aerosols 1
 artinesses
 acesodyne
 alnitak

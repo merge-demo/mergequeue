@@ -11688,7 +11688,7 @@ cadmium
 caramelin
 cocomats
 columbian
-curdiest
+curdiest 1
 chondrify
 chondrification
 cygnine
