@@ -3016,7 +3016,7 @@ grammatical
 graspable
 glitteringly
 gibbed
-gyrostatically
+gyrostatically 1
 gromet
 genii
 giraffidae
