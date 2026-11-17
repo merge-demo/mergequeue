@@ -7290,7 +7290,7 @@ bete
 buccolingual
 brazera
 bufidin
-bursters
+bursters 1
 borides 1
 betear
 betel
