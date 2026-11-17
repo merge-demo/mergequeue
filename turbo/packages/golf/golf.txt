@@ -10490,7 +10490,7 @@ gumweeds
 gramenite
 gouldian
 gregal
-gluiest
+gluiest 1
 gimballed
 geyserite
 grandmas
