@@ -5400,7 +5400,7 @@ example
 elsewhither
 electronvolt
 ergotization
-endowment
+endowment 1
 ectene
 excantation
 endpoints
