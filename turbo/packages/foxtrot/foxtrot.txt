@@ -10466,7 +10466,7 @@ fidged
 faceplate
 frostfish
 forcite
-frostbitten
+frostbitten 1
 frosty
 frictionable
 feuillet
