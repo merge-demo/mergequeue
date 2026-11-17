@@ -12414,7 +12414,7 @@ eighteen
 enlimn
 exhumatory
 emancipations
-exfiltrate
+exfiltrate 1
 equilibrial
 electrolysing
 exhuming
