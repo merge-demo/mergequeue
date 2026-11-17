@@ -6686,7 +6686,7 @@ flouts
 feudary
 fogfruits
 frizel
-fluerics
+fluerics 1
 fasciculated
 florae
 formicariae
