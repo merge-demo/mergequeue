@@ -7015,7 +7015,7 @@ frison
 fondues
 fictionistic
 fusees
-floriferousness
+floriferousness 1
 finagled
 flagellate
 fireboat
