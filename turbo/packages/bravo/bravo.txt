@@ -3569,7 +3569,7 @@ bathysphere
 bigmouths
 boliviano
 bathythermograph
-bipartite
+bipartite 1
 bathmat
 bathmats
 broodsac
