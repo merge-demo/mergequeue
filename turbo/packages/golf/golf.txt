@@ -1102,7 +1102,7 @@ genically
 genecologically
 generatively
 gashouses
-gearshifts
+gearshifts 1
 gravitate
 graptolitic
 gallants
