@@ -11245,7 +11245,7 @@ brancher 1
 bridgeable
 bescouring
 bullfight
-bewail
+bewail 1
 burez
 brightening
 biod 1
