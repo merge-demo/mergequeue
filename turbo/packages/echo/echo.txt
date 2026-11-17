@@ -5376,7 +5376,7 @@ excercise
 explicators
 esquiline
 empyreum
-eophyte
+eophyte 1
 encashment
 eccentrometer
 endothermal
