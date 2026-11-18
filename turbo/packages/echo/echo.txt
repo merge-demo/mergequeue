@@ -10751,7 +10751,7 @@ enid
 ephemerae
 enclaret
 endorsee
-extort
+extort 1
 ephemeran
 extramoralist
 eigenvector
