@@ -17860,7 +17860,7 @@ ballistocardiogram
 bus
 busaos
 bawsunt
-bine
+bine 1
 busbar
 bedbugs
 busbars
