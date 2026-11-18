@@ -6573,7 +6573,7 @@ grandaddy
 genesiac
 gpcd 1
 glaziest
-gemminess
+gemminess 1
 gnatty
 grovelingly
 gleditsia
