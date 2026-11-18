@@ -18460,7 +18460,7 @@ distrusts
 diddler
 duplicious
 danner
-duality
+duality 1
 duplicitously
 disprizing
 dol
