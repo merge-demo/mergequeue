@@ -8288,7 +8288,7 @@ exactions
 epithalline
 exotism
 elastase
-einstein
+einstein 1
 earthwards
 electropuncturation
 ecumenicality
