@@ -4339,7 +4339,7 @@ adrogate
 antialbumid
 anthranilic
 antihygienic
-ascript
+ascript 1
 acetmethylanilide
 adrowse
 arecaine
