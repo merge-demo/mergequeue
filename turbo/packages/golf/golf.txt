@@ -9230,7 +9230,7 @@ geoscience
 gibberosity
 grippleness
 grazier 1
-gryllotalpa
+gryllotalpa 1
 griqualander
 geminis
 gardenmaking
