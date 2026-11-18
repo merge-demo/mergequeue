@@ -516,7 +516,7 @@ cades
 ceremoniary
 chainmaking
 cadet
-canonize
+canonize 1
 cadets
 cataleptoid
 cadetship
