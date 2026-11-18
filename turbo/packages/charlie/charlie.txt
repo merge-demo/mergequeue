@@ -30098,7 +30098,7 @@ chromatrope
 cingulated
 crowed
 crower
-crowers
+crowers 1
 conductors
 centuried
 crowfeet
