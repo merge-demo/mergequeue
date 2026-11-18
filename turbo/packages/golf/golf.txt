@@ -1151,7 +1151,7 @@ galette
 grouses
 goninidia
 gastrogastrotomy
-genin
+genin 1
 genio
 gnawings
 geochronologist
