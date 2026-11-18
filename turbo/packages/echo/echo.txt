@@ -807,7 +807,7 @@ emplection
 extravisceral 1
 evincibly
 electrophotography
-ectasis
+ectasis 1
 endothia
 enoil
 exequies
