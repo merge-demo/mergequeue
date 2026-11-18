@@ -835,7 +835,7 @@ extradecretal
 encrust
 ectypography
 epitheton
-entrecote
+entrecote 1
 epop
 exulate
 epistolography
