@@ -14813,7 +14813,7 @@ demagogic
 doctorhood
 doctorial
 disadjust
-doctorially
+doctorially 1
 doctoring
 doctorize
 distinctness
