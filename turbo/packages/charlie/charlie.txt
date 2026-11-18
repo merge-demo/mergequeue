@@ -9077,7 +9077,7 @@ canape
 charpoys
 costing
 canewares
-cirmcumferential
+cirmcumferential 1
 charqui
 canelike
 christly

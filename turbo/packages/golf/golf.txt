@@ -9547,7 +9547,7 @@ ger
 gastrophthisis
 gastrocentrous 1
 greets
-geldability
+geldability 1
 grouts
 gabblers
 grouze
