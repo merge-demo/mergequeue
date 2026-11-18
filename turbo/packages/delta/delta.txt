@@ -10918,7 +10918,7 @@ dispenses
 doublethinking
 dorsoradial
 digressions
-disadvance
+disadvance 1
 disadvancing
 disadvantageousness
 ditetragonal
