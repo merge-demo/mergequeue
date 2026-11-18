@@ -1400,7 +1400,7 @@ electrodialyses
 electrometrically
 expandedness
 emetins
-epidote
+epidote 1
 exterous
 endowing
 ericoid
