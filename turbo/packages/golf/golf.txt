@@ -4305,7 +4305,7 @@ gynetype
 gymnadenia
 glazieries
 glazings
-gynostegigia
+gynostegigia 1
 grieves
 gippy
 grads
