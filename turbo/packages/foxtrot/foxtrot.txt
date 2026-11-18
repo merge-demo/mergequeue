@@ -4049,7 +4049,7 @@ finish
 flatling
 fletchings
 fungoid
-finishable
+finishable 1
 fluocerine
 flemer
 fruitery
