@@ -11846,7 +11846,7 @@ eustacy
 enlace
 excave
 emphasize
-eructated
+eructated 1
 entoperipheral
 extancy
 elutes
