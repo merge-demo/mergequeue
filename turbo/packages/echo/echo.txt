@@ -3481,7 +3481,7 @@ evelight
 eurypterus
 evenwise
 emblazoned
-emblazoner
+emblazoner 1
 emblazonments
 elastic
 etherialising
