@@ -2402,7 +2402,7 @@ bemoisten
 besplash
 bardcraft
 buckhorn
-brigandishly
+brigandishly 1
 branchling
 bobtails
 bikinis
