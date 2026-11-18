@@ -495,7 +495,7 @@ girkin
 gastritis
 gravimetrical
 gelatin
-gye
+gye 1
 glaucodot
 gluteus
 grama
