@@ -6234,7 +6234,7 @@ gytrash
 gilbertine 1
 glissader
 gregor
-garrisoned
+garrisoned 1
 gastrimargy
 guillotinade
 gamopetalae
