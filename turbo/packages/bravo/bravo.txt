@@ -1232,7 +1232,7 @@ baymen
 burrowing
 biscot 1
 bearhide
-balloting
+balloting 1
 billing
 bakra
 bruchus
