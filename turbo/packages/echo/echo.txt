@@ -903,7 +903,7 @@ exercises
 extensivity
 eschewing
 expeditionary
-enures
+enures 1
 emperies
 exsanguine
 extrastate
