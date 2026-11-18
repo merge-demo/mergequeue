@@ -1770,7 +1770,7 @@ echinital
 evitation
 everliving
 euphonous
-effractor
+effractor 1
 enosis
 escalloping
 epauleted
