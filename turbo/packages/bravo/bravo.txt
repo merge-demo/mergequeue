@@ -10784,7 +10784,7 @@ batyphone
 butyrometric
 bienvenu
 boul
-bavin
+bavin 1
 baulkier
 betokener
 birthrate
