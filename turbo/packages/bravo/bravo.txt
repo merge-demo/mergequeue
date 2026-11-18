@@ -15477,7 +15477,7 @@ bemusing
 bargain
 bilious
 brilliantly
-brilliantwise
+brilliantwise 1
 brilliolette
 brills
 baculites
