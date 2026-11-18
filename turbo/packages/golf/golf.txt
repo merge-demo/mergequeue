@@ -7388,7 +7388,7 @@ glochidial
 gossips 1
 glomerule
 gilthead
-glyptograph
+glyptograph 1
 gallach
 gynostemia
 gastromalacia
