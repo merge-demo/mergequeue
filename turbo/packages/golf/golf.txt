@@ -2948,7 +2948,7 @@ geomant
 gasaliers
 goluptious
 glutinousness
-gigantomachy
+gigantomachy 1
 glueing
 gumshoeing
 glitterance
