@@ -10356,7 +10356,7 @@ gels
 gallivorous
 glaur
 grouseberry 1
-gelate
+gelate 1
 garretmaster
 gynic
 gallops
