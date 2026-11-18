@@ -30546,7 +30546,7 @@ crucibulum
 crankery
 conservant
 contraprops
-cubitale
+cubitale 1
 caninal
 cubitalia
 concentering
