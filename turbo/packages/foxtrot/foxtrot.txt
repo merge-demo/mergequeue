@@ -7716,7 +7716,7 @@ fallal
 feudality
 fruggin
 flyeater
-foreknew
+foreknew 1
 farcically
 florian
 freeish 1
