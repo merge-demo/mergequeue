@@ -12819,7 +12819,7 @@ efecks
 exoticist
 eudipleural
 encircled
-exoterically
+exoterically 1
 erythremomelalgia
 equity
 exoticness
