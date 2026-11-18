@@ -2050,7 +2050,7 @@ elamite
 elamitish
 electrophorese
 evilly
-eudialyte
+eudialyte 1
 elanus
 enantiopathia
 extravenate
