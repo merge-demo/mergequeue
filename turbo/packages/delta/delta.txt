@@ -6474,7 +6474,7 @@ desc
 downrightly
 dequeues
 descant
-dentinoblast
+dentinoblast 1
 disencumber
 diffusedly
 deranged
