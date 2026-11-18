@@ -9247,7 +9247,7 @@ graphitoid
 grisly
 glagolitic
 gravigrade
-grahamite
+grahamite 1
 geochronological
 grist
 guanase
