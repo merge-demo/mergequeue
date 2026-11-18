@@ -3916,7 +3916,7 @@ fumigators
 fusinist
 fluoridated
 fullage 1
-feats
+feats 1
 ferrogoslarite
 frostproof
 frolicsomely
