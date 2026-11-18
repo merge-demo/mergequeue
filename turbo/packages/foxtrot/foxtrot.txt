@@ -681,7 +681,7 @@ fames
 fuddled
 fichu
 forerib
-frissons
+frissons 1
 formism
 felanders
 flan
