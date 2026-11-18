@@ -6665,7 +6665,7 @@ enterotome
 encharged
 enright
 enterotoxemia
-encarnadine
+encarnadine 1
 enterotoxication
 enlight
 equestrianize
