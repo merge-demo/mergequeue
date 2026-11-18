@@ -16825,7 +16825,7 @@ clowneries
 clownheal
 coadjutrices
 clownship
-crinkle
+crinkle 1
 cymtia
 cataclysms
 clubable
