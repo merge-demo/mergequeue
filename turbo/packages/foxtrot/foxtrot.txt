@@ -4726,7 +4726,7 @@ folkmots
 flabbergast
 forkfuls
 fossicking
-fougue
+fougue 1
 feathermonger
 fratchety
 fijian
