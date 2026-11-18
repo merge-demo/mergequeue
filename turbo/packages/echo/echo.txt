@@ -5262,7 +5262,7 @@ esterellite
 efik
 enchest
 emulsionize
-engrafting
+engrafting 1
 effectuate
 ecmnesia
 endorsable
