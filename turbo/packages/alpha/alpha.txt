@@ -10389,7 +10389,7 @@ autonym
 aneled
 audio
 americanizing
-addicted
+addicted 1
 americanly
 aguroth
 alacriously
