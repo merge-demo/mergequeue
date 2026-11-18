@@ -5455,7 +5455,7 @@ deorganization
 decolouriser
 doubtfully
 deorganize
-deregister
+deregister 1
 donation
 disenablement
 deorsum
