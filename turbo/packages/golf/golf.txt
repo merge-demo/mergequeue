@@ -9122,7 +9122,7 @@ geoid
 garotte
 governableness
 grumose
-gun
+gun 1
 guttation
 geophagist
 grindable
