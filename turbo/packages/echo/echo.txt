@@ -9064,7 +9064,7 @@ enhypostasis
 ephyrae
 evocatively
 etnean
-ephemeric
+ephemeric 1
 europeans
 enbranglement
 eyases
