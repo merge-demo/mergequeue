@@ -7615,7 +7615,7 @@ foreffelt
 folioed
 fimbrillae
 flotten
-fungify
+fungify 1
 feminised
 fester
 fabular
