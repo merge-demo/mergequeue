@@ -161,7 +161,7 @@ dadenhudd
 duressor
 dimercurion
 deprivations
-depasturable
+depasturable 1
 drugstore
 doltishly
 dareall
