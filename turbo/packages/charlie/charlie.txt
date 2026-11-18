@@ -22795,7 +22795,7 @@ consecrate
 consecrater
 chieftess
 contramarque
-consecrates
+consecrates 1
 clearage
 citrals
 coticular
