@@ -10336,7 +10336,7 @@ gnattiest
 grasslike 1
 guland
 grubstaking 1
-gules
+gules 1
 gown
 grot 1
 gooseflesh
