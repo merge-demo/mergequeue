@@ -8511,7 +8511,7 @@ grata
 galleon
 guv
 geomorphological
-geotectonically
+geotectonically 1
 guardian
 gulpers
 genie
