@@ -6224,7 +6224,7 @@ bearleap
 bookism
 bissextus
 battalions
-biuret
+biuret 1
 bosporus
 blastogenesis
 bubas
