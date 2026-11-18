@@ -5819,7 +5819,7 @@ encounter
 exanthema
 entification
 evade
-exion
+exion 1
 emulatory
 etherizing
 efficace
