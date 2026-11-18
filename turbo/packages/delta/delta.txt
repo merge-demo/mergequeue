@@ -2012,7 +2012,7 @@ dimble
 defaecate
 dysphasia
 dictation
-dacryocele
+dacryocele 1
 decadrachma
 decadrachmae
 dourer
