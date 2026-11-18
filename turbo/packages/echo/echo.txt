@@ -6907,7 +6907,7 @@ elling
 evocations
 entoplasm
 euxenites
-extravaganzas
+extravaganzas 1
 estreats 1
 exiled
 earthquave
