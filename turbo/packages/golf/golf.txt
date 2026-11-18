@@ -10789,7 +10789,7 @@ gandered
 gignitive
 gamesomely
 gaincall
-guttated
+guttated 1
 galeage
 gazelles
 gawky
