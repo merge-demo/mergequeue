@@ -14220,7 +14220,7 @@ ancor
 adipogenic
 alismoid
 alexiterical
-antergic
+antergic 1
 aspic
 autodetector
 atlee
