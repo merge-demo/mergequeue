@@ -2458,7 +2458,7 @@ gnathidium
 glabrate
 girt
 gillflirt
-geoisotherm
+geoisotherm 1
 grills
 grief
 geodynamic 1
