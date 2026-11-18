@@ -10738,7 +10738,7 @@ faenus
 flam
 flotsams
 fideisms
-frumps
+frumps 1
 forcedly
 fragmentalize
 fuder
