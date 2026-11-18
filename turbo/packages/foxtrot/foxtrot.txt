@@ -9529,7 +9529,7 @@ freckle
 furnace
 fieldmouse
 fruitfullness
-favouress
+favouress 1
 fichtelite
 flyted
 fuseless
