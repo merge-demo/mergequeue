@@ -6513,7 +6513,7 @@ exactly
 extratension
 entail
 entomophthora
-eyewash
+eyewash 1
 endurant
 ended
 entangledness
