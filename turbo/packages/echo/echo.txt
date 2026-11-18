@@ -9953,7 +9953,7 @@ eschars
 ennew
 eatery
 ecclesiae
-estrin
+estrin 1
 elk
 emblazon
 estrums
