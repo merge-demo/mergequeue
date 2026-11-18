@@ -9789,7 +9789,7 @@ extenuator
 envermeil
 emplanement
 extracellular
-electively
+electively 1
 essoinment
 essorant
 echiuroidea
