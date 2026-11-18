@@ -7247,7 +7247,7 @@ bleariness 1
 besully
 borith
 beswarm
-beswelter
+beswelter 1
 bisque
 bethuel
 balti
