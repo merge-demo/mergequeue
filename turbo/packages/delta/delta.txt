@@ -7960,7 +7960,7 @@ dextrocularity
 dahoman
 daphnes
 disincorporation
-drowse
+drowse 1
 diagnosticated
 dorsibranch
 drawpoint
