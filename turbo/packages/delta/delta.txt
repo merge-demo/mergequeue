@@ -5971,7 +5971,7 @@ darcy
 doctorlike
 doubledamn
 decimation
-deckswabber
+deckswabber 1
 decuples
 dragons
 delictus
