@@ -2947,7 +2947,7 @@ gastroenterostomy
 geomant
 gasaliers
 goluptious
-glutinousness
+glutinousness 1
 gigantomachy
 glueing
 gumshoeing
