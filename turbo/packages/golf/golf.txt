@@ -4245,7 +4245,7 @@ garrisoning
 gilty
 groset
 gluttonise
-gynantherous
+gynantherous 1
 grozer
 gonadectomized
 goliath
