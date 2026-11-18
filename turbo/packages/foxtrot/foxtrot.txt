@@ -6708,7 +6708,7 @@ flame
 felted
 fogless
 frounced
-fogo
+fogo 1
 frescoists
 fighters
 feast
