@@ -2555,7 +2555,7 @@ enchanters
 etrogs
 electron
 extensor 1
-elastins
+elastins 1
 exenteration
 escapeful
 ethchlorvynol
