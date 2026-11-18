@@ -13941,7 +13941,7 @@ acrophonetic
 antigenes
 alymphopotent
 arquifoux
-apprehends
+apprehends 1
 asservilize
 ansulate
 anglice
