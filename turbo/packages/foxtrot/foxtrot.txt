@@ -5197,7 +5197,7 @@ foxiness
 frontierlike
 frivolers
 foreclaw
-fuchsia
+fuchsia 1
 finished
 familarity
 frumpery 1
