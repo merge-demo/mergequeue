@@ -15079,7 +15079,7 @@ blastophore
 bregma
 bordel
 bregmate
-brachypinacoidal
+brachypinacoidal 1
 bilinite
 biophyte
 brokenheartedness
