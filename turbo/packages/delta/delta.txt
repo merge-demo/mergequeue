@@ -3474,7 +3474,7 @@ dorism
 defoil
 dorsobranchiata
 defoliants
-diclinic
+diclinic 1
 defoliate
 defoliations
 descending
