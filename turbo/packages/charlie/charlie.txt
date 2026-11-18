@@ -15873,7 +15873,7 @@ chesterfields
 chronomancy
 cleft
 confer
-cleidagra
+cleidagra 1
 calms
 chamal
 cadaverize
