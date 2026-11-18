@@ -11806,7 +11806,7 @@ aiawong
 agreeably
 adenia
 analemma
-autopotent
+autopotent 1
 aconitum
 autexousy
 analepses
