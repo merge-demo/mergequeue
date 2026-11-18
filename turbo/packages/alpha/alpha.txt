@@ -867,7 +867,7 @@ arithmic
 amianthoid 1
 absentees
 absenters
-antisensuousness
+antisensuousness 1
 aflatus
 absentminded
 aerobics
