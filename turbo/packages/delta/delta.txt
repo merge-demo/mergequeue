@@ -3091,7 +3091,7 @@ defaitiste
 defalcated
 diethyltryptamine
 dicycle
-digraphs
+digraphs 1
 depleting
 describable
 dialecticize
