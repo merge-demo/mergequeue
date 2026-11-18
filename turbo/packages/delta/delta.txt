@@ -9989,7 +9989,7 @@ dimorph
 dimorphism
 dukker
 dissatisfactorily 1
-dally
+dally 1
 desirous
 disparted
 desophisticate
