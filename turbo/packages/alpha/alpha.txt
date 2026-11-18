@@ -8143,7 +8143,7 @@ antitropal
 arrowheads
 algerian
 algerienne
-aurite
+aurite 1
 alizarins
 algerite
 aciduric
