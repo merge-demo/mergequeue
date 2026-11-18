@@ -10889,7 +10889,7 @@ ammonitoidea
 affording
 ammocoetiform
 antischolastic
-ammoniuret
+ammoniuret 1
 archcozener
 antiproteolysis
 argolian
