@@ -9674,7 +9674,7 @@ birchbark
 bismuthide
 bethanked
 beeping
-bismuthinite
+bismuthinite 1
 bejumble
 bismuthous
 belfried
