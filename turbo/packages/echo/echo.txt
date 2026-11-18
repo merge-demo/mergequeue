@@ -5640,7 +5640,7 @@ epicritic
 enforth
 estrangle
 eigenvalue
-epithi
+epithi 1
 exhibitorial
 exquisitism
 enframed
