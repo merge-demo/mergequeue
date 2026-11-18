@@ -1745,7 +1745,7 @@ grx
 guanine
 gentisein
 grouchiest
-gossypine
+gossypine 1
 gastropulmonic
 granitic
 globously
