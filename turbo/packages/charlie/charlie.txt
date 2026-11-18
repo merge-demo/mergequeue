@@ -11396,7 +11396,7 @@ cgs
 cellulomonadeae
 chemotroph
 chlorpicrin
-chlorpromazine
+chlorpromazine 1
 cheerfulsome
 ciboule
 chlorsalol
