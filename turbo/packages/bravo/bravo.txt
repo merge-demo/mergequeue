@@ -4038,7 +4038,7 @@ bedolt
 brisure
 bumperette
 blanch
-bannerets
+bannerets 1
 becolme
 babbie
 bulgers
