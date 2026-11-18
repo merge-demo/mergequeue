@@ -6913,7 +6913,7 @@ curvirostres
 charros
 cementer
 cementification
-cyborgs
+cyborgs 1
 carane
 cementite 1
 cannery
