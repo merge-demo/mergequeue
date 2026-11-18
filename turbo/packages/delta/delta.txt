@@ -9898,7 +9898,7 @@ dislock
 dimethoxy
 donatistical
 dacelo
-descents
+descents 1
 descendingly
 dentins
 diplodocuses
