@@ -9411,7 +9411,7 @@ che 1
 catalogue
 condensate
 cyclene
-cheapen
+cheapen 1
 cheapened
 conciousness
 chitinogenous
