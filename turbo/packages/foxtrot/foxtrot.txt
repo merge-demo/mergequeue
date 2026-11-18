@@ -495,7 +495,7 @@ finalisms
 fromwards
 fireflies
 foin
-foremisgiving
+foremisgiving 1
 fracturs
 faker
 flaneries
