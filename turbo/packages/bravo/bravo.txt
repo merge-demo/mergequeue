@@ -16746,7 +16746,7 @@ bowyangs
 bucksaw
 bids
 bistorta
-bedfoot
+bedfoot 1
 buzzardly
 bariatrics
 bucktooth
