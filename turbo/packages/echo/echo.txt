@@ -2463,7 +2463,7 @@ enhearten
 electrogilt 1
 electrogram
 euahlayi
-endows
+endows 1
 eupolyzoa
 eleve
 eriometer
