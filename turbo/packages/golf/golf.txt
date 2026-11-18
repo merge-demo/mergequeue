@@ -8683,7 +8683,7 @@ goopy
 geyser
 glossless
 gobmouthed
-gateado
+gateado 1
 gritty
 gres 1
 gatch
