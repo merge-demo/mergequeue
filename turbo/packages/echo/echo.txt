@@ -8606,7 +8606,7 @@ eumerogenesis
 endocarp
 estrogen
 equidistribution
-esu
+esu 1
 exect
 embrasuring
 equidiurnal
