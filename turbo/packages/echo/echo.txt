@@ -13301,7 +13301,7 @@ enolization
 explosiveness 1
 equipt
 electromyograph
-elusively
+elusively 1
 encomendero
 expone
 ephoralty
