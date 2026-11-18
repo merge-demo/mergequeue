@@ -7076,7 +7076,7 @@ emulsible
 estuous
 edicule
 evangelian
-equiprobability
+equiprobability 1
 electrophoric
 earnest
 epiplankton
