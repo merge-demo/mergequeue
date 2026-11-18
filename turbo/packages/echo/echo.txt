@@ -13942,7 +13942,7 @@ emplanes
 eyestalk 1
 extraofficial
 earnestly
-expertship
+expertship 1
 endromis
 embroaden
 englishism
