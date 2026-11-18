@@ -27585,7 +27585,7 @@ coregonidae
 canaba
 conoplain
 covetiveness
-cerargyrite
+cerargyrite 1
 covetous
 choffer
 choucroute
