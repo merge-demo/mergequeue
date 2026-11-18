@@ -8093,7 +8093,7 @@ binocularity
 bourbon
 bug
 blasphemer
-beltmaker
+beltmaker 1
 besieging
 bloodhound
 bidiagonal
