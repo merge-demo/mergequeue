@@ -20468,7 +20468,7 @@ arteriac
 allomorphic
 archchaplain
 apotropaic
-allantoides
+allantoides 1
 antimilitaristically
 aerogenous
 atechnic
