@@ -9639,7 +9639,7 @@ encense
 entangleable
 entia
 epacris
-elaeagnus
+elaeagnus 1
 enfrai
 esparsette
 emphases
