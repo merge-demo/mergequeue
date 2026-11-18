@@ -20559,7 +20559,7 @@ compelling
 cornerways
 compellingly
 curblike
-cosines
+cosines 1
 checks
 compendency
 compendia
