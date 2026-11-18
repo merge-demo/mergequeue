@@ -24922,7 +24922,7 @@ alopekai
 awakeners
 agravic
 attractability
-awakening
+awakening 1
 awakeningly
 awaking
 automotor
