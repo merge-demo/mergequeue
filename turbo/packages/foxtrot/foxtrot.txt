@@ -924,7 +924,7 @@ fallation
 fleabug
 fallouts
 ferrate
-faquir
+faquir 1
 farad
 faradaic
 flopper
