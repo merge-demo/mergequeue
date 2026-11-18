@@ -2466,7 +2466,7 @@ euahlayi
 endows
 eupolyzoa
 eleve
-eriometer
+eriometer 1
 encharge
 exegete
 eurythmical
