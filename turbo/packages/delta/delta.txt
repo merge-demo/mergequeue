@@ -16284,7 +16284,7 @@ degenerescent
 disassociated
 discoloring
 downlink
-desertion
+desertion 1
 downness
 dermographic
 disenthralls
