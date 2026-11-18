@@ -10094,7 +10094,7 @@ faki
 filmset
 frithy
 firstly
-fenetre
+fenetre 1
 fluviometer
 fiberizing
 foxtailed
