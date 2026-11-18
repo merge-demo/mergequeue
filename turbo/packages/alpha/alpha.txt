@@ -13794,7 +13794,7 @@ allobroges
 approved
 amusable
 anticouncil
-abortuses
+abortuses 1
 ambisyllabic
 altimeter
 accrementition 1
