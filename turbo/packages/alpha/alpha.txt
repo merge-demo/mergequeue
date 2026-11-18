@@ -7194,7 +7194,7 @@ alack
 amole
 anadromous
 advertized
-automatic
+automatic 1
 ameloblast
 adnouns
 abettals
