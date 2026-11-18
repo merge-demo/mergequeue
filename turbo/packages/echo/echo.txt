@@ -13391,7 +13391,7 @@ express
 extralinguistic
 eudaemonical
 empire
-effront
+effront 1
 earlship
 expressage
 edgily
