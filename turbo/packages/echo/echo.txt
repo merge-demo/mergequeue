@@ -13183,7 +13183,7 @@ exponentiation
 epaxial
 exotica
 emmantle
-expirations
+expirations 1
 exaspidean
 extruded
 elicited
