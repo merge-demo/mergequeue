@@ -4587,7 +4587,7 @@ frictionize
 flaunted
 futurition
 fiftieths
-fossilized
+fossilized 1
 fool
 feigned
 frenchily
