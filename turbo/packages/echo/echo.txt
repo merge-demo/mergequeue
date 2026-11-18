@@ -12005,7 +12005,7 @@ embolus
 electioneerer
 enthusiasts
 ectromelian
-exclusive
+exclusive 1
 enaunter
 etiquettical
 effectuality
