@@ -2991,7 +2991,7 @@ guildsmen
 geomancy
 garnered
 glosser
-gushingness
+gushingness 1
 gauchest
 gravipause
 glorias
