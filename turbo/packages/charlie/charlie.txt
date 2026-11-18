@@ -3061,7 +3061,7 @@ croppa
 clarino
 cycadeous
 canvasbacks
-canvasers
+canvasers 1
 coralroot
 cumaldehyde
 capriola
