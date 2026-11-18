@@ -2413,7 +2413,7 @@ ferities
 fulgoridae
 floodless
 formalizable
-foxie
+foxie 1
 flyflapper
 falsiteit
 fashionable
