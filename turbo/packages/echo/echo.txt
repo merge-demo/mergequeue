@@ -4654,7 +4654,7 @@ euphoniad
 embezzled
 electrophonically
 encyclics
-equisetum
+equisetum 1
 extroversive
 eucrites
 elbowing
