@@ -6700,7 +6700,7 @@ gromatic
 geochronometry
 grattage
 gewgawed
-gradual
+gradual 1
 gastrotheca
 growse
 groovier
