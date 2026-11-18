@@ -2981,7 +2981,7 @@ galvanocauteries
 gentlefolk
 gambusia
 guatambu
-gastornis
+gastornis 1
 glitnir
 gibbering
 goldenknop
