@@ -2394,7 +2394,7 @@ ganton
 gyrolith
 glaury
 gazel
-gonytheca
+gonytheca 1
 guiac
 gummose
 gratification
