@@ -11723,7 +11723,7 @@ biogenetic
 bobfloat
 bobierrite
 bobjerom
-bioelectricity
+bioelectricity 1
 boorish
 bellowsmaker
 bedstands
