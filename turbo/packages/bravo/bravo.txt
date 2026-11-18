@@ -2274,7 +2274,7 @@ boucle
 begoggled
 blocky
 brigid
-bijective
+bijective 1
 bioecology
 birdclapper
 bats
