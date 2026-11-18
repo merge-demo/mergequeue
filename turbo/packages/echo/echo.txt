@@ -12009,7 +12009,7 @@ exclusive
 enaunter
 etiquettical
 effectuality
-enforceability
+enforceability 1
 enamelled
 exclusivistic
 exclusivity
