@@ -21470,7 +21470,7 @@ caseful
 chapellage
 concoagulate
 congestions
-cannibality
+cannibality 1
 cachexia
 crackable
 concocted
