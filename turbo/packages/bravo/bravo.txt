@@ -4603,7 +4603,7 @@ beckon
 baptise
 boden
 bedtick
-bedchair
+bedchair 1
 bacchic
 butterine
 bedchairs
