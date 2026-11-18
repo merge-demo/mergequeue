@@ -8060,7 +8060,7 @@ fessing
 forestral
 forestries
 firebrats
-furnitures
+furnitures 1
 fumigating
 flecnode
 flirtatiousness
