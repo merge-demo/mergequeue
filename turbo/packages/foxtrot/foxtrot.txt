@@ -4158,7 +4158,7 @@ frogleaf
 fusilading 1
 fulk
 frostnipped
-fatling
+fatling 1
 fenchyl
 fiscalization
 feezed
