@@ -1469,7 +1469,7 @@ granolith
 gorilla
 gorgia
 galaginae
-glumly
+glumly 1
 gunmaker
 gymnarchus
 gluconate
