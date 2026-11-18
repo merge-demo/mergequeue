@@ -8392,7 +8392,7 @@ fictively
 fuseboard
 fm
 filcher
-futhark
+futhark 1
 fidded 1
 finagles
 fluoroscopes
