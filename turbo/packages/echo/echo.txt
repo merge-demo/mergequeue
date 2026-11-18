@@ -4650,7 +4650,7 @@ entanglers
 exuberance
 entablement
 energico
-euphoniad
+euphoniad 1
 embezzled
 electrophonically
 encyclics
