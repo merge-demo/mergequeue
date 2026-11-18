@@ -6926,7 +6926,7 @@ expense
 embargoed
 ebullate
 evangelicality
-enjoyableness
+enjoyableness 1
 entosternal
 eleganter
 extrapolations
