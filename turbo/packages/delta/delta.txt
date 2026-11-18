@@ -8569,7 +8569,7 @@ deflex
 diaphony
 diaphysial
 defaitisme
-discernibly
+discernibly 1
 derisiveness
 diaphonic
 divertedly
