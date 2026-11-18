@@ -9285,7 +9285,7 @@ disploded
 dotting
 detruck
 decolorant
-dietitians
+dietitians 1
 deistic
 dtset
 diplomat
