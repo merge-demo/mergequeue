@@ -3115,7 +3115,7 @@ glycosyl 1
 gnathal
 greenskeeper
 gridding
-goosetongue
+goosetongue 1
 gnathobasic
 gnast
 galumphing
