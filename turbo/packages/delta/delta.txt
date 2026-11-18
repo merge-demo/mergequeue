@@ -2562,7 +2562,7 @@ disbudder
 derringer
 declassifies
 diplophonic
-disequality
+disequality 1
 dematerialize
 dorsocephalic
 distiller
