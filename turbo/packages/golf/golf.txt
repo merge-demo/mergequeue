@@ -8171,7 +8171,7 @@ grapeless
 guillem
 gobio
 geloscopy
-gossipers
+gossipers 1
 geotaxy
 grab
 groomsmen
