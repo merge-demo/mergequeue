@@ -909,7 +909,7 @@ gelatinate
 genealogic
 gambia
 garblings
-gyrocompass
+gyrocompass 1
 geoponical
 garnishable
 gemeinschaften
