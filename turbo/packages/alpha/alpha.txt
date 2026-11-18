@@ -4471,7 +4471,7 @@ argue 1
 advaita
 advance
 antiphoner
-azurine
+azurine 1
 advancedness
 anagenetic
 adunc
