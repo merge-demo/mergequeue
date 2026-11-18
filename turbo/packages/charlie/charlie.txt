@@ -21985,7 +21985,7 @@ cabestros
 confidingness
 canteens
 coinsurable
-coexclusive
+coexclusive 1
 configurating
 configuration
 configurationally
