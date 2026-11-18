@@ -3084,7 +3084,7 @@ defaces
 disennoble
 dunning
 defacto
-defade
+defade 1
 dichlamydeous
 defaillance
 defaitiste
