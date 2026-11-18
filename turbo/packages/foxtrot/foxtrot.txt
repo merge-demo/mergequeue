@@ -9872,7 +9872,7 @@ feterita 1
 fluviomarine
 fosh
 ferguson
-foggy
+foggy 1
 fibroneuroma
 fascine
 felinophobe
