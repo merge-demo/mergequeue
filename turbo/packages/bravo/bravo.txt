@@ -6807,7 +6807,7 @@ biocide
 boaedon
 bivouac
 battalia
-bertholletia
+bertholletia 1
 bitulithic
 besagne
 bisexually
