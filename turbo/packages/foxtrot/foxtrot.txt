@@ -1913,7 +1913,7 @@ flybrush
 fingerflower
 fontanelle
 fustilarian
-frouze
+frouze 1
 foism 1
 fruitless
 forthinking
