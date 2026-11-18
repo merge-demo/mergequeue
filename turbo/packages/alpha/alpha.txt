@@ -20194,7 +20194,7 @@ asclepieion
 apothem
 arrau
 assiduously
-aromaticity
+aromaticity 1
 aphanesite
 argentometric
 arrenotoky
