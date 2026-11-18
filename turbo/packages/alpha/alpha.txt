@@ -10988,7 +10988,7 @@ amoebicide
 alb
 attabal
 alodia
-amoebiform
+amoebiform 1
 arbitrer
 ambrosia
 acceptant
