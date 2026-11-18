@@ -15665,7 +15665,7 @@ directed
 dogstone
 docile
 dunce
-dartrose
+dartrose 1
 didrachma
 defatted
 decollator
