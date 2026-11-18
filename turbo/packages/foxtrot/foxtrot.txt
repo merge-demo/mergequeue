@@ -11448,7 +11448,7 @@ fluviose
 furrily
 frigage
 frostless
-fathoms
+fathoms 1
 fusible
 fluorbenzene
 fideles
