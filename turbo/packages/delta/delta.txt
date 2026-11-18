@@ -4945,7 +4945,7 @@ dicrostonyx
 defailment
 displeased
 duranta
-demoralized
+demoralized 1
 demoralizers
 draughty
 debussy 1
