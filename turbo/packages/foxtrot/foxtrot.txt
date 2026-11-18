@@ -6238,7 +6238,7 @@ flatlet
 fiji
 factotums
 farmerish
-felloes
+felloes 1
 freewheelers
 filespec 1
 farmtown
