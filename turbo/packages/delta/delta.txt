@@ -9668,7 +9668,7 @@ defamatory
 doorcase
 dipneusti
 digonoporous
-dispense
+dispense 1
 daphnias
 ditting
 dungbred
