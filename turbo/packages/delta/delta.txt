@@ -5647,7 +5647,7 @@ depicture
 distract
 debe
 diopsidic
-depigmentate
+depigmentate 1
 depigmentation
 depigmentize
 dissidence
