@@ -11847,7 +11847,7 @@ enlace
 excave
 emphasize
 eructated
-entoperipheral
+entoperipheral 1
 extancy
 elutes
 exceeded
