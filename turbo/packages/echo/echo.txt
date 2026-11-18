@@ -10532,7 +10532,7 @@ euchlorine
 eluents
 ectrodactylia
 exogenae
-estates
+estates 1
 ergosterol
 euchlorite
 erechtites
