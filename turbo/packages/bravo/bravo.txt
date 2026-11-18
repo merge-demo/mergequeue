@@ -6227,7 +6227,7 @@ battalions
 biuret
 bosporus
 blastogenesis
-bubas
+bubas 1
 bluestems
 blatantly
 brush
