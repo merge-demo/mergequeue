@@ -53,7 +53,7 @@ gargantua 1
 galatotrophic
 graperies
 gangue
-gullish
+gullish 1
 glaucolite
 guemal
 geometrine
