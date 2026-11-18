@@ -15100,7 +15100,7 @@ disadvantaged
 delawn
 degustate
 dubitatively
-dipolarization
+dipolarization 1
 dogstones
 dogtie
 dumpler
