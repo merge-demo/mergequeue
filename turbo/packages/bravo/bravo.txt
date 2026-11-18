@@ -12584,7 +12584,7 @@ brit
 bibbers
 blottesque 1
 blows
-batter
+batter 1
 bloubiskop
 bristlemouths
 biochemically
