@@ -6001,7 +6001,7 @@ featishness
 fastnesses
 fusty
 foolscaps
-felspars
+felspars 1
 flacon
 fumattoria
 fidiculae
