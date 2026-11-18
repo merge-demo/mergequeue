@@ -1299,7 +1299,7 @@ diastaltic
 decoloured
 daubreite
 degaussing
-dobsons
+dobsons 1
 densified
 dryermen
 declinate
