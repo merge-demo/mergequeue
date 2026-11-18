@@ -26575,7 +26575,7 @@ crenelated
 cantillate
 counterbewitch
 comparsa
-cube
+cube 1
 casaun
 couchings
 couchmaker
