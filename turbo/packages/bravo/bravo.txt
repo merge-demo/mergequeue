@@ -11724,7 +11724,7 @@ bobfloat
 bobierrite
 bobjerom
 bioelectricity
-boorish
+boorish 1
 bellowsmaker
 bedstands
 backpacker
