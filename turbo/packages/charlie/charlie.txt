@@ -21695,7 +21695,7 @@ condyloma
 condylomatous
 condylopodous
 conjurator
-corditis
+corditis 1
 clerically
 condylure
 compriest
