@@ -3038,7 +3038,7 @@ confronts
 cantraip
 cantraps
 chares
-curlyheads
+curlyheads 1
 capitonidae
 centrales
 cantrip
