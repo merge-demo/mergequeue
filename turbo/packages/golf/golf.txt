@@ -4241,7 +4241,7 @@ grumph
 gunsling
 guimpes
 gasteralgia
-garrisoning
+garrisoning 1
 gilty
 groset
 gluttonise
