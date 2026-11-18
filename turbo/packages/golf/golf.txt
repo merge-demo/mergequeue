@@ -2963,7 +2963,7 @@ geognostically
 gigliato
 guayules
 gaolering
-geographies
+geographies 1
 gemmologists
 galliardness
 geoids
