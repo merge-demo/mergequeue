@@ -10879,7 +10879,7 @@ deployed
 disable
 delusions
 disabled
-doorplates
+doorplates 1
 defrayer
 deterges
 demersion
