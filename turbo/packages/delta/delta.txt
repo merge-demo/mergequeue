@@ -10627,7 +10627,7 @@ degarnish
 dolomize
 doon
 discoveries
-dithionous
+dithionous 1
 diplopod
 diplopoda
 discorrespondent
