@@ -5428,7 +5428,7 @@ glyphic
 gambist
 guran
 girlhood
-gus
+gus 1
 glossoepiglottidean
 germanly
 greenness
