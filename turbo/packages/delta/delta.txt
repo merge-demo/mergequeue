@@ -12150,7 +12150,7 @@ depurates
 duply
 disambiguates
 dihdroxycholecalciferol
-demideify
+demideify 1
 dichocarpism
 dribblement
 dysphonic
