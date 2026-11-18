@@ -17069,7 +17069,7 @@ burt
 bailed
 bulkhead
 bulkheading
-bulky
+bulky 1
 bulkier
 bitterweed
 befavour
