@@ -5638,7 +5638,7 @@ anagram
 amidstream 1
 affloof
 aga
-auspiciously
+auspiciously 1
 antilopinae
 acrocoracoid
 arachin
