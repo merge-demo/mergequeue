@@ -6923,7 +6923,7 @@ delphinid
 deaconize
 despairing
 desparple
-downsinking
+downsinking 1
 decadation
 despatches
 deoxidise
