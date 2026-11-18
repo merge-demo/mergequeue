@@ -2244,7 +2244,7 @@ geopolitik
 gradation
 glasswort
 glarry
-gospeller
+gospeller 1
 gangrel
 grandpaternal
 glamoury
