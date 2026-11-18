@@ -12441,7 +12441,7 @@ addulce
 amberina
 anticomplex
 arrivance
-afflictions
+afflictions 1
 androgynal
 alterity
 arillode
