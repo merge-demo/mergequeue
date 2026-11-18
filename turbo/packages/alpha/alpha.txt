@@ -5369,7 +5369,7 @@ affrayers
 affraying
 affrays
 admeasured
-affranchise
+affranchise 1
 autocarist
 adiadokokinesi 1
 affret
