@@ -11349,7 +11349,7 @@ emanatively
 eathly
 epicureans
 equiparation
-evenness
+evenness 1
 exalters
 expensefulness
 exsects
