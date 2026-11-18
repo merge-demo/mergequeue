@@ -8790,7 +8790,7 @@ foreprise
 firry
 frustula
 feoffing
-favorably
+favorably 1
 fiberboard
 frailes 1
 fetchers
