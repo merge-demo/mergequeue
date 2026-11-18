@@ -2405,7 +2405,7 @@ dodecane
 dispelled
 donny
 dripstick
-disaffects
+disaffects 1
 decimalism
 dueling
 distinguishingly 1
