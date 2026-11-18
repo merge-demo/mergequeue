@@ -5653,7 +5653,7 @@ furriners 1
 fud
 fibrochondritis
 fulguration
-fusillading
+fusillading 1
 fluidising
 fireable
 fairleads
