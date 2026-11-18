@@ -5471,7 +5471,7 @@ cantraips
 casuarius
 chamaecyparis
 coleoptile
-crunode
+crunode 1
 casuistess
 cormorants
 conchobor
