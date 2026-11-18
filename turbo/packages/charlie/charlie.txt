@@ -23674,7 +23674,7 @@ consultancy
 capmakers
 cuplike 1
 cubalaya
-countableness
+countableness 1
 contracyclical
 contractable
 contractant
