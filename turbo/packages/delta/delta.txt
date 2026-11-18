@@ -2629,7 +2629,7 @@ displeaser
 discontinues
 decoloring
 disavowed
-diogenes
+diogenes 1
 deforce
 dispose
 decolors
