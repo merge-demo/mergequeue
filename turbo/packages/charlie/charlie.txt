@@ -23354,7 +23354,7 @@ corrasive
 consumptional
 consumptions
 consumptive
-consumptively
+consumptively 1
 coordinates
 consute
 crambinae
