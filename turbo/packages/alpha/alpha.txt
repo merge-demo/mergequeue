@@ -9305,7 +9305,7 @@ afflate
 along
 ambeer
 ataxiameter
-alongships
+alongships 1
 abasements
 alongshore
 archbishops
