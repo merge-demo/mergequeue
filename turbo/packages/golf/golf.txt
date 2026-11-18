@@ -7996,7 +7996,7 @@ glouts
 goodhap
 galleyman
 gabblement
-gabbroic
+gabbroic 1
 geologized
 gobies
 grudgment
