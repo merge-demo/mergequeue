@@ -8977,7 +8977,7 @@ gothicity
 giggit
 gironny
 gall
-genteel
+genteel 1
 getae
 geniohyoid
 grizzlyman
