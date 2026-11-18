@@ -2065,7 +2065,7 @@ campagna
 campagne
 conli
 campaign
-clotheshorses
+clotheshorses 1
 campaigners
 campaigns
 campana
