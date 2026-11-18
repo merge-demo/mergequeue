@@ -9610,7 +9610,7 @@ falcata
 ferias
 foolery
 findability
-finalities
+finalities 1
 flukier
 foamer
 frons
