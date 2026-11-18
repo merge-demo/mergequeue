@@ -7259,7 +7259,7 @@ countertenor
 caddoan
 coda
 centurial
-covenably
+covenably 1
 centuriator
 conehead
 centuries
