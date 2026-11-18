@@ -3600,7 +3600,7 @@ fableland
 fundal
 factories
 fogus
-fanwort
+fanwort 1
 figurize
 filibusterers
 fourble
