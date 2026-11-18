@@ -10986,7 +10986,7 @@ azotate
 adrenals
 amoebicide
 alb
-attabal
+attabal 1
 alodia
 amoebiform
 arbitrer
