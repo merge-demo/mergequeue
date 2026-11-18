@@ -1741,7 +1741,7 @@ dysenteric
 deathless
 decad
 decumaria
-delineable
+delineable 1
 deathlessness
 deathlikeness
 deathliness
