@@ -17423,7 +17423,7 @@ coaxing
 coazervate
 contline
 coeloblastic
-cryophilic
+cryophilic 1
 cupbearer
 cenospecifically
 cobaea
