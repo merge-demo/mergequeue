@@ -454,7 +454,7 @@ cinclidotus
 cassavas
 cartages
 catheretic
-cancelable
+cancelable 1
 cacumination
 coleopterous
 cacuminous
