@@ -7717,7 +7717,7 @@ girning
 geolatry 1
 galvanized
 gunpowderous
-gauzy
+gauzy 1
 globus
 gallivanter
 goldworker
