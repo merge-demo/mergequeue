@@ -12234,7 +12234,7 @@ elegists
 extemporizer
 exegetics
 exing
-ensheaths
+ensheaths 1
 electroaffinity
 ensued
 eds
