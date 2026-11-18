@@ -1592,7 +1592,7 @@ deaerated
 dorsum
 documentarist
 duenna
-deaf
+deaf 1
 dynamogenous
 disacidified
 deafened
