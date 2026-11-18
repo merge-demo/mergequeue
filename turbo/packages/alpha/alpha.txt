@@ -19195,7 +19195,7 @@ adjiger
 allentiac
 arthropoda
 accessorized
-abusable
+abusable 1
 antepretonic
 antiparliamenteer
 alemannic
