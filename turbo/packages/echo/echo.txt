@@ -5781,7 +5781,7 @@ excl
 englobe
 epigraphy
 expressions
-englobed
+englobed 1
 enneahedral
 envelopment
 extirp
