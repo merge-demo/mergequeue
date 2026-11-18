@@ -17508,7 +17508,7 @@ blockout
 backspeir
 burbolt
 beauseant
-biognosis
+biognosis 1
 burbot
 benzothiodiazole
 bleak
