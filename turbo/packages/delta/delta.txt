@@ -15612,7 +15612,7 @@ doormen
 demonetised
 discomfiting
 doorpiece
-drivel
+drivel 1
 denuclearizes
 digitizes
 dowl
