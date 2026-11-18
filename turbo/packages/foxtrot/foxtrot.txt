@@ -7316,7 +7316,7 @@ favelloid
 fleeched
 foaminess
 fixation
-foraying
+foraying 1
 frognose
 freudian
 fronds
