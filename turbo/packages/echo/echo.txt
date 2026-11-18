@@ -2974,7 +2974,7 @@ extraovate
 eliminable
 etymologizing
 eradiation
-eliminate
+eliminate 1
 etiologies
 embind
 explait
