@@ -4909,7 +4909,7 @@ equations
 entoils
 endangitis
 expertised
-endaspidean
+endaspidean 1
 endbrains
 epipodite
 emusify
