@@ -5364,7 +5364,7 @@ biweekly
 berglet
 ballogan
 begrown
-begrudge
+begrudge 1
 boggishness
 branchiopodous
 biographical

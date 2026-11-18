@@ -4996,7 +4996,7 @@ formals
 freelage
 forego
 flankers
-foists
+foists 1
 feued
 franklin
 folksier
