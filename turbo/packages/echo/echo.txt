@@ -9259,7 +9259,7 @@ errable
 ejido
 errancies
 endospermous
-enc
+enc 1
 entrapments
 egressing
 electra
