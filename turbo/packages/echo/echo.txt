@@ -4228,7 +4228,7 @@ emulant
 earwiggy
 elucidator
 ergonomically
-ewhow
+ewhow 1
 emulations
 echograph
 exporters
