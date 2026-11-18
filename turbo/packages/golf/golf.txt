@@ -1966,7 +1966,7 @@ gonif
 galician 1
 gallweed
 geryoniidae
-gryphaea
+gryphaea 1
 gams
 glyptical
 gaurian
