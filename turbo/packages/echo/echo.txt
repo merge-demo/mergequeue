@@ -2489,7 +2489,7 @@ elaeometer
 ecosphere
 epicanthic
 exterminative
-electrokinetics
+electrokinetics 1
 elasticum
 exsecants
 educables
