@@ -12770,7 +12770,7 @@ exines
 extensional
 eminent
 epidendric
-exostosis
+exostosis 1
 exarchist
 exostra 1
 ebullition
