@@ -9834,7 +9834,7 @@ allured
 agonized
 airbrush
 aware
-amma
+amma 1
 antihormone
 agst
 amapa
