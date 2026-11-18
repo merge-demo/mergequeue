@@ -19176,7 +19176,7 @@ arclike
 anthemene
 antipathogenic
 actualism
-aspread
+aspread 1
 agnostically
 arcograph
 apneic
