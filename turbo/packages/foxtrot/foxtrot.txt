@@ -6582,7 +6582,7 @@ foaling
 friary
 flunkeyism
 feltness
-frounce
+frounce 1
 foamflower
 flammulation
 firework
