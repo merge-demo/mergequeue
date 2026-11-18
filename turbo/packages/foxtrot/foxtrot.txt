@@ -5137,7 +5137,7 @@ frizzly
 foreadvise
 fellas
 frivolous
-fawns
+fawns 1
 fructure
 furless
 fastuousness
