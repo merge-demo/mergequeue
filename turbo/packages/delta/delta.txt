@@ -5469,7 +5469,7 @@ dandically
 dismounting
 diprotodontia
 dreadlessly
-damnable
+damnable 1
 dolley
 dilutors
 durion
