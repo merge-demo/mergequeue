@@ -3373,7 +3373,7 @@ brans
 backwardness
 berengarian
 bassa
-begobs
+begobs 1
 balaenicipites
 basiphobia
 besilver
