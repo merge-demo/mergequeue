@@ -10738,7 +10738,7 @@ anorthography
 aminoquin
 aminosuccinamic
 applicants
-anthropoid
+anthropoid 1
 araru
 abrazo
 aethalium
