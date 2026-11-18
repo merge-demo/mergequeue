@@ -3373,7 +3373,7 @@ fulmen
 forcut
 fopling
 fossilification
-flappering
+flappering 1
 fishermen
 frampold
 frivols
