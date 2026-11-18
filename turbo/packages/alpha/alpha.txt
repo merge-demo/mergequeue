@@ -11383,7 +11383,7 @@ anobiidae
 acroteric
 autochrome
 amphora
-amphorae
+amphorae 1
 acappella
 algors
 alohas
