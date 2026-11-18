@@ -1874,7 +1874,7 @@ fruiterers 1
 federacies
 febriphobia
 flemishing
-fringefoot
+fringefoot 1
 fielden
 fiveling
 fiances
