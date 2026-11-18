@@ -11508,7 +11508,7 @@ discommodities
 disubstituted
 discandy
 defassa
-dynamometry
+dynamometry 1
 disobligatory
 discommoned
 dextrinase
