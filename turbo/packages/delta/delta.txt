@@ -12525,7 +12525,7 @@ droitural
 doping
 depend
 defies
-divertible
+divertible 1
 disingenuousness
 dicaryophase
 disinheritable
