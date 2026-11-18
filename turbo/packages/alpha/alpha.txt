@@ -22157,7 +22157,7 @@ ancestries
 asthamatic
 aculeus
 antimacassar
-allokurtic
+allokurtic 1
 astheny
 achroacyte
 ambitionless
