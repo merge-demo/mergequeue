@@ -2801,7 +2801,7 @@ elenchi
 elenchic
 elves
 emergently
-elenchize
+elenchize 1
 ecthlipsis
 eath
 electrocutes
