@@ -26971,7 +26971,7 @@ castellated
 cotonier
 countermined
 cullionry
-canthus
+canthus 1
 countermission
 coinfeftment
 chromophor
