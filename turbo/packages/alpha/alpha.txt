@@ -19837,7 +19837,7 @@ avanters
 ansa
 armenic
 agapetidae
-axinomancy
+axinomancy 1
 armenoid
 assaulted
 apodemata
