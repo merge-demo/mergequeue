@@ -3618,7 +3618,7 @@ dunny
 devices
 duant
 disembattle
-deglamorizing
+deglamorizing 1
 doubtlessly
 disrespectfulness
 discoblastic
