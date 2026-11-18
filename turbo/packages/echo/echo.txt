@@ -1648,7 +1648,7 @@ ernst
 enshielding
 exanthine
 exhilaration
-eiders
+eiders 1
 epilemmal
 eidograph
 eclogues
