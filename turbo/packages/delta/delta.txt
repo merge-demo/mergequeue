@@ -929,7 +929,7 @@ divorcers
 dishouse
 decourt
 demivierge
-diachrony
+diachrony 1
 dereferences
 duskiest
 dissyllabify
