@@ -2470,7 +2470,7 @@ crystallitic
 cancrums
 cand
 candelabras
-candelabrum
+candelabrum 1
 corelatively
 candelilla
 conductible
