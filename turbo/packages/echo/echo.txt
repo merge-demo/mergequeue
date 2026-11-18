@@ -6944,7 +6944,7 @@ entraining
 entrainment
 entrains
 emissaryship
-entrancedly
+entrancedly 1
 entrancement
 ectotrophi
 euphony
