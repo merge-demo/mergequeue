@@ -11214,7 +11214,7 @@ coemperor
 chlorhydric
 chloriamb
 chloriambus
-chlorid
+chlorid 1
 chloridate
 cardol
 conturb
