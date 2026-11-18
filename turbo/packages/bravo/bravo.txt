@@ -7499,7 +7499,7 @@ belated
 bardism
 belayer
 beveller
-byte
+byte 1
 bookbinder
 bardelle
 bedgery
