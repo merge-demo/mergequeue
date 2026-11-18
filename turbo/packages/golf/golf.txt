@@ -7826,7 +7826,7 @@ garneter
 glagol
 gestion
 gossipred
-guanche
+guanche 1
 graisse
 geerah
 gerately
