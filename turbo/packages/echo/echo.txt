@@ -6514,7 +6514,7 @@ extratension
 entail
 entomophthora
 eyewash
-endurant
+endurant 1
 ended
 entangledness
 endotrachelitis
