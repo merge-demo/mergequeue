@@ -13884,7 +13884,7 @@ euglobulin
 equivoque
 expo
 etamine
-exosmosis
+exosmosis 1
 emollient
 endolymphangial
 ecchymoma
