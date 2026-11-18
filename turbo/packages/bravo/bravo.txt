@@ -5565,7 +5565,7 @@ brassicaceous
 beknottedly
 bathythermogram
 basophile
-beknow
+beknow 1
 bristleless
 blimpishly
 bel
