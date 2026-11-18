@@ -13578,7 +13578,7 @@ agronomial
 astrophyllite 1
 announcing
 affronting
-annuals
+annuals 1
 annueller
 asherites
 audiences
