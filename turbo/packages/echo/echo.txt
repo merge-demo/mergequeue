@@ -5827,7 +5827,7 @@ electrovalency
 exfoliation 1
 erlkings
 epicele
-extrinsic
+extrinsic 1
 engrafter
 engrailed
 elsewards
