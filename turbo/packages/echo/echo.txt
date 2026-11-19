@@ -8037,7 +8037,7 @@ escallop 1
 embezzlements
 enteroscope
 ealdormen
-exogens
+exogens 1
 epiphanous
 expansiveness
 expiator
