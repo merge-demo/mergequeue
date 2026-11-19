@@ -5450,7 +5450,7 @@ castrates
 covertical
 classic
 counterflory
-capillitia
+capillitia 1
 cylindrenchema
 calin
 calyptriform
