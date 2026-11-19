@@ -11847,7 +11847,7 @@ decurrence
 dioptomiter
 delicat
 disdained
-disdainer
+disdainer 1
 dongon
 distrouble
 dihelium
