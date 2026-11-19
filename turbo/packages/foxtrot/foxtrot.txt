@@ -11105,7 +11105,7 @@ font
 fiendlier
 flops
 fervanite
-fusarial
+fusarial 1
 foyaite
 flatbread
 fastland
