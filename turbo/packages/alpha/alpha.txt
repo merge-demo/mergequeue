@@ -4587,7 +4587,7 @@ antheridial
 alferez
 aune
 advisedly
-advisedness
+advisedness 1
 arianists
 armyworm
 alestake
