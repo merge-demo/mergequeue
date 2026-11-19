@@ -9258,7 +9258,7 @@ effranchise
 errable
 ejido
 errancies
-endospermous
+endospermous 1
 enc
 entrapments
 egressing
