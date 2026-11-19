@@ -7635,7 +7635,7 @@ burgling
 bewraps
 basilisks
 belesprit
-bewrapt
+bewrapt 1
 bewreck
 besee
 brighten
