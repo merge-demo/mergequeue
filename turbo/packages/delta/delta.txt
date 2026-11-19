@@ -10370,7 +10370,7 @@ disfavors
 dihydronaphthalene
 devoured
 dioxides
-dertra
+dertra 1
 dioxids
 disinfectant
 donald
