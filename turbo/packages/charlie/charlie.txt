@@ -26536,7 +26536,7 @@ crockeries
 cottonian
 cottonization
 coexpire
-cottonize
+cottonize 1
 cottonmouth
 cerebellums
 cottonmouths
