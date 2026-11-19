@@ -20666,7 +20666,7 @@ anapterygota
 aeromagnetic
 adderwort
 albumen
-arthrospore
+arthrospore 1
 arthrostome
 arthrostomy
 arthrotyphoid
