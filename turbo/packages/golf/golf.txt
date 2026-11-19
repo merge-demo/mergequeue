@@ -1103,7 +1103,7 @@ genecologically
 generatively
 gashouses
 gearshifts
-gravitate
+gravitate 1
 graptolitic
 gallants
 guillotining
