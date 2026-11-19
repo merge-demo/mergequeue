@@ -1330,7 +1330,7 @@ ganoine
 goanese
 guslee
 garishly
-galligaskins
+galligaskins 1
 glycosine
 growingupness
 garlandless
