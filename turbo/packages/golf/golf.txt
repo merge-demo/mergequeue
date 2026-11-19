@@ -1759,7 +1759,7 @@ goutiest
 genealogizer 1
 gastroscopist
 gavelled
-gasterosteid
+gasterosteid 1
 gynandrism
 glossolaly
 gutterblood
