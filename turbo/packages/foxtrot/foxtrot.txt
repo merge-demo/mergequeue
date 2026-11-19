@@ -671,7 +671,7 @@ fortitudinous
 fictionalization 1
 finickingly
 firebreak
-fimetic
+fimetic 1
 farrand
 featherbedding
 facetiousness

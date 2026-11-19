@@ -9587,7 +9587,7 @@ eutectoid
 expediente
 excurse
 esculent
-egocentristic
+egocentristic 1
 encephaloma
 enchasers
 esoethmoiditis
