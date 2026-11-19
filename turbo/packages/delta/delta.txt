@@ -4242,7 +4242,7 @@ dook
 desipiency
 dopaminergic
 deuteragonist
-delthyrial
+delthyrial 1
 destructible
 dineros
 deltohedron
