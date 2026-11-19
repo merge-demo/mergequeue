@@ -772,7 +772,7 @@ ascites
 annats
 abreast
 archenteric
-acratia
+acratia 1
 abreed
 asyle
 advanceable
