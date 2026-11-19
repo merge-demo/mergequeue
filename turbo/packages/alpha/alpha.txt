@@ -21647,7 +21647,7 @@ atomicism
 assayable
 afterpotential
 assayed
-aphonous
+aphonous 1
 amorist
 assayers
 aphorists
