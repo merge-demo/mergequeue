@@ -2080,7 +2080,7 @@ dodecylic
 dilatory
 decalage
 dinghy
-disworship
+disworship 1
 dartle
 dendrography 1
 drip
