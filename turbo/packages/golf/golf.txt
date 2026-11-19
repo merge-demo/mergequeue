@@ -4399,7 +4399,7 @@ gumdigger
 gurdwara
 galactopyra
 ganggang
-galantine
+galantine 1
 grevillea
 goozle
 grammatist
