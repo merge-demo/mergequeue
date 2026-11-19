@@ -5456,7 +5456,7 @@ flibbertigibbet
 floatative
 fleering
 faunal
-forcibly
+forcibly 1
 figurativeness
 formulator
 famished
