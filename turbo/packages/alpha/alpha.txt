@@ -7537,7 +7537,7 @@ anfracture
 alnitham
 albuminize
 arrested
-anchovies
+anchovies 1
 adaptor
 albuminofibrin
 albuminoid
