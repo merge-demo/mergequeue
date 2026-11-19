@@ -4427,7 +4427,7 @@ egghot 1
 extermine
 effervesces
 echards
-edifices
+edifices 1
 encarnalized
 exalts
 epidermal
