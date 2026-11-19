@@ -12474,7 +12474,7 @@ adjective
 aromal
 antipyryl
 amphigastrium
-amenty
+amenty 1
 actinides
 argante
 androsphinx
