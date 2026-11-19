@@ -3063,7 +3063,7 @@ durzada
 disinvolvement
 dairi
 dowdiest
-defacement
+defacement 1
 disgustfully
 disquietingly
 deadliness
