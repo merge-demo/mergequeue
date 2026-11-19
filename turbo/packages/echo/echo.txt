@@ -2232,7 +2232,7 @@ electary
 excluded
 engrailing
 enthraldom
-emotionist
+emotionist 1
 electic
 ethnal
 electioneer
