@@ -7985,7 +7985,7 @@ artistes
 afterword
 acritical
 aggest
-amatungula
+amatungula 1
 alethopteroid
 archidium
 alethoscope
