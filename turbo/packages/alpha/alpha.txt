@@ -4019,7 +4019,7 @@ apokatastasis
 adminicula
 akolouthia
 anergy
-adminicular
+adminicular 1
 accounted
 adminiculation
 attical

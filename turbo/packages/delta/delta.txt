@@ -16302,7 +16302,7 @@ defended
 downshift
 demigod
 downshifted
-deheathenize
+deheathenize 1
 disvalue
 dephlegmatize
 dibbler
