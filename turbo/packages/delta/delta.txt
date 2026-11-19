@@ -2563,7 +2563,7 @@ derringer
 declassifies
 diplophonic
 disequality
-dematerialize
+dematerialize 1
 dorsocephalic
 distiller
 declensionally
