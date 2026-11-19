@@ -14802,7 +14802,7 @@ anticaustic
 amulet
 affreighter
 anticensorial
-atomically
+atomically 1
 amusee
 avys
 ammonitish
