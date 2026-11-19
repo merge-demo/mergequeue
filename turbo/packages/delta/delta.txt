@@ -7290,7 +7290,7 @@ diffusivity
 dollies
 diaxone
 desiccative
-doukhobor
+doukhobor 1
 devisers
 defecters
 defecation
