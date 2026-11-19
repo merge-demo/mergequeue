@@ -5772,7 +5772,7 @@ depopulation
 denitrize
 dowve
 disimitation
-demipuppet
+demipuppet 1
 dicyanodiamide
 dovekeys
 decaliter
