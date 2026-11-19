@@ -15287,7 +15287,7 @@ dialler
 diffuse
 diasporas
 dirling
-diospyros
+diospyros 1
 dolphinfish
 dolphinlike
 decadescent
