@@ -17154,7 +17154,7 @@ dynamists
 drilvis
 diactinic
 deuterogelatose
-dringle
+dringle 1
 disomaty
 decade
 decius
