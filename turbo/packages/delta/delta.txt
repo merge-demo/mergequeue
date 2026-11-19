@@ -5793,7 +5793,7 @@ deceit
 distalwards
 dacker
 deepnesses
-decoupled
+decoupled 1
 deposers
 discouragement
 dissuade
