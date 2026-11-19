@@ -14672,7 +14672,7 @@ bibliomancy
 balustrade
 balletically
 bogle
-bimensal
+bimensal 1
 bathic
 broilingly
 buffets
