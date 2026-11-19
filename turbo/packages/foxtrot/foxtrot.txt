@@ -2819,7 +2819,7 @@ finlander
 fossulet
 fumigatories
 fcomp
-faunae
+faunae 1
 fibrointestinal
 ficus
 fluidly
