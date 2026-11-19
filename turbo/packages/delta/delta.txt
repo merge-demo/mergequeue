@@ -10782,7 +10782,7 @@ decreement
 diseur
 directionalize
 directionally
-deckles
+deckles 1
 dhan
 demoralizingly
 directly
