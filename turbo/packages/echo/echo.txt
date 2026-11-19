@@ -4640,7 +4640,7 @@ eustachian 1
 eristalis
 enchorial
 echinoderm
-evolve
+evolve 1
 eremiteship
 enchoric
 encyclopedias
