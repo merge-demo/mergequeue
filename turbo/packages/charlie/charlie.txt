@@ -46,7 +46,7 @@ coreign
 cabaret
 cabasa
 corder
-cabbage
+cabbage 1
 chuffily
 commends
 coup

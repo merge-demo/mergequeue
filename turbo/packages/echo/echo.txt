@@ -2247,7 +2247,7 @@ epigonos
 exhume
 encyclopedian
 encell
-epauletted
+epauletted 1
 electragy
 excessive
 epitomist
