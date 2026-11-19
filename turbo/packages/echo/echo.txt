@@ -4792,7 +4792,7 @@ estrogenicity
 embrangle
 extols
 exflagellation
-eequinoctium
+eequinoctium 1
 emulously
 enlivens
 encomic
