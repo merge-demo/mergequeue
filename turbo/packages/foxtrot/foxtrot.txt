@@ -8636,7 +8636,7 @@ forgivable
 footing
 flaunt
 fillebeg
-fumistery
+fumistery 1
 foretastes
 filicoids
 flanched
