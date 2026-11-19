@@ -7973,7 +7973,7 @@ chabuks
 chac
 chacate
 complainable
-cosiness
+cosiness 1
 chimin
 caravansaries
 camphoraceous
