@@ -10661,7 +10661,7 @@ forenamed
 florican
 fundamental
 fidicinal
-flatulent
+flatulent 1
 foodstuffs
 fruitiness
 fieldworker
