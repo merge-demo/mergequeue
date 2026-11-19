@@ -2714,7 +2714,7 @@ firebird
 feigher
 formalazine
 factorization
-fouette
+fouette 1
 fervor
 flanks 1
 flamenco
