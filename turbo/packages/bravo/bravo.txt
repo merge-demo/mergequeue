@@ -15622,7 +15622,7 @@ bushlet
 bromacetanilide
 barenecked
 bristlelike
-brigander
+brigander 1
 beingless
 borer
 babyhoods
