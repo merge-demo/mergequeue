@@ -1282,7 +1282,7 @@ ganges
 glike
 granch
 giddying
-gable
+gable 1
 ginkgo
 gestation
 garefowl
