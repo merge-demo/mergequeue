@@ -4152,7 +4152,7 @@ cardiogram
 cardiographer
 coinsurer
 cardiographic
-cardiographies
+cardiographies 1
 cardiohepatic
 cardioid
 courche
