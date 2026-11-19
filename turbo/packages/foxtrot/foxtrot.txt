@@ -11692,7 +11692,7 @@ furil
 filmmaker
 flapcake
 foredispose
-flagellums
+flagellums 1
 filets
 fracas
 fas 1
