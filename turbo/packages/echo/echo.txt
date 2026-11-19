@@ -1087,7 +1087,7 @@ exfigure
 earock
 equipoised
 envined
-edificatory
+edificatory 1
 epimerize
 expostulatively
 elliptic
