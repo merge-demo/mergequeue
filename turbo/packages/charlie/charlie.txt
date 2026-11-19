@@ -6083,7 +6083,7 @@ catlins
 craftsperson
 cryptoporticus
 canephroi
-cantharidizing
+cantharidizing 1
 cumene
 casuistical
 cresotic
