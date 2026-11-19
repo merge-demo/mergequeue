@@ -2084,7 +2084,7 @@ cyclist
 campaniliform
 chicayote
 campanini
-casseroled
+casseroled 1
 cuecas
 campanologer
 crucis
