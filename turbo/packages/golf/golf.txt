@@ -7297,7 +7297,7 @@ gamostelic
 gambreled
 gassendist
 gastraea
-gortonite
+gortonite 1
 gauffer
 graphiologist
 glutaric
