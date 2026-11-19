@@ -7228,7 +7228,7 @@ epicurize
 enskied
 excrescences
 expunge
-electronegativity
+electronegativity 1
 eoiths
 entamebae
 extradictionary
