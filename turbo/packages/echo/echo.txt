@@ -2008,7 +2008,7 @@ emulsic
 equisonant
 endodontist
 eradiculose
-elabrate
+elabrate 1
 endocrinotherapy
 epigaea
 eta
