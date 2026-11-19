@@ -1572,7 +1572,7 @@ endocardia
 ethnogenist
 exobiologist
 equinity
-eglomerate
+eglomerate 1
 eaglets
 embossment
 eglomise
