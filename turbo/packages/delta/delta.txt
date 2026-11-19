@@ -11388,7 +11388,7 @@ dissuader
 demivotary
 determinoid
 debug
-discloser
+discloser 1
 disclosure
 duplicitous
 downloading
