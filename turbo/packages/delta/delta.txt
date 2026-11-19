@@ -6936,7 +6936,7 @@ domineer
 despecialize
 despecificate
 despecification
-desperado
+desperado 1
 darky
 dioptre 1
 digits
