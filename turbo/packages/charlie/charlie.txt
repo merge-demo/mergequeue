@@ -6880,7 +6880,7 @@ celticize
 celtidaceae
 celtiform
 consortiums
-celtism
+celtism 1
 cotyla
 clockroom
 contingencies
