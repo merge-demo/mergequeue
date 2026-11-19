@@ -9072,7 +9072,7 @@ charpai
 capacitates
 crataegus
 cordia
-charpit
+charpit 1
 canape
 charpoys
 costing
