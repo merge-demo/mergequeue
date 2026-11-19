@@ -2280,7 +2280,7 @@ enbloc
 eyelets
 endolymph
 excretal
-eger
+eger 1
 encased
 ester
 electrifiers
