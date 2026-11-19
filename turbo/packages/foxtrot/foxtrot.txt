@@ -4723,7 +4723,7 @@ frettage
 fictation
 frumentarious
 folkmots
-flabbergast
+flabbergast 1
 forkfuls
 fossicking
 fougue
