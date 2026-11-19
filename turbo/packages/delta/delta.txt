@@ -454,7 +454,7 @@ daysmen
 dayspring
 daswen
 disdainful
-daytimes
+daytimes 1
 disburthen
 disaccharide 1
 daywrit
