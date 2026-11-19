@@ -10846,7 +10846,7 @@ chip
 chipchop 1
 chiplet
 culvert
-claviharp
+claviharp 1
 chipmunks
 chrysochrous
 chipolata
