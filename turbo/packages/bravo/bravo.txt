@@ -17694,7 +17694,7 @@ blueings
 bonuses
 boomlets
 burleycue
-burlesquer
+burlesquer 1
 boviculture
 burlesquing
 burlet

@@ -14719,7 +14719,7 @@ dissymmettric
 dobos
 drumlier
 damaging
-dactyloscopic
+dactyloscopic 1
 detained
 decahedral
 doctorbird
