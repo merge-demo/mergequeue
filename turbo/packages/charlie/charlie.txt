@@ -14260,7 +14260,7 @@ clefted
 chickaree
 coelia
 circumnavigator
-cyclometrical
+cyclometrical 1
 coitophobia
 costal
 cardioids
