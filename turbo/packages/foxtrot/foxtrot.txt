@@ -5159,7 +5159,7 @@ flavanone
 flambes
 formicidae
 funambulism
-flatness
+flatness 1
 fadged
 faceting
 flatted
