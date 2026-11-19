@@ -13585,7 +13585,7 @@ esoteric
 exsufflate
 exsufflation
 epithymetical
-extracutaneous
+extracutaneous 1
 evasions
 echidnas
 electrophilically
