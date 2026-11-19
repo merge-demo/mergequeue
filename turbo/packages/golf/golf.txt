@@ -9203,7 +9203,7 @@ glaucomas 1
 glaucosuria
 gastrodiaphanoscopy
 gradine
-goniometrically
+goniometrically 1
 grippiest
 granulating
 gluttei
