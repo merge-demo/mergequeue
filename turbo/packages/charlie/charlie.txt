@@ -4026,7 +4026,7 @@ chiasmata
 carcinomatosis
 carpetweed
 cellophane
-cholers
+cholers 1
 cornhusk
 carcinomatous
 carcinomorphic
