@@ -5773,7 +5773,7 @@ gunkholed
 gossypose 1
 gonotheca
 gravemaker
-galera
+galera 1
 grittier
 gade
 graphites
