@@ -828,7 +828,7 @@ gramary
 gamblesomeness 1
 greenback
 gambogian
-gombroons
+gombroons 1
 grangerise
 goban
 genistin
