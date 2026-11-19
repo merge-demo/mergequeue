@@ -4282,7 +4282,7 @@ doc
 delustering
 deceleration
 dismayingly
-delved
+delved 1
 dermatopathology
 demimillionaire
 dysarthria
