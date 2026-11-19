@@ -5832,7 +5832,7 @@ glows
 grinny
 gaupus
 glissades
-gynecia
+gynecia 1
 greggle
 gather
 greekish
