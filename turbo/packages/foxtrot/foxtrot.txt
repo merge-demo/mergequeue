@@ -1956,7 +1956,7 @@ figure
 friable
 fangot
 frenal
-froze
+froze 1
 forebearing
 floccule
 finagling
