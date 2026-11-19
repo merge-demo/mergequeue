@@ -4717,7 +4717,7 @@ gumshoe
 glucosuria
 grudgingly
 genista
-galeae
+galeae 1
 glucic
 gowland
 gite
