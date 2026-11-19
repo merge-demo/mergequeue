@@ -1932,7 +1932,7 @@ enjoin
 epiphylaxis
 eluants
 eyeleted
-echinulate
+echinulate 1
 estoppal
 eurypterid
 essenical
