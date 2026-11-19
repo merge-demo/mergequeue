@@ -10874,7 +10874,7 @@ equilibrations
 encouragements
 eyeful
 edea
-empair
+empair 1
 esclandre 1
 exsolve
 emmetropia
