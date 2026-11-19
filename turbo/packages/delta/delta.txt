@@ -424,7 +424,7 @@ dairywomen
 daunder
 descanting
 dustpoint
-dayrooms
+dayrooms 1
 deities
 dorsad
 dhourra
