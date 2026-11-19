@@ -8255,7 +8255,7 @@ diagnosing
 duel
 dictyostele
 doubletree
-denude
+denude 1
 diagonals
 distancing
 deducting
