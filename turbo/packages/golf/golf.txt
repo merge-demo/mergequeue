@@ -7983,7 +7983,7 @@ gaboons
 galvanotaxis
 glossina
 goniatitid
-ghettoize
+ghettoize 1
 gynecologic
 grippy
 gudok
