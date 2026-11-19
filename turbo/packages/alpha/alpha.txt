@@ -3740,7 +3740,7 @@ afterpressure
 ambisexual
 antesternum
 affectionate
-adevism
+adevism 1
 adfected
 archmilitarist
 aburabozu
