@@ -27617,7 +27617,7 @@ covite
 covolume
 catchpennies
 centrutra
-coarser
+coarser 1
 cognoscitively
 cypressroot
 crescentwise
