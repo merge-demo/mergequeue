@@ -4308,7 +4308,7 @@ entrenches
 esture
 elytroclasia
 expulsive
-expansibleness
+expansibleness 1
 enactor
 epigrammatize
 entoproct
