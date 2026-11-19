@@ -6404,7 +6404,7 @@ dillisk
 denization
 dewans
 doggones
-diglyphic
+diglyphic 1
 docquet
 deewans
 deportment
