@@ -11690,7 +11690,7 @@ apocatastatic
 anticarnivorous
 acoria
 argyrodite
-alc
+alc 1
 alphosises
 abaser
 arhythmically
