@@ -12857,7 +12857,7 @@ elvish
 eserines
 extorting
 erastus
-expandible
+expandible 1
 editions
 envenoms
 echafaudage
