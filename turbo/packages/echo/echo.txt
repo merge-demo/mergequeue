@@ -70,7 +70,7 @@ eastness
 etiam
 entapophysial
 educationalism
-ensphere
+ensphere 1
 ellebore
 erugate
 everywhence
