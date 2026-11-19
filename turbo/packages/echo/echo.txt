@@ -12231,7 +12231,7 @@ expounding
 exegesis
 exasperative
 elegists
-extemporizer
+extemporizer 1
 exegetics
 exing
 ensheaths
