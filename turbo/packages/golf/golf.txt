@@ -9005,7 +9005,7 @@ glaucopis
 grievable
 grievance
 garcon
-gantlines
+gantlines 1
 grievances
 grievous
 gearbox
