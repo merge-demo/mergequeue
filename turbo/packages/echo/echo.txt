@@ -1297,7 +1297,7 @@ ericophyte
 efface
 equalized
 effacers
-ellipsis
+ellipsis 1
 exhilarated
 exumbrellar
 effect
