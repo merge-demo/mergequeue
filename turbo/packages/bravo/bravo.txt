@@ -5137,7 +5137,7 @@ biotic
 boomorah
 blende
 broadside
-beggarer
+beggarer 1
 boorishness 1
 buccinatory
 bagpod
