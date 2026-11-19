@@ -21482,7 +21482,7 @@ aspergillus
 asperifoliae
 asperity
 anthrol
-armipotent
+armipotent 1
 attrib
 associationist
 abdicating
