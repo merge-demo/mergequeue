@@ -192,7 +192,7 @@ daedaloid
 diaplasma
 daedalous
 divulgated
-defilable
+defilable 1
 decontamination
 daemony 1
 deforesting
