@@ -12673,7 +12673,7 @@ exonym
 era
 eelback
 earcockle
-eloquent
+eloquent 1
 energizing
 exophasic
 etchers
