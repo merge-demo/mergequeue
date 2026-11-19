@@ -389,7 +389,7 @@ galangin
 grond
 golundauze
 gavot
-gaoled
+gaoled 1
 glaive
 goto
 goatskins
