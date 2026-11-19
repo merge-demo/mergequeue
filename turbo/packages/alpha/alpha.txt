@@ -3704,7 +3704,7 @@ adenotomic
 adenous
 autocarpic
 adeona
-attenuative
+attenuative 1
 argoan
 amies
 archidiaceae
