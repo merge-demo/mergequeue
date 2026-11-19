@@ -1179,7 +1179,7 @@ eident
 enwisen
 educatable
 educatedness
-electrolyzable
+electrolyzable 1
 eudiometric
 extrasystolic
 ethoxyls
