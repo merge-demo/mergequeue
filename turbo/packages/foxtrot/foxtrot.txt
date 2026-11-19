@@ -10437,7 +10437,7 @@ forstall
 flockless
 frizes
 fellah
-ferocity
+ferocity 1
 februarius
 flaxtail
 frontwards
