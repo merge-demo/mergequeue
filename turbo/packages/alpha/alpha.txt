@@ -1179,7 +1179,7 @@ applauses
 adjustor
 acanthia
 apocryphally
-acanthion
+acanthion 1
 atrosanguineous
 acanthodean
 abbots

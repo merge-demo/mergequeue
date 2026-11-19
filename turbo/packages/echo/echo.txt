@@ -1682,7 +1682,7 @@ essentialist
 electrothermancy
 ellan
 esophagi
-eddoes
+eddoes 1
 elaioleucite
 eyebright
 eyliad
