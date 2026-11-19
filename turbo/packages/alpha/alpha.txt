@@ -4791,7 +4791,7 @@ angiasthenia
 acmaea
 aerials
 aeric
-alligate
+alligate 1
 aerifaction
 adenoses
 ahimsa
