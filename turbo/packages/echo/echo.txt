@@ -8540,7 +8540,7 @@ effluvivia
 estheriidae
 esophagotome
 enteromere
-equatable
+equatable 1
 epiphanised
 eudaemons
 ecclesiasticize
