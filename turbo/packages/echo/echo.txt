@@ -12798,7 +12798,7 @@ ecanda
 excavation
 enterocyst
 empacket
-elinguated
+elinguated 1
 eroticization
 emicant
 expansive
