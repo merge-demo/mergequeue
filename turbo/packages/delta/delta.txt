@@ -1401,7 +1401,7 @@ dispel
 downdale
 dismain
 demonomanie
-digitals
+digitals 1
 delis
 drapability
 dissatisfactoriness
