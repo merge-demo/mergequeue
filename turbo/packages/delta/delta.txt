@@ -190,7 +190,7 @@ damas
 decipherer
 daedaloid
 diaplasma
-daedalous
+daedalous 1
 divulgated
 defilable
 decontamination
