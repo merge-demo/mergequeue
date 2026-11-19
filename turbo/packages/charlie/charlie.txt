@@ -22583,7 +22583,7 @@ cultelli
 connectibility
 cryptanalysis
 connaturalize
-chg
+chg 1
 cosech
 connaturalness
 connature
