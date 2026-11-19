@@ -17202,7 +17202,7 @@ difformed
 disintricate
 drysne
 director
-diaphoresis
+diaphoresis 1
 decursive
 dovecote
 depletory
