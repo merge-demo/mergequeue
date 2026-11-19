@@ -15129,7 +15129,7 @@ diaphragmed
 deerherd
 dislustre
 disallows 1
-dullpate
+dullpate 1
 decayable
 demiofficial
 daisybush
