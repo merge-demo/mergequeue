@@ -10807,7 +10807,7 @@ footsteps
 fructificative
 floundered
 faintful
-fuchsine
+fuchsine 1
 furmint
 flustra
 facet
