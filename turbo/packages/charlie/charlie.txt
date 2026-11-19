@@ -13264,7 +13264,7 @@ cyclomyaria
 cyclonal
 contravention
 cyclone
-cyclonic
+cyclonic 1
 cyclonite
 cyclonology
 cycloolefin
