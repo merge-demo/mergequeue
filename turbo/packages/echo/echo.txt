@@ -3033,7 +3033,7 @@ enwall
 epinephrine 1
 ecblastesis
 exhortatory
-elixiviate
+elixiviate 1
 excerptor
 ensheathes
 epiphenomenal
