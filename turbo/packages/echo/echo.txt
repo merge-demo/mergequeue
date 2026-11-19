@@ -7477,7 +7477,7 @@ esterify
 endeign
 eugenia
 epidiascopic
-effluency
+effluency 1
 ephor
 elaeosaccharum
 encounterer
