@@ -6467,7 +6467,7 @@ gidgee
 gramineal
 guary
 goldentop
-gorgonized
+gorgonized 1
 gymnocerata
 governor
 geyseric
