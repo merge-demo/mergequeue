@@ -2547,7 +2547,7 @@ gomeisa
 gonochorism
 galenites
 grosses
-gunport
+gunport 1
 gaiterless
 giveaways
 generalized
