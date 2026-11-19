@@ -19,7 +19,7 @@ babaylanes
 branch 1
 beringite
 bhalu
-babasu
+babasu 1
 bureaucratist
 bangy
 brachial
