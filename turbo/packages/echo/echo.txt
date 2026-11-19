@@ -8663,7 +8663,7 @@ exceptionable
 expels
 exerce
 emphyteuta
-elutriating
+elutriating 1
 etherialised
 equinate
 enameller
