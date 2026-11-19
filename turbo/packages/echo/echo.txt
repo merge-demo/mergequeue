@@ -8638,7 +8638,7 @@ electrodynamometer
 elinguating
 ectal
 escapee
-equilibrates
+equilibrates 1
 exonerators
 ethylamide
 egol
