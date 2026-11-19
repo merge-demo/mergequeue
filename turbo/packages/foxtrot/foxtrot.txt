@@ -1800,7 +1800,7 @@ fosslfying
 fermion
 fakofo
 featherpate
-fetlocks
+fetlocks 1
 forconceit
 foghorns
 foehn
