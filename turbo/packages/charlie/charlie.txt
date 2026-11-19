@@ -1945,7 +1945,7 @@ crotalid
 checkered
 capitols
 cumulose
-cyprinodont
+cyprinodont 1
 camerae
 curbless
 cameral
