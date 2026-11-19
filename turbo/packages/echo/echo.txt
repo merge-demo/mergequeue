@@ -3598,7 +3598,7 @@ engrosses
 eyeliner
 embracement
 elders
-expanse
+expanse 1
 elliot
 enquiry
 existability
