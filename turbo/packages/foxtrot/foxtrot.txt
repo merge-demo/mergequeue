@@ -9556,7 +9556,7 @@ freightyard
 forwalk
 foolmonger
 fluorid
-fogginess
+fogginess 1
 flatette
 figureless
 final
