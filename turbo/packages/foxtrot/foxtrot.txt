@@ -4810,7 +4810,7 @@ fooling
 flaggy
 formicated
 foaly
-foreshowed
+foreshowed 1
 forfeiting
 fraudful
 frontoorbital
