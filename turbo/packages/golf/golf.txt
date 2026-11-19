@@ -9527,7 +9527,7 @@ grimp
 giftbook
 gymnosporous
 guiltiness
-gentilitious
+gentilitious 1
 graals
 glutinize
 grumpishness
