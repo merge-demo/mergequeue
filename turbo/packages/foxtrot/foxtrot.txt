@@ -4025,7 +4025,7 @@ flounce
 festin
 forehorse
 fluoaluminic
-felicific
+felicific 1
 forwean
 forefaces
 fallible
