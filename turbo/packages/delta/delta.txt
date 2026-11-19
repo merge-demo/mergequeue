@@ -1190,7 +1190,7 @@ datably
 demoiselles
 datafile
 dunts
-dillydallying
+dillydallying 1
 dahabiah
 doormat
 demibrassart
