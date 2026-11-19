@@ -17165,7 +17165,7 @@ disgaveled
 damselfly
 dossers
 diminutiveness
-dromedaries
+dromedaries 1
 diaphaneity
 diswont
 drinks
