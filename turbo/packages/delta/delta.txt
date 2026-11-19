@@ -5777,7 +5777,7 @@ dicyanodiamide
 dovekeys
 decaliter
 deportability
-deportations
+deportations 1
 decriminalized
 demonomancy
 dreariest
