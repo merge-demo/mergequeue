@@ -19550,7 +19550,7 @@ columban
 czar
 cementin
 chlorazide
-capabilities
+capabilities 1
 columbaria
 columbaries
 clours
