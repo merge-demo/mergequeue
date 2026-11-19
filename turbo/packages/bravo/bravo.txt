@@ -9426,7 +9426,7 @@ birl 1
 blockishly
 bullwhipped
 begrease
-bristliness
+bristliness 1
 btl
 baccheion
 bandwidths
