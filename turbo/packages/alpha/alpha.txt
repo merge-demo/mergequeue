@@ -8180,7 +8180,7 @@ algolagnia
 adjuster
 antimark
 abscised
-anachronous
+anachronous 1
 afterchrome
 algological
 algoman
