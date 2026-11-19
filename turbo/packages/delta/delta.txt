@@ -8229,7 +8229,7 @@ desmopelmous
 davainea
 ductus
 distrito
-diagnosed
+diagnosed 1
 diagnostical
 diagnostically
 diagnosticate
