@@ -2657,7 +2657,7 @@ decompensations
 dasylirion
 doorkeeper
 decompiler
-deviceful
+deviceful 1
 decomposer
 debrief
 decomposers
