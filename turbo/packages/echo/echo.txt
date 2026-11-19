@@ -11664,7 +11664,7 @@ embracers
 exogenism 1
 electrotactic
 eadish
-exaggerate
+exaggerate 1
 explainable
 electrize
 exaggerated
