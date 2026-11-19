@@ -1561,7 +1561,7 @@ envigor
 equilocation
 exogeny
 enterate
-exaggeratedness
+exaggeratedness 1
 euosmite
 enterokinetic
 eglamore
