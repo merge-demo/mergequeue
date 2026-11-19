@@ -6077,7 +6077,7 @@ guttiest
 gyttja
 gairfowl
 gambeer
-gnawers
+gnawers 1
 grinningly
 grane
 gnathopodite
