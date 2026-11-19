@@ -10372,7 +10372,7 @@ furrings
 fonctionnaire
 fecundities
 fertilizable
-frontignan
+frontignan 1
 fucate
 fronting
 fizzle
