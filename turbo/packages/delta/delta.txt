@@ -8522,7 +8522,7 @@ dicht
 dantomania
 disaccharides
 dinked
-diapause
+diapause 1
 diapauses
 donaries
 decarburize
