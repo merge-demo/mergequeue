@@ -11601,7 +11601,7 @@ eucalypt
 envenomous
 everywhereness
 expatiation
-encephalitis
+encephalitis 1
 ewte
 elumbated
 exacerbated
