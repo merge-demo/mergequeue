@@ -6003,7 +6003,7 @@ fusty
 foolscaps
 felspars
 flacon
-fumattoria
+fumattoria 1
 fidiculae
 ferroelectrically
 fellowman
