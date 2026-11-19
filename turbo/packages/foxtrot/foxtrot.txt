@@ -3218,7 +3218,7 @@ foots
 funder
 friers
 frostwort
-flexionless
+flexionless 1
 fuchsone
 forefend
 foodlessness
