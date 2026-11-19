@@ -7369,7 +7369,7 @@ foreparent
 faubourg
 forebodingly 1
 footplate
-flakiness 1
+flakiness 2
 fortunous
 faujasite
 feedlots
