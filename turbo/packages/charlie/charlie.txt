@@ -17016,7 +17016,7 @@ cistuses
 cnida
 castorized
 cnemidium
-cnemis
+cnemis 1
 caryatides
 cneorum
 cytotrophy
