@@ -4912,7 +4912,7 @@ fino
 fourscore
 flakiest
 forged
-fixate
+fixate 1
 fossilist
 finisher
 floreat
