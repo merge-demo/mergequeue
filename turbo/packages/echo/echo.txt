@@ -2100,7 +2100,7 @@ emulge
 excretory
 extrapolator
 effuse
-elastically
+elastically 1
 eurycephalous
 exudes
 emberiza
