@@ -29649,7 +29649,7 @@ cotingid
 crocodylus
 chronol
 carrat
-counteraffirm
+counteraffirm 1
 croconic
 convincedness
 conoidal
