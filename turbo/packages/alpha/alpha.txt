@@ -13521,7 +13521,7 @@ aerophilatelist 1
 annihilationistical
 apophony
 autocremation
-annihilative
+annihilative 1
 aftonian
 annihilatory
 annihilators
