@@ -13507,7 +13507,7 @@ dustrag
 doubleleaf
 dinitrile
 dysphoria
-destain
+destain 1
 deadwood
 diaphonical
 demiglobe
