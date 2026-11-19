@@ -17602,7 +17602,7 @@ dexterical
 decastylar
 dichoree
 dacus
-designable
+designable 1
 dentigerous
 defeminisation
 denicotinizing
