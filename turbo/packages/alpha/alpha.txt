@@ -10195,7 +10195,7 @@ ambulatories
 ambulatorium
 ahepatokla
 anthropogenic
-avo
+avo 1
 acmaesthesia
 amburbial
 anxiolytic
