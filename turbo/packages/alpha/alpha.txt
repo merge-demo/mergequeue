@@ -16677,7 +16677,7 @@ atelectatic
 alternipinnate 1
 assizement
 araby
-apertness
+apertness 1
 abnormalism
 ambocoelia
 actionable
