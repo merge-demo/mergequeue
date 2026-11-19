@@ -1560,7 +1560,7 @@ gymnura
 gauntlet
 gutteral
 gulanganes
-gunlock
+gunlock 1
 gasterotheca
 gandermooner
 gormandism
