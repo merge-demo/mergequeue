@@ -3586,7 +3586,7 @@ epitomically
 embows
 exanimate
 enculturate
-enclog
+enclog 1
 entamoeba
 encyclopaediac
 ensnarers
