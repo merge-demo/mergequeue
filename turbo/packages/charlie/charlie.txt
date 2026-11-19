@@ -22401,7 +22401,7 @@ cataloguish
 corrupable
 conicality
 chordally
-crookfingered
+crookfingered 1
 coastwards
 calandrinae
 coniceine
