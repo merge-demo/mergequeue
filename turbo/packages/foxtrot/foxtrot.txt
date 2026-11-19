@@ -10245,7 +10245,7 @@ fleetness
 feme
 filum
 fistinut
-frolic
+frolic 1
 felstone
 fluidglycerate
 franklinism

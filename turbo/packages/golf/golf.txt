@@ -8072,7 +8072,7 @@ gravels
 gasify
 glenoidal
 granitiform
-geomancer
+geomancer 1
 gastrostomus
 gaslightness
 geomagnetism
