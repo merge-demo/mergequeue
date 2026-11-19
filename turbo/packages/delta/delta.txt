@@ -11223,7 +11223,7 @@ duckpins
 divinistre
 duodenocholecystostomy
 dilatability
-definability
+definability 1
 deposure
 dyspathy
 duncishly
