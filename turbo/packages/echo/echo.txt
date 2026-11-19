@@ -12051,7 +12051,7 @@ embalmed
 excortication
 eschewals
 enlightener
-eruptions
+eruptions 1
 ethynyls
 expediate
 entrainer
