@@ -15689,7 +15689,7 @@ bicircular
 bayonet
 burningly
 broadeners
-bacteriosis
+bacteriosis 1
 bisulcated
 bosoming
 bauxitite
