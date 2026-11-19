@@ -10126,7 +10126,7 @@ fumarium 1
 frivolling
 feasibility 2
 falchions
-furore
+furore 1
 fluid
 frivolousness
 faunula

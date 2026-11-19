@@ -20978,7 +20978,7 @@ antimethod
 affects
 ascarids
 adjectivism
-alpinist
+alpinist 1
 agog
 ascelli
 ascellus
