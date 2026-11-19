@@ -6605,7 +6605,7 @@ dipentene
 decipherable
 digested
 deprecations 1
-deselected
+deselected 1
 depiction
 dysmerogenesis
 duddie
