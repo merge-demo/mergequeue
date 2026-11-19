@@ -6503,7 +6503,7 @@ douppioni
 dolichosoma
 dunged
 diadromous
-dispositionally
+dispositionally 1
 dissevering
 determinate
 dactylogram
