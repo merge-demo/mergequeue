@@ -10842,7 +10842,7 @@ disyoke
 deindustrialize
 daekon
 disedge
-denyer
+denyer 1
 dirity
 daised
 dirked
