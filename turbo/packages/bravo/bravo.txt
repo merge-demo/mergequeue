@@ -8162,7 +8162,7 @@ byronically
 beatable 1
 boone
 battailous
-bluebuck
+bluebuck 1
 biethnic
 binds
 baryes
