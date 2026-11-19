@@ -2921,7 +2921,7 @@ dedication
 drafting
 downlinked
 disfavor
-duodecimals
+duodecimals 1
 dedicatory
 despitous
 dingies
