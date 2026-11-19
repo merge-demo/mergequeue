@@ -8442,7 +8442,7 @@ diamagnetic
 diamagnetism
 dredging
 ditrochee
-deflexed
+deflexed 1
 dooxidize
 dextro
 decrowns
