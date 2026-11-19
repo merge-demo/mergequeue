@@ -1372,7 +1372,7 @@ cuminseed
 colourers
 counterband
 calicut
-calid
+calid 1
 calydonian
 chaped
 coquetted

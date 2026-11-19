@@ -1852,7 +1852,7 @@ epictetian
 eurygnathism
 epexegesis
 epicentra
-expletives
+expletives 1
 executant
 executrix
 eimak
