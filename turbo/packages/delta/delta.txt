@@ -6771,7 +6771,7 @@ diathermic
 desilvers
 demultiplex
 demoniacal
-daeva
+daeva 1
 dolichocephal
 drafts
 detachments
