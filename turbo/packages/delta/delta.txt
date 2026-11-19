@@ -11978,7 +11978,7 @@ daint
 diammine
 decimus
 domicella
-distichous
+distichous 1
 dagoes
 desmodus
 disenfranchisement
