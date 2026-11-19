@@ -9244,7 +9244,7 @@ digitalic
 dateableness
 dyes 1
 dinghies
-draftable
+draftable 1
 damfoolish
 depicturing
 deanathematize
