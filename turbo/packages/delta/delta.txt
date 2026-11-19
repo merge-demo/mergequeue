@@ -3240,7 +3240,7 @@ danae
 dayside
 derricking
 defenseless
-disproofs
+disproofs 1
 defenselessness
 dolichostylous
 dogrib
