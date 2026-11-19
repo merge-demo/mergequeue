@@ -62,7 +62,7 @@ eyn
 excuss
 ecotypes 1
 elf
-empaneling
+empaneling 1
 earliest
 emarginate
 enfilading
