@@ -4411,7 +4411,7 @@ dastur
 disassembled
 dementation
 dementedly
-dementholize
+dementholize 1
 disseated
 demiatheism
 dementia
