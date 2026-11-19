@@ -18653,7 +18653,7 @@ archaeolith
 archaeologer
 adding
 adiathermal
-artemisic
+artemisic 1
 adoral
 archaeologic
 amylases
