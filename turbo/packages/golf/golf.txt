@@ -2951,7 +2951,7 @@ glutinousness
 gigantomachy
 glueing
 gumshoeing
-glitterance
+glitterance 1
 guller
 geogeny
 gerara
