@@ -2162,7 +2162,7 @@ guacos
 galea
 goldfinches
 galliards
-glistening
+glistening 1
 glisters
 gumpheon
 gebbie
