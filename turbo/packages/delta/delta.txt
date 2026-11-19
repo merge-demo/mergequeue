@@ -18170,7 +18170,7 @@ disavowable
 digress
 dump
 disreputably
-degerming
+degerming 1
 dyaster
 domic
 disparager
