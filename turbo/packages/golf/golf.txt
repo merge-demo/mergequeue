@@ -6699,7 +6699,7 @@ geotherm
 gromatic
 geochronometry
 grattage
-gewgawed
+gewgawed 1
 gradual
 gastrotheca
 growse
