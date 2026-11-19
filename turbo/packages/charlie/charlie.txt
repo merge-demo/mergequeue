@@ -784,7 +784,7 @@ completories
 cahincic
 chironomidae
 cahita
-continency
+continency 1
 cunas
 collyr
 circulating
