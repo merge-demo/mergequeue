@@ -8019,7 +8019,7 @@ expectorations
 endovasculitis
 exsanguious
 euthenist
-equuleus
+equuleus 1
 encoop
 electrodentistry
 ergs
