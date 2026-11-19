@@ -2018,7 +2018,7 @@ encurl
 exophasia
 emersion
 etherish
-ethiopic
+ethiopic 1
 examinational
 elaenia
 elaeocarpaceae
