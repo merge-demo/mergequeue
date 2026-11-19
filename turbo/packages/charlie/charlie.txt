@@ -8937,7 +8937,7 @@ charged
 cupping
 chargee
 cataphasia
-chargeful
+chargeful 1
 chargehouse
 chargeless
 charger
