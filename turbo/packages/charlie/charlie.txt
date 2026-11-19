@@ -12964,7 +12964,7 @@ crystallogenesis
 cyanoacetate
 cyclops
 cobenignity
-currencies
+currencies 1
 cyanoaurate
 characeous
 cyanoauric
