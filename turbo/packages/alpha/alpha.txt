@@ -1964,7 +1964,7 @@ atheromata
 analyse
 armorial
 acetins
-acardite
+acardite 1
 almeries
 archigony
 adangle
