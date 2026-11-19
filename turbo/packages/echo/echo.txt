@@ -8386,7 +8386,7 @@ errands
 elsholtzia
 epitrachelia
 estrum
-exceedable
+exceedable 1
 englory
 earplug
 equestrial
