@@ -8443,7 +8443,7 @@ gales
 grocerdom
 gawsie
 gandul
-gyring
+gyring 1
 grapestone
 gravelroot
 gaussbergite
