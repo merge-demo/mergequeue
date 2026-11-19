@@ -16482,7 +16482,7 @@ debones
 dwellings
 demagogical
 dairywoman
-detached
+detached 1
 dracontium
 diastole
 dungan
