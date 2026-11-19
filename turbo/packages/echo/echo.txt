@@ -8617,7 +8617,7 @@ executor
 eleutheromania
 epibasal
 equidivision
-epigrammatising
+epigrammatising 1
 embouchures
 electrovital
 echowise
