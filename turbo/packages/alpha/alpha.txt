@@ -17769,7 +17769,7 @@ ammunition
 applicatively
 applicatory
 appliedly
-afterdischarge
+afterdischarge 1
 allegorized
 alcibiadean
 abacterial
