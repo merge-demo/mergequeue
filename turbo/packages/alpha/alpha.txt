@@ -1402,7 +1402,7 @@ accepts
 attractants
 apellous
 accessary
-accessaries
+accessaries 1
 anesthesiometer
 accessarily
 autarkic
