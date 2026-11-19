@@ -12080,7 +12080,7 @@ causer
 crambo
 cursiveness
 chowses
-chowtime
+chowtime 1
 chowtimes
 chrematheism
 chrematistic
