@@ -3074,7 +3074,7 @@ excreters
 eardrop
 exor
 esthetes
-endarterium
+endarterium 1
 entwined
 entellus
 escar 1
