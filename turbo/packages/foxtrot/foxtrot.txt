@@ -11674,7 +11674,7 @@ floodometer
 flibustier
 furcates
 fez
-frailties
+frailties 1
 festoons
 fadable
 frigorific
