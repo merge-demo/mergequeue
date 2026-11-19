@@ -3283,7 +3283,7 @@ farsight
 fivescore
 flounces
 fortier
-fulgency 1
+fulgency 2
 finity
 factitious
 framed
