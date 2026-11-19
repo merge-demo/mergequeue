@@ -782,7 +782,7 @@ enclitic
 escort
 extense
 eremophilous 1
-experimental
+experimental 1
 epitheliliums
 ecroulement
 emden

@@ -335,7 +335,7 @@ fireplough 1
 faineancy
 fayles
 fimbricated
-furcal
+furcal 1
 forebackwardly
 fayumic
 festoon
