@@ -4185,7 +4185,7 @@ discharger
 decussation
 deadlatch
 deloo
-deloul
+deloul 1
 decocted
 deloused
 dribs
