@@ -10259,7 +10259,7 @@ agamid
 attire
 anemophile
 autocide
-acidifying
+acidifying 1
 ameerates
 analgesia
 ameiosis
