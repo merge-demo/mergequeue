@@ -3873,7 +3873,7 @@ endometry
 eschatocol
 exotheca
 emigrating
-excogitating
+excogitating 1
 enflagellate
 epidotic 1
 enfeebled
