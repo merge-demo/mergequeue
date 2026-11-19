@@ -4995,7 +4995,7 @@ endenize
 executional
 escalop
 encapsule
-exuded
+exuded 1
 enfoncee
 erogeneity
 epithelioblastoma
