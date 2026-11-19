@@ -2883,7 +2883,7 @@ abbogada
 acrophonic
 astrol
 aubrite
-antiendowment
+antiendowment 1
 acropoleis
 acropolitan
 asthenope
