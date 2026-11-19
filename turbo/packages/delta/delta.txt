@@ -1538,7 +1538,7 @@ discoglossid
 distractedly
 dallies
 dalk
-dartman
+dartman 1
 delphinium
 disciplinarity
 dextrously
