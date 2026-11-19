@@ -2024,7 +2024,7 @@ givenness
 gyroscopics
 gerocomia
 gavelocks
-gattine
+gattine 1
 goaf
 gallied
 glime
