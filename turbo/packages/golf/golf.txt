@@ -533,7 +533,7 @@ getters
 gnetaceous
 glaireous
 glycerin
-galler
+galler 1
 grandmammy
 grandsirs
 germanium
