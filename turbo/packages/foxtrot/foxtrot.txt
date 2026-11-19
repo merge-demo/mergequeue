@@ -10046,7 +10046,7 @@ fablemonger
 faddish
 fait 1
 foreappointment
-featherhead
+featherhead 1
 flabbiest
 feloniously
 familistical
