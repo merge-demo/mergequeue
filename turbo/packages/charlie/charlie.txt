@@ -21997,7 +21997,7 @@ coxcombry
 confinable
 coulterneb
 confine
-comports
+comports 1
 confined
 cadging
 confinedly
