@@ -12927,7 +12927,7 @@ cubs
 cyanformate
 chockful
 chloropal
-consecution
+consecution 1
 cyanhydric 1
 cyanhydrin
 citron
