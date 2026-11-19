@@ -15995,7 +15995,7 @@ douane
 doub
 downsize
 decrepitude
-decator
+decator 1
 direct
 double
 demos
