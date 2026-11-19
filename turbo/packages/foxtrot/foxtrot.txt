@@ -5883,7 +5883,7 @@ fangas
 fogbows
 flinted
 ferrichloride
-furnishings
+furnishings 1
 featurely
 foresignify
 flocculent
