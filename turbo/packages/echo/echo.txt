@@ -2364,7 +2364,7 @@ episteme
 electrocolloidal
 eurobin
 edulcoration
-exhaustable
+exhaustable 1
 empoisonment
 engorged
 exocone
