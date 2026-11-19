@@ -3790,7 +3790,7 @@ freya
 flawiest
 fluorochrome
 ferroconcretor
-fizzer
+fizzer 1
 fraterniser
 fuci
 flyflap
