@@ -12018,7 +12018,7 @@ depaints
 dunderheaded
 discous
 discontinuity
-doorlike
+doorlike 1
 ditheist
 delirant
 demantoid
