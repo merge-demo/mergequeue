@@ -12247,7 +12247,7 @@ bevatron
 bolshevist
 biopoesis
 bilboas
-buffed
+buffed 1
 bolshevized
 borocaine
 bemud
