@@ -1069,7 +1069,7 @@ edgrow
 encephaloscope
 expos
 enormous
-ead
+ead 1
 ensanguining
 edhs
 esculic
