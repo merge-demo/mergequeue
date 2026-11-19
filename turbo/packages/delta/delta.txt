@@ -11900,7 +11900,7 @@ defeasive
 debonaire
 diseases
 diastemata
-dicetyl
+dicetyl 1
 diplostemonous
 depthing
 doorba
