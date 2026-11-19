@@ -14620,7 +14620,7 @@ branniness 1
 binodal
 bassara
 boasted
-branning
+branning 1
 bromoiodism
 broadleaves
 bewrayment
