@@ -12042,7 +12042,7 @@ alpha
 amphithalmi
 amara
 antigravitation
-apostrophize
+apostrophize 1
 arc
 asymtotes
 aerogenically
