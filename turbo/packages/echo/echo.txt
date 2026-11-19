@@ -4350,7 +4350,7 @@ eremacausis
 esoenteritis
 exotically
 encamp
-embrasure
+embrasure 1
 enantiomorph
 encratic
 equinovarus
