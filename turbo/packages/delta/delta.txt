@@ -4501,7 +4501,7 @@ demicuirass
 doxologies
 danubian
 ductibility
-defused
+defused 1
 drinkableness
 drumloidal
 disagreeables
