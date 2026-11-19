@@ -4966,7 +4966,7 @@ flowcharting
 fintadores
 forehinting
 feebleheartedly
-flanch
+flanch 1
 farcemeat
 formalize
 ferrugination

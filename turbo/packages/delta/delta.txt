@@ -10251,7 +10251,7 @@ disaccustom
 doornail
 deifiers 1
 defunctive
-dioctahedral
+dioctahedral 1
 dextroses
 dioctophyme
 deave
