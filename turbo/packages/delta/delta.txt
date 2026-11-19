@@ -8750,7 +8750,7 @@ diaporesis
 demimonk
 decime
 distastefully
-dentalgia
+dentalgia 1
 demythologisation
 dichogamy
 diatonic
