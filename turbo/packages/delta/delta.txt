@@ -3067,7 +3067,7 @@ defacement
 disgustfully
 disquietingly
 deadliness
-downbent
+downbent 1
 doohickus
 dentaria
 defacer
