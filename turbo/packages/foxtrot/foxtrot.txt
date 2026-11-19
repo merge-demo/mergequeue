@@ -8634,7 +8634,7 @@ faintest
 frousty
 forgivable
 footing
-flaunt
+flaunt 1
 fillebeg
 fumistery
 foretastes
