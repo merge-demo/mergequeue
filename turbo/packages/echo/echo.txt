@@ -7049,7 +7049,7 @@ exemptile
 earthfast
 experiencer
 enumeration
-eggroll
+eggroll 1
 euphone
 efficiency
 enlinked
