@@ -28940,7 +28940,7 @@ crocheted
 criticist
 cribellum
 cribose
-cribrate
+cribrate 1
 cribriform
 cribriformity
 cribs
