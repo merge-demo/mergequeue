@@ -126,7 +126,7 @@ cabinetworker
 cabinlike
 crafter
 chemisorptive
-cornua
+cornua 1
 costotransverse
 cabiria
 cabirian
