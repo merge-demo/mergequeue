@@ -9215,7 +9215,7 @@ chateaus
 chateaux
 chatelain
 cordmaker
-chatelaines
+chatelaines 1
 centreless
 chemotherapists
 corrosionproof
