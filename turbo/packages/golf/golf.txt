@@ -1696,7 +1696,7 @@ genotypes
 gastriloquous
 gunsmiths
 guldens
-garotting
+garotting 1
 gastronosus
 gnarrs
 goofier
