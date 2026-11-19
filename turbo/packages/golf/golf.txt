@@ -1388,7 +1388,7 @@ germanize
 grecize
 gaits
 ganyie
-gallotannin
+gallotannin 1
 gasified
 gausterer
 gearshift
