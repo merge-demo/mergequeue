@@ -3136,7 +3136,7 @@ baseborn
 birdlime
 baseburner
 basecourt
-boosting
+boosting 1
 boneset
 baselevel
 biradiate
