@@ -14150,7 +14150,7 @@ disulfonic
 dispread
 dirgelike
 dhobi
-defective
+defective 1
 demandingness
 dona
 decedent
