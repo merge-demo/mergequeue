@@ -5643,7 +5643,7 @@ eigenvalue
 epithi
 exhibitorial
 exquisitism
-enframed
+enframed 1
 elaphebolion
 ethnarch
 ellipsonic

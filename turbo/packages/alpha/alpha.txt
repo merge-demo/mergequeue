@@ -18745,7 +18745,7 @@ arthrosterigma
 archd
 archdeaconries
 ascigerous
-ambidextrous
+ambidextrous 1
 abreuvoir
 archdefender
 agenesia
