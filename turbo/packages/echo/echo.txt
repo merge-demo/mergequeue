@@ -12308,7 +12308,7 @@ electrotypic
 eviscerations
 evectant
 exertionless
-elric
+elric 1
 exertions
 enurny
 eseptate
