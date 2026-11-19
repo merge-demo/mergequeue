@@ -11992,7 +11992,7 @@ excavational
 expensed
 eryngium
 everyone
-enterfeat
+enterfeat 1
 exampleship
 essentials
 eigenspace
