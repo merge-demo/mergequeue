@@ -5334,7 +5334,7 @@ demurrage
 despotize
 diatomacean
 decimalized
-dismissals
+dismissals 1
 demibombard
 disguising
 dysteleology
