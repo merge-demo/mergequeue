@@ -16692,7 +16692,7 @@ clotbur
 clapbread
 carpetbeater
 clote
-chayota
+chayota 1
 clomb
 cloth
 clothe
