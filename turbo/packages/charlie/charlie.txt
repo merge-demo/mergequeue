@@ -28686,7 +28686,7 @@ coloniser
 candlewicking
 contaminates
 constitutes
-corone
+corone 1
 coplanar
 cannophori
 crenelee
