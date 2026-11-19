@@ -8602,7 +8602,7 @@ ammanite
 anecdota
 agnoites
 aegagropiles 1
-allassotonic
+allassotonic 1
 alleviations
 allatrate
 abaction
