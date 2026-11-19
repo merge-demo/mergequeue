@@ -7992,7 +7992,7 @@ glottologies
 goldenmouthed
 gasifiable
 gainer
-glouts
+glouts 1
 goodhap
 galleyman
 gabblement
