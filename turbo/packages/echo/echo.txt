@@ -5060,7 +5060,7 @@ etudes
 enunciation
 escrod
 eavesdrop
-eclecticism
+eclecticism 1
 endearingly 1
 exemptible
 evertebrata
