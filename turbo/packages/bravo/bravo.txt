@@ -9745,7 +9745,7 @@ bruce
 bossies
 burdocks
 basifugal
-buffered
+buffered 1
 bistipulate 1
 bistort
 bedarkened
