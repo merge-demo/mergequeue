@@ -5392,7 +5392,7 @@ glossily
 giusto
 girdle
 gynandromorphic
-goodtemperedness
+goodtemperedness 1
 glimmer
 generall
 glutinant
