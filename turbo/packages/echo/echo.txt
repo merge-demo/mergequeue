@@ -5798,7 +5798,7 @@ enceintes
 euchre
 exoplasm
 enterons
-encrinal
+encrinal 1
 episode
 enray
 ephoi
