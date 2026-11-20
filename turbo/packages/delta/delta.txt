@@ -10613,7 +10613,7 @@ diplonts
 diplophase
 difficultness
 deviously
-dulias
+dulias 1
 dezinced
 draying
 drey
