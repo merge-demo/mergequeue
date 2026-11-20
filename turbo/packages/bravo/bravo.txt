@@ -4679,7 +4679,7 @@ bignesses
 bulnbuln
 buckstay
 blastoid
-benedictively
+benedictively 1
 boxiness
 bemisting
 bicrons
