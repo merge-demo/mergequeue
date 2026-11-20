@@ -23896,7 +23896,7 @@ archscoundrel 1
 acentric
 advancing
 actively
-arthritics
+arthritics 1
 asiphonate
 authentic
 authentically
