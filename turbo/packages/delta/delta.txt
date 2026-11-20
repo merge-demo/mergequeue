@@ -13671,7 +13671,7 @@ disjoins
 doucin
 degases
 dissymmetric
-disturbances
+disturbances 1
 demisemitone
 delectability
 dissymmetrically
