@@ -12327,7 +12327,7 @@ coroplasty
 carpophyll
 coulters
 chromatium
-chromatize
+chromatize 1
 credensiveness
 chromatogenous
 coiny
