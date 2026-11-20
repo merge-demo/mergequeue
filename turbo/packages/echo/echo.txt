@@ -8182,7 +8182,7 @@ exists
 episiotomies
 enroots
 expirant
-episodical
+episodical 1
 earsh
 episodically
 eviscerates
