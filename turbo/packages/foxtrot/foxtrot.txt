@@ -649,7 +649,7 @@ foveolet
 floaty
 falunian
 fertilisation
-fanum
+fanum 1
 fauster
 frowstier
 flyways
