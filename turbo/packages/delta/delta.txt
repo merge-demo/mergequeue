@@ -5876,7 +5876,7 @@ dryopians
 deforceor
 depredate
 depredated
-definitiveness
+definitiveness 1
 diagnoses
 deleting
 droshky
