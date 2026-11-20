@@ -16722,7 +16722,7 @@ cire
 clothiers
 clothings
 catharpin
-crimpling
+crimpling 1
 clots
 clottage
 chaconne
