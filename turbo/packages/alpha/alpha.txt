@@ -13593,7 +13593,7 @@ acrodactylum
 authenticator
 autonomous
 acuminose
-annular
+annular 1
 antihierarchical
 algy 1
 annulary

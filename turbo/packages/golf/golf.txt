@@ -674,7 +674,7 @@ guardfish
 gooney
 gynecomaniac
 geopolitician
-gauily
+gauily 1
 granam
 germanesque
 gaddishness 1
