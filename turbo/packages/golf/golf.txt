@@ -8093,7 +8093,7 @@ geomorphogeny
 giblets
 grimily
 granophyre
-gnotobiotic
+gnotobiotic 1
 gnathostegite
 guglets
 gymnophobia
