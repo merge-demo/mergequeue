@@ -11963,7 +11963,7 @@ eccl
 escapes
 eastbound
 eulogists
-enveloped
+enveloped 1
 eurylaimidae
 excited
 epicure
