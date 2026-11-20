@@ -2014,7 +2014,7 @@ epigaea
 eta
 erythrosine
 epitrophy
-encurl
+encurl 1
 exophasia
 emersion
 etherish
