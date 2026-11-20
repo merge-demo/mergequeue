@@ -3667,7 +3667,7 @@ antihierarchies
 andorra
 adenopharyngeal
 adenophlegmon
-appulsively
+appulsively 1
 antestature
 adenophora
 abscissas 1
