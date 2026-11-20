@@ -2944,7 +2944,7 @@ gibes
 geminorum
 grides
 gastroenterostomy
-geomant
+geomant 1
 gasaliers
 goluptious
 glutinousness
