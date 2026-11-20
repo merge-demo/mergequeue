@@ -3097,7 +3097,7 @@ describable
 dialecticize
 dinornithic
 defalcating
-dipteral
+dipteral 1
 dewiness
 deaths
 defamation
