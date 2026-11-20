@@ -11003,7 +11003,7 @@ estrade
 excipuliform
 endosarcous
 eroses
-extravagant
+extravagant 1
 emolliate
 emption
 eclectism
