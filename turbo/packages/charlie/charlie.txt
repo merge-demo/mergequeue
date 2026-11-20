@@ -12947,7 +12947,7 @@ commemorators
 chaldrons
 contingent
 cyanitic
-columnating
+columnating 1
 cretonnes
 cyanize
 conchoidally
