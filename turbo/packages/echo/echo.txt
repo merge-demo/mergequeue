@@ -2922,7 +2922,7 @@ erigenia
 elian
 enervated
 exacinate
-equicostate
+equicostate 1
 encystation
 elias
 epitomiser
