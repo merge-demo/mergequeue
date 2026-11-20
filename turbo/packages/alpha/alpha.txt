@@ -16962,7 +16962,7 @@ apishamore
 aceturic
 axels
 alfa
-anemometrical
+anemometrical 1
 akuammine
 affectable
 anhima
