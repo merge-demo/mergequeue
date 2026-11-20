@@ -7048,7 +7048,7 @@ bedazzlement
 bespangle
 bespangling
 bespate
-brickbatted
+brickbatted 1
 best
 basset
 bezzant
