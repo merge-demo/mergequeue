@@ -2416,7 +2416,7 @@ formalizable
 foxie
 flyflapper
 falsiteit
-fashionable
+fashionable 1
 fifie
 farmsteads
 fenmen
