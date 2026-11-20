@@ -5776,7 +5776,7 @@ awl
 andouille
 agaricaceous 1
 agaricoid
-agarics
+agarics 1
 apluda
 acephalia
 acculturative
