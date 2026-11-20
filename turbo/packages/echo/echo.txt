@@ -9032,7 +9032,7 @@ endemiology
 expurgating
 erythroblast
 enema
-evertor
+evertor 1
 electromyographic
 eurychoric
 extrafoliaceous
