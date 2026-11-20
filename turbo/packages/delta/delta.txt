@@ -14479,7 +14479,7 @@ deckhouse
 degauss
 diphyzooid
 devitaminize
-drouk
+drouk 1
 decemviri
 duumvirate
 diplomatique
