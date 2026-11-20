@@ -22893,7 +22893,7 @@ archaeographical
 applicabilities
 atomology
 auras
-afb
+afb 1
 atonable
 atonalistic
 amhran
