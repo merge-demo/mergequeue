@@ -13428,7 +13428,7 @@ evilwishing
 etchimin
 expresso
 enode
-embitterer
+embitterer 1
 erogate
 ethnodicy
 eponymous
