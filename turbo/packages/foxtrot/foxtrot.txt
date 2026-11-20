@@ -1038,7 +1038,7 @@ farmeress
 fireling
 flerrying
 farmerly
-foreknowledge
+foreknowledge 1
 forrel
 ferash
 freshening
