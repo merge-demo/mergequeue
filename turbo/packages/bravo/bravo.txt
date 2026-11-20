@@ -3354,7 +3354,7 @@ bran 1
 boller
 bronchobuster
 basoid
-baraithas
+baraithas 1
 beltine 1
 banus
 breast
