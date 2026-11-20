@@ -1601,7 +1601,7 @@ egotistic
 exscind
 egotized
 egracias
-eradicated
+eradicated 1
 egress
 erizo
 epiblastic
