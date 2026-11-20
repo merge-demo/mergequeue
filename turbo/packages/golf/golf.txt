@@ -9802,7 +9802,7 @@ grantor
 gue
 goury
 glashan
-goidelic
+goidelic 1
 globulinuria
 glycerolate
 glossemes
