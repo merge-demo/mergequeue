@@ -292,7 +292,7 @@ flagarie
 fideism
 foxfire
 fledges
-fraenums
+fraenums 1
 forebar
 fistnotes
 flambeed

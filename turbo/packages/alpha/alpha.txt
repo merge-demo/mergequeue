@@ -9955,7 +9955,7 @@ amaurosis
 alloy
 androeccia
 amaze
-airlocks
+airlocks 1
 akroterial
 autotrophy
 addict
