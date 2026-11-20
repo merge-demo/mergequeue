@@ -11935,7 +11935,7 @@ epicedial
 esmeraldan
 epanagoge
 eructating
-enhorror
+enhorror 1
 ecuador
 ectopatagium
 excise
