@@ -9831,7 +9831,7 @@ elenchtical
 exact
 estrich
 eikon
-egocentricity
+egocentricity 1
 enthronising
 endoceras
 engin
