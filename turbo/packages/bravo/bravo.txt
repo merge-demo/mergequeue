@@ -546,7 +546,7 @@ barometrical 1
 bioscope
 backvelder
 blastodermic
-baufrey
+baufrey 1
 belch
 burnooses
 butyl
