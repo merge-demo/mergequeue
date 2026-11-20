@@ -4694,7 +4694,7 @@ carpet
 carpetbag
 carpetbagger
 carpetbaggery
-chantage
+chantage 1
 conchometry
 catty
 caddow
