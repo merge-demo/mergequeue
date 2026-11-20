@@ -5489,7 +5489,7 @@ disportive
 dumbledore
 diaphragm
 dogtrot
-dudishness
+dudishness 1
 dolichos
 digamist
 darlingly
