@@ -11039,7 +11039,7 @@ chiselly
 chisellike
 coevolvedcoevolves
 collectable
-chiselmouth
+chiselmouth 1
 chisels
 chisled
 conichalcite
