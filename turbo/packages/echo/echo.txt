@@ -4199,7 +4199,7 @@ exocardiac
 enghle
 emeutes
 epipodial
-egoize
+egoize 1
 enwound
 emptiers
 emptio
