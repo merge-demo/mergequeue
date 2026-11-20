@@ -10730,7 +10730,7 @@ gubernatorial
 gox
 gussets
 grovels
-gloms
+gloms 1
 glimmeringly
 gassers
 gaddi
