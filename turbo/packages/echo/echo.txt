@@ -13535,7 +13535,7 @@ exscissor
 eyass
 extrafloral
 exscriptural
-execrating
+execrating 1
 extemporarily
 exscutellate
 extravagancy
