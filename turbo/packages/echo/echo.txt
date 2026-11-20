@@ -9264,7 +9264,7 @@ entrapments
 egressing
 electra
 exonerative 1
-errants
+errants 1
 espinette
 erratas
 erratic
