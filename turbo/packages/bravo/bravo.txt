@@ -16844,7 +16844,7 @@ buffa
 brumbee
 bacterioid
 brassware
-bicolligate
+bicolligate 1
 buffable
 bahamas
 buffalo
