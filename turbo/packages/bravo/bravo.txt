@@ -14079,7 +14079,7 @@ bavary
 bitts
 bald
 bombycidae
-boffin
+boffin 1
 brachydont
 brachydontism
 brachyfacial
