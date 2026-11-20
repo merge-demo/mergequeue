@@ -3054,7 +3054,7 @@ detest
 deescalate
 dyehouse
 deeses
-deepfrozen
+deepfrozen 1
 diester
 downward
 diuretic
