@@ -9299,7 +9299,7 @@ carcoon
 cerris
 custos
 chauk
-calodaemon
+calodaemon 1
 catagmatic
 chaukidari
 castrate
