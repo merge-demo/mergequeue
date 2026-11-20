@@ -11058,7 +11058,7 @@ disbursals
 dandyling
 decentness 1
 drakes
-dundreary
+dundreary 1
 drollness
 daturas
 disennui
