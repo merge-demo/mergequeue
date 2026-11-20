@@ -9750,7 +9750,7 @@ bistipulate 1
 bistort
 bedarkened
 bistorts
-beetlehead
+beetlehead 1
 bistred
 balcony
 beknights
