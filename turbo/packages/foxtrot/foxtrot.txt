@@ -7345,7 +7345,7 @@ flabbily
 france
 foraneen
 ferrateen
-ferocious
+ferocious 1
 fluoridising
 formaldehydesulphoxylic
 flavors
