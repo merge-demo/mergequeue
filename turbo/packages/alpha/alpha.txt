@@ -10452,7 +10452,7 @@ apa
 autogenetic
 alkanna
 abbeys
-axonic
+axonic 1
 acceptances
 adstipulation
 apoplectoid
