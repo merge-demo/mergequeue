@@ -8311,7 +8311,7 @@ diapausing
 dyakish
 dg
 dialcohol
-diffugient
+diffugient 1
 dialect
 doomsman
 decolourized
