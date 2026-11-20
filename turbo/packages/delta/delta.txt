@@ -15906,7 +15906,7 @@ dims
 distileries
 dossmen
 dissemblies
-decamerous
+decamerous 1
 desaminase
 downcried
 dognaping
