@@ -9734,7 +9734,7 @@ elementarism
 embryol
 escopette
 external
-epicoelar
+epicoelar 1
 extraterritorial
 essedones
 eisoptrophobia
