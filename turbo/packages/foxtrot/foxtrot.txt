@@ -2504,7 +2504,7 @@ ferociously
 flashforward
 fumarin
 fallout
-fastus
+fastus 1
 fragmenting
 fingers
 flerry
