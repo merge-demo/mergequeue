@@ -7858,7 +7858,7 @@ electrion
 emancipating
 epigrammatic
 electrifiable
-epigrammatically
+epigrammatically 1
 epigamic
 ephod
 enterolith
