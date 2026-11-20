@@ -12921,7 +12921,7 @@ coextension 1
 coaxially
 cyanate
 cyanates
-cyaneous
+cyaneous 1
 contrail
 cubs
 cyanformate
