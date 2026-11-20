@@ -17821,7 +17821,7 @@ apprizers
 adonia
 ablaze
 apport
-apportionable
+apportionable 1
 aute
 ampule
 absorptions
