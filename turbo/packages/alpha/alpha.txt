@@ -4306,7 +4306,7 @@ adrenocortical
 adrenosterone
 adrenocorticotrophic
 ammonolysis
-anabasin
+anabasin 1
 afterstain
 albuminosis
 adrenocorticotropic
