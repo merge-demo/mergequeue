@@ -817,7 +817,7 @@ flogging
 froster
 forensicality
 flipe
-floosy
+floosy 1
 foredays
 fustanelle
 fantasticalness
