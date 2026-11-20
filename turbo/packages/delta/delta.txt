@@ -2430,7 +2430,7 @@ decimolar
 drainpipe
 diplacusis
 dynamited
-deluminize
+deluminize 1
 daker
 decimole
 dangling
