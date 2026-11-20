@@ -7639,7 +7639,7 @@ foreorlop
 flimsiness
 flimsilyst
 flustroid
-forefinger
+forefinger 1
 figary
 fluxible
 fixed
