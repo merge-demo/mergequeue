@@ -7763,7 +7763,7 @@ extrafine
 eosine
 extractiform
 equispatial
-exotisms
+exotisms 1
 easternmost
 exhort
 embolite
