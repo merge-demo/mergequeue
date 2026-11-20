@@ -4387,7 +4387,7 @@ emphasised
 electrobioscopy
 endoparasite
 environmentally
-enfacing
+enfacing 1
 exarticulation
 ensigncies
 endosmometric
