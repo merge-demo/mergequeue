@@ -8976,7 +8976,7 @@ endopleurite
 erratics
 exhilarant
 explorative
-emboldening
+emboldening 1
 enjoinment
 electrophonic
 ecclesiasticism
