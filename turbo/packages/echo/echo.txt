@@ -4628,7 +4628,7 @@ enhydrite
 extratensive
 exteriorisation
 endarchies
-elasticizes
+elasticizes 1
 epimerase
 epimerising
 eusuchian
