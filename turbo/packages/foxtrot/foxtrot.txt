@@ -10322,7 +10322,7 @@ frondlet
 frondose
 focometer
 frustrated
-fikey
+fikey 1
 friendless
 foxinesses
 fosterers
