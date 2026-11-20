@@ -15179,7 +15179,7 @@ detainment
 drawlier
 desertedness
 deathfulness
-dolefuls
+dolefuls 1
 dotate
 diaminogene
 drunkly
