@@ -6935,7 +6935,7 @@ election 1
 entourage
 empt
 entozoologically
-entrain
+entrain 1
 enantiomorphy
 extranormal
 elicitate
