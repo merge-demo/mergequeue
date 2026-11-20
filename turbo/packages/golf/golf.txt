@@ -9126,7 +9126,7 @@ gun
 guttation
 geophagist
 grindable
-gibbose
+gibbose 1
 galagos
 gorillas
 grissel
