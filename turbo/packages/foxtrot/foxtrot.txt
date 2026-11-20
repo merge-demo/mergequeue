@@ -4673,7 +4673,7 @@ flewit
 floyd
 freety
 fullmouthed
-factable
+factable 1
 filicinean
 fearsome
 flaunched
