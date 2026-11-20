@@ -10374,7 +10374,7 @@ epigeous
 earwigging
 epiphanize
 electropositive
-enfranchisable
+enfranchisable 1
 exodromic
 exchanged
 ethnohistoric
