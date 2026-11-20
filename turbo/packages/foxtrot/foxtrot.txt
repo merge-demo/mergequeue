@@ -37,7 +37,7 @@ furies
 farmscape
 forbearant
 flick
-fervently
+fervently 1
 finically
 fabricators
 fabricature
