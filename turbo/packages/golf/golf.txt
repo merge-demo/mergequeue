@@ -5267,7 +5267,7 @@ girondist
 glaucophane
 garish
 galoubet
-gammers
+gammers 1
 gratingly
 glooming
 guaranies
