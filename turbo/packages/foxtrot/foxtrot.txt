@@ -4607,7 +4607,7 @@ fieldstone
 fistuca
 freest
 filmist
-forbbore
+forbbore 1
 fighter 1
 footnoting
 fistwise

@@ -2605,7 +2605,7 @@ dashes
 decoctive
 deaminizing
 demishirt
-decoctum
+decoctum 1
 drudgery
 distributional
 ducture

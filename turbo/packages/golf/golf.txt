@@ -399,7 +399,7 @@ gps
 galant
 galanthus
 guilery
-ganymedes
+ganymedes 1
 gains
 goalposts
 gilsonite
