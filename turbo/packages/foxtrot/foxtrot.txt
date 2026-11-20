@@ -3128,7 +3128,7 @@ functor 1
 functionals
 felsophyric
 filtrating
-frugged
+frugged 1
 forfication
 folies
 fibromyoma
