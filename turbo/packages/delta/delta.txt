@@ -1519,7 +1519,7 @@ diffracted
 defeminizing
 dreidls
 distracting
-diagnosable
+diagnosable 1
 dowsabel
 diglucoside
 decontaminations
