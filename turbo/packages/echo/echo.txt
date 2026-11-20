@@ -5632,7 +5632,7 @@ epilogation
 enforest
 epacme
 elicitable
-enform
+enform 1
 ergometric
 enfort
 embarrasses
