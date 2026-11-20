@@ -3748,7 +3748,7 @@ fortressed
 failure
 fibula
 fjorgyn
-fogyish
+fogyish 1
 fulls
 fally
 ferocactus
