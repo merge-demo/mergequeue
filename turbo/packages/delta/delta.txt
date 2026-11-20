@@ -768,7 +768,7 @@ delimitized
 dominicale
 drapeable
 diapnotic
-downcasts
+downcasts 1
 dermoidal
 dispiteously
 dandis
