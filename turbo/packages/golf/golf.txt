@@ -3248,7 +3248,7 @@ gauze
 geotropically
 galagala
 gaut
-gossypol
+gossypol 1
 gyral
 gaelicist
 gulo
