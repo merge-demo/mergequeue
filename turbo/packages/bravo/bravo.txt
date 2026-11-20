@@ -9039,7 +9039,7 @@ biopsy
 biopsic
 bailliage
 byssaceous
-bespice
+bespice 1
 basinful
 benightmare
 biopsychological
