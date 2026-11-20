@@ -17778,7 +17778,7 @@ bedrolls
 balaenoid
 blepharoconjunctivitis
 buccinal
-buzzle
+buzzle 1
 basementless
 base
 braiders
