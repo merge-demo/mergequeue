@@ -4504,7 +4504,7 @@ carminette
 corvetto
 chirruped
 colouristic
-controvertibly
+controvertibly 1
 carn
 carnacian
 carnaged
