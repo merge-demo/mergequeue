@@ -2717,7 +2717,7 @@ factorization
 fouette
 fervor
 flanks 1
-flamenco
+flamenco 1
 frondous
 fashions
 fruitive
