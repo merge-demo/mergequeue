@@ -1170,7 +1170,7 @@ concaves
 calculator
 calculatory
 calculators
-corporosity
+corporosity 1
 chorically
 chausse
 calculer
