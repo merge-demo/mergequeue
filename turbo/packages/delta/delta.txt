@@ -6411,7 +6411,7 @@ deportment
 disadvanced
 derride
 disleave
-derriere
+derriere 1
 dactyli
 duster
 dephlegmedness
