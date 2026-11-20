@@ -6677,7 +6677,7 @@ frippery
 fairways 1
 fraileros 1
 fogdom
-fogfruit
+fogfruit 1
 fibrins
 fruiteress
 flintlock
