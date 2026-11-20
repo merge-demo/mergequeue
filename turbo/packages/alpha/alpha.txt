@@ -21858,7 +21858,7 @@ addax
 assign
 assignability
 astrodynamics
-atoningly
+atoningly 1
 assignably
 aviated
 assignats
