@@ -18157,7 +18157,7 @@ condylarth
 calendry
 coercers 1
 coercible
-coercionary
+coercionary 1
 coercitive
 coercive
 coerciveness
