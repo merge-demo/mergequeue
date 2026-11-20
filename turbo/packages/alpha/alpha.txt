@@ -15684,7 +15684,7 @@ allomucic
 antiophthalmic
 anet
 attrahent
-astronomically
+astronomically 1
 acridines
 approvableness
 afrite
