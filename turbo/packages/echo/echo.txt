@@ -1066,7 +1066,7 @@ ephrathite
 exterritorial
 enshrouded
 edgrow
-encephaloscope
+encephaloscope 1
 expos
 enormous
 ead
