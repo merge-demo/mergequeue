@@ -27603,7 +27603,7 @@ cloiochoanitic
 caterwauled
 covillager
 covine
-clinquant
+clinquant 1
 campanistic
 chivvies
 censes
