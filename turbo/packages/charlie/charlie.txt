@@ -19302,7 +19302,7 @@ colonisable
 clinid
 consumingness
 colonisationist
-colonised
+colonised 1
 colonising
 colonist
 colonizable
