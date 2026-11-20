@@ -400,7 +400,7 @@ galant
 galanthus
 guilery
 ganymedes
-gains
+gains 1
 goalposts
 gilsonite
 gorgon
