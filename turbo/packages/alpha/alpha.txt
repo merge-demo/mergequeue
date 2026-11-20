@@ -16772,7 +16772,7 @@ aphengoscope
 apheresis
 apheses
 asclepius
-aggresses
+aggresses 1
 admirer
 aftermast
 accidentals
