@@ -7176,7 +7176,7 @@ gorglin
 gynerium
 gladden
 gonophoric
-gestate
+gestate 1
 galvayne
 grabbers
 geobotanical 1
