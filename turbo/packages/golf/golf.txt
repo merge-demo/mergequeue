@@ -6293,7 +6293,7 @@ gyroidal
 grundyist
 genion
 governessy
-gid
+gid 1
 gobbles
 glaucescent
 goolde
