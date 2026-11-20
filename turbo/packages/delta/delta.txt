@@ -11026,7 +11026,7 @@ disbowelling
 deregulate
 distended
 dullsville
-deadpan
+deadpan 1
 disappointedly
 diakinesis
 decarbonylate
