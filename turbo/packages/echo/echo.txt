@@ -7415,7 +7415,7 @@ exhibitor
 etherealized
 ephas
 erythrolytic
-enchaining
+enchaining 1
 excepts
 employes
 elenctic
