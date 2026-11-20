@@ -11556,7 +11556,7 @@ cholecystenterostomy
 cholecystgastrostomy
 carburisation 1
 cholecystic
-cholecystis
+cholecystis 1
 complimenting
 cholecystitis
 cozies
