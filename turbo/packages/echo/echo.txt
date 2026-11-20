@@ -4056,7 +4056,7 @@ expositorily
 enforcement
 encrusting
 eremian
-engross
+engross 1
 earle
 engrammatic
 eriglossa
