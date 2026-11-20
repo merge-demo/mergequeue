@@ -3029,7 +3029,7 @@ emeer
 eggfish
 earthenware
 elixir
-enwall
+enwall 1
 epinephrine 1
 ecblastesis
 exhortatory
