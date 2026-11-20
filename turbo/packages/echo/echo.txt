@@ -4513,7 +4513,7 @@ enactive
 emerita
 ephorate
 encephalopathia
-encephalophyma
+encephalophyma 1
 ethynylation
 emigrationist
 electrical
