@@ -4134,7 +4134,7 @@ eiffel
 ensheathed
 every
 epornitically
-etymologically
+etymologically 1
 entombments
 emundation
 eniac
