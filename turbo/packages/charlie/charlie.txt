@@ -8228,7 +8228,7 @@ chalcedonyx
 chalcidian
 chalcidicum
 caird
-chalcidoid
+chalcidoid 1
 conocarp
 cleaves
 cadalene
