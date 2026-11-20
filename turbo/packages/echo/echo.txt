@@ -382,7 +382,7 @@ eighteenfold
 educ
 exoneural
 enterorrhea
-epicalyxes
+epicalyxes 1
 ebionite
 ebionitism
 existless
