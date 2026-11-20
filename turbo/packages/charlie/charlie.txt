@@ -6239,7 +6239,7 @@ caudex
 caudices
 cassolette
 cystiferous
-calanthe
+calanthe 1
 caudle
 caudles
 caudocephalad
