@@ -9106,7 +9106,7 @@ fr
 flintlike 1
 furdle
 funambulated
-foo
+foo 1
 faulkner
 frizzers
 forepoint

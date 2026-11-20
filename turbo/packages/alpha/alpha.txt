@@ -19045,7 +19045,7 @@ authorial
 algol
 amaryllis
 archmonarch
-amadavats
+amadavats 1
 arnebia
 astaticism
 adhering

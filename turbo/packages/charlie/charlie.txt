@@ -10930,7 +10930,7 @@ chirographers
 crl
 consideratively
 chirography
-candlelighted
+candlelighted 1
 chirographical
 chirolas
 chirology
