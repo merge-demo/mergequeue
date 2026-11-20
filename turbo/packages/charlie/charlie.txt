@@ -3520,7 +3520,7 @@ cosmotheistic
 cassandra
 captacula
 captain
-captaincy
+captaincy 1
 captaincies
 caprioled
 captainry
