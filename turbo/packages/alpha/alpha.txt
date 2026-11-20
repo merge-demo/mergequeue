@@ -21952,7 +21952,7 @@ associatively
 aquiver
 apostolize
 aeriest
-anatripsis
+anatripsis 1
 alderling
 associativeness
 amplify
