@@ -12615,7 +12615,7 @@ drate
 delegant
 dertrotheca
 descendentalist
-descrial
+descrial 1
 duplicidentate
 dechemicalization
 disjunctive
