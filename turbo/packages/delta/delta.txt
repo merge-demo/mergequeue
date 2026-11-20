@@ -10431,7 +10431,7 @@ diphonia
 dismiss
 deteriorations
 drowsy
-duumvirs
+duumvirs 1
 deglutitive
 distortion
 dister
