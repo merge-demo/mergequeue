@@ -6180,7 +6180,7 @@ agnel
 aerographic
 anthosiderite
 acetobenzoic
-agnification
+agnification 1
 antiatheistic
 agnize
 abmodality
