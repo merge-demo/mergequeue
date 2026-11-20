@@ -8406,7 +8406,7 @@ endodermic
 enchains
 enstamp 1
 extents
-epizoic
+epizoic 1
 ensigncy
 equals
 epizoon
