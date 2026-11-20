@@ -10631,7 +10631,7 @@ dithionous
 diplopod
 diplopoda
 discorrespondent
-delocalization
+delocalization 1
 dissociates
 divests
 dainful
