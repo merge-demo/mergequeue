@@ -776,7 +776,7 @@ gemologies
 galvanotropism
 globulolysis
 ganymede
-glossolalist
+glossolalist 1
 gluck
 gutturize
 galvanothermometer
