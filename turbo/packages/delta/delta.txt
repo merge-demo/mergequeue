@@ -14386,7 +14386,7 @@ distributivity
 dysentery
 durian
 dehydrocorydaline
-dephlogisticated
+dephlogisticated 1
 dolicholus
 divaricator
 divast
