@@ -6072,7 +6072,7 @@ escheated
 exorableness
 enlief
 enhelm
-evertebrate
+evertebrate 1
 excruciate
 escutcheon
 encounters
