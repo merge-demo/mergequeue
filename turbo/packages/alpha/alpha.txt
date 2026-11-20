@@ -14879,7 +14879,7 @@ antimachinery
 anticyclic
 arrondi
 alife
-anticyclical
+anticyclical 1
 apocodeine
 amorously
 anticyclogenesis
