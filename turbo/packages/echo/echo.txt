@@ -12068,7 +12068,7 @@ excuseless
 extispex
 engrossingly
 endemisms
-excreta
+excreta 1
 escheator
 endued
 edentates
