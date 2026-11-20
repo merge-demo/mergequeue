@@ -15274,7 +15274,7 @@ antifriction
 antifrost
 antifungal
 apoenzyme
-ataentsic
+ataentsic 1
 albertinian
 androcratic 1
 antigalactagogue

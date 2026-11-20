@@ -16323,7 +16323,7 @@ downsized 1
 druggeries
 dochmiac
 duchess
-discobolus
+discobolus 1
 dismasts
 daven
 dismount
