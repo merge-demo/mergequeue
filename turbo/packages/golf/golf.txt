@@ -3895,7 +3895,7 @@ grossen
 guelph
 guaycuru
 gyroplane
-gatherings
+gatherings 1
 geomorphogenic
 globeholder
 garnetiferous
