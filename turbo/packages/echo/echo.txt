@@ -7932,7 +7932,7 @@ expeller
 eurystomatous
 emitter
 exudates
-exordia
+exordia 1
 epimandibular
 enthrone
 epimanikia
