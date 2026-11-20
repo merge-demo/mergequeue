@@ -10919,7 +10919,7 @@ doublethinking
 dorsoradial
 digressions
 disadvance
-disadvancing
+disadvancing 1
 disadvantageousness
 ditetragonal
 deminude
