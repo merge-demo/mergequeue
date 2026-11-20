@@ -3601,7 +3601,7 @@ fundal
 factories
 fogus
 fanwort
-figurize
+figurize 1
 filibusterers
 fourble
 fenrir
