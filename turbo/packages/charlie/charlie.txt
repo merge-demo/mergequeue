@@ -22956,7 +22956,7 @@ countersalient
 chob
 consignificant
 consignification
-consignificative
+consignificative 1
 consignificator
 cobleman
 cylindroidal
