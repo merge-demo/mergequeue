@@ -9534,7 +9534,7 @@ digitizing
 desorbed
 decimosexto
 downthrow 1
-decimated
+decimated 1
 draggly
 diastereomer
 dryadic
