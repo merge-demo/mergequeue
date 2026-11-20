@@ -11174,7 +11174,7 @@ bloodworthy
 belched
 blearily
 blooey
-bloomed
+bloomed 1
 booklice
 baloghia
 bloomeries
