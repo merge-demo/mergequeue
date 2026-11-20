@@ -10694,7 +10694,7 @@ endopleural
 euripus
 erebus
 euglenoid
-exolve
+exolve 1
 evenworthy
 ecossaise
 egosyntonic
