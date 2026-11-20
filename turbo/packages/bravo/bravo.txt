@@ -2037,7 +2037,7 @@ baning
 bandcutter
 bhaiachara
 banisher
-banishing
+banishing 1
 banyuls
 bromogelatin
 baniva
