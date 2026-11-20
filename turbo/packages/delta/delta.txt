@@ -9342,7 +9342,7 @@ defalcates
 decreasing
 deneb
 dewax
-downhill
+downhill 1
 diplopia
 differently
 dinarchies
