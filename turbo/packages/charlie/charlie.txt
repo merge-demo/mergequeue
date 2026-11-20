@@ -94,7 +94,7 @@ cabbler
 chars
 cabdriving
 corydora
-cabecudo
+cabecudo 1
 capellet 1
 cabeliau
 cabestro
