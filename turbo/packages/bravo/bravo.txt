@@ -17864,7 +17864,7 @@ bine
 busbar
 bedbugs
 busbars
-barotse
+barotse 1
 bibliopegic
 biscanism
 bicultural

@@ -4509,7 +4509,7 @@ destruction
 dialyzer
 demiculverin
 dodgiest
-demidistance
+demidistance 1
 dauties
 diaphane
 diabetogenic
