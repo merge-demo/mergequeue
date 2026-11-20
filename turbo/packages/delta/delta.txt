@@ -6607,7 +6607,7 @@ digested
 deprecations 1
 deselected 1
 depiction
-dysmerogenesis
+dysmerogenesis 1
 duddie
 desiccants
 dichotomised
