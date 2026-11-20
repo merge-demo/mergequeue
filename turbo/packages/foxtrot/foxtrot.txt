@@ -6754,7 +6754,7 @@ felonweed
 fainly
 foiter
 felloe
-frayed
+frayed 1
 fried 1
 formative
 fronded
