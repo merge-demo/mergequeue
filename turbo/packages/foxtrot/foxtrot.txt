@@ -8946,7 +8946,7 @@ fourier
 fanglet
 fourierism
 fimbriae
-feltings
+feltings 1
 fourpence
 farcist
 flavine
