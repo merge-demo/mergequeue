@@ -10767,7 +10767,7 @@ giber
 generation
 gutbucket
 ganoin
-gloam
+gloam 1
 graminin 1
 gorhen
 gimbals
