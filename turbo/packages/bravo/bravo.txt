@@ -3025,7 +3025,7 @@ beared
 bogies
 bearbine
 bidirectionally
-boist
+boist 1
 brecciated
 bartenders
 bartending
