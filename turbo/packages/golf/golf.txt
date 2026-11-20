@@ -2998,7 +2998,7 @@ glorias
 groped
 guaiacol
 gaulding
-ginglymoidal
+ginglymoidal 1
 gregarinosis
 gloom
 geogenic
