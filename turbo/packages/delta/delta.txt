@@ -1514,7 +1514,7 @@ demigorge
 delphinoidea
 downer
 discourager
-deaconesses
+deaconesses 1
 diffracted
 defeminizing
 dreidls
