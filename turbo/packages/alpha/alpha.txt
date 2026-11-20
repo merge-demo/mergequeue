@@ -15941,7 +15941,7 @@ acetobromanilide
 antiprojectivity
 antiprostate
 antiprostatic
-adiabat
+adiabat 1
 astrobiologically
 automobilism
 attentively
