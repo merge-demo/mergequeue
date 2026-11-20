@@ -7410,7 +7410,7 @@ epistrophe
 echinozoa
 elevate
 ensilability
-ecphorize
+ecphorize 1
 exhibitor
 etherealized
 ephas
