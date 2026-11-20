@@ -8055,7 +8055,7 @@ forestful
 fellable
 freezes
 frigger
-forepost
+forepost 1
 fessing
 forestral
 forestries
