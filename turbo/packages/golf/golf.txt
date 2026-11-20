@@ -4457,7 +4457,7 @@ gip
 gpd
 gleba
 gluttony
-galloman
+galloman 1
 gaultherine
 gipon
 gaetulan
