@@ -9487,7 +9487,7 @@ escorts
 escot
 endbrain
 emperor
-eogaean
+eogaean 1
 euryalean
 enghosted
 excurved
