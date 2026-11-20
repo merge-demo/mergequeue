@@ -1774,7 +1774,7 @@ effractor
 enosis
 escalloping
 epauleted
-eyesight
+eyesight 1
 enormities
 eparchs
 erinose
