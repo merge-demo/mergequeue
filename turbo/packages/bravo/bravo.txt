@@ -7195,7 +7195,7 @@ bur
 bestiarian
 biathlon
 bestock
-bestow
+bestow 1
 bestowment
 burgee
 breaching
