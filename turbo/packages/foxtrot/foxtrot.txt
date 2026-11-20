@@ -8139,7 +8139,7 @@ forthwith 1
 funnel
 ferberite
 fructuosity
-fossilology
+fossilology 1
 foretrace
 forecastleman
 fountful
