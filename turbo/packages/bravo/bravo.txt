@@ -9943,7 +9943,7 @@ boree
 brian
 bx
 bituminous
-bisecting
+bisecting 1
 bilinguality 1
 bridleman
 burbles
