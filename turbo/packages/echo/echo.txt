@@ -14019,7 +14019,7 @@ extrasocial
 ectophyte
 enripen
 escars
-embittered
+embittered 1
 emulsin
 emmet
 extraspectral
