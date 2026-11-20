@@ -6674,7 +6674,7 @@ flyblow
 flores
 fogdogs
 frippery
-fairways 1
+fairways 2
 fraileros 1
 fogdom
 fogfruit
