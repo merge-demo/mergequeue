@@ -5436,7 +5436,7 @@ cordies
 castlet
 commercing
 candlesticked
-confront
+confront 1
 casaque
 castlewise
 castock
