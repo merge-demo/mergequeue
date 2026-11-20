@@ -5874,7 +5874,7 @@ catenane
 catenarian
 catenas
 caudaite
-catenate
+catenate 1
 crooisite
 catenating
 chinoidin
