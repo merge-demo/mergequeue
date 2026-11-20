@@ -13931,7 +13931,7 @@ errordump
 euphenic
 euphoniousness
 emigrative
-encapsulates
+encapsulates 1
 erective
 endomysial
 extraneous
