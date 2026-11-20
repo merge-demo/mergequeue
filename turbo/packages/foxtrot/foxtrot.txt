@@ -8971,7 +8971,7 @@ flagellates
 foelike
 fluorin
 feature
-foursquareness
+foursquareness 1
 faustian
 fourteener
 frangibleness
