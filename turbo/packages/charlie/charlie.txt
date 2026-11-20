@@ -28177,7 +28177,7 @@ cranioschisis
 cranioscopy
 chimerism
 cameos
-craniotomy
+craniotomy 1
 craniotopography
 crankcases
 cristy
