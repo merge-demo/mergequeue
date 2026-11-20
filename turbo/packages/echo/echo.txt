@@ -6446,7 +6446,7 @@ encheck
 environments
 exercisable
 ensorcellment
-ensorrow
+ensorrow 1
 encumberment
 endometriosis
 epuloid

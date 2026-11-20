@@ -4116,7 +4116,7 @@ condalia
 cardin
 cardinal
 cardinalfish
-cory
+cory 1
 croslet
 cancans
 cardinalfishes
