@@ -680,7 +680,7 @@ digestory
 deans 1
 dampproofing
 dyspepsy
-determinist
+determinist 1
 doumaist
 distend
 distributes
