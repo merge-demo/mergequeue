@@ -17534,7 +17534,7 @@ alteregoism
 appeal
 adders
 appealable
-atangle
+atangle 1
 askance
 acanthodea
 appealingly

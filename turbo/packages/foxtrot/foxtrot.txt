@@ -2357,7 +2357,7 @@ fronton
 fetations
 filmable
 flanneled
-fencelike
+fencelike 1
 flunked
 funerary
 floorward 1
