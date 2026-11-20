@@ -15262,7 +15262,7 @@ dolmans
 diamylose
 diluviums
 dolmas
-dolmen
+dolmen 1
 desubstantiate
 densimetry
 dolomedes
