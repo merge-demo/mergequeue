@@ -7000,7 +7000,7 @@ gapes
 gaditan
 guaconize
 glad
-gossipry
+gossipry 1
 garrat
 grantedly
 girding
