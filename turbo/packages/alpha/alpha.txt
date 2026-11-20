@@ -17758,7 +17758,7 @@ applicableness
 asilid
 aristarchian
 amylogenesis
-ambilaterality
+ambilaterality 1
 ambosexous
 archdespot
 applications
