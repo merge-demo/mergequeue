@@ -1481,7 +1481,7 @@ flittern
 flix
 felicitators
 flavorings
-fruiter
+fruiter 1
 favourable
 friedman
 fundholder
