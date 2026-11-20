@@ -2162,7 +2162,7 @@ entrances
 epizoan
 extrabold
 eructate
-endocyclic
+endocyclic 1
 elbowy
 elbowpiece
 elbows

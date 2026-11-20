@@ -9994,7 +9994,7 @@ breeched
 bivocal
 bossism
 bivocalized
-buffos
+buffos 1
 bivoluminous
 bivouaced
 bivouacked
