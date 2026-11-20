@@ -6321,7 +6321,7 @@ deject
 debit
 defibrillate
 disseminating
-depressions
+depressions 1
 defensorship
 dermic
 delint
