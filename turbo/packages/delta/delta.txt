@@ -1407,7 +1407,7 @@ drapability
 dissatisfactoriness
 desipient
 diligentia 1
-disintegrable
+disintegrable 1
 dulcid
 dechoralize
 deportation
