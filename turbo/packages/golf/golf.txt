@@ -5325,7 +5325,7 @@ glycollate
 glomerulose
 geometricist
 generalised
-glaucus
+glaucus 1
 grammatology
 gansey
 guanidine
