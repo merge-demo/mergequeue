@@ -11803,7 +11803,7 @@ coinquinate
 converter
 choplogic
 choplogical
-chadors
+chadors 1
 choregi
 chalazoidite
 cryptomonad
