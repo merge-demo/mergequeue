@@ -12503,7 +12503,7 @@ coobah
 chromosomally
 celoscope
 cornercap
-collophore
+collophore 1
 chromospheric
 colytic
 committitur
