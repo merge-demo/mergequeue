@@ -10858,7 +10858,7 @@ blowgun
 blighters
 bestowing
 bluish
-bribetaker
+bribetaker 1
 burroughs
 backhands
 blimbing
