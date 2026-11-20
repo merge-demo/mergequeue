@@ -7420,7 +7420,7 @@ excepts
 employes
 elenctic
 entanglement
-ebulliate
+ebulliate 1
 endogenously
 extraperiodic
 extracurricular
