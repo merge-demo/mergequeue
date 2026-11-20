@@ -12933,7 +12933,7 @@ degreeing
 defaultant
 docilities
 discolor
-disaffectedness
+disaffectedness 1
 differed
 disoperculate
 desmosome
