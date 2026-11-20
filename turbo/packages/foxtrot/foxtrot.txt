@@ -5302,7 +5302,7 @@ fumage
 fishingly
 fluoridize
 fatwood
-fretters
+fretters 1
 flain
 fifteens
 fernwort

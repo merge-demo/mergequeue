@@ -4292,7 +4292,7 @@ delver
 dernful
 disannexation
 damascened
-demasculinise
+demasculinise 1
 divisors
 deadening
 dermophytic
