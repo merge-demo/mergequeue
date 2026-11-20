@@ -27122,7 +27122,7 @@ countersense
 countershade
 chasms
 configurable
-cormoid
+cormoid 1
 countershine
 chemosorptive
 copaiye

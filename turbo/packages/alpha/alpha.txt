@@ -3300,7 +3300,7 @@ acutonodose
 aurene
 aminity
 anthropomorphist
-avigator
+avigator 1
 acxoyatl
 accensor
 alvina
