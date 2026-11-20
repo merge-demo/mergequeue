@@ -6856,7 +6856,7 @@ curares
 cytologist
 cellulofibrous
 celluloid
-confabbing
+confabbing 1
 cellulosic
 contented
 conventionalization
