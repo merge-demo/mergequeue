@@ -4913,7 +4913,7 @@ fourscore
 flakiest
 forged
 fixate 1
-fossilist
+fossilist 1
 finisher
 floreat
 fustianish
