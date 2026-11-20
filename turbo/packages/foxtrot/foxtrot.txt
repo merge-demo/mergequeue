@@ -4659,7 +4659,7 @@ fractonimbus
 fivesome
 flashproof
 frivoling
-frayedness
+frayedness 1
 futharcs
 filmgoer
 faust
