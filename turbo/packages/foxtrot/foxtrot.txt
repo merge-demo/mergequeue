@@ -6234,7 +6234,7 @@ foreuse
 flugel
 foreleg
 footwears
-flatlet
+flatlet 1
 fiji
 factotums
 farmerish
