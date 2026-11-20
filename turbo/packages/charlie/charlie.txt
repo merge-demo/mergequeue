@@ -14916,7 +14916,7 @@ creaks
 chupak
 cytostomal
 cordwood
-cytostromatic
+cytostromatic 1
 compromised
 cytotactic
 cerebroganglion
