@@ -10083,7 +10083,7 @@ glore
 gowpen
 gudgeon
 grobianism 1
-glycosidic
+glycosidic 1
 gullage
 gauntest
 graecize
