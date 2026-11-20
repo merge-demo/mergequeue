@@ -3911,7 +3911,7 @@ effigy
 endocrinologies
 echocardiogram
 engreen
-exogamic
+exogamic 1
 electrogalvanize
 emmetropy
 equationally
