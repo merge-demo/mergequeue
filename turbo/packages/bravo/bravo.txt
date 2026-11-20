@@ -15417,7 +15417,7 @@ bloodbath
 brevete
 barghests
 biotelemetry
-bowsed
+bowsed 1
 basicytoparaplastin
 blackfish
 bombe
