@@ -21775,7 +21775,7 @@ asserta
 albanenses
 assertable
 antinganting
-assagaied
+assagaied 1
 awesomely
 asserter
 automatics
