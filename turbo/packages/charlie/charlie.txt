@@ -29493,7 +29493,7 @@ crystalloidal
 crystallomagnetic
 cravers
 cunye
-crystallomancy
+crystallomancy 1
 crystallometry
 continuist
 conjunctional
