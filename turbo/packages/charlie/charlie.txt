@@ -5509,7 +5509,7 @@ catabolized
 claim
 counterwrite
 congaing
-catachreses
+catachreses 1
 catachresis
 catachrestic
 chalices
