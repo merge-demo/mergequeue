@@ -22472,7 +22472,7 @@ astronomize
 aragallus
 algarobas
 acrisia
-astrophysicist
+astrophysicist 1
 anteal
 aromatical
 autolysate
