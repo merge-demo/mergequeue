@@ -16208,7 +16208,7 @@ deliberate
 dowsets
 densitometer
 dowitchers
-determinedness
+determinedness 1
 demagogs
 decanters
 derange
