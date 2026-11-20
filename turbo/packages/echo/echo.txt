@@ -12420,7 +12420,7 @@ electrolysing
 exhuming
 epifaunal
 enthronization
-elegiac
+elegiac 1
 elevenths
 enclosure
 exchequer 1
