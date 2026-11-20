@@ -5669,7 +5669,7 @@ frumenties
 floating
 fibrine
 freckles
-funeration
+funeration 1
 finite
 friended
 fuzz
