@@ -2945,7 +2945,7 @@ dedit
 dediticiancy
 dedogmatize
 discounted
-dedolation
+dedolation 1
 disturbance
 deseret
 destinal
