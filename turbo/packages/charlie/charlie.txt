@@ -15935,7 +15935,7 @@ condemnatory
 cleptobioses
 corteise
 conics
-coadministration
+coadministration 1
 coryphylly
 cobelligerent
 cold
