@@ -10726,7 +10726,7 @@ disharmonize
 disinfects
 dhoon
 decessor
-dipsie
+dipsie 1
 declared
 decarboxylize
 drainspout
