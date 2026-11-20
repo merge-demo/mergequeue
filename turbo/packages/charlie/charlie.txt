@@ -26765,7 +26765,7 @@ confutable
 countercathexis
 counterchanged
 countercharm
-counterclaim
+counterclaim 1
 cirriform 1
 counterclassifications
 cricketer
