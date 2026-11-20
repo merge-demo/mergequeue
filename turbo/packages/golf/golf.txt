@@ -2267,7 +2267,7 @@ germanophilist
 geissoloma
 geissolomataceae
 geissospermine
-glamor
+glamor 1
 genecologic
 glimpses
 geitonogamy
