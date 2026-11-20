@@ -14058,7 +14058,7 @@ circassic
 capivi
 corpuscle
 circe
-circean
+circean 1
 circensian
 coxcombs
 chirinola
