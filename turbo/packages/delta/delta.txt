@@ -3826,7 +3826,7 @@ disappointingly
 dukedom
 deinstitutionalization
 didactylism
-demagnetizable
+demagnetizable 1
 deficiency
 dermalgia
 dubitative
