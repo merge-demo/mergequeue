@@ -10998,7 +10998,7 @@ enquire
 encyclopaedic
 eternalist
 euryprosopic
-ebullitive
+ebullitive 1
 estrade
 excipuliform
 endosarcous
