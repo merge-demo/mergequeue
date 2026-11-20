@@ -13736,7 +13736,7 @@ elfhood
 euphemised
 expunction 1
 emblazoning
-extersive
+extersive 1
 encatarrhaphy
 exerting
 enemata
