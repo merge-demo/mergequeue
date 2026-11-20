@@ -5417,7 +5417,7 @@ editorships
 exclaimingly
 endure
 endurer
-enduringly
+enduringly 1
 edenite
 enterozoic
 earthmen
