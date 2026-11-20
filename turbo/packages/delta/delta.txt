@@ -10490,7 +10490,7 @@ discorder
 derangeable
 delaminate
 diphaser
-divinize
+divinize 1
 dihydrocupreine
 devitalising
 dipyrenous
