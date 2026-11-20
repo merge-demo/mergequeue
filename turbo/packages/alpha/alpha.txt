@@ -1485,7 +1485,7 @@ acclivous
 accolade
 accolades
 anabo
-amp
+amp 1
 antirational
 arrastre
 accolle
