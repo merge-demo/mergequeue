@@ -1435,7 +1435,7 @@ germiparity
 glottalized
 garnishee
 glovemaker
-geophagous
+geophagous 1
 glossagra
 ghenting
 grossart
