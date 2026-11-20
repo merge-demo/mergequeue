@@ -6884,7 +6884,7 @@ feline
 feretrum
 fatuous
 farmout
-farris
+farris 1
 foresey
 febriferous
 flammeous
