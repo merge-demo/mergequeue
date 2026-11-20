@@ -9877,7 +9877,7 @@ endothermous
 excludingly
 eden
 enstatite
-equivalency
+equivalency 1
 encodes
 enodally 1
 encave
