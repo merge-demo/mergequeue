@@ -4090,7 +4090,7 @@ aconital
 ampliation
 aedoeagi
 alcoholically
-allocates
+allocates 1
 admitters
 anahau
 admitting
