@@ -9847,7 +9847,7 @@ bityite
 blockheadishness
 botcher
 burnsian
-banderols
+banderols 1
 bieberite
 bemedalled
 buccaneering
