@@ -2529,7 +2529,7 @@ glen
 gumption
 gingle
 grue
-generations
+generations 1
 ghylls
 growleries
 gastrula
