@@ -9406,7 +9406,7 @@ enrichments
 eyehole
 extraordinarily
 exactus
-entonic
+entonic 1
 explainer
 endeavor
 expection
