@@ -2102,7 +2102,7 @@ achievable 1
 anaplastic
 anviling
 antecedents
-ardor
+ardor 1
 amiral
 antapices
 aiguillesque
