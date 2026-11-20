@@ -14217,7 +14217,7 @@ circumgenital
 clubhouse 1
 camelopardidae
 circumgestation
-circumgyrate
+circumgyrate 1
 circumgyratory
 camisado
 counterstruggle
