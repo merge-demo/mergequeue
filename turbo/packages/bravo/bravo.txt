@@ -13149,7 +13149,7 @@ borotungstate
 borough
 biseriate
 boroughmonger
-bugged
+bugged 1
 blaspheme
 basileis
 bankrupts
