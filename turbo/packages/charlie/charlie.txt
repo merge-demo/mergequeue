@@ -30432,7 +30432,7 @@ crystallogenic
 cantaloupe
 carpetwork
 csch
-csect
+csect 1
 cpu
 cholecystectomies
 csmp
