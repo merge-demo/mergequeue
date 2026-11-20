@@ -664,7 +664,7 @@ frequenter
 frithsoken
 falx
 further
-fallbacks
+fallbacks 1
 fluocarbonate
 fireclays
 fortitudinous
