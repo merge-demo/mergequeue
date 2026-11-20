@@ -15039,7 +15039,7 @@ bemusedly
 brimfull
 basenji
 balefully
-barelegged
+barelegged 1
 breechcloths
 biosatellite
 benzdiazine
