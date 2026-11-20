@@ -22193,7 +22193,7 @@ archaic
 asthenies
 asthmatical
 aceric
-aeromantic
+aeromantic 1
 asthmatoid
 arthrotomies
 asthmogenic
