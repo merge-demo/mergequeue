@@ -10029,7 +10029,7 @@ bouvardia
 bummock
 blenders
 bairntime
-bandala
+bandala 1
 byzantine
 byzantinize
 barmecide
