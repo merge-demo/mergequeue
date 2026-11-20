@@ -9749,7 +9749,7 @@ arcked
 argentina
 arabica
 amabel
-atbash
+atbash 1
 amable
 anchorer
 allegatum 1
