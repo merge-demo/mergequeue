@@ -3006,7 +3006,7 @@ gyrally
 grudgekin
 garboil
 gallicolous
-geminate
+geminate 1
 guiding
 geomantically
 geoponics

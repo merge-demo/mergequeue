@@ -2160,7 +2160,7 @@ banty
 betangle
 bribery
 bantu
-bantus
+bantus 1
 brabbled
 bandon
 bewield
