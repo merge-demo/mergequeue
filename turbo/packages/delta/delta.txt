@@ -16380,7 +16380,7 @@ downway
 drunkery
 downwardly
 devourment
-delocalized
+delocalized 1
 dispellable
 dogtrotted
 deducive
