@@ -11737,7 +11737,7 @@ foresin
 fremdly
 florimanist
 fluvioglacial
-forbidden
+forbidden 1
 finitely
 flinging
 flanking
