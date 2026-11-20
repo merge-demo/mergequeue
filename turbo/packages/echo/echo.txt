@@ -4017,7 +4017,7 @@ erosionally
 emendatory
 episporium
 empyemata
-empyemic
+empyemic 1
 empiercement
 enwind
 evirato
