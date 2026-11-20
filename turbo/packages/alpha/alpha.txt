@@ -16824,7 +16824,7 @@ acanthopore
 agnoete
 aphorismos
 avatars
-asyndesis
+asyndesis 1
 autopore
 aphorist
 ailuropus
