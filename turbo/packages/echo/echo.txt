@@ -4278,7 +4278,7 @@ equiponderate 1
 excerpts
 effectible
 en
-enjoined
+enjoined 1
 extirpation
 epicarides
 ejectment
