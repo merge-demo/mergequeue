@@ -8467,7 +8467,7 @@ diametral
 diametric
 diamide
 diamides
-desolate
+desolate 1
 decerebrating
 descanter
 deesis
