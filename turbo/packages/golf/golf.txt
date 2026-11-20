@@ -1354,7 +1354,7 @@ garmentmaker
 grafting 1
 gemmel
 glutted
-gelogenic
+gelogenic 1
 green
 garments
 gerodermia
