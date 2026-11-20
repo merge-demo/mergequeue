@@ -9953,7 +9953,7 @@ guarico
 gonidial
 graphostatic
 getaways
-grievousness
+grievousness 1
 gigadoid
 gondoliers
 gritless
