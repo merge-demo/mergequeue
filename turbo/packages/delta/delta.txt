@@ -3109,7 +3109,7 @@ deterrers
 disslander
 demiseason
 disadvantaging
-dispersibility
+dispersibility 1
 defamations
 dipygus
 diseaseful
