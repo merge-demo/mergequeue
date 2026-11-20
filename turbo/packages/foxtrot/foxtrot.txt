@@ -10509,7 +10509,7 @@ fum
 fumelike
 firetail
 farandman
-frouzy
+frouzy 1
 finch
 fazendas
 fiefs
