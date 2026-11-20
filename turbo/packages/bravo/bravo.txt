@@ -5139,7 +5139,7 @@ blende
 broadside
 beggarer
 boorishness 1
-buccinatory
+buccinatory 1
 bagpod
 beforeness
 baffled
