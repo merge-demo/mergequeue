@@ -10178,7 +10178,7 @@ acraein
 antennata
 acotyledonous
 ambulancer
-ambulated
+ambulated 1
 atropinism
 alkalimetrically
 anisogamy
