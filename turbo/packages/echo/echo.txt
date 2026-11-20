@@ -1279,7 +1279,7 @@ eucairite
 eleonorite
 epinephrin
 epigramme
-eq
+eq 1
 eeriness
 epithalamion
 encircler
