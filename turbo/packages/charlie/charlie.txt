@@ -3464,7 +3464,7 @@ ceruses
 chullpa
 capsicums
 capsid
-coumarous
+coumarous 1
 chylosis
 ciceronianists
 copesman
