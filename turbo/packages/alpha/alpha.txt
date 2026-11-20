@@ -20106,7 +20106,7 @@ auscultate
 agitating 1
 astroblast
 abash
-arose
+arose 1
 athold
 around
 atheromasia
