@@ -12651,7 +12651,7 @@ diatrymiformes
 dridder
 disdiplomatize
 dendrobates
-disfavour
+disfavour 1
 duplicability
 dinitrobenzene
 dissolute
