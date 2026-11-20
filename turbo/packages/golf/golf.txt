@@ -497,7 +497,7 @@ gravimetrical
 gelatin
 gye
 glaucodot
-gluteus
+gluteus 1
 grama
 gullably
 geminations
