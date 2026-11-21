@@ -4147,7 +4147,7 @@ energids
 expungement
 erythrodermia
 especially
-externum
+externum 1
 encl
 encaustes
 exporter
