@@ -25656,7 +25656,7 @@ corpuscularian
 colombian
 confinedness
 completed
-corpuscularity
+corpuscularity 1
 corpuscule
 corpusculous
 chairlift
