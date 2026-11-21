@@ -10477,7 +10477,7 @@ forwearying
 fordid
 flegm 1
 forereading
-fluitant
+fluitant 1
 fatness
 frutescent
 frostings
