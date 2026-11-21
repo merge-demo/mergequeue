@@ -1267,7 +1267,7 @@ flatten
 filmdom
 frostier
 filariform
-familistic
+familistic 1
 fermentative
 farmerlike
 flutteringly
