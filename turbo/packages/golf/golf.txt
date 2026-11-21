@@ -8394,7 +8394,7 @@ gradientia
 genipa 1
 galeeny
 gyroscopically
-ghosting
+ghosting 1
 gaucherie
 gawby
 grebe
