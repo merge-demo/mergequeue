@@ -8632,7 +8632,7 @@ furthering
 frictionproof
 faintest
 frousty
-forgivable
+forgivable 1
 footing
 flaunt
 fillebeg
