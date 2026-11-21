@@ -2470,7 +2470,7 @@ eriometer
 encharge
 exegete
 eurythmical
-enstatite
+enstatite 1
 electrogasdynamics
 electroharmonic
 empanelment
