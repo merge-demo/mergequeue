@@ -6801,7 +6801,7 @@ dedicates
 diaconate
 desize
 decompositional
-desklike
+desklike 1
 diphrelatic
 dunks
 deskman
