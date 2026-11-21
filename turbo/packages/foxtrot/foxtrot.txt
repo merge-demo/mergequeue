@@ -1861,7 +1861,7 @@ farcicality
 funambulate
 foreign
 febricant
-frilly
+frilly 1
 frictions
 fore
 feastless
