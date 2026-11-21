@@ -19002,7 +19002,7 @@ collegese
 collectivities
 charonic
 crenele
-caloricity
+caloricity 1
 collectivize
 collectivized
 collectivizes
