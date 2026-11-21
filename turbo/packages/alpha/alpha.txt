@@ -20147,7 +20147,7 @@ approx
 array
 arrayal
 archmystagogue
-arraign
+arraign 1
 agaricales
 absently
 antiquary
