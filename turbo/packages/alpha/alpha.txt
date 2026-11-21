@@ -24530,7 +24530,7 @@ antispreader
 aoristic
 ascaron
 ame
-auxetic
+auxetic 1
 adoptability
 aghorapanthi
 anywhereness
