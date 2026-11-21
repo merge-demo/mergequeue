@@ -6747,7 +6747,7 @@ fleury 1
 feedwater
 frized
 fleece
-feering
+feering 1
 ferity
 foresworn
 felonweed
