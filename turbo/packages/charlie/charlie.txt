@@ -22694,7 +22694,7 @@ chrysatropic
 craftier
 calmato
 conoidic
-chessboard
+chessboard 1
 contributor
 conoidically
 camphanyl
