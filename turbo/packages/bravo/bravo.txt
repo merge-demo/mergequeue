@@ -13852,7 +13852,7 @@ boathook
 bang
 bowheads
 bowie
-balr
+balr 1
 blatter
 beanfeast
 beadiest
