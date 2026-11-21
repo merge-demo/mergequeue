@@ -6784,7 +6784,7 @@ fourling
 ferryman
 farfal
 foreigns
-furriness
+furriness 1
 formaldoxime
 forethink
 furcation
