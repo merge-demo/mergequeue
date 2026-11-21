@@ -5271,7 +5271,7 @@ fideicommissa
 frostbird
 fockle
 fameuse
-fabricable
+fabricable 1
 fomenter
 ferricyanate
 flavours
