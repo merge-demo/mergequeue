@@ -2015,7 +2015,7 @@ eta
 erythrosine
 epitrophy
 encurl
-exophasia
+exophasia 1
 emersion
 etherish
 ethiopic
