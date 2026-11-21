@@ -11121,7 +11121,7 @@ devvel
 dyeline
 disavower
 derringers
-depletes
+depletes 1
 dottily
 devicefulness
 duraplasty
