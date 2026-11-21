@@ -1555,7 +1555,7 @@ deaden
 docked
 diadelphian
 drippings
-dices
+dices 1
 deputising
 dyssodia
 deadfalls
