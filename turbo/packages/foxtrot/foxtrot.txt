@@ -5809,7 +5809,7 @@ flankwise
 froggiest 1
 frivolize
 ferfet
-fluoridations
+fluoridations 1
 fritted
 figgery
 furbishes
