@@ -7295,7 +7295,7 @@ gooky
 goofing
 gamostelic
 gambreled
-gassendist
+gassendist 1
 gastraea
 gortonite
 gauffer
