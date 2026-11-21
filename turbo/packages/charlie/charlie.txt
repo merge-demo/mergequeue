@@ -8363,7 +8363,7 @@ chambered
 chamberlainry
 caccia
 chrysolophus
-candiot
+candiot 1
 centroid
 chamberleted
 ceratorhine
