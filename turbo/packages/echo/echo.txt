@@ -3548,7 +3548,7 @@ enervator
 exceeder
 equoid
 epicureanism
-exothermally
+exothermally 1
 excerpting
 epidesmine
 emboscata
