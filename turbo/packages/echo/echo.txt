@@ -4506,7 +4506,7 @@ epirrheme
 encephalomyelitis
 entalent
 eery
-enrange
+enrange 1
 erucin
 emancipate
 enactive
