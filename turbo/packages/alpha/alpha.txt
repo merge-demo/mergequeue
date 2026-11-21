@@ -23259,7 +23259,7 @@ aria
 attollent
 attorn
 airscape
-attornare
+attornare 1
 agilely
 antirealism
 accumulator
