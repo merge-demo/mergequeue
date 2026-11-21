@@ -5368,7 +5368,7 @@ embrighten
 ethylidene
 evicted
 engorges
-envolupen
+envolupen 1
 evocatory
 endotheliomas
 empathizing
