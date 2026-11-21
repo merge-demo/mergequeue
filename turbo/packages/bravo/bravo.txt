@@ -6434,7 +6434,7 @@ ballast
 bisulcate
 bulldogged
 biostratigraphy
-borderings
+borderings 1
 burseraceae
 bergmannite
 bilati
