@@ -2586,7 +2586,7 @@ glottis
 geodete
 gemmification
 gunpapers
-gyrohorizon
+gyrohorizon 1
 greillade
 glaucine
 glamourization
