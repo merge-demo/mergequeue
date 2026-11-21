@@ -801,7 +801,7 @@ burled
 badmouths
 bullfrog
 boltheads 1
-badnesses
+badnesses 1
 blepharochromidrosis
 bradylogia
 bads
