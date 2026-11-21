@@ -11581,7 +11581,7 @@ eschew
 entablatured
 electroretinogram
 engregge 1
-eternalising
+eternalising 1
 expatiate
 enmeshing
 evolver
