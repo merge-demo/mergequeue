@@ -9201,7 +9201,7 @@ foundries
 faucals
 fidalgo
 fuming
-forsakes
+forsakes 1
 flattener 1
 feldspathose
 flosh
