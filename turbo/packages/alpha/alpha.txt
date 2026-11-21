@@ -14377,7 +14377,7 @@ antinovels
 anthol
 armour
 anodes
-apiaceous
+apiaceous 1
 antireaction
 aniseikonia
 antholite
