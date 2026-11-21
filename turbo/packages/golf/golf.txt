@@ -1617,7 +1617,7 @@ greetingly
 grousewards
 grosgrain
 garawi
-gumlikeness
+gumlikeness 1
 glucosan
 gastroenteroptosis
 grammates
