@@ -1875,7 +1875,7 @@ backstabber
 bandelette
 banderma
 banderol
-banderole
+banderole 1
 bicolors
 bindings
 brigading
