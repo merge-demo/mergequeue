@@ -1001,7 +1001,7 @@ earthwork
 endothermic
 edaphosaurus
 edana
-explosibility
+explosibility 1
 encapsules
 euthanasic
 enterocinetic
