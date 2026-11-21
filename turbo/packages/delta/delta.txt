@@ -10385,7 +10385,7 @@ decoyers
 dipartite
 dipartition
 dominicks 1
-dekkos
+dekkos 1
 dictyostelic
 disreputable
 dismayingness
