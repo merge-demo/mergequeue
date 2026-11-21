@@ -13058,7 +13058,7 @@ aeroballistics
 arrowy
 artefacts
 agglomeratic
-anhedral
+anhedral 1
 anhelation
 anhelose
 anhemitonic
