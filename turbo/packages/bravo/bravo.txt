@@ -2480,7 +2480,7 @@ brie
 burrgrailer
 balbutient
 batino
-bourbonize
+bourbonize 1
 brendan
 balaklava
 blitzkriegs
