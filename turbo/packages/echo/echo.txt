@@ -5713,7 +5713,7 @@ exophthalmic
 engined
 equangular
 ending 1
-excusability
+excusability 1
 engage
 etymologic
 exampless
