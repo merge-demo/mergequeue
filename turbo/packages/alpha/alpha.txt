@@ -18101,7 +18101,7 @@ apterygiformes
 almsgiver
 arace
 arcanist
-abstricts
+abstricts 1
 apteryla
 alternance
 agentship
