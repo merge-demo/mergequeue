@@ -13262,7 +13262,7 @@ eponymize
 eternizing
 exantlate
 ensheath
-epignathous
+epignathous 1
 eyedroppers
 egregious
 enflagellation
