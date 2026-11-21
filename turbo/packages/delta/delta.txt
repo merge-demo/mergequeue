@@ -3387,7 +3387,7 @@ dixie
 ditremidae
 defleas
 downlinks
-deflect
+deflect 1
 dichotomic
 disinhuming
 deflecting
