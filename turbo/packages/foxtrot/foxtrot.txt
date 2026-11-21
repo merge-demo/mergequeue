@@ -7896,7 +7896,7 @@ featherworker
 foresee
 faitor
 frakturs
-foreseeable
+foreseeable 1
 futchel
 footeite
 footslog
