@@ -13848,7 +13848,7 @@ embrake
 euvrou
 epirogeny
 euthenics
-elects
+elects 1
 excudit
 elaeothesia
 extraversively
