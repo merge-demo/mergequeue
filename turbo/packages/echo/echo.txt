@@ -4380,7 +4380,7 @@ embar
 egotize
 eruptively
 experiential
-encadre
+encadre 1
 ender
 epimerism
 emphasised
