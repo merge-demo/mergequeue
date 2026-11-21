@@ -10740,7 +10740,7 @@ flotsams
 fideisms
 frumps
 forcedly
-fragmentalize
+fragmentalize 1
 fuder
 frustrating
 fairing
