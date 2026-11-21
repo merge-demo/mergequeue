@@ -24576,7 +24576,7 @@ auxology
 ammonea
 argentarius
 anachorism
-auxotonic
+auxotonic 1
 annihilator
 auxotox
 auxotroph
