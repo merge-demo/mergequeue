@@ -5217,7 +5217,7 @@ forgeability
 flav
 flavanilin
 fiscals
-flavescence
+flavescence 1
 fumarolic
 fingall
 flytrap
