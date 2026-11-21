@@ -12046,7 +12046,7 @@ enforcible
 elflike
 eyestones
 exotoxins
-expurgatorial
+expurgatorial 1
 embalmed
 excortication
 eschewals
