@@ -11302,7 +11302,7 @@ evaporimeter
 electrocute
 ecdysons
 enwrap
-evaporitic
+evaporitic 1
 enforcively
 evapotranspiration
 ecaudata
