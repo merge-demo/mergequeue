@@ -9357,7 +9357,7 @@ emotionally
 enstate
 emane
 enrobement
-effecter
+effecter 1
 endemism
 educable
 escalades
