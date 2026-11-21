@@ -12474,7 +12474,7 @@ bdls
 burnewin
 betaines
 brimborion
-burntness
+burntness 1
 bather
 bagpiped
 bone
