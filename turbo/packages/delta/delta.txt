@@ -15639,7 +15639,7 @@ detacher
 doorward
 doorweed
 diem
-doozers
+doozers 1
 dasystephana
 dowieism
 didascaliae

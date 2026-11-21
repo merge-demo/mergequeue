@@ -6817,7 +6817,7 @@ gravilea
 glycosyls
 geryonia
 garle
-glutimate
+glutimate 1
 gonococci
 glossopharyngeus
 gratuitous
