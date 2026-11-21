@@ -12584,7 +12584,7 @@ excluders
 encirclement
 excoriate
 exoculate
-expostulates
+expostulates 1
 ecclesiasticalness
 exoculation
 exoderm
