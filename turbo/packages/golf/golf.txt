@@ -4275,7 +4275,7 @@ gaunty
 goon
 gantleting
 gramophones
-gnabble
+gnabble 1
 garnishing
 guncotton
 gantang
