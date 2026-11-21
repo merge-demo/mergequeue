@@ -593,7 +593,7 @@ groundlings
 graters
 gyrinidae
 geocronite
-gentlewomanliness
+gentlewomanliness 1
 germanity
 gigue
 guarauno
