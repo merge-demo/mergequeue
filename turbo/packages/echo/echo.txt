@@ -4395,7 +4395,7 @@ eubacteria
 ecumenist
 elaeis
 ebriously
-encapsulation
+encapsulation 1
 emitted
 encapsuled
 enure
