@@ -6033,7 +6033,7 @@ finger
 fontange
 forespeech
 frontooccipital
-flanker
+flanker 1
 fictionise
 fluoresce
 fleam
