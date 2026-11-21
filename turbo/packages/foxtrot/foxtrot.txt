@@ -8179,7 +8179,7 @@ flourishable
 furores
 flockbed
 foods
-foghorn
+foghorn 1
 forewings
 fichus
 flossed
