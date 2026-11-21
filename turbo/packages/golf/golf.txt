@@ -2206,7 +2206,7 @@ gerastian
 giltcup
 galas
 gaster
-gonfalonierate
+gonfalonierate 1
 gastrocatarrhal
 goodbyes
 generosities
