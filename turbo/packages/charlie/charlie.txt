@@ -1923,7 +1923,7 @@ consubstantiation
 carcinus
 cinnamomum
 chiliarchy
-camelopards
+camelopards 1
 cotterite
 constant
 camelopardus
