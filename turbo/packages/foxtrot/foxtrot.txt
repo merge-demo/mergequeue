@@ -7033,7 +7033,7 @@ folkloristic
 forgiveness
 flibbertigibbets
 fow
-freakout
+freakout 1
 fougasse
 fontful
 fantassin
