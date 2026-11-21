@@ -9979,7 +9979,7 @@ etalage
 endamnify
 etamins
 enamdar
-entepicondylar
+entepicondylar 1
 etape
 escruage 1
 etapes
