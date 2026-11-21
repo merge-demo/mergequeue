@@ -1295,7 +1295,7 @@ calfskin
 creatural
 calgary
 caliban
-cunea
+cunea 1
 calaverite
 caliber
 compulsatory
