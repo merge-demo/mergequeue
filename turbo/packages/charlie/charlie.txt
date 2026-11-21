@@ -14557,7 +14557,7 @@ chackling
 cylindrite
 cysticercosis
 cysticerus
-cysticolous
+cysticolous 1
 cystid
 cohogs
 cystidea
