@@ -167,7 +167,7 @@ flips
 folklorish
 flirtatious
 fructokinase
-friborg
+friborg 1
 fabulous
 fwd
 fourquine
