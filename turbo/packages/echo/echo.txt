@@ -8689,7 +8689,7 @@ encharging
 episcleritis
 earth
 epiglottides
-europeanize
+europeanize 1
 emendations
 equipoise
 endophyllous
