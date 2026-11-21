@@ -10313,7 +10313,7 @@ demove
 dioptric
 dioptrical
 duhr
-diorama
+diorama 1
 daroo
 diophantine
 driftpiece
