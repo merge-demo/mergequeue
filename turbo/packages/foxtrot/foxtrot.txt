@@ -7899,7 +7899,7 @@ frakturs
 foreseeable
 futchel
 footeite
-footslog
+footslog 1
 fletching
 foreseer
 foresees
