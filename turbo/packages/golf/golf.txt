@@ -1246,7 +1246,7 @@ groff
 gravures
 grogged
 ganglionectomy
-grayhound
+grayhound 1
 galactostasis
 gonglike
 grassman
