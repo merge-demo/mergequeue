@@ -15822,7 +15822,7 @@ caranga
 catnapper
 clearsightedness
 clearstarcher
-clearstory
+clearstory 1
 chocker
 clearstoried
 crispest 1
