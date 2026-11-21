@@ -1168,7 +1168,7 @@ grogs
 graftdom
 ganglioneuron
 grift 1
-groatsworth
+groatsworth 1
 glyptographer
 gested
 gamolepis
