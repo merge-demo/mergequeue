@@ -13832,7 +13832,7 @@ denumeration
 diatomic 1
 dryers
 doable
-delphinin
+delphinin 1
 distancy
 diabolarchy
 dalmatian
