@@ -5758,7 +5758,7 @@ deadpay
 disaffirmation
 davened
 deaconed
-depolishes
+depolishes 1
 depoliticized
 donia
 dredged
