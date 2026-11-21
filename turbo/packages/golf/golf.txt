@@ -5072,7 +5072,7 @@ glenlike
 glasslikeness
 goosefoots
 gelatiniser
-glassful
+glassful 1
 garrya
 gilled
 gigas
