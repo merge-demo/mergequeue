@@ -5364,7 +5364,7 @@ dipmeter
 drub
 demonio
 disemburden
-diazenithal
+diazenithal 1
 dragman
 disco
 disgruntle
