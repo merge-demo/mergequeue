@@ -2512,7 +2512,7 @@ fudging
 fainthearted
 femorocele
 faction
-farted
+farted 1
 facinorousness
 fluxgraph
 fieldman
