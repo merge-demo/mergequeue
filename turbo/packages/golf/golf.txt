@@ -4980,7 +4980,7 @@ germanization
 genom
 ganof 1
 gurgoyl
-gastrelcosis
+gastrelcosis 1
 ginger
 grisliest
 glamoured
