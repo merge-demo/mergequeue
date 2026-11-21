@@ -3310,7 +3310,7 @@ capnomancy
 capnomor
 cirripede
 cowgram
-connivant
+connivant 1
 celli
 colleri
 capo
