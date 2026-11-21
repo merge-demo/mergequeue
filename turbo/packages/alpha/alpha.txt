@@ -3046,7 +3046,7 @@ autochton
 agonia
 anura
 actinomycete
-allogeneity
+allogeneity 1
 analcime
 actinomycosistic
 auxillary
