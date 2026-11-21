@@ -8568,7 +8568,7 @@ etherial
 elucid
 erase
 ejaculative
-eumorphic
+eumorphic 1
 enunciative
 etheriform
 equatorwards
