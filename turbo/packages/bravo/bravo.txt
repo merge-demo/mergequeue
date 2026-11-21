@@ -10934,7 +10934,7 @@ benedictionary
 bowses
 basta
 beckets
-bartonia
+bartonia 1
 brooms
 beadroll
 blinker
