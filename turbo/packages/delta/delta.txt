@@ -3019,7 +3019,7 @@ dies
 dismantling
 deepfreeze
 dilettantish
-deepgoing
+deepgoing 1
 dipyridyl
 dawsoniaceous
 derailer
