@@ -6668,7 +6668,7 @@ enterotoxemia
 encarnadine
 enterotoxication
 enlight
-equestrianize
+equestrianize 1
 eclipser
 enspirit
 equilibriria
