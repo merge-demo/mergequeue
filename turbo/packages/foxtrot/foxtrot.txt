@@ -4821,7 +4821,7 @@ flagman
 fasciolaria
 fancifulness
 floatiest
-fullwords
+fullwords 1
 faena
 fellowshipping
 falsen
