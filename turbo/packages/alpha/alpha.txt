@@ -12990,7 +12990,7 @@ acutes
 alls
 arbitrations
 achromatising
-adjuvants
+adjuvants 1
 apologetics
 axine
 angula
