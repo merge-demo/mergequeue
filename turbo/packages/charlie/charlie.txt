@@ -2780,7 +2780,7 @@ counterstrike
 cableman
 cannie
 cagui
-cannier
+cannier 1
 creolization
 canning
 cannings
