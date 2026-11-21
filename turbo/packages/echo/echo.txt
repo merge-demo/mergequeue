@@ -13964,7 +13964,7 @@ eozoonal
 endokaryogamy
 enface
 electropoion
-escheatage
+escheatage 1
 extraparochial
 equicurve
 ectophytic
