@@ -6685,7 +6685,7 @@ ecrevisse
 epulis 1
 espundia
 endamebiasis
-edaciousness
+edaciousness 1
 entertainingly
 electrophysics
 entertainment
