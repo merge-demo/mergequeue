@@ -4640,7 +4640,7 @@ gunlocks
 gaudy 1
 guerinet
 glossitic
-guttersnipish
+guttersnipish 1
 gyppers
 griggles
 graphometer
