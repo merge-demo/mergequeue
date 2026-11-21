@@ -7485,7 +7485,7 @@ faultlessness
 faltered
 flatuses
 furoate
-fluor
+fluor 1
 fluellin
 faciest
 fillip
