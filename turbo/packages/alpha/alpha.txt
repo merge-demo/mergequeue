@@ -6168,7 +6168,7 @@ agnat
 agnatha
 autolytic
 advenient
-agnatical
+agnatical 1
 amoreuxia
 addressor
 antistaphylococcic
