@@ -5913,7 +5913,7 @@ guereba
 gymnospermous
 goitrous
 gasogene
-goliardeys
+goliardeys 1
 gravitational
 groveless
 goldarn
