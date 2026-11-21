@@ -2847,7 +2847,7 @@ ganglionic
 gyrate
 gustavus
 guardsman
-gipser
+gipser 1
 glyptician
 grasschat
 gasser
