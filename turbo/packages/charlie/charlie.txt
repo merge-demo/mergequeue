@@ -5269,7 +5269,7 @@ chromomeric
 cassegrainian
 casseroling
 carinule
-cataleptic
+cataleptic 1
 cossetting
 conduced
 cuculine
