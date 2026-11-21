@@ -25583,7 +25583,7 @@ corp
 corpn
 corpora
 corporacies
-calcic
+calcic 1
 corporalcy
 corporale
 corporalism
