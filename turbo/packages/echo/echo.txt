@@ -13506,7 +13506,7 @@ editing
 etruscologist
 erythrophagous
 eristic
-endangeitis
+endangeitis 1
 epigrapher
 elinor
 equipollence
