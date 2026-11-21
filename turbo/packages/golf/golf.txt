@@ -7215,7 +7215,7 @@ gerfalcon
 gynecol
 gorgosaurus
 galenism
-gorillalike
+gorillalike 1
 grimliness
 gloze
 grater 1
