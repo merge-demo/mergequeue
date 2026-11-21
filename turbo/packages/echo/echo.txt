@@ -2780,7 +2780,7 @@ elementalize
 ephori
 elementaloid
 expurgative
-eunicid
+eunicid 1
 essang
 encoronate
 eluded
