@@ -10783,7 +10783,7 @@ exflagellate
 endosporic
 eumycete
 eulogiums
-endogenicity
+endogenicity 1
 elaborating
 emoting
 euskera
