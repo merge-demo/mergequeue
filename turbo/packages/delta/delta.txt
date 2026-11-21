@@ -10862,7 +10862,7 @@ diablene
 drifts
 dyslogia
 dissaturate
-discontinuous
+discontinuous 1
 designlessly
 diathermometer
 doddart
