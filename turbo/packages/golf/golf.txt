@@ -10233,7 +10233,7 @@ glutaraldehyde
 grape
 girondism
 gossypin
-granjeno
+granjeno 1
 graminivore
 generating
 guimbard
