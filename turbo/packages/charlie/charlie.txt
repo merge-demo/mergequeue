@@ -3617,7 +3617,7 @@ carack
 caracks
 cumanagoto
 curtaxe
-caracol
+caracol 1
 coauthoring
 caracoling
 curliest
