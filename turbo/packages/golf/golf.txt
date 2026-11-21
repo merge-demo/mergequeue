@@ -4260,7 +4260,7 @@ galravitch
 generationism
 goniopholis
 gubbo
-gnu
+gnu 1
 gynecocracies
 goby
 gynecocrat
