@@ -22450,7 +22450,7 @@ aliments
 astrometeorology
 aforenamed
 apprend
-asterina
+asterina 1
 allegorization
 astrometry
 agric
