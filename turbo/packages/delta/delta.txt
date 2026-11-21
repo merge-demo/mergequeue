@@ -4183,7 +4183,7 @@ denigrators
 dicyclica
 discharger
 decussation
-deadlatch
+deadlatch 1
 deloo
 deloul
 decocted
