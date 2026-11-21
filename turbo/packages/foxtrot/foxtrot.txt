@@ -7545,7 +7545,7 @@ foreboder
 fungivorous
 fuzils
 flattops
-foretake
+foretake 1
 funebrial
 formers
 falconries
