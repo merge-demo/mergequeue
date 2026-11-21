@@ -6542,7 +6542,7 @@ flutteriness
 flagrate
 flinches
 fluttering
-forswears
+forswears 1
 flameless
 feedboard
 flensing
