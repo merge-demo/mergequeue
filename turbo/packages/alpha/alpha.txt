@@ -3261,7 +3261,7 @@ antivenomous
 acupuncturist
 acus
 atrabile
-anisotropism
+anisotropism 1
 atresy
 acetanion
 army
