@@ -9554,7 +9554,7 @@ dischargers
 dignifiedly
 decoying 1
 deionizing
-delatinization
+delatinization 1
 drachm
 departisanize
 diastrophically
