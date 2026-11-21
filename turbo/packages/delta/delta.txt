@@ -7386,7 +7386,7 @@ dijudication
 demilunes
 deselect
 discount
-demoniacally
+demoniacally 1
 demiadult
 detonating
 decenyl
