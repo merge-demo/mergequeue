@@ -10059,7 +10059,7 @@ garnering 1
 gongman
 gossypols
 guerison
-guerites
+guerites 1
 gage
 graveolency
 gravedigger
