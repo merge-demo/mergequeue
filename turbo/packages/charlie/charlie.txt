@@ -3415,7 +3415,7 @@ carers
 convokes
 caprices
 capricious
-cajole
+cajole 1
 capricornid
 conditotoria
 centon
