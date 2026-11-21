@@ -9657,7 +9657,7 @@ fletcher
 furfures 1
 fregata
 faunist
-freyalite
+freyalite 1
 frondent
 forfairn
 freibergite
