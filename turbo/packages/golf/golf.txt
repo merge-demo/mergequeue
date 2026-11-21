@@ -1902,7 +1902,7 @@ gnomesque
 gear
 gravewards
 guideship
-gypsies
+gypsies 1
 galactosuria
 goalkeepers
 greaseless
