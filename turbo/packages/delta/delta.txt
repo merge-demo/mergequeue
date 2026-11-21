@@ -3893,7 +3893,7 @@ dejection
 devested
 derivation
 drake
-dejeration
+dejeration 1
 dejeuner
 dekadrachm
 dekagramme
