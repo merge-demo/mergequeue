@@ -1004,7 +1004,7 @@ flamiest
 filmsets
 foreshop
 fulmina
-foreplan
+foreplan 1
 formate
 foreorder
 fenester
