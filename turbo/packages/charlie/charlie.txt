@@ -11023,7 +11023,7 @@ chirt
 chirurgeon
 crimean
 chirurgeonly
-chirurgery
+chirurgery 1
 chis
 chiseled
 combinantive
