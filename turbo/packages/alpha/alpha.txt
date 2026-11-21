@@ -11860,7 +11860,7 @@ analyze
 analyzed 1
 ailurophobe
 acetyliodide
-antiaristocratic
+antiaristocratic 1
 alypin
 analyzes
 analkalinity
