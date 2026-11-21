@@ -11805,7 +11805,7 @@ euglenida
 ectothermic
 enwoven
 exauthorizeexc
-evanescently
+evanescently 1
 ethoxyl
 exceptio
 epileptics
