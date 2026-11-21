@@ -15370,7 +15370,7 @@ disobstruct
 dearn
 dragginess
 domiciles
-domiciliate
+domiciliate 1
 domiciliated
 demineralizer
 detectivism
