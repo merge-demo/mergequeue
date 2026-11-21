@@ -3234,7 +3234,7 @@ gametophytic
 goodhearted
 grainedness
 goldminer
-graywacke
+graywacke 1
 gruellers
 glucemia
 geometrising
