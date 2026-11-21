@@ -5039,7 +5039,7 @@ gisarmes
 gassy
 galvanomagnetic
 gapped
-glandulousness
+glandulousness 1
 garnish
 groused
 golconda
