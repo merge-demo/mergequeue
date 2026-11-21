@@ -7494,7 +7494,7 @@ cambrian
 ceraunoscopy
 cyathophyllidae
 cercal
-calelectricity
+calelectricity 1
 cercaria
 corticosterone 1
 chivvy
