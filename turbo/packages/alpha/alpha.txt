@@ -24226,7 +24226,7 @@ automata
 apidae
 alcids
 awash
-aminities
+aminities 1
 argentite
 automates
 analagous
