@@ -24067,7 +24067,7 @@ convergences
 comps
 cerebronic
 convergency
-columbary
+columbary 1
 convergent
 cytogeny
 chemoceptor
