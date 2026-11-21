@@ -23928,7 +23928,7 @@ crippledom
 contused
 castlery
 casinos
-contuses
+contuses 1
 contusion
 choirwise
 condiddling
