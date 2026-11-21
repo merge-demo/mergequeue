@@ -1488,7 +1488,7 @@ estivate
 ebbs
 eclegme
 escadrille
-effusively
+effusively 1
 entasias
 effuviate
 efl
