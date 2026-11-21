@@ -5346,7 +5346,7 @@ gombeenism
 gliding 1
 gonopod
 gyrencephalate
-goiters
+goiters 1
 grain
 gormands
 ganoses
