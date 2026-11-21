@@ -6624,7 +6624,7 @@ boneshave
 binal
 bodegon
 beribanded
-birdy
+birdy 1
 barbarious
 beriberis
 bevesseled
