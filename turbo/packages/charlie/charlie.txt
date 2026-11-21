@@ -14314,7 +14314,7 @@ circumsinous
 circumsolar
 collow
 cocciferous
-circumspangle
+circumspangle 1
 caudal
 crambid
 crystalwort
