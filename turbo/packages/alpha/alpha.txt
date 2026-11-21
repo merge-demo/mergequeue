@@ -5694,7 +5694,7 @@ acupunctuation
 afunction
 authoritative
 aquafortist
-agalma
+agalma 1
 ardea
 apocopating
 antechurch
