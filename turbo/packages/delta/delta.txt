@@ -12786,7 +12786,7 @@ dislustered
 delectate
 drollish
 decafid
-disallowableness
+disallowableness 1
 depicts
 disulphonic
 diffusedness
