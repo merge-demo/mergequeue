@@ -11604,7 +11604,7 @@ alveolae
 alefnull
 abvolts
 agami
-anacephalize
+anacephalize 1
 amanitin
 anacharis
 arriver
