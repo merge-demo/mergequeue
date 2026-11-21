@@ -8,7 +8,7 @@ episternum
 electrochronograph
 engirding
 epidermoid
-erigeron
+erigeron 1
 euchologion
 emigate
 erosivity
