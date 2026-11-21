@@ -6916,7 +6916,7 @@ fauves
 fikie
 fragmented
 fishback
-fogs
+fogs 1
 formyls
 fulwa
 fideicommission
