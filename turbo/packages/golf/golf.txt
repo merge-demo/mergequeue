@@ -1846,7 +1846,7 @@ geodic
 gourmandism
 galacturia
 gardenwise
-gentilesse
+gentilesse 1
 grabber
 gemlike
 galumph
