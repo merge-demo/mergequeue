@@ -12095,7 +12095,7 @@ armit
 anastasian
 alveus
 amblyopsis
-autostability
+autostability 1
 aerogen
 anhalamine
 airspeed
