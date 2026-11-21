@@ -13464,7 +13464,7 @@ disrest
 disillusionment
 disguiseless
 despotism
-droyl
+droyl 1
 disrobement
 disrober
 douzaine 1
