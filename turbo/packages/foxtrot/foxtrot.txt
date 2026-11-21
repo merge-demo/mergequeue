@@ -632,7 +632,7 @@ fluctiferous
 flavorless
 frighter
 fragaria
-fiorin
+fiorin 1
 floodways
 fleshes
 folly
