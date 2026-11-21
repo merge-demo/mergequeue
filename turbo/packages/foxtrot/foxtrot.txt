@@ -11594,7 +11594,7 @@ fancywork
 fraughan
 forlanas
 fusions
-freity
+freity 1
 floscular
 fissional
 foregallery
