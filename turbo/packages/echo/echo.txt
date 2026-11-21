@@ -5037,7 +5037,7 @@ ensuer
 emphaticalness
 ectoproct
 endmost
-enrage
+enrage 1
 enamellar
 exemplum
 eyelid
