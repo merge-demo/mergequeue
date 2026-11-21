@@ -6327,7 +6327,7 @@ frags
 fluidity
 fuzzy
 funicle
-flack
+flack 1
 futural
 fruitlets
 finessed
