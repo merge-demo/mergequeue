@@ -9401,7 +9401,7 @@ diffusible
 demagoguism
 diffusibleness
 diffusing
-desray
+desray 1
 deuteranomalous
 diamyl
 dereling
