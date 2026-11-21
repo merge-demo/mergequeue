@@ -6855,7 +6855,7 @@ econometrically
 extramarginal
 entomophila
 entomophobia
-earwaxes
+earwaxes 1
 esthesiography
 eucryptite
 epic
