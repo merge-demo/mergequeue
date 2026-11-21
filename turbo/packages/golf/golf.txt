@@ -2778,7 +2778,7 @@ gemeinde
 gaunt
 growling
 gimmor
-greatcoat
+greatcoat 1
 gyro 1
 gramophonist
 gyne
