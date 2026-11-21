@@ -1977,7 +1977,7 @@ ekasilicon
 euthamia
 earthen
 etherialize
-exteriorate
+exteriorate 1
 elastics
 eluviated
 eagle
