@@ -2509,7 +2509,7 @@ emesidae
 enserfs
 entoiled
 eternity
-electrolytically
+electrolytically 1
 exuviates
 ephemeromorph
 ensete
