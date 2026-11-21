@@ -636,7 +636,7 @@ gonapophysis
 gonangial
 gabionage
 guruships
-gemmaceous
+gemmaceous 1
 gasometry
 gestatorial
 ghostlify
