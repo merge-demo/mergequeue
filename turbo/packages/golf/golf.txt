@@ -164,7 +164,7 @@ graniteware
 gasthauser
 ghettoized
 galactosyl
-galvanosurgery
+galvanosurgery 1
 gybe
 glacialize
 graphorrhea
