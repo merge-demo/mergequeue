@@ -10776,7 +10776,7 @@ gallium
 glamourie
 geranyl
 glycyl
-glitter
+glitter 1
 gutt
 gaia
 gerenuk
