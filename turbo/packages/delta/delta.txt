@@ -3611,7 +3611,7 @@ degerms
 dinus
 douzeper
 disked
-deontological
+deontological 1
 degging
 dissoluble
 dunny
