@@ -15336,7 +15336,7 @@ daudit
 decrystallization
 darbyite
 deadborn
-decongestion
+decongestion 1
 domesdays
 diarthrodial
 domesticality
