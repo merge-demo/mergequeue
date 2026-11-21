@@ -31522,7 +31522,7 @@ cursen
 conoclinium
 curser
 cursers
-curship
+curship 1
 coadjuvant
 cursing
 coelenteron
