@@ -4368,7 +4368,7 @@ globules
 gharries
 gumbotil
 ginglymostoma
-gigmania
+gigmania 1
 gnathion
 graphicalness
 grylli
