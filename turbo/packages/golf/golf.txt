@@ -4072,7 +4072,7 @@ gibbosity
 gentleman
 gratifications
 gibboseness
-gendarmery
+gendarmery 1
 gim
 gambolling
 groining
