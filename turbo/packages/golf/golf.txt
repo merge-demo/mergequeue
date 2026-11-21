@@ -6294,7 +6294,7 @@ grundyist
 genion
 governessy
 gid
-gobbles
+gobbles 1
 glaucescent
 goolde
 ginzoes
