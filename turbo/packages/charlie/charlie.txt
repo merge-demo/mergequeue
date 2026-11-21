@@ -11705,7 +11705,7 @@ chondrites
 chondritic
 chondroalbuminoid
 chondroangioma
-credential
+credential 1
 coexchangeable
 countercouchant
 chondroarthritis
