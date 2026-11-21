@@ -3283,7 +3283,7 @@ gorgonian
 grimmia
 graduses
 gregaritic
-glancer
+glancer 1
 glycosin
 gelotoscopy
 glent
