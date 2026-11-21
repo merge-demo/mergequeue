@@ -7766,7 +7766,7 @@ diglyph
 devisor
 decrier
 dowie
-devitalizes
+devitalizes 1
 drawler
 dribblers
 ductilizing
