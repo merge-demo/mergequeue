@@ -2789,7 +2789,7 @@ festivity
 forker
 flatly
 fluorimeter
-forgift
+forgift 1
 fistulized
 ftncmd
 fotch
