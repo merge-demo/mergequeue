@@ -10985,7 +10985,7 @@ doorframe
 disallow
 displaying
 dorneck
-desperately
+desperately 1
 disconformably 1
 dramatised
 dentalising
