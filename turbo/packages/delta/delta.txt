@@ -8249,7 +8249,7 @@ disinsectization
 disputableness
 diagonal
 downplay
-diagonalizable
+diagonalizable 1
 diagonalization
 diagnosing
 duel
