@@ -6469,7 +6469,7 @@ aphroditic
 adams
 acidaemia
 agunah
-avoidance
+avoidance 1
 arrosion
 anviled
 arthromeningitis
