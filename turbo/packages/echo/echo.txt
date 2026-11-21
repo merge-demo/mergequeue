@@ -13978,7 +13978,7 @@ enwreathed
 endears
 exundance
 exsuperance
-ecphorable
+ecphorable 1
 extraperiosteal
 extraterritorials
 engem
