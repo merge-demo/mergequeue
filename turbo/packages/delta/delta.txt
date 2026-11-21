@@ -266,7 +266,7 @@ deoxyribonuclease
 duplicative
 dappling
 denitrate
-droopt
+droopt 1
 deincrustant
 dictyopteran
 dagmar
