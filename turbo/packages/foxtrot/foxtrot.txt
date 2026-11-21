@@ -1548,7 +1548,7 @@ faurd
 foreseat
 feedbox
 flippant
-fer
+fer 1
 fanfaron
 foulish
 foreshift
