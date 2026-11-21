@@ -6560,7 +6560,7 @@ decursion
 doddies
 descrive
 descure
-dabchick
+dabchick 1
 duckfooted
 dezincs
 duet
