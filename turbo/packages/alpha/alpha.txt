@@ -7783,7 +7783,7 @@ allopolyploidy
 almehs
 aonian
 adjustably
-asteroidea
+asteroidea 1
 ambrette
 attired
 alders
