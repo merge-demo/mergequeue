@@ -1969,7 +1969,7 @@ geryoniidae
 gryphaea
 gams
 glyptical
-gaurian
+gaurian 1
 gasting
 gaurs
 gravitative
