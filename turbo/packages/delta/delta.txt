@@ -1660,7 +1660,7 @@ dozening
 dentimeter
 deaminase
 digitize
-daws
+daws 1
 daw
 dextraural
 distanceless
