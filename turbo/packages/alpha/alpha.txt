@@ -12534,7 +12534,7 @@ anemias
 academian
 adelarthrosomata
 anemic
-anemically
+anemically 1
 anemobiagraph
 anemochord
 anemochore
