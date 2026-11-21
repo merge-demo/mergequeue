@@ -16244,7 +16244,7 @@ clinoclasite
 citifies
 clinodiagonal
 culeus
-clinodomatic
+clinodomatic 1
 canzonas
 cardiamorphia
 clinographic
