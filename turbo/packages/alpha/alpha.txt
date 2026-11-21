@@ -7773,7 +7773,7 @@ assistency
 aration
 aldermanity
 anacrotism
-aplustria
+aplustria 1
 avulses
 alleviates
 antiseptical
