@@ -13787,7 +13787,7 @@ anonymuncule
 anoopsia
 anopheles
 anophelinae
-anophoria
+anophoria 1
 anaptyctic
 acoumeter
 allobroges
