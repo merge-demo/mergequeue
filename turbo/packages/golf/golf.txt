@@ -9246,7 +9246,7 @@ goliard
 graphitoid
 grisly
 glagolitic
-gravigrade
+gravigrade 1
 grahamite
 geochronological
 grist
