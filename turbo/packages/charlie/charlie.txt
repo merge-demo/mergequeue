@@ -1585,7 +1585,7 @@ callorhynchidae
 callosal
 chronographs
 callose
-crafts
+crafts 1
 corporacy
 calloses
 callosities
