@@ -6116,7 +6116,7 @@ defalcate
 duplexs
 december
 desilicating
-derays
+derays 1
 deranges
 dualin
 detrimental
