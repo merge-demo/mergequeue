@@ -30790,7 +30790,7 @@ cramble
 cytoparaplastin
 culicifugal
 culicifuge
-copelidine
+copelidine 1
 culicinae
 canisiana
 cistic
