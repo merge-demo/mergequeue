@@ -17923,7 +17923,7 @@ bushidos
 bractless
 bibliopegist
 broadaxes
-bahmanid
+bahmanid 1
 brahmanda
 besour
 beminstrel
