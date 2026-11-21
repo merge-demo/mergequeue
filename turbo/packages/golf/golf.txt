@@ -1796,7 +1796,7 @@ gaggling
 gouts
 gobleted
 guinean
-gullah
+gullah 1
 gatekeeper
 grizel
 grassy
