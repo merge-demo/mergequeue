@@ -3428,7 +3428,7 @@ caprifolium
 capriform
 caprylic
 cymene
-caprylyl
+caprylyl 1
 coat
 chivarro
 counterplan
