@@ -1640,7 +1640,7 @@ excommunications
 encephalitogenic
 eyewashes
 epigastrium
-eider
+eider 1
 ectomorphism
 emendandum
 exsecting
