@@ -7878,7 +7878,7 @@ colessees
 cestrian
 cestrum
 conned
-cetaceans
+cetaceans 1
 calpolli
 clericate
 ceraunite
