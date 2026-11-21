@@ -7203,7 +7203,7 @@ blades
 beveled
 buckjump
 bongrace
-bullbeggar
+bullbeggar 1
 bauta
 bute
 bituminised
