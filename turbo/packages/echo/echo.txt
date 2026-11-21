@@ -847,7 +847,7 @@ eosinophil 1
 ectocommensal
 endophytic
 electrolyser
-ephemeromorphic
+ephemeromorphic 1
 excrementous
 ethology
 ectodermosis
