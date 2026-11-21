@@ -1352,7 +1352,7 @@ guess
 gesturers
 garmentmaker
 grafting 1
-gemmel
+gemmel 1
 glutted
 gelogenic
 green
