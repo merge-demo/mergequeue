@@ -13304,7 +13304,7 @@ electromyograph
 elusively
 encomendero
 expone
-ephoralty
+ephoralty 1
 elinvar
 echinosphaeritidae
 execrator
