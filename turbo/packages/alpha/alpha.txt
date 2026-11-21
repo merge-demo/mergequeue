@@ -20110,7 +20110,7 @@ arose
 athold
 around
 atheromasia
-aschistic
+aschistic 1
 acantharia
 archespores
 adenization
