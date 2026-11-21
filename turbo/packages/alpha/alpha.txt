@@ -8007,7 +8007,7 @@ alternates
 aleurodes 1
 aleurometer
 aleuronat
-absi
+absi 1
 arachidic
 antimicrobic
 argynnis
