@@ -5664,7 +5664,7 @@ andabatarian
 aeschylean
 again
 adorsed
-astore
+astore 1
 aquapuncture
 amylaceous
 asphalts
