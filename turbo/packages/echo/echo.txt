@@ -10480,7 +10480,7 @@ ettle
 ecclesiolatry
 eucgia
 eightpenny
-exorbitant
+exorbitant 1
 epulary
 exemplifying
 emmetropic
