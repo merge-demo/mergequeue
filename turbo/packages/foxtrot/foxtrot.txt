@@ -10035,7 +10035,7 @@ fantee
 fingerer
 ferriferous
 foolheadedness
-falseness
+falseness 1
 fireblende
 forefended
 forecasted
