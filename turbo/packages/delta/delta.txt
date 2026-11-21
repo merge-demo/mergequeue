@@ -2118,7 +2118,7 @@ digraph
 decamethonium
 decametric
 deerhound
-decanal
+decanal 1
 decancellate
 dominator
 decancellated
