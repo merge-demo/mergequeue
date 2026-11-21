@@ -5915,7 +5915,7 @@ belast 1
 berber
 brandenburgs
 buffaloes
-beltane
+beltane 1
 belauding
 bimetalic
 belter
