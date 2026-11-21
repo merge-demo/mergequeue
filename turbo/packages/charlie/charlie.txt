@@ -15016,7 +15016,7 @@ civilest
 cardiod
 civilian
 chalcostibite
-civilianize
+civilianize 1
 civilians
 complementalness
 clothy
