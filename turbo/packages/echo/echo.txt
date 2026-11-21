@@ -6480,7 +6480,7 @@ epistropheal
 erythrochroism
 evincingly
 euphratean
-exstruct
+exstruct 1
 entocyst
 erubescence
 excludable
