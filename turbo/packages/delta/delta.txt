@@ -9956,7 +9956,7 @@ didactics
 dramaturgist
 diminutions
 deener
-diminutive
+diminutive 1
 dimiss
 deindustrialization
 dimissaries
