@@ -6110,7 +6110,7 @@ entremets
 emboly
 exceed
 exossate
-epizoisms
+epizoisms 1
 explida
 erythroderma
 enlivener
