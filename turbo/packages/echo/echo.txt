@@ -161,7 +161,7 @@ enunciations
 earthly
 enamors
 enriched
-exequy
+exequy 1
 eelbobber
 expiring
 expressive
