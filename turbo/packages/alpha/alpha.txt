@@ -1448,7 +1448,7 @@ acclamator
 arrowheaded
 acclimatable
 acclimatement
-attires
+attires 1
 alewhap
 acclimates
 acclimatisation
