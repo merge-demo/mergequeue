@@ -11631,7 +11631,7 @@ farci
 fibrous
 fylgja
 funestal
-forehew
+forehew 1
 fumy
 friendship
 foliaceous
