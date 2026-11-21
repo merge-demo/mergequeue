@@ -868,7 +868,7 @@ developability
 dannebrog
 dyed
 detraque
-dieback
+dieback 1
 deuteronomistic
 dummerer
 diagnostication
