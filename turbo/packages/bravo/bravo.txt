@@ -14163,7 +14163,7 @@ brushability
 bour
 bracioles 1
 backs
-belicoseness
+belicoseness 1
 bakula
 bracked
 buckboard
