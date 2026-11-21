@@ -869,7 +869,7 @@ absentees
 absenters
 antisensuousness 1
 aflatus
-absentminded
+absentminded 1
 aerobics
 absentness
 avicennism
