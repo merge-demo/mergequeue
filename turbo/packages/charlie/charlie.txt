@@ -5143,7 +5143,7 @@ chrysographer
 cholecyanin
 cherimolla
 casein
-caseinate
+caseinate 1
 canvaser
 chaprassi
 caseinogen
