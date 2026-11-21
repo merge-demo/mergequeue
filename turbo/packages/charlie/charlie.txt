@@ -17409,7 +17409,7 @@ concussion
 christmas
 cistercian
 coemptionator
-coauthority
+coauthority 1
 coauthors
 coawareness
 coaxal
