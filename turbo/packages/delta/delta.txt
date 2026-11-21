@@ -5940,7 +5940,7 @@ departements
 dampener
 dimethylnitrosamine
 disconcerts
-davy
+davy 1
 doublehandedness
 dingly
 damascening
