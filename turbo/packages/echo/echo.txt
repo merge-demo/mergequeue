@@ -5110,7 +5110,7 @@ epiplanktonic
 encrustment
 ember
 elaeoblast
-elatives
+elatives 1
 extrema
 engirt
 endocrines

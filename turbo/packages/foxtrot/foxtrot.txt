@@ -3527,7 +3527,7 @@ fitchets
 floundering
 flicked
 fyke
-fitweed
+fitweed 1
 forehearth
 formant
 frightful
