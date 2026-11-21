@@ -1537,7 +1537,7 @@ deactivate
 discoglossid
 distractedly
 dallies
-dalk
+dalk 1
 dartman
 delphinium
 disciplinarity
