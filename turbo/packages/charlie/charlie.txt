@@ -29431,7 +29431,7 @@ crisping
 crispins
 citramide
 cremometer
-chalcanthite
+chalcanthite 1
 chartists
 crispness
 cowwheat
