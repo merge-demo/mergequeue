@@ -13980,7 +13980,7 @@ exundance
 exsuperance
 ecphorable
 extraperiosteal
-extraterritorials
+extraterritorials 1
 engem
 eurodollars
 eucryphia
