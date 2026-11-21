@@ -5239,7 +5239,7 @@ destructuralize
 denoting
 duplification
 deeping
-dextrotartaric
+dextrotartaric 1
 denouement
 denouements
 denounce
