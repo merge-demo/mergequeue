@@ -30534,7 +30534,7 @@ cubicities
 cofferfish
 cubicula
 costly
-cubicular
+cubicular 1
 casewood
 celiodynia
 cubiculo
