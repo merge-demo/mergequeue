@@ -8803,7 +8803,7 @@ ectoskeleton
 ekename
 erasers
 eightvo
-effectuate
+effectuate 1
 eventuations
 eldmother
 extracurial
