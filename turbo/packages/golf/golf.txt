@@ -9186,7 +9186,7 @@ gora
 geographically 2
 glared
 goosed
-griphite
+griphite 1
 gascoigny
 golee
 greenhornism
