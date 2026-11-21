@@ -2839,7 +2839,7 @@ eosins
 electrodissolution
 exrupeal
 europhium
-eagre
+eagre 1
 elephantoid
 elephantoidal
 enantiopathy
