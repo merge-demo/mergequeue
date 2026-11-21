@@ -559,7 +559,7 @@ cadmic
 cateran
 convito
 crabsidle
-cadmiumize
+cadmiumize 1
 cadmiums
 cadre
 cyanomaclurin
