@@ -11417,7 +11417,7 @@ absorptance
 againward
 amplication
 austerer
-amplicative
+amplicative 1
 autoelectrolytic
 amplificate
 aftercause
