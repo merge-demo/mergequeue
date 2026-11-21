@@ -9291,7 +9291,7 @@ eugeosynclinal
 epitaphize
 elytrin
 errors
-escapingly
+escapingly 1
 estramazone
 ecrustaceous
 electroethereal
