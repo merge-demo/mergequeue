@@ -12620,7 +12620,7 @@ boruca
 bronchocele
 blackguards
 beatniks
-bagels
+bagels 1
 baguets
 beleaguerment
 bodeful
