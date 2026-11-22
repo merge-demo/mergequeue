@@ -1555,7 +1555,7 @@ gluelikeness
 gout
 gassing
 gismos
-globicephala
+globicephala 1
 gymnura
 gauntlet
 gutteral
