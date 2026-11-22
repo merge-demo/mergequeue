@@ -12940,7 +12940,7 @@ enhardy
 evaluator
 examines
 enfeeble
-evacuative
+evacuative 1
 erythrol
 expectantly
 expectation
