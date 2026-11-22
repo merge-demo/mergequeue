@@ -7502,7 +7502,7 @@ globulousness
 geostrategic 1
 gaet
 galilean
-gelatinizable
+gelatinizable 1
 griffade
 gavelmen
 getmesost
