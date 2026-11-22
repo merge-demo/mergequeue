@@ -4763,7 +4763,7 @@ encode
 exitance
 ethnolinguist
 ensnarements
-encoding
+encoding 1
 effectivity
 embrocate
 ergasterion
