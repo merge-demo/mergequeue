@@ -7246,7 +7246,7 @@ energetics 1
 ensealed
 eopalaeozoic
 egocentrically
-erysipelothrix
+erysipelothrix 1
 eorhyolite
 extinguishable
 eos
