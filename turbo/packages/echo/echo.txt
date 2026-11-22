@@ -5182,7 +5182,7 @@ endorser
 endolymphatic
 ectobatic
 electromagnetic
-eluviums
+eluviums 1
 exitus
 elusive
 endolysin
