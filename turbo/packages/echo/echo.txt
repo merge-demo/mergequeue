@@ -6397,7 +6397,7 @@ ensilist
 exceptions
 encephalomata
 ensilver
-ensisternum
+ensisternum 1
 esquiring
 eye
 enterprisingness
