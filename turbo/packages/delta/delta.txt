@@ -3416,7 +3416,7 @@ denationalization
 dissatisfy
 dowly
 deflocculate
-deflocculating
+deflocculating 1
 dermatoptera
 doubting
 diffractive
