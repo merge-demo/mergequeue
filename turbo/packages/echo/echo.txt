@@ -7471,7 +7471,7 @@ engine
 enif
 exorbitantly
 ephippia
-enfortune
+enfortune 1
 earthmover
 esterify
 endeign
