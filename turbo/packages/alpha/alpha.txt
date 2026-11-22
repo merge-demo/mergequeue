@@ -19042,7 +19042,7 @@ anastomosed
 auctionary
 autochthonic
 authorial
-algol
+algol 1
 amaryllis
 archmonarch
 amadavats
