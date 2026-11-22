@@ -7509,7 +7509,7 @@ epiboulangerite
 episomes
 efficacity
 efficience
-entelechial
+entelechial 1
 epidermically
 extractant
 extinguised
