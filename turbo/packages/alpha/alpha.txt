@@ -19114,7 +19114,7 @@ antivenine
 alit
 aristocraticness
 arcticward
-allocute
+allocute 1
 absorbant
 alkylamino
 alphanumeric
