@@ -3839,7 +3839,7 @@ gonapophysal
 gumtree
 grasps
 gentlemanhood
-galled
+galled 1
 gypaetus
 gryphons
 gastroenterotomy
