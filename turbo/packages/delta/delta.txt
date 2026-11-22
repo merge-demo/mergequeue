@@ -11045,7 +11045,7 @@ disapprobatory
 disappropriate
 diabolisation
 drakonite
-disapprovals
+disapprovals 1
 demagog
 disapproves
 delousing
