@@ -26886,7 +26886,7 @@ counterguard
 counterguerilla
 catchpollery
 courtless
-cantorial
+cantorial 1
 coraciiformes
 counterhaft
 commensurableness
