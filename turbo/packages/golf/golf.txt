@@ -1598,7 +1598,7 @@ gyrinid
 glassteel
 grimly
 grimines
-glibness
+glibness 1
 gastricism
 geratologous
 glycolipid
