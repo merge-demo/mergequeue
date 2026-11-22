@@ -5986,7 +5986,7 @@ flashness
 floorcloths
 frere
 fluidizing
-folkways
+folkways 1
 foreplays
 frenzic
 fluidrachm
