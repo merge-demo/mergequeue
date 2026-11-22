@@ -19596,7 +19596,7 @@ awatch
 aliptteria 1
 ary
 antasphyctic
-autoslip
+autoslip 1
 almude
 acyls
 aryanism
