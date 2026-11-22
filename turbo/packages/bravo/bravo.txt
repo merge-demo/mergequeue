@@ -1886,7 +1886,7 @@ barkinji
 bandfile
 bandh
 burdon
-brownism
+brownism 1
 blobbiness
 brython
 belinurus
