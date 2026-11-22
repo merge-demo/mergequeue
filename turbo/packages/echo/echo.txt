@@ -8064,7 +8064,7 @@ exopod
 epiphytic
 extensum
 eaglehawk
-expositor
+expositor 1
 epiglottidean
 emetocathartic
 enantiotropic
