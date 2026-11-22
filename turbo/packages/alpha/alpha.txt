@@ -18164,7 +18164,7 @@ abdicated
 acapnia
 ableptically
 allegator
-antipsychotic
+antipsychotic 1
 aerogenic
 aquaplane
 accustomed
