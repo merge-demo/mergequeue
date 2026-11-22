@@ -3662,7 +3662,7 @@ goths
 groinery
 glottides
 grisaille
-galvanize
+galvanize 1
 gpm
 granulations
 gangwa
