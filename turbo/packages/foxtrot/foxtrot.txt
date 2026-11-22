@@ -11318,7 +11318,7 @@ fleabite
 faultfinding
 fluoroscopic
 fossilogist
-favorability
+favorability 1
 furfuralcohol
 freebees
 flathat
