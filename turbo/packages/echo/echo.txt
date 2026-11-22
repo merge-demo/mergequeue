@@ -9827,7 +9827,7 @@ entrance
 enanthema
 estats
 eternise
-elenchtical
+elenchtical 1
 exact
 estrich
 eikon
