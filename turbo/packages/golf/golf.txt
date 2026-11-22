@@ -7019,7 +7019,7 @@ gamelote
 gladioli
 greenboard
 gentil
-gumshoes
+gumshoes 1
 gastronomes
 glazier
 glamorizes
