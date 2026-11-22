@@ -4884,7 +4884,7 @@ backspier
 beechen
 beechnut
 breakstone
-bloomage
+bloomage 1
 backspeer 1
 bomarea
 beechwood
