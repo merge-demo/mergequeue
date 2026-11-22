@@ -10668,7 +10668,7 @@ coprolite
 chymia
 chymics
 calic
-chymify
+chymify 1
 cobnuts
 confide
 cholinesterase
