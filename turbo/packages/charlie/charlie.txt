@@ -13495,7 +13495,7 @@ cylindromatous
 crosswords
 cylindrometric
 carceration
-confineable
+confineable 1
 consignees
 cobbier
 cardioclasia
