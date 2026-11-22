@@ -1884,7 +1884,7 @@ broadlings
 befogging
 barkinji
 bandfile
-bandh
+bandh 1
 burdon
 brownism
 blobbiness
