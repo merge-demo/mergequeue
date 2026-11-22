@@ -6218,7 +6218,7 @@ flightily
 fairgrounds
 forlana
 fatlings
-freyja
+freyja 1
 floccules
 focusable
 fascinative
