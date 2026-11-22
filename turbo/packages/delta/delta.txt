@@ -1499,7 +1499,7 @@ drawbolt
 delftware
 dermatorrhea
 definiendum
-dextrorotary
+dextrorotary 1
 deformers
 druidic
 deacetylate
