@@ -21915,7 +21915,7 @@ camalig
 conferrers
 cohorn
 counterstain
-capelans
+capelans 1
 crotchet
 caulote
 chiasm
