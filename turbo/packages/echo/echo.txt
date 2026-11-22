@@ -1920,7 +1920,7 @@ exemplary
 endearance
 euhemerized
 excite
-evertebral
+evertebral 1
 envenomed
 earnestful
 eigne
