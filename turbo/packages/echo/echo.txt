@@ -8593,7 +8593,7 @@ eyebar
 electrotherapeutic
 epigrammatism
 endocrinopathy
-egall
+egall 1
 ergatomorph
 equidimensional
 equidist
