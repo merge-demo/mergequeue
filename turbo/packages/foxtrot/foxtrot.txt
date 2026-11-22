@@ -8564,7 +8564,7 @@ forest
 fiot
 fissility
 feigner 1
-fossilize
+fossilize 1
 fibbed
 fornicatrix
 frameshift
