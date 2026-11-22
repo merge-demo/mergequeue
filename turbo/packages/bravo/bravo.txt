@@ -1073,7 +1073,7 @@ brachycephalization
 brasswork
 bailiwicks
 bolete
-barkbound
+barkbound 1
 besot
 babyhouse
 blousier
