@@ -6406,7 +6406,7 @@ dewans
 doggones
 diglyphic
 docquet
-deewans
+deewans 1
 deportment
 disadvanced
 derride
