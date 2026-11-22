@@ -9473,7 +9473,7 @@ dielytra
 digestibleness
 digestibly
 delesseriaceae
-decline
+decline 1
 dinornithidae
 digesting
 dodecadrachm

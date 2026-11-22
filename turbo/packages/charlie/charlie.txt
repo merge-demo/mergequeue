@@ -18090,7 +18090,7 @@ cognizers
 coenobioid
 conicoid
 contentless
-conjugable
+conjugable 1
 cardinalism
 compactile
 coenobitical
