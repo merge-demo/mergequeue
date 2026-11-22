@@ -739,7 +739,7 @@ gerbillinae
 gar
 goniometric
 greenshank
-gasted
+gasted 1
 galvanology
 geomechanics
 gombeen
