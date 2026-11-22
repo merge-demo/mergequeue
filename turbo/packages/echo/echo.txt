@@ -12706,7 +12706,7 @@ exceeds
 exospheric
 epithamia
 eloah
-epidemiologically
+epidemiologically 1
 episodic
 emulatively
 epilogism
