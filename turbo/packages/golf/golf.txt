@@ -3461,7 +3461,7 @@ gudgeons
 gastrologer
 genoa
 gallanting
-glasgow
+glasgow 1
 gallophobia
 gourdlike
 gallous
