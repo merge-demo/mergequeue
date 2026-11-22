@@ -11170,7 +11170,7 @@ commissioners
 chloralosed
 chlorambucil
 chloramin
-chloramphenicol
+chloramphenicol 1
 caperwort
 chilopodous
 chloranemia
