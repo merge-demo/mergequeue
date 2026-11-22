@@ -6360,7 +6360,7 @@ geotropism
 goety
 gymnolaemata
 gaels
-gloriosa
+gloriosa 1
 gippo
 gollywobbler
 gambelli
