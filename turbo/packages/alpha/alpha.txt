@@ -4068,7 +4068,7 @@ asci
 aquaplanes
 anestri 1
 admissive
-astriferous
+astriferous 1
 automan
 abstriction
 astrophotometrical
