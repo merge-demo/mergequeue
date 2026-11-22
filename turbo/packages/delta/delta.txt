@@ -2452,7 +2452,7 @@ decipherability
 dooryards
 dand
 doctrinarily
-duplet
+duplet 1
 distomatous
 deucing
 disintegrative
