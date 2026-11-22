@@ -8063,7 +8063,7 @@ emerize
 exopod
 epiphytic
 extensum
-eaglehawk
+eaglehawk 1
 expositor
 epiglottidean
 emetocathartic
