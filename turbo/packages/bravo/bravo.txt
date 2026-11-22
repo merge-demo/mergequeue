@@ -12500,7 +12500,7 @@ broadness 1
 broncholith
 bacquet
 bilberries
-boneshaker
+boneshaker 1
 bridesman
 bidets
 bessemer

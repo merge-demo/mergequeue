@@ -10866,7 +10866,7 @@ euphemise
 elected
 euphemising
 euphemistically
-euphemize
+euphemize 1
 eyebeam
 enneapetalous
 euxine
