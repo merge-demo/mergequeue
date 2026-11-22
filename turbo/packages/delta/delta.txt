@@ -5941,7 +5941,7 @@ dampener
 dimethylnitrosamine
 disconcerts
 davy
-doublehandedness
+doublehandedness 1
 dingly
 damascening
 dianthus
