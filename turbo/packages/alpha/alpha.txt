@@ -19281,7 +19281,7 @@ ared
 airbuses
 arefact
 areg
-armchair
+armchair 1
 arena
 arsenoferratin
 annam
