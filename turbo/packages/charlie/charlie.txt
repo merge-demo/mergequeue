@@ -30738,7 +30738,7 @@ colourfast
 cuirassed
 catachrestical
 cuirasses
-crustedly
+crustedly 1
 cuirassier
 commonplacely
 conusor
