@@ -9076,7 +9076,7 @@ embank
 epenthesis
 editorialist
 embryogony
-ectasia
+ectasia 1
 epistropheus
 empowerment
 echevaria
