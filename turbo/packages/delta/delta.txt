@@ -8678,7 +8678,7 @@ dovekey
 diastalsis
 diglossia
 dimer
-disgustedness
+disgustedness 1
 dryads
 debunkment
 dialectology
