@@ -5525,7 +5525,7 @@ cataclysmatist
 cataclysmic
 cataclysmically
 crowboot
-cpm
+cpm 1
 cyanamide
 catacorner
 ceaselessly
