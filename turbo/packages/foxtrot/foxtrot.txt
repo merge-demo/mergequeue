@@ -7296,7 +7296,7 @@ forsaking
 fishyard
 fidelity
 fishmonger
-fozy
+fozy 1
 flavobacteria
 foliobranchiate
 forayed
