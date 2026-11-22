@@ -6380,7 +6380,7 @@ granolithic
 geotectology
 gossaniferous
 gog
-gamin
+gamin 1
 graymill
 gugal
 gospelwards
