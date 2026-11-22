@@ -7220,7 +7220,7 @@ grimliness
 gloze
 grater 1
 greed
-gonial
+gonial 1
 gratin
 gymnocarpous
 guatusan
