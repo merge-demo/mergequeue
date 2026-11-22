@@ -528,7 +528,7 @@ beckoners
 bicentennial
 backstromite
 boart
-bu
+bu 1
 backtenter
 beggingwise
 blennioid
