@@ -1263,7 +1263,7 @@ femalize
 footwall
 fatuate
 fearful
-flatten
+flatten 1
 filmdom
 frostier
 filariform
