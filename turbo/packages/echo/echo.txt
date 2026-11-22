@@ -11771,7 +11771,7 @@ euripidean
 ekphore
 eversive
 epimerise
-extrospective
+extrospective 1
 exorcises 1
 exister
 electoral
