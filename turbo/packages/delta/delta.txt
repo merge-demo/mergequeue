@@ -812,7 +812,7 @@ diabrotic
 deduced
 dangerousness
 distention
-deniable
+deniable 1
 dearths
 dulcorate
 della
