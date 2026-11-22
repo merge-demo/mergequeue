@@ -4393,7 +4393,7 @@ ensigncies
 endosmometric
 eubacteria
 ecumenist
-elaeis
+elaeis 1
 ebriously
 encapsulation
 emitted
