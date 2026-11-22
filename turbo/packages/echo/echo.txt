@@ -473,7 +473,7 @@ ensnarls
 extoll
 ecclesiast 1
 entrada
-empasm
+empasm 1
 extended
 endoconidium
 extorsion
