@@ -16198,7 +16198,7 @@ bayonetted
 bred
 brazilians
 breweries
-bourgs
+bourgs 1
 bibliomanianism
 boeotic
 bimillennium
