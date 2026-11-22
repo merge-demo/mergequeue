@@ -9418,7 +9418,7 @@ foodstuff
 foreteeth
 flouriness 1
 frolicly
-forlore
+forlore 1
 frescoer
 fulsomeness
 fenman
