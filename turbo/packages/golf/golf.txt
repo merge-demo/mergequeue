@@ -3168,7 +3168,7 @@ graip
 grannam
 gaddis
 guariba
-glossiness
+glossiness 1
 governmentalist
 glottological
 geotilla
