@@ -6432,7 +6432,7 @@ garbing
 glossopteris
 garnerage
 glassman
-glossotherium
+glossotherium 1
 glutter
 gobiesocid
 geostrophic
