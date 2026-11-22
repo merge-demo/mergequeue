@@ -11561,7 +11561,7 @@ fretfully
 ferociousness 1
 footlessly
 fluidizer
-fetting
+fetting 1
 fusiform
 fusil
 fowage
