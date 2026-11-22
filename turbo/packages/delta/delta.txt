@@ -6707,7 +6707,7 @@ diacoustics
 dropforge
 desideration
 deoxidant
-desiderative
+desiderative 1
 drunkard
 disorderliness
 delirament
