@@ -9156,7 +9156,7 @@ epizoarian 1
 equiponderancy
 ermiline
 enamellist
-epidemy
+epidemy 1
 excarnation
 ermined
 erminee 1
