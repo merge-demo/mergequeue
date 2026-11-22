@@ -1880,7 +1880,7 @@ guhr
 gestor
 galop
 glochids
-glommox
+glommox 1
 gastrozooid
 glaikit
 gonadotrophic
