@@ -16980,7 +16980,7 @@ caprifigs 1
 coerceable
 circumviate
 cashibo
-calcareoargillaceous
+calcareoargillaceous 1
 clustering
 choultry
 clutch
