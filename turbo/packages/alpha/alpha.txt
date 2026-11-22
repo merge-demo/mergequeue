@@ -11190,7 +11190,7 @@ anthropology
 aliform
 amphibole
 alkide
-addictive
+addictive 1
 analgesis
 alpinely
 antiatonement
