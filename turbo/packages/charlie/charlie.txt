@@ -10152,7 +10152,7 @@ chlorodized
 chevron
 chiropatagium
 charioteer
-chevronwise
+chevronwise 1
 chevrotain
 chevvy
 capsa
