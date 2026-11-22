@@ -4394,7 +4394,7 @@ fonduk
 flubdubberies
 fishbolts
 fulgurantly
-flechette
+flechette 1
 funt
 foamier
 floorshifts
