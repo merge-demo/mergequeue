@@ -4638,7 +4638,7 @@ dereliction
 demipectinate
 denarius
 diswench
-demiscible
+demiscible 1
 dicebox
 denticulate
 demisecond
