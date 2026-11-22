@@ -15714,7 +15714,7 @@ barbering
 battarism
 brunonia
 bourrides
-barbarously
+barbarously 1
 binuclear
 blennogenic
 butyric
