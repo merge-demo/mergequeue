@@ -2613,7 +2613,7 @@ exothecate
 exciter
 electrophoretogram
 expansure
-exturb
+exturb 1
 estimated
 elanet
 eave
