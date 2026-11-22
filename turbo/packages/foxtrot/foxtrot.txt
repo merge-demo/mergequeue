@@ -10621,7 +10621,7 @@ fractile
 franc 1
 frontalis
 forswearing
-flumped
+flumped 1
 forwaste
 fractostratus
 fleeting
