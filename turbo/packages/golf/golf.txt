@@ -5070,7 +5070,7 @@ glassines
 galloping
 glenlike
 glasslikeness
-goosefoots
+goosefoots 1
 gelatiniser
 glassful
 garrya
