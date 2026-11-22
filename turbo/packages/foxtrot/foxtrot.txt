@@ -2093,7 +2093,7 @@ fudger
 frightened
 fertilizer
 foredefine
-fainty
+fainty 1
 filletlike
 fear
 firmers
