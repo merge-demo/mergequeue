@@ -27179,7 +27179,7 @@ countersway
 countersworn
 countertack
 countertally
-countertaste
+countertaste 1
 camarine
 countertechnicality
 countertendency
