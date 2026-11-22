@@ -9672,7 +9672,7 @@ dispense
 daphnias
 ditting
 dungbred
-diageotropy
+diageotropy 1
 deinoceras
 dilactic
 dilactone
