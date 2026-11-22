@@ -14821,7 +14821,7 @@ channelizes
 cotise
 cephalorhachidian
 congeal
-cyclope
+cyclope 1
 checkbird
 cytokinesis
 cytokinetic
