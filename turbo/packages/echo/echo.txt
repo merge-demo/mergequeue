@@ -1452,7 +1452,7 @@ ergonomic
 ethiopian
 epanorthotic
 emunct
-exenteritis
+exenteritis 1
 envelop
 enfarce
 euxanthate
