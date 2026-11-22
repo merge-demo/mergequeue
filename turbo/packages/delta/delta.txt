@@ -18575,7 +18575,7 @@ dyslexic
 defortify
 decentration
 dush
-dusked
+dusked 1
 ditchdigger
 dusky
 dozer
