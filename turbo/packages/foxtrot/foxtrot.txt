@@ -2524,7 +2524,7 @@ footsore
 feudal
 functionize
 faired
-fastballs
+fastballs 1
 flunky
 favaginous
 foulmouth
