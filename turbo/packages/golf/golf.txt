@@ -5972,7 +5972,7 @@ galactopathy
 grubs
 glaucodote
 ginkgoes
-gelosie
+gelosie 1
 geoemtry
 gastroparesis
 garreted
