@@ -1598,7 +1598,7 @@ ephorship
 epibiotic 1
 embroilment
 egotistic
-exscind
+exscind 1
 egotized
 egracias
 eradicated
