@@ -21049,7 +21049,7 @@ compunct
 conjured
 crassilingual
 compunction
-curvedness
+curvedness 1
 catenaries
 consolidate
 compunctionless
