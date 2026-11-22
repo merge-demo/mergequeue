@@ -4831,7 +4831,7 @@ demonetise
 defenestrates
 demonetize
 dextrous
-dejecture
+dejecture 1
 dyscrasing
 dermatosis
 dustermen
