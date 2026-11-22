@@ -2338,7 +2338,7 @@ disloign
 deceptiveness
 dinichthyid
 deafnesses
-dextrotropic
+dextrotropic 1
 drinkably
 dustup
 dynode
