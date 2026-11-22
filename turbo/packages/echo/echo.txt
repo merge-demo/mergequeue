@@ -13750,7 +13750,7 @@ euphorbia
 ententophil
 ectoenzym
 enzyme
-extinguished
+extinguished 1
 extinguisher
 extinguishers
 entoptically
