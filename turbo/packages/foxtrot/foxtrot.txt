@@ -2643,7 +2643,7 @@ fundable
 forcipulata
 farmyardy
 fabric
-falanaka
+falanaka 1
 freshes
 frenched
 fluocerite
