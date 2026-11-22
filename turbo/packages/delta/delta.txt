@@ -4551,7 +4551,7 @@ demilitarized
 dentaliidae
 disselboom
 demiliterate
-deflectional
+deflectional 1
 despotical
 demilustre
 demiman
