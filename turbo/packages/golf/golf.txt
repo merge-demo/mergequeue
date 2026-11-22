@@ -2595,7 +2595,7 @@ grisette
 gowf
 gasometrical
 glossolabial
-geiger
+geiger 1
 goutte
 graspers
 garabato
