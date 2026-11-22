@@ -12459,7 +12459,7 @@ docoglossan
 disillusionments
 diaphanousness
 disgorge
-decinormal
+decinormal 1
 discomycetes
 den
 disillusive
