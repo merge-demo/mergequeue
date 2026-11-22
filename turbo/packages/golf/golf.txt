@@ -8991,7 +8991,7 @@ grimalkin
 germless 1
 gastrodidymus
 gridelin
-galvo
+galvo 1
 greyhens
 greenbul
 glenlivet
