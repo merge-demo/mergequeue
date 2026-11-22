@@ -8711,7 +8711,7 @@ entrike 1
 eked
 equisetaceous
 epicondylar
-endothelia
+endothelia 1
 enchain
 erupting
 enamorate
