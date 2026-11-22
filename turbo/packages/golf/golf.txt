@@ -7033,7 +7033,7 @@ gomart
 grade
 gigameter
 gaudish
-gooseberry
+gooseberry 1
 gimbaled
 gramash
 greenweed
