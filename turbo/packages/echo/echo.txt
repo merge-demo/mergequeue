@@ -12355,7 +12355,7 @@ encephalology
 ephemerida
 exposures
 exhibition
-enforce
+enforce 1
 eradiate
 endpiece
 exhibitionism
