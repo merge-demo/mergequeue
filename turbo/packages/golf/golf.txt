@@ -6182,7 +6182,7 @@ gamesters
 gazetteers
 groveling
 goal
-griffithite
+griffithite 1
 galactophore
 gawney
 goniatite
