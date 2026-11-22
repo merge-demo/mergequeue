@@ -9825,7 +9825,7 @@ guayabi
 goitcho
 gymnotid
 gesturing
-gumdigging
+gumdigging 1
 glebous
 guesstimated
 guayaqui
