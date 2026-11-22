@@ -10246,7 +10246,7 @@ gonophore
 glacier
 gustiness
 galvanometry
-garnisheeing
+garnisheeing 1
 galvanoplastically
 grownup
 gauzelike
