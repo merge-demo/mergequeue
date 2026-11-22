@@ -3640,7 +3640,7 @@ filigrane
 furlana
 frangula
 fannier 1
-foregoneness
+foregoneness 1
 fanes
 felons
 frayn
