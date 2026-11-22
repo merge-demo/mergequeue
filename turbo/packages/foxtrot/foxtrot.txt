@@ -8109,7 +8109,7 @@ forthrights
 foretasting
 fretsaw
 falisci
-forewrought
+forewrought 1
 fractionate
 fanaticalness 1
 foretell
