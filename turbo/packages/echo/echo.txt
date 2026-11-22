@@ -12621,7 +12621,7 @@ exogenously
 examplar
 exogyra
 enterogram
-effusion
+effusion 1
 exognathite
 expunges
 exornate
