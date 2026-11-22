@@ -7958,7 +7958,7 @@ fibrinogenous
 fitness
 freestones
 foreshow
-flinting
+flinting 1
 fistulous
 flajolotite
 flagrantly
