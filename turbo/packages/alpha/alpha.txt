@@ -23159,7 +23159,7 @@ aposoro 1
 attendress
 asteriscus
 attends
-acquittance
+acquittance 1
 agitate
 almshouses
 araucano
