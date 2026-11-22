@@ -4870,7 +4870,7 @@ glozes
 gyrotheca
 gimme
 grandstanding
-gladiola
+gladiola 1
 granatite
 goldurns
 goatly
