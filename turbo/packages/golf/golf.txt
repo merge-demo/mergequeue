@@ -4303,7 +4303,7 @@ guinfo
 germicide
 gynetype
 gymnadenia
-glazieries
+glazieries 1
 glazings
 gynostegigia
 grieves
