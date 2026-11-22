@@ -18596,7 +18596,7 @@ coimplore
 coyn
 coinable
 coinage
-coinages
+coinages 1
 coincide
 corpulently
 cobbler
