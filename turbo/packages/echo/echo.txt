@@ -10997,7 +10997,7 @@ eliasite
 enquire
 encyclopaedic
 eternalist
-euryprosopic
+euryprosopic 1
 ebullitive
 estrade
 excipuliform
