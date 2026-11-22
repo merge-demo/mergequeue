@@ -7292,7 +7292,7 @@ diaxone
 desiccative
 doukhobor
 devisers
-defecters
+defecters 1
 defecation
 donnie
 dress
