@@ -8506,7 +8506,7 @@ gurgle
 gravely
 galops
 groupers
-gayal
+gayal 1
 grata
 galleon
 guv
