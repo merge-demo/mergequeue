@@ -24393,7 +24393,7 @@ autoscopic
 antivivisection 1
 apparentation
 antagonise
-autosight
+autosight 1
 albuminuric
 autosymbolical
 autosymbolically
