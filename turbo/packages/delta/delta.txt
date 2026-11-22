@@ -12198,7 +12198,7 @@ disfurnish
 deport
 disfurnished
 dangerless
-deathshot
+deathshot 1
 dervishes
 disfurniture
 disguised
