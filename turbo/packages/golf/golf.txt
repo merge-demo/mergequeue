@@ -8080,7 +8080,7 @@ ghain
 genteelish
 gesning
 gladiatorial
-gentlewoman
+gentlewoman 1
 granivore
 gybes
 gribane
