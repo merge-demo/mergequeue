@@ -4315,7 +4315,7 @@ entoproct
 eloquence
 exclaustration
 enamelist
-enamelless
+enamelless 1
 eluder
 edibles
 enami
