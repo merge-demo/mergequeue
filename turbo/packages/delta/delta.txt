@@ -8614,7 +8614,7 @@ diapophysis
 decigramme
 dystaxia
 diapsida
-dyskinetic
+dyskinetic 1
 deathin
 dyarchy
 deadbeat
