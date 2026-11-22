@@ -8574,7 +8574,7 @@ glutton
 gravida
 gynecomasty
 garcons
-ganoidal
+ganoidal 1
 gamogenetic
 gitana
 grandada
