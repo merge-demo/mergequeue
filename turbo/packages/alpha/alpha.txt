@@ -20598,7 +20598,7 @@ abear
 atomizer
 arthrodymic
 analytic
-aristotelian
+aristotelian 1
 alkoxy
 assimilations
 administerings
