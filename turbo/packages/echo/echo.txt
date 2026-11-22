@@ -11227,7 +11227,7 @@ equinities
 enthronized
 earwort
 epidictical
-encrotchet
+encrotchet 1
 externalistic
 exserts
 earthquake
