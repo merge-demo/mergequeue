@@ -3637,7 +3637,7 @@ fibrillar
 freshed
 foretype
 filigrane
-furlana
+furlana 1
 frangula
 fannier 1
 foregoneness
