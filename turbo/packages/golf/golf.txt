@@ -10226,7 +10226,7 @@ galusha
 geissospermin
 gainsays
 glaucous
-gobbet
+gobbet 1
 gunless
 guillotinist
 glutaraldehyde
