@@ -6995,7 +6995,7 @@ endocardial
 extractors
 embladder
 electrotitration
-enamourment
+enamourment 1
 epiplectic 1
 explorable
 effigiating
