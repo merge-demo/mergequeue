@@ -5975,7 +5975,7 @@ deckswabber
 decuples
 dragons
 delictus
-deed
+deed 1
 dayfly
 durezza
 dropped
