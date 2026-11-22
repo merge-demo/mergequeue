@@ -11492,7 +11492,7 @@ facilities
 figural
 flunkeyize
 finnmarks
-furthest
+furthest 1
 flittering
 florally
 fiancees
