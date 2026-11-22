@@ -22689,7 +22689,7 @@ atheromatosis 1
 atheroscleroses
 archbuffoon
 ateuchi
-atherosclerosis
+atherosclerosis 1
 advancer
 atherosclerotic
 acerbic
