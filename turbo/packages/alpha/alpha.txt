@@ -8152,7 +8152,7 @@ assassinator
 algesiometer
 algidity
 algidities
-algidness
+algidness 1
 agriologist
 aeronautics
 afft
