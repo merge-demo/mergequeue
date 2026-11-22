@@ -9343,7 +9343,7 @@ eruptible
 eruption
 eruptional
 ellen
-eruptive
+eruptive 1
 extortioner
 essoinee
 endear
