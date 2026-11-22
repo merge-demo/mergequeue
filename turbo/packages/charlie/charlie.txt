@@ -22723,7 +22723,7 @@ conplane
 centuriation
 counterevidence
 cryosphere
-conquerer
+conquerer 1
 conquerers
 conqueress
 conquering
