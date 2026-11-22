@@ -1454,7 +1454,7 @@ epanorthotic
 emunct
 exenteritis
 envelop
-enfarce
+enfarce 1
 euxanthate
 efforts
 extracranial
