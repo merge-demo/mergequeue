@@ -1721,7 +1721,7 @@ fanfares
 fearsomeness
 foreshape
 feased
-folic
+folic 1
 fumigant
 fingrigo
 forprise
