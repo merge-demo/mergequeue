@@ -9442,7 +9442,7 @@ fico
 flamens
 fratry
 flippery
-flexibly
+flexibly 1
 furnaceman
 fistful
 fulcrate
