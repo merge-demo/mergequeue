@@ -10007,7 +10007,7 @@ asellidae
 artiller
 ahankara
 atraumatic
-afraidness
+afraidness 1
 adirondack
 albinuria
 aerogeology
