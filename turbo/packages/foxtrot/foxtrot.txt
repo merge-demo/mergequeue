@@ -188,7 +188,7 @@ featherless
 furnarius
 flier
 factorable
-flimsies
+flimsies 1
 finitary
 fortunel
 factoryship
