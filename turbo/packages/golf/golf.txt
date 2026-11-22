@@ -6321,7 +6321,7 @@ gastrocele
 gymnorhininae
 goblin
 gettable
-gigartinaceous
+gigartinaceous 1
 gunmen
 gauster
 geochemists
