@@ -17369,7 +17369,7 @@ amidosulphonal 1
 aposteriori
 aerogun
 arithmometer
-apostille
+apostille 1
 argos
 antagonist
 aglycosuric
