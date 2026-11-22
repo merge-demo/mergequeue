@@ -12138,7 +12138,7 @@ anathematisation
 anathematise
 anathematised
 administer
-alchemize
+alchemize 1
 antambulacral
 accepter
 artou
