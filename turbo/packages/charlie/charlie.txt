@@ -9533,7 +9533,7 @@ casehardens
 cricotracheotomy
 calaththi
 checkrein
-checkroll
+checkroll 1
 compathy
 checkrope
 cumulant
