@@ -4993,7 +4993,7 @@ aeronautical
 aeronomer
 amyliferous
 aumil
-aeronomical
+aeronomical 1
 anisogametic
 aeronomics
 anthropopathia
