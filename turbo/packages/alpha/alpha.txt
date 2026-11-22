@@ -15254,7 +15254,7 @@ accordantly 1
 antiflux
 anticlergy
 antiforeignism
-atole
+atole 1
 afrown
 autometamorphosis
 antiformin
