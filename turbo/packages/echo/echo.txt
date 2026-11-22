@@ -13929,7 +13929,7 @@ epimerizing
 exorcized
 errordump
 euphenic
-euphoniousness
+euphoniousness 1
 emigrative
 encapsulates
 erective
