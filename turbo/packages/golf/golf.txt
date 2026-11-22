@@ -10000,7 +10000,7 @@ geophysically
 gogglier 1
 graveness
 gargled
-gleaner
+gleaner 1
 gelatinify
 galago
 gaslike
