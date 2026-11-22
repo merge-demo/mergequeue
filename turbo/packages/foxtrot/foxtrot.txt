@@ -7312,7 +7312,7 @@ foujdar
 fourgon
 fluttery
 fumitory
-favelloid
+favelloid 1
 fleeched
 foaminess
 fixation
