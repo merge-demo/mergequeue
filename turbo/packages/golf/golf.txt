@@ -5282,7 +5282,7 @@ genialize
 guardsmen
 guatemala
 gemitores
-gossoons
+gossoons 1
 glacialism
 granitical
 graveling
