@@ -20522,7 +20522,7 @@ cwrite
 compatibility
 compatibilities
 condors
-compatible
+compatible 1
 clouts
 chlorider 1
 compatriotic
