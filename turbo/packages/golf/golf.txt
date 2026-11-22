@@ -6786,7 +6786,7 @@ gratias
 gobbe
 glossospasm
 gaffsail 1
-galiot
+galiot 1
 gavyuti
 gossiping
 geront
