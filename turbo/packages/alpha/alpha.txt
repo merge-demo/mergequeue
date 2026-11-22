@@ -18332,7 +18332,7 @@ augen
 archsaint
 arraigner
 armadilla
-adenasthenia
+adenasthenia 1
 aripple
 arachnean
 aurocyanide
