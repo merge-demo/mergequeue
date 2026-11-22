@@ -4581,7 +4581,7 @@ exhauster
 ethnopsychic
 ectocrine
 euphemism
-endosarcode
+endosarcode 1
 ethnolinguistics
 eeriest
 epicerastic
