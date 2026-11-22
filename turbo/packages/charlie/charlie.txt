@@ -22912,7 +22912,7 @@ ceratoid
 conservers
 colposcope
 circuitry
-collated
+collated 1
 councilist
 consy
 conserved
