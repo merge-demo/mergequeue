@@ -1183,7 +1183,7 @@ electrolyzable
 eudiometric
 extrasystolic
 ethoxyls
-educates
+educates 1
 engrainedly
 egrimony
 ensue
