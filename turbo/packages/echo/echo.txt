@@ -8882,7 +8882,7 @@ excursively
 endocannibalism
 embossers
 eelworms
-enteron
+enteron 1
 erewhiles
 ergane
 ethnohistorically
