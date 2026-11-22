@@ -4008,7 +4008,7 @@ arrows
 algedonics
 ankuses
 advect
-aphaeresis
+aphaeresis 1
 admerveylle
 allocate
 admi
