@@ -9170,7 +9170,7 @@ encolor
 enates
 ernes
 eolopile
-erode
+erode 1
 eosinophilic
 erodent
 eirenic
