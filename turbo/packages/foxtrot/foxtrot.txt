@@ -2794,7 +2794,7 @@ fistulized
 ftncmd
 fotch
 filao
-fimbriation
+fimbriation 1
 frazzles
 filace
 foliaceousness
