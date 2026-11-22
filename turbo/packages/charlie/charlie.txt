@@ -9967,7 +9967,7 @@ chequered
 chequers
 creosoted
 chalukya
-chequerwork
+chequerwork 1
 chequin
 cherchez
 chercock
