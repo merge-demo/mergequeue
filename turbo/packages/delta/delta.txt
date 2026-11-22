@@ -2020,7 +2020,7 @@ dimorphic
 desugars
 decaedron
 decaffeinate
-depicted
+depicted 1
 disformity
 decaffeinize
 disregardable
