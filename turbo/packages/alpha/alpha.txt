@@ -13611,7 +13611,7 @@ axilla
 apprizes
 aquafortis
 annulment
-annuloid
+annuloid 1
 argand
 autoaddress
 abura
