@@ -4423,7 +4423,7 @@ dilapidated
 dementing
 decayers
 demeore
-decap
+decap 1
 dependant
 dokhma
 dird
