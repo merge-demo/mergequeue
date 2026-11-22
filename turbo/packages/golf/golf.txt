@@ -2892,7 +2892,7 @@ gigots
 glycollic
 garotters
 goosebeak
-gallipots
+gallipots 1
 glittering
 gonocyte
 gallinulelike
