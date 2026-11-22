@@ -854,7 +854,7 @@ agonizes
 archegoniate
 agha
 accurse
-absconsa
+absconsa 1
 abscound
 aphakia
 arbitrarily
