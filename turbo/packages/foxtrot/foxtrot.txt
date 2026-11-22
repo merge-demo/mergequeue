@@ -597,7 +597,7 @@ flamless
 flagstaff
 frighteningly
 furmety
-forelocks
+forelocks 1
 faufel
 forlornity
 fullback
