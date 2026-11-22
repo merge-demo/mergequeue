@@ -7299,7 +7299,7 @@ epochism
 escalier
 exception
 enfettered
-exaggerating
+exaggerating 1
 epalpebrate
 eternises
 enolize
