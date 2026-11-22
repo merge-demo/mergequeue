@@ -9824,7 +9824,7 @@ brands
 bernicle
 begums
 bites
-bebat
+bebat 1
 bytes
 bitewing
 beryx
