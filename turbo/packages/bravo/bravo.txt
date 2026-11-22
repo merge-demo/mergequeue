@@ -2280,7 +2280,7 @@ birdclapper
 bats
 blastment
 barbarized 1
-beleaping
+beleaping 1
 bona
 buteo
 bedizens
