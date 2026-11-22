@@ -3543,7 +3543,7 @@ garmentworker
 gamodeme
 ganglions
 gymnorhina
-geomagnetist 1
+geomagnetist 2
 gluconeogenesis
 grugru
 gunslinging
