@@ -2594,7 +2594,7 @@ declutch
 dieretic
 divise
 duad
-discouragements
+discouragements 1
 docetist
 desistence
 diplocephalous
