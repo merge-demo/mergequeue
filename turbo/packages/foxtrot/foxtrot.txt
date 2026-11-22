@@ -4524,7 +4524,7 @@ fingernails
 flammule
 filleul
 fuddles
-francophobia
+francophobia 1
 flagging
 favissa
 forestalling
