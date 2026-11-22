@@ -2657,7 +2657,7 @@ beeth
 barlafumble
 blurred
 basilinna
-bescour
+bescour 1
 befriend
 backstretches
 bogyisms
