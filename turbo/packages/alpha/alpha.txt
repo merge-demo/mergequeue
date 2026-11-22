@@ -16669,7 +16669,7 @@ aperiodicity
 acaroid
 apert
 arsonation
-asperates
+asperates 1
 archelaus
 aigremore
 asyndeta
