@@ -5194,7 +5194,7 @@ fosterlings
 foliaging
 fanion
 foxiness
-frontierlike
+frontierlike 1
 frivolers
 foreclaw
 fuchsia
