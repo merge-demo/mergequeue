@@ -7639,7 +7639,7 @@ elapse 1
 eoliths
 enterohelcosis
 epicortical
-enterostomy
+enterostomy 1
 esere
 educed
 enterogastritis
