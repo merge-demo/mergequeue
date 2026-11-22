@@ -4075,7 +4075,7 @@ festoony
 fermentation
 flindersia
 freefd
-finitism
+finitism 1
 finitive
 felapton
 formants
