@@ -4228,7 +4228,7 @@ coerect
 constitutiveness
 coronated
 carecloth
-cadetcy
+cadetcy 1
 cared
 careens 1
 career
