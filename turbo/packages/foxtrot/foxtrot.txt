@@ -2372,7 +2372,7 @@ floatstone
 flytings
 fegs
 frolicky
-favoritism
+favoritism 1
 ferforth
 feudist
 francic 1
