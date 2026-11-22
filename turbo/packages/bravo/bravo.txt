@@ -6594,7 +6594,7 @@ beresite
 beret
 brangler
 berets
-berewick
+berewick 1
 banquettes
 bergamasche
 bergamask
