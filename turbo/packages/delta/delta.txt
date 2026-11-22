@@ -10144,7 +10144,7 @@ dingdonged
 deltidia
 diverticulate
 diploblastic
-defogging
+defogging 1
 downy 1
 deuteranomal
 dasypaedes
