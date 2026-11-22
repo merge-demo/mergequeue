@@ -18773,7 +18773,7 @@ coldnesses
 coldong
 cloddishness
 coldproof
-curchy
+curchy 1
 controversies
 cleistogamy
 corroboratory
