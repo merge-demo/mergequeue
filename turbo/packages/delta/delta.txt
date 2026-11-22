@@ -18679,6 +18679,6 @@ dwarfs
 dwindled
 dwindlement
 deports
-dwindles
+dwindles 1
 dehisced
 dwindling
