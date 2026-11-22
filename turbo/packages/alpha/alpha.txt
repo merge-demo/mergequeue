@@ -14418,7 +14418,7 @@ accidentary
 anthophora
 anglicizing
 amphistomous
-awful
+awful 1
 acolyte
 anthotaxis
 andries
