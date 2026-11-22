@@ -7555,7 +7555,7 @@ endomysium
 endovenous
 electrocapillarity
 equivalently
-equalling
+equalling 1
 embalmer
 electrocoating
 extemporal
