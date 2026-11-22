@@ -17956,7 +17956,7 @@ aristodemocracy 1
 anthracotheriidae
 approachable
 asweat
-approached
+approached 1
 administration
 amphirhine
 amblypod
