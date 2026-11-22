@@ -9383,7 +9383,7 @@ gobelin
 glaymore
 gorgonize
 gastroenterologists
-gelatinized
+gelatinized 1
 glutamine
 geneserin
 graciosity
