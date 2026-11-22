@@ -2764,7 +2764,7 @@ dungeonlike
 daddies
 drawhorse
 despited
-dearies
+dearies 1
 dives
 doubtable
 dihydrate
