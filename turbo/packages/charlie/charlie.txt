@@ -11719,7 +11719,7 @@ chondrocostal
 chondrocranial 1
 circuitous
 chondrodystrophy
-chondrodystrophia
+chondrodystrophia 1
 chondroditic
 couthest
 connubiate
