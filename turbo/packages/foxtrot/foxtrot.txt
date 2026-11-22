@@ -2286,7 +2286,7 @@ full
 flavones
 finlandization
 filamentiferous
-fantails
+fantails 1
 folktale
 fragging
 fluorocarbons
