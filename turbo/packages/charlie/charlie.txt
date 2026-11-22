@@ -6410,7 +6410,7 @@ cauterise
 collision
 cloudland
 counternatural
-cauterism
+cauterism 1
 carafe
 correcter
 conchfish
