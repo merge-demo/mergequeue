@@ -6987,7 +6987,7 @@ fondle 1
 frayings
 fondled
 fondles
-fainter
+fainter 1
 fumant
 flouncey
 flannels
