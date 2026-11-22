@@ -4266,7 +4266,7 @@ armorer
 autotomize
 alchornea
 aesculapius
-assubjugate
+assubjugate 1
 annoyful
 akhlame
 alumen
