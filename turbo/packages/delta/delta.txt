@@ -18336,7 +18336,7 @@ dasyproctidae 1
 dispar
 disshadow
 debussing
-detonate
+detonate 1
 duodecastyle
 duodecennial 1
 duodecillions
