@@ -2620,7 +2620,7 @@ dirndl
 duramatral
 draffy
 dacoitage
-decoke
+decoke 1
 decoll
 deguelia
 dumbcow
