@@ -5569,7 +5569,7 @@ comicoprosaic
 crushingly
 catalepsis
 catalexes
-corrodentia
+corrodentia 1
 catalexis
 catalin
 curule
