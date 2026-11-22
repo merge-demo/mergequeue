@@ -2033,7 +2033,7 @@ gazzetta
 gutterize
 gavels
 gavia
-geminiform
+geminiform 1
 gederathite
 gio
 grapheme
