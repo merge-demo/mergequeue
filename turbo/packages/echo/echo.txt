@@ -8922,7 +8922,7 @@ entelam
 experimentally
 ergoted
 encephalomalaxis
-ergotism
+ergotism 1
 ergotizing
 erichthoid
 ewder
