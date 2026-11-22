@@ -8647,7 +8647,7 @@ blok
 breechloading 1
 basaltes
 buttermouth
-barbadoes
+barbadoes 1
 bourbonist
 bimastic
 bitterling
