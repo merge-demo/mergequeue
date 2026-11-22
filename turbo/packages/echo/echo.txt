@@ -4548,7 +4548,7 @@ epidiorthosis
 escuela
 enodation
 electrons
-excoction
+excoction 1
 eleazar
 enchancement
 empeoplement
