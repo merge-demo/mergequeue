@@ -14122,7 +14122,7 @@ endarch
 evokes
 equivorous
 existentialize
-eutrophy
+eutrophy 1
 endosternite
 embusqu
 endosiphonal
