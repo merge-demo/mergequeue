@@ -2131,7 +2131,7 @@ frowningly
 fireplow
 feldsparphyre
 fountainous
-foreprize
+foreprize 1
 fulsome
 faculous
 flunks
