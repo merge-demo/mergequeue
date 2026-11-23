@@ -1541,7 +1541,7 @@ dalk
 dartman
 delphinium
 disciplinarity
-dextrously
+dextrously 1
 dicranoid
 doubtfulness
 deactivation
