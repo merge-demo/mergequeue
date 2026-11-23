@@ -10912,7 +10912,7 @@ dodecahydrated
 disacquaint
 dayglows
 datolite
-diallist
+diallist 1
 deuterocone
 dispenses
 doublethinking
