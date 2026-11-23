@@ -8633,7 +8633,7 @@ frictionproof
 faintest
 frousty
 forgivable
-footing
+footing 1
 flaunt
 fillebeg
 fumistery
