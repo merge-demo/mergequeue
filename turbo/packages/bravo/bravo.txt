@@ -1710,7 +1710,7 @@ briefings
 bowsing
 balneology 1
 breechesless
-balneological
+balneological 1
 bestializing
 balneotechnics
 burberry
