@@ -10039,7 +10039,7 @@ falseness 1
 fireblende
 forefended
 forecasted
-foeish
+foeish 1
 fleshling
 fibrosis
 fablemonger
