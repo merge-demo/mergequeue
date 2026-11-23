@@ -8875,7 +8875,7 @@ forepast
 falsificator
 flown
 funambulic
-foulest
+foulest 1
 fricatrice
 fledgiest
 fiques
