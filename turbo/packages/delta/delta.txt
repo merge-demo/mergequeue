@@ -3586,7 +3586,7 @@ depredations
 delusterant
 dripping
 dextrogyre
-dinosauric
+dinosauric 1
 dinornithiformes
 degenerate
 desulphurizer
