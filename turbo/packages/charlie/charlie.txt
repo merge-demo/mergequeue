@@ -14055,7 +14055,7 @@ coriandrol
 chloritoid
 cleruchial
 circassic
-capivi
+capivi 1
 corpuscle
 circe
 circean
