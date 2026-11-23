@@ -65,7 +65,7 @@ elf
 empaneling
 earliest
 emarginate
-enfilading
+enfilading 1
 eastness
 etiam
 entapophysial
