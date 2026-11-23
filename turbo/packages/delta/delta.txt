@@ -10864,7 +10864,7 @@ dyslogia
 dissaturate
 discontinuous
 designlessly
-diathermometer
+diathermometer 1
 doddart
 debaters
 deconcentrate
