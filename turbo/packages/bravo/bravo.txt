@@ -1440,7 +1440,7 @@ brankier
 begroan
 bight
 bioclimatological
-bifid
+bifid 1
 balibago
 baline
 bundahish
