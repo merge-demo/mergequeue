@@ -17337,7 +17337,7 @@ culpas
 chickory
 coarsening
 coarsens
-coarticulate
+coarticulate 1
 coarticulation
 claylike
 companionways
