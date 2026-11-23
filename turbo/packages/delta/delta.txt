@@ -5948,7 +5948,7 @@ dianthus
 destalinize
 discussible
 duffer
-diplodus
+diplodus 1
 deprogrammed
 divoto
 drillstock
