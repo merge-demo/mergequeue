@@ -9013,7 +9013,7 @@ fleers
 fiendship
 feudaries
 flintified
-flux
+flux 1
 fowlfoot
 fared
 faultful
