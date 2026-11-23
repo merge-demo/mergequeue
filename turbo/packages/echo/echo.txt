@@ -8109,7 +8109,7 @@ electrovection
 enbibe
 embellish
 epiphysary
-episarkine
+episarkine 1
 ethnology
 epiural
 extracalicular
