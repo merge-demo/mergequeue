@@ -5306,7 +5306,7 @@ evaders
 embaphium
 ethenyl
 emendicate
-endosmoses
+endosmoses 1
 emblaze
 endopeptidase
 epencephalic
