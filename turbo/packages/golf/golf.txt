@@ -649,7 +649,7 @@ gallophilism
 givey
 gravimetry
 galloon
-glower
+glower 1
 gantryman
 galeated
 gunkhole
