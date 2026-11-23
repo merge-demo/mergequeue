@@ -4795,7 +4795,7 @@ filigrain
 fargoing
 flageolets
 flagfishes
-fubsy
+fubsy 1
 forbiddenness
 figurately
 fasciculus
