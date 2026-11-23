@@ -8081,7 +8081,7 @@ genteelish
 gesning
 gladiatorial
 gentlewoman
-granivore
+granivore 1
 gybes
 gribane
 goniotropous
