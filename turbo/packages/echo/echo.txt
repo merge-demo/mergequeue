@@ -13309,7 +13309,7 @@ elinvar
 echinosphaeritidae
 execrator
 exponency
-educated
+educated 1
 exponentiates
 eskar
 emilia
