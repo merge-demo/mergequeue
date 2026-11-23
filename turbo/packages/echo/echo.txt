@@ -8771,7 +8771,7 @@ enstrengthen
 equivoluminal
 explainers
 electrostatics
-enfume
+enfume 1
 elementarist
 equoidean
 exhedra
