@@ -1716,7 +1716,7 @@ gastropexy
 gallowsmaker
 gutte
 greaseproof
-guanophore
+guanophore 1
 garroo
 gorgonacea
 gastrophilism
