@@ -6751,7 +6751,7 @@ feering 1
 ferity
 foresworn
 felonweed
-fainly
+fainly 1
 foiter
 felloe
 frayed
