@@ -7184,7 +7184,7 @@ clamors
 centrifugaller 1
 cladoceran
 centrifuge
-centrifugence
+centrifugence 1
 centrifuging
 coffeehousing
 centring
