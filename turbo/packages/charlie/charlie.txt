@@ -16209,7 +16209,7 @@ cline
 clines
 caudexes
 clinger
-crankness
+crankness 1
 clingfishes
 contravenes
 clingy
