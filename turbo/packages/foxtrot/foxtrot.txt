@@ -6732,7 +6732,7 @@ fuchsinophil
 featherbed
 fluorescent
 forspeaking
-flamming
+flamming 1
 foiningly
 feasant
 forjudged
