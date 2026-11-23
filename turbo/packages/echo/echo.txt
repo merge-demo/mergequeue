@@ -3687,7 +3687,7 @@ eartab
 expectant
 erythrocytosis
 earlesss
-elec
+elec 1
 extratellurian
 ecklein
 effluvium
