@@ -2329,7 +2329,7 @@ gymnics
 geographism
 glassy
 graptomancy
-gruss
+gruss 1
 gutturalisation
 grubbiness
 gainturn
