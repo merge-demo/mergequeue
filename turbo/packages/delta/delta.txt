@@ -10412,7 +10412,7 @@ delace
 disglorify
 disinterring
 diphenyls
-dispowder
+dispowder 1
 doglegging
 disfigurative
 deticking
