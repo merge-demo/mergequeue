@@ -5486,7 +5486,7 @@ embalmers
 enervating
 encake
 electroscope
-elritch
+elritch 1
 ectocarpic
 excitate
 examiner
