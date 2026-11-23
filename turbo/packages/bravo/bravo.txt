@@ -10252,7 +10252,7 @@ beforehandedness
 beets
 benevolist
 blacksnake
-baneful
+baneful 1
 bliaut
 ballsy
 blacktongue
