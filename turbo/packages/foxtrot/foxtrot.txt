@@ -5222,7 +5222,7 @@ fumarolic
 fingall
 flytrap
 flatnose
-flavescent
+flavescent 1
 funguses
 flews
 fulfil
