@@ -11633,7 +11633,7 @@ fylgja
 funestal
 forehew
 fumy
-friendship
+friendship 1
 foliaceous
 frizzled
 fructoses
