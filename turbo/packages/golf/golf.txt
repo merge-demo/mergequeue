@@ -6265,7 +6265,7 @@ gelfomino
 goave
 greats 1
 gregorianizer
-gob
+gob 1
 greediness
 gadslid
 gobber
