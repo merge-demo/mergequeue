@@ -6882,7 +6882,7 @@ forjudges
 figurist
 feline
 feretrum
-fatuous
+fatuous 1
 farmout
 farris
 foresey
