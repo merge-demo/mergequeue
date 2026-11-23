@@ -22719,7 +22719,7 @@ conoscenti
 conjecture
 columnizes
 conoscopic
-conplane
+conplane 1
 centuriation
 counterevidence
 cryosphere
