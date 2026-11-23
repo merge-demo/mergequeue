@@ -6920,7 +6920,7 @@ fogs
 formyls
 fulwa
 fideicommission
-foreordinated
+foreordinated 1
 formeret
 filibusterous
 freeway
