@@ -14184,7 +14184,7 @@ disunites
 duffs
 dithyrambic
 disunity
-deluded
+deluded 1
 deteriorism
 demobilizing
 deeds
