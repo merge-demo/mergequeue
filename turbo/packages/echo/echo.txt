@@ -2117,7 +2117,7 @@ equably
 euxenite
 elastivity
 eleusine
-exuberancy
+exuberancy 1
 externat
 epipubes
 equiangle
