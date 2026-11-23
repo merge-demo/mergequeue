@@ -26409,7 +26409,7 @@ cinderlike
 coterie
 ciminite
 cryptoglioma
-concavities
+concavities 1
 centipoise
 chronically
 clergess
