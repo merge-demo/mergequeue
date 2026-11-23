@@ -18651,7 +18651,7 @@ deactivations
 disalignment
 decury
 definiteness
-drowsily
+drowsily 1
 disubstitution
 discountenanced
 disseisor
