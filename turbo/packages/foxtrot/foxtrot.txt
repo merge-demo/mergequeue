@@ -6541,7 +6541,7 @@ fluotantalate
 flutteriness
 flagrate
 flinches
-fluttering
+fluttering 1
 forswears
 flameless
 feedboard
