@@ -2845,7 +2845,7 @@ duodenums
 desiring
 diaclasis
 decubiti
-deculturate
+deculturate 1
 driverless
 decuman
 deperm
