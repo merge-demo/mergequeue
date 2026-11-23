@@ -16479,7 +16479,7 @@ bluenoser
 bloodshotten
 bendys
 brewster
-beggable
+beggable 1
 besmell
 brevetting
 brumal
