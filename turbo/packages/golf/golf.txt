@@ -6144,7 +6144,7 @@ gjetosts
 gallivants
 gammarus
 gnosis
-galenist
+galenist 1
 glaserian
 gnotobiosis
 goldanged
