@@ -11064,7 +11064,7 @@ daturas
 disennui
 disarms
 dishonouring
-disarray
+disarray 1
 dictatorial
 downflow
 disarrays
