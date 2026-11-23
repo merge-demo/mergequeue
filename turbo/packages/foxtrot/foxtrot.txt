@@ -3902,7 +3902,7 @@ fripperies
 followers
 fudged
 fevertrap
-footslogged
+footslogged 1
 fluidextract
 findable
 fruz
