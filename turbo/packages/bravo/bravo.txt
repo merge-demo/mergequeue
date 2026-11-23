@@ -14803,7 +14803,7 @@ brows
 brazier
 bern
 ballooner
-bombable
+bombable 1
 burgheress
 baru
 brava
