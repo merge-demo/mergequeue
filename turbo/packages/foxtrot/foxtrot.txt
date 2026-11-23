@@ -2255,7 +2255,7 @@ fencelessness
 foggiest
 forkiest
 fengite
-fanout
+fanout 1
 feudalisation
 frolics
 filigerous
