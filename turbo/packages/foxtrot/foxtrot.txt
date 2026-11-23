@@ -4724,7 +4724,7 @@ fictation
 frumentarious
 folkmots
 flabbergast
-forkfuls
+forkfuls 1
 fossicking
 fougue
 feathermonger
