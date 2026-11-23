@@ -5436,7 +5436,7 @@ glauconiidae
 garottes
 glyptodon
 grossular
-glyptodontoid
+glyptodontoid 1
 glebae
 ghostwrites
 galactophlebitis
