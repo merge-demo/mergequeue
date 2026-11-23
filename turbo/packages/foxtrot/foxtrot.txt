@@ -5433,7 +5433,7 @@ fabian
 feasten
 forefigure
 furor
-flurt
+flurt 1
 fittingness
 floricultural
 fault
