@@ -21463,7 +21463,7 @@ criterion
 chemicalize
 cementlike
 cyetic
-conclusory
+conclusory 1
 calybite
 conclusum
 caseful
