@@ -7412,7 +7412,7 @@ choliambic
 caback
 cerambycid
 coruscations
-cerambycidae
+cerambycidae 1
 cyclonist
 catdom
 ceramics
