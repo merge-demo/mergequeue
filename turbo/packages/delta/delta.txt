@@ -11377,7 +11377,7 @@ discontentedly
 deadbeats
 doctrinize
 dowagers
-disclass
+disclass 1
 deuterogenesis
 disclimax
 dialogite
