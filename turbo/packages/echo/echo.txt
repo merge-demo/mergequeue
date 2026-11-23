@@ -11596,7 +11596,7 @@ exciding
 empires
 ewes
 engraphia
-emphatically
+emphatically 1
 eucalypt
 envenomous
 everywhereness
