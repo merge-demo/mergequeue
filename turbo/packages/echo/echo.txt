@@ -621,7 +621,7 @@ eclaircissement
 epeus
 edgeways
 enchant
-enneaeteric
+enneaeteric 1
 escheatable
 empyreumatic
 epipaleolithic
