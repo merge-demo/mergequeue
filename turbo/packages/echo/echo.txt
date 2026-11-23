@@ -10687,7 +10687,7 @@ enveloper
 electrotelegraphy
 eva
 euglenaceae
-extrasyllabic
+extrasyllabic 1
 ensigning
 embraced
 endopleural
