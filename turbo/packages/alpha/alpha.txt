@@ -13848,7 +13848,7 @@ atacamite
 anorthite
 adriana
 abatable
-antiparalytic
+antiparalytic 1
 anorthitic
 anorthographic
 axospermous
