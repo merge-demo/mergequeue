@@ -19103,7 +19103,7 @@ cristate
 chaptrel
 collinsite
 collinsonia
-colliquable
+colliquable 1
 colliquate
 collyria
 collyrite
