@@ -4258,7 +4258,7 @@ carer
 chyometer
 capsulotome
 caress
-cir
+cir 1
 caressed
 captainries
 clobberer
