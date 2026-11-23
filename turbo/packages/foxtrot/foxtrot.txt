@@ -10725,7 +10725,7 @@ frutescence
 fragmentisation
 forbare
 forecount
-forbore
+forbore 1
 frumpishly
 fanciness
 foreyear
