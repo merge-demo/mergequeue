@@ -10724,7 +10724,7 @@ flocks
 frutescence
 fragmentisation
 forbare
-forecount
+forecount 1
 forbore
 frumpishly
 fanciness
