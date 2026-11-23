@@ -11272,7 +11272,7 @@ flabel
 file
 farces
 floccilation
-frabjous
+frabjous 1
 fallaciously
 flatters
 furanoid
