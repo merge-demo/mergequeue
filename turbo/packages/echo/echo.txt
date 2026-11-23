@@ -12938,7 +12938,7 @@ empurple
 enchafe
 enhardy
 evaluator
-examines
+examines 1
 enfeeble
 evacuative
 erythrol
