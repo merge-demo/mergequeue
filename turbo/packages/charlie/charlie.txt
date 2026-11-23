@@ -22943,7 +22943,7 @@ calyptra
 consign
 consignatary
 caddice
-consignataries
+consignataries 1
 counterretreat
 comforting
 clarifiable
