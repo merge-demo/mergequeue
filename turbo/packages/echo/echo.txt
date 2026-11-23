@@ -11431,7 +11431,7 @@ encipherment
 elucidation
 emasculated
 engraving
-extinctive
+extinctive 1
 expurgated
 eponyms
 evocated
