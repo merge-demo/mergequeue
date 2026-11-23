@@ -14686,7 +14686,7 @@ dkg
 dkl
 decasemic
 dks
-diademed
+diademed 1
 deburse
 dm
 dystectic
