@@ -601,7 +601,7 @@ forelocks
 faufel
 forlornity
 fullback
-fallowist
+fallowist 1
 foretasted
 fricasseed
 fardh
