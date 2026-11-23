@@ -3041,7 +3041,7 @@ dragonfish
 disestablishment
 diphthongs
 deucedly
-dowress
+dowress 1
 decarbonized
 desegregation
 diacetine 1
