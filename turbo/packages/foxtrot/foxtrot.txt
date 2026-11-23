@@ -2281,7 +2281,7 @@ flatulence
 firebombed
 flypasts
 fumaria
-forshape
+forshape 1
 full
 flavones
 finlandization
