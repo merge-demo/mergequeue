@@ -14932,7 +14932,7 @@ arnoldist
 aburagiri
 ankaratrite
 ambassadress
-afflictive
+afflictive 1
 anticlerical
 anticlericalism
 acidophilous
