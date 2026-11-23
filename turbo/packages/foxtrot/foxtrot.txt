@@ -11612,7 +11612,7 @@ forced
 foldless
 ferrado
 fraternal 1
-febrifugal
+febrifugal 1
 for
 forcarve
 frough
