@@ -5884,7 +5884,7 @@ fogbows
 flinted
 ferrichloride
 furnishings
-featurely
+featurely 1
 foresignify
 flocculent
 flushes
