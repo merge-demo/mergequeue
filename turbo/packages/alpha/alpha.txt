@@ -12604,7 +12604,7 @@ anklebones
 aesthetics
 abogados
 apodoses
-affectability
+affectability 1
 anubis
 algae
 amorists
