@@ -6263,7 +6263,7 @@ errant
 edaphic
 enows
 electrotechnology
-euryscope
+euryscope 1
 extrapyramidal
 ecclesiastry
 enduring
