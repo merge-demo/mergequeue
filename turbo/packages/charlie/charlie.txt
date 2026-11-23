@@ -26438,7 +26438,7 @@ cherts
 collide
 cotylopubic
 catatonics
-chalazogamic
+chalazogamic 1
 criminalist
 cotylosacral
 cotylosaur
