@@ -7252,7 +7252,7 @@ desulfurize
 dumbbeller
 detenues
 dephlegmator
-deactivators
+deactivators 1
 dilettantship
 dendrachate
 dissolved
