@@ -679,7 +679,7 @@ diacetylene
 digestory
 deans 1
 dampproofing
-dyspepsy
+dyspepsy 1
 determinist
 doumaist
 distend
