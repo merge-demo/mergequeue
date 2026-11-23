@@ -10725,7 +10725,7 @@ grate
 gearwheel
 glyoxim
 grumping 1
-grandeur
+grandeur 1
 gubernatorial
 gox
 gussets
