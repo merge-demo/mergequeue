@@ -5917,7 +5917,7 @@ exoenzymic
 embuskin
 ephemeron
 exclave
-efflorescence
+efflorescence 1
 esophagogastrostomy
 eftest
 ethmonasal
