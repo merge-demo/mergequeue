@@ -2280,7 +2280,7 @@ gynarchy
 galante
 gumihan
 gestant
-grosse
+grosse 1
 gelded
 gripmen
 grallatorial
