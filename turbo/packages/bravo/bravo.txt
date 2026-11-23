@@ -12992,7 +12992,7 @@ biosterin
 bagpipe
 bombastical
 bailli
-brigadiers
+brigadiers 1
 beelike
 baller
 bedquilts
