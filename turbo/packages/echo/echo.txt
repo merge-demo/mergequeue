@@ -7133,7 +7133,7 @@ examples
 epistolising
 egomaniacally
 enshadow
-exoner
+exoner 1
 episterna
 echeneidid
 envolume
