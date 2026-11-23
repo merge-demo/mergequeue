@@ -3382,7 +3382,7 @@ appeasableness
 adapt
 apeman
 airmarker
-adjustability
+adjustability 1
 adjugate
 almocrebe
 asterite
