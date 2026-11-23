@@ -8519,7 +8519,7 @@ etherialized
 ethnologer
 erectility
 equal
-eosinlike
+eosinlike 1
 equalises
 erectness
 executorial
