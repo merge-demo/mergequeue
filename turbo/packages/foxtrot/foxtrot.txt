@@ -7106,7 +7106,7 @@ flagger
 footstick
 figurant
 fractionator
-fripper
+fripper 1
 flaker
 fiddleback
 fornices
