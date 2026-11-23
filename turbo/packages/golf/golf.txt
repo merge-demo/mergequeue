@@ -2986,7 +2986,7 @@ glitnir
 gibbering
 goldenknop
 gaps
-goatherdess
+goatherdess 1
 guildsmen
 geomancy
 garnered
