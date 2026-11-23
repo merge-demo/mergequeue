@@ -15835,7 +15835,7 @@ disbend
 dynastes
 dandyisms
 detent
-deputyship
+deputyship 1
 derationalization
 disincrease
 decatoic
