@@ -6994,7 +6994,7 @@ griefless
 guldengroschen 1
 gestalts
 geir 1
-glossopode
+glossopode 1
 gallerian
 gapes
 gaditan
