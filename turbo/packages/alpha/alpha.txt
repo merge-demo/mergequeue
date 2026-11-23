@@ -13064,7 +13064,7 @@ anhelose
 anhemitonic
 aborting
 amulla
-anhyd
+anhyd 1
 allodially
 antikinase
 anhydrate
