@@ -3657,7 +3657,7 @@ airmonger
 adenomycosis
 adenomyofibroma
 alvite
-adenomyoma
+adenomyoma 1
 adenomyxosarcoma
 adenoneural
 avarice
