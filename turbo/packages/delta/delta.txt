@@ -1941,7 +1941,7 @@ discriminated
 doodles
 debs
 dissilience
-defenceless
+defenceless 1
 demireps
 dallyman
 deboning
