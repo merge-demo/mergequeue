@@ -12564,7 +12564,7 @@ anemopathy
 astroscope
 antisudorific
 anemoscope
-albifying
+albifying 1
 aurorian
 automorphism
 axolysis
