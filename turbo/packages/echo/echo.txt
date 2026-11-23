@@ -1995,7 +1995,7 @@ enolate
 exophoric
 experienceless
 eryngo
-ekron
+ekron 1
 educement
 easefully
 epidemics
