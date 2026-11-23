@@ -7867,7 +7867,7 @@ antimonopolist
 archimandrite
 accorders
 aroused
-alecost
+alecost 1
 alectoria
 agroof
 aprosopia
