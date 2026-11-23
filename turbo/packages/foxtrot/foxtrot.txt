@@ -8606,7 +8606,7 @@ flamencos
 finnochio
 functionate
 fingerfishes
-ferryage
+ferryage 1
 faddishly
 felt
 fibromucous
