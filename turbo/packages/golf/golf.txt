@@ -10372,7 +10372,7 @@ gordiid
 gullery
 grasshook
 gingerwort
-grike
+grike 1
 gapingstock
 gullets
 generators
