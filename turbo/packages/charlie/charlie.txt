@@ -12866,7 +12866,7 @@ chemokinesis
 canvased
 cowbarn
 conducted
-churnful
+churnful 1
 cresphontes
 churnmilk
 cecidomyiidous
