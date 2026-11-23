@@ -27366,7 +27366,7 @@ cosmology
 coursey
 coursers
 courses
-coursing
+coursing 1
 court
 courtage
 climacterics
