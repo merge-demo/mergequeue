@@ -7783,7 +7783,7 @@ entassment
 enlighteningly
 epipodiale
 emblematic
-electropneumatic
+electropneumatic 1
 expectably
 elementality
 encyclopaedize
