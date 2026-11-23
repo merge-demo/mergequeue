@@ -1671,7 +1671,7 @@ eyeish
 eisteddfodic
 eyeballed
 eyeballing
-entrusting
+entrusting 1
 estraying
 electromotograph
 entarthrotic
