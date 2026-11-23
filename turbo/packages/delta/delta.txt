@@ -16515,7 +16515,7 @@ dodderer
 dithiol
 distrix
 diagrammatic
-demoralise
+demoralise 1
 draftings
 diesinker
 disinterred
