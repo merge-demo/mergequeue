@@ -2813,7 +2813,7 @@ ecodeme
 eleomargaric
 encephalon
 epipolic
-entoptical
+entoptical 1
 equivalencing
 externalness
 eater
