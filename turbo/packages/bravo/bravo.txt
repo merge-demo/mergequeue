@@ -5637,7 +5637,7 @@ bloodstones
 besped
 beldams
 bacchar
-bauble
+bauble 1
 bilify
 belderroot
 bodgie
