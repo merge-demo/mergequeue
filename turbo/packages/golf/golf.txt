@@ -3335,7 +3335,7 @@ gridirons
 globed
 gasogen
 gomerels 1
-gelatia
+gelatia 1
 groovelike
 garrulinae
 germifuge
