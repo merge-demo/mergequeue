@@ -13936,7 +13936,7 @@ barwing 1
 billete
 bostonese
 bowsie
-bacteriuria
+bacteriuria 1
 boxful
 burette
 bleed
