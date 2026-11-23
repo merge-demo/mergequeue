@@ -21542,7 +21542,7 @@ concrescence
 cephalohumeral
 cancrum
 chalice
-concrescive
+concrescive 1
 colocentesis
 coerces
 concreted
