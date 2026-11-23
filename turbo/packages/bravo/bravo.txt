@@ -18090,7 +18090,7 @@ boatsman
 barrancos
 benzhydrol
 butacaine
-bidi
+bidi 1
 butadiyne
 beshout
 berthierite
