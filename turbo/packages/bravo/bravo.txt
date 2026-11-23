@@ -3359,7 +3359,7 @@ beltine 1
 banus
 breast
 blowfish
-buoyant
+buoyant 1
 bren
 bravest
 bethanks

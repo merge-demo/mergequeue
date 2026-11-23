@@ -3198,7 +3198,7 @@ embioptera
 efficaciousness 1
 errability
 epiparasite
-ethanedial
+ethanedial 1
 else
 evacuee
 electioneers
