@@ -20992,7 +20992,7 @@ athreptic
 autotroph
 ascendancy
 ascendantly
-ascendence
+ascendence 1
 aftershaves
 ascending
 alaster
