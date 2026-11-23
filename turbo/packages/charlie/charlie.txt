@@ -18255,7 +18255,7 @@ cofferdam
 claudetite
 cephalotome
 coombe
-cofferer
+cofferer 1
 countys
 coffering
 cancerite
