@@ -7840,7 +7840,7 @@ bombs
 bibliofilm
 busked
 blepharosymphysis
-biocatalytic
+biocatalytic 1
 bibliographize
 burglarising
 bourignian
