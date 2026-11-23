@@ -1937,7 +1937,7 @@ aotus
 acetylid
 acetylizable
 aversive
-anamirtin
+anamirtin 1
 acetylization
 ammonization
 airflows
