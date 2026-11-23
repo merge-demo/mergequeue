@@ -15918,7 +15918,7 @@ doubleword
 darned
 duddle
 disesteemed
-diesis
+diesis 1
 drawlingly
 dotarie
 drybeard
