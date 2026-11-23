@@ -5243,7 +5243,7 @@ fidfad
 factum
 flavoriness
 foremilks
-falangist
+falangist 1
 faveoli
 fitful
 fierceness
