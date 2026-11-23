@@ -1903,7 +1903,7 @@ debout
 deervetch
 donging
 denticulated
-delicateness
+delicateness 1
 denuclearized
 debowel
 depravity
