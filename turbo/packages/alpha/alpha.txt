@@ -20994,7 +20994,7 @@ ascendancy
 ascendantly
 ascendence
 aftershaves
-ascending
+ascending 1
 alaster
 ascendingly
 azodicarboxylic
