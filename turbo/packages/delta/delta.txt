@@ -10314,7 +10314,7 @@ dioptric
 dioptrical
 duhr
 diorama
-daroo
+daroo 1
 diophantine
 driftpiece
 dowsing
