@@ -12353,7 +12353,7 @@ eucleidae
 earn
 encephalology
 ephemerida
-exposures
+exposures 1
 exhibition
 enforce
 eradiate
