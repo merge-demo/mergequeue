@@ -3792,7 +3792,7 @@ absences
 aglaia
 antecedal
 adiadokokinesia
-adiagnostic
+adiagnostic 1
 adeniform
 adiaphon
 autophagia
