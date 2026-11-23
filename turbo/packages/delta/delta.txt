@@ -7691,7 +7691,7 @@ deviatory
 densimetrically
 disassembles
 devil
-devildom
+devildom 1
 druery
 dealerdom
 deviled
