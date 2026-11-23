@@ -25664,7 +25664,7 @@ corradial
 corradiate
 corradiated
 correality
-correctable
+correctable 1
 corrected
 complainingness
 correctest
