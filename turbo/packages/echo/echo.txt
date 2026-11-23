@@ -423,7 +423,7 @@ essera
 exomphalus
 entocondyle
 elfish
-exposits
+exposits 1
 exacerbation
 ebullioscopic
 extendibility
