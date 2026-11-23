@@ -16377,7 +16377,7 @@ downturns
 domy 1
 denumerably 1
 downway
-drunkery
+drunkery 1
 downwardly
 devourment
 delocalized
