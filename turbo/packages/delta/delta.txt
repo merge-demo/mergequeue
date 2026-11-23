@@ -8785,7 +8785,7 @@ dequeen
 depeter
 dragonkind
 diestruses
-deftness
+deftness 1
 dj
 dinettes
 diabolized
