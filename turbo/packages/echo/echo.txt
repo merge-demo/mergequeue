@@ -3174,7 +3174,7 @@ expounders
 emblemize
 exculpations
 eidetic
-endocone
+endocone 1
 ejaculum
 extraserous
 entomophagous
