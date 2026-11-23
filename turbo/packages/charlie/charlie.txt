@@ -12862,7 +12862,7 @@ corrugations
 cowslip
 churlishness
 churn
-chemokinesis
+chemokinesis 1
 canvased
 cowbarn
 conducted
