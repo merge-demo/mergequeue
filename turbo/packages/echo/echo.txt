@@ -13772,7 +13772,7 @@ exodontist
 ethnize
 entomogenous
 encloak
-exosperm
+exosperm 1
 evermo
 entea
 extispicious
