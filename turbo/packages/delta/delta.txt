@@ -5424,7 +5424,7 @@ discrownment
 disciplinableness
 detd
 dauk
-dactylographer
+dactylographer 1
 denver
 disprover
 divagational
