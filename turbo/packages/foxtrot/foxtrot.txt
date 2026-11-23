@@ -6090,7 +6090,7 @@ funambule
 forsook
 feak
 foretriangle
-funicles
+funicles 1
 fleyland
 forecome
 floush
