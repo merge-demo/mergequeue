@@ -14152,7 +14152,7 @@ compose
 cryptovalency
 cuisinier
 claddings
-culinary
+culinary 1
 circumambulator
 circumanal
 circumantarctic
