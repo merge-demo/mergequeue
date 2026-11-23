@@ -15280,7 +15280,7 @@ caimito
 chathamite
 cupmaking
 clamorousness
-corallite
+corallite 1
 clamorsome
 corgis
 clamour
