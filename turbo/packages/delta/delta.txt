@@ -17241,7 +17241,7 @@ drivewell
 driving
 disclamatory
 drizzles
-drunkeries
+drunkeries 1
 demulsifier
 digynian
 dacryolith
