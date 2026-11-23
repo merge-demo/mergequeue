@@ -8052,7 +8052,7 @@ formentation
 facetting
 folial
 forestful
-fellable
+fellable 1
 freezes
 frigger
 forepost
