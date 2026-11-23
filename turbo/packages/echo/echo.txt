@@ -8260,7 +8260,7 @@ epitoke
 epigones
 erratums
 emulate
-endolaryngeal
+endolaryngeal 1
 endplay
 equivoke
 enlaurel
