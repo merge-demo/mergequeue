@@ -10763,7 +10763,7 @@ diptychs 1
 differencing
 diver
 disadvantageous
-diquat
+diquat 1
 decolorization
 deoxidized
 dirdums
