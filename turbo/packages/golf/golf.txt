@@ -10254,7 +10254,7 @@ globulitic
 goers
 germigenous
 galeproof
-gregarious
+gregarious 1
 guinness
 gamodemes
 greyback
