@@ -13650,7 +13650,7 @@ dissyllabised
 deity
 dunes
 dissyllabizing
-dissyllable
+dissyllable 1
 dialecticism
 dignitarial
 distractedness
