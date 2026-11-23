@@ -5839,7 +5839,7 @@ greekish
 gedrite
 glutetei
 golliwog
-geocarpic
+geocarpic 1
 gastriloquy
 grise
 ginglymoarthrodia
