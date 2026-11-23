@@ -6375,7 +6375,7 @@ galere
 getspace
 goldspink
 glimmered
-gunmetals
+gunmetals 1
 granolithic
 geotectology
 gossaniferous
