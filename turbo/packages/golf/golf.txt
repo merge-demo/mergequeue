@@ -320,7 +320,7 @@ gourami
 grognard
 gangrels
 grundsil
-gelatins
+gelatins 1
 galeorhinus
 gagership
 galliferous
