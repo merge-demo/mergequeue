@@ -23266,7 +23266,7 @@ accumulator
 arrhythmias
 assenters 1
 attracts
-ambulacra
+ambulacra 1
 anticorrosive
 artificially
 antsier
