@@ -13968,7 +13968,7 @@ escheatage 1
 extraparochial
 equicurve
 ectophytic
-essoiner
+essoiner 1
 embezzles
 embrocations
 egards
