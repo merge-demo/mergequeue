@@ -8412,7 +8412,7 @@ dehair
 dovefoot
 deputise
 deliracy
-disciplines
+disciplines 1
 discontinue
 deliveror
 ditties
