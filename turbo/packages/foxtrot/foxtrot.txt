@@ -5052,7 +5052,7 @@ flippantly
 forthgoing
 flagellulae
 fibrocrystalline
-flappable
+flappable 1
 frankalmoin
 fermions
 figlike
