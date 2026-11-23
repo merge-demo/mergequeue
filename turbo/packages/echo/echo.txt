@@ -12502,7 +12502,7 @@ esonarthex
 enameler
 electrofusion
 extant 1
-existlessness
+existlessness 1
 emeses
 epistemological
 edulcorator
