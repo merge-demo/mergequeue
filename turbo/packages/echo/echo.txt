@@ -5605,7 +5605,7 @@ enteroscopy
 elysium
 esophoria
 enforceable
-enclosures
+enclosures 1
 embosomed
 ectocarpous 1
 encitadel
