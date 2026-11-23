@@ -6667,7 +6667,7 @@ grandioso
 gopak 1
 genocides
 gonfalcon
-glossopyrosis
+glossopyrosis 1
 generational
 gong
 gekkota
