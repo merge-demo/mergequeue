@@ -11097,7 +11097,7 @@ endimanche
 electrolyte
 ephestian
 exigent
-euterpean
+euterpean 1
 enactments
 eutexia
 exquisitively
