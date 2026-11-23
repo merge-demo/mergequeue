@@ -13514,7 +13514,7 @@ bijouterie
 briquette
 bouch
 blacksmith
-boucharde
+boucharde 1
 belime
 baccae 1
 blackbrush
