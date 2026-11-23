@@ -4047,7 +4047,7 @@ fadelessly
 foredoor
 finish
 flatling
-fletchings
+fletchings 1
 fungoid
 finishable
 fluocerine
