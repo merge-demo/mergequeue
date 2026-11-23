@@ -7318,7 +7318,7 @@ cephalitis
 cephalization
 cephaloauricular
 cephalobranchiata
-chelicera
+chelicera 1
 cerusites
 carneys 1
 carks
