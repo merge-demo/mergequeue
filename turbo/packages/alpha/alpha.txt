@@ -11581,7 +11581,7 @@ appositions
 adenophyllous
 anabolism
 accinging
-acroatic
+acroatic 1
 amethysts
 albuminise
 anacalypsis
