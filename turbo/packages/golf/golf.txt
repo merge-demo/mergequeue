@@ -8137,7 +8137,7 @@ gulfed
 gloat
 glowflies
 granulators
-gynaecocracy
+gynaecocracy 1
 guanidins
 gnatsnap
 goatling
