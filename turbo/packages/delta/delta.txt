@@ -16606,7 +16606,7 @@ dissent
 dwellers
 decorates
 dragonish
-drunkeness
+drunkeness 1
 dandruffy
 dragonroot
 depreciate
