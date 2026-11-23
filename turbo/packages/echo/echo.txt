@@ -11564,7 +11564,7 @@ electroplates 1
 evolutionistic
 esp
 endotheloid
-euaster
+euaster 1
 equivocacies
 electrokinetic
 endocrine
