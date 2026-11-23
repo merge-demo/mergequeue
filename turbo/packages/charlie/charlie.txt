@@ -12494,7 +12494,7 @@ chromopsia
 chromoptometer
 colourationally
 ceasmic
-chromoptometrical
+chromoptometrical 1
 cynipoidea
 coadjacency
 chromoscopy
