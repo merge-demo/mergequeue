@@ -620,7 +620,7 @@ determinantal
 dextrorotatory
 dimorphisms
 duvetyn
-detruss
+detruss 1
 decantate
 damnably
 dollier
