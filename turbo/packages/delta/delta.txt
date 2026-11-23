@@ -5692,7 +5692,7 @@ depleteable
 ducape
 dichroite
 daftlike
-depletions
+depletions 1
 danton
 depletive 1
 disparities
