@@ -17129,7 +17129,7 @@ aile
 aptera
 antipopulism
 ameliorator
-anatomic
+anatomic 1
 atropa
 agoranome
 anticlea
