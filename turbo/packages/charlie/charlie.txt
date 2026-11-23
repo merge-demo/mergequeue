@@ -11693,7 +11693,7 @@ chondrify
 chondrification
 cygnine
 chondrilla
-chondrinous
+chondrinous 1
 crotalism
 cirrhotic
 chondrioma
