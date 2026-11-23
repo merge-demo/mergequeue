@@ -3956,7 +3956,7 @@ aht
 astre
 armozeen
 adjusting
-attuning
+attuning 1
 akindle
 adjustment
 adapts
