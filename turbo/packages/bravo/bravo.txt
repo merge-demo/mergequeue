@@ -17553,7 +17553,7 @@ boletic
 bureaucratizing
 brisket
 buret
-burets
+burets 1
 blowfishes
 bedirtied
 bellonion
