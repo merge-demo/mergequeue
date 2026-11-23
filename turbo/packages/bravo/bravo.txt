@@ -6547,7 +6547,7 @@ biohazard
 berberid
 bricked
 bundoc
-bedevilled
+bedevilled 1
 bahima
 berberidaceae
 broils
