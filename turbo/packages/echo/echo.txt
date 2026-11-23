@@ -12760,7 +12760,7 @@ ensembles
 encounterable
 emancipative
 explanting
-exospore
+exospore 1
 endrumpf
 epeiridae
 enthusiastical
