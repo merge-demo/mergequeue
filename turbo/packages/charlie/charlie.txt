@@ -31673,7 +31673,7 @@ cyclarthrodial
 casked
 clears
 coth
-cushiness
+cushiness 1
 cushing 1
 cushion
 claypan
