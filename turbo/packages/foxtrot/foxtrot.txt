@@ -2710,7 +2710,7 @@ flamant
 flambe
 faithing
 fungused
-firebird
+firebird 1
 feigher
 formalazine
 factorization
