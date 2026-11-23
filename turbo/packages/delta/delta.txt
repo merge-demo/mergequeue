@@ -17152,7 +17152,7 @@ discourser
 drylots
 dynamists
 drilvis
-diactinic
+diactinic 1
 deuterogelatose
 dringle
 disomaty
