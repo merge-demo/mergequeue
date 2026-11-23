@@ -19312,7 +19312,7 @@ aristas
 absentmindedly
 anaglyphics
 arenoid
-australis
+australis 1
 areographical
 areolae
 anteriors
