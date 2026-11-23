@@ -16613,7 +16613,7 @@ depreciate
 dilutant
 detesting
 dragonwort
-dedolent
+dedolent 1
 desoxyribonuclease
 dragoonable
 denunciable
