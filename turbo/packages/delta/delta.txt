@@ -5929,7 +5929,7 @@ depreter
 depriment
 deprint
 depriorize
-desmotropy
+desmotropy 1
 disorderedness
 dool
 deprivable
