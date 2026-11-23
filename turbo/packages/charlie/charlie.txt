@@ -21412,7 +21412,7 @@ credulously
 combfishes
 conciseness
 clocks
-concision
+concision 1
 corrugation
 concitation
 cominform
