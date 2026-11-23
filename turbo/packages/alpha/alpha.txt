@@ -8827,7 +8827,7 @@ assistor
 afforests
 acescents
 alodial
-antisensuously
+antisensuously 1
 allium
 antiministerialist
 allivalite
