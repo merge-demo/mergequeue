@@ -2528,7 +2528,7 @@ boccia
 blueblack
 beslash
 buenos
-bassetite
+bassetite 1
 bottonhook
 buckler
 baldish
