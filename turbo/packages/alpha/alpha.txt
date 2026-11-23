@@ -12577,7 +12577,7 @@ acoustician
 appendicate
 adiapneustia
 androgonial
-augurers
+augurers 1
 anemotaxis
 anemotropism
 accersition
