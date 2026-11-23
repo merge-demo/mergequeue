@@ -2536,7 +2536,7 @@ carvels
 circumcinct
 candlemaker
 candlemaking
-candlemas
+candlemas 1
 crewel
 childproof
 cacqueteuse
