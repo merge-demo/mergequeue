@@ -6996,7 +6996,7 @@ furnacing
 freemason
 forestate
 fondly
-fluorspar
+fluorspar 1
 flauntingly
 fatagaga
 flop
