@@ -1327,7 +1327,7 @@ bescorn
 bisymmetry
 bottine
 balantidic
-balaos
+balaos 1
 baroquely
 belar
 benzamino 1
