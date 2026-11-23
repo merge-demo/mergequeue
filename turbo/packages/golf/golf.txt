@@ -3629,7 +3629,7 @@ glottalize
 grotesque
 gigantal
 glutinosity
-gld
+gld 1
 gasworks
 grouching
 gedder
