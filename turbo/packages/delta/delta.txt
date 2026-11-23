@@ -5354,7 +5354,7 @@ diaphoretic
 displaced
 denticle 1
 dentiferous
-dentifrice
+dentifrice 1
 dentil
 discussional
 dentiled
