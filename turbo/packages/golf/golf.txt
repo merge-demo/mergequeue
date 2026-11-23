@@ -2620,7 +2620,7 @@ gramma
 gonocalyx
 galores
 grayware
-graal
+graal 1
 glims
 gymnosophist
 genethlic
