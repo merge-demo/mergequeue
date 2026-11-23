@@ -630,7 +630,7 @@ damnedest
 duchery
 dioptoscopy
 decoyman
-dextroversion
+dextroversion 1
 dinoflagellata 1
 deploitation
 dominick
