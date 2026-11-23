@@ -314,7 +314,7 @@ daybeacon
 dealbate
 daybed
 disembowelment
-disgruntling
+disgruntling 1
 dissuasiveness
 dollfaced
 daybill
