@@ -4904,7 +4904,7 @@ demonologer
 damasse
 demonology
 demonologically
-disluster
+disluster 1
 densitometers 1
 demonomist
 draisene
