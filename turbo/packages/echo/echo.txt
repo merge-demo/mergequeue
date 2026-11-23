@@ -13046,7 +13046,7 @@ enslave
 embassador 1
 eutaxite
 explications
-ergotisms
+ergotisms 1
 egotizing
 everlastingness
 erionite
