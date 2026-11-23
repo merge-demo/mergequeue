@@ -6515,7 +6515,7 @@ deviability
 dialectic
 dircaean
 dynel
-descension
+descension 1
 dereligion
 descensionist
 descensive
