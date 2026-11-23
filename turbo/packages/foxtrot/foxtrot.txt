@@ -9931,7 +9931,7 @@ fudge
 fantoms
 fumatorium
 freckled
-frigates
+frigates 1
 flocculated
 flavin
 frightable
