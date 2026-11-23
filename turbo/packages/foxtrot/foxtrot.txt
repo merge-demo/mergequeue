@@ -386,7 +386,7 @@ faintly
 fiercen
 furoid
 finesses
-fearer
+fearer 1
 filicauline
 forbid
 facets
