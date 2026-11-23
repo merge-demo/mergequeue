@@ -444,7 +444,7 @@ exsufflicate
 explained
 ellipsone
 enemyship
-extraembryonal
+extraembryonal 1
 emmer
 eremitical
 eftsoons
