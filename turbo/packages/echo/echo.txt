@@ -5408,7 +5408,7 @@ endrudge
 extrabulbar
 eyewort
 ecderonic
-endseal
+endseal 1
 endshake
 elfishly
 egretta
