@@ -6797,7 +6797,7 @@ decomposable
 desirousness
 drily
 dropsonde
-dedicates
+dedicates 1
 diaconate
 desize
 decompositional
