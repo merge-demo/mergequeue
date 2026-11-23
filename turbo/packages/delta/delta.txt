@@ -2711,7 +2711,7 @@ deconvolve
 desmon
 diopsides
 decor
-diplopic
+diplopic 1
 dappledness
 decurves
 decorable
