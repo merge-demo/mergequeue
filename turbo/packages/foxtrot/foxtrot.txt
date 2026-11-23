@@ -1250,7 +1250,7 @@ filipendula
 forespeed
 fluorography
 folds
-fassalite
+fassalite 1
 fastbacks
 frigor
 flatdom
