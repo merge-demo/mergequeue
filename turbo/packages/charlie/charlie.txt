@@ -27126,7 +27126,7 @@ cormoid
 countershine
 chemosorptive
 copaiye
-countershock
+countershock 1
 counterside
 crance
 czardoms
