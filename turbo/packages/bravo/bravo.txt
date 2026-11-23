@@ -17732,7 +17732,7 @@ bemuzzled
 bewinged
 beknit
 burnfire
-bashaws
+bashaws 1
 buckeens
 burnish
 burnishable
