@@ -10004,7 +10004,7 @@ frilliness
 fen
 favourer
 florid
-foralite
+foralite 1
 flee
 flatwork
 franchiser
