@@ -5353,7 +5353,7 @@ fidia
 fleadock
 fleahopper
 fatiha
-flinger
+flinger 1
 fimbrilla
 finiking
 flouncier
