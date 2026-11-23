@@ -11215,7 +11215,7 @@ epithetize
 endfile
 englyns
 eely
-exceptionably
+exceptionably 1
 effulgently
 excisemanship
 evangelistary
