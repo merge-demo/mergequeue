@@ -3839,7 +3839,7 @@ deciduous
 dicellate
 deionizations
 dichroiscope
-diatropic
+diatropic 1
 depayse
 dyspnoea
 deionize
