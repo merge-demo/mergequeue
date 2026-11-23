@@ -12192,7 +12192,7 @@ durous
 detector
 dampers
 despoticly
-deviators
+deviators 1
 dysfunctions
 disfurnish
 deport
