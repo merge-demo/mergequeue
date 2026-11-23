@@ -3075,7 +3075,7 @@ bialate
 biobibliographical
 bdellostomatidae
 baruria
-barvel
+barvel 1
 bunnell
 beduin
 botel
