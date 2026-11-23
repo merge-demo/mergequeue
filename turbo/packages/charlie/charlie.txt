@@ -2996,7 +2996,7 @@ cantilever
 cantilevered
 cantilevers
 cantily
-cursorious
+cursorious 1
 codenization
 cantina
 canting
