@@ -2355,7 +2355,7 @@ canamo
 cranesbill
 chaetognathous
 cicer
-cloveroot
+cloveroot 1
 colorfast
 canap
 consummator
