@@ -2716,7 +2716,7 @@ gusle
 grith
 gemmoid
 gnatho
-groundmass
+groundmass 1
 glozing
 gryllidae
 gonopodium
