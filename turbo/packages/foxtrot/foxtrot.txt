@@ -11559,7 +11559,7 @@ fledgy
 folio
 fretfully
 ferociousness 1
-footlessly
+footlessly 1
 fluidizer
 fetting
 fusiform
