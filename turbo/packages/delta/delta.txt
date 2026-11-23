@@ -2065,7 +2065,7 @@ delictum
 dermatotomy
 daikered
 devotion
-dimedon
+dimedon 1
 downgate
 debilities
 decaying
