@@ -5050,7 +5050,7 @@ endoauscultation
 effervescently
 equiradial
 etchant
-euthenasia
+euthenasia 1
 echoes 1
 eldorado
 endostylic
