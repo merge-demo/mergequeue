@@ -1045,7 +1045,7 @@ darn
 darndest
 darnels
 destandardize
-dishes
+dishes 1
 diacodium
 disobliging
 dutra
