@@ -4083,7 +4083,7 @@ foppishness
 finitude
 flushable
 fluking
-follying
+follying 1
 frijoles
 frontage
 fondish
