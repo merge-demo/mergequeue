@@ -7088,7 +7088,7 @@ deriv
 dubba
 drowsed
 dissuasions
-deterrently
+deterrently 1
 domajig
 demesmerize
 descriptiveness
