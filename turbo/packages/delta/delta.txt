@@ -6502,7 +6502,7 @@ dalesfolk 1
 douppioni
 dolichosoma
 dunged
-diadromous
+diadromous 1
 dispositionally
 dissevering
 determinate
