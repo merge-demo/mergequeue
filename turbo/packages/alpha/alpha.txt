@@ -18305,7 +18305,7 @@ arabinic
 arabinosic
 arabinoside
 adultlike
-arabism
+arabism 1
 abstinent
 aquiculture
 arabist
