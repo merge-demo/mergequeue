@@ -5263,7 +5263,7 @@ hidvlg
 hidvs
 hidw
 hidwbti
-hidwe
+hidwe 1
 hidwougoe
 hidwu
 hidx
