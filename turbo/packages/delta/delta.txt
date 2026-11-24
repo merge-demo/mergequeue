@@ -2277,7 +2277,7 @@ decemviral
 deepish
 decemvirship
 decayer 1
-depurator
+depurator 1
 decennial
 dislikeful
 dingdongs
