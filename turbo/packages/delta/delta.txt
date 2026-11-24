@@ -3601,7 +3601,7 @@ degenerescence
 diammonium
 degeneroos
 degerm
-dihalogen
+dihalogen 1
 donnish
 degerminate
 doated
