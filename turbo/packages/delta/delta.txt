@@ -15808,7 +15808,7 @@ dorsiflex
 does
 diascia
 dorsiflexion
-deuteron
+deuteron 1
 detects
 defreeze
 deluge
