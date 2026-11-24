@@ -8622,7 +8622,7 @@ dehydrant
 drainless
 duckhouse
 dyarchies
-disjunctor
+disjunctor 1
 disbelieve
 davis
 dinge
