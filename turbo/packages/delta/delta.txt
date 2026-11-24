@@ -6789,7 +6789,7 @@ dojo
 dietzeite
 degenerations
 distruster
-desirer
+desirer 1
 drachma
 daira
 dihedrons
