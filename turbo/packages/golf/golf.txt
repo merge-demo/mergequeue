@@ -4956,7 +4956,7 @@ gymnogen
 gawker
 galling
 glew
-goodwilled
+goodwilled 1
 gigantic
 grafters
 goldhead
