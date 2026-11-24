@@ -9851,7 +9851,7 @@ banderols
 bieberite
 bemedalled
 buccaneering
-boxthorns
+boxthorns 1
 batch
 bimbos
 bitmapped
