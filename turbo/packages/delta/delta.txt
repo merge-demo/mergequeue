@@ -7213,7 +7213,7 @@ demultiplexing
 detainee
 detaining
 disinfecter
-detar
+detar 1
 dumbfounderment
 detassel
 detat
