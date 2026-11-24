@@ -24704,7 +24704,7 @@ cambrics
 corimelaena
 copperskin
 ciderist
-coppersmith
+coppersmith 1
 comenic
 coppersmithing
 copperware
