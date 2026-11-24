@@ -15237,7 +15237,7 @@ dingmaul
 disbursal
 demipriest
 dogsleep
-derotremate
+derotremate 1
 domicile
 dal
 dollymen
