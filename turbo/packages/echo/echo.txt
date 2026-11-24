@@ -13272,7 +13272,7 @@ exhaustlessness
 endocrinopath
 episcopy
 expiscate
-effie
+effie 1
 exploiting
 exploiture
 entozoological
