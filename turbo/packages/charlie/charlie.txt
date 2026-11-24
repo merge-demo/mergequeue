@@ -24372,7 +24372,7 @@ copyboy
 contumacies
 coreveler
 circumflex
-cool
+cool 1
 cooled
 changepocket
 crosshairs
