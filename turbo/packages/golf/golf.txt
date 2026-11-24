@@ -891,7 +891,7 @@ gametocyst
 gametocyte
 gametogenic
 grabby
-geognost
+geognost 1
 grassfire
 gobioid
 gymnonoti

@@ -12920,7 +12920,7 @@ apolysin
 anatabine
 aditio
 ameer
-anglify
+anglify 1
 alkalometry
 anglings
 amphithurthura
