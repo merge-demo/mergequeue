@@ -19892,7 +19892,7 @@ antigone
 annist
 ahorse
 achaemenidian
-adenopharyngitis
+adenopharyngitis 1
 arightly
 armillate
 armine
