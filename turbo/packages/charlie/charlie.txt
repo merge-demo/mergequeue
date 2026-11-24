@@ -14378,7 +14378,7 @@ circumvest
 circumvoisin
 contrapletal
 circumvolution
-curdler
+curdler 1
 circumvolve
 circumvolved
 circulatable
