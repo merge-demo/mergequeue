@@ -3954,7 +3954,7 @@ fogyism
 foxtongue
 foal
 freehold
-footways
+footways 1
 funneling 1
 feedbacks
 finest
