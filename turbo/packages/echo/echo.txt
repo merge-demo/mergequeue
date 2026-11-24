@@ -7088,7 +7088,7 @@ endoskeletal
 episcenia
 empanelled
 envelope
-exurbanites
+exurbanites 1
 extemporaneously
 endpaper
 envelops
