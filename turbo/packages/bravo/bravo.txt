@@ -6276,7 +6276,7 @@ barbar
 bagfuls
 bevors
 benthoscope
-bemoat
+bemoat 1
 bulgar
 benthoses
 backwashes
