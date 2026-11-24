@@ -10100,7 +10100,7 @@ gastropods
 garrulus
 ghostwrote
 galactodensimeter
-gekkonoid
+gekkonoid 1
 gonfaloniership
 gossiped
 gasoscope
