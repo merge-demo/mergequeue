@@ -8423,7 +8423,7 @@ afterloss
 anthrathiophene
 avionic
 antilipoid
-adjusted
+adjusted 1
 aljamia
 areological
 attirail
