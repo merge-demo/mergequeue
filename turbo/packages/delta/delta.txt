@@ -2920,7 +2920,7 @@ disorientating
 dedication
 drafting
 downlinked
-disfavor
+disfavor 1
 duodecimals
 dedicatory
 despitous
