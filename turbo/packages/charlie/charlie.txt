@@ -18904,7 +18904,7 @@ clomping
 clothworker
 collaborator
 collaborators
-closehauled
+closehauled 1
 cosigner
 calligrapher
 cheesecake
