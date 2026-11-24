@@ -5375,7 +5375,7 @@ adiadokokinesi 1
 affret
 aptotic
 agnosticism
-agglutinable
+agglutinable 1
 apneustic
 affriended
 applying
