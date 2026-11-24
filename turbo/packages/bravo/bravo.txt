@@ -5176,7 +5176,7 @@ befriending
 barns
 bondfolk
 barragan
-bicentricity
+bicentricity 1
 basihyoid
 blastodisk
 bypasser
