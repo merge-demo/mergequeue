@@ -5883,7 +5883,7 @@ exacerbescence
 epidendral
 exsiccate
 engrossedly
-estoppage
+estoppage 1
 engrosser
 endocarditic
 eubacteriales
