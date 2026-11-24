@@ -5555,7 +5555,7 @@ depascent
 debilitation
 disrepute
 depatriate
-dispergation
+dispergation 1
 doornails
 depauperize
 dorsal
