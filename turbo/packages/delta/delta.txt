@@ -2907,7 +2907,7 @@ decwriter
 deltoid
 divia
 dashel
-dedanite
+dedanite 1
 dedecorous
 divide
 desmodont
