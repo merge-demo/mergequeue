@@ -8003,7 +8003,7 @@ epiotic
 eutannin
 exopterygota
 epipactis
-elasticized
+elasticized 1
 enigmaticalness
 exscript
 epigonal
