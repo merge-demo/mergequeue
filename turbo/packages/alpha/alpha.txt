@@ -22839,7 +22839,7 @@ anisotropous
 albopannin
 arya
 atmometric
-allheal
+allheal 1
 asherah
 atmosphereful
 anatomization
