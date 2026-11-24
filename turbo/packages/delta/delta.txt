@@ -17115,7 +17115,7 @@ deceleron
 decarchies
 drifty
 driftingly
-driftless
+driftless 1
 driftlessness
 dentatosetaceous
 drepanium
