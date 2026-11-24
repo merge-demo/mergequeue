@@ -8170,7 +8170,7 @@ gemmiparous
 grapeless
 guillem
 gobio
-geloscopy
+geloscopy 1
 gossipers
 geotaxy
 grab
