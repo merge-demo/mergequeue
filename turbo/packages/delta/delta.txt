@@ -7018,7 +7018,7 @@ deterrents
 deface
 despondence
 despondencies
-despondentness
+despondentness 1
 despondingly
 desponds
 debasement
