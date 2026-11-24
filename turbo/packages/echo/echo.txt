@@ -12581,7 +12581,7 @@ erasmian
 eagless
 effray
 excluders
-encirclement
+encirclement 1
 excoriate
 exoculate
 expostulates
