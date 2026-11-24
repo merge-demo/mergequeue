@@ -757,7 +757,7 @@ decelerometer
 dedolence
 dnieper
 dermatoconiosis
-defrays
+defrays 1
 dandifying
 desmognathous
 diselectrification
