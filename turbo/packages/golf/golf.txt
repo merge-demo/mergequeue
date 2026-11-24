@@ -1185,7 +1185,7 @@ gaped
 genitory
 gig
 gothic
-glabrescent
+glabrescent 1
 grinned
 gezerah
 guejarite
