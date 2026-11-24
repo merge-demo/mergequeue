@@ -299,7 +299,7 @@ burdensomeness
 beaune
 brachiocyllosis
 backarrows
-backbar
+backbar 1
 bedright
 begrutch
 biolith
