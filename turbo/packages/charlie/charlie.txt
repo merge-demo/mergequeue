@@ -10850,7 +10850,7 @@ claviharp
 chipmunks
 chrysochrous
 chipolata
-coleopteroid
+coleopteroid 1
 chippendale
 chemiatrist
 chippered
