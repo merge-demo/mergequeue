@@ -10533,7 +10533,7 @@ goshawks
 guillemot
 griffinhood
 glob
-gossipingly
+gossipingly 1
 gudesakes
 gentamicin
 gunge

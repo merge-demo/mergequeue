@@ -2648,7 +2648,7 @@ exegetist
 enquiries 1
 electrosteel
 epispadiac
-ectocornea
+ectocornea 1
 expansum
 enthymematic
 evil
