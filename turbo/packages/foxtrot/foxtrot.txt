@@ -10500,7 +10500,7 @@ forays
 flyback
 frottola
 federalizations
-fortuities
+fortuities 1
 feodality
 featherback
 flees
