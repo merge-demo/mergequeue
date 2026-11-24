@@ -586,7 +586,7 @@ fussed
 faucitis
 folklorism
 forjudger
-falloff
+falloff 1
 flamier
 frequentative
 frappe
