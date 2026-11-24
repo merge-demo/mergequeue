@@ -8022,7 +8022,7 @@ browband
 bourrelet
 blanque
 boatman
-buckbeans
+buckbeans 1
 bluntness
 bicornate
 befetished
