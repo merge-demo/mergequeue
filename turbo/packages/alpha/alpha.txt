@@ -12201,7 +12201,7 @@ andesinite
 agremens
 arachnidium
 antilife
-apteryges
+apteryges 1
 actional
 aetites
 amsel
