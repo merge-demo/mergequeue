@@ -3920,7 +3920,7 @@ dogfoot
 deference
 dittay
 dekes
-derivationally
+derivationally 1
 drisheen
 douser
 duopoly
