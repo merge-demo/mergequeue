@@ -6221,7 +6221,7 @@ eradiation
 enostosis
 elisions
 erugatory
-editorialize
+editorialize 1
 enforcedly
 egrid
 eardrops
