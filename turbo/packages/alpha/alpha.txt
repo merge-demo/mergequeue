@@ -21994,7 +21994,7 @@ anthropic
 antiphagocytic
 arterin
 aquameter
-aminize
+aminize 1
 assuetude
 annualist
 avantgarde
