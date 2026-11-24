@@ -17824,7 +17824,7 @@ apport
 apportionable
 aute
 ampule
-absorptions
+absorptions 1
 apportioner
 antiquitarian
 antiproductionist
