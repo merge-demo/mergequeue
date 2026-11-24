@@ -4969,7 +4969,7 @@ cartobibliography
 columbia
 cartogram
 comminate
-cartography
+cartography 1
 cypseli
 cartographic
 cartographical
