@@ -2506,7 +2506,7 @@ candidness
 candidnesses
 chrismatine
 crawlie
-countermands
+countermands 1
 coasters
 candies
 candymaker
