@@ -543,7 +543,7 @@ epedaphic
 epithelioceptor
 excavator
 edgy
-enciphered
+enciphered 1
 exopterygotous
 enormity
 enclitically
