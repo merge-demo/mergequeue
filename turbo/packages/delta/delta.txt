@@ -8193,7 +8193,7 @@ depart
 diaderm
 decolletage
 diadic
-disabusing
+disabusing 1
 demurrer
 distends
 demidog
