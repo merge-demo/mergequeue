@@ -9612,7 +9612,7 @@ goldenness
 gossipmonger
 gowns
 ghostwriting
-guzerat
+guzerat 1
 greeny
 glaucophanization
 gallize
