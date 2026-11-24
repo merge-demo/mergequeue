@@ -23967,7 +23967,7 @@ antick
 algicides
 antidotally
 asepticizing
-autoassimilation
+autoassimilation 1
 aubergistes
 anisopleurous
 allayer
