@@ -4577,7 +4577,7 @@ glim
 galloper
 goobers
 germane
-gagger
+gagger 1
 grinter
 gasconader
 gladiole
