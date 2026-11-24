@@ -4364,7 +4364,7 @@ galaxies
 greener
 gravestead
 glossata
-globules
+globules 1
 gharries
 gumbotil
 ginglymostoma
