@@ -6898,7 +6898,7 @@ desolation
 darkness
 dryhouse
 dependents
-dognap
+dognap 1
 discolors
 descantist
 dahabiyeh
