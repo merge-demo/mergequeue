@@ -10838,7 +10838,7 @@ eligibilities
 endostomata
 envineyard
 elaeoblastic
-enchase
+enchase 1
 eisteddfodau
 euphotic
 entailable
