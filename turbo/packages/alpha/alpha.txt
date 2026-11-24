@@ -17373,7 +17373,7 @@ apostille
 argos
 antagonist
 aglycosuric
-anatiferous
+anatiferous 1
 apostleship
 abaisse
 apostleships
