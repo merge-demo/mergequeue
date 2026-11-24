@@ -9711,7 +9711,7 @@ frenchly
 fafaronade
 fissionability
 festinate
-footmanry
+footmanry 1
 faunch
 facework
 fluviograph
