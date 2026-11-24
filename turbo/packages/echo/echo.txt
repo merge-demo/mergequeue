@@ -10417,7 +10417,7 @@ eurypteroid
 endopolyploidy
 eviscerated
 eloinment
-embryoniferous
+embryoniferous 1
 etymon
 economiser
 ectocondyle
