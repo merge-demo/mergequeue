@@ -14091,7 +14091,7 @@ epimerised
 exterminable
 exhaustless
 excubittoria
-easterly
+easterly 1
 etyma
 entour
 extremuma
