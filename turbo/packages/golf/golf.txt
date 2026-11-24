@@ -5241,7 +5241,7 @@ gaited
 gemmipara
 golgi
 golf 1
-geniculate
+geniculate 1
 gunter
 gorgonzola
 gamecraft
