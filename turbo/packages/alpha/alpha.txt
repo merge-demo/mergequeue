@@ -13675,7 +13675,7 @@ annuler
 allosaur
 anodontia
 advocated
-allocable
+allocable 1
 abys
 alliciency
 anodos
