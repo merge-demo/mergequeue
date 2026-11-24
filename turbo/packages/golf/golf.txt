@@ -967,7 +967,7 @@ genomic
 gamostele
 glottogony
 genetically
-gamp
+gamp 1
 graysby
 gastrolobium
 grivet
