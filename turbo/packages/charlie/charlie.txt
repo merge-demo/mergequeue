@@ -1722,7 +1722,7 @@ calques
 cremule
 caltha
 civilization
-caltraps
+caltraps 1
 cervicolingual
 contrafocal
 caltrop
