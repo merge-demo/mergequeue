@@ -9303,7 +9303,7 @@ ateba
 analyser
 afflate
 along
-ambeer
+ambeer 1
 ataxiameter
 alongships
 abasements
