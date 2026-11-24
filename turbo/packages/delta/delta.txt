@@ -17033,7 +17033,7 @@ disfame
 dextrine
 dekagram
 dearer
-diabolicalness
+diabolicalness 1
 doberman
 dressline
 dumas
