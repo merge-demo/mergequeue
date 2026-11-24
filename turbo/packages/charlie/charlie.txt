@@ -16925,7 +16925,7 @@ clumpishness
 cohere
 clumps
 corance
-canavalin
+canavalin 1
 curst
 clumpst
 clumse
