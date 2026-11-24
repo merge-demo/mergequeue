@@ -21664,7 +21664,7 @@ adopters
 axiform
 assays
 assam
-assamites
+assamites 1
 ancillas
 atrophiated
 amblyopsidae
