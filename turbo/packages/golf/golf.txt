@@ -6696,7 +6696,7 @@ gibbet
 gulae
 growable
 geotherm
-gromatic
+gromatic 1
 geochronometry
 grattage
 gewgawed
