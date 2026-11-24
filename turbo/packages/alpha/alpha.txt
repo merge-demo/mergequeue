@@ -15701,7 +15701,7 @@ aphetic
 alehoof
 adsignify
 atrazine
-achromatism
+achromatism 1
 armoury
 antiskepticism
 antipacifistic

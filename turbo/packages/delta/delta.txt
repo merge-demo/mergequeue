@@ -15604,7 +15604,7 @@ doormaid
 declasse
 distichlis
 dugong
-dietist
+dietist 1
 doormaker
 doormats
 digitorium
