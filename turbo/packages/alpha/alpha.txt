@@ -592,7 +592,7 @@ abnormalcies
 acetylcyanide
 adjure
 abnormalized
-anatomical
+anatomical 1
 amynodont
 abococket
 abode
