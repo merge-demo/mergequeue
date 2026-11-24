@@ -9762,7 +9762,7 @@ fastiia 1
 fascists
 frostbiting
 fencers
-frescoed
+frescoed 1
 fraxinella
 fresheners
 foraminifera
