@@ -7652,7 +7652,7 @@ desalinating
 discursify
 developmentarian
 dustpan
-detestability
+detestability 1
 deray
 drawers
 diffusional
