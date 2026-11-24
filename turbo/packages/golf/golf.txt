@@ -5891,7 +5891,7 @@ guadalcazarite
 glucoses 1
 glances
 gamdia
-glucoside
+glucoside 1
 goshawk
 grandparents
 gestening
