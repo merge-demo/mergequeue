@@ -12582,7 +12582,7 @@ dragoness
 dechenite
 disintoxication
 dankness
-depilator
+depilator 1
 daud
 driftfish 1
 deadhearted
