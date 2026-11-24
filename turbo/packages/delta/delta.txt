@@ -5928,7 +5928,7 @@ defeatee
 depreter
 depriment
 deprint
-depriorize
+depriorize 1
 desmotropy
 disorderedness
 dool
