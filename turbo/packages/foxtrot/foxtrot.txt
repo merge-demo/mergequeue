@@ -6620,7 +6620,7 @@ flowerpot
 fishybacking
 fatalistically
 fizzers
-floatages
+floatages 1
 friggle
 fractocumulus
 fireweeds
