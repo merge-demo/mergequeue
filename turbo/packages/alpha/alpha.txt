@@ -6853,7 +6853,7 @@ antilabor
 axiomatizes
 airposts
 airlock
-atmospherical
+atmospherical 1
 annoyingness 1
 ava
 airmark
