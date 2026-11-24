@@ -17569,7 +17569,7 @@ diatomous
 dactyls
 drumlins
 disentail
-dorsiferous
+dorsiferous 1
 diciest
 drummer
 destaining
