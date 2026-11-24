@@ -6862,7 +6862,7 @@ ferritungstite
 fattiest 1
 farewell
 fiery
-flasks
+flasks 1
 friability
 flourished
 fossilise
