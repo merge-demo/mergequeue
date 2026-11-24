@@ -3491,7 +3491,7 @@ gussied 1
 gestical
 gesticulant
 grueller
-goloch
+goloch 1
 gentiin
 girlish
 gagman
