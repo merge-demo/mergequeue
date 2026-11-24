@@ -5778,7 +5778,7 @@ exterritoriality
 eolipiles
 eucharistical
 excl
-englobe
+englobe 1
 epigraphy
 expressions
 englobed
