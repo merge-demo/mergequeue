@@ -6212,7 +6212,7 @@ fluctuational
 factioneer
 fluegelhorn
 foalfoot
-foveation
+foveation 1
 forefence
 flightily
 fairgrounds
