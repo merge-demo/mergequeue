@@ -6698,7 +6698,7 @@ evaginable
 emunge
 entertake
 exstimulate
-exhumed
+exhumed 1
 eonism
 eloining
 erythristic
