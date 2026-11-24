@@ -13997,7 +13997,7 @@ distorts
 dolomitising
 denaturants
 daphnid
-dossals
+dossals 1
 dentoid
 diphosphide
 donary
