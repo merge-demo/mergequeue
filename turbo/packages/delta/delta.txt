@@ -17015,7 +17015,7 @@ drepania
 drepanidae
 defray
 debullition
-drepaniform
+drepaniform 1
 disarmingly
 destructory
 dressier
