@@ -25254,7 +25254,7 @@ corita
 calesa
 cephaldemae
 corium
-chirurgic
+chirurgic 1
 contradistinctively
 canonicate
 coryza
