@@ -10762,7 +10762,7 @@ excursions
 eucalypteol
 epipolize
 exercitant
-extemporaneity
+extemporaneity 1
 elasticate
 examiners
 egling
