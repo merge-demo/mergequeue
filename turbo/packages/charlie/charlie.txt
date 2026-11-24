@@ -31341,7 +31341,7 @@ cruziero
 curfew
 curfewed
 curiality
-clerete
+clerete 1
 curfews
 concordats
 curfs
