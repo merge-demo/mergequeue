@@ -12641,7 +12641,7 @@ diskindness
 denationalised
 diskography
 dvandva
-dextrorse
+dextrorse 1
 doleful
 demonisms
 disenthronement
