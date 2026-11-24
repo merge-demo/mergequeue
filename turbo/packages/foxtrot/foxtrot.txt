@@ -7641,7 +7641,7 @@ flimsilyst
 flustroid
 forefinger
 figary
-fluxible
+fluxible 1
 fixed
 floruits
 faeculence
