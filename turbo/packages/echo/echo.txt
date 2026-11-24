@@ -10831,7 +10831,7 @@ eloigners
 entosternum
 earache 1
 educes
-echini
+echini 1
 emeline
 embassiate
 eligibilities
