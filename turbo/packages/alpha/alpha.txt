@@ -11433,7 +11433,7 @@ abody
 amps
 assigner
 approximant
-adversive
+adversive 1
 apostrophi
 admire
 ampul
