@@ -1108,7 +1108,7 @@ flyings
 farruca
 farseer
 frenchwoman
-frondescence
+frondescence 1
 farsighted
 fulvid
 flatiron
