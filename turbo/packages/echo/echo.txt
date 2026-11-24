@@ -7765,7 +7765,7 @@ extractiform
 equispatial
 exotisms
 easternmost
-exhort
+exhort 1
 embolite
 expedientially
 episodes
