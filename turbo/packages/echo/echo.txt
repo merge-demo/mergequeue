@@ -4508,7 +4508,7 @@ entalent
 eery
 enrange
 erucin
-emancipate
+emancipate 1
 enactive
 emerita
 ephorate
