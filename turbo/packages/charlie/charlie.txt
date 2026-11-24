@@ -24173,7 +24173,7 @@ convictfishes
 convictible
 critical
 carfax
-cantinier
+cantinier 1
 conviction
 convictional
 civilizatory
