@@ -6332,7 +6332,7 @@ drawbores
 diaplasis
 devchar
 dermobranchiate
-deflorations
+deflorations 1
 decharm
 dangles
 diagrammatical
