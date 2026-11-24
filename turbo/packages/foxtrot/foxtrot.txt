@@ -396,7 +396,7 @@ fairground
 fairy
 foresettle
 fingerroot
-failings
+failings 1
 factors
 flabellate
 fallaway
