@@ -31675,7 +31675,7 @@ clears
 coth
 cushiness
 cushing 1
-cushion
+cushion 1
 claypan
 cushioned
 cushionet
