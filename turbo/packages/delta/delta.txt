@@ -7789,7 +7789,7 @@ destabilizing
 dholes
 devolatilised
 dosimetries
-dryrot
+dryrot 1
 diplospondyli
 dagestan
 depeople
