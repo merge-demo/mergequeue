@@ -15279,7 +15279,7 @@ albertinian
 androcratic 1
 antigalactagogue
 ageusic
-antigambling
+antigambling 1
 antiganting
 audion
 aftersupper
