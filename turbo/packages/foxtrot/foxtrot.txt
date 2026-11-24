@@ -5629,7 +5629,7 @@ faddiest
 flightier
 foster
 foetor
-fernery
+fernery 1
 forepassed
 fireboot 1
 flyless
