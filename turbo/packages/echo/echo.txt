@@ -11437,7 +11437,7 @@ eponyms
 evocated
 ectonephridium
 exes
-erinnic
+erinnic 1
 effectually
 eupatorium
 enteropexy
