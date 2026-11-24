@@ -5988,7 +5988,7 @@ dispraise
 droopy
 devitation
 domajigger
-diamagnetize
+diamagnetize 1
 diagrammitically
 depthlessness
 diobols
