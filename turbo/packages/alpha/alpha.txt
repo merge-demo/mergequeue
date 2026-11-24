@@ -20000,7 +20000,7 @@ amasta
 armure
 armures
 arn
-antirachitic
+antirachitic 1
 arf
 achromatinic
 arnatto
