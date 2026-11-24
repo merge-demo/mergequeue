@@ -6609,7 +6609,7 @@ deselected 1
 depiction
 dysmerogenesis
 duddie
-desiccants
+desiccants 1
 dichotomised
 decretory
 dragsawing
