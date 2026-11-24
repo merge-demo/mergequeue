@@ -10897,7 +10897,7 @@ foreseers
 ferrum
 ferris
 fulled
-feeing
+feeing 1
 fieldwort
 foreteller
 fliskier
