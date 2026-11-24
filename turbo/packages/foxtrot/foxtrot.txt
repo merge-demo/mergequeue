@@ -417,7 +417,7 @@ fribbled
 fasciae
 fibrocartilaginous
 forthon
-fusiformis
+fusiformis 1
 flouting
 freeboard
 frows
