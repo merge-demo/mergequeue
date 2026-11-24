@@ -22540,7 +22540,7 @@ conjunctively
 cedis
 chersonese
 chimbleys
-cheekful
+cheekful 1
 conjuncts
 conjunctur
 conjunctures
