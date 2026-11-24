@@ -16997,7 +16997,7 @@ dampeners
 disemplaned
 dreidels
 dreikanter
-deutomalar
+deutomalar 1
 douricouli
 dreynt
 distendedly
