@@ -28763,7 +28763,7 @@ cavitate
 cornutine
 chafer
 crepusculine
-costliness
+costliness 1
 cres
 counteraffirmation
 cresc
