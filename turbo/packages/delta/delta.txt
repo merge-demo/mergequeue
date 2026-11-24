@@ -10255,7 +10255,7 @@ dioctahedral
 dextroses
 dioctophyme
 deave
-defaulting
+defaulting 1
 diodontidae
 dioecy
 desiderium
