@@ -2956,7 +2956,7 @@ cantharus
 clotter
 chank
 cleverest
-caustic
+caustic 1
 canthathari 1
 cameriera
 canthitis
