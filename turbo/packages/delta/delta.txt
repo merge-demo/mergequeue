@@ -1267,7 +1267,7 @@ dreamlore
 dendrologist
 dimouts
 danthonia
-dusted
+dusted 1
 diazoic
 denari
 denaturing
