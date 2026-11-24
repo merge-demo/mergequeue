@@ -5933,7 +5933,7 @@ effluviography
 extrameridian
 educatee
 eudaemonia
-enjoyably
+enjoyably 1
 enhypostasia
 estmark
 electrotheraputically
