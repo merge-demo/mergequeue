@@ -3892,7 +3892,7 @@ figurato
 fionnuala
 fanwe
 foregrounds
-frequencies
+frequencies 1
 fits
 foreschooling
 fortuitously
