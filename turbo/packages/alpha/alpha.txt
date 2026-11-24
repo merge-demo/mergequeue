@@ -13336,7 +13336,7 @@ albireo
 aurifex
 agglutinability
 autosome
-abobra
+abobra 1
 anthelminthic
 apoturmeric
 anisometric
