@@ -5416,7 +5416,7 @@ diplomatics
 disc
 dermolysis
 dialysation
-denumerantive
+denumerantive 1
 disestablished
 drumbledore
 disinure
