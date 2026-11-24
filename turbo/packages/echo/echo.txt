@@ -1985,7 +1985,7 @@ economizing
 endocystitis
 eker
 epigastriocele
-equiparable
+equiparable 1
 evenblush
 exorcisory
 encyclopedist
