@@ -4006,7 +4006,7 @@ dibasicity
 dialing
 dipteros
 dirten
-delegations
+delegations 1
 delegator
 discomposedly
 drenchingly
