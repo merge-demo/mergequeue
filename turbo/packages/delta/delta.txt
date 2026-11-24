@@ -2211,7 +2211,7 @@ diplograph
 dreich
 derivedly
 diatomaceae
-desultoriness
+desultoriness 1
 denunciant
 deliliria
 disconventicle
