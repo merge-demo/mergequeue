@@ -16220,7 +16220,7 @@ cutesier
 clinia
 condensations 1
 clinicopathological
-clinkant
+clinkant 1
 clinkerer
 clinkery
 chao
