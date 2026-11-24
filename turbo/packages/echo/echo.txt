@@ -5187,7 +5187,7 @@ exitus
 elusive
 endolysin
 eparchy
-endurable 1
+endurable 2
 eretrian
 ethologies
 equipluve
