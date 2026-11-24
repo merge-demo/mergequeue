@@ -11511,7 +11511,7 @@ furzy
 fastest
 flammable
 flouncy
-fanfold
+fanfold 1
 fusariosis
 firebirds
 forethoughtless
