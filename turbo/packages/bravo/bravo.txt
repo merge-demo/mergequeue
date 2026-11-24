@@ -6212,7 +6212,7 @@ benjaminite
 bound
 boletus
 berley
-bypass
+bypass 1
 beakful
 benne 1
 bennes
