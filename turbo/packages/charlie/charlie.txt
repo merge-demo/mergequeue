@@ -30228,7 +30228,7 @@ cruelly
 cruelness
 cruels
 communbus
-cruent
+cruent 1
 colmar
 cruentation
 cruentous
