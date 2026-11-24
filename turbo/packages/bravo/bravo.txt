@@ -2109,7 +2109,7 @@ bcf
 baldest
 blesses
 bannerols
-bannisters
+bannisters 1
 birthmarks
 bioflavinoid
 bannocks
