@@ -1386,7 +1386,7 @@ garniture
 glycosemia
 germanize
 grecize
-gaits
+gaits 1
 ganyie
 gallotannin
 gasified
