@@ -8514,7 +8514,7 @@ flatwise
 foramen 1
 forinsec
 fream
-fraxetin
+fraxetin 1
 foreseeing
 fard
 fulgid
