@@ -26564,7 +26564,7 @@ clingers
 conjecturable
 cheverons
 coucal
-couchancy
+couchancy 1
 couchant
 couths
 coadequate
