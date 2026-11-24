@@ -17890,7 +17890,7 @@ durationless
 dishmaking
 dueled
 duelers
-duelistic
+duelistic 1
 dolentissimo
 durgan
 dinks
