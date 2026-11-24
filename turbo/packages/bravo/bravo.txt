@@ -555,7 +555,7 @@ blit
 belgium
 bakerlike
 bootboy
-biggishness
+biggishness 1
 blackie
 burrock
 brickiest
