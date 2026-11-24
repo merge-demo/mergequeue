@@ -3369,7 +3369,7 @@ disrestore
 dynagraph
 dithionate 1
 deflagrator
-deflating
+deflating 1
 discommend
 drumslade
 diversifolious
