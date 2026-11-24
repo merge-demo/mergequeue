@@ -395,7 +395,7 @@ fancifully
 fairground
 fairy
 foresettle
-fingerroot
+fingerroot 1
 failings
 factors
 flabellate
