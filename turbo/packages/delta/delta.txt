@@ -2689,7 +2689,7 @@ dialectics
 debut
 decongestant
 deltoidei
-deconsecrate
+deconsecrate 1
 duels
 dareful
 deconsecrated
