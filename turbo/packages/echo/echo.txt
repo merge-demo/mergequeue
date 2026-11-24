@@ -3351,7 +3351,7 @@ embain
 encroaching 1
 egglike
 embays
-exhalent
+exhalent 1
 evangelistic
 ethylenediamine
 eulachons
