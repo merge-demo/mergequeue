@@ -4792,7 +4792,7 @@ flagellula
 flickeringly
 fauve
 filigrain
-fargoing
+fargoing 1
 flageolets
 flagfishes
 fubsy
