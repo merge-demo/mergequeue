@@ -1306,7 +1306,7 @@ falconoid
 fatalists
 fop
 fleeced
-frictionlessly
+frictionlessly 1
 former
 focimetry 1
 foxtails
