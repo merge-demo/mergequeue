@@ -10615,7 +10615,7 @@ feudalizable
 flaxwoman
 forerunner
 farceurs
-flative
+flative 1
 forseen
 fractile
 franc 1
