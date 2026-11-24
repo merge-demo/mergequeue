@@ -1307,7 +1307,7 @@ fatalists
 fop
 fleeced
 frictionlessly
-former
+former 1
 focimetry 1
 foxtails
 forestick
