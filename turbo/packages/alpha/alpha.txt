@@ -25088,7 +25088,7 @@ axemen
 antiweed
 arsine
 axenic
-axenically
+axenically 1
 annual
 ausforms
 antiastronomical
