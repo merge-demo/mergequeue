@@ -5621,7 +5621,7 @@ fourgons
 flight
 frusla
 flighter
-foret
+foret 1
 fleysome
 forehock
 funicular
