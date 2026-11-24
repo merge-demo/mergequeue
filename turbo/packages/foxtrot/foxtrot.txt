@@ -674,7 +674,7 @@ firebreak
 fimetic
 farrand
 featherbedding
-facetiousness
+facetiousness 1
 farnesol
 fluotitanic 1
 fames
