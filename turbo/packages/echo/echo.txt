@@ -5786,7 +5786,7 @@ enneahedral
 envelopment
 extirp
 englut
-emhpasizing
+emhpasizing 1
 encored
 excedent
 ependymitis
