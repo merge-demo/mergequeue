@@ -5996,7 +5996,7 @@ enjoinders
 eucommia
 expatiatingly
 enjoiner
-excubant
+excubant 1
 euonym
 enjoiners
 extravillar
