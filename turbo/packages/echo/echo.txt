@@ -8818,7 +8818,7 @@ embelin
 entempest
 empetraceous
 epistolize
-epilate
+epilate 1
 ethoxy
 exigently
 ethnobotanist
