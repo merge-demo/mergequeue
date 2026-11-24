@@ -1507,7 +1507,7 @@ flutings
 fetcher
 furibund
 furanose
-foundering
+foundering 1
 flavanthrene
 fient
 forebodingness
