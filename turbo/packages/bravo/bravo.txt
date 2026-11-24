@@ -2117,7 +2117,7 @@ boilinglike
 banovina
 banquet
 blindish
-bardiest
+bardiest 1
 banqueting
 beseem
 buddhistic
