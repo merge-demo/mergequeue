@@ -29229,7 +29229,7 @@ cryptamnesic
 cryptanalytically
 cryptanalytics
 cires
-cryptanalyze
+cryptanalyze 1
 cothamore
 characetum
 capybara
