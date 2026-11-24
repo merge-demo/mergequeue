@@ -3091,7 +3091,7 @@ extemporize
 elliptograph 1
 elliptoid
 encrease
-extraparietal
+extraparietal 1
 extern
 embarrassment
 educing
