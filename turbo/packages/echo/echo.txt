@@ -10969,7 +10969,7 @@ excludes
 electrizing
 eurhythmic
 echeloot
-eventuation
+eventuation 1
 eoside
 escobita
 ecologically
