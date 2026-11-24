@@ -3696,7 +3696,7 @@ frousiest
 facebread
 fillies
 families
-feetless
+feetless 1
 firedogs 1
 foalfoot 1
 flaccidities
