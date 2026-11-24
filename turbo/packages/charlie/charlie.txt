@@ -5348,7 +5348,7 @@ corkmaker
 cylindroconical
 cynarctomachy
 cyrillaceous
-capillary
+capillary 1
 coelelminth
 castano
 crawler
