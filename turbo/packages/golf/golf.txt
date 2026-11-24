@@ -941,7 +941,7 @@ guayaba
 gastropneumatic
 grippes
 gannets
-gammock
+gammock 1
 grouched
 gillnetted
 galactically
