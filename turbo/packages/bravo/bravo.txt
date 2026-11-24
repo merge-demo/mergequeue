@@ -2146,7 +2146,7 @@ bantayan
 buckshots
 bidstand
 bantam
-bantamize
+bantamize 1
 banteng
 beglerbegship
 barriers
