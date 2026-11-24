@@ -2305,7 +2305,7 @@ exterminations
 eobionts
 ensepulchre
 evangelicalness
-electrizable
+electrizable 1
 electrization
 excavated
 epicotyl
