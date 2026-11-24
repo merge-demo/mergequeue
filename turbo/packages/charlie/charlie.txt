@@ -27145,7 +27145,7 @@ colical
 chesboll
 countersinks
 countersleight
-countersnarl
+countersnarl 1
 cataclysmatic
 counterspy
 caricaturable
