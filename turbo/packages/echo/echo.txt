@@ -9245,7 +9245,7 @@ extirpate
 evocators
 ethnolinguistic
 epizzoa
-ectotropic
+ectotropic 1
 eloquential
 extrapleural
 extrapolative
