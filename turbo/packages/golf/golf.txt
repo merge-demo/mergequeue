@@ -5591,7 +5591,7 @@ goutier
 glucaemia
 gumming
 gaysome
-gripless
+gripless 1
 geophysical
 gefilte
 grandame
