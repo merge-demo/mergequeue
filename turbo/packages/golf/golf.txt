@@ -651,7 +651,7 @@ gravimetry
 galloon
 glower
 gantryman
-galeated
+galeated 1
 gunkhole
 grihyasutra
 gallantries
