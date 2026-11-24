@@ -860,7 +860,7 @@ ferthumlungur
 felichthys
 fingermark
 fashioner
-finestill
+finestill 1
 freckened
 freedoot
 forebows
