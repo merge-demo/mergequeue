@@ -28129,7 +28129,7 @@ caput
 craniniums
 craniocele
 cachetic
-cordial
+cordial 1
 caunus
 craniocerebral
 calligraphist
