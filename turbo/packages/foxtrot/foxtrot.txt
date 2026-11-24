@@ -3890,7 +3890,7 @@ filleting
 feckless
 figurato
 fionnuala
-fanwe
+fanwe 1
 foregrounds
 frequencies
 fits
