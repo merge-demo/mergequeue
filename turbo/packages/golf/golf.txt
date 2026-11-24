@@ -8251,7 +8251,7 @@ gram
 gluttonising
 graphologists
 gyropigeon
-gimp
+gimp 1
 gospel
 ginglyform
 giardiasis
