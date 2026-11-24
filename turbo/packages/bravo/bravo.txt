@@ -18023,7 +18023,7 @@ busk
 barlock
 bicornuous
 bromise
-baseness
+baseness 1
 brancard
 buskined
 beadmen
