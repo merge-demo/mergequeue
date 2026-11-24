@@ -22163,7 +22163,7 @@ achroacyte
 ambitionless
 abjudge
 argute
-acromegalies
+acromegalies 1
 antebrachium
 alcavala
 asthenia
