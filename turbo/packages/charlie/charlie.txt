@@ -5238,7 +5238,7 @@ caspian
 coriariaceous
 casque
 casqued
-cushat
+cushat 1
 casquetel
 colemouse
 cassabas
