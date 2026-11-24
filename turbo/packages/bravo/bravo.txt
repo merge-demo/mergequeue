@@ -6081,7 +6081,7 @@ betake
 bhd
 benzalacetone
 barricader
-bend
+bend 1
 bub
 bendee
 bullwhips
