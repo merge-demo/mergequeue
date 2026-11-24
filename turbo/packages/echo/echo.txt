@@ -4587,7 +4587,7 @@ eeriest
 epicerastic
 estradas
 ensigned
-earthtongue
+earthtongue 1
 ethologically
 eucryphiaceae
 epistolean
