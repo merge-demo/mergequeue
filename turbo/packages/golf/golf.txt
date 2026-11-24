@@ -3041,7 +3041,7 @@ greensauce
 gamelin
 genepi
 gluttonized
-gerate
+gerate 1
 grangerised
 geomorphologically 1
 glycopexis
