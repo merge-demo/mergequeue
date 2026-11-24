@@ -12824,7 +12824,7 @@ dismarket
 dunnages
 dicotyledon
 devotionally
-diseuse
+diseuse 1
 dominial
 destructor
 dam
