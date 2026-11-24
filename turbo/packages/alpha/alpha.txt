@@ -10523,7 +10523,7 @@ amide
 amidide
 acoelous
 adscript
-amidins
+amidins 1
 archizoic
 anneal
 arret
