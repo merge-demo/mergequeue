@@ -12894,7 +12894,7 @@ bulldog
 bertrandite
 blondes
 beauticians
-boost
+boost 1
 bromizes
 biblicolegal
 blatted
