@@ -635,7 +635,7 @@ gallon
 gonapophysis
 gonangial
 gabionage
-guruships
+guruships 1
 gemmaceous
 gasometry
 gestatorial
