@@ -12309,7 +12309,7 @@ eviscerations
 evectant
 exertionless
 elric
-exertions
+exertions 1
 enurny
 eseptate
 equilobate
