@@ -2279,7 +2279,7 @@ exormia
 enbloc
 eyelets
 endolymph
-excretal
+excretal 1
 eger
 encased
 ester
