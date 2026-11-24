@@ -5060,7 +5060,7 @@ fishline
 fosses
 fetialis
 foveated 1
-fezes
+fezes 1
 freir
 frsiket
 fowler
