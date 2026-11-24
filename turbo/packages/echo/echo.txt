@@ -5513,7 +5513,7 @@ extraocular
 exoterics
 espiritual
 enfeebles
-eulogistical
+eulogistical 1
 extirpatory
 enfeebling
 eucarida
