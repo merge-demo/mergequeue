@@ -4224,7 +4224,7 @@ fidicinales
 fetus
 fructose
 fadding
-fruitlessness
+fruitlessness 1
 finialed
 fragmentally
 flagrant
