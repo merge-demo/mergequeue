@@ -12711,7 +12711,7 @@ clockmaker
 cajava
 chukchi
 chukka
-centerboards
+centerboards 1
 chukkar
 chukker
 chulha
