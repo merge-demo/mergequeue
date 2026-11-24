@@ -4068,7 +4068,7 @@ euthymy
 esthetophore
 emboil
 equitant
-enjambement
+enjambement 1
 erotophobia
 exteriorize
 epiphonemae
