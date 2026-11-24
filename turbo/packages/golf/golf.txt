@@ -2325,7 +2325,7 @@ geldings
 garlandage
 gelated
 gorgets
-gymnics
+gymnics 1
 geographism
 glassy
 graptomancy
