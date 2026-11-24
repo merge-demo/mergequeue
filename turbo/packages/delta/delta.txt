@@ -6874,7 +6874,7 @@ deifies
 demilitarization
 desmoscolecidae
 drossless
-desmosite
+desmosite 1
 desemer
 dispositor
 desoeuvre
