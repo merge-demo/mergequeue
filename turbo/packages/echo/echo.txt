@@ -4929,7 +4929,7 @@ exactive
 eglestonite
 ecliptics
 estrada
-eucaine
+eucaine 1
 emulatress
 eversion
 endeavour
