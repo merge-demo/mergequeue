@@ -10545,7 +10545,7 @@ dbrn
 diplococcemia
 disleaf
 davach
-digammate
+digammate 1
 denote
 dislikes
 disequilibrium
