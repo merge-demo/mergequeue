@@ -17405,7 +17405,7 @@ destool
 droppage
 diamagnetically
 diffraction 1
-didascaly
+didascaly 1
 direction
 disjoinable
 dropsies
