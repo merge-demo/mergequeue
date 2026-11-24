@@ -6080,7 +6080,7 @@ bulbel
 betake
 bhd
 benzalacetone
-barricader
+barricader 1
 bend
 bub
 bendee
