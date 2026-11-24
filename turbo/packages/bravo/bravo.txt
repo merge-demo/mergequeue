@@ -5111,7 +5111,7 @@ beflecked
 bebed
 bookless
 busier
-bhangs
+bhangs 1
 bombshells
 beflour
 baulk
