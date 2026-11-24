@@ -7348,7 +7348,7 @@ ferrateen
 ferocious
 fluoridising
 formaldehydesulphoxylic
-flavors
+flavors 1
 fairyfloss
 fridges
 forts
