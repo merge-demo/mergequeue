@@ -6377,7 +6377,7 @@ deplaceable
 diplotene
 disassociation
 dorsiventral
-derodidymus
+derodidymus 1
 daleth
 derog
 demeanour
