@@ -6386,7 +6386,7 @@ gugal
 gospelwards
 germanophile
 greenwort
-guesstimate
+guesstimate 1
 glossotomy
 gulmohar
 gamesomeness
