@@ -8478,7 +8478,7 @@ diaminogen
 downset
 directionize
 dodecyl
-downgrades
+downgrades 1
 diamondbacked
 debaucher
 declassify
