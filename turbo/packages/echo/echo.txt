@@ -1801,7 +1801,7 @@ enfranch
 eyespots
 epexegetically
 entwite
-eyewaiter
+eyewaiter 1
 episepalous
 emanium
 emigrant
