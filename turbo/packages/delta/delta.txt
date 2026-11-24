@@ -17203,7 +17203,7 @@ disintricate
 drysne
 director
 diaphoresis
-decursive
+decursive 1
 dovecote
 depletory
 drive
