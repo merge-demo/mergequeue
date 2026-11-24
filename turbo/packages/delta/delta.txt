@@ -4047,7 +4047,7 @@ denier
 darknesses
 domicil
 dismissible
-delicatessen
+delicatessen 1
 dynam
 dustoor
 dominance
