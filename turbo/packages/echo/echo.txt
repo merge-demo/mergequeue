@@ -1277,7 +1277,7 @@ ecorche
 eblis
 eucairite
 eleonorite
-epinephrin
+epinephrin 1
 epigramme
 eq
 eeriness
