@@ -2233,7 +2233,7 @@ galax
 gonidiogenous
 gehlenite
 goblet
-gratuity
+gratuity 1
 grunted
 geoplanidae
 glucokinase
