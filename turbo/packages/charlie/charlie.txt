@@ -19033,7 +19033,7 @@ collencyte
 collery
 candyh
 claimer
-colleted
+colleted 1
 colletes
 colletia
 chalkstone
