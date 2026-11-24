@@ -3704,7 +3704,7 @@ esthesioblast
 embryotega
 eweries
 embryotome
-exhalatory
+exhalatory 1
 eeten
 endecha
 ephemerons
