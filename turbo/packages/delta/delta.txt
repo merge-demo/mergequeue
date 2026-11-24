@@ -5980,7 +5980,7 @@ dayfly
 durezza
 dropped
 depsides
-dilettantist
+dilettantist 1
 disseminator
 discommoded
 diaschistic
