@@ -9097,7 +9097,7 @@ anadicrotic
 alphyl
 amidoacetal
 anaeroplastic
-allround
+allround 1
 adolesce
 artabe
 appeasive
