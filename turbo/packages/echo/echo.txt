@@ -12522,7 +12522,7 @@ eucosia
 exmeridian
 endorphin
 exoascaceous
-exoascales
+exoascales 1
 enkindled
 exobasidiaceae
 ebionize
