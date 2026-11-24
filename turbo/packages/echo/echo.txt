@@ -12124,7 +12124,7 @@ eloper
 ebonite 1
 ensorcerize
 eyelike
-epural
+epural 1
 excursionist
 excurvated
 emaciate
