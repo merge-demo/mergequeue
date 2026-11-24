@@ -7442,7 +7442,7 @@ chitting
 ceratiasis
 ceratiid
 ceratins
-ceratioid
+ceratioid 1
 capsuligerous
 curarized
 ceratitis
