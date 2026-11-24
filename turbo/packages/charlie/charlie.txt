@@ -4277,7 +4277,7 @@ caretaker
 caretakers
 chastisers
 chondrosteous
-caretook
+caretook 1
 comfiest
 caretta
 careworn
