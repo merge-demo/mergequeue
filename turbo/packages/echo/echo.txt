@@ -4597,7 +4597,7 @@ echevin
 exeunt
 elucubrate
 excellent
-exarchs
+exarchs 1
 egotists
 enchyma
 estheticism
