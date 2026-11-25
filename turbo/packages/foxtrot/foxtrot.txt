@@ -653,7 +653,7 @@ fanum
 fauster
 frowstier
 flyways
-fulgurite
+fulgurite 1
 falsity
 faltboat
 flugelmen
