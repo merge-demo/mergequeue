@@ -4295,7 +4295,7 @@ goboes
 glabellum
 gynandrian
 gynecratic
-gelidness
+gelidness 1
 gorgonia
 gyneolater
 grasseye
