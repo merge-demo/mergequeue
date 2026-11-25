@@ -6844,7 +6844,7 @@ diazoamine
 desmodontidae
 delignate
 danuri
-deter
+deter 1
 decennia
 desmography 1
 desmoids
