@@ -12596,7 +12596,7 @@ bonnnes
 bionomist
 bonorum
 bisector
-balaamite
+balaamite 1
 bagatelle
 basalt
 bills
