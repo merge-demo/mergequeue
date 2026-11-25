@@ -4934,7 +4934,7 @@ alomancy
 anticommercialness
 aerograph
 aristogenic
-acrostical
+acrostical 1
 antimechanism
 alluvia
 acculturized
