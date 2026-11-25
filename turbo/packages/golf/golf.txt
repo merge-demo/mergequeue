@@ -510,7 +510,7 @@ graff
 galivants
 geneticism
 gleamiest
-glissandos
+glissandos 1
 growthful
 guruship
 grooty
