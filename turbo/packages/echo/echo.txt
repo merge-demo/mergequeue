@@ -724,7 +724,7 @@ enneaspermous
 enabler
 economise
 eschaunge
-ensnare
+ensnare 1
 extremital
 eidolism
 eben
