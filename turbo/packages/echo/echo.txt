@@ -12400,7 +12400,7 @@ endite
 easting
 epifaunas
 exhortations
-elatery
+elatery 1
 eisegeses
 entomostracan
 exhortingly
