@@ -8421,7 +8421,7 @@ egyptianize
 equip
 ephymnium
 enjoyment
-eglogue
+eglogue 1
 ethicosocial
 equitemporal
 epizootology

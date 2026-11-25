@@ -25256,7 +25256,7 @@ cephaldemae
 corium
 chirurgic
 contradistinctively
-canonicate
+canonicate 1
 coryza
 cork
 corkage
