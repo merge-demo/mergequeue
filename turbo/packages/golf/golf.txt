@@ -9883,7 +9883,7 @@ gustless
 guanin
 gagate
 ghoom
-guanize
+guanize 1
 gamasid
 glyoxyl
 graticulation
