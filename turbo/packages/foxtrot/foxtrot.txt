@@ -2873,7 +2873,7 @@ fogies
 frabjously
 frondage
 formats
-foaled
+foaled 1
 flowstone
 farcin
 freighted
