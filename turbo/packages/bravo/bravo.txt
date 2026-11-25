@@ -13724,7 +13724,7 @@ backus
 balneatory
 balsawood
 boutefeu
-bouteria
+bouteria 1
 buns
 boutylka
 boutique
