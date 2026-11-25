@@ -6335,7 +6335,7 @@ enshawl
 espace
 eaglelike
 ensheathe
-excitomotion
+excitomotion 1
 eburna
 ensheathing
 eruditely
