@@ -1024,7 +1024,7 @@ geodist
 gothicize
 grasp
 gravelled
-golp
+golp 1
 glanced
 greenuk
 glycohaemia
