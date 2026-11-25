@@ -13700,7 +13700,7 @@ eupractic
 ecumenicity
 externalized
 exothecium
-externalizes
+externalizes 1
 earbash
 exocardial
 egbert
