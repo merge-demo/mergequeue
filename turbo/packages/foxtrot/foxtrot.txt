@@ -192,7 +192,7 @@ flimsies
 finitary
 fortunel
 factoryship
-floatiness
+floatiness 1
 fusinite
 flashily
 feuar
