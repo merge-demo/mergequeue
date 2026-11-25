@@ -7153,7 +7153,7 @@ gorebill
 gordioid
 gearboxes
 gored
-gores
+gores 1
 guango
 gingerbready 1
 giggler
