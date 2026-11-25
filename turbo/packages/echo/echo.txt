@@ -13930,7 +13930,7 @@ exorcized
 errordump
 euphenic
 euphoniousness
-emigrative
+emigrative 1
 encapsulates
 erective
 endomysial
