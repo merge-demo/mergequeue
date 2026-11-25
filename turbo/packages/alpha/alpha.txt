@@ -19998,7 +19998,7 @@ apertured
 aals
 amasta
 armure
-armures
+armures 1
 arn
 antirachitic
 arf
