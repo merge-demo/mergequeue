@@ -7857,7 +7857,7 @@ endopsychic
 electrion
 emancipating
 epigrammatic
-electrifiable
+electrifiable 1
 epigrammatically
 epigamic
 ephod
