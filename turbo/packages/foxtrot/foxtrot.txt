@@ -9942,7 +9942,7 @@ floridness
 friedrichsdor
 flutterless
 fakeers
-feelingness
+feelingness 1
 flairs
 floatingly
 fishworks
