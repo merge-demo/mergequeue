@@ -13960,7 +13960,7 @@ extraparliamentary
 ectotrophic
 expressless
 epimer
-eozoonal
+eozoonal 1
 endokaryogamy
 enface
 electropoion
