@@ -4326,7 +4326,7 @@ galeopsis
 gingered
 goniostat
 glendover
-garrulity
+garrulity 1
 gingerline
 graphemes
 glomerular
