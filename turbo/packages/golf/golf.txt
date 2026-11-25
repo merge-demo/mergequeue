@@ -561,7 +561,7 @@ gableended
 gallowglass
 gravamem
 gadinine
-glucosazone
+glucosazone 1
 gallian
 gitoxigenin
 gluneamie
