@@ -7154,7 +7154,7 @@ depictor
 deambulate
 desulfurs
 diothelism
-disheartener
+disheartener 1
 daphnetin
 desulphur
 desulphurate
