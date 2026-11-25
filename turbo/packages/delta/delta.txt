@@ -13211,7 +13211,7 @@ deportable
 deuterofibrinose
 dinnerless
 distempered
-dyspneas
+dyspneas 1
 ducat
 determinator
 draftman
