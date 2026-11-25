@@ -909,7 +909,7 @@ antient
 antiscia
 absolent
 aliases
-appenzell
+appenzell 1
 aircrafts
 alibiing
 absolutest
