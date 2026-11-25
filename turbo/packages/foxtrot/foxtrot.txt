@@ -11170,7 +11170,7 @@ fremdness
 flyblowing
 fungian
 food
-felspar
+felspar 1
 fadeout
 fideists
 farmer
