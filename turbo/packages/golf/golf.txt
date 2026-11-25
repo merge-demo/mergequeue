@@ -1381,7 +1381,7 @@ gamily
 governs
 ganodonta
 garnison
-greetingless
+greetingless 1
 garniture
 glycosemia
 germanize
