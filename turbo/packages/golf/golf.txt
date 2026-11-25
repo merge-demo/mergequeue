@@ -2517,7 +2517,7 @@ generalise
 gonocoel
 gynandrous
 graciously
-glorifying
+glorifying 1
 geotactically
 gallfly
 gael
