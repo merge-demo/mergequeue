@@ -3223,7 +3223,7 @@ bangash
 butchery
 basidigital
 bouteselle
-bangwaketsi
+bangwaketsi 1
 barotactic
 breadth
 ballerinas
