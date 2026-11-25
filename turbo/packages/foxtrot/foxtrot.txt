@@ -5899,7 +5899,7 @@ fisherfolk
 faultfinding
 fdname
 fruitfulness
-flockings
+flockings 1
 fulsamic
 folgerite
 fencepost
