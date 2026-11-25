@@ -5037,7 +5037,7 @@ gastrohypertonic
 grizzlers
 gisarmes
 gassy
-galvanomagnetic
+galvanomagnetic 1
 gapped
 glandulousness
 garnish
