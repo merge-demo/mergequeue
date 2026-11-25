@@ -10313,7 +10313,7 @@ fraenula
 floodlighted
 fluoridized
 fortiori
-flexible
+flexible 1
 frondless
 feezing
 federalese
