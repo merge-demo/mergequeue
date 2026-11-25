@@ -2465,7 +2465,7 @@ geodynamic 1
 glandules
 goading
 gingivoglossitis
-grewia
+grewia 1
 guttersnipes
 gibbetwise 1
 gearcase
