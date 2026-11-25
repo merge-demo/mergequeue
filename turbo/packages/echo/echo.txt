@@ -10930,7 +10930,7 @@ eupittonic
 euplexoptera
 err
 emotiometabolic
-excess
+excess 1
 equability
 eggbeater
 epipelagic 1
