@@ -19414,7 +19414,7 @@ argentan 1
 axisymmetry
 aerobacter
 anacrisis
-arsacid
+arsacid 1
 albespine
 avouchment
 assortedness
