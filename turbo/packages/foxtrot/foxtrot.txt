@@ -6424,7 +6424,7 @@ flaggier
 foliates
 ferriprussic
 fireflower
-freshish
+freshish 1
 farmed
 facsimileing
 foppish
