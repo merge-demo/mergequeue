@@ -6773,7 +6773,7 @@ gnawn
 graybeards
 ganev
 garvanzo
-gadinic
+gadinic 1
 gastronomics
 ganocephala
 gonionia
