@@ -3066,7 +3066,7 @@ dowdiest
 defacement
 disgustfully
 disquietingly
-deadliness
+deadliness 1
 downbent
 doohickus
 dentaria
