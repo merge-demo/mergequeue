@@ -1139,7 +1139,7 @@ granddam
 gypsologist 1
 galeidae
 gander
-gravamens
+gravamens 1
 guava
 goners
 gantelope
