@@ -10845,7 +10845,7 @@ flambeaux
 fumose
 fulfillment
 flus
-flavorous
+flavorous 1
 ferule
 fulfillments
 fennici
