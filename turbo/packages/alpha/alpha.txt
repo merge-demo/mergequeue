@@ -19274,7 +19274,7 @@ arecas
 allision
 atmolyzer
 automatonta
-agitatedly
+agitatedly 1
 acidulousness
 arecoline
 ared
