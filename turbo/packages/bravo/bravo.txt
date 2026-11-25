@@ -6388,7 +6388,7 @@ benzophenothiazine
 benzophloroglucinol
 bestayed
 betting
-bewake
+bewake 1
 benzophthalazine
 boarcite
 breakup
