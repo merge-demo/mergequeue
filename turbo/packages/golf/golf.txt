@@ -7957,7 +7957,7 @@ got
 galleons
 gingiva
 glycerol
-germinability
+germinability 1
 glaziery
 goodyish
 gymnurinae
