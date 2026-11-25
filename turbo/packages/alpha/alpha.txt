@@ -24579,7 +24579,7 @@ anachorism
 auxotonic
 annihilator
 auxotox
-auxotroph
+auxotroph 1
 aul
 auxotrophy
 absinthiate
