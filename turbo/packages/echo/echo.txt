@@ -8420,7 +8420,7 @@ evisceration
 egyptianize
 equip
 ephymnium
-enjoyment
+enjoyment 1
 eglogue
 ethicosocial
 equitemporal
