@@ -3333,7 +3333,7 @@ executions
 euphroe
 equiangular
 emphemeralness 1
-expensefully
+expensefully 1
 ecdyses
 enthused
 entitative
