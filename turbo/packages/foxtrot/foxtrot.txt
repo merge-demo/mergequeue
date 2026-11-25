@@ -10540,7 +10540,7 @@ forehanded
 falltime
 forcipiform
 frowze
-franking
+franking 1
 fluky
 furnaces
 fossilised
