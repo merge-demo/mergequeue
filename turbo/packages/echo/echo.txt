@@ -1705,7 +1705,7 @@ enunciatory 1
 enqueues
 enamel
 elephanta
-electrolyses
+electrolyses 1
 earpieces
 echolocate
 enterosyphilis
