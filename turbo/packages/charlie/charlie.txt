@@ -3835,7 +3835,7 @@ carbomethoxyl
 carbon
 carbonaceous
 cuter
-cleavability
+cleavability 1
 ceratite
 carbonarist
 carbonating
