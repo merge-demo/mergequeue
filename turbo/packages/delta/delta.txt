@@ -10818,7 +10818,7 @@ diletant
 dashwheel
 diadematoida
 digit
-dynameter
+dynameter 1
 darkest
 distant
 doketism
