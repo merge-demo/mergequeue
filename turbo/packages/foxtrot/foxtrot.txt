@@ -4708,7 +4708,7 @@ fairyish
 forsake
 fjord
 fizziest
-fringetail
+fringetail 1
 friand
 fluidram
 formula
