@@ -10572,7 +10572,7 @@ diploidic
 dallied
 dunderbolt
 dominus
-diploidize
+diploidize 1
 diag
 doorman
 diploma
