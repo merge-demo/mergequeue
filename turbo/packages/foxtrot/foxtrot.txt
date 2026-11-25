@@ -8934,7 +8934,7 @@ floit
 flywort
 fiacre
 footle
-feldspath
+feldspath 1
 feverwort
 filament
 favositoid
