@@ -1329,7 +1329,7 @@ gra 1
 ganoine
 goanese
 guslee
-garishly
+garishly 1
 galligaskins
 glycosine
 growingupness
