@@ -1924,7 +1924,7 @@ debriefings
 debris
 debrominate
 diandrian
-disapprobations
+disapprobations 1
 dacryd
 dinophilus
 deferments
