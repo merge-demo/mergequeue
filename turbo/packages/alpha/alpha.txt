@@ -23672,7 +23672,7 @@ aurichloride
 auricyanhydric
 anapaests
 alumroots
-allotropicity
+allotropicity 1
 antiexpressively
 alms
 aerosolized
