@@ -10327,7 +10327,7 @@ electroplaque
 ethnographer
 equinox
 elephantine
-enquired
+enquired 1
 explain
 etwite
 electrometallurgical
