@@ -12066,7 +12066,7 @@ chowanoc
 chowchows
 clockwork
 chowhound
-coapprehend
+coapprehend 1
 consume
 cered
 cledonism
