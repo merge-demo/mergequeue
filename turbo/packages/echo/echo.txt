@@ -2650,7 +2650,7 @@ electrosteel
 epispadiac
 ectocornea
 expansum
-enthymematic
+enthymematic 1
 evil
 exciples
 embiidina
