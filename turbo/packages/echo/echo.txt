@@ -1275,7 +1275,7 @@ epichlorohydrin
 extraditable
 ecorche
 eblis
-eucairite
+eucairite 1
 eleonorite
 epinephrin
 epigramme
