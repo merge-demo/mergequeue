@@ -7013,7 +7013,7 @@ goons
 gamostely
 gavel
 gummer
-goofily
+goofily 1
 goops
 gamelote
 gladioli
