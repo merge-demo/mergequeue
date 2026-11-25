@@ -5131,7 +5131,7 @@ gnatflower
 gaumed
 grumbly
 garance
-glomera
+glomera 1
 goblinesque
 gutturine
 gentlehearted 1
