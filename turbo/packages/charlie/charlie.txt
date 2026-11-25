@@ -18978,7 +18978,7 @@ clumped
 collators
 catenulate
 coenobitic
-ciseleur
+ciseleur 1
 culbut
 collect
 collected
