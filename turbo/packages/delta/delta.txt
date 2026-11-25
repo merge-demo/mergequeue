@@ -4160,7 +4160,7 @@ deoppilation
 durneder
 dunstable
 discolorization
-dishumour
+dishumour 1
 dicyanogen
 diadokokinesis
 duodena
