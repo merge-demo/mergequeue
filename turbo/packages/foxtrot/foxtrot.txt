@@ -10175,7 +10175,7 @@ furdel
 famines
 fending
 foggages
-faros
+faros 1
 flaskful
 frog
 frutilla
