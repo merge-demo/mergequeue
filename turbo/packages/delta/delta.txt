@@ -10971,7 +10971,7 @@ divinations
 disagreing
 dethronable
 dredges
-dioptroscopy
+dioptroscopy 1
 demonlike
 disseizure
 dayblush
