@@ -8679,7 +8679,7 @@ diastalsis
 diglossia
 dimer
 disgustedness
-dryads
+dryads 1
 debunkment
 dialectology
 diastasimetry
