@@ -6490,7 +6490,7 @@ disencumberment
 dispossesses
 dialyze
 desmarestiaceae
-descendable
+descendable 1
 dimensioned
 dipeptid
 dentellated
