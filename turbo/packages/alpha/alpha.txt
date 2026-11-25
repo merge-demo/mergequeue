@@ -3896,7 +3896,7 @@ antireductive
 anastatica
 anteverts
 autoactivation
-adjectives
+adjectives 1
 acetine
 anagogy
 agyiomania
