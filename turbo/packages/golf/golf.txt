@@ -6783,7 +6783,7 @@ gamelang
 ganam
 gamgee
 gratias
-gobbe
+gobbe 1
 glossospasm
 gaffsail 1
 galiot
