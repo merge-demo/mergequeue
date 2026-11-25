@@ -11894,7 +11894,7 @@ eyr
 eugranitic
 enhypostatic
 entrepreneurship
-epiphytes
+epiphytes 1
 emissivity 1
 emends
 eightfoil
