@@ -11070,7 +11070,7 @@ fogbow
 froppish
 fructed
 fezzy
-frowner
+frowner 1
 frameae
 forerunnership
 fellsman
