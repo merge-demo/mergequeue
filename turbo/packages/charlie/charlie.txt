@@ -13524,7 +13524,7 @@ cafe
 colament
 cymaise
 cort
-calorisator
+calorisator 1
 cathartically
 cymaphyte
 cymaphytic
