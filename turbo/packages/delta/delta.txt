@@ -17644,7 +17644,7 @@ dromornis
 dtd
 dielectrical
 dyspneic 1
-dilatate
+dilatate 1
 dicranterian
 discourteously
 dtente
