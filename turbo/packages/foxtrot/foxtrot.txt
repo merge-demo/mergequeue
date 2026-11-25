@@ -10977,7 +10977,7 @@ fink
 fumaroidal
 forerunning
 faipule
-foreadapt
+foreadapt 1
 forthright
 focaloid
 filly
