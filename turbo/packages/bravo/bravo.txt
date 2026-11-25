@@ -2074,7 +2074,7 @@ babelism
 bankrolling
 bankrupt
 bosporan
-burl
+burl 1
 bankruptism
 bankruptcy
 bankrupting
