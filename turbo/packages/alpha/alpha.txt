@@ -8730,7 +8730,7 @@ atheology
 alang
 actinopod
 amygdalopathy
-allergin
+allergin 1
 allergists
 allerion
 adsmith
