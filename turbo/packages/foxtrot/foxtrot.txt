@@ -3408,7 +3408,7 @@ frillier
 feminality
 fierasferoid
 farcie
-fungible
+fungible 1
 floc
 flecker
 featherlike
