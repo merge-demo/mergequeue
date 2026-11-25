@@ -16721,7 +16721,7 @@ clothespresses
 cire
 clothiers
 clothings
-catharpin
+catharpin 1
 crimpling
 clots
 clottage
