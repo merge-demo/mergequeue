@@ -9187,7 +9187,7 @@ fragileness
 forenames
 forbarred
 foreknown
-fontlet
+fontlet 1
 fucus
 fumously
 firebugs
