@@ -11137,7 +11137,7 @@ exophagous
 epaulet
 entity
 eadi 1
-evacuated
+evacuated 1
 endeavored
 elephantic
 evulse
