@@ -2970,7 +2970,7 @@ geoids
 gloriole
 gastrostomy
 gendered
-galatine
+galatine 1
 ghetti
 gondite
 gavialis
