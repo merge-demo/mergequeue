@@ -13549,7 +13549,7 @@ exsectile
 experimentor
 exuviae
 emmarbling
-epexegetic
+epexegetic 1
 ethenes
 engl
 esociform
