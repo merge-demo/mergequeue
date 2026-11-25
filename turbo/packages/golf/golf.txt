@@ -9633,7 +9633,7 @@ gracileness
 goosewinged
 genson
 grozart
-gaeltacht
+gaeltacht 1
 granulomata
 grubbery
 grintern
