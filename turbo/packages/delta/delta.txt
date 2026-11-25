@@ -10913,7 +10913,7 @@ disacquaint
 dayglows
 datolite
 diallist
-deuterocone
+deuterocone 1
 dispenses
 doublethinking
 dorsoradial
