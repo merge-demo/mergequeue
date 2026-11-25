@@ -11432,7 +11432,7 @@ elucidation
 emasculated
 engraving
 extinctive
-expurgated
+expurgated 1
 eponyms
 evocated
 ectonephridium
