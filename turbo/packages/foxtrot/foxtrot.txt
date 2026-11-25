@@ -11270,7 +11270,7 @@ furacious
 fireplaces
 flabel
 file
-farces
+farces 1
 floccilation
 frabjous
 fallaciously
