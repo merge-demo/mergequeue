@@ -16999,7 +16999,7 @@ bejewel
 brassworks
 babylonic
 binit
-beatify
+beatify 1
 bulb
 blankard
 blandishers
