@@ -1626,7 +1626,7 @@ env
 entrez
 enterobacterium
 enucleating
-eyah
+eyah 1
 embliss
 equating
 encephalotome
