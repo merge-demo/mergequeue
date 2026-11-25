@@ -4847,7 +4847,7 @@ encranial
 externalize
 expectorator
 electroed
-exportable
+exportable 1
 episcopolatry
 encrinic
 encrinidae
