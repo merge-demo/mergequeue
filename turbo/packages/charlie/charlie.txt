@@ -9902,7 +9902,7 @@ chemosphere
 collateral
 cancers
 chemosurgery
-chemotactic
+chemotactic 1
 cresylene
 choochoo
 chemotaxy
