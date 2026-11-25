@@ -8525,7 +8525,7 @@ dinked
 diapause
 diapauses
 donaries
-decarburize
+decarburize 1
 dodecastylos
 decongesting
 diapedeses
