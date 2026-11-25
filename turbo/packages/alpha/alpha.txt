@@ -19870,7 +19870,7 @@ armies
 abthainry
 armiferous
 agnoetism
-agnoetae
+agnoetae 1
 attributives
 armiger
 aweto
