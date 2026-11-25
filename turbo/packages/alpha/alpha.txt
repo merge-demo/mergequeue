@@ -2517,7 +2517,7 @@ autoserum
 austrasian
 acolhuan
 absciss
-amidate
+amidate 1
 arthropleura
 archdissembler
 autosymbiontic
