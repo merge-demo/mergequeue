@@ -1326,7 +1326,7 @@ balanta
 bescorn
 bisymmetry
 bottine
-balantidic
+balantidic 1
 balaos
 baroquely
 belar
