@@ -11773,7 +11773,7 @@ eversive
 epimerise
 extrospective
 exorcises 1
-exister
+exister 1
 electoral
 elusion
 ensignship
