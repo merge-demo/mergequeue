@@ -2217,7 +2217,7 @@ fixe 1
 funking
 fogged
 feminal
-fruiting
+fruiting 1
 fragrancy
 fmt
 feminility
