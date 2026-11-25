@@ -11686,7 +11686,7 @@ allegory
 aucanian
 antineutral
 aryepiglottidean
-apocatastatic
+apocatastatic 1
 anticarnivorous
 acoria
 argyrodite
