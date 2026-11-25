@@ -2442,7 +2442,7 @@ dendritiform
 darghin
 denizenize
 disimprisonment
-dissipable
+dissipable 1
 dietetist
 designs
 decyne
