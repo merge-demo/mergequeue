@@ -5921,7 +5921,7 @@ gilgames
 glebe
 gewgawish
 grogshops
-goofs
+goofs 1
 gambirs
 glamourizer
 goclenian
