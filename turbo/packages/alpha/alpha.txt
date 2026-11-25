@@ -2806,7 +2806,7 @@ acroleins
 acrolithan
 acheirous
 ametabolism
-awork
+awork 1
 antiferromagnetic
 austronesian
 amaxomania
