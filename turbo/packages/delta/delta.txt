@@ -5001,7 +5001,7 @@ distinguish
 derk
 demultiplexer
 deicing
-deurbanize
+deurbanize 1
 dacoited
 demultiplexers
 disroot
