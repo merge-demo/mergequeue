@@ -29371,7 +29371,7 @@ catalogs
 cryptoproselyte
 cadrans
 cryptorchis
-curara
+curara 1
 corebox
 candroy
 cryptorchism
