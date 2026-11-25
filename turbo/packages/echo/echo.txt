@@ -12788,7 +12788,7 @@ equine
 exoterical
 espials
 exotericism
-extenuated
+extenuated 1
 excusefully
 emboldener
 extraretinal
