@@ -4637,7 +4637,7 @@ gawkhammer
 gammarid
 gentility
 gunlocks
-gaudy 1
+gaudy 2
 guerinet
 glossitic
 guttersnipish
