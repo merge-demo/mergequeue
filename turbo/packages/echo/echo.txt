@@ -1810,7 +1810,7 @@ een
 erodium
 effetely
 eroding
-encroached
+encroached 1
 egotheism
 epithalamy
 ergatogyny
