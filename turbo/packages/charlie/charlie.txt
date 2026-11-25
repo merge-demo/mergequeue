@@ -30180,7 +30180,7 @@ chemicoengineering
 cruciferae
 crucify
 crucificial
-crucifies
+crucifies 1
 compressor
 compursion
 cogue
