@@ -2140,7 +2140,7 @@ foddered
 fellatrice
 frigate
 fletch
-faujdar
+faujdar 1
 fuchsite
 fosterling
 flagstone
