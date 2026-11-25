@@ -19388,7 +19388,7 @@ ahorseback
 arrayer
 acolytus
 ambrosian
-allergins
+allergins 1
 anaplasma
 allaying
 anoplothere
