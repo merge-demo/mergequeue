@@ -23678,7 +23678,7 @@ alms
 aerosolized
 auriculare
 anticreativeness
-andaste
+andaste 1
 acridin
 afterbreach
 acarpous
