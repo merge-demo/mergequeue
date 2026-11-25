@@ -7178,7 +7178,7 @@ endplate
 enneasyllabic
 epoxying
 etheostoma
-equalizer
+equalizer 1
 enwove
 embira
 ephebi
