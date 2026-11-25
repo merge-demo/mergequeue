@@ -7825,7 +7825,7 @@ decapitate
 dutchify
 delthyria
 drayed
-delates
+delates 1
 dissertationist
 dinoceras
 dogsleds
