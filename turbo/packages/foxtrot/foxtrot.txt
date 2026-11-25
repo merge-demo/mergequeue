@@ -8250,7 +8250,7 @@ feltwork
 facily
 frateries
 freud
-forgetfulness
+forgetfulness 1
 forgett
 feldspars
 foreboding
