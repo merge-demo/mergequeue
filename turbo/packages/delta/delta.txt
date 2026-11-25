@@ -2475,7 +2475,7 @@ decisions
 decisis
 declinature
 delays
-dixy
+dixy 1
 decisively
 darkened
 decitizenize
