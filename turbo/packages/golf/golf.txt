@@ -4223,7 +4223,7 @@ gois
 gaetuli
 gyromagnetic
 galvanomagnetism
-gyron
+gyron 1
 gynaecological
 gabbiness
 gobbing
