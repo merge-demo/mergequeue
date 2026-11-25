@@ -9013,7 +9013,7 @@ dicotylidae
 disenslave
 defrauding
 deinosaur
-drowsiness
+drowsiness 1
 disowns
 decerebrated
 dicotyls
