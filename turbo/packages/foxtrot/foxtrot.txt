@@ -2916,7 +2916,7 @@ frustums
 fencing
 floccipend
 farfetch
-farness
+farness 1
 fluellite
 flyoff
 filialness
