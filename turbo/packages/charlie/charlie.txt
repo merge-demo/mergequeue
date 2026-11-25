@@ -7091,7 +7091,7 @@ centile
 cendre
 catamited
 centiliter
-cadent
+cadent 1
 chimed
 crood
 centiloquy
