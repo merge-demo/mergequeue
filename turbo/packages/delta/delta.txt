@@ -6620,7 +6620,7 @@ doyley
 dermatrophy
 dicarboxylate
 demembration
-diallelus
+diallelus 1
 deperming
 dreamwhile
 desert
