@@ -10194,7 +10194,7 @@ despise
 deemed
 dinkier
 dinkiest
-departments
+departments 1
 dinking
 defatting
 dinkum
