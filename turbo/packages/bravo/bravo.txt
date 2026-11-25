@@ -2294,7 +2294,7 @@ brier
 bianco
 bysen
 broadbrim
-bide
+bide 1
 bathochromy
 bellman
 brownly
