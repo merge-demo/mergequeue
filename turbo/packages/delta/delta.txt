@@ -1727,7 +1727,7 @@ defensibility
 deaspiration
 degree
 dihely
-daredevilry
+daredevilry 1
 drouthy
 dyad
 dishwiping
