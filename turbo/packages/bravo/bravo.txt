@@ -6215,7 +6215,7 @@ berley
 bypass
 beakful
 benne 1
-bennes
+bennes 1
 beveling
 bungalow
 bennets
