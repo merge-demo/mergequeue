@@ -3108,7 +3108,7 @@ glucina
 geopotential
 gelosin
 grassplot
-georgemas
+georgemas 1
 gurgles
 georgics
 glycosyl 1
