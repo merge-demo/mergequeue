@@ -19792,7 +19792,7 @@ aplombs
 amsonia
 achroanthes
 aminotransferase
-abrogated
+abrogated 1
 ambystoma
 areality
 armadas
