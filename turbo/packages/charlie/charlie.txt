@@ -25034,7 +25034,7 @@ configured
 cordobas
 cordon
 cordonazos
-caponiers
+caponiers 1
 consarn
 chlorargyrite
 circumstantiates
