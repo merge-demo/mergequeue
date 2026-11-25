@@ -1129,7 +1129,7 @@ fusileer
 frizzling
 farthing
 foresay
-fluffing
+fluffing 1
 feverishness
 fractional
 frothi
