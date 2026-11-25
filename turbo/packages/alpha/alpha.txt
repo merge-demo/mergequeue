@@ -7694,7 +7694,7 @@ appetition 1
 azan
 anaudia
 appendicocaecostomy
-autoprothesis
+autoprothesis 1
 asterin
 alcoholysis
 albatrosses
