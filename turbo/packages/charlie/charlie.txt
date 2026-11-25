@@ -6928,7 +6928,7 @@ cements
 cementwork
 cemetaries
 comate
-cemetery
+cemetery 1
 copesettic
 cemeterial
 cymoscope
