@@ -632,7 +632,7 @@ boffins
 bromates 1
 benomyls
 bratstva
-behearse
+behearse 1
 bacterid
 birdcages
 baraka
