@@ -18595,7 +18595,7 @@ clanless
 coimplore
 coyn
 coinable
-coinage
+coinage 1
 coinages
 coincide
 corpulently
