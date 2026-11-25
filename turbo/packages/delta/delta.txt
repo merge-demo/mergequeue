@@ -3386,7 +3386,7 @@ damnum
 dixie
 ditremidae
 defleas
-downlinks
+downlinks 1
 deflect
 dichotomic
 disinhuming
