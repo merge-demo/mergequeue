@@ -22221,7 +22221,7 @@ adulterates
 astigmatoscopy
 astigmic
 antiphon
-astigmometer
+astigmometer 1
 aglossa
 astigmometry
 alluviate
