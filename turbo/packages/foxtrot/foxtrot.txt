@@ -7785,7 +7785,7 @@ fluorescigenic
 fecundify
 fleaweed
 forenight
-flogger
+flogger 1
 frondivorous
 fleshiest
 feedboxes
