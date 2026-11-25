@@ -1342,7 +1342,7 @@ geoside
 glomerulus
 galloner
 garnisheement
-glorifier
+glorifier 1
 gonochoristic
 gervao
 gitalin
