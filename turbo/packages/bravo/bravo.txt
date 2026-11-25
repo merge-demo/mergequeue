@@ -14930,7 +14930,7 @@ beknotting
 bullhead
 butterflylike
 breastbeam
-bimaculate
+bimaculate 1
 burut
 bitthead
 breaster
