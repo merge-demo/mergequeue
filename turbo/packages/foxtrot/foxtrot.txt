@@ -5428,7 +5428,7 @@ frisado
 factorial
 floatless
 flirtigig
-foisonless
+foisonless 1
 fabian
 feasten
 forefigure
