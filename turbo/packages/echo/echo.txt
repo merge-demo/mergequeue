@@ -12711,7 +12711,7 @@ episodic
 emulatively
 epilogism
 explorativeness 1
-empurpled
+empurpled 1
 ethers
 emmenagogic
 enterococcal
