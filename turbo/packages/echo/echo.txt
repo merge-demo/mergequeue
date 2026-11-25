@@ -5512,7 +5512,7 @@ evertors
 extraocular
 exoterics
 espiritual
-enfeebles
+enfeebles 1
 eulogistical
 extirpatory
 enfeebling
