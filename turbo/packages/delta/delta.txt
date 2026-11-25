@@ -9926,7 +9926,7 @@ dogmata
 diminisher
 dezinc
 diminishingly
-diminishment
+diminishment 1
 dulcet
 dehorned
 dette
