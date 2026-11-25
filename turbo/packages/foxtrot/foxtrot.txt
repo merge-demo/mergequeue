@@ -1872,7 +1872,7 @@ forrue
 farthermore
 fruiterers 1
 federacies
-febriphobia
+febriphobia 1
 flemishing
 fringefoot
 fielden
