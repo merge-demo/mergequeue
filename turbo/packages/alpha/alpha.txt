@@ -13104,7 +13104,7 @@ antipoles
 authenticity
 affronty
 arsonous
-antagonisable
+antagonisable 1
 acidimetry
 aniconic
 aniconism
