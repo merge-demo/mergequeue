@@ -9639,7 +9639,7 @@ fiscalized
 fulcrumage
 flabrum
 firmarius
-freewheelingness
+freewheelingness 1
 forfoughen
 facsimiles
 fluoborate 1
