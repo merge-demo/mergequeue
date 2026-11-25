@@ -16731,7 +16731,7 @@ carts
 consonantalized
 clotty
 clotting
-characterful
+characterful 1
 cloture
 clotured
 clotures
