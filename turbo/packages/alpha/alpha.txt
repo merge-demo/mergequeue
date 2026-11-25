@@ -12268,7 +12268,7 @@ almach
 anchorite
 arraignable
 amylopsin
-archinfamy
+archinfamy 1
 arbalests
 acetoveratrone
 alignment
