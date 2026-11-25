@@ -377,7 +377,7 @@ gasogenic 1
 gorefish
 gangrenous
 goniometrical
-guyer
+guyer 1
 galactosis
 grimsire
 gauric
