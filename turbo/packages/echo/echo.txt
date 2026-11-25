@@ -698,7 +698,7 @@ escheve
 ecol
 ethnogeny
 enchronicle
-endomictic
+endomictic 1
 exclusivist
 earthsets
 electrotrephine
