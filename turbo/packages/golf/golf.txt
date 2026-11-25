@@ -854,7 +854,7 @@ gamdeboo
 girtline
 gliadin
 gonolobus
-gyratory
+gyratory 1
 gloriousness
 greeing
 gastromyxorrhea
