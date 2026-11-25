@@ -17207,7 +17207,7 @@ decursive
 dovecote
 depletory
 drive
-diastrophism
+diastrophism 1
 direst
 deermeat
 decumbence
