@@ -5862,7 +5862,7 @@ flabby
 fastigia
 fdtype
 fowlers
-flocced
+flocced 1
 frustulose
 footsoldier
 filariae
