@@ -6644,7 +6644,7 @@ forevouched
 foehnlike
 faulted
 fumbling
-fulgurating
+fulgurating 1
 forenotice
 foemanship
 fripperer
