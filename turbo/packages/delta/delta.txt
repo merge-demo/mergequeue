@@ -2243,7 +2243,7 @@ deradelphus
 dishelm
 dedan
 deceitfulness
-debase
+debase 1
 dinoflagellatae
 drummed
 diploses
