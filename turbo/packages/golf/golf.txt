@@ -2795,7 +2795,7 @@ guardianess
 gait
 gentlemanlikeness 1
 gossan
-gybing
+gybing 1
 geode
 grenadines
 gallinule
