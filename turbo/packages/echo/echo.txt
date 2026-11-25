@@ -1059,7 +1059,7 @@ exsheath
 edged
 eidolon
 edger
-edgeway
+edgeway 1
 epigaster
 embalmment
 ephrathite
