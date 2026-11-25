@@ -5715,7 +5715,7 @@ glaciometer
 gesundheit
 glossies
 glaucomys
-glossiest
+glossiest 1
 gybed
 glossinas 1
 gertrude
