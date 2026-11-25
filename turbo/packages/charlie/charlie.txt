@@ -9487,7 +9487,7 @@ centrolepidaceous
 checkerbellies
 caffiso
 checkerberry
-checkerberries
+checkerberries 1
 chorological
 checkerbloom
 calyciform

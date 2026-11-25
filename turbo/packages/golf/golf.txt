@@ -2840,7 +2840,7 @@ gratifier
 griding
 glanduliform
 glossiphonidae
-gustfulness
+gustfulness 1
 geol
 guilefulness
 ganglionic
