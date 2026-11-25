@@ -7342,7 +7342,7 @@ cephalodiscida
 cephalodiscus
 cephalodium
 cephalogram
-cephaloid
+cephaloid 1
 culminates
 counteravouch
 cuticles
