@@ -9716,7 +9716,7 @@ diffracts
 days
 dilatedness
 dreamtide
-defiantness
+defiantness 1
 disrespectful
 demultiplexes
 dab
