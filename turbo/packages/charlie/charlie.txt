@@ -13945,7 +13945,7 @@ commemoratory
 cinquefoil
 corporature
 cinquefoiled
-cinquefoils
+cinquefoils 1
 cacographer
 cinquepace
 cinter
