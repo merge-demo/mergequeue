@@ -7792,7 +7792,7 @@ dosimetries
 dryrot
 diplospondyli
 dagestan
-depeople
+depeople 1
 devolatilizing
 deem
 devolutionist
