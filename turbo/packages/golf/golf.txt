@@ -6677,7 +6677,7 @@ gunsman
 glitters
 garmentless
 giantism
-gastroscopies
+gastroscopies 1
 glooms
 gallflies 1
 golach
