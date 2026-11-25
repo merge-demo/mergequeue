@@ -2984,7 +2984,7 @@ eliminated
 ectopia
 elymus
 ergotamine
-epitomes
+epitomes 1
 enallage
 enfield
 eleatic
