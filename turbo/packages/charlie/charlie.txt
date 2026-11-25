@@ -25332,7 +25332,7 @@ corncrake
 crustiest
 corncrib
 crisply
-centripetal
+centripetal 1
 condylion
 corncribs
 corncrusher
