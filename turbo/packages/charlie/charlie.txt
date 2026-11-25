@@ -25301,7 +25301,7 @@ challa
 corn
 cornaceae
 chaetophorous
-chronometer
+chronometer 1
 cochin
 cornada
 cornballs
