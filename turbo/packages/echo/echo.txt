@@ -2486,7 +2486,7 @@ electroing
 eluviate
 entrefer
 elaeometer
-ecosphere
+ecosphere 1
 epicanthic
 exterminative
 electrokinetics
