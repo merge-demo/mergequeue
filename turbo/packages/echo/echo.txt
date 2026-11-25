@@ -12026,7 +12026,7 @@ entackle
 enginehouse
 ervum
 excommunicative
-excommunicator
+excommunicator 1
 expetible
 exauthorate
 extrication
