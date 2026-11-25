@@ -3793,7 +3793,7 @@ ferroconcretor
 fizzer
 fraterniser
 fuci
-flyflap
+flyflap 1
 ferritization
 frizzliest
 fistulate
