@@ -11679,7 +11679,7 @@ estragons
 ecphasis
 edulcorative
 entoplastic
-exaggeratively
+exaggeratively 1
 exagitate
 effluence 1
 electromer
