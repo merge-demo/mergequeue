@@ -1100,7 +1100,7 @@ fudgy
 fastback 1
 flowing
 farrisite
-farfetched
+farfetched 1
 fleerish
 firehalls
 forthcame
