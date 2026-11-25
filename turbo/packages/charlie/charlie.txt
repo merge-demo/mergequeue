@@ -8728,7 +8728,7 @@ colonises
 chapelry
 combflower
 crosspiece
-cinerins
+cinerins 1
 chapels
 chapelward
 chaperno
