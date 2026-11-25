@@ -2526,7 +2526,7 @@ bractea
 borscht
 boccia
 blueblack
-beslash
+beslash 1
 buenos
 bassetite
 bottonhook
