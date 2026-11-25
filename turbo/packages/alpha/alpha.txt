@@ -23656,7 +23656,7 @@ aureoled
 anemograph
 alee
 aureoline
-auresca
+auresca 1
 ao
 aureomycin
 afterlove
