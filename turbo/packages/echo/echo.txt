@@ -590,7 +590,7 @@ elocutionize
 extraperineal
 egomanias
 effable
-estancia
+estancia 1
 emblematize
 echoing
 echoism
