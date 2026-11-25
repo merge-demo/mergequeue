@@ -9950,7 +9950,7 @@ dobsonfly
 diolefine
 droner
 dodged
-diminution
+diminution 1
 deeplier
 didactics
 dramaturgist
