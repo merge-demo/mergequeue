@@ -25450,7 +25450,7 @@ crystallographers
 cornstone
 cajang
 czars
-comdt
+comdt 1
 cornual
 compulsory
 cornuated
