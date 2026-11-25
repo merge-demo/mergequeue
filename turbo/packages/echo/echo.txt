@@ -12200,7 +12200,7 @@ engarb
 episynthetic
 excur
 ensigns
-epiphanizing
+epiphanizing 1
 elevener
 erodable
 edriasteroidea
