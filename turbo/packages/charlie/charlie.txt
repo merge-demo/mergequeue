@@ -21330,7 +21330,7 @@ coterminously
 couponed
 cardiomalacia
 conchae
-carat
+carat 1
 conchal
 cowfishes
 conchate
