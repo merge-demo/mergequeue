@@ -20784,7 +20784,7 @@ civilizedness
 cytode
 complicates
 conspiring
-cultivability
+cultivability 1
 cheapskate
 complicator
 complice
