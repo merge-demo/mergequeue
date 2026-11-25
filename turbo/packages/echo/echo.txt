@@ -7831,7 +7831,7 @@ exoerythrocytic
 epigone
 epithelium 1
 enterocoel
-exarchate
+exarchate 1
 ejaculator
 eddish
 epigoni
