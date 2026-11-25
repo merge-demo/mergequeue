@@ -8258,7 +8258,7 @@ doubletree
 denude
 diagonals
 distancing
-deducting
+deducting 1
 diagonalwise
 denudate
 demonization
