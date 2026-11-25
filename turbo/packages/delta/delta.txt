@@ -8336,7 +8336,7 @@ decurvature 1
 diplois
 dyne
 dejerate
-dargue
+dargue 1
 daemonies
 disruptable
 dioestrum
