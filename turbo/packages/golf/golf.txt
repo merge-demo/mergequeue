@@ -1153,7 +1153,7 @@ goninidia
 gastrogastrotomy
 genin
 genio
-gnawings
+gnawings 1
 geochronologist
 gueparde
 galactometry
