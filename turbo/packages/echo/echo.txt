@@ -3582,7 +3582,7 @@ emulable
 egocentric
 esperantism
 exhibits
-epitomically
+epitomically 1
 embows
 exanimate
 enculturate
