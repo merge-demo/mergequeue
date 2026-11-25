@@ -9384,7 +9384,7 @@ decrete
 durabilities
 decadic
 discontentive
-diffusate
+diffusate 1
 dipnoous
 deploring
 djinni
