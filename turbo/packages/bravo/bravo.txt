@@ -9823,7 +9823,7 @@ barbing
 brands
 bernicle
 begums
-bites
+bites 1
 bebat
 bytes
 bitewing
