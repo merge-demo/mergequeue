@@ -18185,7 +18185,7 @@ cyanopia
 coessentiality
 centerless
 coessentially
-cervulus
+cervulus 1
 coetaneous
 coeternal
 caninity
