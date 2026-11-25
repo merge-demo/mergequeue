@@ -3892,7 +3892,7 @@ bint
 brockage
 bazooka
 blunge
-buckishly
+buckishly 1
 bamboos
 bergfall
 bassly
