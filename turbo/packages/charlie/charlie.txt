@@ -22900,7 +22900,7 @@ conservatorium
 crystograph
 conservators
 conservatorship
-carpings
+carpings 1
 coordinator
 collisive
 conserve
