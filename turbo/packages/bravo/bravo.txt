@@ -3584,7 +3584,7 @@ butchers
 balconet
 bathometry
 blockmaking
-bathool
+bathool 1
 balneary
 bathophobia
 buvette
