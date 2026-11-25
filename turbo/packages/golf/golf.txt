@@ -7373,7 +7373,7 @@ galline
 gomarite
 germanous
 gleamier
-gamotropism
+gamotropism 1
 grumps
 globated
 gramas
