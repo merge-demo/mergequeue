@@ -13714,7 +13714,7 @@ bouser
 bousouki
 bousoukia
 brunswick
-boustrophedon
+boustrophedon 1
 bloomer
 banqueted
 barytocalcite
