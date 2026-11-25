@@ -6143,7 +6143,7 @@ enmeshment
 enrols
 easters
 enmity
-eparchean
+eparchean 1
 entracte
 embattles
 ethicizes
