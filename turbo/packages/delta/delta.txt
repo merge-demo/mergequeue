@@ -18452,7 +18452,7 @@ disulphuret
 degreased
 disodic
 debordment
-damme
+damme 1
 downsman
 dints
 demerge
