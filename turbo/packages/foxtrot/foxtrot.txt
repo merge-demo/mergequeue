@@ -5380,7 +5380,7 @@ floccillation
 ferrocyanide
 faverel
 figged
-fluoridise
+fluoridise 1
 foredetermine
 flunkyistic 1
 forthset
