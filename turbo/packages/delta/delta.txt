@@ -3070,7 +3070,7 @@ deadliness
 downbent
 doohickus
 dentaria
-defacer
+defacer 1
 danes
 dentiscalp
 diaheliotropically

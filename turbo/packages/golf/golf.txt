@@ -10045,7 +10045,7 @@ gargoyles
 gnathonic
 greasing 1
 granitoidal
-geostatics
+geostatics 1
 gisler
 guerdoner
 greatheart
