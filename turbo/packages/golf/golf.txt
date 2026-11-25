@@ -4190,7 +4190,7 @@ gnathopod
 gosmore
 glotum
 greying
-ges
+ges 1
 gristbite
 geod
 gleesome
