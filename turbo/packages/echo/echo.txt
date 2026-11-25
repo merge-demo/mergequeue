@@ -9813,7 +9813,7 @@ emittance
 exergue
 emunctories
 exprobrate
-englyn
+englyn 1
 estampage
 empiric
 evolving
