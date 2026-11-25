@@ -21990,7 +21990,7 @@ configurating
 configuration
 configurationally
 configurations
-configurative
+configurative 1
 configure
 configures
 coxcombry
