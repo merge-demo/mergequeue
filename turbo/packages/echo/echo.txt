@@ -9968,7 +9968,7 @@ esugarization
 endowers
 embosk
 entonement
-entreatment
+entreatment 1
 esurient
 electroform
 ericetal
