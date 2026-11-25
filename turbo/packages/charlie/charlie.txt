@@ -26838,7 +26838,7 @@ counterengine
 counterenthusiasm
 counterentry
 counterequivalent
-counterermine
+counterermine 1
 coninidia
 counterespionage
 contumelies
