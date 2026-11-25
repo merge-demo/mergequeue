@@ -9113,7 +9113,7 @@ enveil
 escrowee
 ephors
 equinoxes
-evasion
+evasion 1
 embordered
 erythropsia
 electrograving
