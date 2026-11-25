@@ -7018,7 +7018,7 @@ fusees
 floriferousness 1
 finagled
 flagellate
-fireboat
+fireboat 1
 fumade
 floodwood
 fondus
