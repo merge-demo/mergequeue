@@ -496,7 +496,7 @@ fromwards
 fireflies
 foin
 foremisgiving
-fracturs
+fracturs 1
 faker
 flaneries
 fungi
