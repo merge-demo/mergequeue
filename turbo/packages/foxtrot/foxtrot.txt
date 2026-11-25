@@ -5968,7 +5968,7 @@ floodlit
 fibromembrane
 floods
 foisons
-fortifiable
+fortifiable 1
 fantaisie
 fisk
 filleter
