@@ -1320,7 +1320,7 @@ bedbug
 boleite
 bacterioprecipitin
 balearian
-beltings
+beltings 1
 binational
 balanta
 bescorn
