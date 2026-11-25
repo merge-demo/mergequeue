@@ -7741,7 +7741,7 @@ explorational
 erysipelatoid
 englify
 ensure
-emendable
+emendable 1
 estopping
 equips
 edelweisses
