@@ -443,7 +443,7 @@ ecbole
 exsufflicate
 explained
 ellipsone
-enemyship
+enemyship 1
 extraembryonal
 emmer
 eremitical
