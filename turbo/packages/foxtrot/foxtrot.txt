@@ -4635,7 +4635,7 @@ foolfish
 fitters
 foxery
 fifo
-fogas
+fogas 1
 formazyl
 francophilism
 factorizations
