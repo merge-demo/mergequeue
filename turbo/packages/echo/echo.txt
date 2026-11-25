@@ -7594,7 +7594,7 @@ eavesing
 endamoebic
 edelweiss
 epiclinal
-ecstaticize
+ecstaticize 1
 enteric
 epicoele
 elkesaite
