@@ -4297,7 +4297,7 @@ divisors
 deadening
 dermophytic
 dem
-dcolletage
+dcolletage 1
 demagnetisation
 dovelet
 detraining
