@@ -5350,7 +5350,7 @@ dorsimesal
 disblame
 daraf
 detains
-diaphoretic
+diaphoretic 1
 displaced
 denticle 1
 dentiferous
