@@ -9178,7 +9178,7 @@ bumbee
 bipaschal
 biped
 bipedal
-beggared
+beggared 1
 bogo
 bourbonesque
 bipedality
