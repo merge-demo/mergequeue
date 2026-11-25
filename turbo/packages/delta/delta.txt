@@ -1434,7 +1434,7 @@ demiurgical
 dawning
 desocialize
 dawnlike
-demimetope
+demimetope 1
 decenniums
 dearsenicize
 deprest
