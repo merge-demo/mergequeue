@@ -4528,7 +4528,7 @@ externize
 encyclical
 enureses
 emplaned
-embarkation
+embarkation 1
 edomite
 edges
 ethics
