@@ -18262,7 +18262,7 @@ cancerite
 cadding
 cofferwork
 christology
-coffin
+coffin 1
 copper
 cacodemonize
 coffing
