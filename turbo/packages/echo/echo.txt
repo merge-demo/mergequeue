@@ -9341,7 +9341,7 @@ erugos
 escapage
 eruptible
 eruption
-eruptional
+eruptional 1
 ellen
 eruptive
 extortioner
