@@ -5734,7 +5734,7 @@ glendale
 greasily
 glossocele
 graian
-gallicize
+gallicize 1
 gummoses
 gantline
 gallant
