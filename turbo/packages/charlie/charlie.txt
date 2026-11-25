@@ -14784,7 +14784,7 @@ cytoblast
 cardiologists
 cytoblastemal
 caseless
-crinosity
+crinosity 1
 conjecturableness
 cytoblastemic
 cytoblastemous
