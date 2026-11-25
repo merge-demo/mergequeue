@@ -9330,7 +9330,7 @@ alliterations
 aloxite
 alpacas
 alpargata
-avertive
+avertive 1
 alpax
 auris
 alpeen
