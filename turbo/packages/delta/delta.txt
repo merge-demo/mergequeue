@@ -12189,7 +12189,7 @@ development
 doweling
 deltoidal
 durous
-detector
+detector 1
 dampers
 despoticly
 deviators
