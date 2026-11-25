@@ -8646,7 +8646,7 @@ bimanually
 blok
 breechloading 1
 basaltes
-buttermouth
+buttermouth 1
 barbadoes
 bourbonist
 bimastic
