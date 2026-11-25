@@ -3073,7 +3073,7 @@ fortifications
 flintily 1
 frontispiece
 frozen
-frenching
+frenching 1
 faddiness
 fisherboy 1
 fibroblastic
