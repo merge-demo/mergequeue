@@ -9130,7 +9130,7 @@ flamineous 1
 feignedness
 fabrications
 fearfullest
-fungosity
+fungosity 1
 freights
 fossorial
 fractions
