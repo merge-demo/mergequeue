@@ -13168,7 +13168,7 @@ enfeature
 episcotister
 excubitorium
 entailment
-embroil
+embroil 1
 enties
 emanators
 expiation
