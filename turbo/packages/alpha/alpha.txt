@@ -1172,7 +1172,7 @@ azimuths
 acana
 antilopine
 anemophily
-acanonical
+acanonical 1
 acanthaceous
 aeacus
 applauses
