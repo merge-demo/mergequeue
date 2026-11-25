@@ -7970,7 +7970,7 @@ ales
 anion
 alesan
 arenicolous
-alkalis
+alkalis 1
 acetphenetidin
 aletap
 actos
