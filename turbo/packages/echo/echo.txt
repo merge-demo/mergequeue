@@ -7681,7 +7681,7 @@ epideictic
 endomesoderm
 endotheliomata
 ensures 1
-eboulement
+eboulement 1
 euphemiser
 extensionist
 expoundable
