@@ -2056,7 +2056,7 @@ ferngrower
 frontspiece
 feinter
 facedown
-faucalize
+faucalize 1
 flindosa
 flatlander
 fascicule
