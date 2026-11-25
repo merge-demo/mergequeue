@@ -5637,7 +5637,7 @@ ergometric
 enfort
 embarrasses
 epicritic
-enforth
+enforth 1
 estrangle
 eigenvalue
 epithi

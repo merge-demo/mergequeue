@@ -623,7 +623,7 @@ geophysicist
 genip
 gigartina
 glide
-gestic
+gestic 1
 gaudless
 gradatory
 guideline
