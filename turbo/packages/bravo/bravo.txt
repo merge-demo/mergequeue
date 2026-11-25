@@ -13281,7 +13281,7 @@ bowge
 briquettes
 blastoidea
 botany
-bendwise
+bendwise 1
 bilboquet
 berakes
 birdmen
