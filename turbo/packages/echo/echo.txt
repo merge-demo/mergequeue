@@ -11421,7 +11421,7 @@ enlevement
 enrace
 evese
 entomostraca
-entheate
+entheate 1
 expdt
 estuarine
 elided
