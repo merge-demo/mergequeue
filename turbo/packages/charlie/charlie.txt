@@ -1805,7 +1805,7 @@ cann
 caboched
 calzoneras
 calzones
-cannonry
+cannonry 1
 consigneeship
 costocentral
 ciceronize
