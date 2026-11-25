@@ -7740,7 +7740,7 @@ alcoranic
 aff
 alcosol
 armozine
-analyticities
+analyticities 1
 adnascence
 angustia 1
 ald
