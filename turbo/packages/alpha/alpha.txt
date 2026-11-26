@@ -5437,7 +5437,7 @@ audiotypist
 aforetimes
 adenoblast
 afortiori
-apocatastasis
+apocatastasis 1
 afoul
 afray
 athrocytosis
