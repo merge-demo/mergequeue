@@ -4487,7 +4487,7 @@ assignat
 antipruritic
 annonaceae
 azolla
-accumulate
+accumulate 1
 assaut
 advects
 adventitial
