@@ -19908,7 +19908,7 @@ arminianizer
 armipotence
 analeptical
 armistice
-armistices
+armistices 1
 atresia
 axmanship
 adelantados
