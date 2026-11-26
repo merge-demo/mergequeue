@@ -7326,7 +7326,7 @@ fulcrum
 feathered
 filchers
 fiddleheaded
-fanioned
+fanioned 1
 flickered
 forechamber
 foraminiferal
