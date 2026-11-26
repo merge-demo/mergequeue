@@ -5794,7 +5794,7 @@ ashmen
 agastric
 awacs
 apickaback
-ancestor
+ancestor 1
 agate 1
 agates
 autoturning
