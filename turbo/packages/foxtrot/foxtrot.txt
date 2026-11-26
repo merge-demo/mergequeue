@@ -5234,7 +5234,7 @@ flavid
 fluctuosity
 fortemente
 foetiferous
-forecastingly
+forecastingly 1
 farley
 fulgora
 fulvous
