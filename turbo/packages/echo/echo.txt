@@ -6534,7 +6534,7 @@ extreat 1
 elemin
 endothelioma
 erenach
-eclectic
+eclectic 1
 entelechies
 electroacoustics
 entomologic
