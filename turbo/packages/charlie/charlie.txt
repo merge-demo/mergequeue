@@ -28352,7 +28352,7 @@ clod
 cloop
 craver
 cothurnal
-cannoli
+cannoli 1
 campholytic
 carboxy
 cerography
