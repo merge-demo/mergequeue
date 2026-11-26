@@ -8927,7 +8927,7 @@ folktales
 fanatico
 fermental
 foolfishes
-favorers
+favorers 1
 frenchy
 frisbee
 floit
