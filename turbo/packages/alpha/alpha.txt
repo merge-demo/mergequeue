@@ -2600,7 +2600,7 @@ aspiratory
 altaid
 adffrozen
 annunciable
-adjacent
+adjacent 1
 acquest
 armenite
 actutate
