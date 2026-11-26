@@ -23351,7 +23351,7 @@ cynosarges
 capsian
 consumpted
 corrasive
-consumptional
+consumptional 1
 consumptions
 consumptive
 consumptively
