@@ -5727,7 +5727,7 @@ fere
 flippancies
 freshness
 ferrary
-fainted
+fainted 1
 fetor
 flirty
 feculent
