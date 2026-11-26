@@ -22016,7 +22016,7 @@ antiperiodic
 act 1
 assuming
 automatonlike
-assumingly
+assumingly 1
 assummon
 assumptious
 assumptiousness
