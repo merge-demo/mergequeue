@@ -4342,7 +4342,7 @@ episperm
 ectropionized
 epotation
 equiradical
-excrescence
+excrescence 1
 embody
 emphlysis
 eritrean
