@@ -9143,7 +9143,7 @@ alky
 aristogenetic
 antroversion
 anemometric
-antacid
+antacid 1
 alluvious
 assortative
 ametropic
