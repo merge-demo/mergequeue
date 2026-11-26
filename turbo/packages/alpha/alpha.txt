@@ -12645,7 +12645,7 @@ anesthetization
 anesthetized
 achromotrichia
 anesthetizes
-anestrous
+anestrous 1
 anethene
 albites
 anethols
