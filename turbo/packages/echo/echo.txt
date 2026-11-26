@@ -7086,7 +7086,7 @@ envaye
 englishing
 endoskeletal
 episcenia
-empanelled
+empanelled 1
 envelope
 exurbanites
 extemporaneously
