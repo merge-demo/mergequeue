@@ -7835,7 +7835,7 @@ aldrins
 arba 1
 ausubos
 atrickle
-anglicism
+anglicism 1
 aldrovanda
 achromaturia
 adequative
