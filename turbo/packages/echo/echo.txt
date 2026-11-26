@@ -5263,7 +5263,7 @@ efik
 enchest
 emulsionize
 engrafting
-effectuate
+effectuate 1
 ecmnesia
 endorsable
 excerpt
