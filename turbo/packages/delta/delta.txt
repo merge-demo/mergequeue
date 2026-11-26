@@ -859,7 +859,7 @@ defix
 dubiosity
 devoicing
 dowered
-deaerates
+deaerates 1
 disorchard
 dankishness
 discardable 1
