@@ -10088,7 +10088,7 @@ erythrosin
 endobronchial
 eidouranion
 etheostominae
-elytroid
+elytroid 1
 exasperates
 esthetician
 encrinitic
