@@ -10306,7 +10306,7 @@ expendable
 equipostile
 epifocal
 exosmic
-extemporise
+extemporise 1
 exaggerative
 eupomatiaceae
 ethnocentric
