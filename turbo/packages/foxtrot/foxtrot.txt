@@ -2718,7 +2718,7 @@ fouette
 fervor
 flanks 1
 flamenco
-frondous
+frondous 1
 fashions
 fruitive
 funnier
