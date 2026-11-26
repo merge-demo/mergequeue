@@ -12250,7 +12250,7 @@ exemplarism
 exempli
 embodier
 evocatrix
-everlasting
+everlasting 1
 eggplant
 enfoul
 exemplificator
