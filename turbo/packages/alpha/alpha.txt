@@ -17231,7 +17231,7 @@ acropetal
 agonist
 aphodus
 adeptship
-adjutancy
+adjutancy 1
 assistantship
 automatization
 aspired
