@@ -9944,7 +9944,7 @@ ipspcr 1
 ipsxjb
 ipsxmssphngpq
 ipsyngip
-iptamwt
+iptamwt 1
 iptddmxn
 iptdsnjje 1
 ipte
