@@ -13826,7 +13826,7 @@ creosoting
 clatchy
 cinerator
 circumrotation
-cinereal
+cinereal 1
 cinerin
 cinerous
 correllation
