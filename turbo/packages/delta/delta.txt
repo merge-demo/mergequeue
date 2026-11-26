@@ -14203,7 +14203,7 @@ desquamate
 disbranching
 disuses
 disutility
-disutilize
+disutilize 1
 doldrum
 dramatists
 damage
