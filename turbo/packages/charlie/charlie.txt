@@ -8706,7 +8706,7 @@ cobriform
 chapeled
 concion
 convalescency
-capturable
+capturable 1
 crenelle
 chapelgoing
 cockpits
