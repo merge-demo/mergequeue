@@ -2160,7 +2160,7 @@ glout
 gastrotrichan
 guacos
 galea
-goldfinches
+goldfinches 1
 galliards
 glistening
 glisters
