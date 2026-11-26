@@ -2992,7 +2992,7 @@ geomancy
 garnered
 glosser
 gushingness
-gauchest
+gauchest 1
 gravipause
 glorias
 groped
