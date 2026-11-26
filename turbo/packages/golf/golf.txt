@@ -6662,7 +6662,7 @@ guttula
 graver 1
 gonepoiesis
 gingivectomy
-gash
+gash 1
 grandioso
 gopak 1
 genocides
