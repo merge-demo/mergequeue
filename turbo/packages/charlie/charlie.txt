@@ -8517,7 +8517,7 @@ conoscente
 chainbreak
 chancery
 chances
-chancewise
+chancewise 1
 chanche
 cycloaddition
 chanchito
