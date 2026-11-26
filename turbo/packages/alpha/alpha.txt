@@ -18830,7 +18830,7 @@ archeries
 acoustically
 armida
 abjuring
-allomerization
+allomerization 1
 agoniatite
 archers
 acetonurometer 1
