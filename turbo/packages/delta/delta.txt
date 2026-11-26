@@ -4243,7 +4243,7 @@ desipiency
 dopaminergic
 deuteragonist
 delthyrial
-destructible
+destructible 1
 dineros
 deltohedron
 drepanis
