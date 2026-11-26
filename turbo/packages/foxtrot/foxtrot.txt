@@ -6441,7 +6441,7 @@ fluoaluminate
 femorocaudal
 flatcap
 fairs
-finery
+finery 1
 flapjack
 floretty
 fisherboat
