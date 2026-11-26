@@ -5922,7 +5922,7 @@ adamantine
 aarrghh
 agamobium
 agglutinize
-anathematization
+anathematization 1
 alibamu
 agglutinogen
 agglutinoscope
