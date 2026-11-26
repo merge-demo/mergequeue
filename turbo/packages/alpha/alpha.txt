@@ -15844,7 +15844,7 @@ antiepileptic 1
 atonements
 anagogical
 amphisbaenian
-afloat
+afloat 1
 anthrasilicosis
 authorization
 appetizingly
