@@ -10993,7 +10993,7 @@ dieselized
 degusts
 disclosable
 dhoti
-dumfound
+dumfound 1
 dobbers
 divides
 deanthropomorphic
