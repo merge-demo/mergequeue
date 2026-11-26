@@ -14014,7 +14014,7 @@ coonskins
 cyprid
 cyprididae
 cypridina
-caucasoid
+caucasoid 1
 contraregular
 cyprinid
 cheiromancy
