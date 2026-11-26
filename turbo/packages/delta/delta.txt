@@ -9382,7 +9382,7 @@ diffranchise
 dely
 decrete
 durabilities
-decadic
+decadic 1
 discontentive
 diffusate
 dipnoous
