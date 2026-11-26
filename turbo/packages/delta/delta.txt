@@ -8051,7 +8051,7 @@ diaclase
 dhobis
 duchesse
 dysacusia
-delve
+delve 1
 dhooly
 dowiness
 dictyonine
