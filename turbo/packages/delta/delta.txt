@@ -17970,7 +17970,7 @@ dugongs
 determinacy
 demandable
 dietitian
-dugouts
+dugouts 1
 dugs
 dugway
 deaerator
