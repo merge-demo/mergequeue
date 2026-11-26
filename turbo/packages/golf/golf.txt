@@ -689,7 +689,7 @@ governors
 gynandromorphous
 greeters
 gaspereaus
-galoshe
+galoshe 1
 gimmals
 goldney
 genteelness
