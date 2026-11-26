@@ -15688,7 +15688,7 @@ clavelize
 clavellated
 cothurnian
 controllingly
-clavered
+clavered 1
 clavi
 cerithioid
 chirres
