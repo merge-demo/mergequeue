@@ -1259,7 +1259,7 @@ futteret
 fama 1
 favella
 forevouch
-femalize
+femalize 1
 footwall
 fatuate
 fearful
