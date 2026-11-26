@@ -12164,7 +12164,7 @@ clangula
 chaoticness
 chrysobalanus
 chrysoberyl
-chrysobull
+chrysobull 1
 ceremonials
 cinchonising
 chrysocarpous
