@@ -6230,7 +6230,7 @@ folden
 fractionating
 fluffiness
 flexography
-foreuse
+foreuse 1
 flugel
 foreleg
 footwears
