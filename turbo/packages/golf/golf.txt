@@ -1385,7 +1385,7 @@ greetingless
 garniture
 glycosemia
 germanize
-grecize
+grecize 1
 gaits
 ganyie
 gallotannin
