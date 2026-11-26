@@ -24208,7 +24208,7 @@ autolatry
 aguara
 artemia
 antherless
-autoinfection
+autoinfection 1
 alnein
 anhydraemia
 autolyzes
