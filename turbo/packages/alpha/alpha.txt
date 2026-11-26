@@ -19723,7 +19723,7 @@ antistate
 autobiographist
 ammoniate
 armeniaceous
-anticathexis
+anticathexis 1
 abricot
 aristology
 anamite
