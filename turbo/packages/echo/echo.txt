@@ -1558,7 +1558,7 @@ extraversion
 encampment
 epinasty
 envigor
-equilocation
+equilocation 1
 exogeny
 enterate
 exaggeratedness
