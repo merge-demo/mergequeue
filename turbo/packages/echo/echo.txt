@@ -11293,7 +11293,7 @@ ensate
 eir
 ecurie
 equisurface
-enrank
+enrank 1
 entirety
 eagles
 exalbuminous
