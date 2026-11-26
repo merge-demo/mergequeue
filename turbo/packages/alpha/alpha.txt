@@ -24912,7 +24912,7 @@ awaiting
 awaitlala
 awakable
 acoelomate
-awake
+awake 1
 aortosclerosis
 awakened
 apeak
