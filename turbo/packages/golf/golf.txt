@@ -8639,7 +8639,7 @@ grapnel
 geopony
 gossipping
 gerb
-grappled
+grappled 1
 greekist
 glucosin
 gulfed
