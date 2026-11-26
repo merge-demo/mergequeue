@@ -10577,7 +10577,7 @@ concremation
 chillroom
 chills
 chillsome
-countermove
+countermove 1
 chouka
 chemolytic
 chillumchee
