@@ -3522,7 +3522,7 @@ disembarrassment
 dismissable
 disring
 doom
-defraying
+defraying 1
 desaturate
 desiccated
 decorate
