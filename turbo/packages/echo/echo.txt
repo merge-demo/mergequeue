@@ -12830,7 +12830,7 @@ exotics
 exotoxic
 exacerbate
 ecomomist
-ensynopticity
+ensynopticity 1
 egoist
 eburneoid
 euphonised
