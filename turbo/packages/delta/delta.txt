@@ -3575,7 +3575,7 @@ depending
 drome
 disguise
 debunker
-degassed
+degassed 1
 disappears
 dodecant
 destituting
