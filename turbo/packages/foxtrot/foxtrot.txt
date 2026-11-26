@@ -6498,7 +6498,7 @@ footages
 fireproofness
 fotui
 filches
-figurally
+figurally 1
 fluted
 felonry
 featherbedded
