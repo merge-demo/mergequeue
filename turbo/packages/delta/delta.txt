@@ -5977,7 +5977,7 @@ dragons
 delictus
 deed
 dayfly
-durezza
+durezza 1
 dropped
 depsides
 dilettantist
