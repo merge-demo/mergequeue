@@ -2077,7 +2077,7 @@ bosporan
 burl
 bankruptism
 bankruptcy
-bankrupting
+bankrupting 1
 babylonia
 bemock
 bottlelike
