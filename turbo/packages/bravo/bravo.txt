@@ -332,7 +332,7 @@ bomi
 backcap
 backchats
 boule
-burg
+burg 1
 bohemian
 beneficially
 backcross
