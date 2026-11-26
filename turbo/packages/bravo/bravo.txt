@@ -8847,7 +8847,7 @@ biocenology
 brontolith
 blankmindedness
 biocenosis
-burgraviate
+burgraviate 1
 basket
 branchiopodan
 belialist
