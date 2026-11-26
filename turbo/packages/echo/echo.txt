@@ -11105,7 +11105,7 @@ enwreathing
 eiderdown
 erotetic
 euthycomi
-equerries
+equerries 1
 exploitable
 enol
 emprises
