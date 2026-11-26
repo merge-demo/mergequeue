@@ -19104,7 +19104,7 @@ chaptrel
 collinsite
 collinsonia
 colliquable
-colliquate
+colliquate 1
 collyria
 collyrite
 carder
