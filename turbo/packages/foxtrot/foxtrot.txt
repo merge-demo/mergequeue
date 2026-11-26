@@ -11230,7 +11230,7 @@ fount
 false
 flashcubes
 formful
-fabricative
+fabricative 1
 flexuosities
 ferned
 flemished
