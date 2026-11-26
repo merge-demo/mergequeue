@@ -1557,7 +1557,7 @@ erosible
 extraversion
 encampment
 epinasty
-envigor
+envigor 1
 equilocation
 exogeny
 enterate
