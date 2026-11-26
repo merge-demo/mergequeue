@@ -8640,7 +8640,7 @@ decarchy
 diarrhoeal
 downbeard
 dephysicalize
-diarrhoetic
+diarrhoetic 1
 disfavored
 diarticular
 dias
