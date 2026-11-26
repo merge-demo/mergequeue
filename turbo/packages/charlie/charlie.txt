@@ -4006,7 +4006,7 @@ carcharodont
 correctify
 carcinemia
 croquettes
-carcinogenesis
+carcinogenesis 1
 carcinoid
 compartmental
 crystalloluminescence

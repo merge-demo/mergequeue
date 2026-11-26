@@ -10310,7 +10310,7 @@ extemporise
 exaggerative
 eupomatiaceae
 ethnocentric
-exordial
+exordial 1
 epeirogenic
 encyclopaedical
 epipastic
