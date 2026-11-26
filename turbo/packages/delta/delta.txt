@@ -11338,7 +11338,7 @@ dissociably
 discoherent
 disembargoing
 decays
-disciform
+disciform 1
 diplopods
 discigerous
 discinct
