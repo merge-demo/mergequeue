@@ -24372,7 +24372,7 @@ amaroidal
 arises
 autorotation
 acceptor
-ariocarpus
+ariocarpus 1
 atopen
 amylene
 autoroute
