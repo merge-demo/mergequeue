@@ -1410,7 +1410,7 @@ excoct
 encashable
 enzymes
 efflorescing
-effluences
+effluences 1
 endoral
 epithalamia
 etherified
