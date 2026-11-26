@@ -5578,7 +5578,7 @@ dramatizable
 dolphin
 dukeship
 dieters
-depeopled
+depeopled 1
 deperdit
 disentrancing
 duffel
