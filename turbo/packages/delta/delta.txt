@@ -10909,7 +10909,7 @@ depictive
 dyingness
 dysacousis
 dodecahydrated
-disacquaint
+disacquaint 1
 dayglows
 datolite
 diallist
