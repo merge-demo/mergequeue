@@ -6748,7 +6748,7 @@ downshifts
 decil
 dogy
 desucration
-desilicify
+desilicify 1
 desilicified 1
 desiliconization
 dribbed
