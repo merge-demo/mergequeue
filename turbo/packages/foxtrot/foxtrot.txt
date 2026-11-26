@@ -4447,7 +4447,7 @@ falsary
 fiascos
 fovent
 flogmaster
-fumishly
+fumishly 1
 fledgier
 floppiest
 float
