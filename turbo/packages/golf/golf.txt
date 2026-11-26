@@ -2120,7 +2120,7 @@ gentianaceae
 goodyism
 grazie
 gerontologist
-gallus
+gallus 1
 garth
 gastnesses
 galeiform
