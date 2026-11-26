@@ -404,7 +404,7 @@ gains
 goalposts
 gilsonite
 gorgon
-gunl
+gunl 1
 geostrategy
 germinogony
 gradeless
