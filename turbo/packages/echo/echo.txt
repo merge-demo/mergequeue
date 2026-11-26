@@ -1599,7 +1599,7 @@ epibiotic 1
 embroilment
 egotistic
 exscind
-egotized
+egotized 1
 egracias
 eradicated
 egress
