@@ -11379,7 +11379,7 @@ faute
 furnacelike
 firetraps
 ferromagneticism
-flashlamp
+flashlamp 1
 feteless
 furnariides
 flect
