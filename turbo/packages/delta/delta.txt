@@ -10277,7 +10277,7 @@ dighting
 draughting 1
 dames
 dionysia
-dionysiac
+dionysiac 1
 dionysiacally
 dionysus
 dirigibles
