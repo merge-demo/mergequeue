@@ -2136,7 +2136,7 @@ gyrovagi
 gilravage
 gunships
 geheimrat
-gantlopes
+gantlopes 1
 gamboised
 guayaberas
 griffith
