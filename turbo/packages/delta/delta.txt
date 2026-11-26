@@ -9166,7 +9166,7 @@ diptych
 digitalize
 dialyse
 delobranchiata
-dyeability
+dyeability 1
 denazification
 demilance
 devilman
