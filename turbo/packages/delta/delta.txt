@@ -6292,7 +6292,7 @@ deozonizer
 debatter
 dermatorrhagia
 drossy
-dial
+dial 1
 dendrolatry
 dicranaceae
 dorsabdominally
