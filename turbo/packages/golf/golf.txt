@@ -4635,7 +4635,7 @@ gorillaship
 goatbush
 gawkhammer
 gammarid
-gentility
+gentility 1
 gunlocks
 gaudy 1
 guerinet
