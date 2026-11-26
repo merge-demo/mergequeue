@@ -8919,7 +8919,7 @@ eyers
 ergostat
 eddie
 entelam
-experimentally
+experimentally 1
 ergoted
 encephalomalaxis
 ergotism
