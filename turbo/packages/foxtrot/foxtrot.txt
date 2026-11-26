@@ -1628,7 +1628,7 @@ footroom
 floriage
 flappier
 frijol
-flannel
+flannel 1
 fawkener
 fraischeur
 ferrotyped
