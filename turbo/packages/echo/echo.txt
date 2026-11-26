@@ -4750,7 +4750,7 @@ epencephalon
 emboite
 entamebas
 erosiveness
-enscrolling
+enscrolling 1
 elucubration
 elator
 erethic
