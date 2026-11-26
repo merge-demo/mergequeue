@@ -8847,7 +8847,7 @@ enjeopardy
 extricable
 encrypt 1
 ejections
-emptive
+emptive 1
 euonymin
 ecthlipses
 eleanor
