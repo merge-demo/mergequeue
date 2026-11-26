@@ -24508,7 +24508,7 @@ copaiba
 copaifera
 conceits
 cupfuls
-clr
+clr 1
 courtliness
 clavis
 copaivic
