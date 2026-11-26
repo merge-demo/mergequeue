@@ -6602,7 +6602,7 @@ aigialosauridae
 aigialosaurus
 apothecaries
 archpriest
-antasthenic
+antasthenic 1
 amber
 aiglet
 altitudinous
