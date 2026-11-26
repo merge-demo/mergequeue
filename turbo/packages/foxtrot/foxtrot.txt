@@ -3475,7 +3475,7 @@ figo
 foraminifer
 favillae
 fumaroid
-figshell
+figshell 1
 flankard
 fury
 foam
