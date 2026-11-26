@@ -3282,7 +3282,7 @@ gadso
 gorgonian
 grimmia
 graduses
-gregaritic
+gregaritic 1
 glancer
 glycosin
 gelotoscopy
