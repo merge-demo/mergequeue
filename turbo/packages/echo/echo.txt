@@ -9155,7 +9155,7 @@ entailer
 epizoarian 1
 equiponderancy
 ermiline
-enamellist
+enamellist 1
 epidemy
 excarnation
 ermined
