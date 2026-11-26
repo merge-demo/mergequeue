@@ -6730,7 +6730,7 @@ gonidic
 genes
 gauges
 gametangia
-ganevs
+ganevs 1
 gourmandizer
 gyrostats
 glomerate
