@@ -2285,7 +2285,7 @@ forshape
 full 1
 flavones
 finlandization
-filamentiferous
+filamentiferous 1
 fantails
 folktale
 fragging
