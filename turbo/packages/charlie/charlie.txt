@@ -14388,7 +14388,7 @@ crosses
 circus
 circusy
 correspondents
-consolableness
+consolableness 1
 customizable
 circuts
 culminative
