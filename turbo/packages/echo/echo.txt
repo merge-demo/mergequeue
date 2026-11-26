@@ -848,7 +848,7 @@ ectocommensal
 endophytic
 electrolyser
 ephemeromorphic
-excrementous
+excrementous 1
 ethology
 ectodermosis
 ennuyante
