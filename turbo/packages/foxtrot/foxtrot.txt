@@ -1448,7 +1448,7 @@ funis
 fattishness
 fother
 frimitts
-freewheel
+freewheel 1
 felicify
 frostiest
 frower
