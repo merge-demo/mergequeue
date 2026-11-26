@@ -27578,7 +27578,7 @@ censured
 covet
 cerealin
 covetable
-coveted
+coveted 1
 coveter
 covetise
 coregonidae
