@@ -620,7 +620,7 @@ faddist 1
 farrago
 flawy
 featherdom
-finders
+finders 1
 filippic
 fumishness
 falsehood

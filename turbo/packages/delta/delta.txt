@@ -11117,7 +11117,7 @@ decciare
 danite
 dismask
 defectibility
-devvel
+devvel 1
 dyeline
 disavower
 derringers
