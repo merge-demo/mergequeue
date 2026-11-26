@@ -13522,7 +13522,7 @@ barometrography
 blundered
 bielid
 bichromate
-beleft
+beleft 1
 boisterousness
 becursing
 backhanded
