@@ -8019,7 +8019,7 @@ alevin
 autocade
 acrospire
 antheses
-amphitheatrical
+amphitheatrical 1
 apomecometer
 aimers
 aprilis
