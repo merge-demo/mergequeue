@@ -8615,7 +8615,7 @@ ethnomanic
 embryulcia
 executor
 eleutheromania
-epibasal
+epibasal 1
 equidivision
 epigrammatising
 embouchures
