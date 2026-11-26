@@ -7089,7 +7089,7 @@ confluences
 centigrams
 centile
 cendre
-catamited
+catamited 1
 centiliter
 cadent
 chimed
