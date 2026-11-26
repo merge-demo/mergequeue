@@ -10774,7 +10774,7 @@ gimbals
 garbline
 gallium
 glamourie
-geranyl
+geranyl 1
 glycyl
 glitter
 gutt
