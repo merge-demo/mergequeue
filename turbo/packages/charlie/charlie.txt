@@ -21940,7 +21940,7 @@ confessary
 coelomopore
 cornfield
 clubrooms
-confessedly
+confessedly 1
 coiners
 confessingly
 confessional
