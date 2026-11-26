@@ -10441,7 +10441,7 @@ electrodialytic
 erstwhile
 etypic
 endoscopy
-equiponderation
+equiponderation 1
 elytrtra
 enoplan
 effluviums
