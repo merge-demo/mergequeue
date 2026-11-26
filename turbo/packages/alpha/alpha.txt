@@ -10676,7 +10676,7 @@ antitragic
 accusator
 amylom
 aquarid
-amyloplast
+amyloplast 1
 appertaining
 antichronism
 adenase

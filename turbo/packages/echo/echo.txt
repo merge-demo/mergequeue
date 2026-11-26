@@ -6807,7 +6807,7 @@ exoticism
 entombs
 excremental
 eviscerator
-entomere
+entomere 1
 entomic
 explorate
 emptins
