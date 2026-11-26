@@ -2913,7 +2913,7 @@ chapelries
 capsizable
 cantankerously
 counteractive
-chonicrite
+chonicrite 1
 colourableness
 cantara
 cantare
