@@ -6287,7 +6287,7 @@ caulinar
 caulinary
 ceroplast
 cannular
-caulivorous
+caulivorous 1
 choanosomal
 caulk
 casbahs
