@@ -5940,7 +5940,7 @@ freakiness
 foggers
 finestiller
 foreshadowing
-fatefulness
+fatefulness 1
 falstaffian
 flatwash
 fro
