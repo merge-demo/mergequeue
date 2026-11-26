@@ -18344,7 +18344,7 @@ doxy
 dreng
 dryas
 didachist
-duodecimfid
+duodecimfid 1
 dalarnian 1
 disrupted
 duodecimole
