@@ -14047,7 +14047,7 @@ enliven
 eidolons
 excandescency 1
 embellishments
-extrathermodynamic
+extrathermodynamic 1
 emes
 economists
 excitonic
