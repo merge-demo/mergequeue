@@ -12930,7 +12930,7 @@ chloropal
 consecution
 cyanhydric 1
 cyanhydrin
-citron
+citron 1
 citrean
 cyanid
 collects
