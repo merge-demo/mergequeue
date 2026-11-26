@@ -4482,7 +4482,7 @@ craniopharyngeal
 chinner
 combatants
 carlock
-cogways
+cogways 1
 circumference
 carlot
 cavorters
