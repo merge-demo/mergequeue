@@ -2248,7 +2248,7 @@ achromoderma
 abovesaid
 amygdalolith
 articulability
-allows
+allows 1
 achronism
 atmograph
 arusa
