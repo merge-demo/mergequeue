@@ -10440,7 +10440,7 @@ gilia
 gesneraceous
 gradative
 glycaemic
-gomphodont
+gomphodont 1
 geobiologic
 glaives
 gumdrop
