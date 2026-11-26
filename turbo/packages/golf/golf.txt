@@ -375,7 +375,7 @@ gley
 graphed
 gasogenic 1
 gorefish
-gangrenous
+gangrenous 1
 goniometrical
 guyer
 galactosis
