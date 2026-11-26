@@ -24136,7 +24136,7 @@ acanthi
 autogyros
 adcon
 andiron
-autognostic
+autognostic 1
 antimartyr
 articulus
 acanthocarpous
