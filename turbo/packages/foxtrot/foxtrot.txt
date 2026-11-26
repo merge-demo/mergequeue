@@ -6911,7 +6911,7 @@ foreignization
 footsie 1
 freekirker
 frithwork
-fleyedly
+fleyedly 1
 fauves
 fikie
 fragmented
