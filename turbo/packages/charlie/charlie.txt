@@ -4249,7 +4249,7 @@ characteristic
 coauthored
 cashel
 cursillo
-carelessly
+carelessly 1
 carelessness
 careme
 chromocentral
