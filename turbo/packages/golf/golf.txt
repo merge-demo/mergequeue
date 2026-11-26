@@ -5659,7 +5659,7 @@ gubernacular
 geyserine
 gingalls
 gastralgic
-gobbling
+gobbling 1
 growsome
 grubbiest
 glaringly

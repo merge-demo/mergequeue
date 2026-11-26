@@ -5014,7 +5014,7 @@ foremartyr
 fiddlewood
 filet
 fettering
-fluctuable
+fluctuable 1
 faceable
 frowsier
 feathers
