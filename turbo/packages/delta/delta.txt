@@ -14419,7 +14419,7 @@ dutiful
 desmotomy
 diversisporous
 deindividuate
-damper
+damper 1
 doctus
 datedness
 depreciatory
