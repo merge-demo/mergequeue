@@ -3193,7 +3193,7 @@ capewise
 capework
 capful
 caphar
-clistogastra
+clistogastra 1
 clerkage
 capias
 capilaceous
