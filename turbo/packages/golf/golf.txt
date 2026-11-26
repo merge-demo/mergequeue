@@ -6723,7 +6723,7 @@ groom
 glycolyl
 glimed
 geer
-graphitic
+graphitic 1
 gigs
 gastronephritis
 gonidic
