@@ -6357,7 +6357,7 @@ gam
 groceries
 glaucochroite
 geotropism
-goety
+goety 1
 gymnolaemata
 gaels
 gloriosa
