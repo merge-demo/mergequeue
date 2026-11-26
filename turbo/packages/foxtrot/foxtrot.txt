@@ -11615,7 +11615,7 @@ fraternal 1
 febrifugal
 for
 forcarve
-frough
+frough 1
 frack
 forewinning
 fulgour
