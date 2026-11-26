@@ -6991,7 +6991,7 @@ fainter
 fumant
 flouncey
 flannels
-fineries
+fineries 1
 furnacing
 freemason
 forestate
