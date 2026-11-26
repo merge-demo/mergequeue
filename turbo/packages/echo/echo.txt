@@ -12771,7 +12771,7 @@ extensional
 eminent
 epidendric
 exostosis
-exarchist
+exarchist 1
 exostra 1
 ebullition
 engraves
