@@ -3587,7 +3587,7 @@ blockmaking
 bathool
 balneary
 bathophobia
-buvette
+buvette 1
 barret
 bathos
 bathrobes

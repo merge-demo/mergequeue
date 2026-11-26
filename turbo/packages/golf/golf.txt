@@ -4697,7 +4697,7 @@ granges
 gooder
 gourmandise
 gyrene
-gibbsite
+gibbsite 1
 gauping
 glazen
 geisothermal
