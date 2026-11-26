@@ -2514,7 +2514,7 @@ exuviates
 ephemeromorph
 ensete
 entozoic
-euphausiidae
+euphausiidae 1
 extraconstellated
 ethnobotanic
 enounce
