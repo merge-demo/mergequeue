@@ -17680,7 +17680,7 @@ cultrirostres
 catodont
 cocitizenship
 cockade
-colour
+colour 1
 colonisation
 christianization
 connecting
