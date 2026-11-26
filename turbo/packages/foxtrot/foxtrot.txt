@@ -9965,7 +9965,7 @@ forcers
 frigolabile
 fumigate
 feloniousness
-frigoric
+frigoric 1
 futureless
 fibroid
 firelike
