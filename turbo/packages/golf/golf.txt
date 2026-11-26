@@ -4315,7 +4315,7 @@ gnocchetti
 girse
 geometrize
 grubless
-gravidity
+gravidity 1
 gymnic
 gymnemic
 gloeosporiose
