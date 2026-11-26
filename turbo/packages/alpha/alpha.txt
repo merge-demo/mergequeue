@@ -2283,7 +2283,7 @@ albarello
 aluminous
 adjectitious
 attempers
-acidaspis
+acidaspis 1
 acider
 anaphoric
 atilt
