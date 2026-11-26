@@ -3252,7 +3252,7 @@ gossypol
 gyral
 gaelicist
 gulo
-galvanical
+galvanical 1
 gustatory
 giddiest
 grades
