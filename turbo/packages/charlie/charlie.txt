@@ -15824,7 +15824,7 @@ clearsightedness
 clearstarcher
 clearstory
 chocker
-clearstoried
+clearstoried 1
 crispest 1
 cascara
 commis
