@@ -11816,7 +11816,7 @@ ejectives
 electromagnetically
 equibalance
 epirrhematic
-etiolation
+etiolation 1
 excalcarate
 extractible
 equiproducing
