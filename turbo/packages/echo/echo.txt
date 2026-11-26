@@ -466,7 +466,7 @@ equilibrize
 expediteness
 evector
 endoplastule
-ecclesia
+ecclesia 1
 enumerable
 ecclesiarchy
 ensnarls
