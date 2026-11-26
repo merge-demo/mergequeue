@@ -3003,7 +3003,7 @@ fiars
 ferricyanogen
 ferrotype
 fortepiano
-flukily
+flukily 1
 forasmuch
 foreman
 floodage
