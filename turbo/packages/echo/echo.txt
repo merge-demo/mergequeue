@@ -5641,7 +5641,7 @@ enforth
 estrangle
 eigenvalue
 epithi
-exhibitorial
+exhibitorial 1
 exquisitism
 enframed
 elaphebolion
