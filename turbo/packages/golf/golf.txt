@@ -2310,7 +2310,7 @@ graviton
 gallocyanin
 gravamina
 gamine
-gelsemic
+gelsemic 1
 gelatinizer
 gradates
 giornatate
