@@ -8212,7 +8212,7 @@ geometricize
 grandfatherless
 gestative
 gooseneck
-graphemically
+graphemically 1
 gris 1
 gasconading
 genevois
