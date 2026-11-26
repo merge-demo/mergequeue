@@ -11758,7 +11758,7 @@ ericetum
 excorticating
 exappendiculate
 empover
-electroacoustic
+electroacoustic 1
 exarate
 egyptianization
 eremochaeta
