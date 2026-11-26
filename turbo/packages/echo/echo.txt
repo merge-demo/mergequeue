@@ -3850,7 +3850,7 @@ estivator
 eggcupful
 emesa
 elops
-effigiate
+effigiate 1
 epalpate
 ethnobotanical
 emesis
