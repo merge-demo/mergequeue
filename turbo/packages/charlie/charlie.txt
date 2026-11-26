@@ -14128,7 +14128,7 @@ conversably
 circularizes
 choriambs
 circularly
-circularness
+circularness 1
 circulars
 caravaneer
 cabbalize
