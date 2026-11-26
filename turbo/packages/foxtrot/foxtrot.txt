@@ -5536,7 +5536,7 @@ farde
 fletchers
 fabrics
 furrower
-furnit
+furnit 1
 faked
 filionymic
 forbearingness
