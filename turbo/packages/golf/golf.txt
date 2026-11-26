@@ -10175,7 +10175,7 @@ gurneyite
 gerusia
 gastropathy
 granulated
-governable
+governable 1
 gloriana
 goosery
 genethliac

@@ -5647,7 +5647,7 @@ cataphyll
 correlativism
 chlorococcum
 cataphora
-cataphoresis
+cataphoresis 1
 cataphoria
 cataphract
 counterargue
