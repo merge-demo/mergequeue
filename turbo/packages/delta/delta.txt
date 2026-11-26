@@ -1846,7 +1846,7 @@ darapti
 drugmaker
 decriminalize
 degeneratively
-defeudalize
+defeudalize 1
 debilitates
 dermatoglyphics
 debitum
