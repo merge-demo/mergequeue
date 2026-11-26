@@ -16945,7 +16945,7 @@ dartles
 duledge
 diminuendoed
 drearily
-dreariness
+dreariness 1
 deamidate
 doz
 dunkard
