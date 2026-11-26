@@ -5880,7 +5880,7 @@ definitiveness
 diagnoses
 deleting
 droshky
-depredatory
+depredatory 1
 deontic
 disembargoed
 deodars
