@@ -2393,7 +2393,7 @@ glariest
 ganton
 gyrolith
 glaury
-gazel
+gazel 1
 gonytheca
 guiac
 gummose
