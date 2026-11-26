@@ -2323,7 +2323,7 @@ anacardium
 acidometry
 antinationalization
 asmear
-anacamptically
+anacamptically 1
 acidoses
 antiradically
 afternoon
