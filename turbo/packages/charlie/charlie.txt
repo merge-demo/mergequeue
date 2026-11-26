@@ -17355,7 +17355,7 @@ coassistant
 cupola
 coassume
 crystallic
-coassuming
+coassuming 1
 chrysolite
 coast
 coastal
