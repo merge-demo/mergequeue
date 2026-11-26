@@ -8729,7 +8729,7 @@ chapelry
 combflower
 crosspiece
 cinerins
-chapels
+chapels 1
 chapelward
 chaperno
 custodia
