@@ -5048,7 +5048,7 @@ forecourse
 fatteners
 flirtationless
 flaperon
-flippantly
+flippantly 1
 forthgoing
 flagellulae
 fibrocrystalline
