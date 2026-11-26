@@ -1852,7 +1852,7 @@ dermatoglyphics
 debitum
 declaratory
 douvecot
-dorsale
+dorsale 1
 deblai
 depurate
 deblaterate
