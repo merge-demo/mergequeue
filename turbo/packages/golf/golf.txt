@@ -1704,7 +1704,7 @@ gammon
 glibber
 grainsick
 gerontology
-gave
+gave 1
 gloeal
 graced
 goric
