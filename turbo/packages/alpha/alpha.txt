@@ -17291,7 +17291,7 @@ attempts
 ampersand
 apoplex
 alienship
-adamantoid
+adamantoid 1
 anemometrographic
 aporhyolite
 allanites
