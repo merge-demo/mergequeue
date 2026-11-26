@@ -3987,7 +3987,7 @@ duplex 1
 devitalise
 deputized
 distune
-delectating
+delectating 1
 damnously
 delectus
 degradingly
