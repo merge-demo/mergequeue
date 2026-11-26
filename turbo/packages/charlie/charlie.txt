@@ -6818,7 +6818,7 @@ cellfalcicula
 concaveness
 celliform
 cellist
-cellite
+cellite 1
 currs
 continua
 cellmates
