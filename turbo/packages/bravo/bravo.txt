@@ -12522,7 +12522,7 @@ blackcoat
 borrows
 bannimus
 bedposts
-burseeds
+burseeds 1
 biham
 bonhomies
 bulbs
