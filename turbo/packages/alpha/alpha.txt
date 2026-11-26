@@ -15125,7 +15125,7 @@ abruptest
 albedometer
 amphitokal
 artotypy
-aspherical
+aspherical 1
 anoplanthus
 antidromically
 apparance
