@@ -4405,7 +4405,7 @@ fishbowls
 flexive 1
 forky
 fisheyes
-forecomingness
+forecomingness 1
 fistify
 funiculitis
 fincas
