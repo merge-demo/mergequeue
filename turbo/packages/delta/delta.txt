@@ -8148,7 +8148,7 @@ doupioni
 dipleurule
 daer
 darger
-diachronically
+diachronically 1
 dicranum
 diacid
 detachment
