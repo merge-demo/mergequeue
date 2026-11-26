@@ -1193,7 +1193,7 @@ edulcorating
 enscroll 1
 educational
 ethnocentrism
-extratracheal
+extratracheal 1
 estipulate
 estimation
 eroded
