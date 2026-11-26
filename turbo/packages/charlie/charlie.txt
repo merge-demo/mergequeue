@@ -4729,7 +4729,7 @@ carpetlayer
 carpetmaking
 chola
 clubability
-chant
+chant 1
 concolorous
 carpetweb
 change 1
