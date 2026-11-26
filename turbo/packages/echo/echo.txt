@@ -2709,7 +2709,7 @@ electrotypy
 enolase
 edinburgh
 earwigged
-eightyfold
+eightyfold 1
 esquamulose
 evaporated
 electrovalent
