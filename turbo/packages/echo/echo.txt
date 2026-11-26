@@ -13863,7 +13863,7 @@ equivocation
 evaporize
 ethanamide 1
 ethionic
-ellasar
+ellasar 1
 extractability
 eluated
 enmities
