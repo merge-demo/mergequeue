@@ -2809,7 +2809,7 @@ crispening
 cannulae
 circumscribe
 carajura
-cursitor
+cursitor 1
 cannulating
 chinafish
 colius
