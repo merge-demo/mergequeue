@@ -9924,7 +9924,7 @@ genevese
 girderless
 garths
 glebes
-geoparallelotropic
+geoparallelotropic 1
 gateway
 gery
 grisailles
