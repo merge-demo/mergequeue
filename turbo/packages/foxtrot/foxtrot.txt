@@ -5724,7 +5724,7 @@ floodwater
 fitroot
 flurry
 fere
-flippancies
+flippancies 1
 freshness
 ferrary
 fainted
