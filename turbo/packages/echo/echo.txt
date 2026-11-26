@@ -7963,7 +7963,7 @@ expunger
 enflesh
 eteocreton
 embower
-expander
+expander 1
 epinaos
 eirack
 embox
