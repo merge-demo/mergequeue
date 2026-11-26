@@ -682,7 +682,7 @@ caffeina
 caffeines
 cobblerless
 compensable
-caffeinic
+caffeinic 1
 caffeins
 coctoantigen
 carries
