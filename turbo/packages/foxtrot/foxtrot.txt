@@ -9976,7 +9976,7 @@ fort
 fliest
 fairness
 fossilising
-frijole
+frijole 1
 fourcher
 footprint
 footpaths
