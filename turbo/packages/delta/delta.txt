@@ -5891,7 +5891,7 @@ disprofit
 damsel
 diploptera
 dyscrasy
-depressed
+depressed 1
 disaccustomed
 dispender
 danicism
