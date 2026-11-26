@@ -8404,7 +8404,7 @@ anticomet
 aerodromics
 alisp
 alisphenoidal
-asynapsis
+asynapsis 1
 aliter
 archaiser
 ality

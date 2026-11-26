@@ -6107,7 +6107,7 @@ gnaws
 gramineous
 gneiss
 glengarries
-gullibly
+gullibly 1
 gryphosaurus
 gnessic
 gastromancy
