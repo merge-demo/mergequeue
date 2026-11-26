@@ -130,7 +130,7 @@ fumiferous
 flashforwards
 feedhead
 fibre
-fossiled
+fossiled 1
 facsimiled
 falser
 fracturable
