@@ -5096,7 +5096,7 @@ epilogic
 estray
 explanitory
 exsanguinous
-exprobratory
+exprobratory 1
 endocoele
 enaliosaurian
 exploiter
