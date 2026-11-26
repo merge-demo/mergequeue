@@ -21528,7 +21528,7 @@ asperula
 ambulatoria
 anticovenanting
 archeion
-adiaphanous
+adiaphanous 1
 alluvium
 axolotls
 astrobotany
