@@ -28516,7 +28516,7 @@ crebricostate
 crebrisulcate
 cooeys
 coteau
-canny
+canny 1
 crebrous
 creche
 creda
