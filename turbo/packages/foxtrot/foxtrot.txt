@@ -10622,7 +10622,7 @@ franc 1
 frontalis
 forswearing
 flumped
-forwaste
+forwaste 1
 fractostratus
 fleeting
 frugalities
