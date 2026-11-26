@@ -5367,7 +5367,7 @@ afformative
 abuseful
 affrayers
 affraying
-affrays
+affrays 1
 admeasured
 affranchise
 autocarist
