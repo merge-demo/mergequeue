@@ -10184,7 +10184,7 @@ easeful
 emancipatress
 encoders
 executives
-ethernet
+ethernet 1
 enumerations
 exudate
 emancipation
