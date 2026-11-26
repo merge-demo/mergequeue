@@ -17372,7 +17372,7 @@ arithmometer
 apostille
 argos
 antagonist
-aglycosuric
+aglycosuric 1
 anatiferous
 apostleship
 abaisse
