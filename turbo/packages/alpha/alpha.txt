@@ -24138,7 +24138,7 @@ adcon
 andiron
 autognostic
 antimartyr
-articulus
+articulus 1
 acanthocarpous
 anticapitalistic
 autografting
