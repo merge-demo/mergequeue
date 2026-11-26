@@ -555,7 +555,7 @@ camlets
 cadlock
 colourlessly
 cadmia
-cadmic
+cadmic 1
 cateran
 convito
 crabsidle
