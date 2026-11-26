@@ -17159,7 +17159,7 @@ apographic
 apographical
 antibreakage
 autosensitization
-apoidea
+apoidea 1
 astucity
 agricultural
 apoious
