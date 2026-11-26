@@ -5227,7 +5227,7 @@ endleaves
 extravagances
 euchroic
 euhemerising
-enantiomeride
+enantiomeride 1
 extrascriptural
 escartelly
 esphresis
