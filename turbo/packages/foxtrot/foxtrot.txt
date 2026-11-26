@@ -3369,7 +3369,7 @@ foreyards
 fusilades
 fastigate
 foollike
-fulmen
+fulmen 1
 forcut
 fopling
 fossilification
