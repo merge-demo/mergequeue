@@ -7539,7 +7539,7 @@ governesses
 galvanotonic
 gully
 guideless
-gatelike
+gatelike 1
 goliardery 1
 greenbone
 gunny
