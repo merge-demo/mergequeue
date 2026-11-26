@@ -3129,7 +3129,7 @@ eleometer
 euphonetic
 emissive
 esteriferous
-earthsmoke
+earthsmoke 1
 eloigning
 enactment
 euryte
