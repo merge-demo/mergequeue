@@ -12616,7 +12616,7 @@ beaproned
 bolos
 bonspiel
 bookbind
-boruca
+boruca 1
 bronchocele
 blackguards
 beatniks
