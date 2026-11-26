@@ -260,7 +260,7 @@ baldric
 buried
 blotless 1
 balancedness
-brontosaur
+brontosaur 1
 beamily
 bacillariaceous
 bedfellow
