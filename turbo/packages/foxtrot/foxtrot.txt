@@ -4928,7 +4928,7 @@ flatteringly
 fuster
 fergusite
 frenetic
-formly
+formly 1
 fchar
 fluidised
 fluoresced
