@@ -2921,7 +2921,7 @@ gaeldom
 geocyclic
 geraldine
 guardiancy
-gneissoid
+gneissoid 1
 gorsy
 glideless
 gynaecocracies
