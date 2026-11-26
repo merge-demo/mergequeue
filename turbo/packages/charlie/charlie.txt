@@ -29151,7 +29151,7 @@ crioceratite
 cinefaction
 crioceratitic
 companionably
-chirruping
+chirruping 1
 committedly
 cheque
 cranioscopist
