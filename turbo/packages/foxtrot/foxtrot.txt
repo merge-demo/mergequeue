@@ -3194,7 +3194,7 @@ fixage
 frontages
 fruits
 fiches
-findjan
+findjan 1
 feracious
 flutterers
 fetlow
