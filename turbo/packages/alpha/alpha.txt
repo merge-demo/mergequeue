@@ -16350,7 +16350,7 @@ antiputrefactive
 antitropy
 asonia
 arculite
-afros
+afros 1
 adfroze
 absonant
 antitruster
