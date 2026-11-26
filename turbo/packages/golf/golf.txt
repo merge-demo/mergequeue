@@ -4837,7 +4837,7 @@ gunnel
 gleg
 gigantize
 greenings
-goiterogenic
+goiterogenic 1
 gladfulness
 goombay
 galaxian
