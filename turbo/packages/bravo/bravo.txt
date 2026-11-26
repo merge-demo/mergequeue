@@ -12211,7 +12211,7 @@ bunkum
 bollworm
 blizzardly
 bolo
-bannerman
+bannerman 1
 bodock
 bicron
 bogberries 1
