@@ -523,7 +523,7 @@ discocarpous
 dalmatic
 dalt
 dawen
-dalton
+dalton 1
 denomination
 dermaskeleton
 dama
