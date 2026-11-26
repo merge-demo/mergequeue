@@ -10611,7 +10611,7 @@ fontinalaceae
 festooned
 flabbergasting
 freeby
-feudalizable
+feudalizable 1
 flaxwoman
 forerunner
 farceurs
