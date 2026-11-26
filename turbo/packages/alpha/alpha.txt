@@ -11842,7 +11842,7 @@ aerides
 analyses 1
 acquisited
 antimoniate
-analyst
+analyst 1
 antiwhitism
 amphophilic
 acrobat
