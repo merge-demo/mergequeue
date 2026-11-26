@@ -942,7 +942,7 @@ absorpt
 absorptiometer
 allegeable
 alive
-analcites
+analcites 1
 absorptional
 aggregate
 actinopoda
