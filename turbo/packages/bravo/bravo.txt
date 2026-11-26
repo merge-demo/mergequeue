@@ -17748,7 +17748,7 @@ bede
 baneberries
 bejumbled
 burnoosed
-burnoused
+burnoused 1
 bumfs
 burnside
 bilharzia

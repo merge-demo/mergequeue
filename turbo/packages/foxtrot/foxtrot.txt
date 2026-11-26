@@ -5980,7 +5980,7 @@ firkin
 fawn
 forecasters
 footscald
-fulah
+fulah 1
 fixures
 flashness
 floorcloths
