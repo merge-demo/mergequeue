@@ -8325,7 +8325,7 @@ emulating
 eagling
 epitheme
 eudemony
-effierce
+effierce 1
 evangelise
 enscrolls
 eland
