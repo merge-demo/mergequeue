@@ -9292,7 +9292,7 @@ diplomat
 dietotherapy
 dietotoxic
 detersive
-depletable
+depletable 1
 diluvions
 depilation
 dietrichite
