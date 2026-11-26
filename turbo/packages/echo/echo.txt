@@ -805,7 +805,7 @@ enter
 euplotid
 emplection
 extravisceral 1
-evincibly
+evincibly 1
 electrophotography
 ectasis
 endothia
