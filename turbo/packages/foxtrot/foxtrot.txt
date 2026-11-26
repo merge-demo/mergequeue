@@ -11562,7 +11562,7 @@ ferociousness 1
 footlessly
 fluidizer
 fetting
-fusiform
+fusiform 1
 fusil
 fowage
 fingerspin
