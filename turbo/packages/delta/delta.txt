@@ -11832,7 +11832,7 @@ disciplinate
 discussion
 dominations
 drumfires
-dispels
+dispels 1
 disulphone
 dromomania
 dinned
