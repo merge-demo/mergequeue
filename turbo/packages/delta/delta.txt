@@ -3219,7 +3219,7 @@ drool
 dens
 dolichocnemic
 drunkards
-dissheathe
+dissheathe 1
 demoniac
 defenceable
 dekle 1
