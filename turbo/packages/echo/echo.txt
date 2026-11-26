@@ -12753,7 +12753,7 @@ exortion
 endodontia
 exosmose
 exosmotic
-eclampsia
+eclampsia 1
 explicative
 erotize
 ensembles
