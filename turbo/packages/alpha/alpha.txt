@@ -5505,7 +5505,7 @@ aftercataract
 afterclause
 australasian
 acrostichic
-alt
+alt 1
 aftercooler
 autocollimate
 ack
