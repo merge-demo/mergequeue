@@ -21942,7 +21942,7 @@ cornfield
 clubrooms
 confessedly
 coiners
-confessingly
+confessingly 1
 confessional
 confessionalism
 confessionally
