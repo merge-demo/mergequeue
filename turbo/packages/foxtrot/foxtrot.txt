@@ -8673,7 +8673,7 @@ febrifuge
 frankhearted
 favoress
 flattens
-fame
+fame 1
 faciendum
 forgive
 flotage
