@@ -21050,7 +21050,7 @@ conjured
 crassilingual
 compunction
 curvedness
-catenaries
+catenaries 1
 consolidate
 compunctionless
 cyanean
