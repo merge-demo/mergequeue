@@ -3394,7 +3394,7 @@ epitomize
 eucharistized
 embarkment
 embarks
-equipage
+equipage 1
 embosked
 exteroceptor
 elohist
