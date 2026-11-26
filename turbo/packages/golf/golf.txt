@@ -1870,7 +1870,7 @@ gaucho
 generalists
 gerbillus
 germaniums
-groundable
+groundable 1
 gowd
 grails
 golland 1
