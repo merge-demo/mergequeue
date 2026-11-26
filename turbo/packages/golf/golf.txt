@@ -483,7 +483,7 @@ gospelize
 gravitationally
 gemmery
 geelhout
-glutoid
+glutoid 1
 galeorhinidae
 grouches
 garaged
