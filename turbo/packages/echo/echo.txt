@@ -1553,7 +1553,7 @@ exsected
 eupeptically 1
 ensconces
 enervates
-erosible
+erosible 1
 extraversion
 encampment
 epinasty
