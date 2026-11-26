@@ -11329,7 +11329,7 @@ delimiter
 dischevel
 dissimulator
 disci
-diabases
+diabases 1
 dermatocele
 disciflorae
 disunifying

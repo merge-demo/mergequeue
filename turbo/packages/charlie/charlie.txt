@@ -30500,7 +30500,7 @@ corozos
 cubane
 cubanite
 cubatory
-contraclockwise
+contraclockwise 1
 counterweighed
 cubby
 cavin
