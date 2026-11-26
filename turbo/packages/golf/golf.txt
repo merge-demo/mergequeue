@@ -2324,7 +2324,7 @@ galopin
 geldings
 garlandage
 gelated
-gorgets
+gorgets 1
 gymnics
 geographism
 glassy
