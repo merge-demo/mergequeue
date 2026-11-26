@@ -2878,7 +2878,7 @@ flowstone
 farcin
 freighted
 fackins
-firefighters
+firefighters 1
 fettucini
 fungiferous
 froglike
