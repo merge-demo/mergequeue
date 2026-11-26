@@ -19705,7 +19705,7 @@ aggregates
 atwitter
 aristocraticism
 araroba
-affabrous
+affabrous 1
 amanuensis
 aristocratism
 aristocrats
