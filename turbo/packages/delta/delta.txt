@@ -9865,7 +9865,7 @@ dimensum
 disangularize
 decadency
 deludable
-deboner
+deboner 1
 decolonising
 daturic
 deuteronomist
