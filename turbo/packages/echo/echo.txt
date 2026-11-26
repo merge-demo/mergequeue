@@ -2225,7 +2225,7 @@ eldritch
 enchased
 eulogy
 elecives
-electant
+electant 1
 elect
 epitheliulia
 electary
