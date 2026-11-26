@@ -10417,7 +10417,7 @@ doglegging
 disfigurative
 deticking
 diphenoxylate
-diphysite
+diphysite 1
 dosimeters
 damask
 discolith
