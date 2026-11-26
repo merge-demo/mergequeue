@@ -2152,7 +2152,7 @@ decapitation
 deterrable
 decapitations
 disassemble
-distresses
+distresses 1
 downfall
 decalcomanias
 decapodal
