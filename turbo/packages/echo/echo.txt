@@ -13005,7 +13005,7 @@ espiegle
 embryonal
 ezba
 eperotesis
-entastic
+entastic 1
 existentially
 esophagectomy
 ergotic
