@@ -21750,7 +21750,7 @@ condo
 condoled
 condolence
 calyptro
-condolent
+condolent 1
 cruiserweight
 cuna
 calodemon
