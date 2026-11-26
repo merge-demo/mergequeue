@@ -2048,7 +2048,7 @@ gutlessness
 gavots
 gazetteership
 gomari
-giftless
+giftless 1
 glossers
 gingkoes
 gnawer
