@@ -12272,7 +12272,7 @@ boltin
 beslimed
 boltlike
 blindling
-beaupers
+beaupers 1
 boltmaker
 bunga
 blee
