@@ -1426,7 +1426,7 @@ baleys
 baleise
 batty
 beslave
-biporose
+biporose 1
 bombastically
 boun
 balestra
