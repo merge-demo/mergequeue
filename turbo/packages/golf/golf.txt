@@ -8501,7 +8501,7 @@ gibaro
 gregarinina
 garum
 glisteningly
-glossotype
+glossotype 1
 gurgle
 gravely
 galops
