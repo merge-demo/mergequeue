@@ -14943,7 +14943,7 @@ decimetres
 dissuitable
 doesn
 desiccatory
-doffing
+doffing 1
 demiracle
 diaphanometry
 dhikr
