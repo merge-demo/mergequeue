@@ -8189,7 +8189,7 @@ grim
 gem
 grapes
 grapeskin
-galenical
+galenical 1
 grouted
 grapestalk
 goracco
