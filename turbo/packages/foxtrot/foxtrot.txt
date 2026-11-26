@@ -5223,7 +5223,7 @@ fingall
 flytrap
 flatnose
 flavescent
-funguses
+funguses 1
 flews
 fulfil
 fleas
