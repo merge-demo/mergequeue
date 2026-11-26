@@ -4471,7 +4471,7 @@ febricity
 fishplate
 feste
 fate
-fishpole
+fishpole 1
 fishpoles
 flueless
 flameproof
