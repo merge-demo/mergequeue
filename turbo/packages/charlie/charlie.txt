@@ -2548,7 +2548,7 @@ candlerent 1
 concealed
 candlers
 casework
-collaborated
+collaborated 1
 candleshine
 conceders
 chaucerism
