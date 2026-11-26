@@ -31715,7 +31715,7 @@ cusping
 cur
 cuspis
 cusps
-cuspule
+cuspule 1
 crests
 coopery
 cond
