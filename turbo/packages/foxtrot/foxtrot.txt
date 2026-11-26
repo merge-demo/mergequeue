@@ -2318,7 +2318,7 @@ fellowess
 featherheaded
 feaster
 fixities
-fixatifs
+fixatifs 1
 frize
 flagitious
 felis
