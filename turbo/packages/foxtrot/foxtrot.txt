@@ -8318,7 +8318,7 @@ foryield 1
 furnished
 fautorship
 fodge
-fusate
+fusate 1
 forisfamiliation
 ferrotyping
 firmament

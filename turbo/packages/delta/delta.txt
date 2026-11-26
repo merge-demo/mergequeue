@@ -1185,7 +1185,7 @@ diaphragmal
 dastardly
 dragnets
 dreggish
-defected
+defected 1
 datably
 demoiselles
 datafile
