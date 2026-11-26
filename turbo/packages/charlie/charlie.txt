@@ -28877,7 +28877,7 @@ calsouns
 crevasses
 chubasco
 crumblement
-crevet
+crevet 1
 crevette
 creviced
 chorus
