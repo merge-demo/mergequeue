@@ -15905,7 +15905,7 @@ derecho
 dims
 distileries
 dossmen
-dissemblies
+dissemblies 1
 decamerous
 desaminase
 downcried
