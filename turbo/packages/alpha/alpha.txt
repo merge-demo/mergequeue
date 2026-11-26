@@ -12947,7 +12947,7 @@ adoptees
 aire
 anthozoon
 ango
-angoise
+angoise 1
 angolese
 arbitral
 assertoric
