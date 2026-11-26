@@ -3424,7 +3424,7 @@ errand
 enwombing
 exolete
 exemplar
-ecliptic
+ecliptic 1
 embatholithic
 elayl
 enfiladed
