@@ -3425,7 +3425,7 @@ caprifig
 caprifole
 caprifoliaceae
 caprifolium
-capriform
+capriform 1
 caprylic
 cymene
 caprylyl
