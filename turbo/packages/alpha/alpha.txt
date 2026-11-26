@@ -1445,7 +1445,7 @@ anagignoskomena
 acclaimer
 afterwrist
 acclamator
-arrowheaded
+arrowheaded 1
 acclimatable
 acclimatement
 attires
