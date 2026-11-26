@@ -6976,7 +6976,7 @@ biffing
 bigheartedness
 bactris
 bankfull
-besmooth
+besmooth 1
 besmooths
 betrust
 bleeders
