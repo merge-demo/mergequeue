@@ -10880,7 +10880,7 @@ filigreing
 filecard
 filagreing
 fusain
-foreskins
+foreskins 1
 feston
 fango
 freestone
