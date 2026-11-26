@@ -6891,7 +6891,7 @@ flammeous
 freith
 fidepromission
 folklike
-feasible
+feasible 1
 fallace
 folklores
 fp
