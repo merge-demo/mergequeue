@@ -11524,7 +11524,7 @@ catagenesis
 costoxiphoid
 cholaemia
 cholalic
-coeffect
+coeffect 1
 coquimbite
 cliseometer
 cavers
