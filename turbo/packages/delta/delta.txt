@@ -18650,7 +18650,7 @@ dutymonger
 deactivations
 disalignment
 decury
-definiteness
+definiteness 1
 drowsily
 disubstitution
 discountenanced
