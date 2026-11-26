@@ -3627,7 +3627,7 @@ antepectoral
 asaprol
 adenocystomatous
 adenodynia
-apotheces
+apotheces 1
 antral
 arcade
 aggelation
