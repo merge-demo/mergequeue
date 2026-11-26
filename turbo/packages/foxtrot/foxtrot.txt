@@ -1897,7 +1897,7 @@ fizzwater
 fecundator
 foodless
 fimbrial
-fuligula
+fuligula 1
 fallow
 fewer
 flintier
