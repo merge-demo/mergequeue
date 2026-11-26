@@ -2067,7 +2067,7 @@ encumberer
 euthyneural
 eulogises
 elapine
-endysis
+endysis 1
 eutectics
 edictal
 entraps
