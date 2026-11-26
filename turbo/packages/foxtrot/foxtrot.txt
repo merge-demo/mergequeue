@@ -6545,7 +6545,7 @@ fluttering
 forswears
 flameless
 feedboard
-flensing
+flensing 1
 flutterment
 flimflammed
 fluxionally 1
