@@ -2800,7 +2800,7 @@ ensnarling
 elenchi
 elenchic
 elves
-emergently
+emergently 1
 elenchize
 ecthlipsis
 eath
