@@ -9426,7 +9426,7 @@ chevon
 commendatory
 cheapest
 cheapish
-cheaply
+cheaply 1
 cheapness
 cladoselachea
 cheapos
