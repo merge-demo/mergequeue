@@ -9803,7 +9803,7 @@ felicity
 fretum
 fidget
 faultless
-fossilizes
+fossilizes 1
 fluors
 fovilla
 filthiness
