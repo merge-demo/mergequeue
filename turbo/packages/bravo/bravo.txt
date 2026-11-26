@@ -4151,7 +4151,7 @@ bodywise
 bengalic
 bumpkinish
 buoyantness
-brinsell
+brinsell 1
 bracteal 1
 beastlily
 balmiest
