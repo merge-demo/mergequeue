@@ -1099,7 +1099,7 @@ fellatrixes
 fudgy
 fastback 1
 flowing
-farrisite
+farrisite 1
 farfetched
 fleerish
 firehalls
