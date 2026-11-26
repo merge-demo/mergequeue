@@ -7152,7 +7152,7 @@ demolitions
 dynamometric
 depictor
 deambulate
-desulfurs
+desulfurs 1
 diothelism
 disheartener
 daphnetin
