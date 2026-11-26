@@ -12574,7 +12574,7 @@ emanative
 epitonium
 ectethmoid
 endostoma
-enriches
+enriches 1
 effectualness
 epigenetically
 erasmian
