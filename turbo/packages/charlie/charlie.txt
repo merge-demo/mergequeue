@@ -17200,7 +17200,7 @@ coagulator
 cozeys
 chemick
 chagrined
-coaguline
+coaguline 1
 coagulometer
 coahuiltecan
 cantic
