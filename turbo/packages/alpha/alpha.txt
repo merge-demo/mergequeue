@@ -13664,7 +13664,7 @@ anodized
 abaisance
 anodizes
 acoelomous
-ampollosity
+ampollosity 1
 antituberculous
 anticum
 anesthesia
