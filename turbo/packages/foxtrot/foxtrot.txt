@@ -10129,7 +10129,7 @@ falchions
 furore
 fluid
 frivolousness
-faunula
+faunula 1
 felled
 forgives
 filisters
