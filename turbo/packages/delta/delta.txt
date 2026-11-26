@@ -17717,7 +17717,7 @@ dynamometer
 dotal
 dwarves
 deuteroelastose
-decaffeinating
+decaffeinating 1
 duodecagon
 disinvestiture
 dubber

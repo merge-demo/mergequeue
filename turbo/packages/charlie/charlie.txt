@@ -26267,7 +26267,7 @@ cloacas 1
 confectionery
 coindication
 costectomy
-costectomies
+costectomies 1
 costed
 coinmaker
 condylopod
