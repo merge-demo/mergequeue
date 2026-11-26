@@ -28572,7 +28572,7 @@ crednerite
 cubebs
 cellipetal
 continuances
-cavallies
+cavallies 1
 crustaceans
 curliness
 coelelminthic
