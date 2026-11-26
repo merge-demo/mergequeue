@@ -30441,7 +30441,7 @@ crimpled
 csp 1
 csw
 ct
-catharized
+catharized 1
 crow
 ctenidial
 ctenidium
