@@ -15010,7 +15010,7 @@ doggerelism
 doggerelist
 desperate
 doggerelizing
-depots
+depots 1
 diphthongising
 disrout
 durnedest
