@@ -4291,7 +4291,7 @@ gumlike
 gabfests
 glyptotherium
 garryaceae
-goboes
+goboes 1
 glabellum
 gynandrian
 gynecratic
