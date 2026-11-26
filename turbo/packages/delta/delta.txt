@@ -5004,7 +5004,7 @@ deicing
 deurbanize
 dacoited
 demultiplexers
-disroot
+disroot 1
 desexing
 deposed
 dinamode
