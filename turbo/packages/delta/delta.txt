@@ -1442,7 +1442,7 @@ disparagingly
 disaster
 dawnward
 dud
-drooliest
+drooliest 1
 dawpate
 diminished
 displants
