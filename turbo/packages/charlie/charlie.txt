@@ -7900,7 +7900,7 @@ caquet
 cebids
 chaetangium
 congregationally
-curdwort
+curdwort 1
 cratometric
 cetiosaurian
 cetology
