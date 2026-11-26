@@ -4852,7 +4852,7 @@ episcopolatry
 encrinic
 encrinidae
 elegance
-encroacher
+encroacher 1
 equalizing
 exponentiations
 elemental
