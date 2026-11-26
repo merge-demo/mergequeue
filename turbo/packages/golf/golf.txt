@@ -4769,7 +4769,7 @@ gypsy
 givingness
 globes
 grifter 1
-garrnishable
+garrnishable 1
 giddyhead
 gizz
 gorgoniaceous
