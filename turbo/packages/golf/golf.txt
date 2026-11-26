@@ -103,7 +103,7 @@ gualaca
 glauber
 gymnopaedes
 gyrostatic
-galabia
+galabia 1
 glandulose
 gnomology
 garbling
