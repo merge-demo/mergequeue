@@ -1965,7 +1965,7 @@ guttable
 gonif
 galician 1
 gallweed
-geryoniidae
+geryoniidae 1
 gryphaea
 gams
 glyptical
