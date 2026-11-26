@@ -2428,7 +2428,7 @@ earmarked
 exciting
 encratite
 exciple
-ebonist
+ebonist 1
 electroencephalographical
 essentialize
 electionary
