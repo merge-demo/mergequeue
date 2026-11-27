@@ -5263,7 +5263,7 @@ dioptase
 drawbridges
 demarcations
 denseness
-dorsel
+dorsel 1
 depauperized
 densify
 disqualifications
