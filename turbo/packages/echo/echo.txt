@@ -11666,7 +11666,7 @@ electrotactic
 eadish
 exaggerate
 explainable
-electrize
+electrize 1
 exaggerated
 eccentricity
 electrocautery
