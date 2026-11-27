@@ -10137,7 +10137,7 @@ errs
 expositress
 enumerators
 eurhodine
-embace
+embace 1
 expansion
 epilogical
 effluent
