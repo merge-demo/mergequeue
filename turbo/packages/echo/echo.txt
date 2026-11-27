@@ -3300,7 +3300,7 @@ enclose
 euplastic
 emanational
 extrapelvic
-enosist
+enosist 1
 eobiont
 enthraller
 ennuied
