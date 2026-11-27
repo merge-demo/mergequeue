@@ -11715,7 +11715,7 @@ fosslology 1
 flighty
 fawnskin
 folkland
-fados
+fados 1
 fritter
 feudalised
 forecool
