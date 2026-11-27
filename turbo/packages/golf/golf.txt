@@ -2548,7 +2548,7 @@ gonochorism
 galenites
 grosses
 gunport 1
-gaiterless
+gaiterless 1
 giveaways
 generalized
 graywall
