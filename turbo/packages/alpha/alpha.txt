@@ -11798,7 +11798,7 @@ axhammer
 anchietea
 antarctica
 analcimite
-authigene
+authigene 1
 aerophilic
 aggrieved
 aerosporin
