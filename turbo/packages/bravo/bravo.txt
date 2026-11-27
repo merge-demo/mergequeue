@@ -7962,7 +7962,7 @@ bellworts
 bicyanide
 beadhouses
 bicyclers
-bicyclic
+bicyclic 1
 bicyclism
 bathinette
 blastaea
