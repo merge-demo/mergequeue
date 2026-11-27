@@ -6445,7 +6445,7 @@ earfuls
 encheck
 environments
 exercisable
-ensorcellment
+ensorcellment 1
 ensorrow
 encumberment
 endometriosis
