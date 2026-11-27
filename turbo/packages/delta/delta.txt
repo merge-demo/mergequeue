@@ -2505,7 +2505,7 @@ dateable
 decibar
 dendrochronology
 drysaltery
-displeasingly
+displeasingly 1
 discussionism
 dimming
 dreamsily
