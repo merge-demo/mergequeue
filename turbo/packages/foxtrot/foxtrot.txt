@@ -4604,7 +4604,7 @@ foliages
 feetage
 fisheye
 fieldstone
-fistuca
+fistuca 1
 freest
 filmist
 forbbore
