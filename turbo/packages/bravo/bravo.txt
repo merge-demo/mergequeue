@@ -215,7 +215,7 @@ begary
 bioassays
 bigwigged
 bradyesthesia
-brainpower
+brainpower 1
 biofog
 bandicoot
 baccy
