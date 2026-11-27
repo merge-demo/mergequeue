@@ -12893,7 +12893,7 @@ angle
 arenarious
 annalism
 agentive
-angled
+angled 1
 argenol
 apostil
 anglehook
