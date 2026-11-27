@@ -19942,7 +19942,7 @@ commandable
 commandatory
 commanded
 confervaceae
-commandedness
+commandedness 1
 coelacanthine
 commandeer
 corbeling
