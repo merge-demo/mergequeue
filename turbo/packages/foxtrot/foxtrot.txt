@@ -3620,7 +3620,7 @@ foregut 1
 filiformed
 footmaker
 frisbees
-flook
+flook 1
 farmable
 fridstool
 flashing
