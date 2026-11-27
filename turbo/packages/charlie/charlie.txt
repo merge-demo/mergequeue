@@ -5084,7 +5084,7 @@ casave
 casavi
 cascabel
 cesspipe
-coestate
+coestate 1
 cytocide
 chemoprophylaxis
 cascable
