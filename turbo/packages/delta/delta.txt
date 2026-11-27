@@ -1232,7 +1232,7 @@ dibstones
 drivehead
 disembarkation
 defecating
-disemplane
+disemplane 1
 disobligation
 dateless
 datelessness
