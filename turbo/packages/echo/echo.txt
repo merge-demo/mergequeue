@@ -7753,7 +7753,7 @@ engraff
 ecce
 eyebree
 ebullioscopy
-egoism
+egoism 1
 embrocating
 embosom
 ethnologist
