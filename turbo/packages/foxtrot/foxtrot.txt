@@ -6645,7 +6645,7 @@ foehnlike
 faulted
 fumbling
 fulgurating
-forenotice
+forenotice 1
 foemanship
 fripperer
 fecifork 1
