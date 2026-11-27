@@ -6426,7 +6426,7 @@ espave
 espousal
 expandibility
 ensnared
-ensnarer
+ensnarer 1
 elementish
 edental
 evenmete
