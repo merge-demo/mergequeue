@@ -28943,7 +28943,7 @@ cribose
 cribrate
 cribriform
 cribriformity
-cribs
+cribs 1
 conelike
 cribworks
 cardinalate
