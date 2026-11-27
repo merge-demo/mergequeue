@@ -11664,7 +11664,7 @@ daubiest
 disjunction
 dele
 discouraged
-discouragingly
+discouragingly 1
 dangerful
 diastasis
 discourses
