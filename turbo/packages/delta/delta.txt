@@ -1640,7 +1640,7 @@ dealkylate
 diplont
 daundered
 disassembler
-deallocate
+deallocate 1
 decurved
 deobstruct
 devotional
