@@ -840,7 +840,7 @@ fenny
 frogeyes
 formfitting
 fixatives
-fluctuations
+fluctuations 1
 fanjet
 fons
 flemings
