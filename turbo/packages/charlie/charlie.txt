@@ -29534,7 +29534,7 @@ crithidia
 crithomancy
 critic
 coheir
-criticalness
+criticalness 1
 coendured
 centervelic
 colophonist
