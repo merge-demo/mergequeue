@@ -10392,7 +10392,7 @@ blankets
 bhoot
 brisement
 blankish
-blankly
+blankly 1
 boneless
 bagmen
 baidya 1
