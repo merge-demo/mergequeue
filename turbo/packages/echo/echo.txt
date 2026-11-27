@@ -10633,7 +10633,7 @@ excavate
 endozoa
 eques 1
 enharmonical 1
-eoghanacht
+eoghanacht 1
 enchilada
 eudemonistic
 enfacement
