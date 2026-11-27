@@ -4307,7 +4307,7 @@ fungology
 firmarii
 frutices
 furmeties
-flunkeys
+flunkeys 1
 forrader
 filthier
 farhand
