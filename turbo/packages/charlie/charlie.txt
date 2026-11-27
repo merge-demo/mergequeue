@@ -10080,7 +10080,7 @@ chesser
 cabinda
 chesses
 chessylite
-chessist
+chessist 1
 chirimen
 chessner
 chessom
