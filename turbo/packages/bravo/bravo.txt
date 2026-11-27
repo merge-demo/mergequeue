@@ -9009,7 +9009,7 @@ boulevardier
 bringal
 bitentaculate
 busheler
-barbershop
+barbershop 1
 burnouts
 boldface
 beauxite
