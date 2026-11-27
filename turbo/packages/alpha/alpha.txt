@@ -21672,7 +21672,7 @@ athetizing
 assart
 antistriker
 agnized
-assassinate
+assassinate 1
 azoeosin
 achromats
 afikomen
