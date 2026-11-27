@@ -4770,7 +4770,7 @@ bedribble
 burglarizes
 bibracteate
 billfold
-barbarize
+barbarize 1
 bucktails
 bronchially
 benet
