@@ -746,7 +746,7 @@ dandier
 drybrained
 dreaminess
 detachs
-dandify
+dandify 1
 dissipatedness
 dimmit
 dispeopler
