@@ -13079,7 +13079,7 @@ cibory
 ciboules
 cyc
 cycadaceae
-canopied
+canopied 1
 crimpiest
 convulsional
 cicadas
