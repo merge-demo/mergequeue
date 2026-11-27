@@ -4973,7 +4973,7 @@ aerometer
 aspen
 amygdalus
 amenite
-amphictyonies
+amphictyonies 1
 autonomously
 antelucan
 aerobranchiate
