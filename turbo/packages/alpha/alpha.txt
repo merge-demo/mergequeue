@@ -16586,7 +16586,7 @@ abioses
 antitrochanter
 allochetia
 apalit
-apanaged
+apanaged 1
 alouatta
 apandry
 autolithographic
