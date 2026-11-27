@@ -2206,7 +2206,7 @@ epistome
 endodontology 1
 esophagoplication
 eldermen
-entailing
+entailing 1
 enumerating
 elementarily
 endognathion
