@@ -10073,7 +10073,7 @@ firster
 foredecree
 formalise
 fearfulness
-footwear
+footwear 1
 finfishes
 flightshot
 feridji
