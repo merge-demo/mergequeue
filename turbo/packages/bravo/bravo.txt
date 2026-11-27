@@ -14099,7 +14099,7 @@ blackberries
 barytine
 boarders
 brachygraphical
-bikol
+bikol 1
 berlinite
 burkites
 behaviour
