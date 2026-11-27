@@ -26974,7 +26974,7 @@ cullionry
 canthus
 countermission
 coinfeftment
-chromophor
+chromophor 1
 circumsciss
 carburizing
 countermoved
