@@ -11017,7 +11017,7 @@ bottleholder
 blk
 birri
 bhoosa
-bigonial
+bigonial 1
 bakwiri
 bromin
 buckshot
