@@ -2196,7 +2196,7 @@ differing
 directorship
 dissympathy
 decarburized
-diaphragmatic
+diaphragmatic 1
 disgraceful
 dongolese
 disinfective
