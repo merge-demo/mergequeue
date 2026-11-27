@@ -5699,7 +5699,7 @@ glossalgy
 glossarize
 gelatinization
 grieffully
-gnathonize
+gnathonize 1
 gahrwali
 guggling
 gumflower
