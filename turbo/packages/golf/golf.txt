@@ -3009,7 +3009,7 @@ gallicolous
 geminate
 guiding
 geomantically
-geoponics
+geoponics 1
 galvayning
 gaggler
 grammatical
