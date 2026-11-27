@@ -12008,7 +12008,7 @@ ectromelian
 exclusive
 enaunter
 etiquettical
-effectuality
+effectuality 1
 enforceability
 enamelled
 exclusivistic
