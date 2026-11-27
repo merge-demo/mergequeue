@@ -11621,7 +11621,7 @@ anachronismatical
 achamoth
 agars
 anachronize
-animalish
+animalish 1
 albuminuria
 allothigenic
 annoyancer
