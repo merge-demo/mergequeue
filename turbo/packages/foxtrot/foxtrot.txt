@@ -7838,7 +7838,7 @@ findings
 foreplay
 feudally
 fratricides
-fencible
+fencible 1
 flits
 frolicked
 flagellating
