@@ -2679,7 +2679,7 @@ genic
 gradgrindian
 gooseweed
 geniculately
-geniculation
+geniculation 1
 granule
 gemarist
 gigantocyte
