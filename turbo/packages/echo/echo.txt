@@ -4310,7 +4310,7 @@ elytroclasia
 expulsive
 expansibleness
 enactor
-epigrammatize
+epigrammatize 1
 entoproct
 eloquence
 exclaustration
