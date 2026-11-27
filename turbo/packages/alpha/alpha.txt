@@ -4817,7 +4817,7 @@ ausones
 aspermatism
 aeroballistic
 aerobate
-aerobatic
+aerobatic 1
 arsenism
 anthropolater
 aerobia
