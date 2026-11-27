@@ -2392,7 +2392,7 @@ coffined
 canceled
 charlemagne
 canceleer
-cancellable
+cancellable 1
 contrasters
 cyprinidae
 cancellarius
