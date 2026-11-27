@@ -5378,7 +5378,7 @@ esquiline
 empyreum
 eophyte
 encashment
-eccentrometer
+eccentrometer 1
 endothermal
 endothermy
 ectopatagia
