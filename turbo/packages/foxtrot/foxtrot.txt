@@ -4925,7 +4925,7 @@ flidder
 frogflower
 facetiously
 flatteringly
-fuster
+fuster 1
 fergusite
 frenetic
 formly
