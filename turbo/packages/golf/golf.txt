@@ -8508,7 +8508,7 @@ galops
 groupers
 gayal
 grata
-galleon
+galleon 1
 guv
 geomorphological
 geotectonically
