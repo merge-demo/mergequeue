@@ -17030,7 +17030,7 @@ cnidocil
 cobbed
 coexplosion
 cortisone
-cnidopod
+cnidopod 1
 conoids 1
 confoundable
 cardiacs
