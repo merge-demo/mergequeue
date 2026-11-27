@@ -12269,7 +12269,7 @@ exemptions
 ephemerist
 eviternal
 eg
-excerp
+excerp 1
 exemptive
 exendospermous
 exenterate
