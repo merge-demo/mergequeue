@@ -28652,7 +28652,7 @@ cremators
 coronule
 crembalum
 cutties
-classis
+classis 1
 cremes
 cremone
 cyclothymic
