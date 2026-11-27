@@ -2913,7 +2913,7 @@ divide
 desmodont
 duodecimomos
 dedicant
-dichotic
+dichotic 1
 downbeat
 desulphuret
 disorientating
