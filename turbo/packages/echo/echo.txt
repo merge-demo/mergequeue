@@ -11927,7 +11927,7 @@ exairesis
 esthesis
 endemic
 electrooptical 1
-ensampler
+ensampler 1
 ecoid
 extracostal
 endotheliolysin
