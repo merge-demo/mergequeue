@@ -15037,7 +15037,7 @@ defoliators
 deludher
 demulsify
 diskery
-desmic
+desmic 1
 dimply
 doggish
 doggle
