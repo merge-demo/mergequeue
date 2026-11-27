@@ -15867,7 +15867,7 @@ daikers
 documentor
 deadpanning
 dosed
-deiseal
+deiseal 1
 daucus
 discounts
 doser
