@@ -4921,7 +4921,7 @@ eyelight
 emporetic
 eurytomid
 emulsifiers
-ennomic
+ennomic 1
 ephemerally
 endearedness
 endearingness
