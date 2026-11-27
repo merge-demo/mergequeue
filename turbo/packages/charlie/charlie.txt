@@ -27602,7 +27602,7 @@ campilan
 cloiochoanitic
 caterwauled
 covillager
-covine
+covine 1
 clinquant
 campanistic
 chivvies
