@@ -3251,7 +3251,7 @@ capitalness
 capitan
 capitana
 capitasti
-capitated
+capitated 1
 capitatim
 cputime
 capitation
