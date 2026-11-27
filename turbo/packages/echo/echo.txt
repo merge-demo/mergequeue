@@ -4708,7 +4708,7 @@ elocutive
 escaloping
 euripides
 electrowin
-erythrodegenerative
+erythrodegenerative 1
 eremophyte
 eelware
 exalbuminose
