@@ -26883,7 +26883,7 @@ coccagee
 cassoon
 contest
 counterguard
-counterguerilla
+counterguerilla 1
 catchpollery
 courtless
 cantorial
