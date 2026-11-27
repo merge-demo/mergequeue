@@ -5272,7 +5272,7 @@ enrolles
 ethylmorphine
 enslaves 1
 endocorpuscular
-endorsed
+endorsed 1
 enchantress
 emendating
 effector
