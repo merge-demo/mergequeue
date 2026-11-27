@@ -26236,7 +26236,7 @@ chandeliers
 cyanite
 cossaean
 cosse
-carnivority
+carnivority 1
 cosset
 controled
 cosseting
