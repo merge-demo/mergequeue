@@ -3121,7 +3121,7 @@ apiculation
 antiendotoxin
 anatoly
 angiokinesis
-averted
+averted 1
 actinotrichium
 actinozoa
 actinozoan
