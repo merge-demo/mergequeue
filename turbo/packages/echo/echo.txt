@@ -1445,7 +1445,7 @@ enarbour
 esconson
 electrophoresis
 eelpout 1
-effort
+effort 1
 ethmovomer
 environic
 ergonomic
