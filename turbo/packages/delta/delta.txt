@@ -13805,7 +13805,7 @@ deaspirate
 dirndls
 dissuasively
 detruncate
-dengues
+dengues 1
 dissuit
 dispauperize
 duhat
