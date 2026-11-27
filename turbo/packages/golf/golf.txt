@@ -1156,7 +1156,7 @@ genio
 gnawings
 geochronologist
 gueparde
-galactometry
+galactometry 1
 gnetums
 guffin
 gaol
