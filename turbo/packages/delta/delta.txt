@@ -2791,7 +2791,7 @@ demarchy
 desmogen
 dugal
 dop
-dorsalward
+dorsalward 1
 decremeter
 dicyemida
 demarches
