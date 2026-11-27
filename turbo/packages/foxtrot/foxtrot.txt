@@ -10761,7 +10761,7 @@ flirter
 fletches 1
 forgotten
 footraces
-folious
+folious 1
 firedragon
 frutex
 fruticetum
