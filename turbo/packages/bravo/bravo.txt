@@ -5457,7 +5457,7 @@ brine
 backiebird
 beatless
 behoved
-behoves
+behoves 1
 behoving
 battements
 babbitts
