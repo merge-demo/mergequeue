@@ -617,7 +617,7 @@ feasted
 fogbank
 fourchette
 faddist 1
-farrago
+farrago 1
 flawy
 featherdom
 finders
