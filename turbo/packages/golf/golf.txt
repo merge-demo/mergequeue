@@ -5763,7 +5763,7 @@ goings
 gleeds
 gish
 grimmish
-gloomy
+gloomy 1
 geonim
 grapsoid
 genuine
