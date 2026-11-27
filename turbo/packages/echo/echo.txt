@@ -4473,7 +4473,7 @@ encenter
 ensilage
 endolithic
 encephalartos
-encephalasthenia
+encephalasthenia 1
 effloresced
 endodermis
 escocheon
