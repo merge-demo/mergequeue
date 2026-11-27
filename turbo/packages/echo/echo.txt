@@ -11479,7 +11479,7 @@ enlistees
 eidolic
 electrophotometer
 electroconvulsive
-evigilation
+evigilation 1
 eleemosinar
 emenders
 endocrinous
