@@ -7693,7 +7693,7 @@ effluxion
 estrus
 esprise
 extruder
-ellipticalness
+ellipticalness 1
 epidemically
 evicting 1
 exalt
