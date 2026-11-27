@@ -8416,7 +8416,7 @@ exulceration
 epinasties
 exchange
 electrizer
-evisceration
+evisceration 1
 egyptianize
 equip
 ephymnium
