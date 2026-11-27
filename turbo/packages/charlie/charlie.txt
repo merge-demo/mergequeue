@@ -28767,7 +28767,7 @@ costliness
 cres
 counteraffirmation
 cresc
-comparativeness
+comparativeness 1
 cordelier
 crescendoing
 crescendos
