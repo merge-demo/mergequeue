@@ -16484,7 +16484,7 @@ alkargen
 antum
 ambulatio
 apionol
-antwise
+antwise 1
 anunder
 anesthetically
 aphelinus
