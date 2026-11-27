@@ -24367,7 +24367,7 @@ cookshop
 cookshops
 chiliasms
 cookstove
-colligible
+colligible 1
 copyboy
 contumacies
 coreveler
