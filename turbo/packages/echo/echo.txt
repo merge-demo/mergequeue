@@ -4968,7 +4968,7 @@ engraphic
 endoskeleton
 excreation
 earthgall
-ebonises
+ebonises 1
 exiguous
 endship
 essentia
