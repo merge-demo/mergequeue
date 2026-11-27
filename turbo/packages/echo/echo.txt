@@ -9271,7 +9271,7 @@ erratic
 erratically
 enantiomorphic
 elite
-explosible
+explosible 1
 eulogist
 endosmos
 electropism
