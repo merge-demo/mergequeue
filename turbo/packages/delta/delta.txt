@@ -5342,7 +5342,7 @@ displant
 deadheadism
 dentelure
 duftry
-dealable
+dealable 1
 dorsoventrad
 donatively
 derider
