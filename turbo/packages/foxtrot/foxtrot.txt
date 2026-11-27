@@ -364,7 +364,7 @@ forfeiture
 flyingly
 fellers
 flattering
-fiercening
+fiercening 1
 familiary
 featherway
 finspot
