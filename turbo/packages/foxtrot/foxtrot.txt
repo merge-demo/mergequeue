@@ -10212,7 +10212,7 @@ frogmarch
 flowerful
 flossier
 frighted
-fibrose
+fibrose 1
 franconian
 formalisms
 finespun
