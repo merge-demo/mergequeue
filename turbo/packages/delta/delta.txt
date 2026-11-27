@@ -8230,7 +8230,7 @@ davainea
 ductus
 distrito
 diagnosed
-diagnostical
+diagnostical 1
 diagnostically
 diagnosticate
 denitrating
