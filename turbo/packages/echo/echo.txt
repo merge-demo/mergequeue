@@ -5281,7 +5281,7 @@ emeriti
 epicoracoidal
 elkoshite
 eustachium
-ernest
+ernest 1
 embracingly
 estocs
 ergodicity
