@@ -470,7 +470,7 @@ ecclesia
 enumerable
 ecclesiarchy
 ensnarls
-extoll
+extoll 1
 ecclesiast 1
 entrada
 empasm
