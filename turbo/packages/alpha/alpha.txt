@@ -9976,7 +9976,7 @@ abele
 abluents
 activator
 assayer
-ambaris
+ambaris 1
 afshah
 ambas
 attestation
