@@ -28687,7 +28687,7 @@ candlewicking
 contaminates
 constitutes
 corone
-coplanar
+coplanar 1
 cannophori
 crenelee
 crenellated
