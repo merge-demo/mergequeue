@@ -3356,7 +3356,7 @@ bronchobuster
 basoid
 baraithas
 beltine 1
-banus
+banus 1
 breast
 blowfish
 buoyant
