@@ -1711,7 +1711,7 @@ fearingly
 ferineness
 fearless
 fondlike
-frangible
+frangible 1
 fractable
 ferrament
 fingertip
