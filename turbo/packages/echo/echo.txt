@@ -1384,7 +1384,7 @@ ennead
 enneastylos
 excipula
 epeidia 1
-epilaryngeal
+epilaryngeal 1
 enneandrous
 eubranchipus
 epitympanic
