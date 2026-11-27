@@ -7654,7 +7654,7 @@ enterostasis
 eton
 epicrasis
 epopt
-equinal
+equinal 1
 eumenid
 epithalamus
 encefalon
