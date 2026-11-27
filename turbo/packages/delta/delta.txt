@@ -18403,7 +18403,7 @@ dauncy
 dingo
 disheveled
 demagogy
-duolog
+duolog 1
 duologues
 doubtedly
 disembarkment
