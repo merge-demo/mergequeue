@@ -5756,7 +5756,7 @@ filipiniana
 figmental
 forpass
 folksay
-frise
+frise 1
 flocking
 flited
 frontate
