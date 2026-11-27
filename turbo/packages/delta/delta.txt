@@ -15550,7 +15550,7 @@ deflocculent
 deathsmen
 donum
 donzel
-discovering
+discovering 1
 doubt 1
 diathermize
 donzels
