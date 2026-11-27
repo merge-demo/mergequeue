@@ -10354,7 +10354,7 @@ geum
 goadlike
 gels
 gallivorous
-glaur
+glaur 1
 grouseberry 1
 gelate
 garretmaster
