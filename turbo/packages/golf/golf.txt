@@ -6853,7 +6853,7 @@ grisettish
 graphics
 gorbal
 guaranty
-gibbsites
+gibbsites 1
 globosities
 gluconokinase 1
 guardless
