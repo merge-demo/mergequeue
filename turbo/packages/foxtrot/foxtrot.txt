@@ -8144,7 +8144,7 @@ foretrace
 forecastleman
 fountful
 frequentable
-forwake
+forwake 1
 foreutter
 fillercap
 fairishness
