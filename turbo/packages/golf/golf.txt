@@ -3316,7 +3316,7 @@ gang
 glossologies
 granitiferous
 gentians
-gerundial
+gerundial 1
 gentlewomanlike
 glossopharyngeal
 germier
