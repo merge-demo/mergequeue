@@ -30533,7 +30533,7 @@ catonic
 cubicities
 cofferfish
 cubicula
-costly
+costly 1
 cubicular
 casewood
 celiodynia
