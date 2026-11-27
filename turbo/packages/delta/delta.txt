@@ -13268,7 +13268,7 @@ deleerit
 db
 dolichohieric
 deutomerite
-daphnoid
+daphnoid 1
 dementate
 decrees
 dispossession
