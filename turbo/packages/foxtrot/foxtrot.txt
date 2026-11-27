@@ -10570,7 +10570,7 @@ florins
 founds
 fertilizations
 fatidical
-frittered
+frittered 1
 falcade
 fussock
 formagen
