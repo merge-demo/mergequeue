@@ -14444,7 +14444,7 @@ anode
 achromacyte
 anthracomancy
 ambulancing
-analepsis
+analepsis 1
 albuminone
 antagonizable
 antiprelatism
