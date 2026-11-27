@@ -8716,7 +8716,7 @@ germiniparous
 greekize
 gavelling
 grammars
-gearing
+gearing 1
 gastraeal
 gleamless
 gates
