@@ -360,7 +360,7 @@ aerophone
 abdicate
 aberrancy
 aberrantly
-aberrants
+aberrants 1
 aberrating
 astrogonic
 arrival
