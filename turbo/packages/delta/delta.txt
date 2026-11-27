@@ -1516,7 +1516,7 @@ downer
 discourager
 deaconesses
 diffracted
-defeminizing
+defeminizing 1
 dreidls
 distracting
 diagnosable
