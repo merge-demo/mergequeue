@@ -5094,7 +5094,7 @@ deadrise
 dendrocygna
 discomfit
 dedimus
-dispone
+dispone 1
 dissipated
 dissimulates
 disterr
