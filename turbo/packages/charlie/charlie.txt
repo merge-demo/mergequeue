@@ -2000,7 +2000,7 @@ camino
 camion
 camions
 camisa
-camisadoes
+camisadoes 1
 classicising
 cloddy
 camisard
