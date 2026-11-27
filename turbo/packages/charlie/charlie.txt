@@ -26340,7 +26340,7 @@ chasteness
 choleromania
 costs
 certifying
-caddices
+caddices 1
 chevrone
 costumed
 chlore
