@@ -13295,7 +13295,7 @@ dole
 disprince
 destituted
 disprivacied
-degradable
+degradable 1
 disprizes
 deficiently
 dreissensia
