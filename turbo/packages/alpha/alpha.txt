@@ -345,7 +345,7 @@ ascarid
 apodia
 afright
 acetonemia
-aftwards
+aftwards 1
 anacephalaeosis
 aberdeen
 aberduvine
