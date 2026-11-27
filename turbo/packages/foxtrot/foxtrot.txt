@@ -5830,7 +5830,7 @@ flung
 fayal
 feverously
 fattening
-fervidly
+fervidly 1
 firepower
 fierasfer
 fodders
