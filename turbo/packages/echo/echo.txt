@@ -10385,7 +10385,7 @@ embellishers
 earthshaking
 eiresione
 eleolite
-exorbitance
+exorbitance 1
 entresalle
 excreted
 exposit
