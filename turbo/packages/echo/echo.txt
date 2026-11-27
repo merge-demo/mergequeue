@@ -7182,7 +7182,7 @@ equalizer
 enwove
 embira
 ephebi
-entender
+entender 1
 epistasis
 euphonym
 enchesoun
