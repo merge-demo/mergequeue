@@ -3346,7 +3346,7 @@ encheer
 ermit
 emasculators
 erythrorrhexis
-eats
+eats 1
 embain
 encroaching 1
 egglike
