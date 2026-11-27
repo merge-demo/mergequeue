@@ -4012,7 +4012,7 @@ aphaeresis
 admerveylle
 allocate
 admi
-anhydrously
+anhydrously 1
 apopemptic
 anticontagious
 apokatastasis
