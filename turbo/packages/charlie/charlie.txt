@@ -17892,7 +17892,7 @@ codline
 calcigerous
 controlled
 codling
-classlessness
+classlessness 1
 coguardian
 codman
 contingentiam
