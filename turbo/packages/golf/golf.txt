@@ -220,7 +220,7 @@ graplins
 greyest
 gaius
 gambiers
-gentleness
+gentleness 1
 graphing
 gliadines
 gallish
