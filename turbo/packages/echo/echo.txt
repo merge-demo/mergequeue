@@ -1172,7 +1172,7 @@ expectancies
 edriophthalmatous
 educand
 emulsive
-evanished
+evanished 1
 educatability
 earlaps
 eident

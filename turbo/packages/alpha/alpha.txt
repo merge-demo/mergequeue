@@ -21361,7 +21361,7 @@ angeyok
 artwork
 adaptometer
 asynchronism
-asynchronisms
+asynchronisms 1
 asyndetic
 androphore
 amyloses
