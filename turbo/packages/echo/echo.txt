@@ -11481,7 +11481,7 @@ electrophotometer
 electroconvulsive
 evigilation
 eleemosinar
-emenders
+emenders 1
 endocrinous
 exsecant
 electrothanatosis
