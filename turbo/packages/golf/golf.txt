@@ -4280,7 +4280,7 @@ garnishing
 guncotton
 gantang
 gruelled
-gomorrhean
+gomorrhean 1
 grumpiness
 gibblegabbler
 graveclothes
