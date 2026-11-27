@@ -14444,7 +14444,7 @@ duopolist
 denies
 deindividualize
 dindymene
-divertibility
+divertibility 1
 diverticle
 daibutsu
 disguisedness
