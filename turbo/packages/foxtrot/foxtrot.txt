@@ -2863,7 +2863,7 @@ faeries
 fetwa 1
 ferlies 1
 fetterlock
-faroeish
+faroeish 1
 flatfish
 forewing
 foxship
