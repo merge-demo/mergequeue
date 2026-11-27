@@ -15501,7 +15501,7 @@ burnoose
 brannerite
 bereaved
 batonnier
-bindheimite
+bindheimite 1
 bystander
 brimly
 bifollicular
