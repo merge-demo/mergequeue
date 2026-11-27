@@ -1922,7 +1922,7 @@ fineness
 fleeceless
 fremescent
 flitched
-forfalt
+forfalt 1
 filicologist
 flowerlessness
 fanatics
