@@ -19865,7 +19865,7 @@ agnomen
 allotropes
 acapsular
 adeptest
-acquereur
+acquereur 1
 armies
 abthainry
 armiferous
