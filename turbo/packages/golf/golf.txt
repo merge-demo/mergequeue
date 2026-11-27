@@ -4043,7 +4043,7 @@ graduality
 giantish
 gabbart
 glum
-gurney
+gurney 1
 gastritic
 grisettes
 gelatines
