@@ -2817,7 +2817,7 @@ entoptical 1
 equivalencing
 externalness
 eater
-epiclesis
+epiclesis 1
 embden
 endomastoiditis
 erratuta
