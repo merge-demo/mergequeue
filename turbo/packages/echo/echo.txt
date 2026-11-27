@@ -11875,7 +11875,7 @@ excentric
 essenic
 entrepot
 emits
-echium
+echium 1
 except
 escheatment
 eppes
