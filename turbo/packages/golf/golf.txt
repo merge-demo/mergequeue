@@ -10042,7 +10042,7 @@ gazebos
 glaistig
 gammation
 gargoyles
-gnathonic
+gnathonic 1
 greasing 1
 granitoidal
 geostatics
