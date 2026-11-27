@@ -8463,7 +8463,7 @@ eryops
 embroidering
 electroosmotically
 epos
-effluvious
+effluvious 1
 encinas
 epizootic 1
 externa
