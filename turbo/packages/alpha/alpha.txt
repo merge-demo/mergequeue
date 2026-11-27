@@ -10486,7 +10486,7 @@ aponogetonaceous
 amianthus
 arcform
 avolation
-amyatonic
+amyatonic 1
 amic
 amicability
 antiadiaphorist
