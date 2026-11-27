@@ -659,7 +659,7 @@ grindstones
 gilour
 geropiga
 gravelish
-gamely
+gamely 1
 gregariousness
 galinsoga
 gonitis
