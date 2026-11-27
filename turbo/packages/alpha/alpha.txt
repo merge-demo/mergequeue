@@ -522,7 +522,7 @@ abjurer
 abjurers
 abkari
 amerism
-abkhasian
+abkhasian 1
 ashtrays
 abl
 asperities
