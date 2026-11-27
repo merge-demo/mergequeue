@@ -3931,7 +3931,7 @@ earthbound
 emollients
 emoloa
 endosymbiosis
-excretitious
+excretitious 1
 emolumental
 enchodontidae
 extemporiser
