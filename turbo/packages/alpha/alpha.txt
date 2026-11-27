@@ -12848,7 +12848,7 @@ angiopressure
 acquaintance
 angiorrhaphy
 angiorrhea
-armorwise
+armorwise 1
 ammocoetid
 angiosymphysis
 adventurers
