@@ -5436,7 +5436,7 @@ eurithermophile
 emplastrum
 equivocates
 etatist
-epidia
+epidia 1
 enthralment
 excrescential
 emblematicalness
