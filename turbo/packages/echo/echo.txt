@@ -6222,7 +6222,7 @@ enostosis
 elisions
 erugatory
 editorialize
-enforcedly
+enforcedly 1
 egrid
 eardrops
 endamaged
