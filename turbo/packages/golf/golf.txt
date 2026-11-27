@@ -5438,7 +5438,7 @@ glyptodon
 grossular
 glyptodontoid
 glebae
-ghostwrites
+ghostwrites 1
 galactophlebitis
 gracelike
 griphosaurus
