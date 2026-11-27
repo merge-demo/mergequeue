@@ -31676,7 +31676,7 @@ coth
 cushiness
 cushing 1
 cushion
-claypan
+claypan 1
 cushioned
 cushionet
 cushionflower
