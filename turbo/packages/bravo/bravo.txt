@@ -15552,7 +15552,7 @@ beaterman 1
 balut
 balaghaut
 bestreak
-banakite
+banakite 1
 beclothing
 bionts
 benefaction
