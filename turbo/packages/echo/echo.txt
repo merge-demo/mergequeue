@@ -7048,7 +7048,7 @@ epris
 exemptile
 earthfast
 experiencer
-enumeration
+enumeration 1
 eggroll
 euphone
 efficiency
