@@ -12308,7 +12308,7 @@ bungfull
 bathycurrent
 bullwhacker
 betrayer 1
-bombardments
+bombardments 1
 bombline
 bowdrill
 bombast
