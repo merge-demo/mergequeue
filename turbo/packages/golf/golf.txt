@@ -1007,7 +1007,7 @@ gilse
 gurnetty
 granitizing
 grimacing
-gnomons
+gnomons 1
 geophilous 1
 guttle
 glanduliferous
