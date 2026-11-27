@@ -3173,7 +3173,7 @@ douched
 divots
 draughtily
 defectible
-defecting
+defecting 1
 dezincified 1
 distaff
 doltishness
