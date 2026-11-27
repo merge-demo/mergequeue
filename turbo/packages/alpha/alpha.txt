@@ -19464,7 +19464,7 @@ argify
 argyle
 antimonium
 autocarpian
-aseptate
+aseptate 1
 alleyed
 archaecraniate
 allative
