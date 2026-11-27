@@ -3858,7 +3858,7 @@ frizette
 forewarm
 focalising
 fulgurous
-frights
+frights 1
 feces
 frustulum
 fingallian
