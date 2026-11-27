@@ -5598,7 +5598,7 @@ diaskeuasis
 deperditely
 domain
 distinctest
-deperms
+deperms 1
 disserves
 dichromatopsia
 depersonalise
