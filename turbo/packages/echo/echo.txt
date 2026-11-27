@@ -9521,7 +9521,7 @@ eruptives
 eternalness
 escrow 1
 escrowing
-emancipatist
+emancipatist 1
 esculents
 exocyclica
 ethnog
