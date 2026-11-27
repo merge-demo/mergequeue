@@ -3479,7 +3479,7 @@ gemul
 gewgawry
 gyrfalcon
 gigantological
-gestatory
+gestatory 1
 geriatric
 grivoise
 girasols
