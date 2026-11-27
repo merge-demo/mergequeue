@@ -2589,7 +2589,7 @@ dangled
 detoured
 dermobranchia
 durable
-decartelized
+decartelized 1
 declutch
 dieretic
 divise
