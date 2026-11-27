@@ -23444,7 +23444,7 @@ contemning
 contemp
 contemplable
 contemplant
-contemplate
+contemplate 1
 contemplatedly
 contemplating
 catechetical
