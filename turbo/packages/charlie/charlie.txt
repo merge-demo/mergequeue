@@ -29068,7 +29068,7 @@ chattable
 cheeped
 crimpness
 crimps
-cantatory
+cantatory 1
 corbans
 crimson
 crimsoned
