@@ -7085,7 +7085,7 @@ coquetoon
 centiday
 cannikin
 copt
-confluences
+confluences 1
 centigrams
 centile
 cendre
