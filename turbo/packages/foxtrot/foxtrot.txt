@@ -2109,7 +2109,7 @@ favorless
 fleshen
 frument
 fayence
-fermentate
+fermentate 1
 foundry
 fluming
 falcate
