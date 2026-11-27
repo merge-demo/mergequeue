@@ -10635,7 +10635,7 @@ eques 1
 enharmonical 1
 eoghanacht
 enchilada
-eudemonistic
+eudemonistic 1
 enfacement
 endoappendicitis
 equivalencies
