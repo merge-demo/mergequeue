@@ -11090,7 +11090,7 @@ darin
 disassimilative
 disinherits
 disassociate
-disassociates
+disassociates 1
 dimerize
 dorlach
 disastrous
