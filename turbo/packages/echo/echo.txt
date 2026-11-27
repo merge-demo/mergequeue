@@ -4187,7 +4187,7 @@ empresses
 emprint
 epinastically
 emprison
-euphausiid
+euphausiid 1
 emulgent
 emprosthotonic
 effeteness
