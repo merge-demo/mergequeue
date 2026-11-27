@@ -5356,7 +5356,7 @@ elaterids
 egers
 emeroid
 elateridae
-encorbellment
+encorbellment 1
 elamitic
 extuberant
 erstwhiles
