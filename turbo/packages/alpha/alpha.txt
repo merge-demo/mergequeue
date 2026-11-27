@@ -12365,7 +12365,7 @@ asterolepidae
 axes
 anders
 autoirrigation
-adipocerite
+adipocerite 1
 americanism
 alkenna
 apolytikion
