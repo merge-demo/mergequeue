@@ -8800,7 +8800,7 @@ fanlight
 female
 fidel
 fearable
-flexured
+flexured 1
 friss
 forthcome
 flimsily

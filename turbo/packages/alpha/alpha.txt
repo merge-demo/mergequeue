@@ -15159,7 +15159,7 @@ antiejaculation
 alterants
 allotrope
 apsidal
-acrothoracica
+acrothoracica 1
 antiemetic
 antiempiric
 amphitruo
