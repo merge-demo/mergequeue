@@ -561,7 +561,7 @@ eavesdropper
 equatorially
 excommunicatory
 encrimson
-echinomys
+echinomys 1
 entrained
 erythrene
 escolars
