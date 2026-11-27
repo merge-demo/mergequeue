@@ -5492,7 +5492,7 @@ antiutilitarian
 atmospheres
 afterblow
 aerarium
-augurer
+augurer 1
 alpian
 anele
 afterburning
