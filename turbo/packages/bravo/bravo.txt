@@ -5356,7 +5356,7 @@ begrimes
 begriming
 begrimmed
 bloodleaf
-bot
+bot 1
 bathometer
 baileys
 brachycardia
