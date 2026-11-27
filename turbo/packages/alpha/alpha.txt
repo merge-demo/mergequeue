@@ -4054,7 +4054,7 @@ allylic
 autorotational
 aloyau
 agao
-afric
+afric 1
 application
 analysed
 acetophenin
