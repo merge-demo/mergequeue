@@ -2797,7 +2797,7 @@ gentlemanlikeness 1
 gossan
 gybing
 geode
-grenadines
+grenadines 1
 gallinule
 genuflection 1
 gallates
