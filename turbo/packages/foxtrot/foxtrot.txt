@@ -8112,7 +8112,7 @@ falisci
 forewrought
 fractionate
 fanaticalness 1
-foretell
+foretell 1
 figurehead
 filmiest
 fathogram
