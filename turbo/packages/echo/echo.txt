@@ -7443,7 +7443,7 @@ embattling
 ellerian
 eavesdroppers
 ephemerid
-ewe
+ewe 1
 ephemeridae
 ephemeroptera
 extrafocal
