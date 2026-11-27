@@ -17866,7 +17866,7 @@ devoutless
 debilitated
 dismark
 denervate
-dabb
+dabb 1
 defi
 desubstantialize
 dialogist
