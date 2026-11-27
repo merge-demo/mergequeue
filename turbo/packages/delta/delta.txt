@@ -11011,7 +11011,7 @@ disannuller
 dialogues
 dichroic
 dyophysite 1
-disincarcerate
+disincarcerate 1
 disannuls
 dysenteries
 disembay
