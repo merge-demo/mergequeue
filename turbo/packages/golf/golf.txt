@@ -6517,7 +6517,7 @@ genetic
 glaikitness 1
 gariba
 galvanocautery
-ghostlike
+ghostlike 1
 golly
 gleanings
 glucolipine
