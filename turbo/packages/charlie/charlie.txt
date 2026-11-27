@@ -26372,7 +26372,7 @@ collisional
 crossrail
 carnary
 coswearer
-cot
+cot 1
 cotabulate
 carya
 cotarius
