@@ -7718,7 +7718,7 @@ geolatry 1
 galvanized
 gunpowderous
 gauzy
-globus
+globus 1
 gallivanter
 goldworker
 gamins
