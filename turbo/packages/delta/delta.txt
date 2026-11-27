@@ -3286,7 +3286,7 @@ dropax
 disentrail
 dipleurogenetic
 dissatisfactory
-defier
+defier 1
 drogues
 disguisal
 deracinated
