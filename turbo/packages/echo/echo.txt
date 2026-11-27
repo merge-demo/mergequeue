@@ -2475,7 +2475,7 @@ electrogasdynamics
 electroharmonic
 empanelment
 electrohemostasis
-endearing
+endearing 1
 eburnation
 ebony
 epicleses
