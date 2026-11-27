@@ -10571,7 +10571,7 @@ documented
 diploidic
 dallied
 dunderbolt
-dominus
+dominus 1
 diploidize
 diag
 doorman
