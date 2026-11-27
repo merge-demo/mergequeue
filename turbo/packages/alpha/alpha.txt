@@ -16665,7 +16665,7 @@ autonomies
 aperiodically
 ambulanced
 average
-aperiodicity
+aperiodicity 1
 acaroid
 apert
 arsonation
