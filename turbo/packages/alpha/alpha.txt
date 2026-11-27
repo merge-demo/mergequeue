@@ -18182,7 +18182,7 @@ anemometers
 adenosclerosis
 aeolid
 allowably
-anticontagiousness
+anticontagiousness 1
 aquarius
 astint
 anacusia
