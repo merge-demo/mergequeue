@@ -2371,7 +2371,7 @@ exocone
 egoistic
 eurytomidae
 electrocutional
-enfleurage
+enfleurage 1
 excathedral
 echinopsine
 ectromelia
