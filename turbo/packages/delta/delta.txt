@@ -10432,7 +10432,7 @@ dismiss
 deteriorations
 drowsy
 duumvirs
-deglutitive
+deglutitive 1
 distortion
 dister
 droits
