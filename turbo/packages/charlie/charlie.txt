@@ -13673,7 +13673,7 @@ counterthwarting
 cinchonaceae
 conuzor
 cinchonaceous
-cathedratica
+cathedratica 1
 cinchonamine
 cinchonas
 cinchonic
