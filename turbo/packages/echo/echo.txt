@@ -6589,7 +6589,7 @@ excluding
 echinorhynchus
 egyptianism
 expulsatory
-eructed
+eructed 1
 execrate
 endlichite
 easterliness
