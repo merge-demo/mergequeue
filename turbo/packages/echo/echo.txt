@@ -10194,7 +10194,7 @@ enacting 1
 electrotelegraphic
 externals
 escargotieres
-esperantic
+esperantic 1
 esophagomycosis
 envenomation
 ethician
