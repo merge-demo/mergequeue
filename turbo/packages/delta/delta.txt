@@ -2623,7 +2623,7 @@ dacoitage
 decoke
 decoll
 deguelia
-dumbcow
+dumbcow 1
 dispensaries
 displeaser
 discontinues
