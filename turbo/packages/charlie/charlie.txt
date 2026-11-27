@@ -29231,7 +29231,7 @@ cryptanalytics
 cires
 cryptanalyze
 cothamore
-characetum
+characetum 1
 capybara
 cryptanalyzing
 cryptarch
