@@ -766,7 +766,7 @@ gawkily
 gorget
 geometrically 1
 graywether
-glome
+glome 1
 galvanotherapy
 goods
 geomorphic
