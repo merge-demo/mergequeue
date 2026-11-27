@@ -1778,7 +1778,7 @@ gregarinida
 gulsach
 glycine
 gastrocolostomy
-geodesia
+geodesia 1
 gastrovascular
 goala
 gulleries
