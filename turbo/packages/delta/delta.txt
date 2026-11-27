@@ -8143,7 +8143,7 @@ detribalize
 disruptively
 deferrization
 defacing
-diachronic
+diachronic 1
 doupioni
 dipleurule
 daer
