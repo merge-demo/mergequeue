@@ -1486,7 +1486,7 @@ discernableness
 dazzlingness
 descale
 degames
-dbms
+dbms 1
 degenerationist
 dbridement
 decidual
