@@ -785,7 +785,7 @@ ggr
 goldfinch
 galliformes
 ginneries
-goose
+goose 1
 gies
 gracefullest
 gandergoose

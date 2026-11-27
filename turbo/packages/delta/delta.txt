@@ -13812,7 +13812,7 @@ duhat
 dignifies
 dilemmatically
 dissunder
-deflexible
+deflexible 1
 deerskin
 dialogistically
 demurral
