@@ -4909,7 +4909,7 @@ fireworkless
 fairies
 fulgural
 fino
-fourscore
+fourscore 1
 flakiest
 forged
 fixate 1
