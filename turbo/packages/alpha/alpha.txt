@@ -17512,7 +17512,7 @@ actinoidea
 apparat
 antidiabetic
 antigonus
-apparats
+apparats 1
 apparatus 1
 appareling
 apparentements
