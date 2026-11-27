@@ -6143,7 +6143,7 @@ gnathostome
 gjetosts
 gallivants
 gammarus
-gnosis
+gnosis 1
 galenist
 glaserian
 gnotobiosis
