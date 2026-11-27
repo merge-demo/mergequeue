@@ -1534,7 +1534,7 @@ deacons
 demobilizes
 diphygenic
 deactivate
-discoglossid
+discoglossid 1
 distractedly
 dallies
 dalk
