@@ -10029,7 +10029,7 @@ fringilline
 freedom
 frothsome
 forearms
-feasibleness
+feasibleness 1
 feedman
 fantee
 fingerer
