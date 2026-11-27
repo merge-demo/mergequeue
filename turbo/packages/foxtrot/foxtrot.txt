@@ -862,7 +862,7 @@ fingermark
 fashioner
 finestill
 freckened
-freedoot
+freedoot 1
 forebows
 free
 fragilities
