@@ -11576,7 +11576,7 @@ byordinar
 blustering
 basilicalike
 bromous
-befog
+befog 1
 behindsight
 bounced
 bathers
