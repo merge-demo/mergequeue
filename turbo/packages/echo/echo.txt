@@ -9033,7 +9033,7 @@ expurgating
 erythroblast
 enema
 evertor
-electromyographic
+electromyographic 1
 eurychoric
 extrafoliaceous
 errancy
