@@ -4007,7 +4007,7 @@ gamari
 germanish
 galvanograph
 gteau
-geared
+geared 1
 girlishness
 gildable
 gentrification
