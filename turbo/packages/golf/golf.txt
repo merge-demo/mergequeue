@@ -1096,7 +1096,7 @@ giroflore
 groat
 grannies
 gonangium
-gregorianize
+gregorianize 1
 ganja
 genically
 genecologically
