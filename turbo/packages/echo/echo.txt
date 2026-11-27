@@ -12935,7 +12935,7 @@ ecologist
 entotic
 epitonion
 empurple
-enchafe
+enchafe 1
 enhardy
 evaluator
 examines
