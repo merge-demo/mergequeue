@@ -9741,7 +9741,7 @@ gournard
 gambir
 gordiidae
 gagroot
-gambes
+gambes 1
 gorged
 gastrodynia
 glutens
