@@ -27005,7 +27005,7 @@ copen
 counterorder
 cranium
 concordist
-counterpane
+counterpane 1
 chiropractic
 counterinsurgency
 critteria
