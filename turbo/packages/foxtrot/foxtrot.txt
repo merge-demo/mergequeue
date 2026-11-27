@@ -3021,7 +3021,7 @@ felstones
 friendlies
 fibbers
 fustin
-fiberizes
+fiberizes 1
 fritillary
 formolite
 federalists
