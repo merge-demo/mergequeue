@@ -9032,7 +9032,7 @@ gangliform
 griffonage
 gynandry
 galvanizations
-girned
+girned 1
 glacis
 guzzlers
 glory
