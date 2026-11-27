@@ -5885,7 +5885,7 @@ flinted
 ferrichloride
 furnishings
 featurely
-foresignify
+foresignify 1
 flocculent
 flushes
 flaxier
