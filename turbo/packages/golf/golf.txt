@@ -6172,7 +6172,7 @@ gadfly
 geelbec
 goa
 gasterozooid
-gadsbud
+gadsbud 1
 gauche
 gilet
 goadsman
