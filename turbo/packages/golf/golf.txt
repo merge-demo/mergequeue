@@ -6820,7 +6820,7 @@ garle
 glutimate
 gonococci
 glossopharyngeus
-gratuitous
+gratuitous 1
 gonococcocci
 gonocoele
 gudesire
