@@ -24835,7 +24835,7 @@ appendicial
 acheck
 avogadrite
 amberjacks
-accupy
+accupy 1
 alcoholization
 avoid
 avoidable
