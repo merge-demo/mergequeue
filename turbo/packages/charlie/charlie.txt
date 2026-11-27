@@ -3772,7 +3772,7 @@ carbazylic
 chlorpikrin
 cheerios
 civilist
-carbazole
+carbazole 1
 carbeen
 carbene
 cantorian
