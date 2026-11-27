@@ -10395,7 +10395,7 @@ ectocranial 1
 excruciator
 ensuite
 endemiological
-extranational
+extranational 1
 electrotheraputical
 ecblastpsis
 epileptical
