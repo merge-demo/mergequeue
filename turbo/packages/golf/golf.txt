@@ -6709,7 +6709,7 @@ goosey
 gorsedd
 goup
 gypsine
-gonion
+gonion 1
 ganjas
 guid
 gonid
