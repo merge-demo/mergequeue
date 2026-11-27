@@ -4598,7 +4598,7 @@ exeunt
 elucubrate
 excellent
 exarchs
-egotists
+egotists 1
 enchyma
 estheticism
 exencephalus
