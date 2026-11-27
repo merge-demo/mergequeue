@@ -4433,7 +4433,7 @@ beclog
 becoiffed
 bulkiness
 bludging
-bonspells
+bonspells 1
 bilabials
 beclothe
 banting
