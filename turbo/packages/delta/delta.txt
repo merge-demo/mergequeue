@@ -10310,7 +10310,7 @@ discophore
 dioptra
 depurative
 demove
-dioptric
+dioptric 1
 dioptrical
 duhr
 diorama
