@@ -8231,7 +8231,7 @@ faltering
 forgat
 flavines
 footwork
-forgather
+forgather 1
 falsifications
 fossulate
 foresweat
