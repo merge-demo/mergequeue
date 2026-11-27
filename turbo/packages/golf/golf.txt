@@ -8385,7 +8385,7 @@ guns
 glucid
 gasterosteiform
 ginner
-gynaecoid
+gynaecoid 1
 grillading
 grandisonant
 gadolinite
