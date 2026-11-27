@@ -8576,7 +8576,7 @@ forninst
 fricative
 flexor
 flyover
-fanegada
+fanegada 1
 forspent
 flocculus
 farfara
