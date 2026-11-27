@@ -6086,7 +6086,7 @@ eranthis
 expostulated
 encomienda
 engraulis
-eugenic
+eugenic 1
 eulachon
 elasmosaur
 ebullience
