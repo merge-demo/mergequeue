@@ -8855,7 +8855,7 @@ froghopper
 faulter
 foujdarry
 fibrousness 1
-foul
+foul 1
 frotted
 fogger
 finesse
