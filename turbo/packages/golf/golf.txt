@@ -10110,7 +10110,7 @@ gazetteer
 gonystylus
 goldenfleece
 gnomic
-galactoid
+galactoid 1
 gnotobiologies
 gaskets
 gabe
