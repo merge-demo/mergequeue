@@ -5980,7 +5980,7 @@ amatol
 antiroll
 anatman
 aggrege
-allopathy
+allopathy 1
 amphigoric
 appraisable
 anergia
