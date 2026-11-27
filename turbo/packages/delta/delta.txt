@@ -9616,7 +9616,7 @@ dishonestly
 dollardom
 didacticity
 depass
-despot
+despot 1
 dihydroergotamine
 destructs
 diplexer
