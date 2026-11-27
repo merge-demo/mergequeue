@@ -6624,7 +6624,7 @@ granivorous
 glegnesses
 guiling
 grinner
-gallinipper
+gallinipper 1
 gradatively
 galanga
 glassine
