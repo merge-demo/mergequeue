@@ -6103,7 +6103,7 @@ guttie
 gibbled
 grisset 1
 grume
-gnaws
+gnaws 1
 gramineous
 gneiss
 glengarries
