@@ -5283,7 +5283,7 @@ disscepter
 dewey
 deligated
 drammer
-defat
+defat 1
 diatomaceoid
 denouncers
 detestable
