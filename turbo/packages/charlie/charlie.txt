@@ -17710,7 +17710,7 @@ cockscombed
 coco
 cocoach
 chessboards
-campuses
+campuses 1
 cashier
 cocoanut
 chasing
