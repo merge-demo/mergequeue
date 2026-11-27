@@ -1959,7 +1959,7 @@ deckload
 doze
 dodoism
 dungy
-dicrotism
+dicrotism 1
 debunkers
 disedify
 disagreed
