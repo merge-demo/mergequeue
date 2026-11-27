@@ -3876,7 +3876,7 @@ dismast
 discastle
 dictature
 dissect
-disp
+disp 1
 dyscrasite
 deerdog
 demihogshead
