@@ -1548,7 +1548,7 @@ eggrolls
 eggs
 entothorax
 excerptive
-encyclopedial
+encyclopedial 1
 exsected
 eupeptically 1
 ensconces
