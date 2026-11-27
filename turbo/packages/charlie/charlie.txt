@@ -31514,7 +31514,7 @@ culiciform
 coservant
 cursa
 curse
-cursedly
+cursedly 1
 cursedness
 calciferous
 cutaneous
