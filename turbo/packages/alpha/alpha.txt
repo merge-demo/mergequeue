@@ -3019,7 +3019,7 @@ abhorrency
 appear
 appearances 1
 actinograph
-attenuate
+attenuate 1
 aporobranchiata
 amboceptoid
 afterwar
