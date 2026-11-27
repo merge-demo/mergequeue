@@ -10900,7 +10900,7 @@ anaglyphy
 aquation
 ammonoids
 aliturgical
-ammonolitic
+ammonolitic 1
 assemblage
 archeological
 ammonolytic

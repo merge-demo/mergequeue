@@ -9038,7 +9038,7 @@ biopotential
 biopsy
 biopsic
 bailliage
-byssaceous
+byssaceous 1
 bespice
 basinful
 benightmare
