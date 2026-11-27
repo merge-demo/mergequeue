@@ -23492,7 +23492,7 @@ corker
 cornstalk
 civil
 contends
-cimeter
+cimeter 1
 contenement
 contrapuntal
 chimble
