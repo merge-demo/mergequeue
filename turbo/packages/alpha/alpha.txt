@@ -13672,7 +13672,7 @@ abeam
 automa
 abolition
 annuler
-allosaur
+allosaur 1
 anodontia
 advocated
 allocable
