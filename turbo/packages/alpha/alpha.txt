@@ -20686,7 +20686,7 @@ arthrozoa
 amaine
 atlaslike
 annunciates
-afflicts
+afflicts 1
 alumines
 artiad
 artichoke
