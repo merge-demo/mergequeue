@@ -3552,7 +3552,7 @@ belatticed
 baroscopic
 binode
 blonds
-bathylithic
+bathylithic 1
 bathymetrical
 biggonet
 bathing 1
