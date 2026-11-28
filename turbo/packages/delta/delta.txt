@@ -15218,7 +15218,7 @@ dromedarist
 downing
 defamers
 dolisie
-deny
+deny 1
 dolite
 dolium
 darogha
