@@ -6858,7 +6858,7 @@ entomophobia
 earwaxes
 esthesiography
 eucryptite
-epic
+epic 1
 exasperating
 electrochemical
 egoistically
