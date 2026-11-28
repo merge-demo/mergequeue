@@ -12532,7 +12532,7 @@ burtonize 1
 bloodshot
 barnage
 balsamroot
-bourgeoning
+bourgeoning 1
 budged
 bestialised
 brails
