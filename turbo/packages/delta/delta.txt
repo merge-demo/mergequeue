@@ -1850,7 +1850,7 @@ defeudalize
 debilitates
 dermatoglyphics
 debitum
-declaratory
+declaratory 1
 douvecot
 dorsale
 deblai
