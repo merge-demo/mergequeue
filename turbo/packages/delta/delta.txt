@@ -14042,7 +14042,7 @@ details
 damonico
 distressed
 disfigured
-denominable
+denominable 1
 distressing
 deglamorization
 distressingly
