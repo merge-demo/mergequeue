@@ -7515,7 +7515,7 @@ dorcas
 dehgan
 deuteranope
 deuteration
-denucleate
+denucleate 1
 demarcator
 derogatorily
 desulfurized
