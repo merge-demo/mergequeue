@@ -8027,7 +8027,7 @@ enterritoriality 1
 expilate
 eggar
 ease
-entoconid
+entoconid 1
 enstatitic
 easements
 evident
