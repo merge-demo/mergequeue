@@ -8402,7 +8402,7 @@ exclusionism
 embryous
 elatcha
 erodible
-endodermic
+endodermic 1
 enchains
 enstamp 1
 extents
