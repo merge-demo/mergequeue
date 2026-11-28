@@ -9982,7 +9982,7 @@ enamdar
 entepicondylar
 etape
 escruage 1
-etapes
+etapes 1
 exorhason
 endangers
 emplastra
