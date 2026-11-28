@@ -8813,7 +8813,7 @@ grainers
 ghostess
 gulfs
 gymnostomina
-gust
+gust 1
 genual
 gelatined
 glacious
