@@ -20277,7 +20277,7 @@ androecium
 arrivistes
 assuager
 ardencies
-arrogant
+arrogant 1
 arrogated
 alaloi
 astonied
