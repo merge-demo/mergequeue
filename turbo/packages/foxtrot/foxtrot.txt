@@ -8512,7 +8512,7 @@ firehall
 falsie
 flatwise
 foramen 1
-forinsec
+forinsec 1
 fream
 fraxetin
 foreseeing
