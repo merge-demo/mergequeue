@@ -20629,7 +20629,7 @@ arthromeric
 actiniferous
 afterplay
 adamantoma
-arthrometry
+arthrometry 1
 atsara
 alvine
 apospories
