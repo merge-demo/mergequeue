@@ -11301,7 +11301,7 @@ epenthesize
 evaporimeter
 electrocute
 ecdysons
-enwrap
+enwrap 1
 evaporitic
 enforcively
 evapotranspiration
