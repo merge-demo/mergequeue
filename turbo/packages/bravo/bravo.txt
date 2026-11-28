@@ -5290,7 +5290,7 @@ bundlerooted
 bournes
 begirds
 bickered
-begirt
+begirt 1
 beglerbeglic
 bakalai
 burka
