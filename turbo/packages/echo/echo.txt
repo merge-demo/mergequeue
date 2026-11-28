@@ -11309,7 +11309,7 @@ ecaudata
 ergatoid
 evenglow
 eneid
-erudite
+erudite 1
 encephalomeric
 eventual
 eozoic
