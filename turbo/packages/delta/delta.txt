@@ -14425,7 +14425,7 @@ datedness
 depreciatory
 demeter
 diversory
-disfiguringly
+disfiguringly 1
 droops
 dimethylamine
 dioptrometer
