@@ -13766,7 +13766,7 @@ evokers
 enki
 epithalamial
 ergmeter
-entone
+entone 1
 effusely
 exodontist
 ethnize
