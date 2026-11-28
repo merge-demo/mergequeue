@@ -3237,7 +3237,7 @@ goldminer
 graywacke
 gruellers
 glucemia
-geometrising
+geometrising 1
 geosynclines
 goetical
 gipsies
