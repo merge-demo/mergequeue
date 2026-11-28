@@ -6862,7 +6862,7 @@ diopside
 deadflat
 dynametric
 dhak
-deltic
+deltic 1
 domesticative
 derivative
 desmopathology
