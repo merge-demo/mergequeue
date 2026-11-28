@@ -10011,7 +10011,7 @@ franchiser
 flor
 fellagha
 fryer
-flans
+flans 1
 fluorometric
 fringehead
 fringelet 1
