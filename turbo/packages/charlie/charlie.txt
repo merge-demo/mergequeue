@@ -15412,7 +15412,7 @@ chaffering
 claques
 claqueur
 conducement
-crispiness
+crispiness 1
 clarain
 clare
 corrodible

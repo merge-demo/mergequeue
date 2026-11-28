@@ -12234,7 +12234,7 @@ broggerite
 baluchitherium
 bookshelf 1
 biseptate
-boloism
+boloism 1
 breakthrough
 byplays
 boutre
