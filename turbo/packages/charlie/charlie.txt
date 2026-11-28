@@ -31209,7 +31209,7 @@ czechoslovaks
 cupsful
 cupstone
 cupula
-cupulae
+cupulae 1
 crossopterygii
 cupular
 carlines
