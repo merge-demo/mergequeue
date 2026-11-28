@@ -9452,7 +9452,7 @@ administrations
 anesthetics
 aitesis
 amasty
-altar
+altar 1
 altarage
 allodies
 armbone
