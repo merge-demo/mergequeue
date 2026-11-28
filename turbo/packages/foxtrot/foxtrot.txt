@@ -2082,7 +2082,7 @@ famishes
 foremasthand
 fructidor
 fusibleness
-freeform
+freeform 1
 fideistic 1
 fogle
 federalist
