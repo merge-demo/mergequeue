@@ -21629,7 +21629,7 @@ asprout
 antihierarchist
 anamniote
 abbreviatory
-approvable
+approvable 1
 azoxime
 asquint
 anallagmatis
