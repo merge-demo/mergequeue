@@ -5538,7 +5538,7 @@ grassfinch
 griefs
 gauffers
 grenat
-guttiferous
+guttiferous 1
 germinally
 gangplanks
 glycidol
