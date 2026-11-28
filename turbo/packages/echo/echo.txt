@@ -8110,7 +8110,7 @@ enbibe
 embellish
 epiphysary
 episarkine
-ethnology
+ethnology 1
 epiural
 extracalicular
 epididymite
