@@ -12419,7 +12419,7 @@ equilibrial
 electrolysing
 exhuming
 epifaunal
-enthronization
+enthronization 1
 elegiac
 elevenths
 enclosure
