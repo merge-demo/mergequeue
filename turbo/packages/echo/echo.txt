@@ -4984,7 +4984,7 @@ enantiopathic
 electrofused
 eco
 eightscore
-endenization
+endenization 1
 excusator
 ecarte
 escritorial
