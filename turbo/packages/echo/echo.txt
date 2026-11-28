@@ -13258,7 +13258,7 @@ exploded
 englifier
 estranger
 evict
-eponymize
+eponymize 1
 eternizing
 exantlate
 ensheath
