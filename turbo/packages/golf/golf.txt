@@ -2309,7 +2309,7 @@ galvanography
 graviton
 gallocyanin
 gravamina
-gamine
+gamine 1
 gelsemic
 gelatinizer
 gradates
