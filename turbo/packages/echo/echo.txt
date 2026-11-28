@@ -13452,7 +13452,7 @@ elem
 embranchment 1
 espadrille
 endotracheitis
-evaluable
+evaluable 1
 epitomization
 enzymolysis
 extrusile
