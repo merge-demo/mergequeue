@@ -1251,7 +1251,7 @@ awaiters
 acarines
 adenodermia
 achromasia
-alacritous
+alacritous 1
 anucleate
 acontias
 arteriodiastasis
