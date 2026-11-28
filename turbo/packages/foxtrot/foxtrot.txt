@@ -842,7 +842,7 @@ formfitting
 fixatives
 fluctuations
 fanjet
-fons
+fons 1
 flemings
 flindosy
 fiddlehead
