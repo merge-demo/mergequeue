@@ -2284,7 +2284,7 @@ aluminous
 adjectitious
 attempers
 acidaspis
-acider
+acider 1
 anaphoric
 atilt
 azimech
