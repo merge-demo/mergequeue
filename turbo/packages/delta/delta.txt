@@ -14739,7 +14739,7 @@ dispossessor
 diaphyseal
 direx
 demiwivern
-denticular
+denticular 1
 decrepitating
 deceptional
 delimitative
