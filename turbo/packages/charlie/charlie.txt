@@ -15730,7 +15730,7 @@ chips
 clavolet
 cumulonimbus
 clawed
-clawer
+clawer 1
 cubbishly
 casuarinales
 clawing
