@@ -12887,7 +12887,7 @@ dysmorphophobia
 disquisiting
 dhikrs
 det
-deceptible
+deceptible 1
 dissatisfies
 drawls
 dryope
