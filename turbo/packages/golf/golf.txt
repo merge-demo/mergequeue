@@ -8367,7 +8367,7 @@ gheraoes
 geast
 globulysis
 gulfing
-geoblast
+geoblast 1
 grignet
 guru
 glycoluric
