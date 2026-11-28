@@ -3157,7 +3157,7 @@ acclimatation
 aloelike 1
 auchenia
 actipylea
-activate
+activate 1
 accidies
 apologete
 autocatalytically
