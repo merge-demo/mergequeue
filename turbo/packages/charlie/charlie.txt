@@ -5574,7 +5574,7 @@ catalexis
 catalin
 curule
 coxing
-chit
+chit 1
 contentful
 catalinite
 catalyse
