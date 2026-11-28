@@ -2789,7 +2789,7 @@ glovelike
 gazettal
 grigris
 gormless
-gloiopeltis
+gloiopeltis 1
 gentiobiose
 guardianess
 gait
