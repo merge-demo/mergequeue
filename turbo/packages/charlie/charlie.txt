@@ -9757,7 +9757,7 @@ collisions
 conjunctiva
 chelicer
 cysts
-chakazi
+chakazi 1
 chelide
 csardas
 cowheart
