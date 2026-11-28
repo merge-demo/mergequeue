@@ -3851,7 +3851,7 @@ decastyle
 dephlegm
 distruss
 diomedeidae
-deselects
+deselects 1
 disinteresting
 dissceptred
 decorationist
