@@ -8563,7 +8563,7 @@ exclusively
 epichoristic
 equative
 electre
-eburneous
+eburneous 1
 etherial
 elucid
 erase
