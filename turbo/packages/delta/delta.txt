@@ -5733,7 +5733,7 @@ demonland
 depoetize
 deconsider
 depoh
-decd
+decd 1
 depolarise
 dehumidify
 depolarization
