@@ -6870,7 +6870,7 @@ ergotoxin
 epaulets
 evitable
 entomosporium
-ellipsoidal
+ellipsoidal 1
 endangered
 electrum
 etiquettes
