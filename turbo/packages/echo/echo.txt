@@ -6212,7 +6212,7 @@ explorement
 exhalations
 endopericarditis
 exhortator
-enorn
+enorn 1
 enos
 eradiating
 egophony

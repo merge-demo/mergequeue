@@ -22824,7 +22824,7 @@ cotyledonoid
 chelonid
 caulicles
 consentable
-consentaneous
+consentaneous 1
 consentaneousness
 continently
 consecutives
