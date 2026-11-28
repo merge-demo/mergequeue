@@ -8580,7 +8580,7 @@ gitana
 grandada
 grouped
 grave
-gravisphere
+gravisphere 1
 guiltlessly
 gliderport
 glomeli
