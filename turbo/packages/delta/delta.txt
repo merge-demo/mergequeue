@@ -2862,7 +2862,7 @@ disposure
 dangle
 disjointedness
 doveling
-disgenius
+disgenius 1
 disparish
 deepest
 dictyopteris
