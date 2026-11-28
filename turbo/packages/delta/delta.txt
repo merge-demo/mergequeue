@@ -13030,7 +13030,7 @@ deplethoric
 dispassion
 dispended
 dunfish
-dissipative
+dissipative 1
 dopes
 dekastere
 desilverizing
