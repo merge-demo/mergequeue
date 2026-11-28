@@ -26462,7 +26462,7 @@ cotland
 chowk
 cotoin
 circulus
-cubit
+cubit 1
 cotorment
 calycanthemous
 cotoro
