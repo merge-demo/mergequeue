@@ -12191,7 +12191,7 @@ deltoidal
 durous
 detector
 dampers
-despoticly
+despoticly 1
 deviators
 dysfunctions
 disfurnish
