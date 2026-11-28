@@ -4261,7 +4261,7 @@ emulsions
 erythrocytes 1
 equidistantial
 effluxes
-emphasise
+emphasise 1
 extoller
 emulsoids
 enteropathogenic
