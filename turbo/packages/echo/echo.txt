@@ -10840,7 +10840,7 @@ envineyard
 elaeoblastic
 enchase
 eisteddfodau
-euphotic
+euphotic 1
 entailable
 eradicatory
 eulamellibranchiate
