@@ -6794,7 +6794,7 @@ bullarium
 beachy
 broadsided
 ber
-beruffed
+beruffed 1
 brusqueness
 blimp
 boy 1
