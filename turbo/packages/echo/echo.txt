@@ -3229,7 +3229,7 @@ enclitical
 encephalotomy
 eyesore
 entrench
-episcleral
+episcleral 1
 extralateral
 emancipates
 esophagospasm
