@@ -1006,7 +1006,7 @@ award
 artifice
 arthrochondritis
 acroaesthesia
-abtruse
+abtruse 1
 aquitanian
 affluxes
 abstractive
