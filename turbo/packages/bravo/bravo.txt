@@ -2398,7 +2398,7 @@ brakemen
 belabors
 barcoo
 beslab
-bemoisten
+bemoisten 1
 besplash
 bardcraft
 buckhorn
