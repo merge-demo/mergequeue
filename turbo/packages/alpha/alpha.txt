@@ -11413,7 +11413,7 @@ artels
 anagrammatization
 alupag
 autocephaly
-absorptance 1
+absorptance 2
 againward
 amplication
 austerer
