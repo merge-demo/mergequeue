@@ -5756,7 +5756,7 @@ decasualizing
 depolymerize
 deadpay
 disaffirmation
-davened
+davened 1
 deaconed
 depolishes
 depoliticized
