@@ -7933,7 +7933,7 @@ frondesced
 forefit
 filesmith
 fortnightlies
-feudatories
+feudatories 1
 farinhas
 ferahan
 frowzily
