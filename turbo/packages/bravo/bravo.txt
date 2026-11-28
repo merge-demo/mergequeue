@@ -5640,7 +5640,7 @@ bacchar
 bauble
 bilify
 belderroot
-bodgie
+bodgie 1
 beleaguering
 badgeless
 beleapt
