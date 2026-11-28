@@ -12774,7 +12774,7 @@ exostosis
 exarchist
 exostra 1
 ebullition
-engraves
+engraves 1
 elementary
 exostrae
 exoteric
