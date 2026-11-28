@@ -10799,7 +10799,7 @@ eurodollar
 expurgatory
 estivates
 euphemizer
-emanation
+emanation 1
 ethicalism
 exequatur
 extremal
