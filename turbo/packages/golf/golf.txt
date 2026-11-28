@@ -3879,7 +3879,7 @@ girrock
 graining
 guls
 gucked
-groszy
+groszy 1
 guilfat
 gaelicization
 glumpy
