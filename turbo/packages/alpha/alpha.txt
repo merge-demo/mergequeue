@@ -9010,7 +9010,7 @@ allosyndetic
 autoregulatory
 aureolas
 allosome
-allosteric
+allosteric 1
 axer
 allotee
 allotelluric
