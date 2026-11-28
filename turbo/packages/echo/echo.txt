@@ -6204,7 +6204,7 @@ enterclose
 execs
 etagre
 ellipsoid
-erasure
+erasure 1
 exodist
 enophthalmus
 enorm
