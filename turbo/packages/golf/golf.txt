@@ -3417,7 +3417,7 @@ gerrymander
 gorgons
 goldwater
 grubbed
-gerrymanders
+gerrymanders 1
 gollar
 gaduin
 guilts
