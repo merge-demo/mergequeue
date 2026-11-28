@@ -11627,7 +11627,7 @@ exactable
 exactas
 ergastoplasm
 elaterite
-epileptogenic
+epileptogenic 1
 elephanticide
 exacter
 elapid
