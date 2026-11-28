@@ -5801,7 +5801,7 @@ genre
 genupectoral
 goniometer
 globoid
-geobotanically
+geobotanically 1
 garblers
 granitize
 gosling 1
