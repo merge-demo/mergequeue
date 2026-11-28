@@ -5593,7 +5593,7 @@ forgette
 flycatchers
 flicflac
 flintiness
-flaglike
+flaglike 1
 flicker
 fixity 1
 frapler
