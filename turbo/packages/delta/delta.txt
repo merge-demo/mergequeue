@@ -7716,7 +7716,7 @@ displaceable
 devility
 deprotestantize
 devilize
-delative
+delative 1
 daryl
 decapodan
 diverged
