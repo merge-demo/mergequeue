@@ -1054,7 +1054,7 @@ eqpt
 edgar
 expatiatory
 edgeboned
-eagerly
+eagerly 1
 exsheath
 edged
 eidolon
