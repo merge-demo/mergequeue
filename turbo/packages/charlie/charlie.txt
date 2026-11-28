@@ -18892,7 +18892,7 @@ climbs
 coliuria
 colla
 csnet
-countermoving
+countermoving 1
 cornulite
 collabent
 collaborates
