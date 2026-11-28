@@ -11877,7 +11877,7 @@ analogic
 anteposition
 ascertained
 anaximandrian
-amphicome
+amphicome 1
 analogicalness
 amidomyelin
 abdominocardiac
