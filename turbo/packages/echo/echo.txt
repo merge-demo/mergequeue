@@ -12951,7 +12951,7 @@ epicyclical
 expected
 eucharises
 embathe
-expectedness
+expectedness 1
 eumenidean
 explode
 etherous
