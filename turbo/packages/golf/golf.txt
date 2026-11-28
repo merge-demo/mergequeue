@@ -2550,7 +2550,7 @@ grosses
 gunport 1
 gaiterless
 giveaways
-generalized
+generalized 1
 graywall
 gabbards
 gristy
