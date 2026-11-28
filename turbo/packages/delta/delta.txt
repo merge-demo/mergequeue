@@ -17726,7 +17726,7 @@ dubbin
 disused
 demipauldron
 discriminable
-demonologic 1
+demonologic 2
 durables
 dedifferentiation
 disclike
