@@ -16163,7 +16163,7 @@ drinkery
 dowager
 dits
 demospongiae
-dinnerware
+dinnerware 1
 dispersions
 degas
 droplet
