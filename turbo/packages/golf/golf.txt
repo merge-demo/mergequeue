@@ -9084,7 +9084,7 @@ gunpowdery
 gryllid
 greffotome
 glassworking
-glasser
+glasser 1
 genitive
 gigahertz
 ghast
