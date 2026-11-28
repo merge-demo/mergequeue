@@ -7089,7 +7089,7 @@ episcenia
 empanelled
 envelope
 exurbanites
-extemporaneously
+extemporaneously 1
 endpaper
 envelops
 enduing
