@@ -3126,7 +3126,7 @@ capanna
 cystolithectomy
 caparison
 caparisoned
-caparisoning
+caparisoning 1
 caparisons
 capataz
 capcase
