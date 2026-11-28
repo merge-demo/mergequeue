@@ -8583,7 +8583,7 @@ farfara
 floodmark
 farmplace
 flammigerous
-forswore
+forswore 1
 funje
 familiarism
 flatworks
