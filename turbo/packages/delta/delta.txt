@@ -13704,7 +13704,7 @@ dosimeter
 duecento
 disulphuric
 dialkyl
-danegeld
+danegeld 1
 diatomiferous
 diplasion
 demetrian
