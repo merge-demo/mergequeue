@@ -12746,7 +12746,7 @@ cyclopedic
 chumpish
 convertibleness
 chumps
-chums
+chums 1
 chlorogenic
 complicative
 cruth
