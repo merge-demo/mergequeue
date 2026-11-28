@@ -4085,7 +4085,7 @@ delimes
 duskiness
 dhoby
 decreaseless
-delimitated
+delimitated 1
 disanswerable
 daalder
 disconnecter
