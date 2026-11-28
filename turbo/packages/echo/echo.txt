@@ -13684,7 +13684,7 @@ espec
 emotionlessness
 etiotropic
 eurygnathic
-exterminatrix
+exterminatrix 1
 extraconscious
 edaphosauria
 escarp
