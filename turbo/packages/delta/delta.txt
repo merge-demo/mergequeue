@@ -3999,7 +3999,7 @@ doorsill 1
 dispossessory
 delegates
 delegateship
-dermographism
+dermographism 1
 darst
 digressiveness
 dibasicity
