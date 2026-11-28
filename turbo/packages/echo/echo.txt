@@ -12680,7 +12680,7 @@ etchers
 exalted
 exophthalmia
 embloom
-epibolism
+epibolism 1
 exenterating
 exophthalmus
 euonymus
