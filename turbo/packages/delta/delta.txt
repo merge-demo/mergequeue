@@ -1616,7 +1616,7 @@ drupelet
 daks
 doe
 doweled
-diadrome
+diadrome 1
 dicecup
 disenrol
 decl
