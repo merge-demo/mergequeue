@@ -2239,7 +2239,7 @@ autodecrement
 achromatophile 1
 achromatophilia
 atmospherology
-achromatopia
+achromatopia 1
 apologizes
 achromatopsia
 achromatosis
