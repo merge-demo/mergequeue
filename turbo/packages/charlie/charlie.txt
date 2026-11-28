@@ -14221,7 +14221,7 @@ circumgyrate
 circumgyratory
 camisado
 counterstruggle
-circumincession
+circumincession 1
 circuminsession
 creoles
 canhoop
