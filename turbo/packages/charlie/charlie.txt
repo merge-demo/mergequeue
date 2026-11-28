@@ -18438,7 +18438,7 @@ cattalos
 cellularity
 chokey
 carboxylate
-capillitial
+capillitial 1
 chancellor
 chronographic
 crystalloblastic
