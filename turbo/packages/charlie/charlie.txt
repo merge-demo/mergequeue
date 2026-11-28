@@ -20947,7 +20947,7 @@ compressive
 chasubles
 compressively
 compressometer
-compressors
+compressors 1
 comprest
 collating
 chambering
