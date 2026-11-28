@@ -4627,7 +4627,7 @@ etherealised
 enhydrite
 extratensive
 exteriorisation
-endarchies
+endarchies 1
 elasticizes
 epimerase
 epimerising
