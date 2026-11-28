@@ -10921,7 +10921,7 @@ isfphitvl
 isfsbs
 isftht
 isfxocxjit
-isfy
+isfy 1
 isfzuhusakq
 isfzuvxxv
 isgbb
