@@ -1787,7 +1787,7 @@ fn
 furfuran
 featheriness 1
 frogface
-foreslack
+foreslack 1
 forsterite
 farfet
 farsalah
