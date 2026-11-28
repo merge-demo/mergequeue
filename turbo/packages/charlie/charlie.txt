@@ -6979,7 +6979,7 @@ censitaire
 champion
 curiosity
 caching
-chitchats
+chitchats 1
 cisalpine
 censored
 cytomorphosis
