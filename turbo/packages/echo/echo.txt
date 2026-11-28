@@ -1934,7 +1934,7 @@ eluants
 eyeleted
 echinulate
 estoppal
-eurypterid
+eurypterid 1
 essenical
 ejected
 epitasis
