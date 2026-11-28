@@ -5922,7 +5922,7 @@ densifier
 drew
 distn
 depressurize
-deaconate
+deaconate 1
 disentraced
 defeatee
 depreter
