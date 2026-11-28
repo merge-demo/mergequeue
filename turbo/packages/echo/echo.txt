@@ -4262,7 +4262,7 @@ erythrocytes 1
 equidistantial
 effluxes
 emphasise
-extoller
+extoller 1
 emulsoids
 enteropathogenic
 exfiltration
