@@ -9918,7 +9918,7 @@ feceris
 fortuitism
 forsythias
 ferromagnetism
-firmest
+firmest 1
 furze
 friesian
 fittable
