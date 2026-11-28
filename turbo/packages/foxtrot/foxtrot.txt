@@ -11453,7 +11453,7 @@ fusible
 fluorbenzene
 fideles
 flic
-frayedly
+frayedly 1
 furcule
 flaffer
 furfurylidene
