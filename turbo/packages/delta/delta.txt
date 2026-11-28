@@ -8633,7 +8633,7 @@ diaglyph
 diarist
 dibbuk
 denatured
-diarrhea
+diarrhea 1
 dows
 deathtime
 decarchy
