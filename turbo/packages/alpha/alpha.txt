@@ -13631,7 +13631,7 @@ annunciating
 apophonia
 amasthenic
 atiptoe
-amebic
+amebic 1
 annunciations
 asininity
 ansated
