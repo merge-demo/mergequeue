@@ -12890,7 +12890,7 @@ det
 deceptible
 dissatisfies
 drawls
-dryope
+dryope 1
 disnaturalization
 deviator
 dermaptera
