@@ -12629,7 +12629,7 @@ exogenetic
 enkolpion
 exometritis
 excogitate
-endeavors
+endeavors 1
 emotionless
 echo
 erotized
