@@ -14090,7 +14090,7 @@ evils
 epimerised
 exterminable
 exhaustless
-excubittoria
+excubittoria 1
 easterly
 etyma
 entour
