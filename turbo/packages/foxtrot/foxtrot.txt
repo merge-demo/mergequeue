@@ -10766,7 +10766,7 @@ firedragon
 frutex
 fruticetum
 fecklessness
-foreinclined
+foreinclined 1
 fileting
 familistery
 foredated
