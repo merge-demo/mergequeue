@@ -10754,7 +10754,7 @@ devolve
 dipterocarpous
 dipterocarpus
 delay
-doughtily
+doughtily 1
 divas
 dependent
 dipterus
