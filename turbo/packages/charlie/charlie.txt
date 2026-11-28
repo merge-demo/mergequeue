@@ -8711,7 +8711,7 @@ crenelle
 chapelgoing
 cockpits
 chapelize
-chirpier
+chirpier 1
 cellarmen
 coccolithophorid
 chapellany
