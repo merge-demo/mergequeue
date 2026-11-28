@@ -2343,7 +2343,7 @@ celeomorph
 canalizing
 charmers
 canalla
-canalled
+canalled 1
 canallers
 cruddy
 canals
