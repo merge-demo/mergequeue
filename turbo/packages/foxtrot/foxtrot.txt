@@ -33,7 +33,7 @@ fibrocyst
 fabricates
 fabricator
 flintless
-furies
+furies 1
 farmscape
 forbearant
 flick
