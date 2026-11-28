@@ -2180,7 +2180,7 @@ folkmoot
 falsities
 forane
 felonwort
-freenesses
+freenesses 1
 flatterdock
 fraudproof
 fligger
