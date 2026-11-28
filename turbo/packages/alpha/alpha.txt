@@ -24685,7 +24685,7 @@ adenemphractic
 accordant
 averment
 anopheline
-averments
+averments 1
 admove
 aeneid
 antidiastase
