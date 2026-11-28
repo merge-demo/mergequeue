@@ -3750,7 +3750,7 @@ iexlpcgdnnps
 iexlpfv
 iexmkhwdrop
 iexmqagha
-iexn
+iexn 1
 iexnaqzs 1
 iexnelezqr
 iexo
