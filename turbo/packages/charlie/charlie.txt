@@ -17116,7 +17116,7 @@ campement
 covotary 1
 commonweal
 coemptional
-champ
+champ 1
 coadjutor
 coadjutors
 carduus
