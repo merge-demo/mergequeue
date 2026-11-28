@@ -12615,7 +12615,7 @@ enuretic
 empyemas
 embassage
 exogen
-earldom
+earldom 1
 encratism
 exogenously
 examplar
