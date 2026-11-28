@@ -10389,7 +10389,7 @@ chifferobe
 causalgia
 cosmocratic
 chiffony
-citizenries
+citizenries 1
 chiffonier
 chiffoniers
 cochlear
