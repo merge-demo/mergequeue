@@ -19434,7 +19434,7 @@ crosshaul
 colormaker
 cornicing
 colorman
-cerealose
+cerealose 1
 colors
 cutose
 colossal
