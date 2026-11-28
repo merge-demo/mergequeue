@@ -9696,7 +9696,7 @@ espouser
 espouses
 epicostal
 espousing
-enterorrhexis
+enterorrhexis 1
 esq
 existence
 exurbs
