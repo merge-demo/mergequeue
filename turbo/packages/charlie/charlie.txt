@@ -18283,7 +18283,7 @@ chalana
 convexes
 coffret
 chiming
-coffrets
+coffrets 1
 coffs
 cofighter
 cellmate
