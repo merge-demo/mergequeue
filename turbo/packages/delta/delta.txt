@@ -13987,7 +13987,7 @@ desalter
 distorters
 distorting
 dignity
-dactylioglyphy
+dactylioglyphy 1
 dolomitised
 decasualising
 distinctions 1
