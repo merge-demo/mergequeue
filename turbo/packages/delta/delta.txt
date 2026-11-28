@@ -13546,7 +13546,7 @@ dungeoner
 disperse
 disquisitive
 disrelishable
-drollist
+drollist 1
 dissentment 1
 dissemination
 dantonist
