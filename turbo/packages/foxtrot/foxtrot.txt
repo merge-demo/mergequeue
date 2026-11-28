@@ -347,7 +347,7 @@ forkful
 fixers
 failingness
 facultative
-foresound
+foresound 1
 floss
 frogleg
 flacian
