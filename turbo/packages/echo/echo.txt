@@ -12564,7 +12564,7 @@ explant
 emperish
 epicardium
 exocoelum
-epifascial
+epifascial 1
 empresa
 epistylis
 eustathian
