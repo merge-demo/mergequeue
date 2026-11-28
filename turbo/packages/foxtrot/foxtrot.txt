@@ -2545,7 +2545,7 @@ freeboot
 fem
 functionalistic
 fennish
-foresightful
+foresightful 1
 falerno
 fairyhood
 funduck
