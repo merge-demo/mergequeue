@@ -6883,7 +6883,7 @@ evaporable
 embelif
 eucalyn
 epiblema
-emphasis
+emphasis 1
 epitrchelia
 exudation
 errorless
