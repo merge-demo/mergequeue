@@ -8468,7 +8468,7 @@ gibus
 gomphosis 1
 garancine
 gnosticize
-goatishness
+goatishness 1
 gorily
 grinnie
 galactonic
