@@ -24485,7 +24485,7 @@ advise
 autotropic
 asclepias
 ayless
-argalis
+argalis 1
 adynamic
 araliad
 appeased
