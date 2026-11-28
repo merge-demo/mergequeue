@@ -17341,7 +17341,7 @@ coarticulate
 coarticulation
 claylike
 companionways
-coassert
+coassert 1
 coasserter
 coassessor
 chlorellaceae
