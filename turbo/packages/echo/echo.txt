@@ -10185,7 +10185,7 @@ emancipatress
 encoders
 executives
 ethernet
-enumerations
+enumerations 1
 exudate
 emancipation
 escrowed
