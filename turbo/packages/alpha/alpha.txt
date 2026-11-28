@@ -11687,7 +11687,7 @@ aucanian
 antineutral
 aryepiglottidean
 apocatastatic
-anticarnivorous
+anticarnivorous 1
 acoria
 argyrodite
 alc
