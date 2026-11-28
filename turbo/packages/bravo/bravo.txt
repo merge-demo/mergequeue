@@ -5147,7 +5147,7 @@ boxholder
 bashment
 bazookas 1
 backhatch
-beroidae
+beroidae 1
 befoulment
 biacuminate
 bejazz
