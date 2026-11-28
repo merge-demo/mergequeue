@@ -6007,7 +6007,7 @@ dulcarnon
 dicliny
 drabber
 depuratory
-decimalize
+decimalize 1
 depure
 distortedly
 diagonally
