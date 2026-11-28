@@ -20745,7 +20745,7 @@ avid
 agnotozoic
 arterially
 antarchy
-apothegmatize
+apothegmatize 1
 augmenting
 acquitment
 altitonant
