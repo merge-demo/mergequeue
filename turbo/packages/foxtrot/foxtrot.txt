@@ -521,7 +521,7 @@ fassaite
 feodum
 fishbone
 fibulocalcaneal
-fakirs
+fakirs 1
 falbelo
 flavone
 fixedly
