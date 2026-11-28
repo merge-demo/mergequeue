@@ -5142,7 +5142,7 @@ fructure
 furless
 fastuousness
 foretooth
-floccular
+floccular 1
 fellifluous
 furbelows
 froom
