@@ -13105,7 +13105,7 @@ deprivative
 declivities
 diversifying
 distribute
-doozer
+doozer 1
 directionless
 dispergate
 doraskean
