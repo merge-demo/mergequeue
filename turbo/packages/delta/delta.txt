@@ -3391,7 +3391,7 @@ deflect
 dichotomic
 disinhuming
 deflecting
-deflectionize
+deflectionize 1
 dampnesses
 daphnaceae
 diamante
